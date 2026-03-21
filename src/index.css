@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+body {
+  background: #060810;
+  color: #f0ebe0;
+  font-family: 'Source Serif 4', serif;
+}
+
+.font-display {
+  font-family: 'Playfair Display', serif;
+}
+
+/* Map slow zoom */
+@keyframes slowZoom {
+  from { transform: scale(1); }
+  to   { transform: scale(1.08); }
+}
+.map-zoom {
+  animation: slowZoom 20s ease-in-out infinite alternate;
+  transform-origin: 52% 48%;
+}
+
+/* Location dot pulse */
+@keyframes dotPulse {
+  0%   { box-shadow: 0 0 0 0   rgba(232,197,71,0.7); }
+  70%  { box-shadow: 0 0 0 14px rgba(232,197,71,0);   }
+  100% { box-shadow: 0 0 0 0   rgba(232,197,71,0);   }
+}
+.dot-pulse {
+  animation: dotPulse 2s ease-out infinite;
+}
+
+/* News ticker */
+@keyframes ticker {
+  0%   { transform: translateX(100vw); }
+  100% { transform: translateX(-100%); }
+}
+.ticker-scroll {
+  animation: ticker 40s linear infinite;
+}
+
+/* CRT scanline overlay */
+.scanlines {
+  background: repeating-linear-gradient(
+    0deg,
+    transparent,
+    transparent 2px,
+    rgba(0,0,0,0.04) 2px,
+    rgba(0,0,0,0.04) 4px
+  );
+}

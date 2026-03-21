@@ -1,0 +1,1433 @@
+{
+  "stories": [
+    {
+      "id": "story-0",
+      "headline": "Green Party Wins Historic UK By-Election in Gorton and Denton, Dealing Blow to Labour",
+      "articles": [
+        {
+          "title": "From plumber to Parliament, who is the Green Party's new MP?",
+          "description": "Spencer marked her victory by apologising to customers for potentially having to cancel work due to her Westminster move.",
+          "link": "https://www.bbc.com/news/articles/cwygp3dqenwo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 27 Feb 2026 09:56:03 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Chris Mason: Green Party win will prompt soul searching within Labour and questions for Starmer",
+          "description": "The prime minister is facing questions about whether Labour's focus on Reform  left them exposed among some of their regular supporters.",
+          "link": "https://www.bbc.com/news/articles/cy03ydp27nno?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 27 Feb 2026 06:06:17 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Sir John Curtice: The future of British politics is more uncertain than ever",
+          "description": "Not only did Hannah Spencer become the first Green to win a by-election, she won it well.",
+          "link": "https://www.bbc.com/news/articles/cwygpdjq9jjo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 27 Feb 2026 06:06:26 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Watch: 'Working hard used to get you something', says plumber Hannah Spencer in victory speech",
+          "description": "In her acceptance speech, Hannah Spencer said she was “no different from every single person in this constituency”.",
+          "link": "https://www.bbc.com/news/videos/clyz4ellkd7o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 27 Feb 2026 05:18:55 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "'Family voting' concerns raised by election observers",
+          "description": "The officer responsible for running the by-election said no reports of family voting were made by polling station staff.",
+          "link": "https://www.bbc.com/news/articles/c5yqpr28jrwo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 27 Feb 2026 08:57:31 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Listen to By-Electioncast: Greens Win Gorton and Denton",
+          "description": "Hannah Spencer is the new Green MP for Gorton and Denton.",
+          "link": "https://www.bbc.co.uk/sounds/play/p0n35rr6?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 27 Feb 2026 08:20:00 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Green Party wins UK by-election in blow to Labour, PM Starmer",
+          "description": "Progressive Greens win closely-watched election in one-time Labour stronghold, while right-wing Reform comes second.",
+          "link": "https://www.aljazeera.com/news/2026/2/27/green-party-wins-uk-by-election-in-blow-to-labour-pm-starmer?traffic_source=rss",
+          "pubDate": "Fri, 27 Feb 2026 09:56:09 +0000",
+          "source": "Al Jazeera"
+        }
+      ],
+      "analysis": {
+        "summary": "The Green Party won a historic by-election in Gorton and Denton, a former Labour stronghold, with candidate Hannah Spencer — a plumber by trade — becoming the first Green to win a UK parliamentary by-election. The result is seen as a significant blow to Labour and Prime Minister Keir Starmer, with Reform UK finishing second. The victory has prompted questions about Labour's strategy and the future direction of British politics.",
+        "agreements": [
+          "Hannah Spencer of the Green Party won the Gorton and Denton by-election",
+          "This was the first time the Green Party won a parliamentary by-election in the UK",
+          "The constituency was previously a Labour stronghold",
+          "The result is viewed as a blow to Labour and Prime Minister Keir Starmer",
+          "Reform UK finished second in the by-election",
+          "Hannah Spencer is a plumber by profession"
+        ],
+        "disagreements": [
+          {
+            "topic": "Framing of Labour's strategic failure",
+            "positions": [
+              {
+                "source": "BBC News (Chris Mason analysis)",
+                "position": "Frames the loss as Labour being too focused on countering Reform, leaving them exposed among their regular supporters on the progressive flank"
+              },
+              {
+                "source": "Al Jazeera",
+                "position": "Frames it more broadly as a blow to Labour and Starmer without specifying Labour's strategic miscalculation regarding Reform"
+              }
+            ]
+          },
+          {
+            "topic": "Characterization of the Green Party",
+            "positions": [
+              {
+                "source": "Al Jazeera",
+                "position": "Explicitly labels the Greens as 'progressive' and Reform as 'right-wing', placing the result in an ideological framework"
+              },
+              {
+                "source": "BBC News",
+                "position": "Does not apply ideological labels to the parties, focusing instead on the personal story of the candidate and the electoral implications"
+              }
+            ]
+          },
+          {
+            "topic": "Election integrity concerns",
+            "positions": [
+              {
+                "source": "BBC News (family voting article)",
+                "position": "Reports that election observers raised concerns about 'family voting' at polling stations, though the returning officer said no reports were made by polling station staff"
+              },
+              {
+                "source": "Al Jazeera",
+                "position": "Does not mention any election integrity concerns"
+              }
+            ]
+          }
+        ],
+        "uniqueAngles": [
+          {
+            "source": "BBC News (Spencer profile)",
+            "angle": "Focuses on Spencer's personal story as a working plumber, including the detail that she apologised to customers for potentially having to cancel work due to her move to Westminster"
+          },
+          {
+            "source": "BBC News (Sir John Curtice analysis)",
+            "angle": "Provides expert psephological analysis from Sir John Curtice, framing the result as evidence that the future of British politics is more uncertain than ever and noting she 'won it well,' not narrowly"
+          },
+          {
+            "source": "BBC News (Chris Mason analysis)",
+            "angle": "Focuses specifically on the soul-searching the result will prompt within Labour and questions it raises about whether Labour's focus on countering Reform left their progressive flank exposed"
+          },
+          {
+            "source": "BBC News (family voting)",
+            "angle": "Uniquely reports on election integrity concerns raised by observers about 'family voting,' adding a procedural controversy dimension absent from all other coverage"
+          },
+          {
+            "source": "BBC News (victory speech)",
+            "angle": "Highlights Spencer's populist rhetorical framing in her acceptance speech, quoting her saying 'working hard used to get you something' and that she is 'no different from every single person in this constituency'"
+          },
+          {
+            "source": "Al Jazeera",
+            "angle": "Provides the international perspective, contextualizing the result for a global audience and explicitly framing the ideological positioning of parties as progressive versus right-wing"
+          }
+        ]
+      }
+    },
+    {
+      "id": "story-1",
+      "headline": "Bill and Hillary Clinton Testify Before House Oversight Committee in Epstein Probe",
+      "articles": [
+        {
+          "title": "Hillary Clinton comments after Epstein hearing",
+          "description": "Former US Secretary of State Hillary Clinton spoke to reporters after finishing her testimony on Epstein.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/27/hillary-clinton-comments-after-epstein-hearing?traffic_source=rss",
+          "pubDate": "Fri, 27 Feb 2026 10:10:37 +0000",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": " Bill Clinton faces questions from House Oversight Committee in its Epstein probe",
+          "description": "Former President Bill Clinton was set to take part in a closed door deposition with the House Oversight Committee as part of its probe into Jeffrey Epstein.",
+          "link": "https://abcnews.com/Politics/bill-clinton-faces-questions-house-oversight-committee-epstein/story?id=130539318",
+          "pubDate": "Fri, 27 Feb 2026 05:09:17 -0500",
+          "source": "ABC News"
+        },
+        {
+          "title": "2/26: CBS Evening News",
+          "description": "What happened during Hillary Clinton's House deposition on Epstein; Boy who lost Pokémon binder gets over 15,000 cards from strangers",
+          "link": "https://www.cbsnews.com/video/022626-cbs-evening-news/",
+          "pubDate": "Fri, 27 Feb 2026 04:30:50 -0500",
+          "source": "CBS News"
+        },
+        {
+          "title": "Hillary Clinton Denies Knowing Epstein or His Crimes in a Tense Deposition",
+          "description": "After resisting testifying for months, the former secretary of state entered the session defiant, and grew irate after a Republican leaked a photo from inside the room.",
+          "link": "https://www.nytimes.com/2026/02/26/us/politics/hillary-clinton-epstein-deposition-lauren-boebert.html",
+          "pubDate": "Fri, 27 Feb 2026 02:56:21 +0000",
+          "source": "NY Times"
+        },
+        {
+          "title": "Bill Clinton to face lawmakers in Epstein probe for rare testimony by a former president",
+          "description": "His testimony comes a day after former Secretary of State Hillary Clinton sat for a similar deposition with the House Oversight Committee in Chappaqua, New York.",
+          "link": "https://www.nbcnews.com/politics/congress/bill-clinton-house-epstein-probe-rare-testimony-former-president-rcna260436",
+          "pubDate": "Fri, 27 Feb 2026 10:00:00 GMT",
+          "source": "NBC News"
+        },
+        {
+          "title": "Former Secretary of State Hillary Clinton testifies in Epstein investigation",
+          "description": "Hillary Clinton said she told lawmakers that she did not know Jeffrey Epstein, and never went to his home or his island. The Clintons have repeatedly denied wrongdoing and have not been accused of any crimes related to Epstein. NBC News’ Ryan Nobles reports.",
+          "link": "https://www.nbcnews.com/nightly-news/video/former-secretary-of-state-hillary-clinton-testifies-in-epstein-investigation-258377285709",
+          "pubDate": "Fri, 27 Feb 2026 00:10:52 GMT",
+          "source": "NBC News"
+        }
+      ],
+      "analysis": {
+        "summary": "Former Secretary of State Hillary Clinton and former President Bill Clinton both testified before the House Oversight Committee as part of its probe into Jeffrey Epstein. Hillary Clinton testified first in a closed-door deposition in Chappaqua, New York, denying any knowledge of Epstein or his crimes, while Bill Clinton's testimony followed the next day, marking a rare deposition by a former president.",
+        "agreements": [
+          "Hillary Clinton testified before the House Oversight Committee as part of its Epstein investigation",
+          "Bill Clinton also faced questioning from the House Oversight Committee in the same probe",
+          "Hillary Clinton stated she did not know Jeffrey Epstein",
+          "The Clintons have not been accused of any crimes related to Epstein",
+          "The depositions were closed-door sessions",
+          "Bill Clinton's testimony occurred the day after Hillary Clinton's"
+        ],
+        "disagreements": [
+          {
+            "topic": "Characterization of Hillary Clinton's demeanor during testimony",
+            "positions": [
+              {
+                "source": "NY Times",
+                "position": "Described Clinton as entering the session 'defiant' and growing 'irate' after a Republican leaked a photo from inside the room"
+              },
+              {
+                "source": "NBC News",
+                "position": "Presented Clinton's testimony in a more straightforward, neutral manner without emphasis on confrontational tone"
+              },
+              {
+                "source": "Al Jazeera",
+                "position": "Focused on Clinton's post-hearing comments to reporters without characterizing her demeanor during testimony"
+              }
+            ]
+          },
+          {
+            "topic": "Hillary Clinton's resistance to testifying",
+            "positions": [
+              {
+                "source": "NY Times",
+                "position": "Explicitly noted Clinton had been 'resisting testifying for months' before the deposition"
+              },
+              {
+                "source": "ABC News",
+                "position": "Did not mention any resistance to testifying"
+              },
+              {
+                "source": "NBC News",
+                "position": "Did not mention any resistance to testifying"
+              }
+            ]
+          },
+          {
+            "topic": "Framing emphasis: which Clinton is the primary focus",
+            "positions": [
+              {
+                "source": "ABC News",
+                "position": "Focused primarily on Bill Clinton's questioning by the committee"
+              },
+              {
+                "source": "NY Times",
+                "position": "Focused primarily on Hillary Clinton's deposition and its tense dynamics"
+              },
+              {
+                "source": "NBC News",
+                "position": "Covered both Clintons, with separate reports for each"
+              }
+            ]
+          }
+        ],
+        "uniqueAngles": [
+          {
+            "source": "NY Times",
+            "angle": "Reported that Republican Rep. Lauren Boebert leaked a photo from inside the closed-door deposition room, which caused Clinton to grow irate"
+          },
+          {
+            "source": "NY Times",
+            "angle": "Noted Clinton had resisted testifying for months before ultimately sitting for the deposition"
+          },
+          {
+            "source": "NBC News",
+            "angle": "Emphasized the rarity of a former president giving testimony before a congressional committee"
+          },
+          {
+            "source": "NBC News",
+            "angle": "Specified that Hillary Clinton's deposition took place in Chappaqua, New York, rather than in Washington, D.C."
+          },
+          {
+            "source": "NBC News",
+            "angle": "Explicitly noted that Hillary Clinton said she never went to Epstein's home or his island"
+          },
+          {
+            "source": "Al Jazeera",
+            "angle": "Focused specifically on Clinton's post-hearing remarks to reporters"
+          }
+        ]
+      }
+    },
+    {
+      "id": "story-2",
+      "headline": "Pakistan Declares 'Open War' on Afghanistan, Launches Strikes Including on Kabul",
+      "articles": [
+        {
+          "title": "Pakistan's defense minister says that there is now 'open war' with Afghanistan after latest strikes",
+          "description": "Pakistan's defense minister said that his country ran out of \"patience\" and considers that there is now an \"open war\" with Afghanistan, after both countries launched strikes following an Afghan cross-border attack.",
+          "link": "https://www.npr.org/2026/02/26/g-s1-111783/airstrikes-afghanistan-pakistan-war",
+          "pubDate": "Thu, 26 Feb 2026 21:07:28 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "Pakistan bombs Kabul: Why are Afghanistan and Pakistan fighting?",
+          "description": "Pakistani defence minister says Pakistan is waging 'open war' against Afghanistan.",
+          "link": "https://www.aljazeera.com/news/2026/2/27/pakistan-bombs-kabul-why-are-afghanistan-and-pakistan-fighting?traffic_source=rss",
+          "pubDate": "Fri, 27 Feb 2026 09:22:06 +0000",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Pakistan strikes Kabul, declares ‘open war’ on Afghanistan following clashe",
+          "description": "Pakistan has struck Kabul and declared it’s in an ‘open war’ with Afghanistan. The fighting follows days of hostilities.",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/2/27/pakistan-strikes-kabul-declares-open-war-on-afghanistan-following-clashe?traffic_source=rss",
+          "pubDate": "Fri, 27 Feb 2026 07:21:16 +0000",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "World reacts to eruption of fighting between Pakistan, Afghanistan",
+          "description": "Countries around the world are urging the warring parties to show restraint.",
+          "link": "https://www.aljazeera.com/news/2026/2/27/world-reacts-to-eruption-of-fighting-between-pakistan-afghanistan?traffic_source=rss",
+          "pubDate": "Fri, 27 Feb 2026 06:07:43 +0000",
+          "source": "Al Jazeera"
+        },
+        {
+          "title": "Pakistan says it is in \"open war\" with Afghanistan, launches strikes on Kabul",
+          "description": "Pakistan bombed major cities in Afghanistan on Friday, including the capital Kabul. Islamabad has accused Afghanistan of failing to act against militant groups that carry out attacks in Pakistan.",
+          "link": "https://www.cbsnews.com/news/pakistan-says-it-is-in-open-war-with-afghanistan-launches-strikes-on-kabul/",
+          "pubDate": "Fri, 27 Feb 2026 00:28:26 -0500",
+          "source": "CBS News"
+        },
+        {
+          "title": "Pakistan declares 'open war' with Afghanistan as they trade deadly strikes",
+          "description": "Pakistan declared “open war” on Afghanistan on Friday after the two South Asian neighbors traded overnight attacks, with both sides claiming to inflict heavy damage in a sharp escalation of their long-running dispute.",
+          "link": "https://www.nbcnews.com/world/afghanistan/airstrikes-hit-afghan-capital-kabul-hours-afghanistan-attacks-pakistan-rcna260882",
+          "pubDate": "Fri, 27 Feb 2026 02:25:50 GMT",
+          "source": "NBC News"
+        }
+      ],
+      "analysis": {
+        "summary": "Pakistan declared 'open war' on Afghanistan and launched strikes on Kabul and other major Afghan cities, following an escalation of cross-border hostilities. Pakistan's defense minister said his country had run out of patience, accusing Afghanistan of failing to act against militant groups. Both countries traded attacks, with each side claiming to have inflicted heavy damage.",
+        "agreements": [
+          "Pakistan's defense minister declared the situation an 'open war' with Afghanistan",
+          "Pakistan launched strikes on the Afghan capital Kabul",
+          "Both Pakistan and Afghanistan exchanged military strikes",
+          "The conflict represents a significant escalation in hostilities between the two countries"
+        ],
+        "disagreements": [
+          {
+            "topic": "Framing of who initiated or triggered the escalation",
+            "positions": [
+              {
+                "source": "NPR",
+                "position": "Frames the strikes as following a specific Afghan cross-border attack, emphasizing Pakistan 'ran out of patience'"
+              },
+              {
+                "source": "CBS News",
+                "position": "Frames it around Pakistan's accusation that Afghanistan failed to act against militant groups operating from its territory"
+              },
+              {
+                "source": "NBC News",
+                "position": "Frames it as mutual, with both neighbors 'trading deadly strikes' in a 'sharp escalation of their long-running dispute'"
+              },
+              {
+                "source": "Al Jazeera",
+                "position": "One article describes it as following 'days of hostilities,' suggesting a more extended buildup rather than a single triggering event"
+              }
+            ]
+          },
+          {
+            "topic": "Scope of Pakistani strikes",
+            "positions": [
+              {
+                "source": "CBS News",
+                "position": "Reports Pakistan bombed 'major cities' in Afghanistan, including Kabul, implying multiple urban targets"
+              },
+              {
+                "source": "NPR",
+                "position": "Describes both countries launching strikes without specifying scope beyond the general conflict"
+              },
+              {
+                "source": "Al Jazeera",
+                "position": "Focuses specifically on the Kabul strikes"
+              }
+            ]
+          }
+        ],
+        "uniqueAngles": [
+          {
+            "source": "NPR",
+            "angle": "Highlights Pakistan's stated rationale of running out of 'patience' as a key framing device"
+          },
+          {
+            "source": "CBS News",
+            "angle": "Uniquely reports that Pakistan bombed 'major cities' (plural) in Afghanistan, suggesting a broader campaign beyond Kabul"
+          },
+          {
+            "source": "NBC News",
+            "angle": "Contextualizes the conflict as part of a 'long-running dispute' and notes both sides claimed to inflict heavy damage, emphasizing the mutual nature of the exchange"
+          },
+          {
+            "source": "Al Jazeera",
+            "angle": "Provides a dedicated piece on international reactions, noting countries around the world are urging both parties to show restraint"
+          }
+        ]
+      }
+    },
+    {
+      "id": "story-3",
+      "headline": "Pentagon Shoots Down U.S. Customs and Border Protection Drone Near Texas Border",
+      "articles": [
+        {
+          "title": "US military used laser to take down Border Protection drone, lawmakers say",
+          "description": "The U.S. military used a laser to shoot down a Customs and Border Protection drone, members of Congress said Thursday, and the Federal Aviation Administration responded by closing more airspace near El Paso, Texas.",
+          "link": "https://www.npr.org/2026/02/27/g-s1-111794/lawmakers-say-us-military-used-laser-to-take-down-border-protection-drone",
+          "pubDate": "Fri, 27 Feb 2026 01:08:28 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "FAA restricts Texas airspace after Pentagon reportedly strikes down Customs and Border Protection drone",
+          "description": "Pentagon reportedly shot down U.S. Customs and Border Protection drone near Texas-Mexico border, prompting criticism and flight restrictions.",
+          "link": "https://www.foxnews.com/politics/faa-restricts-texas-airspace-after-pentagon-system-shoots-down-customs-border-protection-drone",
+          "pubDate": "Fri, 27 Feb 2026 02:05:06 -0500",
+          "source": "Fox News"
+        },
+        {
+          "title": "Pentagon shoots down Customs and Border Protection drone in Texas, officials say",
+          "description": "The Defense Department on Wednesday shot down a U.S. Customs and Border Protection drone in southwest Texas, federal officials confirmed to CBS News.",
+          "link": "https://www.cbsnews.com/news/pentagon-shoots-down-customs-and-border-protection-drone-texas/",
+          "pubDate": "Fri, 27 Feb 2026 00:07:00 -0500",
+          "source": "CBS News"
+        },
+        {
+          "title": "Pentagon Fires Another Laser at Drone, Prompting New Air Closure",
+          "description": "After the downing of a Customs and Border Protection drone, the F.A.A. closed the airspace above Fort Hancock, Texas.",
+          "link": "https://www.nytimes.com/2026/02/26/us/drone-faa-dhs-el-paso-airspace.html",
+          "pubDate": "Fri, 27 Feb 2026 05:25:59 +0000",
+          "source": "NY Times"
+        },
+        {
+          "title": "U.S. military reportedly used a laser to shoot down a Border Protection drone",
+          "description": "The U.S. military used a laser to shoot down a Customs and Border Protection drone, members of Congress said Thursday, and the Federal Aviation Administration responded by closing more airspace near El Paso, Texas.",
+          "link": "https://www.nbcnews.com/news/military/us-military-used-laser-take-border-protection-drone-lawmakers-say-rcna260887",
+          "pubDate": "Fri, 27 Feb 2026 03:47:45 GMT",
+          "source": "NBC News"
+        }
+      ],
+      "analysis": {
+        "summary": "The U.S. military shot down a Customs and Border Protection drone in southwest Texas, reportedly using a laser weapon. The incident prompted the FAA to close or restrict airspace near El Paso, Texas, and drew criticism from members of Congress.",
+        "agreements": [
+          "The Pentagon/U.S. military shot down a U.S. Customs and Border Protection drone in Texas near the Mexican border",
+          "The FAA responded by closing or restricting airspace in the area near El Paso, Texas",
+          "The incident prompted criticism and concern from lawmakers"
+        ],
+        "disagreements": [
+          {
+            "topic": "Whether a laser was used to shoot down the drone",
+            "positions": [
+              {
+                "source": "NPR",
+                "position": "Explicitly states a laser was used, citing members of Congress"
+              },
+              {
+                "source": "NBC News",
+                "position": "Explicitly states a laser was used, citing members of Congress"
+              },
+              {
+                "source": "NY Times",
+                "position": "References a laser being fired at the drone in its headline"
+              },
+              {
+                "source": "Fox News",
+                "position": "Does not specify the weapon used, only says Pentagon 'strikes down' or 'shoots down' the drone"
+              },
+              {
+                "source": "CBS News",
+                "position": "Does not specify the weapon used, only says the Defense Department 'shot down' the drone"
+              }
+            ]
+          },
+          {
+            "topic": "When the incident occurred",
+            "positions": [
+              {
+                "source": "CBS News",
+                "position": "Reports the drone was shot down on Wednesday"
+              },
+              {
+                "source": "NPR",
+                "position": "Reports Congressional statements on Thursday but does not specify the day of the shootdown"
+              },
+              {
+                "source": "NBC News",
+                "position": "Reports Congressional statements on Thursday but does not specify the day of the shootdown"
+              }
+            ]
+          },
+          {
+            "topic": "Attribution and sourcing",
+            "positions": [
+              {
+                "source": "NPR",
+                "position": "Attributes the laser detail to members of Congress"
+              },
+              {
+                "source": "NBC News",
+                "position": "Attributes the laser detail to members of Congress"
+              },
+              {
+                "source": "CBS News",
+                "position": "Attributes confirmation to federal officials"
+              },
+              {
+                "source": "Fox News",
+                "position": "Uses the qualifier 'reportedly' for the shootdown"
+              }
+            ]
+          }
+        ],
+        "uniqueAngles": [
+          {
+            "source": "NY Times",
+            "angle": "Headline says 'Fires Another Laser,' implying this was not the first such incident, and specifies the airspace closure was above Fort Hancock, Texas"
+          },
+          {
+            "source": "Fox News",
+            "angle": "Emphasizes the criticism and political fallout alongside the flight restrictions in its framing"
+          },
+          {
+            "source": "CBS News",
+            "angle": "Specifies the location as 'southwest Texas' and identifies the day as Wednesday with confirmation from federal officials"
+          }
+        ]
+      }
+    },
+    {
+      "id": "story-4",
+      "headline": "Columbia University Student Detained by ICE, Released After NYC Mayor Mamdani Meets Trump",
+      "articles": [
+        {
+          "title": "Columbia student released after being detained by DHS agents",
+          "description": "The Department of Homeland Security said ICE agents detained Elmina \"Ellie\" Aghayeva at Columbia University Thursday, saying her student visa was revoked in 2016. She was later released.",
+          "link": "https://www.cbsnews.com/news/columbia-university-student-detained-by-federal-agents/",
+          "pubDate": "Thu, 26 Feb 2026 23:26:50 -0500",
+          "source": "CBS News"
+        },
+        {
+          "title": "Columbia Student Is Released From ICE After Mamdani-Trump Meeting",
+          "description": "Federal officials had misrepresented themselves to gain access, according to the university. Mayor Zohran Mamdani said President Trump had told him the student would be let go.",
+          "link": "https://www.nytimes.com/2026/02/26/nyregion/columbia-university-ice-student.html",
+          "pubDate": "Fri, 27 Feb 2026 01:30:08 +0000",
+          "source": "NY Times"
+        },
+        {
+          "title": "Mamdani Meets Again With Trump, Emerging With Two Unexpected Victories",
+          "description": "Mayor Zohran Mamdani said he and President Trump discussed building housing in New York City, and he appeared to secure the release of a Columbia student detained by ICE on Thursday.",
+          "link": "https://www.nytimes.com/2026/02/26/nyregion/mamdani-trump-meeting.html",
+          "pubDate": "Fri, 27 Feb 2026 02:53:52 +0000",
+          "source": "NY Times"
+        },
+        {
+          "title": "Mamdani’s Gift for Trump: A Front Page Celebrating the President",
+          "description": "What do you bring the president when you visit the White House? Mayor Zohran Mamdani made a choice that seemed to please Donald Trump.",
+          "link": "https://www.nytimes.com/2026/02/26/nyregion/mamdani-trump-photo-newspapers.html",
+          "pubDate": "Fri, 27 Feb 2026 01:26:15 +0000",
+          "source": "NY Times"
+        },
+        {
+          "title": "Columbia University student released from ICE detention with help of Mamdani ",
+          "description": "A Columbia University student was released from ICE detention after her arrest, which led to massive protests at the school. NBC News’ Monica Alba explains how New York City Mayor Mamdani aided in her release.",
+          "link": "https://www.nbcnews.com/video/columbia-university-student-released-from-ice-detention-with-help-of-mamdani-258376773992",
+          "pubDate": "Thu, 26 Feb 2026 23:47:58 GMT",
+          "source": "NBC News"
+        }
+      ],
+      "analysis": {
+        "summary": "A Columbia University student, Elmina \"Ellie\" Aghayeva, was detained by ICE agents on campus. She was later released after New York City Mayor Zohran Mamdani met with President Trump at the White House and reportedly secured her release. The incident sparked massive protests at Columbia.",
+        "agreements": [
+          "A Columbia University student was detained by ICE/DHS agents on campus",
+          "The student was subsequently released from ICE detention",
+          "NYC Mayor Zohran Mamdani played a role in securing the student's release through a meeting with President Trump"
+        ],
+        "disagreements": [
+          {
+            "topic": "Justification and legality of ICE's actions on campus",
+            "positions": [
+              {
+                "source": "CBS News",
+                "position": "Frames the detention around DHS's stated justification that the student's visa was revoked in 2016, lending some procedural legitimacy to the action"
+              },
+              {
+                "source": "NY Times",
+                "position": "Reports that federal officials misrepresented themselves to gain access to the university, emphasizing potentially improper conduct by ICE agents"
+              },
+              {
+                "source": "NBC News",
+                "position": "Does not address the question of how ICE gained campus access or the visa revocation justification"
+              }
+            ]
+          },
+          {
+            "topic": "Framing of Mamdani's role and the broader political context",
+            "positions": [
+              {
+                "source": "NY Times",
+                "position": "Frames the release as one of 'two unexpected victories' from Mamdani's meeting with Trump, also covering housing discussions and Mamdani's gift of a flattering front page to Trump, providing broader political context"
+              },
+              {
+                "source": "NBC News",
+                "position": "Focuses on Mamdani 'aiding' in the release, framing him as an intermediary"
+              },
+              {
+                "source": "CBS News",
+                "position": "Focuses primarily on the detention and release without emphasizing Mamdani's political maneuvering"
+              }
+            ]
+          }
+        ],
+        "uniqueAngles": [
+          {
+            "source": "CBS News",
+            "angle": "Uniquely identifies the student by name as Elmina 'Ellie' Aghayeva and reports the specific DHS claim that her student visa was revoked in 2016"
+          },
+          {
+            "source": "NY Times",
+            "angle": "Reports that federal officials misrepresented themselves to gain access to Columbia's campus, citing the university as a source"
+          },
+          {
+            "source": "NY Times",
+            "angle": "Covers Mamdani's diplomatic gesture of bringing Trump a newspaper front page celebrating the president, providing insight into the political dynamics of the meeting"
+          },
+          {
+            "source": "NY Times",
+            "angle": "Reports that the Mamdani-Trump meeting also covered housing construction in New York City, not just the student detention"
+          },
+          {
+            "source": "NBC News",
+            "angle": "Uniquely highlights that the detention led to 'massive protests' at Columbia University"
+          }
+        ]
+      }
+    },
+    {
+      "id": "story-5",
+      "headline": "Fox News Settles Defamation Lawsuit With Dominion Voting Systems for $787 Million",
+      "articles": [
+        {
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "description": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "pubDate": "Wed, 19 Apr 2023 12:44:51 GMT",
+          "source": "CNN"
+        },
+        {
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "description": "",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "pubDate": "",
+          "source": "CNN"
+        },
+        {
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "description": "• Fox-Dominion trial delay 'is not unusual,' judge says\n• Fox News' defamation battle isn't stopping Trump's election lies",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "pubDate": "Mon, 17 Apr 2023 16:01:11 GMT",
+          "source": "CNN"
+        },
+        {
+          "title": "Judge in Fox News-Dominion defamation trial: 'The parties have resolved their case'",
+          "description": "The judge just announced in court that a settlement has been reached in the historic defamation case between Fox News and Dominion Voting Systems.",
+          "link": "https://www.cnn.com/2023/04/18/media/fox-dominion-settlement/index.html",
+          "pubDate": "Wed, 19 Apr 2023 08:28:17 GMT",
+          "source": "CNN"
+        },
+        {
+          "title": "'Difficult to say with a straight face': Tapper reacts to Fox News' statement on settlement",
+          "description": "A settlement has been reached in Dominion Voting Systems' defamation case against Fox News, the judge for the case announced. The network will pay more than $787 million to Dominion, a lawyer for the company said.",
+          "link": "https://www.cnn.com/videos/politics/2023/04/18/jake-tapper-dominion-lawsuit-settlement-fox-news-statement-lead-vpx.cnn",
+          "pubDate": "Tue, 18 Apr 2023 21:17:44 GMT",
+          "source": "CNN"
+        }
+      ],
+      "analysis": {
+        "summary": "Fox News settled its defamation lawsuit with Dominion Voting Systems for $787 million, with the judge announcing the resolution in court. Fox News acknowledged that some on-air claims about Dominion were false, while Dominion still has pending lawsuits against other election deniers such as Rudy Giuliani and Sidney Powell.",
+        "agreements": [
+          "Fox News and Dominion Voting Systems reached a settlement in the defamation case",
+          "The settlement amount was over $787 million",
+          "The judge announced the resolution of the case in court",
+          "Fox News issued a statement acknowledging some on-air claims about Dominion were false",
+          "Dominion had identified specific Fox broadcasts and tweets as defamatory"
+        ],
+        "disagreements": [],
+        "uniqueAngles": [
+          {
+            "source": "CNN (Tapper reaction piece)",
+            "angle": "Jake Tapper editorially reacted to Fox News' post-settlement statement, suggesting it was 'difficult to say with a straight face,' indicating CNN framed Fox's acknowledgment as insufficient or disingenuous"
+          },
+          {
+            "source": "CNN (Pending lawsuits piece)",
+            "angle": "Highlighted that Dominion still has pending defamation lawsuits against other figures including Rudy Giuliani and Sidney Powell, placing the Fox settlement in a broader legal context"
+          },
+          {
+            "source": "CNN (20 broadcasts piece)",
+            "angle": "Provided specific detail on the 20 Fox broadcasts and tweets that Dominion identified as defamatory, and noted that Fox's defamation battle was not stopping Trump's election lies"
+          },
+          {
+            "source": "CNN (Trial delay piece)",
+            "angle": "Noted the judge's comment that the trial delay preceding the settlement 'is not unusual,' providing procedural context"
+          }
+        ]
+      }
+    },
+    {
+      "id": "story-6",
+      "headline": "Netflix Drops Bid for Warner Bros. Discovery, Clearing Path for Paramount Takeover",
+      "articles": [
+        {
+          "title": "Paramount set for $111bn Warner Bros takeover after Netflix drops bid",
+          "description": "Netflix's decision to back down from the bidding war clears the path for Paramount to win the takeover battle.",
+          "link": "https://www.bbc.com/news/articles/c5y6p5ypgmzo?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 27 Feb 2026 04:32:38 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": " Netflix declines to raise its offer to buy Warner Bros.",
+          "description": "Netflix is declining to raise its offer to buy Warner Bros",
+          "link": "https://abcnews.com/Business/wireStory/netflix-declines-raise-offer-buy-warner-deal-longer-130542058",
+          "pubDate": "Thu, 26 Feb 2026 18:30:38 -0500",
+          "source": "ABC News"
+        },
+        {
+          "title": "Netflix drops bid for Warner Bros. Discovery, paving way for Paramount Skydance",
+          "description": "Streaming giant Netflix declines to match Paramount Skydance's $31 per share offer for Warner Bros. Discovery.",
+          "link": "https://www.cbsnews.com/news/netflix-warner-paramount-skydance-deal/",
+          "pubDate": "Fri, 27 Feb 2026 03:46:00 -0500",
+          "source": "CBS News"
+        },
+        {
+          "title": "Netflix Backs Out of Bid for Warner Bros., Paving Way for Paramount Takeover",
+          "description": "The move was a stunning development in the long-running corporate battle for the storied media giant.",
+          "link": "https://www.nytimes.com/2026/02/26/business/warner-bros-discovery-paramount-deal-netflix.html",
+          "pubDate": "Fri, 27 Feb 2026 03:36:37 +0000",
+          "source": "NY Times"
+        }
+      ],
+      "analysis": {
+        "summary": "Netflix has withdrawn from the bidding process to acquire Warner Bros. Discovery, clearing the way for a Paramount-led takeover of the media company. The move ends a competitive bidding war for the storied entertainment giant.",
+        "agreements": [
+          "Netflix has decided not to pursue its bid for Warner Bros. Discovery",
+          "Netflix's withdrawal clears the path for a Paramount-led acquisition of Warner Bros. Discovery",
+          "There was a competitive bidding process involving multiple parties for Warner Bros. Discovery"
+        ],
+        "disagreements": [
+          {
+            "topic": "Characterization of Netflix's decision",
+            "positions": [
+              {
+                "source": "BBC News",
+                "position": "Frames Netflix as 'backing down from a bidding war,' implying defeat"
+              },
+              {
+                "source": "ABC News",
+                "position": "Frames it neutrally as Netflix 'declining to raise its offer,' suggesting a strategic choice"
+              },
+              {
+                "source": "CBS News",
+                "position": "Frames it as Netflix 'declining to match' a specific competing offer of $31 per share"
+              },
+              {
+                "source": "NY Times",
+                "position": "Frames it as Netflix 'backing out,' calling it a 'stunning development'"
+              }
+            ]
+          },
+          {
+            "topic": "Identity of the acquiring entity",
+            "positions": [
+              {
+                "source": "BBC News",
+                "position": "Identifies the acquirer simply as 'Paramount'"
+              },
+              {
+                "source": "CBS News",
+                "position": "Identifies the acquirer as 'Paramount Skydance,' specifying the Skydance partnership"
+              },
+              {
+                "source": "ABC News",
+                "position": "Does not specify the competing bidder in the available content"
+              },
+              {
+                "source": "NY Times",
+                "position": "References a 'Paramount Takeover' without mentioning Skydance"
+              }
+            ]
+          }
+        ],
+        "uniqueAngles": [
+          {
+            "source": "BBC News",
+            "angle": "Provides a specific deal valuation of $111 billion for the Warner Bros. takeover"
+          },
+          {
+            "source": "CBS News",
+            "angle": "Specifies the competing offer price of $31 per share from Paramount Skydance that Netflix declined to match"
+          },
+          {
+            "source": "NY Times",
+            "angle": "Emphasizes the historical and dramatic significance, calling it a 'stunning development' in a 'long-running corporate battle' for a 'storied media giant'"
+          },
+          {
+            "source": "ABC News",
+            "angle": "Focuses narrowly on Netflix's decision not to raise its offer, implying Netflix had a prior lower bid on the table"
+          }
+        ]
+      }
+    },
+    {
+      "id": "story-7",
+      "headline": "Cuban Forces Kill Exiles in Speedboat Shootout Off Cuban Coast",
+      "articles": [
+        {
+          "title": "Cuba vows to fight ‘terrorist aggression’ after attack from US-registered boat",
+          "description": "Cuban president says country will ‘defend itself with determination’ after deadly coastal assault by exiles\n\nWhat we know so far about the deadly boat shooting off Cuba’s coast\n\nCuba has vowed to defend itself against any “terrorist and mercenary aggression”, a day after border guards said they had killed four exiles on a Florida-registered speedboat that opened fire on a patrol.\nCuba’s president, Miguel Díaz-Canel, wrote on X that the Caribbean country would “defend itself with determination an",
+          "link": "https://www.theguardian.com/world/2026/feb/26/what-to-know-cuba-boat-attack",
+          "pubDate": "Thu, 26 Feb 2026 19:15:22 GMT",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Cuba says it killed heavily armed exiles who attacked from US-registered speedboat",
+          "description": "Rare clash off island’s coast took place amid US oil embargo and heightened tensions between two countries\nCuban forces killed four exiles and wounded six others who sailed into its waters onboard a Florida-registered speedboat and opened fire on a Cuban patrol, the country’s government said, at a time of heightened tensions with the US.\nCuba’s interior ministry said the group comprised anti-government Cubans, some of whom were previously wanted for plotting attacks. They came from the US dresse",
+          "link": "https://www.theguardian.com/world/2026/feb/25/cuba-says-border-guards-killed-four-gunmen-on-us-registered-speedboat",
+          "pubDate": "Thu, 26 Feb 2026 13:12:15 GMT",
+          "source": "The Guardian"
+        },
+        {
+          "title": "After a Speedboat Shootout in Cuba, There are More Questions Than Answers",
+          "description": "The Cuban government’s account of a supposed armed raid into its territory was called into question after one of the men identified as being on the boat turned up in Miami.",
+          "link": "https://www.nytimes.com/2026/02/26/world/americas/cuba-gunfight-boat-miami.html",
+          "pubDate": "Thu, 26 Feb 2026 23:29:06 +0000",
+          "source": "NY Times"
+        },
+        {
+          "title": "American citizen among victims in Cuba boat shooting, U.S. officials say",
+          "description": "According to two U.S. officials, at least one U.S. citizen was killed and another injured after a 24-foot boat allegedly exchanged gunfire with Cuban border patrol. NBC News’ Jose Diaz-Balart reports.",
+          "link": "https://www.nbcnews.com/nightly-news/video/american-citizen-among-victims-in-cuba-boat-shooting-u-s-officials-say-258379845901",
+          "pubDate": "Fri, 27 Feb 2026 00:12:14 GMT",
+          "source": "NBC News"
+        }
+      ],
+      "analysis": {
+        "summary": "Cuban border forces reportedly killed multiple people aboard a Florida-registered speedboat in a shootout off Cuba's coast in late February 2026, amid heightened US-Cuba tensions including a US oil embargo. The Cuban government characterized the incident as a terrorist attack by armed exiles, while questions emerged about the accuracy of Cuba's account and the involvement of US citizens.",
+        "agreements": [
+          "A deadly shooting incident occurred off Cuba's coast involving a Florida-registered speedboat and Cuban border forces",
+          "Multiple people were killed and others were wounded in the confrontation",
+          "The incident occurred during a period of heightened tensions between the US and Cuba"
+        ],
+        "disagreements": [
+          {
+            "topic": "Credibility of Cuba's account of the incident",
+            "positions": [
+              {
+                "source": "The Guardian",
+                "position": "Reports Cuba's government narrative largely at face value: armed exiles dressed in combat gear opened fire on a Cuban patrol, and border guards killed four and wounded six"
+              },
+              {
+                "source": "NY Times",
+                "position": "Explicitly questions Cuba's account, noting that one of the men Cuba identified as being on the boat turned up alive in Miami, suggesting the government's version has significant factual problems"
+              }
+            ]
+          },
+          {
+            "topic": "Characterization of the incident",
+            "positions": [
+              {
+                "source": "The Guardian",
+                "position": "Frames the incident primarily through Cuba's lens as a 'terrorist and mercenary aggression' and an armed attack by anti-government exiles who were previously wanted for plotting attacks"
+              },
+              {
+                "source": "NBC News",
+                "position": "Frames the incident around the American victims, describing the boat as having 'allegedly exchanged gunfire' with Cuban border patrol, using more cautious language about what occurred"
+              },
+              {
+                "source": "NY Times",
+                "position": "Frames the incident as raising 'more questions than answers,' emphasizing doubts about Cuba's narrative"
+              }
+            ]
+          },
+          {
+            "topic": "Identity and nationality of victims",
+            "positions": [
+              {
+                "source": "The Guardian",
+                "position": "Describes the people on the boat as anti-government Cuban exiles, some previously wanted for plotting attacks"
+              },
+              {
+                "source": "NBC News",
+                "position": "Reports that at least one US citizen was killed and another injured, based on US officials' confirmation"
+              }
+            ]
+          }
+        ],
+        "uniqueAngles": [
+          {
+            "source": "NY Times",
+            "angle": "Reports that one of the men Cuba identified as being on the boat actually turned up in Miami, directly undermining Cuba's official account of events"
+          },
+          {
+            "source": "NBC News",
+            "angle": "Provides confirmation from US officials that at least one American citizen was among the dead and another was injured, introducing a US diplomatic dimension"
+          },
+          {
+            "source": "The Guardian",
+            "angle": "Provides context about Cuba's political response, including President Díaz-Canel's statements on X vowing to defend the country, and details about the exiles being dressed in combat gear and previously wanted by Cuban authorities"
+          },
+          {
+            "source": "The Guardian",
+            "angle": "Contextualizes the incident within the broader US oil embargo and deteriorating US-Cuba relations"
+          }
+        ]
+      }
+    },
+    {
+      "id": "story-8",
+      "headline": "U.S.-Iran Tensions Escalate as Trump Weighs Military Options and Nuclear Deal Prospects Dim",
+      "articles": [
+        {
+          "title": " Top Mideast commander briefs Trump on military options on Iran: Exclusive",
+          "description": "Navy Adm. Brad Cooper, the head of U.S. Central Command, briefed President Donald Trump on Thursday on potential military options in Iran, a source said.",
+          "link": "https://abcnews.com/Politics/top-mideast-commander-briefs-trump-military-options-iran/story?id=130544628",
+          "pubDate": "Thu, 26 Feb 2026 19:15:57 -0500",
+          "source": "ABC News"
+        },
+        {
+          "title": "2/26: The Takeout: The Iran Question",
+          "description": "In a special edition of \"The Takeout,\" Major Garrett speaks with experts about escalating tensions over Iran's nuclear program and the potential political consequences of U.S. intervention as President Trump considers strikes if no deal is reached.",
+          "link": "https://www.cbsnews.com/video/022626-the-takeout/",
+          "pubDate": "Fri, 27 Feb 2026 03:51:50 -0500",
+          "source": "CBS News"
+        },
+        {
+          "title": "Can the U.S. and Iran reach a nuclear deal to avert a war?",
+          "description": "Trump says he won't let Iran to build a nuclear weapon, and Iran says it doesn't intend to, but as talks resume, experts see war as more likely than a deal.",
+          "link": "https://www.cbsnews.com/news/trump-us-iran-nuclear-deal-to-avert-war-prospects-for-geneva-talks/",
+          "pubDate": "Thu, 26 Feb 2026 19:52:16 -0500",
+          "source": "CBS News"
+        },
+        {
+          "title": "U.S. allows some embassy staff to leave Israel, citing safety risks amid Iran threats",
+          "description": "The U.S. said Friday it would permit non-emergency government personnel and family members to leave Israel over safety risks, amid growing concerns about the risk of a military conflict with Iran",
+          "link": "https://www.nbcnews.com/world/iran/us-allows-embassy-staff-leave-israel-citing-safety-risks-iran-threats-rcna260929",
+          "pubDate": "Fri, 27 Feb 2026 10:13:56 GMT",
+          "source": "NBC News"
+        }
+      ],
+      "analysis": {
+        "summary": "U.S.-Iran tensions are escalating as President Trump receives military briefings on options against Iran, experts weigh the prospects of a nuclear deal, and the U.S. takes precautionary steps by allowing some embassy staff to leave Israel amid growing conflict concerns.",
+        "agreements": [
+          "President Trump is actively considering military options regarding Iran",
+          "The possibility of a U.S.-Iran military conflict is a growing concern",
+          "The prospect of reaching a nuclear deal with Iran is uncertain and appears difficult"
+        ],
+        "disagreements": [
+          {
+            "topic": "Likelihood of war versus diplomacy",
+            "positions": [
+              {
+                "source": "CBS News (nuclear deal article)",
+                "position": "Experts see war as more likely than a deal, despite both sides indicating openness to talks resuming in Geneva"
+              },
+              {
+                "source": "ABC News",
+                "position": "Focuses on active military planning, reporting that the top Mideast commander briefed Trump on potential military options, without emphasizing diplomatic prospects"
+              },
+              {
+                "source": "CBS News (The Takeout)",
+                "position": "Frames the situation as an open question, exploring both escalating tensions and the political consequences of potential U.S. intervention"
+              }
+            ]
+          },
+          {
+            "topic": "Iran's stated nuclear intentions",
+            "positions": [
+              {
+                "source": "CBS News (nuclear deal article)",
+                "position": "Reports that Iran says it does not intend to build a nuclear weapon, while Trump says he won't allow Iran to build one"
+              },
+              {
+                "source": "ABC News",
+                "position": "Does not mention Iran's stated position on its nuclear intentions"
+              },
+              {
+                "source": "NBC News",
+                "position": "Does not address Iran's nuclear claims, focusing instead on security precautions"
+              }
+            ]
+          }
+        ],
+        "uniqueAngles": [
+          {
+            "source": "ABC News",
+            "angle": "Exclusively reports that Navy Adm. Brad Cooper, head of U.S. Central Command, personally briefed Trump on Thursday on potential military options against Iran"
+          },
+          {
+            "source": "NBC News",
+            "angle": "Uniquely reports that the U.S. is permitting non-emergency government personnel and family members to leave Israel over safety risks, signaling concrete precautionary steps tied to Iran conflict concerns"
+          },
+          {
+            "source": "CBS News (nuclear deal article)",
+            "angle": "Provides diplomatic context by noting that talks are resuming and that experts see war as more likely than a deal, while also presenting Iran's claim that it does not intend to build a nuclear weapon"
+          },
+          {
+            "source": "CBS News (The Takeout)",
+            "angle": "Focuses on the domestic political consequences of potential U.S. intervention in Iran, framing it as a broader political question"
+          }
+        ]
+      }
+    },
+    {
+      "id": "story-9",
+      "headline": "Pentagon and Anthropic Locked in Standoff Over Military Use of AI and Safety Guardrails",
+      "articles": [
+        {
+          "title": "Deadline looms as Anthropic rejects Pentagon demands it remove AI safeguards",
+          "description": "The Defense Department has been feuding with Anthropic over military uses of its artificial intelligence tools. At stake are hundreds of millions of dollars in contracts and access to some of the most advanced AI on the planet.",
+          "link": "https://www.npr.org/2026/02/26/nx-s1-5727847/anthropic-defense-hegseth-ai-weapons-surveillance",
+          "pubDate": "Thu, 26 Feb 2026 21:19:45 -0500",
+          "source": "NPR"
+        },
+        {
+          "title": "Pentagon official lashes out at Anthropic as talks break down",
+          "description": "The Pentagon's top technology official told CBS News the military has offered compromises to Anthropic, amid a feud over whether its powerful AI technology will be restricted — but Anthropic called the offer inadequate.",
+          "link": "https://www.cbsnews.com/news/pentagon-anthropic-feud-ai-military-says-it-made-compromises/",
+          "pubDate": "Thu, 26 Feb 2026 23:36:00 -0500",
+          "source": "CBS News"
+        },
+        {
+          "title": "Pentagon locked in standoff with Anthropic over AI guardrails",
+          "description": "With less than 24 hours left, Anthropic and the Pentagon are locked in a standoff over access to the company's powerful artificial intelligence. Jo Ling Kent reports.",
+          "link": "https://www.cbsnews.com/video/pentagon-locked-in-standoff-with-anthropic-over-ai-guardrails/",
+          "pubDate": "Thu, 26 Feb 2026 19:53:00 -0500",
+          "source": "CBS News"
+        }
+      ],
+      "analysis": {
+        "summary": "The Pentagon and AI company Anthropic are engaged in a high-stakes standoff over military use of Anthropic's AI technology, with the Defense Department pushing the company to remove safety guardrails and Anthropic resisting those demands. A deadline is looming, with hundreds of millions of dollars in contracts and access to advanced AI at stake.",
+        "agreements": [
+          "The Pentagon and Anthropic are in a significant dispute over military use of Anthropic's AI technology",
+          "The conflict centers on AI safety guardrails and whether they should be removed or relaxed for military applications",
+          "A deadline is imminent, creating urgency around the negotiations",
+          "The standoff involves high financial stakes, potentially hundreds of millions of dollars in contracts"
+        ],
+        "disagreements": [
+          {
+            "topic": "Framing of who is at fault in the breakdown of talks",
+            "positions": [
+              {
+                "source": "NPR",
+                "position": "Frames the Pentagon as making demands that Anthropic is rejecting, with language suggesting the military is pressuring the company to remove safeguards"
+              },
+              {
+                "source": "CBS News",
+                "position": "Highlights the Pentagon's perspective that it has offered compromises, while also noting Anthropic called those offers inadequate — presenting a more balanced 'both sides' framing"
+              }
+            ]
+          },
+          {
+            "topic": "Characterization of the Pentagon's negotiating posture",
+            "positions": [
+              {
+                "source": "NPR",
+                "position": "Describes the Pentagon's position as 'demands' to remove AI safeguards"
+              },
+              {
+                "source": "CBS News",
+                "position": "Reports the Pentagon's top technology official says the military has offered compromises, but also notes the official 'lashed out' at Anthropic after talks broke down"
+              }
+            ]
+          }
+        ],
+        "uniqueAngles": [
+          {
+            "source": "NPR",
+            "angle": "Specifically references Defense Secretary Hegseth's involvement and mentions broader military applications including weapons and surveillance"
+          },
+          {
+            "source": "CBS News",
+            "angle": "Obtained direct commentary from the Pentagon's top technology official, who characterized the military's position as having made compromises and publicly criticized Anthropic when talks broke down"
+          },
+          {
+            "source": "CBS News",
+            "angle": "Specifies the deadline is less than 24 hours away at the time of reporting, emphasizing the immediacy of the standoff"
+          }
+        ]
+      }
+    },
+    {
+      "id": "story-10",
+      "headline": "Federal Prosecutor Defends Human Smuggling Charges Against Kilmar Abrego Garcia Amid Vindictive Prosecution Claims",
+      "articles": [
+        {
+          "title": "Federal prosecutor admits 'extraordinary' timing in Abrego Garcia smuggling case charges",
+          "description": "Federal prosecutor defends human smuggling charges against Salvadoran migrant two years after traffic stop, amid claims of vindictive prosecution.",
+          "link": "https://www.foxnews.com/politics/federal-prosecutor-admits-extraordinary-timing-tennessee-migrant-smuggling-case-charges",
+          "pubDate": "Thu, 26 Feb 2026 23:14:25 -0500",
+          "source": "Fox News"
+        },
+        {
+          "title": "Prosecutor defends human smuggling charges against Kilmar Abrego Garcia",
+          "description": "A federal judge is weighing whether to dismiss the criminal case against Kilmar Abrego Garcia on the grounds the prosecution is vindictive.",
+          "link": "https://www.cbsnews.com/news/kilmar-abrego-garcia-vindictive-prosecution-tennessee-court/",
+          "pubDate": "Thu, 26 Feb 2026 20:26:00 -0500",
+          "source": "CBS News"
+        },
+        {
+          "title": "Prosecutor says he knew charges against Kilmar Abrego Garcia would likely be seen as vindictive",
+          "description": "Kilmar Abrego Garcia, whose mistaken deportation has galvanized both sides of the immigration debate, claims that the criminal prosecution is vindictive.",
+          "link": "https://www.nbcnews.com/news/us-news/kilmar-abrego-garcia-asks-us-judge-tennessee-dismiss-criminal-case-say-rcna260794",
+          "pubDate": "Thu, 26 Feb 2026 15:00:41 GMT",
+          "source": "NBC News"
+        }
+      ],
+      "analysis": {
+        "summary": "A federal prosecutor is defending human smuggling charges brought against Kilmar Abrego Garcia, the Salvadoran migrant whose mistaken deportation became a major legal and political controversy. A federal judge is considering whether to dismiss the case on grounds of vindictive prosecution, with the timing of the charges — filed roughly two years after the underlying traffic stop — drawing significant scrutiny.",
+        "agreements": [
+          "Kilmar Abrego Garcia faces federal human smuggling charges",
+          "The defense claims the prosecution is vindictive",
+          "A federal judge is weighing whether to dismiss the case",
+          "The federal prosecutor is defending the charges against vindictive prosecution claims",
+          "There is a significant time gap between the original traffic stop and the filing of charges"
+        ],
+        "disagreements": [
+          {
+            "topic": "Framing of the prosecutor's acknowledgment about timing and perception",
+            "positions": [
+              {
+                "source": "Fox News",
+                "position": "Frames the prosecutor as admitting the 'extraordinary' timing of the charges, emphasizing the two-year gap since the traffic stop"
+              },
+              {
+                "source": "NBC News",
+                "position": "Frames the prosecutor as acknowledging he knew the charges would likely be perceived as vindictive"
+              },
+              {
+                "source": "CBS News",
+                "position": "Takes a more neutral framing, simply stating the prosecutor defends the charges against vindictive prosecution claims"
+              }
+            ]
+          },
+          {
+            "topic": "Characterization of Abrego Garcia",
+            "positions": [
+              {
+                "source": "Fox News",
+                "position": "Describes him as a 'Salvadoran migrant'"
+              },
+              {
+                "source": "NBC News",
+                "position": "Emphasizes his 'mistaken deportation' and notes it has 'galvanized both sides of the immigration debate'"
+              },
+              {
+                "source": "CBS News",
+                "position": "Refers to him neutrally by name without additional characterization in the headline/summary"
+              }
+            ]
+          }
+        ],
+        "uniqueAngles": [
+          {
+            "source": "Fox News",
+            "angle": "Highlights the two-year gap between the traffic stop and the charges as a central element of the story"
+          },
+          {
+            "source": "NBC News",
+            "angle": "Provides broader political context by noting Abrego Garcia's case has become a flashpoint in the immigration debate, and emphasizes the prosecutor's own awareness that charges would appear vindictive"
+          },
+          {
+            "source": "CBS News",
+            "angle": "Takes a straightforward legal framing focused on the judge's decision-making process regarding dismissal"
+          }
+        ]
+      }
+    },
+    {
+      "id": "story-11",
+      "headline": "Trump Administration Escalates Pressure on Cuba as Caribbean Leaders Call for De-Escalation",
+      "articles": [
+        {
+          "title": "Why Trump means the Cuban Revolution faces its biggest threat yet",
+          "description": "Will a worsening internal crisis create the conditions for the Cuban Revolution to unravel from within?",
+          "link": "https://www.bbc.com/news/articles/c9q5wdeg4j8o?at_medium=RSS&at_campaign=rss",
+          "pubDate": "Fri, 27 Feb 2026 06:00:38 GMT",
+          "source": "BBC News"
+        },
+        {
+          "title": "Caribbean leaders call for ‘de-escalation and dialogue’ amid US oil embargo on Cuba",
+          "description": "Four-day Caricom summit dominated by debate about US interventions in the region as military strikes against suspected drug boats continue\nUS interventions dominated speeches at a summit of 15 nations from the Caribbean and the Americas on Tuesday, as the region’s leaders met amid deadly military strikes against suspected drug boats and an oil blockade on Cuba.\nDuring the opening ceremony of the four-day Caricom summit in St Kitts and Nevis, leaders of the regional bloc called for a strategic co",
+          "link": "https://www.theguardian.com/world/2026/feb/25/caricom-summit-2026-caribbean-leaders-us-military-strikes",
+          "pubDate": "Wed, 25 Feb 2026 02:51:16 GMT",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Regime Change in Cuba Appeals to Trump but Carries Risks",
+          "description": "The Trump administration is signaling a different approach, after demanding an end to Cuba’s communist leadership.",
+          "link": "https://www.nytimes.com/2026/02/26/us/politics/trump-cuba-regime-change.html",
+          "pubDate": "Fri, 27 Feb 2026 00:33:24 +0000",
+          "source": "NY Times"
+        }
+      ],
+      "analysis": {
+        "summary": "The Trump administration is intensifying pressure on Cuba, including an oil embargo, while Caribbean leaders at a Caricom summit in St Kitts and Nevis are calling for de-escalation and dialogue. The situation unfolds amid broader US military interventions in the Caribbean region, including strikes against suspected drug boats.",
+        "agreements": [
+          "The Trump administration is significantly escalating pressure on Cuba",
+          "The current moment represents a serious threat or turning point for Cuba's political system",
+          "US actions in the Caribbean region are generating significant international concern"
+        ],
+        "disagreements": [
+          {
+            "topic": "Framing of the core story",
+            "positions": [
+              {
+                "source": "BBC News",
+                "position": "Frames the story primarily through the lens of Cuba's internal crisis and whether the revolution could unravel from within"
+              },
+              {
+                "source": "The Guardian",
+                "position": "Frames the story through the perspective of Caribbean nations responding collectively to US interventions, centering regional diplomacy"
+              },
+              {
+                "source": "NY Times",
+                "position": "Frames the story through US policy strategy, focusing on Trump's regime change ambitions and the risks they carry"
+              }
+            ]
+          },
+          {
+            "topic": "Agency and focus",
+            "positions": [
+              {
+                "source": "BBC News",
+                "position": "Centers Cuba's internal vulnerabilities as the key dynamic"
+              },
+              {
+                "source": "The Guardian",
+                "position": "Centers Caribbean regional leaders as active diplomatic players pushing back against US actions"
+              },
+              {
+                "source": "NY Times",
+                "position": "Centers the Trump administration as the primary actor driving events"
+              }
+            ]
+          }
+        ],
+        "uniqueAngles": [
+          {
+            "source": "BBC News",
+            "angle": "Uniquely examines whether Cuba's internal crisis could cause the revolution to unravel from within, focusing on domestic conditions rather than external geopolitics"
+          },
+          {
+            "source": "The Guardian",
+            "angle": "Provides specific details about the four-day Caricom summit of 15 nations, US military strikes against suspected drug boats in the Caribbean, and the broader pattern of US interventions dominating regional diplomatic discourse"
+          },
+          {
+            "source": "NY Times",
+            "angle": "Uniquely reports that the Trump administration is signaling a shift in approach after explicitly demanding an end to Cuba's communist leadership, and highlights the risks associated with pursuing regime change"
+          }
+        ]
+      }
+    },
+    {
+      "id": "story-12",
+      "headline": "Speculation Grows Over Kim Jong Un's Daughter as Potential Successor After North Korea Party Congress",
+      "articles": [
+        {
+          "title": "North Korea’s ‘most beloved’ child: what the key congress revealed about Kim Jong-un’s succession plans",
+          "description": "Many observers believe North Korean leader has decided daughter Kim Ju-ae will succeed him, but others say gender politics could block her path to power\nWhen North Korea’s ruling party held a top-level meeting this month there were predictable boasts of unstoppable nuclear development and, more unexpectedly, a suggestion by Kim Jong-un that his country and the US “could get along” – provided that Washington recognised North Korea as a legitimate nuclear power.\nBut for many North Korea watchers, ",
+          "link": "https://www.theguardian.com/world/2026/feb/27/north-korea-kim-jong-un-daughter-ju-ae-succession",
+          "pubDate": "Fri, 27 Feb 2026 05:53:53 GMT",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Kim Jong Un fuels succession buzz with daughter's matching leather jacket",
+          "description": "As Kim Jong Un affirms his authority over North Korea at a rare party congress, speculation is growing that his teenage daughter Ju Ae is closer  to being named his successor.",
+          "link": "https://www.nbcnews.com/world/asia/north-korea-kim-jong-un-party-congress-daughter-ju-ae-successor-jacket-rcna260208",
+          "pubDate": "Thu, 26 Feb 2026 12:01:13 GMT",
+          "source": "NBC News"
+        }
+      ],
+      "analysis": {
+        "summary": "Following a recent North Korea ruling party congress, speculation is intensifying that Kim Jong Un's teenage daughter, Kim Ju-ae, may be positioned as his eventual successor. Both sources note growing signals from the event, though debate continues about the certainty of her succession.",
+        "agreements": [
+          "North Korea recently held a significant ruling party congress or top-level meeting",
+          "Kim Jong Un's daughter Kim Ju-ae is at the center of succession speculation",
+          "The party congress fueled further discussion about succession plans",
+          "Kim Jong Un used the congress to affirm his authority"
+        ],
+        "disagreements": [
+          {
+            "topic": "Framing of succession likelihood",
+            "positions": [
+              {
+                "source": "The Guardian",
+                "position": "Presents a more balanced debate, noting many observers believe Kim Ju-ae will succeed her father but others say gender politics could block her path to power"
+              },
+              {
+                "source": "NBC News",
+                "position": "Frames the succession as increasingly likely, suggesting Ju Ae is 'closer to being named his successor' without prominently featuring counterarguments"
+              }
+            ]
+          },
+          {
+            "topic": "Key evidence highlighted",
+            "positions": [
+              {
+                "source": "The Guardian",
+                "position": "Focuses on what the congress revealed about succession plans more broadly, referencing the party meeting's political signals"
+              },
+              {
+                "source": "NBC News",
+                "position": "Highlights a specific visual detail — Ju Ae wearing a matching leather jacket with her father — as a key piece of evidence fueling succession speculation"
+              }
+            ]
+          }
+        ],
+        "uniqueAngles": [
+          {
+            "source": "The Guardian",
+            "angle": "Raises the issue of gender politics as a potential obstacle to Kim Ju-ae's succession in North Korea's patriarchal system"
+          },
+          {
+            "source": "The Guardian",
+            "angle": "Reports Kim Jong Un's suggestion that North Korea and the US 'could get along' if Washington recognized North Korea as a legitimate nuclear power, and mentions boasts of nuclear development"
+          },
+          {
+            "source": "The Guardian",
+            "angle": "Refers to Kim Ju-ae as North Korea's 'most beloved' child, suggesting official state rhetoric is being used to elevate her status"
+          },
+          {
+            "source": "NBC News",
+            "angle": "Focuses on the symbolic detail of Kim Ju-ae wearing a leather jacket matching her father's as a signal of her elevated status and grooming for succession"
+          }
+        ]
+      }
+    },
+    {
+      "id": "story-13",
+      "headline": "U.S. Health Aid Agreements With African Countries Face Criticism as 'Exploitative'",
+      "articles": [
+        {
+          "title": "Rising anger over ‘lop-sided’ and ‘immoral’ US health funding pacts with African countries",
+          "description": "Zimbabwe refuses to sign agreement and Kenya faces a court case over data sharing as new aid deals come under scrutiny\nA series of bilateral health agreements being negotiated between African countries and the administration of President Donald Trump have been labelled “clearly lop-sided” and “immoral” amid growing outrage at US demands, including countries being forced to share biological resources and data.\nIt emerged this week that Zimbabwe had halted negotiations with the US for $350m (£258m",
+          "link": "https://www.theguardian.com/global-development/2026/feb/27/rising-anger-over-lop-sided-immoral-us-health-funding-pacts-africa-countries",
+          "pubDate": "Fri, 27 Feb 2026 07:00:34 GMT",
+          "source": "The Guardian"
+        },
+        {
+          "title": "US accused of ‘shameless exploitation’ over proposed Zambian health aid deal",
+          "description": "Leaked draft of $1bn memorandum of understanding reveals mandatory targets, sharing of data, and reported access to mining concessions\nThe US has been accused of “shameless exploitation” over a health financing agreement with Zambia worth more than $1bn (£740m), amid warnings that the country is getting a raw deal from the Trump administration.\nA leaked draft of a five-year memorandum of understanding (MOU) between the two countries, seen by the Guardian, reveals that Zambia may accept terms wor",
+          "link": "https://www.theguardian.com/global-development/2026/feb/25/zambia-us-health-aid-deal-exploitation-mining-concessions-data-sharing-targets",
+          "pubDate": "Wed, 25 Feb 2026 13:00:36 GMT",
+          "source": "The Guardian"
+        }
+      ],
+      "analysis": {
+        "summary": "Bilateral health funding agreements being negotiated between the Trump administration and several African countries are facing mounting criticism as exploitative and lopsided. Critics object to U.S. demands that countries share biological resources, data, and reportedly grant access to mining concessions in exchange for continued health aid. Zimbabwe has refused to sign its agreement, Kenya faces a court case over data sharing, and a leaked draft of Zambia's $1 billion deal has drawn particular scrutiny.",
+        "agreements": [
+          "The Trump administration is negotiating bilateral health agreements with multiple African countries",
+          "The agreements have been widely criticized as exploitative and one-sided",
+          "Data sharing requirements imposed on African countries are a major point of contention",
+          "The deals involve countries being pressured to accept terms in exchange for continued health funding"
+        ],
+        "disagreements": [],
+        "uniqueAngles": [
+          {
+            "source": "The Guardian (Zimbabwe/Kenya article)",
+            "angle": "Provides a broader multi-country perspective, highlighting that Zimbabwe halted negotiations over a $350 million deal and that Kenya is facing a court case specifically over the data-sharing provisions of its agreement"
+          },
+          {
+            "source": "The Guardian (Zambia article)",
+            "angle": "Focuses on a specific leaked draft of Zambia's $1 billion five-year MOU, revealing detailed terms including mandatory targets, data sharing requirements, and reported access to mining concessions — introducing a natural-resources dimension beyond health data"
+          }
+        ]
+      }
+    },
+    {
+      "id": "story-14",
+      "headline": "Justice Department Faces Scrutiny Over Handling of Released Epstein Files",
+      "articles": [
+        {
+          "title": "Photo of Lutnick on Epstein's island removed from DOJ files now restored",
+          "description": "A photo released last month as part of the Epstein files that showed Commerce Secretary Howard Lutnick with convicted sex offender Jeffrey Epstein on Epstein's island was removed from the DOJ's website before being restored Thursday night.",
+          "link": "https://www.cbsnews.com/news/photo-of-howard-lutnick-on-epsteins-island-was-removed-from-justice-department-files/",
+          "pubDate": "Fri, 27 Feb 2026 00:19:35 -0500",
+          "source": "CBS News"
+        },
+        {
+          "title": "Justice Department Exposed Cooperating Witnesses in Epstein Files",
+          "description": "The disclosure is the latest example of how the urgent push to release the files led to the government publicizing information it would normally keep under wraps.",
+          "link": "https://www.nytimes.com/2026/02/26/nyregion/epstein-cooperating-witnesses-redaction-error.html",
+          "pubDate": "Thu, 26 Feb 2026 21:03:13 +0000",
+          "source": "NY Times"
+        }
+      ],
+      "analysis": {
+        "summary": "The Justice Department is facing scrutiny over its handling of released Jeffrey Epstein files. Issues include the temporary removal of a photo showing Commerce Secretary Howard Lutnick with Epstein on his island from the DOJ website, and redaction errors that exposed the identities of cooperating witnesses.",
+        "agreements": [
+          "The Justice Department released Epstein-related files that have generated significant public and media scrutiny",
+          "The DOJ's handling of the file release has been problematic, raising questions about the process"
+        ],
+        "disagreements": [
+          {
+            "topic": "Primary concern about DOJ's handling of the Epstein files",
+            "positions": [
+              {
+                "source": "CBS News",
+                "position": "Focuses on the removal and subsequent restoration of a photo of Commerce Secretary Lutnick with Epstein on his island, suggesting possible politically motivated suppression of evidence"
+              },
+              {
+                "source": "NY Times",
+                "position": "Focuses on redaction errors that exposed cooperating witnesses, framing the problems as a result of the rushed, urgent push to release files rather than deliberate manipulation"
+              }
+            ]
+          },
+          {
+            "topic": "Framing of DOJ's actions",
+            "positions": [
+              {
+                "source": "CBS News",
+                "position": "Implies deliberate removal and restoration of a specific politically sensitive photo, raising questions about intentional suppression"
+              },
+              {
+                "source": "NY Times",
+                "position": "Frames the issues as unintended consequences of a hasty release process, noting the government publicized information it would normally keep under wraps"
+              }
+            ]
+          }
+        ],
+        "uniqueAngles": [
+          {
+            "source": "CBS News",
+            "angle": "Highlights the specific connection between Commerce Secretary Howard Lutnick and Jeffrey Epstein, including a photo placing Lutnick on Epstein's island, and the suspicious removal and restoration of that photo from DOJ files"
+          },
+          {
+            "source": "NY Times",
+            "angle": "Reports on the exposure of cooperating witnesses through redaction errors, raising concerns about witness safety and the broader consequences of the rushed file release process"
+          }
+        ]
+      }
+    }
+  ],
+  "fetchedAt": "2026-02-27T10:32:08.928Z",
+  "articleCount": 145,
+  "sourceCount": 10
+}
