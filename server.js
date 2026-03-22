@@ -5,9 +5,9 @@ import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
-// On VPS: set REPORTS_DIR env var to wherever you rsync the reports folder.
-// Locally: defaults to the sibling reports/ directory in the main project.
-const REPORTS_DIR = process.env.REPORTS_DIR || path.join(__dirname, '../reports');
+// On VPS: set REPORTS_DIR env var to wherever your reports folder lives.
+// Locally: defaults to the reports/ directory inside this project.
+const REPORTS_DIR = process.env.REPORTS_DIR || path.join(__dirname, 'reports');
 const PORT = process.env.PORT || 3002;
 
 const app = express();

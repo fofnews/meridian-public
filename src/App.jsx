@@ -48,12 +48,10 @@ export default function App() {
       .catch(() => setLoading(false));
   }, [loadReport]);
 
-  const multiSource = report?.stories?.filter(
-    s => new Set(s.articles.map(a => a.source)).size >= 2
-  ) ?? [];
-  const singleSource = report?.stories?.filter(
-    s => new Set(s.articles.map(a => a.source)).size < 2
-  ) ?? [];
+  const sourceCount = s => new Set(s.articles.map(a => a.source)).size;
+  const multiSource = (report?.stories?.filter(s => sourceCount(s) >= 2) ?? [])
+    .sort((a, b) => sourceCount(b) - sourceCount(a));
+  const singleSource = report?.stories?.filter(s => sourceCount(s) < 2) ?? [];
 
   return (
     <div className="min-h-screen" style={{ background: '#060810' }}>
