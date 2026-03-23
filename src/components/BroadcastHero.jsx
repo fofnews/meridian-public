@@ -131,6 +131,10 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
       map.resize();
       // Offset center to compensate for chyron (bottom) and story selector (right) overlays
       map.setPadding({ top: 40, bottom: 110, left: 0, right: 160 });
+      // Brighten country label text
+      map.setPaintProperty('country-label', 'text-color', '#ffffff');
+      map.setPaintProperty('country-label', 'text-halo-color', 'rgba(0,0,0,0.6)');
+      map.setPaintProperty('country-label', 'text-halo-width', 1.5);
 
       // Country highlight layer
       map.addSource('country-boundaries', {
@@ -215,7 +219,7 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
       style={{ aspectRatio: '16/9', maxHeight: '75vh', minHeight: 280 }}
     >
       {/* Mapbox map */}
-      <div ref={mapContainer} className="absolute inset-0 pointer-events-none" style={{ opacity: 0.6, width: '100%', height: '100%' }} />
+      <div ref={mapContainer} className="absolute inset-0 pointer-events-none" style={{ opacity: 1.8, width: '100%', height: '100%' }} />
 
       {/* Dark radial overlay */}
       <div
@@ -290,7 +294,8 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
               style={{
                 background: activeLocIdx === i ? 'rgba(232,197,71,0.2)' : 'rgba(10,13,20,0.75)',
                 border: `1px solid ${activeLocIdx === i ? '#e8c547' : 'rgba(232,197,71,0.3)'}`,
-                color: activeLocIdx === i ? '#e8c547' : 'rgba(240,235,224,0.7)',
+                color: activeLocIdx === i ? '#e8c547' : '#f0ebe0',
+                fontWeight: 600,
                 fontSize: 'clamp(7px, 0.8vw, 10px)',
                 letterSpacing: '1px',
                 textTransform: 'uppercase',
@@ -302,6 +307,34 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
           ))}
         </div>
       )}
+
+      {/* Zoom controls */}
+      <div
+        className="absolute flex flex-col gap-1"
+        style={{ top: '50%', left: '3%', transform: 'translateY(-50%)', zIndex: 10 }}
+      >
+        {['+', '−'].map((label, i) => (
+          <button
+            key={label}
+            onClick={() => i === 0 ? mapRef.current?.zoomIn() : mapRef.current?.zoomOut()}
+            className="cursor-pointer transition-all"
+            style={{
+              background: 'rgba(10,13,20,0.75)',
+              border: '1px solid rgba(232,197,71,0.3)',
+              color: 'rgba(240,235,224,0.7)',
+              fontSize: 'clamp(10px, 1.1vw, 14px)',
+              width: 'clamp(18px, 2vw, 26px)',
+              height: 'clamp(18px, 2vw, 26px)',
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              lineHeight: 1,
+            }}
+          >
+            {label}
+          </button>
+        ))}
+      </div>
 
       {/* Chyron */}
       <div className="absolute bottom-0 left-0 right-0" style={{ zIndex: 10 }}>
