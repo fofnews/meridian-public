@@ -8,12 +8,36 @@ const CHYRON_LABELS = ['Breaking', 'Developing', 'Analysis', 'Report', 'Update',
 
 const geocodeCache = {};
 
+// Extract likely place names from a headline (capitalized words, skipping common non-place words)
+const SKIP_WORDS = new Set([
+  'The','His','Her','Its','Their','This','That','These','Those','After','Before',
+  'During','Former','New','Possible','National','Federal','State','Supreme','Top',
+  'First','Last','Multiple','Several','Key','Major','High','Low','Big','Old',
+  'North','South','East','West','Central','United','House','Senate','White','Black',
+]);
+
+function extractLocationQuery(headline) {
+  const words = headline.split(/[\s,;:()\-–—]+/).filter(Boolean);
+  const places = words.filter(w =>
+    /^[A-Z][a-z]{2,}/.test(w) &&
+    !SKIP_WORDS.has(w) &&
+    !/^(FBI|CIA|TSA|DHS|NATO|GOP|UN|EU)$/.test(w)
+  ).map(w => w.replace(/[''s]+$/, '')); // strip possessives
+  return places.slice(0, 2).join(' ') || null;
+}
+
 async function geocodeStory(story) {
   if (geocodeCache[story.id]) return geocodeCache[story.id];
 
-  const query = encodeURIComponent(story.headline.slice(0, 100));
+  const fallback = { lng: 0, lat: 20, zoom: 1.5 };
+  const locationQuery = extractLocationQuery(story.headline);
+  if (!locationQuery) {
+    geocodeCache[story.id] = fallback;
+    return fallback;
+  }
+
   try {
-    const url = `https://nominatim.openstreetmap.org/search?q=${query}&format=json&limit=1`;
+    const url = `https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(locationQuery)}&format=json&limit=1`;
     const res = await fetch(url, { headers: { 'Accept-Language': 'en', 'User-Agent': 'TheMeridian/1.0' } });
     const data = await res.json();
     if (data.length) {
@@ -25,7 +49,6 @@ async function geocodeStory(story) {
     console.warn('Geocoding failed:', e);
   }
 
-  const fallback = { lng: 0, lat: 20, zoom: 1.5 };
   geocodeCache[story.id] = fallback;
   return fallback;
 }
@@ -102,6 +125,8 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition 
       attributionControl: false,
     });
 
+    map.on('load', () => map.resize());
+
     const marker = new mapboxgl.Marker({ element: createMarkerElement(), anchor: 'center' })
       .setLngLat([0, 20])
       .addTo(map);
@@ -120,11 +145,24 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition 
   const featured = stories[selectedIdx] ?? stories[0];
   useEffect(() => {
     if (!mapRef.current || !featured) return;
-    geocodeStory(featured).then(({ lng, lat, zoom }) => {
-      mapRef.current.flyTo({ center: [lng, lat], zoom, duration: 2000, essential: true });
-      markerRef.current?.setLngLat([lng, lat]);
-    });
-  }, [featured]);
+    const map = mapRef.current;
+
+    const flyTo = ({ lng, lat, zoom }) => {
+      if (!mapRef.current) return;
+      const go = () => {
+        map.flyTo({ center: [lng, lat], zoom, duration: 2000, essential: true });
+        markerRef.current?.setLngLat([lng, lat]);
+      };
+      if (map.loaded()) go(); else map.once('load', go);
+    };
+
+    const loc = featured.analysis?.location;
+    if (loc?.lat != null && loc?.lng != null) {
+      flyTo({ lng: loc.lng, lat: loc.lat, zoom: 4 });
+    } else {
+      geocodeStory(featured).then(flyTo);
+    }
+  }, [selectedIdx]);
 
   if (!featured) return null;
 
@@ -141,11 +179,11 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition 
       style={{ aspectRatio: '16/9', maxHeight: '75vh', minHeight: 280 }}
     >
       {/* Mapbox map */}
-      <div ref={mapContainer} className="absolute inset-0" style={{ opacity: 0.6 }} />
+      <div ref={mapContainer} className="absolute inset-0 pointer-events-none" style={{ opacity: 0.6, width: '100%', height: '100%' }} />
 
       {/* Dark radial overlay */}
       <div
-        className="absolute inset-0"
+        className="absolute inset-0 pointer-events-none"
         style={{ background: 'radial-gradient(ellipse at 52% 48%, rgba(10,13,20,0.3) 0%, rgba(10,13,20,0.75) 100%)' }}
       />
 
@@ -153,7 +191,7 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition 
       <div className="absolute inset-0 scanlines pointer-events-none" />
 
       {/* Top bar */}
-      <div className="absolute top-0 left-0 right-0 flex items-center justify-between px-[3%] py-[2%]">
+      <div className="absolute top-0 left-0 right-0 flex items-center justify-between px-[3%] py-[2%]" style={{ zIndex: 10 }}>
         <div
           className="font-display font-black tracking-[3px] uppercase"
           style={{ color: '#f0ebe0', fontSize: 'clamp(13px, 2.2vw, 26px)' }}
@@ -175,7 +213,7 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition 
       {stories.length > 1 && (
         <div
           className="absolute flex flex-col gap-1.5"
-          style={{ top: '50%', right: '3%', transform: 'translateY(-50%)' }}
+          style={{ top: '50%', right: '3%', transform: 'translateY(-50%)', zIndex: 10 }}
         >
           {stories.slice(0, 6).map((story, i) => (
             <button
@@ -203,7 +241,7 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition 
       )}
 
       {/* Chyron */}
-      <div className="absolute bottom-0 left-0 right-0">
+      <div className="absolute bottom-0 left-0 right-0" style={{ zIndex: 10 }}>
         <div className="overflow-hidden" style={{ background: '#e8c547', padding: '0.5% 0' }}>
           <div
             className="ticker-scroll inline-block whitespace-nowrap"
