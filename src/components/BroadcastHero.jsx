@@ -41,7 +41,7 @@ async function geocodeStory(story) {
     const res = await fetch(url, { headers: { 'Accept-Language': 'en', 'User-Agent': 'TheMeridian/1.0' } });
     const data = await res.json();
     if (data.length) {
-      const result = { lng: parseFloat(data[0].lon), lat: parseFloat(data[0].lat), zoom: 4 };
+      const result = { lng: parseFloat(data[0].lon), lat: parseFloat(data[0].lat), zoom: 6 };
       geocodeCache[story.id] = result;
       return result;
     }
@@ -95,6 +95,7 @@ function createMarkerElement() {
 
 export default function BroadcastHero({ stories, selectedIdx, onSelect, edition }) {
   const [time, setTime] = useState('');
+  const [activeLocIdx, setActiveLocIdx] = useState(0);
   const mapContainer = useRef(null);
   const mapRef = useRef(null);
   const markerRef = useRef(null);
@@ -141,26 +142,35 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition 
     };
   }, []);
 
-  // Fly to story location when selection changes
   const featured = stories[selectedIdx] ?? stories[0];
+  const featuredLocations = featured?.analysis?.locations?.filter(l => l?.lat != null && l?.lng != null) ?? [];
+
+  const flyToLocation = (loc) => {
+    if (!mapRef.current) return;
+    const map = mapRef.current;
+    const go = () => {
+      map.flyTo({ center: [loc.lng, loc.lat], zoom: 6, duration: 2000, essential: true });
+      markerRef.current?.setLngLat([loc.lng, loc.lat]);
+    };
+    if (map.loaded()) go(); else map.once('load', go);
+  };
+
+  // Fly to first location when story changes
   useEffect(() => {
     if (!mapRef.current || !featured) return;
-    const map = mapRef.current;
-
-    const flyTo = ({ lng, lat, zoom }) => {
-      if (!mapRef.current) return;
-      const go = () => {
-        map.flyTo({ center: [lng, lat], zoom, duration: 2000, essential: true });
-        markerRef.current?.setLngLat([lng, lat]);
-      };
-      if (map.loaded()) go(); else map.once('load', go);
-    };
-
-    const loc = featured.analysis?.location;
-    if (loc?.lat != null && loc?.lng != null) {
-      flyTo({ lng: loc.lng, lat: loc.lat, zoom: 4 });
+    setActiveLocIdx(0);
+    if (featuredLocations.length > 0) {
+      flyToLocation(featuredLocations[0]);
     } else {
-      geocodeStory(featured).then(flyTo);
+      geocodeStory(featured).then(({ lng, lat, zoom }) => {
+        if (!mapRef.current) return;
+        const map = mapRef.current;
+        const go = () => {
+          map.flyTo({ center: [lng, lat], zoom, duration: 2000, essential: true });
+          markerRef.current?.setLngLat([lng, lat]);
+        };
+        if (map.loaded()) go(); else map.once('load', go);
+      });
     }
   }, [selectedIdx]);
 
@@ -240,12 +250,39 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition 
         </div>
       )}
 
+      {/* Location buttons */}
+      {featuredLocations.length > 1 && (
+        <div
+          className="absolute flex gap-2 flex-wrap"
+          style={{ bottom: 'calc(12% + 4px)', left: '3%', zIndex: 10 }}
+        >
+          {featuredLocations.map((loc, i) => (
+            <button
+              key={loc.name}
+              onClick={() => { setActiveLocIdx(i); flyToLocation(loc); }}
+              className="cursor-pointer transition-all"
+              style={{
+                background: activeLocIdx === i ? 'rgba(232,197,71,0.2)' : 'rgba(10,13,20,0.75)',
+                border: `1px solid ${activeLocIdx === i ? '#e8c547' : 'rgba(232,197,71,0.3)'}`,
+                color: activeLocIdx === i ? '#e8c547' : 'rgba(240,235,224,0.7)',
+                fontSize: 'clamp(7px, 0.8vw, 10px)',
+                letterSpacing: '1px',
+                textTransform: 'uppercase',
+                padding: '3px 10px',
+              }}
+            >
+              {loc.name}
+            </button>
+          ))}
+        </div>
+      )}
+
       {/* Chyron */}
       <div className="absolute bottom-0 left-0 right-0" style={{ zIndex: 10 }}>
         <div className="overflow-hidden" style={{ background: '#e8c547', padding: '0.5% 0' }}>
           <div
             className="ticker-scroll inline-block whitespace-nowrap"
-            style={{ color: '#0a0d14', fontSize: 'clamp(7px, 0.8vw, 10px)', fontWeight: 600, letterSpacing: '1.5px', textTransform: 'uppercase' }}
+            style={{ color: '#0a0d14', fontSize: 'clamp(9px, 1vw, 13px)', fontWeight: 600, letterSpacing: '1.5px', textTransform: 'uppercase' }}
           >
             THE MERIDIAN  ·  {tickerText}  ·  THE MERIDIAN  ·  {tickerText}
           </div>
