@@ -62,8 +62,9 @@ export default function App() {
           stories={multiSource}
           selectedIdx={featuredIdx}
           onSelect={setFeaturedIdx}
-          reportDate={selectedDate}
           edition={selectedEdition}
+          availableEditions={availableDates.find(d => d.date === selectedDate)?.editions ?? []}
+          onEditionSelect={edition => loadReport(selectedDate, edition)}
         />
       )}
 

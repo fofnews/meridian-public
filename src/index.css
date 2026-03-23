@@ -36,7 +36,7 @@ body {
   100% { transform: translateX(-100%); }
 }
 .ticker-scroll {
-  animation: ticker 240s linear infinite;
+  animation: ticker 360s linear infinite;
 }
 
 /* CRT scanline overlay */

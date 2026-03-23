@@ -26,8 +26,20 @@ export default function StoryCard({ story, brief = false, expanded, onToggle }) 
           <ChevronDown className={`w-4 h-4 text-[#4a5568] shrink-0 mt-0.5 transition-transform ${expanded ? 'rotate-180' : ''}`} />
         </button>
         {expanded && (
-          <div className="pb-4">
+          <div className="pb-4 space-y-3">
             <AnalysisView analysis={story.analysis} />
+            {story.articles[0]?.link && (
+              <a
+                href={story.articles[0].link}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-2 text-xs text-[#6b7a9a] hover:text-[#e8c547] transition-colors"
+              >
+                <SourceBadge source={story.articles[0].source} />
+                <span className="line-clamp-1 flex-1">{story.articles[0].title}</span>
+                <ExternalLink className="w-3 h-3 shrink-0" />
+              </a>
+            )}
           </div>
         )}
       </div>

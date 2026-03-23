@@ -93,7 +93,8 @@ function createMarkerElement() {
   return wrapper;
 }
 
-export default function BroadcastHero({ stories, selectedIdx, onSelect, edition }) {
+export default function BroadcastHero({ stories, selectedIdx, onSelect, edition, availableEditions = [], onEditionSelect }) {
+  const EDITION_LABELS = { morning: '☀  Morning', evening: '🌙  Evening' };
   const [time, setTime] = useState('');
   const [activeLocIdx, setActiveLocIdx] = useState(0);
   const mapContainer = useRef(null);
@@ -126,7 +127,28 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition 
       attributionControl: false,
     });
 
-    map.on('load', () => map.resize());
+    map.on('load', () => {
+      map.resize();
+      // Offset center to compensate for chyron (bottom) and story selector (right) overlays
+      map.setPadding({ top: 40, bottom: 110, left: 0, right: 160 });
+
+      // Country highlight layer
+      map.addSource('country-boundaries', {
+        type: 'vector',
+        url: 'mapbox://mapbox.country-boundaries-v1',
+      });
+      map.addLayer({
+        id: 'country-highlight',
+        type: 'fill',
+        source: 'country-boundaries',
+        'source-layer': 'country_boundaries',
+        filter: ['==', 'iso_3166_1', ''],
+        paint: {
+          'fill-color': '#e8c547',
+          'fill-opacity': 0.18,
+        },
+      });
+    });
 
     const marker = new mapboxgl.Marker({ element: createMarkerElement(), anchor: 'center' })
       .setLngLat([0, 20])
@@ -151,6 +173,9 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition 
     const go = () => {
       map.flyTo({ center: [loc.lng, loc.lat], zoom: 6, duration: 2000, essential: true });
       markerRef.current?.setLngLat([loc.lng, loc.lat]);
+      if (map.getLayer('country-highlight')) {
+        map.setFilter('country-highlight', ['==', 'iso_3166_1', loc.iso ?? '']);
+      }
     };
     if (map.loaded()) go(); else map.once('load', go);
   };
@@ -168,6 +193,9 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition 
         const go = () => {
           map.flyTo({ center: [lng, lat], zoom, duration: 2000, essential: true });
           markerRef.current?.setLngLat([lng, lat]);
+          if (map.getLayer('country-highlight')) {
+            map.setFilter('country-highlight', ['==', 'iso_3166_1', '']);
+          }
         };
         if (map.loaded()) go(); else map.once('load', go);
       });
@@ -180,8 +208,6 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition 
   const chyronLabel = CHYRON_LABELS[selectedIdx % CHYRON_LABELS.length];
   const sourceCount = new Set(featured.articles.map(a => a.source)).size;
   const tickerText = stories.map(s => truncateHeadline(s.headline, 80)).join('  ·  THE MERIDIAN  ·  ');
-  const editionLabel = edition === 'morning' ? '☀  Morning Edition'
-    : edition === 'evening' ? '🌙  Evening Edition' : '';
 
   return (
     <div
@@ -318,9 +344,31 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition 
               </span>
             )}
           </div>
-          {editionLabel && (
+          {availableEditions.length > 1 && (
+            <div className="flex gap-1.5 shrink-0">
+              {availableEditions.filter(e => e !== 'manual').map(e => (
+                <button
+                  key={e}
+                  onClick={() => onEditionSelect(e)}
+                  className="cursor-pointer transition-all"
+                  style={{
+                    background: edition === e ? 'rgba(232,197,71,0.15)' : 'transparent',
+                    border: `1px solid ${edition === e ? '#e8c547' : 'rgba(232,197,71,0.3)'}`,
+                    color: edition === e ? '#e8c547' : 'rgba(240,235,224,0.45)',
+                    fontSize: 'clamp(7px, 0.85vw, 10px)',
+                    letterSpacing: '1.5px',
+                    textTransform: 'uppercase',
+                    padding: '2px 8px',
+                  }}
+                >
+                  {EDITION_LABELS[e] ?? e}
+                </button>
+              ))}
+            </div>
+          )}
+          {availableEditions.length <= 1 && edition && edition !== 'manual' && (
             <div style={{ color: '#e8c547', fontSize: 'clamp(7px, 0.85vw, 11px)', letterSpacing: '1.5px', textTransform: 'uppercase' }}>
-              {editionLabel}
+              {EDITION_LABELS[edition] ?? edition}
             </div>
           )}
         </div>
