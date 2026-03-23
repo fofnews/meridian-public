@@ -13,12 +13,11 @@ async function geocodeStory(story) {
 
   const query = encodeURIComponent(story.headline.slice(0, 100));
   try {
-    const url = `https://api.mapbox.com/geocoding/v5/mapbox.places/${query}.json?access_token=${mapboxgl.accessToken}&types=country,region,place&limit=1`;
-    const res = await fetch(url);
+    const url = `https://nominatim.openstreetmap.org/search?q=${query}&format=json&limit=1`;
+    const res = await fetch(url, { headers: { 'Accept-Language': 'en', 'User-Agent': 'TheMeridian/1.0' } });
     const data = await res.json();
-    if (data.features?.length) {
-      const [lng, lat] = data.features[0].center;
-      const result = { lng, lat, zoom: 4 };
+    if (data.length) {
+      const result = { lng: parseFloat(data[0].lon), lat: parseFloat(data[0].lat), zoom: 4 };
       geocodeCache[story.id] = result;
       return result;
     }
