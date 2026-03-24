@@ -123,7 +123,7 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
       style: 'mapbox://styles/mapbox/dark-v11',
       center: [0, 20],
       zoom: 1.5,
-      interactive: false,
+      interactive: true,
       attributionControl: false,
     });
 
@@ -131,10 +131,14 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
       map.resize();
       // Offset center to compensate for chyron (bottom) and story selector (right) overlays
       map.setPadding({ top: 40, bottom: 110, left: 0, right: 160 });
-      // Brighten country label text
+      // Land brightness
+      map.setPaintProperty('land', 'background-color', '#222534');
+
+      // Brighten and enlarge country label text
       map.setPaintProperty('country-label', 'text-color', '#ffffff');
       map.setPaintProperty('country-label', 'text-halo-color', 'rgba(0,0,0,0.6)');
       map.setPaintProperty('country-label', 'text-halo-width', 1.5);
+      map.setLayoutProperty('country-label', 'text-size', 20);
 
       // Country highlight layer
       map.addSource('country-boundaries', {
@@ -216,10 +220,10 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
   return (
     <div
       className="relative w-full overflow-hidden"
-      style={{ aspectRatio: '16/9', maxHeight: '75vh', minHeight: 280 }}
+      style={{ aspectRatio: '16/9', maxHeight: '75vh', minHeight: 280, position: 'sticky', top: 0, zIndex: 20 }}
     >
       {/* Mapbox map */}
-      <div ref={mapContainer} className="absolute inset-0 pointer-events-none" style={{ opacity: 1.8, width: '100%', height: '100%' }} />
+      <div ref={mapContainer} className="absolute inset-0" style={{ opacity: 1.8, width: '100%', height: '100%' }} />
 
       {/* Dark radial overlay */}
       <div
