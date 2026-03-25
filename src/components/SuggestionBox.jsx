@@ -72,7 +72,7 @@ export default function SuggestionBox() {
       setSuggestions(prev => prev.filter(s => s.id !== id));
     } else {
       const body = await res.json().catch(() => ({}));
-      alert(`Delete failed (${res.status}): ${body.error || 'Unknown error'}`);
+      alert(`Delete failed (${res.status}): ${JSON.stringify(body)}`);
     }
   }
 
