@@ -68,7 +68,12 @@ export default function SuggestionBox() {
       method: 'POST',
       headers: { 'x-admin-secret': adminSecret || '' },
     });
-    if (res.ok) setSuggestions(prev => prev.filter(s => s.id !== id));
+    if (res.ok) {
+      setSuggestions(prev => prev.filter(s => s.id !== id));
+    } else {
+      const body = await res.json().catch(() => ({}));
+      alert(`Delete failed (${res.status}): ${body.error || 'Unknown error'}`);
+    }
   }
 
   async function handleDone(id) {
@@ -79,6 +84,9 @@ export default function SuggestionBox() {
     if (res.ok) {
       const updated = await res.json();
       setSuggestions(prev => prev.map(s => s.id === id ? updated : s));
+    } else {
+      const body = await res.json().catch(() => ({}));
+      alert(`Done failed (${res.status}): ${body.error || 'Unknown error'}`);
     }
   }
 
