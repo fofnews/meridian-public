@@ -2,6 +2,7 @@ import { useState, useEffect, useCallback } from 'react';
 import BroadcastHero from './components/BroadcastHero';
 import DateNav from './components/DateNav';
 import StoryCard from './components/StoryCard';
+import SuggestionBox from './components/SuggestionBox';
 
 export default function App() {
   const [report, setReport] = useState(null);
@@ -103,6 +104,8 @@ export default function App() {
 
         {!loading && report && (
           <>
+            <SuggestionBox />
+
             {/* Top Stories */}
             {multiSource.length > 0 && (
               <section className="mb-12">
