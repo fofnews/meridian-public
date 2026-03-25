@@ -10,14 +10,7 @@ export default async function handler(req, res) {
 
   const secret = process.env.ADMIN_SECRET;
   if (!secret || req.headers['x-admin-secret'] !== secret) {
-    return res.status(403).json({
-      error: 'Forbidden',
-      debug: {
-        envVarSet: !!secret,
-        headerReceived: !!req.headers['x-admin-secret'],
-        match: req.headers['x-admin-secret'] === secret,
-      }
-    });
+    return res.status(403).json({ error: 'Forbidden' });
   }
 
   try {
