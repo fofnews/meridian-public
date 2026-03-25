@@ -71,8 +71,7 @@ export default function SuggestionBox() {
     if (res.ok) {
       setSuggestions(prev => prev.filter(s => s.id !== id));
     } else {
-      const body = await res.json().catch(() => ({}));
-      alert(`Delete failed (${res.status}): ${JSON.stringify(body)}`);
+      alert('Failed to delete. Please try again.');
     }
   }
 
@@ -85,8 +84,7 @@ export default function SuggestionBox() {
       const updated = await res.json();
       setSuggestions(prev => prev.map(s => s.id === id ? updated : s));
     } else {
-      const body = await res.json().catch(() => ({}));
-      alert(`Done failed (${res.status}): ${body.error || 'Unknown error'}`);
+      alert('Failed to update. Please try again.');
     }
   }
 
