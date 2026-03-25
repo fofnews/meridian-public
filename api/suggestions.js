@@ -1,15 +1,17 @@
-import { kv } from '@vercel/kv';
+import { Redis } from '@upstash/redis';
+
+const redis = Redis.fromEnv();
 
 export default async function handler(req, res) {
   if (req.method === 'GET') {
-    const suggestions = (await kv.get('suggestions')) || [];
+    const suggestions = (await redis.get('suggestions')) || [];
     return res.json(suggestions.sort((a, b) => b.votes - a.votes));
   }
 
   if (req.method === 'POST') {
     const { text } = req.body;
     if (!text || !text.trim()) return res.status(400).json({ error: 'Text is required' });
-    const suggestions = (await kv.get('suggestions')) || [];
+    const suggestions = (await redis.get('suggestions')) || [];
     const suggestion = {
       id: Date.now().toString(),
       text: text.trim(),
@@ -17,7 +19,7 @@ export default async function handler(req, res) {
       createdAt: new Date().toISOString(),
     };
     suggestions.push(suggestion);
-    await kv.set('suggestions', suggestions);
+    await redis.set('suggestions', suggestions);
     return res.json(suggestion);
   }
 
