@@ -6,9 +6,9 @@ export default function SuggestionBox() {
   const [text, setText] = useState('');
   const [submitting, setSubmitting] = useState(false);
   const [submitError, setSubmitError] = useState(null);
-  const [votedIds, setVotedIds] = useState(() => {
-    try { return new Set(JSON.parse(localStorage.getItem('meridian_voted') || '[]')); }
-    catch { return new Set(); }
+  const [votes, setVotes] = useState(() => {
+    try { return JSON.parse(localStorage.getItem('meridian_votes') || '{}'); }
+    catch { return {}; }
   });
 
   useEffect(() => {
@@ -47,18 +47,18 @@ export default function SuggestionBox() {
     }
   }
 
-  async function handleVote(id) {
-    if (votedIds.has(id)) return;
-    const res = await fetch(`/api/suggestions/${id}/vote`, { method: 'POST' });
+  async function handleVote(id, direction) {
+    if (votes[id]) return;
+    const endpoint = direction === 'up' ? 'vote' : 'downvote';
+    const res = await fetch(`/api/suggestions/${id}/${endpoint}`, { method: 'POST' });
     if (res.ok) {
       const updated = await res.json();
       setSuggestions(prev =>
         prev.map(s => s.id === id ? updated : s).sort((a, b) => b.votes - a.votes)
       );
-      const next = new Set(votedIds);
-      next.add(id);
-      setVotedIds(next);
-      localStorage.setItem('meridian_voted', JSON.stringify([...next]));
+      const next = { ...votes, [id]: direction };
+      setVotes(next);
+      localStorage.setItem('meridian_votes', JSON.stringify(next));
     }
   }
 
@@ -133,19 +133,33 @@ export default function SuggestionBox() {
                   style={{ borderBottom: '1px solid #1a2035' }}
                 >
                   <p className="text-sm flex-1" style={{ color: '#c8c0b0', lineHeight: 1.5 }}>{s.text}</p>
-                  <button
-                    onClick={() => handleVote(s.id)}
-                    disabled={votedIds.has(s.id)}
-                    className="flex items-center gap-1.5 px-3 py-1 rounded-lg text-xs shrink-0 transition-opacity"
-                    style={{
-                      background: votedIds.has(s.id) ? '#1a2035' : '#111827',
-                      border: `1px solid ${votedIds.has(s.id) ? '#e8c547' : '#1a2035'}`,
-                      color: votedIds.has(s.id) ? '#e8c547' : '#6b7a9a',
-                      cursor: votedIds.has(s.id) ? 'default' : 'pointer',
-                    }}
-                  >
-                    ▲ {s.votes}
-                  </button>
+                  <div className="flex items-center gap-1 shrink-0">
+                    <button
+                      onClick={() => handleVote(s.id, 'up')}
+                      disabled={!!votes[s.id]}
+                      className="flex items-center px-2 py-1 rounded-lg text-xs transition-opacity"
+                      style={{
+                        background: votes[s.id] === 'up' ? '#1a2035' : '#111827',
+                        border: `1px solid ${votes[s.id] === 'up' ? '#e8c547' : '#1a2035'}`,
+                        color: votes[s.id] === 'up' ? '#e8c547' : '#6b7a9a',
+                        cursor: votes[s.id] ? 'default' : 'pointer',
+                      }}
+                    >▲</button>
+                    <span className="text-xs w-6 text-center" style={{ color: s.votes < 0 ? '#e87547' : s.votes > 0 ? '#e8c547' : '#4a5568' }}>
+                      {s.votes}
+                    </span>
+                    <button
+                      onClick={() => handleVote(s.id, 'down')}
+                      disabled={!!votes[s.id]}
+                      className="flex items-center px-2 py-1 rounded-lg text-xs transition-opacity"
+                      style={{
+                        background: votes[s.id] === 'down' ? '#1a2035' : '#111827',
+                        border: `1px solid ${votes[s.id] === 'down' ? '#e87547' : '#1a2035'}`,
+                        color: votes[s.id] === 'down' ? '#e87547' : '#6b7a9a',
+                        cursor: votes[s.id] ? 'default' : 'pointer',
+                      }}
+                    >▼</button>
+                  </div>
                 </div>
               ))}
             </div>
