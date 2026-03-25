@@ -6,6 +6,7 @@ export default function SuggestionBox() {
   const [text, setText] = useState('');
   const [submitting, setSubmitting] = useState(false);
   const [submitError, setSubmitError] = useState(null);
+  const adminSecret = new URLSearchParams(window.location.search).get('admin');
   const [votes, setVotes] = useState(() => {
     try { return JSON.parse(localStorage.getItem('meridian_votes') || '{}'); }
     catch { return {}; }
@@ -63,12 +64,18 @@ export default function SuggestionBox() {
   }
 
   async function handleDelete(id) {
-    const res = await fetch(`/api/suggestions/${id}/delete`, { method: 'POST' });
+    const res = await fetch(`/api/suggestions/${id}/delete`, {
+      method: 'POST',
+      headers: { 'x-admin-secret': adminSecret || '' },
+    });
     if (res.ok) setSuggestions(prev => prev.filter(s => s.id !== id));
   }
 
   async function handleDone(id) {
-    const res = await fetch(`/api/suggestions/${id}/done`, { method: 'POST' });
+    const res = await fetch(`/api/suggestions/${id}/done`, {
+      method: 'POST',
+      headers: { 'x-admin-secret': adminSecret || '' },
+    });
     if (res.ok) {
       const updated = await res.json();
       setSuggestions(prev => prev.map(s => s.id === id ? updated : s));
@@ -179,23 +186,25 @@ export default function SuggestionBox() {
                         cursor: votes[s.id] ? 'default' : 'pointer',
                       }}
                     >▼</button>
-                    <button
-                      onClick={() => handleDone(s.id)}
-                      className="flex items-center px-2 py-1 rounded-lg text-xs"
-                      style={{
-                        background: s.done ? '#0d2010' : '#111827',
-                        border: `1px solid ${s.done ? '#4ade80' : '#1a2035'}`,
-                        color: s.done ? '#4ade80' : '#4a5568',
-                        cursor: 'pointer',
-                      }}
-                      title={s.done ? 'Mark as not done' : 'Mark as done'}
-                    >✓</button>
-                    <button
-                      onClick={() => handleDelete(s.id)}
-                      className="flex items-center px-2 py-1 rounded-lg text-xs"
-                      style={{ background: '#111827', border: '1px solid #1a2035', color: '#4a5568', cursor: 'pointer' }}
-                      title="Delete suggestion"
-                    >×</button>
+                    {adminSecret && (<>
+                      <button
+                        onClick={() => handleDone(s.id)}
+                        className="flex items-center px-2 py-1 rounded-lg text-xs"
+                        style={{
+                          background: s.done ? '#0d2010' : '#111827',
+                          border: `1px solid ${s.done ? '#4ade80' : '#1a2035'}`,
+                          color: s.done ? '#4ade80' : '#4a5568',
+                          cursor: 'pointer',
+                        }}
+                        title={s.done ? 'Mark as not done' : 'Mark as done'}
+                      >✓</button>
+                      <button
+                        onClick={() => handleDelete(s.id)}
+                        className="flex items-center px-2 py-1 rounded-lg text-xs"
+                        style={{ background: '#111827', border: '1px solid #1a2035', color: '#4a5568', cursor: 'pointer' }}
+                        title="Delete suggestion"
+                      >×</button>
+                    </>)}
                   </div>
                 </div>
               ))}

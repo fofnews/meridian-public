@@ -8,6 +8,11 @@ const redis = new Redis({
 export default async function handler(req, res) {
   if (req.method !== 'POST') return res.status(405).json({ error: 'Method not allowed' });
 
+  const secret = process.env.ADMIN_SECRET;
+  if (!secret || req.headers['x-admin-secret'] !== secret) {
+    return res.status(403).json({ error: 'Forbidden' });
+  }
+
   try {
     const { id } = req.query;
     const suggestions = (await redis.get('suggestions')) || [];
