@@ -37,7 +37,8 @@ export default function SuggestionBox() {
         setText('');
         fetchSuggestions();
       } else {
-        setSubmitError('Failed to submit. Please try again.');
+        const body = await res.json().catch(() => ({}));
+        setSubmitError(`Error ${res.status}: ${body.error || 'Unknown error'}`);
       }
     } catch {
       setSubmitError('Could not reach the server. Please try again.');
