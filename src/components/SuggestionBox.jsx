@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 
 export default function SuggestionBox() {
-  const [open, setOpen] = useState(false);
+  const [open, setOpen] = useState(true);
   const [suggestions, setSuggestions] = useState([]);
   const [text, setText] = useState('');
   const [submitting, setSubmitting] = useState(false);
