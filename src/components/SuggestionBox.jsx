@@ -5,6 +5,7 @@ export default function SuggestionBox() {
   const [suggestions, setSuggestions] = useState([]);
   const [text, setText] = useState('');
   const [submitting, setSubmitting] = useState(false);
+  const [submitError, setSubmitError] = useState(null);
   const [votedIds, setVotedIds] = useState(() => {
     try { return new Set(JSON.parse(localStorage.getItem('meridian_voted') || '[]')); }
     catch { return new Set(); }
@@ -25,6 +26,7 @@ export default function SuggestionBox() {
     e.preventDefault();
     if (!text.trim() || submitting) return;
     setSubmitting(true);
+    setSubmitError(null);
     try {
       const res = await fetch('/api/suggestions', {
         method: 'POST',
@@ -34,7 +36,11 @@ export default function SuggestionBox() {
       if (res.ok) {
         setText('');
         fetchSuggestions();
+      } else {
+        setSubmitError('Failed to submit. Please try again.');
       }
+    } catch {
+      setSubmitError('Could not reach the server. Please try again.');
     } finally {
       setSubmitting(false);
     }
@@ -110,6 +116,10 @@ export default function SuggestionBox() {
               Submit
             </button>
           </form>
+
+          {submitError && (
+            <p className="px-5 pb-3 text-xs" style={{ color: '#e87547' }}>{submitError}</p>
+          )}
 
           {/* Suggestions list */}
           {suggestions.length > 0 && (
