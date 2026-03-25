@@ -11,6 +11,45 @@ const REPORTS_DIR = process.env.REPORTS_DIR || path.join(__dirname, 'reports');
 const PORT = process.env.PORT || 3002;
 
 const app = express();
+app.use(express.json());
+
+const SUGGESTIONS_FILE = path.join(__dirname, 'suggestions.json');
+
+function readSuggestions() {
+  if (!fs.existsSync(SUGGESTIONS_FILE)) return [];
+  try { return JSON.parse(fs.readFileSync(SUGGESTIONS_FILE, 'utf8')); } catch { return []; }
+}
+
+function writeSuggestions(data) {
+  fs.writeFileSync(SUGGESTIONS_FILE, JSON.stringify(data, null, 2));
+}
+
+// Get all suggestions sorted by votes
+app.get('/api/suggestions', (_req, res) => {
+  const suggestions = readSuggestions();
+  res.json(suggestions.sort((a, b) => b.votes - a.votes));
+});
+
+// Submit a new suggestion
+app.post('/api/suggestions', (req, res) => {
+  const { text } = req.body;
+  if (!text || !text.trim()) return res.status(400).json({ error: 'Text is required' });
+  const suggestions = readSuggestions();
+  const suggestion = { id: Date.now().toString(), text: text.trim(), votes: 0, createdAt: new Date().toISOString() };
+  suggestions.push(suggestion);
+  writeSuggestions(suggestions);
+  res.json(suggestion);
+});
+
+// Vote on a suggestion
+app.post('/api/suggestions/:id/vote', (req, res) => {
+  const suggestions = readSuggestions();
+  const suggestion = suggestions.find(s => s.id === req.params.id);
+  if (!suggestion) return res.status(404).json({ error: 'Not found' });
+  suggestion.votes += 1;
+  writeSuggestions(suggestions);
+  res.json(suggestion);
+});
 
 // Serve the built React app
 app.use(express.static(path.join(__dirname, 'dist')));
