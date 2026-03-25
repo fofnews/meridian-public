@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback, useRef, useLayoutEffect } from 'react';
 import BroadcastHero from './components/BroadcastHero';
 import DateNav from './components/DateNav';
 import StoryCard from './components/StoryCard';
@@ -13,6 +13,15 @@ export default function App() {
   const [error, setError] = useState(null);
   const [expandedStory, setExpandedStory] = useState(null);
   const [featuredIdx, setFeaturedIdx] = useState(0);
+  const scrollAnchor = useRef(null);
+
+  useLayoutEffect(() => {
+    if (!scrollAnchor.current) return;
+    const { element, top } = scrollAnchor.current;
+    const delta = element.getBoundingClientRect().top - top;
+    if (delta !== 0) window.scrollBy({ top: delta, behavior: 'instant' });
+    scrollAnchor.current = null;
+  });
 
   const loadReport = useCallback(async (date, edition) => {
     setLoading(true);
@@ -128,7 +137,8 @@ export default function App() {
                       key={story.id}
                       story={story}
                       expanded={expandedStory === story.id}
-                      onToggle={() => {
+                      onToggle={(el) => {
+                        scrollAnchor.current = { element: el, top: el.getBoundingClientRect().top };
                         const next = expandedStory === story.id ? null : story.id;
                         setExpandedStory(next);
                         if (next) setFeaturedIdx(i);
@@ -165,7 +175,10 @@ export default function App() {
                       story={story}
                       brief
                       expanded={expandedStory === story.id}
-                      onToggle={() => setExpandedStory(expandedStory === story.id ? null : story.id)}
+                      onToggle={(el) => {
+                        scrollAnchor.current = { element: el, top: el.getBoundingClientRect().top };
+                        setExpandedStory(expandedStory === story.id ? null : story.id);
+                      }}
                     />
                   ))}
                 </div>

@@ -1,18 +1,19 @@
-import { useState } from 'react';
+import { useState, useRef } from 'react';
 import { ChevronDown, ChevronUp, ExternalLink } from 'lucide-react';
 import SourceBadge from './SourceBadge';
 import AnalysisView from './AnalysisView';
 
 export default function StoryCard({ story, brief = false, expanded, onToggle }) {
   const [sourcesOpen, setSourcesOpen] = useState(false);
+  const cardRef = useRef(null);
   const sources = [...new Set(story.articles.map(a => a.source))];
 
   // Brief variant — compact list row for single-source "In Brief" section
   if (brief) {
     return (
-      <div className="border-b border-[#1a2035] last:border-0">
+      <div ref={cardRef} className="border-b border-[#1a2035] last:border-0">
         <button
-          onClick={onToggle}
+          onClick={() => onToggle(cardRef.current)}
           className="w-full text-left py-4 flex items-start justify-between gap-4 cursor-pointer group"
         >
           <div className="flex-1 min-w-0">
@@ -52,6 +53,7 @@ export default function StoryCard({ story, brief = false, expanded, onToggle }) 
 
   return (
     <div
+      ref={cardRef}
       className="rounded-xl overflow-hidden transition-all"
       style={{
         background: '#0a0d14',
@@ -60,7 +62,7 @@ export default function StoryCard({ story, brief = false, expanded, onToggle }) 
       }}
     >
       <button
-        onClick={onToggle}
+        onClick={() => onToggle(cardRef.current)}
         className="w-full text-left px-6 py-5 flex items-start justify-between gap-4 cursor-pointer group"
       >
         <div className="flex-1 min-w-0">
