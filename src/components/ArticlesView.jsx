@@ -1,5 +1,7 @@
 import { useEffect, useState } from 'react';
 
+const CATEGORY_ORDER = ['Politics', 'International', 'Business', 'Crime', 'Health', 'Environment', 'Tech', 'Sports', 'Entertainment', 'Other'];
+
 function timeAgo(dateStr) {
   if (!dateStr) return '';
   const diff = Date.now() - new Date(dateStr).getTime();
@@ -32,41 +34,25 @@ function ArticleRow({ article }) {
   );
 }
 
-function StoryGroup({ story, defaultOpen = false }) {
-  const [open, setOpen] = useState(defaultOpen);
-  return (
-    <div className="mb-4 border border-[#1a2035] rounded-lg overflow-hidden">
-      <button
-        onClick={() => setOpen(o => !o)}
-        className="w-full flex items-center justify-between px-4 py-3 bg-[#0f1320] hover:bg-[#111827] transition-colors cursor-pointer"
-      >
-        <span className="text-[#f0ebe0] text-sm font-semibold text-left leading-snug">{story.headline}</span>
-        <div className="flex items-center gap-2 ml-4 shrink-0">
-          <span className="text-[#e8c547] text-xs font-medium">{story.articles.length} sources</span>
-          <span className="text-[#4a5568] text-xs">{open ? '▲' : '▼'}</span>
-        </div>
-      </button>
-      {open && (
-        <div className="px-4 bg-[#0a0d14]">
-          {story.articles.map((a, i) => <ArticleRow key={i} article={a} />)}
-        </div>
-      )}
-    </div>
-  );
-}
-
 export default function ArticlesView({ selectedDate }) {
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
+  const [activeCategory, setActiveCategory] = useState(null);
 
   useEffect(() => {
     if (!selectedDate) return;
     setLoading(true);
     setError(null);
+    setData(null);
     fetch(`/api/articles/${selectedDate}`)
       .then(r => r.ok ? r.json() : r.json().then(j => Promise.reject(j.error)))
-      .then(d => { setData(d); setLoading(false); })
+      .then(d => {
+        setData(d);
+        const firstCat = CATEGORY_ORDER.find(c => d.categories?.[c]?.length > 0);
+        setActiveCategory(firstCat || null);
+        setLoading(false);
+      })
       .catch(e => { setError(e?.message || String(e) || 'Failed to load articles'); setLoading(false); });
   }, [selectedDate]);
 
@@ -78,34 +64,46 @@ export default function ArticlesView({ selectedDate }) {
   );
   if (!data) return null;
 
+  const availableCategories = CATEGORY_ORDER.filter(c => data.categories?.[c]?.length > 0);
+  const articles = activeCategory ? (data.categories?.[activeCategory] || []) : [];
+
   return (
     <div className="max-w-3xl mx-auto px-4 py-6">
-      <div className="flex items-center justify-between mb-6">
+      <div className="flex items-center justify-between mb-5">
         <h2 className="text-[#f0ebe0] text-lg font-bold tracking-wide uppercase" style={{ letterSpacing: '2px' }}>
           Articles
         </h2>
         <span className="text-[#4a5568] text-xs">{data.total} collected</span>
       </div>
 
-      {data.stories.length > 0 && (
-        <div className="mb-8">
-          <p className="text-[#6b7a9a] text-xs uppercase tracking-widest mb-3">By Story</p>
-          {data.stories.map((story, i) => (
-            <StoryGroup key={i} story={story} defaultOpen={i === 0} />
-          ))}
-        </div>
-      )}
+      {/* Category tabs */}
+      <div className="flex gap-2 flex-wrap mb-6">
+        {availableCategories.map(cat => (
+          <button
+            key={cat}
+            onClick={() => setActiveCategory(cat)}
+            className="cursor-pointer transition-all text-xs font-semibold uppercase px-3 py-1.5 rounded-full"
+            style={{
+              letterSpacing: '1px',
+              background: activeCategory === cat ? '#e8c547' : 'rgba(26,32,53,0.8)',
+              color: activeCategory === cat ? '#0a0d14' : '#6b7a9a',
+              border: `1px solid ${activeCategory === cat ? '#e8c547' : '#1a2035'}`,
+            }}
+          >
+            {cat}
+            <span className="ml-1.5 opacity-60">{data.categories[cat].length}</span>
+          </button>
+        ))}
+      </div>
 
-      {data.unclassified.length > 0 && (
-        <div>
-          <p className="text-[#6b7a9a] text-xs uppercase tracking-widest mb-3">
-            {data.stories.length > 0 ? 'Other Articles' : 'All Articles'}
-          </p>
-          <div className="border border-[#1a2035] rounded-lg overflow-hidden bg-[#0a0d14] px-4">
-            {data.unclassified.map((a, i) => <ArticleRow key={i} article={a} />)}
-          </div>
-        </div>
-      )}
+      {/* Article list */}
+      <div className="border border-[#1a2035] rounded-lg overflow-hidden bg-[#0a0d14] px-4">
+        {articles.length === 0 ? (
+          <p className="text-[#4a5568] text-sm py-6 text-center">No articles in this category.</p>
+        ) : (
+          articles.map((a, i) => <ArticleRow key={i} article={a} />)
+        )}
+      </div>
     </div>
   );
 }
