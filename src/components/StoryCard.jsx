@@ -2,6 +2,7 @@ import { useState, useRef } from 'react';
 import { ChevronDown, ChevronUp, ExternalLink } from 'lucide-react';
 import SourceBadge from './SourceBadge';
 import AnalysisView from './AnalysisView';
+import { decodeText } from '../utils';
 
 export default function StoryCard({ story, brief = false, expanded, onToggle }) {
   const [sourcesOpen, setSourcesOpen] = useState(false);
@@ -18,7 +19,7 @@ export default function StoryCard({ story, brief = false, expanded, onToggle }) 
         >
           <div className="flex-1 min-w-0">
             <p className="text-[#c8c0b0] text-sm leading-snug group-hover:text-[#f0ebe0] transition-colors line-clamp-2">
-              {story.headline}
+              {decodeText(story.headline)}
             </p>
             <div className="flex items-center gap-1.5 mt-1.5">
               {sources.slice(0, 3).map(s => <SourceBadge key={s} source={s} />)}
@@ -70,7 +71,7 @@ export default function StoryCard({ story, brief = false, expanded, onToggle }) 
             className="font-display text-xl font-bold leading-snug group-hover:text-[#e8c547] transition-colors"
             style={{ color: '#f0ebe0' }}
           >
-            {story.headline}
+            {decodeText(story.headline)}
           </h3>
           <div className="flex flex-wrap items-center gap-2 mt-3">
             <span className="text-xs text-[#4a5568]">{sources.length} source{sources.length !== 1 ? 's' : ''}</span>
@@ -128,7 +129,7 @@ export default function StoryCard({ story, brief = false, expanded, onToggle }) 
                     <SourceBadge source={article.source} />
                     <div className="flex-1 min-w-0">
                       <p className="text-sm text-[#c8c0b0] group-hover:text-[#e8c547] transition-colors">
-                        {article.title}
+                        {decodeText(article.title)}
                       </p>
                       {article.description && (
                         <p className="text-xs text-[#4a5568] mt-0.5 line-clamp-2">{article.description}</p>
