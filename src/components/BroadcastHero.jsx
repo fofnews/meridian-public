@@ -29,7 +29,7 @@ function extractLocationQuery(headline) {
 async function geocodeStory(story) {
   if (geocodeCache[story.id]) return geocodeCache[story.id];
 
-  const fallback = { lng: 0, lat: 20, zoom: 1.5 };
+  const fallback = { lng: 0, lat: 20, zoom: 1.0 };
   const locationQuery = extractLocationQuery(story.headline);
   if (!locationQuery) {
     geocodeCache[story.id] = fallback;
@@ -122,7 +122,7 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
       container: mapContainer.current,
       style: 'mapbox://styles/mapbox/dark-v11',
       center: [0, 20],
-      zoom: 1.5,
+      zoom: 1.0,
       interactive: true,
       attributionControl: false,
     });
@@ -179,7 +179,7 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
     if (!mapRef.current) return;
     const map = mapRef.current;
     const go = () => {
-      map.flyTo({ center: [loc.lng, loc.lat], zoom: 6, duration: 2000, essential: true });
+      map.flyTo({ center: [loc.lng, loc.lat], zoom: 5, duration: 2000, essential: true });
       markerRef.current?.setLngLat([loc.lng, loc.lat]);
       if (map.getLayer('country-highlight')) {
         map.setFilter('country-highlight', ['==', 'iso_3166_1', loc.iso ?? '']);

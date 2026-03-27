@@ -96,6 +96,49 @@ app.get('/api/report/:date', (req, res) => {
   res.status(404).json({ error: 'Report not found' });
 });
 
+// Serve articles for a specific date
+const ARTICLES_DIR = path.join(__dirname, 'articles');
+app.get('/api/articles/:date', (req, res) => {
+  const { date } = req.params;
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) return res.status(400).json({ error: 'Invalid date' });
+
+  const articlesFile = path.join(ARTICLES_DIR, `${date}.json`);
+  if (!fs.existsSync(articlesFile)) return res.status(404).json({ error: 'No articles for this date' });
+
+  const articles = JSON.parse(fs.readFileSync(articlesFile, 'utf8'));
+
+  // Match against latest report for story grouping
+  const storyByUrl = {};
+  for (const edition of ['evening', 'morning']) {
+    const reportFile = path.join(REPORTS_DIR, `${date}-${edition}.json`);
+    if (fs.existsSync(reportFile)) {
+      const report = JSON.parse(fs.readFileSync(reportFile, 'utf8'));
+      for (const story of report.stories || []) {
+        for (const article of story.articles || []) {
+          if (article.link) storyByUrl[article.link] = story.headline;
+        }
+      }
+      break;
+    }
+  }
+
+  const storyMap = {};
+  const unclassified = [];
+  for (const article of articles) {
+    const headline = storyByUrl[article.link];
+    if (headline) {
+      if (!storyMap[headline]) storyMap[headline] = { headline, articles: [] };
+      storyMap[headline].articles.push(article);
+    } else {
+      unclassified.push(article);
+    }
+  }
+
+  const stories = Object.values(storyMap).sort((a, b) => b.articles.length - a.articles.length);
+  unclassified.sort((a, b) => new Date(b.pubDate || b.collectedAt) - new Date(a.pubDate || a.collectedAt));
+  res.json({ date, stories, unclassified, total: articles.length });
+});
+
 // SPA fallback
 app.get('*path', (_req, res) => {
   res.sendFile(path.join(__dirname, 'dist', 'index.html'));
