@@ -1,6 +1,7 @@
 import { useState, useEffect, useRef } from 'react';
 import mapboxgl from 'mapbox-gl';
 import 'mapbox-gl/dist/mapbox-gl.css';
+import { decodeText } from '../utils';
 
 mapboxgl.accessToken = import.meta.env.VITE_MAPBOX_TOKEN;
 
@@ -66,7 +67,8 @@ function buildChyronSub(analysis) {
 }
 
 function truncateHeadline(headline, maxLen = 72) {
-  return headline.length <= maxLen ? headline : headline.slice(0, maxLen - 1) + '…';
+  const decoded = decodeText(headline);
+  return decoded.length <= maxLen ? decoded : decoded.slice(0, maxLen - 1) + '…';
 }
 
 function createMarkerElement() {
