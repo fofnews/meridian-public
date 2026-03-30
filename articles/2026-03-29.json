@@ -5789,5 +5789,50 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-03-29T23:45:01.482Z"
+  },
+  {
+    "title": "Couple Spend 10 Years Trying for Baby, Then One Move Changes Everything",
+    "description": "\"I cried every day for a month because I was so scared that it wasn’t going to work out,\" Shara Chapek told Newsweek.",
+    "link": "https://www.newsweek.com/couple-spend-10-years-trying-baby-move-changes-everything-11739484",
+    "pubDate": "Sun, 29 Mar 2026 19:46:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-03-30T00:00:02.494Z"
+  },
+  {
+    "title": "Iran warns US college campuses in Middle East could become ‘legitimate targets’",
+    "description": "Iran on Sunday said it would begin treating American college campuses in the Middle East as “legitimate targets” for its military after it said U.S.-Israeli strikes this weekend hit Isfahan University of Technology and Tehran University of Science and Technology. “The reckless rulers of the White House should know that from now on, all universities…",
+    "link": "https://thehill.com/policy/international/5806893-iran-warns-that-us-college-campuses-in-middle-east-could-become-legitimate-targets/",
+    "pubDate": "Sun, 29 Mar 2026 23:24:43 +0000",
+    "source": "The Hill",
+    "categories": [
+      "international",
+      "college campuses",
+      "iran",
+      "iran strikes on middle east",
+      "tehran university",
+      "u.s. strikes on iran"
+    ],
+    "collectedAt": "2026-03-30T00:00:02.494Z"
+  },
+  {
+    "title": "UConn's Braylon Mullins hits game-winning 3-pointer to shock Duke, advance to men's Final Four",
+    "description": "UConn Huskes freshman Braylon Mullins threw up a prayer and it was answered as his 3-pointer completed a comeback against the Duke Blue Devils.",
+    "link": "https://www.foxnews.com/sports/uconns-braylon-mullins-hits-game-winning-3-pointer-shock-duke-advance-mens-final-four",
+    "pubDate": "Sun, 29 Mar 2026 19:43:56 -0400",
+    "source": "Fox News",
+    "categories": [
+      "3d0b0a0c-f2d4-5070-88c6-cb99e252571c",
+      "fnc",
+      "fox news",
+      "fox-news/sports/ncaa-bk/march-madness",
+      "fox-news/sports/ncaa-bk",
+      "fox-news/sports/ncaa",
+      "fox-news/sports/ncaa/duke-blue-devils",
+      "fox-news/sports/ncaa/connecticut-huskies",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-03-30T00:00:02.494Z"
   }
 ]
