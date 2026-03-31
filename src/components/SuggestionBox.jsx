@@ -89,29 +89,29 @@ export default function SuggestionBox() {
   }
 
   return (
-    <div className="mb-6 rounded-xl overflow-hidden" style={{ border: '1px solid #1a2035' }}>
+    <div className="mb-6 rounded-xl overflow-hidden" style={{ border: '1px solid var(--border-primary)' }}>
       {/* Collapsible tab header */}
       <button
         onClick={() => setOpen(o => !o)}
         className="w-full flex items-center justify-between px-5 py-3 text-left"
-        style={{ background: '#0a0d14' }}
+        style={{ background: 'var(--bg-secondary)' }}
       >
         <div className="flex items-center gap-3">
-          <span className="text-xs font-semibold uppercase tracking-widest" style={{ color: '#e8c547', letterSpacing: '3px' }}>
+          <span className="text-xs font-semibold uppercase tracking-widest" style={{ color: 'var(--accent)', letterSpacing: '3px' }}>
             Suggestions
           </span>
           {suggestions.length > 0 && !open && (
-            <span className="text-xs" style={{ color: '#4a5568' }}>{suggestions.length} submitted</span>
+            <span className="text-xs" style={{ color: 'var(--text-faint)' }}>{suggestions.length} submitted</span>
           )}
         </div>
-        <span style={{ color: '#4a5568', fontSize: 12, transition: 'transform 0.2s', display: 'inline-block', transform: open ? 'rotate(180deg)' : 'rotate(0deg)' }}>
+        <span style={{ color: 'var(--text-faint)', fontSize: 12, transition: 'transform 0.2s', display: 'inline-block', transform: open ? 'rotate(180deg)' : 'rotate(0deg)' }}>
           ▼
         </span>
       </button>
 
       {/* Expanded content */}
       {open && (
-        <div style={{ background: '#0a0d14', borderTop: '1px solid #1a2035' }}>
+        <div style={{ background: 'var(--bg-secondary)', borderTop: '1px solid var(--border-primary)' }}>
           {/* Submit form */}
           <form onSubmit={handleSubmit} className="px-5 py-4 flex gap-3">
             <input
@@ -122,10 +122,10 @@ export default function SuggestionBox() {
               maxLength={280}
               className="flex-1 rounded-lg px-4 py-2 text-sm outline-none"
               style={{
-                background: '#060810',
-                border: '1px solid #1a2035',
-                color: '#c8c0b0',
-                caretColor: '#e8c547',
+                background: 'var(--bg-input)',
+                border: '1px solid var(--border-primary)',
+                color: 'var(--text-secondary)',
+                caretColor: 'var(--accent)',
               }}
             />
             <button
@@ -133,8 +133,8 @@ export default function SuggestionBox() {
               disabled={!text.trim() || submitting}
               className="px-4 py-2 rounded-lg text-xs font-semibold uppercase tracking-widest transition-opacity"
               style={{
-                background: '#e8c547',
-                color: '#060810',
+                background: 'var(--accent)',
+                color: 'var(--accent-text)',
                 letterSpacing: '2px',
                 opacity: !text.trim() || submitting ? 0.4 : 1,
                 cursor: !text.trim() || submitting ? 'default' : 'pointer',
@@ -151,15 +151,15 @@ export default function SuggestionBox() {
           {/* Suggestions list */}
           {suggestions.length > 0 && (
             <div className="px-5 pb-4 space-y-2">
-              <div style={{ height: 1, background: '#1a2035', marginBottom: 12 }} />
+              <div style={{ height: 1, background: 'var(--border-primary)', marginBottom: 12 }} />
               {suggestions.map(s => (
                 <div
                   key={s.id}
                   className="flex items-start justify-between gap-4 py-2"
-                  style={{ borderBottom: '1px solid #1a2035' }}
+                  style={{ borderBottom: '1px solid var(--border-primary)' }}
                 >
                   <div className="flex-1 min-w-0">
-                    <p className="text-sm" style={{ color: '#c8c0b0', lineHeight: 1.5 }}>{s.text}</p>
+                    <p className="text-sm" style={{ color: 'var(--text-secondary)', lineHeight: 1.5 }}>{s.text}</p>
                     {s.done && (
                       <span className="inline-flex items-center gap-1 mt-1 text-xs" style={{ color: '#4ade80' }}>
                         ✓ Done!
@@ -172,13 +172,13 @@ export default function SuggestionBox() {
                       disabled={!!votes[s.id]}
                       className="flex items-center px-2 py-1 rounded-lg text-xs transition-opacity"
                       style={{
-                        background: votes[s.id] === 'up' ? '#1a2035' : '#111827',
-                        border: `1px solid ${votes[s.id] === 'up' ? '#e8c547' : '#1a2035'}`,
-                        color: votes[s.id] === 'up' ? '#e8c547' : '#6b7a9a',
+                        background: votes[s.id] === 'up' ? 'var(--border-primary)' : 'var(--bg-hover)',
+                        border: `1px solid ${votes[s.id] === 'up' ? 'var(--accent)' : 'var(--border-primary)'}`,
+                        color: votes[s.id] === 'up' ? 'var(--accent)' : 'var(--text-muted)',
                         cursor: votes[s.id] ? 'default' : 'pointer',
                       }}
                     >▲</button>
-                    <span className="text-xs w-6 text-center" style={{ color: s.votes < 0 ? '#e87547' : s.votes > 0 ? '#e8c547' : '#4a5568' }}>
+                    <span className="text-xs w-6 text-center" style={{ color: s.votes < 0 ? '#e87547' : s.votes > 0 ? 'var(--accent)' : 'var(--text-faint)' }}>
                       {s.votes}
                     </span>
                     <button
@@ -186,9 +186,9 @@ export default function SuggestionBox() {
                       disabled={!!votes[s.id]}
                       className="flex items-center px-2 py-1 rounded-lg text-xs transition-opacity"
                       style={{
-                        background: votes[s.id] === 'down' ? '#1a2035' : '#111827',
-                        border: `1px solid ${votes[s.id] === 'down' ? '#e87547' : '#1a2035'}`,
-                        color: votes[s.id] === 'down' ? '#e87547' : '#6b7a9a',
+                        background: votes[s.id] === 'down' ? 'var(--border-primary)' : 'var(--bg-hover)',
+                        border: `1px solid ${votes[s.id] === 'down' ? '#e87547' : 'var(--border-primary)'}`,
+                        color: votes[s.id] === 'down' ? '#e87547' : 'var(--text-muted)',
                         cursor: votes[s.id] ? 'default' : 'pointer',
                       }}
                     >▼</button>
@@ -197,9 +197,9 @@ export default function SuggestionBox() {
                         onClick={() => handleDone(s.id)}
                         className="flex items-center px-2 py-1 rounded-lg text-xs"
                         style={{
-                          background: s.done ? '#0d2010' : '#111827',
-                          border: `1px solid ${s.done ? '#4ade80' : '#1a2035'}`,
-                          color: s.done ? '#4ade80' : '#4a5568',
+                          background: s.done ? '#0d2010' : 'var(--bg-hover)',
+                          border: `1px solid ${s.done ? '#4ade80' : 'var(--border-primary)'}`,
+                          color: s.done ? '#4ade80' : 'var(--text-faint)',
                           cursor: 'pointer',
                         }}
                         title={s.done ? 'Mark as not done' : 'Mark as done'}
@@ -207,7 +207,7 @@ export default function SuggestionBox() {
                       <button
                         onClick={() => handleDelete(s.id)}
                         className="flex items-center px-2 py-1 rounded-lg text-xs"
-                        style={{ background: '#111827', border: '1px solid #1a2035', color: '#4a5568', cursor: 'pointer' }}
+                        style={{ background: 'var(--bg-hover)', border: '1px solid var(--border-primary)', color: 'var(--text-faint)', cursor: 'pointer' }}
                         title="Delete suggestion"
                       >×</button>
                     </>)}
@@ -218,7 +218,7 @@ export default function SuggestionBox() {
           )}
 
           {suggestions.length === 0 && (
-            <p className="px-5 pb-4 text-xs" style={{ color: '#4a5568' }}>No suggestions yet. Be the first!</p>
+            <p className="px-5 pb-4 text-xs" style={{ color: 'var(--text-faint)' }}>No suggestions yet. Be the first!</p>
           )}
         </div>
       )}

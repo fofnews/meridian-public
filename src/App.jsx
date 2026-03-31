@@ -1,11 +1,14 @@
 import { useState, useEffect, useCallback, useRef, useLayoutEffect } from 'react';
+import { Sun, Moon } from 'lucide-react';
 import BroadcastHero from './components/BroadcastHero';
 import DateNav from './components/DateNav';
 import StoryCard from './components/StoryCard';
 import SuggestionBox from './components/SuggestionBox';
 import ArticlesView from './components/ArticlesView';
+import { useTheme } from './ThemeContext.jsx';
 
 export default function App() {
+  const { isDark, toggleTheme } = useTheme();
   const [report, setReport] = useState(null);
   const [availableDates, setAvailableDates] = useState([]);
   const [selectedDate, setSelectedDate] = useState(null);
@@ -66,7 +69,7 @@ export default function App() {
   const singleSource = report?.stories?.filter(s => sourceCount(s) < 2) ?? [];
 
   return (
-    <div className="min-h-screen" style={{ background: '#060810' }}>
+    <div className="min-h-screen" style={{ background: 'var(--bg-primary)' }}>
 
       {/* Broadcast hero — only shown when we have data */}
       {!loading && report && multiSource.length > 0 && (
@@ -84,9 +87,9 @@ export default function App() {
       {loading && (
         <div
           className="w-full flex items-center justify-center"
-          style={{ aspectRatio: '16/9', maxHeight: '75vh', minHeight: 280, background: '#0a0d14' }}
+          style={{ aspectRatio: '16/9', maxHeight: '75vh', minHeight: 280, background: 'var(--bg-secondary)' }}
         >
-          <div style={{ color: '#4a5568', letterSpacing: '3px', fontSize: 13 }}>
+          <div style={{ color: 'var(--text-faint)', letterSpacing: '3px', fontSize: 13 }}>
             THE MERIDIAN
           </div>
         </div>
@@ -101,16 +104,17 @@ export default function App() {
       />
 
       {/* View tabs */}
-      <div className="border-b border-[#1a2035]">
+      <div style={{ borderBottom: '1px solid var(--border-primary)' }}>
         <div className="max-w-5xl mx-auto px-4 flex gap-6">
           {['analysis', 'articles'].map(v => (
             <button
               key={v}
               onClick={() => setView(v)}
-              className="py-3 text-xs font-semibold uppercase tracking-widest cursor-pointer transition-colors border-b-2"
+              className="py-3 px-4 text-xs font-semibold uppercase tracking-widest cursor-pointer transition-colors border-b-2"
               style={{
-                color: view === v ? '#e8c547' : '#4a5568',
-                borderColor: view === v ? '#e8c547' : 'transparent',
+                background: 'var(--bg-tabbar)',
+                color: view === v ? 'var(--accent)' : 'rgba(255,255,255,0.5)',
+                borderColor: view === v ? 'var(--accent)' : 'transparent',
                 letterSpacing: '2px',
               }}
             >
@@ -126,13 +130,13 @@ export default function App() {
         )}
 
         {view === 'analysis' && loading && (
-          <div className="flex items-center justify-center py-20" style={{ color: '#4a5568', letterSpacing: 2, fontSize: 12 }}>
+          <div className="flex items-center justify-center py-20" style={{ color: 'var(--text-faint)', letterSpacing: 2, fontSize: 12 }}>
             LOADING REPORT...
           </div>
         )}
 
         {view === 'analysis' && !loading && error && (
-          <div className="text-center py-20" style={{ color: '#6b7a9a' }}>
+          <div className="text-center py-20" style={{ color: 'var(--text-muted)' }}>
             {error}
           </div>
         )}
@@ -147,12 +151,12 @@ export default function App() {
                 <div className="flex items-center gap-4 mb-6">
                   <h2
                     className="text-xs font-semibold uppercase tracking-widest shrink-0"
-                    style={{ color: '#e8c547', letterSpacing: '3px' }}
+                    style={{ color: 'var(--accent)', letterSpacing: '3px' }}
                   >
                     Top Stories
                   </h2>
-                  <div style={{ flex: 1, height: 1, background: '#1a2035' }} />
-                  <span className="text-xs shrink-0" style={{ color: '#4a5568' }}>
+                  <div style={{ flex: 1, height: 1, background: 'var(--border-primary)' }} />
+                  <span className="text-xs shrink-0" style={{ color: 'var(--text-faint)' }}>
                     {multiSource.length} stories
                   </span>
                 </div>
@@ -181,19 +185,19 @@ export default function App() {
                 <div className="flex items-center gap-4 mb-4">
                   <h2
                     className="text-xs font-semibold uppercase tracking-widest shrink-0"
-                    style={{ color: '#6b7a9a', letterSpacing: '3px' }}
+                    style={{ color: 'var(--text-muted)', letterSpacing: '3px' }}
                   >
                     In Brief
                   </h2>
-                  <div style={{ flex: 1, height: 1, background: '#1a2035' }} />
-                  <span className="text-xs shrink-0" style={{ color: '#4a5568' }}>
+                  <div style={{ flex: 1, height: 1, background: 'var(--border-primary)' }} />
+                  <span className="text-xs shrink-0" style={{ color: 'var(--text-faint)' }}>
                     {singleSource.length} items
                   </span>
                 </div>
 
                 <div
                   className="rounded-xl overflow-hidden px-5"
-                  style={{ background: '#0a0d14', border: '1px solid #1a2035' }}
+                  style={{ background: 'var(--bg-secondary)', border: '1px solid var(--border-primary)' }}
                 >
                   {singleSource.map(story => (
                     <StoryCard
@@ -214,20 +218,45 @@ export default function App() {
         )}
 
         {view === 'analysis' && !loading && !error && !report && (
-          <div className="text-center py-24" style={{ color: '#4a5568' }}>
+          <div className="text-center py-24" style={{ color: 'var(--text-faint)' }}>
             No reports available.
           </div>
         )}
       </main>
 
-      <footer className="mt-16 py-8" style={{ borderTop: '1px solid #1a2035' }}>
+      <footer className="mt-16 py-8" style={{ borderTop: '1px solid var(--border-primary)' }}>
         <div className="max-w-5xl mx-auto px-4 text-center">
-          <p style={{ color: '#4a5568', fontSize: 11, letterSpacing: '2px', textTransform: 'uppercase' }}>
+          <p style={{ color: 'var(--text-faint)', fontSize: 11, letterSpacing: '2px', textTransform: 'uppercase' }}>
             The Meridian  ·  Multi-source news analysis
             {report && `  ·  ${report.articleCount} articles from ${report.sourceCount} sources`}
           </p>
         </div>
       </footer>
+
+      {/* Floating theme toggle */}
+      <button
+        onClick={toggleTheme}
+        title={isDark ? 'Switch to light mode' : 'Switch to dark mode'}
+        style={{
+          position: 'fixed',
+          bottom: 24,
+          right: 24,
+          zIndex: 50,
+          width: 40,
+          height: 40,
+          borderRadius: '50%',
+          background: 'var(--bg-secondary)',
+          border: '1px solid var(--border-primary)',
+          color: 'var(--accent)',
+          cursor: 'pointer',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          boxShadow: '0 2px 12px rgba(0,0,0,0.3)',
+        }}
+      >
+        {isDark ? <Sun size={16} /> : <Moon size={16} />}
+      </button>
     </div>
   );
 }

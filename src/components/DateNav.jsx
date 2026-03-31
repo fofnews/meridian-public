@@ -8,7 +8,7 @@ export default function DateNav({ availableDates, selectedDate, onSelect }) {
   }
 
   return (
-    <div className="border-b border-[#1a2035] bg-[#0a0d14]">
+    <div style={{ borderBottom: '1px solid var(--border-primary)', background: 'var(--bg-secondary)' }}>
       <div className="max-w-5xl mx-auto px-4">
         <div className="flex gap-1.5 overflow-x-auto py-2.5" style={{ scrollbarWidth: 'none' }}>
           {availableDates.slice(0, 28).map(({ date, editions }) => {
@@ -19,11 +19,16 @@ export default function DateNav({ availableDates, selectedDate, onSelect }) {
               <button
                 key={date}
                 onClick={() => onSelect(date, bestEdition)}
-                className={`whitespace-nowrap px-3 py-1.5 rounded-full text-xs font-medium transition-all cursor-pointer ${
-                  active
-                    ? 'bg-[#e8c547] text-[#0a0d14] font-semibold'
-                    : 'text-[#6b7a9a] hover:text-[#f0ebe0] hover:bg-[#1a2035]'
-                }`}
+                className="whitespace-nowrap px-3 py-1.5 rounded-full text-xs font-medium transition-all cursor-pointer"
+                style={active ? {
+                  background: 'var(--accent)',
+                  color: 'var(--accent-text)',
+                  fontWeight: 600,
+                } : {
+                  color: 'var(--text-muted)',
+                }}
+                onMouseEnter={e => { if (!active) { e.currentTarget.style.color = 'var(--text-primary)'; e.currentTarget.style.background = 'var(--border-primary)'; } }}
+                onMouseLeave={e => { if (!active) { e.currentTarget.style.color = 'var(--text-muted)'; e.currentTarget.style.background = ''; } }}
               >
                 {label(date)}
               </button>

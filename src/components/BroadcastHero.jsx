@@ -2,6 +2,7 @@ import { useState, useEffect, useRef } from 'react';
 import mapboxgl from 'mapbox-gl';
 import 'mapbox-gl/dist/mapbox-gl.css';
 import { decodeText } from '../utils';
+import { useTheme } from '../ThemeContext.jsx';
 
 mapboxgl.accessToken = import.meta.env.VITE_MAPBOX_TOKEN;
 
@@ -95,7 +96,58 @@ function createMarkerElement() {
   return wrapper;
 }
 
+function applyMapStyle(map, isDark) {
+  // Land color (dark-v11 only — not present in light-v11)
+  try { map.setPaintProperty('land', 'background-color', isDark ? '#222534' : '#e8e4d8'); } catch {}
+
+  // Country labels
+  try {
+    map.setPaintProperty('country-label', 'text-color', isDark ? '#ffffff' : '#1a1a2e');
+    map.setPaintProperty('country-label', 'text-halo-color', isDark ? 'rgba(0,0,0,0.6)' : 'rgba(244,240,232,0.8)');
+    map.setPaintProperty('country-label', 'text-halo-width', 1.5);
+    map.setLayoutProperty('country-label', 'text-size', 20);
+  } catch {}
+
+  // Country highlight + border layers (re-add after style change)
+  try {
+    if (!map.getSource('country-boundaries')) {
+      map.addSource('country-boundaries', {
+        type: 'vector',
+        url: 'mapbox://mapbox.country-boundaries-v1',
+      });
+    }
+    if (!map.getLayer('country-highlight')) {
+      map.addLayer({
+        id: 'country-highlight',
+        type: 'fill',
+        source: 'country-boundaries',
+        'source-layer': 'country_boundaries',
+        filter: ['==', 'iso_3166_1', ''],
+        paint: { 'fill-color': '#e8c547', 'fill-opacity': 0.18 },
+      });
+    }
+    if (!map.getLayer('country-borders')) {
+      map.addLayer({
+        id: 'country-borders',
+        type: 'line',
+        source: 'country-boundaries',
+        'source-layer': 'country_boundaries',
+        paint: {
+          'line-color': isDark ? 'rgba(180,190,220,0.6)' : '#1a0e00',
+          'line-width': isDark ? 0.8 : 1.8,
+          'line-opacity': isDark ? 0.6 : 0.85,
+        },
+      });
+    } else {
+      map.setPaintProperty('country-borders', 'line-color', isDark ? 'rgba(180,190,220,0.6)' : '#1a0e00');
+      map.setPaintProperty('country-borders', 'line-width', isDark ? 0.8 : 1.8);
+      map.setPaintProperty('country-borders', 'line-opacity', isDark ? 0.6 : 0.85);
+    }
+  } catch {}
+}
+
 export default function BroadcastHero({ stories, selectedIdx, onSelect, edition, availableEditions = [], onEditionSelect }) {
+  const { isDark } = useTheme();
   const EDITION_LABELS = { morning: '☀  Morning', evening: '🌙  Evening' };
   const [time, setTime] = useState('');
   const [activeLocIdx, setActiveLocIdx] = useState(0);
@@ -122,7 +174,7 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
 
     const map = new mapboxgl.Map({
       container: mapContainer.current,
-      style: 'mapbox://styles/mapbox/dark-v11',
+      style: isDark ? 'mapbox://styles/mapbox/dark-v11' : 'mapbox://styles/mapbox/outdoors-v12',
       center: [0, 20],
       zoom: 1.0,
       interactive: true,
@@ -131,33 +183,8 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
 
     map.on('load', () => {
       map.resize();
-      // Offset center to compensate for chyron (bottom) and story selector (right) overlays
       map.setPadding({ top: 40, bottom: 110, left: 0, right: 160 });
-      // Land brightness
-      map.setPaintProperty('land', 'background-color', '#222534');
-
-      // Brighten and enlarge country label text
-      map.setPaintProperty('country-label', 'text-color', '#ffffff');
-      map.setPaintProperty('country-label', 'text-halo-color', 'rgba(0,0,0,0.6)');
-      map.setPaintProperty('country-label', 'text-halo-width', 1.5);
-      map.setLayoutProperty('country-label', 'text-size', 20);
-
-      // Country highlight layer
-      map.addSource('country-boundaries', {
-        type: 'vector',
-        url: 'mapbox://mapbox.country-boundaries-v1',
-      });
-      map.addLayer({
-        id: 'country-highlight',
-        type: 'fill',
-        source: 'country-boundaries',
-        'source-layer': 'country_boundaries',
-        filter: ['==', 'iso_3166_1', ''],
-        paint: {
-          'fill-color': '#e8c547',
-          'fill-opacity': 0.18,
-        },
-      });
+      applyMapStyle(map, isDark);
     });
 
     const marker = new mapboxgl.Marker({ element: createMarkerElement(), anchor: 'center' })
@@ -173,6 +200,17 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
       markerRef.current = null;
     };
   }, []);
+
+  // Switch map style when theme changes
+  useEffect(() => {
+    if (!mapRef.current) return;
+    const map = mapRef.current;
+    const newStyle = isDark ? 'mapbox://styles/mapbox/dark-v11' : 'mapbox://styles/mapbox/outdoors-v12';
+    map.setStyle(newStyle);
+    map.once('style.load', () => {
+      applyMapStyle(map, isDark);
+    });
+  }, [isDark]);
 
   const featured = stories[selectedIdx] ?? stories[0];
   const featuredLocations = featured?.analysis?.locations?.filter(l => l?.lat != null && l?.lng != null) ?? [];
@@ -219,6 +257,19 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
   const sourceCount = new Set(featured.articles.map(a => a.source)).size;
   const tickerText = stories.map(s => truncateHeadline(s.headline, 80)).join('  ·  THE MERIDIAN  ·  ');
 
+  // Semi-transparent color helpers using CSS RGB vars (works in inline styles)
+  const btnBg    = `rgba(var(--bg-secondary-rgb), 0.80)`;
+  const chyronUpper = `rgba(var(--bg-secondary-rgb), 0.92)`;
+  const chyronLower = `rgba(var(--bg-chyron-rgb), 0.96)`;
+  const textAlpha55 = `rgba(var(--text-primary-rgb), 0.55)`;
+  const textAlpha60 = `rgba(var(--text-primary-rgb), 0.60)`;
+  const textAlpha35 = `rgba(var(--text-primary-rgb), 0.35)`;
+  const textAlpha45 = `rgba(var(--text-primary-rgb), 0.45)`;
+  const textAlpha70 = `rgba(var(--text-primary-rgb), 0.70)`;
+  const overlayGrad = isDark
+    ? 'radial-gradient(ellipse at 52% 48%, rgba(10,13,20,0.3) 0%, rgba(10,13,20,0.75) 100%)'
+    : 'radial-gradient(ellipse at 52% 48%, rgba(244,240,232,0.1) 0%, rgba(244,240,232,0.45) 100%)';
+
   return (
     <div
       className="relative w-full overflow-hidden"
@@ -227,11 +278,8 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
       {/* Mapbox map */}
       <div ref={mapContainer} className="absolute inset-0" style={{ opacity: 1.8, width: '100%', height: '100%' }} />
 
-      {/* Dark radial overlay */}
-      <div
-        className="absolute inset-0 pointer-events-none"
-        style={{ background: 'radial-gradient(ellipse at 52% 48%, rgba(10,13,20,0.3) 0%, rgba(10,13,20,0.75) 100%)' }}
-      />
+      {/* Radial overlay */}
+      <div className="absolute inset-0 pointer-events-none" style={{ background: overlayGrad }} />
 
       {/* CRT scanlines */}
       <div className="absolute inset-0 scanlines pointer-events-none" />
@@ -240,7 +288,7 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
       <div className="absolute top-0 left-0 right-0 flex items-center justify-between px-[3%] py-[2%]" style={{ zIndex: 10 }}>
         <div
           className="font-display font-black tracking-[3px] uppercase"
-          style={{ color: '#f0ebe0', fontSize: 'clamp(13px, 2.2vw, 26px)' }}
+          style={{ color: 'var(--text-primary)', fontSize: 'clamp(13px, 2.2vw, 26px)' }}
         >
           The Meridian
         </div>
@@ -250,7 +298,7 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
         >
           Live
         </div>
-        <div style={{ color: 'rgba(240,235,224,0.55)', fontSize: 'clamp(7px, 0.9vw, 11px)', letterSpacing: 1 }}>
+        <div style={{ color: textAlpha55, fontSize: 'clamp(7px, 0.9vw, 11px)', letterSpacing: 1 }}>
           {time}
         </div>
       </div>
@@ -267,9 +315,9 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
               onClick={() => onSelect(i)}
               className="text-left transition-all cursor-pointer"
               style={{
-                background: selectedIdx === i ? 'rgba(232,197,71,0.15)' : 'rgba(10,13,20,0.75)',
-                border: `0.5px solid ${selectedIdx === i ? 'rgba(232,197,71,0.7)' : 'rgba(232,197,71,0.2)'}`,
-                color: selectedIdx === i ? '#e8c547' : 'rgba(240,235,224,0.6)',
+                background: selectedIdx === i ? 'rgba(232,197,71,0.15)' : btnBg,
+                border: `0.5px solid ${selectedIdx === i ? 'var(--hero-border-active)' : 'var(--hero-border)'}`,
+                color: selectedIdx === i ? 'var(--accent)' : textAlpha60,
                 fontSize: 'clamp(6px, 0.8vw, 10px)',
                 letterSpacing: '0.8px',
                 textTransform: 'uppercase',
@@ -298,9 +346,9 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
               onClick={() => { setActiveLocIdx(i); flyToLocation(loc); }}
               className="cursor-pointer transition-all"
               style={{
-                background: activeLocIdx === i ? 'rgba(232,197,71,0.2)' : 'rgba(10,13,20,0.75)',
-                border: `1px solid ${activeLocIdx === i ? '#e8c547' : 'rgba(232,197,71,0.3)'}`,
-                color: activeLocIdx === i ? '#e8c547' : '#f0ebe0',
+                background: activeLocIdx === i ? 'rgba(232,197,71,0.2)' : btnBg,
+                border: `1px solid ${activeLocIdx === i ? 'var(--hero-border-active)' : 'var(--hero-border)'}`,
+                color: activeLocIdx === i ? 'var(--accent)' : 'var(--text-primary)',
                 fontWeight: 600,
                 fontSize: 'clamp(7px, 0.8vw, 10px)',
                 letterSpacing: '1px',
@@ -325,9 +373,9 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
             onClick={() => i === 0 ? mapRef.current?.zoomIn() : mapRef.current?.zoomOut()}
             className="cursor-pointer transition-all"
             style={{
-              background: 'rgba(10,13,20,0.75)',
-              border: '1px solid rgba(232,197,71,0.3)',
-              color: 'rgba(240,235,224,0.7)',
+              background: btnBg,
+              border: '1px solid var(--hero-border)',
+              color: textAlpha70,
               fontSize: 'clamp(10px, 1.1vw, 14px)',
               width: 'clamp(18px, 2vw, 26px)',
               height: 'clamp(18px, 2vw, 26px)',
@@ -344,10 +392,10 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
 
       {/* Chyron */}
       <div className="absolute bottom-0 left-0 right-0" style={{ zIndex: 10 }}>
-        <div className="overflow-hidden" style={{ background: '#e8c547', padding: '0.5% 0' }}>
+        <div className="overflow-hidden" style={{ background: 'var(--accent)', padding: '0.5% 0' }}>
           <div
             className="ticker-scroll inline-block whitespace-nowrap"
-            style={{ color: '#0a0d14', fontSize: 'clamp(9px, 1vw, 13px)', fontWeight: 600, letterSpacing: '1.5px', textTransform: 'uppercase' }}
+            style={{ color: 'var(--accent-text)', fontSize: 'clamp(9px, 1vw, 13px)', fontWeight: 600, letterSpacing: '1.5px', textTransform: 'uppercase' }}
           >
             THE MERIDIAN  ·  {tickerText}  ·  THE MERIDIAN  ·  {tickerText}
           </div>
@@ -355,17 +403,17 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
 
         <div
           className="flex items-center gap-4 px-[3%] py-[1.2%]"
-          style={{ background: 'rgba(10,13,20,0.92)', borderTop: '2px solid #e8c547' }}
+          style={{ background: chyronUpper, borderTop: '2px solid var(--hero-border-active)' }}
         >
           <div
             className="shrink-0 font-semibold tracking-[2px] uppercase whitespace-nowrap"
-            style={{ background: '#e8c547', color: '#0a0d14', fontSize: 'clamp(7px, 0.85vw, 10px)', padding: '3px 10px' }}
+            style={{ background: 'var(--accent)', color: 'var(--accent-text)', fontSize: 'clamp(7px, 0.85vw, 10px)', padding: '3px 10px' }}
           >
             {chyronLabel}
           </div>
           <div
             className="font-display font-bold"
-            style={{ color: '#f0ebe0', fontSize: 'clamp(11px, 1.75vw, 20px)', letterSpacing: '0.3px' }}
+            style={{ color: 'var(--text-primary)', fontSize: 'clamp(11px, 1.75vw, 20px)', letterSpacing: '0.3px' }}
           >
             {truncateHeadline(featured.headline)}
           </div>
@@ -373,12 +421,12 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
 
         <div
           className="flex items-center justify-between px-[3%] py-[0.8%]"
-          style={{ background: 'rgba(18,22,36,0.96)' }}
+          style={{ background: chyronLower }}
         >
-          <div style={{ color: 'rgba(240,235,224,0.6)', fontSize: 'clamp(7px, 1vw, 12px)', letterSpacing: '0.8px' }}>
+          <div style={{ color: textAlpha60, fontSize: 'clamp(7px, 1vw, 12px)', letterSpacing: '0.8px' }}>
             {chyronSub}
             {sourceCount > 0 && (
-              <span style={{ color: 'rgba(240,235,224,0.35)', marginLeft: 12 }}>
+              <span style={{ color: textAlpha35, marginLeft: 12 }}>
                 {sourceCount} source{sourceCount !== 1 ? 's' : ''}
               </span>
             )}
@@ -392,8 +440,8 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
                   className="cursor-pointer transition-all"
                   style={{
                     background: edition === e ? 'rgba(232,197,71,0.15)' : 'transparent',
-                    border: `1px solid ${edition === e ? '#e8c547' : 'rgba(232,197,71,0.3)'}`,
-                    color: edition === e ? '#e8c547' : 'rgba(240,235,224,0.45)',
+                    border: `1px solid ${edition === e ? 'var(--hero-border-active)' : 'var(--hero-border)'}`,
+                    color: edition === e ? 'var(--accent)' : textAlpha45,
                     fontSize: 'clamp(7px, 0.85vw, 10px)',
                     letterSpacing: '1.5px',
                     textTransform: 'uppercase',
@@ -406,7 +454,7 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
             </div>
           )}
           {availableEditions.length <= 1 && edition && edition !== 'manual' && (
-            <div style={{ color: '#e8c547', fontSize: 'clamp(7px, 0.85vw, 11px)', letterSpacing: '1.5px', textTransform: 'uppercase' }}>
+            <div style={{ color: 'var(--accent)', fontSize: 'clamp(7px, 0.85vw, 11px)', letterSpacing: '1.5px', textTransform: 'uppercase' }}>
               {EDITION_LABELS[edition] ?? edition}
             </div>
           )}

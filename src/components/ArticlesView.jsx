@@ -71,16 +71,24 @@ function ArticleRow({ article }) {
       href={article.link}
       target="_blank"
       rel="noopener noreferrer"
-      className="flex items-start gap-3 py-2.5 border-b border-[#1a2035] hover:bg-[#111827] transition-colors group"
+      className="flex items-start gap-3 py-2.5 transition-colors group"
+      style={{ borderBottom: '1px solid var(--border-primary)' }}
+      onMouseEnter={e => e.currentTarget.style.background = 'var(--bg-hover)'}
+      onMouseLeave={e => e.currentTarget.style.background = ''}
     >
       <div className="flex-1 min-w-0">
-        <p className="text-[#f0ebe0] text-sm leading-snug group-hover:text-[#e8c547] transition-colors line-clamp-2">
+        <p
+          className="text-sm leading-snug line-clamp-2 transition-colors"
+          style={{ color: 'var(--text-primary)' }}
+          onMouseEnter={e => e.currentTarget.style.color = 'var(--accent)'}
+          onMouseLeave={e => e.currentTarget.style.color = 'var(--text-primary)'}
+        >
           {article.title}
         </p>
         <div className="flex items-center gap-2 mt-1">
-          <span className="text-[#4a5568] text-xs">{article.source}</span>
-          <span className="text-[#2d3748] text-xs">·</span>
-          <span className="text-[#4a5568] text-xs">{timeAgo(article.pubDate || article.collectedAt)}</span>
+          <span className="text-xs" style={{ color: 'var(--text-faint)' }}>{article.source}</span>
+          <span className="text-xs" style={{ color: 'var(--border-dim)' }}>·</span>
+          <span className="text-xs" style={{ color: 'var(--text-faint)' }}>{timeAgo(article.pubDate || article.collectedAt)}</span>
         </div>
       </div>
     </a>
@@ -118,10 +126,10 @@ export default function ArticlesView({ selectedDate }) {
   }
 
   if (loading) return (
-    <div className="flex items-center justify-center py-20 text-[#4a5568] text-sm">Loading articles...</div>
+    <div className="flex items-center justify-center py-20 text-sm" style={{ color: 'var(--text-faint)' }}>Loading articles...</div>
   );
   if (error) return (
-    <div className="flex items-center justify-center py-20 text-[#4a5568] text-sm">{error}</div>
+    <div className="flex items-center justify-center py-20 text-sm" style={{ color: 'var(--text-faint)' }}>{error}</div>
   );
   if (!data) return null;
 
@@ -156,10 +164,10 @@ export default function ArticlesView({ selectedDate }) {
   return (
     <div className="max-w-3xl mx-auto px-4 py-6">
       <div className="flex items-center justify-between mb-5">
-        <h2 className="text-[#f0ebe0] text-lg font-bold tracking-wide uppercase" style={{ letterSpacing: '2px' }}>
+        <h2 className="text-lg font-bold tracking-wide uppercase" style={{ letterSpacing: '2px', color: 'var(--text-primary)' }}>
           Articles
         </h2>
-        <span className="text-[#4a5568] text-xs">{data.total} collected</span>
+        <span className="text-xs" style={{ color: 'var(--text-faint)' }}>{data.total} collected</span>
       </div>
 
       {/* Category tabs */}
@@ -171,9 +179,9 @@ export default function ArticlesView({ selectedDate }) {
             className="cursor-pointer transition-all text-xs font-semibold uppercase px-3 py-1.5 rounded-full"
             style={{
               letterSpacing: '1px',
-              background: activeCategory === cat ? '#e8c547' : 'rgba(26,32,53,0.8)',
-              color: activeCategory === cat ? '#0a0d14' : '#6b7a9a',
-              border: `1px solid ${activeCategory === cat ? '#e8c547' : '#1a2035'}`,
+              background: activeCategory === cat ? 'var(--accent)' : 'var(--bg-card)',
+              color: activeCategory === cat ? 'var(--accent-text)' : 'var(--text-muted)',
+              border: `1px solid ${activeCategory === cat ? 'var(--accent)' : 'var(--border-primary)'}`,
             }}
           >
             {cat}
@@ -184,7 +192,7 @@ export default function ArticlesView({ selectedDate }) {
 
       {/* Subcategory tabs */}
       {subcategoryTabs.length > 0 && (
-        <div className="flex gap-2 flex-wrap mb-5 pt-3 border-t border-[#1a2035]">
+        <div className="flex gap-2 flex-wrap mb-5 pt-3" style={{ borderTop: '1px solid var(--border-primary)' }}>
           {subcategoryTabs.map(sub => (
             <button
               key={sub}
@@ -192,8 +200,8 @@ export default function ArticlesView({ selectedDate }) {
               className="cursor-pointer transition-all text-xs px-3 py-1 rounded-full"
               style={{
                 background: activeSubcategory === sub ? 'rgba(232,197,71,0.15)' : 'transparent',
-                color: activeSubcategory === sub ? '#e8c547' : '#4a5568',
-                border: `1px solid ${activeSubcategory === sub ? 'rgba(232,197,71,0.4)' : '#1a2035'}`,
+                color: activeSubcategory === sub ? 'var(--accent)' : 'var(--text-faint)',
+                border: `1px solid ${activeSubcategory === sub ? 'rgba(232,197,71,0.4)' : 'var(--border-primary)'}`,
               }}
             >
               {sub}
@@ -204,9 +212,9 @@ export default function ArticlesView({ selectedDate }) {
       )}
 
       {/* Article list */}
-      <div className="border border-[#1a2035] rounded-lg overflow-hidden bg-[#0a0d14] px-4">
+      <div className="rounded-lg overflow-hidden px-4" style={{ border: '1px solid var(--border-primary)', background: 'var(--bg-secondary)' }}>
         {articles.length === 0 ? (
-          <p className="text-[#4a5568] text-sm py-6 text-center">No articles in this category.</p>
+          <p className="text-sm py-6 text-center" style={{ color: 'var(--text-faint)' }}>No articles in this category.</p>
         ) : (
           articles.map((a, i) => <ArticleRow key={i} article={a} />)
         )}
