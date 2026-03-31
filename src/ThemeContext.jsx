@@ -3,9 +3,7 @@ import { createContext, useContext, useState, useEffect } from 'react';
 const ThemeContext = createContext({ isDark: true, toggleTheme: () => {} });
 
 export function ThemeProvider({ children }) {
-  const [isDark, setIsDark] = useState(() => {
-    return localStorage.getItem('meridian-theme') !== 'light';
-  });
+  const [isDark, setIsDark] = useState(true);
 
   useEffect(() => {
     document.documentElement.setAttribute('data-theme', isDark ? 'dark' : 'light');

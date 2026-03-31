@@ -151,6 +151,7 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
   const EDITION_LABELS = { morning: '☀  Morning', evening: '🌙  Evening' };
   const [time, setTime] = useState('');
   const [activeLocIdx, setActiveLocIdx] = useState(0);
+  const [expanded, setExpanded] = useState(false);
   const mapContainer = useRef(null);
   const mapRef = useRef(null);
   const markerRef = useRef(null);
@@ -200,6 +201,20 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
       markerRef.current = null;
     };
   }, []);
+
+  // Resize map when expanded state changes
+  useEffect(() => {
+    const id = setTimeout(() => mapRef.current?.resize(), 50);
+    return () => clearTimeout(id);
+  }, [expanded]);
+
+  // Escape key to collapse
+  useEffect(() => {
+    if (!expanded) return;
+    const handler = (e) => { if (e.key === 'Escape') setExpanded(false); };
+    window.addEventListener('keydown', handler);
+    return () => window.removeEventListener('keydown', handler);
+  }, [expanded]);
 
   // Switch map style when theme changes
   useEffect(() => {
@@ -270,10 +285,14 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
     ? 'radial-gradient(ellipse at 52% 48%, rgba(10,13,20,0.3) 0%, rgba(10,13,20,0.75) 100%)'
     : 'radial-gradient(ellipse at 52% 48%, rgba(244,240,232,0.1) 0%, rgba(244,240,232,0.45) 100%)';
 
+  const containerStyle = expanded
+    ? { position: 'fixed', inset: 0, zIndex: 50, width: '100vw', height: '100vh' }
+    : { aspectRatio: '16/9', maxHeight: '75vh', minHeight: 280, position: 'sticky', top: 0, zIndex: 20 };
+
   return (
     <div
       className="relative w-full overflow-hidden"
-      style={{ aspectRatio: '16/9', maxHeight: '75vh', minHeight: 280, position: 'sticky', top: 0, zIndex: 20 }}
+      style={containerStyle}
     >
       {/* Mapbox map */}
       <div ref={mapContainer} className="absolute inset-0" style={{ opacity: 1.8, width: '100%', height: '100%' }} />
@@ -362,10 +381,10 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
         </div>
       )}
 
-      {/* Zoom controls */}
+      {/* Zoom + expand controls */}
       <div
-        className="absolute flex flex-col gap-1"
-        style={{ top: '50%', left: '3%', transform: 'translateY(-50%)', zIndex: 10 }}
+        className="absolute flex flex-row gap-1.5"
+        style={{ bottom: 'calc(12% + 60px)', right: '3%', zIndex: 10 }}
       >
         {['+', '−'].map((label, i) => (
           <button
@@ -376,9 +395,9 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
               background: btnBg,
               border: '1px solid var(--hero-border)',
               color: textAlpha70,
-              fontSize: 'clamp(10px, 1.1vw, 14px)',
-              width: 'clamp(18px, 2vw, 26px)',
-              height: 'clamp(18px, 2vw, 26px)',
+              fontSize: 'clamp(14px, 1.5vw, 20px)',
+              width: 'clamp(28px, 3vw, 40px)',
+              height: 'clamp(28px, 3vw, 40px)',
               display: 'flex',
               alignItems: 'center',
               justifyContent: 'center',
@@ -388,6 +407,25 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
             {label}
           </button>
         ))}
+        <button
+          onClick={() => setExpanded(e => !e)}
+          title={expanded ? 'Minimize map' : 'Expand map'}
+          className="cursor-pointer transition-all"
+          style={{
+            background: btnBg,
+            border: '1px solid var(--hero-border)',
+            color: textAlpha70,
+            fontSize: 'clamp(12px, 1.3vw, 17px)',
+            width: 'clamp(28px, 3vw, 40px)',
+            height: 'clamp(28px, 3vw, 40px)',
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            lineHeight: 1,
+          }}
+        >
+          {expanded ? '⊠' : '⊡'}
+        </button>
       </div>
 
       {/* Chyron */}

@@ -236,6 +236,7 @@ export default function App() {
       {/* Floating theme toggle */}
       <button
         onClick={toggleTheme}
+        disabled
         title={isDark ? 'Switch to light mode' : 'Switch to dark mode'}
         style={{
           position: 'fixed',
