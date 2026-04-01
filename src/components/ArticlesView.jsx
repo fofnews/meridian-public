@@ -162,7 +162,7 @@ export default function ArticlesView({ selectedDate }) {
     : [];
 
   return (
-    <div className="max-w-3xl mx-auto px-4 py-6">
+    <div className="py-6">
       <div className="flex items-center justify-between mb-5">
         <h2 className="text-lg font-bold tracking-wide uppercase" style={{ letterSpacing: '2px', color: 'var(--text-primary)' }}>
           Articles
@@ -199,9 +199,9 @@ export default function ArticlesView({ selectedDate }) {
               onClick={() => setActiveSubcategory(sub)}
               className="cursor-pointer transition-all text-xs px-3 py-1 rounded-full"
               style={{
-                background: activeSubcategory === sub ? 'rgba(232,197,71,0.15)' : 'transparent',
+                background: activeSubcategory === sub ? 'var(--bg-card)' : 'transparent',
                 color: activeSubcategory === sub ? 'var(--accent)' : 'var(--text-faint)',
-                border: `1px solid ${activeSubcategory === sub ? 'rgba(232,197,71,0.4)' : 'var(--border-primary)'}`,
+                border: `1px solid ${activeSubcategory === sub ? 'var(--accent)' : 'var(--border-primary)'}`,
               }}
             >
               {sub}

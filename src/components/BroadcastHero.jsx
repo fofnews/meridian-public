@@ -336,7 +336,7 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
               style={{
                 background: selectedIdx === i ? 'rgba(232,197,71,0.15)' : btnBg,
                 border: `0.5px solid ${selectedIdx === i ? 'var(--hero-border-active)' : 'var(--hero-border)'}`,
-                color: selectedIdx === i ? 'var(--accent)' : textAlpha60,
+                color: selectedIdx === i ? 'var(--accent)' : 'var(--text-secondary)',
                 fontSize: 'clamp(6px, 0.8vw, 10px)',
                 letterSpacing: '0.8px',
                 textTransform: 'uppercase',

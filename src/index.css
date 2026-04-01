@@ -62,63 +62,63 @@
 }
 
 [data-theme="light"] {
-  /* Backgrounds */
-  --bg-primary:   #ffffff84;
-  --bg-secondary: #0a0d14;
-  --bg-card:      #0d1220;
-  --bg-hover:     #111827;
-  --bg-input:     #060810;
-  --bg-tabbar:    #0d1220;
+  /* Backgrounds — naval steel blue */
+  --bg-primary:   #E8EEF4;
+  --bg-secondary: #D8E2EC;
+  --bg-card:      #F2F6FA;
+  --bg-hover:     #CDDAE8;
+  --bg-input:     #F2F6FA;
+  --bg-tabbar:    #D8E2EC;
 
-  /* Borders */
-  --border-primary: #1a2035;
-  --border-dim:     #2a3040;
+  /* Borders — navy */
+  --border-primary: #1A3A5C;
+  --border-dim:     rgba(26,58,92,0.35);
 
   /* Hero map button borders */
-  --hero-border:        rgba(232,197,71,0.30);
-  --hero-border-active: rgba(232,197,71,0.70);
+  --hero-border:        rgba(26,58,92,0.45);
+  --hero-border-active: rgba(26,58,92,0.90);
 
-  /* Text */
-  --text-primary:   #f0ebe0;
-  --text-secondary: #c8c0b0;
-  --text-muted:     #6b7a9a;
-  --text-faint:     #4a5568;
+  /* Text — deep navy */
+  --text-primary:   #0A1828;
+  --text-secondary: #1A2E44;
+  --text-muted:     #3A5070;
+  --text-faint:     #6A8098;
 
-  /* Accent */
-  --accent:      #e8c547;
-  --accent-text: #0a0d14;
+  /* Accent — brass gold */
+  --accent:      #9A7200;
+  --accent-text: #F2F6FA;
 
   /* RGB channels for rgba() */
-  --text-primary-rgb: 240, 235, 224;
-  --bg-secondary-rgb: 10, 13, 20;
-  --bg-chyron-rgb:    18, 22, 36;
+  --text-primary-rgb: 10, 24, 40;
+  --bg-secondary-rgb: 216, 226, 236;
+  --bg-chyron-rgb:    216, 226, 236;
 
   /* AnalysisView section tints */
-  --bg-agree:       #0d2520;
-  --border-agree:   #1a3530;
-  --bg-unique:      #0d1830;
-  --border-unique:  #1a2a40;
-  --bg-disagree:    #1e1600;
-  --border-disagree:#3a2800;
-  --bg-facts:       #141824;
-  --border-facts:   #2a3040;
+  --bg-agree:       #c8ddb4;
+  --border-agree:   #4a7a30;
+  --bg-unique:      #b4cce0;
+  --border-unique:  #6098bc;
+  --bg-disagree:    #e4c898;
+  --border-disagree:#b87830;
+  --bg-facts:       #dcd0b0;
+  --border-facts:   #b0a070;
 
   /* AnalysisView section text colors */
-  --section-agree-title:    #86efac;
-  --section-agree-text:     #bbf7d0;
-  --section-agree-accent:   #4ade80;
-  --section-unique-title:   #7dd3fc;
-  --section-unique-accent:  #38bdf8;
-  --section-disagree-title: #fcd34d;
-  --section-disagree-text:  #fde68a;
-  --section-disagree-accent:#fbbf24;
-  --section-facts-title:    #a0b0cc;
-  --section-facts-accent:   #8899bb;
+  --section-agree-title:    #1a5c10;
+  --section-agree-text:     #0e3808;
+  --section-agree-accent:   #2a7a1c;
+  --section-unique-title:   #0d4a6e;
+  --section-unique-accent:  #1a6090;
+  --section-disagree-title: #7a3808;
+  --section-disagree-text:  #5a2804;
+  --section-disagree-accent:#a05010;
+  --section-facts-title:    #3d4a5c;
+  --section-facts-accent:   #5a6878;
 
   /* SourceBadge center sources */
-  --source-center-bg:     #1e2535;
-  --source-center-border: #3a4560;
-  --source-center-text:   #c8c0b0;
+  --source-center-bg:     #D8E2EC;
+  --source-center-border: #1A3A5C;
+  --source-center-text:   #1A2E44;
 }
 
 body {
@@ -127,9 +127,14 @@ body {
   font-family: 'Source Serif 4', serif;
 }
 
-/* Light mode body — sandy base matching card color */
+input::placeholder {
+  color: var(--text-muted);
+  opacity: 1;
+}
+
+/* Light mode body — naval steel blue matching bg-primary */
 [data-theme="light"] body {
-  background-color: #DCC8A8;
+  background-color: #E8EEF4;
 }
 
 .font-display {

@@ -27,7 +27,7 @@ export default function DateNav({ availableDates, selectedDate, onSelect }) {
                 } : {
                   color: 'var(--text-muted)',
                 }}
-                onMouseEnter={e => { if (!active) { e.currentTarget.style.color = 'var(--text-primary)'; e.currentTarget.style.background = 'var(--border-primary)'; } }}
+                onMouseEnter={e => { if (!active) { e.currentTarget.style.color = 'var(--text-primary)'; e.currentTarget.style.background = 'var(--bg-card)'; } }}
                 onMouseLeave={e => { if (!active) { e.currentTarget.style.color = 'var(--text-muted)'; e.currentTarget.style.background = ''; } }}
               >
                 {label(date)}

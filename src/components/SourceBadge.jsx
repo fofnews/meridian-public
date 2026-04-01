@@ -41,7 +41,21 @@ export default function SourceBadge({ source }) {
     );
   }
 
-  const styles = SOURCE_STYLES[source] || 'bg-[#2a3040] text-[#c8c0b0]';
+  const styles = SOURCE_STYLES[source];
+  if (!styles) {
+    return (
+      <span
+        className="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium"
+        style={{
+          background: 'var(--source-center-bg)',
+          border: '1px solid var(--source-center-border)',
+          color: 'var(--source-center-text)',
+        }}
+      >
+        {source}
+      </span>
+    );
+  }
   return (
     <span className={`inline-flex items-center px-2 py-0.5 rounded text-xs font-medium ${styles}`}>
       {source}

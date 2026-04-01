@@ -97,13 +97,13 @@ export default function StoryCard({ story, brief = false, expanded, onToggle }) 
             {agreementCount > 0 && (
               <>
                 <span style={{ color: 'var(--border-dim)' }}>·</span>
-                <span className="text-xs text-emerald-600">{agreementCount} agreements</span>
+                <span className="text-xs" style={{ color: 'var(--section-agree-accent)' }}>{agreementCount} agreements</span>
               </>
             )}
             {disagreementCount > 0 && (
               <>
                 <span style={{ color: 'var(--border-dim)' }}>·</span>
-                <span className="text-xs text-amber-600">{disagreementCount} disagreement{disagreementCount !== 1 ? 's' : ''}</span>
+                <span className="text-xs" style={{ color: 'var(--section-disagree-accent)' }}>{disagreementCount} disagreement{disagreementCount !== 1 ? 's' : ''}</span>
               </>
             )}
           </div>
@@ -124,7 +124,7 @@ export default function StoryCard({ story, brief = false, expanded, onToggle }) 
               className="w-full flex items-center justify-between gap-2 px-4 py-3 text-left cursor-pointer"
               style={{ background: 'var(--bg-card)' }}
             >
-              <span className="text-sm font-semibold" style={{ color: 'var(--text-muted)' }}>Source Articles</span>
+              <span className="text-sm font-semibold" style={{ color: 'var(--text-secondary)' }}>Source Articles</span>
               <div className="flex items-center gap-2">
                 <span className="text-xs" style={{ color: 'var(--text-faint)' }}>({story.articles.length})</span>
                 {sourcesOpen

@@ -161,7 +161,7 @@ export default function SuggestionBox() {
                   <div className="flex-1 min-w-0">
                     <p className="text-sm" style={{ color: 'var(--text-secondary)', lineHeight: 1.5 }}>{s.text}</p>
                     {s.done && (
-                      <span className="inline-flex items-center gap-1 mt-1 text-xs" style={{ color: '#4ade80' }}>
+                      <span className="inline-flex items-center gap-1 mt-1 text-xs" style={{ color: 'var(--section-agree-accent)' }}>
                         ✓ Done!
                       </span>
                     )}
@@ -197,9 +197,9 @@ export default function SuggestionBox() {
                         onClick={() => handleDone(s.id)}
                         className="flex items-center px-2 py-1 rounded-lg text-xs"
                         style={{
-                          background: s.done ? '#0d2010' : 'var(--bg-hover)',
-                          border: `1px solid ${s.done ? '#4ade80' : 'var(--border-primary)'}`,
-                          color: s.done ? '#4ade80' : 'var(--text-faint)',
+                          background: s.done ? 'var(--bg-agree)' : 'var(--bg-hover)',
+                          border: `1px solid ${s.done ? 'var(--border-agree)' : 'var(--border-primary)'}`,
+                          color: s.done ? 'var(--section-agree-accent)' : 'var(--text-faint)',
                           cursor: 'pointer',
                         }}
                         title={s.done ? 'Mark as not done' : 'Mark as done'}

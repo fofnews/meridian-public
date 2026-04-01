@@ -70,7 +70,7 @@ export default function AnalysisView({ analysis }) {
               {analysis.uniqueAngles.map((u, i) => (
                 <div key={i} className="rounded-lg px-4 py-3 flex items-start gap-3" style={{ background: 'var(--bg-unique)', border: '1px solid var(--border-unique)' }}>
                   <SourceBadge source={u.source} />
-                  <p className="text-sm flex-1" style={{ color: 'var(--text-secondary)' }}>{u.angle}</p>
+                  <p className="text-sm flex-1" style={{ color: 'var(--section-unique-title)' }}>{u.angle}</p>
                 </div>
               ))}
             </div>
@@ -113,7 +113,7 @@ export default function AnalysisView({ analysis }) {
                       {d.positions?.map((p, j) => (
                         <div key={j} className="flex items-start gap-3">
                           <SourceBadge source={p.source} />
-                          <p className="text-sm flex-1" style={{ color: 'var(--text-secondary)' }}>{p.position}</p>
+                          <p className="text-sm flex-1" style={{ color: 'var(--section-disagree-text)' }}>{p.position}</p>
                         </div>
                       ))}
                     </div>
@@ -136,11 +136,11 @@ export default function AnalysisView({ analysis }) {
             <div className="flex items-center gap-2">
               <FileText className="w-4 h-4" style={{ color: 'var(--section-facts-accent)' }} />
               <span className="text-sm font-semibold" style={{ color: 'var(--section-facts-title)' }}>Confirmed Facts</span>
-              <span className="text-xs" style={{ color: 'var(--text-faint)' }}>({analysis.facts.length})</span>
+              <span className="text-xs" style={{ color: 'var(--section-facts-accent)' }}>({analysis.facts.length})</span>
             </div>
             {open.facts
-              ? <ChevronUp className="w-4 h-4" style={{ color: 'var(--text-faint)' }} />
-              : <ChevronDown className="w-4 h-4" style={{ color: 'var(--text-faint)' }} />}
+              ? <ChevronUp className="w-4 h-4" style={{ color: 'var(--section-facts-accent)' }} />
+              : <ChevronDown className="w-4 h-4" style={{ color: 'var(--section-facts-accent)' }} />}
           </button>
           {open.facts && (
             <ul className="p-3 space-y-2">

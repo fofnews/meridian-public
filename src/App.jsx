@@ -113,7 +113,7 @@ export default function App() {
               className="py-3 px-4 text-xs font-semibold uppercase tracking-widest cursor-pointer transition-colors border-b-2"
               style={{
                 background: 'var(--bg-tabbar)',
-                color: view === v ? 'var(--accent)' : 'rgba(255,255,255,0.5)',
+                color: view === v ? 'var(--accent)' : 'var(--text-muted)',
                 borderColor: view === v ? 'var(--accent)' : 'transparent',
                 letterSpacing: '2px',
               }}
@@ -236,7 +236,6 @@ export default function App() {
       {/* Floating theme toggle */}
       <button
         onClick={toggleTheme}
-        disabled
         title={isDark ? 'Switch to light mode' : 'Switch to dark mode'}
         style={{
           position: 'fixed',
@@ -246,7 +245,7 @@ export default function App() {
           width: 40,
           height: 40,
           borderRadius: '50%',
-          background: 'var(--bg-secondary)',
+          background: 'var(--bg-card)',
           border: '1px solid var(--border-primary)',
           color: 'var(--accent)',
           cursor: 'pointer',
