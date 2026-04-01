@@ -111,8 +111,7 @@ export default function ArticlesView({ selectedDate }) {
       .then(r => r.ok ? r.json() : r.json().then(j => Promise.reject(j.error)))
       .then(d => {
         setData(d);
-        const firstCat = CATEGORY_ORDER.find(c => d.categories?.[c]?.length > 0);
-        setActiveCategory(firstCat || null);
+        setActiveCategory(null);
         setActiveSubcategory('All');
         setLoading(false);
       })
@@ -134,7 +133,8 @@ export default function ArticlesView({ selectedDate }) {
   if (!data) return null;
 
   const availableCategories = CATEGORY_ORDER.filter(c => data.categories?.[c]?.length > 0);
-  const categoryArticles = activeCategory ? (data.categories?.[activeCategory] || []) : [];
+  const allArticles = CATEGORY_ORDER.flatMap(c => data.categories?.[c] || []);
+  const categoryArticles = activeCategory ? (data.categories?.[activeCategory] || []) : allArticles;
   const subcategoryDefs = SUBCATEGORIES[activeCategory];
 
   // Build subcategory counts if this category supports them
@@ -172,6 +172,20 @@ export default function ArticlesView({ selectedDate }) {
 
       {/* Category tabs */}
       <div className="flex gap-2 flex-wrap mb-3">
+        <button
+          key="all"
+          onClick={() => handleCategoryChange(null)}
+          className="cursor-pointer transition-all text-xs font-semibold uppercase px-3 py-1.5 rounded-full"
+          style={{
+            letterSpacing: '1px',
+            background: activeCategory === null ? 'var(--accent)' : 'var(--bg-card)',
+            color: activeCategory === null ? 'var(--accent-text)' : 'var(--text-muted)',
+            border: `1px solid ${activeCategory === null ? 'var(--accent)' : 'var(--border-primary)'}`,
+          }}
+        >
+          All
+          <span className="ml-1.5 opacity-60">{data.total}</span>
+        </button>
         {availableCategories.map(cat => (
           <button
             key={cat}
