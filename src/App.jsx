@@ -72,8 +72,8 @@ export default function App() {
   return (
     <div className="min-h-screen" style={{ background: 'var(--bg-primary)' }}>
 
-      {/* Broadcast hero — only shown on analysis view */}
-      {view !== 'timeline' && !loading && report && multiSource.length > 0 && (
+      {/* Broadcast hero */}
+      {!loading && report && multiSource.length > 0 && (
         <BroadcastHero
           stories={multiSource}
           selectedIdx={featuredIdx}
@@ -96,13 +96,13 @@ export default function App() {
         </div>
       )}
 
-      {/* Date navigation — hidden on timeline tab */}
-      {view !== 'timeline' && <DateNav
+      {/* Date navigation */}
+      <DateNav
         availableDates={availableDates}
         selectedDate={selectedDate}
         selectedEdition={selectedEdition}
         onSelect={loadReport}
-      />}
+      />
 
       {/* View tabs */}
       <div style={{ borderBottom: '1px solid var(--border-primary)' }}>
