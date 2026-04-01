@@ -157,8 +157,16 @@ input::placeholder {
   70%  { box-shadow: 0 0 0 14px rgba(232,197,71,0);   }
   100% { box-shadow: 0 0 0 0   rgba(232,197,71,0);   }
 }
+@keyframes dotPulseLight {
+  0%   { box-shadow: 0 0 0 0   rgba(26,58,92,0.7); }
+  70%  { box-shadow: 0 0 0 14px rgba(26,58,92,0);   }
+  100% { box-shadow: 0 0 0 0   rgba(26,58,92,0);   }
+}
 .dot-pulse {
   animation: dotPulse 2s ease-out infinite;
+}
+.dot-pulse-light {
+  animation: dotPulseLight 2s ease-out infinite;
 }
 
 /* News ticker */
@@ -179,4 +187,81 @@ input::placeholder {
     rgba(0,0,0,0.04) 2px,
     rgba(0,0,0,0.04) 4px
   );
+}
+
+/* ── Responsive ─────────────────────────────────────────── */
+
+/* Hero container: CSS custom property for chyron height offset */
+.hero-aspect-container {
+  --chyron-h: 12%;
+}
+@media (max-width: 639px) {
+  .hero-aspect-container {
+    --chyron-h: 82px;
+  }
+}
+
+/* Phone landscape: prevent hero from consuming full screen height */
+@media (orientation: landscape) and (max-width: 767px) {
+  .hero-aspect-container {
+    aspect-ratio: auto !important;
+    height: 56vw !important;
+    max-height: 100vh !important;
+    min-height: 180px !important;
+  }
+}
+
+/* Story selector: right-column on desktop, horizontal row on mobile */
+.story-selector {
+  top: 50%;
+  right: 3%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+@media (max-width: 639px) {
+  .story-selector {
+    top: auto;
+    bottom: calc(var(--chyron-h, 82px) + 70px);
+    right: 3%;
+    left: 3%;
+    transform: none;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 4px;
+  }
+}
+
+/* Story selector buttons */
+.story-selector-btn {
+  max-width: 20vw;
+  font-size: clamp(6px, 0.8vw, 10px);
+}
+@media (max-width: 639px) {
+  .story-selector-btn {
+    max-width: 45vw;
+    font-size: clamp(8px, 2.8vw, 11px);
+  }
+}
+
+/* Hide clock in top bar on small screens */
+@media (max-width: 639px) {
+  .hero-clock {
+    display: none;
+  }
+}
+
+/* Speed up ticker on narrow screens */
+@media (max-width: 639px) {
+  .ticker-scroll {
+    animation-duration: 180s;
+  }
+}
+
+/* Allow vertical page scroll even when touching the map */
+@media (max-width: 639px) {
+  .mapboxgl-canvas {
+    touch-action: pan-y;
+  }
 }

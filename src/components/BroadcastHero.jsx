@@ -72,28 +72,39 @@ function truncateHeadline(headline, maxLen = 72) {
   return decoded.length <= maxLen ? decoded : decoded.slice(0, maxLen - 1) + '…';
 }
 
-function createMarkerElement() {
+function createMarkerElement(isDark) {
+  const dotColor = isDark ? '#e8c547' : '#1a3a5c';
+  const ringColor = isDark ? 'rgba(232,197,71,0.45)' : 'rgba(26,58,92,0.45)';
+
   const wrapper = document.createElement('div');
   wrapper.style.cssText = 'position: relative; width: 10px; height: 10px;';
 
   const ring = document.createElement('div');
+  ring.className = 'marker-ring';
   ring.style.cssText = `
     position: absolute;
     width: 28px; height: 28px;
     border-radius: 50%;
-    border: 1px solid rgba(232,197,71,0.45);
+    border: 1px solid ${ringColor};
     top: 50%; left: 50%;
     transform: translate(-50%, -50%);
     pointer-events: none;
   `;
 
   const dot = document.createElement('div');
-  dot.className = 'dot-pulse';
-  dot.style.cssText = 'width: 10px; height: 10px; border-radius: 50%; background: #e8c547;';
+  dot.className = isDark ? 'dot-pulse' : 'dot-pulse-light';
+  dot.style.cssText = `width: 10px; height: 10px; border-radius: 50%; background: ${dotColor};`;
 
   wrapper.appendChild(ring);
   wrapper.appendChild(dot);
   return wrapper;
+}
+
+function getMapPadding(containerEl) {
+  const w = containerEl?.offsetWidth ?? window.innerWidth;
+  if (w < 640) return { top: 20, bottom: 80, left: 0, right: 0 };
+  if (w < 900) return { top: 30, bottom: 100, left: 0, right: 100 };
+  return { top: 40, bottom: 110, left: 0, right: 160 };
 }
 
 function applyMapStyle(map, isDark) {
@@ -152,9 +163,13 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
   const [time, setTime] = useState('');
   const [activeLocIdx, setActiveLocIdx] = useState(0);
   const [expanded, setExpanded] = useState(false);
+  const [mapEnabled, setMapEnabled] = useState(() => localStorage.getItem('meridian-map') !== 'false');
+  const [mapVisible, setMapVisible] = useState(() => localStorage.getItem('meridian-map-visible') !== 'false');
   const mapContainer = useRef(null);
   const mapRef = useRef(null);
   const markerRef = useRef(null);
+  const styleLoadCallbackRef = useRef(null);
+  const pendingIsDarkRef = useRef(isDark);
 
   // Clock
   useEffect(() => {
@@ -169,8 +184,17 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
     return () => clearInterval(id);
   }, []);
 
-  // Initialize map
+  // Initialize map (skipped entirely when disabled)
   useEffect(() => {
+    if (!mapEnabled) {
+      if (mapRef.current) {
+        mapRef.current.remove();
+        mapRef.current = null;
+        markerRef.current = null;
+      }
+      return;
+    }
+
     if (!mapContainer.current || mapRef.current) return;
 
     const map = new mapboxgl.Map({
@@ -184,11 +208,11 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
 
     map.on('load', () => {
       map.resize();
-      map.setPadding({ top: 40, bottom: 110, left: 0, right: 160 });
+      map.setPadding(getMapPadding(mapContainer.current));
       applyMapStyle(map, isDark);
     });
 
-    const marker = new mapboxgl.Marker({ element: createMarkerElement(), anchor: 'center' })
+    const marker = new mapboxgl.Marker({ element: createMarkerElement(isDark), anchor: 'center' })
       .setLngLat([0, 20])
       .addTo(map);
 
@@ -200,13 +224,29 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
       mapRef.current = null;
       markerRef.current = null;
     };
-  }, []);
+  }, [mapEnabled]);
 
-  // Resize map when expanded state changes
+  // Persist map preferences
+  useEffect(() => { localStorage.setItem('meridian-map', mapEnabled); }, [mapEnabled]);
+  useEffect(() => { localStorage.setItem('meridian-map-visible', mapVisible); }, [mapVisible]);
+
+  // Resize map when expanded or visibility changes
   useEffect(() => {
     const id = setTimeout(() => mapRef.current?.resize(), 50);
     return () => clearTimeout(id);
-  }, [expanded]);
+  }, [expanded, mapVisible]);
+
+  // Update map padding when container resizes (orientation changes, expand/collapse)
+  useEffect(() => {
+    if (!mapContainer.current) return;
+    const ro = new ResizeObserver(() => {
+      if (!mapRef.current) return;
+      mapRef.current.resize();
+      mapRef.current.setPadding(getMapPadding(mapContainer.current));
+    });
+    ro.observe(mapContainer.current);
+    return () => ro.disconnect();
+  }, []);
 
   // Escape key to collapse
   useEffect(() => {
@@ -218,13 +258,40 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
 
   // Switch map style when theme changes
   useEffect(() => {
+    pendingIsDarkRef.current = isDark;
+
     if (!mapRef.current) return;
     const map = mapRef.current;
+
+    // Cancel any stale style.load listener from a previous rapid toggle
+    if (styleLoadCallbackRef.current) {
+      map.off('style.load', styleLoadCallbackRef.current);
+      styleLoadCallbackRef.current = null;
+    }
+
     const newStyle = isDark ? 'mapbox://styles/mapbox/dark-v11' : 'mapbox://styles/mapbox/outdoors-v12';
     map.setStyle(newStyle);
-    map.once('style.load', () => {
-      applyMapStyle(map, isDark);
-    });
+
+    const onStyleLoad = () => {
+      styleLoadCallbackRef.current = null;
+      applyMapStyle(map, pendingIsDarkRef.current);
+    };
+    styleLoadCallbackRef.current = onStyleLoad;
+    map.once('style.load', onStyleLoad);
+
+    // Update marker colors to match new theme
+    if (markerRef.current) {
+      const dotColor = isDark ? '#e8c547' : '#1a3a5c';
+      const ringColor = isDark ? 'rgba(232,197,71,0.45)' : 'rgba(26,58,92,0.45)';
+      const el = markerRef.current.getElement();
+      const dot = el.querySelector('.dot-pulse, .dot-pulse-light');
+      const ring = el.querySelector('.marker-ring');
+      if (dot) {
+        dot.style.background = dotColor;
+        dot.className = isDark ? 'dot-pulse' : 'dot-pulse-light';
+      }
+      if (ring) ring.style.borderColor = ringColor;
+    }
   }, [isDark]);
 
   const featured = stories[selectedIdx] ?? stories[0];
@@ -290,18 +357,44 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
     : { aspectRatio: '16/9', maxHeight: '75vh', minHeight: 280, position: 'sticky', top: 0, zIndex: 20 };
 
   return (
-    <div
-      className="relative w-full overflow-hidden"
-      style={containerStyle}
-    >
+    <>
+      {!mapVisible && (
+        <div
+          className="w-full flex items-center justify-between px-4"
+          style={{ background: 'var(--bg-secondary)', borderBottom: '1px solid var(--hero-border)', height: 36, zIndex: 20 }}
+        >
+          <span
+            className="font-display font-black tracking-[3px] uppercase"
+            style={{ color: 'var(--text-primary)', fontSize: 11 }}
+          >
+            The Meridian
+          </span>
+          <button
+            onClick={() => setMapVisible(true)}
+            className="cursor-pointer transition-all"
+            style={{ color: 'var(--accent)', fontSize: 11, letterSpacing: '1.5px', textTransform: 'uppercase', background: 'none', border: 'none', padding: '0 4px' }}
+          >
+            Show Map ▼
+          </button>
+        </div>
+      )}
+      <div
+        className="relative w-full overflow-hidden hero-aspect-container"
+        style={{ ...containerStyle, display: mapVisible ? '' : 'none' }}
+      >
       {/* Mapbox map */}
       <div ref={mapContainer} className="absolute inset-0" style={{ opacity: 1.8, width: '100%', height: '100%' }} />
 
+      {/* Fallback background when map is disabled */}
+      {!mapEnabled && (
+        <div className="absolute inset-0" style={{ background: 'var(--bg-primary)' }} />
+      )}
+
       {/* Radial overlay */}
-      <div className="absolute inset-0 pointer-events-none" style={{ background: overlayGrad }} />
+      {mapEnabled && <div className="absolute inset-0 pointer-events-none" style={{ background: overlayGrad }} />}
 
       {/* CRT scanlines */}
-      <div className="absolute inset-0 scanlines pointer-events-none" />
+      {mapEnabled && <div className="absolute inset-0 scanlines pointer-events-none" />}
 
       {/* Top bar */}
       <div className="absolute top-0 left-0 right-0 flex items-center justify-between px-[3%] py-[2%]" style={{ zIndex: 10 }}>
@@ -317,7 +410,7 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
         >
           Live
         </div>
-        <div style={{ color: textAlpha55, fontSize: 'clamp(7px, 0.9vw, 11px)', letterSpacing: 1 }}>
+        <div className="hero-clock" style={{ color: textAlpha55, fontSize: 'clamp(7px, 0.9vw, 11px)', letterSpacing: 1 }}>
           {time}
         </div>
       </div>
@@ -325,23 +418,21 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
       {/* Story selector */}
       {stories.length > 1 && (
         <div
-          className="absolute flex flex-col gap-1.5"
-          style={{ top: '50%', right: '3%', transform: 'translateY(-50%)', zIndex: 10 }}
+          className="absolute story-selector"
+          style={{ zIndex: 10 }}
         >
           {stories.slice(0, 6).map((story, i) => (
             <button
               key={story.id}
               onClick={() => onSelect(i)}
-              className="text-left transition-all cursor-pointer"
+              className="text-left transition-all cursor-pointer story-selector-btn"
               style={{
                 background: selectedIdx === i ? 'rgba(232,197,71,0.15)' : btnBg,
                 border: `0.5px solid ${selectedIdx === i ? 'var(--hero-border-active)' : 'var(--hero-border)'}`,
                 color: selectedIdx === i ? 'var(--accent)' : 'var(--text-secondary)',
-                fontSize: 'clamp(6px, 0.8vw, 10px)',
                 letterSpacing: '0.8px',
                 textTransform: 'uppercase',
                 padding: '5px 10px',
-                maxWidth: '20vw',
                 whiteSpace: 'nowrap',
                 overflow: 'hidden',
                 textOverflow: 'ellipsis',
@@ -357,7 +448,7 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
       {featuredLocations.length > 1 && (
         <div
           className="absolute flex gap-2 flex-wrap"
-          style={{ bottom: 'calc(12% + 4px)', left: '3%', zIndex: 10 }}
+          style={{ bottom: 'calc(var(--chyron-h) + 4px)', left: '3%', zIndex: 10 }}
         >
           {featuredLocations.map((loc, i) => (
             <button
@@ -384,7 +475,7 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
       {/* Zoom + expand controls */}
       <div
         className="absolute flex flex-row gap-1.5"
-        style={{ bottom: 'calc(12% + 60px)', right: '3%', zIndex: 10 }}
+        style={{ bottom: 'calc(var(--chyron-h) + 60px)', right: '3%', zIndex: 10 }}
       >
         {['+', '−'].map((label, i) => (
           <button
@@ -407,6 +498,44 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
             {label}
           </button>
         ))}
+        <button
+          onClick={() => setMapVisible(false)}
+          title="Minimize map"
+          className="cursor-pointer transition-all"
+          style={{
+            background: btnBg,
+            border: '1px solid var(--hero-border)',
+            color: textAlpha70,
+            fontSize: 'clamp(10px, 1.1vw, 14px)',
+            width: 'clamp(28px, 3vw, 40px)',
+            height: 'clamp(28px, 3vw, 40px)',
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            lineHeight: 1,
+          }}
+        >
+          ▲
+        </button>
+        <button
+          onClick={() => setMapEnabled(e => !e)}
+          title={mapEnabled ? 'Disable map (improve performance)' : 'Enable map'}
+          className="cursor-pointer transition-all"
+          style={{
+            background: mapEnabled ? btnBg : 'rgba(232,197,71,0.15)',
+            border: `1px solid ${mapEnabled ? 'var(--hero-border)' : 'var(--hero-border-active)'}`,
+            color: mapEnabled ? textAlpha70 : 'var(--accent)',
+            fontSize: 'clamp(12px, 1.3vw, 17px)',
+            width: 'clamp(28px, 3vw, 40px)',
+            height: 'clamp(28px, 3vw, 40px)',
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            lineHeight: 1,
+          }}
+        >
+          ⊕
+        </button>
         <button
           onClick={() => setExpanded(e => !e)}
           title={expanded ? 'Minimize map' : 'Expand map'}
@@ -440,8 +569,8 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
         </div>
 
         <div
-          className="flex items-center gap-4 px-[3%] py-[1.2%]"
-          style={{ background: chyronUpper, borderTop: '2px solid var(--hero-border-active)' }}
+          className="flex items-center gap-4"
+          style={{ background: chyronUpper, borderTop: '2px solid var(--hero-border-active)', padding: 'max(4px, 1.2%) 3%' }}
         >
           <div
             className="shrink-0 font-semibold tracking-[2px] uppercase whitespace-nowrap"
@@ -453,13 +582,13 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
             className="font-display font-bold"
             style={{ color: 'var(--text-primary)', fontSize: 'clamp(11px, 1.75vw, 20px)', letterSpacing: '0.3px' }}
           >
-            {truncateHeadline(featured.headline)}
+            {truncateHeadline(featured.headline, window.innerWidth < 640 ? 45 : 72)}
           </div>
         </div>
 
         <div
-          className="flex items-center justify-between px-[3%] py-[0.8%]"
-          style={{ background: chyronLower }}
+          className="flex items-center justify-between"
+          style={{ background: chyronLower, padding: 'max(3px, 0.8%) 3%' }}
         >
           <div style={{ color: textAlpha60, fontSize: 'clamp(7px, 1vw, 12px)', letterSpacing: '0.8px' }}>
             {chyronSub}
@@ -499,5 +628,6 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
         </div>
       </div>
     </div>
+    </>
   );
 }

@@ -88,7 +88,7 @@ export default function App() {
       {loading && (
         <div
           className="w-full flex items-center justify-center"
-          style={{ aspectRatio: '16/9', maxHeight: '75vh', minHeight: 280, background: 'var(--bg-secondary)' }}
+          style={{ aspectRatio: '16/9', maxHeight: '75vh', minHeight: 'min(280px, 56vw)', background: 'var(--bg-secondary)' }}
         >
           <div style={{ color: 'var(--text-faint)', letterSpacing: '3px', fontSize: 13 }}>
             THE MERIDIAN
@@ -106,7 +106,7 @@ export default function App() {
 
       {/* View tabs */}
       <div style={{ borderBottom: '1px solid var(--border-primary)' }}>
-        <div className="max-w-5xl mx-auto px-4 flex gap-6">
+        <div className="max-w-5xl mx-auto px-4 flex gap-6 overflow-x-auto" style={{ scrollbarWidth: 'none' }}>
           {[['analysis', 'Analysis'], ['articles', 'Articles'], ['timeline', 'Timeline']].map(([v, label]) => (
             <button
               key={v}
