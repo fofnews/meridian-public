@@ -1,0 +1,602 @@
+{
+  "timelines": [
+    {
+      "id": "epstein-investigation",
+      "title": "Epstein Investigation",
+      "firstSeen": "2026-02-26",
+      "lastSeen": "2026-03-28",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-02-26",
+          "edition": "manual",
+          "update": "Hillary Clinton was deposed by the Republican-led House Oversight Committee on Thursday, February 26, as part of the Epstein investigation in New York. Bill Clinton is scheduled for a deposition on Friday, February 27."
+        },
+        {
+          "date": "2026-02-27",
+          "edition": "manual",
+          "update": "Hillary Clinton testified before the House Oversight Committee as part of its Epstein investigation and stated she did not know Jeffrey Epstein. Bill Clinton also faced questioning from the House Oversight Committee in the same probe. Both depositions were closed-door sessions, with Bill Clinton's testimony occurring the day after Hillary Clinton's."
+        },
+        {
+          "date": "2026-02-27",
+          "edition": "manual",
+          "update": "The Justice Department released Epstein-related files, generating significant public and media scrutiny. The DOJ's file release process has faced criticism for its handling procedures."
+        },
+        {
+          "date": "2026-02-28",
+          "edition": "manual",
+          "update": "Bill Clinton testified during his closed-door House Oversight Committee deposition that he had no knowledge of Jeffrey Epstein's criminal activities. Prince Andrew's connections to Jeffrey Epstein remain under continued international scrutiny as part of ongoing investigations."
+        },
+        {
+          "date": "2026-03-02",
+          "edition": "evening",
+          "update": "The House Oversight Committee released video footage of the Clinton depositions on Monday. The videos showed both Bill and Hillary Clinton's closed-door testimony from the previous week regarding the Epstein investigation."
+        },
+        {
+          "date": "2026-03-04",
+          "edition": "evening",
+          "update": "The House Oversight Committee voted on Wednesday to subpoena Attorney General Pam Bondi regarding the DOJ's handling of Jeffrey Epstein-related files and investigation. Rep. Nancy Mace (R-SC) introduced the motion, which passed with bipartisan support."
+        },
+        {
+          "date": "2026-03-06",
+          "edition": "morning",
+          "update": "The DOJ released previously withheld documents from the Epstein files that relate to a woman who made allegations against President Donald Trump. The released documents include FBI interview reports."
+        },
+        {
+          "date": "2026-03-10",
+          "edition": "morning",
+          "update": "Law enforcement conducted a search of Jeffrey Epstein's former Zorro Ranch property in New Mexico as part of the ongoing investigation."
+        },
+        {
+          "date": "2026-03-11",
+          "edition": "morning",
+          "update": "The federal government requested that New Mexico halt its investigation into Epstein's Zorro Ranch around 2019 during Trump's first term. Rep. James Comer has acknowledged widespread concerns about government failures in prosecuting Epstein sooner."
+        },
+        {
+          "date": "2026-03-11",
+          "edition": "evening",
+          "update": "UK Prime Minister Keir Starmer was warned of 'reputational risk' related to Peter Mandelson's Epstein links before appointing him as UK ambassador to the United States. Government documents and emails concerning the appointment were released by the British government on Wednesday evening. Mandelson's appointment proceeded despite these warnings."
+        },
+        {
+          "date": "2026-03-11",
+          "edition": "evening",
+          "update": "Richard Kahn, Jeffrey Epstein's accountant, testified before the House Oversight Committee regarding Epstein's finances. Kahn managed Epstein's accounts as he accumulated hundreds of millions of dollars over his career."
+        },
+        {
+          "date": "2026-03-14",
+          "edition": "morning",
+          "update": "Tova Noel, a former prison guard at the Metropolitan Correctional Center who was on duty the night Jeffrey Epstein died, is scheduled to testify before the House Oversight Committee as part of the ongoing congressional investigation."
+        },
+        {
+          "date": "2026-03-16",
+          "edition": "evening",
+          "update": "Bank of America settled a lawsuit brought by Jeffrey Epstein's accusers. The settlement resolves claims that the bank failed to detect and report suspicious financial activity related to Epstein's criminal enterprise."
+        },
+        {
+          "date": "2026-03-28",
+          "edition": "morning",
+          "update": "Bank of America agreed to pay $72.5 million to settle the lawsuit brought by Jeffrey Epstein's accusers over the bank's failure to detect and report suspicious financial activity related to Epstein's criminal enterprise."
+        },
+        {
+          "date": "2026-03-28",
+          "edition": "morning",
+          "update": "Ramsey Elkholy introduced Jeffrey Epstein to women as young as 18 years old, with correspondence between the two spanning almost a decade. Emails document communications between Elkholy and Epstein related to these introductions."
+        }
+      ]
+    },
+    {
+      "id": "iran-nuclear-crisis",
+      "title": "Iran Nuclear Crisis",
+      "firstSeen": "2026-02-26",
+      "lastSeen": "2026-02-26",
+      "active": false,
+      "entries": [
+        {
+          "date": "2026-02-26",
+          "edition": "manual",
+          "update": "The US and Iran are holding talks in Geneva focused on resolving the nuclear dispute. President Trump has accompanied diplomatic efforts with military threats and a buildup of US forces in the Middle East, including warnings delivered in his State of the Union address."
+        }
+      ]
+    },
+    {
+      "id": "russia-ukraine-war",
+      "title": "Russia-Ukraine War",
+      "firstSeen": "2026-02-26",
+      "lastSeen": "2026-02-26",
+      "active": false,
+      "entries": [
+        {
+          "date": "2026-02-26",
+          "edition": "manual",
+          "update": "Russia launched drone and missile strikes on Ukrainian cities and infrastructure. The strikes occurred in proximity to scheduled US-Ukraine talks in Geneva."
+        }
+      ]
+    },
+    {
+      "id": "sinaloa-cartel-violence",
+      "title": "Sinaloa Cartel Violence",
+      "firstSeen": "2026-02-26",
+      "lastSeen": "2026-03-07",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-02-26",
+          "edition": "manual",
+          "update": "Culiacán, located in northern Sinaloa state, Mexico, is experiencing a significant surge in violence linked to the Sinaloa drug cartel. BBC correspondent Quentin Sommerville reported from the scene."
+        },
+        {
+          "date": "2026-02-28",
+          "edition": "manual",
+          "update": "El Mencho, a top figure in Mexico's criminal underworld, has died as of February 28, 2026. The New York Times published multiple articles reporting on his death on this date."
+        },
+        {
+          "date": "2026-03-07",
+          "edition": "evening",
+          "update": "On Saturday, Trump held the inaugural Shield of the Americas summit in Doral, Florida, announcing a new military coalition aimed at eradicating drug cartels in the Western Hemisphere involving Latin American and Caribbean nations. Kristi Noem was appointed as Special Envoy for the Shield of the Americas following her removal as DHS Secretary."
+        }
+      ]
+    },
+    {
+      "id": "pakistan-afghanistan-conflict",
+      "title": "Pakistan-Afghanistan Conflict",
+      "firstSeen": "2026-02-27",
+      "lastSeen": "2026-03-17",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-02-27",
+          "edition": "manual",
+          "update": "Pakistan's defense minister declared the situation an 'open war' with Afghanistan. Pakistan launched strikes on the Afghan capital Kabul, with both countries exchanging military strikes in a significant escalation of hostilities."
+        },
+        {
+          "date": "2026-03-01",
+          "edition": "manual",
+          "update": "Protesters stormed the US Consulate in Karachi, Pakistan, an incident that resulted in at least nine deaths. The protest was triggered by the death of Iran's Supreme Leader Khamenei."
+        },
+        {
+          "date": "2026-03-17",
+          "edition": "morning",
+          "update": "An airstrike struck a facility in Kabul that Afghanistan identifies as a drug rehabilitation facility or hospital, with Afghanistan claiming over 400 deaths. Pakistan has disputed Afghanistan's account of the attack."
+        }
+      ]
+    },
+    {
+      "id": "iran-u-s-military-conflict",
+      "title": "Iran-U.S. Military Conflict",
+      "firstSeen": "2026-02-28",
+      "lastSeen": "2026-03-28",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-02-28",
+          "edition": "manual",
+          "update": "The U.S. and Israel launched a joint military operation against Iran called 'Operation Epic Fury,' with President Trump confirming 'major combat operations' and calling for regime change. Iran retaliated with missile strikes against U.S. bases in the Middle East and toward Israel, with Israeli defense systems intercepting Iranian missiles over Haifa and explosions reported across multiple Gulf states including Bahrain and Qatar. Airspace closures and flight cancellations were implemented across the region following the strikes."
+        },
+        {
+          "date": "2026-03-01",
+          "edition": "manual",
+          "update": "Supreme Leader Ayatollah Ali Khamenei was killed in the joint U.S.-Israel strikes, ending his approximately 36-year rule. Additional top Iranian military and government leaders were also killed in the operation. At least one civilian was killed by falling debris at Dubai/Abu Dhabi airports in the UAE, and Iran declared 40 days of mourning for Khamenei."
+        },
+        {
+          "date": "2026-03-02",
+          "edition": "morning",
+          "update": "Three U.S. service members were killed and five seriously wounded during Operation Epic Fury. An Iranian drone struck a British RAF base in Cyprus with minimal damage and no casualties. Iran's retaliation extended to strikes against Kuwait, Jordan, and other Gulf states beyond those previously reported."
+        },
+        {
+          "date": "2026-03-02",
+          "edition": "morning",
+          "update": "A U.S. military aircraft crashed in Kuwait with all crew members surviving. Video footage of at least one crash circulated publicly during ongoing military operations in the region."
+        },
+        {
+          "date": "2026-03-02",
+          "edition": "morning",
+          "update": "A mass shooting occurred in Austin, Texas with 14 people wounded or injured. The gunman wore clothing featuring Iranian flag imagery during the attack. Items related to Iranian leaders were found in the gunman's residence."
+        },
+        {
+          "date": "2026-03-02",
+          "edition": "manual",
+          "update": "Oil prices rose sharply following the strikes, with Brent crude up approximately 9 percent. The UK authorized US use of British bases for limited strikes on Iranian missile capabilities while declining to join offensive operations. Israel launched strikes on Hezbollah targets in Lebanon as the conflict widened, with at least nine people killed in a missile strike on Beit Shemesh near Jerusalem. More than 2,400 flights were canceled across the Middle East due to airspace closures, leaving thousands of Americans stranded in the region. The Iranian Red Crescent Society reported at least 201 people killed across Iran."
+        },
+        {
+          "date": "2026-03-02",
+          "edition": "evening",
+          "update": "Six U.S. service members have been killed in the conflict as of Monday, an increase from the three previously reported. Iran struck the U.S. Embassy compound in Kuwait during its retaliation. Three U.S. fighter jets were shot down by friendly fire in Kuwait with crews ejecting safely, and Iran established a three-member interim governing council following Khamenei's death."
+        },
+        {
+          "date": "2026-03-04",
+          "edition": "morning",
+          "update": "The U.S. and Israel have struck more than 2,000 targets in Iran as of the fifth day of Operation Epic Fury. Defense Secretary Pete Hegseth stated operations are 'accelerating, not decelerating' and predicted U.S. and Israel would achieve complete control of Iranian airspace within days. Iran made secret diplomatic outreach or signaled openness to talks during the ongoing conflict."
+        },
+        {
+          "date": "2026-03-04",
+          "edition": "morning",
+          "update": "The Strait of Hormuz has been disrupted, affecting global oil and gas shipping. The White House is preparing plans to stabilize oil markets, with Treasury Secretary Bessent and Secretary of State Rubio publicly addressing the situation. Gulf energy infrastructure has sustained damage from the conflict."
+        },
+        {
+          "date": "2026-03-04",
+          "edition": "morning",
+          "update": "A U.S. submarine sank an Iranian warship with a torpedo, marking the first U.S. torpedo sinking of an enemy ship since World War II. Defense Secretary Pete Hegseth confirmed the attack, which occurred in early March 2026 during Operation Epic Fury."
+        },
+        {
+          "date": "2026-03-04",
+          "edition": "morning",
+          "update": "Spain publicly opposed the war against Iran, prompting Trump to threaten trade cuts in response. Spanish Prime Minister Pedro Sanchez led Spain's opposition stance."
+        },
+        {
+          "date": "2026-03-04",
+          "edition": "morning",
+          "update": "NATO defense systems intercepted and destroyed an Iranian missile headed toward Turkey on Wednesday. Turkey confirmed the shootdown through official government channels, marking the first reported NATO engagement with Iranian missiles during the conflict."
+        },
+        {
+          "date": "2026-03-04",
+          "edition": "evening",
+          "update": "The White House stated that ground troops are not part of the plan for Operation Epic Fury. A strike on an Iranian school caused civilian casualties, with satellite imagery showing damage was more extensive than initially reported. US weapons and munitions stockpiles are being depleted, prompting discussions about forcing manufacturers to increase production."
+        },
+        {
+          "date": "2026-03-05",
+          "edition": "morning",
+          "update": "The Senate voted down a war powers resolution on the Iran conflict, with the vote largely along party lines and only one Republican and one Democratic senator crossing party lines. The House was scheduled to vote on a similar war powers resolution expected to fail. This was Congress's first vote on the Iran conflict."
+        },
+        {
+          "date": "2026-03-05",
+          "edition": "morning",
+          "update": "U.S. service members were killed by an Iranian drone strike in Kuwait, including Sgt. Declan Coady, age 20, the youngest victim, and Maj. Jeffrey R. O'Brien. The Pentagon released the names of fallen service members over multiple days rather than all at once."
+        },
+        {
+          "date": "2026-03-05",
+          "edition": "morning",
+          "update": "Iranian drones struck an airport in Azerbaijan. Azerbaijan vowed to respond to the attack, marking an expansion of the conflict beyond the U.S., Israel, and Iran to include regional actors."
+        },
+        {
+          "date": "2026-03-05",
+          "edition": "morning",
+          "update": "Russia and China have not provided military support to Iran following the U.S.-Israeli strikes, despite both countries verbally condemning the U.S.-Israeli attacks. Iran's allies are maintaining notable distance from Tehran despite their existing diplomatic and strategic ties."
+        },
+        {
+          "date": "2026-03-05",
+          "edition": "morning",
+          "update": "Canadian Prime Minister Mark Carney called for de-escalation of the Iran conflict while expressing support for the strikes on Iran despite his reservations."
+        },
+        {
+          "date": "2026-03-05",
+          "edition": "evening",
+          "update": "The House voted down a war powers resolution with a final vote of 212-219, with only two Republicans (Massie and Davidson) voting for the resolution and four Democrats voting against it. Iran's foreign minister stated Iran is not requesting a ceasefire. President Trump stated he must have a role in choosing Iran's next leader."
+        },
+        {
+          "date": "2026-03-28",
+          "edition": "morning",
+          "update": "Russian and Iranian foreign ministers held discussions about the possibility of a conflict settlement."
+        },
+        {
+          "date": "2026-03-28",
+          "edition": "morning",
+          "update": "Pakistan is set to host talks with Saudi Arabia, Turkey, and Egypt amid Iran war diplomacy."
+        }
+      ]
+    },
+    {
+      "id": "csam-crisis",
+      "title": "CSAM Crisis",
+      "firstSeen": "2026-02-28",
+      "lastSeen": "2026-03-17",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-02-28",
+          "edition": "manual",
+          "update": "AI advancement has enabled easier creation of child sexual abuse material (CSAM). Child exploitation is characterized as a crisis situation."
+        },
+        {
+          "date": "2026-03-17",
+          "edition": "evening",
+          "update": "A lawsuit was filed against Elon Musk's AI firm xAI by three teenage plaintiffs alleging that Grok, xAI's AI chatbot, was used to generate sexual images of minors."
+        }
+      ]
+    },
+    {
+      "id": "u-s-cuba-crisis",
+      "title": "U.S.-Cuba Crisis",
+      "firstSeen": "2026-02-28",
+      "lastSeen": "2026-03-16",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-03-14",
+          "edition": "evening",
+          "update": "Protesters attacked a Communist Party building in Cuba. The protests were triggered by blackouts and a broader economic crisis. This represents a rare and significant scale of protest event in Cuba."
+        },
+        {
+          "date": "2026-03-16",
+          "edition": "evening",
+          "update": "Cuba experienced an island-wide blackout on Monday, with the Cuban Ministry of Energy and Mines reporting a complete disconnection of the electrical system. Officials announced the outage on the social media platform X."
+        }
+      ]
+    },
+    {
+      "id": "iran-leadership-crisis",
+      "title": "Iran Leadership Crisis",
+      "firstSeen": "2026-03-04",
+      "lastSeen": "2026-03-12",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-03-07",
+          "edition": "evening",
+          "update": "President Masoud Pezeshkian apologized to Iran's neighboring Gulf states for Iranian strikes in the region, drawing criticism from hardliners and other Iranian leaders. Pezeshkian rejected a U.S. demand for unconditional surrender while characterizing the strikes as retaliatory actions related to conflict with Israel and U.S. bases in the Middle East."
+        },
+        {
+          "date": "2026-03-09",
+          "edition": "morning",
+          "update": "Mojtaba Khamenei, 56, was appointed Iran's new supreme leader by the Assembly of Experts following his father Ayatollah Ali Khamenei's death in U.S.-Israeli military strikes. The succession occurred during an ongoing military conflict between Iran and U.S.-Israeli forces, with Mojtaba expected to pursue hardline policies similar to his predecessor."
+        },
+        {
+          "date": "2026-03-12",
+          "edition": "evening",
+          "update": "Mojtaba Khamenei issued his first public statement as Iran's new supreme leader, which was defiant in tone and signaled Iran would not back down in its conflict with U.S.-Israeli forces. His declared policy includes maintaining the closure of the Strait of Hormuz as a key strategic element."
+        }
+      ]
+    },
+    {
+      "id": "israel-hezbollah-conflict",
+      "title": "Israel-Hezbollah Conflict",
+      "firstSeen": "2026-03-04",
+      "lastSeen": "2026-03-28",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-03-04",
+          "edition": "evening",
+          "update": "Israel has conducted military operations in southern Lebanon, marking a significant escalation in hostilities between Israel and Lebanese forces in the region."
+        },
+        {
+          "date": "2026-03-06",
+          "edition": "morning",
+          "update": "Israel struck targets in Beirut's southern suburbs and issued evacuation orders to Lebanese civilians across multiple areas including Beirut and southern border villages, resulting in large-scale civilian displacement. Lebanon's government faces pressure regarding Hezbollah disarmament."
+        },
+        {
+          "date": "2026-03-07",
+          "edition": "evening",
+          "update": "Israeli forces conducted a raid in Lebanon to search for the remains of a pilot missing for approximately 40 years."
+        },
+        {
+          "date": "2026-03-28",
+          "edition": "morning",
+          "update": "More than a million people have been displaced in Lebanon due to the conflict. BBC journalist Hugo Bachega reported on displaced families in Beirut."
+        }
+      ]
+    },
+    {
+      "id": "us-iran-military-conflict",
+      "title": "US-Iran Military Conflict",
+      "firstSeen": "2026-03-06",
+      "lastSeen": "2026-03-28",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-03-06",
+          "edition": "morning",
+          "update": "As of late February 2026, the US and Israel launched coordinated military strikes against Iran, resulting in the death of Supreme Leader Ali Khamenei. Iran retaliated with missiles and drones against Israel and US regional bases, while the US destroyed significant portions of Iran's navy and sank an Iranian ship in the Indian Ocean. The conflict has expanded regionally with strikes in Lebanon, Iranian retaliation against Gulf states, civilian casualties including children in Minab, major global energy disruptions, and Iran's Foreign Minister declaring readiness for ground invasion while refusing ceasefire negotiations."
+        },
+        {
+          "date": "2026-03-06",
+          "edition": "morning",
+          "update": "The House rejected a War Powers resolution challenging Trump's Iran military operation by a narrow vote. The Senate similarly rejected a measure aimed at blocking Trump's authority over the Iran conflict, allowing the military operation to proceed without congressional constraint."
+        },
+        {
+          "date": "2026-03-06",
+          "edition": "evening",
+          "update": "President Trump demanded unconditional surrender from Iran and ruled out negotiations, while also ruling out a ground invasion. The White House estimated the strikes would last approximately four to six weeks. Defense contractors met with Trump and agreed to ramp up weapons production."
+        },
+        {
+          "date": "2026-03-07",
+          "edition": "morning",
+          "update": "Iran's President Pezeshkian apologized to neighboring countries and offered to suspend strikes on them unless attacks originate from their territory. Russia has been providing Iran with intelligence on US force locations in the Middle East. Six US service members were killed, with Trump planning to attend their dignified transfer at Dover Air Force Base."
+        },
+        {
+          "date": "2026-03-07",
+          "edition": "morning",
+          "update": "Oil prices reached their highest levels since 2023 due to the Iran conflict, with U.S. gas prices spiking approximately 9% in one week. The Trump administration loosened sanctions on Russian oil, with Treasury Secretary Scott Bessent confirming India has been permitted to purchase Russian barrels. Stock market declines have been compounded by the conflict alongside a weak U.S. jobs report."
+        },
+        {
+          "date": "2026-03-07",
+          "edition": "evening",
+          "update": "Strikes on Iran have now entered their eighth day as of Saturday with continued explosions and fires visible in Tehran. Defense Secretary Hegseth dismissed concerns about Russia providing Iran with targeting intelligence for US military assets. Thousands of Americans have been evacuated from the Middle East during the escalating conflict."
+        },
+        {
+          "date": "2026-03-09",
+          "edition": "morning",
+          "update": "Oil prices surged above $100 per barrel for the first time since 2022, approximately 50% higher than pre-conflict levels. G7 nations are holding or planning an emergency meeting to address the oil price crisis, with the US considering releasing emergency oil reserves as a response. The military operation against Iran has been designated 'Operation Epic Fury.'"
+        },
+        {
+          "date": "2026-03-09",
+          "edition": "morning",
+          "update": "Mojtaba Khamenei has been selected as Iran's new supreme leader following Ali Khamenei's death. The military conflict has entered its second week (day 10) with continued US and Israeli strikes on energy infrastructure including fuel depots in Tehran. The US has signaled that strikes will continue and intensify."
+        },
+        {
+          "date": "2026-03-09",
+          "edition": "evening",
+          "update": "Trump stated the war is nearly over or 'very complete' during a news conference at his Doral, Florida property on March 9. Trump is considering taking control of the Strait of Hormuz, which has been severely disrupted by the conflict. Iran's President Pezeshkian has rejected Trump's demand for unconditional surrender."
+        },
+        {
+          "date": "2026-03-09",
+          "edition": "evening",
+          "update": "France is deploying warships to the Middle East, with President Macron announcing the deployment. The mission being considered includes escorting ships through the Strait of Hormuz."
+        },
+        {
+          "date": "2026-03-09",
+          "edition": "evening",
+          "update": "A US missile struck an area near a school in Minab, Iran, resulting in over 160 deaths according to Iranian officials, with video evidence documenting the strike. This represents a significant escalation in civilian casualties during the ongoing conflict."
+        },
+        {
+          "date": "2026-03-10",
+          "edition": "morning",
+          "update": "One additional US service member death has been confirmed, bringing the total to seven deaths during the conflict. Trump threatened to strike Iran '20 times harder' if it halts oil flow through the Strait of Hormuz. Netanyahu indicated further military action is planned against Iran."
+        },
+        {
+          "date": "2026-03-10",
+          "edition": "evening",
+          "update": "Approximately 140 US service members have been wounded since the conflict began. Defense Secretary Pete Hegseth announced the US would launch its 'most intense day of strikes' inside Iran."
+        },
+        {
+          "date": "2026-03-10",
+          "edition": "evening",
+          "update": "Iran is signaling intent to deploy mines in the Strait of Hormuz. Energy Secretary Chris Wright posted and then deleted a claim that the US military had escorted a tanker through the Strait, which White House press secretary Karoline Leavitt contradicted by confirming the US Navy has not yet escorted ships through the Strait."
+        },
+        {
+          "date": "2026-03-10",
+          "edition": "evening",
+          "update": "Strikes on Iran's oil facilities have caused 'black rain' in Iran. The black rain phenomenon is associated with health risks."
+        },
+        {
+          "date": "2026-03-11",
+          "edition": "morning",
+          "update": "The US destroyed approximately 16 Iranian mine-laying vessels near the Strait of Hormuz. Iran attacked Dubai airport as part of its retaliatory operations. Over 750,000 people have been displaced in Lebanon since the conflict began."
+        },
+        {
+          "date": "2026-03-11",
+          "edition": "evening",
+          "update": "A military investigation has been initiated following the US missile strike on an Iranian school in Minab that killed over 160 civilians."
+        },
+        {
+          "date": "2026-03-11",
+          "edition": "evening",
+          "update": "Three ships were attacked near the Strait of Hormuz on Wednesday, with Iran linked to the attacks as part of the broader military conflict."
+        },
+        {
+          "date": "2026-03-11",
+          "edition": "evening",
+          "update": "The International Energy Agency (IEA) is releasing 400 million barrels of oil from emergency reserves in response to market disruption from the Iran conflict. This represents the largest emergency oil release in IEA history."
+        },
+        {
+          "date": "2026-03-11",
+          "edition": "evening",
+          "update": "Stryker, a U.S. medical device and equipment company, was targeted by a cyberattack linked to Iran-based hackers. The attack caused operational disruptions to the company. This represents Iran's expansion of the conflict beyond military operations to include cyber attacks against U.S. civilian infrastructure."
+        },
+        {
+          "date": "2026-03-12",
+          "edition": "evening",
+          "update": "The US is releasing 172 million barrels of oil from the Strategic Petroleum Reserve to combat price spikes caused by the conflict. Wealthy nations have pledged a coordinated record release of emergency oil reserves beyond the IEA's previously announced 400 million barrel release."
+        },
+        {
+          "date": "2026-03-13",
+          "edition": "morning",
+          "update": "Iran's new supreme leader Mojtaba Khamenei issued his first public statement vowing to continue fighting. Four US service members were killed in a KC-135 plane crash in Iraq, bringing total US deaths to at least eleven. Gulf nations including Kuwait, Saudi Arabia, Bahrain, Qatar, UAE, and Oman are pressing for a diplomatic end to the conflict, and several have declared force majeure on oil and gas shipments due to the conflict."
+        },
+        {
+          "date": "2026-03-13",
+          "edition": "morning",
+          "update": "A French soldier was killed in a drone attack in Iraq, with additional French soldiers wounded in the same attack. The French military presence in Iraq is engaged in counter-ISIS operations."
+        },
+        {
+          "date": "2026-03-13",
+          "edition": "evening",
+          "update": "All six crew members of a US KC-135 refueling aircraft were killed in the crash in western Iraq, correcting the earlier report of four deaths. The Bahrain and Saudi Arabia Formula 1 Grand Prix races are set to be cancelled due to the Middle East conflict. Defense Secretary Pete Hegseth claimed Iran's new supreme leader Mojtaba Khamenei was wounded and 'likely disfigured.'"
+        },
+        {
+          "date": "2026-03-13",
+          "edition": "evening",
+          "update": "The Trump administration structured sanctions relief on Russian oil as a 30-day temporary measure. Ukraine's President Zelensky and European allies criticized the US decision to lift Russia oil sanctions."
+        },
+        {
+          "date": "2026-03-14",
+          "edition": "morning",
+          "update": "The US military struck military targets on Iran's Kharg Island, a critical hub for Iranian oil exports, with Trump claiming the US 'obliterated' every military target there while deliberately sparing oil infrastructure but threatening future strikes on it. The strikes on Kharg Island occurred approximately 15 days into the conflict."
+        },
+        {
+          "date": "2026-03-14",
+          "edition": "morning",
+          "update": "The US Embassy in Baghdad was hit by a missile attack that struck the embassy's helipad, with smoke observed rising from the compound."
+        },
+        {
+          "date": "2026-03-14",
+          "edition": "evening",
+          "update": "The US struck more than 90 military targets on Iran's Kharg Island, significantly exceeding the previous claim of 'every military target.' Iran declared the Strait of Hormuz closed to tanker and ships of enemies during the war. Iran's military threatened to attack UAE ports and cities claimed to be used for launching the Kharg Island strikes. The US Embassy in Baghdad urged Americans to leave Iraq immediately due to kidnapping risks from Iran-aligned militias. FCC Chair Brendan Carr threatened broadcast networks' licenses over critical Iran war coverage."
+        },
+        {
+          "date": "2026-03-14",
+          "edition": "evening",
+          "update": "Trump announced plans for a multinational naval coalition to address Iran's restrictions on passage through the Strait of Hormuz. Trump stated that 'many countries' would send warships to participate in the coalition."
+        },
+        {
+          "date": "2026-03-15",
+          "edition": "evening",
+          "update": "Iran's Foreign Minister Abbas Araghchi publicly denied that Iran requested a ceasefire, contradicting Trump's claims. Energy Secretary Chris Wright predicted the conflict could end within weeks. The international response to Trump's call for a multinational coalition to reopen the Strait of Hormuz has been limited or muted so far."
+        },
+        {
+          "date": "2026-03-15",
+          "edition": "evening",
+          "update": "Netanyahu posted a video on Sunday in response to death rumors that originated from Iranian sources."
+        },
+        {
+          "date": "2026-03-16",
+          "edition": "evening",
+          "update": "The conflict has entered its third week as of the reported date. Approximately 200 US troops have been wounded in the conflict, including some with serious injuries."
+        },
+        {
+          "date": "2026-03-16",
+          "edition": "evening",
+          "update": "U.S. stocks achieved their best day since the Iran conflict began, driven by easing oil prices."
+        },
+        {
+          "date": "2026-03-17",
+          "edition": "morning",
+          "update": "Israel claims to have killed Ali Larijani, Iran's top security official, in an airstrike. Gholamreza Soleimani, commander of Iran's Basij militia unit, was also reportedly killed in targeted strikes."
+        },
+        {
+          "date": "2026-03-17",
+          "edition": "morning",
+          "update": "U.S. allies are refusing or declining to support Trump's demands related to the Strait of Hormuz and the Iran conflict, representing a significant diplomatic setback to the proposed multinational naval coalition. The conflict is generating significant political consequences both domestically and internationally."
+        },
+        {
+          "date": "2026-03-17",
+          "edition": "evening",
+          "update": "Joe Kent resigned as National Counterterrorism Center Director citing opposition to the Iran war. Iran launched retaliatory missile strikes that killed two people in Israel. Trump publicly stated the US does not need help to secure the Strait of Hormuz, reversing his earlier call for a multinational coalition."
+        },
+        {
+          "date": "2026-03-17",
+          "edition": "evening",
+          "update": "Joe Kent's resignation letter stated that Iran posed no imminent threat to the United States, providing his rationale for opposing the war."
+        },
+        {
+          "date": "2026-03-28",
+          "edition": "morning",
+          "update": "Iran struck Prince Sultan Air Base in Saudi Arabia, wounding multiple U.S. service members. The Houthis fired their first confirmed missile attack against Israel during the current conflict, which was intercepted by the Israeli military."
+        }
+      ]
+    },
+    {
+      "id": "uk-meningitis-outbreak",
+      "title": "UK Meningitis Outbreak",
+      "firstSeen": "2026-03-17",
+      "lastSeen": "2026-03-28",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-03-17",
+          "edition": "morning",
+          "update": "Two people have died in a meningitis outbreak linked to the University of Kent. UK health authorities are actively working to contain the spread."
+        },
+        {
+          "date": "2026-03-28",
+          "edition": "morning",
+          "update": "No new meningitis cases have been reported in the past week."
+        }
+      ]
+    },
+    {
+      "id": "artemis-ii-moon-mission",
+      "title": "Artemis II Moon Mission",
+      "firstSeen": "2026-03-28",
+      "lastSeen": "2026-03-28",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-03-28",
+          "edition": "morning",
+          "update": "The Artemis II crew arrived at Kennedy Space Center in Florida for final launch preparations. The mission will be the first human deep space mission in more than 50 years. The crew consists of four NASA astronauts."
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-04-01T14:40:10.933Z"
+}

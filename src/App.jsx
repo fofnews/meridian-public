@@ -5,6 +5,7 @@ import DateNav from './components/DateNav';
 import StoryCard from './components/StoryCard';
 import SuggestionBox from './components/SuggestionBox';
 import ArticlesView from './components/ArticlesView';
+import TimelineView from './components/TimelineView';
 import { useTheme } from './ThemeContext.jsx';
 
 export default function App() {
@@ -17,7 +18,7 @@ export default function App() {
   const [error, setError] = useState(null);
   const [expandedStory, setExpandedStory] = useState(null);
   const [featuredIdx, setFeaturedIdx] = useState(0);
-  const [view, setView] = useState('analysis'); // 'analysis' | 'articles'
+  const [view, setView] = useState('analysis'); // 'analysis' | 'articles' | 'timeline'
   const scrollAnchor = useRef(null);
 
   useLayoutEffect(() => {
@@ -71,8 +72,8 @@ export default function App() {
   return (
     <div className="min-h-screen" style={{ background: 'var(--bg-primary)' }}>
 
-      {/* Broadcast hero — only shown when we have data */}
-      {!loading && report && multiSource.length > 0 && (
+      {/* Broadcast hero — only shown on analysis view */}
+      {view !== 'timeline' && !loading && report && multiSource.length > 0 && (
         <BroadcastHero
           stories={multiSource}
           selectedIdx={featuredIdx}
@@ -95,18 +96,18 @@ export default function App() {
         </div>
       )}
 
-      {/* Date navigation */}
-      <DateNav
+      {/* Date navigation — hidden on timeline tab */}
+      {view !== 'timeline' && <DateNav
         availableDates={availableDates}
         selectedDate={selectedDate}
         selectedEdition={selectedEdition}
         onSelect={loadReport}
-      />
+      />}
 
       {/* View tabs */}
       <div style={{ borderBottom: '1px solid var(--border-primary)' }}>
         <div className="max-w-5xl mx-auto px-4 flex gap-6">
-          {['analysis', 'articles'].map(v => (
+          {[['analysis', 'Analysis'], ['articles', 'Articles'], ['timeline', 'Timeline']].map(([v, label]) => (
             <button
               key={v}
               onClick={() => setView(v)}
@@ -118,13 +119,15 @@ export default function App() {
                 letterSpacing: '2px',
               }}
             >
-              {v === 'analysis' ? 'Analysis' : 'Articles'}
+              {label}
             </button>
           ))}
         </div>
       </div>
 
       <main className="max-w-5xl mx-auto px-4 py-10">
+        {view === 'timeline' && <TimelineView />}
+
         {view === 'articles' && selectedDate && (
           <ArticlesView selectedDate={selectedDate} />
         )}

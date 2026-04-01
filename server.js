@@ -198,6 +198,19 @@ function categorize(title, article = {}) {
   return 'Other';
 }
 
+// Serve timeline data
+const TIMELINES_DIR = path.join(__dirname, 'timelines');
+app.get('/api/timelines', (_req, res) => {
+  try {
+    const file = path.join(TIMELINES_DIR, 'timeline.json');
+    if (!fs.existsSync(file)) return res.json({ timelines: [], updatedAt: null });
+    const data = JSON.parse(fs.readFileSync(file, 'utf8'));
+    res.json(data);
+  } catch {
+    res.json({ timelines: [], updatedAt: null });
+  }
+});
+
 // Serve articles for a specific date
 const ARTICLES_DIR = path.join(__dirname, 'articles');
 app.get('/api/articles/:date', (req, res) => {
