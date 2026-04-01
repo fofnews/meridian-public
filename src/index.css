@@ -193,7 +193,7 @@ input::placeholder {
 
 /* Hero container: CSS custom property for chyron height offset */
 .hero-aspect-container {
-  --chyron-h: 12%;
+  --chyron-h: 72px; /* only used in fullscreen (expanded) mode */
 }
 @media (max-width: 639px) {
   .hero-aspect-container {
@@ -211,7 +211,7 @@ input::placeholder {
   }
 }
 
-/* Story selector: right-column on desktop, horizontal row on mobile */
+/* Story selector: right-column on desktop, hidden on mobile */
 .story-selector {
   top: 50%;
   right: 3%;
@@ -222,14 +222,7 @@ input::placeholder {
 }
 @media (max-width: 639px) {
   .story-selector {
-    top: auto;
-    bottom: calc(var(--chyron-h, 82px) + 70px);
-    right: 3%;
-    left: 3%;
-    transform: none;
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 4px;
+    display: none;
   }
 }
 
@@ -237,12 +230,6 @@ input::placeholder {
 .story-selector-btn {
   max-width: 20vw;
   font-size: clamp(6px, 0.8vw, 10px);
-}
-@media (max-width: 639px) {
-  .story-selector-btn {
-    max-width: 45vw;
-    font-size: clamp(8px, 2.8vw, 11px);
-  }
 }
 
 /* Hide clock in top bar on small screens */

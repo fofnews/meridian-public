@@ -352,9 +352,76 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
     ? 'radial-gradient(ellipse at 52% 48%, rgba(10,13,20,0.3) 0%, rgba(10,13,20,0.75) 100%)'
     : 'radial-gradient(ellipse at 52% 48%, rgba(244,240,232,0.1) 0%, rgba(244,240,232,0.45) 100%)';
 
+  // Chyron JSX — shared between normal (flow) and expanded (overlay) modes
+  const chyronContent = (
+    <>
+      <div
+        className="flex items-center gap-4"
+        style={{ background: chyronUpper, borderTop: '2px solid var(--hero-border-active)', padding: 'clamp(4px, 1.2%, 10px) 3%' }}
+      >
+        <div
+          className="shrink-0 font-semibold tracking-[2px] uppercase whitespace-nowrap"
+          style={{ background: 'var(--accent)', color: 'var(--accent-text)', fontSize: 'clamp(7px, 0.85vw, 10px)', padding: '3px 10px' }}
+        >
+          {chyronLabel}
+        </div>
+        <div
+          className="font-display font-bold"
+          style={{ color: 'var(--text-primary)', fontSize: 'clamp(11px, 1.75vw, 20px)', letterSpacing: '0.3px' }}
+        >
+          {truncateHeadline(featured.headline, window.innerWidth < 640 ? 45 : 72)}
+        </div>
+      </div>
+      <div
+        className="flex items-center justify-between"
+        style={{ background: chyronLower, padding: 'clamp(3px, 0.8%, 7px) 3%' }}
+      >
+        <div style={{ color: textAlpha60, fontSize: 'clamp(7px, 1vw, 12px)', letterSpacing: '0.8px' }}>
+          {chyronSub}
+          {sourceCount > 0 && (
+            <span style={{ color: textAlpha35, marginLeft: 12 }}>
+              {sourceCount} source{sourceCount !== 1 ? 's' : ''}
+            </span>
+          )}
+        </div>
+        {availableEditions.length > 1 && (
+          <div className="flex gap-1.5 shrink-0">
+            {availableEditions.filter(e => e !== 'manual').map(e => (
+              <button
+                key={e}
+                onClick={() => onEditionSelect(e)}
+                className="cursor-pointer transition-all"
+                style={{
+                  background: edition === e ? 'rgba(232,197,71,0.15)' : 'transparent',
+                  border: `1px solid ${edition === e ? 'var(--hero-border-active)' : 'var(--hero-border)'}`,
+                  color: edition === e ? 'var(--accent)' : textAlpha45,
+                  fontSize: 'clamp(7px, 0.85vw, 10px)',
+                  letterSpacing: '1.5px',
+                  textTransform: 'uppercase',
+                  padding: '2px 8px',
+                }}
+              >
+                {EDITION_LABELS[e] ?? e}
+              </button>
+            ))}
+          </div>
+        )}
+        {availableEditions.length <= 1 && edition && edition !== 'manual' && (
+          <div style={{ color: 'var(--accent)', fontSize: 'clamp(7px, 0.85vw, 11px)', letterSpacing: '1.5px', textTransform: 'uppercase' }}>
+            {EDITION_LABELS[edition] ?? edition}
+          </div>
+        )}
+      </div>
+    </>
+  );
+
   const containerStyle = expanded
     ? { position: 'fixed', inset: 0, zIndex: 50, width: '100vw', height: '100vh' }
     : { aspectRatio: '16/9', maxHeight: '75vh', minHeight: 280, position: 'sticky', top: 0, zIndex: 20 };
+
+  // Button bottom offsets: clear chyron overlay when expanded, sit near edge otherwise
+  const locBottom  = expanded ? 'calc(var(--chyron-h) + 4px)'  : '8px';
+  const ctrlBottom = expanded ? 'calc(var(--chyron-h) + 60px)' : '8px';
 
   return (
     <>
@@ -378,188 +445,198 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
           </button>
         </div>
       )}
+
+      {/* Map div — sticky in normal mode, fixed fullscreen when expanded */}
       <div
         className="relative w-full overflow-hidden hero-aspect-container"
         style={{ ...containerStyle, display: mapVisible ? '' : 'none' }}
       >
-      {/* Mapbox map */}
-      <div ref={mapContainer} className="absolute inset-0" style={{ opacity: 1.8, width: '100%', height: '100%' }} />
+          {/* Mapbox map */}
+          <div ref={mapContainer} className="absolute inset-0" style={{ opacity: 1.8, width: '100%', height: '100%' }} />
 
-      {/* Fallback background when map is disabled */}
-      {!mapEnabled && (
-        <div className="absolute inset-0" style={{ background: 'var(--bg-primary)' }} />
-      )}
+          {/* Fallback background when map is disabled */}
+          {!mapEnabled && (
+            <div className="absolute inset-0" style={{ background: 'var(--bg-primary)' }} />
+          )}
 
-      {/* Radial overlay */}
-      {mapEnabled && <div className="absolute inset-0 pointer-events-none" style={{ background: overlayGrad }} />}
+          {/* Radial overlay */}
+          {mapEnabled && <div className="absolute inset-0 pointer-events-none" style={{ background: overlayGrad }} />}
 
-      {/* CRT scanlines */}
-      {mapEnabled && <div className="absolute inset-0 scanlines pointer-events-none" />}
+          {/* CRT scanlines */}
+          {mapEnabled && <div className="absolute inset-0 scanlines pointer-events-none" />}
 
-      {/* Top bar */}
-      <div className="absolute top-0 left-0 right-0 flex items-center justify-between px-[3%] py-[2%]" style={{ zIndex: 10 }}>
-        <div
-          className="font-display font-black tracking-[3px] uppercase"
-          style={{ color: 'var(--text-primary)', fontSize: 'clamp(13px, 2.2vw, 26px)' }}
-        >
-          The Meridian
-        </div>
-        <div
-          className="font-semibold tracking-[2px] uppercase"
-          style={{ background: '#c0392b', color: '#fff', fontSize: 'clamp(7px, 0.9vw, 11px)', padding: '3px 10px' }}
-        >
-          Live
-        </div>
-        <div className="hero-clock" style={{ color: textAlpha55, fontSize: 'clamp(7px, 0.9vw, 11px)', letterSpacing: 1 }}>
-          {time}
-        </div>
-      </div>
-
-      {/* Story selector */}
-      {stories.length > 1 && (
-        <div
-          className="absolute story-selector"
-          style={{ zIndex: 10 }}
-        >
-          {stories.slice(0, 6).map((story, i) => (
-            <button
-              key={story.id}
-              onClick={() => onSelect(i)}
-              className="text-left transition-all cursor-pointer story-selector-btn"
-              style={{
-                background: selectedIdx === i ? 'rgba(232,197,71,0.15)' : btnBg,
-                border: `0.5px solid ${selectedIdx === i ? 'var(--hero-border-active)' : 'var(--hero-border)'}`,
-                color: selectedIdx === i ? 'var(--accent)' : 'var(--text-secondary)',
-                letterSpacing: '0.8px',
-                textTransform: 'uppercase',
-                padding: '5px 10px',
-                whiteSpace: 'nowrap',
-                overflow: 'hidden',
-                textOverflow: 'ellipsis',
-              }}
+          {/* Top bar */}
+          <div className="absolute top-0 left-0 right-0 flex items-center justify-between px-[3%] py-[2%]" style={{ zIndex: 10 }}>
+            <div
+              className="font-display font-black tracking-[3px] uppercase"
+              style={{ color: 'var(--text-primary)', fontSize: 'clamp(13px, 2.2vw, 26px)' }}
             >
-              {truncateHeadline(story.headline, 40)}
-            </button>
-          ))}
-        </div>
-      )}
+              The Meridian
+            </div>
+            <div
+              className="font-semibold tracking-[2px] uppercase"
+              style={{ background: '#c0392b', color: '#fff', fontSize: 'clamp(7px, 0.9vw, 11px)', padding: '3px 10px' }}
+            >
+              Live
+            </div>
+            <div className="hero-clock" style={{ color: textAlpha55, fontSize: 'clamp(7px, 0.9vw, 11px)', letterSpacing: 1 }}>
+              {time}
+            </div>
+          </div>
 
-      {/* Location buttons */}
-      {featuredLocations.length > 1 && (
-        <div
-          className="absolute flex gap-2 flex-wrap"
-          style={{ bottom: 'calc(var(--chyron-h) + 4px)', left: '3%', zIndex: 10 }}
-        >
-          {featuredLocations.map((loc, i) => (
+          {/* Story selector */}
+          {stories.length > 1 && (
+            <div className="absolute story-selector" style={{ zIndex: 10 }}>
+              {stories.slice(0, 6).map((story, i) => (
+                <button
+                  key={story.id}
+                  onClick={() => onSelect(i)}
+                  className="text-left transition-all cursor-pointer story-selector-btn"
+                  style={{
+                    background: selectedIdx === i ? 'rgba(232,197,71,0.15)' : btnBg,
+                    border: `0.5px solid ${selectedIdx === i ? 'var(--hero-border-active)' : 'var(--hero-border)'}`,
+                    color: selectedIdx === i ? 'var(--accent)' : 'var(--text-secondary)',
+                    letterSpacing: '0.8px',
+                    textTransform: 'uppercase',
+                    padding: '5px 10px',
+                    whiteSpace: 'nowrap',
+                    overflow: 'hidden',
+                    textOverflow: 'ellipsis',
+                  }}
+                >
+                  {truncateHeadline(story.headline, 40)}
+                </button>
+              ))}
+            </div>
+          )}
+
+          {/* Location buttons */}
+          {featuredLocations.length > 1 && (
+            <div
+              className="absolute flex gap-2 flex-wrap"
+              style={{ bottom: locBottom, left: '3%', zIndex: 10 }}
+            >
+              {featuredLocations.map((loc, i) => (
+                <button
+                  key={loc.name}
+                  onClick={() => { setActiveLocIdx(i); flyToLocation(loc); }}
+                  className="cursor-pointer transition-all"
+                  style={{
+                    background: activeLocIdx === i ? 'rgba(232,197,71,0.2)' : btnBg,
+                    border: `1px solid ${activeLocIdx === i ? 'var(--hero-border-active)' : 'var(--hero-border)'}`,
+                    color: activeLocIdx === i ? 'var(--accent)' : 'var(--text-primary)',
+                    fontWeight: 600,
+                    fontSize: 'clamp(7px, 0.8vw, 10px)',
+                    letterSpacing: '1px',
+                    textTransform: 'uppercase',
+                    padding: '3px 10px',
+                  }}
+                >
+                  {loc.name}
+                </button>
+              ))}
+            </div>
+          )}
+
+          {/* Zoom + map controls */}
+          <div
+            className="absolute flex flex-row gap-1.5"
+            style={{ bottom: ctrlBottom, right: '3%', zIndex: 10 }}
+          >
+            {['+', '−'].map((label, i) => (
+              <button
+                key={label}
+                onClick={() => i === 0 ? mapRef.current?.zoomIn() : mapRef.current?.zoomOut()}
+                className="cursor-pointer transition-all"
+                style={{
+                  background: btnBg,
+                  border: '1px solid var(--hero-border)',
+                  color: textAlpha70,
+                  fontSize: 'clamp(14px, 1.5vw, 20px)',
+                  width: 'clamp(28px, 3vw, 40px)',
+                  height: 'clamp(28px, 3vw, 40px)',
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'center',
+                  lineHeight: 1,
+                }}
+              >
+                {label}
+              </button>
+            ))}
             <button
-              key={loc.name}
-              onClick={() => { setActiveLocIdx(i); flyToLocation(loc); }}
+              onClick={() => setMapVisible(false)}
+              title="Minimize map"
               className="cursor-pointer transition-all"
               style={{
-                background: activeLocIdx === i ? 'rgba(232,197,71,0.2)' : btnBg,
-                border: `1px solid ${activeLocIdx === i ? 'var(--hero-border-active)' : 'var(--hero-border)'}`,
-                color: activeLocIdx === i ? 'var(--accent)' : 'var(--text-primary)',
-                fontWeight: 600,
-                fontSize: 'clamp(7px, 0.8vw, 10px)',
-                letterSpacing: '1px',
-                textTransform: 'uppercase',
-                padding: '3px 10px',
+                background: btnBg,
+                border: '1px solid var(--hero-border)',
+                color: textAlpha70,
+                fontSize: 'clamp(10px, 1.1vw, 14px)',
+                width: 'clamp(28px, 3vw, 40px)',
+                height: 'clamp(28px, 3vw, 40px)',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                lineHeight: 1,
               }}
             >
-              {loc.name}
+              ▲
             </button>
-          ))}
+            <button
+              onClick={() => setMapEnabled(e => !e)}
+              title={mapEnabled ? 'Disable map (improve performance)' : 'Enable map'}
+              className="cursor-pointer transition-all"
+              style={{
+                background: mapEnabled ? btnBg : 'rgba(232,197,71,0.15)',
+                border: `1px solid ${mapEnabled ? 'var(--hero-border)' : 'var(--hero-border-active)'}`,
+                color: mapEnabled ? textAlpha70 : 'var(--accent)',
+                fontSize: 'clamp(12px, 1.3vw, 17px)',
+                width: 'clamp(28px, 3vw, 40px)',
+                height: 'clamp(28px, 3vw, 40px)',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                lineHeight: 1,
+              }}
+            >
+              ⊕
+            </button>
+            <button
+              onClick={() => setExpanded(e => !e)}
+              title={expanded ? 'Exit fullscreen' : 'Expand map'}
+              className="cursor-pointer transition-all"
+              style={{
+                background: btnBg,
+                border: '1px solid var(--hero-border)',
+                color: textAlpha70,
+                fontSize: 'clamp(12px, 1.3vw, 17px)',
+                width: 'clamp(28px, 3vw, 40px)',
+                height: 'clamp(28px, 3vw, 40px)',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                lineHeight: 1,
+              }}
+            >
+              {expanded ? '⊠' : '⊡'}
+            </button>
+          </div>
+
+          {/* Chyron overlay — only when expanded (fullscreen broadcast style) */}
+          {expanded && (
+            <div className="absolute bottom-0 left-0 right-0" style={{ zIndex: 10 }}>
+              {chyronContent}
+            </div>
+          )}
         </div>
-      )}
 
-      {/* Zoom + expand controls */}
-      <div
-        className="absolute flex flex-row gap-1.5"
-        style={{ bottom: 'calc(var(--chyron-h) + 60px)', right: '3%', zIndex: 10 }}
-      >
-        {['+', '−'].map((label, i) => (
-          <button
-            key={label}
-            onClick={() => i === 0 ? mapRef.current?.zoomIn() : mapRef.current?.zoomOut()}
-            className="cursor-pointer transition-all"
-            style={{
-              background: btnBg,
-              border: '1px solid var(--hero-border)',
-              color: textAlpha70,
-              fontSize: 'clamp(14px, 1.5vw, 20px)',
-              width: 'clamp(28px, 3vw, 40px)',
-              height: 'clamp(28px, 3vw, 40px)',
-              display: 'flex',
-              alignItems: 'center',
-              justifyContent: 'center',
-              lineHeight: 1,
-            }}
-          >
-            {label}
-          </button>
-        ))}
-        <button
-          onClick={() => setMapVisible(false)}
-          title="Minimize map"
-          className="cursor-pointer transition-all"
-          style={{
-            background: btnBg,
-            border: '1px solid var(--hero-border)',
-            color: textAlpha70,
-            fontSize: 'clamp(10px, 1.1vw, 14px)',
-            width: 'clamp(28px, 3vw, 40px)',
-            height: 'clamp(28px, 3vw, 40px)',
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'center',
-            lineHeight: 1,
-          }}
-        >
-          ▲
-        </button>
-        <button
-          onClick={() => setMapEnabled(e => !e)}
-          title={mapEnabled ? 'Disable map (improve performance)' : 'Enable map'}
-          className="cursor-pointer transition-all"
-          style={{
-            background: mapEnabled ? btnBg : 'rgba(232,197,71,0.15)',
-            border: `1px solid ${mapEnabled ? 'var(--hero-border)' : 'var(--hero-border-active)'}`,
-            color: mapEnabled ? textAlpha70 : 'var(--accent)',
-            fontSize: 'clamp(12px, 1.3vw, 17px)',
-            width: 'clamp(28px, 3vw, 40px)',
-            height: 'clamp(28px, 3vw, 40px)',
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'center',
-            lineHeight: 1,
-          }}
-        >
-          ⊕
-        </button>
-        <button
-          onClick={() => setExpanded(e => !e)}
-          title={expanded ? 'Minimize map' : 'Expand map'}
-          className="cursor-pointer transition-all"
-          style={{
-            background: btnBg,
-            border: '1px solid var(--hero-border)',
-            color: textAlpha70,
-            fontSize: 'clamp(12px, 1.3vw, 17px)',
-            width: 'clamp(28px, 3vw, 40px)',
-            height: 'clamp(28px, 3vw, 40px)',
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'center',
-            lineHeight: 1,
-          }}
-        >
-          {expanded ? '⊠' : '⊡'}
-        </button>
-      </div>
+      {/* Chyron in normal flow — only when not expanded, sits below the map with no overlap */}
+      {mapVisible && !expanded && chyronContent}
 
-      {/* Chyron */}
-      <div className="absolute bottom-0 left-0 right-0" style={{ zIndex: 10 }}>
-        <div className="overflow-hidden" style={{ background: 'var(--accent)', padding: '0.5% 0' }}>
+      {/* Ticker — hidden when expanded */}
+      {mapVisible && !expanded && (
+        <div className="overflow-hidden w-full" style={{ background: 'var(--accent)', padding: '5px 0' }}>
           <div
             className="ticker-scroll inline-block whitespace-nowrap"
             style={{ color: 'var(--accent-text)', fontSize: 'clamp(9px, 1vw, 13px)', fontWeight: 600, letterSpacing: '1.5px', textTransform: 'uppercase' }}
@@ -567,67 +644,7 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
             THE MERIDIAN  ·  {tickerText}  ·  THE MERIDIAN  ·  {tickerText}
           </div>
         </div>
-
-        <div
-          className="flex items-center gap-4"
-          style={{ background: chyronUpper, borderTop: '2px solid var(--hero-border-active)', padding: 'max(4px, 1.2%) 3%' }}
-        >
-          <div
-            className="shrink-0 font-semibold tracking-[2px] uppercase whitespace-nowrap"
-            style={{ background: 'var(--accent)', color: 'var(--accent-text)', fontSize: 'clamp(7px, 0.85vw, 10px)', padding: '3px 10px' }}
-          >
-            {chyronLabel}
-          </div>
-          <div
-            className="font-display font-bold"
-            style={{ color: 'var(--text-primary)', fontSize: 'clamp(11px, 1.75vw, 20px)', letterSpacing: '0.3px' }}
-          >
-            {truncateHeadline(featured.headline, window.innerWidth < 640 ? 45 : 72)}
-          </div>
-        </div>
-
-        <div
-          className="flex items-center justify-between"
-          style={{ background: chyronLower, padding: 'max(3px, 0.8%) 3%' }}
-        >
-          <div style={{ color: textAlpha60, fontSize: 'clamp(7px, 1vw, 12px)', letterSpacing: '0.8px' }}>
-            {chyronSub}
-            {sourceCount > 0 && (
-              <span style={{ color: textAlpha35, marginLeft: 12 }}>
-                {sourceCount} source{sourceCount !== 1 ? 's' : ''}
-              </span>
-            )}
-          </div>
-          {availableEditions.length > 1 && (
-            <div className="flex gap-1.5 shrink-0">
-              {availableEditions.filter(e => e !== 'manual').map(e => (
-                <button
-                  key={e}
-                  onClick={() => onEditionSelect(e)}
-                  className="cursor-pointer transition-all"
-                  style={{
-                    background: edition === e ? 'rgba(232,197,71,0.15)' : 'transparent',
-                    border: `1px solid ${edition === e ? 'var(--hero-border-active)' : 'var(--hero-border)'}`,
-                    color: edition === e ? 'var(--accent)' : textAlpha45,
-                    fontSize: 'clamp(7px, 0.85vw, 10px)',
-                    letterSpacing: '1.5px',
-                    textTransform: 'uppercase',
-                    padding: '2px 8px',
-                  }}
-                >
-                  {EDITION_LABELS[e] ?? e}
-                </button>
-              ))}
-            </div>
-          )}
-          {availableEditions.length <= 1 && edition && edition !== 'manual' && (
-            <div style={{ color: 'var(--accent)', fontSize: 'clamp(7px, 0.85vw, 11px)', letterSpacing: '1.5px', textTransform: 'uppercase' }}>
-              {EDITION_LABELS[edition] ?? edition}
-            </div>
-          )}
-        </div>
-      </div>
-    </div>
+      )}
     </>
   );
 }
