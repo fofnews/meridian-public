@@ -421,7 +421,6 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
 
   // Button bottom offsets: clear chyron overlay when expanded, sit near edge otherwise
   const locBottom  = expanded ? 'calc(var(--chyron-h) + 4px)'  : '8px';
-  const ctrlBottom = expanded ? 'calc(var(--chyron-h) + 60px)' : '8px';
 
   return (
     <>
@@ -540,8 +539,8 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
 
           {/* Zoom + map controls */}
           <div
-            className="absolute flex flex-row gap-1.5"
-            style={{ bottom: ctrlBottom, right: '3%', zIndex: 10 }}
+            className="absolute flex flex-col gap-1.5"
+            style={{ top: '50%', transform: 'translateY(-50%)', right: 8, zIndex: 10 }}
           >
             {['+', '−'].map((label, i) => (
               <button

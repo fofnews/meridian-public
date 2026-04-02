@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback, useRef, useLayoutEffect } from 'react';
-import { Sun, Moon } from 'lucide-react';
+import { Sun, Moon, ArrowUp } from 'lucide-react';
 import BroadcastHero from './components/BroadcastHero';
 import DateNav from './components/DateNav';
 import StoryCard from './components/StoryCard';
@@ -19,7 +19,14 @@ export default function App() {
   const [expandedStory, setExpandedStory] = useState(null);
   const [featuredIdx, setFeaturedIdx] = useState(0);
   const [view, setView] = useState('analysis'); // 'analysis' | 'articles' | 'timeline'
+  const [showScrollTop, setShowScrollTop] = useState(false);
   const scrollAnchor = useRef(null);
+
+  useEffect(() => {
+    const onScroll = () => setShowScrollTop(window.scrollY > 400);
+    window.addEventListener('scroll', onScroll, { passive: true });
+    return () => window.removeEventListener('scroll', onScroll);
+  }, []);
 
   useLayoutEffect(() => {
     if (!scrollAnchor.current) return;
@@ -235,6 +242,33 @@ export default function App() {
           </p>
         </div>
       </footer>
+
+      {/* Scroll to top */}
+      {showScrollTop && (
+        <button
+          onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+          title="Back to top"
+          style={{
+            position: 'fixed',
+            bottom: 72,
+            right: 24,
+            zIndex: 50,
+            width: 40,
+            height: 40,
+            borderRadius: '50%',
+            background: 'var(--bg-card)',
+            border: '1px solid var(--border-primary)',
+            color: 'var(--accent)',
+            cursor: 'pointer',
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            boxShadow: '0 2px 12px rgba(0,0,0,0.3)',
+          }}
+        >
+          <ArrowUp size={16} />
+        </button>
+      )}
 
       {/* Floating theme toggle */}
       <button
