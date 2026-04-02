@@ -2606,5 +2606,553 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-02T10:00:01.230Z"
+  },
+  {
+    "title": "As hoops betting spikes, it's New Hampshire and other states vs. prediction markets",
+    "description": "In New Hampshire and states with legalized sports gambling, wagering helps fund government services. But now competitors like Kalshi and Polymarket are getting a cut of the action.",
+    "link": "https://www.npr.org/2026/04/02/nx-s1-5770198/states-gaming-prediction-markets-kalshi",
+    "pubDate": "Thu, 02 Apr 2026 06:00:00 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "Every Trump Threat to Abandon NATO Hollows It Out",
+    "description": "Doubts that the United States would come to the aid of NATO allies increase each time, prompting Europeans to consider an alliance without Washington.",
+    "link": "https://www.nytimes.com/2026/04/02/world/europe/trump-nato-iran.html",
+    "pubDate": "Thu, 02 Apr 2026 09:52:45 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "north atlantic treaty organization",
+      "trump, donald j",
+      "rubio, marco",
+      "united states international relations",
+      "defense and military forces"
+    ],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "Trump Says Strait of Hormuz Is Not America’s Problem, and How Musk May Get Richer",
+    "description": "Plus, does every middle schooler really need a laptop?",
+    "link": "https://www.nytimes.com/2026/04/02/podcasts/the-headlines/trump-iran-elon-musk-spacex.html",
+    "pubDate": "Thu, 02 Apr 2026 10:00:10 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "high net worth individuals",
+      "us and israeli attack on iran (2026)",
+      "space exploration technologies corp",
+      "musk, elon",
+      "trump, donald j",
+      "strait of hormuz",
+      "iran"
+    ],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "D.H.S. Inspector General Inquiry Focuses in Part on Corey Lewandowski",
+    "description": "The investigation comes as administration officials have fielded complaints about how Kristi Noem’s top adviser, Corey Lewandowski, dealt with companies seeking federal contracts.",
+    "link": "https://www.nytimes.com/2026/04/01/us/politics/dhs-inspector-general-inquiry-lewandowski.html",
+    "pubDate": "Thu, 02 Apr 2026 00:37:56 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "government contracts and procurement",
+      "ethics and official misconduct",
+      "inspectors general",
+      "homeland security department",
+      "federal emergency management agency",
+      "geo group inc",
+      "cuffari, joseph v",
+      "lewandowski, corey (1975- )",
+      "mullin, markwayne",
+      "noem, kristi",
+      "trump, donald j"
+    ],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "ActBlue May Have Misled Congress on Vetting Foreign Donations, Its Lawyers Warned",
+    "description": "The Democratic fund-raising group is facing investigations from the Justice Department and congressional Republicans ahead of the midterm elections.",
+    "link": "https://www.nytimes.com/2026/04/02/us/politics/actblue-democrat-fundraising-foreign-donations.html",
+    "pubDate": "Thu, 02 Apr 2026 09:02:04 +0000",
+    "source": "NY Times",
+    "categories": [
+      "actblue",
+      "wallace-jones, regina",
+      "campaign finance",
+      "ethics and official misconduct",
+      "philanthropy",
+      "covington & burling",
+      "remus, dana",
+      "united states politics and government",
+      "boards of directors",
+      "midterm elections (2026)",
+      "democratic party",
+      "republican party"
+    ],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "Why Everyone Loves ‘Love on the Spectrum’",
+    "description": "Without exploitation, “Love on the Spectrum” captures the triumphs and travails of dating. It has become one of Netflix’s most popular shows.",
+    "link": "https://www.nytimes.com/2026/04/02/magazine/love-spectrum-reality-dating-show.html",
+    "pubDate": "Thu, 02 Apr 2026 09:03:54 +0000",
+    "source": "NY Times",
+    "categories": [
+      "love on the spectrum (tv program)",
+      "dating and relationships",
+      "reality television",
+      "netflix inc",
+      "autism",
+      "intellectual disabilities",
+      "disabilities",
+      "television",
+      "parenting"
+    ],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "Nutrition Will Now Be Required in Medical Schools After RFK Jr. Pressure",
+    "description": "As Robert F. Kennedy Jr. calls for medical schools to redesign curriculums, an agency that oversees dozens has deleted diversity standards and added nutrition.",
+    "link": "https://www.nytimes.com/2026/04/02/us/medical-schools-accreditation-rfk-jr.html",
+    "pubDate": "Thu, 02 Apr 2026 09:02:43 +0000",
+    "source": "NY Times",
+    "categories": [
+      "accreditation",
+      "medical schools",
+      "diet and nutrition",
+      "diversity initiatives"
+    ],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "How A.I. Helped One Man (and His Brother) Build a $1.8 Billion Company",
+    "description": "Who needs more than two employees when artificial intelligence can do so many corporate tasks? It’s super efficient — and a little bit lonely.",
+    "link": "https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html",
+    "pubDate": "Thu, 02 Apr 2026 09:02:30 +0000",
+    "source": "NY Times",
+    "categories": [
+      "artificial intelligence",
+      "computers and the internet",
+      "start-ups",
+      "customer relations",
+      "weight",
+      "telemedicine",
+      "drugs (pharmaceuticals)",
+      "entrepreneurship",
+      "glp-1 ras (drug)",
+      "openloop health inc",
+      "hims & hers health inc",
+      "medvi",
+      "carevalidate",
+      "los angeles (calif)",
+      "matthew gallagher"
+    ],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "A.I. Could Change the World. But First It Is Changing Silicon Valley.",
+    "description": "The tech industry has predicted A.I. will profoundly affect the nature of white-collar work. The industry’s own workers are already getting a taste of that future.",
+    "link": "https://www.nytimes.com/2026/04/02/technology/ai-silicon-valley-tech-work.html",
+    "pubDate": "Thu, 02 Apr 2026 09:01:51 +0000",
+    "source": "NY Times",
+    "categories": [
+      "artificial intelligence",
+      "computers and the internet",
+      "layoffs and job reductions",
+      "enterprise computing",
+      "anthropic ai llc",
+      "openai labs",
+      "meta platforms inc",
+      "block inc",
+      "dorsey, jack",
+      "levie, aaron w",
+      "labor and jobs",
+      "prices (fares, fees and rates)",
+      "standard & poor's 500-stock index",
+      "productivity",
+      "business models"
+    ],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "Supporters of Household Voting Believe U.S. Would Be Better Off Without Women’s Vote",
+    "description": "Adherents to biblical patriarchy support household voting: One household, one vote — the husband’s. They say the idea is catching on.",
+    "link": "https://www.nytimes.com/2026/04/02/us/household-vote-women.html",
+    "pubDate": "Thu, 02 Apr 2026 09:01:00 +0000",
+    "source": "NY Times",
+    "categories": [
+      "christians and christianity",
+      "conservatism (us politics)",
+      "women's rights",
+      "nineteenth amendment (us constitution)",
+      "fringe groups and movements",
+      "prescott (ariz)",
+      "audio-neutral-informative",
+      "audio-neutral-immersive"
+    ],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "After Sting Operation, Cousin of Bashar al-Assad Convicted in Arms for Drugs Deal",
+    "description": "The cousin, Antoine Kassis, was found guilty of conspiracy to support a terrorist group, after trying to sell weapons from the fallen regime to a Colombian militia.",
+    "link": "https://www.nytimes.com/2026/04/02/world/middleeast/drugs-arms-syria-antoine-kassis.html",
+    "pubDate": "Thu, 02 Apr 2026 09:03:36 +0000",
+    "source": "NY Times",
+    "categories": [
+      "drug cartels",
+      "national liberation army (colombia)",
+      "hezbollah",
+      "assad, bashar al-",
+      "colombia",
+      "syria",
+      "drug abuse and traffic",
+      "terrorism",
+      "arms trade",
+      "antoine kassis"
+    ],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "Prediction markets promised more clarity in elections. The reality is messier.",
+    "description": "Heading into the midterm elections, investors and political observers are turning to prediction markets like Kalshi and Polymarket to gauge who might win.",
+    "link": "https://www.nbcnews.com/business/consumer/prediction-markets-kalshi-election-midterms-rcna264882",
+    "pubDate": "Thu, 02 Apr 2026 10:00:00 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "Labrador Gives Birth to Single Puppy, Owner Makes Important Choice",
+    "description": "It's so heartwarming for Rai to see the canine trio together, telling Newsweek that they \"just get each other on a deep level.\"",
+    "link": "https://www.newsweek.com/labrador-gives-birth-single-puppy-owner-makes-important-choice-11771151",
+    "pubDate": "Thu, 02 Apr 2026 06:11:40 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "No Kings Protests Hit Republican, Battleground States In Huge Numbers",
+    "description": "The group organized a day of protests in multiple areas across the U.S. on March 28 against the Donald Trump administration.",
+    "link": "https://www.newsweek.com/no-kings-protests-republican-battleground-states-11773044",
+    "pubDate": "Thu, 02 Apr 2026 06:00:21 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "AI Chatbots Are Evolving in One ‘Scary’ Way",
+    "description": "According to a study, an increasing number of AI chatbots are evolving in a \"scary\" way.",
+    "link": "https://www.newsweek.com/ai-chatbots-are-evolving-in-one-scary-way-11770554",
+    "pubDate": "Thu, 02 Apr 2026 06:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "National Burrito Day: Get Deals at Chipotle, Qdoba, Torchy's Tacos and More",
+    "description": "Newsweek compiled a chain‑by‑chain look at confirmed National Burrito Day 2026 deals.",
+    "link": "https://www.newsweek.com/national-burrito-day-2026-chipotle-qdoba-deals-list-11750089",
+    "pubDate": "Thu, 02 Apr 2026 06:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "Zimbabweans fear planned constitutional change will kill political choice",
+    "description": "Heated debate as Zimbabwe holds four days of public hearings about a bill seeking to amend the country’s constitution.",
+    "link": "https://www.aljazeera.com/features/2026/4/2/zimbabweans-fear-planned-constitutional-change-will-kill-political-choice?traffic_source=rss",
+    "pubDate": "Thu, 02 Apr 2026 09:56:22 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "Trump’s tariffs one year on: How Americans are paying the price",
+    "description": "US households paid $1,000 more for the same goods over the past year, with lower-income families hit the hardest.",
+    "link": "https://www.aljazeera.com/news/2026/4/2/trumps-tariffs-one-year-on-how-americans-are-paying-the-price?traffic_source=rss",
+    "pubDate": "Thu, 02 Apr 2026 09:28:53 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "Nearly 1,200 children killed or injured in Yemen despite truce: NGO",
+    "description": "Save the Children says nearly one in two child casualties are due to landmines and explosive remnants of war.",
+    "link": "https://www.aljazeera.com/news/2026/4/2/nearly-1200-children-killed-or-injured-in-yemen-despite-truce?traffic_source=rss",
+    "pubDate": "Thu, 02 Apr 2026 09:27:21 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "Russia woos students for its drone forces in Ukraine with large financial packages - reuters.com",
+    "description": "Russia woos students for its drone forces in Ukraine with large financial packages  reuters.com",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONGhFR1JhbEFJZVZmQTVRUlBBelB1RFFCNk1QdDNFNmMwdG4wM3BkaDNXeTBuOXFXMWxta2xyaWRpSEtIX013ZzdaQnVzQzE4dEZ4UzBrMHlZckl5akl0YlhVRGMwaWxsN3VhMzVicE0tdTlDYl9kaGdLRjBGN0lFbEtYYkdGTnM1WWJwQ01NejRqNFRBYkI1RXhfQ0JxRVhHUkN1SUNkVDRuMk1BNHluVDV0dFhEYm50ekF4VmkyUEFoUQ?oc=5",
+    "pubDate": "Thu, 02 Apr 2026 09:48:01 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "Read the complete transcript of Trump’s address to the nation - AP News",
+    "description": "Read the complete transcript of Trump’s address to the nation  AP News",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYVJ4alpZX3RGYllnWFU3U1kyOTctR0xMNDhoay15NURHMmZVLUhKRllWZFo2V3h2aXBBVXZSVFJ3YVBWd2YySmF0dkhGeTBUdzRjQzN4c0xWUFdTS0lsdEhRbEhjdnhmY3pJa2hfWXlGVXRlelM0M2lHaV9TQlNUNUplOEhMVVRxTGNTdzJtS21HYVJxT1FVdFk0d2o1TWtxWUE?oc=5",
+    "pubDate": "Thu, 02 Apr 2026 02:19:00 GMT",
+    "source": "AP News",
+    "categories": [],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "UK gathers more than 30 countries to plot ways of reopening the Strait of Hormuz - AP News",
+    "description": "UK gathers more than 30 countries to plot ways of reopening the Strait of Hormuz  AP News",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONUYwLVpfRzJjOTF5R1RUQ0JYZWFyV2ROQjRMTW5KV0lFbVdrVmxETmNiUUFybjY1YlhkLWRpbGxwem9aUlU2eHJCcTJRTm5aUDdOclZIRGFzekJtczJrRmFZQXVnSDJWWVRRa1h6RF8yWEg0UmNtRGxTNlVoUDRnXzdRV3YyWmVxcDZYUGswdFBCM3lUUTN2Q3lmOGh6QQ?oc=5",
+    "pubDate": "Thu, 02 Apr 2026 04:14:00 GMT",
+    "source": "AP News",
+    "categories": [],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "Yankees enter rare company as team stays dominant behind Cam Schlittler",
+    "description": "The New York Yankees have allowed the third-fewest runs to start an MLB season as the team defeated the Seattle Mariners on Wednesday night, 5-3.",
+    "link": "https://www.foxnews.com/sports/yankees-enter-rare-company-team-stays-dominant-behind-cam-schlittler",
+    "pubDate": "Thu, 02 Apr 2026 06:08:00 -0400",
+    "source": "Fox News",
+    "categories": [
+      "a68ac75a-8032-5602-9945-ef4b8cbbf7a0",
+      "fnc",
+      "fox news",
+      "fox-news/sports/mlb/new-york-yankees",
+      "fox-news/sports/mlb",
+      "fox-news/sports/mlb/seattle-mariners",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "Coin used as bus fare turns out to be 2,000-year-old relic, its journey still a mystery",
+    "description": "After its ancient origins were finally discovered, a 2,000-year-old Carthaginian coin unknowingly used as bus fare in England was donated to Leeds Museums.",
+    "link": "https://www.foxnews.com/travel/coin-used-bus-fare-turns-out-2000-year-old-relic-its-journey-mystery",
+    "pubDate": "Thu, 02 Apr 2026 06:00:45 -0400",
+    "source": "Fox News",
+    "categories": [
+      "2b1ba324-7546-541b-a14d-b695337ab4b3",
+      "fnc",
+      "fox news",
+      "fox-news/science/archaeology",
+      "fox-news/science/archaeology/history",
+      "fox-news/travel/general/museums-exhibits",
+      "fox-news/science/archaeology/ancient-rome",
+      "fox-news/travel",
+      "fox-news/travel/regions/europe",
+      "fox-news/world/world-regions/united-kingdom",
+      "fox-news/travel",
+      "article"
+    ],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "FLASHBACK: Dem senate candidate was critical vote in confirming judge who tied voter ID to 'White supremacy'",
+    "description": "Sherrod Brown faces heat over his vote confirming Judge Natasha Merle, who linked voter ID laws to White supremacy, as he seeks to reclaim his Ohio Senate seat.",
+    "link": "https://www.foxnews.com/politics/flashback-dem-sen-candidate-was-critical-vote-in-confirming-judge-who-tied-voter-id-to-white-supremacy",
+    "pubDate": "Thu, 02 Apr 2026 06:00:44 -0400",
+    "source": "Fox News",
+    "categories": [
+      "dc3f6e97-d83c-5175-9466-9384e0fb5b32",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/politics/elections/voter-fraud-concerns",
+      "fox-news/us/us-regions/midwest/ohio",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "Carville gloats that Democrats will go after Trump's 'stupid jack--- kids and their spouses' after midterms",
+    "description": "Democratic strategist James Carville warns Trump that Democrats will investigate him, his family, and their spouses after the midterms, predicting a sweeping GOP defeat.",
+    "link": "https://www.foxnews.com/media/carville-gloats-democrats-go-after-trumps-stupid-jack-kids-spouses-after-midterms",
+    "pubDate": "Thu, 02 Apr 2026 06:00:44 -0400",
+    "source": "Fox News",
+    "categories": [
+      "5e35650d-8125-5c5b-afd8-00374677c094",
+      "fnc",
+      "fox news",
+      "fox-news/media",
+      "fox-news/person/donald-trump",
+      "fox-news/politics/elections/midterm-elections",
+      "fox-news/media",
+      "article"
+    ],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "GOP infighting, Democrats' unmet demands and a CLEAR windfall: Who's winning and losing the DHS shutdown",
+    "description": "TSA agents slept in cars and sold plasma, GOP divisions deepened, and CLEAR sign-ups surged — the DHS shutdown's winners and losers revealed.",
+    "link": "https://www.foxnews.com/politics/gop-infighting-democrats-unmet-demands-clear-windfall-whos-winning-losing-dhs-shutdown",
+    "pubDate": "Thu, 02 Apr 2026 06:00:19 -0400",
+    "source": "Fox News",
+    "categories": [
+      "0e39ca4c-2f97-595f-8326-856eada0b352",
+      "fnc",
+      "fox news",
+      "fox-news/person/mike-johnson",
+      "fox-news/person/chuck-schumer",
+      "fox-news/person/john-thune",
+      "fox-news/topic/government-shutdown",
+      "fox-news/politics/executive/homeland-security",
+      "fox-news/us/immigration",
+      "fox-news/politics",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "Trump unleashes on Obama's 'disaster' Iran nuclear deal, says he was 'honored' to rip it apart",
+    "description": "President Trump said one of his biggest Iran achievements was terminating Barack Obama's 2015 nuclear deal, calling it a \"disaster\" that helped Iran get a nuclear weapon.",
+    "link": "https://www.foxnews.com/politics/trump-unleashes-obama-disaster-iran-nuclear-deal-honored-rip-apart",
+    "pubDate": "Thu, 02 Apr 2026 06:00:08 -0400",
+    "source": "Fox News",
+    "categories": [
+      "36ab79bb-d3f1-5ff4-8c38-d54a6cad43fc",
+      "fnc",
+      "fox news",
+      "fox-news/politics/defense/wars/war-with-iran",
+      "fox-news/person/donald-trump",
+      "fox-news/person/barack-obama",
+      "fox-news/politics/foreign-policy",
+      "fox-news/politics/foreign-policy/nuclear-proliferation",
+      "fox-news/politics/foreign-policy/middle-east",
+      "fox-news/politics",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "Israeli paramedic delivers baby, rushes it to bomb shelter during Iran attack",
+    "description": "Israeli paramedic Dr. Gal Rosen delivered a baby in Tel Aviv, then raced to a bomb shelter with the newborn as Iron Dome missile sirens blared overhead.",
+    "link": "https://www.foxnews.com/world/israeli-paramedic-delivers-baby-rushes-bomb-shelter-during-iran-attack",
+    "pubDate": "Thu, 02 Apr 2026 06:00:07 -0400",
+    "source": "Fox News",
+    "categories": [
+      "3f9c954f-61a8-51d7-921f-7f76fdd2020e",
+      "fnc",
+      "fox news",
+      "fox-news/politics/defense/wars/war-with-iran",
+      "fox-news/world/world-regions/israel",
+      "fox-news/world/hamas",
+      "fox-news/world/terrorism",
+      "fox-news/entertainment/genres/medical-drama",
+      "fox-news/world",
+      "article"
+    ],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "White influencer breaks silence after she’s accused of editing her face onto black model’s body",
+    "description": "The bizarre controversy erupted when Boultier, a content creator with more than 1.6 million followers, shared a photo suggesting she attended the Miami Open last month.",
+    "link": "https://nypost.com/2026/04/02/lifestyle/white-influencer-lauren-blake-boultier-breaks-silence-after-shes-accused-of-editing-her-face-onto-black-creators-body/",
+    "pubDate": "Thu, 02 Apr 2026 06:10:25 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "Video shows heart-wrenching moment NYC mom realizes her 7-month-old daughter was shot dead",
+    "description": "The footage reveals what happened in the excruciating minutes after little Kaori had been shot.",
+    "link": "https://nypost.com/2026/04/02/us-news/video-shows-heart-wrenching-moment-nyc-mom-realizes-her-baby-daughter-was-shot/",
+    "pubDate": "Thu, 02 Apr 2026 06:00:49 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "Al Jazeera builds secret backup studio amid fears of Israeli cyberattack on Doha HQ: sources",
+    "description": "It has prompted the lavishly funded state broadcaster, long dismissed as an anti-Western, Israel-bashing propaganda channel, to build a top-secret emergency studio in a classified location inside the Qatari capital as a doomsday backup",
+    "link": "https://nypost.com/2026/04/02/business/al-jazeera-builds-secret-backup-studio-amid-fears-of-israeli-cyberattack-on-doha-hq-sources/",
+    "pubDate": "Thu, 02 Apr 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "Inside the wild circus of the One Taste trial, the love triangle followers claim set it off — and why they may go after Lena Dunham",
+    "description": "A vicious love triangle is at the center of the controversy around the “orgasm cult” OneTaste, according to supporters of founder Nicole Daedone, who was just sentenced to nine years in prison.",
+    "link": "https://nypost.com/2026/04/02/lifestyle/inside-the-one-taste-trial-and-the-love-triangle-devotees-say-set-it-off/",
+    "pubDate": "Thu, 02 Apr 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "How Vevor, a giant tools seller on Amazon, allegedly solicited a ‘contract killing’ in a bizarre feud with a US warehouse owner: lawsuit",
+    "description": "According to an Egreen source with direct knowledge of the incident, the Vevor executive offered “enough money for a down payment on a home.” A former Vevor employee corroborated the account.",
+    "link": "https://nypost.com/2026/04/02/business/major-chinese-seller-on-amazon-allegedly-solicited-contract-killing-in-feud-with-us-warehouse-owner-lawsuit/",
+    "pubDate": "Thu, 02 Apr 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "Earthquake rattles northern California major cities",
+    "description": "An earthquake hit Northern California early Thursday morning, shaking the ground in several major Northern California cities.  A earthquake was reported by the U.S. Geological Survey at 1:41 a.m. local time with the epicenter at Boulder Creek, California, in the Santa Cruz Mountains. Shaking was reportedly felt, and residents received earthquake alerts in various locations […]",
+    "link": "https://www.washingtonexaminer.com/news/4513355/earthquake-rattles-northern-california-major-cities/",
+    "pubDate": "Thu, 02 Apr 2026 10:08:50 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "california",
+      "earthquakes",
+      "geology",
+      "natural disasters",
+      "san francisco",
+      "science"
+    ],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "First round of April Social Security payments goes out in six days",
+    "description": "The first round of April Social Security payments for retirees, now capped at $5,181, will be issued in six days. When will payments arrive? Retirees born on or before the 10th of a month will receive this payment on April 8.  The second round will go out on April 15 to those born between the […]",
+    "link": "https://www.washingtonexaminer.com/news/4509833/first-round-of-april-social-security-payments-out-in-six-days/",
+    "pubDate": "Thu, 02 Apr 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "finance",
+      "money",
+      "retirement",
+      "social security",
+      "social security administration"
+    ],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
+  },
+  {
+    "title": "Once a Kamala Harris donor, this Arkansas Democrat is steering clear of the former vice president",
+    "description": "Kamala Harris is testing the 2028 political waters, but the former vice president won’t be receiving a warm welcome everywhere from fellow Democrats. Hallie Shoffner, the Arkansas Democratic Senate nominee running a long-shot bid to unseat Sen. Tom Cotton (R-AR), will give the cold-shoulder when Harris comes to Little Rock later this month for the […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4512326/harris-arkansas-democrat-former-vice-president/",
+    "pubDate": "Thu, 02 Apr 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "congressional",
+      "2026 elections",
+      "arkansas",
+      "congress",
+      "kamala harris",
+      "senate",
+      "tom cotton"
+    ],
+    "collectedAt": "2026-04-02T10:15:01.665Z"
   }
 ]
