@@ -8,6 +8,12 @@ mapboxgl.accessToken = import.meta.env.VITE_MAPBOX_TOKEN;
 
 const CHYRON_LABELS = ['Breaking', 'Developing', 'Analysis', 'Report', 'Update', 'Exclusive'];
 
+const STORY_ZOOM_DESKTOP = 5;
+const STORY_ZOOM_MOBILE  = 3;
+function getStoryZoom() {
+  return window.innerWidth < 640 ? STORY_ZOOM_MOBILE : STORY_ZOOM_DESKTOP;
+}
+
 const geocodeCache = {};
 
 // Extract likely place names from a headline (capitalized words, skipping common non-place words)
@@ -43,7 +49,7 @@ async function geocodeStory(story) {
     const res = await fetch(url, { headers: { 'Accept-Language': 'en', 'User-Agent': 'TheMeridian/1.0' } });
     const data = await res.json();
     if (data.length) {
-      const result = { lng: parseFloat(data[0].lon), lat: parseFloat(data[0].lat), zoom: 6 };
+      const result = { lng: parseFloat(data[0].lon), lat: parseFloat(data[0].lat), zoom: getStoryZoom() };
       geocodeCache[story.id] = result;
       return result;
     }
@@ -163,7 +169,7 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
   const [time, setTime] = useState('');
   const [activeLocIdx, setActiveLocIdx] = useState(0);
   const [expanded, setExpanded] = useState(false);
-  const [mapEnabled, setMapEnabled] = useState(() => localStorage.getItem('meridian-map') !== 'false');
+  const [mapEnabled] = useState(() => localStorage.getItem('meridian-map') !== 'false');
   const [mapVisible, setMapVisible] = useState(() => localStorage.getItem('meridian-map-visible') !== 'false');
   const mapContainer = useRef(null);
   const mapRef = useRef(null);
@@ -301,7 +307,7 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
     if (!mapRef.current) return;
     const map = mapRef.current;
     const go = () => {
-      map.flyTo({ center: [loc.lng, loc.lat], zoom: 5, duration: 2000, essential: true });
+      map.flyTo({ center: [loc.lng, loc.lat], zoom: getStoryZoom(), duration: 2000, essential: true });
       markerRef.current?.setLngLat([loc.lng, loc.lat]);
       if (map.getLayer('country-highlight')) {
         map.setFilter('country-highlight', ['==', 'iso_3166_1', loc.iso ?? '']);
@@ -512,8 +518,8 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
           {/* Location buttons */}
           {featuredLocations.length > 1 && (
             <div
-              className="absolute flex gap-2 flex-wrap"
-              style={{ bottom: locBottom, left: '3%', zIndex: 10 }}
+              className="absolute flex gap-2 flex-wrap justify-end"
+              style={{ bottom: locBottom, right: 8, zIndex: 10 }}
             >
               {featuredLocations.map((loc, i) => (
                 <button
@@ -582,6 +588,7 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
             >
               ▲
             </button>
+            {/* map enable/disable button hidden from UI — code preserved
             <button
               onClick={() => setMapEnabled(e => !e)}
               title={mapEnabled ? 'Disable map (improve performance)' : 'Enable map'}
@@ -601,6 +608,7 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
             >
               ⊕
             </button>
+            */}
             <button
               onClick={() => setExpanded(e => !e)}
               title={expanded ? 'Exit fullscreen' : 'Expand map'}
