@@ -2408,5 +2408,34 @@
       "washington d.c."
     ],
     "collectedAt": "2026-04-02T09:15:01.238Z"
+  },
+  {
+    "title": "4.9 magnitude earthquake rattles Northern California",
+    "description": "A 4.9 magnitude earthquake shook Northern California early Thursday morning, ​according to the United States Geological ​Survey (USGS).",
+    "link": "https://abcnews.com/US/49-magnitude-earthquake-rattles-northern-california/story?id=131642124",
+    "pubDate": "Thu, 02 Apr 2026 05:24:30 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-04-02T09:30:01.285Z"
+  },
+  {
+    "title": "Heavy Snow Warning, 24 Inches To Strike: 'Consider Delaying All Travel'",
+    "description": "Up to 13 states can expect snow heading into the weekend, with wind making travel difficult.",
+    "link": "https://www.newsweek.com/heavy-snow-warning-24-inches-strike-delay-travel-11773069",
+    "pubDate": "Thu, 02 Apr 2026 05:20:12 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-02T09:30:01.285Z"
+  },
+  {
+    "title": "‘I’m experiencing issues with arthritis’: I’m 68 with $3 million saved. Why am I not ready for a life of leisure?",
+    "description": "“I can draw $4,300 a month in Social Security if I retire this summer.”",
+    "link": "https://www.marketwatch.com/story/im-experiencing-issues-with-arthritis-im-68-with-3-million-saved-why-am-i-not-ready-for-a-life-of-leisure-9bc15359?mod=mw_rss_topstories",
+    "pubDate": "Thu, 02 Apr 2026 09:19:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-04-02T09:30:01.285Z"
   }
 ]
