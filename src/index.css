@@ -239,10 +239,10 @@ input::placeholder {
   }
 }
 
-/* Speed up ticker on narrow screens */
+/* Ticker speed on narrow screens — matches desktop */
 @media (max-width: 639px) {
   .ticker-scroll {
-    animation-duration: 360s;
+    animation-duration: 720s;
   }
 }
 

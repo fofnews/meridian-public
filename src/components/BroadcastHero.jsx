@@ -9,7 +9,7 @@ mapboxgl.accessToken = import.meta.env.VITE_MAPBOX_TOKEN;
 const CHYRON_LABELS = ['Breaking', 'Developing', 'Analysis', 'Report', 'Update', 'Exclusive'];
 
 const STORY_ZOOM_DESKTOP = 5;
-const STORY_ZOOM_MOBILE  = 3;
+const STORY_ZOOM_MOBILE  = 4;
 function getStoryZoom() {
   return window.innerWidth < 640 ? STORY_ZOOM_MOBILE : STORY_ZOOM_DESKTOP;
 }
