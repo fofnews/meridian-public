@@ -2079,5 +2079,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-02T08:00:01.350Z"
+  },
+  {
+    "title": "Man dies in Athens storm as Saharan dust shrouds Crete",
+    "description": "A man dies in flooding near Athens as rain lashes several regions in Greece, while a Saharan dust storm enveloped Crete.",
+    "link": "https://www.bbc.com/news/articles/c070d9g5k7jo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 02 Apr 2026 07:54:44 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-02T08:15:01.284Z"
+  },
+  {
+    "title": "Iran war: What is happening on day 34 of US-Israel attacks?",
+    "description": "As the war enters day 34, US President Donald Trump said Washington was close to achieving its objectives.",
+    "link": "https://www.aljazeera.com/news/2026/4/2/iran-war-what-is-happening-on-day-34-of-us-israel-attacks?traffic_source=rss",
+    "pubDate": "Thu, 02 Apr 2026 07:50:50 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-02T08:15:01.284Z"
   }
 ]
