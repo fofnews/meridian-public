@@ -1402,5 +1402,57 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-02T04:15:01.282Z"
+  },
+  {
+    "title": "Artemis II Completes First of 10-Day NASA Lunar Mission",
+    "description": "The crew, three Americans and a Canadian, are the first humans to travel to the moon in more than 50 years. They will not land on the surface, but the mission will pave the way for future visits.",
+    "link": "https://www.nytimes.com/2026/04/01/science/artemis-ii-nasa-moon-launch.html",
+    "pubDate": "Thu, 02 Apr 2026 03:58:56 +0000",
+    "source": "NY Times",
+    "categories": [
+      "national aeronautics and space administration",
+      "artemis program",
+      "moon",
+      "space and astronomy",
+      "canadian space agency",
+      "rocket science and propulsion"
+    ],
+    "collectedAt": "2026-04-02T04:30:01.325Z"
+  },
+  {
+    "title": "'We had to do it ourselves': Trump forges ahead in Iran without traditional U.S. allies",
+    "description": "In his prime-time speech, President Donald Trump argued that the U.S. had to act on its own to neutralize the threat from Iran because many of America’s allies wouldn’t help.",
+    "link": "https://www.nbcnews.com/politics/donald-trump/trump-iran-traditional-us-allies-rcna266138",
+    "pubDate": "Thu, 02 Apr 2026 03:54:39 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-04-02T04:30:01.325Z"
+  },
+  {
+    "title": "Artemis II launch captured by passenger on flight",
+    "description": "Artemis II launch captured by passenger on flight",
+    "link": "https://www.nbcnews.com/video/shorts/artemis-ii-launch-captured-by-passenger-on-flight-260564549750",
+    "pubDate": "Thu, 02 Apr 2026 04:07:05 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-04-02T04:30:01.325Z"
+  },
+  {
+    "title": "Risky commando plan to seize Iran’s uranium came at Trump’s request - The Washington Post",
+    "description": "Risky commando plan to seize Iran’s uranium came at Trump’s request  The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYmIxek5TZlBtLU5tTXd0TzZCNDN6bEVyT1d2aXdzajFNa09OckJtNE1WNC1sV1Q1R3FaSUYwR1RQOUtvRUM1bWp0UXJNS2RqU0Q3eVd0SURHM3VPWlBZeWVfSWdvdUV2UWdFc1N0VUtYLXBsckUtUDV1UlFXQXRyQWFPLUZxSG9JOXRDV0t1NWQzX0pNcWZwb0lxVzhKVGxT?oc=5",
+    "pubDate": "Thu, 02 Apr 2026 01:58:41 GMT",
+    "source": "Washington Post",
+    "categories": [],
+    "collectedAt": "2026-04-02T04:30:01.325Z"
+  },
+  {
+    "title": "Indian shares open lower after Trump dashes hopes of Iran war de-escalation - Reuters",
+    "description": "Indian shares open lower after Trump dashes hopes of Iran war de-escalation  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS2U4S0tmZEFQYURzd3YtRzI3NlV6SFZ5M3lNTl8xZlpxNW5OWmlqUE1iRVg4TmxmeExfOE9udkJGSnNQbnVYeFVUcTJTVGp1TWRFdUxwdHNhdDNtNWdfSnY2RTNhRWlOMS1sakNEZ202SDVXUHlPTmhWY0lCNW5OVXo4NVhENElIZXUzdU1rTkFKVUxBTUhtVE83V3pMbjFEbFJ0MkFjNy02WTBhVGc?oc=5",
+    "pubDate": "Thu, 02 Apr 2026 02:16:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-04-02T04:30:01.325Z"
   }
 ]
