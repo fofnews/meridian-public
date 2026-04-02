@@ -175,7 +175,7 @@ input::placeholder {
   100% { transform: translateX(-100%); }
 }
 .ticker-scroll {
-  animation: ticker 360s linear infinite;
+  animation: ticker 720s linear infinite;
 }
 
 /* CRT scanline overlay */
@@ -242,7 +242,7 @@ input::placeholder {
 /* Speed up ticker on narrow screens */
 @media (max-width: 639px) {
   .ticker-scroll {
-    animation-duration: 180s;
+    animation-duration: 360s;
   }
 }
 
