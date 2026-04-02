@@ -2099,5 +2099,40 @@
       "news"
     ],
     "collectedAt": "2026-04-02T08:15:01.284Z"
+  },
+  {
+    "title": "UK to host virtual summit on reopening the Strait of Hormuz",
+    "description": "Yvette Cooper is due to convene a virtual meeting of foreign ministers, though the US is not expected to attend.",
+    "link": "https://www.bbc.com/news/articles/cx2d0md89v2o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 02 Apr 2026 08:12:26 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-02T08:30:01.133Z"
+  },
+  {
+    "title": "Trump's fresh Iran threats give investors a risk-off reality check - Reuters",
+    "description": "Trump's fresh Iran threats give investors a risk-off reality check  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORlRKeW9WVW5mQ0g3Ym81TkIxQjg4X0pVbkY5QllTWXB2QVdkXzJJM1ZobFpaS0Z3SU5EYjV2RjR2cDVZalNMZ3dJNFBTVUE2TEhXeXZMVFp1OGhWT0lPc3pnUEd0Q3ktWDE2SE90bHM0YVBydHprT0F1VkJidmMtbk5PcmswazNQY1N2ckRsZHpUQVhqTV9QSkhCSkhiRk0wOW4yQk5HVFA4dGVZNFBCSHNVdFFiZk9iVlE?oc=5",
+    "pubDate": "Thu, 02 Apr 2026 06:43:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-04-02T08:30:01.133Z"
+  },
+  {
+    "title": "Fort Hood soldiers shift to underground training to prepare for battlefield medical care",
+    "description": "Fort Hood soldiers are training in underground tunnels to prepare for mass casualty scenarios, reflecting lessons learned from modern drone warfare.",
+    "link": "https://www.foxnews.com/us/fort-hood-underground-medical-training-drone-warfare",
+    "pubDate": "Thu, 02 Apr 2026 04:09:45 -0400",
+    "source": "Fox News",
+    "categories": [
+      "9d57d520-af5b-5b02-906d-56032576263e",
+      "fnc",
+      "fox news",
+      "fox-news/topic/fox-news-multimedia-reporters",
+      "fox-news/us/military",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-04-02T08:30:01.133Z"
   }
 ]
