@@ -1819,7 +1819,7 @@
     "pubDate": "Thu, 02 Apr 2026 02:29:26 -0400",
     "source": "Newsweek",
     "categories": [],
-    "collectedAt": "2026-04-02T06:45:01.284Z"
+    "collectedAt": "2026-04-02T06:45:01.505Z"
   },
   {
     "title": "Kanye West takes elaborate SoFi Stadium stage for controversial LA concert",
@@ -1828,6 +1828,63 @@
     "pubDate": "Thu, 02 Apr 2026 02:44:46 -0400",
     "source": "New York Post",
     "categories": [],
-    "collectedAt": "2026-04-02T06:45:01.284Z"
+    "collectedAt": "2026-04-02T06:45:01.505Z"
+  },
+  {
+    "title": "U.S. lifts sanctions on Venezuela's acting President Delcy Rodríguez",
+    "description": "The newly announced sanctions relief is the latest U.S. recognition of Rodríguez as a legitimate authority in Venezuela ever since the U.S. military captured her predecessor, Nicolás Maduro.",
+    "link": "https://www.npr.org/2026/04/02/g-s1-116142/u-s-lift-sanctions-venezuela-president-delcy-rodriguez",
+    "pubDate": "Thu, 02 Apr 2026 02:44:49 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-04-02T07:00:01.404Z"
+  },
+  {
+    "title": "Donald Trump's Four Objectives For Ending Iran War Revealed",
+    "description": "Marco Rubio praised Trump's Iran War speech calling it \"powerful\", adding his leadership \"sends a message to the world\"",
+    "link": "https://www.newsweek.com/donald-trump-iran-war-objectives-11772488",
+    "pubDate": "Thu, 02 Apr 2026 02:54:12 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-02T07:00:01.404Z"
+  },
+  {
+    "title": "Local Dem leader says he was not 'an aggressor' after arrest for hitting man with bullhorn at 'No Kings' rally",
+    "description": "The Hernando County, Florida, Democratic Party chair says he did not act as an aggressor after allegedly hitting a man with a bullhorn at a \"No Kings\" protest.",
+    "link": "https://www.foxnews.com/us/local-dem-leader-says-he-not-an-aggressor-after-arrest-hitting-man-bullhorn-no-kings-rally",
+    "pubDate": "Thu, 02 Apr 2026 02:46:24 -0400",
+    "source": "Fox News",
+    "categories": [
+      "c837a2ce-61af-56e8-8c29-86abd5c3ef3a",
+      "fnc",
+      "fox news",
+      "fox-news/us/democratic-party",
+      "fox-news/politics",
+      "fox-news/us/us-regions/southeast/florida",
+      "fox-news/us",
+      "fox-news/us/us-protests",
+      "fox-news/person/donald-trump",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-04-02T07:00:01.404Z"
+  },
+  {
+    "title": "Sham Philadelphia coffee shop hiding crack operation busted in sweeping raid, 17 arrested: AG",
+    "description": "Operation Cocaine and Coffee led to 17 arrests and seizure of 27 firearms, with suspects ranging from their 50s to 70s.",
+    "link": "https://nypost.com/2026/04/02/us-news/sham-philadelphia-coffee-shop-hiding-crack-operation-busted-in-sweeping-raid-17-arrested-ag/",
+    "pubDate": "Thu, 02 Apr 2026 02:53:36 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-02T07:00:01.404Z"
+  },
+  {
+    "title": "Missing Missouri college student Melissa Oelke found dead after abandoned vehicle discovered in rural Illinois",
+    "description": "A missing Missouri college student who disappeared during an extended spring break trip home was found dead on Saturday in Illinois, near where her abandoned car had been discovered.",
+    "link": "https://nypost.com/2026/04/02/us-news/missing-missouri-college-student-melissa-oelke-found-dead-after-abandoned-vehicle-discovered-in-rural-illinois/",
+    "pubDate": "Thu, 02 Apr 2026 02:45:30 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-02T07:00:01.404Z"
   }
 ]
