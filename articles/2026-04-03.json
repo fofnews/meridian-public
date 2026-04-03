@@ -1361,5 +1361,56 @@
     "source": "Newsmax",
     "categories": [],
     "collectedAt": "2026-04-03T06:00:01.205Z"
+  },
+  {
+    "title": "How to track NASA’s Artemis II and Orion’s journey to the moon - The Washington Post",
+    "description": "How to track NASA’s Artemis II and Orion’s journey to the moon  The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONldjOFNtTDE5eWp4Um40N2lSUERvckJWelB3S1pzdDV4U1ktN2gwcVNTdWF4c05NU0NpbDBiMFR2T0p5bHp5dDJBTU1jQThySXB0NXBPbzZhOTNIcGpHQ2VQejJXUWkxcGhqc0FvUmhPUURHbnowVXVYS3hZazhRU09GV1JiYlQydC1qRkhGZ05sZw?oc=5",
+    "pubDate": "Fri, 03 Apr 2026 06:01:01 GMT",
+    "source": "Washington Post",
+    "categories": [],
+    "collectedAt": "2026-04-03T06:15:01.264Z"
+  },
+  {
+    "title": "Myanmar’s coup leader elected president by pro-military parliament",
+    "description": "Min Aung Hlaing receives enough votes to pass the majority threshold and become the ⁠country's president.",
+    "link": "https://www.aljazeera.com/news/2026/4/3/myanmars-coup-leader-elected-president-by-pro-military-parliament?traffic_source=rss",
+    "pubDate": "Fri, 03 Apr 2026 06:05:30 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-03T06:15:01.264Z"
+  },
+  {
+    "title": "How China’s ‘teapot’ refineries are cushioning it from Iran war oil crisis",
+    "description": "Small independent refineries are helping China continue importing oil from Iran.",
+    "link": "https://www.aljazeera.com/news/2026/4/3/how-chinas-teapot-refineries-are-cushioning-it-from-iran-war-oil-crisis?traffic_source=rss",
+    "pubDate": "Fri, 03 Apr 2026 05:57:07 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-03T06:15:01.264Z"
+  },
+  {
+    "title": "Colorado House advances conversion therapy lawsuit bill; GOP lawmaker calls it ‘slap in the face’ to SCOTUS",
+    "description": "Colorado Democrats advance a bill creating civil lawsuit pathways against conversion therapy providers just days after the Supreme Court blocked the ban.",
+    "link": "https://www.foxnews.com/politics/colorado-house-advances-conversion-therapy-lawsuit-bill-gop-lawmaker-calls-slap-face-scotus",
+    "pubDate": "Fri, 03 Apr 2026 02:07:36 -0400",
+    "source": "Fox News",
+    "categories": [
+      "73d8c0de-3d39-5e92-b54d-089d6a06029f",
+      "fnc",
+      "fox news",
+      "fox-news/politics/house-of-representatives/legislation",
+      "fox-news/us/us-regions/west/colorado",
+      "fox-news/us/personal-freedoms/first-amendment",
+      "fox-news/politics",
+      "fox-news/politics/state-and-local",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-03T06:15:01.264Z"
   }
 ]
