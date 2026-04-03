@@ -1502,7 +1502,7 @@
     "pubDate": "Fri, 03 Apr 2026 07:07:48 GMT",
     "source": "BBC News",
     "categories": [],
-    "collectedAt": "2026-04-03T07:15:01.120Z"
+    "collectedAt": "2026-04-03T07:15:01.246Z"
   },
   {
     "title": "Cuba releasing more than 2,000 prisoners as US pressures the island’s government",
@@ -1511,7 +1511,7 @@
     "pubDate": "Fri, 03 Apr 2026 03:04:26 -0400",
     "source": "New York Post",
     "categories": [],
-    "collectedAt": "2026-04-03T07:15:01.120Z"
+    "collectedAt": "2026-04-03T07:15:01.246Z"
   },
   {
     "title": "Dear Abby: I can’t decide if I want to date my best friend",
@@ -1520,6 +1520,55 @@
     "pubDate": "Fri, 03 Apr 2026 03:00:00 -0400",
     "source": "New York Post",
     "categories": [],
-    "collectedAt": "2026-04-03T07:15:01.120Z"
+    "collectedAt": "2026-04-03T07:15:01.246Z"
+  },
+  {
+    "title": "The Papers: UK's 'most evil funeral director' and 'Back to the moon'",
+    "description": "A funeral director pleading guilty to preventing lawful and decent burial dominates Friday's papers.",
+    "link": "https://www.bbc.com/news/articles/c3v6dz590eno?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 03 Apr 2026 03:57:30 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-03T07:30:02.174Z"
+  },
+  {
+    "title": "Blake Lively's sexual harassment claims against Justin Baldoni tossed out but robust case remains",
+    "description": "Blake Lively's sexual harassment claims against Justin Baldoni over the movie \"It Ends With Us\" were dismissed Thursday by a federal judge who left intact three claims, including retaliation, that will let a jury hear many of the allegations anyway.",
+    "link": "https://www.npr.org/2026/04/03/nx-s1-5772611/blake-lively-sexual-harassment-justin-baldoni-tossed-out",
+    "pubDate": "Fri, 03 Apr 2026 03:07:12 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-04-03T07:30:02.174Z"
+  },
+  {
+    "title": "WATCH:  Body camera video shows Tiger Woods' field sobriety tests, DUI arrest after crash",
+    "description": "Newly released police body camera video shows the moments after Woods' rollover crash in Jupiter Island, Florida.",
+    "link": "https://abcnews.com/video/131669952/",
+    "pubDate": "Thu, 02 Apr 2026 20:18:08 -0400",
+    "source": "ABC News",
+    "categories": [
+      "wnt"
+    ],
+    "collectedAt": "2026-04-03T07:30:02.174Z"
+  },
+  {
+    "title": "WATCH:  Hawaii doctor claims he acted in self defense during testimony",
+    "description": "The doctor who officials say tried to kill his wife while on a hike in Hawaii, took the stand for a second day.",
+    "link": "https://abcnews.com/video/131669947/",
+    "pubDate": "Thu, 02 Apr 2026 20:19:04 -0400",
+    "source": "ABC News",
+    "categories": [
+      "wnt"
+    ],
+    "collectedAt": "2026-04-03T07:30:02.174Z"
+  },
+  {
+    "title": "Donald Trump Announces Next Two Iran Targets",
+    "description": "Trump said the U.S. \"hasn’t even started destroying what’s left in Iran.\"",
+    "link": "https://www.newsweek.com/donald-trump-announces-next-two-iran-targets-11778768",
+    "pubDate": "Fri, 03 Apr 2026 03:14:56 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-03T07:30:02.174Z"
   }
 ]
