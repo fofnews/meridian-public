@@ -2224,5 +2224,29 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-04T11:15:01.644Z"
+  },
+  {
+    "title": "Dutch police probe explosion outside a pro-Israel Christian center",
+    "description": "The incident comes after a string of similar nighttime attacks across Europe that have heightened concerns over antisemitism.",
+    "link": "https://www.cbsnews.com/news/netherlands-police-explosion-pro-israel-christian-center/",
+    "pubDate": "Sat, 04 Apr 2026 07:12:57 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-04-04T11:30:01.304Z"
+  },
+  {
+    "title": "Three Charged With Arson in Attack on U.K. Jewish Charity’s Ambulances",
+    "description": "Two men and a teenager were arrested this week, the London police said, adding that the March attack had not been declared a terrorist incident.",
+    "link": "https://www.nytimes.com/2026/04/04/world/europe/london-arson-attack.html",
+    "pubDate": "Sat, 04 Apr 2026 11:13:41 +0000",
+    "source": "NY Times",
+    "categories": [
+      "arson",
+      "london (england)",
+      "great britain",
+      "ambulances",
+      "scotland yard (metropolitan police service)"
+    ],
+    "collectedAt": "2026-04-04T11:30:01.304Z"
   }
 ]
