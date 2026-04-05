@@ -2374,5 +2374,63 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-05T11:45:01.466Z"
+  },
+  {
+    "title": "Pope Leo Calls for Peace and Warns of a World Indifferent to Violence",
+    "description": "The pontiff’s Easter remarks follow a Palm Sunday homily in which he said God rejected the prayers of “those who wage war.”",
+    "link": "https://www.nytimes.com/2026/04/05/world/europe/pope-leo-easter.html",
+    "pubDate": "Sun, 05 Apr 2026 11:44:11 +0000",
+    "source": "NY Times",
+    "categories": [
+      "popes",
+      "us and israeli attack on iran (2026)",
+      "easter and holy week",
+      "united states defense and military forces",
+      "christians and christianity",
+      "roman catholic church",
+      "leo xiv",
+      "trump, donald j",
+      "vatican city"
+    ],
+    "collectedAt": "2026-04-05T12:00:01.121Z"
+  },
+  {
+    "title": "Jeremy Hansen is the first Canadian to head to the moon",
+    "description": "Jeremy Hansen is the first Canadian to head to the moon",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/jeremy-hansen-is-the-first-canadian-to-head-to-the-moon?traffic_source=rss",
+    "pubDate": "Sun, 05 Apr 2026 11:34:42 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-04-05T12:00:01.121Z"
+  },
+  {
+    "title": "Kuwait Petroleum Corp reports damage at units after Iran drone attack - Reuters",
+    "description": "Kuwait Petroleum Corp reports damage at units after Iran drone attack  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZVBjZS1ibjRmNHEwdkdBT3R0U0dadm5aMVR2dVFvUGFXQjF0ZlpBMzNwMWZNTkV1UHRHNHdjY1FpLVpzUFNBaXExeWpwYUI1QzdoLUJNeDRrTU14UFVmMWswSXZoWndyNklrYVVDWkFvbmYyUmZveXhRZFluNjVHUmtGOTFCVXRuVXpoT3RjX0MyUTZtUWNMa21RejRORWUtbVRsbGdhRWUwcjlaSGdkSHl2QXM1STk3NXFNWA?oc=5",
+    "pubDate": "Sun, 05 Apr 2026 10:39:33 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-04-05T12:00:01.121Z"
+  },
+  {
+    "title": "Federal judge blocks Trump push to collect race-based admissions data",
+    "description": "A federal judge in Boston temporarily blocked the Trump administration from forcing public colleges in 17 Democrat-led states to submit race data.",
+    "link": "https://www.foxnews.com/politics/federal-judge-blocks-trump-push-collect-race-based-admissions-data",
+    "pubDate": "Sun, 05 Apr 2026 07:46:01 -0400",
+    "source": "Fox News",
+    "categories": [
+      "4c1bb202-ce00-576f-9a88-fc5a7443c7cb",
+      "fnc",
+      "fox news",
+      "fox-news/us/education/dept-of-education",
+      "fox-news/politics/federal-judges",
+      "fox-news/us/education",
+      "fox-news/politics/justice-department",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-05T12:00:01.121Z"
   }
 ]
