@@ -1021,5 +1021,27 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-05T06:30:02.585Z"
+  },
+  {
+    "title": "Artemis II live updates: Astronauts expected to enter lunar sphere of influence",
+    "description": "Artemis II is carrying a four-person crew on a 10-day journey around the moon.",
+    "link": "https://abcnews.com/Technology/live-updates/artemis-ii-live-updates-window-launch-opens-today/?id=131444306",
+    "pubDate": "Sun, 05 Apr 2026 02:40:04 -0400",
+    "source": "ABC News",
+    "categories": [
+      "technology"
+    ],
+    "collectedAt": "2026-04-05T06:45:01.861Z"
+  },
+  {
+    "title": "‘Nothing prepares you’: The invisible lives of carers in the UK",
+    "description": "Thrust into the isolated world of caring, a daughter learns how other sole carers cope, some under immense strain.",
+    "link": "https://www.aljazeera.com/features/2026/4/5/nothing-prepares-you-the-invisible-lives-of-carers-in-the-uk?traffic_source=rss",
+    "pubDate": "Sun, 05 Apr 2026 06:08:05 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "features"
+    ],
+    "collectedAt": "2026-04-05T06:45:01.861Z"
   }
 ]
