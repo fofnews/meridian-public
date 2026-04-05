@@ -911,5 +911,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-05T05:30:01.370Z"
+  },
+  {
+    "title": "UConn reaches third national title game in four seasons",
+    "description": "UConn beat Illinois 71-62 in the Final Four.",
+    "link": "https://abcnews.com/Sports/wireStory/uconn-reaches-3rd-national-title-game-4-seasons-131736437",
+    "pubDate": "Sun, 05 Apr 2026 00:13:07 -0400",
+    "source": "ABC News",
+    "categories": [
+      "sports"
+    ],
+    "collectedAt": "2026-04-05T05:45:01.265Z"
+  },
+  {
+    "title": "Daughter of top Iranian official ousted from Emory University after outcry has visa canceled",
+    "description": "The daughter of a powerful Iranian regime insider who was forced out of Emory University after a firestorm of backlash is set to be booted from the United States completely. Dr. Fatemeh Ardeshir-Larijani, whose father is a top official in Tehran, was removed from her post at the prestigious Atlanta school following mounting outrage over...",
+    "link": "https://nypost.com/2026/04/04/us-news/daughter-of-top-iranian-official-ousted-from-emory-university-after-outcry-has-visa-canceled/",
+    "pubDate": "Sat, 04 Apr 2026 23:15:04 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-05T05:45:01.265Z"
   }
 ]
