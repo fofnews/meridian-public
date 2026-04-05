@@ -299,6 +299,11 @@
           "date": "2026-04-05",
           "edition": "morning",
           "update": "Fuel leaks occurred at Russia's Primorsk oil facility and a fire broke out at the NORSI oil refinery in Nizhny Novgorod, according to Russian authorities."
+        },
+        {
+          "date": "2026-04-05",
+          "edition": "evening",
+          "update": "Zelenskiy traveled to Syria and met with President Sharaa."
         }
       ]
     },
@@ -768,6 +773,11 @@
           "date": "2026-04-05",
           "edition": "morning",
           "update": "Lebanon reports at least 54 health workers are among more than 1,400 people killed by Israel during the current invasion, with human rights groups claiming first responders are being targeted while Israel denies this."
+        },
+        {
+          "date": "2026-04-05",
+          "edition": "evening",
+          "update": "Christian Lebanese families were displaced during Easter celebrations due to the military conflict."
         }
       ]
     },
@@ -922,6 +932,11 @@
           "date": "2026-04-05",
           "edition": "morning",
           "update": "An F-15E fighter jet was shot down over Iran and a U.S. crew member was rescued in a subsequent operation deep inside Iranian territory. Iran rejected a Trump administration 48-hour ultimatum regarding the Strait of Hormuz. Iran conducted drone attacks on Kuwait's infrastructure including oil, power, and government sites."
+        },
+        {
+          "date": "2026-04-05",
+          "edition": "evening",
+          "update": "Iran requested FIFA relocate its World Cup games to Mexico and awaits FIFA's response, with Iran's World Cup participation dependent on relocation from the U.S."
         }
       ]
     },
@@ -929,7 +944,7 @@
       "id": "iran-strait-of-hormuz-crisis",
       "title": "Iran Strait of Hormuz Crisis",
       "firstSeen": "2026-03-10",
-      "lastSeen": "2026-04-03",
+      "lastSeen": "2026-04-05",
       "active": true,
       "entries": [
         {
@@ -1051,6 +1066,11 @@
           "date": "2026-04-03",
           "edition": "evening",
           "update": "Japanese, French, and Omani vessels crossed the Strait of Hormuz."
+        },
+        {
+          "date": "2026-04-05",
+          "edition": "evening",
+          "update": "Rep. Mike Turner stated Iran's military capabilities are being significantly diminished and expressed doubt that ground troops will be necessary to reopen the Strait of Hormuz, while Trump set a Tuesday deadline for Iran to open the Strait or face consequences."
         }
       ]
     },
@@ -1362,6 +1382,11 @@
           "date": "2026-04-05",
           "edition": "morning",
           "update": "Artemis II, a NASA mission carrying four astronauts, conducted a 10-day journey around the moon with the crew broadcasting interviews from the Orion capsule. The mission experienced a toilet malfunction onboard the spacecraft."
+        },
+        {
+          "date": "2026-04-05",
+          "edition": "evening",
+          "update": "Artemis II is scheduled to break Apollo 13's distance record during its moon flyby."
         }
       ]
     },
@@ -1444,5 +1469,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-04-05T11:03:50.047Z"
+  "updatedAt": "2026-04-05T21:05:29.170Z"
 }
