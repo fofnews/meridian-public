@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-04-03",
+      "lastSeen": "2026-04-05",
       "active": true,
       "entries": [
         {
@@ -136,6 +136,11 @@
           "date": "2026-04-03",
           "edition": "evening",
           "update": "Todd Blanche assumed the role of Interim Attorney General on Thursday, replacing Pam Bondi, and stated he wants to distance the Department of Justice from its work on Epstein files."
+        },
+        {
+          "date": "2026-04-05",
+          "edition": "morning",
+          "update": "Virginia Giuffre, prior to her death, accused Jeffrey Epstein of trafficking her to Prince Andrew, brother of King Charles. The Giuffre family is urging King Charles to meet with Epstein survivors in the United States."
         }
       ]
     },
@@ -172,7 +177,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-04-02",
+      "lastSeen": "2026-04-05",
       "active": true,
       "entries": [
         {
@@ -289,6 +294,11 @@
           "date": "2026-04-02",
           "edition": "evening",
           "update": "Ukrainian President Volodymyr Zelensky warned in an exclusive interview about Russia's intelligence sharing with Iran and discussed how Ukraine is helping the US in its war against Iran."
+        },
+        {
+          "date": "2026-04-05",
+          "edition": "morning",
+          "update": "Fuel leaks occurred at Russia's Primorsk oil facility and a fire broke out at the NORSI oil refinery in Nizhny Novgorod, according to Russian authorities."
         }
       ]
     },
@@ -345,7 +355,7 @@
       "id": "iran-protests-and-crackdown",
       "title": "Iran Protests and Crackdown",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-04-02",
+      "lastSeen": "2026-04-05",
       "active": true,
       "entries": [
         {
@@ -372,6 +382,11 @@
           "date": "2026-04-02",
           "edition": "evening",
           "update": "A State Department spokesperson called Iran's executions 'barbaric'; the UN and activist groups report Iran's regime is using the death penalty to crush dissent."
+        },
+        {
+          "date": "2026-04-05",
+          "edition": "morning",
+          "update": "Iran's judiciary reported that two men involved in January protests were executed."
         }
       ]
     },
@@ -379,7 +394,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-04-03",
+      "lastSeen": "2026-04-05",
       "active": true,
       "entries": [
         {
@@ -476,6 +491,11 @@
           "date": "2026-04-03",
           "edition": "morning",
           "update": "A majority of Israelis support the war with Iran, though many doubt it will solve long-term security problems and question their prime minister's assurances and motives."
+        },
+        {
+          "date": "2026-04-05",
+          "edition": "morning",
+          "update": "Israeli measures at Hebron's Ibrahimi Mosque have intensified control, with policies resembling those applied at Al-Aqsa Mosque."
         }
       ]
     },
@@ -552,7 +572,7 @@
       "id": "iran-us-military-conflict",
       "title": "Iran-US Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-04-03",
+      "lastSeen": "2026-04-05",
       "active": true,
       "entries": [
         {
@@ -594,6 +614,11 @@
           "date": "2026-04-03",
           "edition": "morning",
           "update": "Iran's longest bridge linking Tehran to Karaj was destroyed overnight, and Iranian missiles and drones struck Israel, Saudi Arabia, the UAE, and Kuwait's largest oil refinery, setting some refinery units on fire."
+        },
+        {
+          "date": "2026-04-05",
+          "edition": "morning",
+          "update": "An international jet fuel shortage is occurring, driving up airfares, triggering thousands of flight cancellations, and causing airline costs to rise."
         }
       ]
     },
@@ -601,7 +626,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-04-03",
+      "lastSeen": "2026-04-05",
       "active": true,
       "entries": [
         {
@@ -738,6 +763,11 @@
           "date": "2026-04-03",
           "edition": "evening",
           "update": "Israel is establishing a buffer zone in southern Lebanon through bombing that forced residents from leveled homes and destroyed bridges over the Litani River."
+        },
+        {
+          "date": "2026-04-05",
+          "edition": "morning",
+          "update": "Lebanon reports at least 54 health workers are among more than 1,400 people killed by Israel during the current invasion, with human rights groups claiming first responders are being targeted while Israel denies this."
         }
       ]
     },
@@ -745,7 +775,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-04-03",
+      "lastSeen": "2026-04-05",
       "active": true,
       "entries": [
         {
@@ -887,6 +917,11 @@
           "date": "2026-04-03",
           "edition": "evening",
           "update": "U.S. intelligence reports Iran is rapidly repairing missile bunkers as destroying Iran's missile capability remains a key U.S. goal."
+        },
+        {
+          "date": "2026-04-05",
+          "edition": "morning",
+          "update": "An F-15E fighter jet was shot down over Iran and a U.S. crew member was rescued in a subsequent operation deep inside Iranian territory. Iran rejected a Trump administration 48-hour ultimatum regarding the Strait of Hormuz. Iran conducted drone attacks on Kuwait's infrastructure including oil, power, and government sites."
         }
       ]
     },
@@ -1230,7 +1265,7 @@
       "id": "artemis-moon-mission",
       "title": "Artemis Moon Mission",
       "firstSeen": "2026-03-23",
-      "lastSeen": "2026-04-03",
+      "lastSeen": "2026-04-05",
       "active": true,
       "entries": [
         {
@@ -1322,6 +1357,11 @@
           "date": "2026-04-03",
           "edition": "evening",
           "update": "Artemis II crew left Earth's orbit heading toward the Moon after NASA approved the trans-lunar injection burn; this is the first crewed lunar transit since 1972, though the crew will not land."
+        },
+        {
+          "date": "2026-04-05",
+          "edition": "morning",
+          "update": "Artemis II, a NASA mission carrying four astronauts, conducted a 10-day journey around the moon with the crew broadcasting interviews from the Orion capsule. The mission experienced a toilet malfunction onboard the spacecraft."
         }
       ]
     },
@@ -1404,5 +1444,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-04-04T21:05:48.081Z"
+  "updatedAt": "2026-04-05T11:03:50.047Z"
 }
