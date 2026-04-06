@@ -345,6 +345,17 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
   const sourceCount = new Set(featured.articles.map(a => a.source)).size;
   const tickerText = stories.map(s => truncateHeadline(s.headline, 80)).join('  ·  THE MERIDIAN  ·  ');
 
+  const tickerRef = useRef(null);
+  const [tickerDuration, setTickerDuration] = useState(null);
+  const TICKER_SPEED_PX_PER_S = 120;
+
+  useEffect(() => {
+    if (!tickerRef.current) return;
+    const el = tickerRef.current;
+    const totalDistance = window.innerWidth + el.offsetWidth;
+    setTickerDuration(totalDistance / TICKER_SPEED_PX_PER_S);
+  }, [tickerText]);
+
   // Semi-transparent color helpers using CSS RGB vars (works in inline styles)
   const btnBg    = `rgba(var(--bg-secondary-rgb), 0.80)`;
   const chyronUpper = `rgba(var(--bg-secondary-rgb), 0.92)`;
@@ -423,13 +434,13 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
 
   const containerStyle = expanded
     ? { position: 'fixed', inset: 0, zIndex: 50, width: '100vw', height: '100vh' }
-    : { aspectRatio: '16/9', maxHeight: '75vh', minHeight: 280, position: 'sticky', top: 0, zIndex: 20 };
+    : { aspectRatio: '16/9', maxHeight: '75vh', minHeight: 280, zIndex: 20 };
 
   // Button bottom offsets: clear chyron overlay when expanded, sit near edge otherwise
   const locBottom  = expanded ? 'calc(var(--chyron-h) + 4px)'  : '8px';
 
   return (
-    <>
+    <div style={{ position: 'sticky', top: 0, zIndex: 30 }}>
       {!mapVisible && (
         <div
           className="w-full flex items-center justify-between px-4"
@@ -638,20 +649,21 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
           )}
         </div>
 
-      {/* Chyron in normal flow — only when not expanded, sits below the map with no overlap */}
-      {mapVisible && !expanded && chyronContent}
-
-      {/* Ticker — hidden when expanded */}
+      {/* Ticker + chyron sticky below the map */}
       {mapVisible && !expanded && (
-        <div className="overflow-hidden w-full" style={{ background: 'var(--accent)', padding: '5px 0' }}>
-          <div
-            className="ticker-scroll inline-block whitespace-nowrap"
-            style={{ color: 'var(--accent-text)', fontSize: 'clamp(9px, 1vw, 13px)', fontWeight: 600, letterSpacing: '1.5px', textTransform: 'uppercase' }}
-          >
-            THE MERIDIAN  ·  {tickerText}  ·  THE MERIDIAN  ·  {tickerText}
+        <div>
+          <div className="overflow-hidden w-full" style={{ background: 'var(--accent)', padding: '5px 0' }}>
+            <div
+              ref={tickerRef}
+              className="ticker-scroll inline-block whitespace-nowrap"
+              style={{ color: 'var(--accent-text)', fontSize: 'clamp(9px, 1vw, 13px)', fontWeight: 600, letterSpacing: '1.5px', textTransform: 'uppercase', ...(tickerDuration ? { animationDuration: `${tickerDuration}s` } : {}) }}
+            >
+              THE MERIDIAN  ·  {tickerText}  ·  THE MERIDIAN  ·  {tickerText}
+            </div>
           </div>
+          {chyronContent}
         </div>
       )}
-    </>
+    </div>
   );
 }
