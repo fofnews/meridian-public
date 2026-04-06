@@ -146,6 +146,11 @@
           "date": "2026-04-06",
           "edition": "morning",
           "update": "Jeffrey Epstein spent his final days of freedom in Paris, where he met with influential figures."
+        },
+        {
+          "date": "2026-04-06",
+          "edition": "evening",
+          "update": "According to an FBI interview, Epstein had sex in a vehicle in a prison parking lot while on work release from a Florida jail approximately 20 years ago."
         }
       ]
     },
@@ -182,7 +187,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-04-05",
+      "lastSeen": "2026-04-06",
       "active": true,
       "entries": [
         {
@@ -309,6 +314,11 @@
           "date": "2026-04-05",
           "edition": "evening",
           "update": "Zelenskiy traveled to Syria and met with President Sharaa."
+        },
+        {
+          "date": "2026-04-06",
+          "edition": "evening",
+          "update": "A child was rescued from rubble after a Russian strike collapsed a home in Odesa, killing at least three people."
         }
       ]
     },
@@ -365,7 +375,7 @@
       "id": "iran-protests-and-crackdown",
       "title": "Iran Protests and Crackdown",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-04-05",
+      "lastSeen": "2026-04-06",
       "active": true,
       "entries": [
         {
@@ -397,6 +407,11 @@
           "date": "2026-04-05",
           "edition": "morning",
           "update": "Iran's judiciary reported that two men involved in January protests were executed."
+        },
+        {
+          "date": "2026-04-06",
+          "edition": "evening",
+          "update": "Iran has carried out executions by hanging, including of teenagers."
         }
       ]
     },
@@ -511,6 +526,11 @@
           "date": "2026-04-06",
           "edition": "morning",
           "update": "President Donald Trump announced 'major combat operations' against Iran on February 28, with joint U.S.-Israeli strikes described as massive occurring."
+        },
+        {
+          "date": "2026-04-06",
+          "edition": "evening",
+          "update": "Rescuers searched for survivors following U.S.-Israeli strikes on Iranian homes; Iranian Red Crescent documented the damage."
         }
       ]
     },
@@ -639,6 +659,11 @@
           "date": "2026-04-06",
           "edition": "morning",
           "update": "Trump claimed the U.S. armed Iranian dissidents via Kurds, and Kurdish groups denied the claim."
+        },
+        {
+          "date": "2026-04-06",
+          "edition": "evening",
+          "update": "A second U.S. airman was reported missing following a fighter jet shoot-down in Iran last week."
         }
       ]
     },
@@ -962,6 +987,11 @@
           "date": "2026-04-06",
           "edition": "morning",
           "update": "Iranian Fars News Agency reported that two C-130 aircraft and two UH-60 Black Hawk helicopters were destroyed during the U.S. rescue mission in Iran."
+        },
+        {
+          "date": "2026-04-06",
+          "edition": "evening",
+          "update": "U.S. forces conducted a rescue mission on Easter morning to recover a downed pilot from Iranian territory."
         }
       ]
     },
@@ -1101,6 +1131,11 @@
           "date": "2026-04-06",
           "edition": "morning",
           "update": "Iraq urged its oil customers to send oil loading plans following a Hormuz exemption."
+        },
+        {
+          "date": "2026-04-06",
+          "edition": "evening",
+          "update": "Libya's oil sector disputes and Hormuz tensions are creating energy supply concerns for Europe."
         }
       ]
     },
@@ -1315,7 +1350,7 @@
       "id": "artemis-moon-mission",
       "title": "Artemis Moon Mission",
       "firstSeen": "2026-03-23",
-      "lastSeen": "2026-04-05",
+      "lastSeen": "2026-04-06",
       "active": true,
       "entries": [
         {
@@ -1417,6 +1452,11 @@
           "date": "2026-04-05",
           "edition": "evening",
           "update": "Artemis II is scheduled to break Apollo 13's distance record during its moon flyby."
+        },
+        {
+          "date": "2026-04-06",
+          "edition": "evening",
+          "update": "Artemis II experienced an approximately 40-minute communication blackout during the lunar flyby."
         }
       ]
     },
@@ -1500,9 +1540,14 @@
           "date": "2026-04-06",
           "edition": "morning",
           "update": "South Korea assessed that North Korea is distancing itself from Iran, possibly to leave open the possibility of talks with the United States."
+        },
+        {
+          "date": "2026-04-06",
+          "edition": "evening",
+          "update": "South Korea reports North Korea is keeping Iran at arm's length and is wary in its approach to Iran; North Korea is seeking to renew diplomatic dialogue with the United States."
         }
       ]
     }
   ],
-  "updatedAt": "2026-04-06T11:05:06.151Z"
+  "updatedAt": "2026-04-06T21:09:05.556Z"
 }
