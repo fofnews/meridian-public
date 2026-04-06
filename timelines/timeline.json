@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-04-05",
+      "lastSeen": "2026-04-06",
       "active": true,
       "entries": [
         {
@@ -141,6 +141,11 @@
           "date": "2026-04-05",
           "edition": "morning",
           "update": "Virginia Giuffre, prior to her death, accused Jeffrey Epstein of trafficking her to Prince Andrew, brother of King Charles. The Giuffre family is urging King Charles to meet with Epstein survivors in the United States."
+        },
+        {
+          "date": "2026-04-06",
+          "edition": "morning",
+          "update": "Jeffrey Epstein spent his final days of freedom in Paris, where he met with influential figures."
         }
       ]
     },
@@ -399,7 +404,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-04-05",
+      "lastSeen": "2026-04-06",
       "active": true,
       "entries": [
         {
@@ -501,6 +506,11 @@
           "date": "2026-04-05",
           "edition": "morning",
           "update": "Israeli measures at Hebron's Ibrahimi Mosque have intensified control, with policies resembling those applied at Al-Aqsa Mosque."
+        },
+        {
+          "date": "2026-04-06",
+          "edition": "morning",
+          "update": "President Donald Trump announced 'major combat operations' against Iran on February 28, with joint U.S.-Israeli strikes described as massive occurring."
         }
       ]
     },
@@ -577,7 +587,7 @@
       "id": "iran-us-military-conflict",
       "title": "Iran-US Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-04-05",
+      "lastSeen": "2026-04-06",
       "active": true,
       "entries": [
         {
@@ -624,6 +634,11 @@
           "date": "2026-04-05",
           "edition": "morning",
           "update": "An international jet fuel shortage is occurring, driving up airfares, triggering thousands of flight cancellations, and causing airline costs to rise."
+        },
+        {
+          "date": "2026-04-06",
+          "edition": "morning",
+          "update": "Trump claimed the U.S. armed Iranian dissidents via Kurds, and Kurdish groups denied the claim."
         }
       ]
     },
@@ -631,7 +646,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-04-05",
+      "lastSeen": "2026-04-06",
       "active": true,
       "entries": [
         {
@@ -778,6 +793,11 @@
           "date": "2026-04-05",
           "edition": "evening",
           "update": "Christian Lebanese families were displaced during Easter celebrations due to the military conflict."
+        },
+        {
+          "date": "2026-04-06",
+          "edition": "morning",
+          "update": "Up to 1.2 million people were forced to flee Lebanon due to Israeli attacks, with many experiencing displacement for a second time in recent months."
         }
       ]
     },
@@ -785,7 +805,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-04-05",
+      "lastSeen": "2026-04-06",
       "active": true,
       "entries": [
         {
@@ -937,6 +957,11 @@
           "date": "2026-04-05",
           "edition": "evening",
           "update": "Iran requested FIFA relocate its World Cup games to Mexico and awaits FIFA's response, with Iran's World Cup participation dependent on relocation from the U.S."
+        },
+        {
+          "date": "2026-04-06",
+          "edition": "morning",
+          "update": "Iranian Fars News Agency reported that two C-130 aircraft and two UH-60 Black Hawk helicopters were destroyed during the U.S. rescue mission in Iran."
         }
       ]
     },
@@ -944,7 +969,7 @@
       "id": "iran-strait-of-hormuz-crisis",
       "title": "Iran Strait of Hormuz Crisis",
       "firstSeen": "2026-03-10",
-      "lastSeen": "2026-04-05",
+      "lastSeen": "2026-04-06",
       "active": true,
       "entries": [
         {
@@ -1071,6 +1096,11 @@
           "date": "2026-04-05",
           "edition": "evening",
           "update": "Rep. Mike Turner stated Iran's military capabilities are being significantly diminished and expressed doubt that ground troops will be necessary to reopen the Strait of Hormuz, while Trump set a Tuesday deadline for Iran to open the Strait or face consequences."
+        },
+        {
+          "date": "2026-04-06",
+          "edition": "morning",
+          "update": "Iraq urged its oil customers to send oil loading plans following a Hormuz exemption."
         }
       ]
     },
@@ -1448,7 +1478,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-03-30",
+      "lastSeen": "2026-04-06",
       "active": true,
       "entries": [
         {
@@ -1465,9 +1495,14 @@
           "date": "2026-03-30",
           "edition": "morning",
           "update": "North Korea conducted a missile test on Sunday for a solid-fuel engine, claiming it can reach the U.S. mainland with a maximum thrust of 2,500 kilonewtons, a significant increase from 1,970 kilonewtons in a September test."
+        },
+        {
+          "date": "2026-04-06",
+          "edition": "morning",
+          "update": "South Korea assessed that North Korea is distancing itself from Iran, possibly to leave open the possibility of talks with the United States."
         }
       ]
     }
   ],
-  "updatedAt": "2026-04-05T21:05:29.170Z"
+  "updatedAt": "2026-04-06T11:05:06.151Z"
 }
