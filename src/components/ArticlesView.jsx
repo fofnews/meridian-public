@@ -101,12 +101,14 @@ export default function ArticlesView({ selectedDate }) {
   const [error, setError] = useState(null);
   const [activeCategory, setActiveCategory] = useState(null);
   const [activeSubcategory, setActiveSubcategory] = useState('All');
+  const [searchQuery, setSearchQuery] = useState('');
 
   useEffect(() => {
     if (!selectedDate) return;
     setLoading(true);
     setError(null);
     setData(null);
+    setSearchQuery('');
     fetch(`/api/articles/${selectedDate}`)
       .then(r => r.ok ? r.json() : r.json().then(j => Promise.reject(j.error)))
       .then(d => {
@@ -148,7 +150,7 @@ export default function ArticlesView({ selectedDate }) {
   }
 
   // Filter articles by active subcategory
-  const articles = subcategoryDefs && activeSubcategory !== 'All'
+  const filteredByCategory = subcategoryDefs && activeSubcategory !== 'All'
     ? categoryArticles.filter(a => getSubcategory(a, activeCategory) === activeSubcategory)
     : categoryArticles;
 
@@ -161,6 +163,16 @@ export default function ArticlesView({ selectedDate }) {
       ]
     : [];
 
+  const isSearching = searchQuery.trim().length > 0;
+  const searchResults = isSearching
+    ? allArticles.filter(a => {
+        const q = searchQuery.toLowerCase();
+        return (a.title || '').toLowerCase().includes(q) || (a.source || '').toLowerCase().includes(q);
+      })
+    : null;
+
+  const articles = isSearching ? searchResults : filteredByCategory;
+
   return (
     <div className="py-6">
       <div className="flex items-center justify-between mb-5">
@@ -170,8 +182,48 @@ export default function ArticlesView({ selectedDate }) {
         <span className="text-xs" style={{ color: 'var(--text-faint)' }}>{data.total} collected</span>
       </div>
 
+      {/* Search bar */}
+      <div className="relative mb-4">
+        <svg
+          className="absolute left-3 top-1/2 -translate-y-1/2 pointer-events-none"
+          width="14" height="14" viewBox="0 0 24 24" fill="none"
+          stroke="var(--text-faint)" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"
+        >
+          <circle cx="11" cy="11" r="8" />
+          <line x1="21" y1="21" x2="16.65" y2="16.65" />
+        </svg>
+        <input
+          type="text"
+          value={searchQuery}
+          onChange={e => setSearchQuery(e.target.value)}
+          placeholder="Search articles..."
+          className="w-full text-sm rounded-full pl-8 pr-8 py-1.5 outline-none transition-colors"
+          style={{
+            background: 'var(--bg-card)',
+            border: '1px solid var(--border-primary)',
+            color: 'var(--text-primary)',
+            caretColor: 'var(--accent)',
+          }}
+          onFocus={e => e.currentTarget.style.borderColor = 'var(--accent)'}
+          onBlur={e => e.currentTarget.style.borderColor = 'var(--border-primary)'}
+        />
+        {isSearching && (
+          <button
+            onClick={() => setSearchQuery('')}
+            className="absolute right-3 top-1/2 -translate-y-1/2 leading-none"
+            style={{ color: 'var(--text-faint)', background: 'none', border: 'none', cursor: 'pointer', padding: 0 }}
+            aria-label="Clear search"
+          >
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <line x1="18" y1="6" x2="6" y2="18" />
+              <line x1="6" y1="6" x2="18" y2="18" />
+            </svg>
+          </button>
+        )}
+      </div>
+
       {/* Category tabs */}
-      <div className="flex gap-2 flex-wrap mb-3">
+      <div className="flex gap-2 flex-wrap mb-3" style={{ opacity: isSearching ? 0.4 : 1, pointerEvents: isSearching ? 'none' : 'auto' }}>
         <button
           key="all"
           onClick={() => handleCategoryChange(null)}
@@ -205,7 +257,7 @@ export default function ArticlesView({ selectedDate }) {
       </div>
 
       {/* Subcategory tabs */}
-      {subcategoryTabs.length > 0 && (
+      {!isSearching && subcategoryTabs.length > 0 && (
         <div className="flex gap-2 flex-wrap mb-5 pt-3" style={{ borderTop: '1px solid var(--border-primary)' }}>
           {subcategoryTabs.map(sub => (
             <button
@@ -225,10 +277,17 @@ export default function ArticlesView({ selectedDate }) {
         </div>
       )}
 
+      {/* Search result count */}
+      {isSearching && (
+        <p className="text-xs mb-3" style={{ color: 'var(--text-faint)' }}>{searchResults.length} result{searchResults.length !== 1 ? 's' : ''}</p>
+      )}
+
       {/* Article list */}
       <div className="rounded-lg overflow-hidden px-4" style={{ border: '1px solid var(--border-primary)', background: 'var(--bg-secondary)' }}>
         {articles.length === 0 ? (
-          <p className="text-sm py-6 text-center" style={{ color: 'var(--text-faint)' }}>No articles in this category.</p>
+          <p className="text-sm py-6 text-center" style={{ color: 'var(--text-faint)' }}>
+            {isSearching ? 'No articles match your search.' : 'No articles in this category.'}
+          </p>
         ) : (
           articles.map((a, i) => <ArticleRow key={i} article={a} />)
         )}
