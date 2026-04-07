@@ -158,7 +158,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-04-02",
+      "lastSeen": "2026-04-07",
       "active": true,
       "entries": [
         {
@@ -180,6 +180,11 @@
           "date": "2026-04-02",
           "edition": "morning",
           "update": "Iranian President Pezeshkian released a letter to Americans on X hours before Trump's scheduled address on Iran operations."
+        },
+        {
+          "date": "2026-04-07",
+          "edition": "morning",
+          "update": "Iran rejected a U.S. ceasefire deal and instead conveyed a 10-point counterproposal through Pakistani intermediaries. The proposal demanded an end to ongoing attacks and an end to sanctions."
         }
       ]
     },
@@ -187,7 +192,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-04-06",
+      "lastSeen": "2026-04-07",
       "active": true,
       "entries": [
         {
@@ -319,6 +324,11 @@
           "date": "2026-04-06",
           "edition": "evening",
           "update": "A child was rescued from rubble after a Russian strike collapsed a home in Odesa, killing at least three people."
+        },
+        {
+          "date": "2026-04-07",
+          "edition": "morning",
+          "update": "The Iran war has driven shortages and price spikes across multiple consumer product categories beyond oil and gas, including beer cans, helium balloons, and mortgages."
         }
       ]
     },
@@ -375,7 +385,7 @@
       "id": "iran-protests-and-crackdown",
       "title": "Iran Protests and Crackdown",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-04-06",
+      "lastSeen": "2026-04-07",
       "active": true,
       "entries": [
         {
@@ -412,6 +422,11 @@
           "date": "2026-04-06",
           "edition": "evening",
           "update": "Iran has carried out executions by hanging, including of teenagers."
+        },
+        {
+          "date": "2026-04-07",
+          "edition": "morning",
+          "update": "Iran released a Japanese national on bail who had been jailed amid antigovernment protests. The released individual is believed to be Shinnosuke Kawashima, NHK's Tehran bureau chief."
         }
       ]
     },
@@ -419,7 +434,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-04-06",
+      "lastSeen": "2026-04-07",
       "active": true,
       "entries": [
         {
@@ -531,6 +546,11 @@
           "date": "2026-04-06",
           "edition": "evening",
           "update": "Rescuers searched for survivors following U.S.-Israeli strikes on Iranian homes; Iranian Red Crescent documented the damage."
+        },
+        {
+          "date": "2026-04-07",
+          "edition": "morning",
+          "update": "A synagogue in Tehran was destroyed in U.S.-Israeli strikes, with Mehr News releasing video showing extensive damage to the site. The Israeli military confirmed bombing Iran on April 7, and video showed widespread destruction in Pardis in northern Iran. Reports indicated 15 people were killed across Iran overnight. In Israel, an Iranian missile strike in Ramat Hasharon damaged sidewalks and overturned a car."
         }
       ]
     },
@@ -671,7 +691,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-04-06",
+      "lastSeen": "2026-04-07",
       "active": true,
       "entries": [
         {
@@ -823,6 +843,11 @@
           "date": "2026-04-06",
           "edition": "morning",
           "update": "Up to 1.2 million people were forced to flee Lebanon due to Israeli attacks, with many experiencing displacement for a second time in recent months."
+        },
+        {
+          "date": "2026-04-07",
+          "edition": "morning",
+          "update": "Israeli forces raided the Muslim Youth Association in Hebron, firing tear gas at Palestinians during the operation. In Lebanon, firefighters responded to a fire in the southern city of Maarakeh following an Israeli strike in the area."
         }
       ]
     },
@@ -830,7 +855,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-04-06",
+      "lastSeen": "2026-04-07",
       "active": true,
       "entries": [
         {
@@ -992,6 +1017,11 @@
           "date": "2026-04-06",
           "edition": "evening",
           "update": "U.S. forces conducted a rescue mission on Easter morning to recover a downed pilot from Iranian territory."
+        },
+        {
+          "date": "2026-04-07",
+          "edition": "morning",
+          "update": "President Trump confirmed that a U.S. F-15 fighter jet was brought down in Iran by a shoulder-fired missile, and that two airmen were subsequently rescued. Trump described the rescue mission as one of the most complex the U.S. military has ever attempted. Israeli journalist Amit Segal identified himself as the first to report the missing U.S. airman."
         }
       ]
     },
@@ -999,7 +1029,7 @@
       "id": "iran-strait-of-hormuz-crisis",
       "title": "Iran Strait of Hormuz Crisis",
       "firstSeen": "2026-03-10",
-      "lastSeen": "2026-04-06",
+      "lastSeen": "2026-04-07",
       "active": true,
       "entries": [
         {
@@ -1136,6 +1166,11 @@
           "date": "2026-04-06",
           "edition": "evening",
           "update": "Libya's oil sector disputes and Hormuz tensions are creating energy supply concerns for Europe."
+        },
+        {
+          "date": "2026-04-07",
+          "edition": "morning",
+          "update": "Trump set a Tuesday deadline for Iran to reopen the Strait of Hormuz, threatening military strikes on Iranian infrastructure including power plants and bridges. Iran adopted a defiant stance and mobilized youth to form human chains around power plants as shields against threatened strikes. Saudi Arabia intercepted 7 missiles, with debris falling near energy facilities. A group of OPEC+ members agreed on Sunday to increase output by 206,000 barrels per day once the Strait reopens, with implementation planned for May. Asian airlines began trimming schedules and carrying extra fuel as supplies tightened amid the escalating tensions."
         }
       ]
     },
@@ -1350,7 +1385,7 @@
       "id": "artemis-moon-mission",
       "title": "Artemis Moon Mission",
       "firstSeen": "2026-03-23",
-      "lastSeen": "2026-04-06",
+      "lastSeen": "2026-04-07",
       "active": true,
       "entries": [
         {
@@ -1457,6 +1492,11 @@
           "date": "2026-04-06",
           "edition": "evening",
           "update": "Artemis II experienced an approximately 40-minute communication blackout during the lunar flyby."
+        },
+        {
+          "date": "2026-04-07",
+          "edition": "morning",
+          "update": "The Artemis II crew broke the distance record previously held by Apollo 13, traveling farther from Earth than any humans in history. The crew passed behind the far side of the moon during a planned communications blackout before contact was reestablished, and they are now returning to Earth. President Trump called the crew to congratulate them, calling them 'modern-day pioneers.'"
         }
       ]
     },
@@ -1464,7 +1504,7 @@
       "id": "us-iran-military-escalation",
       "title": "US-Iran Military Escalation",
       "firstSeen": "2026-03-27",
-      "lastSeen": "2026-04-02",
+      "lastSeen": "2026-04-07",
       "active": true,
       "entries": [
         {
@@ -1511,6 +1551,11 @@
           "date": "2026-04-02",
           "edition": "evening",
           "update": "Wartime fuel shortages in Asia have sparked panic, robberies, and killings in affected areas."
+        },
+        {
+          "date": "2026-04-07",
+          "edition": "morning",
+          "update": "A U.S. F-15 fighter jet was shot down by a shoulder-fired missile in Iran, and a Pentagon press briefing scheduled for Tuesday with Defense Secretary Pete Hegseth and Joint Chiefs Chair Gen. Dan Caine was canceled. Gas prices rose for the ninth consecutive day, reaching a national average of $4.14 per gallon — the highest level since 2022. Some Republican lawmakers expressed growing wariness about the military conflict as it entered its sixth week during midterm election season. Rep. Yassamin Ansari announced she would introduce articles of impeachment against Defense Secretary Hegseth related to planned strikes on Iranian civilian infrastructure. Trump threatened to jail reporters who refused to reveal sources connected to coverage of Iran's strike on a U.S. fighter jet."
         }
       ]
     },
@@ -1549,5 +1594,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-04-06T21:09:05.556Z"
+  "updatedAt": "2026-04-07T11:06:39.839Z"
 }
