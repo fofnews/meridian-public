@@ -3544,5 +3544,111 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-07T11:15:01.190Z"
+  },
+  {
+    "title": "Mom Wakes Up From Nap, Something Feels off—Then Sees What 3-Year-Old Ate",
+    "description": "Mom Janell C told Newsweek that she was \"freaking out\" when she realized what had happened.",
+    "link": "https://www.newsweek.com/mom-wakes-up-from-nap-something-feels-off-then-sees-what-3-year-old-ate-11786967",
+    "pubDate": "Tue, 07 Apr 2026 07:26:10 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-07T11:30:01.553Z"
+  },
+  {
+    "title": "Donald Trump's Approval Falls To Lowest Rating With Most Accurate Pollster",
+    "description": "A new poll has revealed that only 39 percent of respondents viewed President Donald Trump favorably.",
+    "link": "https://www.newsweek.com/donald-trump-approval-falls-lowest-rating-most-accurate-pollster-iran-war-11792365",
+    "pubDate": "Tue, 07 Apr 2026 07:22:17 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-07T11:30:01.553Z"
+  },
+  {
+    "title": "China Responds to Trump's Latest Deadline for Iran",
+    "description": "The attacks on civilian infrastructure threatened by the president would be a clear violation of international law, the U.N. said.",
+    "link": "https://www.newsweek.com/china-responds-trump-latest-deadline-iran-11791558",
+    "pubDate": "Tue, 07 Apr 2026 07:21:19 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-07T11:30:01.553Z"
+  },
+  {
+    "title": "MAGA’s Biggest Megaphones Speak Out Against Trump",
+    "description": "Tucker Carlson, Marjorie Taylor Greene and Ann Coulter have all slammed the president, with the latter accusing him of war crimes.",
+    "link": "https://www.newsweek.com/maga-donald-trump-iran-war-11791959",
+    "pubDate": "Tue, 07 Apr 2026 07:20:42 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-07T11:30:01.553Z"
+  },
+  {
+    "title": "Woman Claims Flight Attendant ‘Body Shamed’ Her on Plane—but There’s a Twist",
+    "description": "A passenger’s in-flight complaint raises questions without revealing full situation.",
+    "link": "https://www.newsweek.com/woman-claims-flight-attendant-body-shamed-her-on-plane-but-theres-a-twist-11788016",
+    "pubDate": "Tue, 07 Apr 2026 07:15:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-07T11:30:01.553Z"
+  },
+  {
+    "title": "White House unleashes on Stacey Abrams in latest clash over Trump’s election order",
+    "description": "Former Democratic gubernatorial candidate Stacey Abrams targeted President Donald Trump over his recent executive order on mail-in ballots, calling it 'illegal.'",
+    "link": "https://www.foxnews.com/politics/white-house-unleashes-stacey-abrams-latest-clash-over-trumps-election-order",
+    "pubDate": "Tue, 07 Apr 2026 07:22:20 -0400",
+    "source": "Fox News",
+    "categories": [
+      "e831a246-977c-5f12-a799-a6b1e77b84a0",
+      "fnc",
+      "fox news",
+      "fox-news/person/donald-trump",
+      "fox-news/politics/voting",
+      "fox-news/politics/elections",
+      "fox-news/us/us-regions/southeast/georgia",
+      "fox-news/politics",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-07T11:30:01.553Z"
+  },
+  {
+    "title": "ICE arrests illegal immigrant accused of kidnapping 4-year-old girl from laundromat",
+    "description": "An illegal alien allegedly kidnapped a 4-year-old from a New York laundromat and was released by a judge before ICE took him into custody, a report says.",
+    "link": "https://www.foxnews.com/us/ice-arrests-illegal-immigrant-accused-kidnapping-4-year-old-girl-laundromat",
+    "pubDate": "Tue, 07 Apr 2026 07:19:51 -0400",
+    "source": "Fox News",
+    "categories": [
+      "039d585f-e109-5509-8530-0c17e909a847",
+      "fnc",
+      "fox news",
+      "fox-news/us/immigration/enforcement",
+      "fox-news/us/us-regions/northeast/new-york",
+      "fox-news/us/immigration/deportation",
+      "fox-news/politics/executive/homeland-security",
+      "fox-news/us/immigration/illegal-immigrants",
+      "fox-news/us",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-04-07T11:30:01.553Z"
+  },
+  {
+    "title": "ESPN pundit rips UConn's Geno Auriemma over heated incident with Dawn Staley",
+    "description": "ESPN's Michael Wilbon ripped UConn coach Geno Auriemma, calling his behavior toward South Carolina's Dawn Staley \"petulant\" and \"classless\" on air.",
+    "link": "https://www.foxnews.com/sports/espn-pundit-rips-uconns-geno-auriemma-heated-incident-dawn-staley",
+    "pubDate": "Tue, 07 Apr 2026 07:15:59 -0400",
+    "source": "Fox News",
+    "categories": [
+      "e0261f78-646b-5260-97a2-360569abf735",
+      "fnc",
+      "fox news",
+      "fox-news/sports/ncaa/south-carolina-gamecocks",
+      "fox-news/sports",
+      "fox-news/sports/ncaa/connecticut-huskies",
+      "fox-news/sports/ncaa-bk",
+      "fox-news/sports/ncaa",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-04-07T11:30:01.553Z"
   }
 ]
