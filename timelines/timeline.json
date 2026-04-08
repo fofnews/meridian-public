@@ -1054,7 +1054,7 @@
       "id": "iran-strait-of-hormuz-crisis",
       "title": "Iran Strait of Hormuz Crisis",
       "firstSeen": "2026-03-10",
-      "lastSeen": "2026-04-07",
+      "lastSeen": "2026-04-08",
       "active": true,
       "entries": [
         {
@@ -1201,6 +1201,11 @@
           "date": "2026-04-07",
           "edition": "evening",
           "update": "President Trump set an 8 p.m. EDT Tuesday deadline for Iran to agree to a peace deal and reopen the Strait of Hormuz, threatening 'complete demolition' of Iranian power plants and bridges and posting on Truth Social that 'a whole civilization will die tonight.' The U.S. military struck targets on Iran's Kharg Island, and the US Embassy issued a warning for Americans in Iran to evacuate or shelter in place. Russia and China vetoed a UN Security Council resolution aimed at reopening the strait, despite 11 of 15 members voting in favor and the resolution having been watered down ahead of the vote. Oil prices rose substantially and U.S. stock markets fell in response to the escalating tensions, with airlines including Delta raising checked baggage fees and ticket prices due to surging jet fuel costs. Iranian officials called on citizens to form human chains around power plants and bridges targeted in U.S. threats, while Iran's UN ambassador condemned Trump's social media post as 'deeply irresponsible.' Pakistan's Prime Minister called on Trump to extend the deadline by two weeks, VP JD Vance urged Iran to negotiate a ceasefire, and over 30 congressional Democrats called for Trump's removal via the 25th Amendment."
+        },
+        {
+          "date": "2026-04-08",
+          "edition": "morning",
+          "update": "Trump announced a two-week ceasefire with Iran on Truth Social shortly before his stated deadline, conditional on Iran reopening the Strait of Hormuz. Tehran confirmed it agreed to guarantee passage through the strait for two weeks, contingent on a halt to attacks against Iran. Pakistan's Prime Minister Shehbaz Sharif played a key diplomatic intermediary role, requesting Trump extend his deadline by two weeks to allow for further diplomacy. Oil prices fell and U.S. stock futures rose following the announcement, while Israel backed the ceasefire but stated it did not extend to Lebanon, where Israeli strikes continued. Maersk expressed caution regarding Hormuz shipping, and JPMorgan had warned gas prices could hit $5 per gallon if the strait remained closed. The UK pledged to support the ceasefire and Prime Minister Starmer announced plans to visit the Middle East, while crowds in Tehran burned U.S. and Israeli flags."
         }
       ]
     },
@@ -1420,7 +1425,7 @@
       "id": "artemis-moon-mission",
       "title": "Artemis Moon Mission",
       "firstSeen": "2026-03-23",
-      "lastSeen": "2026-04-07",
+      "lastSeen": "2026-04-08",
       "active": true,
       "entries": [
         {
@@ -1537,6 +1542,11 @@
           "date": "2026-04-07",
           "edition": "evening",
           "update": "The four-person Artemis II crew completed a lunar flyby, traveling farther into space than any humans in history before beginning their return to Earth. The crew were the first humans to lay eyes on several craters on the far side of the moon and captured images including an Earthrise, an Earthset, and a solar eclipse. Commander Reid Wiseman proposed naming one of the newly observed craters after his late wife Carroll Wiseman, who died of cancer in 2020. NASA and the White House released imagery from the mission, and astronaut Christina Koch shared photos on social media; the crew also created a recreation of the 'Full House' opening credits titled 'Full Capsule.'"
+        },
+        {
+          "date": "2026-04-08",
+          "edition": "morning",
+          "update": "The Artemis II crew completed a historic loop around the moon's far side and is now heading back to Earth. The astronauts became the first humans to see parts of the moon's far side with the naked eye, and NASA released mission photos including a historic 'Earthset' image showing Earth as seen from the moon's far side."
         }
       ]
     },
@@ -1544,7 +1554,7 @@
       "id": "us-iran-military-escalation",
       "title": "US-Iran Military Escalation",
       "firstSeen": "2026-03-27",
-      "lastSeen": "2026-04-07",
+      "lastSeen": "2026-04-08",
       "active": true,
       "entries": [
         {
@@ -1601,6 +1611,11 @@
           "date": "2026-04-07",
           "edition": "evening",
           "update": "President Trump posted on Truth Social that Iran's 'whole civilization will die tonight, never to be brought back again' ahead of an 8 p.m. Tuesday deadline for Tehran to act. The White House responded to questions about potential nuclear weapon use in Iran, denying such a plan. Over 30 congressional Democrats called on the Cabinet to remove Trump from office over his threats to target civilian infrastructure, while House Minority Leader Hakeem Jeffries called on Republicans to 'stop the madness' and Sen. Richard Blumenthal warned that 'bombing alone' cannot achieve Trump's objectives. Iranian hackers also escalated targeting of U.S. critical infrastructure following the onset of the conflict."
+        },
+        {
+          "date": "2026-04-08",
+          "edition": "morning",
+          "update": "President Trump on Tuesday threatened that 'a whole civilization will die tonight' and set an 8 p.m. deadline for Iran to reach a peace deal, while also threatening to destroy Tehran's bridges and power plants. The UN Secretary-General stated he was 'deeply troubled' by the statements, and Pope Leo XIV, the first American pontiff, called Trump's threat 'truly unacceptable' outside his residence in Castel Gandolfo. Congressional Democrats, including former House Speaker Nancy Pelosi, called for Trump's removal via the 25th Amendment, while dozens of Democrats demanded he be removed from office. Some Republicans expressed unease, with Sen. Lisa Murkowski urging de-escalation and Rep. Nathaniel Moran stating he does not support destroying a 'whole civilization,' though most GOP lawmakers stayed largely silent. Rep. Jason Crow urged U.S. service members to follow the law if directed to strike Iranian civilian targets, characterizing such strikes as war crimes, an assessment echoed by a New York Times analysis. Separately, American officials reported that Iran-linked hackers were disrupting systems tied to critical U.S. infrastructure."
         }
       ]
     },
@@ -1608,7 +1623,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-04-06",
+      "lastSeen": "2026-04-08",
       "active": true,
       "entries": [
         {
@@ -1635,6 +1650,11 @@
           "date": "2026-04-06",
           "edition": "evening",
           "update": "South Korea reports North Korea is keeping Iran at arm's length and is wary in its approach to Iran; North Korea is seeking to renew diplomatic dialogue with the United States."
+        },
+        {
+          "date": "2026-04-08",
+          "edition": "morning",
+          "update": "North Korea fired ballistic missiles toward the East Sea, with South Korea's military confirming the launches amid rising tensions on the Korean Peninsula. North Korea also dismissed South Korea's hopes for improved diplomatic ties."
         }
       ]
     },
@@ -1653,5 +1673,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-04-07T21:10:30.665Z"
+  "updatedAt": "2026-04-08T11:08:09.348Z"
 }
