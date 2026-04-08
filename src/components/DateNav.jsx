@@ -11,7 +11,7 @@ export default function DateNav({ availableDates, selectedDate, onSelect }) {
     <div style={{ borderBottom: '1px solid var(--border-primary)', background: 'var(--bg-secondary)' }}>
       <div className="max-w-5xl mx-auto px-4">
         <div className="flex gap-1.5 overflow-x-auto py-2.5" style={{ scrollbarWidth: 'none' }}>
-          {availableDates.slice(0, 28).map(({ date, editions }) => {
+          {availableDates.slice(0, 7).map(({ date, editions }) => {
             const active = date === selectedDate;
             const bestEdition = editions.includes('evening') ? 'evening'
               : editions.includes('morning') ? 'morning' : 'manual';

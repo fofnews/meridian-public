@@ -135,7 +135,8 @@ export default function ArticlesView({ selectedDate }) {
   if (!data) return null;
 
   const availableCategories = CATEGORY_ORDER.filter(c => data.categories?.[c]?.length > 0);
-  const allArticles = CATEGORY_ORDER.flatMap(c => data.categories?.[c] || []);
+  const allArticles = CATEGORY_ORDER.flatMap(c => data.categories?.[c] || [])
+    .sort((a, b) => new Date(b.pubDate || b.collectedAt) - new Date(a.pubDate || a.collectedAt));
   const categoryArticles = activeCategory ? (data.categories?.[activeCategory] || []) : allArticles;
   const subcategoryDefs = SUBCATEGORIES[activeCategory];
 
