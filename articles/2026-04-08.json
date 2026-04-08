@@ -972,5 +972,44 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-08T08:30:01.206Z"
+  },
+  {
+    "title": "Watch: Iranians gather in Tehran following ceasefire announcement",
+    "description": "Pro-government demonstrators poured onto the streets of the Iranian capital after the announcement of the two-week conditional ceasefire between the US and Iran.",
+    "link": "https://www.bbc.com/news/videos/cgldg5nn9d8o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 08 Apr 2026 08:22:15 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-08T08:45:01.648Z"
+  },
+  {
+    "title": "Blanche argues Trump can influence DOJ investigations, including those involving political foes",
+    "description": "Acting Attorney General Todd Blanche said President Donald Trump has a \"right\" to influence federal investigations, including those looking into the president's political enemies.",
+    "link": "https://www.foxnews.com/politics/blanche-argues-trump-can-influence-doj-investigations-including-those-involving-political-foes",
+    "pubDate": "Wed, 08 Apr 2026 04:37:10 -0400",
+    "source": "Fox News",
+    "categories": [
+      "e86679e7-1fab-5887-9053-8acb89187135",
+      "fnc",
+      "fox news",
+      "fox-news/person/donald-trump",
+      "fox-news/politics/justice-department",
+      "fox-news/politics",
+      "fox-news/crime",
+      "fox-news/corruption",
+      "fox-news/politics/executive/law",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-08T08:45:01.648Z"
+  },
+  {
+    "title": "Trump declares Iran cease-fire deal could lead to ‘Golden Age of the Middle East,’ boasts ‘big money will be made’",
+    "description": "“A big day for World Peace!” Trump wrote on Truth Social following the two-week cease-fire announcement. “Iran wants it to happen, they’ve had enough! Likewise, so has everyone else!”",
+    "link": "https://nypost.com/2026/04/08/world-news/trump-declares-iran-cease-fire-deal-could-lead-to-golden-age-of-the-middle-east-boasts-big-money-will-be-made/",
+    "pubDate": "Wed, 08 Apr 2026 04:38:12 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-08T08:45:01.648Z"
   }
 ]
