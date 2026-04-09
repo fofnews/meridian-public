@@ -102,5 +102,34 @@
     "source": "CBS News",
     "categories": [],
     "collectedAt": "2026-04-09T04:45:01.303Z"
+  },
+  {
+    "title": "WATCH:  Growing trend of Gen Z men being drawn to Catholicism",
+    "description": "Young Catholic convert William Bogdan discusses what drew him to the Catholic faith and why he thinks more younger men are joining the church.",
+    "link": "https://abcnews.com/video/131859405/",
+    "pubDate": "Thu, 09 Apr 2026 00:54:19 -0400",
+    "source": "ABC News",
+    "categories": [
+      "lifestyle"
+    ],
+    "collectedAt": "2026-04-09T05:00:01.344Z"
+  },
+  {
+    "title": "Trump says US military will remain ‘in, and around, Iran’ until ‘real agreement’ is reached",
+    "description": "President Donald Trump said that all United States military forces currently deployed in the Persian Gulf “in, and around, Iran” due to Operation Epic Fury will remain in the area until a “real agreement” is reached between the U.S. and Iran. Trump announced the decision in a social media post on his Truth Social account […]",
+    "link": "https://www.washingtonexaminer.com/news/4521755/trump-us-military-will-remain-iran-real-agreement-reached/",
+    "pubDate": "Thu, 09 Apr 2026 04:44:58 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "world",
+      "donald trump",
+      "foreign affairs",
+      "iran",
+      "middle east",
+      "truth social",
+      "war"
+    ],
+    "collectedAt": "2026-04-09T05:00:01.344Z"
   }
 ]
