@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-04-08",
+      "lastSeen": "2026-04-09",
       "active": true,
       "entries": [
         {
@@ -161,6 +161,11 @@
           "date": "2026-04-08",
           "edition": "evening",
           "update": "Attorney General Pam Bondi did not appear for a House Oversight Committee deposition subpoenaed in connection with its investigation into the Jeffrey Epstein files. The DOJ communicated that Bondi would not appear and informed the committee that its subpoena is essentially moot, though committee members maintain the subpoena remains valid."
+        },
+        {
+          "date": "2026-04-09",
+          "edition": "morning",
+          "update": "The Department of Justice announced that Attorney General Pam Bondi would not testify before the House Oversight Committee, at least temporarily, despite having been subpoenaed as part of the committee's probe into the Jeffrey Epstein files. Separately, UK politician Peter Mandelson was reported to have attempted to obtain access to 10 Downing Street for a person described as Epstein's 'goddaughter.'"
         }
       ]
     },
@@ -168,7 +173,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-04-07",
+      "lastSeen": "2026-04-09",
       "active": true,
       "entries": [
         {
@@ -200,6 +205,11 @@
           "date": "2026-04-07",
           "edition": "evening",
           "update": "Pakistan has been mediating backchannel talks between the United States and Iran, with U.S. Vice President JD Vance involved in the mediation efforts. Iran has sought indirect engagement through the U.S. vice president."
+        },
+        {
+          "date": "2026-04-09",
+          "edition": "morning",
+          "update": "Iran's ambassador to Pakistan stated that an Iranian delegation is scheduled to arrive in Islamabad on Thursday."
         }
       ]
     },
@@ -207,7 +217,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-04-07",
+      "lastSeen": "2026-04-09",
       "active": true,
       "entries": [
         {
@@ -344,6 +354,11 @@
           "date": "2026-04-07",
           "edition": "morning",
           "update": "The Iran war has driven shortages and price spikes across multiple consumer product categories beyond oil and gas, including beer cans, helium balloons, and mortgages."
+        },
+        {
+          "date": "2026-04-09",
+          "edition": "morning",
+          "update": "Farmers warned that the Iran war and its associated costs would drive up their expenses and subsequently affect food prices, with the recently announced ceasefire not expected to immediately relieve those pressures."
         }
       ]
     },
@@ -454,7 +469,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-04-07",
+      "lastSeen": "2026-04-09",
       "active": true,
       "entries": [
         {
@@ -576,6 +591,11 @@
           "date": "2026-04-07",
           "edition": "evening",
           "update": "A synagogue in Tehran was struck during a wave of overnight U.S.-Israeli attacks, which Iran condemned as systematic targeting of civilian sites. Academic institutions were among the other sites hit, with a top Iranian university stating the attacks targeted the country's scientific progress and AI capabilities. Verified videos showed additional attacks on bridges, steel plants, and pharmaceutical facilities across Iran."
+        },
+        {
+          "date": "2026-04-09",
+          "edition": "morning",
+          "update": "Hundreds of vehicles drove through Istanbul in a convoy organized to condemn the United States and Israel."
         }
       ]
     },
@@ -583,7 +603,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-04-01",
+      "lastSeen": "2026-04-09",
       "active": true,
       "entries": [
         {
@@ -645,6 +665,11 @@
           "date": "2026-04-01",
           "edition": "morning",
           "update": "Angry scenes and rifts over the war are opening in Iran, creating tense relationships in Iranian families."
+        },
+        {
+          "date": "2026-04-09",
+          "edition": "morning",
+          "update": "Following President Trump's conditional threat to target Iran's energy infrastructure if the Strait of Hormuz was not reopened, Iranian government officials called on students, artists, and athletes to form human chains around the country's power plants beginning at 2 p.m. local time on Tuesday."
         }
       ]
     },
@@ -716,7 +741,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-04-08",
+      "lastSeen": "2026-04-09",
       "active": true,
       "entries": [
         {
@@ -883,6 +908,11 @@
           "date": "2026-04-08",
           "edition": "evening",
           "update": "Israel conducted what it described as its largest military strikes against Hezbollah in Lebanon on Wednesday, hours after the US-Iran ceasefire was announced, hitting central Beirut without warning. Trump confirmed Lebanon was not included in the ceasefire agreement, and Israel stated the deal did not apply to its operations against Hezbollah. The Lebanese health ministry reported 89 people killed and 700 wounded. Israel's Foreign Ministry sent a warning to Lebanon's prime minister and president instructing them not to interfere with Israeli operations against Hezbollah."
+        },
+        {
+          "date": "2026-04-09",
+          "edition": "morning",
+          "update": "Israel launched major military strikes on Hezbollah positions in Lebanon shortly after a US-Iran ceasefire was announced, killing at least 182 people and injuring 890, according to Lebanon's health ministry, with widespread destruction reported in Beirut. Israel stated the ceasefire agreement does not apply to its operations in Lebanon, while Iran claimed the strikes constituted a ceasefire violation, placing the fragile agreement under significant strain."
         }
       ]
     },
@@ -1074,7 +1104,7 @@
       "id": "iran-strait-of-hormuz-crisis",
       "title": "Iran Strait of Hormuz Crisis",
       "firstSeen": "2026-03-10",
-      "lastSeen": "2026-04-08",
+      "lastSeen": "2026-04-09",
       "active": true,
       "entries": [
         {
@@ -1231,6 +1261,11 @@
           "date": "2026-04-08",
           "edition": "evening",
           "update": "President Trump announced a two-week US-Iran ceasefire less than 90 minutes before an 8 p.m. Tuesday deadline, declaring it a 'total and complete victory' for the United States. Defense Secretary Pete Hegseth, alongside Joint Chiefs Chairman Dan Caine, held a Pentagon briefing declaring the military operation—named 'Operation Epic Fury'—a decisive victory, claiming Iran accepted the ceasefire 'under overwhelming pressure.' Pakistan played a key diplomatic role in brokering the deal, with Vice President JD Vance confirmed to lead the US negotiating team for follow-on talks in Islamabad; Turkish intelligence was also reported to have played a role. Stock markets rose sharply and oil prices fell following the announcement, though Iran subsequently closed the Strait of Hormuz citing Israeli strikes on Lebanon, and the ceasefire's durability remained uncertain. Iran presented a 10-point peace plan asserting its right to enrich uranium and demanding sanctions relief, while Trump insisted Iran would not be permitted to enrich uranium; Trump also announced 50% tariffs effective immediately on any country supplying military weapons to Iran. Senator Lindsey Graham described the deal as having 'troubling aspects,' Israeli opposition leader Yair Lapid called it a 'political disaster,' and Vice President Vance characterized it as a 'fragile truce' contingent on Iran negotiating in good faith."
+        },
+        {
+          "date": "2026-04-09",
+          "edition": "morning",
+          "update": "A US-Iran ceasefire was announced, sending the Dow up more than 1,000 points and causing oil prices to plunge 16% — the largest single-day drop since 2020 — as part of a deal that includes the reopening of the Strait of Hormuz. However, the ceasefire was immediately strained: no oil or gas tankers transited the Strait in the first 24 hours, traders remained wary about restricted traffic, and Goldman Sachs warned crude could reach $115 by year's end. Israel launched major strikes on Lebanon shortly after the announcement, with Iran claiming this violated the ceasefire agreement and the US and Iran disputing whether Lebanon was covered; VP JD Vance characterized the disagreement as a 'legitimate misunderstanding.' Trump announced US forces deployed under Operation Epic Fury would remain in and around Iran until a permanent agreement is reached, threatened 50% tariffs on countries supplying Iran with weapons, and lashed out at European partners and NATO for not contributing militarily — NATO chief Mark Rutte met with Trump and Rubio at the White House in what he described as a 'very frank' meeting. Iran publicly released a 10-point proposal related to negotiations, which Trump dismissed on Truth Social as a 'fake ten point plan,' attacking CNN and the New York Times for their coverage. The LNG industry was described as 'scarred' by the conflict, GOP members expressed concern about Iran-related political fallout ahead of midterms, and Financial Times commentator Robert Armstrong applied his 'TACO trade' framing — 'Trump Always Chickens Out' — to Trump's abrupt policy reversal."
         }
       ]
     },
@@ -1450,7 +1485,7 @@
       "id": "artemis-moon-mission",
       "title": "Artemis Moon Mission",
       "firstSeen": "2026-03-23",
-      "lastSeen": "2026-04-08",
+      "lastSeen": "2026-04-09",
       "active": true,
       "entries": [
         {
@@ -1577,6 +1612,11 @@
           "date": "2026-04-08",
           "edition": "evening",
           "update": "The Artemis II crew completed a lunar flyby aboard the Orion spacecraft and is now heading back to Earth, with splashdown expected Friday evening. The four astronauts captured and shared photographs of the moon, including its far side, during the mission."
+        },
+        {
+          "date": "2026-04-09",
+          "edition": "morning",
+          "update": "The Artemis II mission's four-person crew is returning to Earth for splashdown off the coast of San Diego, with flight controllers at Johnson Space Center in Houston preparing for reentry. The crew held an in-flight press conference before reentry and captured photographs and data from their lunar mission. Separately, a moon crater was named after one astronaut's wife, and the astronaut publicly reacted to the naming."
         }
       ]
     },
@@ -1658,7 +1698,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-04-08",
+      "lastSeen": "2026-04-09",
       "active": true,
       "entries": [
         {
@@ -1690,6 +1730,11 @@
           "date": "2026-04-08",
           "edition": "morning",
           "update": "North Korea fired ballistic missiles toward the East Sea, with South Korea's military confirming the launches amid rising tensions on the Korean Peninsula. North Korea also dismissed South Korea's hopes for improved diplomatic ties."
+        },
+        {
+          "date": "2026-04-09",
+          "edition": "morning",
+          "update": "North Korea conducted a weapons testing spree this week involving multiple new systems, including ballistic missiles armed with cluster-bomb warheads, as part of efforts to expand its nuclear-capable forces."
         }
       ]
     },
@@ -1713,5 +1758,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-04-08T21:09:46.018Z"
+  "updatedAt": "2026-04-09T11:07:13.360Z"
 }
