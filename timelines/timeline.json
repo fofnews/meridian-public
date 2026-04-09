@@ -166,6 +166,11 @@
           "date": "2026-04-09",
           "edition": "morning",
           "update": "The Department of Justice announced that Attorney General Pam Bondi would not testify before the House Oversight Committee, at least temporarily, despite having been subpoenaed as part of the committee's probe into the Jeffrey Epstein files. Separately, UK politician Peter Mandelson was reported to have attempted to obtain access to 10 Downing Street for a person described as Epstein's 'goddaughter.'"
+        },
+        {
+          "date": "2026-04-09",
+          "edition": "evening",
+          "update": "Melania Trump delivered a televised statement from the White House denying any connection to Jeffrey Epstein, stating 'I have never had any knowledge of Epstein's abuse of his victims,' 'I was never involved in any capacity,' 'I've never been friends with Epstein,' and 'I am not Epstein's victim.' She called on Congress to continue the investigation and hold hearings focused on Epstein's survivors, and declared that claims linking her to Epstein 'need to end today.'"
         }
       ]
     },
@@ -210,6 +215,11 @@
           "date": "2026-04-09",
           "edition": "morning",
           "update": "Iran's ambassador to Pakistan stated that an Iranian delegation is scheduled to arrive in Islamabad on Thursday."
+        },
+        {
+          "date": "2026-04-09",
+          "edition": "evening",
+          "update": "Negotiations between the U.S. and Iran are being hosted in Islamabad as both sides seek a diplomatic off-ramp to the conflict."
         }
       ]
     },
@@ -677,7 +687,7 @@
       "id": "iran-us-military-conflict",
       "title": "Iran-US Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-04-06",
+      "lastSeen": "2026-04-09",
       "active": true,
       "entries": [
         {
@@ -734,6 +744,11 @@
           "date": "2026-04-06",
           "edition": "evening",
           "update": "A second U.S. airman was reported missing following a fighter jet shoot-down in Iran last week."
+        },
+        {
+          "date": "2026-04-09",
+          "edition": "evening",
+          "update": "An Iranian attack in Kuwait killed six U.S. service members, with survivors disputing the Pentagon's official account of the incident. The attack occurred in the context of Operation Epic Fury, which began in late February; a two-week U.S.-Iran ceasefire took effect on Tuesday. Former Vice President Mike Pence also made public statements about U.S. operations against Iran."
         }
       ]
     },
@@ -913,6 +928,11 @@
           "date": "2026-04-09",
           "edition": "morning",
           "update": "Israel launched major military strikes on Hezbollah positions in Lebanon shortly after a US-Iran ceasefire was announced, killing at least 182 people and injuring 890, according to Lebanon's health ministry, with widespread destruction reported in Beirut. Israel stated the ceasefire agreement does not apply to its operations in Lebanon, while Iran claimed the strikes constituted a ceasefire violation, placing the fragile agreement under significant strain."
+        },
+        {
+          "date": "2026-04-09",
+          "edition": "evening",
+          "update": "Israel continued striking targets in Lebanon following Tuesday's U.S.-Iran ceasefire, with a dispute persisting between Israeli and White House officials on one side and Pakistani brokers and Iran on the other over whether the ceasefire covers Lebanon and Hezbollah. President Trump confirmed he asked Netanyahu to scale back the Lebanon strikes. In Gaza, Al Jazeera journalist Mohammed Wishah was killed in an Israeli strike on Wednesday, with a funeral held shortly after; separately, Israel bombed Gaza on 36 of the past 40 days, killing 107 people, permitting only 8 percent of medical evacuations, and admitting 20 percent of requested aid trucks."
         }
       ]
     },
@@ -1266,6 +1286,11 @@
           "date": "2026-04-09",
           "edition": "morning",
           "update": "A US-Iran ceasefire was announced, sending the Dow up more than 1,000 points and causing oil prices to plunge 16% — the largest single-day drop since 2020 — as part of a deal that includes the reopening of the Strait of Hormuz. However, the ceasefire was immediately strained: no oil or gas tankers transited the Strait in the first 24 hours, traders remained wary about restricted traffic, and Goldman Sachs warned crude could reach $115 by year's end. Israel launched major strikes on Lebanon shortly after the announcement, with Iran claiming this violated the ceasefire agreement and the US and Iran disputing whether Lebanon was covered; VP JD Vance characterized the disagreement as a 'legitimate misunderstanding.' Trump announced US forces deployed under Operation Epic Fury would remain in and around Iran until a permanent agreement is reached, threatened 50% tariffs on countries supplying Iran with weapons, and lashed out at European partners and NATO for not contributing militarily — NATO chief Mark Rutte met with Trump and Rubio at the White House in what he described as a 'very frank' meeting. Iran publicly released a 10-point proposal related to negotiations, which Trump dismissed on Truth Social as a 'fake ten point plan,' attacking CNN and the New York Times for their coverage. The LNG industry was described as 'scarred' by the conflict, GOP members expressed concern about Iran-related political fallout ahead of midterms, and Financial Times commentator Robert Armstrong applied his 'TACO trade' framing — 'Trump Always Chickens Out' — to Trump's abrupt policy reversal."
+        },
+        {
+          "date": "2026-04-09",
+          "edition": "evening",
+          "update": "A two-week U.S.-Iran ceasefire took effect on Tuesday, brokered by Pakistani officials, though the Strait of Hormuz remained effectively closed with only a handful of ships transiting since the announcement, and Iran announced plans to tax oil-carrying vessels at a rate equivalent to $1 per barrel in cryptocurrency. Israel struck over 100 Hezbollah targets in Lebanon in the hours following the ceasefire, killing hundreds, prompting Iran to warn of repercussions and dispute the White House and Israel's position that Lebanon was not covered by the agreement. President Trump posted late Wednesday threatening 'bigger, and better' military strikes against Iran if a deal is not reached or complied with, while also telling Netanyahu to scale back the Lebanon strikes; Trump told NBC News on Thursday he was 'very optimistic' about a permanent peace deal. Vice President JD Vance is set to lead a U.S. delegation in talks this weekend, while U.S. troops remain deployed in the region pending Iranian compliance. Markets reflected ongoing uncertainty — oil prices rebounded Thursday before trimming gains, European and African crude hit record levels, the national average gas price reached $4.17 per gallon, and Federal Reserve officials said the conflict raised the odds of a rate cut. House Republicans blocked a Democratic resolution to limit Trump's Iran war powers during a pro forma session, and NATO Secretary-General Mark Rutte publicly acknowledged that allies were slow to support the U.S., while discussing potential NATO involvement around the Strait of Hormuz."
         }
       ]
     },
@@ -1617,6 +1642,11 @@
           "date": "2026-04-09",
           "edition": "morning",
           "update": "The Artemis II mission's four-person crew is returning to Earth for splashdown off the coast of San Diego, with flight controllers at Johnson Space Center in Houston preparing for reentry. The crew held an in-flight press conference before reentry and captured photographs and data from their lunar mission. Separately, a moon crater was named after one astronaut's wife, and the astronaut publicly reacted to the naming."
+        },
+        {
+          "date": "2026-04-09",
+          "edition": "evening",
+          "update": "NASA's Artemis II crew completed a historic trip to and around the Moon and is scheduled to splashdown off the Southern California coast on Friday. During the mission, astronauts photographed a large lunar crater formation resembling a smiling face, conducted workouts using a compact flywheel device, and participated in a small-scale medical experiment described as having potential to reshape medicine."
         }
       ]
     },
@@ -1758,5 +1788,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-04-09T11:07:13.360Z"
+  "updatedAt": "2026-04-09T21:10:07.886Z"
 }
