@@ -1071,5 +1071,65 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-09T09:15:01.221Z"
+  },
+  {
+    "title": "He's Australia's most decorated soldier. Now he's at the centre of a historic war crimes case",
+    "description": "Ben Roberts-Smith's case is not only unprecedented for Australia but \"extraordinary\" for the globe too, scholars say.",
+    "link": "https://www.bbc.com/news/articles/czjwp1vjn9lo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 09 Apr 2026 08:23:11 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-09T09:30:01.304Z"
+  },
+  {
+    "title": "Trump warns strikes will resume if Iran doesn't agree to his peace terms",
+    "description": "President Trump said that any peace deal would not allow nuclear enrichment in Iran, and would need to keep the Strait of Hormuz open, as conflicting messages surface over the terms of the ceasefire.",
+    "link": "https://www.npr.org/2026/04/09/nx-s1-5779000/iran-war-updates",
+    "pubDate": "Thu, 09 Apr 2026 05:20:19 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-04-09T09:30:01.304Z"
+  },
+  {
+    "title": "Diddy back in court to appeal criminal conviction",
+    "description": "The hip-hop mogul is set to appear in a federal appeals court on Thursday to challenge his lengthy prison sentence.",
+    "link": "https://abcnews.com/US/federal-appeals-court-hears-arguments-overturning-sean-diddy/story?id=131858859",
+    "pubDate": "Thu, 09 Apr 2026 05:05:51 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-04-09T09:30:01.304Z"
+  },
+  {
+    "title": "NATO Fighter Jets Intercept Russian Spy Plane",
+    "description": "Poland scrambled fighter jets to intercept a Russian spy plane conducting a reconnaissance mission over the Baltic Sea.",
+    "link": "https://www.newsweek.com/nato-fighter-jets-intercept-russian-spy-plane-poland-11803827",
+    "pubDate": "Thu, 09 Apr 2026 05:27:46 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-09T09:30:01.304Z"
+  },
+  {
+    "title": "Ukraine’s veterans’ theatre turns war wounds into catharsis",
+    "description": "Wounded soldiers, wives and widows workshop ideas and stage plays in Kyiv, bringing the audience to tears.",
+    "link": "https://www.aljazeera.com/news/2026/4/9/ukraines-veterans-theatre-turns-war-wounds-into-catharsis?traffic_source=rss",
+    "pubDate": "Thu, 09 Apr 2026 08:57:27 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-09T09:30:01.304Z"
+  },
+  {
+    "title": "Record animal sacrifice attempts at Al-Aqsa prompt status quo fears",
+    "description": "Record attempts by Israeli settlers to smuggle sacrifices into Al-Aqsa Mosque mark unprecedented escalation since 1967.",
+    "link": "https://www.aljazeera.com/features/2026/4/9/record-animal-sacrifice-attempts-at-al-aqsa-spark-status-quo-fears?traffic_source=rss",
+    "pubDate": "Thu, 09 Apr 2026 08:53:59 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-09T09:30:01.304Z"
   }
 ]
