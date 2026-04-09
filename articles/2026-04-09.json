@@ -495,5 +495,42 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-09T07:00:01.320Z"
+  },
+  {
+    "title": "Michigan woman arrested for allegedly starving, torturing disabled sister-in-law she locked in basement",
+    "description": "A Michigan woman was arrested after she allegedly kept her disabled sister-in-law locked in a basement for two years and nearly starved her to death.",
+    "link": "https://www.foxnews.com/us/michigan-woman-arrested-allegedly-starving-torturing-disabled-sister-in-law-she-locked-basement",
+    "pubDate": "Thu, 09 Apr 2026 02:51:55 -0400",
+    "source": "Fox News",
+    "categories": [
+      "2913f7b7-e4bc-5a1d-938d-587da0d91a4f",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/midwest/michigan",
+      "fox-news/us",
+      "fox-news/crime",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-04-09T07:15:01.326Z"
+  },
+  {
+    "title": "Wisconsin couple allegedly starved six children for years, forcing them to eat mold, bugs and dog food",
+    "description": "The children described abusive living conditions and were allegedly prevented from eating for several days, driving them to eat mold, bugs, dog food and grass.",
+    "link": "https://nypost.com/2026/04/09/us-news/wisconsin-couple-casey-cano-and-mary-cano-allegedly-forced-six-children-to-eat-mold-bugs-and-dog-food/",
+    "pubDate": "Thu, 09 Apr 2026 03:06:40 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-09T07:15:01.326Z"
+  },
+  {
+    "title": "Dear Abby: I can no longer spend time with my spoiled and wealthy sister",
+    "description": "Dear Abby advises a woman who no longer wants to spend time with her spoiled and wealthy half-sister.",
+    "link": "https://nypost.com/2026/04/09/lifestyle/dear-abby-i-can-no-longer-spend-time-with-my-spoiled-and-wealthy-sister/",
+    "pubDate": "Thu, 09 Apr 2026 03:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-09T07:15:01.326Z"
   }
 ]
