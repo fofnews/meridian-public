@@ -122,5 +122,35 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-10T05:00:01.571Z"
+  },
+  {
+    "title": "Cuban president tells NBC News he’s not stepping down",
+    "description": "Cuban president tells NBC News he’s not stepping down",
+    "link": "https://www.nbcnews.com/video/shorts/cuban-president-tells-nbc-news-he-s-not-stepping-down-261077061651",
+    "pubDate": "Fri, 10 Apr 2026 04:38:34 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-04-10T05:15:01.217Z"
+  },
+  {
+    "title": "Pakistani national pleads guilty to planning mass shooting at NYC Jewish center to support ISIS",
+    "description": "A Pakistani national known as “Shahzeb Jadoon” pleaded guilty to planning a mass shooting at a Jewish center in Brooklyn, New York. The terrorist act was originally planned for Oct. 7, 2024, but was foiled when he was arrested in Canada on Sept. 4, 2024, ahead of trying to enter the United States. His goal […]",
+    "link": "https://www.washingtonexaminer.com/news/4523847/pakistani-national-pleads-guilty-planning-mass-shooting-nyc-jewish-center/",
+    "pubDate": "Fri, 10 Apr 2026 05:04:37 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "crime",
+      "news",
+      "canada",
+      "department of justice",
+      "isis",
+      "islamic terrorism",
+      "justice",
+      "new york",
+      "new york city",
+      "pakistan",
+      "terrorism"
+    ],
+    "collectedAt": "2026-04-10T05:15:01.217Z"
   }
 ]
