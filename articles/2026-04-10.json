@@ -728,5 +728,52 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-10T08:30:01.211Z"
+  },
+  {
+    "title": "Djibouti votes as long-time leader seeks sixth presidential term",
+    "description": "Politicians scrapped the presidential age limit last year, allowing Ismail Omar Guelleh to run yet again.",
+    "link": "https://www.aljazeera.com/news/2026/4/10/djibouti-votes-as-long-time-leader-seeks-sixth-presidential-term?traffic_source=rss",
+    "pubDate": "Fri, 10 Apr 2026 08:30:59 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-10T08:45:01.224Z"
+  },
+  {
+    "title": "London clubbers' waning thirst for alcohol forces nightlife industry to get more creative - Reuters",
+    "description": "London clubbers' waning thirst for alcohol forces nightlife industry to get more creative  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLVc2eVRTRGZLdm1fZXNwdjZtbUhDZUxDZ09xSVhQR0xOQlpHdUtsZkpnQ251ZWw3MjAycEhVU3RmOXR5TUFsRTYzNWw5UnU5X0c1cXZUSkxDb0NKTGxUQS1sV0RTZGhIMFVEUktBdnBHX2U5bFczT21CMnpHZ3RrUDlXbndpd29DNElyWUkwWGRmT2duM0k4WklZblM5ZDlkWnZFUUZuUU02YzBJN2lSNGs4OG56VmVQ?oc=5",
+    "pubDate": "Fri, 10 Apr 2026 06:08:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-04-10T08:45:01.224Z"
+  },
+  {
+    "title": "USPS is set to suspend pension contributions, seeks 4-cent stamp price hike",
+    "description": "USPS filed notice Friday with regulators, who still need to approve the changes.",
+    "link": "https://nypost.com/2026/04/10/us-news/usps-set-to-suspend-pension-contributions-seeks-4-cent-stamp-price-hike/",
+    "pubDate": "Fri, 10 Apr 2026 04:36:35 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-10T08:45:01.224Z"
+  },
+  {
+    "title": "Putin issues a decree calling for a ceasefire in fighting for Orthodox Easter holiday",
+    "description": "Russia and Ukraine have agreed to a temporary ceasefire to observe Orthodox Easter on April 12. Russian President Vladimir Putin agreed to a halt in fighting after Ukrainian President Volodymyr Zelensky called for a temporary truce to allow citizens to participate in the holiday. Putin issued a decree on Thursday recognizing the ceasefire, which is […]",
+    "link": "https://www.washingtonexaminer.com/news/4523867/putin-decree-ceasefire-orthodox-easter-holiday/",
+    "pubDate": "Fri, 10 Apr 2026 08:30:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "world",
+      "easter",
+      "russia",
+      "russia-ukraine war",
+      "ukraine",
+      "vladimir putin",
+      "volodymyr zelensky"
+    ],
+    "collectedAt": "2026-04-10T08:45:01.224Z"
   }
 ]
