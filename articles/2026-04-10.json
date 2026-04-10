@@ -3532,5 +3532,305 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-10T13:00:04.514Z"
+  },
+  {
+    "title": "Inflation surges to highest level in nearly two years as energy costs spike",
+    "description": "Consumer prices in March were up 3.3% from a year ago, the biggest annual increase in nearly two years.  Higher gasoline prices tied to the war with Iran accounted for much of the surge.",
+    "link": "https://www.npr.org/2026/04/10/nx-s1-5780604/inflation-consumer-prices-economy",
+    "pubDate": "Fri, 10 Apr 2026 09:07:21 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-04-10T13:15:02.403Z"
+  },
+  {
+    "title": "Facebook, WhatsApp should remove accounts that defraud users, Manhattan DA says",
+    "description": "Facebook and WhatsApp are failing to remove imposter accounts that \"have led to tens of thousands of dollars of fraudulent transfers,\" says Manhattan DA Alvin Bragg.",
+    "link": "https://abcnews.com/US/facebook-whatsapp-remove-accounts-defraud-users-manhattan-da/story?id=131889369",
+    "pubDate": "Fri, 10 Apr 2026 06:46:46 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-04-10T13:15:02.403Z"
+  },
+  {
+    "title": "Sean \"Diddy\" Combs' lawyers appeal his conviction and sentence",
+    "description": "Lawyers for Sean \"Diddy\" Combs appealed his case on Thursday, arguing the media mogul's sentence was too harsh and that a judge sentenced their client by considering the more serious charges he was not convicted of. Last summer, Combs was cleared of sex trafficking and racketeering charges, but convicted of lesser prostitution-related offenses. He had pleaded not guilty.",
+    "link": "https://www.cbsnews.com/video/sean-diddy-combs-lawyers-appeal-his-conviction-and-sentence/",
+    "pubDate": "Fri, 10 Apr 2026 08:57:08 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-04-10T13:15:02.403Z"
+  },
+  {
+    "title": "Melania Trump denies ties to Jeffrey Epstein and urges Congress to have hearing for survivors",
+    "description": "First lady Melania Trump pushed back on what she called \"fake images and statements\" appearing to connect her to convicted sex offender Jeffrey Epstein. The first lady also said survivors should have the opportunity to testify and tell their stories before Congress.",
+    "link": "https://www.cbsnews.com/video/melania-trump-denies-ties-to-jeffrey-epstein-and-urges-congress-to-have-hearing-for-survivors/",
+    "pubDate": "Fri, 10 Apr 2026 08:52:32 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-04-10T13:15:02.403Z"
+  },
+  {
+    "title": "Owners Never Leave Golden Retriever With Friends, Hysterics at Reason Why",
+    "description": "\"This reel was just poking fun at how chaotic he can be sometimes,\" Leo's owner, Callie from Australia, told Newsweek.",
+    "link": "https://www.newsweek.com/owners-never-leave-golden-retriever-friends-hysterics-11810969",
+    "pubDate": "Fri, 10 Apr 2026 09:05:24 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-10T13:15:02.403Z"
+  },
+  {
+    "title": "Jaguars Make Key Decision on Travis Hunter’s NFL Future",
+    "description": "The Jacksonville Jaguars have decided they want former No. 2 overall pick Travis Hunter to commit fully to one position.",
+    "link": "https://www.newsweek.com/sports/nfl/jaguars-make-key-decision-on-travis-hunters-nfl-future-11808933",
+    "pubDate": "Fri, 10 Apr 2026 09:05:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-10T13:15:02.403Z"
+  },
+  {
+    "title": "Shock at Why Woman Gets Confronted By TSA in Airport Bathroom: 'Reeling'",
+    "description": "A routine pre-flight habit triggers an unexpected security encounter, raising questions about airport vigilance.",
+    "link": "https://www.newsweek.com/shock-at-why-woman-gets-confronted-by-tsa-in-airport-bathroom-reeling-11806825",
+    "pubDate": "Fri, 10 Apr 2026 09:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-10T13:15:02.403Z"
+  },
+  {
+    "title": "US consumer prices surge as expected in March - Reuters",
+    "description": "US consumer prices surge as expected in March  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUVJXdXllX3h1YlM4N3lDNE9XMWJWQW81TFZfem9qTHhoYjFDeVBrRGdRWVpXRGs2dUpKcFZFN0FESUhZUjhkMm5WS0dTUlRhM3dZQVJkMkhjbVdBYmxPVXJ0djg3UnhUTWNrcjhRYk1rZ1BlMVMxVnVmVlB5ZzAzU05pRl9nbmlteWY5TGhkazMyZTIwaHBGMQ?oc=5",
+    "pubDate": "Fri, 10 Apr 2026 12:39:21 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-04-10T13:15:02.403Z"
+  },
+  {
+    "title": "Apple leads smartphone market even as overall shipments decline, Counterpoint says - Reuters",
+    "description": "Apple leads smartphone market even as overall shipments decline, Counterpoint says  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYXVPQzRSV1laSUtkWTBVMnY3MF9YUWRvdjFwVXFTNGdzOG15ZTFDemxlUUF6b2Rwcnk4ZVVpSmpUYWNHd2ZoS1RnM0RvY0hMM0s4RldhUTJ2d1JEbVg1aXJmQm1Yamt6dWNRWGRDdGRlRTFYM1U3MVlud3ZCUkNNRmpJWmg1eVpXLWZBU1lQdlJTQ01zZGZScVhmN3NVVkVVcUFwMGdZVTdwajI2S0x0Tll2R0FhSVU4NHNqaXA0TlFHRjZQcy03XzlB?oc=5",
+    "pubDate": "Fri, 10 Apr 2026 10:05:51 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-04-10T13:15:02.403Z"
+  },
+  {
+    "title": "Big Tech puts financial heft behind next-gen nuclear power as AI demand surges - Reuters",
+    "description": "Big Tech puts financial heft behind next-gen nuclear power as AI demand surges  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM1ViS08xWUx1QnVId1ZLTVpoeXVKVjN2cHNoSnZVeW1vVTZ1YzRNU25nUEEwUmplakt3TlRWYlJhcmdWc1VLM0RzVlpFcFZtVHVSclVFTms3eFA2U1dqa1d1ai1LNXdMU0hVd3dfNGxrNmNwTVJSaUViNGtlN19zV1pwUHB6UWdaY3lHNkJ2RmJnZnhMX1dTcXF3SUVseGgzM1NGS3lkQTFqZHNETXI5eGpkUzlJOGpQbHlxTU5hdzdMSWItRUVB?oc=5",
+    "pubDate": "Fri, 10 Apr 2026 10:38:38 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-04-10T13:15:02.403Z"
+  },
+  {
+    "title": "Israel and Lebanon are expected to hold talks. What do we know? - Reuters",
+    "description": "Israel and Lebanon are expected to hold talks. What do we know?  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdFBkUHVKTzdjbTRMckVOSEhKYzRXamFDZ19HT1E1SmR4RnFWMTZGNjlrNG10TklkMWdQeHg0RllxbXdiZmhfc2ozOTJwblpOeElwNUYxc3JBU2JEMkNzYmVkcnpLNjJtWHptaUJ2anlOaE5GLTVBX0pjQWhOS1V6SWVMaUNOTzg3VV90ZFBJLTZpY1N0SmlHaUk2NklmeV9QTHJ4QS1rSEV0RThG?oc=5",
+    "pubDate": "Fri, 10 Apr 2026 13:07:11 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-04-10T13:15:02.403Z"
+  },
+  {
+    "title": "Mali backs Morocco's autonomy plan for Western Sahara - Reuters",
+    "description": "Mali backs Morocco's autonomy plan for Western Sahara  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcHUwVFUzYXJKOUFuMjlERWw2UWtGVTJFcGtZdkNZb0xSQkZ4dVp0Z21PenR1b2VHSUo1NmduTXJGcG1BXzBCTVB4Ym85ZVRZTGw4MUJtU3pXUHBVYXRuVVBuX0dWbGJpa1JQc2trYWxyT3R1V1NnaGVaQ0NyTUxVLUFwU0FCZE44bXR0Tk9nLXhpVm43Zmk5R1hQWEpPSUUwMXk5Y01zZGN6UEpkWGhvQ1FBampqNldsaW1UMUUyM1EwZw?oc=5",
+    "pubDate": "Fri, 10 Apr 2026 12:18:01 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-04-10T13:15:02.403Z"
+  },
+  {
+    "title": "Alex Jones, Candace Owens push back on Trump criticism",
+    "description": "Alex Jones and Candace Owens, two right-wing media figures who have been critical of President Trump’s military campaign in the Middle East, hit back at the president after he attacked them in a scathing social media post on Thursday. “He’s been a chronic disappointment and I feel embarrassed I told people to go vote for…",
+    "link": "https://thehill.com/homenews/media/5825328-trump-candace-owens-alex-jones-middle-east/",
+    "pubDate": "Fri, 10 Apr 2026 13:07:23 +0000",
+    "source": "The Hill",
+    "categories": [
+      "media"
+    ],
+    "collectedAt": "2026-04-10T13:15:02.403Z"
+  },
+  {
+    "title": "Live updates: Vance heads to peace talks; inflation surges as Iran war spiked energy prices",
+    "description": "Vice President Vance heads to Pakistan today, where he faces his biggest challenge yet, as he leads U.S. negotiations with Iran amid the fragile ceasefire. President Trump’s special envoy Steve Witkoff and son-in-law Jared Kushner will also be part of the talks. As the war hits its sixth week, inflation prices for March surged to…",
+    "link": "https://thehill.com/homenews/administration/5824101-live-updates-trump-vance-iran-ceasefire/",
+    "pubDate": "Fri, 10 Apr 2026 13:04:50 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "news"
+    ],
+    "collectedAt": "2026-04-10T13:15:02.403Z"
+  },
+  {
+    "title": "Geraldo Rivera: Automatic registration for draft ‘a good idea’",
+    "description": "Television personality Geraldo Rivera on Thursday said the automatic registration of eligible men into the military draft pool as “a good idea.” A proposal to automatically register most men between the ages of 18 and 25 for the Selective Service System (SSS) was submitted to the Office of Information and Regulatory Affairs on March 30…",
+    "link": "https://thehill.com/policy/defense/5825263-geraldo-rivera-automatic-registration-for-draft-a-good-idea/",
+    "pubDate": "Fri, 10 Apr 2026 13:00:45 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "defense",
+      "news",
+      "policy",
+      "carter administration",
+      "defense department",
+      "military draft",
+      "newsnation",
+      "selective service system",
+      "trump administration",
+      "u.s. military",
+      "vietnam war",
+      "white house"
+    ],
+    "collectedAt": "2026-04-10T13:15:02.403Z"
+  },
+  {
+    "title": "Coleman Hughes: What Ibram X. Kendi Doesn’t Admit - The Free Press",
+    "description": "Coleman Hughes: What Ibram X. Kendi Doesn’t Admit  The Free Press",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvREhsMzVmcXY5UjdQcVRyMHpiRlhSZElSel9JZ0hYR1VXQjBwSVJ2T2V4YXVSSk50WWIxc2U4SEJXTDI1U182MzJwWkxfamxuQm0zTk9kYWJoUXM2S3l1VUMwZGtXdw?oc=5",
+    "pubDate": "Fri, 10 Apr 2026 11:54:41 GMT",
+    "source": "The Free Press",
+    "categories": [],
+    "collectedAt": "2026-04-10T13:15:02.403Z"
+  },
+  {
+    "title": "Ivanka Trump recalls the moment her father was shot in Butler, Pennsylvania",
+    "description": "Ivanka Trump describes the assassination attempt on her father as incredibly difficult but says she chooses gratitude because he survived that day.",
+    "link": "https://www.foxnews.com/media/ivanka-trump-recalls-moment-her-father-shot-butler-pennsylvania",
+    "pubDate": "Fri, 10 Apr 2026 09:00:52 -0400",
+    "source": "Fox News",
+    "categories": [
+      "97c1ad94-4acc-5ead-b1af-e5cbb0a3a3f8",
+      "fnc",
+      "fox news",
+      "fox-news/media",
+      "fox-news/culture-trends",
+      "fox-news/person/donald-trump",
+      "fox-news/media",
+      "article"
+    ],
+    "collectedAt": "2026-04-10T13:15:02.403Z"
+  },
+  {
+    "title": "Nation’s second-largest school district targeted by Trump over secretive trans policy",
+    "description": "The Los Angeles Unified School District faces a DOJ investigation over a policy that allegedly lets staff withhold students' gender identity from parents.",
+    "link": "https://www.foxnews.com/politics/nations-second-largest-school-district-targeted-trump-over-secretive-trans-policy",
+    "pubDate": "Fri, 10 Apr 2026 08:58:01 -0400",
+    "source": "Fox News",
+    "categories": [
+      "edc77be6-8b28-5a91-9a09-895f13c5b958",
+      "fnc",
+      "fox news",
+      "fox-news/us/los-angeles",
+      "fox-news/us/education/parents",
+      "fox-news/us/education/high-school",
+      "fox-news/controversies",
+      "fox-news/politics/justice-department",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-10T13:15:02.403Z"
+  },
+  {
+    "title": "Barron Trump preps for launch of Yerba Mate beverage company in May",
+    "description": "First son Barron Trump is serving as director of a new beverage company incorporated in Florida last December, according to state corporation filings.",
+    "link": "https://nypost.com/2026/04/10/us-news/barron-trump-preps-for-launch-of-yerba-mate-beverage-company-in-may/",
+    "pubDate": "Fri, 10 Apr 2026 09:13:47 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-10T13:15:02.403Z"
+  },
+  {
+    "title": "Popular budget airline is letting passengers check a case of wine — for free",
+    "description": "Your checked bag may cost you, but your wine will fly for free.",
+    "link": "https://nypost.com/2026/04/10/lifestyle/southwest-invites-passengers-to-check-free-case-of-wine/",
+    "pubDate": "Fri, 10 Apr 2026 09:13:09 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-10T13:15:02.403Z"
+  },
+  {
+    "title": "Angry, yelling passenger slaps a flight attendant on a packed plane",
+    "description": "Slappy landings?",
+    "link": "https://nypost.com/2026/04/10/lifestyle/elderly-passenger-slaps-flight-attendant-in-shocking-footage/",
+    "pubDate": "Fri, 10 Apr 2026 09:09:24 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-10T13:15:02.403Z"
+  },
+  {
+    "title": "Pacers fans’ angry exchange caught on broadcast —girlfriend reveals the fallout",
+    "description": "The Pacers and Nets are so bad that even the fans aren’t having fun at their games. During Thursday night’s 123-94 Pacers victory at the Barclays Center, just their second win in their last 25 games, a young couple was seen having what appeared to be a tumultuous conversation in the arena — and it is...",
+    "link": "https://nypost.com/2026/04/10/sports/pacers-fans-angry-exchange-caught-on-broadcast-girlfriend-reveals-the-fallout/",
+    "pubDate": "Fri, 10 Apr 2026 09:06:13 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-10T13:15:02.403Z"
+  },
+  {
+    "title": "NYC housing agency blatantly broke its own rules by repeatedly failing to fix city-owned apartment: ‘So twisted’",
+    "description": "“I’m at my boiling point. They drained me dry. It's really taking a toll on me.”",
+    "link": "https://nypost.com/2026/04/10/us-news/nyc-housing-agency-blatantly-broke-its-own-rules-judge/",
+    "pubDate": "Fri, 10 Apr 2026 09:03:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-10T13:15:02.403Z"
+  },
+  {
+    "title": "Far-left plot to seize control of the LAPD — as cops warn they will destroy the city",
+    "description": "Far-left Los Angeles policymakers are quietly plotting a hostile takeover of the LAPD that would give them complete power over the way the city is policed, the California Post can reveal.",
+    "link": "https://nypost.com/2026/04/10/us-news/far-left-plot-to-seize-control-of-the-lapd-as-cops-warn-they-will-destroy-the-city/",
+    "pubDate": "Fri, 10 Apr 2026 09:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-10T13:15:02.403Z"
+  },
+  {
+    "title": "Frankie Muniz details his ‘surreal’ return to Hollywood for ‘Malcolm in the Middle’ revival",
+    "description": "Muniz told Page Six that he feels like moving away from Hollywood “gave me more appreciation for life in general.\"",
+    "link": "https://pagesix.com/2026/04/10/entertainment/frankie-muniz-details-his-surreal-return-to-hollywood-for-malcolm-in-the-middle-revival/",
+    "pubDate": "Fri, 10 Apr 2026 09:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-10T13:15:02.403Z"
+  },
+  {
+    "title": "Frankie Muniz details his ‘surreal’ return to Hollywood for ‘Malcolm in the Middle’ revival",
+    "description": "Muniz told Page Six that he feels like moving away from Hollywood “gave me more appreciation for life in general.\"",
+    "link": "https://pagesix.com/2026/04/10/entertainment/frankie-muniz-details-his-surreal-return-to-hollywood-for-malcolm-in-the-middle-revival/",
+    "pubDate": "Fri, 10 Apr 2026 09:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-10T13:15:02.403Z"
+  },
+  {
+    "title": "‘Jury Duty’s Anthony Norman Reflects On ‘Company Retreat,’ Moments He Wishes Made The Final Cut, And Red Flags He Should Have Seen",
+    "description": "Jury Duty's newest National Treasure looks back on his one-of-a-kind experience.",
+    "link": "https://decider.com/2026/04/10/jury-duty-company-retreat-anthony-norman-interview/",
+    "pubDate": "Fri, 10 Apr 2026 09:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-10T13:15:02.403Z"
+  },
+  {
+    "title": "May Social Security direct payment worth $994 goes out in 21 days",
+    "description": "The May 2026 Supplemental Security Income payments, worth up to $994, will be issued to recipients in 21 days. SSI payments are typically issued to beneficiaries on the first day of each month. Beneficiaries are people with limited income who are either blind, aged 65 or older, or have a qualifying disability. The amount beneficiaries […]",
+    "link": "https://www.washingtonexaminer.com/news/4518543/may-social-security-direct-payment-worth-994-goes-out-21-days/",
+    "pubDate": "Fri, 10 Apr 2026 13:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "finance",
+      "money",
+      "retirement",
+      "social security",
+      "supplemental security income"
+    ],
+    "collectedAt": "2026-04-10T13:15:02.403Z"
   }
 ]
