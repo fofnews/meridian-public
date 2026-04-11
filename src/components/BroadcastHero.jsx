@@ -434,7 +434,7 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
 
   const containerStyle = expanded
     ? { position: 'fixed', inset: 0, zIndex: 50, width: '100vw', height: '100vh' }
-    : { aspectRatio: '16/9', maxHeight: '75vh', minHeight: 280, zIndex: 20 };
+    : { height: 'clamp(220px, 45vh, 560px)', zIndex: 20 };
 
   // Button bottom offsets: clear chyron overlay when expanded, sit near edge otherwise
   const locBottom  = expanded ? 'calc(var(--chyron-h) + 4px)'  : '8px';

@@ -37,9 +37,9 @@ export default function AnalysisView({ analysis }) {
               : <ChevronDown className="w-4 h-4" style={{ color: 'var(--section-agree-accent)' }} />}
           </button>
           {open.agreements && (
-            <ul className="p-3 space-y-2">
+            <ul className="px-4 py-3 space-y-2">
               {analysis.agreements.map((point, i) => (
-                <li key={i} className="rounded-lg px-4 py-3 text-sm" style={{ background: 'var(--bg-agree)', border: '1px solid var(--border-agree)', color: 'var(--section-agree-text)' }}>
+                <li key={i} className="text-sm py-1.5 leading-relaxed" style={{ color: 'var(--section-agree-text)', borderBottom: i < analysis.agreements.length - 1 ? '1px solid var(--border-agree)' : 'none', paddingBottom: i < analysis.agreements.length - 1 ? '10px' : undefined }}>
                   {point}
                 </li>
               ))}
@@ -66,11 +66,11 @@ export default function AnalysisView({ analysis }) {
               : <ChevronDown className="w-4 h-4" style={{ color: 'var(--section-unique-accent)' }} />}
           </button>
           {open.uniqueAngles && (
-            <div className="p-3 space-y-2">
+            <div className="px-4 py-3 space-y-3">
               {analysis.uniqueAngles.map((u, i) => (
-                <div key={i} className="rounded-lg px-4 py-3 flex items-start gap-3" style={{ background: 'var(--bg-unique)', border: '1px solid var(--border-unique)' }}>
+                <div key={i} className="flex items-start gap-3" style={{ borderBottom: i < analysis.uniqueAngles.length - 1 ? '1px solid var(--border-unique)' : 'none', paddingBottom: i < analysis.uniqueAngles.length - 1 ? '12px' : undefined }}>
                   <SourceBadge source={u.source} />
-                  <p className="text-sm flex-1" style={{ color: 'var(--section-unique-title)' }}>{u.angle}</p>
+                  <p className="text-sm flex-1 leading-relaxed" style={{ color: 'var(--section-unique-title)' }}>{u.angle}</p>
                 </div>
               ))}
             </div>
@@ -143,9 +143,9 @@ export default function AnalysisView({ analysis }) {
               : <ChevronDown className="w-4 h-4" style={{ color: 'var(--section-facts-accent)' }} />}
           </button>
           {open.facts && (
-            <ul className="p-3 space-y-2">
+            <ul className="px-4 py-3 space-y-2">
               {analysis.facts.map((fact, i) => (
-                <li key={i} className="rounded-lg px-4 py-3 text-sm" style={{ background: 'var(--bg-facts)', border: '1px solid var(--border-facts)', color: 'var(--text-secondary)' }}>
+                <li key={i} className="text-sm py-1.5 leading-relaxed" style={{ color: 'var(--text-secondary)', borderBottom: i < analysis.facts.length - 1 ? '1px solid var(--border-facts)' : 'none', paddingBottom: i < analysis.facts.length - 1 ? '10px' : undefined }}>
                   {fact}
                 </li>
               ))}

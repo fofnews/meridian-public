@@ -201,17 +201,18 @@ input::placeholder {
   }
 }
 
-/* Phone landscape: prevent hero from consuming full screen height */
-@media (orientation: landscape) and (max-width: 767px) {
+/* Landscape on short-viewport screens: further reduce map height so
+   content is visible. The base clamp(220px, 45vh, 560px) already helps,
+   but on very short screens (phones in landscape, ≤500px tall) we push
+   it down further to leave room for the chyron + nav + stories. */
+@media (orientation: landscape) and (max-height: 500px) {
   .hero-aspect-container {
-    aspect-ratio: auto !important;
-    height: 56vw !important;
-    max-height: 100vh !important;
-    min-height: 180px !important;
+    height: 38vh !important;
+    min-height: 140px !important;
   }
 }
 
-/* Story selector: right-column on desktop, hidden on mobile */
+/* Story selector: right-column on desktop, hidden on small screens */
 .story-selector {
   top: 50%;
   right: 3%;
@@ -225,6 +226,11 @@ input::placeholder {
     display: none;
   }
 }
+@media (orientation: landscape) and (max-height: 500px) {
+  .story-selector {
+    display: none;
+  }
+}
 
 /* Story selector buttons */
 .story-selector-btn {
@@ -234,6 +240,11 @@ input::placeholder {
 
 /* Hide clock in top bar on small screens */
 @media (max-width: 639px) {
+  .hero-clock {
+    display: none;
+  }
+}
+@media (orientation: landscape) and (max-height: 500px) {
   .hero-clock {
     display: none;
   }

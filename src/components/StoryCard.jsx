@@ -71,6 +71,7 @@ export default function StoryCard({ story, brief = false, expanded, onToggle }) 
         background: 'var(--bg-secondary)',
         border: '1px solid var(--border-primary)',
         borderLeft: '3px solid var(--accent)',
+        boxShadow: '-2px 0 12px rgba(232,197,71,0.12)',
       }}
     >
       <button

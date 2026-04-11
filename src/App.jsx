@@ -112,19 +112,21 @@ export default function App() {
       />
 
       {/* View tabs */}
-      <div style={{ borderBottom: '1px solid var(--border-primary)' }}>
-        <div className="max-w-5xl mx-auto px-4 flex gap-6 overflow-x-auto" style={{ scrollbarWidth: 'none' }}>
+      <div style={{ borderBottom: '1px solid var(--border-primary)', background: 'var(--bg-tabbar)' }}>
+        <div className="max-w-5xl mx-auto px-4 flex gap-0 overflow-x-auto" style={{ scrollbarWidth: 'none' }}>
           {[['analysis', 'Analysis'], ['articles', 'Articles'], ['timeline', 'Timeline']].map(([v, label]) => (
             <button
               key={v}
               onClick={() => setView(v)}
-              className="py-3 px-4 text-xs font-semibold uppercase tracking-widest cursor-pointer transition-colors border-b-2"
+              className="py-3 px-6 text-xs font-semibold uppercase tracking-widest cursor-pointer transition-colors border-b-2"
               style={{
-                background: 'var(--bg-tabbar)',
+                background: view === v ? 'rgba(232,197,71,0.06)' : 'transparent',
                 color: view === v ? 'var(--accent)' : 'var(--text-muted)',
                 borderColor: view === v ? 'var(--accent)' : 'transparent',
                 letterSpacing: '2px',
               }}
+              onMouseEnter={e => { if (view !== v) e.currentTarget.style.color = 'var(--text-secondary)'; }}
+              onMouseLeave={e => { if (view !== v) e.currentTarget.style.color = 'var(--text-muted)'; }}
             >
               {label}
             </button>
@@ -160,13 +162,13 @@ export default function App() {
               <section className="mb-12">
                 <div className="flex items-center gap-4 mb-6">
                   <h2
-                    className="text-xs font-semibold uppercase tracking-widest shrink-0"
-                    style={{ color: 'var(--accent)', letterSpacing: '3px' }}
+                    className="font-display font-bold shrink-0"
+                    style={{ color: 'var(--text-primary)', fontSize: 20, letterSpacing: '0.5px' }}
                   >
                     Top Stories
                   </h2>
                   <div style={{ flex: 1, height: 1, background: 'var(--border-primary)' }} />
-                  <span className="text-xs shrink-0" style={{ color: 'var(--text-faint)' }}>
+                  <span className="text-xs shrink-0 font-semibold uppercase" style={{ color: 'var(--accent)', letterSpacing: '2px' }}>
                     {multiSource.length} stories
                   </span>
                 </div>
@@ -194,13 +196,13 @@ export default function App() {
               <section>
                 <div className="flex items-center gap-4 mb-4">
                   <h2
-                    className="text-xs font-semibold uppercase tracking-widest shrink-0"
-                    style={{ color: 'var(--text-muted)', letterSpacing: '3px' }}
+                    className="font-display font-bold shrink-0"
+                    style={{ color: 'var(--text-secondary)', fontSize: 20, letterSpacing: '0.5px' }}
                   >
                     In Brief
                   </h2>
                   <div style={{ flex: 1, height: 1, background: 'var(--border-primary)' }} />
-                  <span className="text-xs shrink-0" style={{ color: 'var(--text-faint)' }}>
+                  <span className="text-xs shrink-0 font-semibold uppercase" style={{ color: 'var(--text-muted)', letterSpacing: '2px' }}>
                     {singleSource.length} items
                   </span>
                 </div>
@@ -234,41 +236,50 @@ export default function App() {
         )}
       </main>
 
-      <footer className="mt-16 py-8" style={{ borderTop: '1px solid var(--border-primary)' }}>
-        <div className="max-w-5xl mx-auto px-4 text-center">
+      <footer className="mt-16 pt-8 pb-12" style={{ borderTop: '2px solid var(--border-primary)' }}>
+        <div className="max-w-5xl mx-auto px-4 text-center space-y-3">
+          <div
+            className="font-display font-black uppercase"
+            style={{ color: 'var(--text-faint)', fontSize: 18, letterSpacing: '6px' }}
+          >
+            The Meridian
+          </div>
+          <div style={{ width: 40, height: 1, background: 'var(--accent)', margin: '0 auto', opacity: 0.5 }} />
           <p style={{ color: 'var(--text-faint)', fontSize: 11, letterSpacing: '2px', textTransform: 'uppercase' }}>
-            The Meridian  ·  Multi-source news analysis
+            Multi-source news analysis
             {report && `  ·  ${report.articleCount} articles from ${report.sourceCount} sources`}
           </p>
         </div>
       </footer>
 
       {/* Scroll to top */}
-      {showScrollTop && (
-        <button
-          onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-          title="Back to top"
-          style={{
-            position: 'fixed',
-            bottom: 72,
-            right: 24,
-            zIndex: 50,
-            width: 40,
-            height: 40,
-            borderRadius: '50%',
-            background: 'var(--bg-card)',
-            border: '1px solid var(--border-primary)',
-            color: 'var(--accent)',
-            cursor: 'pointer',
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'center',
-            boxShadow: '0 2px 12px rgba(0,0,0,0.3)',
-          }}
-        >
-          <ArrowUp size={16} />
-        </button>
-      )}
+      <button
+        onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+        title="Back to top"
+        style={{
+          position: 'fixed',
+          bottom: 72,
+          right: 24,
+          zIndex: 50,
+          width: 40,
+          height: 40,
+          borderRadius: '50%',
+          background: 'var(--bg-card)',
+          border: '1px solid var(--border-primary)',
+          color: 'var(--accent)',
+          cursor: 'pointer',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          boxShadow: '0 2px 12px rgba(0,0,0,0.3)',
+          opacity: showScrollTop ? 1 : 0,
+          transform: showScrollTop ? 'translateY(0)' : 'translateY(8px)',
+          transition: 'opacity 0.2s ease, transform 0.2s ease',
+          pointerEvents: showScrollTop ? 'auto' : 'none',
+        }}
+      >
+        <ArrowUp size={16} />
+      </button>
 
       {/* Floating theme toggle */}
       <button
