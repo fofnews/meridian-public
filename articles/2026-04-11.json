@@ -415,5 +415,44 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-11T07:30:01.239Z"
+  },
+  {
+    "title": "Iran Has Been Consistent in War. Will It Be Consistent in Peace Talks?",
+    "description": "While President Trump’s war aims have changed by the moment, Iran has stuck to firm demands. The question is whether it will compromise in peace negotiations.",
+    "link": "https://www.nytimes.com/2026/04/11/world/middleeast/iran-peace-talks-demands.html",
+    "pubDate": "Sat, 11 Apr 2026 04:01:18 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "hezbollah",
+      "khamenei, ali",
+      "trump, donald j",
+      "supreme national security council (iran)",
+      "iran",
+      "war and armed conflicts"
+    ],
+    "collectedAt": "2026-04-11T07:45:01.284Z"
+  },
+  {
+    "title": "Artemis II marks historic lunar return with Pacific splashdown success",
+    "description": "The mission unveils lunar mysteries, treats astronauts to a solar eclipse and sets records around the moon.",
+    "link": "https://www.aljazeera.com/gallery/2026/4/11/artemis-ii-marks-historic-lunar-return-with-pacific-splashdown-success?traffic_source=rss",
+    "pubDate": "Sat, 11 Apr 2026 07:23:43 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-11T07:45:01.284Z"
+  },
+  {
+    "title": "Chelsea vs Manchester City: Premier League – team news, start, lineups",
+    "description": "Second-placed Manchester City travel to Chelsea as the Premier League title race approaches crunch time.",
+    "link": "https://www.aljazeera.com/sports/2026/4/11/chelsea-vs-manchester-city-premier-league-team-news-start-lineups?traffic_source=rss",
+    "pubDate": "Sat, 11 Apr 2026 07:16:05 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-04-11T07:45:01.284Z"
   }
 ]
