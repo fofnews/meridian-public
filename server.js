@@ -236,6 +236,20 @@ app.get('/api/articles/:date', (req, res) => {
   res.json({ date, categories: grouped, total: articles.length });
 });
 
+// Serve topic chips for a specific date
+const TOPICS_DIR = path.join(__dirname, 'topics');
+app.get('/api/topics/:date', (req, res) => {
+  const { date } = req.params;
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) return res.status(400).json({ error: 'Invalid date' });
+  const topicsFile = path.join(TOPICS_DIR, `${date}.json`);
+  if (!fs.existsSync(topicsFile)) return res.json([]);
+  try {
+    res.json(JSON.parse(fs.readFileSync(topicsFile, 'utf8')));
+  } catch {
+    res.json([]);
+  }
+});
+
 // SPA fallback
 app.get('*path', (_req, res) => {
   res.sendFile(path.join(__dirname, 'dist', 'index.html'));

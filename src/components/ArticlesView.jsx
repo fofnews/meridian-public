@@ -97,22 +97,31 @@ function ArticleRow({ article }) {
 
 export default function ArticlesView({ selectedDate }) {
   const [data, setData] = useState(null);
+  const [topics, setTopics] = useState([]);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
   const [activeCategory, setActiveCategory] = useState(null);
   const [activeSubcategory, setActiveSubcategory] = useState('All');
   const [searchQuery, setSearchQuery] = useState('');
+  const [activeTopic, setActiveTopic] = useState(null);
 
   useEffect(() => {
     if (!selectedDate) return;
     setLoading(true);
     setError(null);
     setData(null);
+    setTopics([]);
     setSearchQuery('');
-    fetch(`/api/articles/${selectedDate}`)
-      .then(r => r.ok ? r.json() : r.json().then(j => Promise.reject(j.error)))
-      .then(d => {
+    setActiveTopic(null);
+
+    Promise.all([
+      fetch(`/api/articles/${selectedDate}`)
+        .then(r => r.ok ? r.json() : r.json().then(j => Promise.reject(j.error))),
+      fetch(`/api/topics/${selectedDate}`).then(r => r.ok ? r.json() : []).catch(() => []),
+    ])
+      .then(([d, t]) => {
         setData(d);
+        setTopics(t || []);
         setActiveCategory(null);
         setActiveSubcategory('All');
         setLoading(false);
@@ -165,6 +174,8 @@ export default function ArticlesView({ selectedDate }) {
     : [];
 
   const isSearching = searchQuery.trim().length > 0;
+  const isTopicFiltered = !isSearching && activeTopic !== null;
+
   const searchResults = isSearching
     ? allArticles.filter(a => {
         const q = searchQuery.toLowerCase();
@@ -172,7 +183,14 @@ export default function ArticlesView({ selectedDate }) {
       })
     : null;
 
-  const articles = isSearching ? searchResults : filteredByCategory;
+  const topicResults = isTopicFiltered
+    ? allArticles.filter(a => {
+        const title = (a.title || '').toLowerCase();
+        return topics[activeTopic]?.keywords.some(kw => title.includes(kw));
+      })
+    : null;
+
+  const articles = isSearching ? searchResults : isTopicFiltered ? topicResults : filteredByCategory;
 
   return (
     <div className="py-6">
@@ -182,6 +200,42 @@ export default function ArticlesView({ selectedDate }) {
         </h2>
         <span className="text-xs" style={{ color: 'var(--text-faint)' }}>{data.total} collected</span>
       </div>
+
+      {/* Topic chips */}
+      {topics.length > 0 && (
+        <div className="mb-4">
+          <p className="text-xs uppercase font-semibold mb-2" style={{ color: 'var(--text-faint)', letterSpacing: '2px' }}>
+            Trending Topics
+          </p>
+          <div className="flex gap-2 flex-wrap">
+            {topics.map((topic, i) => {
+              const isActive = activeTopic === i;
+              return (
+                <button
+                  key={i}
+                  onClick={() => {
+                    setActiveTopic(isActive ? null : i);
+                    setSearchQuery('');
+                    setActiveCategory(null);
+                    setActiveSubcategory('All');
+                  }}
+                  className="cursor-pointer transition-all text-xs px-3 py-1.5 rounded-full flex items-center gap-1.5"
+                  style={{
+                    background: isActive ? 'rgba(232,197,71,0.15)' : 'var(--bg-card)',
+                    color: isActive ? 'var(--accent)' : 'var(--text-secondary)',
+                    border: `1px solid ${isActive ? 'var(--accent)' : 'var(--border-primary)'}`,
+                  }}
+                >
+                  {topic.label}
+                  <span style={{ color: isActive ? 'var(--accent)' : 'var(--text-faint)', opacity: 0.7, fontSize: 10 }}>
+                    {topic.sources} sources
+                  </span>
+                </button>
+              );
+            })}
+          </div>
+        </div>
+      )}
 
       {/* Search bar */}
       <div className="relative mb-4">
@@ -224,7 +278,7 @@ export default function ArticlesView({ selectedDate }) {
       </div>
 
       {/* Category tabs */}
-      <div className="flex gap-2 flex-wrap mb-3" style={{ opacity: isSearching ? 0.4 : 1, pointerEvents: isSearching ? 'none' : 'auto' }}>
+      <div className="flex gap-2 flex-wrap mb-3" style={{ opacity: isSearching || isTopicFiltered ? 0.4 : 1, pointerEvents: isSearching || isTopicFiltered ? 'none' : 'auto' }}>
         <button
           key="all"
           onClick={() => handleCategoryChange(null)}
@@ -278,16 +332,22 @@ export default function ArticlesView({ selectedDate }) {
         </div>
       )}
 
-      {/* Search result count */}
+      {/* Active filter count */}
       {isSearching && (
         <p className="text-xs mb-3" style={{ color: 'var(--text-faint)' }}>{searchResults.length} result{searchResults.length !== 1 ? 's' : ''}</p>
+      )}
+      {isTopicFiltered && (
+        <p className="text-xs mb-3" style={{ color: 'var(--text-faint)' }}>
+          {topicResults.length} article{topicResults.length !== 1 ? 's' : ''} matching <span style={{ color: 'var(--accent)' }}>{topics[activeTopic]?.label}</span>
+          <button onClick={() => setActiveTopic(null)} className="ml-2" style={{ color: 'var(--text-faint)', background: 'none', border: 'none', cursor: 'pointer', padding: 0 }}>✕ clear</button>
+        </p>
       )}
 
       {/* Article list */}
       <div className="rounded-lg overflow-hidden px-4" style={{ border: '1px solid var(--border-primary)', background: 'var(--bg-secondary)' }}>
         {articles.length === 0 ? (
           <p className="text-sm py-6 text-center" style={{ color: 'var(--text-faint)' }}>
-            {isSearching ? 'No articles match your search.' : 'No articles in this category.'}
+            {isSearching ? 'No articles match your search.' : isTopicFiltered ? 'No articles match this topic.' : 'No articles in this category.'}
           </p>
         ) : (
           articles.map((a, i) => <ArticleRow key={i} article={a} />)
