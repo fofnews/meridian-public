@@ -153,5 +153,58 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-11T05:00:01.352Z"
+  },
+  {
+    "title": "World Leaders Push to Save Iran Talks Amid Israel’s Attacks in Lebanon",
+    "description": "President Trump’s cease-fire with Iran appears at risk as Vice President JD Vance heads to Pakistan for discussions with Iranian officials.",
+    "link": "https://www.nytimes.com/2026/04/10/us/politics/iran-israel-lebanon-trump-talks.html",
+    "pubDate": "Sat, 11 Apr 2026 05:11:37 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "united states politics and government",
+      "united states international relations",
+      "peace process",
+      "economic conditions and trends",
+      "hezbollah",
+      "state department",
+      "trump, donald j",
+      "vance, j d",
+      "witkoff, steven",
+      "kushner, jared",
+      "netanyahu, benjamin",
+      "china",
+      "pakistan",
+      "araghchi, abbas",
+      "ghalibaf, mohammad baqer",
+      "france",
+      "islamabad (pakistan)"
+    ],
+    "collectedAt": "2026-04-11T05:15:01.140Z"
+  },
+  {
+    "title": "Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race",
+    "description": "The astronauts — three Americans and one Canadian — captivated the world with their historic mission.",
+    "link": "https://www.nytimes.com/2026/04/10/science/moon-astronauts-success.html",
+    "pubDate": "Sat, 11 Apr 2026 05:02:23 +0000",
+    "source": "NY Times",
+    "categories": [
+      "artemis program",
+      "national aeronautics and space administration",
+      "moon",
+      "space and astronomy",
+      "rocket science and propulsion",
+      "pacific ocean"
+    ],
+    "collectedAt": "2026-04-11T05:15:01.140Z"
+  },
+  {
+    "title": "Lakers clinch homecourt advantage for playoffs’ first round with win over Suns",
+    "description": "Coach JJ Redick reemphasized on Friday night that the Lakers can’t be worried about their playoff seeding considering the circumstances they’re in. And that the seeding considerations for the end of their season “probably went out the window” after the loss to the Thunder on April 2, in which star guards Luka Doncic and Austin...",
+    "link": "https://nypost.com/2026/04/11/sports/lakers-beat-suns-101-73-in-los-angeles/",
+    "pubDate": "Sat, 11 Apr 2026 01:11:33 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-11T05:15:01.140Z"
   }
 ]
