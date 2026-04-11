@@ -305,5 +305,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-11T06:30:01.182Z"
+  },
+  {
+    "title": "Rory McIlroy Makes Shocking History After Second Round at The Masters",
+    "description": "Rory McIlroy’s shocking second-round performance at Augusta National led to him making Masters history heading into the weekend.",
+    "link": "https://www.newsweek.com/sports/golf/rory-mcilroy-makes-shocking-history-after-second-round-at-the-masters-11814836",
+    "pubDate": "Sat, 11 Apr 2026 02:41:23 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-11T06:45:01.207Z"
+  },
+  {
+    "title": "Djibouti’s President Guelleh claims sixth straight term in office",
+    "description": "The longtime ruler, in power since 1999, has secured 97 percent of the vote, according to official results.",
+    "link": "https://www.aljazeera.com/news/2026/4/11/djiboutis-president-guelleh-claims-sixth-straight-term-in-office?traffic_source=rss",
+    "pubDate": "Sat, 11 Apr 2026 06:26:36 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-11T06:45:01.207Z"
   }
 ]
