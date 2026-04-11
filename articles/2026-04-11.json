@@ -523,5 +523,43 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-04-11T08:15:01.391Z"
+  },
+  {
+    "title": "NHS to offer second MenB vaccine after deadly Kent outbreak",
+    "description": "Vaccines were offered to thousands of people who may have been exposed, including university students and school pupils in the area.",
+    "link": "https://www.bbc.com/news/articles/cqxlyepd09no?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 11 Apr 2026 08:35:32 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-11T08:45:01.220Z"
+  },
+  {
+    "title": "Iran live updates: Pakistan says US officials have landed in Islamabad for Iran talks",
+    "description": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.",
+    "link": "https://abcnews.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074",
+    "pubDate": "Sat, 11 Apr 2026 04:24:51 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-04-11T08:45:01.220Z"
+  },
+  {
+    "title": "Nancy Guthrie Update: Abduction Could Be Retribution—Serial Killer Expert",
+    "description": "Nancy Guthrie, the mother of 84-year-old Today co-host Savannah Guthrie, has been missing for 10 weeks.",
+    "link": "https://www.newsweek.com/nancy-guthrie-update-abduction-could-be-retribution-serial-killer-expert-11814915",
+    "pubDate": "Sat, 11 Apr 2026 04:39:01 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-11T08:45:01.220Z"
+  },
+  {
+    "title": "Teens suspected of murdering congressional intern linked by DNA on shell casings, prosecutors say",
+    "description": "DNA evidence has linked two of the teenagers charged in the shooting death of a University of Massachusetts student who was working as a congressional intern in Washington, DC, last summer, prosecutors alleged",
+    "link": "https://nypost.com/2026/04/11/us-news/washington-dc-teens-jailen-lucas-kelvin-thomas-match-dna-found-on-shell-casings-in-congressional-intern-death/",
+    "pubDate": "Sat, 11 Apr 2026 04:35:30 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-11T08:45:01.220Z"
   }
 ]
