@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-04-10",
+      "lastSeen": "2026-04-11",
       "active": true,
       "entries": [
         {
@@ -181,6 +181,11 @@
           "date": "2026-04-10",
           "edition": "evening",
           "update": "Melania Trump issued a rare public statement on Thursday denying any ties to Jeffrey Epstein, calling him 'disgraceful.' The statement was described as unexpected given her typically low public profile, and her adviser spoke publicly about what motivated her to issue it."
+        },
+        {
+          "date": "2026-04-11",
+          "edition": "morning",
+          "update": "Melania Trump made a surprise public statement calling for testimony from Jeffrey Epstein victims. House Oversight Committee Chairman James Comer, a Republican from Kentucky, responded to her statement and confirmed that congressional hearings featuring Epstein victims will take place. Separately, Epstein survivors pushed back on the call for public testimony. The House Oversight Committee has been investigating allegations of sex trafficking connected to Epstein, who was a convicted sex offender and is deceased."
         }
       ]
     },
@@ -188,7 +193,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-04-10",
+      "lastSeen": "2026-04-11",
       "active": true,
       "entries": [
         {
@@ -240,6 +245,11 @@
           "date": "2026-04-10",
           "edition": "evening",
           "update": "Vice President JD Vance traveled to Islamabad, Pakistan, to lead U.S. talks with Iranian officials aimed at ending the ongoing conflict, stating he expects 'positive' negotiations and that President Trump provided 'pretty clear guidelines' for the discussions. Iran's Parliament Speaker Mohammad-Bagher Ghalibaf posted on X that Iran will not negotiate with the U.S. without a ceasefire in Lebanon and the release of blocked Iranian assets, adding that two mutually agreed-upon measures have yet to be implemented. A fragile ceasefire remains in place, though multiple hurdles continue to strain it."
+        },
+        {
+          "date": "2026-04-11",
+          "edition": "morning",
+          "update": "US and Iranian delegations convened in Islamabad, Pakistan, for high-stakes nuclear and diplomatic talks, with Pakistan serving as host and mediator. Vice President JD Vance participated on the US side, and a US plane carrying the American team was confirmed to have landed in Islamabad by two Pakistani sources. A fragile ceasefire between the US and Iran is currently in place, with the Strait of Hormuz among the key issues under negotiation."
         }
       ]
     },
@@ -796,7 +806,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-04-10",
+      "lastSeen": "2026-04-11",
       "active": true,
       "entries": [
         {
@@ -983,6 +993,11 @@
           "date": "2026-04-10",
           "edition": "evening",
           "update": "Israel continued military strikes in Lebanon, placing the ceasefire under serious strain; Iran has conditioned its participation in U.S.-Iran negotiations on a Lebanon ceasefire being in place. Israel approved 34 new West Bank settlements, which the Palestinian Presidency condemned as a 'flagrant violation of international law.' In Gaza, approximately 10,000 Palestinians remain missing and are believed buried under rubble from Israel's military campaign, while aid delivery remains insufficient and families report being unable to bury their dead six months into a ceasefire. A Trump administration peace board working on a Gaza plan is facing a cash shortage that is stalling progress, and Prime Minister Netanyahu requested a delay in his corruption trial testimony."
+        },
+        {
+          "date": "2026-04-11",
+          "edition": "morning",
+          "update": "An Israeli airstrike on a government building in Nabatieh, southern Lebanon, killed at least 13 people, including Lebanese officers. Hezbollah fired a barrage of rockets at northern Israel, damaging a 1,500-year-old Byzantine church in Nahariya. In Gaza, at least seven Palestinians were killed in Israeli attacks, including an early-morning strike on civilians in the Bureij camp and a drone attack near a mosque in central Gaza that killed at least six people. Israeli attacks in Beirut this week also resulted in deaths among residents."
         }
       ]
     },
@@ -990,7 +1005,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-04-08",
+      "lastSeen": "2026-04-11",
       "active": true,
       "entries": [
         {
@@ -1167,6 +1182,11 @@
           "date": "2026-04-08",
           "edition": "evening",
           "update": "A CIA tool called 'Ghost Murmur' was linked to the rescue of a US airman in Iran last weekend. The airman was injured at the time of the rescue."
+        },
+        {
+          "date": "2026-04-11",
+          "edition": "morning",
+          "update": "US and Israeli bombardment has caused widespread destruction in Iran, and Iran's government is pursuing a peace agreement, with sanctions relief among the considerations in negotiations. US intelligence assessed that China is preparing a weapons shipment to Iran, as reported by CNN. India, heavily dependent on Gulf oil imports, is experiencing shortages as a consequence of the ongoing conflict in the region."
         }
       ]
     },
@@ -1387,7 +1407,7 @@
       "id": "cuba-energy-crisis",
       "title": "Cuba Energy Crisis",
       "firstSeen": "2026-03-16",
-      "lastSeen": "2026-04-10",
+      "lastSeen": "2026-04-11",
       "active": true,
       "entries": [
         {
@@ -1524,6 +1544,11 @@
           "date": "2026-04-10",
           "edition": "evening",
           "update": "Russian Deputy Foreign Minister Sergei Ryabkov visited Cuban President Miguel Diaz-Canel and praised the 'special relationship' between Russia and Cuba, following a Russian delivery of oil and fuel supplies to Cuba ten days prior. Cuba has endured severe fuel shortages and repeated nationwide blackouts under a months-long fuel blockade imposed by the Trump administration, while Diaz-Canel has vowed to resist U.S. pressure."
+        },
+        {
+          "date": "2026-04-11",
+          "edition": "morning",
+          "update": "Cuban President Miguel Díaz-Canel gave his first interview with a US broadcast network to Kristen Welker of Meet the Press, stating he has no intention of stepping down as the Trump administration increases pressure on Cuba."
         }
       ]
     },
@@ -1580,7 +1605,7 @@
       "id": "artemis-moon-mission",
       "title": "Artemis Moon Mission",
       "firstSeen": "2026-03-23",
-      "lastSeen": "2026-04-10",
+      "lastSeen": "2026-04-11",
       "active": true,
       "entries": [
         {
@@ -1727,6 +1752,11 @@
           "date": "2026-04-10",
           "edition": "evening",
           "update": "NASA's Artemis II mission, carrying four astronauts, completed a historic 10-day crewed journey around the far side of the moon. The crew is scheduled to return to Earth via splashdown in the Pacific Ocean on Friday."
+        },
+        {
+          "date": "2026-04-11",
+          "edition": "morning",
+          "update": "The Artemis II crew of four astronauts — Commander Reid Wiseman, Victor Glover, Christina Koch, and Canadian astronaut Jeremy Hansen — splashed down in the Pacific Ocean on Friday evening after completing NASA's first crewed lunar mission in more than 50 years. Flying aboard the Orion capsule, the crew traveled farther from Earth than any humans in history, circumnavigating the moon and returning safely using parachutes during descent before being airlifted by helicopter."
         }
       ]
     },
@@ -1873,5 +1903,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-04-10T21:08:07.082Z"
+  "updatedAt": "2026-04-11T11:04:48.243Z"
 }
