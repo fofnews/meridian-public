@@ -570,5 +570,132 @@
     "source": "Newsweek",
     "categories": [],
     "collectedAt": "2026-04-11T09:00:01.578Z"
+  },
+  {
+    "title": "How AI is getting better at finding security holes",
+    "description": "Anthropic announced this week that its new model found security flaws in \"every major operating system and web browser.\" Even before the news, AI models had gotten dramatically better at finding bugs.",
+    "link": "https://www.npr.org/2026/04/11/nx-s1-5778508/anthropic-project-glasswing-ai-cybersecurity-mythos-preview",
+    "pubDate": "Sat, 11 Apr 2026 05:00:00 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-04-11T09:15:01.376Z"
+  },
+  {
+    "title": "Peru's election: A battle for the Presidency amid political chaos and crime",
+    "description": "With 35 candidates in the race, Peru is set to elect its 9th president in less than a decade. Amid rising corruption and crime, voters are left asking: Can this election finally break the cycle?",
+    "link": "https://www.npr.org/2026/04/11/nx-s1-5777736/peru-election-president-crime-corruption",
+    "pubDate": "Sat, 11 Apr 2026 05:00:00 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-04-11T09:15:01.376Z"
+  },
+  {
+    "title": "Exclusive: Bishop Strickland Decries Trump Admin's ‘Threatening Attitude’ Towards Pope",
+    "description": "Bishop Joseph Strickland spoke to Newsweek after reports Pentagon officials urged the Vatican to get on board with U.S. policies.",
+    "link": "https://www.newsweek.com/bishop-strickland-trump-admin-attitude-pope-pentagon-meeting-11813820",
+    "pubDate": "Sat, 11 Apr 2026 05:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-11T09:15:01.376Z"
+  },
+  {
+    "title": "Was This the Week MAGA Died?",
+    "description": "The war in Iran has deepened the rift between MAGA's loudest voices and the movement's central figure.",
+    "link": "https://www.newsweek.com/was-this-the-week-maga-died-11812696",
+    "pubDate": "Sat, 11 Apr 2026 05:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-11T09:15:01.376Z"
+  },
+  {
+    "title": "Key AOC Ally Wants Chuck Schumer and Hakeem Jeffries Gone",
+    "description": "Saikat Chakrabarti wants Nancy Pelosi's seat and plans to primary top Democrats. The progressive says the party has lost its way.",
+    "link": "https://www.newsweek.com/saikat-chakrabarti-wants-chuck-schumer-hakeem-jeffries-gone-11812657",
+    "pubDate": "Sat, 11 Apr 2026 05:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-11T09:15:01.376Z"
+  },
+  {
+    "title": "Democrats Poised to Flip Four States, Break 16-Year GOP Stranglehold",
+    "description": "Democrats are favored in prediction markets to take back several governorships in the midterm elections.",
+    "link": "https://www.newsweek.com/democrats-poised-to-flip-four-states-break-16-year-gop-stranglehold-11811806",
+    "pubDate": "Sat, 11 Apr 2026 05:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-11T09:15:01.376Z"
+  },
+  {
+    "title": "Why Cutting Education During Crises Costs More in the Long Run | Opinion",
+    "description": "When a child’s schooling is interrupted for months, or years, the consequences don’t stay in the classroom.",
+    "link": "https://www.newsweek.com/cutting-education-during-crises-costs-more-in-long-run-opinion-11791949",
+    "pubDate": "Sat, 11 Apr 2026 05:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-11T09:15:01.376Z"
+  },
+  {
+    "title": "What’s at stake in Benin’s presidential election?",
+    "description": "Finance minister is favourite to win on Sunday as incumbent Talon will step down after leading the country for 10 years.",
+    "link": "https://www.aljazeera.com/news/2026/4/11/whats-at-stake-in-benins-presidential-election?traffic_source=rss",
+    "pubDate": "Sat, 11 Apr 2026 09:00:39 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-11T09:15:01.376Z"
+  },
+  {
+    "title": "At least seven Palestinians killed in Israeli attacks on Gaza",
+    "description": "An early-morning strike hits a group of civilians in ​​Bureij camp as drones attack a tent in Khan Younis.",
+    "link": "https://www.aljazeera.com/news/2026/4/11/at-least-seven-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
+    "pubDate": "Sat, 11 Apr 2026 08:35:13 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-11T09:15:01.376Z"
+  },
+  {
+    "title": "Trump backs Hilton ahead of California GOP vote, testing Bianco’s grip on party endorsement",
+    "description": "California Republicans vote this Sunday to endorse a candidate for governor after Trump backed Steve Hilton over rival Sheriff Chad Bianco last week.",
+    "link": "https://www.foxnews.com/politics/trump-backs-hilton-ahead-california-gop-vote-testing-biancos-grip-party-endorsement",
+    "pubDate": "Sat, 11 Apr 2026 05:00:34 -0400",
+    "source": "Fox News",
+    "categories": [
+      "4b6fd76c-b768-518e-80e6-ac8fb64e4610",
+      "fnc",
+      "fox news",
+      "fox-news/person/gavin-newsom",
+      "fox-news/person/donald-trump",
+      "fox-news/politics/elections/republican-convention",
+      "fox-news/us/us-regions/west/california",
+      "fox-news/politics/senate/republicans",
+      "fox-news/politics/elections",
+      "fox-news/politics/elections/gubernatorial",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-11T09:15:01.376Z"
+  },
+  {
+    "title": "Watchdog, GOP lawmaker warn NY voter registration systems lacks key safeguards",
+    "description": "Election integrity group RITE and Rep. Claudia Tenney threatened federal court action over alleged New York voter registration violations.",
+    "link": "https://www.foxnews.com/politics/watchdog-gop-lawmaker-warn-ny-voter-registration-systems-lacks-key-safeguards",
+    "pubDate": "Sat, 11 Apr 2026 05:00:04 -0400",
+    "source": "Fox News",
+    "categories": [
+      "b2d9ce53-73de-535f-acac-ff6fe2600d34",
+      "fnc",
+      "fox news",
+      "fox-news/politics/state-and-local/elections-disputes",
+      "fox-news/politics/elections/midterm-elections",
+      "fox-news/politics/voting",
+      "fox-news/elections",
+      "fox-news/politics/elections/voter-fraud-concerns",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-11T09:15:01.376Z"
   }
 ]
