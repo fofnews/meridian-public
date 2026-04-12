@@ -1645,7 +1645,7 @@
       "id": "artemis-moon-mission",
       "title": "Artemis Moon Mission",
       "firstSeen": "2026-03-23",
-      "lastSeen": "2026-04-11",
+      "lastSeen": "2026-04-12",
       "active": true,
       "entries": [
         {
@@ -1802,6 +1802,11 @@
           "date": "2026-04-11",
           "edition": "evening",
           "update": "The Artemis II four-person crew successfully splashed down in the Pacific Ocean on Friday following a 10-day mission around the moon. The crew was recovered aboard a U.S. Navy ship after splashdown. The mission was described as historic, and the crew subsequently spoke publicly about the mission."
+        },
+        {
+          "date": "2026-04-12",
+          "edition": "morning",
+          "update": "At their first public appearance on Saturday following Friday's splashdown, the Artemis II crew described their bond using the phrase 'bonded forever.'"
         }
       ]
     },
@@ -1948,5 +1953,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-04-12T10:52:19.427Z"
+  "updatedAt": "2026-04-12T11:03:22.043Z"
 }
