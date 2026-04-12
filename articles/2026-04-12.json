@@ -340,5 +340,25 @@
     "source": "CBS News",
     "categories": [],
     "collectedAt": "2026-04-12T06:15:01.179Z"
+  },
+  {
+    "title": "\"48 Hours\" show schedule",
+    "description": "True crime. Real justice. To miss it would be a crime.",
+    "link": "https://www.cbsnews.com/48-hours/episode-schedule/",
+    "pubDate": "Sun, 12 Apr 2026 02:19:24 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-04-12T06:30:01.293Z"
+  },
+  {
+    "title": "Hungarians vote as PM Orban faces toughest election challenge in years",
+    "description": "The parliamentary election could end Prime Minister Viktor Orban's 16-year hold on power.",
+    "link": "https://www.aljazeera.com/news/2026/4/12/hungarians-vote-as-pm-orban-faces-toughest-election-challenge-in-years?traffic_source=rss",
+    "pubDate": "Sun, 12 Apr 2026 05:57:35 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-12T06:30:01.293Z"
   }
 ]
