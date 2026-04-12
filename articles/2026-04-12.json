@@ -6807,5 +6807,43 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-12T22:30:01.306Z"
+  },
+  {
+    "title": "Here's the biggest news you missed this weekend",
+    "description": "Negotiators from Washington and Tehran left Pakistan on Sunday without a peace agreement and are facing the potential for a return to fighting.“We were negotiating in good faith,” Vice President JD Vance said.",
+    "link": "https://www.nbcnews.com/news/us-news/weekend-rundown-april-12-rcna267543",
+    "pubDate": "Sun, 12 Apr 2026 22:00:00 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-04-12T22:45:01.395Z"
+  },
+  {
+    "title": "Orbán concedes defeat in Hungary parliamentary election",
+    "description": "Orbán concedes defeat in Hungary parliamentary election",
+    "link": "https://www.nbcnews.com/video/shorts/orban-concedes-defeat-in-hungary-parliamentary-election-261204549643",
+    "pubDate": "Sun, 12 Apr 2026 22:03:43 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-04-12T22:45:01.395Z"
+  },
+  {
+    "title": "Manhunt underway after gunmen storm Chick-fil-A leaving 1 dead",
+    "description": "Authorities say a deadly shooting at a New Jersey Chick-fil-A was targeted as suspects remain at large. One person died and six others were injured.",
+    "link": "https://www.foxnews.com/us/manhunt-underway-after-gunmen-storm-chick-fil-a-leaving-1-dead",
+    "pubDate": "Sun, 12 Apr 2026 18:29:28 -0400",
+    "source": "Fox News",
+    "categories": [
+      "13e2b994-6105-5046-a6e2-4f7623640fd2",
+      "fnc",
+      "fox news",
+      "fox-news/us/crime/manhunt",
+      "fox-news/entertainment/genres/crime",
+      "fox-news/us/us-regions/northeast/new-jersey",
+      "fox-news/us/crime/homicide",
+      "fox-news/us/mass-shootings",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-04-12T22:45:01.395Z"
   }
 ]
