@@ -509,5 +509,31 @@
     "source": "Newsweek",
     "categories": [],
     "collectedAt": "2026-04-12T08:15:02.297Z"
+  },
+  {
+    "title": "The prophet and the mysterious death of Charmain Speirs",
+    "description": "A BBC Disclosure investigation has uncovered significant questions about what happened at the hotel where Charmain died.",
+    "link": "https://www.bbc.com/news/articles/cevk1jrg4g8o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 12 Apr 2026 08:17:20 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-12T08:30:01.140Z"
+  },
+  {
+    "title": "Control of the Strait of Hormuz and Iran’s Uranium Stockpiles Were Sticking Points",
+    "description": "The U.S. had demanded that Iran immediately reopen the strait to all maritime traffic, but Iran said it would do so only after a final peace deal, according to Iranian officials.",
+    "link": "https://www.nytimes.com/2026/04/11/world/middleeast/iran-strait-of-hormuz-uranium-stockpile-sticking-points.html",
+    "pubDate": "Sun, 12 Apr 2026 08:20:25 +0000",
+    "source": "NY Times",
+    "categories": [
+      "iran",
+      "israel",
+      "united states",
+      "us and israeli attack on iran (2026)",
+      "strait of hormuz",
+      "uranium",
+      "nuclear nonproliferation treaty"
+    ],
+    "collectedAt": "2026-04-12T08:30:01.140Z"
   }
 ]
