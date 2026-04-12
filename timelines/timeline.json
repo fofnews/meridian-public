@@ -193,7 +193,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-04-11",
+      "lastSeen": "2026-04-09",
       "active": true,
       "entries": [
         {
@@ -255,6 +255,11 @@
           "date": "2026-04-11",
           "edition": "evening",
           "update": "Vice President JD Vance traveled to Islamabad, Pakistan on Saturday for direct talks with Iranian officials, the first such direct U.S.-Iran negotiations since 1979. The White House confirmed the talks, with Pakistani Prime Minister Shehbaz Sharif playing a mediating role in hosting the negotiations. A two-week ceasefire between the U.S. and Iran, described as fragile, remains in effect, and Iran is seeking sanctions relief as part of the discussions. Special envoy Steve Witkoff and Jared Kushner participated in trilateral talks with Iranian officials, drawing criticism from Sen. Mark Kelly. The Strait of Hormuz remains a key factor in the negotiations. Separately, Saudi Arabia confirmed that Pakistan sent fighter jets to the kingdom under a mutual defense pact."
+        },
+        {
+          "date": "2026-04-09",
+          "edition": null,
+          "update": "After approximately 21 hours of negotiations in Pakistan, Vice President JD Vance announced that no deal was reached between the U.S. and Iran, describing the outcome as 'bad news for Iran.'"
         }
       ]
     },
@@ -1020,7 +1025,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-04-11",
+      "lastSeen": "2026-04-09",
       "active": true,
       "entries": [
         {
@@ -1207,6 +1212,11 @@
           "date": "2026-04-11",
           "edition": "evening",
           "update": "Pope Leo XIV issued a condemnation of the U.S.-Iran war during an evening prayer service at St. Peter's Basilica on Saturday, characterizing the conflict as a 'demonic cycle of evil.' Leo had initially limited early comments to muted appeals for peace before stepping up criticism starting on Palm Sunday. An Iranian rabbi reported that a synagogue in Tehran — one of the city's few remaining synagogues — was destroyed in an Israeli strike. American officials also reported that China may have shipped missiles to Iran and that Beijing is allowing some companies to sell Tehran supplies usable in military production."
+        },
+        {
+          "date": "2026-04-09",
+          "edition": null,
+          "update": "Pope Leo XIV used the phrase 'delusion of omnipotence' to describe what is driving the war during a vigil at St. Peter's Basilica, again calling for peace in connection with the conflict."
         }
       ]
     },
@@ -1933,5 +1943,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-04-11T21:06:06.480Z"
+  "updatedAt": "2026-04-12T10:33:14.828Z"
 }
