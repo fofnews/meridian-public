@@ -1450,5 +1450,54 @@
       "news"
     ],
     "collectedAt": "2026-04-12T11:30:01.256Z"
+  },
+  {
+    "title": "Rescue Dog’s ‘Spicy’ Reaction After Walk Has Internet Losing It",
+    "description": "A small rescue dog has a spicy reaction after his walks, and the internet can't get enough.",
+    "link": "https://www.newsweek.com/rescue-dogs-spicy-reaction-after-walk-has-internet-losing-it-11812201",
+    "pubDate": "Sun, 12 Apr 2026 07:30:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-12T11:45:01.294Z"
+  },
+  {
+    "title": "US soccer captain's breakup with golfer gets messy after dating profile allegations",
+    "description": "USMNT captain Christian Pulisic and girlfriend Alexa Melton appear to have split, with Melton suggesting he was on celebrity dating app Raya.",
+    "link": "https://www.foxnews.com/sports/us-soccer-captains-breakup-golfer-gets-messy-dating-profile-allegations",
+    "pubDate": "Sun, 12 Apr 2026 07:25:25 -0400",
+    "source": "Fox News",
+    "categories": [
+      "a2d287af-48be-56dc-ad15-0c2e620fd44e",
+      "fnc",
+      "fox news",
+      "fox-news/sports/soccer",
+      "fox-news/sports",
+      "fox-news/sports/soccer/the-world-cup",
+      "fox-news/us/us-regions/northeast/new-jersey",
+      "fox-news/world/world-regions/australia",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-04-12T11:45:01.294Z"
+  },
+  {
+    "title": "Toyota joins hydrogen truck alliance push",
+    "description": "Toyota teams up with Daimler Truck and Volvo Group to scale hydrogen fuel-cell technology for heavy-duty trucks through the Cellcentric partnership.",
+    "link": "https://www.foxnews.com/tech/toyota-joins-hydrogen-truck-alliance-push",
+    "pubDate": "Sun, 12 Apr 2026 07:21:14 -0400",
+    "source": "Fox News",
+    "categories": [
+      "a48c4421-b5b0-5adf-a235-32e5693c6bfa",
+      "fnc",
+      "fox news",
+      "fox-news/auto/make/mercedes-benz",
+      "fox-news/auto/style/trucks",
+      "fox-news/auto/make/volvo",
+      "fox-news/world/disasters/transportation",
+      "fox-news/auto/make/toyota",
+      "fox-news/tech",
+      "article"
+    ],
+    "collectedAt": "2026-04-12T11:45:01.294Z"
   }
 ]
