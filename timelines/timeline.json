@@ -1224,7 +1224,7 @@
       "id": "iran-strait-of-hormuz-crisis",
       "title": "Iran Strait of Hormuz Crisis",
       "firstSeen": "2026-03-10",
-      "lastSeen": "2026-04-12",
+      "lastSeen": "2026-04-13",
       "active": true,
       "entries": [
         {
@@ -1416,6 +1416,11 @@
           "date": "2026-04-12",
           "edition": "evening",
           "update": "Following the collapse of U.S.-Iran talks in Pakistan, Trump announced that the U.S. Navy would blockade the Strait of Hormuz and would intercept or interdict vessels that paid tolls to Iran."
+        },
+        {
+          "date": "2026-04-13",
+          "edition": "morning",
+          "update": "U.S. Central Command formally announced a blockade of all maritime traffic entering and exiting Iranian ports, effective April 13 at 10 a.m. ET, pursuant to a presidential directive from Trump. Vessels not bound to or from Iranian ports retain transit rights through the Strait of Hormuz. Oil prices surged following the announcement."
         }
       ]
     },
@@ -1963,5 +1968,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-04-12T21:03:35.837Z"
+  "updatedAt": "2026-04-13T11:04:34.549Z"
 }
