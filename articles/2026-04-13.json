@@ -2153,5 +2153,247 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-13T11:00:01.489Z"
+  },
+  {
+    "title": "Work begins on UK's first small modular reactor nuclear power station",
+    "description": "Rolls-Royce has said the project will create 8,000 jobs across Britain.",
+    "link": "https://www.bbc.com/news/articles/c87w5ld0p80o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 13 Apr 2026 09:23:42 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-13T11:15:01.265Z"
+  },
+  {
+    "title": "How the Iran war affects your money and bills",
+    "description": "The conflict in the Middle East has increased pressure on the cost of petrol, household energy bills and even food.",
+    "link": "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 13 Apr 2026 10:54:25 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-13T11:15:01.265Z"
+  },
+  {
+    "title": "U.S. military to block ships from Iran's ports after peace talks fail",
+    "description": "The U.S. Central Command said the blockade would be \"enforced impartially against vessels of all nations\" from 10 a.m. EDT, following the breakdown of talks after 21 hours of negotiations.",
+    "link": "https://www.npr.org/2026/04/13/nx-s1-5783445/iran-war-updates",
+    "pubDate": "Mon, 13 Apr 2026 07:03:13 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-04-13T11:15:01.265Z"
+  },
+  {
+    "title": "WATCH:  Hockey fans' romance born on social media",
+    "description": "ABC News' Danny New shows how a love of hockey and video games turned into true love for a couple in St. Louis.",
+    "link": "https://abcnews.com/video/131984832/",
+    "pubDate": "Mon, 13 Apr 2026 06:00:49 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-04-13T11:15:01.265Z"
+  },
+  {
+    "title": "Shelter Dog Enjoys Final Day Out Before Euthanasia—Then Everything Changes",
+    "description": "Rex enjoyed a long walk and a trip to Burger King for chicken nuggets, as Brooke wanted to make it \"an extra special day.\"",
+    "link": "https://www.newsweek.com/shelter-dog-enjoys-final-day-out-before-euthanasia-then-everything-changes-11818842",
+    "pubDate": "Mon, 13 Apr 2026 07:07:39 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-13T11:15:01.265Z"
+  },
+  {
+    "title": "Social Security COLA for 2027 Predicted To Climb Higher",
+    "description": "One estimate has now predicted that COLA could be 3.2 percent in 2027, up from a 1.7 percent forecast in March.",
+    "link": "https://www.newsweek.com/social-security-cola-2027-predicted-higher-11819241",
+    "pubDate": "Mon, 13 Apr 2026 07:06:08 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-13T11:15:01.265Z"
+  },
+  {
+    "title": "Dentist Tells Patient They’ve Brushed Wrong for 28 Years: ‘My Gums Ruined’",
+    "description": "Dentist Whitney White told Newsweek that the patient's dilemma is more common than many expect, and shared her advice.",
+    "link": "https://www.newsweek.com/dentist-tells-patient-gums-ruined-11819691",
+    "pubDate": "Mon, 13 Apr 2026 07:05:18 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-13T11:15:01.265Z"
+  },
+  {
+    "title": "Woman Arrested After Fleetwood Mac Star Attack",
+    "description": "Michelle Dick, 55, who claims Lindsey Buckingham is her biological father, is accused of attacking him and his Mercedes-Benz.",
+    "link": "https://www.newsweek.com/michelle-dick-lindsey-buckingham-fleetwood-mac-star-attack-arrest-11819514",
+    "pubDate": "Mon, 13 Apr 2026 07:03:14 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-13T11:15:01.265Z"
+  },
+  {
+    "title": "Woman Boards Flight, Shock at Why Flight Attendant Gets 'Short' With Her",
+    "description": "A paid seat swap and a tense onboard exchange left one flyer questioning what loyalty perks really buy.",
+    "link": "https://www.newsweek.com/woman-boards-flight-shock-at-why-flight-attendant-gets-short-with-her-11810604",
+    "pubDate": "Mon, 13 Apr 2026 07:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-13T11:15:01.265Z"
+  },
+  {
+    "title": "Who is Peter Magyar, Hungary’s new leader who trounced Viktor Orban?",
+    "description": "Magyar's centre-right Tisza Party has won a two-thirds majority in Hungary's parliamentary elections.",
+    "link": "https://www.aljazeera.com/news/2026/4/13/who-is-peter-magyar-hungarys-new-leader-who-trounced-viktor-orban?traffic_source=rss",
+    "pubDate": "Mon, 13 Apr 2026 10:55:52 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-13T11:15:01.265Z"
+  },
+  {
+    "title": "Iran’s army says US plan to blockade Hormuz ‘amounts to piracy’",
+    "description": "The US restrictions on maritime navigation and transit in international waters are illegal, Iranian military says.",
+    "link": "https://www.aljazeera.com/news/2026/4/13/irans-army-says-us-plans-to-blockade-hormuz-amounts-to-piracy?traffic_source=rss",
+    "pubDate": "Mon, 13 Apr 2026 10:52:32 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-13T11:15:01.265Z"
+  },
+  {
+    "title": "Trump’s $1.5 Trillion Defense Budget Is a Political Gamble - The Free Press",
+    "description": "Trump’s $1.5 Trillion Defense Budget Is a Political Gamble  The Free Press",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdDJrLTRjOVY4UEZ4bk4xR1h4SmZ0Z0R1SWRzbm5xQUtIcEVqa1NYOGJ0Ml9NeEtmamw2NHlaT3BYT3FvaS0zVGJCS3l3UG5Bb0MxbUdlZENNS0djRk5zTzU3dHBmV3FzNVdmV3Z6alRhRThoZk9hUXpRVFJWaWIyTUpkZkx2dw?oc=5",
+    "pubDate": "Mon, 13 Apr 2026 06:13:05 GMT",
+    "source": "The Free Press",
+    "categories": [],
+    "collectedAt": "2026-04-13T11:15:01.265Z"
+  },
+  {
+    "title": "‘He didn’t seem very alert’: Our CPA said we owe the IRS $443, but we’re actually due a refund of $637. Do we fire him?",
+    "description": "“We’re both concerned about the accuracy of our returns.”",
+    "link": "https://www.marketwatch.com/story/he-didnt-seem-very-alert-our-new-cpa-said-we-owe-a-443-tax-refund-but-were-actually-due-637-do-we-fire-him-82590675?mod=mw_rss_topstories",
+    "pubDate": "Mon, 13 Apr 2026 11:10:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-04-13T11:15:01.265Z"
+  },
+  {
+    "title": "Why ‘Rule of 10’ stocks like Nvidia and Meta are now poised for a comeback, according to Goldman Sachs",
+    "description": "Higher bond yields have been hitting secular growth stocks, but that may be about to change",
+    "link": "https://www.marketwatch.com/story/why-rule-of-10-stocks-like-nvidia-and-meta-are-now-poised-for-a-comeback-according-to-goldman-sachs-349b5531?mod=mw_rss_topstories",
+    "pubDate": "Mon, 13 Apr 2026 11:02:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-04-13T11:15:01.265Z"
+  },
+  {
+    "title": "Energy prices have probably peaked. What that means for stocks, according to Morgan Stanley’s Mike Wilson.",
+    "description": "Investors should be keeping a close eye on the difference between Brent and U.S. crude, which is sending a message that market worries over the crisis in Iran have peaked, says Morgan Stanley.",
+    "link": "https://www.marketwatch.com/story/energy-prices-have-probably-peaked-what-that-means-for-stocks-according-to-morgan-stanleys-mike-wilson-cddb20ea?mod=mw_rss_topstories",
+    "pubDate": "Mon, 13 Apr 2026 11:02:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-04-13T11:15:01.265Z"
+  },
+  {
+    "title": "Melania Trump’s Epstein remarks turn up the heat on DOJ, Acting AG Todd Blanche to do more",
+    "description": "Melania Trump's appeal for Congress to hear from Jeffrey Epstein survivors is adding pressure on the DOJ and its new acting director as lawmakers and alleged victims demand more action.",
+    "link": "https://www.foxnews.com/politics/melania-trumps-epstein-remarks-turn-up-heat-doj-acting-ag-todd-blanche-do-more",
+    "pubDate": "Mon, 13 Apr 2026 07:00:29 -0400",
+    "source": "Fox News",
+    "categories": [
+      "df71e70e-4f34-51be-b0b6-665bd7e8e041",
+      "fnc",
+      "fox news",
+      "fox-news/politics/justice-department",
+      "fox-news/person/jeffrey-epstein",
+      "fox-news/person/melania-trump",
+      "fox-news/us/congress",
+      "fox-news/politics/executive/white-house",
+      "fox-news/person/pam-bondi",
+      "fox-news/politics",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-13T11:15:01.265Z"
+  },
+  {
+    "title": "More patients demand ‘unvaccinated’ blood, doctors warn of growing health risks",
+    "description": "More patients are requesting unvaccinated blood for transfusions since COVID-19 vaccines were approved, but experts say it poses risks, not benefits.",
+    "link": "https://www.foxnews.com/health/patients-demand-unvaccinated-blood-doctors-warn-growing-health-risks",
+    "pubDate": "Mon, 13 Apr 2026 07:00:25 -0400",
+    "source": "Fox News",
+    "categories": [
+      "3b56de65-1200-5254-b604-fa346375f05e",
+      "fnc",
+      "fox news",
+      "fox-news/health",
+      "fox-news/health/health-care",
+      "fox-news/health/infectious-disease/coronavirus",
+      "fox-news/health/infectious-disease/vaccines",
+      "fox-news/health/medical-research/transplants",
+      "fox-news/health/medical-research",
+      "fox-news/lifestyle",
+      "fox-news/health",
+      "article"
+    ],
+    "collectedAt": "2026-04-13T11:15:01.265Z"
+  },
+  {
+    "title": "ESPN star calls for 2017 Masters winner to have his lifetime exemption removed after meltdown",
+    "description": "Mike Greenberg called for Sergio Garcia to lose his lifetime Masters exemption after Garcia smashed his driver and received a code of conduct warning.",
+    "link": "https://www.foxnews.com/sports/espn-star-calls-2017-masters-winner-lifetime-exemption-removed-meltdown",
+    "pubDate": "Mon, 13 Apr 2026 06:59:20 -0400",
+    "source": "Fox News",
+    "categories": [
+      "6a1c208e-2e00-5a1b-a45f-6aafb78eb00b",
+      "fnc",
+      "fox news",
+      "fox-news/sports/golf/the-masters",
+      "fox-news/sports",
+      "fox-news/sports/golf",
+      "fox-news/sports/golf/liv-golf",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-04-13T11:15:01.265Z"
+  },
+  {
+    "title": "DHS launches probe into Eric Swalwell over allegations he illegally hired Brazilian nanny",
+    "description": "The Department of Homeland Security is investigating allegations that embattled lefty California Rep. Eric Swalwell illegally employed a Brazilian nanny years ago, officials said.",
+    "link": "https://nypost.com/2026/04/13/us-news/dhs-launches-probe-into-eric-swalwell-over-allegations-he-illegally-hired-brazilian-nanny/",
+    "pubDate": "Mon, 13 Apr 2026 07:11:07 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-13T11:15:01.265Z"
+  },
+  {
+    "title": "Officials across NY sound alarm over unions’ $1.5B proposed pension porkapalooza",
+    "description": "\"One hundred percent of all costs should be paid for by the state, not local governments or school districts.''",
+    "link": "https://nypost.com/2026/04/13/us-news/ny-towns-sound-alarm-over-unions-1-5b-proposed-pension-plan/",
+    "pubDate": "Mon, 13 Apr 2026 07:05:33 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-13T11:15:01.265Z"
+  },
+  {
+    "title": "Junkie who stole ex-police chief’s sex toys tried to visit Gilgo Beach serial killer for bizarre sitdown: sheriff",
+    "description": "Christopher Loeb ended Jimmy Burke's career in 2012 -- and has now popped up on the fringes of the Gilgo Beach serial murder case.",
+    "link": "https://nypost.com/2026/04/13/us-news/junkie-who-stole-ex-police-chiefs-sex-toys-tried-to-visit-gilgo-beach-serial-killer-for-bizarre-sitdown-sheriff/",
+    "pubDate": "Mon, 13 Apr 2026 07:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-13T11:15:01.265Z"
+  },
+  {
+    "title": "Oil red alert: 10 of 12 postwar recessions were preceded by crude price spike",
+    "description": "The sharp and sustained rise in the price of oil during the war with Iran is a major warning for the United States economy. Oil price shocks are one of the most reliable signs of recession. Combined with other threats to commerce in the U.S., the run-up in oil prices should be an alarm bell […]",
+    "link": "https://www.washingtonexaminer.com/news/4524281/oil-recessions-preceded-crude-price-spike/",
+    "pubDate": "Mon, 13 Apr 2026 11:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-13T11:15:01.265Z"
   }
 ]
