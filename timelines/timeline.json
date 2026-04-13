@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-04-11",
+      "lastSeen": "2026-04-13",
       "active": true,
       "entries": [
         {
@@ -186,6 +186,11 @@
           "date": "2026-04-11",
           "edition": "morning",
           "update": "Melania Trump made a surprise public statement calling for testimony from Jeffrey Epstein victims. House Oversight Committee Chairman James Comer, a Republican from Kentucky, responded to her statement and confirmed that congressional hearings featuring Epstein victims will take place. Separately, Epstein survivors pushed back on the call for public testimony. The House Oversight Committee has been investigating allegations of sex trafficking connected to Epstein, who was a convicted sex offender and is deceased."
+        },
+        {
+          "date": "2026-04-13",
+          "edition": "evening",
+          "update": "A federal judge dismissed Donald Trump's defamation lawsuit against the Wall Street Journal, which had centered on the outlet's reporting about a letter allegedly connected to Jeffrey Epstein's 50th birthday. The judge ruled that Trump failed to sufficiently allege 'actual malice,' the legal standard required for public figures in defamation cases."
         }
       ]
     },
@@ -1968,5 +1973,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-04-13T11:04:34.549Z"
+  "updatedAt": "2026-04-13T21:04:47.104Z"
 }
