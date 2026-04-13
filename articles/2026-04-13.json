@@ -737,5 +737,112 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-13T08:00:01.224Z"
+  },
+  {
+    "title": "WATCH:  A dog’s remarkable reunion with its owner a decade in the making",
+    "description": "A woman reunites with beloved pitbull, Forty, 10 years after he was stolen from her Philadelphia backyard back in 2015.",
+    "link": "https://abcnews.com/video/131974758/",
+    "pubDate": "Mon, 13 Apr 2026 00:24:26 -0400",
+    "source": "ABC News",
+    "categories": [
+      "wnt"
+    ],
+    "collectedAt": "2026-04-13T08:15:01.279Z"
+  },
+  {
+    "title": "Heavy Snow Warning as 20 Inches of Snow To Hit—Travel ‘Impossible’",
+    "description": "The National Weather Service has warned five states that driving conditions may be difficult as heavy snowfall is expected.",
+    "link": "https://www.newsweek.com/heavy-snow-warning-20-inches-snow-hit-travel-impossible-11818727",
+    "pubDate": "Mon, 13 Apr 2026 04:08:02 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-13T08:15:01.279Z"
+  },
+  {
+    "title": "5 Hard Truths for Trump in Orbán’s Big Loss",
+    "description": "Perspective: Viktor Orbán’s fall shatters a Trump strategy for Europe. Here's what it reveals about power, Russia and voters.",
+    "link": "https://www.newsweek.com/trump-orban-hungary-election-eu-nato-magyar-11818647",
+    "pubDate": "Mon, 13 Apr 2026 04:07:11 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-13T08:15:01.279Z"
+  },
+  {
+    "title": "Billy Magnussen Fought Hard for His Role in AMC's 'The Audacity'",
+    "description": "Billy Magnussen opens up about AMC's 'The Audacity,' fighting for roles and why no character is ever the villain of their story.",
+    "link": "https://www.newsweek.com/entertainment/billy-magnussen-fought-hard-role-amc-the-audacity-11796947",
+    "pubDate": "Mon, 13 Apr 2026 04:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-13T08:15:01.279Z"
+  },
+  {
+    "title": "Celebrations in Hungary after Orban ousted in landmark election",
+    "description": "Celebrations broke out across Budapest after opposition leader Peter Magyar defeated Prime Minister Viktor Orban.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/13/celebrations-in-hungary-after-orban-ousted-in-landmark-election?traffic_source=rss",
+    "pubDate": "Mon, 13 Apr 2026 07:39:33 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-04-13T08:15:01.279Z"
+  },
+  {
+    "title": "Pope Leo heads to Algeria as he starts four-country Africa tour",
+    "description": "The pope will also visit Cameroon, Angola and Equatorial Guinea during his 11-day trip to the continent.",
+    "link": "https://www.aljazeera.com/news/2026/4/13/pope-leo-heads-to-algeria-as-he-starts-four-country-africa-tour?traffic_source=rss",
+    "pubDate": "Mon, 13 Apr 2026 07:36:21 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-13T08:15:01.279Z"
+  },
+  {
+    "title": "Iran war: What is happening on day 45 of the US-Iran conflict?",
+    "description": "The move to blockade the Strait of Hormuz is the latest escalation in the war after failure to sign peace deal.",
+    "link": "https://www.aljazeera.com/news/2026/4/13/iran-war-what-is-happening-on-day-45-of-the-us-iran-conflict?traffic_source=rss",
+    "pubDate": "Mon, 13 Apr 2026 07:30:10 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-13T08:15:01.279Z"
+  },
+  {
+    "title": "Ghanaian soccer player Dominic Frimpong killed in attack on Berekum Chelsea team bus - Reuters",
+    "description": "Ghanaian soccer player Dominic Frimpong killed in attack on Berekum Chelsea team bus  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMHVIT01kb0pyWGRBQ2w4WGtSTVJ6X2xIYXNGUjYxUFF4eU9qeWhtbUJ3VWNRLWhiOVNKUVNrZzZhZHB3Zm02QjRvdjFxSmxkekVtaUc1RnVKSFR1cEVId1RCT0NaNUR5OTJJVXljQ1ZYRlNxOVozQ09wZElNUzRMMHRQNUhmSFJ6MU9JaGNjNjdlaWNnZEp6Ynp4NEo4a3BUeDBhelBTblhpVHc1cV9VWEUzV0gza3Vycm1nSzhVZ1VlcmtIdHRj?oc=5",
+    "pubDate": "Mon, 13 Apr 2026 07:25:03 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-04-13T08:15:01.279Z"
+  },
+  {
+    "title": "Baker Hughes sells Waygate unit to Hexagon for about $1.45 billion - Reuters",
+    "description": "Baker Hughes sells Waygate unit to Hexagon for about $1.45 billion  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQzM2cWo0SXAxYVBiYVZOSGJ6cDRuQTczUldIVERzV3BxSzE0NWphZUxXeVUtS1RXOUI0Qm9nVUVPVGZlUTREMDBwUnZCMzJpQzdjMGI1OGxQdkhXR2RaT0hJLXM0dHI2dmpkelBQYlVfZW1sX0ZsRFltRWdaOTZUdGh3V2lQVnVIdnBvTi01NDR3bnlPaTdzS195U3JlbFFhbDVwcXFfX09TRlNmMmc?oc=5",
+    "pubDate": "Mon, 13 Apr 2026 06:08:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-04-13T08:15:01.279Z"
+  },
+  {
+    "title": "The AI you use every day is biased — and it’s quietly shaping your worldview, new report says",
+    "description": "AI models show a center-left ideological bias across the spectrum, according to an America First Policy Institute report on AI transparency and safety.",
+    "link": "https://www.foxnews.com/politics/ai-you-use-every-day-biased-its-quietly-shaping-your-worldview-new-report-says",
+    "pubDate": "Mon, 13 Apr 2026 04:00:09 -0400",
+    "source": "Fox News",
+    "categories": [
+      "a7b636d8-a032-5778-85d5-1b4329d57007",
+      "fnc",
+      "fox news",
+      "fox-news/tech/artificial-intelligence",
+      "fox-news/health/orthopedics/technology",
+      "fox-news/politics",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-13T08:15:01.279Z"
   }
 ]
