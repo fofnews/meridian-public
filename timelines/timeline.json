@@ -1229,7 +1229,7 @@
       "id": "iran-strait-of-hormuz-crisis",
       "title": "Iran Strait of Hormuz Crisis",
       "firstSeen": "2026-03-10",
-      "lastSeen": "2026-04-13",
+      "lastSeen": "2026-04-14",
       "active": true,
       "entries": [
         {
@@ -1426,6 +1426,11 @@
           "date": "2026-04-13",
           "edition": "morning",
           "update": "U.S. Central Command formally announced a blockade of all maritime traffic entering and exiting Iranian ports, effective April 13 at 10 a.m. ET, pursuant to a presidential directive from Trump. Vessels not bound to or from Iranian ports retain transit rights through the Strait of Hormuz. Oil prices surged following the announcement."
+        },
+        {
+          "date": "2026-04-14",
+          "edition": "morning",
+          "update": "A vessel named Rich Starry, owned by Chinese entity Shanghai Xuanrun Shipping and subject to U.S. sanctions, became the first sanctioned ship to exit the Gulf by transiting the Strait of Hormuz amid the U.S. blockade."
         }
       ]
     },
@@ -1973,5 +1978,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-04-13T21:04:47.104Z"
+  "updatedAt": "2026-04-14T11:04:28.993Z"
 }
