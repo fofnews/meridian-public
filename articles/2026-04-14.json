@@ -194,5 +194,61 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-14T05:15:02.345Z"
+  },
+  {
+    "title": "Greek police using masked migrants to forcibly push other migrants back across border",
+    "description": "Mercenaries recruited since at least 2020 for illegal migrant ‘pushbacks’ in Greece, BBC told",
+    "link": "https://www.bbc.com/news/articles/c86vpq42dl0o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 14 Apr 2026 05:02:21 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-14T05:30:01.111Z"
+  },
+  {
+    "title": "U.S. imposes military blockade of Iranian ports on Strait of Hormuz",
+    "description": "The price of U.S. crude rose to $104.24 a barrel following the blockade announcement and Brent crude oil, the international standard, rose to $102.29.",
+    "link": "https://www.cbsnews.com/live-updates/iran-war-us-iran-ports-blockade-strait-of-hormuz-trump/",
+    "pubDate": "Tue, 14 Apr 2026 01:18:20 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-04-14T05:30:01.111Z"
+  },
+  {
+    "title": "Streaming viewers are OK with double the commercials as ‘subscription fatigue’ sets in",
+    "description": "As streaming costs go up, viewers are looking for better deals — and many say they’d watch more ads for lower prices, a new survey shows.",
+    "link": "https://www.marketwatch.com/story/streaming-viewers-are-ok-with-double-the-commercials-as-subscription-fatigue-sets-in-5fa4d005?mod=mw_rss_topstories",
+    "pubDate": "Tue, 14 Apr 2026 05:20:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-04-14T05:30:01.111Z"
+  },
+  {
+    "title": "Luke Weaver admits he’s putting too much pressure on himself after consecutive Mets implosions",
+    "description": "Weaver, who arrived on a two-year contract worth $22 million, allowed four earned runs on three hits and one walk in Saturday’s eighth inning.",
+    "link": "https://nypost.com/2026/04/14/sports/luke-weaver-putting-too-much-pressure-on-himself-after-mets-implosions/",
+    "pubDate": "Tue, 14 Apr 2026 01:23:03 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-14T05:30:01.111Z"
+  },
+  {
+    "title": "Kash Patel invites Eric Swalwell for a ‘sit down with the FBI’",
+    "description": "FBI Director Kash Patel invited former Democratic California gubernatorial candidate Rep. Eric Swalwell (D-CA) to have a conversation with the law enforcement agency regarding the multiple accusations of misconduct leveled against the congressman, which include allegations of sexual misconduct and assault. Patel extended the invitation to Swalwell on social media accounts late Monday night. Regarding […]",
+    "link": "https://www.washingtonexaminer.com/news/4527874/kash-patel-invites-eric-swalwell-for-a-sit-down-with-the-fbi/",
+    "pubDate": "Tue, 14 Apr 2026 05:17:11 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "california",
+      "congress",
+      "democrats",
+      "eric swalwell",
+      "fbi",
+      "kash patel",
+      "sexual abuse allegations",
+      "sexual assault",
+      "sexual misconduct"
+    ],
+    "collectedAt": "2026-04-14T05:30:01.111Z"
   }
 ]
