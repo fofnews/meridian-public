@@ -1431,6 +1431,11 @@
           "date": "2026-04-14",
           "edition": "morning",
           "update": "A vessel named Rich Starry, owned by Chinese entity Shanghai Xuanrun Shipping and subject to U.S. sanctions, became the first sanctioned ship to exit the Gulf by transiting the Strait of Hormuz amid the U.S. blockade."
+        },
+        {
+          "date": "2026-04-14",
+          "edition": "evening",
+          "update": "At least four vessels linked to Iran transited the Strait of Hormuz despite the active U.S. naval blockade, with the ships identified through vessel tracking data."
         }
       ]
     },
@@ -1978,5 +1983,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-04-14T11:04:28.993Z"
+  "updatedAt": "2026-04-14T21:04:52.575Z"
 }
