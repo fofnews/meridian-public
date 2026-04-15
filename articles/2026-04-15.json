@@ -737,5 +737,45 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-15T07:15:01.347Z"
+  },
+  {
+    "title": "Australia's richest person must share part of her mining fortunes, court rules",
+    "description": "The long-running legal dispute is over a lucrative iron ore project in the top west corner of Australia.",
+    "link": "https://www.bbc.com/news/articles/cq5990nqjg2o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 15 Apr 2026 04:40:30 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-15T07:30:01.312Z"
+  },
+  {
+    "title": "Trump turns on Meloni, saying she lacks ‘courage’ over US-Israel war on Iran",
+    "description": "The US president says he is 'shocked at her', delivering a blunt public rebuke to one of his closest European allies.",
+    "link": "https://www.aljazeera.com/news/2026/4/15/trump-turns-on-meloni-saying-she-lacks-courage-over-us-israel-war-on-iran?traffic_source=rss",
+    "pubDate": "Wed, 15 Apr 2026 07:05:19 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-15T07:30:01.312Z"
+  },
+  {
+    "title": "Uzbek chess grandmaster Sindarov sets up world title match with Gukesh",
+    "description": "Javokhir Sindarov wins the Candidates Tournament with ⁠a round ⁠to spare and will face India's Gukesh next.",
+    "link": "https://www.aljazeera.com/sports/2026/4/15/uzbek-chess-grandmaster-sindarov-sets-up-world-title-match-with-gukesh?traffic_source=rss",
+    "pubDate": "Wed, 15 Apr 2026 07:04:44 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-04-15T07:30:01.312Z"
+  },
+  {
+    "title": "Nevada mom Haleigh Knight faked cancer diagnosis to scam more than $20K from victims: ‘She’s a sociopath’",
+    "description": "\"It infuriates me that she would take advantage of her community, of her family.\"",
+    "link": "https://nypost.com/2026/04/15/us-news/nevada-mom-haleigh-knight-faked-cancer-diagnosis-to-scam-more-than-20k-from-victims/",
+    "pubDate": "Wed, 15 Apr 2026 03:15:46 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-15T07:30:01.312Z"
   }
 ]
