@@ -287,5 +287,46 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-15T05:15:01.893Z"
+  },
+  {
+    "title": "Chris Mason: Iran war means government's vicious circles tighten and darken",
+    "description": "A subdued economy makes trade-offs and choices over public spending more difficult, Chris Mason writes.",
+    "link": "https://www.bbc.com/news/articles/ce8ll6pyvdzo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 15 Apr 2026 05:20:51 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-15T05:30:01.190Z"
+  },
+  {
+    "title": "U.S. says Iran ports blockade \"fully implemented\" as Trump weighs more talks",
+    "description": "CENTCOM commander Adm. Brad Cooper said a blockade of Iranian ports \"has been fully implemented,\" as the U.S. and Iran argue over control of the Strait of Hormuz amid a delicate ceasefire.",
+    "link": "https://www.cbsnews.com/live-updates/iran-war-peace-talks-us-blockade-irans-ports-day-2/",
+    "pubDate": "Wed, 15 Apr 2026 01:22:45 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-04-15T05:30:01.190Z"
+  },
+  {
+    "title": "Trump wants Pope Leo to know that ‘Iran has killed 42,000 innocent’ protesters",
+    "description": "President Donald Trump continued his war of words with Pope Leo, requesting that the pontiff be reminded of the thousands of innocent protesters killed by the Iranian regime after nationwide protests in the country in January. The president used the murders as a basis for reasoning that Iran should not be allowed to have a […]",
+    "link": "https://www.washingtonexaminer.com/news/4529474/trump-wants-pope-leo-to-know-iran-killed-42000-protesters/",
+    "pubDate": "Wed, 15 Apr 2026 05:16:29 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "world",
+      "catholic church",
+      "catholicism",
+      "christianity",
+      "donald trump",
+      "foreign affairs",
+      "iran",
+      "iran protests",
+      "middle east",
+      "pope leo xiv",
+      "roman catholic church",
+      "vatican"
+    ],
+    "collectedAt": "2026-04-15T05:30:01.190Z"
   }
 ]
