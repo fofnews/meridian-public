@@ -826,7 +826,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-04-11",
+      "lastSeen": "2026-04-15",
       "active": true,
       "entries": [
         {
@@ -1023,6 +1023,11 @@
           "date": "2026-04-11",
           "edition": "evening",
           "update": "Lebanon held funeral ceremonies for 13 members of its State Security agency killed in an Israeli strike. Overnight Israeli air strikes in Gaza killed seven people, with families gathering over bodies outside a Gaza hospital in the aftermath. Iran's foreign ministry stated that Iran is in contact with Lebanon and working to ensure ceasefire commitments are respected."
+        },
+        {
+          "date": "2026-04-15",
+          "edition": "morning",
+          "update": "Israeli and Lebanese officials met in Washington, D.C. on Tuesday for direct diplomatic talks — the first between the two countries in over 30 years, with the previous direct discussions having taken place in 1993."
         }
       ]
     },
@@ -1983,5 +1988,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-04-14T21:04:52.575Z"
+  "updatedAt": "2026-04-15T11:04:30.712Z"
 }
