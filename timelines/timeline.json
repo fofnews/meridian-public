@@ -1234,7 +1234,7 @@
       "id": "iran-strait-of-hormuz-crisis",
       "title": "Iran Strait of Hormuz Crisis",
       "firstSeen": "2026-03-10",
-      "lastSeen": "2026-04-14",
+      "lastSeen": "2026-04-15",
       "active": true,
       "entries": [
         {
@@ -1441,6 +1441,11 @@
           "date": "2026-04-14",
           "edition": "evening",
           "update": "At least four vessels linked to Iran transited the Strait of Hormuz despite the active U.S. naval blockade, with the ships identified through vessel tracking data."
+        },
+        {
+          "date": "2026-04-15",
+          "edition": "evening",
+          "update": "Iran's military threatened to disrupt trade through the Red Sea in response to the ongoing U.S. naval blockade of Iranian ports via the Strait of Hormuz."
         }
       ]
     },
@@ -1849,7 +1854,7 @@
       "id": "us-iran-military-escalation",
       "title": "US-Iran Military Escalation",
       "firstSeen": "2026-03-27",
-      "lastSeen": "2026-04-10",
+      "lastSeen": "2026-04-15",
       "active": true,
       "entries": [
         {
@@ -1921,6 +1926,11 @@
           "date": "2026-04-10",
           "edition": "evening",
           "update": "More than 50 Democratic lawmakers invoked the 25th Amendment to call for President Trump's removal after Trump posted a social media threat warning that 'a whole civilization will die tonight' unless Iran met his terms by a Tuesday deadline. The White House sent an email to staff last month warning against using nonpublic information to trade on financial markets, following concerns raised by well-timed bets on oil markets and prediction markets tied to the Iran war. Democrats at a New York convention rallied around opposition to Trump's attack on Iran, with several members mulling presidential bids, while Sen. John Fetterman broke with his party to criticize increasing Democratic criticism of Israel over its joint operations with the U.S. against Iran."
+        },
+        {
+          "date": "2026-04-15",
+          "edition": "evening",
+          "update": "The Senate held its fourth war powers vote to limit Trump's authority in Iran on Wednesday, but the resolution again failed to pass. Separately, Trump publicly criticized Pope Leo XIV on social media over the pope's statements regarding the Iran conflict, escalating a feud between the two figures."
         }
       ]
     },
@@ -1988,5 +1998,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-04-15T11:04:30.712Z"
+  "updatedAt": "2026-04-15T21:04:48.671Z"
 }
