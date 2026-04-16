@@ -1397,5 +1397,645 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-16T10:00:01.329Z"
+  },
+  {
+    "title": "Indonesia's capital of the future faces doubts in the present",
+    "description": "Indonesia is racing to build a new capital, promising a greener, futuristic city. But many citizens aren't convinced it will live up to the vision.",
+    "link": "https://www.npr.org/2026/04/16/g-s1-117409/indonesia-capital-nusantara-future-faces-doubts-present",
+    "pubDate": "Thu, 16 Apr 2026 06:02:00 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "Your next flight could be more expensive as jet fuel costs soar",
+    "description": "Airlines are facing higher costs, and one airport group in Europe has warned of the risk of a \"systemic jet fuel shortage\" if traffic through the Strait of Hormuz doesn't normalize by the end of this month.",
+    "link": "https://www.npr.org/2026/04/16/nx-s1-5785258/jet-fuel-airline-cost-iran-war-oil",
+    "pubDate": "Thu, 16 Apr 2026 06:00:00 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "'Dear America': HUD workers say they're being blocked from doing their jobs",
+    "description": "A website with anonymous employee letters accuses the Trump administration of undermining work on housing discrimination. HUD says it's restoring \"sanity\" to fair housing enforcement.",
+    "link": "https://www.npr.org/2026/04/16/nx-s1-5780859/hud-employees-trump-policy-protest-letters-website",
+    "pubDate": "Thu, 16 Apr 2026 06:00:00 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "Russia launches deadliest aerial assault of the year on Ukraine",
+    "description": "Nearly 700 drones and 19 missiles struck cities across the country overnight, killing 16 people, officials said. Ukraine's capital, Kyiv, was among the hardest hit.",
+    "link": "https://www.cbsnews.com/news/russia-ukraine-war-deadliest-aerial-assault-of-year/",
+    "pubDate": "Thu, 16 Apr 2026 06:06:00 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "As Iran war drives up fuel prices, states are hesitant to suspend gas tax",
+    "description": "As the conflict in the Middle East drives up prices at the pump, experts say suspending gas and diesel taxes isn't the easy fix it may appear to be.",
+    "link": "https://www.cbsnews.com/news/gas-taxes-states-iran-war/",
+    "pubDate": "Thu, 16 Apr 2026 06:00:10 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "Stocks Extend Rally and Oil Prices Stabilize as Investor Optimism Grows",
+    "description": "Oil prices stabilized and stocks rose on optimism that diplomatic talks could yield a permanent peace deal.",
+    "link": "https://www.nytimes.com/2026/04/16/business/oil-prices-gas-stocks.html",
+    "pubDate": "Thu, 16 Apr 2026 08:29:53 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "oil (petroleum) and gasoline",
+      "prices (fares, fees and rates)",
+      "stocks and bonds",
+      "standard & poor's 500-stock index",
+      "iran"
+    ],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "Trump’s Scattershot Week, and a Stock Market Record",
+    "description": "Plus, forget sneakers — Allbirds is going A.I.",
+    "link": "https://www.nytimes.com/2026/04/16/podcasts/the-headlines/trump-scattershot-week-stock-market-record-allbirds.html",
+    "pubDate": "Thu, 16 Apr 2026 09:58:56 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "artificial intelligence",
+      "sneakers",
+      "stocks and bonds",
+      "monuments and memorials (structures)",
+      "allbirds inc",
+      "liv golf",
+      "live nation entertainment inc",
+      "dubai (united arab emirates)",
+      "iran",
+      "saudi arabia"
+    ],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "Ahead of 2028, Vance Collects Cash, Chits and Contacts",
+    "description": "The vice president is also the finance chair of the Republican National Committee, allowing him to court donors who could prove helpful should he run for president.",
+    "link": "https://www.nytimes.com/2026/04/16/us/politics/jd-vance-2028-fundraising.html",
+    "pubDate": "Thu, 16 Apr 2026 09:01:06 +0000",
+    "source": "NY Times",
+    "categories": [
+      "politics and government",
+      "midterm elections (2026)",
+      "political action committees",
+      "campaign finance",
+      "high net worth individuals",
+      "two thousand twenty six",
+      "vice presidents and vice presidency (us)",
+      "republican party",
+      "rockbridge network llc",
+      "palantir technologies",
+      "american opportunity alliance",
+      "republican national committee",
+      "vance, j d",
+      "buskirk, chris",
+      "gruters, joseph r (1977- )",
+      "lonsdale, joe",
+      "mercer, rebekah a (1973- )",
+      "palihapitiya, chamath"
+    ],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "Talarico Leads a Democratic Cash Surge: 7 Takeaways From 2026 Filings",
+    "description": "Democrats in key Senate races out-raised their Republican rivals, but super PACs on the right are poised to play a powerful role in the midterms, new campaign finance filings showed.",
+    "link": "https://www.nytimes.com/2026/04/16/us/politics/talarico-democrats-fundraising-republicans-takeaways.html",
+    "pubDate": "Thu, 16 Apr 2026 09:06:08 +0000",
+    "source": "NY Times",
+    "categories": [
+      "campaign finance",
+      "political action committees",
+      "midterm elections (2026)",
+      "united states politics and government",
+      "artificial intelligence",
+      "republican party",
+      "democratic party",
+      "talarico, james",
+      "adelson, miriam"
+    ],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "Who’s Winning the Cash Race in 9 Top Senate Contests?",
+    "description": "Money from Democratic donors has flowed into the coffers of the party’s top Senate candidates — especially its nominee in Texas.",
+    "link": "https://www.nytimes.com/2026/04/16/us/politics/which-senate-candidates-most-money-midterms.html",
+    "pubDate": "Thu, 16 Apr 2026 09:06:12 +0000",
+    "source": "NY Times",
+    "categories": [
+      "midterm elections (2026)",
+      "campaign finance",
+      "elections, senate",
+      "democratic party",
+      "republican party",
+      "talarico, james",
+      "ossoff, jon",
+      "brown, sherrod"
+    ],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "Xi Courts Vietnam With His Authoritarian Vision of Security",
+    "description": "China used a visit by the Vietnamese leader to show a deepening of security ties that analysts say far outpaces U.S. defense ties in the region.",
+    "link": "https://www.nytimes.com/2026/04/16/world/asia/xi-china-vietnam-security.html",
+    "pubDate": "Thu, 16 Apr 2026 09:11:24 +0000",
+    "source": "NY Times",
+    "categories": [
+      "international relations",
+      "communism (theory and philosophy)",
+      "politics and government",
+      "united states international relations",
+      "territorial disputes",
+      "communist party of china",
+      "communist party of vietnam",
+      "ministry of public security of the people's republic of china",
+      "china",
+      "hanoi (vietnam)",
+      "paracel islands",
+      "south china sea",
+      "vietnam",
+      "lam, to",
+      "xi jinping",
+      "chen yixin"
+    ],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "Inside the Storage Units of Six New Yorkers",
+    "description": "In a city of notoriously small apartments, New Yorkers keep their meaningful mementos and quirky collections elsewhere.",
+    "link": "https://www.nytimes.com/2026/04/16/realestate/storage-unit-photo-tour.html",
+    "pubDate": "Thu, 16 Apr 2026 09:00:36 +0000",
+    "source": "NY Times",
+    "categories": [
+      "storage",
+      "collectors and collections"
+    ],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "Orban’s Defeat Punctures Europe’s Far Right, but Also Offers It a Road Map",
+    "description": "Corruption and economic mismanagement brought down Hungary’s authoritarian leader. Will his political disciples avoid those pitfalls?",
+    "link": "https://www.nytimes.com/2026/04/16/world/europe/orban-europe-trump-far-right.html",
+    "pubDate": "Thu, 16 Apr 2026 09:05:26 +0000",
+    "source": "NY Times",
+    "categories": [
+      "europe",
+      "hungary",
+      "france",
+      "orban, viktor",
+      "bardella, jordan (1995- )",
+      "le pen, marine"
+    ],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "NYC to Spend $4 Billion From Pension Funds on Affordable Homes",
+    "description": "The money could jump-start affordable housing projects across the metropolitan region.",
+    "link": "https://www.nytimes.com/2026/04/16/nyregion/nyc-pension-funds-affordable-housing.html",
+    "pubDate": "Thu, 16 Apr 2026 09:04:31 +0000",
+    "source": "NY Times",
+    "categories": [
+      "pensions and retirement plans",
+      "new york city employees' retirement system",
+      "levine, mark d",
+      "real estate and housing (residential)",
+      "new york city"
+    ],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "Russian missiles and drones bombard Ukraine for hours, killing at least 18 people",
+    "description": "Russia unleashed a barrage of hundreds of drones and missiles against Ukraine overnight, killing at least 18 people in its most intense attack of the year.",
+    "link": "https://www.nbcnews.com/world/ukraine/russia-drone-missile-attack-ukraine-kyiv-iran-war-air-defenses-rcna332101",
+    "pubDate": "Thu, 16 Apr 2026 09:45:22 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "Gracie Mansion bombing attempt suspects plead not guilty",
+    "description": "Gracie Mansion bombing attempt suspects plead not guilty",
+    "link": "https://www.nbcnews.com/video/shorts/gracie-mansion-bombing-attempt-suspects-plead-not-guilty-261481029563",
+    "pubDate": "Thu, 16 Apr 2026 09:51:07 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "Map Shows States Where Homeowners Are Struggling To Pay Mortgages",
+    "description": "The Midwest and the South are facing the worst foreclosure rates in the nation, with costs up amid the war in the Middle East.",
+    "link": "https://www.newsweek.com/map-shows-states-where-homeowners-are-struggling-pay-mortgages-11836350",
+    "pubDate": "Thu, 16 Apr 2026 06:13:52 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "List of Every Disney Film Release Until 2029 Goes Viral—Here's What We Know",
+    "description": "“I miss when Disney and Pixar used to mean creativity and fresh ideas,” commented one user.",
+    "link": "https://www.newsweek.com/entertainment/list-every-disney-film-release-until-2029-viral-what-we-know-11836622",
+    "pubDate": "Thu, 16 Apr 2026 06:06:33 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "Homebuyers on Alert As Housing Prices and Mortgage Rates Decline",
+    "description": "Cooling home prices and rates give buyers time to save, boost credit, and plan smartly for a down payment and mortgage.",
+    "link": "https://www.newsweek.com/homebuyers-on-alert-as-housing-prices-and-mortgage-rates-decline-11833333",
+    "pubDate": "Thu, 16 Apr 2026 06:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "UK proposal to charge tourists to visit museums sparks backlash amid restitution demands - Reuters",
+    "description": "UK proposal to charge tourists to visit museums sparks backlash amid restitution demands  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM1F2X2dQeFFUUFNpMzNxUm9nWEpZampiQ3VDN3YzNExUeG9XbFVnc2RWcFBsc1hTU3pfZHdWc21EWkc3XzRLdU5QcnJqa1BPek5ZZFg5T3l4TllFMmFoWEdueFgzekNWQjVsVXJLeTduU0VwTDJTZlVfX2pQNTVCLU9lMW04MENRd0M4Y2hfR1BmQXZwVVdBMmo2VWQ2Qzg3ZDJTYkRfbi1wZ2p5dnlWbDBGQzBVeHhmSFdR?oc=5",
+    "pubDate": "Thu, 16 Apr 2026 06:01:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "House Republicans bristle at Senate-driven DHS plan",
+    "description": "House Republicans are not pleased with what is shaping up to be a Senate-driven plan to end the record-long Department of Homeland Security (DHS) shutdown, bristling at again being told what to do by the upper chamber and raising objections that could be land mines for the proposal. GOP leaders want to fund Immigration and…",
+    "link": "https://thehill.com/homenews/house/5833221-house-republicans-senate-dhs/",
+    "pubDate": "Thu, 16 Apr 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "house",
+      "news"
+    ],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "Tensions over AI reach new high after violent attacks",
+    "description": "Two violent attacks against OpenAI CEO Sam Altman and a city council member are prompting new fears over whether the debate around the technology has turned dangerous.  Tensions reached a new high this week as technology leaders in Washington, D.C., and Silicon Valley quickly blamed the anti-AI rhetoric for the recent violence, while AI opposition…",
+    "link": "https://thehill.com/policy/technology/5832941-ai-openai-sam-altman-violent-attacks/",
+    "pubDate": "Thu, 16 Apr 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "news",
+      "technology",
+      "ai",
+      "anti-ai",
+      "data centers",
+      "dean ball",
+      "energy",
+      "openai",
+      "sam altman"
+    ],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "El-Sayed, McMorrow neck-in-neck in Michigan Democratic Senate primary: Poll",
+    "description": "Democrats Abdul El-Sayed and Mallory McMorrow are neck-and-neck in new polling on the competitive primary for Senate in Michigan, besting Rep. Haley Stevens (D-Mich.) in the race for a rare open seat. A new Emerson College Polling/WOOD-TV survey found 24 percent of likely primary voters in Michigan each support El-Sayed, the former Wayne County health…",
+    "link": "https://thehill.com/homenews/campaign/5832820-michigan-senate-race-poll/",
+    "pubDate": "Thu, 16 Apr 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "news",
+      "2026",
+      "abdul el-sayed",
+      "haley stevens",
+      "mallory mcmorrow",
+      "michigan",
+      "michigan senate",
+      "midterms",
+      "poll",
+      "senate race"
+    ],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "Sudan’s prime minister claims victory; counts on Trump for peace",
+    "description": "KHARTOUM, Sudan — Sudan’s army-appointed prime minister declared victory last week in the long-running civil war against the rebel Rapid Support Forces, while holding court with foreign journalists in a borrowed conference room of the minerals department.  The ad hoc meeting space represents the Sudanese Armed Forces attempt to exercise a degree of normalcy in…",
+    "link": "https://thehill.com/policy/international/5832595-sudan-army-victory-trump/",
+    "pubDate": "Thu, 16 Apr 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "Andy Beshear makes waves in Democratic circles as Southern moderate",
+    "description": "Kentucky Gov. Andy Beshear is beginning to break through in Democratic circles.  At last week’s National Action Network (NAN) conference — a key gathering of Black leaders and activists — Beshear stood out among a crowded field of potential contenders, catching the attention of the Rev. Al Sharpton.   Sharpton, who is the founder of…",
+    "link": "https://thehill.com/homenews/campaign/5833100-andy-beshear-democratic-appeal/",
+    "pubDate": "Thu, 16 Apr 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "news",
+      "state watch"
+    ],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "Kennedy’s new podcast might satisfy MAHA, but it won’t save ‘Republican bacon’",
+    "description": "Health and Human Services Secretary Robert F. Kennedy Jr.’s new podcast stands to gratify his “Make America Healthy Again” (MAHA) base after recent letdowns, though whether it will be able to energize this voting bloc ahead of the midterms remains dubious. This latest project from Kennedy comes as his place within the Trump administration has…",
+    "link": "https://thehill.com/policy/healthcare/5833245-maha-robert-kennedy-podcast/",
+    "pubDate": "Thu, 16 Apr 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "health care",
+      "news"
+    ],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "Homeland Security official's killing leaves agency 'devastated' as vetting breakdown exposed",
+    "description": "The killing of DHS official Lauren Bullis by a naturalized citizen exposes major immigration vetting failures, according to DHS and policy experts.",
+    "link": "https://www.foxnews.com/politics/homeland-security-officials-killing-leaves-agency-devastated-vetting-breakdown-exposed",
+    "pubDate": "Thu, 16 Apr 2026 06:00:55 -0400",
+    "source": "Fox News",
+    "categories": [
+      "d2f4519a-a579-57c9-a8a8-569dfcb673a8",
+      "fnc",
+      "fox news",
+      "fox-news/politics/executive/homeland-security",
+      "fox-news/us/immigration",
+      "fox-news/politics/executive/national-security",
+      "fox-news/us/immigration/naturalization",
+      "fox-news/person/markwayne-mullin",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "Eric Swalwell campaign paid hotel where accuser Lonna Drewes claims assault took place",
+    "description": "Eric Swalwell faces legal probes in New York and Los Angeles after multiple women accused the former Democratic congressman of sexual assault and rape.",
+    "link": "https://www.foxnews.com/us/eric-swalwell-campaign-paid-hotel-accuser-lonna-drewes-claims-assault-took-place",
+    "pubDate": "Thu, 16 Apr 2026 06:00:45 -0400",
+    "source": "Fox News",
+    "categories": [
+      "4f36fbf7-d620-5fc2-a347-78b91e1b49d7",
+      "fnc",
+      "fox news",
+      "fox-news/person/eric-swalwell",
+      "fox-news/us/crime/sex-crimes",
+      "fox-news/person/kash-patel",
+      "fox-news/tech/topics/fbi",
+      "fox-news/us",
+      "fox-news/us/us-regions/west/california",
+      "fox-news/crime",
+      "fox-news/us/los-angeles",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "WWE champ Jade Cargill very hopeful to meet 'Stone Cold' Steve Austin at Hall of Fame ceremony",
+    "description": "WWE Hall of Fame 2026 inductees include AJ Styles, Stephanie McMahon and Dennis Rodman as WrestleMania 42 weekend kicks off in Las Vegas on Friday.",
+    "link": "https://www.foxnews.com/sports/wwe-champ-jade-cargill-hopeful-meet-stone-cold-steve-austin-hall-fame-ceremony",
+    "pubDate": "Thu, 16 Apr 2026 06:00:40 -0400",
+    "source": "Fox News",
+    "categories": [
+      "0b2430d7-4546-5e89-a717-e93088dca554",
+      "fnc",
+      "fox news",
+      "fox-news/wrestlemania",
+      "fox-news/organization/wwe",
+      "fox-news/sports/pro-wrestling",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "Swalwell’s mounting sexual misconduct allegations threaten career beyond politics, experts warn",
+    "description": "Eric Swalwell resigned from Congress amid sexual misconduct allegations that legal experts say could also trigger disciplinary action like disbarment.",
+    "link": "https://www.foxnews.com/politics/swalwells-mounting-sexual-misconduct-allegations-threaten-career-beyond-politics-experts-warn",
+    "pubDate": "Thu, 16 Apr 2026 06:00:36 -0400",
+    "source": "Fox News",
+    "categories": [
+      "618c8d11-cede-5784-97f6-a154b663c95b",
+      "fnc",
+      "fox news",
+      "fox-news/us/crime/rape",
+      "fox-news/us/crime/sex-crimes",
+      "fox-news/politics/executive/law",
+      "fox-news/person/eric-swalwell",
+      "fox-news/politics/finance/investigations",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "CMLL champion Flip Gordon talks going from US Army National Guard reservist to pro wrestling ring",
+    "description": "Former U.S. Army National Guard reservist Flip Gordon shares how military discipline shaped his path to becoming a CMLL champion in Mexico.",
+    "link": "https://www.foxnews.com/sports/cmll-champion-flip-gordon-talks-going-us-army-national-guard-reservist-pro-wrestling-ring",
+    "pubDate": "Thu, 16 Apr 2026 06:00:31 -0400",
+    "source": "Fox News",
+    "categories": [
+      "713ff419-3997-542e-bcc7-ef0edc4a8c9f",
+      "fnc",
+      "fox news",
+      "fox-news/sports/pro-wrestling",
+      "fox-news/us/las-vegas",
+      "fox-news/sports",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "Las Vegas ‘pricing problem' is scaring off tourists from 'greatest city in the world,' says Rick Harrison",
+    "description": "Las Vegas tourism dropped 7.5% last year, according to the LVCVA. Rick Harrison of \"Pawn Stars\" says more casinos must lower prices to keep attracting visitors to Vegas.",
+    "link": "https://www.foxnews.com/travel/las-vegas-pricing-problem-scaring-off-tourists-from-greatest-city-world-says-rick-harrison",
+    "pubDate": "Thu, 16 Apr 2026 06:00:28 -0400",
+    "source": "Fox News",
+    "categories": [
+      "9d68c3b4-159c-5205-86da-f00a5fdb0614",
+      "fnc",
+      "fox news",
+      "fox-news/travel/general/resorts",
+      "fox-news/us/las-vegas",
+      "fox-news/us/us-regions/west/nevada",
+      "fox-news/travel/general/hotels",
+      "fox-news/travel",
+      "fox-news/travel/vacation-destinations",
+      "fox-news/travel/general/family-travel",
+      "fox-news/travel",
+      "article"
+    ],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "Who is Tom Steyer? Anti-ICE billionaire in CA governor’s race faces scrutiny over detention investments",
+    "description": "Billionaire Tom Steyer surges to the forefront of California's governor race with a 21% lead, backed by $112 million in personal campaign donations.",
+    "link": "https://www.foxnews.com/politics/who-tom-steyer-anti-ice-billionaire-ca-governors-race-faces-scrutiny-over-detention-investments",
+    "pubDate": "Thu, 16 Apr 2026 06:00:24 -0400",
+    "source": "Fox News",
+    "categories": [
+      "d775653b-0c5e-5b8a-9dc6-d418387053f2",
+      "fnc",
+      "fox news",
+      "fox-news/politics/elections",
+      "fox-news/person/tom-steyer",
+      "fox-news/us/us-regions/west/california",
+      "fox-news/politics/elections/gubernatorial",
+      "fox-news/politics/elections/polls",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "Prince Harry, Meghan Markle blasted for ‘faux royal tour’ as experts accuse couple of exploiting titles",
+    "description": "Prince Harry and Meghan Markle's four-day Australia trip draws criticism from royal experts who claim the couple is monetizing their titles and royal relevance.",
+    "link": "https://www.foxnews.com/entertainment/prince-harry-meghan-markle-blasted-faux-royal-tour-experts-accuse-couple-exploiting-titles",
+    "pubDate": "Thu, 16 Apr 2026 06:00:20 -0400",
+    "source": "Fox News",
+    "categories": [
+      "a30a7353-ef9f-56eb-b3c2-42ccafaee13f",
+      "fnc",
+      "fox news",
+      "fox-news/world/personalities/british-royals",
+      "fox-news/person/prince-harry",
+      "fox-news/entertainment/celebrity-news/meghan-markle",
+      "fox-news/entertainment",
+      "fox-news/entertainment",
+      "article"
+    ],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "Hungary’s new leader once idolized Orbán — now he’s the man who brought him down",
+    "description": "Learn about Péter Magyar, the former Orbán insider who ended Hungary's 16-year ruling regime and is now set to lead the country into a new era.",
+    "link": "https://www.foxnews.com/world/hungarys-new-leader-once-idolized-orban-now-hes-man-who-brought-him-down",
+    "pubDate": "Thu, 16 Apr 2026 06:00:03 -0400",
+    "source": "Fox News",
+    "categories": [
+      "4acb2bcc-9265-522f-a982-9e9fede211ba",
+      "fnc",
+      "fox news",
+      "fox-news/world/world-regions/hungary",
+      "fox-news/politics",
+      "fox-news/politics/elections",
+      "fox-news/corruption",
+      "fox-news/politics/foreign-policy",
+      "fox-news/world/world-regions/europe",
+      "fox-news/world",
+      "article"
+    ],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "Anna Paulina Luna says she's 'very confident' votes are there to expel Cherfilus-McCormick",
+    "description": "Rep. Luna said bipartisan support is building to expel Rep. Cherfilus-McCormick, who was found to have committed dozens of ethics violations and is facing a pending criminal indictment.",
+    "link": "https://www.foxnews.com/politics/anna-paulina-luna-says-shes-very-confident-votes-expel-cherfilus-mccormick",
+    "pubDate": "Thu, 16 Apr 2026 06:00:02 -0400",
+    "source": "Fox News",
+    "categories": [
+      "dcf373ab-222a-5df5-87fd-e3b7da9375bb",
+      "fnc",
+      "fox news",
+      "fox-news/person/eric-swalwell",
+      "fox-news/democrats",
+      "fox-news/politics/finance/investigations",
+      "fox-news/politics/senate/republicans",
+      "fox-news/politics/elections/house-of-representatives",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "Kevin Sorbo says he ‘escaped’ California, slams Democratic leadership in fiery remarks",
+    "description": "The former \"Hercules: The Legendary Journeys\" star doubled down on his move to Florida as he described what he believes are issues with declining leadership and cultural shifts on the West Coast.",
+    "link": "https://nypost.com/2026/04/16/us-news/kevin-sorbo-says-he-escaped-california-for-florida-slams-democratic-leadership/",
+    "pubDate": "Thu, 16 Apr 2026 06:06:14 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "3 signs getting lit up and lashing out during the 2026 New Moon in Aries",
+    "description": "This is a moment of momentum if ever there was one.",
+    "link": "https://nypost.com/2026/04/16/astrology/2026-aries-new-moon-3-signs-getting-a-baptimsm-by-fire/",
+    "pubDate": "Thu, 16 Apr 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "The 5 key biomarkers that can tell you how well you’re aging — the most crucial is the most overlooked",
+    "description": "Dr. Florence Comite recommends starting to monitor these biomarkers between the ages of 25 and 30.",
+    "link": "https://nypost.com/2026/04/16/health/5-key-biomarkers-can-tell-you-how-well-youre-aging-doctor/",
+    "pubDate": "Thu, 16 Apr 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "Lawmakers using taxpayer money for misconduct payouts could soon face public shaming",
+    "description": "EXCLUSIVE — Two House Republicans are proposing the return of public shaming in response to the torrent of bad behavior by their colleagues, like ex-Reps. Eric Swallwell (D-CA) Tony Gonzales (R-TX). Reps. Stephanie Bice (R-OK) and Josh Brecheen (R-OK) told the Washington Examiner they are introducing legislation requiring any member of Congress who uses taxpayer […]",
+    "link": "https://www.washingtonexaminer.com/news/house/4530892/public-shaming-misconduct-settlements/",
+    "pubDate": "Thu, 16 Apr 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "congressional",
+      "house",
+      "eric swalwell",
+      "house of representatives",
+      "oklahoma",
+      "sexual assault",
+      "sexual misconduct",
+      "tony gonzales"
+    ],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "How Trump reshaped immigration court to crush asylum",
+    "description": "Asylum grant rates have plummeted to historic lows since President Donald Trump took office, and those figures continue to fall as the administration takes a wrecking ball to the immigration courts. The Trump administration has found a legal way to ensure that asylum claims by immigrants who illegally entered the United States are largely denied, […]",
+    "link": "https://www.washingtonexaminer.com/news/justice/4530302/how-trump-reshaped-immigration-court-to-crush-asylum/",
+    "pubDate": "Thu, 16 Apr 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "crime",
+      "immigration",
+      "justice",
+      "news",
+      "courts",
+      "department of justice",
+      "executive branch",
+      "illegal immigrants",
+      "trump administration",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
+  },
+  {
+    "title": "Third round of April Social Security payments goes out in six days",
+    "description": "The third round of April Social Security payments for retirees, now capped at $5,181, will be issued in six days. When will payments arrive? Retirees born on or after the 21st of a month will receive this payment on April 22.  The first round went out on April 8 to those born on or before […]",
+    "link": "https://www.washingtonexaminer.com/news/4527040/third-round-april-social-security-payments-six-days/",
+    "pubDate": "Thu, 16 Apr 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "finance",
+      "money",
+      "retirement",
+      "social security",
+      "social security administration"
+    ],
+    "collectedAt": "2026-04-16T10:15:01.266Z"
   }
 ]
