@@ -371,5 +371,76 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-16T06:00:01.407Z"
+  },
+  {
+    "title": "China’s G.D.P. Stronger Than Expected, Led by Infrastructure Spending",
+    "description": "A steep slide in housing prices has left consumers less prosperous and less willing to spend, but the government is pouring money into new rail lines and other projects.",
+    "link": "https://www.nytimes.com/2026/04/15/business/china-economy-growth.html",
+    "pubDate": "Thu, 16 Apr 2026 06:10:03 +0000",
+    "source": "NY Times",
+    "categories": [
+      "china",
+      "economic conditions and trends",
+      "real estate and housing (residential)",
+      "international trade and world market"
+    ],
+    "collectedAt": "2026-04-16T06:15:01.355Z"
+  },
+  {
+    "title": "480 rescued ducks up for adoption in California",
+    "description": "480 rescued ducks up for adoption in California",
+    "link": "https://www.nbcnews.com/video/shorts/480-rescued-ducks-up-for-adoption-in-california-261477445776",
+    "pubDate": "Thu, 16 Apr 2026 05:53:24 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-04-16T06:15:01.355Z"
+  },
+  {
+    "title": "Israel’s military kills four Lebanese paramedics in consecutive strikes",
+    "description": "An Israeli triple-tap attack on rescue workers in southern Lebanon has killed four and left several others injured.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/israels-military-kills-four-lebanese-paramedics-in-consecutive-strikes?traffic_source=rss",
+    "pubDate": "Thu, 16 Apr 2026 05:56:25 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-04-16T06:15:01.355Z"
+  },
+  {
+    "title": "EU working on jet fuel plan as Iran crisis threatens air travel - Reuters",
+    "description": "EU working on jet fuel plan as Iran crisis threatens air travel  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNam9JUXA5RGhwRk81ZnRhYjQ2SUloUW9uREVNelNMd2MzaWQ1ZW5KVW4xMlltV19yY3NDb1dyaVlHM3FCNHJ0VUJuN251NG43YndZMUw5MmVseU9yMVdxN0JfRWQzZ0NwS2x5SWoxY0hSaF9UMURKWmZBOE5Yc1M3c0ozaFVlQnFReUVWS1pGR2lOSXRfdTlKU0RpOW9MYUd5N1UtNVhjbnFUS0tLSmpiLWpBVzdjc21pRmV0WUQtOHlMS2ZicFpLYzlZdlFaUQ?oc=5",
+    "pubDate": "Thu, 16 Apr 2026 05:02:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-04-16T06:15:01.355Z"
+  },
+  {
+    "title": "191 people killed during ‘world’s largest water fight’ in Thailand",
+    "description": "In the first three days of Songkran this year, more than 191 deaths have been recorded with 951 accidents and 911 injuries.",
+    "link": "https://nypost.com/2026/04/16/world-news/191-people-killed-at-songkran-worlds-largest-water-fight-in-thailand/",
+    "pubDate": "Thu, 16 Apr 2026 02:03:35 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-16T06:15:01.355Z"
+  },
+  {
+    "title": "Trump touts meeting between leaders of Israel and Lebanon that ‘will happen tomorrow’",
+    "description": "President Donald Trump announced late Wednesday night that leaders of Israel and Lebanon will hold another round of their historic meetings, highlighting that it’s “been a long time” since officials from the two countries have engaged in productive conversations. Trump announced the meeting in a social media post on his Truth Social account. “Trying to […]",
+    "link": "https://www.washingtonexaminer.com/news/4531365/trump-touts-meeting-between-israel-and-lebanon/",
+    "pubDate": "Thu, 16 Apr 2026 06:00:15 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "world",
+      "donald trump",
+      "foreign affairs",
+      "israel",
+      "lebanon",
+      "marco rubio",
+      "middle east",
+      "negotiations"
+    ],
+    "collectedAt": "2026-04-16T06:15:01.355Z"
   }
 ]
