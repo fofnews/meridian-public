@@ -1046,6 +1046,11 @@
           "date": "2026-04-16",
           "edition": "morning",
           "update": "On Wednesday, Trump announced that Israeli and Lebanese leaders would speak directly with each other for the first time in decades, with the call scheduled for Thursday."
+        },
+        {
+          "date": "2026-04-16",
+          "edition": "evening",
+          "update": "Trump announced on social media that Israel and Lebanon had agreed to a 10-day ceasefire, describing his conversations with both leaders as 'excellent.' The announcement came while fighting between Israel and Iran-backed Hezbollah was still ongoing."
         }
       ],
       "parentId": null
@@ -1709,7 +1714,7 @@
       "id": "artemis-moon-mission",
       "title": "Artemis Moon Mission",
       "firstSeen": "2026-03-23",
-      "lastSeen": "2026-04-12",
+      "lastSeen": "2026-04-16",
       "active": true,
       "entries": [
         {
@@ -1871,6 +1876,11 @@
           "date": "2026-04-12",
           "edition": "morning",
           "update": "At their first public appearance on Saturday following Friday's splashdown, the Artemis II crew described their bond using the phrase 'bonded forever.'"
+        },
+        {
+          "date": "2026-04-16",
+          "edition": "evening",
+          "update": "The Artemis II crew held a news conference on Thursday, their first since their post-splashdown public appearance, discussing their mission flyby around the moon."
         }
       ],
       "parentId": null
@@ -1879,7 +1889,7 @@
       "id": "us-iran-military-escalation",
       "title": "US-Iran Military Escalation",
       "firstSeen": "2026-03-27",
-      "lastSeen": "2026-04-15",
+      "lastSeen": "2026-04-16",
       "active": true,
       "entries": [
         {
@@ -1956,6 +1966,11 @@
           "date": "2026-04-15",
           "edition": "evening",
           "update": "The Senate held its fourth war powers vote to limit Trump's authority in Iran on Wednesday, but the resolution again failed to pass. Separately, Trump publicly criticized Pope Leo XIV on social media over the pope's statements regarding the Iran conflict, escalating a feud between the two figures."
+        },
+        {
+          "date": "2026-04-16",
+          "edition": "evening",
+          "update": "Defense Secretary Pete Hegseth and Joint Chiefs Chairman Gen. Dan Caine held a press briefing Thursday morning on U.S. military operations related to Iran. Hegseth warned Iranian leaders that the U.S. military was 'locked and loaded' and urged them to 'choose wisely' regarding a deal. The House voted 213-214 to reject a war powers resolution aimed at curtailing Trump's military campaign against Iran, with Republicans blocking the measure along broadly partisan lines. Pope Leo XIV, speaking in Cameroon during an Africa trip, condemned leaders who spend billions on wars and decried a world 'ravaged by a handful of tyrants,' calling for a 'decisive change of course'; he also criticized those who manipulate religion, with the remarks coming amid ongoing attacks from Trump and his allies over the Pope's refusal to back the Iran war. Trump publicly stated he has 'a right to disagree with the Pope' and defended his criticisms. Former Vice President Kamala Harris, speaking outside a gas station in Charlotte, North Carolina, called the conflict a 'war of choice' and blamed Trump for a roughly $15-per-fill-up increase in gas prices since the start of the conflict."
         }
       ],
       "parentId": null
@@ -2026,5 +2041,5 @@
       "parentId": null
     }
   ],
-  "updatedAt": "2026-04-16T11:04:35.224Z"
+  "updatedAt": "2026-04-16T21:06:13.120Z"
 }
