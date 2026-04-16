@@ -442,5 +442,74 @@
       "negotiations"
     ],
     "collectedAt": "2026-04-16T06:15:01.355Z"
+  },
+  {
+    "title": "UK economy grew faster than expected in February",
+    "description": "The Office for National Statistics says the economy expanded by 0.5% in February.",
+    "link": "https://www.bbc.com/news/articles/cz0e23r0993o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 16 Apr 2026 06:12:53 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-16T06:30:01.563Z"
+  },
+  {
+    "title": "Report suggests 'breakthrough' Alzheimer's drugs unlikely to benefit patients",
+    "description": "A major review has provoked a backlash after concluding the medicines provide too little benefit to be noticed.",
+    "link": "https://www.bbc.com/news/articles/cql77wlqlx7o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 16 Apr 2026 06:18:53 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-16T06:30:01.563Z"
+  },
+  {
+    "title": "Iran war: What is happening on day 48 of the US-Iran conflict?",
+    "description": "US–Iran talks gain pace as Pakistan mediates, optimism for a new round of talks in Islamabad.",
+    "link": "https://www.aljazeera.com/news/2026/4/16/iran-war-what-is-happening-on-day-48-of-the-us-iran-conflict?traffic_source=rss",
+    "pubDate": "Thu, 16 Apr 2026 06:13:28 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-16T06:30:01.563Z"
+  },
+  {
+    "title": "Warriors upset Clippers in NBA West play-in, extend playoff run",
+    "description": "Golden State Warriors keep their NBA playoff hopes alive, eliminating the LA Clippers from the play-in tournament.",
+    "link": "https://www.aljazeera.com/sports/2026/4/16/warriors-upset-clippers-in-nba-west-play-in-extend-playoff-run?traffic_source=rss",
+    "pubDate": "Thu, 16 Apr 2026 05:59:57 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-04-16T06:30:01.563Z"
+  },
+  {
+    "title": "2 detained after shooting in New York leaves 15-year-old killed, two others wounded: police",
+    "description": "A gang-related shooting on Long Island in New York killed a 15-year-old boy and wounded two others after an argument at a barbeque, police said Wednesday.",
+    "link": "https://www.foxnews.com/us/2-detained-after-shooting-new-york-leaves-15-year-old-killed-two-others-wounded-police",
+    "pubDate": "Thu, 16 Apr 2026 02:12:46 -0400",
+    "source": "Fox News",
+    "categories": [
+      "bb345b77-b047-5165-b663-66af640da368",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/northeast/new-york",
+      "fox-news/us",
+      "fox-news/crime",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/us/crime/homicide",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-04-16T06:30:01.563Z"
+  },
+  {
+    "title": "Sotomayor walks back remarks criticizing Kavanaugh, says comments were ‘inappropriate’",
+    "description": "\"This is from a man whose parents were professionals and probably doesn’t really know any person who works by the hour.\"",
+    "link": "https://nypost.com/2026/04/16/us-news/supreme-court-sotomayor-regrets-hurtful-remarks-aimed-at-kavanaugh/",
+    "pubDate": "Thu, 16 Apr 2026 02:18:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-16T06:30:01.563Z"
   }
 ]
