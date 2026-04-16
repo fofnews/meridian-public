@@ -192,7 +192,8 @@
           "edition": "evening",
           "update": "A federal judge dismissed Donald Trump's defamation lawsuit against the Wall Street Journal, which had centered on the outlet's reporting about a letter allegedly connected to Jeffrey Epstein's 50th birthday. The judge ruled that Trump failed to sufficiently allege 'actual malice,' the legal standard required for public figures in defamation cases."
         }
-      ]
+      ],
+      "parentId": null
     },
     {
       "id": "iran-nuclear-talks",
@@ -266,13 +267,14 @@
           "edition": null,
           "update": "After approximately 21 hours of negotiations in Pakistan, Vice President JD Vance announced that no deal was reached between the U.S. and Iran, describing the outcome as 'bad news for Iran.'"
         }
-      ]
+      ],
+      "parentId": null
     },
     {
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-04-11",
+      "lastSeen": "2026-04-16",
       "active": true,
       "entries": [
         {
@@ -429,8 +431,14 @@
           "date": "2026-04-11",
           "edition": "evening",
           "update": "Russian drone strikes killed at least two people in the Ukrainian city of Odesa overnight into Saturday, according to local authorities. A Ukrainian drone attack in Russia's Kursk region injured three people, as reported by the regional governor. Separately, Ukraine and Russia exchanged 175 servicemen each ahead of an Easter ceasefire."
+        },
+        {
+          "date": "2026-04-16",
+          "edition": "morning",
+          "update": "Russia launched one of the most intense aerial attacks of the year on Ukraine, sending hundreds of drones and missiles overnight in a hours-long assault targeting civilian areas across the country."
         }
-      ]
+      ],
+      "parentId": null
     },
     {
       "id": "sinaloa-cartel-violence",
@@ -484,7 +492,8 @@
           "edition": "evening",
           "update": "Érick Valencia Salazar, a co-founder of the Jalisco New Generation drug cartel, was extradited to the United States from Mexico as part of a group of 29 alleged drug lords and subsequently pleaded guilty."
         }
-      ]
+      ],
+      "parentId": null
     },
     {
       "id": "iran-protests-and-crackdown",
@@ -533,7 +542,8 @@
           "edition": "morning",
           "update": "Iran released a Japanese national on bail who had been jailed amid antigovernment protests. The released individual is believed to be Shinnosuke Kawashima, NHK's Tehran bureau chief."
         }
-      ]
+      ],
+      "parentId": null
     },
     {
       "id": "iran-israel-military-conflict",
@@ -672,7 +682,8 @@
           "edition": "morning",
           "update": "Video footage showed an explosion in the sky above Erbil, located in the Kurdish region of northern Iraq."
         }
-      ]
+      ],
+      "parentId": null
     },
     {
       "id": "iran-leadership-succession",
@@ -746,7 +757,8 @@
           "edition": "morning",
           "update": "Following President Trump's conditional threat to target Iran's energy infrastructure if the Strait of Hormuz was not reopened, Iranian government officials called on students, artists, and athletes to form human chains around the country's power plants beginning at 2 p.m. local time on Tuesday."
         }
-      ]
+      ],
+      "parentId": null
     },
     {
       "id": "iran-us-military-conflict",
@@ -820,13 +832,14 @@
           "edition": "morning",
           "update": "Army survivors of an Iranian attack on U.S. forces in Kuwait disputed the Pentagon's account of the incident, claiming their unit was unprepared to defend itself. A two-week ceasefire between the U.S. and Iran was in effect, while more than 70 Democrats in Congress called for President Trump's removal over his threats against Iran and handling of military operations there. An anonymous Iranian woman described conditions in Tehran to The Australian, including nightly explosions, celebrations, and widespread fear. President Trump cited European nations' unwillingness to back the U.S. in the Iran conflict as a reason to scale back or abandon NATO commitments."
         }
-      ]
+      ],
+      "parentId": null
     },
     {
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-04-15",
+      "lastSeen": "2026-04-16",
       "active": true,
       "entries": [
         {
@@ -1028,8 +1041,14 @@
           "date": "2026-04-15",
           "edition": "morning",
           "update": "Israeli and Lebanese officials met in Washington, D.C. on Tuesday for direct diplomatic talks — the first between the two countries in over 30 years, with the previous direct discussions having taken place in 1993."
+        },
+        {
+          "date": "2026-04-16",
+          "edition": "morning",
+          "update": "On Wednesday, Trump announced that Israeli and Lebanese leaders would speak directly with each other for the first time in decades, with the call scheduled for Thursday."
         }
-      ]
+      ],
+      "parentId": null
     },
     {
       "id": "us-iran-military-conflict",
@@ -1228,7 +1247,8 @@
           "edition": null,
           "update": "Pope Leo XIV used the phrase 'delusion of omnipotence' to describe what is driving the war during a vigil at St. Peter's Basilica, again calling for peace in connection with the conflict."
         }
-      ]
+      ],
+      "parentId": null
     },
     {
       "id": "iran-strait-of-hormuz-crisis",
@@ -1447,7 +1467,8 @@
           "edition": "evening",
           "update": "Iran's military threatened to disrupt trade through the Red Sea in response to the ongoing U.S. naval blockade of Iranian ports via the Strait of Hormuz."
         }
-      ]
+      ],
+      "parentId": null
     },
     {
       "id": "hezbollah-us-operations",
@@ -1476,7 +1497,8 @@
           "edition": "morning",
           "update": "A Hezbollah-inspired terrorist attack occurred on March 12 at Temple Israel synagogue in Michigan, with the attacker dying at the scene."
         }
-      ]
+      ],
+      "parentId": null
     },
     {
       "id": "cuba-energy-crisis",
@@ -1630,7 +1652,8 @@
           "edition": "evening",
           "update": "In the Meet the Press interview, Díaz-Canel stated he is prepared to 'give my life for the revolution' and said 'if we need to die, we'll die' when referencing resistance to a potential U.S. invasion."
         }
-      ]
+      ],
+      "parentId": null
     },
     {
       "id": "cesar-chavez-sexual-abuse-investigation",
@@ -1679,7 +1702,8 @@
           "edition": "morning",
           "update": "Sexual assault allegations have been made against Cesar Chavez; residents in Delano farming town are conflicted about how to remember him as March 31 marks his birthday and longtime holiday."
         }
-      ]
+      ],
+      "parentId": null
     },
     {
       "id": "artemis-moon-mission",
@@ -1848,7 +1872,8 @@
           "edition": "morning",
           "update": "At their first public appearance on Saturday following Friday's splashdown, the Artemis II crew described their bond using the phrase 'bonded forever.'"
         }
-      ]
+      ],
+      "parentId": null
     },
     {
       "id": "us-iran-military-escalation",
@@ -1932,7 +1957,8 @@
           "edition": "evening",
           "update": "The Senate held its fourth war powers vote to limit Trump's authority in Iran on Wednesday, but the resolution again failed to pass. Separately, Trump publicly criticized Pope Leo XIV on social media over the pope's statements regarding the Iran conflict, escalating a feud between the two figures."
         }
-      ]
+      ],
+      "parentId": null
     },
     {
       "id": "north-korea-nuclear-escalation",
@@ -1976,7 +2002,8 @@
           "edition": "morning",
           "update": "North Korea conducted a weapons testing spree this week involving multiple new systems, including ballistic missiles armed with cluster-bomb warheads, as part of efforts to expand its nuclear-capable forces."
         }
-      ]
+      ],
+      "parentId": null
     },
     {
       "id": "journalist-abductions-and-releases",
@@ -1995,8 +2022,9 @@
           "edition": "evening",
           "update": "Secretary of State Marco Rubio announced the release of American journalist Shelly Kittleson, who had been kidnapped and held hostage in Iraq for just over a week by an Iran-backed militia. Efforts are underway to facilitate her safe departure from Iraq."
         }
-      ]
+      ],
+      "parentId": null
     }
   ],
-  "updatedAt": "2026-04-15T21:04:48.671Z"
+  "updatedAt": "2026-04-16T11:04:35.224Z"
 }
