@@ -6774,5 +6774,389 @@
     "source": "Newsmax",
     "categories": [],
     "collectedAt": "2026-04-16T15:45:01.289Z"
+  },
+  {
+    "title": "Badenoch accuses PM of misleading MPs over Mandelson vetting",
+    "description": "It follows a report Lord Mandelson failed his security vetting for the role of US ambassador but this was overruled by the Foreign Office.",
+    "link": "https://www.bbc.com/news/articles/cx2r15151xgo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 16 Apr 2026 15:36:03 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "RFK Jr. defends his health agenda and Trump's proposed budget cuts in hearing",
+    "description": "In his first appearance this year, the health secretary is taking questions on his record on health, including his controversial moves on vaccines.",
+    "link": "https://www.npr.org/2026/04/16/nx-s1-5787749/rfk-jr-hearing-hhs-health-budget-cuts",
+    "pubDate": "Thu, 16 Apr 2026 11:46:40 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "Justice Sotomayor apologizes to Kavanaugh for public criticism of immigration opinion",
+    "description": "Supreme Court Justice Sonia Sotomayor issued a rare public apology Wednesday over what she called \"inappropriate\" remarks aimed at Justice Brett Kavanaugh.",
+    "link": "https://abcnews.com/Politics/justice-sotomayor-apologizes-justice-kavanaugh-public-criticism-immigration/story?id=132080511",
+    "pubDate": "Thu, 16 Apr 2026 06:27:52 -0400",
+    "source": "ABC News",
+    "categories": [
+      "politics"
+    ],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "Trump to sign executive order on psychedelic drug used abroad to treat PTSD",
+    "description": "Ibogaine is used in Mexico and the Caribbean to treat depression, anxiety, addiction and brain trauma.",
+    "link": "https://www.cbsnews.com/news/psychedelic-drug-ibogaine-ptsd-trump-to-sign-executive-order/",
+    "pubDate": "Thu, 16 Apr 2026 11:51:19 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "Clarence Thomas Warns of 'Challenges' Ahead for Supreme Court",
+    "description": "\"There are some things around on the horizon that we're going to have some challenges with, like AI,\" Thomas said.",
+    "link": "https://www.newsweek.com/clarence-thomas-warns-challenges-ahead-supreme-court-11839487",
+    "pubDate": "Thu, 16 Apr 2026 11:56:48 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "First-Time Homebuyers Hit All-Time Low",
+    "description": "The share of first-time homebuyers in the U.S. has fallen to 21 percent last year, an all-time low.",
+    "link": "https://www.newsweek.com/first-time-homebuyers-hit-all-time-low-11837884",
+    "pubDate": "Thu, 16 Apr 2026 11:54:46 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "Former Caitlin Clark Teammate Taking Heat for Harsh Message to Fans",
+    "description": "Former Caitlin Clark teammates Erica Wheeler is taking heat for her harsh message to fans after signing a new contract.",
+    "link": "https://www.newsweek.com/sports/former-caitlin-clark-teammate-taking-heat-for-harsh-message-to-fans-11839727",
+    "pubDate": "Thu, 16 Apr 2026 11:53:57 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "Donald Trump Announces Israel-Lebanon Ceasefire",
+    "description": "Trump said the pause follows direct contact between Israeli and Lebanese leaders and aims to create space for broader talks.",
+    "link": "https://www.newsweek.com/trump-announces-israel-lebanon-10-day-ceasefire-11840378",
+    "pubDate": "Thu, 16 Apr 2026 11:47:05 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "Trump says Israel and Lebanon agree to temporary ceasefire",
+    "description": "This is a breaking news story.",
+    "link": "https://www.aljazeera.com/news/2026/4/16/trump-says-israel-and-lebanon-agree-to-temporary-ceasefire?traffic_source=rss",
+    "pubDate": "Thu, 16 Apr 2026 15:52:19 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "Israel says it’s West’s defender, but cares little for European critics",
+    "description": "Israel’s widening wars and disregard for its traditional allies are deepening international criticism and isolation.",
+    "link": "https://www.aljazeera.com/news/2026/4/16/israel-says-its-wests-defender-but-cares-little-for-european-critics?traffic_source=rss",
+    "pubDate": "Thu, 16 Apr 2026 15:47:56 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "Jet fuel shortage: Why Iran war could ground flights in Europe",
+    "description": "Europe's aviation faces fuel shortages as Hormuz tensions threaten travel at the start of the summer season.",
+    "link": "https://www.aljazeera.com/news/2026/4/16/jet-fuel-shortage-why-iran-war-could-ground-flights-in-europe?traffic_source=rss",
+    "pubDate": "Thu, 16 Apr 2026 15:44:23 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "UK police arrest 3 after attempted arson at Persian-language media centre",
+    "description": "Police say they arrested a 16-year-old boy and two men aged 19 and 21 on suspicion of arson ​endangering life.",
+    "link": "https://www.aljazeera.com/news/2026/4/16/uk-police-arrest-3-after-attempted-arson-at-persian-language-media-centre?traffic_source=rss",
+    "pubDate": "Thu, 16 Apr 2026 15:42:41 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "Thousands of bees swarm southern Israel",
+    "description": "Residents in Israel have been documenting thousands of bees swarming the southern city of Netivot.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/thousands-of-bees-swarm-southern-israel?traffic_source=rss",
+    "pubDate": "Thu, 16 Apr 2026 15:39:25 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "US weekly jobless claims drop amid labor market stability; Iran war a risk - Reuters",
+    "description": "US weekly jobless claims drop amid labor market stability; Iran war a risk  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMGx6X3R1eEpZSHJjSE1MODItQk1KRkJKdWhuQ2ZUeFJRVnRpSkJ3TFJKa1J2SGUxQ2JVbHpRRDFONU5FMExRSWNMaEFPbXlWQkVFalFvZGk4NkM3WE1tNEUwcURHTE5jSFVfdkhjaXJsMTNtU0l3NTNqZmNKYlQ4Vk0tOWhMckVpclRlMkQ1NFVwd1g1Wkp2bVlEZTAzWWZPTS1uYlItNzY?oc=5",
+    "pubDate": "Thu, 16 Apr 2026 13:54:03 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "Trump arts commissioner wants 3 arches in DC, not 1",
+    "description": "A President Trump appointee to the federal Commission of Fine Arts proposed adding three arches to the nation’s capital instead of one, alleging that it aligns with the original Pierre L’Enfant plan for the city.  Rodney Mims Cook Jr. has been helping Trump prepare for America 250 celebrations by sharing architectural input on the new…",
+    "link": "https://thehill.com/homenews/administration/5834442-trump-proposes-three-arches-dc/",
+    "pubDate": "Thu, 16 Apr 2026 15:40:16 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "arch",
+      "arlington national cemetry",
+      "commission of fine arts",
+      "l'enfant plan",
+      "memorial circle",
+      "trump administration"
+    ],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "Intel’s stock has been ‘absolutely on fire.’ Now it needs to deliver on the hype.",
+    "description": "The chip maker’s stock has surged on good news, but one analyst is still worried about the company’s fundamentals.",
+    "link": "https://www.marketwatch.com/story/intels-stock-has-been-absolutely-on-fire-now-it-needs-to-deliver-on-the-hype-16f912b4?mod=mw_rss_topstories",
+    "pubDate": "Thu, 16 Apr 2026 15:56:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "Elon Musk was pushed out at PayPal. Now he’s launching a rival that could ‘disrupt’ it.",
+    "description": "Musk has a broader reach than PayPal, analysts say, and his X Money is offering a high 6% interest rate to attract users.",
+    "link": "https://www.marketwatch.com/story/elon-musk-was-pushed-out-at-paypal-now-hes-launching-a-rival-that-could-disrupt-it-d4505c6f?mod=mw_rss_topstories",
+    "pubDate": "Thu, 16 Apr 2026 15:54:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "Trump says Israel, Lebanon agree to 10-day ceasefire",
+    "description": "",
+    "link": "https://www.foxnews.com/politics/trump-says-israel-lebanon-agree-10-day-ceasefire",
+    "pubDate": "Thu, 16 Apr 2026 11:50:22 -0400",
+    "source": "Fox News",
+    "categories": [
+      "d4de8b40-ee74-5d86-913e-479254b4c804",
+      "fnc",
+      "fox news",
+      "fox-news/world/world-regions/israel",
+      "fox-news/world/world-regions/middle-east/lebanon",
+      "fox-news/politics",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "American travelers warned about popular low-cost beach destination as global tensions rise",
+    "description": "U.S. officials have issued a travel advisory for Tirana, Albania, urging American tourists to exercise increased vigilance amid ongoing Iran-related tensions.",
+    "link": "https://www.foxnews.com/travel/american-travelers-warned-popular-low-cost-beach-destination-global-tensions-rise",
+    "pubDate": "Thu, 16 Apr 2026 11:46:03 -0400",
+    "source": "Fox News",
+    "categories": [
+      "e632f376-8022-53e6-882a-1951e5e6d58f",
+      "fnc",
+      "fox news",
+      "fox-news/travel",
+      "fox-news/travel/general/budget-travel",
+      "fox-news/travel/general/travel-safety",
+      "fox-news/travel/regions/europe",
+      "fox-news/world/conflicts/iran",
+      "fox-news/travel/general",
+      "fox-news/lifestyle",
+      "fox-news/travel",
+      "article"
+    ],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "Government withholding information on UFOs from the public, GOP rep says",
+    "description": "Rep. Tim Burchett, R-Tenn., renewed his call for the federal government to release information on UFOs during his appearance on the \"Will Cain Country\" podcast.",
+    "link": "https://www.foxnews.com/media/government-withholding-information-ufos-from-public-gop-rep-says",
+    "pubDate": "Thu, 16 Apr 2026 11:38:23 -0400",
+    "source": "Fox News",
+    "categories": [
+      "6763b855-7967-5723-9ca4-b4883a842202",
+      "fnc",
+      "fox news",
+      "fox-news/shows/the-will-cain-show-podcasts",
+      "fox-news/media",
+      "fox-news/science/air-and-space/ufos",
+      "fox-news/politics/house-of-representatives/republicans",
+      "fox-news/topic/aliens",
+      "fox-news/media",
+      "article"
+    ],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "Trump predicted Israel–Lebanon leaders would speak ‘tomorrow’ — Beirut shut it down as ceasefire emerges",
+    "description": "Lebanon's President Aoun will not speak with Netanyahu for now, a senior Lebanese official told Fox News Digital, dealing a setback to Trump's push for direct contact with Israel.",
+    "link": "https://www.foxnews.com/world/trump-predicted-israel-lebanon-leaders-would-speak-tomorrow-beirut-shut-down-ceasefire-emerges",
+    "pubDate": "Thu, 16 Apr 2026 11:15:25 -0400",
+    "source": "Fox News",
+    "categories": [
+      "fea70a7f-9ac7-5716-8ee6-d710048464e6",
+      "fnc",
+      "fox news",
+      "fox-news/world/conflicts",
+      "fox-news/world/world-regions/middle-east/lebanon",
+      "fox-news/person/benjamin-netanyahu",
+      "fox-news/politics/foreign-policy/middle-east",
+      "fox-news/world/world-regions/israel",
+      "fox-news/politics/defense/wars/war-with-iran",
+      "fox-news/world",
+      "article"
+    ],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "Rams unveil sleeker uniforms, refined brand look ahead of 2026 season",
+    "description": "The Rams are sharpening their horns — and their style.",
+    "link": "https://nypost.com/2026/04/16/sports/los-angeles-rams-unveil-new-uniforms-for-2026-season/",
+    "pubDate": "Thu, 16 Apr 2026 11:56:59 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "‘The View’ Hosts Praise TMZ For Taking On The White House, Argue Disgraced Congress Members Are No Longer “Entitled” To “Decorum”",
+    "description": "The ladies joked the coverage would be \"better than the [Real] Housewives.\"",
+    "link": "https://decider.com/2026/04/16/the-view-tmz-white-house-congress-decorum/",
+    "pubDate": "Thu, 16 Apr 2026 11:56:20 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "What Anders Lee’s Islanders future likely comes down to",
+    "description": "Mathieu Darche gave a 263-word answer Wednesday when asked whether he still sees Anders Lee as the Islanders captain going forward.",
+    "link": "https://nypost.com/2026/04/16/sports/what-anders-lees-islanders-future-likely-comes-down-to/",
+    "pubDate": "Thu, 16 Apr 2026 11:56:03 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "Kevin Kisner sorry after he ‘pissed some people off’ with evisceration of CBS’ Masters coverage",
+    "description": "Kevin Kisner's feelings about CBS' Masters coverage may have been shared by fans — but those in his golf broadcasting orbit did not seem to appreciate.",
+    "link": "https://nypost.com/2026/04/16/sports/kevin-kisner-sorry-after-he-pissed-some-people-off-with-evisceration-of-cbs-masters-coverage/",
+    "pubDate": "Thu, 16 Apr 2026 11:54:23 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "Israel, Lebanon agree to 10-day cease-fire, Trump announces",
+    "description": "Last month, shortly after the war in Iran began, Israel started a massive bombing campaign against Hezbollah, a Lebanese-based, US-designated terror organization backed by Iran.",
+    "link": "https://nypost.com/2026/04/16/world-news/israel-lebanon-agree-to-10-day-cease-fire-trump-announces/",
+    "pubDate": "Thu, 16 Apr 2026 11:54:21 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "Eric Swalwell scandal sends shockwaves through California governor’s race as new poll drops",
+    "description": "Steyer, who was previously trailing Swalwell now leads the field of Democratic candidates.",
+    "link": "https://nypost.com/2026/04/16/us-news/eric-swalwell-scandal-impacts-california-governors-race/",
+    "pubDate": "Thu, 16 Apr 2026 11:54:18 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "Kawhi Leonard won’t talk Clippers future after crushing play-in loss as NBA investigation looms",
+    "description": "Kawhi Leonard isn’t ready to plant his flag — or any trees — in Los Angeles just yet. Amid investigations from the NBA and podcaster Pablo Torre, who presented evidence that appears to point out that the Clippers circumvented the salary cap to give Leonard and his uncle extra benefits to sign with the Los...",
+    "link": "https://nypost.com/2026/04/16/sports/kawhi-leonard-wont-talk-clippers-future-as-nba-investigation-looms/",
+    "pubDate": "Thu, 16 Apr 2026 11:51:39 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "How much are the cheapest tickets for the Celtics-76ers NBA Playoff series?",
+    "description": "The Eastern Conference rivals will square up for Game One at the TD Garden on April 19.",
+    "link": "https://nypost.com/2026/04/16/ticket-sales/get-the-cheapest-tickets-for-celtics-76ers-nba-playoffs/",
+    "pubDate": "Thu, 16 Apr 2026 11:50:28 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "Budget airline allegedly nears liquidation after failing to recover from bankruptcy",
+    "description": "The budget carrier has struggled to get back on its feet after its second bankruptcy in less than a year.",
+    "link": "https://nypost.com/2026/04/16/lifestyle/spirit-airlines-could-liquidate-as-early-as-this-week-sources/",
+    "pubDate": "Thu, 16 Apr 2026 11:45:55 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "Trump announces 10-day ceasefire between Israel and Lebanon",
+    "description": "President Donald Trump announced a 10-day ceasefire between Israel and Lebanon will take effect later Thursday after representatives from both nations met in Washington, D.C. Trump said he had “excellent conversations” with Lebanese President Joseph Aoun and Israeli Prime Minister Benjamin Netanyahu. They agreed to commence the temporary ceasefire at 5 p.m. Thursday. “On Tuesday, […]",
+    "link": "https://www.washingtonexaminer.com/news/world/4532119/trump-announce-10-day-ceasefire-israel-lebanon/",
+    "pubDate": "Thu, 16 Apr 2026 15:51:52 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "world",
+      "benjamin netanyahu",
+      "donald trump",
+      "foreign policy",
+      "iran",
+      "israel",
+      "lebanon",
+      "marco rubio",
+      "middle east",
+      "war"
+    ],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "Trump’s timeline: Iran, Iran, Pope, NATO. Republicans want it to be: Tax cut, tax cut",
+    "description": "Welcome to Washington Secrets. Today, we look at the president’s Truth Social feed and hear from Republicans exasperated that he is not doing more to sell his biggest win so far. Plus, what is a New York Post reporter doing in Islamabad this week? President Donald Trump’s tax cut increased this year’s refund by an […]",
+    "link": "https://www.washingtonexaminer.com/news/washington-secrets/4531643/trump-truth-social-timeline-iran-pope-nato-tax-cuts/",
+    "pubDate": "Thu, 16 Apr 2026 15:45:18 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "washington secrets",
+      "2026 elections",
+      "congress",
+      "donald trump",
+      "iran",
+      "pakistan",
+      "taxes",
+      "trump administration",
+      "washington d.c.",
+      "world"
+    ],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
+  },
+  {
+    "title": "Jobless Claims Fall as Labor Market Holds Steady - Newsmax",
+    "description": "Jobless Claims Fall as Labor Market Holds Steady  Newsmax",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdjNDMXpZaFFlRktlZEc2ckxFemdTcElDbXpBclJRZVdWWWs1aWpCdzNUQ1Q1LUttcUIwR3l2aDNJQ2RQWWthU0lQY3ZUbVpDRThfbzFESVFNdHRXb2xLZGg0MmdwS3JOeDhVb0JIX3VHQXUySEFJQUZlVXV3X28tV2xzN2ZlbGFUNlNqeE1HVm9wRlE?oc=5",
+    "pubDate": "Thu, 16 Apr 2026 12:44:19 GMT",
+    "source": "Newsmax",
+    "categories": [],
+    "collectedAt": "2026-04-16T16:00:07.102Z"
   }
 ]
