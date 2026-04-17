@@ -683,7 +683,7 @@
           "update": "Video footage showed an explosion in the sky above Erbil, located in the Kurdish region of northern Iraq."
         }
       ],
-      "parentId": null
+      "parentId": "middle-east-military-conflicts-2026"
     },
     {
       "id": "iran-leadership-succession",
@@ -756,81 +756,6 @@
           "date": "2026-04-09",
           "edition": "morning",
           "update": "Following President Trump's conditional threat to target Iran's energy infrastructure if the Strait of Hormuz was not reopened, Iranian government officials called on students, artists, and athletes to form human chains around the country's power plants beginning at 2 p.m. local time on Tuesday."
-        }
-      ],
-      "parentId": null
-    },
-    {
-      "id": "iran-us-military-conflict",
-      "title": "Iran-US Military Conflict",
-      "firstSeen": "2026-03-06",
-      "lastSeen": "2026-04-10",
-      "active": true,
-      "entries": [
-        {
-          "date": "2026-03-06",
-          "edition": "evening",
-          "update": "A U.S. submarine struck and sank an Iranian warship with a torpedo in the Indian Ocean, with Sri Lanka taking custody of Iranian crew survivors."
-        },
-        {
-          "date": "2026-03-17",
-          "edition": "morning",
-          "update": "Trump claimed an unnamed former president praised his Iran strikes, but all four living former presidents denied making such a statement to him."
-        },
-        {
-          "date": "2026-03-19",
-          "edition": "morning",
-          "update": "A poll shared exclusively with the New York Post addressed Republican opinions on President Trump's decision regarding Iran, amid reports of Republican divisions over the decision to go to war with Iran."
-        },
-        {
-          "date": "2026-03-29",
-          "edition": "morning",
-          "update": "Iran's IRGC claimed attacks on Aluminium Bahrain and Emirates Global Aluminium in retaliation for US-Israeli attacks on Iranian infrastructure."
-        },
-        {
-          "date": "2026-03-29",
-          "edition": "evening",
-          "update": "An attack at Al Araby network's office in Tehran injured at least 10 people, prompting Qatar's Al Araby network to condemn the attack."
-        },
-        {
-          "date": "2026-03-30",
-          "edition": "morning",
-          "update": "Pakistan says it is set to host U.S.-Iran talks soon, though it is unclear if the talks would be direct or indirect, with neither Washington nor Tehran commenting on the talks."
-        },
-        {
-          "date": "2026-04-02",
-          "edition": "evening",
-          "update": "Pakistan stated it will continue Iran-US mediation efforts despite obstacles."
-        },
-        {
-          "date": "2026-04-03",
-          "edition": "morning",
-          "update": "Iran's longest bridge linking Tehran to Karaj was destroyed overnight, and Iranian missiles and drones struck Israel, Saudi Arabia, the UAE, and Kuwait's largest oil refinery, setting some refinery units on fire."
-        },
-        {
-          "date": "2026-04-05",
-          "edition": "morning",
-          "update": "An international jet fuel shortage is occurring, driving up airfares, triggering thousands of flight cancellations, and causing airline costs to rise."
-        },
-        {
-          "date": "2026-04-06",
-          "edition": "morning",
-          "update": "Trump claimed the U.S. armed Iranian dissidents via Kurds, and Kurdish groups denied the claim."
-        },
-        {
-          "date": "2026-04-06",
-          "edition": "evening",
-          "update": "A second U.S. airman was reported missing following a fighter jet shoot-down in Iran last week."
-        },
-        {
-          "date": "2026-04-09",
-          "edition": "evening",
-          "update": "An Iranian attack in Kuwait killed six U.S. service members, with survivors disputing the Pentagon's official account of the incident. The attack occurred in the context of Operation Epic Fury, which began in late February; a two-week U.S.-Iran ceasefire took effect on Tuesday. Former Vice President Mike Pence also made public statements about U.S. operations against Iran."
-        },
-        {
-          "date": "2026-04-10",
-          "edition": "morning",
-          "update": "Army survivors of an Iranian attack on U.S. forces in Kuwait disputed the Pentagon's account of the incident, claiming their unit was unprepared to defend itself. A two-week ceasefire between the U.S. and Iran was in effect, while more than 70 Democrats in Congress called for President Trump's removal over his threats against Iran and handling of military operations there. An anonymous Iranian woman described conditions in Tehran to The Australian, including nightly explosions, celebrations, and widespread fear. President Trump cited European nations' unwillingness to back the U.S. in the Iran conflict as a reason to scale back or abandon NATO commitments."
         }
       ],
       "parentId": null
@@ -1053,19 +978,19 @@
           "update": "Trump announced on social media that Israel and Lebanon had agreed to a 10-day ceasefire, describing his conversations with both leaders as 'excellent.' The announcement came while fighting between Israel and Iran-backed Hezbollah was still ongoing."
         }
       ],
-      "parentId": null
+      "parentId": "middle-east-military-conflicts-2026"
     },
     {
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-04-09",
+      "lastSeen": "2026-04-16",
       "active": true,
       "entries": [
         {
           "date": "2026-03-06",
           "edition": "evening",
-          "update": "A U.S. submarine sank an Iranian warship with a torpedo strike in the Indian Ocean, and Sri Lanka took custody of Iranian crew members."
+          "update": "A U.S. submarine struck and sank an Iranian warship with a torpedo in the Indian Ocean, with Sri Lanka taking custody of Iranian crew survivors."
         },
         {
           "date": "2026-03-07",
@@ -1129,8 +1054,18 @@
         },
         {
           "date": "2026-03-17",
+          "edition": "morning",
+          "update": "Trump claimed an unnamed former president praised his Iran strikes, but all four living former presidents denied making such a statement to him."
+        },
+        {
+          "date": "2026-03-17",
           "edition": "evening",
           "update": "Ali Larijani, secretary of Iran's Supreme National Security Council, was killed in an Israeli airstrike. Israel claimed responsibility and Iran confirmed his death."
+        },
+        {
+          "date": "2026-03-19",
+          "edition": "morning",
+          "update": "A poll shared exclusively with the New York Post addressed Republican opinions on President Trump's decision regarding Iran, amid reports of Republican divisions over the decision to go to war with Iran."
         },
         {
           "date": "2026-03-20",
@@ -1173,9 +1108,24 @@
           "update": "Senator Lisa Murkowski of Alaska is drafting a formal authorization for military force against Iran as the Trump administration has excluded Congress from the operation."
         },
         {
+          "date": "2026-03-27",
+          "edition": "morning",
+          "update": "Iran rejected President Trump's 15-point peace plan and countered with its own demands, including control over the Strait of Hormuz, collection of shipping fees, and keeping its missile program without limitations."
+        },
+        {
+          "date": "2026-03-27",
+          "edition": "evening",
+          "update": "The U.S. experienced its weakest Treasury auctions in over three years as investor anxiety around the Iran conflict grew."
+        },
+        {
           "date": "2026-03-28",
           "edition": "morning",
           "update": "Iran conducted a sophisticated information war with propaganda and disinformation flooding the internet to undermine support for U.S. and Israeli attacks."
+        },
+        {
+          "date": "2026-03-28",
+          "edition": "evening",
+          "update": "One month into the Iran conflict, public polling shows disapproval over the war and petrol prices, while Republicans and Democrats remain entrenched with no coordinated action on the situation."
         },
         {
           "date": "2026-03-29",
@@ -1183,9 +1133,44 @@
           "update": "Ammonia prices increased approximately 20% and urea prices increased approximately 50% since the start of the Iran war due to disruptions in fertilizer ingredient supply."
         },
         {
+          "date": "2026-03-29",
+          "edition": "morning",
+          "update": "Iran's IRGC claimed attacks on Aluminium Bahrain and Emirates Global Aluminium in retaliation for US-Israeli attacks on Iranian infrastructure."
+        },
+        {
+          "date": "2026-03-29",
+          "edition": "evening",
+          "update": "An attack at Al Araby network's office in Tehran injured at least 10 people, prompting Qatar's Al Araby network to condemn the attack."
+        },
+        {
+          "date": "2026-03-29",
+          "edition": "evening",
+          "update": "Iran's Parliamentary Speaker warned U.S. troops would face fierce resistance if deployed, while Pakistan hosted diplomatic talks with Saudi Arabia, Turkey, and Egypt aimed at de-escalation. The U.S.-Iran conflict has been ongoing for approximately one month, with the Pentagon reportedly preparing ground force options and multiple Republican lawmakers not ruling out ground troop deployment."
+        },
+        {
+          "date": "2026-03-30",
+          "edition": "morning",
+          "update": "Pakistan says it is set to host U.S.-Iran talks soon, though it is unclear if the talks would be direct or indirect, with neither Washington nor Tehran commenting on the talks."
+        },
+        {
+          "date": "2026-03-30",
+          "edition": "morning",
+          "update": "The International Atomic Energy Agency confirmed on Sunday that Iran's Khondab heavy water plant is offline after suffering severe damage from an Israeli strike on Friday."
+        },
+        {
           "date": "2026-03-30",
           "edition": "evening",
           "update": "White House press secretary Karoline Leavitt hosted a news briefing at 1 p.m. amid a Department of Homeland Security funding battle and the Iran war."
+        },
+        {
+          "date": "2026-03-31",
+          "edition": "morning",
+          "update": "President Trump stated that regime change in Iran has been accomplished and that new Iranian leaders are making concessions; more U.S. troops arrived in the Middle East."
+        },
+        {
+          "date": "2026-04-01",
+          "edition": "morning",
+          "update": "Trump told reporters Tuesday he would be leaving Iran \"very soon\"; the war is in its fifth week."
         },
         {
           "date": "2026-04-01",
@@ -1194,8 +1179,28 @@
         },
         {
           "date": "2026-04-02",
+          "edition": "morning",
+          "update": "Trump and Israeli Prime Minister Netanyahu started a war against Iran together, though they have divergent priorities regarding the war's outcome."
+        },
+        {
+          "date": "2026-04-02",
           "edition": "evening",
           "update": "Pakistan stated it will continue Iran-US mediation efforts despite obstacles as Trump threatened to bomb Iran 'back to the Stone Ages'."
+        },
+        {
+          "date": "2026-04-02",
+          "edition": "evening",
+          "update": "Pakistan stated it will continue Iran-US mediation efforts despite obstacles."
+        },
+        {
+          "date": "2026-04-02",
+          "edition": "evening",
+          "update": "Wartime fuel shortages in Asia have sparked panic, robberies, and killings in affected areas."
+        },
+        {
+          "date": "2026-04-03",
+          "edition": "morning",
+          "update": "Iran's longest bridge linking Tehran to Karaj was destroyed overnight, and Iranian missiles and drones struck Israel, Saudi Arabia, the UAE, and Kuwait's largest oil refinery, setting some refinery units on fire."
         },
         {
           "date": "2026-04-03",
@@ -1209,6 +1214,11 @@
         },
         {
           "date": "2026-04-05",
+          "edition": "morning",
+          "update": "An international jet fuel shortage is occurring, driving up airfares, triggering thousands of flight cancellations, and causing airline costs to rise."
+        },
+        {
+          "date": "2026-04-05",
           "edition": "evening",
           "update": "Iran requested FIFA relocate its World Cup games to Mexico and awaits FIFA's response, with Iran's World Cup participation dependent on relocation from the U.S."
         },
@@ -1219,8 +1229,18 @@
         },
         {
           "date": "2026-04-06",
+          "edition": "morning",
+          "update": "Trump claimed the U.S. armed Iranian dissidents via Kurds, and Kurdish groups denied the claim."
+        },
+        {
+          "date": "2026-04-06",
           "edition": "evening",
           "update": "U.S. forces conducted a rescue mission on Easter morning to recover a downed pilot from Iranian territory."
+        },
+        {
+          "date": "2026-04-06",
+          "edition": "evening",
+          "update": "A second U.S. airman was reported missing following a fighter jet shoot-down in Iran last week."
         },
         {
           "date": "2026-04-07",
@@ -1229,13 +1249,53 @@
         },
         {
           "date": "2026-04-07",
+          "edition": "morning",
+          "update": "A U.S. F-15 fighter jet was shot down by a shoulder-fired missile in Iran, and a Pentagon press briefing scheduled for Tuesday with Defense Secretary Pete Hegseth and Joint Chiefs Chair Gen. Dan Caine was canceled. Gas prices rose for the ninth consecutive day, reaching a national average of $4.14 per gallon — the highest level since 2022. Some Republican lawmakers expressed growing wariness about the military conflict as it entered its sixth week during midterm election season. Rep. Yassamin Ansari announced she would introduce articles of impeachment against Defense Secretary Hegseth related to planned strikes on Iranian civilian infrastructure. Trump threatened to jail reporters who refused to reveal sources connected to coverage of Iran's strike on a U.S. fighter jet."
+        },
+        {
+          "date": "2026-04-07",
           "edition": "evening",
           "update": "The United States conducted strikes on military targets on Iran's Kharg Island, a critical component of Iran's oil economy, ahead of Trump's Tuesday deadline. Pope Leo XIV condemned Trump's threats against Iran's civilization as 'truly unacceptable.' An investigation is underway to identify who leaked information to the press about a U.S. airman missing in Iran after a fighter jet was shot down on Good Friday."
+        },
+        {
+          "date": "2026-04-07",
+          "edition": "evening",
+          "update": "President Trump posted on Truth Social that Iran's 'whole civilization will die tonight, never to be brought back again' ahead of an 8 p.m. Tuesday deadline for Tehran to act. The White House responded to questions about potential nuclear weapon use in Iran, denying such a plan. Over 30 congressional Democrats called on the Cabinet to remove Trump from office over his threats to target civilian infrastructure, while House Minority Leader Hakeem Jeffries called on Republicans to 'stop the madness' and Sen. Richard Blumenthal warned that 'bombing alone' cannot achieve Trump's objectives. Iranian hackers also escalated targeting of U.S. critical infrastructure following the onset of the conflict."
+        },
+        {
+          "date": "2026-04-08",
+          "edition": "morning",
+          "update": "President Trump on Tuesday threatened that 'a whole civilization will die tonight' and set an 8 p.m. deadline for Iran to reach a peace deal, while also threatening to destroy Tehran's bridges and power plants. The UN Secretary-General stated he was 'deeply troubled' by the statements, and Pope Leo XIV, the first American pontiff, called Trump's threat 'truly unacceptable' outside his residence in Castel Gandolfo. Congressional Democrats, including former House Speaker Nancy Pelosi, called for Trump's removal via the 25th Amendment, while dozens of Democrats demanded he be removed from office. Some Republicans expressed unease, with Sen. Lisa Murkowski urging de-escalation and Rep. Nathaniel Moran stating he does not support destroying a 'whole civilization,' though most GOP lawmakers stayed largely silent. Rep. Jason Crow urged U.S. service members to follow the law if directed to strike Iranian civilian targets, characterizing such strikes as war crimes, an assessment echoed by a New York Times analysis. Separately, American officials reported that Iran-linked hackers were disrupting systems tied to critical U.S. infrastructure."
         },
         {
           "date": "2026-04-08",
           "edition": "evening",
           "update": "A CIA tool called 'Ghost Murmur' was linked to the rescue of a US airman in Iran last weekend. The airman was injured at the time of the rescue."
+        },
+        {
+          "date": "2026-04-08",
+          "edition": "evening",
+          "update": "Iran-linked hackers were responsible for recent disruptions to internet access for companies tied to US oil, gas, and water infrastructure, according to an FBI report published Tuesday. The report warned of an increased effort by hackers to take over Programmable Logic Controller systems. The disclosures came amid the broader US-Iran military escalation that culminated in a ceasefire following Trump's ultimatum tied to the Strait of Hormuz dispute."
+        },
+        {
+          "date": "2026-04-09",
+          "edition": "evening",
+          "update": "An Iranian attack in Kuwait killed six U.S. service members, with survivors disputing the Pentagon's official account of the incident. The attack occurred in the context of Operation Epic Fury, which began in late February; a two-week U.S.-Iran ceasefire took effect on Tuesday. Former Vice President Mike Pence also made public statements about U.S. operations against Iran."
+        },
+        {
+          "date": "2026-04-09",
+          "edition": null,
+          "update": "Pope Leo XIV used the phrase 'delusion of omnipotence' to describe what is driving the war during a vigil at St. Peter's Basilica, again calling for peace in connection with the conflict."
+        },
+        {
+          "date": "2026-04-10",
+          "edition": "morning",
+          "update": "Army survivors of an Iranian attack on U.S. forces in Kuwait disputed the Pentagon's account of the incident, claiming their unit was unprepared to defend itself. A two-week ceasefire between the U.S. and Iran was in effect, while more than 70 Democrats in Congress called for President Trump's removal over his threats against Iran and handling of military operations there. An anonymous Iranian woman described conditions in Tehran to The Australian, including nightly explosions, celebrations, and widespread fear. President Trump cited European nations' unwillingness to back the U.S. in the Iran conflict as a reason to scale back or abandon NATO commitments."
+        },
+        {
+          "date": "2026-04-10",
+          "edition": "evening",
+          "update": "More than 50 Democratic lawmakers invoked the 25th Amendment to call for President Trump's removal after Trump posted a social media threat warning that 'a whole civilization will die tonight' unless Iran met his terms by a Tuesday deadline. The White House sent an email to staff last month warning against using nonpublic information to trade on financial markets, following concerns raised by well-timed bets on oil markets and prediction markets tied to the Iran war. Democrats at a New York convention rallied around opposition to Trump's attack on Iran, with several members mulling presidential bids, while Sen. John Fetterman broke with his party to criticize increasing Democratic criticism of Israel over its joint operations with the U.S. against Iran."
         },
         {
           "date": "2026-04-11",
@@ -1248,12 +1308,17 @@
           "update": "Pope Leo XIV issued a condemnation of the U.S.-Iran war during an evening prayer service at St. Peter's Basilica on Saturday, characterizing the conflict as a 'demonic cycle of evil.' Leo had initially limited early comments to muted appeals for peace before stepping up criticism starting on Palm Sunday. An Iranian rabbi reported that a synagogue in Tehran — one of the city's few remaining synagogues — was destroyed in an Israeli strike. American officials also reported that China may have shipped missiles to Iran and that Beijing is allowing some companies to sell Tehran supplies usable in military production."
         },
         {
-          "date": "2026-04-09",
-          "edition": null,
-          "update": "Pope Leo XIV used the phrase 'delusion of omnipotence' to describe what is driving the war during a vigil at St. Peter's Basilica, again calling for peace in connection with the conflict."
+          "date": "2026-04-15",
+          "edition": "evening",
+          "update": "The Senate held its fourth war powers vote to limit Trump's authority in Iran on Wednesday, but the resolution again failed to pass. Separately, Trump publicly criticized Pope Leo XIV on social media over the pope's statements regarding the Iran conflict, escalating a feud between the two figures."
+        },
+        {
+          "date": "2026-04-16",
+          "edition": "evening",
+          "update": "Defense Secretary Pete Hegseth and Joint Chiefs Chairman Gen. Dan Caine held a press briefing Thursday morning on U.S. military operations related to Iran. Hegseth warned Iranian leaders that the U.S. military was 'locked and loaded' and urged them to 'choose wisely' regarding a deal. The House voted 213-214 to reject a war powers resolution aimed at curtailing Trump's military campaign against Iran, with Republicans blocking the measure along broadly partisan lines. Pope Leo XIV, speaking in Cameroon during an Africa trip, condemned leaders who spend billions on wars and decried a world 'ravaged by a handful of tyrants,' calling for a 'decisive change of course'; he also criticized those who manipulate religion, with the remarks coming amid ongoing attacks from Trump and his allies over the Pope's refusal to back the Iran war. Trump publicly stated he has 'a right to disagree with the Pope' and defended his criticisms. Former Vice President Kamala Harris, speaking outside a gas station in Charlotte, North Carolina, called the conflict a 'war of choice' and blamed Trump for a roughly $15-per-fill-up increase in gas prices since the start of the conflict."
         }
       ],
-      "parentId": null
+      "parentId": "middle-east-military-conflicts-2026"
     },
     {
       "id": "iran-strait-of-hormuz-crisis",
@@ -1886,96 +1951,6 @@
       "parentId": null
     },
     {
-      "id": "us-iran-military-escalation",
-      "title": "US-Iran Military Escalation",
-      "firstSeen": "2026-03-27",
-      "lastSeen": "2026-04-16",
-      "active": true,
-      "entries": [
-        {
-          "date": "2026-03-27",
-          "edition": "morning",
-          "update": "Iran rejected President Trump's 15-point peace plan and countered with its own demands, including control over the Strait of Hormuz, collection of shipping fees, and keeping its missile program without limitations."
-        },
-        {
-          "date": "2026-03-27",
-          "edition": "evening",
-          "update": "The U.S. experienced its weakest Treasury auctions in over three years as investor anxiety around the Iran conflict grew."
-        },
-        {
-          "date": "2026-03-28",
-          "edition": "evening",
-          "update": "One month into the Iran conflict, public polling shows disapproval over the war and petrol prices, while Republicans and Democrats remain entrenched with no coordinated action on the situation."
-        },
-        {
-          "date": "2026-03-29",
-          "edition": "evening",
-          "update": "Iran's Parliamentary Speaker warned U.S. troops would face fierce resistance if deployed, while Pakistan hosted diplomatic talks with Saudi Arabia, Turkey, and Egypt aimed at de-escalation. The U.S.-Iran conflict has been ongoing for approximately one month, with the Pentagon reportedly preparing ground force options and multiple Republican lawmakers not ruling out ground troop deployment."
-        },
-        {
-          "date": "2026-03-30",
-          "edition": "morning",
-          "update": "The International Atomic Energy Agency confirmed on Sunday that Iran's Khondab heavy water plant is offline after suffering severe damage from an Israeli strike on Friday."
-        },
-        {
-          "date": "2026-03-31",
-          "edition": "morning",
-          "update": "President Trump stated that regime change in Iran has been accomplished and that new Iranian leaders are making concessions; more U.S. troops arrived in the Middle East."
-        },
-        {
-          "date": "2026-04-01",
-          "edition": "morning",
-          "update": "Trump told reporters Tuesday he would be leaving Iran \"very soon\"; the war is in its fifth week."
-        },
-        {
-          "date": "2026-04-02",
-          "edition": "morning",
-          "update": "Trump and Israeli Prime Minister Netanyahu started a war against Iran together, though they have divergent priorities regarding the war's outcome."
-        },
-        {
-          "date": "2026-04-02",
-          "edition": "evening",
-          "update": "Wartime fuel shortages in Asia have sparked panic, robberies, and killings in affected areas."
-        },
-        {
-          "date": "2026-04-07",
-          "edition": "morning",
-          "update": "A U.S. F-15 fighter jet was shot down by a shoulder-fired missile in Iran, and a Pentagon press briefing scheduled for Tuesday with Defense Secretary Pete Hegseth and Joint Chiefs Chair Gen. Dan Caine was canceled. Gas prices rose for the ninth consecutive day, reaching a national average of $4.14 per gallon — the highest level since 2022. Some Republican lawmakers expressed growing wariness about the military conflict as it entered its sixth week during midterm election season. Rep. Yassamin Ansari announced she would introduce articles of impeachment against Defense Secretary Hegseth related to planned strikes on Iranian civilian infrastructure. Trump threatened to jail reporters who refused to reveal sources connected to coverage of Iran's strike on a U.S. fighter jet."
-        },
-        {
-          "date": "2026-04-07",
-          "edition": "evening",
-          "update": "President Trump posted on Truth Social that Iran's 'whole civilization will die tonight, never to be brought back again' ahead of an 8 p.m. Tuesday deadline for Tehran to act. The White House responded to questions about potential nuclear weapon use in Iran, denying such a plan. Over 30 congressional Democrats called on the Cabinet to remove Trump from office over his threats to target civilian infrastructure, while House Minority Leader Hakeem Jeffries called on Republicans to 'stop the madness' and Sen. Richard Blumenthal warned that 'bombing alone' cannot achieve Trump's objectives. Iranian hackers also escalated targeting of U.S. critical infrastructure following the onset of the conflict."
-        },
-        {
-          "date": "2026-04-08",
-          "edition": "morning",
-          "update": "President Trump on Tuesday threatened that 'a whole civilization will die tonight' and set an 8 p.m. deadline for Iran to reach a peace deal, while also threatening to destroy Tehran's bridges and power plants. The UN Secretary-General stated he was 'deeply troubled' by the statements, and Pope Leo XIV, the first American pontiff, called Trump's threat 'truly unacceptable' outside his residence in Castel Gandolfo. Congressional Democrats, including former House Speaker Nancy Pelosi, called for Trump's removal via the 25th Amendment, while dozens of Democrats demanded he be removed from office. Some Republicans expressed unease, with Sen. Lisa Murkowski urging de-escalation and Rep. Nathaniel Moran stating he does not support destroying a 'whole civilization,' though most GOP lawmakers stayed largely silent. Rep. Jason Crow urged U.S. service members to follow the law if directed to strike Iranian civilian targets, characterizing such strikes as war crimes, an assessment echoed by a New York Times analysis. Separately, American officials reported that Iran-linked hackers were disrupting systems tied to critical U.S. infrastructure."
-        },
-        {
-          "date": "2026-04-08",
-          "edition": "evening",
-          "update": "Iran-linked hackers were responsible for recent disruptions to internet access for companies tied to US oil, gas, and water infrastructure, according to an FBI report published Tuesday. The report warned of an increased effort by hackers to take over Programmable Logic Controller systems. The disclosures came amid the broader US-Iran military escalation that culminated in a ceasefire following Trump's ultimatum tied to the Strait of Hormuz dispute."
-        },
-        {
-          "date": "2026-04-10",
-          "edition": "evening",
-          "update": "More than 50 Democratic lawmakers invoked the 25th Amendment to call for President Trump's removal after Trump posted a social media threat warning that 'a whole civilization will die tonight' unless Iran met his terms by a Tuesday deadline. The White House sent an email to staff last month warning against using nonpublic information to trade on financial markets, following concerns raised by well-timed bets on oil markets and prediction markets tied to the Iran war. Democrats at a New York convention rallied around opposition to Trump's attack on Iran, with several members mulling presidential bids, while Sen. John Fetterman broke with his party to criticize increasing Democratic criticism of Israel over its joint operations with the U.S. against Iran."
-        },
-        {
-          "date": "2026-04-15",
-          "edition": "evening",
-          "update": "The Senate held its fourth war powers vote to limit Trump's authority in Iran on Wednesday, but the resolution again failed to pass. Separately, Trump publicly criticized Pope Leo XIV on social media over the pope's statements regarding the Iran conflict, escalating a feud between the two figures."
-        },
-        {
-          "date": "2026-04-16",
-          "edition": "evening",
-          "update": "Defense Secretary Pete Hegseth and Joint Chiefs Chairman Gen. Dan Caine held a press briefing Thursday morning on U.S. military operations related to Iran. Hegseth warned Iranian leaders that the U.S. military was 'locked and loaded' and urged them to 'choose wisely' regarding a deal. The House voted 213-214 to reject a war powers resolution aimed at curtailing Trump's military campaign against Iran, with Republicans blocking the measure along broadly partisan lines. Pope Leo XIV, speaking in Cameroon during an Africa trip, condemned leaders who spend billions on wars and decried a world 'ravaged by a handful of tyrants,' calling for a 'decisive change of course'; he also criticized those who manipulate religion, with the remarks coming amid ongoing attacks from Trump and his allies over the Pope's refusal to back the Iran war. Trump publicly stated he has 'a right to disagree with the Pope' and defended his criticisms. Former Vice President Kamala Harris, speaking outside a gas station in Charlotte, North Carolina, called the conflict a 'war of choice' and blamed Trump for a roughly $15-per-fill-up increase in gas prices since the start of the conflict."
-        }
-      ],
-      "parentId": null
-    },
-    {
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
@@ -2039,7 +2014,15 @@
         }
       ],
       "parentId": null
+    },
+    {
+      "id": "middle-east-military-conflicts-2026",
+      "title": "Middle East Military Conflicts (2026)",
+      "parentId": null,
+      "firstSeen": "2026-02-28",
+      "lastSeen": "2026-04-16",
+      "active": true
     }
   ],
-  "updatedAt": "2026-04-16T21:06:13.120Z"
+  "updatedAt": "2026-04-17T11:04:27.259Z"
 }
