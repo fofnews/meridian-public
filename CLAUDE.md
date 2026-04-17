@@ -36,7 +36,7 @@ src/                  — React frontend
     BroadcastHero.jsx — Full-width featured story hero
     DateNav.jsx       — Date and edition navigation
     StoryCard.jsx     — Story display with analysis sections
-    TimelineView.jsx  — Ongoing topics timeline
+    TimelineView.jsx  — Ongoing topics timeline (flattens parent/child hierarchy via buildDisplayTimelines, shows sub-thread labels)
     SuggestionBox.jsx — User suggestion submission and voting
 reports/              — Analysis JSON files (synced from Meridian-Website)
 articles/             — Raw article JSON files (synced from Meridian-Website)
@@ -61,7 +61,9 @@ All data files are read-only on the public site — they are written by Meridian
 - `reports/YYYY-MM-DD-{morning|evening}.json` — full analysis report
 - `articles/YYYY-MM-DD.json` — flat array of raw articles
 - `topics/YYYY-MM-DD.json` — pre-computed topic chips (label, count, sources, keywords)
-- `timelines/timeline.json` — ongoing topic timeline entries
+- `timelines/timeline.json` — ongoing topic timeline; flat array of topics where parents have `children` (via `parentId` on leaves) and leaves carry `entries`. The frontend flattens this hierarchy for display.
+
+Note: the pipeline also maintains `timelines/embeddings.json` as a sidecar for candidate retrieval — it is **not** synced here and is gitignored.
 
 ## Environment Variables (Vercel)
 
