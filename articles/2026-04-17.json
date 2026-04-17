@@ -515,5 +515,67 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-17T07:00:01.200Z"
+  },
+  {
+    "title": "DNA proves remains found in the Columbia River are of a family missing since 1958",
+    "description": "Oregon authorities have identified the remains found in a car in the Columbia River as those of an Oregon family missing since 1958",
+    "link": "https://abcnews.com/US/wireStory/dna-proves-remains-car-found-columbia-river-oregon-132117426",
+    "pubDate": "Fri, 17 Apr 2026 02:20:13 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-04-17T07:15:01.202Z"
+  },
+  {
+    "title": "Russian Attack Drone Breaches NATO Airspace",
+    "description": "Romania has said that a Russian drone breached its airspace near its border with Ukraine.",
+    "link": "https://www.newsweek.com/russian-attack-drone-breaches-nato-airspace-romania-ukraine-war-11842955",
+    "pubDate": "Fri, 17 Apr 2026 03:04:24 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-17T07:15:01.202Z"
+  },
+  {
+    "title": "Israel, Lebanon 10-day cease-fire begins after Trump hails ‘historic day’",
+    "description": "The 10-day cease-fire between Israel and Lebanon appeared to hold Friday – hours after President Trump branded the truce a historic day for Lebanon.",
+    "link": "https://nypost.com/2026/04/17/world-news/israel-lebanon-10-day-cease-fire-begins-after-trump-hails-historic-day/",
+    "pubDate": "Fri, 17 Apr 2026 03:14:38 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-17T07:15:01.202Z"
+  },
+  {
+    "title": "Murder suspect in Iowa realtor cold-case has bail reduced after attorneys argue she had no criminal history",
+    "description": "The Iowa murder suspect charged in the cold case killing of a realtor during an open house 15 years ago was released from jail after her attorneys painted her as an upstanding citizen with no criminal record.",
+    "link": "https://nypost.com/2026/04/17/us-news/iowa-murder-suspect-kristin-ramsey-released-on-reduced-bond-after-ashley-okland-cold-case-arrest/",
+    "pubDate": "Fri, 17 Apr 2026 03:05:41 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-17T07:15:01.202Z"
+  },
+  {
+    "title": "Dear Abby: My friend’s verbally abusive ex-husband is pressuring her to live with him",
+    "description": "Dear Abby advises a person whose friend is being pressured to move back in with her verbally abusive ex-husband.",
+    "link": "https://nypost.com/2026/04/17/lifestyle/dear-abby-my-friends-verbally-abusive-ex-husband-is-pressuring-her-to-live-with-him/",
+    "pubDate": "Fri, 17 Apr 2026 03:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-17T07:15:01.202Z"
+  },
+  {
+    "title": "House passes short term extension of FISA spy authority after GOP rebels block five-year deal",
+    "description": "The House passed a short-term extension of a key government spy tool through unanimous consent early Friday morning after several GOP members voted to sink a late-night deal that would have allowed it to continue until 2031. The 10-day extension kicks the can down the road for GOP leadership to come to an agreement with […]",
+    "link": "https://www.washingtonexaminer.com/news/house/4533181/house-gop-leadership-fisa-extension-government-spy-tool/",
+    "pubDate": "Fri, 17 Apr 2026 07:02:20 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "house",
+      "capitol hill",
+      "fisa",
+      "house of representatives",
+      "mike johnson"
+    ],
+    "collectedAt": "2026-04-17T07:15:01.202Z"
   }
 ]
