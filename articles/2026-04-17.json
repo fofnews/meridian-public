@@ -133,5 +133,34 @@
     "source": "Newsweek",
     "categories": [],
     "collectedAt": "2026-04-17T05:00:01.214Z"
+  },
+  {
+    "title": "Artemis II astronauts share reflections from moon mission",
+    "description": "Artemis II astronauts share reflections from moon mission",
+    "link": "https://www.nbcnews.com/video/shorts/artemis-ii-astronauts-share-reflections-from-moon-mission-261549637917",
+    "pubDate": "Fri, 17 Apr 2026 04:57:23 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-04-17T05:15:01.246Z"
+  },
+  {
+    "title": "Australian ex-soldier Roberts-Smith granted bail in Afghan war crimes case",
+    "description": "Former soldier is accused of murdering five people in Afghanistan.",
+    "link": "https://www.aljazeera.com/news/2026/4/17/australian-ex-soldier-roberts-smith-granted-bail-in-afghan-war-crimes-case?traffic_source=rss",
+    "pubDate": "Fri, 17 Apr 2026 04:56:17 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-17T05:15:01.246Z"
+  },
+  {
+    "title": "Over 200 swarm Atlanta intersection in illegal street takeover roaring with cars racing and doing donuts",
+    "description": "Eighteen people were arrested, multiple firearms were recovered, and vehicles were impounded amid the investigation, police said.",
+    "link": "https://nypost.com/2026/04/17/us-news/over-200-swarm-atlanta-intersection-in-illegal-street-takeover-roaring-with-cars-racing-and-doing-donuts/",
+    "pubDate": "Fri, 17 Apr 2026 01:08:57 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-17T05:15:01.246Z"
   }
 ]
