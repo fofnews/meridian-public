@@ -984,7 +984,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-04-16",
+      "lastSeen": "2026-04-17",
       "active": true,
       "entries": [
         {
@@ -1316,6 +1316,11 @@
           "date": "2026-04-16",
           "edition": "evening",
           "update": "Defense Secretary Pete Hegseth and Joint Chiefs Chairman Gen. Dan Caine held a press briefing Thursday morning on U.S. military operations related to Iran. Hegseth warned Iranian leaders that the U.S. military was 'locked and loaded' and urged them to 'choose wisely' regarding a deal. The House voted 213-214 to reject a war powers resolution aimed at curtailing Trump's military campaign against Iran, with Republicans blocking the measure along broadly partisan lines. Pope Leo XIV, speaking in Cameroon during an Africa trip, condemned leaders who spend billions on wars and decried a world 'ravaged by a handful of tyrants,' calling for a 'decisive change of course'; he also criticized those who manipulate religion, with the remarks coming amid ongoing attacks from Trump and his allies over the Pope's refusal to back the Iran war. Trump publicly stated he has 'a right to disagree with the Pope' and defended his criticisms. Former Vice President Kamala Harris, speaking outside a gas station in Charlotte, North Carolina, called the conflict a 'war of choice' and blamed Trump for a roughly $15-per-fill-up increase in gas prices since the start of the conflict."
+        },
+        {
+          "date": "2026-04-17",
+          "edition": "evening",
+          "update": "Iran's foreign minister declared the Strait of Hormuz 'completely open' for commercial vessels for the duration of the Israel-Lebanon ceasefire, prompting a public statement from President Trump on the development. Oil prices dropped following the announcement."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2020,9 +2025,9 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-04-16",
+      "lastSeen": "2026-04-17",
       "active": true
     }
   ],
-  "updatedAt": "2026-04-17T11:04:27.259Z"
+  "updatedAt": "2026-04-17T21:04:42.979Z"
 }
