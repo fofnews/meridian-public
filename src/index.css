@@ -59,20 +59,24 @@
   --source-center-bg:     #1e2535;
   --source-center-border: #3a4560;
   --source-center-text:   #c8c0b0;
+
+  /* Card border (same as primary in dark mode) */
+  --border-card: #1a2035;
 }
 
 [data-theme="light"] {
   /* Backgrounds — naval steel blue */
-  --bg-primary:   #E8EEF4;
-  --bg-secondary: #D8E2EC;
-  --bg-card:      #F2F6FA;
-  --bg-hover:     #CDDAE8;
-  --bg-input:     #F2F6FA;
-  --bg-tabbar:    #D8E2EC;
+  --bg-primary:   #D0DCE8;  /* deeper steel — page bg */
+  --bg-secondary: #EBF1F7;  /* lighter — cards float above page */
+  --bg-card:      #F5F2ED;  /* warm paper — inner sub-elements */
+  --bg-hover:     #C4D3E0;
+  --bg-input:     #EBF1F7;
+  --bg-tabbar:    #C8D7E4;
 
   /* Borders — navy */
   --border-primary: #1A3A5C;
   --border-dim:     rgba(26,58,92,0.35);
+  --border-card:    rgba(26,58,92,0.18);  /* softer border for collapsed cards */
 
   /* Hero map button borders */
   --hero-border:        rgba(26,58,92,0.45);
@@ -116,7 +120,7 @@
   --section-facts-accent:   #5a6878;
 
   /* SourceBadge center sources */
-  --source-center-bg:     #D8E2EC;
+  --source-center-bg:     #EBF1F7;
   --source-center-border: #1A3A5C;
   --source-center-text:   #1A2E44;
 }
@@ -132,9 +136,11 @@ input::placeholder {
   opacity: 1;
 }
 
-/* Light mode body — naval steel blue matching bg-primary */
+/* Light mode body — naval steel blue with subtle dot-grid depth */
 [data-theme="light"] body {
-  background-color: #E8EEF4;
+  background-color: #D0DCE8;
+  background-image: radial-gradient(rgba(26,58,92,0.08) 1px, transparent 1px);
+  background-size: 22px 22px;
 }
 
 .font-display {

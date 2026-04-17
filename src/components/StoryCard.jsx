@@ -69,7 +69,7 @@ export default function StoryCard({ story, brief = false, expanded, onToggle }) 
       className="rounded-xl overflow-hidden transition-all"
       style={{
         background: 'var(--bg-secondary)',
-        border: '1px solid var(--border-primary)',
+        border: '1px solid var(--border-card)',
         borderLeft: '3px solid var(--accent)',
         boxShadow: '-2px 0 12px rgba(232,197,71,0.12)',
       }}
