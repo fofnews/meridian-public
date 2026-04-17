@@ -8,6 +8,52 @@ function formatDate(dateStr) {
   });
 }
 
+/**
+ * Build a display-ready list of top-level timelines.
+ * Parents get their children's entries flattened and sorted, with sub-thread labels.
+ * Orphan leaves (no parent, no children) pass through as-is.
+ */
+function buildDisplayTimelines(allTimelines) {
+  const parentIds = new Set(
+    allTimelines.filter(t => t.parentId).map(t => t.parentId)
+  );
+
+  const topLevel = [];
+
+  for (const topic of allTimelines) {
+    if (topic.parentId) continue;
+
+    if (parentIds.has(topic.id)) {
+      const children = allTimelines.filter(t => t.parentId === topic.id);
+      const allEntries = [];
+      for (const child of children) {
+        for (const entry of (child.entries || [])) {
+          allEntries.push({ ...entry, subThread: child.title });
+        }
+      }
+      const editionOrder = { morning: 0, evening: 1, manual: 2 };
+      allEntries.sort((a, b) => {
+        const d = b.date.localeCompare(a.date);
+        if (d !== 0) return d;
+        return (editionOrder[a.edition] ?? 3) - (editionOrder[b.edition] ?? 3);
+      });
+
+      topLevel.push({
+        ...topic,
+        firstSeen: children.reduce((min, c) => c.firstSeen < min ? c.firstSeen : min, children[0]?.firstSeen || topic.firstSeen),
+        lastSeen: children.reduce((max, c) => c.lastSeen > max ? c.lastSeen : max, children[0]?.lastSeen || topic.lastSeen),
+        active: children.some(c => c.active),
+        entries: allEntries,
+      });
+    } else {
+      const entries = (topic.entries || []).map(e => ({ ...e, subThread: null }));
+      topLevel.push({ ...topic, entries });
+    }
+  }
+
+  return topLevel;
+}
+
 function TimelineEntry({ entry, isLast }) {
   return (
     <div style={{ display: 'flex', gap: 16, paddingBottom: isLast ? 4 : 20 }}>
@@ -22,11 +68,25 @@ function TimelineEntry({ entry, isLast }) {
       </div>
       <div style={{ paddingBottom: 4, flex: 1 }}>
         <div style={{
+          display: 'flex', alignItems: 'center', gap: 8,
           fontSize: 11, color: 'var(--text-faint)',
           letterSpacing: 1, textTransform: 'uppercase', marginBottom: 6,
         }}>
-          {formatDate(entry.date)}
-          {entry.edition && entry.edition !== 'manual' ? ` · ${entry.edition}` : ''}
+          <span>
+            {formatDate(entry.date)}
+            {entry.edition && entry.edition !== 'manual' ? ` · ${entry.edition}` : ''}
+          </span>
+          {entry.subThread && (
+            <span style={{
+              fontSize: 10, fontWeight: 600,
+              color: 'var(--text-muted)',
+              background: 'var(--bg-secondary, rgba(255,255,255,0.05))',
+              borderRadius: 3, padding: '1px 6px',
+              letterSpacing: 0.5, textTransform: 'none',
+            }}>
+              {entry.subThread}
+            </span>
+          )}
         </div>
         <p style={{ fontSize: 14, color: 'var(--text-secondary)', lineHeight: 1.65, margin: 0 }}>
           {entry.update}
@@ -128,10 +188,11 @@ export default function TimelineView() {
     );
   }
 
-  const active = (data?.timelines ?? [])
+  const displayTimelines = buildDisplayTimelines(data?.timelines ?? []);
+  const active = displayTimelines
     .filter(t => t.active)
     .sort((a, b) => b.lastSeen.localeCompare(a.lastSeen));
-  const inactive = (data?.timelines ?? [])
+  const inactive = displayTimelines
     .filter(t => !t.active)
     .sort((a, b) => b.lastSeen.localeCompare(a.lastSeen));
 
