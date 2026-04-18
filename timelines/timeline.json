@@ -1329,7 +1329,7 @@
       "id": "iran-strait-of-hormuz-crisis",
       "title": "Iran Strait of Hormuz Crisis",
       "firstSeen": "2026-03-10",
-      "lastSeen": "2026-04-15",
+      "lastSeen": "2026-04-18",
       "active": true,
       "entries": [
         {
@@ -1541,6 +1541,11 @@
           "date": "2026-04-15",
           "edition": "evening",
           "update": "Iran's military threatened to disrupt trade through the Red Sea in response to the ongoing U.S. naval blockade of Iranian ports via the Strait of Hormuz."
+        },
+        {
+          "date": "2026-04-18",
+          "edition": "morning",
+          "update": "Iran declared the Strait of Hormuz 'completely open,' but reversed course one day later, reimposing 'strict control' over the waterway and citing the continued U.S. naval blockade as justification. The U.S. stated its naval blockade would remain in effect despite Iran's initial announcement, and Trump publicly responded to Iran's declaration."
         }
       ],
       "parentId": null
@@ -2029,5 +2034,5 @@
       "active": true
     }
   ],
-  "updatedAt": "2026-04-17T21:04:42.979Z"
+  "updatedAt": "2026-04-18T11:03:45.376Z"
 }
