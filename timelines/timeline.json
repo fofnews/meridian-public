@@ -1546,6 +1546,11 @@
           "date": "2026-04-18",
           "edition": "morning",
           "update": "Iran declared the Strait of Hormuz 'completely open,' but reversed course one day later, reimposing 'strict control' over the waterway and citing the continued U.S. naval blockade as justification. The U.S. stated its naval blockade would remain in effect despite Iran's initial announcement, and Trump publicly responded to Iran's declaration."
+        },
+        {
+          "date": "2026-04-18",
+          "edition": "evening",
+          "update": "Iranian gunboats fired on at least one tanker in the Strait of Hormuz following Iran's reimposition of strict control over the waterway on Saturday, April 19, 2026. President Trump accused Iran of trying to 'get cute' and warned that Iran 'can't blackmail us' in response to the re-closure. The closure came despite an earlier announcement involving both Trump and Iranian Foreign Minister Abbas Araghchi, and Iran again cited the U.S. naval blockade as justification."
         }
       ],
       "parentId": null
@@ -2034,5 +2039,5 @@
       "active": true
     }
   ],
-  "updatedAt": "2026-04-18T11:03:45.376Z"
+  "updatedAt": "2026-04-18T21:03:51.352Z"
 }
