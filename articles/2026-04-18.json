@@ -507,5 +507,80 @@
     "source": "BBC News",
     "categories": [],
     "collectedAt": "2026-04-18T08:00:01.184Z"
+  },
+  {
+    "title": "Pop Princess, meet the Queen of Pop! Sabrina Carpenter brings out surprise guest Madonna for Coachella set",
+    "description": "For die-hard Madonna fans, Sabrina Carpenter's Friday Coachella set was \"like (an answered) prayer\" as the \"Queen of Pop\" was brought out as a surprise guest.",
+    "link": "https://www.nbcnews.com/pop-culture/music/sabrina-carpenter-brings-surprise-guest-madonna-coachella-set-rcna332403",
+    "pubDate": "Sat, 18 Apr 2026 06:32:33 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-04-18T08:15:01.277Z"
+  },
+  {
+    "title": "Colleague of Dead Scientists Speaks Out as Trump Admin Investigates",
+    "description": "A former colleague of two of the scientists at the center of the inquiry is pushing back on claims of a broader conspiracy.",
+    "link": "https://www.newsweek.com/colleague-of-dead-scientists-speaks-out-as-trump-admin-investigates-11847526",
+    "pubDate": "Sat, 18 Apr 2026 04:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-18T08:15:01.277Z"
+  },
+  {
+    "title": "Dems sidestep past ‘refuse illegal orders’ demands as they challenge Trump’s Iran war authority",
+    "description": "Democrats backed U.S. troops in the Iran conflict but say President Trump's use of military force lacks congressional approval under the War Powers Act.",
+    "link": "https://www.foxnews.com/politics/dems-sidestep-past-refuse-illegal-orders-demands-challenge-trumps-iran-war-authority",
+    "pubDate": "Sat, 18 Apr 2026 04:00:58 -0400",
+    "source": "Fox News",
+    "categories": [
+      "836cb4c8-4cd1-5645-b97b-6a27a754d479",
+      "fnc",
+      "fox news",
+      "fox-news/politics/defense",
+      "fox-news/us/congress",
+      "fox-news/person/donald-trump",
+      "fox-news/politics/defense/wars/war-with-iran",
+      "fox-news/democrats",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-18T08:15:01.277Z"
+  },
+  {
+    "title": "Iran could use detained Americans as ‘sweetener’ in nuclear talks, ex-hostage envoy warns",
+    "description": "Roger Carstens, former lead hostage negotiator, warns Iran is untrustworthy as the Trump administration considers new round of peace talks in Pakistan.",
+    "link": "https://www.foxnews.com/politics/iran-could-use-detained-americans-sweetener-nuclear-talks-ex-hostage-envoy-warns",
+    "pubDate": "Sat, 18 Apr 2026 04:00:17 -0400",
+    "source": "Fox News",
+    "categories": [
+      "36e09165-d15d-53e7-9681-0a2d240a5272",
+      "fnc",
+      "fox news",
+      "fox-news/politics/defense/wars/war-with-iran",
+      "fox-news/world/conflicts/iran",
+      "fox-news/politics/senate/treaties",
+      "fox-news/person/donald-trump",
+      "fox-news/politics/executive/white-house",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-18T08:15:01.277Z"
+  },
+  {
+    "title": "Israel and Lebanon, led by US, look for new future decoupled from Iranian interference",
+    "description": "Israel and Lebanon, with a heavy push from the Trump administration, are working toward a historic agreement that could end Hezbollah’s decadeslong stranglehold on the latter country. The two countries are not directly at war with each other, even though representatives agreed to a 10-day ceasefire that commenced on Thursday, two days after the ambassadors […]",
+    "link": "https://www.washingtonexaminer.com/news/world/4533772/israel-lebanon-hope-new-future-without-iranian-regime/",
+    "pubDate": "Sat, 18 Apr 2026 08:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "world",
+      "benjamin netanyahu",
+      "defense",
+      "hezbollah",
+      "israel",
+      "lebanon",
+      "national security"
+    ],
+    "collectedAt": "2026-04-18T08:15:01.277Z"
   }
 ]
