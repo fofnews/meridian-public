@@ -772,5 +772,41 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-18T09:30:01.075Z"
+  },
+  {
+    "title": "Trump Extends Sanctions Exemption on Some Russian Oil as High Gas Prices Persist",
+    "description": "The Trump administration made the announcement hours after Iran said the Strait of Hormuz was open to commercial ships, though the status of the waterway remained uncertain.",
+    "link": "https://www.nytimes.com/2026/04/17/world/middleeast/russia-us-oil-sanctions.html",
+    "pubDate": "Sat, 18 Apr 2026 09:36:55 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "treasury department",
+      "bessent, scott",
+      "russia",
+      "oil (petroleum) and gasoline",
+      "trump, donald j"
+    ],
+    "collectedAt": "2026-04-18T09:45:01.197Z"
+  },
+  {
+    "title": "Why You Shouldn’t Sleep on ‘Grandma Skincare’—According to a Dermatologist",
+    "description": "Lindsey Zubritsky shared some of her most-trusted skincare staples with Newsweek, and a few of them might surprise you.",
+    "link": "https://www.newsweek.com/why-you-should-check-out-grandma-skincare-dermatologist-11839809",
+    "pubDate": "Sat, 18 Apr 2026 05:30:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-18T09:45:01.197Z"
+  },
+  {
+    "title": "Pakistan PM, army chief wrap up key trips in push for more US-Iran talks",
+    "description": "Asim Munir leaves Tehran while PM Shehbaz Sharif heads home from Turkiye with hopes of another round of US-Iran talks.",
+    "link": "https://www.aljazeera.com/news/2026/4/18/pakistan-pm-army-chief-wrap-up-key-trips-in-push-for-more-us-iran-talks?traffic_source=rss",
+    "pubDate": "Sat, 18 Apr 2026 09:27:38 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-18T09:45:01.197Z"
   }
 ]
