@@ -133,5 +133,61 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-18T04:30:01.316Z"
+  },
+  {
+    "title": "Millions under threat of severe weather, including tornadoes",
+    "description": "As storms develop Friday afternoon, there is a chance for discrete supercells with very large hail, strong tornadoes and destructive, straight-line winds.",
+    "link": "https://abcnews.com/US/millions-severe-weather-threat-destructive-storms/story?id=132144664",
+    "pubDate": "Sat, 18 Apr 2026 00:36:52 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-04-18T04:45:01.310Z"
+  },
+  {
+    "title": "Robot faceplants during humanoid marathon prep",
+    "description": "Robot faceplants during humanoid marathon prep",
+    "link": "https://www.nbcnews.com/video/shorts/robot-faceplants-during-humanoid-marathon-prep-261618757687",
+    "pubDate": "Sat, 18 Apr 2026 04:11:56 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-04-18T04:45:01.310Z"
+  },
+  {
+    "title": "New Jersey Transit announces $150 train fare for World Cup",
+    "description": "New Jersey Transit announces $150 train fare for World Cup",
+    "link": "https://www.nbcnews.com/video/shorts/new-jersey-transit-announces-150-train-fare-for-world-cup-261618757751",
+    "pubDate": "Sat, 18 Apr 2026 04:23:32 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-04-18T04:45:01.310Z"
+  },
+  {
+    "title": "WrestleMania 42 Sunday: Full Card Predictions and Surprises",
+    "description": "Will Roman Reigns win the world title? Can Oba Femi slay Brock Lesnar? What are your predictions for WrestleMania 42 on Sunday?",
+    "link": "https://www.newsweek.com/sports/wrestling/wrestlemania-42-sunday-full-card-predictions-and-surprises-11848463",
+    "pubDate": "Sat, 18 Apr 2026 00:37:27 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-18T04:45:01.310Z"
+  },
+  {
+    "title": "Insider Names 2 ‘Late Risers’ Who Could Sneak Into Round 1 of 2026 NFL Draft",
+    "description": "One prominent NFL insider believes there's two under-the-radar players who could creep into the first round of the 2026 NFL draft.",
+    "link": "https://www.newsweek.com/sports/nfl/insider-names-2-late-risers-who-could-sneak-into-round-1-of-2026-nfl-draft-11848486",
+    "pubDate": "Sat, 18 Apr 2026 00:36:48 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-18T04:45:01.310Z"
+  },
+  {
+    "title": "Doc Rivers ready to close book on NBA coaching career after Bucks disaster: ‘I’m done’",
+    "description": "Doc Rivers has an NBA Finals win and a Coach of the Year honor on his ledger and is set to join the Naismith Memorial Basketball Hall of Fame this year.",
+    "link": "https://nypost.com/2026/04/18/sports/doc-rivers-ready-to-close-book-on-nba-coaching-career/",
+    "pubDate": "Sat, 18 Apr 2026 00:32:35 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-18T04:45:01.310Z"
   }
 ]
