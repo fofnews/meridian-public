@@ -6718,5 +6718,105 @@
     "source": "Newsmax",
     "categories": [],
     "collectedAt": "2026-04-19T23:15:01.312Z"
+  },
+  {
+    "title": "Frustration, apathy and hope: Birmingham divided as extraordinary election looms",
+    "description": "Is the UK's second city about to see the biggest political shake-up in more than a decade?",
+    "link": "https://www.bbc.com/news/articles/cr411gk7pwlo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 19 Apr 2026 23:19:54 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-19T23:30:01.339Z"
+  },
+  {
+    "title": "José Andrés on how food fits into America's story | 60 Minutes",
+    "description": "Chef José Andrés, who became an American citizen in 2014, says food is both tradition and \"also our future. The strength of America depends on how we feed ourselves but also how we feed the world.\"",
+    "link": "https://www.cbsnews.com/video/jose-andres-60-minutes-video-2026-04-19/",
+    "pubDate": "Sun, 19 Apr 2026 19:15:01 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-04-19T23:30:01.339Z"
+  },
+  {
+    "title": "President Trump says U.S. struck & seized Iranian tanker",
+    "description": "President Trump announcing the U.S. Navy struck and seized an Iranian tanker attempting to cross the U.S.’ blockade. It comes as the U.S.’ ceasefire with Iran is in jeopardy. The White House says negotiators, including Vice President JD Vance, will return to Pakistan tomorrow for a new round of peace talks with Iran. NBC News’ Molly Hunter reports from Tel Aviv.",
+    "link": "https://www.nbcnews.com/video/president-trump-says-u-s-struck-seized-iranian-tanker-261681221686",
+    "pubDate": "Sun, 19 Apr 2026 21:55:23 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-04-19T23:30:01.339Z"
+  },
+  {
+    "title": "Oil prices jump amid renewed tensions over the Strait of Hormuz",
+    "description": "The price of oil jumped sharply and stock futures tumbled Sunday evening as traders digested renewed tensions between the U.S. and Iran over the critical Strait of Hormuz.U.S.",
+    "link": "https://www.nbcnews.com/business/markets/oil-prices-jump-renewed-tensions-strait-hormuz-rcna340901",
+    "pubDate": "Sun, 19 Apr 2026 22:53:27 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-04-19T23:30:01.339Z"
+  },
+  {
+    "title": "Louisiana Mass Shooting: Police Identify Gunman Who Killed 8 Children",
+    "description": "Police say Shamar Elkins killed eight children, seven his own, in a Shreveport domestic attack before dying in a police pursuit.",
+    "link": "https://www.newsweek.com/louisiana-mass-shooting-police-identify-gunman-who-killed-8-children-11851475",
+    "pubDate": "Sun, 19 Apr 2026 19:26:24 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-19T23:30:01.339Z"
+  },
+  {
+    "title": "Penta hangs on to Intercontinental Championship in exhilarating ladder match at WrestleMania 42",
+    "description": "Penta fended off five challengers in a thrilling six-man ladder match at WrestleMania 42 to retain the WWE Intercontinental Championship in Las Vegas.",
+    "link": "https://www.foxnews.com/sports/penta-hangs-intercontinental-championship-exhilarating-ladder-match-wrestlemania-42",
+    "pubDate": "Sun, 19 Apr 2026 19:22:37 -0400",
+    "source": "Fox News",
+    "categories": [
+      "fa05329e-6e34-579f-b793-24a36dfee0a1",
+      "fnc",
+      "fox news",
+      "fox-news/wrestlemania",
+      "fox-news/organization/wwe",
+      "fox-news/sports/pro-wrestling",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-04-19T23:30:01.339Z"
+  },
+  {
+    "title": "The Strokes end Coachella weekend two set with politically charged video targeting CIA and US government",
+    "description": "The Strokes appeared to take aim at the U.S. government during Coachella, closing their set with a video referencing the CIA, Gaza and Iran bombings.",
+    "link": "https://www.foxnews.com/entertainment/strokes-end-coachella-weekend-two-set-politically-charged-video-targeting-cia-us-government",
+    "pubDate": "Sun, 19 Apr 2026 19:12:59 -0400",
+    "source": "Fox News",
+    "categories": [
+      "3733475b-23a8-5016-aa96-85f93b465faa",
+      "fnc",
+      "fox news",
+      "fox-news/topic/anti-semitism",
+      "fox-news/entertainment",
+      "fox-news/entertainment/genres/rock",
+      "fox-news/entertainment/music",
+      "fox-news/entertainment",
+      "article"
+    ],
+    "collectedAt": "2026-04-19T23:30:01.339Z"
+  },
+  {
+    "title": "Islamic Guard takes full control of Iran, sidelines moderates: analysts",
+    "description": "Iran's hardline Islamic Revolutionary Guard Corps has effectively taken control of Iran's military and negotiation team over the weekend, experts said.",
+    "link": "https://nypost.com/2026/04/19/world-news/islamic-guard-takes-full-control-of-iran-sidelines-moderates-analysts/",
+    "pubDate": "Sun, 19 Apr 2026 19:24:03 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-19T23:30:01.339Z"
+  },
+  {
+    "title": "Report: NSA Taps Anthropic AI Amid War Dept Risk Warning - Newsmax",
+    "description": "Report: NSA Taps Anthropic AI Amid War Dept Risk Warning  Newsmax",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45NWpWdmE2N2RfbmsyMnFUY01wT3BmeV9jZ2tqcmlOem9oNWJYU0xNb1kwMXJUUjV4aEJjdWhIX2FYZVhVT0RRcVFNUFBpeW9PbkZZbmdrbzQ4akQ0dlNqMWdxRzdTamVjd0RPeXNlWU9SUzdYcWtETzNoMjg?oc=5",
+    "pubDate": "Sun, 19 Apr 2026 20:37:07 GMT",
+    "source": "Newsmax",
+    "categories": [],
+    "collectedAt": "2026-04-19T23:30:01.339Z"
   }
 ]
