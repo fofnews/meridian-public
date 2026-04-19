@@ -413,5 +413,45 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-19T08:00:01.056Z"
+  },
+  {
+    "title": "Police investigating potential shooting near University of Iowa, campus says",
+    "description": "\"First responders on scene. Confirmed victims,\" the university said in an alert.",
+    "link": "https://abcnews.com/US/police-investigating-potential-shooting-university-iowa-campus/story?id=132180231",
+    "pubDate": "Sun, 19 Apr 2026 04:07:06 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-04-19T08:15:01.273Z"
+  },
+  {
+    "title": "Trump-Backed Steve Hilton Is Leading California Governor Polls—Can He Win?",
+    "description": "“California is desperate for change,\" the Republican contender told Newsweek.",
+    "link": "https://www.newsweek.com/republican-steve-hilton-california-governor-race-2026-donald-trump-11849699",
+    "pubDate": "Sun, 19 Apr 2026 04:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-19T08:15:01.273Z"
+  },
+  {
+    "title": "Want a ‘Golden Retriever‑Type’ Dog but Have Allergies? Try These Breeds",
+    "description": "Allergies don’t mean you avoid owning dogs—a golden retriever might not suit you, but these breeds may, experts told Newsweek.",
+    "link": "https://www.newsweek.com/want-golden-retriever-type-dog-allergies-try-breeds-11827004",
+    "pubDate": "Sun, 19 Apr 2026 04:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-19T08:15:01.273Z"
+  },
+  {
+    "title": "Lionel Messi scores twice as Inter Miami defeat Rapids in MLS",
+    "description": "Argentine forward's brace included the match winner against Colorado Rapids in front of over 75,000 fans in Denver.",
+    "link": "https://www.aljazeera.com/sports/2026/4/19/lionel-messi-scores-twice-as-inter-miami-defeat-rapids-in-mls?traffic_source=rss",
+    "pubDate": "Sun, 19 Apr 2026 08:05:28 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-04-19T08:15:01.273Z"
   }
 ]
