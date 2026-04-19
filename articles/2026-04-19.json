@@ -563,5 +563,52 @@
       "news"
     ],
     "collectedAt": "2026-04-19T09:15:01.116Z"
+  },
+  {
+    "title": "Another attempted arson attack on synagogue reported",
+    "description": "A synagogue was hit by an arson attack overnight, a Jewish community body said.",
+    "link": "https://www.bbc.com/news/articles/ce35qwk9k5do?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 19 Apr 2026 09:24:33 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-19T09:30:01.361Z"
+  },
+  {
+    "title": "Erosion of Democratic support for Israel raises fears of a lasting partisan split",
+    "description": "A Senate vote this week to block certain arms sales to Israel may have been largely symbolic, but for many Democrats and foreign policy observers, it underscored something more consequential: a shift inside the Democratic Party that is beginning to test the long-standing bipartisan consensus on the Jewish state. More than three dozen Senate Democrats […]",
+    "link": "https://www.washingtonexaminer.com/news/senate/4533670/democrats-israel-support-divide-senate-vote/",
+    "pubDate": "Sun, 19 Apr 2026 09:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "senate",
+      "2026 elections",
+      "aipac",
+      "congress",
+      "democratic party",
+      "donald trump",
+      "israel",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-04-19T09:30:01.361Z"
+  },
+  {
+    "title": "Prosecutor who charged ICE officer took $286K from far-left PACs",
+    "description": "The Minnesota prosecutor who charged a federal immigration agent with felony assault received more than $286,000 in backing from far-left political groups and dark-money nonprofits, according to campaign finance filings reviewed by the Washington Examiner, raising scrutiny as tensions escalate between federal authorities and local officials. Hennepin County Attorney Mary Moriarty announced Thursday that Immigration […]",
+    "link": "https://www.washingtonexaminer.com/news/justice/4534061/prosecutor-who-charged-ice-officer-286k-far-left-pacs/",
+    "pubDate": "Sun, 19 Apr 2026 09:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "justice",
+      "department of homeland security",
+      "george soros",
+      "ice",
+      "minneapolis",
+      "minnesota",
+      "police and law enforcement",
+      "todd blanche",
+      "trump administration",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-04-19T09:30:01.361Z"
   }
 ]
