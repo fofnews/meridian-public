@@ -312,5 +312,41 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-19T06:30:01.162Z"
+  },
+  {
+    "title": "Newspaper headlines: 'Starmer accused of Mandelson cover up' and 'Time for Strait talking'",
+    "description": "Criticism of Downing Street's handling of Lord Peter Mandeslon's vetting scandal remains prominent on Sunday's front pages.",
+    "link": "https://www.bbc.com/news/articles/cge0vwj1drwo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 19 Apr 2026 04:15:40 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-19T06:45:02.278Z"
+  },
+  {
+    "title": "Titanic survivor's life jacket sells for over $900K at auction, far exceeding price expectations",
+    "description": "A life jacket worn by Titanic survivor Laura Mabel Francatelli sold for roughly $906,000 at auction, far exceeding its pre-sale estimate of $475,000.",
+    "link": "https://www.foxnews.com/travel/titanic-survivors-life-jacket-sells-900k-auction-far-exceeding-price-expectations",
+    "pubDate": "Sun, 19 Apr 2026 02:43:12 -0400",
+    "source": "Fox News",
+    "categories": [
+      "ef5b8c60-1e2f-5772-8e8d-2aafba110470",
+      "fnc",
+      "fox news",
+      "fox-news/travel/general/cruises",
+      "fox-news/travel/general/luxury",
+      "fox-news/science/planet-earth/oceans",
+      "fox-news/travel",
+      "article"
+    ],
+    "collectedAt": "2026-04-19T06:45:02.278Z"
+  },
+  {
+    "title": "Jalen Brunson’s subpar game lends feel good possibilites for playoff Knicks",
+    "description": "Jalen Brunson was doing Jalen Brunson things for the first 12 minutes. But then the rest of the game happened.",
+    "link": "https://nypost.com/2026/04/19/sports/jalen-brunsons-subpar-game-lends-feel-good-possibilites-for-playoff-knicks/",
+    "pubDate": "Sun, 19 Apr 2026 02:42:43 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-19T06:45:02.278Z"
   }
 ]
