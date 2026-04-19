@@ -9032,5 +9032,81 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-19T02:00:01.376Z"
+  },
+  {
+    "title": "4/18: CBS Weekend News",
+    "description": "CBS News on the Strait of Hormuz; Trump seems optimistic for a diplomatic end to the war.",
+    "link": "https://www.cbsnews.com/video/041826-cbs-weekend-news/",
+    "pubDate": "Sat, 18 Apr 2026 18:30:00 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-04-19T02:15:03.848Z"
+  },
+  {
+    "title": "Nicole Kidman recalls being alone in Venice the night she learned her mother had died",
+    "description": "Nicole Kidman opens up about her mother's death, her harrowing night alone in Venice and her newfound plans to become a death doula after loss.",
+    "link": "https://www.foxnews.com/entertainment/nicole-kidman-recalls-alone-venice-night-learned-mother-died",
+    "pubDate": "Sat, 18 Apr 2026 22:07:55 -0400",
+    "source": "Fox News",
+    "categories": [
+      "ddd11d15-839a-578c-a2e2-14052a65db9c",
+      "fnc",
+      "fox news",
+      "fox-news/person/nicole-kidman",
+      "fox-news/entertainment",
+      "fox-news/entertainment/movies",
+      "fox-news/entertainment/tv",
+      "fox-news/entertainment",
+      "article"
+    ],
+    "collectedAt": "2026-04-19T02:15:03.848Z"
+  },
+  {
+    "title": "Elon Musk fulfills teen's last wish in touching X post after she was too weak to take his call",
+    "description": "A 15-year-old cancer patient dreamed of meeting Elon Musk. After she died, he answered her handwritten questions and made her plushie a SpaceX mascot.",
+    "link": "https://www.foxnews.com/media/elon-musk-fulfills-teens-last-wish-touching-x-post-after-weak-take-call",
+    "pubDate": "Sat, 18 Apr 2026 21:54:34 -0400",
+    "source": "Fox News",
+    "categories": [
+      "96d753ad-6f9b-5596-a245-7820d7c6aeac",
+      "fnc",
+      "fox news",
+      "fox-news/person/elon-musk",
+      "fox-news/science/air-and-space/spaceflight",
+      "fox-news/auto/make/tesla",
+      "fox-news/media",
+      "fox-news/us",
+      "fox-news/lifestyle",
+      "fox-news/media",
+      "article"
+    ],
+    "collectedAt": "2026-04-19T02:15:03.848Z"
+  },
+  {
+    "title": "Deadly drug overdoses in San Francisco hit chilling milestone as city leaders shrug",
+    "description": "San Francisco continues to grapple with a staggering number of fatal drug overdoses. The latest Centers for Disease Control and Prevention (CDC) data puts the city second on the list, trailing behind only Baltimore.",
+    "link": "https://nypost.com/2026/04/18/us-news/deadly-drug-overdoses-in-san-francisco-hit-chilling-milestone-as-city-leaders-shrug/",
+    "pubDate": "Sat, 18 Apr 2026 22:12:19 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-19T02:15:03.848Z"
+  },
+  {
+    "title": "Florida homeless man tries to shoot dog attacking woman, but shoots owner to death instead",
+    "description": "A Florida man is on the run from the law after his attempt to save a woman from a dog attack went haywire.",
+    "link": "https://nypost.com/2026/04/18/us-news/florida-homeless-man-tries-to-shoot-dog-attacking-woman-but-shoots-owner-to-death-instead/",
+    "pubDate": "Sat, 18 Apr 2026 22:10:51 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-19T02:15:03.848Z"
+  },
+  {
+    "title": "Changpeng Zhao’s memoir is key to understanding the future of crypto",
+    "description": "The controversial crypto mogul better known as CZ, has published a new book called “Freedom of Money” — a narrative of his life and career.",
+    "link": "https://nypost.com/2026/04/18/business/changpeng-zhaos-book-detailing-his-life-shows-a-success-story-and-a-controversy-in-the-world-of-cryptocurrency/",
+    "pubDate": "Sat, 18 Apr 2026 22:01:19 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-19T02:15:03.848Z"
   }
 ]
