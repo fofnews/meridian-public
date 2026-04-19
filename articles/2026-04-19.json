@@ -229,5 +229,32 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-19T06:00:01.409Z"
+  },
+  {
+    "title": "\"48 Hours\" show schedule",
+    "description": "True crime. Real justice. To miss it would be a crime.",
+    "link": "https://www.cbsnews.com/48-hours/episode-schedule/",
+    "pubDate": "Sun, 19 Apr 2026 02:10:21 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-04-19T06:15:01.170Z"
+  },
+  {
+    "title": "Investigators team up to solve mystery of missing Iowa teen",
+    "description": "After Jade Colvin, a missing Iowa teenager, is tracked to a remote farm, photos discovered on an old cellphone reveal important clues.",
+    "link": "https://www.cbsnews.com/news/jade-colvin-iowa-missing-teen-search-48-hours/",
+    "pubDate": "Sun, 19 Apr 2026 02:10:20 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-04-19T06:15:01.170Z"
+  },
+  {
+    "title": "Jade Colvin is Missing",
+    "description": "Photos discovered on an old cellphone help solve the disappearance of a 14-year-old girl. \"48 Hours\" correspondent Natalie Morales reports.",
+    "link": "https://www.cbsnews.com/video/jade-colvin-is-missing/",
+    "pubDate": "Sun, 19 Apr 2026 02:00:00 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-04-19T06:15:01.170Z"
   }
 ]
