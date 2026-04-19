@@ -1892,5 +1892,91 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-19T12:45:01.181Z"
+  },
+  {
+    "title": "Attempted murder arrest after car hits pedestrians in central London",
+    "description": "The incident took place in central London in the early hours, leaving a woman in a critical condition.",
+    "link": "https://www.bbc.com/news/articles/cm2kgvlrmdeo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 19 Apr 2026 12:36:30 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-19T13:00:01.173Z"
+  },
+  {
+    "title": "This week on \"Sunday Morning\" (April 19)",
+    "description": "A look at the features for this week's broadcast of the Emmy-winning program, hosted by Jane Pauley.",
+    "link": "https://www.cbsnews.com/news/this-week-on-sunday-morning-april-19-2026/",
+    "pubDate": "Sun, 19 Apr 2026 08:52:38 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-04-19T13:00:01.173Z"
+  },
+  {
+    "title": "Humanoid robot runs a half-marathon race faster than the human world record",
+    "description": "The bipedal humanoid, developed by smartphone maker Honor, blazed through the 13-mile race in just 50 minutes and 26 seconds, surpassing the human world record for a half-marathon.",
+    "link": "https://www.nbcnews.com/video/humanoid-robot-runs-a-half-marathon-race-faster-than-the-human-world-record-261664325874",
+    "pubDate": "Sun, 19 Apr 2026 12:22:51 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-04-19T13:00:01.173Z"
+  },
+  {
+    "title": "Trump says US negotiators will head to Pakistan for Iran ceasefire talks",
+    "description": "US President warns of severe repercussions if Iran 'doesn't take the deal'.",
+    "link": "https://www.aljazeera.com/news/2026/4/19/trump-says-us-negotiators-will-head-to-pakistan-for-iran-ceasefire-talks?traffic_source=rss",
+    "pubDate": "Sun, 19 Apr 2026 12:38:11 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-19T13:00:01.173Z"
+  },
+  {
+    "title": "Pope Leo decries ramp-up in Ukraine war, calls for 'weapons to fall silent' - Reuters",
+    "description": "Pope Leo decries ramp-up in Ukraine war, calls for 'weapons to fall silent'  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNl9kQUtQa2VBRjJLSURTMWpmNWl4UmQ3ckZTb19TRUpqLXFoM2VWUGlVRUVzWi1CcHVYZFNCZXZBYlJiQmZpRE5JTHp6V3A4bUtPUnFhTGktRGxCN010TXRTUmhfQWZSSUVOSjdfcnFXZ3ZJWG5jNjJ3amREbUg0cWZHMzZoUWVnVUR1ZWsyREdlMXo2ZUFMYUo2N2QydElKcUxpbElHUQ?oc=5",
+    "pubDate": "Sun, 19 Apr 2026 11:21:43 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-04-19T13:00:01.173Z"
+  },
+  {
+    "title": "Trump renews bridge, power plant threat against Iran in push for deal, mocks 'tough guy' IRGC",
+    "description": "",
+    "link": "https://www.foxnews.com/politics/trump-renews-bridge-power-plant-threat-against-iran-push-deal-mocks-tough-guy-irgc",
+    "pubDate": "Sun, 19 Apr 2026 08:54:42 -0400",
+    "source": "Fox News",
+    "categories": [
+      "c981d6c2-9997-5f76-b4de-30e908c3c905",
+      "fnc",
+      "fox news",
+      "fox-news/person/donald-trump",
+      "fox-news/politics/defense/wars/war-with-iran",
+      "fox-news/world/world-regions/middle-east",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-19T13:00:01.173Z"
+  },
+  {
+    "title": "Trump and the Christian Right crack-up",
+    "description": "A week of battling with the pope and over AI-generated images depicting President Donald Trump has revealed tensions between two crucial socially conservative voting blocs ahead of the midterm elections. Republicans need strong turnout from evangelical Protestants and to get close to Trump’s support levels among Catholics in order to defend their narrow congressional majorities […]",
+    "link": "https://www.washingtonexaminer.com/news/white-house/4534728/trump-christian-right-pope-ai-jesus/",
+    "pubDate": "Sun, 19 Apr 2026 12:27:53 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "white house",
+      "2026 elections",
+      "abortion",
+      "catholic church",
+      "conservatives",
+      "donald trump",
+      "evangelicals",
+      "iran",
+      "israel",
+      "pope leo xiv",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-04-19T13:00:01.173Z"
   }
 ]
