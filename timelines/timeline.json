@@ -984,7 +984,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-04-17",
+      "lastSeen": "2026-04-19",
       "active": true,
       "entries": [
         {
@@ -1321,6 +1321,11 @@
           "date": "2026-04-17",
           "edition": "evening",
           "update": "Iran's foreign minister declared the Strait of Hormuz 'completely open' for commercial vessels for the duration of the Israel-Lebanon ceasefire, prompting a public statement from President Trump on the development. Oil prices dropped following the announcement."
+        },
+        {
+          "date": "2026-04-19",
+          "edition": "evening",
+          "update": "President Trump announced Sunday that U.S. forces seized an Iranian-flagged cargo ship after it attempted to breach a U.S. naval blockade; forces fired on the vessel after issuing warnings, blowing a hole in its engine room. In a contentious CNN 'State of the Union' interview, Jake Tapper pressed Rep. Elise Stefanik on Trump's message warning that a 'whole civilization will die' in Iran."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1559,7 +1564,7 @@
       "id": "hezbollah-us-operations",
       "title": "Hezbollah US Operations",
       "firstSeen": "2026-03-15",
-      "lastSeen": "2026-03-31",
+      "lastSeen": "2026-04-19",
       "active": true,
       "entries": [
         {
@@ -1581,6 +1586,11 @@
           "date": "2026-03-31",
           "edition": "morning",
           "update": "A Hezbollah-inspired terrorist attack occurred on March 12 at Temple Israel synagogue in Michigan, with the attacker dying at the scene."
+        },
+        {
+          "date": "2026-04-19",
+          "edition": "evening",
+          "update": "Shamim Mafi was arrested by federal authorities at LAX and accused of brokering sales of Iranian-made weapons, including drones and bombs, allegedly sold to Sudan."
         }
       ],
       "parentId": null
@@ -2035,9 +2045,9 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-04-17",
+      "lastSeen": "2026-04-19",
       "active": true
     }
   ],
-  "updatedAt": "2026-04-19T11:03:31.784Z"
+  "updatedAt": "2026-04-19T21:04:06.764Z"
 }
