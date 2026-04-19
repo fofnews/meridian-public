@@ -7,5 +7,50 @@
     "source": "BBC News",
     "categories": [],
     "collectedAt": "2026-04-19T04:15:01.242Z"
+  },
+  {
+    "title": "Iran live updates: Tehran reviewing US proposal as it reasserts control over strait",
+    "description": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.",
+    "link": "https://abcnews.com/International/live-updates/iran-live-updates-us-blockade-irans-strait-hormuz/?id=131983647",
+    "pubDate": "Sun, 19 Apr 2026 00:16:20 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-04-19T04:30:01.300Z"
+  },
+  {
+    "title": "Tear gas, pepper spray and arrests as protesters try to storm a Wisconsin beagle lab",
+    "description": "Wisconsin animal rights activists were fired with tear gas and pepper spray after trying to gain entry into a beagle breeding and research facility on Saturday.",
+    "link": "https://nypost.com/2026/04/19/us-news/tear-gas-pepper-spray-and-arrests-as-protesters-try-to-storm-a-wisconsin-beagle-lab/",
+    "pubDate": "Sun, 19 Apr 2026 00:23:05 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-19T04:30:01.300Z"
+  },
+  {
+    "title": "Three year old shoots two people during ‘Youth Turkey Hunt’ in Wisconsin",
+    "description": "A man and his son were hospitalized after getting shot in the back, hands and head by a three-year-old boy during a youth hunting trip in Wisconsin.",
+    "link": "https://nypost.com/2026/04/19/us-news/wisconsin-three-year-old-shoots-two-people-in-freak-turkey-hunting-accident/",
+    "pubDate": "Sun, 19 Apr 2026 00:16:38 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-19T04:30:01.300Z"
+  },
+  {
+    "title": "Patel threatens to sue Atlantic over story alleging excessive drinking",
+    "description": "FBI Director Kash Patel has threatened to sue the Atlantic over a recent story detailing alleged concerns in the bureau over his drinking and absences at work. The report, published on Friday, described a pattern of heavy drinking both in Washington, D.C., and Las Vegas, where Patel reportedly spends some of his weekends. Patel’s drinking […]",
+    "link": "https://www.washingtonexaminer.com/news/justice/4534834/fbi-patel-atlantic-lawsuit-threat/",
+    "pubDate": "Sun, 19 Apr 2026 04:23:53 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "justice",
+      "fbi",
+      "kash patel",
+      "media",
+      "trump administration",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-04-19T04:30:01.300Z"
   }
 ]
