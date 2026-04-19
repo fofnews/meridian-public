@@ -1454,5 +1454,125 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-19T11:45:02.615Z"
+  },
+  {
+    "title": "Ageless Beauty",
+    "description": "We examine a surprising trend on the runways of Paris.",
+    "link": "https://www.nytimes.com/2026/04/19/briefing/ageless-beauty.html",
+    "pubDate": "Sun, 19 Apr 2026 11:33:04 +0000",
+    "source": "NY Times",
+    "categories": [
+      "internal-storyline-no",
+      "paris fashion week",
+      "age, chronological",
+      "couture (fashion)"
+    ],
+    "collectedAt": "2026-04-19T12:00:01.188Z"
+  },
+  {
+    "title": "Pope Leo tells Angola during huge Mass to ‘build hope’",
+    "description": "On the third leg of his Africa tour, Leo urges Angola to move beyond \"divisions\" created by its war-scarred past.",
+    "link": "https://www.aljazeera.com/news/2026/4/19/pope-leo-tells-angola-during-huge-mass-to-build-hope?traffic_source=rss",
+    "pubDate": "Sun, 19 Apr 2026 11:45:48 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-19T12:00:01.188Z"
+  },
+  {
+    "title": "Iran war: 10 frequently used words and their meanings",
+    "description": "The US-Israel war on Iran nears two months.  We break down some of the frequently used terminology in this war.",
+    "link": "https://www.aljazeera.com/news/2026/4/19/iran-war-10-frequently-used-words-and-their-meanings?traffic_source=rss",
+    "pubDate": "Sun, 19 Apr 2026 11:40:06 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-19T12:00:01.188Z"
+  },
+  {
+    "title": "LIVE: Manchester City vs Arsenal – Premier League",
+    "description": "Follow our pre-match build-up, team news, and live text commentary stream as Manchester City host Arsenal at the Etihad.",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/4/19/live-manchester-city-vs-arsenal-premier-league-2?traffic_source=rss",
+    "pubDate": "Sun, 19 Apr 2026 11:36:20 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-04-19T12:00:01.188Z"
+  },
+  {
+    "title": "Does the world need new leaders? Varsha Gandikota & Naledi Pandor",
+    "description": "Varsha Gandikota-Nellutla asks former South African Foreign Minister Naledi Pandor if global leadership is in crisis.",
+    "link": "https://www.aljazeera.com/video/reframe/2026/4/19/does-the-world-need-new-leaders-varsha-gandikota-naledi-pandor?traffic_source=rss",
+    "pubDate": "Sun, 19 Apr 2026 11:32:55 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "tv shows"
+    ],
+    "collectedAt": "2026-04-19T12:00:01.188Z"
+  },
+  {
+    "title": "Iran warns Hormuz will stay shut unless US lifts siege on its ports",
+    "description": "Tehran is threatening to keep the Strait of Hormuz shut unless Washington lifts the ‘US siege’ on Iranian ports.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/19/iran-warns-hormuz-will-stay-shut-unless-us-lifts-siege-on-its-ports?traffic_source=rss",
+    "pubDate": "Sun, 19 Apr 2026 11:31:31 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-04-19T12:00:01.188Z"
+  },
+  {
+    "title": "Does Israel’s ‘Yellow Line’ violate the Lebanon ceasefire?",
+    "description": "The Israeli 'Yellow Line' in Lebanon raises fears that a temporary military zone could become a longer-term occupation.",
+    "link": "https://www.aljazeera.com/news/2026/4/19/does-israels-yellow-line-violate-the-lebanon-ceasefire?traffic_source=rss",
+    "pubDate": "Sun, 19 Apr 2026 11:30:18 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-19T12:00:01.188Z"
+  },
+  {
+    "title": "WWE star Cody Rhodes suffers nasty swollen eye after Randy Orton kick at WrestleMania 42",
+    "description": "WWE star Cody Rhodes was dealing with a swollen left eye after getting punted by Randy Orton following their match at WrestleMania 42 in Las Vegas.",
+    "link": "https://www.foxnews.com/sports/wwe-star-cody-rhodes-suffers-nasty-swollen-eye-randy-orton-kick-wrestlemania-42",
+    "pubDate": "Sun, 19 Apr 2026 07:45:22 -0400",
+    "source": "Fox News",
+    "categories": [
+      "56edfd1e-bc1f-532b-b20c-f1707e10f518",
+      "fnc",
+      "fox news",
+      "fox-news/wrestlemania",
+      "fox-news/organization/wwe",
+      "fox-news/sports/pro-wrestling",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-04-19T12:00:01.188Z"
+  },
+  {
+    "title": "Chinese robot breaks human world record in Beijing half-marathon",
+    "description": "China's push to dominate robotics accelerates as a humanoid robot beats the human half-marathon world record, sparking awe and unease among spectators.",
+    "link": "https://www.foxnews.com/tech/chinese-robot-breaks-human-world-record-beijing-half-marathon",
+    "pubDate": "Sun, 19 Apr 2026 07:44:25 -0400",
+    "source": "Fox News",
+    "categories": [
+      "211e778b-3563-53d2-bac8-44297c66fef9",
+      "fnc",
+      "fox news",
+      "fox-news/tech/technologies/robots",
+      "fox-news/tech/artificial-intelligence",
+      "fox-news/world/world-regions/china",
+      "fox-news/sports/running",
+      "fox-news/tech",
+      "fox-news/science",
+      "fox-news/world",
+      "fox-news/tech",
+      "article"
+    ],
+    "collectedAt": "2026-04-19T12:00:01.188Z"
   }
 ]
