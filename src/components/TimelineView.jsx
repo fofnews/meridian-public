@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { Clock, ChevronDown, ChevronUp } from 'lucide-react';
+import { Clock, ChevronDown, ChevronUp, ArrowUpDown } from 'lucide-react';
 
 function formatDate(dateStr) {
   const [y, m, d] = dateStr.split('-').map(Number);
@@ -98,7 +98,11 @@ function TimelineEntry({ entry, isLast }) {
 
 function TopicCard({ timeline }) {
   const [expanded, setExpanded] = useState(false);
-  const entries = [...timeline.entries].reverse();
+  const [sortAsc, setSortAsc] = useState(true);
+
+  const entries = sortAsc
+    ? [...timeline.entries].reverse()
+    : [...timeline.entries];
 
   return (
     <div style={{
@@ -154,14 +158,34 @@ function TopicCard({ timeline }) {
       </button>
 
       {expanded && (
-        <div style={{ padding: '16px 20px 16px 20px', borderTop: '1px solid var(--border-primary)' }}>
-          {entries.map((entry, i) => (
-            <TimelineEntry
-              key={`${entry.date}-${entry.edition}-${i}`}
-              entry={entry}
-              isLast={i === entries.length - 1}
-            />
-          ))}
+        <div style={{ borderTop: '1px solid var(--border-primary)' }}>
+          <div style={{
+            display: 'flex', justifyContent: 'flex-end',
+            padding: '8px 20px 0',
+          }}>
+            <button
+              onClick={() => setSortAsc(s => !s)}
+              style={{
+                display: 'flex', alignItems: 'center', gap: 4,
+                fontSize: 11, color: 'var(--text-faint)',
+                background: 'none', border: '1px solid var(--border-primary)',
+                borderRadius: 4, padding: '3px 8px', cursor: 'pointer',
+                letterSpacing: 0.5,
+              }}
+            >
+              <ArrowUpDown size={11} />
+              {sortAsc ? 'Oldest first' : 'Newest first'}
+            </button>
+          </div>
+          <div style={{ padding: '12px 20px 16px' }}>
+            {entries.map((entry, i) => (
+              <TimelineEntry
+                key={`${entry.date}-${entry.edition}-${i}`}
+                entry={entry}
+                isLast={i === entries.length - 1}
+              />
+            ))}
+          </div>
         </div>
       )}
     </div>
