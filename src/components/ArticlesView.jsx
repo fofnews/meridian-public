@@ -103,6 +103,8 @@ export default function ArticlesView({ selectedDate }) {
   const [activeCategory, setActiveCategory] = useState(null);
   const [activeSubcategory, setActiveSubcategory] = useState('All');
   const [searchQuery, setSearchQuery] = useState('');
+  const [searchResults, setSearchResults] = useState(null);
+  const [searchLoading, setSearchLoading] = useState(false);
   const [activeTopic, setActiveTopic] = useState(null);
 
   useEffect(() => {
@@ -112,6 +114,7 @@ export default function ArticlesView({ selectedDate }) {
     setData(null);
     setTopics([]);
     setSearchQuery('');
+    setSearchResults(null);
     setActiveTopic(null);
 
     Promise.all([
@@ -176,12 +179,29 @@ export default function ArticlesView({ selectedDate }) {
   const isSearching = searchQuery.trim().length > 0;
   const isTopicFiltered = !isSearching && activeTopic !== null;
 
-  const searchResults = isSearching
-    ? allArticles.filter(a => {
+  useEffect(() => {
+    if (!searchQuery.trim()) { setSearchResults(null); return; }
+    const controller = new AbortController();
+    const timer = setTimeout(async () => {
+      setSearchLoading(true);
+      try {
+        const base = import.meta.env.VITE_PIPELINE_URL || '';
+        const url = `${base}/api/search?query=${encodeURIComponent(searchQuery.trim())}&date=${selectedDate}`;
+        const res = await fetch(url, { signal: controller.signal });
+        const data = await res.json();
+        setSearchResults(data.results ?? []);
+      } catch (err) {
+        if (err.name === 'AbortError') return;
         const q = searchQuery.toLowerCase();
-        return (a.title || '').toLowerCase().includes(q) || (a.source || '').toLowerCase().includes(q);
-      })
-    : null;
+        setSearchResults(allArticles.filter(a =>
+          (a.title || '').toLowerCase().includes(q) || (a.source || '').toLowerCase().includes(q)
+        ));
+      } finally {
+        if (!controller.signal.aborted) setSearchLoading(false);
+      }
+    }, 300);
+    return () => { clearTimeout(timer); controller.abort(); };
+  }, [searchQuery, selectedDate]);
 
   const topicResults = isTopicFiltered
     ? allArticles.filter(a => {
@@ -190,7 +210,7 @@ export default function ArticlesView({ selectedDate }) {
       })
     : null;
 
-  const articles = isSearching ? searchResults : isTopicFiltered ? topicResults : filteredByCategory;
+  const articles = isSearching ? (searchResults ?? []) : isTopicFiltered ? topicResults : filteredByCategory;
 
   return (
     <div className="py-6">
@@ -216,6 +236,7 @@ export default function ArticlesView({ selectedDate }) {
                   onClick={() => {
                     setActiveTopic(isActive ? null : i);
                     setSearchQuery('');
+                    setSearchResults(null);
                     setActiveCategory(null);
                     setActiveSubcategory('All');
                   }}
@@ -264,7 +285,7 @@ export default function ArticlesView({ selectedDate }) {
         />
         {isSearching && (
           <button
-            onClick={() => setSearchQuery('')}
+            onClick={() => { setSearchQuery(''); setSearchResults(null); }}
             className="absolute right-3 top-1/2 -translate-y-1/2 leading-none"
             style={{ color: 'var(--text-faint)', background: 'none', border: 'none', cursor: 'pointer', padding: 0 }}
             aria-label="Clear search"
@@ -334,7 +355,9 @@ export default function ArticlesView({ selectedDate }) {
 
       {/* Active filter count */}
       {isSearching && (
-        <p className="text-xs mb-3" style={{ color: 'var(--text-faint)' }}>{searchResults.length} result{searchResults.length !== 1 ? 's' : ''}</p>
+        <p className="text-xs mb-3" style={{ color: 'var(--text-faint)' }}>
+          {searchLoading ? 'Searching…' : `${searchResults?.length ?? 0} result${(searchResults?.length ?? 0) !== 1 ? 's' : ''}`}
+        </p>
       )}
       {isTopicFiltered && (
         <p className="text-xs mb-3" style={{ color: 'var(--text-faint)' }}>
