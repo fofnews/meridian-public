@@ -181,5 +181,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-20T05:30:01.409Z"
+  },
+  {
+    "title": "U.K police investigating if attacks in London are the work of Iranian proxies",
+    "description": "U.K. police said Sunday they are investigating whether a string of arson attacks on Jewish sites in London are the work of Iranian proxies, the latest of which caused minor damage on Saturday night.",
+    "link": "https://www.npr.org/2026/04/20/g-s1-118083/police-investigating-london-iranian-proxies",
+    "pubDate": "Mon, 20 Apr 2026 01:34:19 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-04-20T05:45:01.801Z"
+  },
+  {
+    "title": "US funding helps Cyprus upgrade military bases for its role as a regional safe haven",
+    "description": "Cyprus is upgrading key military installations with U.S. taxpayer help to strengthen its role as a safe haven in the eastern Mediterranean",
+    "link": "https://abcnews.com/International/wireStory/us-funding-helps-cyprus-upgrade-military-bases-role-132195200",
+    "pubDate": "Mon, 20 Apr 2026 01:28:48 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-04-20T05:45:01.801Z"
   }
 ]
