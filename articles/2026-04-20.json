@@ -1122,5 +1122,97 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-20T09:45:01.193Z"
+  },
+  {
+    "title": "Watch: Trapped boy dangles from moving bus in Australia",
+    "description": "The boy, who was uninjured, was dragged for 350 metres after the back doors trapped his arm and school bag.",
+    "link": "https://www.bbc.com/news/videos/c80mn1jjyvno?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 20 Apr 2026 06:46:03 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-20T10:00:01.283Z"
+  },
+  {
+    "title": "Man kills 7 of his children and 1 other in Louisiana shooting, police say",
+    "description": "The gunman, who is also dead, shot 10 people in total, according to police. All eight who died were children from 3- to 11-years-old, police said.",
+    "link": "https://www.cbsnews.com/news/louisiana-shreveport-mass-shooting-children-dead/",
+    "pubDate": "Mon, 20 Apr 2026 05:56:11 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-04-20T10:00:01.283Z"
+  },
+  {
+    "title": "Tsunami Warning in Japan After Strong Earthquake Strikes Offshore",
+    "description": "The 7.5-magnitude undersea quake occurred off Iwate Prefecture, on the northeastern coast of Japan’s main island, Honshu. Waves of up to 10 feet were forecast.",
+    "link": "https://www.nytimes.com/2026/04/20/world/asia/tsunami-warning-japan-earthquake.html",
+    "pubDate": "Mon, 20 Apr 2026 09:16:27 +0000",
+    "source": "NY Times",
+    "categories": [
+      "earthquakes",
+      "tidal waves and tsunamis",
+      "security and warning systems",
+      "japan",
+      "honshu (japan)"
+    ],
+    "collectedAt": "2026-04-20T10:00:01.283Z"
+  },
+  {
+    "title": "Baby food recalled in Austria after jar tests positive for rat poison",
+    "description": "Baby food brand HiPP recalls products after Austrian police say a tampered jar contained rodent poison.",
+    "link": "https://www.aljazeera.com/economy/2026/4/20/baby-food-recalled-after-rat-poison-found-in-jar?traffic_source=rss",
+    "pubDate": "Mon, 20 Apr 2026 09:37:38 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-20T10:00:01.283Z"
+  },
+  {
+    "title": "Magnitude 7.5 earthquake strikes northern Japan; tsunami warning issued",
+    "description": "Prime Minister Sanae Takaichi says the government has set up a crisis management team following the strong earthquake.",
+    "link": "https://www.aljazeera.com/news/2026/4/20/powerful-7-4-earthquake-strikes-northern-japan-tsunami-warning-issued?traffic_source=rss",
+    "pubDate": "Mon, 20 Apr 2026 09:26:51 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-20T10:00:01.283Z"
+  },
+  {
+    "title": "Ukraine claims attack on Russian warships in occupied Crimea",
+    "description": "Ukraine's military intelligence says two large landing ships struck in Sevastopol Bay in Russian-occupied Crimea.",
+    "link": "https://www.aljazeera.com/news/2026/4/20/kyiv-claims-to-hit-russian-landing-ships-as-both-sides-trade-deadly-attacks?traffic_source=rss",
+    "pubDate": "Mon, 20 Apr 2026 09:23:15 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-20T10:00:01.283Z"
+  },
+  {
+    "title": "India arrests officials at aviation regulator, Reliance in drone bribery probe - Reuters",
+    "description": "India arrests officials at aviation regulator, Reliance in drone bribery probe  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbjYxX01Lal90S2dON3hTbFlCZHJLVnpnaGxQVUI1a3RrQU9BU29LUmxfRk9JQ3U0WExsME9hUC05dUZ4TThpYWVnejI0ckRpVEhNS3lSd3JDSldmbG1pUHV2TkdWQ19qX2k4MVRPNWRpQnJvSmJVUVI0MS14ZFpFQWFCbzlfelMzM0V0Vk1WX0Z3TjRTM3NtZG9KN3BxYTkyclREczg5bjRpQ05remE3c29mcU5qMTVmREln?oc=5",
+    "pubDate": "Mon, 20 Apr 2026 07:38:20 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-04-20T10:00:01.283Z"
+  },
+  {
+    "title": "Businesses and corporations who paid tariffs can file for refunds starting today",
+    "description": "U.S. corporations and businesses that paid tariffs imposed by President Donald Trump under the International Emergency Economic Powers Act (IEEPA), but were later ruled unconstitutional by the Supreme Court, can start applying for refunds on Monday.  U.S. Customs and Border Protection will administer the refund process through an online portal. Beginning at 8 a.m., businesses […]",
+    "link": "https://www.washingtonexaminer.com/news/4535145/businesses-paid-tariffs-file-for-refunds-starting-today/",
+    "pubDate": "Mon, 20 Apr 2026 09:51:50 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "customs and border protection",
+      "donald trump",
+      "supreme court",
+      "tariffs",
+      "trump administration",
+      "u.s. customs and boder patrol"
+    ],
+    "collectedAt": "2026-04-20T10:00:01.283Z"
   }
 ]
