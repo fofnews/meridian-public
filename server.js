@@ -236,6 +236,24 @@ app.get('/api/articles/:date', (req, res) => {
   res.json({ date, categories: grouped, total: articles.length });
 });
 
+// Search — substring fallback (semantic search handled by pipeline server)
+app.get('/api/search', (req, res) => {
+  const { query, date } = req.query;
+  if (!query?.trim()) return res.status(400).json({ error: 'query required' });
+  if (!date || !/^\d{4}-\d{2}-\d{2}$/.test(date)) return res.status(400).json({ error: 'date required (YYYY-MM-DD)' });
+
+  const articlesFile = path.join(ARTICLES_DIR, `${date}.json`);
+  if (!fs.existsSync(articlesFile)) return res.status(404).json({ error: 'No articles for this date' });
+
+  const articles = JSON.parse(fs.readFileSync(articlesFile, 'utf8'));
+  const q = query.toLowerCase();
+  const results = articles
+    .filter(a => (a.title || '').toLowerCase().includes(q) || (a.source || '').toLowerCase().includes(q))
+    .slice(0, 30);
+
+  res.json({ results, semantic: false });
+});
+
 // Serve topic chips for a specific date
 const TOPICS_DIR = path.join(__dirname, 'topics');
 app.get('/api/topics/:date', (req, res) => {
