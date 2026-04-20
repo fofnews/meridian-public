@@ -138,47 +138,6 @@ export default function ArticlesView({ selectedDate }) {
     setActiveSubcategory('All');
   }
 
-  if (loading) return (
-    <div className="flex items-center justify-center py-20 text-sm" style={{ color: 'var(--text-faint)' }}>Loading articles...</div>
-  );
-  if (error) return (
-    <div className="flex items-center justify-center py-20 text-sm" style={{ color: 'var(--text-faint)' }}>{error}</div>
-  );
-  if (!data) return null;
-
-  const availableCategories = CATEGORY_ORDER.filter(c => data.categories?.[c]?.length > 0);
-  const allArticles = CATEGORY_ORDER.flatMap(c => data.categories?.[c] || [])
-    .sort((a, b) => new Date(b.pubDate || b.collectedAt) - new Date(a.pubDate || a.collectedAt));
-  const categoryArticles = activeCategory ? (data.categories?.[activeCategory] || []) : allArticles;
-  const subcategoryDefs = SUBCATEGORIES[activeCategory];
-
-  // Build subcategory counts if this category supports them
-  let subcategoryCounts = null;
-  if (subcategoryDefs) {
-    subcategoryCounts = { All: categoryArticles.length };
-    for (const article of categoryArticles) {
-      const sub = getSubcategory(article, activeCategory);
-      subcategoryCounts[sub] = (subcategoryCounts[sub] || 0) + 1;
-    }
-  }
-
-  // Filter articles by active subcategory
-  const filteredByCategory = subcategoryDefs && activeSubcategory !== 'All'
-    ? categoryArticles.filter(a => getSubcategory(a, activeCategory) === activeSubcategory)
-    : categoryArticles;
-
-  // Build ordered subcategory tabs: defined order first, then Other if it has articles
-  const subcategoryTabs = subcategoryDefs
-    ? [
-        'All',
-        ...subcategoryDefs.map(s => s.label).filter(l => subcategoryCounts[l] > 0),
-        ...(subcategoryCounts['Other'] > 0 ? ['Other'] : []),
-      ]
-    : [];
-
-  const isSearching = searchQuery.trim().length > 0;
-  const isTopicFiltered = !isSearching && activeTopic !== null;
-
   useEffect(() => {
     if (!searchQuery.trim()) { setSearchResults(null); return; }
     const controller = new AbortController();
@@ -193,7 +152,8 @@ export default function ArticlesView({ selectedDate }) {
       } catch (err) {
         if (err.name === 'AbortError') return;
         const q = searchQuery.toLowerCase();
-        setSearchResults(allArticles.filter(a =>
+        const flat = CATEGORY_ORDER.flatMap(c => data?.categories?.[c] || []);
+        setSearchResults(flat.filter(a =>
           (a.title || '').toLowerCase().includes(q) || (a.source || '').toLowerCase().includes(q)
         ));
       } finally {
@@ -202,6 +162,44 @@ export default function ArticlesView({ selectedDate }) {
     }, 300);
     return () => { clearTimeout(timer); controller.abort(); };
   }, [searchQuery, selectedDate]);
+
+  if (loading) return (
+    <div className="flex items-center justify-center py-20 text-sm" style={{ color: 'var(--text-faint)' }}>Loading articles...</div>
+  );
+  if (error) return (
+    <div className="flex items-center justify-center py-20 text-sm" style={{ color: 'var(--text-faint)' }}>{error}</div>
+  );
+  if (!data) return null;
+
+  const availableCategories = CATEGORY_ORDER.filter(c => data.categories?.[c]?.length > 0);
+  const allArticles = CATEGORY_ORDER.flatMap(c => data.categories?.[c] || [])
+    .sort((a, b) => new Date(b.pubDate || b.collectedAt) - new Date(a.pubDate || a.collectedAt));
+  const categoryArticles = activeCategory ? (data.categories?.[activeCategory] || []) : allArticles;
+  const subcategoryDefs = SUBCATEGORIES[activeCategory];
+
+  let subcategoryCounts = null;
+  if (subcategoryDefs) {
+    subcategoryCounts = { All: categoryArticles.length };
+    for (const article of categoryArticles) {
+      const sub = getSubcategory(article, activeCategory);
+      subcategoryCounts[sub] = (subcategoryCounts[sub] || 0) + 1;
+    }
+  }
+
+  const filteredByCategory = subcategoryDefs && activeSubcategory !== 'All'
+    ? categoryArticles.filter(a => getSubcategory(a, activeCategory) === activeSubcategory)
+    : categoryArticles;
+
+  const subcategoryTabs = subcategoryDefs
+    ? [
+        'All',
+        ...subcategoryDefs.map(s => s.label).filter(l => subcategoryCounts[l] > 0),
+        ...(subcategoryCounts['Other'] > 0 ? ['Other'] : []),
+      ]
+    : [];
+
+  const isSearching = searchQuery.trim().length > 0;
+  const isTopicFiltered = !isSearching && activeTopic !== null;
 
   const topicResults = isTopicFiltered
     ? allArticles.filter(a => {
