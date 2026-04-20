@@ -41,6 +41,13 @@ export default function App() {
     setError(null);
     setExpandedStory(null);
     setFeaturedIdx(0);
+    if (edition === 'articles-only') {
+      setReport(null);
+      setSelectedDate(date);
+      setSelectedEdition(edition);
+      setLoading(false);
+      return;
+    }
     try {
       const params = edition && edition !== 'manual' ? `?edition=${edition}` : '';
       const res = await fetch(`/api/report/${date}${params}`);
@@ -65,7 +72,8 @@ export default function App() {
         if (!dates.length) { setLoading(false); return; }
         const [{ date, editions }] = dates;
         const edition = editions.includes('evening') ? 'evening'
-          : editions.includes('morning') ? 'morning' : 'manual';
+          : editions.includes('morning') ? 'morning'
+          : editions.includes('articles-only') ? 'articles-only' : 'manual';
         loadReport(date, edition);
       })
       .catch(() => setLoading(false));
@@ -231,7 +239,9 @@ export default function App() {
 
         {view === 'analysis' && !loading && !error && !report && (
           <div className="text-center py-24" style={{ color: 'var(--text-faint)' }}>
-            No reports available.
+            {selectedEdition === 'articles-only'
+              ? 'Analysis not yet available — check back after the morning report.'
+              : 'No reports available.'}
           </div>
         )}
       </main>

@@ -17,7 +17,8 @@ export default function DateNav({ availableDates, selectedDate, onSelect }) {
           {dates.map(({ date, editions }) => {
             const active = date === selectedDate;
             const bestEdition = editions.includes('evening') ? 'evening'
-              : editions.includes('morning') ? 'morning' : 'manual';
+              : editions.includes('morning') ? 'morning'
+              : editions.includes('articles-only') ? 'articles-only' : 'manual';
             return (
               <button
                 key={date}
