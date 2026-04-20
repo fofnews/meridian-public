@@ -107,5 +107,70 @@
     "source": "Washington Post",
     "categories": [],
     "collectedAt": "2026-04-20T05:00:01.848Z"
+  },
+  {
+    "title": "Spat at, threatened and kidnapped: British Jews tell of rising antisemitism",
+    "description": "British Jews have described to BBC Panorama how they are experiencing a rise in antisemitism.",
+    "link": "https://www.bbc.com/news/articles/cwyxxjgdn94o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 20 Apr 2026 05:00:02 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-20T05:15:01.611Z"
+  },
+  {
+    "title": "The insider trading suspicions looming over Trump's presidency",
+    "description": "The BBC has found a pattern of spikes in trades ahead of public announcements by the US president.",
+    "link": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 20 Apr 2026 05:13:58 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-20T05:15:01.611Z"
+  },
+  {
+    "title": "Reform pledges to review all asylum claims since 2021 if it wins power",
+    "description": "The current Labour government has already announced major crackdowns on immigration, including disrupting gangs.",
+    "link": "https://www.bbc.com/news/articles/c0rxd5wpyqwo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 20 Apr 2026 05:00:50 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-20T05:15:01.611Z"
+  },
+  {
+    "title": "Oklahoma principal crowned prom king for his heroism",
+    "description": "Oklahoma principal crowned prom king for his heroism",
+    "link": "https://www.nbcnews.com/video/shorts/oklahoma-principal-crowned-prom-king-for-his-heroism-261691461647",
+    "pubDate": "Mon, 20 Apr 2026 04:51:54 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-04-20T05:15:01.611Z"
+  },
+  {
+    "title": "A humanoid robot sprints to victory in Beijing, beating the human half-marathon world record - AP News",
+    "description": "A humanoid robot sprints to victory in Beijing, beating the human half-marathon world record  AP News",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS1FXWmNZYWk4VHgtS0hFTk54THlvSDlMWVhNUXljWFpyN2J2RzNQeE1mY0NVWjdwbzYzbkRpcWVUZjBwY1RhTWtvVDRzNmF0eUZITTVoZ2Z5dFNPclktTVBScnoybVhlaTFZU2JmcHhra1ZDSnBLWi1IV20zT0cxN3AtZjhlNThOZDl0YnVrb082Qlk3eEJIRjFlYzNjUQ?oc=5",
+    "pubDate": "Mon, 20 Apr 2026 04:16:00 GMT",
+    "source": "AP News",
+    "categories": [],
+    "collectedAt": "2026-04-20T05:15:01.611Z"
+  },
+  {
+    "title": "NYPD investigating 'reckless' drag racing street takeover in Queens",
+    "description": "A drag racing street takeover involving more than 100 vehicles in Queens prompted an NYPD investigation, although no arrests have been made thus far.",
+    "link": "https://www.foxnews.com/us/nypd-investigating-reckless-drag-racing-street-takeover-queens",
+    "pubDate": "Mon, 20 Apr 2026 01:08:19 -0400",
+    "source": "Fox News",
+    "categories": [
+      "362a5ee3-8193-5605-b25b-ae53b86be83a",
+      "fnc",
+      "fox news",
+      "fox-news/us/new-york-city",
+      "fox-news/us/us-regions/northeast/new-york",
+      "fox-news/us",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/crime",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-04-20T05:15:01.611Z"
   }
 ]
