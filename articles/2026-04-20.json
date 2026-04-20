@@ -499,5 +499,34 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-20T07:30:01.327Z"
+  },
+  {
+    "title": "Iran live updates: Marines from USS Tripoli seized Iranian vessel, CENTCOM says",
+    "description": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.",
+    "link": "https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152",
+    "pubDate": "Mon, 20 Apr 2026 03:35:04 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-04-20T07:45:01.339Z"
+  },
+  {
+    "title": "Canada Announces Major Shift Away From US",
+    "description": "Canadian Prime Minister Mark Carney delivered an address about the country's economic ties to the U.S.",
+    "link": "https://www.newsweek.com/mark-carney-speech-canada-economy-us-11852091",
+    "pubDate": "Mon, 20 Apr 2026 03:40:03 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-20T07:45:01.339Z"
+  },
+  {
+    "title": "Max Homa’s ‘spoiled’ golfer comment comes back to haunt him after RBC Heritage club-throwing meltdown",
+    "description": "Homa had criticized golfers who 'beat up the golf course' just days before his own outburst at Harbour Town.",
+    "link": "https://nypost.com/2026/04/20/sports/max-homas-spoiled-golfer-comment-comes-back-to-haunt-him-after-rbc-heritage-club-throwing-meltdown/",
+    "pubDate": "Mon, 20 Apr 2026 03:31:55 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-20T07:45:01.339Z"
   }
 ]
