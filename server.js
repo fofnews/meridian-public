@@ -57,9 +57,10 @@ app.use(express.static(path.join(__dirname, 'dist')));
 // List available dates
 app.get('/api/dates', (_req, res) => {
   try {
-    const files = fs.readdirSync(REPORTS_DIR);
     const dateMap = {};
-    files.forEach(f => {
+
+    const reportFiles = fs.readdirSync(REPORTS_DIR);
+    reportFiles.forEach(f => {
       const match = f.match(/^(\d{4}-\d{2}-\d{2})(?:-(morning|evening))?\.json$/);
       if (!match) return;
       const [, date, edition] = match;
@@ -67,6 +68,17 @@ app.get('/api/dates', (_req, res) => {
       const label = edition || 'manual';
       if (!dateMap[date].includes(label)) dateMap[date].push(label);
     });
+
+    try {
+      const articleFiles = fs.readdirSync(ARTICLES_DIR);
+      articleFiles.forEach(f => {
+        const match = f.match(/^(\d{4}-\d{2}-\d{2})\.json$/);
+        if (!match) return;
+        const [, date] = match;
+        if (!dateMap[date]) dateMap[date] = ['articles-only'];
+      });
+    } catch { /* articles dir missing is non-fatal */ }
+
     const result = Object.entries(dateMap)
       .map(([date, editions]) => ({ date, editions }))
       .sort((a, b) => b.date.localeCompare(a.date));
