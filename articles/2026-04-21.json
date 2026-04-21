@@ -1119,5 +1119,90 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-21T09:15:02.219Z"
+  },
+  {
+    "title": "Americans Arrested For Breaking Into Auschwitz",
+    "description": "Eight Americans and one Canadian were arrested on Monday for unlawfully entering the Auschwitz-Birkenau Nazi concentration camp.",
+    "link": "https://www.newsweek.com/americans-arrested-breaking-into-auschwitz-nazi-concentration-camp-poland-11857092",
+    "pubDate": "Tue, 21 Apr 2026 05:16:27 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-21T09:30:01.212Z"
+  },
+  {
+    "title": "Russia has taken 1,700 square km of Ukraine this year, top general says - Reuters",
+    "description": "Russia has taken 1,700 square km of Ukraine this year, top general says  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZjFtUXU5c1RtLTRSZGZGZTFJdjRNanViT1QwemdzT1dlSjctd0FNQmg5aVBpWW5nQmttMW9pZ0RlTnZrQWxEOXJYODFXNlJrQmdlLW83aGVyWjhWSDJ1bjJFNWRnUE1hSW9BT0xqS2cxR2Fmck9EZlVjTkdoVnQteENoYzlNZEJfZnpLRTVCVEFaenRtM0NFMHlmX1U3bDh1V0NBbW40bEo3N3E1cmFzVmV4LUJNUQ?oc=5",
+    "pubDate": "Tue, 21 Apr 2026 08:10:17 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-04-21T09:30:01.212Z"
+  },
+  {
+    "title": "Senate GOP readying party-line funding bill despite divisions, anger at the House",
+    "description": "Senate Republicans aim to advance a party-line reconciliation package for immigration funding this week amid internal divisions between both chambers over the bill's scope.",
+    "link": "https://www.foxnews.com/politics/senate-gop-readying-party-line-funding-bill-despite-divisions-anger-house",
+    "pubDate": "Tue, 21 Apr 2026 05:00:32 -0400",
+    "source": "Fox News",
+    "categories": [
+      "ba8c6548-9731-5c5a-a158-4e11b9c0d4e5",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/person/lindsey-graham",
+      "fox-news/politics/executive/homeland-security",
+      "fox-news/person/ted-cruz",
+      "fox-news/budget",
+      "fox-news/politics/elections/senate",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-21T09:30:01.212Z"
+  },
+  {
+    "title": "Gilgo Beach serial killer Rex Heuermann’s chilling confession to his ex-wife, where he admitted he murdered ‘all except one’ of victims in their home",
+    "description": "Hulking Gilgo Beach serial killer Rex Heuermann admitted to his ex-wife he killed all but one of his eight victims in their Long Island home, according to a teaser clip previewing the final episode of the Peacock doc “The Gilgo Beach Killer: House of Secrets.” In the clip, Asa Ellerup, who finalized her divorce from...",
+    "link": "https://nypost.com/2026/04/21/us-news/gilgo-beach-serial-killer-rex-heuermanns-chilling-confession-to-his-ex-wife-where-he-admitted-he-murdered-all-except-one-of-victims-in-their-home/",
+    "pubDate": "Tue, 21 Apr 2026 05:21:34 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-21T09:30:01.212Z"
+  },
+  {
+    "title": "Trump administration pushes for second ceasefire deal with Iran as gas prices weigh on the public",
+    "description": "The Trump administration is racing to negotiate a second ceasefire with Iran before the current truce expires Tuesday and ahead of a looming 60-day War Powers deadline that could force an end to U.S. military involvement. Yet talks hit a snag after the United States seized an Iranian-flagged cargo ship it accused of evading a […]",
+    "link": "https://www.washingtonexaminer.com/news/white-house/4532599/trump-peace-deal-iran-gas/",
+    "pubDate": "Tue, 21 Apr 2026 09:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "foreign policy",
+      "white house",
+      "donald trump",
+      "iran",
+      "jd vance",
+      "lisa murkowski",
+      "senate",
+      "susan collins",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-04-21T09:30:01.212Z"
+  },
+  {
+    "title": "What to watch as Virginia voters decide high-stakes redistricting referendum",
+    "description": "Virginia voters head to the polls Tuesday to decide a closely watched redistricting referendum that could reshape the state’s congressional map and carry national implications, with both parties bracing for a tight result that could hinge on turnout in a low-profile spring election. The proposal would allow the General Assembly to temporarily redraw congressional districts, […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/4536458/virginia-redistricting-referendum-turnout-early-vote-analysis/",
+    "pubDate": "Tue, 21 Apr 2026 09:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "campaigns",
+      "donald trump",
+      "gerrymandering",
+      "glenn youngkin",
+      "redistricting",
+      "virginia",
+      "voter turnout",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-04-21T09:30:01.212Z"
   }
 ]
