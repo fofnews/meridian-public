@@ -984,7 +984,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-04-20",
+      "lastSeen": "2026-04-21",
       "active": true,
       "entries": [
         {
@@ -1331,6 +1331,11 @@
           "date": "2026-04-20",
           "edition": "morning",
           "update": "The U.S. military released video footage of the naval interdiction operation, showing U.S. Marines boarding and seizing the Iranian-flagged cargo ship near the Strait of Hormuz or Arabian Sea."
+        },
+        {
+          "date": "2026-04-21",
+          "edition": "morning",
+          "update": "US veterans were arrested at the US Capitol building on Monday during a protest against the war on Iran."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2050,9 +2055,9 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-04-20",
+      "lastSeen": "2026-04-21",
       "active": true
     }
   ],
-  "updatedAt": "2026-04-20T21:04:53.613Z"
+  "updatedAt": "2026-04-21T11:04:30.078Z"
 }
