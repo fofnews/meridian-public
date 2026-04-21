@@ -193,5 +193,76 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-21T05:15:01.958Z"
+  },
+  {
+    "title": "Gunman shoots several tourists at historic pyramids in Mexico",
+    "description": "A man standing atop one of the historic Teotihuacan pyramids opened fire on tourists Monday, killing one Canadian and leaving at least 13 people, authorities said.",
+    "link": "https://www.npr.org/2026/04/21/g-s1-118185/gunman-pyramids-mexico",
+    "pubDate": "Tue, 21 Apr 2026 01:18:53 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-04-21T05:30:01.294Z"
+  },
+  {
+    "title": "Cuba confirms meeting with US officials on island, wants energy blockade lifted",
+    "description": "Cuba's government confirmed that it had recently met with U.S. officials on the island as tensions between the two sides remain high over the U.S. energy blockade of the Caribbean country.",
+    "link": "https://www.npr.org/2026/04/21/g-s1-118182/cuba-meeting-with-us-officials-on-island",
+    "pubDate": "Tue, 21 Apr 2026 01:10:26 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-04-21T05:30:01.294Z"
+  },
+  {
+    "title": "Japan to Sell More Weapons Abroad, Breaking With Postwar Pacifism",
+    "description": "Prime Minister Sanae Takaichi reversed limits on arms exports as Japan faces rising threats from China and unpredictability from its main ally, the United States.",
+    "link": "https://www.nytimes.com/2026/04/20/world/asia/japan-weapons-arms-sale-nato.html",
+    "pubDate": "Tue, 21 Apr 2026 05:13:59 +0000",
+    "source": "NY Times",
+    "categories": [
+      "international relations",
+      "arms trade",
+      "japan",
+      "united states international relations",
+      "us and israeli attack on iran (2026)",
+      "defense and military forces",
+      "politics and government",
+      "world war ii (1939-45)",
+      "north atlantic treaty organization",
+      "takaichi, sanae",
+      "china",
+      "united states",
+      "trump, donald j",
+      "ships and shipping"
+    ],
+    "collectedAt": "2026-04-21T05:30:01.294Z"
+  },
+  {
+    "title": "Mike Brown stands by Knicks sub decision — but it’s one he may be forced to rethink",
+    "description": "Brown prefers to sit both Jalen Brunson and Karl-Anthony Towns for the starts of the second and fourth quarters rather than stagger them and have one on the court.",
+    "link": "https://nypost.com/2026/04/21/sports/mike-brown-stands-by-knicks-usual-sub-decision-but-its-one-he-may-be-forced-to-rethink/",
+    "pubDate": "Tue, 21 Apr 2026 01:26:07 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-21T05:30:01.294Z"
+  },
+  {
+    "title": "Rand Paul introduces bipartisan legislation to regulate hemp products",
+    "description": "Sen. Rand Paul (R-KY) introduced legislation on Monday to regulate businesses in the hemp industry. His bill is designed to allow commerce in the industry to thrive while protecting consumers and preventing problematic synthetic products from reaching the market. The senator introduced the bill on April 20, or 420, a contemporary slang phrase for a date […]",
+    "link": "https://www.washingtonexaminer.com/news/4536761/rand-paul-introduces-bipartisan-legislation-to-regulate-hemp-products/",
+    "pubDate": "Tue, 21 Apr 2026 05:21:45 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "agriculture",
+      "amy klobuchar",
+      "drugs",
+      "jodi ernst",
+      "marijuana",
+      "rand paul",
+      "regulations",
+      "senate",
+      "spending"
+    ],
+    "collectedAt": "2026-04-21T05:30:01.294Z"
   }
 ]
