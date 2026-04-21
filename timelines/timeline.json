@@ -199,7 +199,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-04-09",
+      "lastSeen": "2026-04-21",
       "active": true,
       "entries": [
         {
@@ -266,6 +266,11 @@
           "date": "2026-04-09",
           "edition": null,
           "update": "After approximately 21 hours of negotiations in Pakistan, Vice President JD Vance announced that no deal was reached between the U.S. and Iran, describing the outcome as 'bad news for Iran.'"
+        },
+        {
+          "date": "2026-04-21",
+          "edition": "evening",
+          "update": "Trump initially told CNBC he did not want to extend the ceasefire with Iran, but ultimately announced an extension before the deadline expired. The extension is conditional, remaining in effect until Iran submits a proposal and discussions are concluded, while the blockade against Iran stays in place."
         }
       ],
       "parentId": null
@@ -1336,6 +1341,11 @@
           "date": "2026-04-21",
           "edition": "morning",
           "update": "US veterans were arrested at the US Capitol building on Monday during a protest against the war on Iran."
+        },
+        {
+          "date": "2026-04-21",
+          "edition": "evening",
+          "update": "U.S. forces boarded a sanctioned oil tanker in the Indian Ocean overnight without incident, with the Pentagon subsequently announcing the operation."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2059,5 +2069,5 @@
       "active": true
     }
   ],
-  "updatedAt": "2026-04-21T11:04:30.078Z"
+  "updatedAt": "2026-04-21T21:05:41.268Z"
 }
