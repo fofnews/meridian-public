@@ -2681,5 +2681,141 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-21T11:45:01.228Z"
+  },
+  {
+    "title": "A well site explosion triggers a large fire and evacuations in Texas, but no injuries",
+    "description": "Authorities say an explosion at a Texas natural gas or oil well site has set off a large fire, leading to some evacuations, but no injuries",
+    "link": "https://abcnews.com/Business/wireStory/site-explosion-triggers-large-fire-evacuations-texas-injuries-132231284",
+    "pubDate": "Tue, 21 Apr 2026 07:43:10 -0400",
+    "source": "ABC News",
+    "categories": [
+      "business"
+    ],
+    "collectedAt": "2026-04-21T12:00:01.746Z"
+  },
+  {
+    "title": "WATCH:  Bodycam footage shows police taking down alleged scammers targeting N.Y. woman",
+    "description": "Two alleged scammers were taken down on body camera after a 75-year-old woman grew suspicious when a caller asked her to withdraw $25,000 from her bank account.",
+    "link": "https://abcnews.com/video/132232243/",
+    "pubDate": "Tue, 21 Apr 2026 07:54:31 -0400",
+    "source": "ABC News",
+    "categories": [
+      "gma"
+    ],
+    "collectedAt": "2026-04-21T12:00:01.746Z"
+  },
+  {
+    "title": "WATCH:  David Muir shares sweet sibling moment sparked by Pirates' Jake Mangum",
+    "description": "A young fan at the Pittsburgh Pirates game was spotted wearing a jersey with the number 28 on it by outfielder Jake Mangum himself. He threw a ball towards her, which was caught by the girl’s brother.",
+    "link": "https://abcnews.com/video/132220353/",
+    "pubDate": "Tue, 21 Apr 2026 07:46:10 -0400",
+    "source": "ABC News",
+    "categories": [
+      "wnt"
+    ],
+    "collectedAt": "2026-04-21T12:00:01.746Z"
+  },
+  {
+    "title": "Mars rover carries out chemistry experiment never done beyond Earth",
+    "description": "\"This experiment's never been run before on another world,\" said Amy Williams, an astrobiologist working on the Curiosity mission.",
+    "link": "https://www.cbsnews.com/news/mars-curiosity-rover-chemistry-experiment-building-blocks-of-life/",
+    "pubDate": "Tue, 21 Apr 2026 07:43:35 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-04-21T12:00:01.746Z"
+  },
+  {
+    "title": "Lori Chavez-DeRemer, Trump’s Labor Secretary, Steps Down Amid Internal Investigation",
+    "description": "Lori Chavez-DeRemer was facing multiple scandals and an internal inquiry into charges of misconduct.",
+    "link": "https://www.nytimes.com/2026/04/20/us/politics/lori-chavez-deremer-labor-secretary-steps-down.html",
+    "pubDate": "Tue, 21 Apr 2026 11:43:34 +0000",
+    "source": "NY Times",
+    "categories": [
+      "chavez-deremer, lori",
+      "sonderling, keith e",
+      "trump, donald j",
+      "united states politics and government",
+      "appointments and executive changes",
+      "labor department (us)",
+      "ethics and official misconduct",
+      "expense accounts",
+      "deremer, shawn"
+    ],
+    "collectedAt": "2026-04-21T12:00:01.746Z"
+  },
+  {
+    "title": "Chances of Virginia Redistricting Vote Passing, According to Polls",
+    "description": "If Tuesday's referendum passes, Democrats could gain up to four additional seats in the midterms.",
+    "link": "https://www.newsweek.com/chances-of-virginia-redistricting-vote-passing-according-to-polls-11857396",
+    "pubDate": "Tue, 21 Apr 2026 07:53:07 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-21T12:00:01.746Z"
+  },
+  {
+    "title": "Cory Mills Takes Fight to Nancy Mace as She Attempts Congress Expulsion",
+    "description": "Mace has introduced a resolution calling for Mills to be \"expelled immediately\" over allegations that include sexual misconduct.",
+    "link": "https://www.newsweek.com/cory-mills-takes-fight-nancy-mace-attempts-congress-expulsion-11857359",
+    "pubDate": "Tue, 21 Apr 2026 07:52:13 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-21T12:00:01.746Z"
+  },
+  {
+    "title": "Mass trial for nearly 500 alleged gang members in El Salvador",
+    "description": "Mass trial for nearly 500 alleged gang members in El Salvador",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/mass-trial-for-nearly-500-alleged-gang-members-in-el-salvador?traffic_source=rss",
+    "pubDate": "Tue, 21 Apr 2026 11:41:18 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-04-21T12:00:01.746Z"
+  },
+  {
+    "title": "The chatbot era is over — these 3 sectors are the real AI gold mines for 2026",
+    "description": "Capital is flooding into AI. Defense, healthcare and agentics are the big winners, writes Mark Minevich.",
+    "link": "https://www.marketwatch.com/story/the-chatbot-era-is-over-these-3-sectors-are-the-real-ai-gold-mines-for-2026-002372c7?mod=mw_rss_topstories",
+    "pubDate": "Tue, 21 Apr 2026 11:57:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-04-21T12:00:01.746Z"
+  },
+  {
+    "title": "Traders pile into call options as fear of missing out grows, according to Cboe",
+    "description": "Easing geopolitical concerns turns focus more toward individual stock options amid earnings season",
+    "link": "https://www.marketwatch.com/story/traders-pile-into-call-options-as-fear-of-missing-out-grows-according-to-cboe-c63f2038?mod=mw_rss_topstories",
+    "pubDate": "Tue, 21 Apr 2026 11:56:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-04-21T12:00:01.746Z"
+  },
+  {
+    "title": "Trump urges Virginia voters to reject 'blatant partisan power grab' by Democrats",
+    "description": "President Trump and Speaker Johnson rally Virginia voters against a redistricting ballot measure they say could cost Republicans four House seats.",
+    "link": "https://www.foxnews.com/politics/trump-urges-virginia-voters-reject-blatant-partisan-power-grab-democrats",
+    "pubDate": "Tue, 21 Apr 2026 07:50:24 -0400",
+    "source": "Fox News",
+    "categories": [
+      "4ca966f7-649f-52f0-8fd3-291c2de85a3c",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/southeast/virginia",
+      "fox-news/person/mike-johnson",
+      "fox-news/person/abigail-spanberger",
+      "fox-news/politics/elections/republicans",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-21T12:00:01.746Z"
+  },
+  {
+    "title": "Chipotle is bringing back a fan-favorite — get it with $0 delivery for a limited time",
+    "description": "Chipotle is bringing back one of their best-selling limited-time offerings.",
+    "link": "https://nypost.com/2026/04/21/lifestyle/chipotle-brings-back-fan-favorite-honey-chicken-with-0-delivery/",
+    "pubDate": "Tue, 21 Apr 2026 07:53:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-21T12:00:01.746Z"
   }
 ]
