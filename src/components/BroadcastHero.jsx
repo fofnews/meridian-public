@@ -1,10 +1,24 @@
 import { useState, useEffect, useRef } from 'react';
-import mapboxgl from 'mapbox-gl';
-import 'mapbox-gl/dist/mapbox-gl.css';
 import { decodeText } from '../utils';
 import { useTheme } from '../ThemeContext.jsx';
 
-mapboxgl.accessToken = import.meta.env.VITE_MAPBOX_TOKEN;
+// Mapbox is loaded lazily inside the map-initialization effect so that the
+// ~500KB mapbox-gl bundle (JS + CSS) is split into its own chunk and only
+// downloaded when the map is actually enabled.
+let mapboxPromise = null;
+function loadMapbox() {
+  if (!mapboxPromise) {
+    mapboxPromise = Promise.all([
+      import('mapbox-gl'),
+      import('mapbox-gl/dist/mapbox-gl.css'),
+    ]).then(([mod]) => {
+      const mapboxgl = mod.default;
+      mapboxgl.accessToken = import.meta.env.VITE_MAPBOX_TOKEN;
+      return mapboxgl;
+    });
+  }
+  return mapboxPromise;
+}
 
 const CHYRON_LABELS = ['Breaking', 'Developing', 'Analysis', 'Report', 'Update', 'Exclusive'];
 
@@ -190,7 +204,9 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
     return () => clearInterval(id);
   }, []);
 
-  // Initialize map (skipped entirely when disabled)
+  // Initialize map (skipped entirely when disabled). Mapbox is imported
+  // lazily here so that users who never enable the map never pay the
+  // ~500KB bundle cost.
   useEffect(() => {
     if (!mapEnabled) {
       if (mapRef.current) {
@@ -203,30 +219,42 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
 
     if (!mapContainer.current || mapRef.current) return;
 
-    const map = new mapboxgl.Map({
-      container: mapContainer.current,
-      style: isDark ? 'mapbox://styles/mapbox/dark-v11' : 'mapbox://styles/mapbox/outdoors-v12',
-      center: [0, 20],
-      zoom: 1.0,
-      interactive: true,
-      attributionControl: false,
+    let cancelled = false;
+    let map = null;
+
+    loadMapbox().then((mapboxgl) => {
+      if (cancelled || !mapContainer.current || mapRef.current) return;
+
+      map = new mapboxgl.Map({
+        container: mapContainer.current,
+        style: isDark ? 'mapbox://styles/mapbox/dark-v11' : 'mapbox://styles/mapbox/outdoors-v12',
+        center: [0, 20],
+        zoom: 1.0,
+        interactive: true,
+        attributionControl: false,
+      });
+
+      map.on('load', () => {
+        map.resize();
+        map.setPadding(getMapPadding(mapContainer.current));
+        applyMapStyle(map, isDark);
+      });
+
+      const marker = new mapboxgl.Marker({ element: createMarkerElement(isDark), anchor: 'center' })
+        .setLngLat([0, 20])
+        .addTo(map);
+
+      mapRef.current = map;
+      markerRef.current = marker;
+    }).catch((err) => {
+      console.warn('Mapbox failed to load:', err);
     });
-
-    map.on('load', () => {
-      map.resize();
-      map.setPadding(getMapPadding(mapContainer.current));
-      applyMapStyle(map, isDark);
-    });
-
-    const marker = new mapboxgl.Marker({ element: createMarkerElement(isDark), anchor: 'center' })
-      .setLngLat([0, 20])
-      .addTo(map);
-
-    mapRef.current = map;
-    markerRef.current = marker;
 
     return () => {
-      map.remove();
+      cancelled = true;
+      if (map) {
+        map.remove();
+      }
       mapRef.current = null;
       markerRef.current = null;
     };
