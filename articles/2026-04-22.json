@@ -247,5 +247,57 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-22T05:45:01.354Z"
+  },
+  {
+    "title": "Tourist finds rare chunk of oldest sea crocodile",
+    "description": "The Thalattosuchian's jawbone was a chance find on a guided fossil walk run by a museum.",
+    "link": "https://www.bbc.com/news/articles/czx99z9gvxeo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 22 Apr 2026 05:15:18 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-22T06:00:01.793Z"
+  },
+  {
+    "title": "Houston Police Officer Ashley Gonzalez relieved of duty over viral racist social media rant",
+    "description": "A Texas cop was removed from her position over her offensive and racial remarks in a now viral social media video.",
+    "link": "https://nypost.com/2026/04/22/us-news/houston-police-officer-ashley-gonzalez-relieved-of-duty-after-racist-rant/",
+    "pubDate": "Wed, 22 Apr 2026 01:58:32 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-22T06:00:01.793Z"
+  },
+  {
+    "title": "Florida Amtrak passengers stranded for nearly 24 hours with overflowing bathrooms as wildfires rage across state",
+    "description": "Outraged travelers described chaotic scene as train sat on tracks for almost a day.",
+    "link": "https://nypost.com/2026/04/22/us-news/florida-amtrak-passengers-stranded-for-nearly-24-hours-with-overflowing-bathrooms-as-wildfires-rage-across-state/",
+    "pubDate": "Wed, 22 Apr 2026 01:57:27 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-22T06:00:01.793Z"
+  },
+  {
+    "title": "Retired couple hit with $7K car rental fine from Enterprise over bogus diesel claim",
+    "description": "Nine months later, Enterprise sent a letter demanding $9,500 CAD — about $7,000 USD.",
+    "link": "https://nypost.com/2026/04/22/world-news/canadian-retired-couple-fights-7k-enterprise-fine-over-bogus-diesel-claim/",
+    "pubDate": "Wed, 22 Apr 2026 01:49:53 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-22T06:00:01.793Z"
+  },
+  {
+    "title": "Trump claims Iran is ‘collapsing financially’ and ‘doesn’t want Strait of Hormuz closed’",
+    "description": "President Donald Trump took to his social media account on Tuesday night, posting on a variety of topics. In two posts, he commented about the continued standoff between the United States and Iran regarding the Strait of Hormuz. The president asserted that Iran did not want to close the Strait so it could financially benefit […]",
+    "link": "https://www.washingtonexaminer.com/news/4538362/trump-iran-collapsing-financially-strait-of-hormuz-closed/",
+    "pubDate": "Wed, 22 Apr 2026 05:51:43 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "donald trump",
+      "foreign affairs",
+      "iran",
+      "middle east",
+      "strait of hormuz"
+    ],
+    "collectedAt": "2026-04-22T06:00:01.793Z"
   }
 ]
