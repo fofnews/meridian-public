@@ -699,7 +699,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-04-09",
+      "lastSeen": "2026-04-22",
       "active": true,
       "entries": [
         {
@@ -766,6 +766,11 @@
           "date": "2026-04-09",
           "edition": "morning",
           "update": "Following President Trump's conditional threat to target Iran's energy infrastructure if the Strait of Hormuz was not reopened, Iranian government officials called on students, artists, and athletes to form human chains around the country's power plants beginning at 2 p.m. local time on Tuesday."
+        },
+        {
+          "date": "2026-04-22",
+          "edition": "evening",
+          "update": "President Trump announced on Truth Social that eight Iranian women protesters accused of involvement in anti-regime protests will not be executed, posting 'Very good news!' following his public plea for their release the previous day."
         }
       ],
       "parentId": null
@@ -1359,7 +1364,7 @@
       "id": "iran-strait-of-hormuz-crisis",
       "title": "Iran Strait of Hormuz Crisis",
       "firstSeen": "2026-03-10",
-      "lastSeen": "2026-04-18",
+      "lastSeen": "2026-04-22",
       "active": true,
       "entries": [
         {
@@ -1581,6 +1586,11 @@
           "date": "2026-04-18",
           "edition": "evening",
           "update": "Iranian gunboats fired on at least one tanker in the Strait of Hormuz following Iran's reimposition of strict control over the waterway on Saturday, April 19, 2026. President Trump accused Iran of trying to 'get cute' and warned that Iran 'can't blackmail us' in response to the re-closure. The closure came despite an earlier announcement involving both Trump and Iranian Foreign Minister Abbas Araghchi, and Iran again cited the U.S. naval blockade as justification."
+        },
+        {
+          "date": "2026-04-22",
+          "edition": "evening",
+          "update": "The IRGC conducted operations against ships in the Strait of Hormuz within hours of President Trump announcing an indefinite extension of the U.S.-Iran ceasefire, which was contingent on Iran agreeing to negotiate a new deal."
         }
       ],
       "parentId": null
@@ -2074,5 +2084,5 @@
       "active": true
     }
   ],
-  "updatedAt": "2026-04-22T11:04:48.909Z"
+  "updatedAt": "2026-04-22T21:04:51.052Z"
 }
