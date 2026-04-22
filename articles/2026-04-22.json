@@ -1346,5 +1346,354 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-22T10:00:01.182Z"
+  },
+  {
+    "title": "In Virginia Redistricting Win, Democrats Play Hardball to Thwart Trump",
+    "description": "“We cannot bring a stick to a knife fight”: Democrats are increasingly open to extreme measures, including gerrymandering, when the stakes are high.",
+    "link": "https://www.nytimes.com/2026/04/22/us/elections/virginia-redistricting-trump-democrats.html",
+    "pubDate": "Wed, 22 Apr 2026 09:00:58 +0000",
+    "source": "NY Times",
+    "categories": [
+      "live-detached",
+      "midterm elections (2026)",
+      "redistricting and reapportionment",
+      "virginia",
+      "trump, donald j"
+    ],
+    "collectedAt": "2026-04-22T10:15:01.773Z"
+  },
+  {
+    "title": "Abbott Uses Trump-Style Tactics, Threatens Houston, Dallas and Austin Over ICE Policy",
+    "description": "Gov. Greg Abbott gave the leaders of Houston, Dallas and Austin until Wednesday to amend their policies to his liking, or return over $150 million in police funding.",
+    "link": "https://www.nytimes.com/2026/04/22/us/texas-abbott-trump-ice-cities-funding.html",
+    "pubDate": "Wed, 22 Apr 2026 09:01:25 +0000",
+    "source": "NY Times",
+    "categories": [
+      "illegal immigration",
+      "federal-state relations (us)",
+      "budgets and budgeting",
+      "police",
+      "democratic party",
+      "republican party",
+      "abbott, gregory w (1957- )",
+      "trump, donald j",
+      "austin (tex)",
+      "dallas (tex)",
+      "houston (tex)",
+      "texas"
+    ],
+    "collectedAt": "2026-04-22T10:15:01.773Z"
+  },
+  {
+    "title": "Hoarding Is Driving Energy Prices Higher Everywhere",
+    "description": "As wealthy nations scramble to secure stocks of oil, the result is higher prices for all and shortages in vulnerable countries.",
+    "link": "https://www.nytimes.com/2026/04/22/business/iran-war-oil-hoarding.html",
+    "pubDate": "Wed, 22 Apr 2026 09:25:16 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "shortages",
+      "hoarding",
+      "oil (petroleum) and gasoline",
+      "prices (fares, fees and rates)",
+      "international trade and world market",
+      "stockpiling",
+      "international energy agency",
+      "international monetary fund",
+      "world bank",
+      "iran"
+    ],
+    "collectedAt": "2026-04-22T10:15:01.773Z"
+  },
+  {
+    "title": "Trump’s Immigration Crackdown Pervades Long Island Suburbs",
+    "description": "Migrant arrest rates have been high in places like Long Island, where federal agents benefit from stealth and the aid of local politicians.",
+    "link": "https://www.nytimes.com/2026/04/22/nyregion/ice-arrests-long-island.html",
+    "pubDate": "Wed, 22 Apr 2026 09:00:18 +0000",
+    "source": "NY Times",
+    "categories": [
+      "illegal immigration",
+      "immigration detention",
+      "deportation",
+      "united states politics and government",
+      "urban areas",
+      "suburbs",
+      "immigration and emigration",
+      "politics and government",
+      "homeland security department",
+      "immigration and customs enforcement (us)",
+      "police department (nassau county, ny)",
+      "police department (suffolk county, ny)",
+      "republican party",
+      "blakeman, bruce a",
+      "trump, donald j",
+      "long island (ny)",
+      "chicago (ill)",
+      "minneapolis (minn)",
+      "nassau county (ny)",
+      "new york city",
+      "new york state",
+      "suffolk county (ny)",
+      "united states",
+      "federal-state relations (us)",
+      "government employees"
+    ],
+    "collectedAt": "2026-04-22T10:15:01.773Z"
+  },
+  {
+    "title": "Threat of Evictions Darkens Russia’s Rosy Picture of Occupied Ukraine",
+    "description": "A new law forces Ukrainians in the captured regions to get Russian title deeds or risk losing their homes.",
+    "link": "https://www.nytimes.com/2026/04/22/world/europe/russia-occupied-territories-mariupol.html",
+    "pubDate": "Wed, 22 Apr 2026 09:00:21 +0000",
+    "source": "NY Times",
+    "categories": [
+      "russian invasion of ukraine (2022)",
+      "real estate and housing (residential)",
+      "evictions",
+      "law and legislation",
+      "area planning and renewal",
+      "building (construction)",
+      "putin, vladimir v",
+      "mariupol (ukraine)",
+      "russia"
+    ],
+    "collectedAt": "2026-04-22T10:15:01.773Z"
+  },
+  {
+    "title": "EU Considers $106 Billion Loan to Ukraine, Delayed for Months by Orban",
+    "description": "After months of impasse because of objections from Prime Minister Viktor Orban of Hungary, ambassadors were meeting to discuss a key step on the way to disbursing the much-needed money.",
+    "link": "https://www.nytimes.com/2026/04/22/world/europe/eu-loan-ukraine-pipeline-hungary.html",
+    "pubDate": "Wed, 22 Apr 2026 08:48:23 +0000",
+    "source": "NY Times",
+    "categories": [
+      "russian invasion of ukraine (2022)",
+      "pipelines",
+      "european union",
+      "magyar, peter",
+      "orban, viktor",
+      "brussels (belgium)",
+      "hungary",
+      "europe",
+      "ukraine",
+      "russia"
+    ],
+    "collectedAt": "2026-04-22T10:15:01.773Z"
+  },
+  {
+    "title": "A $440,000 Breast Reduction: How Doctors Cashed In on the No Surprises Act and Arbitration",
+    "description": "A law meant to end surprise medical billing accidentally created a multibillion-dollar industry that is making doctors richer.",
+    "link": "https://www.nytimes.com/2026/04/22/us/politics/doctors-insurers-arbitration.html",
+    "pubDate": "Wed, 22 Apr 2026 09:01:09 +0000",
+    "source": "NY Times",
+    "categories": [
+      "health insurance and managed care",
+      "arbitration, conciliation and mediation",
+      "law and legislation",
+      "prices (fares, fees and rates)",
+      "consumer protection",
+      "suits and litigation (civil)",
+      "doctors"
+    ],
+    "collectedAt": "2026-04-22T10:15:01.773Z"
+  },
+  {
+    "title": "Musk’s SpaceX Goals Shift Ahead of Its I.P.O.",
+    "description": "As SpaceX prepares to go public, Mr. Musk has proposed moonshots that differ from the company’s original aim of reaching Mars.",
+    "link": "https://www.nytimes.com/2026/04/22/technology/elon-musk-spacex-ipo-goals.html",
+    "pubDate": "Wed, 22 Apr 2026 09:01:01 +0000",
+    "source": "NY Times",
+    "categories": [
+      "space exploration technologies corp",
+      "musk, elon",
+      "tesla motors inc",
+      "x.ai inc",
+      "x (formerly twitter)",
+      "initial public offerings",
+      "private spaceflight",
+      "satellites",
+      "space and astronomy",
+      "artificial intelligence",
+      "data centers",
+      "computers and the internet",
+      "mars (planet)"
+    ],
+    "collectedAt": "2026-04-22T10:15:01.773Z"
+  },
+  {
+    "title": "A Year After Terrorist Attack, a Kashmir Town Longs for Tourists",
+    "description": "Pahalgam, with steep ravines, grassy hillsides and pine forests, is a base for Hindu pilgrimages that business operators hope will revive visitors.",
+    "link": "https://www.nytimes.com/2026/04/22/world/asia/kashmir-attacks-kashmir-india.html",
+    "pubDate": "Wed, 22 Apr 2026 04:00:09 +0000",
+    "source": "NY Times",
+    "categories": [
+      "travel and vacations",
+      "pilgrimages",
+      "amarnath cave (hindu shrine)",
+      "layoffs and job reductions",
+      "kashmir",
+      "himalayas",
+      "territorial disputes",
+      "hotels and travel lodgings",
+      "hinduism"
+    ],
+    "collectedAt": "2026-04-22T10:15:01.773Z"
+  },
+  {
+    "title": "Republicans fear succession of government shutdowns under Trump",
+    "description": "Senate Republicans who are scrambling to end the two-month shutdown of the Department of Homeland Security (DHS) fear that Democrats will trigger an even bigger government shutdown in October and are working out strategies to avert that politically disastrous scenario. Senate Majority Leader John Thune (R-S.D.) plans to pass a budget resolution through the Senate…",
+    "link": "https://thehill.com/homenews/senate/5842129-republicans-government-shutdowns-democrats-trump/",
+    "pubDate": "Wed, 22 Apr 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "news",
+      "senate"
+    ],
+    "collectedAt": "2026-04-22T10:15:01.773Z"
+  },
+  {
+    "title": "The Memo: Can Trump realistically better Obama’s Iran deal?",
+    "description": "The diplomatic roller coaster between the United States and Iran took another several lurches on Tuesday.  Talks that had been expected to take place in Islamabad were pitched into new doubt. The ceasefire was extended, but so, too, was the American blockade in the Strait of Hormuz. Late on Tuesday afternoon, President Trump agreed to prolong the…",
+    "link": "https://thehill.com/homenews/administration/5842104-iran-trump-nuclear-deal-jcpoa/",
+    "pubDate": "Wed, 22 Apr 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "news"
+    ],
+    "collectedAt": "2026-04-22T10:15:01.773Z"
+  },
+  {
+    "title": "Sudan’s refugees endure brutal sanctuary in the desert",
+    "description": "AL DABBAH, Sudan — The Al-Affad camp in northern Sudan is a brutal refuge for just some of the 11.6 million people fleeing the horrors of the country’s civil war, which entered its fourth year on April 15. Many of the camp’s 25,000 residents traveled about 745 miles — a month’s journey by foot —…",
+    "link": "https://thehill.com/homenews/5841458-sudan-refugees-desert-camp/",
+    "pubDate": "Wed, 22 Apr 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "international",
+      "news"
+    ],
+    "collectedAt": "2026-04-22T10:15:01.773Z"
+  },
+  {
+    "title": "Mills-Mace feud blows up into tit-for-tat expulsion threats",
+    "description": "A simmering feud between Reps. Cory Mills (R-Fla.) and Nancy Mace (R-S.C.) has roared back up to a boil, escalating to tit-for-tat threats of expulsion as each lawmaker publicly lobs attacks on the other’s character. Mace on Monday filed a resolution to expel Mills, citing allegations of dating violence and campaign finance laws — a move…",
+    "link": "https://thehill.com/homenews/house/5842200-cory-mills-nancy-mace-expulsion-threats/",
+    "pubDate": "Wed, 22 Apr 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "house",
+      "news"
+    ],
+    "collectedAt": "2026-04-22T10:15:01.773Z"
+  },
+  {
+    "title": "Progressive groups launch ad on Earth Day hitting Republicans over gas prices, EVs",
+    "description": "Two progressive groups are launching a new eyebrow-raising ad attacking Republicans over gas prices and electric vehicles (EVs) to coincide with Earth Day, as the war between the U.S. and Iran has hit consumers’ pocketbooks at the gas pump.  Progressive Action Fund and Energy Everywhere launched a new $500,000-backed ad buy on Wednesday, first shared with The Hill, showing…",
+    "link": "https://thehill.com/policy/energy-environment/5842490-progressive-groups-launch-ev-ad/",
+    "pubDate": "Wed, 22 Apr 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "energy & environment"
+    ],
+    "collectedAt": "2026-04-22T10:15:01.773Z"
+  },
+  {
+    "title": "Revolutionary War artifacts unearthed at site of infamous colonial American heist: 'Very surprised'",
+    "description": "In this year of America's 250th birthday, archaeologists and volunteers uncovered British gunflints, coins and the foundation of a treasury robbed by the Doan Gang in 1781.",
+    "link": "https://www.foxnews.com/travel/revolutionary-war-artifacts-unearthed-site-infamous-colonial-heist-surprised",
+    "pubDate": "Wed, 22 Apr 2026 06:00:54 -0400",
+    "source": "Fox News",
+    "categories": [
+      "b8235976-8ffa-5ca1-a9d9-37a8e7af411c",
+      "fnc",
+      "fox news",
+      "fox-news/travel/general/historic-sites",
+      "fox-news/us/america-250",
+      "fox-news/science/archaeology/history",
+      "fox-news/travel/general/museums-exhibits",
+      "fox-news/travel",
+      "fox-news/science/archaeology",
+      "fox-news/lifestyle",
+      "fox-news/travel",
+      "article"
+    ],
+    "collectedAt": "2026-04-22T10:15:01.773Z"
+  },
+  {
+    "title": "Schlossberg unveils plan to crack down on 'new frontier' of AI putting the 'squeeze' on consumers: 'Harbinger'",
+    "description": "Democratic House candidate Jack Schlossberg calls for an FTC investigation into reports that Hertz AI scans may be overcharging rental car consumers.",
+    "link": "https://www.foxnews.com/politics/schlossberg-unveils-plan-crack-new-frontier-ai-putting-squeeze-consumers-harbinger",
+    "pubDate": "Wed, 22 Apr 2026 06:00:09 -0400",
+    "source": "Fox News",
+    "categories": [
+      "377cbbd1-fccc-55cb-8a66-6095c15ed62a",
+      "fnc",
+      "fox news",
+      "fox-news/tech/artificial-intelligence",
+      "fox-news/travel/general/rental-cars",
+      "fox-news/us/us-regions/northeast/new-york",
+      "fox-news/newsedge/consumer",
+      "fox-news/travel",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-22T10:15:01.773Z"
+  },
+  {
+    "title": "King Charles’ ‘high-stakes’ US visit tests historic alliance, could shape his reign: experts",
+    "description": "King Charles prepares for a high-stakes U.S. trip that could define his reign, with a historic address to Congress and a meeting with President Trump.",
+    "link": "https://www.foxnews.com/entertainment/king-charles-high-stakes-us-visit-tests-historic-alliance-could-shape-his-reign-experts",
+    "pubDate": "Wed, 22 Apr 2026 06:00:09 -0400",
+    "source": "Fox News",
+    "categories": [
+      "cd406069-5326-5cca-b304-d4cc5e53477a",
+      "fnc",
+      "fox news",
+      "fox-news/person/king-charles-iii",
+      "fox-news/world/personalities/queen",
+      "fox-news/person/queen-camilla",
+      "fox-news/world/personalities/british-royals",
+      "fox-news/entertainment/genres/books",
+      "fox-news/entertainment",
+      "fox-news/entertainment",
+      "article"
+    ],
+    "collectedAt": "2026-04-22T10:15:01.773Z"
+  },
+  {
+    "title": "Dr. Oz touts ‘Fraud War Room,’ ending payments to 400 hospices in California over fears of $100B fraud",
+    "description": "Over 400 hospices in LA have been shut down or cut off as the Centers for Medicare & Medicaid Services' (CMS) \"Fraud War Room\" kicks into gear, Administrator Dr. Mehmet Oz revealed on \"Pod Force One.\"",
+    "link": "https://nypost.com/2026/04/22/us-news/dr-oz-touts-fraud-war-room-ending-payments-to-400-calif-hospices-over-fears-of-100b-fraud/",
+    "pubDate": "Wed, 22 Apr 2026 06:06:17 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-22T10:15:01.773Z"
+  },
+  {
+    "title": "7 foods cardiologists love that won’t bore you to tears — including some very clever swaps",
+    "description": "You don't have to give up bacon and fries entirely, but occasionally swapping them for healthier foods or changing the way you prepare them can benefit your heart.",
+    "link": "https://nypost.com/2026/04/22/health/7-foods-cardiologists-love-that-wont-bore-you-to-tears/",
+    "pubDate": "Wed, 22 Apr 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-22T10:15:01.773Z"
+  },
+  {
+    "title": "House expulsion feud between Nancy Mace and Cory Mills bursts into public view",
+    "description": "Reps. Nancy Mace (R-SC) and Cory Mills (R-FL) have launched a full-out war against each other, trading barbs and accusations online as the House undergoes an ethics reckoning that has seen three members resign.  Mace has introduced a motion to expel Mills on the House floor, and Mills is weighing whether to move forward with […]",
+    "link": "https://www.washingtonexaminer.com/news/4538263/nancy-mace-cory-mills-expulsion-feud/",
+    "pubDate": "Wed, 22 Apr 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "capitol hill",
+      "house of representatives",
+      "nancy mace",
+      "republicans",
+      "sexual misconduct",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-04-22T10:15:01.773Z"
   }
 ]
