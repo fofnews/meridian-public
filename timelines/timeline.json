@@ -554,7 +554,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-04-10",
+      "lastSeen": "2026-04-22",
       "active": true,
       "entries": [
         {
@@ -686,6 +686,11 @@
           "date": "2026-04-10",
           "edition": "morning",
           "update": "Video footage showed an explosion in the sky above Erbil, located in the Kurdish region of northern Iraq."
+        },
+        {
+          "date": "2026-04-22",
+          "edition": "morning",
+          "update": "UK inflation rose to 3.3%, with officials identifying the Iran-Israel conflict as a contributing factor in the first official economic data reflecting the war's impact on UK figures."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2065,9 +2070,9 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-04-21",
+      "lastSeen": "2026-04-22",
       "active": true
     }
   ],
-  "updatedAt": "2026-04-21T21:05:41.268Z"
+  "updatedAt": "2026-04-22T11:04:48.909Z"
 }
