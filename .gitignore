@@ -3,3 +3,4 @@ dist/
 .env
 .env.*
 timelines/embeddings.json
+.claude/worktrees/upbeat-elion-128b69
