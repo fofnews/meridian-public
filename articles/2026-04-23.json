@@ -648,5 +648,35 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-23T07:30:01.191Z"
+  },
+  {
+    "title": "US Navy chief leaving post 'effective immediately', Pentagon says",
+    "description": "US Navy Secretary John Phelan is the latest high-ranking military leader to leave the administration in recent months.",
+    "link": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 23 Apr 2026 07:34:43 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-23T07:45:01.215Z"
+  },
+  {
+    "title": "Three GOP senators back Sanders amendment to slash drug prices",
+    "description": "Three Republican senators voted in support of an amendment sponsored by Sen. Bernie Sanders (I-Vt.) early Thursday morning to slash prescription drug prices by requiring that Americans pay no more for their medications than Europeans or Canadians. Two of the chambers most endangered Republicans — Sens. Susan Collins (R-Maine) and Dan Sullivan (R-Alaska) — joined…",
+    "link": "https://thehill.com/homenews/senate/5844568-sanders-amendment-drug-prices/",
+    "pubDate": "Thu, 23 Apr 2026 07:16:39 +0000",
+    "source": "The Hill",
+    "categories": [
+      "news",
+      "senate"
+    ],
+    "collectedAt": "2026-04-23T07:45:01.215Z"
+  },
+  {
+    "title": "Iran releases video purporting to show commandos seizing ships in Strait of Hormuz",
+    "description": "The propaganda clip was pumped out by state media Wednesday after the regime boasted it had seized the Panama-flagged MSC Francesca and Liberia-flagged Epaminondas vessels, hours after the cease-fire was extended.",
+    "link": "https://nypost.com/2026/04/23/world-news/iran-releases-video-purporting-to-show-commandos-seizing-ships-in-strait-of-hormuz/",
+    "pubDate": "Thu, 23 Apr 2026 03:40:48 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-23T07:45:01.215Z"
   }
 ]
