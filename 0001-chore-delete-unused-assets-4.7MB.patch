@@ -1,0 +1,14 @@
+# Superseded — run these commands directly instead of `git am`-ing this file.
+# (A patch would embed all 4.8MB of deleted binaries, which is silly.)
+#
+# From the repo root:
+#
+#   git rm "public/Desert digital camouflage pattern.png" \
+#          "public/White background.png" \
+#          "public/army seal.jpg" \
+#          "public/camo.jpg" \
+#          "src/light-theme-draft.css" \
+#          "theme-preview.html"
+#
+#   git commit -m "chore: delete unused assets (~4.7MB)"
+#   git push
