@@ -265,5 +265,55 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-23T05:00:01.510Z"
+  },
+  {
+    "title": "High Street mini-marts selling cocaine, cannabis and prescription drugs, BBC secret filming reveals",
+    "description": "Across the UK, shopfronts are being exploited by criminal gangs pushing illegal drugs, experts say.",
+    "link": "https://www.bbc.com/news/articles/c62l429w2pko?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 23 Apr 2026 04:59:56 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-23T05:15:02.055Z"
+  },
+  {
+    "title": "Navy Secretary John Phelan Is Leaving the Pentagon and the Trump Administration",
+    "description": "John Phelan is leaving the Pentagon after months of tension with Pete Hegseth and other Pentagon leaders. The tumult comes as the Navy has been engaged in war with Iran.",
+    "link": "https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html",
+    "pubDate": "Thu, 23 Apr 2026 05:02:38 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states defense and military forces",
+      "appointments and executive changes",
+      "united states navy",
+      "hegseth, pete"
+    ],
+    "collectedAt": "2026-04-23T05:15:02.055Z"
+  },
+  {
+    "title": "California governor candidates spar to get ahead after Eric Swalwell dropped out",
+    "description": "Eric Swalwell dropped out of the California gubernatorial race amid sexual misconduct allegations, but his scandal was still an issue in the first debate since his exit.",
+    "link": "https://www.nbcnews.com/politics/2026-election/california-governor-candidates-spar-eric-swalwell-debate-rcna341060",
+    "pubDate": "Thu, 23 Apr 2026 05:03:34 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-04-23T05:15:02.055Z"
+  },
+  {
+    "title": "Steelers Give Aaron Rodgers Another Reason to Stay With Latest Draft Projection",
+    "description": "The Pittsburgh Steelers could use their first-round pick in the 2026 draft to entice QB Aaron Rodgers to come back next season.",
+    "link": "https://www.newsweek.com/sports/nfl/steelers-give-aaron-rodgers-another-reason-to-stay-with-latest-draft-projection-11866846",
+    "pubDate": "Thu, 23 Apr 2026 01:03:36 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-23T05:15:02.055Z"
+  },
+  {
+    "title": "Former Cardinals Outfielder Drafted By NBA's Warriors Dies at 88",
+    "description": "A journeyman outfielder who was briefly a teammate of Wilt Chamberlain with the Philadelphia Warriors died at 88.",
+    "link": "https://www.newsweek.com/sports/mlb/former-cardinals-outfielder-drafted-by-nbas-warriors-dies-at-88-11865719",
+    "pubDate": "Thu, 23 Apr 2026 00:57:29 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-23T05:15:02.055Z"
   }
 ]
