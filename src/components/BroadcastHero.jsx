@@ -2,9 +2,10 @@ import { useState, useEffect, useRef } from 'react';
 import { decodeText } from '../utils';
 import { useTheme } from '../ThemeContext.jsx';
 
-// Mapbox is loaded lazily inside the map-initialization effect so that the
-// ~500KB mapbox-gl bundle (JS + CSS) is split into its own chunk and only
-// downloaded when the map is actually enabled.
+// Mapbox is split into its own chunk (~500KB JS + CSS) via dynamic import so
+// it doesn't bloat the main bundle. We kick off the download eagerly when this
+// module parses so it fetches in parallel with the rest of the app's initial
+// render — closing the race where a user clicks a story before the map is ready.
 let mapboxPromise = null;
 function loadMapbox() {
   if (!mapboxPromise) {
@@ -19,6 +20,9 @@ function loadMapbox() {
   }
   return mapboxPromise;
 }
+
+// Start the download now; the init effect will await the same cached promise.
+loadMapbox().catch(() => {});
 
 const CHYRON_LABELS = ['Breaking', 'Developing', 'Analysis', 'Report', 'Update', 'Exclusive'];
 
@@ -190,6 +194,9 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
   const markerRef = useRef(null);
   const styleLoadCallbackRef = useRef(null);
   const pendingIsDarkRef = useRef(isDark);
+  // If a fly-to is requested before the map finishes loading, we stash the
+  // target here so the init effect can apply it once the map is ready.
+  const pendingFlyRef = useRef(null);
 
   // Clock
   useEffect(() => {
@@ -246,6 +253,20 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
 
       mapRef.current = map;
       markerRef.current = marker;
+
+      // Apply any fly-to that was requested while we were still loading.
+      if (pendingFlyRef.current) {
+        const loc = pendingFlyRef.current;
+        pendingFlyRef.current = null;
+        const go = () => {
+          map.flyTo({ center: [loc.lng, loc.lat], zoom: loc.zoom ?? getStoryZoom(), duration: 2000, essential: true });
+          marker.setLngLat([loc.lng, loc.lat]);
+          if (map.getLayer('country-highlight')) {
+            map.setFilter('country-highlight', ['==', 'iso_3166_1', loc.iso ?? '']);
+          }
+        };
+        if (map.loaded()) go(); else map.once('load', go);
+      }
     }).catch((err) => {
       console.warn('Mapbox failed to load:', err);
     });
@@ -332,10 +353,16 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
   const featuredLocations = featured?.analysis?.locations?.filter(l => l?.lat != null && l?.lng != null) ?? [];
 
   const flyToLocation = (loc) => {
-    if (!mapRef.current) return;
+    // If the map hasn't finished loading yet, stash the target so the
+    // init effect can apply it when ready. Overwrites any prior pending
+    // target so only the most recent click wins.
+    if (!mapRef.current) {
+      pendingFlyRef.current = loc;
+      return;
+    }
     const map = mapRef.current;
     const go = () => {
-      map.flyTo({ center: [loc.lng, loc.lat], zoom: getStoryZoom(), duration: 2000, essential: true });
+      map.flyTo({ center: [loc.lng, loc.lat], zoom: loc.zoom ?? getStoryZoom(), duration: 2000, essential: true });
       markerRef.current?.setLngLat([loc.lng, loc.lat]);
       if (map.getLayer('country-highlight')) {
         map.setFilter('country-highlight', ['==', 'iso_3166_1', loc.iso ?? '']);
@@ -344,25 +371,15 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
     if (map.loaded()) go(); else map.once('load', go);
   };
 
-  // Fly to first location when story changes
+  // Fly to first location when story changes. Runs even before the map is
+  // ready — flyToLocation queues the target and drains it on map init.
   useEffect(() => {
-    if (!mapRef.current || !featured) return;
+    if (!featured) return;
     setActiveLocIdx(0);
     if (featuredLocations.length > 0) {
       flyToLocation(featuredLocations[0]);
     } else {
-      geocodeStory(featured).then(({ lng, lat, zoom }) => {
-        if (!mapRef.current) return;
-        const map = mapRef.current;
-        const go = () => {
-          map.flyTo({ center: [lng, lat], zoom, duration: 2000, essential: true });
-          markerRef.current?.setLngLat([lng, lat]);
-          if (map.getLayer('country-highlight')) {
-            map.setFilter('country-highlight', ['==', 'iso_3166_1', '']);
-          }
-        };
-        if (map.loaded()) go(); else map.once('load', go);
-      });
+      geocodeStory(featured).then((coords) => flyToLocation(coords));
     }
   }, [selectedIdx]);
 
