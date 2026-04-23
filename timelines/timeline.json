@@ -999,7 +999,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-04-21",
+      "lastSeen": "2026-04-23",
       "active": true,
       "entries": [
         {
@@ -1356,6 +1356,11 @@
           "date": "2026-04-21",
           "edition": "evening",
           "update": "U.S. forces boarded a sanctioned oil tanker in the Indian Ocean overnight without incident, with the Pentagon subsequently announcing the operation."
+        },
+        {
+          "date": "2026-04-23",
+          "edition": "morning",
+          "update": "The U.S. military intercepted at least three Iranian oil tankers in Asian waters, redirecting them from their positions, according to shipping and security sources. Separately, the Senate voted for the fifth time to defeat a Democratic war powers resolution that would have limited or prohibited Trump from continuing military operations against Iran, with Senate Republicans voting to block the measure."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2080,9 +2085,9 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-04-22",
+      "lastSeen": "2026-04-23",
       "active": true
     }
   ],
-  "updatedAt": "2026-04-22T21:04:51.052Z"
+  "updatedAt": "2026-04-23T11:04:59.315Z"
 }
