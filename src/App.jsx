@@ -6,6 +6,7 @@ import StoryCard from './components/StoryCard';
 import SuggestionBox from './components/SuggestionBox';
 import ArticlesView from './components/ArticlesView';
 import TimelineView from './components/TimelineView';
+import ErrorBoundary from './components/ErrorBoundary';
 import { useTheme } from './ThemeContext.jsx';
 
 export default function App() {
@@ -87,16 +88,22 @@ export default function App() {
   return (
     <div className="min-h-screen" style={{ background: 'var(--bg-primary)' }}>
 
-      {/* Broadcast hero */}
+      {/* Broadcast hero — silent failure so a bad story doesn't block the page */}
       {!loading && report && multiSource.length > 0 && (
-        <BroadcastHero
-          stories={multiSource}
-          selectedIdx={featuredIdx}
-          onSelect={setFeaturedIdx}
-          edition={selectedEdition}
-          availableEditions={availableDates.find(d => d.date === selectedDate)?.editions ?? []}
-          onEditionSelect={edition => loadReport(selectedDate, edition)}
-        />
+        <ErrorBoundary
+          label="broadcast hero"
+          fallback={null}
+          resetKey={`${selectedDate}-${selectedEdition}-${featuredIdx}`}
+        >
+          <BroadcastHero
+            stories={multiSource}
+            selectedIdx={featuredIdx}
+            onSelect={setFeaturedIdx}
+            edition={selectedEdition}
+            availableEditions={availableDates.find(d => d.date === selectedDate)?.editions ?? []}
+            onEditionSelect={edition => loadReport(selectedDate, edition)}
+          />
+        </ErrorBoundary>
       )}
 
       {/* Loading hero placeholder */}
@@ -143,10 +150,16 @@ export default function App() {
       </div>
 
       <main className="max-w-5xl mx-auto px-4 py-10">
-        {view === 'timeline' && <TimelineView />}
+        {view === 'timeline' && (
+          <ErrorBoundary label="the timeline">
+            <TimelineView />
+          </ErrorBoundary>
+        )}
 
         {view === 'articles' && selectedDate && (
-          <ArticlesView selectedDate={selectedDate} />
+          <ErrorBoundary label="articles" resetKey={selectedDate}>
+            <ArticlesView selectedDate={selectedDate} />
+          </ErrorBoundary>
         )}
 
         {view === 'analysis' && loading && (
@@ -162,7 +175,7 @@ export default function App() {
         )}
 
         {view === 'analysis' && !loading && report && (
-          <>
+          <ErrorBoundary label="the report" resetKey={`${selectedDate}-${selectedEdition}`}>
             <SuggestionBox />
 
             {/* Top Stories */}
@@ -234,7 +247,7 @@ export default function App() {
                 </div>
               </section>
             )}
-          </>
+          </ErrorBoundary>
         )}
 
         {view === 'analysis' && !loading && !error && !report && (
