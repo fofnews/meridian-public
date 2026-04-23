@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-04-13",
+      "lastSeen": "2026-04-23",
       "active": true,
       "entries": [
         {
@@ -191,6 +191,11 @@
           "date": "2026-04-13",
           "edition": "evening",
           "update": "A federal judge dismissed Donald Trump's defamation lawsuit against the Wall Street Journal, which had centered on the outlet's reporting about a letter allegedly connected to Jeffrey Epstein's 50th birthday. The judge ruled that Trump failed to sufficiently allege 'actual malice,' the legal standard required for public figures in defamation cases."
+        },
+        {
+          "date": "2026-04-23",
+          "edition": "evening",
+          "update": "The Justice Department's Office of Inspector General announced a review of the DOJ's compliance with laws requiring the release of Epstein-related records, amid concerns that required documents have not been fully disclosed."
         }
       ],
       "parentId": null
@@ -1361,6 +1366,11 @@
           "date": "2026-04-23",
           "edition": "morning",
           "update": "The U.S. military intercepted at least three Iranian oil tankers in Asian waters, redirecting them from their positions, according to shipping and security sources. Separately, the Senate voted for the fifth time to defeat a Democratic war powers resolution that would have limited or prohibited Trump from continuing military operations against Iran, with Senate Republicans voting to block the measure."
+        },
+        {
+          "date": "2026-04-23",
+          "edition": "evening",
+          "update": "The Pentagon announced the firing of Navy Secretary John Phelan amid an ongoing blockade of the Strait of Hormuz. President Trump on Thursday ordered the U.S. Navy to shoot and kill any vessels laying mines in the Strait of Hormuz, with the order directed specifically at Iranian boats. The announcement came despite an active ceasefire between the U.S. and Iran."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2089,5 +2099,5 @@
       "active": true
     }
   ],
-  "updatedAt": "2026-04-23T11:04:59.315Z"
+  "updatedAt": "2026-04-23T21:05:08.238Z"
 }
