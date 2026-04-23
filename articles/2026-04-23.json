@@ -159,5 +159,53 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-23T04:30:01.812Z"
+  },
+  {
+    "title": "Lebanon accuses Israel of targeting journalist killed in airstrike",
+    "description": "Lebanon's prime minister accused Israel of war crimes after IDF attacks on Red Cross vehicles also stopped rescuers from reaching the site.",
+    "link": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 23 Apr 2026 04:25:30 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-23T04:45:02.232Z"
+  },
+  {
+    "title": "Senate Plunges Into Vote Marathon as G.O.P. Advances ICE Funding Boost",
+    "description": "Republicans pressed to pass a budget plan with a $70 billion increase for immigration enforcement. But first, in an overnight session, they beat back Democratic proposals aimed at lowering costs.",
+    "link": "https://www.nytimes.com/2026/04/23/us/politics/senate-plunges-into-vote-marathon-as-gop-advances-ice-funding-boost.html",
+    "pubDate": "Thu, 23 Apr 2026 04:24:49 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "illegal immigration",
+      "federal budget (us)",
+      "budgets and budgeting",
+      "politics and government",
+      "prices (fares, fees and rates)",
+      "deportation",
+      "elections, senate",
+      "schumer, charles e",
+      "trump, donald j",
+      "graham, lindsey"
+    ],
+    "collectedAt": "2026-04-23T04:45:02.232Z"
+  },
+  {
+    "title": "Fans reignite Drake vs. Kendrick feud over album date",
+    "description": "Fans reignite Drake vs. Kendrick feud over album date",
+    "link": "https://www.nbcnews.com/video/shorts/fans-reignite-drake-vs-kendrick-feud-over-album-date-261949509681",
+    "pubDate": "Thu, 23 Apr 2026 04:22:12 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-04-23T04:45:02.232Z"
+  },
+  {
+    "title": "Draft Expert Thinks Cowboys Go Off Script With Round 1 Pick",
+    "description": "One ESPN analyst thinks the Dallas Cowboys could throw everyone for a loop with who they use the No. 12 overall pick on.",
+    "link": "https://www.newsweek.com/sports/nfl/draft-expert-thinks-cowboys-go-off-script-with-round-1-pick-11866833",
+    "pubDate": "Thu, 23 Apr 2026 00:43:01 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-23T04:45:02.232Z"
   }
 ]
