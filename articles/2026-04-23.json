@@ -788,5 +788,34 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-23T08:15:01.316Z"
+  },
+  {
+    "title": "Wildfires across Georgia and Florida destroy more than 50 homes and force evacuations - AP News",
+    "description": "Wildfires across Georgia and Florida destroy more than 50 homes and force evacuations  AP News",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSXhRUDgtdGJsbjVzTlg2dGJxWHJRbHMtb3RweExZeFppY0xIUzBGSmZST25HMFA2NE1qcGpQV3ZjRlMxMHZfMklVdmxRQmxIZjNKOFd0LVRydHdxbHh0QWNEWWNPUmdqWGx2NWNoZXhHTWJhT1dud3BFeDBLZGtnQ0tJT2czb2h6NWxMM3ZSWHBScHhBR3NleA?oc=5",
+    "pubDate": "Thu, 23 Apr 2026 05:20:00 GMT",
+    "source": "AP News",
+    "categories": [],
+    "collectedAt": "2026-04-23T08:30:01.337Z"
+  },
+  {
+    "title": "Justice Department reaches $1.25 million settlement with Trump 2016 campaign aide over Russia probe",
+    "description": "WASHINGTON (AP) — The Justice Department has settled for $1.25 million a lawsuit from an aide to President Donald Trump’s 2016 campaign who was the target of secret surveillance during the FBI’s Russia investigation. Carter Page asserted in a 2020 lawsuit that he was the victim of “unlawful spying” by an FBI agency that was investigating […]",
+    "link": "https://www.washingtonexaminer.com/news/4539970/justice-department-settlement-trump-2016-campaign-aide-russia-probe/",
+    "pubDate": "Thu, 23 Apr 2026 08:29:11 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "carter page",
+      "department of justice",
+      "donald trump",
+      "justice",
+      "mueller probe",
+      "president donald trump",
+      "robert mueller",
+      "russia",
+      "russia investigation"
+    ],
+    "collectedAt": "2026-04-23T08:30:01.337Z"
   }
 ]
