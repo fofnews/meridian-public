@@ -545,5 +545,34 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-23T06:30:01.558Z"
+  },
+  {
+    "title": "Karen Bass meets with Trump at White House to push for LA wildfire relief after months of clashes",
+    "description": "LA Mayor Karen Bass met with President Trump at the White House to advocate for FEMA wildfire funding amid ongoing LA recovery and rebuilding challenges.",
+    "link": "https://www.foxnews.com/politics/karen-bass-meets-trump-white-house-push-la-wildfire-relief-months-clashes",
+    "pubDate": "Thu, 23 Apr 2026 02:32:01 -0400",
+    "source": "Fox News",
+    "categories": [
+      "bd672aba-530e-5d7a-a8df-7eecd7b6acb2",
+      "fnc",
+      "fox news",
+      "fox-news/us/los-angeles",
+      "fox-news/us/disasters/fema",
+      "fox-news/person/gavin-newsom",
+      "fox-news/person/donald-trump",
+      "fox-news/us/la-fires",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-23T06:45:02.270Z"
+  },
+  {
+    "title": "Honduras national who pleaded guilty to raping 12-year-old relative is illegal immigrant, DHS says",
+    "description": "Authorities said the abuse took place over a two-year period while Lopez-Montoya served as the girl’s guardian.",
+    "link": "https://nypost.com/2026/04/23/us-news/honduras-national-jose-lopez-montoya-illegal-immigrant-pleads-guilty-to-raping-12-year-old-relative/",
+    "pubDate": "Thu, 23 Apr 2026 02:42:11 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-23T06:45:02.270Z"
   }
 ]
