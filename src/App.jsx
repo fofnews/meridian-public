@@ -80,12 +80,54 @@ export default function App() {
       .catch(() => setLoading(false));
   }, [loadReport]);
 
-  const sourceCount = s => new Set(s.articles.map(a => a.source)).size;
+  // Defensive: if a story's `articles` is missing or malformed, treat it as
+  // zero sources rather than throwing during App render (which would escape
+  // the per-section boundaries below).
+  const sourceCount = s => {
+    const articles = Array.isArray(s?.articles) ? s.articles : [];
+    return new Set(articles.map(a => a?.source).filter(Boolean)).size;
+  };
   const multiSource = (report?.stories?.filter(s => sourceCount(s) >= 2) ?? [])
     .sort((a, b) => sourceCount(b) - sourceCount(a));
   const singleSource = report?.stories?.filter(s => sourceCount(s) < 2) ?? [];
 
+  // Last-resort fallback for errors that escape the per-section boundaries
+  // below (e.g. a throw in App's own body). The per-section boundaries handle
+  // the common cases; this is the safety net for everything else.
+  const appLevelFallback = (
+    <div
+      className="min-h-screen flex items-center justify-center px-6"
+      style={{ background: 'var(--bg-primary)' }}
+      role="alert"
+    >
+      <div
+        style={{
+          maxWidth: 440,
+          textAlign: 'center',
+          padding: '2.5rem 2rem',
+          border: '1px solid var(--border-primary)',
+          borderRadius: 8,
+          background: 'var(--bg-secondary)',
+        }}
+      >
+        <div
+          className="font-display font-black uppercase"
+          style={{ color: 'var(--accent)', fontSize: 13, letterSpacing: '3px', marginBottom: 16 }}
+        >
+          The Meridian
+        </div>
+        <div style={{ color: 'var(--text-primary)', fontSize: 15, marginBottom: 8 }}>
+          Something went wrong loading the page.
+        </div>
+        <div style={{ color: 'var(--text-muted)', fontSize: 13 }}>
+          Please refresh your browser to try again.
+        </div>
+      </div>
+    </div>
+  );
+
   return (
+    <ErrorBoundary label="the app" fallback={appLevelFallback}>
     <div className="min-h-screen" style={{ background: 'var(--bg-primary)' }}>
 
       {/* Broadcast hero — silent failure so a bad story doesn't block the page */}
@@ -329,5 +371,6 @@ export default function App() {
         {isDark ? <Sun size={16} /> : <Moon size={16} />}
       </button>
     </div>
+    </ErrorBoundary>
   );
 }

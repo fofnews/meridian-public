@@ -1,35 +1,31 @@
-From b3c0b33e140da413cb7121ec37e564fd58e177c2 Mon Sep 17 00:00:00 2001
+From fb4659884bb4df64e71de57d32ad2fe52297c0f7 Mon Sep 17 00:00:00 2001
 From: Dan <dvonlineservices123@gmail.com>
-Date: Thu, 23 Apr 2026 05:47:19 -0400
-Subject: [PATCH] feat: add ErrorBoundary around report / articles / timeline
- views
-MIME-Version: 1.0
-Content-Type: text/plain; charset=UTF-8
-Content-Transfer-Encoding: 8bit
+Date: Thu, 23 Apr 2026 06:17:50 -0400
+Subject: [PATCH] feat: add ErrorBoundary around report, articles, timeline,
+ hero, and app
 
-A malformed report JSON, broken story shape, or any uncaught render
-exception in a child component currently takes down the entire page.
-Wrap the main content regions in an ErrorBoundary so one bad section
-shows a recoverable error message instead of a white screen.
+Wraps each major render subtree in a reusable class-based ErrorBoundary
+so a bad data shape from /api/report or /api/articles degrades one
+section instead of blanking the whole page.
 
-- New ErrorBoundary class component accepts `label`, `fallback`, and
-  `resetKey`. When `resetKey` changes (date, edition, tab) the boundary
-  clears its error state automatically so switching context is enough
-  to retry.
-- BroadcastHero is wrapped with fallback={null} — if it crashes, the
-  hero silently disappears and the rest of the app keeps working.
-- The analysis section, ArticlesView, and TimelineView each get their
-  own boundary with a friendly fallback.
-
-Co-Authored-By: Claude Opus 4.7 <noreply@anthropic.com>
+- New src/components/ErrorBoundary.jsx: catches render errors, shows a
+  styled fallback (or silent null when fallback={null}), and resets
+  itself when resetKey changes so users recover by switching dates.
+- App.jsx wraps BroadcastHero (silent fallback), TimelineView,
+  ArticlesView, the analysis report, and the entire App tree with a
+  top-level boundary that catches anything above the per-section ones.
+- Defensive sourceCount() guards against story.articles being null or
+  undefined, which is the same class of bug the boundaries catch at
+  render time but worth handling inline since this runs in App.jsx's
+  body above the analysis boundary.
 ---
- src/App.jsx                      | 39 ++++++++++------
- src/components/ErrorBoundary.jsx | 78 ++++++++++++++++++++++++++++++++
- 2 files changed, 104 insertions(+), 13 deletions(-)
+ src/App.jsx                      | 84 ++++++++++++++++++++++++++------
+ src/components/ErrorBoundary.jsx | 78 +++++++++++++++++++++++++++++
+ 2 files changed, 148 insertions(+), 14 deletions(-)
  create mode 100755 src/components/ErrorBoundary.jsx
 
 diff --git a/src/App.jsx b/src/App.jsx
-index a9742a7..e8a2473 100644
+index a9742a7..1281f2a 100644
 --- a/src/App.jsx
 +++ b/src/App.jsx
 @@ -6,6 +6,7 @@ import StoryCard from './components/StoryCard';
@@ -40,8 +36,59 @@ index a9742a7..e8a2473 100644
  import { useTheme } from './ThemeContext.jsx';
  
  export default function App() {
-@@ -87,16 +88,22 @@ export default function App() {
+@@ -79,24 +80,72 @@ export default function App() {
+       .catch(() => setLoading(false));
+   }, [loadReport]);
+ 
+-  const sourceCount = s => new Set(s.articles.map(a => a.source)).size;
++  // Defensive: if a story's `articles` is missing or malformed, treat it as
++  // zero sources rather than throwing during App render (which would escape
++  // the per-section boundaries below).
++  const sourceCount = s => {
++    const articles = Array.isArray(s?.articles) ? s.articles : [];
++    return new Set(articles.map(a => a?.source).filter(Boolean)).size;
++  };
+   const multiSource = (report?.stories?.filter(s => sourceCount(s) >= 2) ?? [])
+     .sort((a, b) => sourceCount(b) - sourceCount(a));
+   const singleSource = report?.stories?.filter(s => sourceCount(s) < 2) ?? [];
+ 
++  // Last-resort fallback for errors that escape the per-section boundaries
++  // below (e.g. a throw in App's own body). The per-section boundaries handle
++  // the common cases; this is the safety net for everything else.
++  const appLevelFallback = (
++    <div
++      className="min-h-screen flex items-center justify-center px-6"
++      style={{ background: 'var(--bg-primary)' }}
++      role="alert"
++    >
++      <div
++        style={{
++          maxWidth: 440,
++          textAlign: 'center',
++          padding: '2.5rem 2rem',
++          border: '1px solid var(--border-primary)',
++          borderRadius: 8,
++          background: 'var(--bg-secondary)',
++        }}
++      >
++        <div
++          className="font-display font-black uppercase"
++          style={{ color: 'var(--accent)', fontSize: 13, letterSpacing: '3px', marginBottom: 16 }}
++        >
++          The Meridian
++        </div>
++        <div style={{ color: 'var(--text-primary)', fontSize: 15, marginBottom: 8 }}>
++          Something went wrong loading the page.
++        </div>
++        <div style={{ color: 'var(--text-muted)', fontSize: 13 }}>
++          Please refresh your browser to try again.
++        </div>
++      </div>
++    </div>
++  );
++
    return (
++    <ErrorBoundary label="the app" fallback={appLevelFallback}>
      <div className="min-h-screen" style={{ background: 'var(--bg-primary)' }}>
  
 -      {/* Broadcast hero */}
@@ -72,7 +119,7 @@ index a9742a7..e8a2473 100644
        )}
  
        {/* Loading hero placeholder */}
-@@ -143,10 +150,16 @@ export default function App() {
+@@ -143,10 +192,16 @@ export default function App() {
        </div>
  
        <main className="max-w-5xl mx-auto px-4 py-10">
@@ -91,7 +138,7 @@ index a9742a7..e8a2473 100644
          )}
  
          {view === 'analysis' && loading && (
-@@ -162,7 +175,7 @@ export default function App() {
+@@ -162,7 +217,7 @@ export default function App() {
          )}
  
          {view === 'analysis' && !loading && report && (
@@ -100,7 +147,7 @@ index a9742a7..e8a2473 100644
              <SuggestionBox />
  
              {/* Top Stories */}
-@@ -234,7 +247,7 @@ export default function App() {
+@@ -234,7 +289,7 @@ export default function App() {
                  </div>
                </section>
              )}
@@ -109,6 +156,13 @@ index a9742a7..e8a2473 100644
          )}
  
          {view === 'analysis' && !loading && !error && !report && (
+@@ -316,5 +371,6 @@ export default function App() {
+         {isDark ? <Sun size={16} /> : <Moon size={16} />}
+       </button>
+     </div>
++    </ErrorBoundary>
+   );
+ }
 diff --git a/src/components/ErrorBoundary.jsx b/src/components/ErrorBoundary.jsx
 new file mode 100755
 index 0000000..decfbf0
