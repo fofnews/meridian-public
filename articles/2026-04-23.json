@@ -678,5 +678,46 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-23T07:45:01.215Z"
+  },
+  {
+    "title": "Iran war: What’s happening on day 55 after Trump extended ceasefire?",
+    "description": "Iran says it wants talks, but blames US “breach of commitments, blockade and threats” for stalling negotiations.",
+    "link": "https://www.aljazeera.com/news/2026/4/23/iran-war-whats-happening-on-day-55-after-trump-extended-ceasefire?traffic_source=rss",
+    "pubDate": "Thu, 23 Apr 2026 07:34:46 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-23T08:00:01.314Z"
+  },
+  {
+    "title": "Druzhba oil flow to Slovakia resumed early on Thursday, Slovak ministry says - Reuters",
+    "description": "Druzhba oil flow to Slovakia resumed early on Thursday, Slovak ministry says  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONGtzNENfU1BwNE00SnNpS3pYOTQtNmtsa1FoTENiRTFZbWNkeENGRUpWUk5TamVBS1hHSGtSaUUtcW81SDVnM3hSUDdnUWZVdHFZWXBISWhRYjN1Q1A3NUJacFR5eFdzNnBPeUtfdC0yb3pjdXBVMnpXNFJ3M0oxZU5OTmRJcTI5dUpCeEM1Tm5BdVhVTmg4Z0ZKckNZUnVDdzZEckFqOEpMQU90YVpNS1d6NTVOcDVLN3JuVXpR?oc=5",
+    "pubDate": "Thu, 23 Apr 2026 06:21:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-04-23T08:00:01.314Z"
+  },
+  {
+    "title": "Senate GOP rams through blueprint to bankroll ICE, Border Patrol through end of Trump era",
+    "description": "Senate Republicans adopted a budget resolution funding ICE and Border Patrol for President Donald Trump's full term, advancing the reconciliation process to fund immigration enforcement.",
+    "link": "https://www.foxnews.com/politics/senate-gop-rams-blueprint-bankroll-ice-border-patrol-end-trump-era",
+    "pubDate": "Thu, 23 Apr 2026 03:50:31 -0400",
+    "source": "Fox News",
+    "categories": [
+      "c343d6e8-9ad4-5813-9a7d-065eb80531d8",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/us/immigration",
+      "fox-news/politics/elections/republicans",
+      "fox-news/budget",
+      "fox-news/politics/elections/senate",
+      "fox-news/democrats",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-23T08:00:01.314Z"
   }
 ]
