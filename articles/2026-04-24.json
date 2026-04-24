@@ -1240,5 +1240,495 @@
       "west virginia"
     ],
     "collectedAt": "2026-04-24T10:00:01.302Z"
+  },
+  {
+    "title": "'Self-aware' robots can learn complex tasks by watching humans. Is that a good thing?",
+    "description": "Scientists say they've made a key breakthrough that would allow robots to figure out complex tasks on their own — but experts say it raises questions about how much risk comes with letting robots be in charge of their own learning.",
+    "link": "https://www.npr.org/2026/04/24/nx-s1-5797863/self-aware-robots-future-laundry-work-home",
+    "pubDate": "Fri, 24 Apr 2026 06:00:00 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
+  },
+  {
+    "title": "Iran live updates: Trump says expect higher gas prices 'for a little while'",
+    "description": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.",
+    "link": "https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152",
+    "pubDate": "Fri, 24 Apr 2026 06:03:55 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
+  },
+  {
+    "title": "WATCH:  Tornado rips through northwest Oklahoma amid severe storms across Plains",
+    "description": "More than a dozen tornadoes were reported across the central U.S. on Thursday night, including a powerful storm in northwestern Oklahoma.",
+    "link": "https://abcnews.com/video/132338619/",
+    "pubDate": "Fri, 24 Apr 2026 06:09:31 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
+  },
+  {
+    "title": "Companies, Not Consumers, to Cash In Big From Tariff Refunds",
+    "description": "Many families felt the sting of the president’s now-illegal tariffs, but companies have said little about whether they will share the $166 billion coming back to them.",
+    "link": "https://www.nytimes.com/2026/04/24/business/companies-consumers-tariff-refunds.html",
+    "pubDate": "Fri, 24 Apr 2026 09:02:56 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "international trade and world market",
+      "customs (tariff)",
+      "prices (fares, fees and rates)",
+      "rebates and refunds",
+      "shopping and retail",
+      "united states economy",
+      "walmart stores inc",
+      "costco wholesale corporation",
+      "trump, donald j",
+      "united states"
+    ],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
+  },
+  {
+    "title": "Todd Blanche Targets Trump’s Enemies Amid Jockeying to Lead DOJ",
+    "description": "Mr. Blanche’s salvo of actions are meant to demonstrate progress on the president’s priorities, chief among them payback.",
+    "link": "https://www.nytimes.com/2026/04/24/us/politics/todd-blanche-trump-doj.html",
+    "pubDate": "Fri, 24 Apr 2026 09:02:29 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "justice department",
+      "blanche, todd (attorney)",
+      "bondi, pamela j",
+      "dhillon, harmeet",
+      "digenova, joseph e",
+      "halligan, lindsey",
+      "pirro, jeanine",
+      "attorneys general",
+      "appointments and executive changes"
+    ],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
+  },
+  {
+    "title": "How Elon Musk Used SpaceX to Benefit Himself and His Businesses",
+    "description": "The rocket maker has been a useful financial tool for Mr. Musk, providing the billionaire with loans and aiding his struggling companies, a Times examination found.",
+    "link": "https://www.nytimes.com/2026/04/24/technology/how-elon-musk-used-spacex-to-benefit-himself-and-his-businesses.html",
+    "pubDate": "Fri, 24 Apr 2026 09:00:20 +0000",
+    "source": "NY Times",
+    "categories": [
+      "stocks and bonds",
+      "innovation",
+      "private spaceflight",
+      "credit and debt",
+      "electric and hybrid vehicles",
+      "space and astronomy",
+      "boards of directors",
+      "satellites",
+      "mergers, acquisitions and divestitures",
+      "venture capital",
+      "banking and financial institutions",
+      "social media",
+      "artificial intelligence",
+      "shareholder rights and activism",
+      "computers and the internet",
+      "founders fund",
+      "solarcity inc",
+      "space exploration technologies corp",
+      "tesla motors inc",
+      "x (formerly twitter)",
+      "x.ai inc",
+      "musk, elon"
+    ],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
+  },
+  {
+    "title": "Sam Altman’s Next High-Wire Act: Getting OpenAI to Make More Money",
+    "description": "Mr. Altman, who has faced criticism over OpenAI’s direction, has culled company projects and is trying to be more disciplined with strategy.",
+    "link": "https://www.nytimes.com/2026/04/24/technology/sam-altman-openai-money.html",
+    "pubDate": "Fri, 24 Apr 2026 09:02:25 +0000",
+    "source": "NY Times",
+    "categories": [
+      "artificial intelligence",
+      "computers and the internet",
+      "mobile applications",
+      "start-ups",
+      "chatgpt",
+      "anthropic ai llc",
+      "openai labs",
+      "altman, samuel h",
+      "friar, sarah",
+      "simo, fidji",
+      "san francisco (calif)"
+    ],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
+  },
+  {
+    "title": "A.I. Start-Ups From Canada and Germany Merge to Take On Silicon Valley",
+    "description": "Cohere is acquiring Aleph Alpha in a deal aimed at customers uneasy about the dominance of American companies in artificial intelligence.",
+    "link": "https://www.nytimes.com/2026/04/24/business/cohere-aleph-alpha-ai-merger.html",
+    "pubDate": "Fri, 24 Apr 2026 09:36:18 +0000",
+    "source": "NY Times",
+    "categories": [
+      "artificial intelligence",
+      "cohere inc",
+      "aleph alpha",
+      "anthropic ai llc",
+      "deepseek artificial intelligence co ltd",
+      "google inc",
+      "openai labs",
+      "start-ups"
+    ],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
+  },
+  {
+    "title": "A New Worry for Republicans: Latino Catholics Offended by Trump",
+    "description": "In 2024, the president made significant inroads with Hispanics. But in a competitive Arizona congressional district, voters now express dismay at his feud with the pope.",
+    "link": "https://www.nytimes.com/2026/04/24/us/politics/trump-pope-latino-voters.html",
+    "pubDate": "Fri, 24 Apr 2026 09:02:43 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "midterm elections (2026)",
+      "popes",
+      "politics and government",
+      "republican party",
+      "roman catholic church",
+      "hispanic-americans",
+      "leo xiv",
+      "trump, donald j",
+      "arizona"
+    ],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
+  },
+  {
+    "title": "How Ashley Padilla, Breakout ‘S.N.L.’ Star, Nails Comic Timing",
+    "description": "Ashley Padilla’s ability to extend a moment transforms what could be a routine joke into something stranger and more absurd.",
+    "link": "https://www.nytimes.com/2026/04/24/arts/television/ashley-padilla-saturday-night-live.html",
+    "pubDate": "Fri, 24 Apr 2026 09:00:41 +0000",
+    "source": "NY Times",
+    "categories": [
+      "comedy and humor",
+      "television",
+      "padilla, ashley",
+      "saturday night live (tv program)",
+      "vis-design"
+    ],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
+  },
+  {
+    "title": "The NFL Draft opened with a gamble, a surprise and a sign of things to come",
+    "description": "The Los Angeles Rams picking quarterback Ty Simpson shocked experts and fans alike, but it wasn't the only surprise from the first round of the NFL draft.",
+    "link": "https://www.nbcnews.com/sports/nfl/nfl-draft-first-round-ty-simpson-reuben-bain-jr-results-rcna341772",
+    "pubDate": "Fri, 24 Apr 2026 10:01:00 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
+  },
+  {
+    "title": "Does the Right Still Believe in 'No More Souters'?",
+    "description": "This summer, conservatives may have yet another opportunity to prove they have finally learned their lesson.",
+    "link": "https://www.newsweek.com/does-the-right-still-believe-in-no-more-souters-11871721",
+    "pubDate": "Fri, 24 Apr 2026 06:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
+  },
+  {
+    "title": "A Looksmaxxing Lesson for Pete Hegseth—and His Critics",
+    "description": "American political culture has long rewarded figures whose appearances fit the dominant medium of their time.",
+    "link": "https://www.newsweek.com/looksmaxxing-pete-hegseth-donald-trump-11865193",
+    "pubDate": "Fri, 24 Apr 2026 06:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
+  },
+  {
+    "title": "Millions of Clicks on Sexual Assault—Where's The Outrage?",
+    "description": "We spend far more time teaching women and girls how not to be harmed than we do teaching men and boys not to harm.",
+    "link": "https://www.newsweek.com/millions-of-clicks-on-sexual-assault-wheres-the-outrage-11846239",
+    "pubDate": "Fri, 24 Apr 2026 06:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
+  },
+  {
+    "title": "Geely's Caocao to deploy thousands of fully customised robotaxis in 2027 - Reuters",
+    "description": "Geely's Caocao to deploy thousands of fully customised robotaxis in 2027  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVHF3SncxSkNYU29CZFlHV3g5MTJXU002cmdvUmt1eDdDRkFBbi1vY1hfeG9EU1A2c3pmTlRoeEhGQVAxNW9IcFBKNE90VlpPSDhXSW5MaEJmUTN1ZkxVN0FTMWhTdlJSYzRBQ05TTkswN2wxSm1Ea0YzZVhfbWk2T3ktZmpiOHQ1NVhSVjRZcjlwRV8wUFJOdHJaRzZMd1h2c3p5M0wyRFdCMkpRR3cwcDBTWQ?oc=5",
+    "pubDate": "Fri, 24 Apr 2026 06:37:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
+  },
+  {
+    "title": "Tariff refunds in sight as importers start signing up",
+    "description": "Importers are inching closer to receiving tariff refunds this week as companies begin to work through the government’s newly launched system.  It enables companies to formally request their piece of the $166 billion in collected duties invalidated by the Supreme Court. Still, the Trump administration warns it may be weeks before funds change hands. Though some…",
+    "link": "https://thehill.com/regulation/court-battles/5845980-importers-tariff-refunds-cbp/",
+    "pubDate": "Fri, 24 Apr 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "business",
+      "court battles",
+      "news"
+    ],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
+  },
+  {
+    "title": "Democrats poised to escalate pressure on GOP with repeated votes on Iran war powers",
+    "description": "House Democrats are ready to escalate their effort to end the Iran war. Since the strikes began on Feb. 28, the lower chamber has voted only twice on war power resolutions, which would require President Trump to terminate the military campaign against Tehran unless Congress explicitly approves it. That pace is about to change dramatically.…",
+    "link": "https://thehill.com/homenews/house/5846206-democrats-iran-war-powers-votes/",
+    "pubDate": "Fri, 24 Apr 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "defense",
+      "house",
+      "news",
+      "policy"
+    ],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
+  },
+  {
+    "title": "Ex-NFL star Shawne Merriman reacts as Patriots' Mike Vrabel caught in scandal",
+    "description": "Patriots head coach Mike Vrabel steps away to seek counseling amid photo scandal with NFL reporter Dianna Russini as new images surface online.",
+    "link": "https://www.foxnews.com/sports/ex-nfl-star-shawne-merriman-reacts-patriots-mike-vrabel-caught-scandal",
+    "pubDate": "Fri, 24 Apr 2026 06:04:09 -0400",
+    "source": "Fox News",
+    "categories": [
+      "ca8d647d-8a1a-5bc9-854b-45f3ccb207f6",
+      "fnc",
+      "fox news",
+      "fox-news/sports/nfl/new-england-patriots",
+      "fox-news/sports/nfl",
+      "fox-news/sports",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
+  },
+  {
+    "title": "Social media erupts after Mamdani's far-left supporters turn on him over homeless shelter: 'Oops'",
+    "description": "East Village voters who backed Mayor Zohran Mamdani by a 40-point margin are now suing to stop a homeless shelter plan, drawing conservative criticism online.",
+    "link": "https://www.foxnews.com/politics/social-media-erupts-after-mamdanis-far-left-supporters-turn-on-him-homeless-shelter",
+    "pubDate": "Fri, 24 Apr 2026 06:00:57 -0400",
+    "source": "Fox News",
+    "categories": [
+      "bc579e8b-3e21-5204-a921-d5168b28acdc",
+      "fnc",
+      "fox news",
+      "fox-news/us/new-york-city",
+      "fox-news/us/economy/housing",
+      "fox-news/person/zohran-mamdani",
+      "fox-news/person/andrew-cuomo",
+      "fox-news/topic/homeless-crisis",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
+  },
+  {
+    "title": "FLASHBACK: Five of the most politically-charged moments at the White House Correspondents' Dinner",
+    "description": "A look back at politically-charged moments from the White House Correspondents' Dinner from Stephen Colbert roasting George W. Bush to Axios' Alex Thompson calling out his colleagues.",
+    "link": "https://www.foxnews.com/media/flashback-five-most-politically-charged-moments-white-house-correspondents-dinner",
+    "pubDate": "Fri, 24 Apr 2026 06:00:55 -0400",
+    "source": "Fox News",
+    "categories": [
+      "68d908c1-95dd-5345-bc84-56c20a7cc86c",
+      "fnc",
+      "fox news",
+      "fox-news/media",
+      "fox-news/politics/executive/white-house",
+      "fox-news/person/donald-trump",
+      "fox-news/person/barack-obama",
+      "fox-news/person/joe-biden",
+      "fox-news/person/stephen-colbert",
+      "fox-news/media",
+      "article"
+    ],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
+  },
+  {
+    "title": "Unexploded mortar shell from bloodiest battle in country's history unearthed after nearly 280 years",
+    "description": "Archaeologists uncovered an unexploded mortar shell at Scotland's Culloden Battlefield, the site of the bloodiest battle in Scottish history. Here are details and photos.",
+    "link": "https://www.foxnews.com/travel/unexploded-mortar-shell-from-bloodiest-battle-countrys-history-unearthed-nearly-280-years",
+    "pubDate": "Fri, 24 Apr 2026 06:00:55 -0400",
+    "source": "Fox News",
+    "categories": [
+      "db6e7e4f-3dce-5f96-80b2-ce1c7a80dad0",
+      "fnc",
+      "fox news",
+      "fox-news/science/archaeology",
+      "fox-news/world/conflicts",
+      "fox-news/science/archaeology/history",
+      "fox-news/travel/general/historic-sites",
+      "fox-news/world/world-regions/united-kingdom",
+      "fox-news/travel",
+      "fox-news/travel/regions/europe",
+      "fox-news/travel",
+      "article"
+    ],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
+  },
+  {
+    "title": "US economic chokehold on Iran reaches peak leverage as collapse risks emerge",
+    "description": "U.S. economic pressure on Iran has reached historic levels, but inconsistent enforcement limits full impact of sanctions, a former Treasury expert says.",
+    "link": "https://www.foxnews.com/world/us-economic-chokehold-iran-reaches-peak-leverage-collapse-risks-emerge",
+    "pubDate": "Fri, 24 Apr 2026 06:00:46 -0400",
+    "source": "Fox News",
+    "categories": [
+      "bb8d1103-2329-5e77-a3e1-b8aad249fbf7",
+      "fnc",
+      "fox news",
+      "fox-news/politics/defense/wars/war-with-iran",
+      "fox-news/us/economy/inflation",
+      "fox-news/us/economy",
+      "fox-news/us/immigration/enforcement",
+      "fox-news/world/conflicts/iran",
+      "fox-news/politics/finance/sanctions",
+      "fox-news/world",
+      "article"
+    ],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
+  },
+  {
+    "title": "King Charles won’t meet Prince Harry during monarch’s US state visit: experts",
+    "description": "Prince Harry and King Charles will not meet during the monarch's late April U.S. trip, as every minute of the state visit is diplomatically planned, royal experts told Fox News Digital.",
+    "link": "https://www.foxnews.com/entertainment/king-charles-wont-meet-prince-harry-monarchs-us-state-visit-experts",
+    "pubDate": "Fri, 24 Apr 2026 06:00:15 -0400",
+    "source": "Fox News",
+    "categories": [
+      "b6c37a79-0b61-5a4a-af4c-76e3d4cd0b25",
+      "fnc",
+      "fox news",
+      "fox-news/person/king-charles-iii",
+      "fox-news/person/prince-harry",
+      "fox-news/entertainment",
+      "fox-news/entertainment",
+      "article"
+    ],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
+  },
+  {
+    "title": "Virginia’s map war lays bare state's sharp partisan turn as legal fight looms",
+    "description": "Virginia's redistricting fight heads to the state Supreme Court after a county judge blocked certification of a narrowly approved ballot measure.",
+    "link": "https://www.foxnews.com/politics/virginias-map-war-lays-bare-states-sharp-partisan-turn-legal-fight-looms",
+    "pubDate": "Fri, 24 Apr 2026 06:00:11 -0400",
+    "source": "Fox News",
+    "categories": [
+      "0b76198e-c597-5875-bc6c-9b3f12c06a04",
+      "fnc",
+      "fox news",
+      "fox-news/politics/state-and-local/elections-disputes",
+      "fox-news/democrats",
+      "fox-news/us/congress",
+      "fox-news/us/us-regions/southeast/virginia",
+      "fox-news/politics/elections/republicans",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
+  },
+  {
+    "title": "Fox News Digital's News Quiz: April 24, 2026",
+    "description": "This week's news quiz covers Rep. Sheila Cherfilus-McCormick's House resignation and Jelly Roll's announcement that he \"lost his way\" and was working to turn things around.",
+    "link": "https://www.foxnews.com/lifestyle/fox-news-digital-news-quiz-april-24-2026",
+    "pubDate": "Fri, 24 Apr 2026 06:00:05 -0400",
+    "source": "Fox News",
+    "categories": [
+      "ad822488-5517-576f-be1d-ff5ede62142b",
+      "fnc",
+      "fox news",
+      "fox-news/lifestyle/quizzes",
+      "fox-news/lifestyle",
+      "article"
+    ],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
+  },
+  {
+    "title": "Zodiac Killer may be tied to Black Dahlia case after ‘code cracked,’ new suspect emerges",
+    "description": "An independent investigator claims he decoded the Zodiac Killer's cipher and found evidence allegedly connecting it to the 1947 Black Dahlia murder.",
+    "link": "https://www.foxnews.com/us/zodiac-killer-may-tied-black-dahlia-case-code-cracked-new-suspect-emerges",
+    "pubDate": "Fri, 24 Apr 2026 06:00:04 -0400",
+    "source": "Fox News",
+    "categories": [
+      "5b98c472-c5bc-5f3a-b80d-a629bbe788de",
+      "fnc",
+      "fox news",
+      "fox-news/us/true-crime",
+      "fox-news/tech/topics/fbi",
+      "fox-news/us/crime/cold-case",
+      "fox-news/us/terror/assassinations-murders",
+      "fox-news/us/crime/homicide",
+      "fox-news/crime",
+      "fox-news/us",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
+  },
+  {
+    "title": "AI influencers are just the tip of the iceberg for ‘synthetic’ talent",
+    "description": "\"The idea that a senior leader can scale their presence through AI isn't science fiction anymore,\" an industry source told NYNext.",
+    "link": "https://nypost.com/2026/04/24/business/ai-influencers-are-just-the-tip-of-the-iceberg-for-synthetic-talent/",
+    "pubDate": "Fri, 24 Apr 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
+  },
+  {
+    "title": "Miami investor let glam girlfriend live rent-free in $6.2M condo — which someone else owned: lawsuit",
+    "description": "The condo was located at the upmarket Turnberry Ocean Club and golf course in Sunny Isles, Miami, where membership is over $100,000.",
+    "link": "https://nypost.com/2026/04/24/us-news/miami-investor-let-glam-girlfriend-live-rent-free-in-6-2m-condo-which-someone-else-owned-lawsuit/",
+    "pubDate": "Fri, 24 Apr 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
+  },
+  {
+    "title": "House considers bill to create ‘buffer zones’ outside houses of worship to ward off protest chaos",
+    "description": "A bill introduced in Congress would charge protesters with a federal crime who harass or interfere with congregants trying to practice their religion within 100 feet of a synagogue or other house of worship.",
+    "link": "https://nypost.com/2026/04/24/us-news/house-considers-bill-to-create-buffer-zones-outside-houses-of-worship-to-ward-off-protest-chaos/",
+    "pubDate": "Fri, 24 Apr 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
+  },
+  {
+    "title": "China’s interference in Taiwan state visit to Eswatini shows staggering influence over African nations",
+    "description": "The United States and Taiwan are raising alarm over China’s capacity to disrupt international diplomacy after Beijing-aligned client states decided to keep Taiwan’s president out of Africa. President William Lai was blocked from travelling to Eswatini this week after China allegedly pressured three African nations — Mauritius, Madagascar, and Seychelles — to deny airspace access […]",
+    "link": "https://www.washingtonexaminer.com/news/world/4540436/china-interference-taiwan-state-visit-eswatini-influence-africa/",
+    "pubDate": "Fri, 24 Apr 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "world",
+      "africa",
+      "air travel",
+      "beijing",
+      "china",
+      "communist party",
+      "state department",
+      "taiwan"
+    ],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
+  },
+  {
+    "title": "SPLC allegedly spent over $1 million infiltrating hate group it publicly claimed was ‘almost irrelevant’",
+    "description": "By 2009, the National Alliance had become “almost irrelevant,” in the words of the Southern Poverty Law Center. Material released by the SPLC in subsequent years detailed further decline at the West Virginia-based white nationalist organization, fueled by infighting and financial woes. As of 2016, the National Alliance had just a few dozen members, down […]",
+    "link": "https://www.washingtonexaminer.com/news/investigations/4540622/splc-allegedly-spent-million-infiltrating-national-alliance/",
+    "pubDate": "Fri, 24 Apr 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "investigations",
+      "department of justice",
+      "follow the money",
+      "neo-nazis",
+      "southern poverty law center",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-04-24T10:15:01.210Z"
   }
 ]
