@@ -2112,7 +2112,22 @@
           "update": "An internal Pentagon email circulated options including suspending Spain from NATO, related to a rift over Iran policy, according to a Reuters report."
         }
       ]
+    },
+    {
+      "id": "us-iran-diplomatic-negotiations",
+      "title": "US-Iran Diplomatic Negotiations",
+      "parentId": null,
+      "firstSeen": "2026-04-24",
+      "lastSeen": "2026-04-24",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-04-24",
+          "edition": "evening",
+          "update": "White House press secretary Karoline Leavitt confirmed Friday that Steve Witkoff and Jared Kushner will travel to Pakistan on Saturday for a second round of talks with Iranian officials."
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-04-24T11:04:37.990Z"
+  "updatedAt": "2026-04-24T21:04:38.166Z"
 }
