@@ -303,5 +303,61 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-24T05:15:01.235Z"
+  },
+  {
+    "title": "Trump administration vows crackdown on Chinese firms 'exploiting' U.S. AI models",
+    "description": "The Trump administration is vowing to crack down on foreign tech companies' exploitation of U.S. artificial intelligence models, singling out China at a time that country is narrowing the gap with the U.S. in the AI race.",
+    "link": "https://www.npr.org/2026/04/24/g-s1-118582/administration-crackdown-on-chinese-firms-exploiting-u-s-ai-models",
+    "pubDate": "Fri, 24 Apr 2026 01:21:12 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-04-24T05:30:02.175Z"
+  },
+  {
+    "title": "China to send giant pandas to Atlanta again",
+    "description": "China is sending two giant pandas to Zoo Atlanta, the China Wildlife Conservation Association says",
+    "link": "https://abcnews.com/Lifestyle/wireStory/china-send-giant-pandas-atlanta-132336958",
+    "pubDate": "Fri, 24 Apr 2026 01:16:05 -0400",
+    "source": "ABC News",
+    "categories": [
+      "lifestyle"
+    ],
+    "collectedAt": "2026-04-24T05:30:02.175Z"
+  },
+  {
+    "title": "Ex-NFLer, fans trash ESPN for being ‘so far behind’ in draft broadcast after pick rule change",
+    "description": "ESPN needs a recurring eight minute alarm and stat.",
+    "link": "https://nypost.com/2026/04/24/sports/ex-nfler-fans-trash-espn-for-being-so-far-behind-in-draft-broadcast/",
+    "pubDate": "Fri, 24 Apr 2026 01:28:40 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-24T05:30:02.175Z"
+  },
+  {
+    "title": "Huascar Brazoban’s ninth-inning entry gaffe nearly costs Mets",
+    "description": "The Mets bullpen is such a mess, they can’t even decide who’s pitching. Instead of Devin Williams — who’s already had enough problems settling in as the closer — starting the top of the ninth with a three-run lead, he was forced to turn around and head back to the bullpen because Huascar Brazobán —...",
+    "link": "https://nypost.com/2026/04/24/sports/huascar-brazobans-ninth-inning-entry-gaffe-nearly-costs-mets/",
+    "pubDate": "Fri, 24 Apr 2026 01:24:29 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-24T05:30:02.175Z"
+  },
+  {
+    "title": "UMass Amherst ‘Chef of the Year’ Jeffrey MacDonald accused of murdering wife inside campus hotel room",
+    "description": "An award-winning \"Chef of the Year\" at the University of Massachusetts Amherst is accused of murdering his wife inside an on-campus hotel on Wednesday.",
+    "link": "https://nypost.com/2026/04/24/us-news/umass-amherst-chef-of-the-year-jeffrey-macdonald-allegedly-murdered-wife-emma-macdonald-in-campus-hotel/",
+    "pubDate": "Fri, 24 Apr 2026 01:24:02 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-24T05:30:02.175Z"
+  },
+  {
+    "title": "Jets’ intentions are clear with their Day 1 draft haul",
+    "description": "Once the Jets chose Texas Tech LB David Bailey with the No. 2 overall pick in Thursday night’s first round of the NFL draft, the tell became obvious.",
+    "link": "https://nypost.com/2026/04/24/sports/jets-intentions-are-clear-with-their-day-1-draft-haul/",
+    "pubDate": "Fri, 24 Apr 2026 01:16:37 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-24T05:30:02.175Z"
   }
 ]
