@@ -453,5 +453,43 @@
     "source": "BBC News",
     "categories": [],
     "collectedAt": "2026-04-24T06:15:01.268Z"
+  },
+  {
+    "title": "Trump says he speaks 'for the UK more than Prince Harry'",
+    "description": "The US president's comments come ahead of a state visit from King Charles III and Queen Camilla.",
+    "link": "https://www.bbc.com/news/articles/cx268zxgx1no?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 24 Apr 2026 06:26:01 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-24T06:30:01.445Z"
+  },
+  {
+    "title": "Iran war: What’s happening on day 56 after Trump extended ceasefire?",
+    "description": "The Israel-Lebanon ceasefire is extended by three weeks after White House talks with Israeli and Lebanese envoys.",
+    "link": "https://www.aljazeera.com/news/2026/4/24/iran-war-whats-happening-on-day-56-after-trump-extended-ceasefire?traffic_source=rss",
+    "pubDate": "Fri, 24 Apr 2026 06:11:36 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-24T06:30:01.445Z"
+  },
+  {
+    "title": "Costco issues urgent recall on popular product linked to burn injuries",
+    "description": "According to the CPSC, there were 14 reported heat-related incidents with the socks, and 13 of them involved first- or second-degree partial thickness burns.",
+    "link": "https://nypost.com/2026/04/24/lifestyle/costco-recalls-32-degrees-heated-socks-after-burn-injuries-reported-by-customers/",
+    "pubDate": "Fri, 24 Apr 2026 02:17:21 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-24T06:30:01.445Z"
+  },
+  {
+    "title": "Sapphire Princess cruise ship recovers 5 bodies from sea during 3-hour mission",
+    "description": "Five bodies - believed to be migrants - were pulled from the sea in a three-hour recovery mission by staff on a cruise ship.",
+    "link": "https://nypost.com/2026/04/24/world-news/sapphire-princess-cruise-ship-recovers-5-bodies-from-sea-during-3-hour-recovery-mission/",
+    "pubDate": "Fri, 24 Apr 2026 02:15:52 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-24T06:30:01.445Z"
   }
 ]
