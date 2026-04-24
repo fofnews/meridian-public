@@ -67,5 +67,52 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-24T04:15:01.412Z"
+  },
+  {
+    "title": "Politicians oppose plan to reclassify medical marijuana",
+    "description": "Politicians oppose plan to reclassify medical marijuana",
+    "link": "https://www.nbcnews.com/video/shorts/politicians-oppose-plan-to-reclassify-medical-marijuana-262027845768",
+    "pubDate": "Fri, 24 Apr 2026 04:07:16 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-04-24T04:30:01.775Z"
+  },
+  {
+    "title": "Former Giants co-owner Steve Tisch seen in team's draft room",
+    "description": "The Giants got their top choice in edge rusher Reese, who posted 6.5 sacks and 10 tackles for loss as a first-team All-American at Ohio State.",
+    "link": "https://www.foxnews.com/sports/former-giants-co-owner-steve-tisch-seen-in-teams-draft-room",
+    "pubDate": "Fri, 24 Apr 2026 00:08:31 -0400",
+    "source": "Fox News",
+    "categories": [
+      "100badec-67f7-5430-ac0c-966894e1231d",
+      "fnc",
+      "fox news",
+      "fox-news/sports/nfl/new-york-giants",
+      "fox-news/sports/nfl-draft",
+      "fox-news/sports/nfl",
+      "fox-news/topic/trending-news",
+      "fox-news/sports",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-04-24T04:30:01.775Z"
+  },
+  {
+    "title": "Mikal Bridges is pulling the Knicks with him toward rock bottom",
+    "description": "Bridges started Thursday’s Game 3 defeat. He took a few shots. Bricked them. Lost all confidence. And poof … disappeared faster than five first-round picks.",
+    "link": "https://nypost.com/2026/04/24/sports/mikal-bridges-is-pulling-the-knicks-with-him-toward-rock-bottom/",
+    "pubDate": "Fri, 24 Apr 2026 00:22:59 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-24T04:30:01.775Z"
+  },
+  {
+    "title": "Spencer Fano’s fiancée gets caught in middle of lineman’s wild NFL draft night celebration",
+    "description": "Spencer Fano had a big celebration after being drafted Thursday night, and his fiancée sure got an up-close view at it all.",
+    "link": "https://nypost.com/2026/04/24/sports/spencer-fanos-fiancee-gets-caught-in-middle-of-wild-nfl-draft-celebration/",
+    "pubDate": "Fri, 24 Apr 2026 00:21:09 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-24T04:30:01.775Z"
   }
 ]
