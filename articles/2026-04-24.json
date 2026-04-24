@@ -610,5 +610,27 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-24T07:15:01.231Z"
+  },
+  {
+    "title": "Ukrainian married couple aged 75 killed in Russian attack on Odesa",
+    "description": "Ukrainian officials say residential buildings and bulk carrier also hit in overnight assault.",
+    "link": "https://www.aljazeera.com/news/2026/4/24/russian-drones-kill-two-in-ukraines-odesa-hit-foreign-merchant-ship?traffic_source=rss",
+    "pubDate": "Fri, 24 Apr 2026 07:10:51 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-24T07:30:01.341Z"
+  },
+  {
+    "title": "Does Israel’s ‘Yellow Line’ violate the Lebanon ceasefire?",
+    "description": "Israel has carved out a military zone inside southern Lebanon, raising fears it is replicating the “Yellow Line” in Gaza",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/does-israels-yellow-line-violate-the-lebanon-ceasefire-2?traffic_source=rss",
+    "pubDate": "Fri, 24 Apr 2026 06:56:37 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-04-24T07:30:01.341Z"
   }
 ]
