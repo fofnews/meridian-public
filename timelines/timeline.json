@@ -2097,7 +2097,22 @@
       "firstSeen": "2026-02-28",
       "lastSeen": "2026-04-23",
       "active": true
+    },
+    {
+      "id": "nato-iran-diplomatic-crisis",
+      "title": "NATO-Iran Diplomatic Crisis",
+      "parentId": null,
+      "firstSeen": "2026-04-24",
+      "lastSeen": "2026-04-24",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-04-24",
+          "edition": "morning",
+          "update": "An internal Pentagon email circulated options including suspending Spain from NATO, related to a rift over Iran policy, according to a Reuters report."
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-04-23T21:05:08.238Z"
+  "updatedAt": "2026-04-24T11:04:37.990Z"
 }
