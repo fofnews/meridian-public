@@ -46,7 +46,14 @@ function buildDisplayTimelines(allTimelines) {
         entries: allEntries,
       });
     } else {
-      const entries = (topic.entries || []).map(e => ({ ...e, subThread: null }));
+      const editionOrder = { morning: 0, evening: 1, manual: 2 };
+      const entries = (topic.entries || [])
+        .map(e => ({ ...e, subThread: null }))
+        .sort((a, b) => {
+          const d = b.date.localeCompare(a.date);
+          if (d !== 0) return d;
+          return (editionOrder[a.edition] ?? 3) - (editionOrder[b.edition] ?? 3);
+        });
       topLevel.push({ ...topic, entries });
     }
   }
