@@ -403,5 +403,73 @@
     "source": "Newsweek",
     "categories": [],
     "collectedAt": "2026-04-25T08:00:02.325Z"
+  },
+  {
+    "title": "Is Donald Trump the Drug President?",
+    "description": "The president ordered cannabis rescheduling and faster psychedelic approvals, but at the same time escalated drug enforcement.",
+    "link": "https://www.newsweek.com/is-donald-trump-the-drug-president-11876425",
+    "pubDate": "Sat, 25 Apr 2026 04:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-25T08:15:01.202Z"
+  },
+  {
+    "title": "Mississippi governor says he will call special session to redraw district maps after SCOTUS ruling",
+    "description": "Mississippi's governor announces a special session to redraw district lines, saying the Supreme Court's ruling in a key case could change electoral maps.",
+    "link": "https://www.foxnews.com/politics/mississippi-governor-call-special-session-redraw-district-maps-after-scotus-ruling",
+    "pubDate": "Sat, 25 Apr 2026 04:05:31 -0400",
+    "source": "Fox News",
+    "categories": [
+      "55344572-bddd-5519-ae2e-c41d9013b729",
+      "fnc",
+      "fox news",
+      "fox-news/politics/elections/midterm-elections",
+      "fox-news/politics/state-and-local/states-rights",
+      "fox-news/us/us-regions/southeast/mississippi",
+      "fox-news/politics/state-and-local/governors",
+      "fox-news/us/us-regions/southeast/louisiana",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-25T08:15:01.202Z"
+  },
+  {
+    "title": "DC murder rate sees astonishing turnaround as Trump team credits federal crackdown",
+    "description": "Washington, D.C., homicides have dropped by roughly half in 2026 compared to 2025, sparking debate over Trump's federal crackdown and broader trends.",
+    "link": "https://www.foxnews.com/politics/dc-murder-rate-sees-astonishing-turnaround-trump-team-credits-federal-crackdown",
+    "pubDate": "Sat, 25 Apr 2026 04:00:51 -0400",
+    "source": "Fox News",
+    "categories": [
+      "8dc2da0f-a842-5165-a218-64b46552d5a7",
+      "fnc",
+      "fox news",
+      "fox-news/us/washington-dc",
+      "fox-news/us/blue-city-crime",
+      "fox-news/politics/executive/white-house",
+      "fox-news/us/us-regions/west/washington",
+      "fox-news/us/crime/homicide",
+      "fox-news/politics",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-25T08:15:01.202Z"
+  },
+  {
+    "title": "Jenna Bush Hager reveals she was banned from her daughter’s volleyball games",
+    "description": "Hager mimicked her daughter’s icy glare, adding, “Afterwards, I was frozen out. I went to one volleyball game this year.”",
+    "link": "https://pagesix.com/2026/04/25/celebrity-news/jenna-bush-hager-reveals-why-she-was-banned-from-her-daughters-volleyball-games/",
+    "pubDate": "Sat, 25 Apr 2026 03:59:48 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-25T08:15:01.202Z"
+  },
+  {
+    "title": "Jenna Bush Hager reveals she was banned from her daughter’s volleyball games",
+    "description": "Hager mimicked her daughter’s icy glare, adding, “Afterwards, I was frozen out. I went to one volleyball game this year.”",
+    "link": "https://pagesix.com/2026/04/25/celebrity-news/jenna-bush-hager-reveals-why-she-was-banned-from-her-daughters-volleyball-games/",
+    "pubDate": "Sat, 25 Apr 2026 03:59:48 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-25T08:15:01.202Z"
   }
 ]
