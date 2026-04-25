@@ -518,5 +518,27 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-25T08:45:02.519Z"
+  },
+  {
+    "title": "Overnight Russian attacks on Ukraine kill five, injure 30",
+    "description": "Russia launched more than 600 drones and 47 missiles as it targeted eight regions in Dnipro, authorities say.",
+    "link": "https://www.aljazeera.com/news/2026/4/25/overnight-russian-attacks-on-ukraine-kill-five-wound-over-30?traffic_source=rss",
+    "pubDate": "Sat, 25 Apr 2026 08:44:56 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-25T09:00:01.289Z"
+  },
+  {
+    "title": "Polls open in Gaza area in first municipal election in 20 years",
+    "description": "Gaza officials say Deir el-Balah vote is a 'pilot', while occupied West Bank also goes to first polls since 2023 war.",
+    "link": "https://www.aljazeera.com/news/2026/4/25/polls-open-in-gaza-area-in-first-municipal-election-in-20-years?traffic_source=rss",
+    "pubDate": "Sat, 25 Apr 2026 08:37:39 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-25T09:00:01.289Z"
   }
 ]
