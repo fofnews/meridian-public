@@ -789,5 +789,229 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-25T09:45:01.790Z"
+  },
+  {
+    "title": "The Papers: 'Falklands tell Trump to back off' and 'Harry does a Diana'",
+    "description": "Many of the papers lead on a leaked Pentagon memo, which suggests the US could back Argentine sovereignty of the Falklands.",
+    "link": "https://www.bbc.com/news/articles/cp8d3kev87eo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 25 Apr 2026 04:07:10 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-25T10:00:01.349Z"
+  },
+  {
+    "title": "Palestinians in West Bank and some in Gaza vote in local elections",
+    "description": "Local elections are held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part.",
+    "link": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 25 Apr 2026 08:53:15 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-25T10:00:01.349Z"
+  },
+  {
+    "title": "Trump Seeks to Abolish Iran’s Atomic Stockpile, a Problem He Helped Create",
+    "description": "President Trump withdrew from the Obama-era nuclear accord in 2018, saying it was the worst deal ever. But Iran responded with an enrichment spree that haunts the negotiations to this day.",
+    "link": "https://www.nytimes.com/2026/04/25/us/politics/trump-iran-nuclear.html",
+    "pubDate": "Sat, 25 Apr 2026 09:02:52 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "united states international relations",
+      "iran-israel war (2025- )",
+      "embargoes and sanctions",
+      "nuclear weapons",
+      "uranium",
+      "peace process",
+      "nuclear energy",
+      "arms control and limitation and disarmament",
+      "international atomic energy agency",
+      "trump, donald j",
+      "kushner, jared",
+      "witkoff, steven",
+      "obama, barack",
+      "iran",
+      "nuclear nonproliferation treaty"
+    ],
+    "collectedAt": "2026-04-25T10:00:01.349Z"
+  },
+  {
+    "title": "On Iran’s Border, Cooking Oil Trade Is a Snapshot of the Country’s Struggles",
+    "description": "The war has exacerbated Iran’s economic crisis, forcing many to cross the border into Turkey to buy the most basic goods.",
+    "link": "https://www.nytimes.com/2026/04/25/world/middleeast/iran-turkey-cooking-oil.html",
+    "pubDate": "Sat, 25 Apr 2026 08:26:53 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "prices (fares, fees and rates)",
+      "inflation (economics)",
+      "international monetary fund",
+      "iran",
+      "turkey"
+    ],
+    "collectedAt": "2026-04-25T10:00:01.349Z"
+  },
+  {
+    "title": "Firm Building Trump’s Ballroom Got a Secret No-Bid Contract for a Nearby Job",
+    "description": "The National Park Service increased the value of the contract several times over and then awarded it to Maryland-based Clark Construction, in a process that experts said was highly unusual.",
+    "link": "https://www.nytimes.com/2026/04/25/us/politics/lafayette-park-fountains-trump-contract.html",
+    "pubDate": "Sat, 25 Apr 2026 09:00:49 +0000",
+    "source": "NY Times",
+    "categories": [
+      "white house building (washington, dc)",
+      "parks and other recreation areas",
+      "government contracts and procurement",
+      "national park service",
+      "interior department",
+      "washington (dc)",
+      "fountains",
+      "clark construction group llc",
+      "trump, donald j"
+    ],
+    "collectedAt": "2026-04-25T10:00:01.349Z"
+  },
+  {
+    "title": "Under Trump, Green Card Seekers Face New Scrutiny for Views on Israel",
+    "description": "In guidance to immigration officers, the administration describes participating in pro-Palestinian protests and criticizing Israel as “overwhelmingly negative” factors.",
+    "link": "https://www.nytimes.com/2026/04/25/us/politics/trump-green-cards-scrutiny.html",
+    "pubDate": "Sat, 25 Apr 2026 09:02:36 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "demonstrations, protests and riots",
+      "pro-palestinian campus protests (2023- )",
+      "israel-gaza war (2023- )",
+      "freedom of speech and expression",
+      "anti-semitism",
+      "immigration and emigration",
+      "citizenship and immigration services (us)",
+      "homeland security department",
+      "justice department",
+      "rubio, marco",
+      "trump, donald j"
+    ],
+    "collectedAt": "2026-04-25T10:00:01.349Z"
+  },
+  {
+    "title": "Tennessee Passed a Slate of Immigration Bills. Here’s What They Do.",
+    "description": "The Republican supermajority in the Tennessee General Assembly approved a series of immigrations bills, crafted in coordination with the White House.",
+    "link": "https://www.nytimes.com/2026/04/25/us/politics/tennessee-immigration-bills-what-to-know.html",
+    "pubDate": "Sat, 25 Apr 2026 09:02:45 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "state legislatures",
+      "deportation",
+      "illegal immigration",
+      "law and legislation",
+      "immigration and emigration",
+      "federal-state relations (us)",
+      "drivers licenses",
+      "memphis (tenn)",
+      "tennessee"
+    ],
+    "collectedAt": "2026-04-25T10:00:01.349Z"
+  },
+  {
+    "title": "AIDS Creeps Back in Parts of Zambia, a Year After U.S. Cuts to H.I.V. Assistance",
+    "description": "A once-robust H.I.V. treatment and prevention system, credited with saving hundreds of thousands of lives, has begun to crumble.",
+    "link": "https://www.nytimes.com/2026/04/25/health/pepfar-hiv-aids-zambia.html",
+    "pubDate": "Sat, 25 Apr 2026 09:00:13 +0000",
+    "source": "NY Times",
+    "categories": [
+      "acquired immune deficiency syndrome",
+      "foreign aid",
+      "medicine and health",
+      "disease rates",
+      "international relations",
+      "president's emergency plan for aids relief",
+      "united states agency for international development",
+      "zambia",
+      "health care workers"
+    ],
+    "collectedAt": "2026-04-25T10:00:01.349Z"
+  },
+  {
+    "title": "New Taxes Cooled London’s Housing Market. Could That Happen in New York?",
+    "description": "Economists and real estate agents are calling London’s taxation of wealthy property owners a cautionary tale for New York, where leaders have endorsed a second-home tax.",
+    "link": "https://www.nytimes.com/2026/04/25/nyregion/second-home-tax-london-ny.html",
+    "pubDate": "Sat, 25 Apr 2026 09:02:05 +0000",
+    "source": "NY Times",
+    "categories": [
+      "real estate and housing (residential)",
+      "property taxes",
+      "taxation",
+      "income inequality",
+      "second homes and non-primary residences",
+      "budgets and budgeting",
+      "politics and government",
+      "new york city",
+      "london (england)",
+      "urban areas"
+    ],
+    "collectedAt": "2026-04-25T10:00:01.349Z"
+  },
+  {
+    "title": "Europe Prepares for a Longer War in Ukraine, With No Strategy to End It",
+    "description": "With American dealmakers wrapped up with Iran, neither Russia nor Ukraine has a clear path to victory — or toward a negotiated peace.",
+    "link": "https://www.nytimes.com/2026/04/25/world/europe/ukraine-russia-europe-european-union.html",
+    "pubDate": "Sat, 25 Apr 2026 09:02:31 +0000",
+    "source": "NY Times",
+    "categories": [
+      "russian invasion of ukraine (2022)",
+      "european union",
+      "trump, donald j",
+      "zelensky, volodymyr",
+      "brussels (belgium)",
+      "europe",
+      "ukraine",
+      "russia"
+    ],
+    "collectedAt": "2026-04-25T10:00:01.349Z"
+  },
+  {
+    "title": "The Long, Challenging Road to D4vd’s Arrest",
+    "description": "Uncooperative witnesses drove prosecutors to convene an investigative grand jury after a teenage girl’s body was discovered in the trunk of the singer’s car.",
+    "link": "https://www.nytimes.com/2026/04/25/arts/d4vd-arrest-prosecutor-challenges.html",
+    "pubDate": "Sat, 25 Apr 2026 09:02:17 +0000",
+    "source": "NY Times",
+    "categories": [
+      "pop and rock music",
+      "sex crimes",
+      "murders, attempted murders and homicides",
+      "police department (los angeles, calif)",
+      "burke, david anthony (d4vd)",
+      "rivas hernandez, celeste (2010-25)",
+      "los angeles county (calif)"
+    ],
+    "collectedAt": "2026-04-25T10:00:01.349Z"
+  },
+  {
+    "title": "Firefighters in Japan struggle to contain Iwate blazes with over 3,000 evacuated - Reuters",
+    "description": "Firefighters in Japan struggle to contain Iwate blazes with over 3,000 evacuated  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeTd3OGt6YWVCUllCdVowSUY4dFhnMS1kMW5zbVQwdklTeE9FT2lhejJNcVZoVk9qRmJGcnJBTi0xamVqYU5CMkpPRDVYNFhWUTNYNlIzbjhFSy04dWlGaXEyUXFWOXlOejlxSm52TzZJcU9NLWw1WnZ2Vl9mdXdEUWF4YVZfamlLS3ltUGQ5Rm50VXFyWEw4QlRuTFlFZW1VYkNfSVpWLXVGRlNGY01IRFY2ZjgwYU5BRXh5dWVGck5kcE9HbXBFS2ZR?oc=5",
+    "pubDate": "Sat, 25 Apr 2026 04:30:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-04-25T10:00:01.349Z"
+  },
+  {
+    "title": "NASCAR fans pack into Talladega Superspeedway ahead of Sunday's Jack Links 500 race",
+    "description": "Talladega Superspeedway attracts visitors from \"all 50 states and multiple countries\" every year for during race season, according to track officials.",
+    "link": "https://www.foxnews.com/sports/nascar-fans-pile-talladega-superspeedway-ahead-sundays-jack-links-500-race",
+    "pubDate": "Sat, 25 Apr 2026 05:42:12 -0400",
+    "source": "Fox News",
+    "categories": [
+      "f5c7f3fa-baea-5d5d-8a17-836bd46e44d4",
+      "fnc",
+      "fox news",
+      "fox-news/sports",
+      "fox-news/auto/nascar",
+      "fox-news/auto/attributes/racing",
+      "fox-news/topic/fox-news-multimedia-reporters",
+      "fox-news/us/us-regions/southeast/alabama",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-04-25T10:00:01.349Z"
   }
 ]
