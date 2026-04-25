@@ -696,5 +696,71 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-25T09:15:02.030Z"
+  },
+  {
+    "title": "Mali army says armed groups launch nationwide attacks; gunfire near airport",
+    "description": "This is a breaking news story.",
+    "link": "https://www.aljazeera.com/news/2026/4/25/mali-army-says-armed-groups-launch-nationwide-attacks-gunfire-near-airport?traffic_source=rss",
+    "pubDate": "Sat, 25 Apr 2026 09:21:24 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-25T09:30:01.265Z"
+  },
+  {
+    "title": "Top Iranian and Pakistani officials meet in Islamabad",
+    "description": "Iran’s FM Abbas Araghchi is in Islamabad for talks with Pakistani officials, as US envoys are also set to arrive.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/top-iranian-and-pakistani-officials-meet-in-islamabad?traffic_source=rss",
+    "pubDate": "Sat, 25 Apr 2026 08:57:17 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-04-25T09:30:01.265Z"
+  },
+  {
+    "title": "Sam Altman apologizes after OpenAI failed to alert police before Canada trans shooter’s deadly rampage",
+    "description": "After the shootings, OpenAI came forward to say that last June the company identified Van Rootselaar’s account using abuse detection efforts for “furtherance of violent activities.”",
+    "link": "https://nypost.com/2026/04/25/world-news/sam-altman-apologizes-after-openai-failed-to-alert-police-before-canada-trans-shooters-deadly-rampage/",
+    "pubDate": "Sat, 25 Apr 2026 05:26:39 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-25T09:30:01.265Z"
+  },
+  {
+    "title": "The lawmakers to watch as House tries to pass $70 billion reconciliation bill",
+    "description": "Speaker Mike Johnson (R-LA) will be at odds with his conference next week as he tries to pass a narrow Senate reconciliation bill to fund border enforcement, despite many Republicans wanting a wider bill to boost their 2026 standing.  The Senate moved forward with a plan to provide up to $70 billion for Immigration and […]",
+    "link": "https://www.washingtonexaminer.com/news/house/4542061/lawmakers-to-watch-house-reconciliation/",
+    "pubDate": "Sat, 25 Apr 2026 09:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "house",
+      "anna paulina luna",
+      "congress",
+      "ice",
+      "mike johnson",
+      "reconciliation",
+      "thomas massie",
+      "voter id"
+    ],
+    "collectedAt": "2026-04-25T09:30:01.265Z"
+  },
+  {
+    "title": "Rand Paul’s 2028 ambitions face early test in Thomas Massie’s fight for political survival",
+    "description": "Sen. Rand Paul (R-KY) is eyeing another presidential run in 2028 — but first, he’s testing his political strength by going all-in to save Rep. Thomas Massie (R-KY) from a Trump-backed primary challenger. Paul has increasingly cast himself as a counterweight to Trump-style populism, arguing the GOP needs to rebuild a “free-market wing” made up […]",
+    "link": "https://www.washingtonexaminer.com/news/senate/4542605/rand-paul-2028-massie-primary/",
+    "pubDate": "Sat, 25 Apr 2026 09:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "senate",
+      "2026 elections",
+      "2028 elections",
+      "donald trump",
+      "kentucky",
+      "rand paul",
+      "thomas massie"
+    ],
+    "collectedAt": "2026-04-25T09:30:01.265Z"
   }
 ]
