@@ -1158,5 +1158,88 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-25T10:15:01.570Z"
+  },
+  {
+    "title": "Heavy Snow Warning As 10 Inches To Hit: ‘Dangerous Outdoor Conditions’",
+    "description": "\"Expect difficult driving conditions due to slush or snow covered roadways,\" said the National Weather Service.",
+    "link": "https://www.newsweek.com/heavy-snow-warning-dangerous-outdoor-conditions-11877370",
+    "pubDate": "Sat, 25 Apr 2026 06:24:14 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-25T10:30:01.569Z"
+  },
+  {
+    "title": "Iran’s Infowar: Lego, AI and ever tightening control",
+    "description": "The tools and techniques behind Iran’s push in the battle of narratives.",
+    "link": "https://www.aljazeera.com/video/the-listening-post/2026/4/25/irans-infowar-lego-ai-and-ever-tightening-control?traffic_source=rss",
+    "pubDate": "Sat, 25 Apr 2026 10:13:07 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "tv shows"
+    ],
+    "collectedAt": "2026-04-25T10:30:01.569Z"
+  },
+  {
+    "title": "Mali attacks live: Gunfire heard near Bamako airport and in several cities",
+    "description": "Unrest reported in several locations around the country.",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/4/25/mali-attacks-live-gunfire-heard-near-bamako-airport-and-in-several-cities?traffic_source=rss",
+    "pubDate": "Sat, 25 Apr 2026 10:04:58 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-25T10:30:01.569Z"
+  },
+  {
+    "title": "Palestinians cast their ballots as Gaza holds first election in 21 years",
+    "description": "Palestinians are voting in Gaza’s first municipal elections in 21 years. Around 70,000 people are registered to vote.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/palestinians-cast-their-ballots-as-gaza-holds-first-election-in-21-years?traffic_source=rss",
+    "pubDate": "Sat, 25 Apr 2026 09:55:08 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-04-25T10:30:01.569Z"
+  },
+  {
+    "title": "Trump turns over new leaf in GOP drug policy with marijuana, psychedelics orders",
+    "description": "The Trump administration’s moves on marijuana and psychedelics signal the start of a new era in Republican drug policy.  The orders to fast-track reviews of psychedelic drugs and reschedule medical marijuana are a far cry from the party of “just say no” and former Republican President Richard Nixon’s war on drugs.  “Regardless of what one…",
+    "link": "https://thehill.com/policy/healthcare/5848366-gop-shift-trump-drug-reform/",
+    "pubDate": "Sat, 25 Apr 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "health care"
+    ],
+    "collectedAt": "2026-04-25T10:30:01.569Z"
+  },
+  {
+    "title": "Why Iran’s grip on the Hormuz Strait will be hard to break",
+    "description": "A giant banner hangs on the side of a building in Tehran’s central Enqelab Square declaring, “The Strait of Hormuz will remain closed; the entire Persian Gulf is our hunting ground.” It’s a blaring reminder of Iran’s key point of leverage in its war against the United States and Israel; and it’s a signal of…",
+    "link": "https://thehill.com/policy/defense/5845542-iran-us-strait-standoff/",
+    "pubDate": "Sat, 25 Apr 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "business",
+      "defense",
+      "energy & environment",
+      "international",
+      "news",
+      "policy"
+    ],
+    "collectedAt": "2026-04-25T10:30:01.569Z"
+  },
+  {
+    "title": "Pakistan’s rapid turn from pariah to linchpin in Iran peace talks",
+    "description": "Pakistan has emerged as a key player in the U.S.-Iran peace talks, marking a remarkable turn of fortunes for its top general, who during President Trump’s second term has transformed from a global pariah to a diplomatic heavyweight.  Trump on Tuesday announced an extension of the ceasefire with Iran, saying it would be in place…",
+    "link": "https://thehill.com/policy/international/5845852-pakistan-key-us-iran-talks/",
+    "pubDate": "Sat, 25 Apr 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "defense",
+      "international",
+      "policy"
+    ],
+    "collectedAt": "2026-04-25T10:30:01.569Z"
   }
 ]
