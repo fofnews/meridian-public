@@ -221,5 +221,26 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-04-25T06:15:01.352Z"
+  },
+  {
+    "title": "US embassy in London warns to 'exercise increased caution' near Jewish sites in UK, Europe after attacks",
+    "description": "Americans in the U.K. and Europe are urged to exercise caution after the U.S. embassy in London cited rising threats to Jewish and American areas.",
+    "link": "https://www.foxnews.com/world/us-embassy-london-warns-exercise-increased-caution-near-jewish-sites-uk-europe-attacks",
+    "pubDate": "Sat, 25 Apr 2026 02:17:34 -0400",
+    "source": "Fox News",
+    "categories": [
+      "b31aa7fd-8583-5f2d-9c8b-b5780d0f37cd",
+      "fnc",
+      "fox news",
+      "fox-news/travel/general/travel-safety",
+      "fox-news/us/crime/hate-crime",
+      "fox-news/topic/anti-semitism",
+      "fox-news/world/uk-politics",
+      "fox-news/world/world-regions/united-kingdom",
+      "fox-news/world",
+      "fox-news/world",
+      "article"
+    ],
+    "collectedAt": "2026-04-25T06:30:01.369Z"
   }
 ]
