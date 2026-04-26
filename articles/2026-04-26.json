@@ -882,5 +882,88 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-26T09:00:01.354Z"
+  },
+  {
+    "title": "The Supreme Court case that could redefine your digital privacy",
+    "description": "Police in Virginia used a technique called geofencing to tap into Google's databases to find out who was near the scene of a bank robbery. The Supreme Court will consider whether it is constitutional.",
+    "link": "https://www.npr.org/2026/04/26/g-s1-118359/supreme-court-geofencing-explainer-video",
+    "pubDate": "Sun, 26 Apr 2026 05:00:00 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-04-26T09:15:01.195Z"
+  },
+  {
+    "title": "For students labeled 'emotionally disturbed,' separation can lead to isolation",
+    "description": "Every school has problem students, but some are labeled emotionally disturbed (ED) and taught separately from others.",
+    "link": "https://www.npr.org/2026/04/26/g-s1-117447/school-disability-emotional-behavioral-disorder-special-education",
+    "pubDate": "Sun, 26 Apr 2026 05:00:00 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-04-26T09:15:01.195Z"
+  },
+  {
+    "title": "Erika Kirk Seen in Tears After White House Correspondents’ Dinner Shooting",
+    "description": "Erika Kirk's late husband, Charlie Kirk, was fatally shot during an appearance at a college in Utah last fall.",
+    "link": "https://www.newsweek.com/erika-kirk-seen-in-tears-after-white-house-correspondents-dinner-shooting-11879555",
+    "pubDate": "Sun, 26 Apr 2026 05:01:38 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-26T09:15:01.195Z"
+  },
+  {
+    "title": "Lebanese Christian Leader Warns Israel Making Areas Uninhabitable",
+    "description": "Kataeb leader Samy Gemayel told Newsweek that Hezbollah must disarm and Israel must withdraw.",
+    "link": "https://www.newsweek.com/lebanese-christian-leader-warns-israel-making-areas-uninhabitable-11876332",
+    "pubDate": "Sun, 26 Apr 2026 05:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-26T09:15:01.195Z"
+  },
+  {
+    "title": "Nuclear Fears Hang Heavy Over Ukraine on Chernobyl Anniversary",
+    "description": "The nuclear disaster at Chernobyl continues to haunt Ukraine, heightened by attacks hitting the country's nuclear plants.",
+    "link": "https://www.newsweek.com/nuclear-chernobyl-ukraine-war-disaster-fears-safety-11868206",
+    "pubDate": "Sun, 26 Apr 2026 05:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-26T09:15:01.195Z"
+  },
+  {
+    "title": "The DNC Didn't Ban AIPAC, But Warning Signs Remain | Opinion",
+    "description": "\"No other group is similarly vilified for supporting candidates aligned with its priorities. Nor would it be tolerated.\"",
+    "link": "https://www.newsweek.com/the-dnc-didnt-ban-aipac-but-warning-signs-remain-opinion-11863323",
+    "pubDate": "Sun, 26 Apr 2026 05:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-26T09:15:01.195Z"
+  },
+  {
+    "title": "Hospitals Are Deploying AI Chatbots. Doctors Are Divided",
+    "description": "Around 40 million Americans ask ChatGPT a healthcare-related question every day, according to a January report from OpenAI.",
+    "link": "https://www.newsweek.com/hospitals-are-deploying-ai-chatbots-doctors-are-divided-11862567",
+    "pubDate": "Sun, 26 Apr 2026 05:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-26T09:15:01.195Z"
+  },
+  {
+    "title": "California DOGE leader slams Newsom, Bonta over state’s massive fraud issues: “Every day is opposite day\"",
+    "description": "CAL DOGE director Jenny Rae Le Roux slams Gov. Newsom and AG Bonta, alleging they failed to crack down on widespread fraud across California programs.",
+    "link": "https://www.foxnews.com/politics/california-doge-leader-slams-newsom-bonta-states-massive-fraud-issues-every-day-opposite-day",
+    "pubDate": "Sun, 26 Apr 2026 05:00:37 -0400",
+    "source": "Fox News",
+    "categories": [
+      "f2153a06-4def-570c-a9ac-a4137c65d7d4",
+      "fnc",
+      "fox news",
+      "fox-news/corruption",
+      "fox-news/person/gavin-newsom",
+      "fox-news/politics/elections/republicans",
+      "fox-news/us/us-regions/west/california",
+      "fox-news/politics/doge",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-26T09:15:01.195Z"
   }
 ]
