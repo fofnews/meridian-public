@@ -65,7 +65,7 @@ function timeAgo(dateStr) {
   return `${Math.floor(hrs / 24)}d ago`;
 }
 
-function ArticleRow({ article }) {
+function ArticleRow({ article, showDate }) {
   return (
     <a
       href={article.link}
@@ -89,6 +89,12 @@ function ArticleRow({ article }) {
           <span className="text-xs" style={{ color: 'var(--text-faint)' }}>{article.source}</span>
           <span className="text-xs" style={{ color: 'var(--border-dim)' }}>·</span>
           <span className="text-xs" style={{ color: 'var(--text-faint)' }}>{timeAgo(article.pubDate || article.collectedAt)}</span>
+          {showDate && article.date && (
+            <>
+              <span className="text-xs" style={{ color: 'var(--border-dim)' }}>·</span>
+              <span className="text-xs" style={{ color: 'var(--text-faint)' }}>{article.date}</span>
+            </>
+          )}
         </div>
       </div>
     </a>
@@ -145,7 +151,7 @@ export default function ArticlesView({ selectedDate }) {
       setSearchLoading(true);
       try {
         const base = import.meta.env.VITE_PIPELINE_URL || '';
-        const url = `${base}/api/search?query=${encodeURIComponent(searchQuery.trim())}&date=${selectedDate}`;
+        const url = `${base}/api/search?query=${encodeURIComponent(searchQuery.trim())}`;
         const res = await fetch(url, { signal: controller.signal });
         const data = await res.json();
         setSearchResults(data.results ?? []);
@@ -371,7 +377,7 @@ export default function ArticlesView({ selectedDate }) {
             {isSearching ? 'No articles match your search.' : isTopicFiltered ? 'No articles match this topic.' : 'No articles in this category.'}
           </p>
         ) : (
-          articles.map((a, i) => <ArticleRow key={i} article={a} />)
+          articles.map((a, i) => <ArticleRow key={i} article={a} showDate={isSearching} />)
         )}
       </div>
     </div>
