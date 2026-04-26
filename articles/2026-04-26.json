@@ -382,5 +382,51 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-26T05:30:01.270Z"
+  },
+  {
+    "title": "What we know about the shooting incident at the White House Correspondents' Dinner",
+    "description": "US President Donald Trump and First Lady Melania Trump were rushed from the premises after gunfire was heard.",
+    "link": "https://www.bbc.com/news/articles/cdxd1x2qw2go?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 26 Apr 2026 04:22:29 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-26T05:45:01.236Z"
+  },
+  {
+    "title": "'You just didn't know': Gary O'Donoghue describes confusion and fears at correspondents' dinner",
+    "description": "Police say a man charged security outside of the dining room and was armed with multiple weapons.",
+    "link": "https://www.bbc.com/news/videos/c8dldp2mdego?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 26 Apr 2026 04:08:27 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-26T05:45:01.236Z"
+  },
+  {
+    "title": "Shots fired as gunman charges toward ballroom at White House correspondents' dinner. Trump unharmed - AP News",
+    "description": "Shots fired as gunman charges toward ballroom at White House correspondents' dinner. Trump unharmed  AP News",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVEZQakJkcXZlVGV6dUc4eG5KVkRzclliNzhSZEJGcHU5aC16dTVHamgwb0Zkb2tIczlUV194ODF4aWFxemZkWnZubGtaTUNiYjN2OGg1TE1kV19VT2ZPc0s2Y1ZzcFUwcUdBMFBkUHY4TkYxYUNoUllCV3pxQml2OUhXZTNJc1ZxU3dXR2J4bEJEUTMtQTVWOWpXR19nR1JqN3h4bGwwWlVpNTVCOHB0TVdqc0FyZw?oc=5",
+    "pubDate": "Sun, 26 Apr 2026 05:20:00 GMT",
+    "source": "AP News",
+    "categories": [],
+    "collectedAt": "2026-04-26T05:45:01.236Z"
+  },
+  {
+    "title": "Republicans and Democrats unite after WHCA dinner shooting: ‘Violence has no place’",
+    "description": "Reactions poured in from Democrats and Republicans after the White House Correspondents’ Association dinner shooting on Saturday night, with both sides condemning the violence. Governor JB Pritzker (D-IL) shared on X, “Violence has no place in our nation.” “Political violence is absolutely unacceptable. I am glad the President and guests at the White House Correspondents’ […]",
+    "link": "https://www.washingtonexaminer.com/news/house/4543496/republicans-democrats-unite-after-whca-shooting/",
+    "pubDate": "Sun, 26 Apr 2026 05:38:52 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "house",
+      "senate",
+      "democrats",
+      "donald trump",
+      "republicans",
+      "secret service",
+      "washington d.c.",
+      "white house",
+      "white house correspondents assoc"
+    ],
+    "collectedAt": "2026-04-26T05:45:01.236Z"
   }
 ]
