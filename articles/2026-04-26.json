@@ -1679,5 +1679,91 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-26T11:00:01.692Z"
+  },
+  {
+    "title": "Talarico needs Crockett’s Black voters. They aren’t all convinced.",
+    "description": "Democrats’ hopes of taking Texas ride on the state’s nearly 3 million Black voters, many of whom supported Jasmine Crockett in the primary.",
+    "link": "https://www.politico.com/news/2026/04/26/talarico-texas-senate-black-voters-00892102",
+    "pubDate": "Sun, 26 Apr 2026 06:00:00 EST",
+    "source": "Politico",
+    "categories": [],
+    "collectedAt": "2026-04-26T11:15:10.063Z"
+  },
+  {
+    "title": "American Culture Quiz: Test yourself on baseball bests and restaurant revamps",
+    "description": "The American Culture Quiz is a weekly test of our national traits, trends, history and people. This time, test your knowledge of baseball bests, restaurant revamps and more.",
+    "link": "https://www.foxnews.com/lifestyle/american-culture-quiz-test-yourself-baseball-bests-restaurant-revamps",
+    "pubDate": "Sun, 26 Apr 2026 07:00:53 -0400",
+    "source": "Fox News",
+    "categories": [
+      "f96d4e54-4701-5928-855b-69f9217a0dc9",
+      "fnc",
+      "fox news",
+      "fox-news/lifestyle",
+      "fox-news/lifestyle/quizzes",
+      "fox-news/food-drink",
+      "fox-news/sports",
+      "fox-news/entertainment",
+      "fox-news/travel",
+      "fox-news/lifestyle",
+      "article"
+    ],
+    "collectedAt": "2026-04-26T11:15:10.063Z"
+  },
+  {
+    "title": "Trump’s DC beautification push wins rare Dem praise as president snaps landmarks back to life",
+    "description": "President Trump's D.C. restoration projects win rare Democratic praise as neglected fountains and landmarks come back to life across the capital.",
+    "link": "https://www.foxnews.com/politics/trumps-dc-beautification-push-wins-rare-dem-praise-president-snaps-landmarks-back-life",
+    "pubDate": "Sun, 26 Apr 2026 07:00:44 -0400",
+    "source": "Fox News",
+    "categories": [
+      "9be62af1-25df-5dbd-a657-07b34126aa7b",
+      "fnc",
+      "fox news",
+      "fox-news/democrats",
+      "fox-news/politics/executive/white-house",
+      "fox-news/us/washington-dc",
+      "fox-news/politics/kennedy-center",
+      "fox-news/us/environment/parks",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-26T11:15:10.063Z"
+  },
+  {
+    "title": "White House Correspondents' Dinner shooting sharpens focus on Trump’s ballroom construction proposal",
+    "description": "A shooting outside the White House Correspondents' Dinner renews focus on President Trump's push for a secure White House ballroom with bulletproof materials.",
+    "link": "https://www.foxnews.com/politics/white-house-correspondents-dinner-shooting-sharpens-focus-trumps-ballroom-construction-proposal",
+    "pubDate": "Sun, 26 Apr 2026 07:00:29 -0400",
+    "source": "Fox News",
+    "categories": [
+      "48bbf2ca-571f-52ef-8fdc-2ef335e20046",
+      "fnc",
+      "fox news",
+      "fox-news/politics/executive/white-house",
+      "fox-news/person/donald-trump",
+      "fox-news/politics/executive/national-security",
+      "fox-news/person/karoline-leavitt",
+      "fox-news/politics/kennedy-center",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-26T11:15:10.063Z"
+  },
+  {
+    "title": "Top lobbying firm does bidding of entity linked to Uyghur repression",
+    "description": "Akin Gump, the fourth largest lobbying firm in the country by revenue, is being paid to advocate for a polysilicon manufacturer led by an individual whom the U.S. government has linked to China’s repression of the Uyghur people. In September 2025, Akin Gump entered into a lobbying contract with United Solar Polysilicon to represent its […]",
+    "link": "https://www.washingtonexaminer.com/news/investigations/4542548/top-lobbying-firm-does-bidding-entity-linked-uyghur-repression/",
+    "pubDate": "Sun, 26 Apr 2026 11:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "investigations",
+      "china",
+      "commerce department",
+      "communist party",
+      "lobbying",
+      "solar energy"
+    ],
+    "collectedAt": "2026-04-26T11:15:10.063Z"
   }
 ]
