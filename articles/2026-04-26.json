@@ -314,5 +314,55 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-26T05:00:01.734Z"
+  },
+  {
+    "title": "Trump posts video showing suspect rush through security",
+    "description": "Trump posts video showing suspect rush through security",
+    "link": "https://www.nbcnews.com/video/shorts/trump-posts-video-showing-suspect-rush-through-security-262131269705",
+    "pubDate": "Sun, 26 Apr 2026 04:50:17 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-04-26T05:15:05.522Z"
+  },
+  {
+    "title": "WHCA dinner shaken by shooting; Trump evacuated, gunman faces charges",
+    "description": "A heavily armed man interrupted Washington’s annual White House Correspondents Association dinner on Saturday, forcing the evacuation of President Trump and first lady Melania Trump and shaking up a crowd of journalists and government officials from both parties. The gunman exchanged fire with law enforcement before being subdued as the Trump and members of the…",
+    "link": "https://thehill.com/homenews/administration/5849526-trump-evacuated-white-house-shooting/",
+    "pubDate": "Sun, 26 Apr 2026 04:58:15 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "news"
+    ],
+    "collectedAt": "2026-04-26T05:15:05.522Z"
+  },
+  {
+    "title": "Trump’s WHCA dinner with the press turns into night of tears and terror",
+    "description": "I’ve covered the White House Correspondents’ Association (WHCA) dinner at least a dozen times. Over the years, I’ve detailed just about every angle. Filed countless stories. But I’ve never covered the Correspondents’ dinner from underneath a white linen table at the Washington Hilton hotel. I’ve never gripped the carpet to steady myself while crouching down…",
+    "link": "https://thehill.com/homenews/administration/5849544-whca-dinner-trump-chaos/",
+    "pubDate": "Sun, 26 Apr 2026 04:53:58 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "in the know",
+      "news"
+    ],
+    "collectedAt": "2026-04-26T05:15:05.522Z"
+  },
+  {
+    "title": "Inside the room: Terror at the White House correspondents’ dinner",
+    "description": "It started out like any White House Correspondents’ Association dinner. I have been to many — perhaps too many — but this one was regrettably historic. I said hello to a lot of old friends while seeing many healthy-sized egos who regularly attend. For the most part, it was business as usual. Yet, there was a […]",
+    "link": "https://www.washingtonexaminer.com/news/white-house/4543512/terror-at-white-house-correspondents-dinner/",
+    "pubDate": "Sun, 26 Apr 2026 05:12:27 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "white house",
+      "donald trump",
+      "media",
+      "shootings",
+      "washington d.c",
+      "white house correspondents' association"
+    ],
+    "collectedAt": "2026-04-26T05:15:05.522Z"
   }
 ]
