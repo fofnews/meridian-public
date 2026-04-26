@@ -464,5 +464,43 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-26T06:00:01.730Z"
+  },
+  {
+    "title": "How old is the oldest runner? Take our London Marathon quiz",
+    "description": "Can you beat our London Marathon quiz, or will you be limping to the finish?",
+    "link": "https://www.bbc.com/sport/athletics/articles/cm2k5gndrleo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 26 Apr 2026 05:15:26 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-26T06:15:01.257Z"
+  },
+  {
+    "title": "DNA found on a smoothie straw links suspect to teen's 1984 killing",
+    "description": "After more than 40 years and three wrongful convictions, authorities says they have the man responsible for the 1984 Long Island killing of 16-year-old Theresa Fusco, who vanished after leaving her job at a local roller rink.",
+    "link": "https://www.cbsnews.com/news/theresa-fusco-case-long-island-richard-bilodeau-48-hours/",
+    "pubDate": "Sun, 26 Apr 2026 02:10:08 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-04-26T06:15:01.257Z"
+  },
+  {
+    "title": "The Killing of Theresa Fusco",
+    "description": "Nearly 41 years after a New York teenager is killed, an unexpected breakthrough in the case.  \"48 Hours\" correspondent Erin Moriarty reports.",
+    "link": "https://www.cbsnews.com/video/the-killling-of-theresa-fusco/",
+    "pubDate": "Sun, 26 Apr 2026 02:00:00 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-04-26T06:15:01.257Z"
+  },
+  {
+    "title": "Injured Salah has played his last game for Liverpool: Egypt team official",
+    "description": "Hamstring tear will keep Salah out for four weeks, but he will be fit for Egypt at the World Cup, Ibrahim Hassan says.",
+    "link": "https://www.aljazeera.com/sports/2026/4/26/injured-salah-has-played-his-last-game-for-liverpool-egypt-team-official?traffic_source=rss",
+    "pubDate": "Sun, 26 Apr 2026 05:50:30 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-04-26T06:15:01.257Z"
   }
 ]
