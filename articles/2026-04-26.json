@@ -151,5 +151,72 @@
     "source": "Newsweek",
     "categories": [],
     "collectedAt": "2026-04-26T04:30:01.383Z"
+  },
+  {
+    "title": "'Absolute chaos': Gunman charges WH Correspondents' Dinner checkpoint",
+    "description": "President Donald Trump, first lady Melania Trump and other dignitaries were removed by security after an shooting incident outside the White House Correspondents Dinner.",
+    "link": "https://abcnews.com/Politics/trump-lady-removed-security-after-incident-white-house/story?id=132387016",
+    "pubDate": "Sun, 26 Apr 2026 00:30:49 -0400",
+    "source": "ABC News",
+    "categories": [
+      "politics"
+    ],
+    "collectedAt": "2026-04-26T04:45:01.074Z"
+  },
+  {
+    "title": "Rams Add Second QB Immediately After 2026 NFL Draft",
+    "description": "After drafting Alabama's Ty Simpson in Round 1 of the 2026 NFL draft, the Rams added another QB as an undrafted free agent.",
+    "link": "https://www.newsweek.com/sports/nfl/rams-add-second-qb-immediately-after-2026-nfl-draft-11879502",
+    "pubDate": "Sun, 26 Apr 2026 00:41:08 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-26T04:45:01.074Z"
+  },
+  {
+    "title": "Correspondents’ dinner chaos hits high-profile guests already marked by political violence",
+    "description": "Trump spoke about repeated assassination attempts after chaos broke out Saturday, with RFK Jr. and Steve Scalise among those escorted from the room.",
+    "link": "https://www.foxnews.com/politics/correspondents-dinner-chaos-hits-high-profile-guests-already-marked-political-violence",
+    "pubDate": "Sun, 26 Apr 2026 00:34:14 -0400",
+    "source": "Fox News",
+    "categories": [
+      "3e0be6d6-2049-50aa-8f6d-03f588728c6f",
+      "fnc",
+      "fox news",
+      "fox-news/person/robert-f-kennedy-jr",
+      "fox-news/person/donald-trump",
+      "fox-news/politics/turning-point-usa",
+      "fox-news/person/erika-kirk",
+      "fox-news/person/steve-scalise",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-26T04:45:01.074Z"
+  },
+  {
+    "title": "White House Correspondents’ Dinner shooting “traumatic experience” for Melania Trump, says president",
+    "description": "President Trump said first lady Melania Trump recognized a \"bad noise\" when an alleged gunman fired several shots outside the White House Correspondents' Dinner Saturday night.",
+    "link": "https://nypost.com/2026/04/26/us-news/melania-trump-heard-bad-noise-as-suspected-gunman-cole-allen-opened-fire-at-white-house-correspondents-dinner/",
+    "pubDate": "Sun, 26 Apr 2026 00:43:30 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-26T04:45:01.074Z"
+  },
+  {
+    "title": "Red Murdock is 2026 NFL Draft’s Mr. Irrelevant",
+    "description": "University of Buffalo linebacker Red Murdock was starting to wonder if he'd get drafted at all when the Denver Broncos made him “Mr. Irrelevant.\"",
+    "link": "https://nypost.com/2026/04/26/sports/red-murdock-is-2026-nfl-drafts-mr-irrelevant/",
+    "pubDate": "Sun, 26 Apr 2026 00:41:26 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-26T04:45:01.074Z"
+  },
+  {
+    "title": "Donte DiVincenzo tears Achilles in Timberwolves crusher as Anthony Edwards also exits Game 4 with injury",
+    "description": "The Timberwolves were dealt a crushing blow to their playoff hopes Saturday, when Donte DiVincenzo tore his right Achilles during their Game 4 win.",
+    "link": "https://nypost.com/2026/04/26/sports/timberwolves-donte-divincenzo-tears-achilles-anthony-edwards-also-exits-game-4/",
+    "pubDate": "Sun, 26 Apr 2026 00:37:42 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-26T04:45:01.074Z"
   }
 ]
