@@ -835,5 +835,52 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-26T08:45:01.129Z"
+  },
+  {
+    "title": "Tornado Watch Issued for 17 Counties in Texas",
+    "description": "A tornado watch remains in effect for 17 north and central Texas counties as conditions stay favorable for strong tornadoes.",
+    "link": "https://www.newsweek.com/tornado-watch-issued-17-counties-texas-11879575",
+    "pubDate": "Sun, 26 Apr 2026 04:56:31 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-26T09:00:01.354Z"
+  },
+  {
+    "title": "Russian attacks on Ukraine kill at least five, damage ship in port",
+    "description": "Ukrainian attacks on Russia injure at least six people in Vologda region and annexed Crimea.",
+    "link": "https://www.aljazeera.com/news/2026/4/26/russian-strikes-kill-at-least-five-civilians-across-ukraine?traffic_source=rss",
+    "pubDate": "Sun, 26 Apr 2026 08:41:17 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-26T09:00:01.354Z"
+  },
+  {
+    "title": "Trump's security again faces scrutiny after press dinner shooting - Reuters",
+    "description": "Trump's security again faces scrutiny after press dinner shooting  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR0YzTktvMld6OVUzVnVENDlnOU1kTnYxUEdBS19KRnhocnJHQVdqa2pBallRLUdNa1A4ZVJLM0w3ZGR3VkxyV3hqbUlBU0ZTX3R5aDhmXzBLektJekV3eWo2UnJMWFdMWEhkNDlwaTd3TXd4RFg3emNfSXAxYm1YWVZHTnVUMDNQTllSSGpUT3BmeUFqdjhzWl9uT2l4dF9BRU9adGN1Ty00WmpLc3c?oc=5",
+    "pubDate": "Sun, 26 Apr 2026 07:29:46 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-04-26T09:00:01.354Z"
+  },
+  {
+    "title": "Ryan Weathers, now a new dad, delivers solid start in Yankees’ win",
+    "description": "Whatever Ryan Weathers was after a whirlwind week, he delivered what the Yankees needed.",
+    "link": "https://nypost.com/2026/04/26/sports/ryan-weather-now-a-new-dad-delivers-solid-start-in-yankees-win/",
+    "pubDate": "Sun, 26 Apr 2026 04:57:26 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-26T09:00:01.354Z"
+  },
+  {
+    "title": "North Dakota state legislator Liz Conmy, pilot killed in Minneapolis plane crash",
+    "description": "A small plane crashed just after taking off from Crystal Airport north of Minneapolis on Saturday, killing a North Dakota state legislator and the pilot, authorities said.",
+    "link": "https://nypost.com/2026/04/26/us-news/north-dakota-state-rep-liz-conmy-killed-in-plane-crash-in-minneapolis/",
+    "pubDate": "Sun, 26 Apr 2026 04:55:56 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-26T09:00:01.354Z"
   }
 ]
