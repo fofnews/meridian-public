@@ -1023,5 +1023,102 @@
       "white house correspondents' dinner"
     ],
     "collectedAt": "2026-04-27T09:30:01.483Z"
+  },
+  {
+    "title": "Suspected gunman identified as 31-year-old Californian",
+    "description": "The man arrested at the event attended by President Trump has been named in US media as Cole Tomas Allen from California.",
+    "link": "https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 27 Apr 2026 09:31:56 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-27T09:45:01.186Z"
+  },
+  {
+    "title": "WHCA dinner shooting live updates: Suspect planned to target multiple people",
+    "description": "A suspect is in custody following a shooting incident Saturday at the White House Correspondents' Association dinner at the Washington, D.C. Hilton hotel.",
+    "link": "https://abcnews.com/US/live-updates/whca-dinner-shooting-live-updates-suspect-armed-multiple/?id=132390623",
+    "pubDate": "Mon, 27 Apr 2026 05:39:58 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-04-27T09:45:01.186Z"
+  },
+  {
+    "title": "Security at Correspondents’ Dinner Worked as Intended, Experts Say",
+    "description": "Officials noted that the suspect never made it into the hotel ballroom, where President Trump and hundreds of journalists were gathered for the White House correspondents’ dinner.",
+    "link": "https://www.nytimes.com/2026/04/26/us/politics/security-correspondents-dinner.html",
+    "pubDate": "Mon, 27 Apr 2026 09:37:37 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "white house correspondents' dinner shooting (april 25, 2026)",
+      "assassinations and attempted assassinations",
+      "security and warning systems",
+      "secret service",
+      "allen, cole tomas",
+      "blanche, todd (attorney)",
+      "grassley, charles e",
+      "trump, donald j",
+      "vance, j d",
+      "butler (pa)",
+      "trump assassination attempt (july 2024)",
+      "washington hilton hotel"
+    ],
+    "collectedAt": "2026-04-27T09:45:01.186Z"
+  },
+  {
+    "title": "Heavy Snow Warning—Up to 10 Inches To Strike Wyoming, Colorado, Montana",
+    "description": "The winter weather conditions are expected to make outdoor activities dangerous and roads slippery and hazardous.",
+    "link": "https://www.newsweek.com/heavy-snow-warning-wyoming-colorado-montana-11881640",
+    "pubDate": "Mon, 27 Apr 2026 05:39:06 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-27T09:45:01.186Z"
+  },
+  {
+    "title": "Russia attacks Odesa, claims Ukraine hit Zaporizhzhia nuclear plant",
+    "description": "Ukrainian attack on captured Zaporizhzhia nuclear plant kills one worker, according to managers installed by Russia.",
+    "link": "https://www.aljazeera.com/news/2026/4/27/russia-attacks-odesa-claims-ukraine-hit-zaporizhzhia-nuclear-plant?traffic_source=rss",
+    "pubDate": "Mon, 27 Apr 2026 09:16:36 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-27T09:45:01.186Z"
+  },
+  {
+    "title": "Beijing blocks Meta acquisition of Chinese AI startup Manus - Reuters",
+    "description": "Beijing blocks Meta acquisition of Chinese AI startup Manus  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMmstdDVmX2syX0pFbUJCb2RsSWFscnlOLWdYZjNfSk80LXpCdU5aN1V1aWI5R0tsUVpJdzgtN3FqNkxrc2d2cThmeHd1WWd6aVhDUUoxaXF1cURST09KSEd5ckR2YVA4VTcxRHVsLVBmVFRXeWY1TVpsdGFwamxsWTdxNkJNMTlHTy02aUVjM2JRNVpncTJPR01kWDBrdmFfblI5MjVWSQ?oc=5",
+    "pubDate": "Mon, 27 Apr 2026 09:26:34 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-04-27T09:45:01.186Z"
+  },
+  {
+    "title": "Meta’s $2 billion acquisition gets blocked by China. What the deal was all about in the first place.",
+    "description": "Meta Platforms on Monday suffered a setback as a deal to acquire a company focused on autonomous artificial intelligence products was blocked.",
+    "link": "https://www.marketwatch.com/story/metas-2-billion-acquisition-gets-blocked-by-china-what-the-deal-was-all-about-in-the-first-place-bbdc7b98?mod=mw_rss_topstories",
+    "pubDate": "Mon, 27 Apr 2026 09:41:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-04-27T09:45:01.186Z"
+  },
+  {
+    "title": "Three suspected narco-terrorists killed in ‘lethal kinetic strike’ in eastern Pacific",
+    "description": "The United States military conducted another strike on Sunday against a boat suspected of trafficking drugs “operated by a designated terrorist organization.” Three people were killed in the operation, which happened in the eastern Pacific Ocean. Similar to the other videos posted by the U.S. military, this video featured black-and-white footage of a boat traveling […]",
+    "link": "https://www.washingtonexaminer.com/news/4543875/three-narco-terrorists-killed-lethal-kinetic-strike-eastern-pacific/",
+    "pubDate": "Mon, 27 Apr 2026 09:42:42 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "drug cartels",
+      "drugs",
+      "military",
+      "narco trafficking",
+      "pacific ocean"
+    ],
+    "collectedAt": "2026-04-27T09:45:01.186Z"
   }
 ]
