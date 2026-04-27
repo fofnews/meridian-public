@@ -620,5 +620,54 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-27T08:15:01.626Z"
+  },
+  {
+    "title": "Tornado Watches Issued for Kansas, Oklahoma and Missouri",
+    "description": "Tornado watches cover parts of Kansas, Oklahoma and Missouri following a deadly storm in nearby northern Texas over the weekend.",
+    "link": "https://www.newsweek.com/tornado-watches-issued-kansas-oklahoma-missouri-11881228",
+    "pubDate": "Mon, 27 Apr 2026 04:25:36 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-27T08:30:01.268Z"
+  },
+  {
+    "title": "Social Security: Payments of Up to $5,181 Coming This Week",
+    "description": "Millions of beneficiaries are scheduled to receive their monthly benefit payment on Friday.",
+    "link": "https://www.newsweek.com/social-security-payments-5181-coming-this-week-2-11881227",
+    "pubDate": "Mon, 27 Apr 2026 04:14:11 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-27T08:30:01.268Z"
+  },
+  {
+    "title": "Iran’s top diplomat in Russia as Tehran intensifies efforts to end the war",
+    "description": "Pakistan and Oman remain involved in backchannel efforts to prevent a return to open US-Israel war on Iran.",
+    "link": "https://www.aljazeera.com/news/2026/4/27/iran-foreign-minister-in-russia-for-putin-talks?traffic_source=rss",
+    "pubDate": "Mon, 27 Apr 2026 08:10:43 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-27T08:30:01.268Z"
+  },
+  {
+    "title": "War and neglect fuel deadly measles epidemic in Sudan’s Darfur",
+    "description": "Measles kills 70 in East Darfur's Labado in a few weeks as healthcare collapse leaves families without medicines.",
+    "link": "https://www.aljazeera.com/news/2026/4/27/war-and-neglect-fuel-deadly-measles-epidemic-in-sudans-darfur?traffic_source=rss",
+    "pubDate": "Mon, 27 Apr 2026 08:04:35 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-27T08:30:01.268Z"
+  },
+  {
+    "title": "King Charles III heads to Washington on a delicate mission to restore the UK-US relationship - AP News",
+    "description": "King Charles III heads to Washington on a delicate mission to restore the UK-US relationship  AP News",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNakcycFdvX1RVME9NY3R5eHlIdnZZTnFLcE5qSWVQZXgyS3pSaUpFZno4bHNXQ0VnS1lVY0s3VzRTZ3lILTdlTzNFQnIxNFhMSmt5S3R5cEtvcnZjWVVjZzRpRTE3UENVMDhfUHBDU2pFWjgyOWJ1UXFwYV8yLXlnUWlELUkxb0d3ZGdmcGs4cnNVV0hOZHplamljREZvZw?oc=5",
+    "pubDate": "Mon, 27 Apr 2026 04:05:00 GMT",
+    "source": "AP News",
+    "categories": [],
+    "collectedAt": "2026-04-27T08:30:01.268Z"
   }
 ]
