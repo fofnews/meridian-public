@@ -238,5 +238,30 @@
     "source": "CBS News",
     "categories": [],
     "collectedAt": "2026-04-27T05:15:01.316Z"
+  },
+  {
+    "title": "Muted Reaction as Oil and Stock Markets Reopen",
+    "description": "Oil prices rose and stocks fell after President Trump called off a trip to Pakistan by two U.S. negotiators for peace talks with Iran.",
+    "link": "https://www.nytimes.com/2026/04/26/business/oil-stocks-gas-iran.html",
+    "pubDate": "Mon, 27 Apr 2026 05:26:05 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "oil (petroleum) and gasoline",
+      "prices (fares, fees and rates)",
+      "stocks and bonds",
+      "standard & poor's 500-stock index",
+      "iran"
+    ],
+    "collectedAt": "2026-04-27T05:30:08.041Z"
+  },
+  {
+    "title": "Iranian foreign minister heads to Russia, Trump says 'call us' to negotiate - Reuters",
+    "description": "Iranian foreign minister heads to Russia, Trump says 'call us' to negotiate  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSDRna1VZUzc4VC10UGRDU01UVWFRWlV0TmdxXzJuT1hPd0ZXeVpUbUo0Nmd4b0JsVHNTQnoyU1YtY0NISUdRMXREYWdYdzBETDBibjR6Z05vN1NjSWkyeVo2QkJBTEhuZFlxaUpuYm9vVTJlOU9xT195bzg2VDRIRTItdHk3MHV3eU9OQ1BadlFfdmRCenI4aGhlT2duVmVYVmVya3cyUVMwUF81SUNTbHRFTEZOWDFnTXlQUnJn?oc=5",
+    "pubDate": "Mon, 27 Apr 2026 04:35:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-04-27T05:30:08.041Z"
   }
 ]
