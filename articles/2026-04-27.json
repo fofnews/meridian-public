@@ -299,5 +299,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-27T06:00:01.308Z"
+  },
+  {
+    "title": "Oil prices rise as US-Iran peace talks stall",
+    "description": "President Trump said on Saturday that the US had cancelled plans to send a team to Pakistan for negotiations.",
+    "link": "https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 27 Apr 2026 06:03:29 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-27T06:15:01.143Z"
+  },
+  {
+    "title": "Taiwan court hands down jail terms in TSMC trade secrets case",
+    "description": "Ex-Tokyo Electron employee sentenced to 10 years, four other defendants receive between 10 months and six years.",
+    "link": "https://www.aljazeera.com/economy/2026/4/27/taiwan-court-hands-down-jail-terms-in-tsmc-trade-secrets-case?traffic_source=rss",
+    "pubDate": "Mon, 27 Apr 2026 05:43:30 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-27T06:15:01.143Z"
   }
 ]
