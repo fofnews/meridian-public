@@ -2118,7 +2118,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-04-25",
+      "lastSeen": "2026-04-27",
       "active": true,
       "entries": [
         {
@@ -2130,6 +2130,11 @@
           "date": "2026-04-25",
           "edition": "evening",
           "update": "Trump canceled the planned US delegation trip to Pakistan for nuclear and peace talks with Iran, announcing the cancellation himself on Saturday via Truth Social. Steve Witkoff and Jared Kushner's trip, which had been confirmed the previous day, was called off, with Trump indicating future negotiations could take place by phone instead."
+        },
+        {
+          "date": "2026-04-27",
+          "edition": "evening",
+          "update": "German Chancellor Friedrich Merz publicly stated that Iran is humiliating the United States in negotiations, describing Iranians as skilled at 'not negotiating' by causing American envoys to travel and then canceling talks. Merz made the remarks while visiting a school in his home region."
         }
       ]
     },
@@ -2149,5 +2154,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-04-27T11:03:56.182Z"
+  "updatedAt": "2026-04-27T21:05:20.733Z"
 }
