@@ -2132,7 +2132,22 @@
           "update": "Trump canceled the planned US delegation trip to Pakistan for nuclear and peace talks with Iran, announcing the cancellation himself on Saturday via Truth Social. Steve Witkoff and Jared Kushner's trip, which had been confirmed the previous day, was called off, with Trump indicating future negotiations could take place by phone instead."
         }
       ]
+    },
+    {
+      "id": "us-military-operations-eastern-pacific",
+      "title": "US Military Operations Eastern Pacific",
+      "parentId": null,
+      "firstSeen": "2026-04-27",
+      "lastSeen": "2026-04-27",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-04-27",
+          "edition": "morning",
+          "update": "A U.S. military strike in the eastern Pacific Ocean on Sunday killed three people aboard a boat accused of drug trafficking."
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-04-26T21:03:21.637Z"
+  "updatedAt": "2026-04-27T11:03:56.182Z"
 }
