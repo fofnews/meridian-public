@@ -2152,7 +2152,37 @@
           "update": "A U.S. military strike in the eastern Pacific Ocean on Sunday killed three people aboard a boat accused of drug trafficking."
         }
       ]
+    },
+    {
+      "id": "correspondents-dinner-shooting-investigation",
+      "title": "Correspondents' Dinner Shooting Investigation",
+      "parentId": null,
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-04-28",
+          "edition": "morning",
+          "update": "A suspect was charged with attempting to assassinate the president following a shooting at the White House Correspondents' Dinner; the charges were formally announced after the attack."
+        }
+      ]
+    },
+    {
+      "id": "taylor-swift-concert-attack-plot-investigation",
+      "title": "Taylor Swift Concert Attack Plot Investigation",
+      "parentId": null,
+      "firstSeen": "2026-04-28",
+      "lastSeen": "2026-04-28",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-04-28",
+          "edition": "morning",
+          "update": "An Austrian man is on trial in Austria for allegedly plotting a terrorist attack on a Taylor Swift concert in Vienna, with prosecutors alleging ties to the Islamic State."
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-04-27T21:05:20.733Z"
+  "updatedAt": "2026-04-28T11:04:49.361Z"
 }
