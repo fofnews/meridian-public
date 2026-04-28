@@ -556,5 +556,65 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-28T07:45:01.257Z"
+  },
+  {
+    "title": "Antiquities dealer who exposed British Museum thefts dies aged 61",
+    "description": "Dr Ittai Gradel made global headlines after exposing the thefts of many artefacts from the British Museum.",
+    "link": "https://www.bbc.com/news/articles/c1mk2pr39k7o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 28 Apr 2026 07:25:51 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-28T08:00:01.746Z"
+  },
+  {
+    "title": "Kid Rock flies in Army helicopter weeks after flights near his house drew scrutiny",
+    "description": "Kid Rock and Defense Secretary Pete Hegseth both flew in Army Apache helicopters at a base in Virginia on Monday, weeks after military pilots drew scrutiny for hovering near the entertainer's home.",
+    "link": "https://www.npr.org/2026/04/28/g-s1-118998/kid-rock-flies-army-helicopter",
+    "pubDate": "Tue, 28 Apr 2026 03:56:59 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-04-28T08:00:01.746Z"
+  },
+  {
+    "title": "‘Transformative’ Skyscraper To Soar Next to World’s Biggest Railway Station",
+    "description": "The striking New York City skyscraper will feature a new transit hall in one of North America's busiest hubs.",
+    "link": "https://www.newsweek.com/transformative-new-skyscraper-near-grand-central-worlds-biggest-railway-station-11883234",
+    "pubDate": "Tue, 28 Apr 2026 03:47:07 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-28T08:00:01.746Z"
+  },
+  {
+    "title": "Athletics great Allyson Felix aiming to compete at 2028 Los Angeles Games",
+    "description": "Felix, the most decorated woman in Olympic athletics history with 11 medals, plans a comeback at age 40 at the Olympics.",
+    "link": "https://www.aljazeera.com/sports/2026/4/28/athletics-great-allyson-felix-aiming-to-compete-at-2028-los-angeles-games?traffic_source=rss",
+    "pubDate": "Tue, 28 Apr 2026 07:42:16 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-04-28T08:00:01.746Z"
+  },
+  {
+    "title": "UK to appeal High Court ruling that granted Palestine Action a victory",
+    "description": "The Home Office is challenging judges who ruled the proscription of the group as a terrorist organisation as unlawful",
+    "link": "https://www.aljazeera.com/news/2026/4/28/uk-to-appeal-high-court-ruling-that-granted-palestine-action-a-victory?traffic_source=rss",
+    "pubDate": "Tue, 28 Apr 2026 07:34:57 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-28T08:00:01.746Z"
+  },
+  {
+    "title": "Ukraine summons Israeli ambassador over ‘stolen’ grain shipments",
+    "description": "The diplomatic spat unfolds as Ukrainian drones hit Russia's Tuapse oil refinery, causing a 'massive' fire.",
+    "link": "https://www.aljazeera.com/news/2026/4/28/ukraine-summons-israeli-ambassador-over-stolen-grain-shipments?traffic_source=rss",
+    "pubDate": "Tue, 28 Apr 2026 07:34:11 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-28T08:00:01.746Z"
   }
 ]
