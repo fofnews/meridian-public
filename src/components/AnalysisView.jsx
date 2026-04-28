@@ -70,7 +70,7 @@ export default function AnalysisView({ analysis }) {
               {analysis.uniqueAngles.map((u, i) => (
                 <div key={i} className="flex items-start gap-3" style={{ borderBottom: i < analysis.uniqueAngles.length - 1 ? '1px solid var(--border-unique)' : 'none', paddingBottom: i < analysis.uniqueAngles.length - 1 ? '12px' : undefined }}>
                   <SourceBadge source={u.source} />
-                  <p className="text-sm flex-1 leading-relaxed" style={{ color: 'var(--section-unique-title)' }}>{u.angle}</p>
+                  <p className="text-sm flex-1 leading-relaxed" style={{ color: 'var(--section-unique-title)' }}>{u.angle ?? u.position}</p>
                 </div>
               ))}
             </div>

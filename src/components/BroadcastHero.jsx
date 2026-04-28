@@ -97,8 +97,8 @@ function truncateHeadline(headline, maxLen = 72) {
 }
 
 function createMarkerElement(isDark) {
-  const dotColor = isDark ? '#e8c547' : '#1a3a5c';
-  const ringColor = isDark ? 'rgba(232,197,71,0.45)' : 'rgba(26,58,92,0.45)';
+  const dotColor = isDark ? '#e8c547' : '#9A7200';
+  const ringColor = isDark ? 'rgba(232,197,71,0.45)' : 'rgba(154,114,0,0.45)';
 
   const wrapper = document.createElement('div');
   wrapper.style.cssText = 'position: relative; width: 10px; height: 10px;';
@@ -132,18 +132,57 @@ function getMapPadding(containerEl) {
 }
 
 function applyMapStyle(map, isDark) {
-  // Land color (dark-v11 only — not present in light-v11)
-  try { map.setPaintProperty('land', 'background-color', isDark ? '#222534' : '#e8e4d8'); } catch {}
-
-  // Country labels
+  // Land color — warm paper in light, dark navy in dark
   try {
-    map.setPaintProperty('country-label', 'text-color', isDark ? '#ffffff' : '#1a1a2e');
-    map.setPaintProperty('country-label', 'text-halo-color', isDark ? 'rgba(0,0,0,0.6)' : 'rgba(244,240,232,0.8)');
-    map.setPaintProperty('country-label', 'text-halo-width', 1.5);
-    map.setLayoutProperty('country-label', 'text-size', 20);
+    map.setPaintProperty('land', 'background-color', isDark ? '#222534' : '#F5F2ED');
   } catch {}
 
-  // Country highlight + border layers (re-add after style change)
+  if (isDark) {
+    // Dark mode preserves base style's labels, restyled for the broadcast look
+    try {
+      map.setPaintProperty('country-label', 'text-color', '#ffffff');
+      map.setPaintProperty('country-label', 'text-halo-color', 'rgba(0,0,0,0.6)');
+      map.setPaintProperty('country-label', 'text-halo-width', 1.5);
+      map.setLayoutProperty('country-label', 'text-size', 20);
+    } catch {}
+  } else {
+    // Light mode — editorial monochrome: paint water, strip the road / POI /
+    // admin-1 / transit / natural-feature noise, but keep place labels so the
+    // map gives orientation context (countries, cities, oceans).
+    try { map.setPaintProperty('water', 'fill-color', '#DCE5EC'); } catch {}
+
+    try {
+      const style = map.getStyle();
+      if (style && style.layers) {
+        style.layers.forEach((layer) => {
+          const id = layer.id;
+          if (
+            id.startsWith('road') ||
+            id.startsWith('bridge') ||
+            id.startsWith('tunnel') ||
+            id.startsWith('ferry') ||
+            id.startsWith('admin-1') ||
+            id.startsWith('poi') ||
+            id.startsWith('natural') ||
+            id.startsWith('transit') ||
+            id === 'waterway-label' ||
+            id === 'water-line-label'
+          ) {
+            try { map.setLayoutProperty(id, 'visibility', 'none'); } catch {}
+          }
+        });
+      }
+    } catch {}
+
+    // Tint country labels to match the navy/paper palette
+    try {
+      map.setPaintProperty('country-label', 'text-color', '#0A1828');
+      map.setPaintProperty('country-label', 'text-halo-color', 'rgba(245,242,237,0.85)');
+      map.setPaintProperty('country-label', 'text-halo-width', 1.5);
+    } catch {}
+  }
+
+  // Country highlight + border layers (re-added after every style change)
   try {
     if (!map.getSource('country-boundaries')) {
       map.addSource('country-boundaries', {
@@ -158,8 +197,14 @@ function applyMapStyle(map, isDark) {
         source: 'country-boundaries',
         'source-layer': 'country_boundaries',
         filter: ['==', 'iso_3166_1', ''],
-        paint: { 'fill-color': '#e8c547', 'fill-opacity': 0.18 },
+        paint: {
+          'fill-color': isDark ? '#e8c547' : '#9A7200',
+          'fill-opacity': isDark ? 0.18 : 0.13,
+        },
       });
+    } else {
+      map.setPaintProperty('country-highlight', 'fill-color', isDark ? '#e8c547' : '#9A7200');
+      map.setPaintProperty('country-highlight', 'fill-opacity', isDark ? 0.18 : 0.13);
     }
     if (!map.getLayer('country-borders')) {
       map.addLayer({
@@ -168,15 +213,15 @@ function applyMapStyle(map, isDark) {
         source: 'country-boundaries',
         'source-layer': 'country_boundaries',
         paint: {
-          'line-color': isDark ? 'rgba(180,190,220,0.6)' : '#1a0e00',
-          'line-width': isDark ? 0.8 : 1.8,
-          'line-opacity': isDark ? 0.6 : 0.85,
+          'line-color': isDark ? 'rgba(180,190,220,0.6)' : '#0A1828',
+          'line-width': isDark ? 0.8 : 0.5,
+          'line-opacity': isDark ? 0.6 : 0.65,
         },
       });
     } else {
-      map.setPaintProperty('country-borders', 'line-color', isDark ? 'rgba(180,190,220,0.6)' : '#1a0e00');
-      map.setPaintProperty('country-borders', 'line-width', isDark ? 0.8 : 1.8);
-      map.setPaintProperty('country-borders', 'line-opacity', isDark ? 0.6 : 0.85);
+      map.setPaintProperty('country-borders', 'line-color', isDark ? 'rgba(180,190,220,0.6)' : '#0A1828');
+      map.setPaintProperty('country-borders', 'line-width', isDark ? 0.8 : 0.5);
+      map.setPaintProperty('country-borders', 'line-opacity', isDark ? 0.6 : 0.65);
     }
   } catch {}
 }
@@ -234,7 +279,7 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
 
       map = new mapboxgl.Map({
         container: mapContainer.current,
-        style: isDark ? 'mapbox://styles/mapbox/dark-v11' : 'mapbox://styles/mapbox/outdoors-v12',
+        style: isDark ? 'mapbox://styles/mapbox/dark-v11' : 'mapbox://styles/mapbox/light-v11',
         center: [0, 20],
         zoom: 1.0,
         interactive: true,
@@ -324,7 +369,7 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
       styleLoadCallbackRef.current = null;
     }
 
-    const newStyle = isDark ? 'mapbox://styles/mapbox/dark-v11' : 'mapbox://styles/mapbox/outdoors-v12';
+    const newStyle = isDark ? 'mapbox://styles/mapbox/dark-v11' : 'mapbox://styles/mapbox/light-v11';
     map.setStyle(newStyle);
 
     const onStyleLoad = () => {
@@ -336,8 +381,8 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
 
     // Update marker colors to match new theme
     if (markerRef.current) {
-      const dotColor = isDark ? '#e8c547' : '#1a3a5c';
-      const ringColor = isDark ? 'rgba(232,197,71,0.45)' : 'rgba(26,58,92,0.45)';
+      const dotColor = isDark ? '#e8c547' : '#9A7200';
+      const ringColor = isDark ? 'rgba(232,197,71,0.45)' : 'rgba(154,114,0,0.45)';
       const el = markerRef.current.getElement();
       const dot = el.querySelector('.dot-pulse, .dot-pulse-light');
       const ring = el.querySelector('.marker-ring');

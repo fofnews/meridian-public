@@ -109,6 +109,8 @@ export default function ArticlesView({ selectedDate }) {
   const [activeCategory, setActiveCategory] = useState(null);
   const [activeSubcategory, setActiveSubcategory] = useState('All');
   const [searchQuery, setSearchQuery] = useState('');
+  const [committedQuery, setCommittedQuery] = useState('');
+  const [searchMode, setSearchMode] = useState('semantic');
   const [searchResults, setSearchResults] = useState(null);
   const [searchLoading, setSearchLoading] = useState(false);
   const [activeTopic, setActiveTopic] = useState(null);
@@ -145,19 +147,19 @@ export default function ArticlesView({ selectedDate }) {
   }
 
   useEffect(() => {
-    if (!searchQuery.trim()) { setSearchResults(null); return; }
+    if (!committedQuery.trim()) { setSearchResults(null); return; }
     const controller = new AbortController();
-    const timer = setTimeout(async () => {
-      setSearchLoading(true);
+    setSearchLoading(true);
+    (async () => {
       try {
         const base = import.meta.env.VITE_PIPELINE_URL || '';
-        const url = `${base}/api/search?query=${encodeURIComponent(searchQuery.trim())}`;
+        const url = `${base}/api/search?query=${encodeURIComponent(committedQuery.trim())}&mode=${searchMode}`;
         const res = await fetch(url, { signal: controller.signal });
         const data = await res.json();
         setSearchResults(data.results ?? []);
       } catch (err) {
         if (err.name === 'AbortError') return;
-        const q = searchQuery.toLowerCase();
+        const q = committedQuery.toLowerCase();
         const flat = CATEGORY_ORDER.flatMap(c => data?.categories?.[c] || []);
         setSearchResults(flat.filter(a =>
           (a.title || '').toLowerCase().includes(q) || (a.source || '').toLowerCase().includes(q)
@@ -165,9 +167,9 @@ export default function ArticlesView({ selectedDate }) {
       } finally {
         if (!controller.signal.aborted) setSearchLoading(false);
       }
-    }, 300);
-    return () => { clearTimeout(timer); controller.abort(); };
-  }, [searchQuery, selectedDate]);
+    })();
+    return () => controller.abort();
+  }, [committedQuery, searchMode, selectedDate]);
 
   if (loading) return (
     <div className="flex items-center justify-center py-20 text-sm" style={{ color: 'var(--text-faint)' }}>Loading articles...</div>
@@ -204,7 +206,7 @@ export default function ArticlesView({ selectedDate }) {
       ]
     : [];
 
-  const isSearching = searchQuery.trim().length > 0;
+  const isSearching = committedQuery.trim().length > 0;
   const isTopicFiltered = !isSearching && activeTopic !== null;
 
   const topicResults = isTopicFiltered
@@ -263,7 +265,7 @@ export default function ArticlesView({ selectedDate }) {
       )}
 
       {/* Search bar */}
-      <div className="relative mb-4">
+      <div className="relative mb-2">
         <svg
           className="absolute left-3 top-1/2 -translate-y-1/2 pointer-events-none"
           width="14" height="14" viewBox="0 0 24 24" fill="none"
@@ -276,7 +278,8 @@ export default function ArticlesView({ selectedDate }) {
           type="text"
           value={searchQuery}
           onChange={e => setSearchQuery(e.target.value)}
-          placeholder="Search articles..."
+          onKeyDown={e => { if (e.key === 'Enter') setCommittedQuery(searchQuery); }}
+          placeholder="Search articles…"
           className="w-full text-sm rounded-full pl-8 pr-8 py-1.5 outline-none transition-colors"
           style={{
             background: 'var(--bg-card)',
@@ -289,7 +292,7 @@ export default function ArticlesView({ selectedDate }) {
         />
         {isSearching && (
           <button
-            onClick={() => { setSearchQuery(''); setSearchResults(null); }}
+            onClick={() => { setSearchQuery(''); setCommittedQuery(''); setSearchResults(null); }}
             className="absolute right-3 top-1/2 -translate-y-1/2 leading-none"
             style={{ color: 'var(--text-faint)', background: 'none', border: 'none', cursor: 'pointer', padding: 0 }}
             aria-label="Clear search"
@@ -300,6 +303,25 @@ export default function ArticlesView({ selectedDate }) {
             </svg>
           </button>
         )}
+      </div>
+
+      {/* Search mode toggle */}
+      <div className="flex gap-1 mb-4">
+        {['semantic', 'keyword'].map(mode => (
+          <button
+            key={mode}
+            onClick={() => setSearchMode(mode)}
+            className="text-xs px-3 py-1 rounded-full transition-colors cursor-pointer"
+            style={{
+              background: searchMode === mode ? 'var(--accent)' : 'var(--bg-card)',
+              color: searchMode === mode ? '#fff' : 'var(--text-faint)',
+              border: `1px solid ${searchMode === mode ? 'var(--accent)' : 'var(--border-primary)'}`,
+              fontWeight: searchMode === mode ? 600 : 400,
+            }}
+          >
+            {mode === 'semantic' ? 'Semantic' : 'Keyword'}
+          </button>
+        ))}
       </div>
 
       {/* Category tabs */}

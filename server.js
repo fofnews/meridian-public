@@ -304,12 +304,12 @@ async function queryPinecone(queryVector, dates) {
 }
 
 app.get('/api/search', async (req, res) => {
-  const { query } = req.query;
+  const { query, mode } = req.query;
   if (!query?.trim()) return res.status(400).json({ error: 'query required' });
 
   const dates = getLast7Dates();
 
-  if (process.env.VOYAGE_API_KEY && process.env.PINECONE_API_KEY && process.env.PINECONE_HOST) {
+  if (mode !== 'keyword' && process.env.VOYAGE_API_KEY && process.env.PINECONE_API_KEY && process.env.PINECONE_HOST) {
     try {
       const queryVec = await embedQuery(query.trim());
       const matches = await queryPinecone(queryVec, dates);
