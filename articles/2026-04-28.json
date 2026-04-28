@@ -275,5 +275,49 @@
     "source": "NBC News",
     "categories": [],
     "collectedAt": "2026-04-28T06:00:01.295Z"
+  },
+  {
+    "title": "Jimmy Kimmel rejects White House criticism over Melania widow joke",
+    "description": "In a parody aired days before the White House Correspondents' Dinner, Kimmel called Melania an \"expectant widow\".",
+    "link": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 28 Apr 2026 06:09:43 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-28T06:15:01.255Z"
+  },
+  {
+    "title": "'My husband finally got full-time care – he died a week later'",
+    "description": "Kirsty Parsons shares details of her battle to secure adult social care support for her husband.",
+    "link": "https://www.bbc.com/news/articles/cpd5g905x95o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 28 Apr 2026 05:24:16 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-28T06:15:01.255Z"
+  },
+  {
+    "title": "World's Best Specialized Hospitals 2027 Survey",
+    "description": "Newsweek and Statista are evaluating the World's Best Specialized Hospitals for 2027.",
+    "link": "https://www.newsweek.com/worlds-best-specialized-hospitals-2027-survey-11868654",
+    "pubDate": "Tue, 28 Apr 2026 02:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-28T06:15:01.255Z"
+  },
+  {
+    "title": "Rubio: Iran wants to do to world ‘with a nuclear weapon what they are doing now with oil’",
+    "description": "Secretary of State Marco Rubio criticized the Iranian regime, blasting the leaders of the country for using force to control shipping through an “international waterway.” Rubio said the regime is trying to hold the world hostage by controlling the Strait of Hormuz, through which over 80% of the world’s oil is transported. He said their […]",
+    "link": "https://www.washingtonexaminer.com/news/4545402/rubio-iran-wants-to-do-to-world-with-a-nuclear-weapon-what-they-are-doing-now-with-oil/",
+    "pubDate": "Tue, 28 Apr 2026 06:01:06 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "iran",
+      "marco rubio",
+      "oil",
+      "secretary of state",
+      "strait of hormuz",
+      "trump administration"
+    ],
+    "collectedAt": "2026-04-28T06:15:01.255Z"
   }
 ]
