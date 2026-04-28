@@ -97,5 +97,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-28T04:30:01.240Z"
+  },
+  {
+    "title": "Jimmy Kimmel remains defiant, insists 'expectant widow' jab against Trumps was about age difference",
+    "description": "Jimmy Kimmel insisted his \"expectant widow\" aimed at President Donald Trump and First Lady Melania Trump was about their age difference, not a call for an assassination.",
+    "link": "https://www.foxnews.com/media/jimmy-kimmel-remains-defiant-insists-expectant-widow-jab-against-trumps-about-age-difference",
+    "pubDate": "Tue, 28 Apr 2026 00:19:58 -0400",
+    "source": "Fox News",
+    "categories": [
+      "2135bd70-2416-52b8-aeb9-43bd561b88d9",
+      "fnc",
+      "fox news",
+      "fox-news/person/jimmy-kimmel",
+      "fox-news/media",
+      "fox-news/entertainment/politics-on-late-night",
+      "fox-news/person/melania-trump",
+      "fox-news/person/donald-trump",
+      "fox-news/media",
+      "article"
+    ],
+    "collectedAt": "2026-04-28T04:45:01.406Z"
   }
 ]
