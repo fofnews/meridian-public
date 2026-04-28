@@ -616,5 +616,34 @@
       "news"
     ],
     "collectedAt": "2026-04-28T08:00:01.746Z"
+  },
+  {
+    "title": "Trump reviews Iranian proposal aimed at reopening Strait of Hormuz",
+    "description": "The White House confirms Trump met his national security advisers on Monday to discuss the plan.",
+    "link": "https://www.aljazeera.com/news/2026/4/28/trump-reviews-iranian-proposal-aimed-at-reopening-strait-of-hormuz?traffic_source=rss",
+    "pubDate": "Tue, 28 Apr 2026 07:55:25 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-28T08:15:01.354Z"
+  },
+  {
+    "title": "Wisconsin teacher placed on leave after social media post advocating to ‘make Americans great assassins again’",
+    "description": "'Booth, Guiteau, Czolgosz, Oswald must all be spinning in their graves!' Kaukauna High School teacher Patrick Meyer said in the post.",
+    "link": "https://nypost.com/2026/04/28/us-news/wisconsin-teacher-placed-on-leave-after-social-media-post-advocating-to-make-americans-great-assassins-again/",
+    "pubDate": "Tue, 28 Apr 2026 04:08:43 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-28T08:15:01.354Z"
+  },
+  {
+    "title": "American Airlines imposes limits on portable chargers",
+    "description": "American Airlines is set to become the latest carrier to update its rules surrounding portable chargers – and travelers will be restricted to a maximum of two devices.",
+    "link": "https://nypost.com/2026/04/28/lifestyle/american-airlines-imposes-limits-on-portable-chargers/",
+    "pubDate": "Tue, 28 Apr 2026 04:05:29 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-28T08:15:01.354Z"
   }
 ]
