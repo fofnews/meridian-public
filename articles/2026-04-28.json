@@ -645,5 +645,91 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-28T08:15:01.354Z"
+  },
+  {
+    "title": "UK and US always find ways to come together, King to tell Congress",
+    "description": "King Charles will address the US Congress on Tuesday at a time of diplomatic tensions between London and Washington.",
+    "link": "https://www.bbc.com/news/articles/c9d4dzwdp53o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 28 Apr 2026 08:25:45 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-28T08:30:01.318Z"
+  },
+  {
+    "title": "NEWSBRIEF: WHCA SUSPECT IN COURT, TRUMP-KING RELATIONSHIP, LEBANON CEASEFIRE FRAYS",
+    "description": "Suspect charged with trying to assassinate President Trump, Trump hosts King Charles at critical point in U.S.-Britain relations, ceasefire in south Lebanon fraying.",
+    "link": "https://www.npr.org/2026/04/28/nx-s1-5797894/newsbrief-whca-suspect-in-court-trump-king-relationship-lebanon-ceasefire-frays",
+    "pubDate": "Tue, 28 Apr 2026 04:13:41 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-04-28T08:30:01.318Z"
+  },
+  {
+    "title": "Correspondents' dinner suspect charged with trying to assassinate President Trump",
+    "description": "The Justice Department announced the first formal charges against the gunman at the White House Correspondents' Dinner.",
+    "link": "https://www.npr.org/2026/04/28/nx-s1-5801642/correspondents-dinner-suspect-charged-with-trying-to-assassinate-president-trump",
+    "pubDate": "Tue, 28 Apr 2026 04:13:30 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-04-28T08:30:01.318Z"
+  },
+  {
+    "title": "College classmate speaks about alleged correspondents' dinner attacker",
+    "description": "NPR's Michel Martin speaks to Eliza Terlinden, who was in the same Christian fellowship group in college as the suspected attacker at the White House Correspondents dinner.",
+    "link": "https://www.npr.org/2026/04/28/nx-s1-5800896/college-classmate-speaks-about-alleged-correspondents-dinner-attacker",
+    "pubDate": "Tue, 28 Apr 2026 04:11:47 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-04-28T08:30:01.318Z"
+  },
+  {
+    "title": "Trump's embrace of King Charles comes at a fraught time for U.S.-UK relations",
+    "description": "Trump seems to be looking forward to hosting, in recent weeks bringing up the royal visit multiple times.",
+    "link": "https://www.npr.org/2026/04/28/nx-s1-5800874/trumps-embrace-of-king-charles-comes-at-a-fraught-time-for-u-s-uk-relations",
+    "pubDate": "Tue, 28 Apr 2026 04:10:14 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-04-28T08:30:01.318Z"
+  },
+  {
+    "title": "Down but not out: In war with Israel, Hezbollah shows it is still powerful",
+    "description": "Despite setbacks, Hezbollah emerges as a key player, tied to Lebanon’s stability and US-Iran negotiations.",
+    "link": "https://www.aljazeera.com/features/2026/4/28/down-but-not-out-in-war-with-israel-hezbollah-shows-it-is-still-powerful?traffic_source=rss",
+    "pubDate": "Tue, 28 Apr 2026 08:20:45 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-28T08:30:01.318Z"
+  },
+  {
+    "title": "‘Should be fired’: Why the Trumps want Jimmy Kimmel sacked",
+    "description": "Trump calls for Kimmel's firing over remarks tied to Melania and a recent shooting incident at a media event.",
+    "link": "https://www.aljazeera.com/news/2026/4/28/should-be-fired-why-the-trumps-want-jimmy-kimmel-sacked?traffic_source=rss",
+    "pubDate": "Tue, 28 Apr 2026 08:06:29 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-28T08:30:01.318Z"
+  },
+  {
+    "title": "Jimmy Kimmel addresses Melania Trump’s social media post about his ‘corrosive’ comedy skit",
+    "description": "Late-night talk show host Jimmy Kimmel addressed the social media post by first lady Melania Trump, criticizing him for a joke he made last week about her being a widow. The first lady posted the request on X on Monday morning, two days after Cole Allen broke through a security checkpoint at the White House […]",
+    "link": "https://www.washingtonexaminer.com/news/4545411/jimmy-kimmel-addresses-melania-trump-social-media-post/",
+    "pubDate": "Tue, 28 Apr 2026 08:26:16 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "entertainment",
+      "news",
+      "donald trump",
+      "jimmy kimmel",
+      "melania trump",
+      "political violence",
+      "truth social",
+      "white house correspondents' association",
+      "white house correspondents' dinner"
+    ],
+    "collectedAt": "2026-04-28T08:30:01.318Z"
   }
 ]
