@@ -173,5 +173,44 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-28T05:15:01.871Z"
+  },
+  {
+    "title": "Pompeii archaeologists use AI to reconstruct man killed in volcano's eruption",
+    "description": "Archaeologists have used AI for the first time to digitally reconstruct the face of a man killed in the AD 79 eruption of Mount Vesuvius, offering a new way to understand one of history's most famous natural disasters.",
+    "link": "https://www.npr.org/2026/04/28/g-s1-118986/pompeii-archaeologists-use-ai-to-reconstruct-man-killed-in-volcanos-eruption",
+    "pubDate": "Tue, 28 Apr 2026 01:20:05 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-04-28T05:30:01.332Z"
+  },
+  {
+    "title": "Oil prices rise despite Iran’s proposal to reopen Strait of Hormuz",
+    "description": "Brent crude rises more than 1 percent despite Iran's offer to reopen waterway in exchange for deferral of nuclear talks.",
+    "link": "https://www.aljazeera.com/news/2026/4/28/oil-prices-rise-despite-irans-proposal-to-reopen-strait-of-hormuz?traffic_source=rss",
+    "pubDate": "Tue, 28 Apr 2026 05:13:33 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-28T05:30:01.332Z"
+  },
+  {
+    "title": "Jasmine Crockett's social media posts about WHCD shooting show different tones",
+    "description": "Rep. Jasmine Crockett made social media posts condemning the shooting at the WHCD while also suggesting assassination attempts against President Donald Trump may be fake.",
+    "link": "https://www.foxnews.com/politics/jasmine-crocketts-social-media-posts-about-whcd-shooting-show-different-tones",
+    "pubDate": "Tue, 28 Apr 2026 01:08:02 -0400",
+    "source": "Fox News",
+    "categories": [
+      "0600e13b-dc78-50d8-81d8-5e7bbe72897b",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/media",
+      "fox-news/person/donald-trump",
+      "fox-news/us/democratic-party",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-04-28T05:30:01.332Z"
   }
 ]
