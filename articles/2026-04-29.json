@@ -401,5 +401,53 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-29T06:00:01.449Z"
+  },
+  {
+    "title": "World's Best Smart Hospitals 2027 Survey",
+    "description": "Newsweek and Statista are evaluating the World's Best Specialized Hospitals for 2027.",
+    "link": "https://www.newsweek.com/worlds-best-smart-hospitals-2027-survey-11873746",
+    "pubDate": "Wed, 29 Apr 2026 02:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-29T06:15:01.207Z"
+  },
+  {
+    "title": "Can Russia serve as an economic lifeline for Iran amid the Hormuz blockade?",
+    "description": "Analysts say that Moscow could offer a 'lifeline' but  logistical issues, costs offer little incentive in the long-run.",
+    "link": "https://www.aljazeera.com/features/2026/4/29/can-russia-serve-as-an-economic-lifeline-for-iran-amid-the-hormuz-blockade?traffic_source=rss",
+    "pubDate": "Wed, 29 Apr 2026 06:02:48 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-29T06:15:01.207Z"
+  },
+  {
+    "title": "Florida man allegedly shot woman in neck, dragged her back inside before hiding in backyard pool",
+    "description": "Robert Anthony Morgan, 40, allegedly told the victim's mother \"she's fine\" and threatened to shoot her if she called police",
+    "link": "https://nypost.com/2026/04/29/us-news/florida-man-robert-anthony-morgan-allegedly-shot-woman-in-neck-dragged-her-back-inside-before-hiding-in-backyard-pool/",
+    "pubDate": "Wed, 29 Apr 2026 02:13:40 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-29T06:15:01.207Z"
+  },
+  {
+    "title": "Trump fires back at German Chancellor Merz’s Iran ‘humiliation’ comments",
+    "description": "President Donald Trump responded on Tuesday to German Chancellor Friedrich Merz’s criticism, claiming that the United States was being “humiliated” by Iran. The president’s retort questioned Merz’s geopolitical knowledge, claiming that the chancellor thinks it is permissible for Iran to have a nuclear weapon, which, Trump believes, is unquestionably wrong. “The Chancellor of Germany, Friedrich […]",
+    "link": "https://www.washingtonexaminer.com/news/4547218/trump-fires-back-at-german-chancellor-merzs-iran-humiliation-comments/",
+    "pubDate": "Wed, 29 Apr 2026 06:12:40 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "donald trump",
+      "europe",
+      "friedrich merz",
+      "germany",
+      "iran",
+      "iran nuclear program",
+      "president donald trump",
+      "truth social"
+    ],
+    "collectedAt": "2026-04-29T06:15:01.207Z"
   }
 ]
