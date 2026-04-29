@@ -174,10 +174,25 @@ function applyMapStyle(map, isDark) {
       map.setPaintProperty('country-label', 'text-halo-width', 1.5);
       map.setLayoutProperty('country-label', 'text-size', 20);
     } catch {}
+    try {
+      const style = map.getStyle();
+      if (style && style.layers) {
+        style.layers.forEach(layer => {
+          if (layer.id.startsWith('admin-1')) {
+            try {
+              map.setLayoutProperty(layer.id, 'visibility', 'visible');
+              map.setPaintProperty(layer.id, 'line-color', 'rgba(180,190,220,0.2)');
+              map.setPaintProperty(layer.id, 'line-width', 0.5);
+              map.setLayerZoomRange(layer.id, 3, 24);
+            } catch {}
+          }
+        });
+      }
+    } catch {}
   } else {
-    // Light mode — editorial monochrome: paint water, strip the road / POI /
-    // admin-1 / transit / natural-feature noise, but keep place labels so the
-    // map gives orientation context (countries, cities, oceans).
+    // Light mode — editorial monochrome: paint water, restyle admin-1 lines as
+    // subtle guides, strip road / POI / transit / natural-feature noise, but
+    // keep place labels so the map gives orientation context.
     try { map.setPaintProperty('water', 'fill-color', '#DCE5EC'); } catch {}
 
     try {
@@ -185,12 +200,20 @@ function applyMapStyle(map, isDark) {
       if (style && style.layers) {
         style.layers.forEach((layer) => {
           const id = layer.id;
+          if (id.startsWith('admin-1')) {
+            try {
+              map.setLayoutProperty(id, 'visibility', 'visible');
+              map.setPaintProperty(id, 'line-color', 'rgba(10,24,40,0.15)');
+              map.setPaintProperty(id, 'line-width', 0.5);
+              map.setLayerZoomRange(id, 3, 24);
+            } catch {}
+            return;
+          }
           if (
             id.startsWith('road') ||
             id.startsWith('bridge') ||
             id.startsWith('tunnel') ||
             id.startsWith('ferry') ||
-            id.startsWith('admin-1') ||
             id.startsWith('poi') ||
             id.startsWith('natural') ||
             id.startsWith('transit') ||
@@ -251,6 +274,42 @@ function applyMapStyle(map, isDark) {
       map.setPaintProperty('country-borders', 'line-color', isDark ? 'rgba(180,190,220,0.6)' : '#0A1828');
       map.setPaintProperty('country-borders', 'line-width', isDark ? 0.8 : 0.5);
       map.setPaintProperty('country-borders', 'line-opacity', isDark ? 0.6 : 0.65);
+    }
+    if (!map.getSource('state-boundary')) {
+      map.addSource('state-boundary', {
+        type: 'geojson',
+        data: { type: 'FeatureCollection', features: [] },
+      });
+    }
+    if (!map.getLayer('state-highlight')) {
+      map.addLayer({
+        id: 'state-highlight',
+        type: 'fill',
+        source: 'state-boundary',
+        paint: {
+          'fill-color': isDark ? '#e8c547' : '#9A7200',
+          'fill-opacity': isDark ? 0.18 : 0.13,
+        },
+      });
+    } else {
+      map.setPaintProperty('state-highlight', 'fill-color', isDark ? '#e8c547' : '#9A7200');
+      map.setPaintProperty('state-highlight', 'fill-opacity', isDark ? 0.18 : 0.13);
+    }
+    if (!map.getLayer('state-border')) {
+      map.addLayer({
+        id: 'state-border',
+        type: 'line',
+        source: 'state-boundary',
+        paint: {
+          'line-color': isDark ? 'rgba(232,197,71,0.7)' : '#9A7200',
+          'line-width': 1,
+          'line-opacity': isDark ? 0.7 : 0.65,
+        },
+      });
+    } else {
+      map.setPaintProperty('state-border', 'line-color', isDark ? 'rgba(232,197,71,0.7)' : '#9A7200');
+      map.setPaintProperty('state-border', 'line-width', 1);
+      map.setPaintProperty('state-border', 'line-opacity', isDark ? 0.7 : 0.65);
     }
   } catch {}
 }
