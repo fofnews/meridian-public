@@ -470,6 +470,9 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
     const onStyleLoad = () => {
       styleLoadCallbackRef.current = null;
       applyMapStyle(map, pendingIsDarkRef.current);
+      if (currentPolygonRef.current && map.getSource('state-boundary')) {
+        map.getSource('state-boundary').setData(currentPolygonRef.current);
+      }
     };
     styleLoadCallbackRef.current = onStyleLoad;
     map.once('style.load', onStyleLoad);
