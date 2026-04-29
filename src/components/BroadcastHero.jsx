@@ -271,6 +271,7 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
   // If a fly-to is requested before the map finishes loading, we stash the
   // target here so the init effect can apply it once the map is ready.
   const pendingFlyRef = useRef(null);
+  const currentPolygonRef = useRef(null);
 
   // Clock
   useEffect(() => {
@@ -337,6 +338,12 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
           marker.setLngLat([loc.lng, loc.lat]);
           if (map.getLayer('country-highlight')) {
             map.setFilter('country-highlight', ['==', 'iso_3166_1', loc.iso ?? '']);
+          }
+          currentPolygonRef.current = loc.polygon ?? null;
+          if (map.getSource('state-boundary')) {
+            map.getSource('state-boundary').setData(
+              loc.polygon ?? { type: 'FeatureCollection', features: [] }
+            );
           }
         };
         if (map.loaded()) go(); else map.once('load', go);
@@ -427,9 +434,6 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
   const featuredLocations = featured?.analysis?.locations?.filter(l => l?.lat != null && l?.lng != null) ?? [];
 
   const flyToLocation = (loc) => {
-    // If the map hasn't finished loading yet, stash the target so the
-    // init effect can apply it when ready. Overwrites any prior pending
-    // target so only the most recent click wins.
     if (!mapRef.current) {
       pendingFlyRef.current = loc;
       return;
@@ -440,6 +444,12 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
       markerRef.current?.setLngLat([loc.lng, loc.lat]);
       if (map.getLayer('country-highlight')) {
         map.setFilter('country-highlight', ['==', 'iso_3166_1', loc.iso ?? '']);
+      }
+      currentPolygonRef.current = loc.polygon ?? null;
+      if (map.getSource('state-boundary')) {
+        map.getSource('state-boundary').setData(
+          loc.polygon ?? { type: 'FeatureCollection', features: [] }
+        );
       }
     };
     if (map.loaded()) go(); else map.once('load', go);
