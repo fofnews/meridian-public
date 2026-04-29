@@ -1004,7 +1004,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
       "active": true,
       "entries": [
         {
@@ -1376,6 +1376,11 @@
           "date": "2026-04-28",
           "edition": "evening",
           "update": "Trump posted on Truth Social claiming Iran informed the U.S. it is in a 'state of collapse,' and Iran reportedly requested the U.S. reopen the Strait of Hormuz. The national average gas price reached $4.18 per gallon on Tuesday, linked to the ongoing conflict. A Reuters/Ipsos poll recorded Trump's approval rating at a record low, with the war with Iran and cost-of-living concerns cited as driving factors."
+        },
+        {
+          "date": "2026-04-29",
+          "edition": "evening",
+          "update": "Defense Secretary Pete Hegseth testified before Congress regarding the Pentagon's budget in his first public congressional hearing since the war with Iran began."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2204,5 +2209,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-04-29T11:03:55.757Z"
+  "updatedAt": "2026-04-29T21:04:15.261Z"
 }
