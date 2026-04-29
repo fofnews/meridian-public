@@ -52,10 +52,35 @@ function extractLocationQuery(headline) {
   return places.slice(0, 2).join(' ') || null;
 }
 
+async function fetchBoundaryPolygon(name, iso) {
+  if (!name) return null;
+  const cacheKey = `poly:${name}:${iso ?? ''}`;
+  if (geocodeCache[cacheKey] !== undefined) return geocodeCache[cacheKey];
+
+  try {
+    const q = iso ? `${name}, ${iso}` : name;
+    const url = `https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(q)}&format=json&limit=1&polygon_geojson=1&polygon_threshold=0.005`;
+    const res = await fetch(url, { headers: { 'Accept-Language': 'en', 'User-Agent': 'TheMeridian/1.0' } });
+    const data = await res.json();
+    if (data.length) {
+      const geojson = data[0].geojson;
+      if (geojson && (geojson.type === 'Polygon' || geojson.type === 'MultiPolygon')) {
+        const polygon = { type: 'Feature', geometry: geojson, properties: {} };
+        geocodeCache[cacheKey] = polygon;
+        return polygon;
+      }
+    }
+  } catch (e) {
+    console.warn('Boundary fetch failed:', e);
+  }
+  geocodeCache[cacheKey] = null;
+  return null;
+}
+
 async function geocodeStory(story) {
   if (geocodeCache[story.id]) return geocodeCache[story.id];
 
-  const fallback = { lng: 0, lat: 20, zoom: 1.0 };
+  const fallback = { lng: 0, lat: 20, zoom: 1.0, polygon: null };
   const locationQuery = extractLocationQuery(story.headline);
   if (!locationQuery) {
     geocodeCache[story.id] = fallback;
@@ -63,11 +88,15 @@ async function geocodeStory(story) {
   }
 
   try {
-    const url = `https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(locationQuery)}&format=json&limit=1`;
+    const url = `https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(locationQuery)}&format=json&limit=1&polygon_geojson=1&polygon_threshold=0.005`;
     const res = await fetch(url, { headers: { 'Accept-Language': 'en', 'User-Agent': 'TheMeridian/1.0' } });
     const data = await res.json();
     if (data.length) {
-      const result = { lng: parseFloat(data[0].lon), lat: parseFloat(data[0].lat), zoom: getStoryZoom() };
+      const geojson = data[0].geojson;
+      const polygon = (geojson && (geojson.type === 'Polygon' || geojson.type === 'MultiPolygon'))
+        ? { type: 'Feature', geometry: geojson, properties: {} }
+        : null;
+      const result = { lng: parseFloat(data[0].lon), lat: parseFloat(data[0].lat), zoom: getStoryZoom(), polygon };
       geocodeCache[story.id] = result;
       return result;
     }
