@@ -135,7 +135,7 @@ export default function AnalysisView({ analysis }) {
           >
             <div className="flex items-center gap-2">
               <FileText className="w-4 h-4" style={{ color: 'var(--section-facts-accent)' }} />
-              <span className="text-sm font-semibold" style={{ color: 'var(--section-facts-title)' }}>Confirmed Facts</span>
+              <span className="text-sm font-semibold" style={{ color: 'var(--section-facts-title)' }}>Reported Facts</span>
               <span className="text-xs" style={{ color: 'var(--section-facts-accent)' }}>({analysis.facts.length})</span>
             </div>
             {open.facts

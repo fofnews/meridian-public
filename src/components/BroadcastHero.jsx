@@ -84,7 +84,7 @@ function buildChyronSub(analysis) {
   const agreements = analysis.agreements?.length ?? 0;
   const disagreements = analysis.disagreements?.length ?? 0;
   const facts = analysis.facts?.length ?? 0;
-  if (facts > 0) return `${facts} confirmed facts extracted`;
+  if (facts > 0) return `${facts} reported facts extracted`;
   const parts = [];
   if (agreements > 0) parts.push(`${agreements} source agreement${agreements !== 1 ? 's' : ''}`);
   if (disagreements > 0) parts.push(`${disagreements} disagreement${disagreements !== 1 ? 's' : ''}`);
