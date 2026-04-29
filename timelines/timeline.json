@@ -2100,7 +2100,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-04-28",
+      "lastSeen": "2026-04-29",
       "active": true
     },
     {
@@ -2187,7 +2187,22 @@
           "update": "An Austrian man is on trial in Austria for allegedly plotting a terrorist attack on a Taylor Swift concert in Vienna, with prosecutors alleging ties to the Islamic State."
         }
       ]
+    },
+    {
+      "id": "cuba-military-intervention",
+      "title": "Cuba Military Intervention",
+      "parentId": "middle-east-military-conflicts-2026",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-04-29",
+          "edition": "morning",
+          "update": "The U.S. Senate blocked a Democratic-led resolution challenging Trump's military authority over Cuba, with Republican senators voting against advancing the measure."
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-04-28T21:05:41.976Z"
+  "updatedAt": "2026-04-29T11:03:55.757Z"
 }
