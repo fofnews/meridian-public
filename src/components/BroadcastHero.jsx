@@ -523,7 +523,10 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
     if (!featured) return;
     setActiveLocIdx(0);
     if (featuredLocations.length > 0) {
-      flyToLocation(featuredLocations[0]);
+      const loc = featuredLocations[0];
+      fetchBoundaryPolygon(loc.name, loc.iso).then(polygon => {
+        flyToLocation({ ...loc, polygon });
+      });
     } else {
       geocodeStory(featured).then((coords) => flyToLocation(coords));
     }
@@ -726,7 +729,12 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
               {featuredLocations.map((loc, i) => (
                 <button
                   key={loc.name}
-                  onClick={() => { setActiveLocIdx(i); flyToLocation(loc); }}
+                  onClick={() => {
+                    setActiveLocIdx(i);
+                    fetchBoundaryPolygon(loc.name, loc.iso).then(polygon => {
+                      flyToLocation({ ...loc, polygon });
+                    });
+                  }}
                   className="cursor-pointer transition-all"
                   style={{
                     background: activeLocIdx === i ? 'rgba(232,197,71,0.2)' : btnBg,
