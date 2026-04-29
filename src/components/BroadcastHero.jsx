@@ -78,7 +78,7 @@ async function fetchBoundaryPolygon(name, iso) {
 }
 
 async function geocodeStory(story) {
-  if (geocodeCache[story.id]) return geocodeCache[story.id];
+  if (geocodeCache[story.id] !== undefined) return geocodeCache[story.id];
 
   const fallback = { lng: 0, lat: 20, zoom: 1.0, polygon: null };
   const locationQuery = extractLocationQuery(story.headline);
