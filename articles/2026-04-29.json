@@ -803,5 +803,51 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-29T08:30:01.627Z"
+  },
+  {
+    "title": "King Charles argues for stronger cooperation in speech to a joint meeting of Congress",
+    "description": "In an address before a joint meeting of Congress on Tuesday, King Charles III sought to highlight the importance of the transatlantic relationship between the United States and Great Britain.",
+    "link": "https://www.npr.org/2026/04/29/nx-s1-5802955/king-charles-argues-for-stronger-cooperation-in-speech-to-a-joint-meeting-of-congress",
+    "pubDate": "Wed, 29 Apr 2026 04:36:54 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-04-29T08:45:02.190Z"
+  },
+  {
+    "title": "Trump Says No More Mr Nice Guy, Brandishes Gun In New Iran Warning on Deal",
+    "description": "President Donald Trump shared the image as he warned Iran better \"get smart soon\"",
+    "link": "https://www.newsweek.com/donald-trump-gun-iran-peace-deal-11891398",
+    "pubDate": "Wed, 29 Apr 2026 04:40:25 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-29T08:45:02.190Z"
+  },
+  {
+    "title": "Smokey Bones abruptly closes locations as NY closure sparks wave of surprise shutdowns",
+    "description": "The BBQ chain abruptly shut down its Colonie, NY location on April 28, part of a fast-moving wave of closures sweeping across the country after its parent company FAT Brands Inc. filed for bankruptcy earlier this year.",
+    "link": "https://nypost.com/2026/04/29/business/smokey-bones-bbq-abruptly-shuts-us-restaurants-after-filing-for-bankruptcy/",
+    "pubDate": "Wed, 29 Apr 2026 04:37:21 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-29T08:45:02.190Z"
+  },
+  {
+    "title": "James Comey posts video in response to new DOJ indictment",
+    "description": "Former FBI Director James Comey was indicted by the Department of Justice on Tuesday over an Instagram photo from May 2025 of seashells in the sand spelling out “86 47,” a message that some have claimed was a subliminal threat calling to end the life of President Donald Trump. After Tuesday’s indictment was announced, Comey […]",
+    "link": "https://www.washingtonexaminer.com/news/4547292/james-comey-posts-video-in-response-to-new-doj-indictment/",
+    "pubDate": "Wed, 29 Apr 2026 08:37:03 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "justice",
+      "news",
+      "department of justice",
+      "donald trump",
+      "fbi",
+      "indictments",
+      "james comey",
+      "todd blanche",
+      "trump administration"
+    ],
+    "collectedAt": "2026-04-29T08:45:02.190Z"
   }
 ]
