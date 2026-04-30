@@ -2,19 +2,72 @@
 
 Goal: turn `BroadcastHero`'s Mapbox map from an interactive info widget into a video-grade backdrop for news clips generated from Meridian reports, then build the recording pipeline that turns each daily edition into publishable video.
 
-**Status:** 0 / 19 complete · Last updated: 2026-04-30
+**Status:** 0 / 23 complete · Last updated: 2026-04-30
 
 To resume work in a new session: ask Claude to read `docs/map-broadcast-checklist.md`.
 
-Two phases:
-- **Phase 1 (items 1–13):** make the map look broadcast-grade.
+Three phases:
+- **Phase 0 (items 0a–0d):** architecture — one map identity, two surfaces (website + video). Land before any visual work in Phase 1, otherwise items 1–10 will need to be reworked.
+- **Phase 1 (items 1–13):** make the map look broadcast-grade. All visual changes land in the shared kernel and propagate to both surfaces automatically.
 - **Phase 2 (items 14–19):** turn that backdrop into recorded, narrated, publishable video clips.
 
-Recommended order: build the headless render harness (#16) early — by the time item ~5 lands — so each visual change can be reviewed as actual encoded video, not just live browser. Live preview lies; encoded output reveals judder.
+Recommended order: finish Phase 0 first. Build the headless render harness (#16) early — by the time item ~5 lands — so each visual change can be reviewed as actual encoded video, not just live browser. Live preview lies; encoded output reveals judder.
+
+---
+
+# Phase 0 — Architecture: one identity, two surfaces
+
+The map appears in two places with the same visual identity but different behavior: the **website** (interactive, ambient, responsive) and the **video** (scripted, cinematic, fixed aspect). Avoid two parallel implementations — extract a shared kernel, then build thin wrappers per surface.
+
+What's shared (lives in the kernel): style file, projection, fog, color palette, label typography, marker, country highlight, graticule, terminator, source-to-story arcs.
+
+What diverges (lives in wrappers): camera pitch + bearing, fly duration, interactive controls, aspect ratio, ambient state, chyron / ticker / LIVE badge / scanlines (video only — see 0d).
+
+- [ ] **0a. Extract shared map kernel**
+  - New module layout:
+    ```
+    src/map/
+      kernel.js   — creates Map, applies meridian.style.json, sets fog/projection,
+                    attaches shared layers (graticule, country-highlight,
+                    state-boundary, source-arcs)
+      layers.js   — layer factories (highlight, arcs, terminator)
+      marker.js   — radar-pulse marker factory
+      camera.js   — camera presets, easing curves, shot interpolation
+      sources.js  — outlet HQ → lat/lng lookup (for arcs)
+    ```
+  - Refactor current `BroadcastHero.jsx` to consume `kernel.create(container, options)` without changing visual behavior (pure refactor; no design changes yet)
+  - Pre-requisite for everything else — without this, Phase 1 items 1–10 become copy-paste between two components and drift over time
+
+- [ ] **0b. Define website "ambient mode"**
+  - Default state when no story is focused: globe view, all current edition's story locations visible as dim secondary markers, slow bearing rotation (~0.5°/sec)
+  - On story click / flyTo: brighten the active marker, draw source arcs, pitch up to ~30° (less dramatic than video's 45–60°)
+  - Idle timeout: return to ambient ~30s after last interaction
+  - Throttle bearing rotation when tab is backgrounded (`document.hidden`)
+  - Document the chosen rates / timeouts in `src/map/camera.js`
+
+- [ ] **0c. Globe-vs-flat strategy for mobile**
+  - Test globe projection on mid-range Android (Pixel 6a class) — measure FPS during ambient rotation and during flyTo
+  - If unacceptable, fall back to flat mercator below a viewport threshold (e.g. <600px width) while keeping the same `meridian.style.json`
+  - Brand identity should degrade gracefully, not break — same colors, labels, markers regardless of projection
+  - Document the decision in `src/map/kernel.js`
+
+- [ ] **0d. Move broadcast-costume elements to video-only surface**
+  - The chyron (upper + lower bars), LIVE badge, scrolling ticker, and CRT scanlines all currently render on the website surface inside `BroadcastHero.jsx`. Move them to the video wrapper only.
+  - Concretely on the website:
+    - Remove the upper/lower chyron bars (the headline + edition info bars beneath the map)
+    - Remove the red `LIVE` badge from the top bar
+    - Remove the scrolling gold ticker beneath the map
+    - Remove the `.scanlines` overlay div
+  - Replace with a minimal status strip on the website: edition label (`Morning · Apr 30`) + freshness indicator (`Updated 2h ago`) + the existing top-bar `THE MERIDIAN` wordmark and clock. Sober, not theatrical.
+  - The map itself stays cinematic on the website (globe, glow, marker, arcs) — only the surrounding TV-graphics chrome moves.
+  - Create `src/components/BroadcastStage.jsx` (new) that wraps the kernel + chyron + LIVE + ticker + grain overlay. This is what `?mode=broadcast` renders.
+  - The website route renders a new lighter wrapper (`InteractiveMap.jsx` or rename `BroadcastHero.jsx` → `MapHero.jsx`) that wraps the kernel + the minimal status strip only.
 
 ---
 
 # Phase 1 — Map as broadcast backdrop
+
+All Phase 1 items land in the shared kernel (Phase 0a) unless otherwise noted. Both surfaces inherit changes automatically.
 
 ## Priority 1 — Highest visual impact
 
@@ -79,10 +132,11 @@ Recommended order: build the headless render harness (#16) early — by the time
   - Disable map +/-/expand/minimize controls in this mode
   - Respect title-safe zone: keep marker / focus point in upper 60% of frame, chyron + ticker in bottom 20%
 
-- [ ] **12. Drop CRT scanlines for video, replace with subtle grain**
-  - Remove or gate the `.scanlines` overlay behind `mode !== 'broadcast'`
-  - Add a low-opacity animated film-grain canvas/SVG noise as replacement
-  - Test through a YouTube-style re-encode to confirm no moiré/aliasing
+- [ ] **12. Add subtle film grain to video surface**
+  - Scanlines have already been removed from both surfaces in 0d (they fail under encoding — moiré + aliasing on YouTube/TikTok re-encode)
+  - Add a low-opacity animated film-grain canvas/SVG noise overlay to `BroadcastStage.jsx` only
+  - Should survive a YouTube-style re-encode without aliasing — test before declaring done
+  - Do not add grain to the website surface (item 0d keeps the website sober)
 
 - [ ] **13. Reliability + licensing for recorded output**
   - Remove the headline-word geocoder fallback (`extractLocationQuery` in `BroadcastHero.jsx`) for broadcast mode — only use `analysis.locations` from the report (a wrong geocode reads as a factual error on video)
