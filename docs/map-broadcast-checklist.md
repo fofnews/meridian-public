@@ -1,12 +1,20 @@
 # Map → Broadcast Backdrop Checklist
 
-Goal: turn `BroadcastHero`'s Mapbox map from an interactive info widget into a video-grade backdrop for news clips generated from Meridian reports.
+Goal: turn `BroadcastHero`'s Mapbox map from an interactive info widget into a video-grade backdrop for news clips generated from Meridian reports, then build the recording pipeline that turns each daily edition into publishable video.
 
-**Status:** 0 / 13 complete · Last updated: 2026-04-30
+**Status:** 0 / 19 complete · Last updated: 2026-04-30
 
 To resume work in a new session: ask Claude to read `docs/map-broadcast-checklist.md`.
 
+Two phases:
+- **Phase 1 (items 1–13):** make the map look broadcast-grade.
+- **Phase 2 (items 14–19):** turn that backdrop into recorded, narrated, publishable video clips.
+
+Recommended order: build the headless render harness (#16) early — by the time item ~5 lands — so each visual change can be reviewed as actual encoded video, not just live browser. Live preview lies; encoded output reveals judder.
+
 ---
+
+# Phase 1 — Map as broadcast backdrop
 
 ## Priority 1 — Highest visual impact
 
@@ -80,6 +88,75 @@ To resume work in a new session: ask Claude to read `docs/map-broadcast-checklis
   - Remove the headline-word geocoder fallback (`extractLocationQuery` in `BroadcastHero.jsx`) for broadcast mode — only use `analysis.locations` from the report (a wrong geocode reads as a factual error on video)
   - Confirm Mapbox commercial-use licensing for recorded video, OR add attribution to video credits
   - Document the recording pipeline (Puppeteer/Playwright/OBS?) once chosen
+
+---
+
+# Phase 2 — Recording pipeline
+
+Goal: take a daily report + the broadcast-grade map and produce a final `.mp4` per platform, automatically.
+
+Pipeline shape: **report JSON → shot list JSON → headless browser playback → silent video → narration mux → per-platform encode**.
+
+## Priority 5 — Choreography + render plumbing
+
+- [ ] **14. Shot-list generator (`scripts/build-shotlist.js`)**
+  - Input: an edition (`2026-04-30-evening`)
+  - Output: `out/shotlists/<edition>.json` matching the schema below
+  - Pull camera targets from `analysis.locations` for each top story; pull narration text from `analysis.summary` plus 1–2 key agreements/disagreements
+  - Estimate per-shot duration heuristically (≈15 chars/sec for TTS) and stash it as `hold`
+  - Cap clip length (e.g. 90s default) by selecting top-N stories
+  - Schema:
+    ```json
+    {
+      "edition": "2026-04-30-evening",
+      "aspect": "16:9",
+      "duration": 90,
+      "shots": [
+        { "t": 0, "camera": { "lng": -75.16, "lat": 39.95, "zoom": 5, "pitch": 50, "bearing": -10 },
+          "chyron": { "label": "BREAKING", "headline": "..." },
+          "narration": "...",
+          "hold": 8 }
+      ]
+    }
+    ```
+
+- [ ] **15. Timeline-driven render mode (extends #11)**
+  - Accept `?shotlist=<url-or-path>` in addition to `?mode=broadcast`
+  - On load, fetch the shot list, then drive `flyTo`, chyron updates, marker updates, source-arc draws on a wall-clock timeline starting at first paint
+  - Critical: chyron / label changes happen **during** the camera move, not before/after — DOM state must match camera state every frame
+  - When the last shot finishes, set `window.__meridianClipDone = true` so the recorder knows to stop
+  - Add a 1s pre-roll black frame and 1s post-roll fade so encoders don't clip the first/last beat
+
+- [ ] **16. Headless render harness (`scripts/record-clip.js`)**
+  - Playwright launching Chromium at fixed viewport (1920×1080 for 16:9, 1080×1920 for 9:16)
+  - Navigate to `http://localhost:3002/?mode=broadcast&shotlist=/out/shotlists/<edition>.json`
+  - Use `recordVideo` context option to capture .webm, OR `page.screencast` if newer Playwright
+  - Wait for `window.__meridianClipDone === true` (with a generous timeout) before closing context (closing flushes the file)
+  - CLI: `node scripts/record-clip.js --edition=2026-04-30-evening --aspect=16:9 --out=out/raw/<edition>.webm`
+  - Defer frame-by-frame deterministic rendering — only revisit if real-time capture produces visible jitter
+
+## Priority 6 — Audio + finalize
+
+- [ ] **17. Narration pipeline (`scripts/synthesize-narration.js`)**
+  - For each shot in the shot list, synthesize TTS from `narration` text via chosen provider (ElevenLabs preferred for quality; OpenAI TTS as cheaper fallback)
+  - Pin a single voice ID for brand consistency; document it in `docs/voice.md`
+  - Save `out/audio/<edition>/shot-<n>.wav`
+  - Concatenate with silence padding so each shot's audio starts at its `t` offset → `out/audio/<edition>/full.wav`
+  - Fail gracefully if narration field is empty (silent gap rather than crash)
+
+- [ ] **18. ffmpeg mux + per-platform encode (`scripts/finalize-clip.js`)**
+  - Inputs: silent video, narration WAV, optional bed music
+  - Mix narration loud (1.0) + bed music low (0.10–0.15) via `amix`
+  - Master encode: `libx264 -crf 18 -pix_fmt yuv420p -c:a aac -b:a 192k`
+  - Loudness-normalize: −14 LUFS for YouTube, −16 LUFS for TikTok (loudnorm filter, two-pass)
+  - Per-platform variants: 16:9 master, 9:16 crop (smart-cropped to keep marker/focus in frame — may need shot-list metadata flag), 1:1 if needed
+  - Output: `out/final/<edition>-<platform>.mp4` plus thumbnail PNG per variant
+
+- [ ] **19. End-to-end recipe (`npm run produce-clip`)**
+  - One command takes you from edition ID to publishable files: build shotlist → record → narrate → mux → encode all variants
+  - Exit non-zero on any stage failure with clear stage label
+  - Smoke test: produces a watchable 30s clip from a real edition without manual intervention
+  - This is the acceptance test for Phase 2 — until this works, the project isn't done
 
 ---
 
