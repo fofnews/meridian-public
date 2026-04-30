@@ -162,5 +162,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-30T05:00:01.329Z"
+  },
+  {
+    "title": "'We will kill you and burn your house': Council staff under attack from High Street gangs",
+    "description": "Dozens of Trading Standards officers describe intimidation from criminals running mini-marts and vape shops.",
+    "link": "https://www.bbc.com/news/articles/cdxplq92rx1o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 30 Apr 2026 05:00:04 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-30T05:15:01.320Z"
+  },
+  {
+    "title": "New Zealand court denies bid by mosque mass shooter to appeal conviction",
+    "description": "Brenton Tarrant shot dead 51 Muslim worshippers, including children, at two Christchurch mosques in 2019.",
+    "link": "https://www.aljazeera.com/news/2026/4/30/new-zealand-court-denies-bid-by-mosque-mass-shooter-to-appeal-conviction?traffic_source=rss",
+    "pubDate": "Thu, 30 Apr 2026 04:54:50 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-30T05:15:01.320Z"
   }
 ]
