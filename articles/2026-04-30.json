@@ -211,5 +211,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-30T05:30:01.152Z"
+  },
+  {
+    "title": "What we know about the Golders Green stabbings",
+    "description": "Two Jewish men have been stabbed in Golders Green, north London, an attack police have declared a terrorist incident.",
+    "link": "https://www.bbc.com/news/articles/cvgzdn665x6o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 30 Apr 2026 05:37:58 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-30T05:45:01.346Z"
+  },
+  {
+    "title": "Can the EU’s Article 42.7 offer Europe NATO-like collective defence?",
+    "description": "Several European leaders have called for a discussion on using the bloc's own mutual assistant clause amid US tensions",
+    "link": "https://www.aljazeera.com/news/2026/4/30/can-the-eus-article-42-7-offer-europe-nato-like-collective-defence?traffic_source=rss",
+    "pubDate": "Thu, 30 Apr 2026 05:23:55 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-30T05:45:01.346Z"
   }
 ]
