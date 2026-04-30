@@ -45,5 +45,53 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-30T04:30:01.353Z"
+  },
+  {
+    "title": "Oil jumps to highest price since 2022 after report Trump to be briefed on new Iran options",
+    "description": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+    "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 30 Apr 2026 04:06:01 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-30T04:45:01.255Z"
+  },
+  {
+    "title": "Newspaper headlines: 'Terror on our streets' and 'UK antisemitism out of control'",
+    "description": "The stabbing of two Jewish men in north London being declared a terrorist incident dominates Thursday's papers.",
+    "link": "https://www.bbc.com/news/articles/cpwp5xv2kg1o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 30 Apr 2026 04:37:12 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-04-30T04:45:01.255Z"
+  },
+  {
+    "title": "Rising Fuel Prices Could Force Excruciating Choices on Economic Policies",
+    "description": "The European Central Bank and Bank of England were expected to hold interest rates steady on Thursday while searching for signs of possible longer-term damage.",
+    "link": "https://www.nytimes.com/2026/04/30/business/bank-of-england-european-central-bank.html",
+    "pubDate": "Thu, 30 Apr 2026 04:01:12 +0000",
+    "source": "NY Times",
+    "categories": [
+      "bank of england",
+      "european central bank",
+      "banking and financial institutions",
+      "us and israeli attack on iran (2026)",
+      "prices (fares, fees and rates)",
+      "oil (petroleum) and gasoline",
+      "inflation (economics)",
+      "economic conditions and trends",
+      "trump, donald j",
+      "great britain",
+      "europe"
+    ],
+    "collectedAt": "2026-04-30T04:45:01.255Z"
+  },
+  {
+    "title": "NYC driver who randomly attacked 5 strangers was working for Amazon during unhinged rampage",
+    "description": "The driver's violent rampage was only stopped when the son of his final victim held him down until cops arrived.",
+    "link": "https://nypost.com/2026/04/30/us-news/nyc-driver-who-randomly-attacked-5-strangers-was-working-for-amazon-during-unhinged-rampage/",
+    "pubDate": "Thu, 30 Apr 2026 00:32:54 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-30T04:45:01.255Z"
   }
 ]
