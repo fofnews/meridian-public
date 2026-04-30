@@ -17010,5 +17010,56 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-30T02:45:01.462Z"
+  },
+  {
+    "title": "House adopts Senate-approved budget resolution to unlock ICE funding",
+    "description": "The budget blueprint is the first step in Republicans' two-pronged plan to end the Department of Homeland Security shutdown.",
+    "link": "https://www.cbsnews.com/news/house-vote-senate-approved-budget-resolution-ice-funding/",
+    "pubDate": "Wed, 29 Apr 2026 22:53:55 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-04-30T03:00:01.301Z"
+  },
+  {
+    "title": "Former Colorado QB Takes Subtle Shot at Deion Sanders After NFL Draft",
+    "description": "Ex-Colorado QB Kaidon Salter turned some heads with a social media message that seemed to be a shot at Deion Sanders.",
+    "link": "https://www.newsweek.com/sports/ncaa/former-colorado-qb-takes-subtle-shot-at-deion-sanders-after-nfl-draft-11896460",
+    "pubDate": "Wed, 29 Apr 2026 22:51:19 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-30T03:00:01.301Z"
+  },
+  {
+    "title": "House GOP advances $70 billion in ICE and CBP funding via reconciliation",
+    "description": "House Republicans advanced a narrow party-line spending bill on Wednesday to fund border enforcement despite many Republicans hoping for broader measures that could boost their chances in the 2026 midterm elections. The bill passed the House, 215-211, with no Republicans joining almost every single Democrat in opposition, and Rep. Kevin Kiley (I-CA) voting “present.” GOP […]",
+    "link": "https://www.washingtonexaminer.com/news/house/4548553/house-gop-ice-cbp-funding-reconciliation/",
+    "pubDate": "Thu, 30 Apr 2026 02:45:14 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "house",
+      "immigration",
+      "customs and border protection",
+      "department of homeland security",
+      "house of representatives",
+      "ice",
+      "reconciliation"
+    ],
+    "collectedAt": "2026-04-30T03:00:01.301Z"
+  },
+  {
+    "title": "DC mayoral debate sees candidates clash on public safety, housing, and more",
+    "description": "Washington, D.C., mayoral candidates Janeese Lewis George and Kenyan McDuffie squared off in their first debate Wednesday, offering different visions on housing, public safety, and economic development eight weeks before the Democratic primary. The debate marks the first faceoff in the race to succeed Mayor Muriel Bowser, who announced she will not seek a fourth […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/state/4548966/dc-mayor-debate-public-safety-housing/",
+    "pubDate": "Thu, 30 Apr 2026 02:35:36 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "state",
+      "2026 elections",
+      "debates",
+      "democrats",
+      "mayors",
+      "washington d.c"
+    ],
+    "collectedAt": "2026-04-30T03:00:01.301Z"
   }
 ]
