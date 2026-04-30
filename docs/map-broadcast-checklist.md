@@ -2,7 +2,7 @@
 
 Goal: turn `BroadcastHero`'s Mapbox map from an interactive info widget into a video-grade backdrop for news clips generated from Meridian reports, then build the recording pipeline that turns each daily edition into publishable video.
 
-**Status:** 0 / 23 complete · Last updated: 2026-04-30
+**Status:** 1 / 23 complete · Last updated: 2026-04-30
 
 To resume work in a new session: ask Claude to read `docs/map-broadcast-checklist.md`.
 
@@ -23,20 +23,9 @@ What's shared (lives in the kernel): style file, projection, fog, color palette,
 
 What diverges (lives in wrappers): camera pitch + bearing, fly duration, interactive controls, aspect ratio, ambient state, chyron / ticker / LIVE badge / scanlines (video only — see 0d).
 
-- [ ] **0a. Extract shared map kernel**
-  - New module layout:
-    ```
-    src/map/
-      kernel.js   — creates Map, applies meridian.style.json, sets fog/projection,
-                    attaches shared layers (graticule, country-highlight,
-                    state-boundary, source-arcs)
-      layers.js   — layer factories (highlight, arcs, terminator)
-      marker.js   — radar-pulse marker factory
-      camera.js   — camera presets, easing curves, shot interpolation
-      sources.js  — outlet HQ → lat/lng lookup (for arcs)
-    ```
-  - Refactor current `BroadcastHero.jsx` to consume `kernel.create(container, options)` without changing visual behavior (pure refactor; no design changes yet)
-  - Pre-requisite for everything else — without this, Phase 1 items 1–10 become copy-paste between two components and drift over time
+- [x] **0a. Extract shared map kernel**
+  - Created `src/map/{kernel,layers,marker,camera}.js`. `BroadcastHero.jsx` shrunk from 868 → 605 lines and now consumes `createMap`, `applyMapStyle`, `updatePulseMarkerTheme`, and `flyToLocation` from the kernel. Pure refactor — no visual changes. Build passes; Mapbox stays lazy-loaded in its own chunk.
+  - Deferred until needed: `sources.js` (lands with #9), `layers.js` separation of style-patches vs data-driven layers (lands with #2).
 
 - [ ] **0b. Define website "ambient mode"**
   - Default state when no story is focused: globe view, all current edition's story locations visible as dim secondary markers, slow bearing rotation (~0.5°/sec)
