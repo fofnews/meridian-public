@@ -1,36 +1,12 @@
 import { useState, useEffect, useRef } from 'react';
 import { decodeText } from '../utils';
 import { useTheme } from '../ThemeContext.jsx';
-
-// Mapbox is split into its own chunk (~500KB JS + CSS) via dynamic import so
-// it doesn't bloat the main bundle. We kick off the download eagerly when this
-// module parses so it fetches in parallel with the rest of the app's initial
-// render — closing the race where a user clicks a story before the map is ready.
-let mapboxPromise = null;
-function loadMapbox() {
-  if (!mapboxPromise) {
-    mapboxPromise = Promise.all([
-      import('mapbox-gl'),
-      import('mapbox-gl/dist/mapbox-gl.css'),
-    ]).then(([mod]) => {
-      const mapboxgl = mod.default;
-      mapboxgl.accessToken = import.meta.env.VITE_MAPBOX_TOKEN;
-      return mapboxgl;
-    });
-  }
-  return mapboxPromise;
-}
-
-// Start the download now; the init effect will await the same cached promise.
-loadMapbox().catch(() => {});
+import { createMap } from '../map/kernel.js';
+import { applyMapStyle } from '../map/layers.js';
+import { updatePulseMarkerTheme } from '../map/marker.js';
+import { getStoryZoom, getMapPadding, flyToLocation as kernelFlyTo } from '../map/camera.js';
 
 const CHYRON_LABELS = ['Breaking', 'Developing', 'Analysis', 'Report', 'Update', 'Exclusive'];
-
-const STORY_ZOOM_DESKTOP = 5;
-const STORY_ZOOM_MOBILE  = 4;
-function getStoryZoom() {
-  return window.innerWidth < 640 ? STORY_ZOOM_MOBILE : STORY_ZOOM_DESKTOP;
-}
 
 const geocodeCache = {};
 
@@ -125,195 +101,6 @@ function truncateHeadline(headline, maxLen = 72) {
   return decoded.length <= maxLen ? decoded : decoded.slice(0, maxLen - 1) + '…';
 }
 
-function createMarkerElement(isDark) {
-  const dotColor = isDark ? '#e8c547' : '#9A7200';
-  const ringColor = isDark ? 'rgba(232,197,71,0.45)' : 'rgba(154,114,0,0.45)';
-
-  const wrapper = document.createElement('div');
-  wrapper.style.cssText = 'position: relative; width: 10px; height: 10px;';
-
-  const ring = document.createElement('div');
-  ring.className = 'marker-ring';
-  ring.style.cssText = `
-    position: absolute;
-    width: 28px; height: 28px;
-    border-radius: 50%;
-    border: 1px solid ${ringColor};
-    top: 50%; left: 50%;
-    transform: translate(-50%, -50%);
-    pointer-events: none;
-  `;
-
-  const dot = document.createElement('div');
-  dot.className = isDark ? 'dot-pulse' : 'dot-pulse-light';
-  dot.style.cssText = `width: 10px; height: 10px; border-radius: 50%; background: ${dotColor};`;
-
-  wrapper.appendChild(ring);
-  wrapper.appendChild(dot);
-  return wrapper;
-}
-
-function getMapPadding(containerEl) {
-  const w = containerEl?.offsetWidth ?? window.innerWidth;
-  if (w < 640) return { top: 20, bottom: 80, left: 0, right: 0 };
-  if (w < 900) return { top: 30, bottom: 100, left: 0, right: 100 };
-  return { top: 40, bottom: 110, left: 0, right: 160 };
-}
-
-function applyMapStyle(map, isDark) {
-  // Land color — warm paper in light, dark navy in dark
-  try {
-    map.setPaintProperty('land', 'background-color', isDark ? '#222534' : '#F5F2ED');
-  } catch {}
-
-  if (isDark) {
-    // Dark mode preserves base style's labels, restyled for the broadcast look
-    try {
-      map.setPaintProperty('country-label', 'text-color', '#ffffff');
-      map.setPaintProperty('country-label', 'text-halo-color', 'rgba(0,0,0,0.6)');
-      map.setPaintProperty('country-label', 'text-halo-width', 1.5);
-      map.setLayoutProperty('country-label', 'text-size', 20);
-    } catch {}
-    try {
-      const style = map.getStyle();
-      if (style && style.layers) {
-        style.layers.forEach(layer => {
-          if (layer.id.startsWith('admin-1')) {
-            try {
-              map.setLayoutProperty(layer.id, 'visibility', 'visible');
-              map.setPaintProperty(layer.id, 'line-color', 'rgba(180,190,220,0.2)');
-              map.setPaintProperty(layer.id, 'line-width', 0.5);
-              map.setLayerZoomRange(layer.id, 3, 24);
-            } catch {}
-          }
-        });
-      }
-    } catch {}
-  } else {
-    // Light mode — editorial monochrome: paint water, restyle admin-1 lines as
-    // subtle guides, strip road / POI / transit / natural-feature noise, but
-    // keep place labels so the map gives orientation context.
-    try { map.setPaintProperty('water', 'fill-color', '#DCE5EC'); } catch {}
-
-    try {
-      const style = map.getStyle();
-      if (style && style.layers) {
-        style.layers.forEach((layer) => {
-          const id = layer.id;
-          if (id.startsWith('admin-1')) {
-            try {
-              map.setLayoutProperty(id, 'visibility', 'visible');
-              map.setPaintProperty(id, 'line-color', 'rgba(10,24,40,0.15)');
-              map.setPaintProperty(id, 'line-width', 0.5);
-              map.setLayerZoomRange(id, 3, 24);
-            } catch {}
-            return;
-          }
-          if (
-            id.startsWith('road') ||
-            id.startsWith('bridge') ||
-            id.startsWith('tunnel') ||
-            id.startsWith('ferry') ||
-            id.startsWith('poi') ||
-            id.startsWith('natural') ||
-            id.startsWith('transit') ||
-            id === 'waterway-label' ||
-            id === 'water-line-label'
-          ) {
-            try { map.setLayoutProperty(id, 'visibility', 'none'); } catch {}
-          }
-        });
-      }
-    } catch {}
-
-    // Tint country labels to match the navy/paper palette
-    try {
-      map.setPaintProperty('country-label', 'text-color', '#0A1828');
-      map.setPaintProperty('country-label', 'text-halo-color', 'rgba(245,242,237,0.85)');
-      map.setPaintProperty('country-label', 'text-halo-width', 1.5);
-    } catch {}
-  }
-
-  // Country highlight + border layers (re-added after every style change)
-  try {
-    if (!map.getSource('country-boundaries')) {
-      map.addSource('country-boundaries', {
-        type: 'vector',
-        url: 'mapbox://mapbox.country-boundaries-v1',
-      });
-    }
-    if (!map.getLayer('country-highlight')) {
-      map.addLayer({
-        id: 'country-highlight',
-        type: 'fill',
-        source: 'country-boundaries',
-        'source-layer': 'country_boundaries',
-        filter: ['==', 'iso_3166_1', ''],
-        paint: {
-          'fill-color': isDark ? '#e8c547' : '#9A7200',
-          'fill-opacity': isDark ? 0.18 : 0.13,
-        },
-      });
-    } else {
-      map.setPaintProperty('country-highlight', 'fill-color', isDark ? '#e8c547' : '#9A7200');
-      map.setPaintProperty('country-highlight', 'fill-opacity', isDark ? 0.18 : 0.13);
-    }
-    if (!map.getLayer('country-borders')) {
-      map.addLayer({
-        id: 'country-borders',
-        type: 'line',
-        source: 'country-boundaries',
-        'source-layer': 'country_boundaries',
-        paint: {
-          'line-color': isDark ? 'rgba(180,190,220,0.6)' : '#0A1828',
-          'line-width': isDark ? 0.8 : 0.5,
-          'line-opacity': isDark ? 0.6 : 0.65,
-        },
-      });
-    } else {
-      map.setPaintProperty('country-borders', 'line-color', isDark ? 'rgba(180,190,220,0.6)' : '#0A1828');
-      map.setPaintProperty('country-borders', 'line-width', isDark ? 0.8 : 0.5);
-      map.setPaintProperty('country-borders', 'line-opacity', isDark ? 0.6 : 0.65);
-    }
-    if (!map.getSource('state-boundary')) {
-      map.addSource('state-boundary', {
-        type: 'geojson',
-        data: { type: 'FeatureCollection', features: [] },
-      });
-    }
-    if (!map.getLayer('state-highlight')) {
-      map.addLayer({
-        id: 'state-highlight',
-        type: 'fill',
-        source: 'state-boundary',
-        paint: {
-          'fill-color': isDark ? '#e8c547' : '#9A7200',
-          'fill-opacity': isDark ? 0.18 : 0.13,
-        },
-      });
-    } else {
-      map.setPaintProperty('state-highlight', 'fill-color', isDark ? '#e8c547' : '#9A7200');
-      map.setPaintProperty('state-highlight', 'fill-opacity', isDark ? 0.18 : 0.13);
-    }
-    if (!map.getLayer('state-border')) {
-      map.addLayer({
-        id: 'state-border',
-        type: 'line',
-        source: 'state-boundary',
-        paint: {
-          'line-color': isDark ? 'rgba(232,197,71,0.7)' : '#9A7200',
-          'line-width': 1,
-          'line-opacity': isDark ? 0.7 : 0.65,
-        },
-      });
-    } else {
-      map.setPaintProperty('state-border', 'line-color', isDark ? 'rgba(232,197,71,0.7)' : '#9A7200');
-      map.setPaintProperty('state-border', 'line-width', 1);
-      map.setPaintProperty('state-border', 'line-opacity', isDark ? 0.7 : 0.65);
-    }
-  } catch {}
-}
-
 export default function BroadcastHero({ stories, selectedIdx, onSelect, edition, availableEditions = [], onEditionSelect }) {
   const { isDark } = useTheme();
   const EDITION_LABELS = { morning: '☀  Morning', evening: '🌙  Evening' };
@@ -361,30 +148,14 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
     if (!mapContainer.current || mapRef.current) return;
 
     let cancelled = false;
-    let map = null;
+    let mapInstance = null;
 
-    loadMapbox().then((mapboxgl) => {
-      if (cancelled || !mapContainer.current || mapRef.current) return;
-
-      map = new mapboxgl.Map({
-        container: mapContainer.current,
-        style: isDark ? 'mapbox://styles/mapbox/dark-v11' : 'mapbox://styles/mapbox/light-v11',
-        center: [0, 20],
-        zoom: 1.0,
-        interactive: true,
-        attributionControl: false,
-      });
-
-      map.on('load', () => {
-        map.resize();
-        map.setPadding(getMapPadding(mapContainer.current));
-        applyMapStyle(map, isDark);
-      });
-
-      const marker = new mapboxgl.Marker({ element: createMarkerElement(isDark), anchor: 'center' })
-        .setLngLat([0, 20])
-        .addTo(map);
-
+    createMap(mapContainer.current, { isDark }).then(({ map, marker }) => {
+      if (cancelled) {
+        map.remove();
+        return;
+      }
+      mapInstance = map;
       mapRef.current = map;
       markerRef.current = marker;
 
@@ -392,20 +163,8 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
       if (pendingFlyRef.current) {
         const loc = pendingFlyRef.current;
         pendingFlyRef.current = null;
-        const go = () => {
-          map.flyTo({ center: [loc.lng, loc.lat], zoom: loc.zoom ?? getStoryZoom(), duration: 2000, essential: true });
-          marker.setLngLat([loc.lng, loc.lat]);
-          if (map.getLayer('country-highlight')) {
-            map.setFilter('country-highlight', ['==', 'iso_3166_1', loc.iso ?? '']);
-          }
-          currentPolygonRef.current = loc.polygon ?? null;
-          if (map.getSource('state-boundary')) {
-            map.getSource('state-boundary').setData(
-              loc.polygon ?? { type: 'FeatureCollection', features: [] }
-            );
-          }
-        };
-        if (map.loaded()) go(); else map.once('load', go);
+        kernelFlyTo(map, marker, loc);
+        currentPolygonRef.current = loc.polygon ?? null;
       }
     }).catch((err) => {
       console.warn('Mapbox failed to load:', err);
@@ -413,8 +172,8 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
 
     return () => {
       cancelled = true;
-      if (map) {
-        map.remove();
+      if (mapInstance) {
+        mapInstance.remove();
       }
       mapRef.current = null;
       markerRef.current = null;
@@ -479,16 +238,7 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
 
     // Update marker colors to match new theme
     if (markerRef.current) {
-      const dotColor = isDark ? '#e8c547' : '#9A7200';
-      const ringColor = isDark ? 'rgba(232,197,71,0.45)' : 'rgba(154,114,0,0.45)';
-      const el = markerRef.current.getElement();
-      const dot = el.querySelector('.dot-pulse, .dot-pulse-light');
-      const ring = el.querySelector('.marker-ring');
-      if (dot) {
-        dot.style.background = dotColor;
-        dot.className = isDark ? 'dot-pulse' : 'dot-pulse-light';
-      }
-      if (ring) ring.style.borderColor = ringColor;
+      updatePulseMarkerTheme(markerRef.current.getElement(), isDark);
     }
   }, [isDark]);
 
@@ -500,21 +250,8 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
       pendingFlyRef.current = loc;
       return;
     }
-    const map = mapRef.current;
-    const go = () => {
-      map.flyTo({ center: [loc.lng, loc.lat], zoom: loc.zoom ?? getStoryZoom(), duration: 2000, essential: true });
-      markerRef.current?.setLngLat([loc.lng, loc.lat]);
-      if (map.getLayer('country-highlight')) {
-        map.setFilter('country-highlight', ['==', 'iso_3166_1', loc.iso ?? '']);
-      }
-      currentPolygonRef.current = loc.polygon ?? null;
-      if (map.getSource('state-boundary')) {
-        map.getSource('state-boundary').setData(
-          loc.polygon ?? { type: 'FeatureCollection', features: [] }
-        );
-      }
-    };
-    if (map.loaded()) go(); else map.once('load', go);
+    kernelFlyTo(mapRef.current, markerRef.current, loc);
+    currentPolygonRef.current = loc.polygon ?? null;
   };
 
   // Fly to first location when story changes. Runs even before the map is
