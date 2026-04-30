@@ -4202,5 +4202,293 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-04-30T13:45:01.809Z"
+  },
+  {
+    "title": "Coast Guard chief describes crisis over DHS government shutdown",
+    "description": "Coast Guard Commandant Adm. Kevin Lunday spoke to CBS News' Nicole Sganga about dire conditions within the military branch during the current partial government shutdown affecting the Department of Homeland Security.",
+    "link": "https://www.cbsnews.com/video/coast-guard-chief-describes-crisis-over-dhs-government-shutdown/",
+    "pubDate": "Thu, 30 Apr 2026 09:56:02 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-04-30T14:00:07.169Z"
+  },
+  {
+    "title": "Hegseth's Iran testimony on Capitol Hill gets heated",
+    "description": "Secretary of Defense Pete Hegseth is returning to Capitol Hill on Thursday after a tense day of testimony before lawmakers bombarding him with questions about the Iran war. CBS News' Nikole Killion reports.",
+    "link": "https://www.cbsnews.com/video/hegseths-iran-testimony-on-capitol-hill-gets-heated/",
+    "pubDate": "Thu, 30 Apr 2026 09:47:44 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-04-30T14:00:07.169Z"
+  },
+  {
+    "title": "Newly released images show correspondents' dinner suspect just prior to attack",
+    "description": "New images show Cole Allen, the suspect in the White House Correspondents' Dinner shooting, heavily armed minutes before allegedly storming the event on Saturday. It comes as more questions are raised about security. Matt Gutman reports.",
+    "link": "https://www.cbsnews.com/video/newly-released-images-show-correspondents-dinner-suspect-just-prior-to-attack/",
+    "pubDate": "Thu, 30 Apr 2026 09:47:29 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-04-30T14:00:07.169Z"
+  },
+  {
+    "title": "Trump says he has upper hand in Iran war",
+    "description": "President Trump says Iran's economy is on the brink of collapse as a stalemate plays out in the Strait of Hormuz, driving global oil and gas prices up. CBS News' Nancy Cordes reports.",
+    "link": "https://www.cbsnews.com/video/trump-says-he-has-upper-hand-in-iran-war/",
+    "pubDate": "Thu, 30 Apr 2026 09:43:48 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-04-30T14:00:07.169Z"
+  },
+  {
+    "title": "Supreme Court strikes down Louisiana's congressional map, weakening Voting Rights Act",
+    "description": "The Supreme Court ruled on Wednesday that Louisiana's congressional map, with two majority Black districts, is not legal. The decision weakens the landmark 1965 Voting Rights Act and could impact the upcoming midterm elections. Ed O'Keefe reports.",
+    "link": "https://www.cbsnews.com/video/supreme-court-strikes-down-louisianas-congressional-map-weakening-voting-rights-act/",
+    "pubDate": "Thu, 30 Apr 2026 09:42:02 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-04-30T14:00:07.169Z"
+  },
+  {
+    "title": "‘The Devil Wears Prada 2’ Review: A Rhapsody in Cerulean",
+    "description": "In this sequel, Andy (Anne Hathaway) and Miranda (Meryl Streep) encounter a series of crises that set the stage for a larger, existential catastrophe.",
+    "link": "https://www.nytimes.com/2026/04/30/movies/the-devil-wears-prada-2-review.html",
+    "pubDate": "Thu, 30 Apr 2026 09:02:05 +0000",
+    "source": "NY Times",
+    "categories": [
+      "movies",
+      "the devil wears prada 2 (movie)",
+      "streep, meryl",
+      "hathaway, anne",
+      "blunt, emily",
+      "tucci, stanley",
+      "frankel, david",
+      "theroux, justin",
+      "mckenna, aline brosh"
+    ],
+    "collectedAt": "2026-04-30T14:00:07.169Z"
+  },
+  {
+    "title": "Satellite Images Reveal Destruction of Georgia Wildfires",
+    "description": "NASA satellites show that Georgia wildfires have burned over 50,000 acres, destroyed 120 homes, and remain active.",
+    "link": "https://www.newsweek.com/satellite-images-destruction-georgia-wildfires-11898158",
+    "pubDate": "Thu, 30 Apr 2026 09:56:20 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-04-30T14:00:07.169Z"
+  },
+  {
+    "title": "US military equipment worth billions of dollars destroyed in Iran war",
+    "description": "The United States lost aerial equipment worth up to $2.8bn, according to a US-based think tank.",
+    "link": "https://www.aljazeera.com/news/2026/4/30/us-military-equipment-worth-billions-of-dollars-destroyed-in-iran-war?traffic_source=rss",
+    "pubDate": "Thu, 30 Apr 2026 13:47:40 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-30T14:00:07.169Z"
+  },
+  {
+    "title": "Indonesian soldiers accused of acid attack. What happened and why?",
+    "description": "Analysts say the attack is part of a wider pattern of repression amid concerns over the growing role of the military.",
+    "link": "https://www.aljazeera.com/news/2026/4/30/indonesian-soldiers-accused-of-acid-attack-what-happened-and-why?traffic_source=rss",
+    "pubDate": "Thu, 30 Apr 2026 13:44:11 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-30T14:00:07.169Z"
+  },
+  {
+    "title": "Has the US Supreme Court weakened the Voting Rights Act – and how?",
+    "description": "Ruling, called 'big win' by Trump, will result in redistricting in Louisiana, but it will have farther-reaching effects.",
+    "link": "https://www.aljazeera.com/news/2026/4/30/has-the-us-supreme-court-weakened-the-voting-rights-act-and-how?traffic_source=rss",
+    "pubDate": "Thu, 30 Apr 2026 13:42:03 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-30T14:00:07.169Z"
+  },
+  {
+    "title": "Hormuz effect? How US, China are ramping up tensions over the Panama Canal",
+    "description": "Rising tensions over Panama Canal prompt US-China showdown in global shipping power struggle.",
+    "link": "https://www.aljazeera.com/news/2026/4/30/hormuz-effect-how-us-china-are-ramping-up-tensions-over-the-panama-canal?traffic_source=rss",
+    "pubDate": "Thu, 30 Apr 2026 13:36:27 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-30T14:00:07.169Z"
+  },
+  {
+    "title": "Was Israeli PM’s Lebanon destruction video a snub to Trump?",
+    "description": "Hours after Trump asked Netanyahu to stop destroying buildings in Lebanon, Israel's leader posted a destruction montage.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/was-israeli-pms-lebanon-destruction-video-a-snub-to-trump-2?traffic_source=rss",
+    "pubDate": "Thu, 30 Apr 2026 13:35:15 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-04-30T14:00:07.169Z"
+  },
+  {
+    "title": "Mali crisis: Who are the key leaders to know about?",
+    "description": "As Mali faces its biggest security challenge in years, Al Jazeera profiles key leaders from government and armed groups.",
+    "link": "https://www.aljazeera.com/news/2026/4/30/mali-crisis-who-are-the-key-leaders-to-know-about?traffic_source=rss",
+    "pubDate": "Thu, 30 Apr 2026 13:29:26 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-04-30T14:00:07.169Z"
+  },
+  {
+    "title": "Anti-immigrant attacks and protests in South Africa",
+    "description": "Anti-immigrant attacks and protests in South Africa",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/4/30/anti-immigrant-attacks-and-protests-in-south-africa?traffic_source=rss",
+    "pubDate": "Thu, 30 Apr 2026 13:24:34 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-04-30T14:00:07.169Z"
+  },
+  {
+    "title": "Iranian economic collapse may come too late for Trump - Reuters",
+    "description": "Iranian economic collapse may come too late for Trump  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb0pDUUdWMVNxRHhvSVpqRGI4OElkMFdKcXBPVno0YWlWb0pmTzE2cUwtS244MkM4S2ZQaU9WNjRUMzRTY2c0U0FvdnpTLWtqYUVnSERXRzZpVFJIVnhzODlicVFoUld1MUY0bjVNTXRrQkhmZEhQMnNrRW5wMTZmV3M2Z2E3bFZPeWstLWlaT2hHYkZnbVRIclBhbmt5MVVLSmt5NE93?oc=5",
+    "pubDate": "Thu, 30 Apr 2026 11:58:24 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-04-30T14:00:07.169Z"
+  },
+  {
+    "title": "Russia's Medvedev questions US suitability to play role of conflict mediator - Reuters",
+    "description": "Russia's Medvedev questions US suitability to play role of conflict mediator  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVEh0YkZ1QXdqMXMyQVFfSE81ajJBYkp0eEpDRl9qZTVnRUJ0NnNfTVdXUVNnamFjXzZBYXptSnh4Q1VIVjIycTcxeWNYRnB2dUYwNW1tQS0ySVoxaUhJX2NQd2JrOWM2ZWJucEJXNTlNekNKRkQxZ1BEZFk3djk4YUVCejhEaEFEQUdoaGhzSUIyaWtDYTJOYjlXdXhnSkFMMWJNUVNHaUl3N293Y0dsbw?oc=5",
+    "pubDate": "Thu, 30 Apr 2026 09:21:44 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-04-30T14:00:07.169Z"
+  },
+  {
+    "title": "Iran's North American diaspora split over next steps after Trump's ceasefire - Reuters",
+    "description": "Iran's North American diaspora split over next steps after Trump's ceasefire  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQzNvZ21GZUpXNXdKakwwVW1FaFc4YTZubjBtQmp1SmFWb2VORUdIa3RIeGwtdGpEQWtIaEhreVpKcUp1cWM0R2lETzJRQVdIWGltbmtQc3V6Zk9NT0FBUzVVSUdqaW9UejgxVUJnT0ljdjVlOHU0Z1ZfSWJIYlNEeXFucHQ2YXd6QVBZVHNPTUMtRlV3Rl92aFZLWjA1TVlrcldiRHBxcXpLb2ZCOXllazhwUUl0eFFmS20yd3ZfeTdDRnRFVl9MZmhGcXk0dw?oc=5",
+    "pubDate": "Thu, 30 Apr 2026 10:32:25 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-04-30T14:00:07.169Z"
+  },
+  {
+    "title": "Wall St set to climb at open as earnings optimism overshadows oil woes - Reuters",
+    "description": "Wall St set to climb at open as earnings optimism overshadows oil woes  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa2wxWG1nd0J2c1MtblVVc2p1OU9DamRDSUExSnNwQllzaG1TR2xRMmpuU0lib0J6b2QyeGExRmRRLVlxUXNWaFhwLU5BRTFnVVdSNWtWZDV3RndfQmdMUWx2di1kWGNRVWtoTGM1OVlWUTlWSFo1dTIzMTFYVEtGRng3eG9PRUNzUnJBTFVSRFRuazUtazlwN1hBcHZoWlpIdV9mMTU1UDhyM2ZpMjQ0RXUtMlBEUQ?oc=5",
+    "pubDate": "Thu, 30 Apr 2026 13:14:38 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-04-30T14:00:07.169Z"
+  },
+  {
+    "title": "Watch live: Senate Democrats highlight Iran war powers resolution push",
+    "description": "Senate Minority Leader Chuck Schumer (D-N.Y.) and Sen. Adam Schiff (D-Calif.) will speak with reporters Thursday morning as Democrats prepare to force another vote on a war powers resolution to block the Trump administration from further action in Iran. Thursday’s vote marks the sixth attempt and comes as the conflict nears a key milestone in…",
+    "link": "https://thehill.com/video-clips/5856801-watch-live-senate-democrats-war-powers-vote-trump-iran/",
+    "pubDate": "Thu, 30 Apr 2026 13:43:41 +0000",
+    "source": "The Hill",
+    "categories": [
+      "news",
+      "video"
+    ],
+    "collectedAt": "2026-04-30T14:00:07.169Z"
+  },
+  {
+    "title": "Trump to sign order creating retirement plans for workers who lack them",
+    "description": "President Donald Trump plans to sign an executive order Thursday to create access to retirement plans for workers whose employers don’t provide one, building on promises made during his State of the Union address to boost retirement security for millions of Americans.",
+    "link": "https://www.marketwatch.com/story/trump-to-sign-order-creating-retirement-plans-for-workers-who-lack-them-c7f33603?mod=mw_rss_topstories",
+    "pubDate": "Thu, 30 Apr 2026 13:52:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-04-30T14:00:07.169Z"
+  },
+  {
+    "title": "Murdered Mexican beauty queen’s  mother-in-law busted after fleeing the country",
+    "description": "Chilling video captured the moment Herrera allegedly gunned down Flores before being confronted by her son.",
+    "link": "https://nypost.com/2026/04/30/world-news/mother-in-law-of-murdered-mexican-beauty-queen-carolina-flores-arrested/",
+    "pubDate": "Thu, 30 Apr 2026 09:58:55 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-30T14:00:07.169Z"
+  },
+  {
+    "title": "Austin Reaves running out of time as Lakers stare down historic collapse",
+    "description": "Austin Reaves returned from injury but looked rusty in Game 5, and now the Lakers need him to step up fast to avoid becoming the first team in NBA history to blow a 3-0 playoff lead.",
+    "link": "https://nypost.com/2026/04/30/sports/austin-reaves-struggles-as-lakers-risk-historic-3-0-series-collapse/",
+    "pubDate": "Thu, 30 Apr 2026 09:53:37 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-30T14:00:07.169Z"
+  },
+  {
+    "title": "Citi paid ex-JPMorgan banker $52M despite allegations of bullying, abusive behavior: report",
+    "description": "Vis Raghavan was hired by Citigroup in 2024 as its head of banking, just days after JPMorgan Chase told him he had no long-term future at the firm.",
+    "link": "https://nypost.com/2026/04/30/business/citi-paid-ex-jpmorgan-banker-52m-bullying-allegations-report/",
+    "pubDate": "Thu, 30 Apr 2026 09:53:09 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-30T14:00:07.169Z"
+  },
+  {
+    "title": "Brooks Nader and Taron Egerton take a dip during romantic Australia beach date",
+    "description": "The \"Baywatch\" star, 29, and the Golden Globe-winning actor, 36, held hands and hugged in cutely coordinated swimsuits during Monday's outing.",
+    "link": "https://pagesix.com/2026/04/30/celebrity-news/brooks-nader-and-taron-egerton-take-a-dip-during-romantic-australia-beach-date/",
+    "pubDate": "Thu, 30 Apr 2026 09:52:33 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-30T14:00:07.169Z"
+  },
+  {
+    "title": "‘RHONJ’ alum Joe Giudice insists federal crimes were ‘minimal,’ doesn’t think he ‘should have been deported’",
+    "description": "He and then-wife Teresa Giudice were indicted on fraud and tax evasion charges in 2013.",
+    "link": "https://pagesix.com/2026/04/30/celebrity-news/rhonj-alum-joe-giudice-insists-federal-crimes-were-minimal-doesnt-think-he-should-have-been-deported/",
+    "pubDate": "Thu, 30 Apr 2026 09:51:57 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-30T14:00:07.169Z"
+  },
+  {
+    "title": "Phillies players, families viciously booed for horrific start while at Flyers playoff game",
+    "description": "Some of the Phillies players were booed by their hometown crowd at Game 6 of the Flyers-Penguins Round 1 playoff series from a suite at Xfinity Mobile Arena.",
+    "link": "https://nypost.com/2026/04/30/sports/phillies-players-families-viciously-booed-for-horrific-start-while-at-flyers-playoff-game/",
+    "pubDate": "Thu, 30 Apr 2026 09:45:53 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-30T14:00:07.169Z"
+  },
+  {
+    "title": "High-profile Dem power player spotted at private event for California GOP gubernatorial frontrunner Steve Hilton",
+    "description": "Is Nicole Avant, a stalwart supporter of the Obamas and longtime LA democrat changing her political stripes?",
+    "link": "https://pagesix.com/2026/04/30/hollywood/dem-power-player-nicole-avant-spotted-at-event-for-california-gop-gubernatorial-frontrunner-steve-hilton/",
+    "pubDate": "Thu, 30 Apr 2026 09:45:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-30T14:00:07.169Z"
+  },
+  {
+    "title": "Inside the battle for Casey Wasserman’s agency: ‘It’s all anyone in Hollywood is talking about’",
+    "description": "Insiders say that the deal for Wasserman's firm, now known as \"The Team,\" could wrap up in the next two weeks.",
+    "link": "https://pagesix.com/2026/04/30/hollywood/deal-for-casey-wassermans-the-team-agency-expected-within-next-2-weeks/",
+    "pubDate": "Thu, 30 Apr 2026 09:45:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-30T14:00:07.169Z"
+  },
+  {
+    "title": "Inside Disney’s ‘Star Wars’ partnership with Fortnite as CEO Josh D’Amaro’s $1.5B bet on Epic Games comes amid headaches",
+    "description": "A lot is riding on the marriage of \"Star Wars\" and Fortnite for Disney CEO Josh D’Amaro.",
+    "link": "https://pagesix.com/2026/04/30/hollywood/inside-disneys-star-wars-partnership-with-fortnite-as-ceo-josh-damaros-1-5b-bet-on-epic-games-comes-amid-headaches/",
+    "pubDate": "Thu, 30 Apr 2026 09:45:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-04-30T14:00:07.169Z"
   }
 ]
