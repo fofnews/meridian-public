@@ -1396,6 +1396,11 @@
           "date": "2026-04-30",
           "edition": "morning",
           "update": "Trump stated the U.S. is considering reducing its troop presence in Germany, amid a dispute with German Chancellor Friedrich Merz, who publicly criticized the U.S. approach to the Iran conflict. During Hegseth's congressional hearing, House Democrats questioned him aggressively over both the conduct of the Iran war and his tenure as Defense Secretary."
+        },
+        {
+          "date": "2026-04-30",
+          "edition": "evening",
+          "update": "Hegseth extended his congressional testimony to both chambers, appearing before the House on Wednesday and the Senate on Thursday, where lawmakers pressed him on the objectives and costs of the Iran war. PCE inflation rose to 3.5% in March, the highest reading in nearly three years and above the Federal Reserve's 2% target, with the Iran conflict cited as a contributing driver. Representative Seth Moulton accused Hegseth of being 'guilty' of war crimes in a CNN interview."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2183,13 +2188,18 @@
       "title": "Correspondents' Dinner Shooting Investigation",
       "parentId": null,
       "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-28",
+      "lastSeen": "2026-04-30",
       "active": true,
       "entries": [
         {
           "date": "2026-04-28",
           "edition": "morning",
           "update": "A suspect was charged with attempting to assassinate the president following a shooting at the White House Correspondents' Dinner; the charges were formally announced after the attack."
+        },
+        {
+          "date": "2026-04-30",
+          "edition": "evening",
+          "update": "The suspect charged in the assassination attempt has been identified as Cole Allen, who has agreed to remain jailed ahead of his trial. Critics of President Trump publicly blamed his rhetoric in connection with the attack."
         }
       ]
     },
@@ -2224,5 +2234,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-04-30T11:03:51.161Z"
+  "updatedAt": "2026-04-30T21:04:37.735Z"
 }
