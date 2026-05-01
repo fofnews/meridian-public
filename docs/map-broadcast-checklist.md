@@ -2,7 +2,7 @@
 
 Goal: turn `BroadcastHero`'s Mapbox map from an interactive info widget into a video-grade backdrop for news clips generated from Meridian reports, then build the recording pipeline that turns each daily edition into publishable video.
 
-**Status:** 1 / 23 complete · Last updated: 2026-04-30
+**Status:** 2 / 23 complete · Last updated: 2026-04-30
 
 To resume work in a new session: ask Claude to read `docs/map-broadcast-checklist.md`.
 
@@ -27,12 +27,10 @@ What diverges (lives in wrappers): camera pitch + bearing, fly duration, interac
   - Created `src/map/{kernel,layers,marker,camera}.js`. `BroadcastHero.jsx` shrunk from 868 → 605 lines and now consumes `createMap`, `applyMapStyle`, `updatePulseMarkerTheme`, and `flyToLocation` from the kernel. Pure refactor — no visual changes. Build passes; Mapbox stays lazy-loaded in its own chunk.
   - Deferred until needed: `sources.js` (lands with #9), `layers.js` separation of style-patches vs data-driven layers (lands with #2).
 
-- [ ] **0b. Define website "ambient mode"**
-  - Default state when no story is focused: globe view, all current edition's story locations visible as dim secondary markers, slow bearing rotation (~0.5°/sec)
-  - On story click / flyTo: brighten the active marker, draw source arcs, pitch up to ~30° (less dramatic than video's 45–60°)
-  - Idle timeout: return to ambient ~30s after last interaction
-  - Throttle bearing rotation when tab is backgrounded (`document.hidden`)
-  - Document the chosen rates / timeouts in `src/map/camera.js`
+- [x] **0b. Define website "ambient mode"**
+  - Policy + helpers in `src/map/camera.js`: `AMBIENT_BEARING_DEG_PER_SEC = 0.5`, `AMBIENT_IDLE_TIMEOUT_MS = 30_000`, `AMBIENT_RETURN_DURATION_MS = 3_000`, `FOCUSED_PITCH_WEBSITE = 30`. New helpers: `startAmbientRotation(map)` (rAF loop, paused on `document.hidden`) and `returnToAmbient(map)` (flies back to globe, clears highlights). `flyToLocation` now accepts `{ pitch, duration }`.
+  - `BroadcastHero.jsx` wires it: rotation starts when the map loads, pauses on focus, idle timer (30s) calls `enterAmbient` after last focus. Story flyTo passes `pitch: 30`.
+  - Deferred (depends on later items): "all story markers visible as dim" lands with multi-marker support (around #10); "draw source arcs on focus" lands with #9; the wide globe view itself becomes more striking once #1 ships globe projection.
 
 - [ ] **0c. Globe-vs-flat strategy for mobile**
   - Test globe projection on mid-range Android (Pixel 6a class) — measure FPS during ambient rotation and during flyTo

@@ -1,9 +1,28 @@
 // Camera helpers shared between the website map and the video stage.
-// Pitch / bearing / fly duration policies will diverge per surface in
-// future items; for now this matches the original BroadcastHero behavior.
+// Pitch / bearing / fly duration policies diverge per surface — the
+// constants here cover the website ("ambient mode" + focused at 30°
+// pitch); the video stage in BroadcastStage.jsx will use its own
+// (45–60° pitch, longer durations, scripted bearing).
 
 const STORY_ZOOM_DESKTOP = 5;
 const STORY_ZOOM_MOBILE  = 4;
+
+// Website ambient-mode policy (item 0b).
+// Rotation rate is intentionally slow — anything > ~1°/sec reads as
+// motion sickness rather than ambient life. The idle timeout is the
+// "show's over, drift back to the globe" fallback for visitors who
+// stop interacting.
+export const AMBIENT_BEARING_DEG_PER_SEC = 0.5;
+export const AMBIENT_IDLE_TIMEOUT_MS = 30_000;
+export const AMBIENT_RETURN_DURATION_MS = 3_000;
+export const AMBIENT_CENTER = [0, 20];
+export const AMBIENT_ZOOM = 1.0;
+export const AMBIENT_PITCH = 0;
+
+// Pitch applied when a story is focused on the website. The video
+// stage will use a more dramatic 45–60° (item #4).
+export const FOCUSED_PITCH_WEBSITE = 30;
+export const FOCUSED_FLY_DURATION_MS = 2_000;
 
 export function getStoryZoom() {
   return window.innerWidth < 640 ? STORY_ZOOM_MOBILE : STORY_ZOOM_DESKTOP;
@@ -22,13 +41,14 @@ export function getMapPadding(containerEl) {
 //
 // Caller is responsible for tracking the polygon if it needs to be
 // re-applied after a style change (theme switch).
-export function flyToLocation(map, marker, loc) {
+export function flyToLocation(map, marker, loc, { pitch = 0, duration = FOCUSED_FLY_DURATION_MS } = {}) {
   if (!map) return;
   const go = () => {
     map.flyTo({
       center: [loc.lng, loc.lat],
       zoom: loc.zoom ?? getStoryZoom(),
-      duration: 2000,
+      pitch,
+      duration,
       essential: true,
     });
     marker?.setLngLat([loc.lng, loc.lat]);
@@ -42,4 +62,62 @@ export function flyToLocation(map, marker, loc) {
     }
   };
   if (map.loaded()) go(); else map.once('load', go);
+}
+
+// Fly back to the wide globe view and clear the focused-state visuals
+// (country highlight, state polygon). Used by the website's idle return.
+export function returnToAmbient(map) {
+  if (!map) return;
+  const go = () => {
+    map.flyTo({
+      center: AMBIENT_CENTER,
+      zoom: AMBIENT_ZOOM,
+      pitch: AMBIENT_PITCH,
+      duration: AMBIENT_RETURN_DURATION_MS,
+      essential: true,
+    });
+    if (map.getLayer('country-highlight')) {
+      map.setFilter('country-highlight', ['==', 'iso_3166_1', '']);
+    }
+    if (map.getSource('state-boundary')) {
+      map.getSource('state-boundary').setData({ type: 'FeatureCollection', features: [] });
+    }
+  };
+  if (map.loaded()) go(); else map.once('load', go);
+}
+
+// Slow bearing rotation for ambient mode. Returns a controller:
+//   setActive(bool) — pause/resume (use false while a story is focused
+//                      so rotation doesn't fight the static framing)
+//   stop()          — permanently stop, cancel rAF (call on unmount)
+// Automatically pauses when document.hidden is true (backgrounded tab).
+export function startAmbientRotation(map) {
+  let raf = null;
+  let lastT = performance.now();
+  let active = true;
+  let stopped = false;
+
+  const tick = (now) => {
+    if (stopped) return;
+    if (active && !document.hidden && map && !map._removed) {
+      // Cap dt so a long-paused tab doesn't fling the bearing on resume.
+      const dt = Math.min((now - lastT) / 1000, 0.1);
+      map.setBearing(map.getBearing() + AMBIENT_BEARING_DEG_PER_SEC * dt);
+    }
+    lastT = now;
+    raf = requestAnimationFrame(tick);
+  };
+  raf = requestAnimationFrame(tick);
+
+  return {
+    setActive(v) {
+      active = v;
+      // Reset clock so we don't accumulate dt while paused.
+      lastT = performance.now();
+    },
+    stop() {
+      stopped = true;
+      if (raf != null) cancelAnimationFrame(raf);
+    },
+  };
 }
