@@ -2,7 +2,7 @@
 
 Goal: turn `BroadcastHero`'s Mapbox map from an interactive info widget into a video-grade backdrop for news clips generated from Meridian reports, then build the recording pipeline that turns each daily edition into publishable video.
 
-**Status:** 3 / 23 complete · Last updated: 2026-04-30
+**Status:** 4 / 23 complete · Last updated: 2026-04-30
 
 To resume work in a new session: ask Claude to read `docs/map-broadcast-checklist.md`.
 
@@ -38,17 +38,13 @@ What diverges (lives in wrappers): camera pitch + bearing, fly duration, interac
   - Knock-on fix to 0b: `startAmbientRotation` now increments center longitude (constant `AMBIENT_LONGITUDE_DEG_PER_SEC`, was `AMBIENT_BEARING_DEG_PER_SEC`). Bearing rotation on a globe spins the sphere around the screen-perpendicular axis, which reads as wrong; longitude rotation gives the classic west-to-east "earth on its axis" intro that the broadcast aesthetic expects.
   - Not done (deferred to user): empirical FPS measurement on a real mid-range Android. If problematic, revisit the contingency in `kernel.js`.
 
-- [ ] **0d. Move broadcast-costume elements to video-only surface**
-  - The chyron (upper + lower bars), LIVE badge, scrolling ticker, and CRT scanlines all currently render on the website surface inside `BroadcastHero.jsx`. Move them to the video wrapper only.
-  - Concretely on the website:
-    - Remove the upper/lower chyron bars (the headline + edition info bars beneath the map)
-    - Remove the red `LIVE` badge from the top bar
-    - Remove the scrolling gold ticker beneath the map
-    - Remove the `.scanlines` overlay div
-  - Replace with a minimal status strip on the website: edition label (`Morning · Apr 30`) + freshness indicator (`Updated 2h ago`) + the existing top-bar `THE MERIDIAN` wordmark and clock. Sober, not theatrical.
-  - The map itself stays cinematic on the website (globe, glow, marker, arcs) — only the surrounding TV-graphics chrome moves.
-  - Create `src/components/BroadcastStage.jsx` (new) that wraps the kernel + chyron + LIVE + ticker + grain overlay. This is what `?mode=broadcast` renders.
-  - The website route renders a new lighter wrapper (`InteractiveMap.jsx` or rename `BroadcastHero.jsx` → `MapHero.jsx`) that wraps the kernel + the minimal status strip only.
+- [x] **0d. Move broadcast-costume elements to video-only surface**
+  - Renamed `BroadcastHero.jsx` → `MapHero.jsx` (website) and stripped the costume: removed the chyron upper/lower bars, the red LIVE badge from the top bar, the scrolling gold ticker, and the CRT scanlines overlay. Top bar (LIVE + clock) gone too — the wordmark and clock now live in a sober status strip below the map.
+  - New status strip: `THE MERIDIAN · Morning · April 30, 2026 · [edition buttons] · 14:32`. Sober, not theatrical. Edition switching preserved.
+  - Created `src/components/BroadcastStage.jsx` — full broadcast costume (chyron, LIVE, ticker, scanlines) for video output. Imports from the same kernel + hook so visual identity stays in sync. Not yet routed; #11 will hook it up to `?mode=broadcast`.
+  - Extracted shared logic into `src/map/useMeridianMap.js` (orchestration hook: refs, init, theme switch, focus + idle) and `src/map/geocoding.js` (headline-based location fallback). MapHero and BroadcastStage both consume both — no duplicated map setup.
+  - `App.jsx` import updated; `ErrorBoundary.jsx` doc-comment + `CLAUDE.md` directory listing updated to reference the new files. Build passes; main bundle dropped from 265.6 KB → 263.8 KB (BroadcastStage isn't imported by anything yet, so it tree-shakes).
+  - Deferred: "freshness indicator" (Updated Xh ago) — the report JSON doesn't carry a generation timestamp, only per-article `collectedAt`. Skipped until we add a top-level timestamp upstream or compute from articles. The status strip is correct and useful without it.
 
 ---
 
