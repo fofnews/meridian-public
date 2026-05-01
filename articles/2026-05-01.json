@@ -1124,5 +1124,341 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-01T09:45:01.246Z"
+  },
+  {
+    "title": "Obamacare Enrollment Drops Sharply as Costs Rise",
+    "description": "Americans can’t afford the higher health insurance premiums that resulted from Congress’s refusal to extend federal tax credits.",
+    "link": "https://www.nytimes.com/2026/05/01/business/obamacare-enrollment-decline.html",
+    "pubDate": "Fri, 01 May 2026 09:02:02 +0000",
+    "source": "NY Times",
+    "categories": [
+      "health insurance and managed care",
+      "prices (fares, fees and rates)",
+      "federal aid (us)",
+      "patient protection and affordable care act (2010)",
+      "united states politics and government",
+      "blue cross and blue shield assn",
+      "health and human services department",
+      "kennedy, robert f jr",
+      "trump, donald j",
+      "insurance",
+      "centene corporation",
+      "cigna corporation"
+    ],
+    "collectedAt": "2026-05-01T10:00:02.260Z"
+  },
+  {
+    "title": "As Israel Entrenches, Frustration With Hezbollah Turns to Support",
+    "description": "With the cease-fire fraying and Israel demolishing villages in the south, many Hezbollah supporters in Lebanon are putting aside their annoyance with the group and turning to it for protection.",
+    "link": "https://www.nytimes.com/2026/05/01/world/middleeast/lebanon-hezbollah-ceasefire-israel.html",
+    "pubDate": "Fri, 01 May 2026 09:13:45 +0000",
+    "source": "NY Times",
+    "categories": [
+      "defense and military forces",
+      "war and armed conflicts",
+      "us and israeli attack on iran (2026)",
+      "international relations",
+      "civilian casualties",
+      "hezbollah",
+      "nasrallah, hassan",
+      "iran",
+      "israel",
+      "lebanon",
+      "iran-israel proxy conflict"
+    ],
+    "collectedAt": "2026-05-01T10:00:02.260Z"
+  },
+  {
+    "title": "Billionaire Chris Larsen Plans to Spend $3.5 Million in NY House Race Amid Midterm Clash Over A.I.",
+    "description": "Chris Larsen, who hails from California, plans to spend $3.5 million to help Alex Bores, a New York congressional candidate at the center of a proxy war over A.I. regulation.",
+    "link": "https://www.nytimes.com/2026/05/01/us/politics/alex-bores-chris-larsen-open-ai-jack-schlossberg.html",
+    "pubDate": "Fri, 01 May 2026 09:07:15 +0000",
+    "source": "NY Times",
+    "categories": [
+      "artificial intelligence",
+      "regulation and deregulation of industry",
+      "larsen, chris (1960- )",
+      "bores, alex",
+      "midterm elections (2026)",
+      "elections, house of representatives",
+      "new york state",
+      "manhattan (nyc)",
+      "anthropic ai llc",
+      "openai labs",
+      "fairshake (political action committee)",
+      "democratic party",
+      "primaries and caucuses",
+      "political action committees",
+      "united states politics and government"
+    ],
+    "collectedAt": "2026-05-01T10:00:02.260Z"
+  },
+  {
+    "title": "Republicans Want Tennessee’s Last Democratic House District",
+    "description": "Republicans sliced Nashville into three G.O.P.-leaning congressional districts in 2022. After the Supreme Court decision on voting rights, Memphis could be next.",
+    "link": "https://www.nytimes.com/2026/05/01/us/politics/republicans-want-tennessees-last-democratic-house-district.html",
+    "pubDate": "Fri, 01 May 2026 09:00:12 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "redistricting and reapportionment",
+      "voting rights act (1965)",
+      "midterm elections (2026)",
+      "midterm elections (2022)",
+      "elections, house of representatives",
+      "democratic party",
+      "republican party",
+      "house of representatives",
+      "blackburn, marsha",
+      "cohen, stephen i",
+      "o'connell, freddie (mayor)",
+      "ogles, andy",
+      "trump, donald j",
+      "memphis (tenn)",
+      "nashville (tenn)",
+      "tennessee"
+    ],
+    "collectedAt": "2026-05-01T10:00:02.260Z"
+  },
+  {
+    "title": "What to Know About the Maine Senate Race After Janet Mills Drops Out",
+    "description": "The exit of Gov. Janet Mills kicked off the general election early in what is likely to be one of the most important, expensive and combative Senate races of 2026.",
+    "link": "https://www.nytimes.com/2026/05/01/us/politics/maine-senate-race-platner-collins-mills-takeaways.html",
+    "pubDate": "Fri, 01 May 2026 09:07:19 +0000",
+    "source": "NY Times",
+    "categories": [
+      "elections, senate",
+      "maine",
+      "primaries and caucuses",
+      "midterm elections (2026)",
+      "platner, graham",
+      "collins, susan m",
+      "mills, janet t (1947- )",
+      "democratic party",
+      "republican party",
+      "united states politics and government",
+      "michigan",
+      "trump, donald j"
+    ],
+    "collectedAt": "2026-05-01T10:00:02.260Z"
+  },
+  {
+    "title": "What the End of Saudi Arabia’s Big-Spending Era Means for the Kingdom and Beyond",
+    "description": "The kingdom is pulling back from a costly and high-profile golf venture amid mounting financial concerns, raising questions about its plans.",
+    "link": "https://www.nytimes.com/2026/05/01/world/middleeast/saudi-arabia-spending-sports-liv-golf.html",
+    "pubDate": "Fri, 01 May 2026 09:41:09 +0000",
+    "source": "NY Times",
+    "categories": [
+      "saudi arabia",
+      "soccer",
+      "budgets and budgeting",
+      "golf",
+      "royal families",
+      "athletics and sports",
+      "us and israeli attack on iran (2026)",
+      "international trade and world market",
+      "liv golf",
+      "public investment fund (saudi arabia)",
+      "dazn group ltd",
+      "mohammed bin salman (1985- )",
+      "rumayyan, yasir al-",
+      "trump, donald j"
+    ],
+    "collectedAt": "2026-05-01T10:00:02.260Z"
+  },
+  {
+    "title": "Jared Kushner, Steve Witkoff and the Profitable Business of Peace",
+    "description": "The Trump administration is turning diplomacy into an asset to be leveraged.",
+    "link": "https://www.nytimes.com/2026/05/01/magazine/kushner-witkoff-board-of-peace-iran.html",
+    "pubDate": "Fri, 01 May 2026 09:01:23 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "us and israeli attack on iran (2026)",
+      "international relations",
+      "embargoes and sanctions",
+      "peace process",
+      "virtual currency",
+      "iran-israel war (2025- )",
+      "russian invasion of ukraine (2022)",
+      "israel-gaza war (2023- )",
+      "affinity partners",
+      "board of peace",
+      "hamas",
+      "international court of justice (un)",
+      "united nations human rights council",
+      "united nations",
+      "kushner, jared",
+      "witkoff, steven",
+      "carnegie, andrew",
+      "iran",
+      "pakistan",
+      "gaza strip",
+      "russia",
+      "ukraine"
+    ],
+    "collectedAt": "2026-05-01T10:00:02.260Z"
+  },
+  {
+    "title": "The World’s Central Banks Are Wrestling With a Gigantic Problem",
+    "description": "Inflationary surges and economic slowdowns set off by the war in Iran, tariffs and other Trump policies have forced monetary officials to adjust, our columnist says.",
+    "link": "https://www.nytimes.com/2026/05/01/business/iran-war-interest-rates-central-banks.html",
+    "pubDate": "Fri, 01 May 2026 09:02:24 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "interest rates",
+      "customs (tariff)",
+      "economic conditions and trends",
+      "united states international relations",
+      "inflation (economics)",
+      "oil (petroleum) and gasoline",
+      "currency"
+    ],
+    "collectedAt": "2026-05-01T10:00:02.260Z"
+  },
+  {
+    "title": "Why Countries Are Stocking Up on Gold",
+    "description": "As risk has escalated, central banks have bought more gold to stash in reserve. A widening Middle East war could add to the urgency.",
+    "link": "https://www.nytimes.com/2026/05/01/business/central-banks-gold-buying.html",
+    "pubDate": "Fri, 01 May 2026 06:34:58 +0000",
+    "source": "NY Times",
+    "categories": [
+      "gold",
+      "banking and financial institutions",
+      "bank of england",
+      "central bank of russia",
+      "federal reserve bank of new york",
+      "people's bank of china",
+      "china",
+      "england",
+      "great britain",
+      "russia",
+      "trump, donald j",
+      "economic conditions and trends"
+    ],
+    "collectedAt": "2026-05-01T10:00:02.260Z"
+  },
+  {
+    "title": "Where in the World Is All That Gold Stored?",
+    "description": "As central banks buy more gold, where to put all that heavy metal is an increasingly important question. Reserves must be secure and ready to trade in a crisis.",
+    "link": "https://www.nytimes.com/2026/05/01/business/central-banks-gold-storage.html",
+    "pubDate": "Fri, 01 May 2026 06:33:48 +0000",
+    "source": "NY Times",
+    "categories": [
+      "banking and financial institutions",
+      "gold",
+      "safes and vaults",
+      "bank of england",
+      "federal reserve bank of new york",
+      "england",
+      "united states"
+    ],
+    "collectedAt": "2026-05-01T10:00:02.260Z"
+  },
+  {
+    "title": "More than 40 Iranian seafarers killed during US–Israeli war: Union leader",
+    "description": "The Iranian Merchant Mariners Syndicate blamed US and Israeli attacks on Iran's ports and commercial fleet for deaths.",
+    "link": "https://www.aljazeera.com/news/2026/5/1/more-than-40-iranian-seafarers-killed-during-us-israeli-war-union?traffic_source=rss",
+    "pubDate": "Fri, 01 May 2026 09:49:28 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-01T10:00:02.260Z"
+  },
+  {
+    "title": "Rallies under way as workers gather for International Labour Day",
+    "description": "Labour Day marches are being held as Iran war and rising energy prices threaten the global economy.",
+    "link": "https://www.aljazeera.com/economy/2026/5/1/rallies-under-way-as-workers-gather-for-international-labour-day?traffic_source=rss",
+    "pubDate": "Fri, 01 May 2026 09:33:21 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-01T10:00:02.260Z"
+  },
+  {
+    "title": "‘The numbers don’t lie’: If I had invested my Social Security in the S&P 500 I’d have $4 million. Is the system broken?",
+    "description": "“I do better than many citizens because I’ve contributed at the highest level.”",
+    "link": "https://www.marketwatch.com/story/the-numbers-dont-lie-if-i-had-invested-my-social-security-in-the-s-p-500-id-have-4-million-is-the-system-broken-d41b1779?mod=mw_rss_topstories",
+    "pubDate": "Fri, 01 May 2026 09:48:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-05-01T10:00:02.260Z"
+  },
+  {
+    "title": "Gold IRA rules and taxes: What to know before you sign anything",
+    "description": "Gold IRAs are governed by the same tax rules that control regular IRAs.",
+    "link": "https://nypost.com/personal-finance/gold-ira-rules-taxes-guide/",
+    "pubDate": "Fri, 01 May 2026 05:45:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-01T10:00:02.260Z"
+  },
+  {
+    "title": "America goes to war, but Congress is AWOL",
+    "description": "In theory, Congress is a separate and coequal branch of the United States government. The U.S. Constitution, the American republic’s most sacred document, vests extraordinary power in the men and women who occupy seats in the legislature, including writing laws and establishing the tax code, funding federal agencies, and overseeing how the executive branch implements […]",
+    "link": "https://www.washingtonexaminer.com/premium/4547158/america-iran-war-congress-awol/",
+    "pubDate": "Fri, 01 May 2026 09:44:06 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "magazine",
+      "magazine - features",
+      "premium",
+      "world",
+      "congress",
+      "constitution",
+      "donald trump",
+      "foreign policy",
+      "iran",
+      "trump administration",
+      "war",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-05-01T10:00:02.260Z"
+  },
+  {
+    "title": "Significant renovations were planned for the White House long before Trump",
+    "description": "When President Donald Trump was a real estate mogul, he was known for his lavish architectural designs for residential and commercial buildings, hotels, casinos, golf courses, and more. His flagship construction projects often employed what could be described as an in-your-face approach. Trump’s buildings and complexes were large and impossible to miss. Traditional and modern […]",
+    "link": "https://www.washingtonexaminer.com/premium/4547053/renovations-planned-white-house-before-trump/",
+    "pubDate": "Fri, 01 May 2026 09:34:46 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "magazine",
+      "magazine - features",
+      "premium",
+      "white house",
+      "american history",
+      "donald trump",
+      "real estate",
+      "trump administration",
+      "washington d.c",
+      "white house correspondents' association",
+      "white house correspondents' dinner"
+    ],
+    "collectedAt": "2026-05-01T10:00:02.260Z"
+  },
+  {
+    "title": "King Charles III visits US as Starmer weakens the special relationship — and his country",
+    "description": "The VIP-configured Airbus took off from Joint Base Andrews in Maryland on the afternoon of April 28, bound for Bermuda. King Charles III and Queen Camilla had kept calm and carried on. After the chaos of the attempted assassination of President Donald Trump at the White House Correspondents’ Dinner on April 25, they had conjured […]",
+    "link": "https://www.washingtonexaminer.com/news/world/4548335/king-charles-iii-visits-us-starmer-weakens-special-relationship/",
+    "pubDate": "Fri, 01 May 2026 09:31:20 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "magazine",
+      "magazine - features",
+      "premium",
+      "world",
+      "donald trump",
+      "great britain",
+      "iran",
+      "keir starmer",
+      "king charles iii",
+      "melania trump",
+      "united kingdom",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-05-01T10:00:02.260Z"
   }
 ]
