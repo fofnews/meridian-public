@@ -546,5 +546,34 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-01T07:15:01.204Z"
+  },
+  {
+    "title": "Suspect arrested for allegedly running meth lab at Michigan State University’s largest academic building",
+    "description": "A suspect is facing felony charges after allegedly running a secret meth lab operation at Michigan State University's Wells Hall, police said.",
+    "link": "https://www.foxnews.com/us/suspect-arrested-allegedly-running-meth-lab-michigan-state-universitys-largest-academic-building",
+    "pubDate": "Fri, 01 May 2026 03:10:56 -0400",
+    "source": "Fox News",
+    "categories": [
+      "0e2e3002-00b7-5692-8190-7a5131af497e",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/midwest/michigan",
+      "fox-news/us",
+      "fox-news/crime",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/us/crime/drugs",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-05-01T07:30:01.563Z"
+  },
+  {
+    "title": "Wendy’s brings back discontinued menu favorite after customer uproar",
+    "description": "The sauce officially returned April 27 — but with a catch.",
+    "link": "https://nypost.com/2026/05/01/lifestyle/wendys-brings-back-sweet-and-sour-sauce-after-customer-uproar/",
+    "pubDate": "Fri, 01 May 2026 03:20:38 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-01T07:30:01.563Z"
   }
 ]
