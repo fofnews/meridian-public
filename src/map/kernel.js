@@ -33,12 +33,21 @@ loadMapbox().catch(() => {});
 // Create a Meridian-styled map in the given container.
 // Returns { map, marker, mapboxgl }. Caller manages lifecycle (cleanup,
 // theme switches, fly targets).
+//
+// Projection (item 0c): globe on all viewports. Tested ad hoc on
+// mid-range mobile and accepted as the default — globe is the strongest
+// brand signal and the "spinning earth" baseline of the ambient mode
+// only reads as broadcast on the sphere. If perf becomes an issue
+// later, fall back to mercator below a viewport threshold here without
+// changing the rest of the kernel — the map style, layers, and marker
+// look the same under either projection.
 export async function createMap(container, { isDark }) {
   const mapboxgl = await loadMapbox();
 
   const map = new mapboxgl.Map({
     container,
     style: isDark ? 'mapbox://styles/mapbox/dark-v11' : 'mapbox://styles/mapbox/light-v11',
+    projection: 'globe',
     center: [0, 20],
     zoom: 1.0,
     interactive: true,
