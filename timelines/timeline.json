@@ -454,7 +454,7 @@
       "id": "sinaloa-cartel-violence",
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-04-08",
+      "lastSeen": "2026-04-30",
       "active": true,
       "entries": [
         {
@@ -501,6 +501,11 @@
           "date": "2026-04-08",
           "edition": "evening",
           "update": "Érick Valencia Salazar, a co-founder of the Jalisco New Generation drug cartel, was extradited to the United States from Mexico as part of a group of 29 alleged drug lords and subsequently pleaded guilty."
+        },
+        {
+          "date": "2026-04-30",
+          "edition": "morning",
+          "update": "Ten current and former Mexican officials, including Sinaloa state Governor Rubén Rocha Moya, have been charged in a U.S. federal indictment for drug trafficking offenses connected to the Sinaloa Cartel."
         }
       ],
       "parentId": null
@@ -784,7 +789,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-04-16",
+      "lastSeen": "2026-04-30",
       "active": true,
       "entries": [
         {
@@ -996,6 +1001,11 @@
           "date": "2026-04-16",
           "edition": "evening",
           "update": "Trump announced on social media that Israel and Lebanon had agreed to a 10-day ceasefire, describing his conversations with both leaders as 'excellent.' The announcement came while fighting between Israel and Iran-backed Hezbollah was still ongoing."
+        },
+        {
+          "date": "2026-04-30",
+          "edition": "morning",
+          "update": "Israeli forces intercepted a pro-Palestinian aid flotilla sailing in international waters near the Greek island of Crete, detaining crew members and activists who were attempting to break Israel's blockade and deliver aid to Gaza."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1004,7 +1014,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-04-28",
+      "lastSeen": "2026-04-30",
       "active": true,
       "entries": [
         {
@@ -1376,6 +1386,21 @@
           "date": "2026-04-28",
           "edition": "evening",
           "update": "Trump posted on Truth Social claiming Iran informed the U.S. it is in a 'state of collapse,' and Iran reportedly requested the U.S. reopen the Strait of Hormuz. The national average gas price reached $4.18 per gallon on Tuesday, linked to the ongoing conflict. A Reuters/Ipsos poll recorded Trump's approval rating at a record low, with the war with Iran and cost-of-living concerns cited as driving factors."
+        },
+        {
+          "date": "2026-04-29",
+          "edition": "evening",
+          "update": "Defense Secretary Pete Hegseth testified before Congress regarding the Pentagon's budget in his first public congressional hearing since the war with Iran began."
+        },
+        {
+          "date": "2026-04-30",
+          "edition": "morning",
+          "update": "Trump stated the U.S. is considering reducing its troop presence in Germany, amid a dispute with German Chancellor Friedrich Merz, who publicly criticized the U.S. approach to the Iran conflict. During Hegseth's congressional hearing, House Democrats questioned him aggressively over both the conduct of the Iran war and his tenure as Defense Secretary."
+        },
+        {
+          "date": "2026-04-30",
+          "edition": "evening",
+          "update": "Hegseth extended his congressional testimony to both chambers, appearing before the House on Wednesday and the Senate on Thursday, where lawmakers pressed him on the objectives and costs of the Iran war. PCE inflation rose to 3.5% in March, the highest reading in nearly three years and above the Federal Reserve's 2% target, with the Iran conflict cited as a contributing driver. Representative Seth Moulton accused Hegseth of being 'guilty' of war crimes in a CNN interview."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1810,7 +1835,7 @@
       "title": "Cesar Chavez Sexual Abuse Investigation",
       "firstSeen": "2026-03-18",
       "lastSeen": "2026-03-31",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-03-18",
@@ -2100,7 +2125,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-04-29",
+      "lastSeen": "2026-04-30",
       "active": true
     },
     {
@@ -2163,13 +2188,18 @@
       "title": "Correspondents' Dinner Shooting Investigation",
       "parentId": null,
       "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-28",
+      "lastSeen": "2026-04-30",
       "active": true,
       "entries": [
         {
           "date": "2026-04-28",
           "edition": "morning",
           "update": "A suspect was charged with attempting to assassinate the president following a shooting at the White House Correspondents' Dinner; the charges were formally announced after the attack."
+        },
+        {
+          "date": "2026-04-30",
+          "edition": "evening",
+          "update": "The suspect charged in the assassination attempt has been identified as Cole Allen, who has agreed to remain jailed ahead of his trial. Critics of President Trump publicly blamed his rhetoric in connection with the attack."
         }
       ]
     },
@@ -2204,5 +2234,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-04-29T11:03:55.757Z"
+  "updatedAt": "2026-05-01T11:03:11.974Z"
 }
