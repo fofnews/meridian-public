@@ -265,5 +265,63 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-01T05:45:01.424Z"
+  },
+  {
+    "title": "Fertiliser boss says Iran war puts 10 billion meals a week at risk",
+    "description": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.",
+    "link": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 01 May 2026 05:51:18 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-01T06:00:01.454Z"
+  },
+  {
+    "title": "Prosecutors release video of armed man storming correspondents' dinner",
+    "description": "Federal prosecutors released a video Thursday showing the moment authorities say a man armed with guns and knives tried to storm the White House Correspondents' Association dinner and attempt to kill President Donald Trump.",
+    "link": "https://www.npr.org/2026/05/01/nx-s1-5807081/prosecutors-release-video-of-armed-man-storming-correspondents-dinner",
+    "pubDate": "Fri, 01 May 2026 01:41:09 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-05-01T06:00:01.454Z"
+  },
+  {
+    "title": "Timberwolves eliminate Nuggets as Knicks demolish Hawks in NBA playoffs",
+    "description": "Meanwhile, Celtics-76ers playoff heads for decisive game seven after Philadelphia beat Boston 106-93.",
+    "link": "https://www.aljazeera.com/sports/2026/5/1/timberwolves-eliminate-nuggets-as-knicks-demolish-hawks-in-nba-playoffs?traffic_source=rss",
+    "pubDate": "Fri, 01 May 2026 05:50:23 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-05-01T06:00:01.454Z"
+  },
+  {
+    "title": "Morning Bid: Never mind the oil, feel the earnings! - Reuters",
+    "description": "Morning Bid: Never mind the oil, feel the earnings!  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BUDVsZ0dWeXJQejJ3MkNHMTA3WWpfV0ZtTGJHZWVoQ3JLLVZrTEdrTW52cE1JNTZYRmlSMFpGSXpWNDhCS3FsZU1SRW9ndi10aFl6OU9wd3Z3VGozZHhlVnVNLWZDU2N5QzdlbWxqdl9tX2tLSTBzVS15WkpXRUk?oc=5",
+    "pubDate": "Fri, 01 May 2026 04:34:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-05-01T06:00:01.454Z"
+  },
+  {
+    "title": "Artemis crew says they wanted to 'connect with humanity,' show what can be done when they put their mind to it",
+    "description": "The Artemis II crew spoke with U.S. Ambassador to the U.N. Mike Waltz after their historic 10-day lunar flyby, calling the record-breaking mission a glorious experience.",
+    "link": "https://www.foxnews.com/science/artemis-crew-says-wanted-connect-humanity-show-what-can-done-when-put-mind",
+    "pubDate": "Fri, 01 May 2026 01:38:14 -0400",
+    "source": "Fox News",
+    "categories": [
+      "6cb2285a-f04f-5edd-828d-1715dfa6d550",
+      "fnc",
+      "fox news",
+      "fox-news/science/air-and-space/nasa",
+      "fox-news/science/air-and-space/spaceflight",
+      "fox-news/science",
+      "fox-news/world/united-nations",
+      "fox-news/person/donald-trump",
+      "fox-news/science",
+      "article"
+    ],
+    "collectedAt": "2026-05-01T06:00:01.454Z"
   }
 ]
