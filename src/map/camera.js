@@ -57,7 +57,10 @@ export function flyToLocation(map, marker, loc, { pitch = 0, duration = FOCUSED_
       duration,
       essential: true,
     });
-    marker?.setLngLat([loc.lng, loc.lat]);
+    if (marker) {
+      marker.getElement().style.display = '';
+      marker.setLngLat([loc.lng, loc.lat]);
+    }
     if (map.getLayer('country-highlight')) {
       map.setFilter('country-highlight', ['==', 'iso_3166_1', loc.iso ?? '']);
     }
@@ -71,8 +74,9 @@ export function flyToLocation(map, marker, loc, { pitch = 0, duration = FOCUSED_
 }
 
 // Fly back to the wide globe view and clear the focused-state visuals
-// (country highlight, state polygon). Used by the website's idle return.
-export function returnToAmbient(map) {
+// (country highlight, state polygon, pulse marker). Used by the
+// website's idle return.
+export function returnToAmbient(map, marker) {
   if (!map) return;
   const go = () => {
     map.flyTo({
@@ -82,6 +86,9 @@ export function returnToAmbient(map) {
       duration: AMBIENT_RETURN_DURATION_MS,
       essential: true,
     });
+    if (marker) {
+      marker.getElement().style.display = 'none';
+    }
     if (map.getLayer('country-highlight')) {
       map.setFilter('country-highlight', ['==', 'iso_3166_1', '']);
     }

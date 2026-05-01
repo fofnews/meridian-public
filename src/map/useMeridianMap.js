@@ -143,7 +143,7 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch }) {
 
   const enterAmbient = useCallback(() => {
     if (!mapRef.current) return;
-    returnToAmbient(mapRef.current);
+    returnToAmbient(mapRef.current, markerRef.current);
     currentPolygonRef.current = null;
     rotationRef.current?.setActive(true);
   }, []);
