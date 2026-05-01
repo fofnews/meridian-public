@@ -341,5 +341,67 @@
     "source": "CBS News",
     "categories": [],
     "collectedAt": "2026-05-01T06:15:01.196Z"
+  },
+  {
+    "title": "Why Labour's London squeeze exposes a fragmented modern British politics",
+    "description": "London offers an insight into the dilemma Labour faces about which direction to take.",
+    "link": "https://www.bbc.com/news/articles/cwy2vlww2ezo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 01 May 2026 06:09:47 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-01T06:30:01.260Z"
+  },
+  {
+    "title": "On May Day, Gaza’s workers find whatever source of income they can",
+    "description": "Gaza's economic collapse leaves workers in perilous jobs, with unemployment soaring amid ongoing devastation.",
+    "link": "https://www.aljazeera.com/features/2026/5/1/on-may-day-gazas-workers-find-whatever-source-of-income-they-can?traffic_source=rss",
+    "pubDate": "Fri, 01 May 2026 06:21:31 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-01T06:30:01.260Z"
+  },
+  {
+    "title": "Why is piracy rising off Somalia again — and is the Iran war responsible?",
+    "description": "At least four vessels have been hijacked in the past week or two, raising fears of a piracy resurgence.",
+    "link": "https://www.aljazeera.com/news/2026/5/1/why-is-piracy-rising-off-somalia-again-and-is-the-iran-war?traffic_source=rss",
+    "pubDate": "Fri, 01 May 2026 06:10:45 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-01T06:30:01.260Z"
+  },
+  {
+    "title": "2 US Bank employees fatally shot in robbery in Kentucky — as police launch manhunt for suspect",
+    "description": "A man wearing a gray-white hoodie, gloves and a mask entered a branch of US Bank in Berea and shot a male and female employee, said Trooper Scottie Pennington, a spokesperson for the Kentucky State Police.",
+    "link": "https://nypost.com/2026/05/01/us-news/2-us-bank-employees-fatally-shot-in-robbery-in-berea-kentucky-cops-searching-for-suspect/",
+    "pubDate": "Fri, 01 May 2026 02:18:39 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-01T06:30:01.260Z"
+  },
+  {
+    "title": "Rand Paul proposes amendment to end birthright citizenship for illegal immigrants in the U.S.",
+    "description": "Sen. Rand Paul (R-KY) proposed an amendment on Thursday to “protect United States citizenship” and end birthright citizenship automatically granted to citizens born in the country as stipulated in the 14th Amendment. “A person born in the United States may only be considered ‘subject to the jurisdiction of the United States’ if the person is […]",
+    "link": "https://www.washingtonexaminer.com/news/4550925/rand-paul-amendment-end-birthright-citizenship-illegal-immigrants/",
+    "pubDate": "Fri, 01 May 2026 06:22:06 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "14th amendment",
+      "citizenship",
+      "civil war",
+      "constitution",
+      "donald trump",
+      "illegal immigrants",
+      "illegal immigration",
+      "president donald trump",
+      "rand paul",
+      "slavery",
+      "u.s. civil war"
+    ],
+    "collectedAt": "2026-05-01T06:30:01.260Z"
   }
 ]
