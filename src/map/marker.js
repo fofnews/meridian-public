@@ -6,7 +6,11 @@ export function createPulseMarker(isDark) {
   const ringColor = isDark ? 'rgba(232,197,71,0.45)' : 'rgba(154,114,0,0.45)';
 
   const wrapper = document.createElement('div');
-  wrapper.style.cssText = 'position: relative; width: 10px; height: 10px;';
+  // Hidden by default — flyToLocation reveals it, returnToAmbient
+  // hides it again. Without this the marker would pulse over [0, 20]
+  // (somewhere in the Atlantic) at page load and over the previously
+  // focused location after the idle return.
+  wrapper.style.cssText = 'position: relative; width: 10px; height: 10px; display: none;';
 
   const ring = document.createElement('div');
   ring.className = 'marker-ring';
