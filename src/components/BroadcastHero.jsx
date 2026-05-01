@@ -4,7 +4,15 @@ import { useTheme } from '../ThemeContext.jsx';
 import { createMap } from '../map/kernel.js';
 import { applyMapStyle } from '../map/layers.js';
 import { updatePulseMarkerTheme } from '../map/marker.js';
-import { getStoryZoom, getMapPadding, flyToLocation as kernelFlyTo } from '../map/camera.js';
+import {
+  getStoryZoom,
+  getMapPadding,
+  flyToLocation as kernelFlyTo,
+  returnToAmbient,
+  startAmbientRotation,
+  AMBIENT_IDLE_TIMEOUT_MS,
+  FOCUSED_PITCH_WEBSITE,
+} from '../map/camera.js';
 
 const CHYRON_LABELS = ['Breaking', 'Developing', 'Analysis', 'Report', 'Update', 'Exclusive'];
 
@@ -118,6 +126,11 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
   // target here so the init effect can apply it once the map is ready.
   const pendingFlyRef = useRef(null);
   const currentPolygonRef = useRef(null);
+  // Ambient mode (item 0b): bearing rotates slowly when no story is
+  // focused; an idle timer flips the map back to the wide globe view
+  // 30s after the last focus.
+  const rotationRef = useRef(null);
+  const idleTimerRef = useRef(null);
 
   // Clock
   useEffect(() => {
@@ -159,12 +172,18 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
       mapRef.current = map;
       markerRef.current = marker;
 
+      // Start ambient bearing rotation. It pauses automatically when
+      // a story is focused (rotationRef.current.setActive(false) below)
+      // and when the tab is backgrounded.
+      rotationRef.current = startAmbientRotation(map);
+
       // Apply any fly-to that was requested while we were still loading.
       if (pendingFlyRef.current) {
         const loc = pendingFlyRef.current;
         pendingFlyRef.current = null;
-        kernelFlyTo(map, marker, loc);
+        kernelFlyTo(map, marker, loc, { pitch: FOCUSED_PITCH_WEBSITE });
         currentPolygonRef.current = loc.polygon ?? null;
+        rotationRef.current?.setActive(false);
       }
     }).catch((err) => {
       console.warn('Mapbox failed to load:', err);
@@ -172,6 +191,12 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
 
     return () => {
       cancelled = true;
+      rotationRef.current?.stop();
+      rotationRef.current = null;
+      if (idleTimerRef.current) {
+        clearTimeout(idleTimerRef.current);
+        idleTimerRef.current = null;
+      }
       if (mapInstance) {
         mapInstance.remove();
       }
@@ -245,13 +270,29 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
   const featured = stories[selectedIdx] ?? stories[0];
   const featuredLocations = featured?.analysis?.locations?.filter(l => l?.lat != null && l?.lng != null) ?? [];
 
+  const enterAmbient = () => {
+    if (!mapRef.current) return;
+    returnToAmbient(mapRef.current);
+    currentPolygonRef.current = null;
+    rotationRef.current?.setActive(true);
+  };
+
   const flyToLocation = (loc) => {
     if (!mapRef.current) {
       pendingFlyRef.current = loc;
       return;
     }
-    kernelFlyTo(mapRef.current, markerRef.current, loc);
+    kernelFlyTo(mapRef.current, markerRef.current, loc, { pitch: FOCUSED_PITCH_WEBSITE });
     currentPolygonRef.current = loc.polygon ?? null;
+
+    // Enter focused state: stop the ambient rotation, then reset the
+    // idle timer so it fires AMBIENT_IDLE_TIMEOUT_MS after this focus.
+    rotationRef.current?.setActive(false);
+    if (idleTimerRef.current) clearTimeout(idleTimerRef.current);
+    idleTimerRef.current = setTimeout(() => {
+      idleTimerRef.current = null;
+      enterAmbient();
+    }, AMBIENT_IDLE_TIMEOUT_MS);
   };
 
   // Fly to first location when story changes. Runs even before the map is
