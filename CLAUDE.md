@@ -62,6 +62,10 @@ vercel.json           — SPA rewrite rules (non-/api/* → index.html)
 - Do not use Node-specific APIs (`fs`, `path.resolve(__dirname)`) in the `api/` serverless functions
 - `vercel.json` rewrites all non-API paths to `index.html` for SPA routing — do not remove this
 
+## Session notes
+
+When ending a working session, write a session note to `docs/sessions/YYYY-MM-DD-<slug>.md` using the structure in `docs/sessions/_template.md`. The user syncs this folder to their Obsidian vault.
+
 ## Data Files
 
 All data files are read-only on the public site — they are written by Meridian-Website and synced via git:
