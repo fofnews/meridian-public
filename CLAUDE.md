@@ -32,12 +32,20 @@ api/                  — Vercel serverless functions (production API)
 src/                  — React frontend
   App.jsx             — Main layout, date/edition state, view routing
   components/
-    ArticlesView.jsx  — Articles tab: category/subcategory filters, topic chips, search
-    BroadcastHero.jsx — Full-width featured story hero
-    DateNav.jsx       — Date and edition navigation
-    StoryCard.jsx     — Story display with analysis sections
-    TimelineView.jsx  — Ongoing topics timeline (flattens parent/child hierarchy via buildDisplayTimelines, shows sub-thread labels)
-    SuggestionBox.jsx — User suggestion submission and voting
+    ArticlesView.jsx    — Articles tab: category/subcategory filters, topic chips, search
+    MapHero.jsx         — Website-side full-width map hero (sober status strip)
+    BroadcastStage.jsx  — Video-side map component (chyron, LIVE, ticker, scanlines); rendered by ?mode=broadcast (item #11)
+    DateNav.jsx         — Date and edition navigation
+    StoryCard.jsx       — Story display with analysis sections
+    TimelineView.jsx    — Ongoing topics timeline (flattens parent/child hierarchy via buildDisplayTimelines, shows sub-thread labels)
+    SuggestionBox.jsx   — User suggestion submission and voting
+  map/                  — Shared map kernel (consumed by both MapHero and BroadcastStage)
+    kernel.js           — createMap (lazy Mapbox load, projection: globe)
+    layers.js           — applyMapStyle (highlight + style patches)
+    marker.js           — radar-pulse marker
+    camera.js           — flyToLocation, ambient rotation, returnToAmbient
+    geocoding.js        — headline-based location fallback
+    useMeridianMap.js   — orchestration hook (refs, init, theme switch, focus + idle)
 reports/              — Analysis JSON files (synced from Meridian-Website)
 articles/             — Raw article JSON files (synced from Meridian-Website)
 topics/               — Topic chip JSON files (synced from Meridian-Website)

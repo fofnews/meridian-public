@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback, useRef, useLayoutEffect } from 'react';
 import { Sun, Moon, ArrowUp } from 'lucide-react';
-import BroadcastHero from './components/BroadcastHero';
+import MapHero from './components/MapHero';
 import DateNav from './components/DateNav';
 import StoryCard from './components/StoryCard';
 import SuggestionBox from './components/SuggestionBox';
@@ -133,15 +133,16 @@ export default function App() {
       {/* Broadcast hero — silent failure so a bad story doesn't block the page */}
       {!loading && report && multiSource.length > 0 && (
         <ErrorBoundary
-          label="broadcast hero"
+          label="map hero"
           fallback={null}
           resetKey={`${selectedDate}-${selectedEdition}-${featuredIdx}`}
         >
-          <BroadcastHero
+          <MapHero
             stories={multiSource}
             selectedIdx={featuredIdx}
             onSelect={setFeaturedIdx}
             edition={selectedEdition}
+            selectedDate={selectedDate}
             availableEditions={availableDates.find(d => d.date === selectedDate)?.editions ?? []}
             onEditionSelect={edition => loadReport(selectedDate, edition)}
           />
