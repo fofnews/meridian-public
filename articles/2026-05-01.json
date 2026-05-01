@@ -475,5 +475,76 @@
     "source": "NPR",
     "categories": [],
     "collectedAt": "2026-05-01T07:00:01.456Z"
+  },
+  {
+    "title": "Man charged with attempted murder after stabbings of Jewish men in London",
+    "description": "A 45-year-old man has been charged with attempted murder in the stabbings of two Jewish men in London",
+    "link": "https://abcnews.com/International/wireStory/man-charged-attempted-murder-after-stabbings-jewish-men-132562184",
+    "pubDate": "Fri, 01 May 2026 03:00:58 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-05-01T07:15:01.204Z"
+  },
+  {
+    "title": "5 wounded in possible stabbing attack at Washington high school",
+    "description": "The suspect, a student, was detained at the scene, police said.",
+    "link": "https://www.cbsnews.com/news/several-wounded-possible-stabbing-attack-tacoma-washington-foss-high-school/",
+    "pubDate": "Fri, 01 May 2026 03:01:54 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-05-01T07:15:01.204Z"
+  },
+  {
+    "title": "Russia hammers targets across Ukraine overnight",
+    "description": "Attacks on towns on the Black Sea and in central Ukraine kill one, injure several.",
+    "link": "https://www.aljazeera.com/news/2026/5/1/russia-hammers-targets-across-ukraine-overnight?traffic_source=rss",
+    "pubDate": "Fri, 01 May 2026 06:42:10 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-01T07:15:01.204Z"
+  },
+  {
+    "title": "What do Ukraine’s robot soldiers mean for the future of warfare?",
+    "description": "Remote-controlled weapons have been used for some time, but AI is now on the cusp of making battlefield decisions.",
+    "link": "https://www.aljazeera.com/news/2026/5/1/what-do-ukraines-robot-soldiers-mean-for-the-future-of-warfare?traffic_source=rss",
+    "pubDate": "Fri, 01 May 2026 06:29:29 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-01T07:15:01.204Z"
+  },
+  {
+    "title": "Two Kentucky bank employees shot and killed during robbery, police hunting suspect",
+    "description": "Police are searching for a suspect after two U.S. Bank employees were shot and killed during a robbery at the Berea, Kentucky branch on Thursday.",
+    "link": "https://www.foxnews.com/us/two-kentucky-bank-employees-shot-killed-during-robbery-police-hunting-suspect",
+    "pubDate": "Fri, 01 May 2026 02:54:32 -0400",
+    "source": "Fox News",
+    "categories": [
+      "342fee81-840a-5c9b-a509-91139ec6ad48",
+      "fnc",
+      "fox news",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/tech/topics/fbi",
+      "fox-news/us/us-regions/southeast/kentucky",
+      "fox-news/us/crime/robbery-theft",
+      "fox-news/us/crime/homicide",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-05-01T07:15:01.204Z"
+  },
+  {
+    "title": "Dear Abby: My adult son blames me for his estranged father who beat him as a child",
+    "description": "This reader asks Dear Abby what she should do about her adult children and their estranged father.",
+    "link": "https://nypost.com/2026/05/01/lifestyle/dear-abby-my-adult-son-blames-me-for-his-estranged-father-who-beat-him-as-a-child/",
+    "pubDate": "Fri, 01 May 2026 03:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-01T07:15:01.204Z"
   }
 ]
