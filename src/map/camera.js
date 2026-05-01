@@ -7,12 +7,18 @@
 const STORY_ZOOM_DESKTOP = 5;
 const STORY_ZOOM_MOBILE  = 4;
 
-// Website ambient-mode policy (item 0b).
+// Website ambient-mode policy (items 0b + 0c).
 // Rotation rate is intentionally slow — anything > ~1°/sec reads as
 // motion sickness rather than ambient life. The idle timeout is the
 // "show's over, drift back to the globe" fallback for visitors who
 // stop interacting.
-export const AMBIENT_BEARING_DEG_PER_SEC = 0.5;
+//
+// Rotation is applied to center.longitude (not bearing). On the globe
+// projection this gives the classic west-to-east "earth spinning on
+// its axis" look; bearing rotation would spin the sphere around the
+// screen-perpendicular axis instead, which reads as tilted/wrong.
+// Works fine on mercator too — it just scrolls the map sideways.
+export const AMBIENT_LONGITUDE_DEG_PER_SEC = 0.5;
 export const AMBIENT_IDLE_TIMEOUT_MS = 30_000;
 export const AMBIENT_RETURN_DURATION_MS = 3_000;
 export const AMBIENT_CENTER = [0, 20];
@@ -100,9 +106,14 @@ export function startAmbientRotation(map) {
   const tick = (now) => {
     if (stopped) return;
     if (active && !document.hidden && map && !map._removed) {
-      // Cap dt so a long-paused tab doesn't fling the bearing on resume.
+      // Cap dt so a long-paused tab doesn't fling the longitude on resume.
       const dt = Math.min((now - lastT) / 1000, 0.1);
-      map.setBearing(map.getBearing() + AMBIENT_BEARING_DEG_PER_SEC * dt);
+      const cur = map.getCenter();
+      let nextLng = cur.lng + AMBIENT_LONGITUDE_DEG_PER_SEC * dt;
+      // Normalize to [-180, 180] so the value doesn't grow without bound.
+      if (nextLng > 180) nextLng -= 360;
+      else if (nextLng < -180) nextLng += 360;
+      map.setCenter([nextLng, cur.lat]);
     }
     lastT = now;
     raf = requestAnimationFrame(tick);

@@ -2,7 +2,7 @@
 
 Goal: turn `BroadcastHero`'s Mapbox map from an interactive info widget into a video-grade backdrop for news clips generated from Meridian reports, then build the recording pipeline that turns each daily edition into publishable video.
 
-**Status:** 2 / 23 complete · Last updated: 2026-04-30
+**Status:** 3 / 23 complete · Last updated: 2026-04-30
 
 To resume work in a new session: ask Claude to read `docs/map-broadcast-checklist.md`.
 
@@ -32,11 +32,11 @@ What diverges (lives in wrappers): camera pitch + bearing, fly duration, interac
   - `BroadcastHero.jsx` wires it: rotation starts when the map loads, pauses on focus, idle timer (30s) calls `enterAmbient` after last focus. Story flyTo passes `pitch: 30`.
   - Deferred (depends on later items): "all story markers visible as dim" lands with multi-marker support (around #10); "draw source arcs on focus" lands with #9; the wide globe view itself becomes more striking once #1 ships globe projection.
 
-- [ ] **0c. Globe-vs-flat strategy for mobile**
-  - Test globe projection on mid-range Android (Pixel 6a class) — measure FPS during ambient rotation and during flyTo
-  - If unacceptable, fall back to flat mercator below a viewport threshold (e.g. <600px width) while keeping the same `meridian.style.json`
-  - Brand identity should degrade gracefully, not break — same colors, labels, markers regardless of projection
-  - Document the decision in `src/map/kernel.js`
+- [x] **0c. Globe-vs-flat strategy for mobile**
+  - Decision: globe on all viewports. No mobile fallback. The "spinning earth" baseline only reads as broadcast on the sphere; mercator at zoom 1 looks like Google Maps. If perf becomes an issue, the contingency (viewport-based fallback) is documented inline in `src/map/kernel.js` near the `projection: 'globe'` setting and can be added without touching the rest of the kernel.
+  - Implementation: `projection: 'globe'` set on the map constructor in `kernel.js`.
+  - Knock-on fix to 0b: `startAmbientRotation` now increments center longitude (constant `AMBIENT_LONGITUDE_DEG_PER_SEC`, was `AMBIENT_BEARING_DEG_PER_SEC`). Bearing rotation on a globe spins the sphere around the screen-perpendicular axis, which reads as wrong; longitude rotation gives the classic west-to-east "earth on its axis" intro that the broadcast aesthetic expects.
+  - Not done (deferred to user): empirical FPS measurement on a real mid-range Android. If problematic, revisit the contingency in `kernel.js`.
 
 - [ ] **0d. Move broadcast-costume elements to video-only surface**
   - The chyron (upper + lower bars), LIVE badge, scrolling ticker, and CRT scanlines all currently render on the website surface inside `BroadcastHero.jsx`. Move them to the video wrapper only.
