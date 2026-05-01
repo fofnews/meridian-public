@@ -1,27 +1,13 @@
 import { useState, useEffect, useRef } from 'react';
 import { decodeText } from '../utils';
 import { useTheme } from '../ThemeContext.jsx';
+import { loadMapbox, createMap } from '../map/kernel.js';
+import { applyTheme } from '../map/layers.js';
+import { createMarker } from '../map/marker.js';
+import { getMapPadding } from '../map/camera.js';
 
-// Mapbox is split into its own chunk (~500KB JS + CSS) via dynamic import so
-// it doesn't bloat the main bundle. We kick off the download eagerly when this
-// module parses so it fetches in parallel with the rest of the app's initial
-// render — closing the race where a user clicks a story before the map is ready.
-let mapboxPromise = null;
-function loadMapbox() {
-  if (!mapboxPromise) {
-    mapboxPromise = Promise.all([
-      import('mapbox-gl'),
-      import('mapbox-gl/dist/mapbox-gl.css'),
-    ]).then(([mod]) => {
-      const mapboxgl = mod.default;
-      mapboxgl.accessToken = import.meta.env.VITE_MAPBOX_TOKEN;
-      return mapboxgl;
-    });
-  }
-  return mapboxPromise;
-}
-
-// Start the download now; the init effect will await the same cached promise.
+// Kick off the Mapbox bundle download eagerly so it's ready before the user
+// clicks a story — the kernel module caches the promise.
 loadMapbox().catch(() => {});
 
 const CHYRON_LABELS = ['Breaking', 'Developing', 'Analysis', 'Report', 'Update', 'Exclusive'];
@@ -34,7 +20,6 @@ function getStoryZoom() {
 
 const geocodeCache = {};
 
-// Extract likely place names from a headline (capitalized words, skipping common non-place words)
 const SKIP_WORDS = new Set([
   'The','His','Her','Its','Their','This','That','These','Those','After','Before',
   'During','Former','New','Possible','National','Federal','State','Supreme','Top',
@@ -48,7 +33,7 @@ function extractLocationQuery(headline) {
     /^[A-Z][a-z]{2,}/.test(w) &&
     !SKIP_WORDS.has(w) &&
     !/^(FBI|CIA|TSA|DHS|NATO|GOP|UN|EU)$/.test(w)
-  ).map(w => w.replace(/[''s]+$/, '')); // strip possessives
+  ).map(w => w.replace(/[''s]+$/, ''));
   return places.slice(0, 2).join(' ') || null;
 }
 
@@ -125,195 +110,6 @@ function truncateHeadline(headline, maxLen = 72) {
   return decoded.length <= maxLen ? decoded : decoded.slice(0, maxLen - 1) + '…';
 }
 
-function createMarkerElement(isDark) {
-  const dotColor = isDark ? '#e8c547' : '#9A7200';
-  const ringColor = isDark ? 'rgba(232,197,71,0.45)' : 'rgba(154,114,0,0.45)';
-
-  const wrapper = document.createElement('div');
-  wrapper.style.cssText = 'position: relative; width: 10px; height: 10px;';
-
-  const ring = document.createElement('div');
-  ring.className = 'marker-ring';
-  ring.style.cssText = `
-    position: absolute;
-    width: 28px; height: 28px;
-    border-radius: 50%;
-    border: 1px solid ${ringColor};
-    top: 50%; left: 50%;
-    transform: translate(-50%, -50%);
-    pointer-events: none;
-  `;
-
-  const dot = document.createElement('div');
-  dot.className = isDark ? 'dot-pulse' : 'dot-pulse-light';
-  dot.style.cssText = `width: 10px; height: 10px; border-radius: 50%; background: ${dotColor};`;
-
-  wrapper.appendChild(ring);
-  wrapper.appendChild(dot);
-  return wrapper;
-}
-
-function getMapPadding(containerEl) {
-  const w = containerEl?.offsetWidth ?? window.innerWidth;
-  if (w < 640) return { top: 20, bottom: 80, left: 0, right: 0 };
-  if (w < 900) return { top: 30, bottom: 100, left: 0, right: 100 };
-  return { top: 40, bottom: 110, left: 0, right: 160 };
-}
-
-function applyMapStyle(map, isDark) {
-  // Land color — warm paper in light, dark navy in dark
-  try {
-    map.setPaintProperty('land', 'background-color', isDark ? '#222534' : '#F5F2ED');
-  } catch {}
-
-  if (isDark) {
-    // Dark mode preserves base style's labels, restyled for the broadcast look
-    try {
-      map.setPaintProperty('country-label', 'text-color', '#ffffff');
-      map.setPaintProperty('country-label', 'text-halo-color', 'rgba(0,0,0,0.6)');
-      map.setPaintProperty('country-label', 'text-halo-width', 1.5);
-      map.setLayoutProperty('country-label', 'text-size', 20);
-    } catch {}
-    try {
-      const style = map.getStyle();
-      if (style && style.layers) {
-        style.layers.forEach(layer => {
-          if (layer.id.startsWith('admin-1')) {
-            try {
-              map.setLayoutProperty(layer.id, 'visibility', 'visible');
-              map.setPaintProperty(layer.id, 'line-color', 'rgba(180,190,220,0.2)');
-              map.setPaintProperty(layer.id, 'line-width', 0.5);
-              map.setLayerZoomRange(layer.id, 3, 24);
-            } catch {}
-          }
-        });
-      }
-    } catch {}
-  } else {
-    // Light mode — editorial monochrome: paint water, restyle admin-1 lines as
-    // subtle guides, strip road / POI / transit / natural-feature noise, but
-    // keep place labels so the map gives orientation context.
-    try { map.setPaintProperty('water', 'fill-color', '#DCE5EC'); } catch {}
-
-    try {
-      const style = map.getStyle();
-      if (style && style.layers) {
-        style.layers.forEach((layer) => {
-          const id = layer.id;
-          if (id.startsWith('admin-1')) {
-            try {
-              map.setLayoutProperty(id, 'visibility', 'visible');
-              map.setPaintProperty(id, 'line-color', 'rgba(10,24,40,0.15)');
-              map.setPaintProperty(id, 'line-width', 0.5);
-              map.setLayerZoomRange(id, 3, 24);
-            } catch {}
-            return;
-          }
-          if (
-            id.startsWith('road') ||
-            id.startsWith('bridge') ||
-            id.startsWith('tunnel') ||
-            id.startsWith('ferry') ||
-            id.startsWith('poi') ||
-            id.startsWith('natural') ||
-            id.startsWith('transit') ||
-            id === 'waterway-label' ||
-            id === 'water-line-label'
-          ) {
-            try { map.setLayoutProperty(id, 'visibility', 'none'); } catch {}
-          }
-        });
-      }
-    } catch {}
-
-    // Tint country labels to match the navy/paper palette
-    try {
-      map.setPaintProperty('country-label', 'text-color', '#0A1828');
-      map.setPaintProperty('country-label', 'text-halo-color', 'rgba(245,242,237,0.85)');
-      map.setPaintProperty('country-label', 'text-halo-width', 1.5);
-    } catch {}
-  }
-
-  // Country highlight + border layers (re-added after every style change)
-  try {
-    if (!map.getSource('country-boundaries')) {
-      map.addSource('country-boundaries', {
-        type: 'vector',
-        url: 'mapbox://mapbox.country-boundaries-v1',
-      });
-    }
-    if (!map.getLayer('country-highlight')) {
-      map.addLayer({
-        id: 'country-highlight',
-        type: 'fill',
-        source: 'country-boundaries',
-        'source-layer': 'country_boundaries',
-        filter: ['==', 'iso_3166_1', ''],
-        paint: {
-          'fill-color': isDark ? '#e8c547' : '#9A7200',
-          'fill-opacity': isDark ? 0.18 : 0.13,
-        },
-      });
-    } else {
-      map.setPaintProperty('country-highlight', 'fill-color', isDark ? '#e8c547' : '#9A7200');
-      map.setPaintProperty('country-highlight', 'fill-opacity', isDark ? 0.18 : 0.13);
-    }
-    if (!map.getLayer('country-borders')) {
-      map.addLayer({
-        id: 'country-borders',
-        type: 'line',
-        source: 'country-boundaries',
-        'source-layer': 'country_boundaries',
-        paint: {
-          'line-color': isDark ? 'rgba(180,190,220,0.6)' : '#0A1828',
-          'line-width': isDark ? 0.8 : 0.5,
-          'line-opacity': isDark ? 0.6 : 0.65,
-        },
-      });
-    } else {
-      map.setPaintProperty('country-borders', 'line-color', isDark ? 'rgba(180,190,220,0.6)' : '#0A1828');
-      map.setPaintProperty('country-borders', 'line-width', isDark ? 0.8 : 0.5);
-      map.setPaintProperty('country-borders', 'line-opacity', isDark ? 0.6 : 0.65);
-    }
-    if (!map.getSource('state-boundary')) {
-      map.addSource('state-boundary', {
-        type: 'geojson',
-        data: { type: 'FeatureCollection', features: [] },
-      });
-    }
-    if (!map.getLayer('state-highlight')) {
-      map.addLayer({
-        id: 'state-highlight',
-        type: 'fill',
-        source: 'state-boundary',
-        paint: {
-          'fill-color': isDark ? '#e8c547' : '#9A7200',
-          'fill-opacity': isDark ? 0.18 : 0.13,
-        },
-      });
-    } else {
-      map.setPaintProperty('state-highlight', 'fill-color', isDark ? '#e8c547' : '#9A7200');
-      map.setPaintProperty('state-highlight', 'fill-opacity', isDark ? 0.18 : 0.13);
-    }
-    if (!map.getLayer('state-border')) {
-      map.addLayer({
-        id: 'state-border',
-        type: 'line',
-        source: 'state-boundary',
-        paint: {
-          'line-color': isDark ? 'rgba(232,197,71,0.7)' : '#9A7200',
-          'line-width': 1,
-          'line-opacity': isDark ? 0.7 : 0.65,
-        },
-      });
-    } else {
-      map.setPaintProperty('state-border', 'line-color', isDark ? 'rgba(232,197,71,0.7)' : '#9A7200');
-      map.setPaintProperty('state-border', 'line-width', 1);
-      map.setPaintProperty('state-border', 'line-opacity', isDark ? 0.7 : 0.65);
-    }
-  } catch {}
-}
-
 export default function BroadcastHero({ stories, selectedIdx, onSelect, edition, availableEditions = [], onEditionSelect }) {
   const { isDark } = useTheme();
   const EDITION_LABELS = { morning: '☀  Morning', evening: '🌙  Evening' };
@@ -325,10 +121,9 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
   const mapContainer = useRef(null);
   const mapRef = useRef(null);
   const markerRef = useRef(null);
+  const markerUpdateThemeRef = useRef(null);
   const styleLoadCallbackRef = useRef(null);
   const pendingIsDarkRef = useRef(isDark);
-  // If a fly-to is requested before the map finishes loading, we stash the
-  // target here so the init effect can apply it once the map is ready.
   const pendingFlyRef = useRef(null);
   const currentPolygonRef = useRef(null);
 
@@ -345,15 +140,14 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
     return () => clearInterval(id);
   }, []);
 
-  // Initialize map (skipped entirely when disabled). Mapbox is imported
-  // lazily here so that users who never enable the map never pay the
-  // ~500KB bundle cost.
+  // Initialize map
   useEffect(() => {
     if (!mapEnabled) {
       if (mapRef.current) {
         mapRef.current.remove();
         mapRef.current = null;
         markerRef.current = null;
+        markerUpdateThemeRef.current = null;
       }
       return;
     }
@@ -361,34 +155,30 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
     if (!mapContainer.current || mapRef.current) return;
 
     let cancelled = false;
-    let map = null;
+    let mapInstance = null;
 
-    loadMapbox().then((mapboxgl) => {
-      if (cancelled || !mapContainer.current || mapRef.current) return;
-
-      map = new mapboxgl.Map({
-        container: mapContainer.current,
-        style: isDark ? 'mapbox://styles/mapbox/dark-v11' : 'mapbox://styles/mapbox/light-v11',
-        center: [0, 20],
-        zoom: 1.0,
-        interactive: true,
-        attributionControl: false,
-      });
-
-      map.on('load', () => {
+    createMap(mapContainer.current, {
+      isDark,
+      onLoad: (map) => {
+        if (cancelled) return;
         map.resize();
         map.setPadding(getMapPadding(mapContainer.current));
-        applyMapStyle(map, isDark);
-      });
+        applyTheme(map, isDark);
+      },
+    }).then(({ map, mapboxgl }) => {
+      if (cancelled || !mapContainer.current || mapRef.current) {
+        map.remove();
+        return;
+      }
 
-      const marker = new mapboxgl.Marker({ element: createMarkerElement(isDark), anchor: 'center' })
-        .setLngLat([0, 20])
-        .addTo(map);
+      mapInstance = map;
+      const { marker, updateTheme } = createMarker(mapboxgl, [0, 20], isDark);
+      marker.addTo(map);
 
       mapRef.current = map;
       markerRef.current = marker;
+      markerUpdateThemeRef.current = updateTheme;
 
-      // Apply any fly-to that was requested while we were still loading.
       if (pendingFlyRef.current) {
         const loc = pendingFlyRef.current;
         pendingFlyRef.current = null;
@@ -413,25 +203,21 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
 
     return () => {
       cancelled = true;
-      if (map) {
-        map.remove();
-      }
+      if (mapInstance) mapInstance.remove();
       mapRef.current = null;
       markerRef.current = null;
+      markerUpdateThemeRef.current = null;
     };
   }, [mapEnabled]);
 
-  // Persist map preferences
   useEffect(() => { localStorage.setItem('meridian-map', mapEnabled); }, [mapEnabled]);
   useEffect(() => { localStorage.setItem('meridian-map-visible', mapVisible); }, [mapVisible]);
 
-  // Resize map when expanded or visibility changes
   useEffect(() => {
     const id = setTimeout(() => mapRef.current?.resize(), 50);
     return () => clearTimeout(id);
   }, [expanded, mapVisible]);
 
-  // Update map padding when container resizes (orientation changes, expand/collapse)
   useEffect(() => {
     if (!mapContainer.current) return;
     const ro = new ResizeObserver(() => {
@@ -443,7 +229,6 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
     return () => ro.disconnect();
   }, []);
 
-  // Escape key to collapse
   useEffect(() => {
     if (!expanded) return;
     const handler = (e) => { if (e.key === 'Escape') setExpanded(false); };
@@ -458,7 +243,6 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
     if (!mapRef.current) return;
     const map = mapRef.current;
 
-    // Cancel any stale style.load listener from a previous rapid toggle
     if (styleLoadCallbackRef.current) {
       map.off('style.load', styleLoadCallbackRef.current);
       styleLoadCallbackRef.current = null;
@@ -469,7 +253,7 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
 
     const onStyleLoad = () => {
       styleLoadCallbackRef.current = null;
-      applyMapStyle(map, pendingIsDarkRef.current);
+      applyTheme(map, pendingIsDarkRef.current);
       if (currentPolygonRef.current && map.getSource('state-boundary')) {
         map.getSource('state-boundary').setData(currentPolygonRef.current);
       }
@@ -477,19 +261,7 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
     styleLoadCallbackRef.current = onStyleLoad;
     map.once('style.load', onStyleLoad);
 
-    // Update marker colors to match new theme
-    if (markerRef.current) {
-      const dotColor = isDark ? '#e8c547' : '#9A7200';
-      const ringColor = isDark ? 'rgba(232,197,71,0.45)' : 'rgba(154,114,0,0.45)';
-      const el = markerRef.current.getElement();
-      const dot = el.querySelector('.dot-pulse, .dot-pulse-light');
-      const ring = el.querySelector('.marker-ring');
-      if (dot) {
-        dot.style.background = dotColor;
-        dot.className = isDark ? 'dot-pulse' : 'dot-pulse-light';
-      }
-      if (ring) ring.style.borderColor = ringColor;
-    }
+    markerUpdateThemeRef.current?.(isDark);
   }, [isDark]);
 
   const featured = stories[selectedIdx] ?? stories[0];
@@ -517,8 +289,6 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
     if (map.loaded()) go(); else map.once('load', go);
   };
 
-  // Fly to first location when story changes. Runs even before the map is
-  // ready — flyToLocation queues the target and drains it on map init.
   useEffect(() => {
     if (!featured) return;
     setActiveLocIdx(0);
@@ -550,7 +320,6 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
     setTickerDuration(totalDistance / TICKER_SPEED_PX_PER_S);
   }, [tickerText]);
 
-  // Semi-transparent color helpers using CSS RGB vars (works in inline styles)
   const btnBg    = `rgba(var(--bg-secondary-rgb), 0.80)`;
   const chyronUpper = `rgba(var(--bg-secondary-rgb), 0.92)`;
   const chyronLower = `rgba(var(--bg-chyron-rgb), 0.96)`;
@@ -563,7 +332,6 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
     ? 'radial-gradient(ellipse at 52% 48%, rgba(10,13,20,0.3) 0%, rgba(10,13,20,0.75) 100%)'
     : 'radial-gradient(ellipse at 52% 48%, rgba(244,240,232,0.1) 0%, rgba(244,240,232,0.45) 100%)';
 
-  // Chyron JSX — shared between normal (flow) and expanded (overlay) modes
   const chyronContent = (
     <>
       <div
@@ -630,8 +398,7 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
     ? { position: 'fixed', inset: 0, zIndex: 50, width: '100vw', height: '100vh' }
     : { height: 'clamp(220px, 45vh, 560px)', zIndex: 20 };
 
-  // Button bottom offsets: clear chyron overlay when expanded, sit near edge otherwise
-  const locBottom  = expanded ? 'calc(var(--chyron-h) + 4px)'  : '8px';
+  const locBottom = expanded ? 'calc(var(--chyron-h) + 4px)' : '8px';
 
   return (
     <div style={{ position: 'sticky', top: 0, zIndex: 30 }}>
@@ -656,26 +423,20 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
         </div>
       )}
 
-      {/* Map div — sticky in normal mode, fixed fullscreen when expanded */}
       <div
         className="relative w-full overflow-hidden hero-aspect-container"
         style={{ ...containerStyle, display: mapVisible ? '' : 'none' }}
       >
-          {/* Mapbox map */}
           <div ref={mapContainer} className="absolute inset-0" style={{ opacity: 1.8, width: '100%', height: '100%' }} />
 
-          {/* Fallback background when map is disabled */}
           {!mapEnabled && (
             <div className="absolute inset-0" style={{ background: 'var(--bg-primary)' }} />
           )}
 
-          {/* Radial overlay */}
           {mapEnabled && <div className="absolute inset-0 pointer-events-none" style={{ background: overlayGrad }} />}
 
-          {/* CRT scanlines */}
           {mapEnabled && <div className="absolute inset-0 scanlines pointer-events-none" />}
 
-          {/* Top bar */}
           <div className="absolute top-0 left-0 right-0 flex items-center justify-between px-[3%] py-[2%]" style={{ zIndex: 10 }}>
             <div
               className="font-display font-black tracking-[3px] uppercase"
@@ -694,7 +455,6 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
             </div>
           </div>
 
-          {/* Story selector */}
           {stories.length > 1 && (
             <div className="absolute story-selector" style={{ zIndex: 10 }}>
               {stories.slice(0, 6).map((story, i) => (
@@ -720,7 +480,6 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
             </div>
           )}
 
-          {/* Location buttons */}
           {featuredLocations.length > 1 && (
             <div
               className="absolute flex gap-2 flex-wrap justify-end"
@@ -753,7 +512,6 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
             </div>
           )}
 
-          {/* Zoom + map controls */}
           <div
             className="absolute flex flex-col gap-1.5"
             style={{ top: '50%', transform: 'translateY(-50%)', right: 8, zIndex: 10 }}
@@ -798,27 +556,6 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
             >
               ▲
             </button>
-            {/* map enable/disable button hidden from UI — code preserved
-            <button
-              onClick={() => setMapEnabled(e => !e)}
-              title={mapEnabled ? 'Disable map (improve performance)' : 'Enable map'}
-              className="cursor-pointer transition-all"
-              style={{
-                background: mapEnabled ? btnBg : 'rgba(232,197,71,0.15)',
-                border: `1px solid ${mapEnabled ? 'var(--hero-border)' : 'var(--hero-border-active)'}`,
-                color: mapEnabled ? textAlpha70 : 'var(--accent)',
-                fontSize: 'clamp(12px, 1.3vw, 17px)',
-                width: 'clamp(28px, 3vw, 40px)',
-                height: 'clamp(28px, 3vw, 40px)',
-                display: 'flex',
-                alignItems: 'center',
-                justifyContent: 'center',
-                lineHeight: 1,
-              }}
-            >
-              ⊕
-            </button>
-            */}
             <button
               onClick={() => setExpanded(e => !e)}
               title={expanded ? 'Exit fullscreen' : 'Expand map'}
@@ -840,7 +577,6 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
             </button>
           </div>
 
-          {/* Chyron overlay — only when expanded (fullscreen broadcast style) */}
           {expanded && (
             <div className="absolute bottom-0 left-0 right-0" style={{ zIndex: 10 }}>
               {chyronContent}
@@ -848,7 +584,6 @@ export default function BroadcastHero({ stories, selectedIdx, onSelect, edition,
           )}
         </div>
 
-      {/* Ticker + chyron sticky below the map */}
       {mapVisible && !expanded && (
         <div>
           <div className="overflow-hidden w-full" style={{ background: 'var(--accent)', padding: '5px 0' }}>
