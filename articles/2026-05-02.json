@@ -438,5 +438,65 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-05-02T08:00:01.370Z"
+  },
+  {
+    "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+    "description": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
+    "link": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 02 May 2026 08:14:09 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-02T08:15:01.486Z"
+  },
+  {
+    "title": "Spirit Airlines is Shutting Down. Here’s What to Do if You’re Scheduled to Fly.",
+    "description": "After two stints in bankruptcy, the low-cost airline shut down early Saturday. Here’s what travelers should know about rebooking and refunds.",
+    "link": "https://www.nytimes.com/2026/05/01/travel/spirit-airlines-bankruptcy-tickets-refunds.html",
+    "pubDate": "Sat, 02 May 2026 07:59:01 +0000",
+    "source": "NY Times",
+    "categories": [
+      "bankruptcies",
+      "airlines and airplanes",
+      "credit cards",
+      "customer relations",
+      "debit cards",
+      "travel and vacations",
+      "spirit airlines",
+      "content type: service"
+    ],
+    "collectedAt": "2026-05-02T08:15:01.486Z"
+  },
+  {
+    "title": "UK’s Starmer eyes banning some pro-Palestine protests",
+    "description": "PM Keir Starmer says the phrase 'globalise the Intifada' should be 'completely off limits'.",
+    "link": "https://www.aljazeera.com/news/2026/5/2/uks-starmer-eyes-banning-some-pro-palestine-protests?traffic_source=rss",
+    "pubDate": "Sat, 02 May 2026 07:55:08 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-02T08:15:01.486Z"
+  },
+  {
+    "title": "Who Is Nayib Bukele? El Salvador’s ‘coolest dictator’",
+    "description": "At 44, Bukele has built the world’s highest imprisonment rate and scrapped presidential term limits. What comes next?",
+    "link": "https://www.aljazeera.com/features/2026/5/2/who-is-nayib-bukele-el-salvadors-coolest-dictator?traffic_source=rss",
+    "pubDate": "Sat, 02 May 2026 07:42:37 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "features"
+    ],
+    "collectedAt": "2026-05-02T08:15:01.486Z"
+  },
+  {
+    "title": "China’s UN Envoy: Hormuz closure will dominate Trump-Xi talks",
+    "description": "China's UN Ambassador Fu Cong says maintaining the ceasefire and reopening the Strait of Hormuz are “urgent” priorities.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/chinas-un-envoy-hormuz-closure-will-dominate-trump-xi-talks?traffic_source=rss",
+    "pubDate": "Sat, 02 May 2026 07:37:49 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-05-02T08:15:01.486Z"
   }
 ]
