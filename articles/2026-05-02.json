@@ -391,5 +391,43 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-02T07:15:01.889Z"
+  },
+  {
+    "title": "How Germany Misjudged Trump’s Anger on Iran",
+    "description": "After Chancellor Friedrich Merz upset President Trump with criticism of the war, he offered no public sign he believed Mr. Trump’s threats to pull troops were serious.",
+    "link": "https://www.nytimes.com/2026/05/02/world/europe/germany-trump-merz-troops-withdrawal.html",
+    "pubDate": "Sat, 02 May 2026 07:12:15 +0000",
+    "source": "NY Times",
+    "categories": [
+      "germany",
+      "europe",
+      "united states",
+      "merz, friedrich",
+      "trump, donald j",
+      "us and israeli attack on iran (2026)"
+    ],
+    "collectedAt": "2026-05-02T07:30:01.264Z"
+  },
+  {
+    "title": "Nepal celebrates return of stolen 13th-century Buddha statue from New York",
+    "description": "The Himalayan nation restores centuries-old statue, stolen in the 1980s, to its original temple in capital Kathmandu.",
+    "link": "https://www.aljazeera.com/news/2026/5/2/nepal-celebrates-return-of-stolen-13th-century-buddha-statue-from-new-york?traffic_source=rss",
+    "pubDate": "Sat, 02 May 2026 07:20:12 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-02T07:30:01.264Z"
+  },
+  {
+    "title": "Man Utd vs Liverpool: Premier League – preview, team news, start, lineups",
+    "description": "Man United just need two points to secure qualification, while Liverpool can draw level with the Red Devils with a win.",
+    "link": "https://www.aljazeera.com/sports/2026/5/2/man-utd-vs-liverpool-premier-league-preview-team-news-start?traffic_source=rss",
+    "pubDate": "Sat, 02 May 2026 07:14:03 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-05-02T07:30:01.264Z"
   }
 ]
