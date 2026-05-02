@@ -1995,5 +1995,61 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-02T12:30:01.626Z"
+  },
+  {
+    "title": "America’s biggest oil companies are making less money than before the Iran war",
+    "description": "Even once the Strait of Hormuz reopens, it will take months for oil and gas flows to get back to normal, Exxon and Chevron warn.",
+    "link": "https://www.marketwatch.com/story/americas-biggest-oil-companies-are-making-less-money-than-before-the-iran-war-bff3b455?mod=mw_rss_topstories",
+    "pubDate": "Sat, 02 May 2026 12:30:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-05-02T12:45:01.691Z"
+  },
+  {
+    "title": "JetBlue lawsuit raises airline pricing questions",
+    "description": "A proposed class action lawsuit claims JetBlue used tracking tools to monitor browsing activity and adjust flight prices without customer consent.",
+    "link": "https://www.foxnews.com/tech/jetblue-lawsuit-raises-airline-pricing-questions",
+    "pubDate": "Sat, 02 May 2026 08:33:46 -0400",
+    "source": "Fox News",
+    "categories": [
+      "8e4c9bd7-eae0-576b-b369-3f470569beb6",
+      "fnc",
+      "fox news",
+      "fox-news/tech/topics/cybercrime",
+      "fox-news/newsedge/consumer",
+      "fox-news/travel",
+      "fox-news/tech/topics/privacy",
+      "fox-news/travel/general/airlines",
+      "fox-news/tech",
+      "article"
+    ],
+    "collectedAt": "2026-05-02T12:45:01.691Z"
+  },
+  {
+    "title": "WWE star Royce Keys talks grinding on the indies with Jacob Fatu before reaching pro wrestling pinnacle",
+    "description": "Royce Keys opened up about his West Coast Pro days with Jacob Fatu, highlighting the grueling independent wrestling grind that shaped both WWE stars.",
+    "link": "https://www.foxnews.com/sports/wwe-star-royce-keys-talks-grinding-indies-jacob-fatu-reaching-pro-wrestling-pinnacle",
+    "pubDate": "Sat, 02 May 2026 08:31:15 -0400",
+    "source": "Fox News",
+    "categories": [
+      "28dc5816-cf97-59a0-a771-40addd15867f",
+      "fnc",
+      "fox news",
+      "fox-news/organization/wwe",
+      "fox-news/sports/pro-wrestling",
+      "fox-news/sports",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-05-02T12:45:01.691Z"
+  },
+  {
+    "title": "Sunk farmers may finally get relief for lands flooded in $3B dam renovation",
+    "description": "Roughly 450 family farms in Kentucky, Illinois, and Missouri have been flooded with millions of gallons of water since the construction of the Olmstead Lock and Dam on the Ohio River.",
+    "link": "https://nypost.com/2026/05/02/us-news/fields-of-dreams-sunk-farmers-may-finally-get-relief-for-flooded-lands/",
+    "pubDate": "Sat, 02 May 2026 08:30:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-02T12:45:01.691Z"
   }
 ]
