@@ -4,6 +4,7 @@
 // (country-highlight, state-boundary) will remain runtime additions.
 
 import { GRATICULE_GEOJSON } from './graticule.js';
+import { computeNightPolygon } from './terminator.js';
 
 // Fog values tuned for broadcast look on globe projection.
 // Dark: deep space with visible stars and blue atmospheric glow.
@@ -103,6 +104,35 @@ export function applyMapStyle(map, isDark) {
       map.setPaintProperty('country-label', 'text-halo-width', 1.5);
     } catch {}
   }
+
+  // Night-side terminator overlay (item 8) — low-opacity dark fill over
+  // the hemisphere where the sun is below the horizon. Seeded with the
+  // current time here; useMeridianMap refreshes it every 60 s.
+  // Inserted before the graticule so the grid lines show through the shadow.
+  try {
+    // Insert below country-label so the shadow sits under all text.
+    // Graticule is added after this block, so it naturally layers on top.
+    const nightBefore = map.getLayer('country-label') ? 'country-label' : undefined;
+    const nightData = computeNightPolygon();
+    if (!map.getSource('night-overlay')) {
+      map.addSource('night-overlay', { type: 'geojson', data: nightData });
+    } else {
+      map.getSource('night-overlay').setData(nightData);
+    }
+    if (!map.getLayer('night-overlay')) {
+      map.addLayer({
+        id: 'night-overlay',
+        type: 'fill',
+        source: 'night-overlay',
+        paint: {
+          'fill-color': '#04081a',
+          'fill-opacity': isDark ? 0.38 : 0.30,
+        },
+      }, nightBefore);
+    } else {
+      map.setPaintProperty('night-overlay', 'fill-opacity', isDark ? 0.38 : 0.30);
+    }
+  } catch {}
 
   // Graticule (item 6) — lat/lon gridlines at 15° intervals, beneath all
   // other custom layers and beneath Mapbox's label layers.

@@ -13,6 +13,7 @@
 import { useEffect, useRef, useCallback } from 'react';
 import { createMap } from './kernel.js';
 import { applyMapStyle } from './layers.js';
+import { computeNightPolygon } from './terminator.js';
 import { updatePulseMarkerTheme } from './marker.js';
 import {
   getMapPadding,
@@ -105,6 +106,17 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = fal
       markerRef.current = null;
     };
   }, [mapEnabled]);
+
+  // Night-terminator refresh — update the night polygon every 60 s so the
+  // shadow visibly creeps across the globe during a long session.
+  useEffect(() => {
+    const tick = () => {
+      const src = mapRef.current?.getSource('night-overlay');
+      if (src) src.setData(computeNightPolygon());
+    };
+    const id = setInterval(tick, 60_000);
+    return () => clearInterval(id);
+  }, []);
 
   // ResizeObserver: keep map sized + padding correct as the container changes.
   useEffect(() => {
