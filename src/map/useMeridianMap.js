@@ -12,7 +12,7 @@
 
 import { useEffect, useRef, useCallback } from 'react';
 import { createMap } from './kernel.js';
-import { applyMapStyle, updateArcs as kernelUpdateArcs, clearArcs } from './layers.js';
+import { applyMapStyle, updateArcs as kernelUpdateArcs, clearArcs, setHighlightPalette } from './layers.js';
 import { computeNightPolygon } from './terminator.js';
 import { updatePulseMarkerTheme } from './marker.js';
 import {
@@ -44,6 +44,8 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = fal
   const cinematicCancelRef = useRef(null);
   // Cancel function for the arc draw-on animation.
   const arcsCancelRef = useRef(null);
+  // ISO code of the currently focused location — becomes trail on next fly.
+  const activeIsoRef = useRef('');
   // Capture focusPitch so the fly callback always sees the latest value
   // without needing to be re-created on every prop change.
   const focusPitchRef = useRef(focusPitch);
@@ -171,6 +173,8 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = fal
     if (!mapRef.current) return;
     returnToAmbient(mapRef.current, markerRef.current);
     clearArcs(mapRef.current);
+    setHighlightPalette(mapRef.current, { secondary: [], trail: '' });
+    activeIsoRef.current = '';
     currentPolygonRef.current = null;
     rotationRef.current?.setActive(true);
   }, []);
@@ -180,6 +184,11 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = fal
       pendingFlyRef.current = loc;
       return;
     }
+
+    // Advance trail: current active ISO becomes the ghost.
+    const trailIso = activeIsoRef.current;
+    activeIsoRef.current = loc.iso ?? '';
+    setHighlightPalette(mapRef.current, { secondary: [], trail: trailIso });
 
     // Cancel any in-flight cinematic step-2 before starting a new move.
     if (cinematicCancelRef.current) {
@@ -204,6 +213,16 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = fal
     }, AMBIENT_IDLE_TIMEOUT_MS);
   }, [cinematic, enterAmbient]);
 
+  // Set secondary highlight ISOs (other locations in the current story).
+  // Trail is managed automatically by flyToLocation.
+  const updateHighlights = useCallback((secondaryIsos) => {
+    if (!mapRef.current) return;
+    setHighlightPalette(mapRef.current, {
+      secondary: secondaryIsos,
+      trail: activeIsoRef.current === '' ? '' : activeIsoRef.current,
+    });
+  }, []);
+
   // Draw source-to-story arcs for the newly focused story. Called by
   // the component after flyToLocation so arcs and camera move together.
   const updateArcs = useCallback((articles, storyLoc) => {
@@ -215,5 +234,5 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = fal
     arcsCancelRef.current = kernelUpdateArcs(mapRef.current, articles, storyLoc);
   }, []);
 
-  return { mapContainer, mapRef, flyToLocation, enterAmbient, updateArcs };
+  return { mapContainer, mapRef, flyToLocation, enterAmbient, updateArcs, updateHighlights };
 }

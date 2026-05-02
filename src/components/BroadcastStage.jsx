@@ -50,7 +50,7 @@ export default function BroadcastStage({
   const [activeLocIdx, setActiveLocIdx] = useState(0);
   const [mapEnabled] = useState(true); // broadcast always renders the map
 
-  const { mapContainer, mapRef, flyToLocation, updateArcs } = useMeridianMap({
+  const { mapContainer, mapRef, flyToLocation, updateArcs, updateHighlights } = useMeridianMap({
     mapEnabled,
     isDark,
     focusPitch: FOCUSED_PITCH_BROADCAST,
@@ -78,16 +78,19 @@ export default function BroadcastStage({
   useEffect(() => {
     if (!featured) return;
     setActiveLocIdx(0);
+    const secondaryIsos = featuredLocations.slice(1).map(l => l.iso).filter(Boolean);
     if (featuredLocations.length > 0) {
       const loc = featuredLocations[0];
       fetchBoundaryPolygon(loc.name, loc.iso).then(polygon => {
         flyToLocation({ ...loc, polygon });
         updateArcs(featured.articles, loc);
+        updateHighlights(secondaryIsos);
       });
     } else {
       geocodeStory(featured).then((coords) => {
         flyToLocation(coords);
         updateArcs(featured.articles, coords);
+        updateHighlights(secondaryIsos);
       });
     }
   }, [selectedIdx]);

@@ -7,6 +7,23 @@ import { GRATICULE_GEOJSON } from './graticule.js';
 import { computeNightPolygon } from './terminator.js';
 import { buildArcsGeoJSON } from './arcs.js';
 
+// 3-tier highlight palette (item 10). Mapbox GL paint properties don't
+// accept CSS custom properties, so hex values are duplicated here.
+// CSS vars (--accent-active/secondary/trail) are defined in index.css
+// for use in React UI elements.
+const PALETTE = {
+  dark: {
+    active:    '#e8c547',  // gold
+    secondary: '#7ab8d8',  // cool pale blue
+    trail:     '#8a7840',  // muted gray-gold
+  },
+  light: {
+    active:    '#9A7200',  // brass gold
+    secondary: '#1a6090',  // steel blue
+    trail:     '#6b5420',  // muted dark gold
+  },
+};
+
 // Fog values tuned for broadcast look on globe projection.
 // Dark: deep space with visible stars and blue atmospheric glow.
 // Light: editorial daylight — warm horizon haze, pale sky, no stars.
@@ -228,6 +245,64 @@ export function applyMapStyle(map, isDark) {
       map.setPaintProperty('country-highlight-edge', 'line-color', isDark ? '#e8c547' : '#9A7200');
       map.setPaintProperty('country-highlight-edge', 'line-opacity', isDark ? 0.90 : 0.80);
     }
+
+    // Secondary highlight — other locations in the current story (item 10)
+    const pal = PALETTE[isDark ? 'dark' : 'light'];
+    if (!map.getLayer('country-highlight-secondary-glow')) {
+      map.addLayer({
+        id: 'country-highlight-secondary-glow',
+        type: 'line',
+        source: 'country-boundaries',
+        'source-layer': 'country_boundaries',
+        filter: ['in', 'iso_3166_1', ''],
+        paint: {
+          'line-color': pal.secondary,
+          'line-width': 8,
+          'line-blur': 4,
+          'line-opacity': isDark ? 0.28 : 0.22,
+        },
+      });
+    } else {
+      map.setPaintProperty('country-highlight-secondary-glow', 'line-color', pal.secondary);
+      map.setPaintProperty('country-highlight-secondary-glow', 'line-opacity', isDark ? 0.28 : 0.22);
+    }
+    if (!map.getLayer('country-highlight-secondary-edge')) {
+      map.addLayer({
+        id: 'country-highlight-secondary-edge',
+        type: 'line',
+        source: 'country-boundaries',
+        'source-layer': 'country_boundaries',
+        filter: ['in', 'iso_3166_1', ''],
+        paint: {
+          'line-color': pal.secondary,
+          'line-width': 1.2,
+          'line-opacity': isDark ? 0.65 : 0.55,
+        },
+      });
+    } else {
+      map.setPaintProperty('country-highlight-secondary-edge', 'line-color', pal.secondary);
+      map.setPaintProperty('country-highlight-secondary-edge', 'line-opacity', isDark ? 0.65 : 0.55);
+    }
+
+    // Trail highlight — the previous story's location, glow-only (item 10)
+    if (!map.getLayer('country-highlight-trail-glow')) {
+      map.addLayer({
+        id: 'country-highlight-trail-glow',
+        type: 'line',
+        source: 'country-boundaries',
+        'source-layer': 'country_boundaries',
+        filter: ['==', 'iso_3166_1', ''],
+        paint: {
+          'line-color': pal.trail,
+          'line-width': 8,
+          'line-blur': 5,
+          'line-opacity': isDark ? 0.18 : 0.14,
+        },
+      });
+    } else {
+      map.setPaintProperty('country-highlight-trail-glow', 'line-color', pal.trail);
+      map.setPaintProperty('country-highlight-trail-glow', 'line-opacity', isDark ? 0.18 : 0.14);
+    }
   } catch {}
 
   // State/region boundary layers (GeoJSON, data-driven) — same glow+edge
@@ -365,6 +440,26 @@ export function updateArcs(map, articles, storyLoc) {
     cancelled = true;
     if (raf != null) cancelAnimationFrame(raf);
   };
+}
+
+// Update secondary and trail highlight filters (item 10).
+//   secondary — array of ISO codes for other locations in the current story
+//   trail     — ISO code of the previous story's focused location
+// The active highlight is managed separately by camera.js / flyToLocation.
+export function setHighlightPalette(map, { secondary = [], trail = '' } = {}) {
+  try {
+    const secFilter = secondary.length
+      ? ['in', 'iso_3166_1', ...secondary]
+      : ['in', 'iso_3166_1', ''];           // matches nothing
+    ['country-highlight-secondary-glow', 'country-highlight-secondary-edge'].forEach(id => {
+      if (map.getLayer(id)) map.setFilter(id, secFilter);
+    });
+  } catch {}
+  try {
+    if (map.getLayer('country-highlight-trail-glow')) {
+      map.setFilter('country-highlight-trail-glow', ['==', 'iso_3166_1', trail]);
+    }
+  } catch {}
 }
 
 // Clear arcs — called by returnToAmbient so arcs disappear with the globe idle return.

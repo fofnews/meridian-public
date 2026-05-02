@@ -24,6 +24,11 @@
   --accent:      #e8c547;
   --accent-text: #0a0d14;
 
+  /* 3-tier map highlight palette (item 10) */
+  --accent-active:    #e8c547;  /* focused location — gold */
+  --accent-secondary: #7ab8d8;  /* other story locations — cool blue */
+  --accent-trail:     #8a7840;  /* previous story — muted gray-gold */
+
   /* RGB channels for rgba() */
   --text-primary-rgb: 240, 235, 224;
   --bg-secondary-rgb: 10, 13, 20;
@@ -91,6 +96,11 @@
   /* Accent — brass gold */
   --accent:      #9A7200;
   --accent-text: #F2F6FA;
+
+  /* 3-tier map highlight palette (item 10) */
+  --accent-active:    #9A7200;  /* focused location — brass gold */
+  --accent-secondary: #1a6090;  /* other story locations — steel blue */
+  --accent-trail:     #6b5420;  /* previous story — muted dark gold */
 
   /* RGB channels for rgba() */
   --text-primary-rgb: 10, 24, 40;

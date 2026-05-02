@@ -43,7 +43,7 @@ export default function MapHero({
   const [mapEnabled] = useState(() => localStorage.getItem('meridian-map') !== 'false');
   const [mapVisible, setMapVisible] = useState(() => localStorage.getItem('meridian-map-visible') !== 'false');
 
-  const { mapContainer, mapRef, flyToLocation, updateArcs } = useMeridianMap({
+  const { mapContainer, mapRef, flyToLocation, updateArcs, updateHighlights } = useMeridianMap({
     mapEnabled,
     isDark,
     focusPitch: FOCUSED_PITCH_WEBSITE,
@@ -82,20 +82,23 @@ export default function MapHero({
   const featured = stories[selectedIdx] ?? stories[0];
   const featuredLocations = featured?.analysis?.locations?.filter(l => l?.lat != null && l?.lng != null) ?? [];
 
-  // Fly to first location when story changes; draw source arcs to that point.
+  // Fly to first location when story changes; draw source arcs + update highlight palette.
   useEffect(() => {
     if (!featured) return;
     setActiveLocIdx(0);
+    const secondaryIsos = featuredLocations.slice(1).map(l => l.iso).filter(Boolean);
     if (featuredLocations.length > 0) {
       const loc = featuredLocations[0];
       fetchBoundaryPolygon(loc.name, loc.iso).then(polygon => {
         flyToLocation({ ...loc, polygon });
         updateArcs(featured.articles, loc);
+        updateHighlights(secondaryIsos);
       });
     } else {
       geocodeStory(featured).then((coords) => {
         flyToLocation(coords);
         updateArcs(featured.articles, coords);
+        updateHighlights(secondaryIsos);
       });
     }
   }, [selectedIdx]);
