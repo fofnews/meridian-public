@@ -217,17 +217,6 @@ input::placeholder {
   animation: ticker 720s linear infinite;
 }
 
-/* CRT scanline overlay */
-.scanlines {
-  background: repeating-linear-gradient(
-    0deg,
-    transparent,
-    transparent 2px,
-    rgba(0,0,0,0.04) 2px,
-    rgba(0,0,0,0.04) 4px
-  );
-}
-
 /* ── Responsive ─────────────────────────────────────────── */
 
 /* Hero container: CSS custom property for chyron height offset */

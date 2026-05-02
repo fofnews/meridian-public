@@ -16,6 +16,7 @@ import { useTheme } from '../ThemeContext.jsx';
 import { useMeridianMap } from '../map/useMeridianMap.js';
 import { fetchBoundaryPolygon, geocodeStory } from '../map/geocoding.js';
 import { FOCUSED_PITCH_BROADCAST } from '../map/camera.js';
+import FilmGrain from './FilmGrain.jsx';
 
 const CHYRON_LABELS = ['Breaking', 'Developing', 'Analysis', 'Report', 'Update', 'Exclusive'];
 
@@ -209,9 +210,10 @@ export default function BroadcastStage({
         {/* Radial overlay */}
         <div className="absolute inset-0 pointer-events-none" style={{ background: overlayGrad }} />
 
-        {/* CRT scanlines — item #12 will replace these with subtle grain
-             (scanlines moiré under YouTube/TikTok re-encode). */}
-        <div className="absolute inset-0 scanlines pointer-events-none" />
+        {/* Film grain (item 12) — animated canvas noise at 1/4 resolution,
+             overlay-blended at low opacity. Coarser than 1px so it survives
+             H.264 re-encode; non-periodic so it can't moiré. */}
+        <FilmGrain opacity={0.055} />
 
         {/* Top bar: wordmark + LIVE badge + clock */}
         <div className="absolute top-0 left-0 right-0 flex items-center justify-between px-[3%] py-[2%]" style={{ zIndex: 10 }}>
