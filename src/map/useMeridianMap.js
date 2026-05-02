@@ -17,12 +17,13 @@ import { updatePulseMarkerTheme } from './marker.js';
 import {
   getMapPadding,
   flyToLocation as kernelFlyTo,
+  cinematicFlyTo,
   returnToAmbient,
   startAmbientRotation,
   AMBIENT_IDLE_TIMEOUT_MS,
 } from './camera.js';
 
-export function useMeridianMap({ mapEnabled, isDark, focusPitch }) {
+export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = false }) {
   const mapContainer = useRef(null);
   const mapRef = useRef(null);
   const markerRef = useRef(null);
@@ -37,6 +38,9 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch }) {
   // last focus.
   const rotationRef = useRef(null);
   const idleTimerRef = useRef(null);
+  // Cancel function returned by cinematicFlyTo — called when a new fly
+  // request arrives to abort any pending step-2 timeout.
+  const cinematicCancelRef = useRef(null);
   // Capture focusPitch so the fly callback always sees the latest value
   // without needing to be re-created on every prop change.
   const focusPitchRef = useRef(focusPitch);
@@ -89,6 +93,10 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch }) {
       if (idleTimerRef.current) {
         clearTimeout(idleTimerRef.current);
         idleTimerRef.current = null;
+      }
+      if (cinematicCancelRef.current) {
+        cinematicCancelRef.current();
+        cinematicCancelRef.current = null;
       }
       if (mapInstance) {
         mapInstance.remove();
@@ -153,7 +161,20 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch }) {
       pendingFlyRef.current = loc;
       return;
     }
-    kernelFlyTo(mapRef.current, markerRef.current, loc, { pitch: focusPitchRef.current });
+
+    // Cancel any in-flight cinematic step-2 before starting a new move.
+    if (cinematicCancelRef.current) {
+      cinematicCancelRef.current();
+      cinematicCancelRef.current = null;
+    }
+
+    if (cinematic) {
+      cinematicCancelRef.current = cinematicFlyTo(
+        mapRef.current, markerRef.current, loc, { pitch: focusPitchRef.current }
+      );
+    } else {
+      kernelFlyTo(mapRef.current, markerRef.current, loc, { pitch: focusPitchRef.current });
+    }
     currentPolygonRef.current = loc.polygon ?? null;
 
     rotationRef.current?.setActive(false);
@@ -162,7 +183,7 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch }) {
       idleTimerRef.current = null;
       enterAmbient();
     }, AMBIENT_IDLE_TIMEOUT_MS);
-  }, [enterAmbient]);
+  }, [cinematic, enterAmbient]);
 
   return { mapContainer, mapRef, flyToLocation, enterAmbient };
 }

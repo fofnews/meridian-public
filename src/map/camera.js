@@ -25,10 +25,19 @@ export const AMBIENT_CENTER = [0, 20];
 export const AMBIENT_ZOOM = 1.0;
 export const AMBIENT_PITCH = 0;
 
-// Pitch applied when a story is focused on the website. The video
-// stage will use a more dramatic 45–60° (item #4).
+// Pitch applied when a story is focused on the website.
 export const FOCUSED_PITCH_WEBSITE = 30;
 export const FOCUSED_FLY_DURATION_MS = 2_000;
+
+// Broadcast (video) camera policy (item 4).
+// Higher pitch + longer duration = more cinematic. The two-step
+// cinematicFlyTo() first pulls back to a wide globe view, then flies
+// in to the target so each story transition reads as a proper camera
+// move rather than a jump cut.
+export const FOCUSED_PITCH_BROADCAST = 50;
+const CINEMATIC_PULLBACK_ZOOM = 2.5;
+const CINEMATIC_PULLBACK_DURATION_MS = 1_400;
+const CINEMATIC_FLY_DURATION_MS = 5_000;
 
 export function getStoryZoom() {
   return window.innerWidth < 640 ? STORY_ZOOM_MOBILE : STORY_ZOOM_DESKTOP;
@@ -77,6 +86,67 @@ export function flyToLocation(map, marker, loc, { pitch = 0, duration = FOCUSED_
     }
   };
   if (map.loaded()) go(); else map.once('load', go);
+}
+
+// Two-step cinematic fly for the video stage (item 4).
+//   Step 1 — pull back: zoom out to globe view centred on the target,
+//            dropping pitch to 0 so the transition has a "lift" feel.
+//   Step 2 — fly in: after the pullback settles, fly to the exact
+//            target at full broadcast pitch and zoom.
+//
+// Returns a cancel() function. Call it when a new story is selected
+// mid-transition so the stale step-2 timeout doesn't fire.
+export function cinematicFlyTo(map, marker, loc, { pitch = FOCUSED_PITCH_BROADCAST } = {}) {
+  if (!map) return () => {};
+
+  let timeoutId = null;
+  let cancelled = false;
+
+  const applyFocus = () => {
+    if (marker) {
+      marker.getElement().style.display = '';
+      marker.setLngLat([loc.lng, loc.lat]);
+    }
+    setCountryFilter(map, loc.iso ?? '');
+    if (map.getSource('state-boundary')) {
+      map.getSource('state-boundary').setData(
+        loc.polygon ?? { type: 'FeatureCollection', features: [] }
+      );
+    }
+  };
+
+  const go = () => {
+    if (cancelled) return;
+
+    // Step 1: pull back to wide globe, aimed at the target region.
+    map.flyTo({
+      center: [loc.lng, loc.lat],
+      zoom: CINEMATIC_PULLBACK_ZOOM,
+      pitch: 0,
+      duration: CINEMATIC_PULLBACK_DURATION_MS,
+      essential: true,
+    });
+
+    // Step 2: fly in after the pullback completes.
+    timeoutId = setTimeout(() => {
+      if (cancelled || !map || map._removed) return;
+      map.flyTo({
+        center: [loc.lng, loc.lat],
+        zoom: loc.zoom ?? getStoryZoom(),
+        pitch,
+        duration: CINEMATIC_FLY_DURATION_MS,
+        essential: true,
+      });
+      applyFocus();
+    }, CINEMATIC_PULLBACK_DURATION_MS + 100);
+  };
+
+  if (map.loaded()) go(); else map.once('load', go);
+
+  return () => {
+    cancelled = true;
+    if (timeoutId != null) clearTimeout(timeoutId);
+  };
 }
 
 // Fly back to the wide globe view and clear the focused-state visuals

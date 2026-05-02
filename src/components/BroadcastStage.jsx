@@ -15,7 +15,7 @@ import { decodeText } from '../utils';
 import { useTheme } from '../ThemeContext.jsx';
 import { useMeridianMap } from '../map/useMeridianMap.js';
 import { fetchBoundaryPolygon, geocodeStory } from '../map/geocoding.js';
-import { FOCUSED_PITCH_WEBSITE } from '../map/camera.js';
+import { FOCUSED_PITCH_BROADCAST } from '../map/camera.js';
 
 const CHYRON_LABELS = ['Breaking', 'Developing', 'Analysis', 'Report', 'Update', 'Exclusive'];
 
@@ -53,7 +53,8 @@ export default function BroadcastStage({
   const { mapContainer, mapRef, flyToLocation } = useMeridianMap({
     mapEnabled,
     isDark,
-    focusPitch: FOCUSED_PITCH_WEBSITE, // item #4 will push to 45-60° here
+    focusPitch: FOCUSED_PITCH_BROADCAST,
+    cinematic: true,
   });
 
   // Clock — 1s tick so the LIVE chyron clock animates seconds.
