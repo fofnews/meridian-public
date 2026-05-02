@@ -211,5 +211,25 @@
     "source": "NPR",
     "categories": [],
     "collectedAt": "2026-05-02T06:00:01.326Z"
+  },
+  {
+    "title": "US embassy warns citizens in UK as threat level raised to ‘severe’",
+    "description": "US embassy in UK has advised citizens to avoids schools, churches, tourist locations and vary their travel routes.",
+    "link": "https://www.aljazeera.com/news/2026/5/2/us-embassy-warns-citizens-in-uk-as-threat-level-raised-to-severe?traffic_source=rss",
+    "pubDate": "Sat, 02 May 2026 06:04:31 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-02T06:15:01.778Z"
+  },
+  {
+    "title": "Dutch princesses targeted in sinister murder plot as suspect found with axes, Nazi message",
+    "description": "Catharina-Amalia, the future Queen of the Netherlands and her younger sister, Alexia, were the targets of a suspected far-right extremist who hatched a sinister Nazi murder plot against the princesses.",
+    "link": "https://nypost.com/2026/05/02/world-news/dutch-princesses-catharina-amalia-and-alexia-targeted-in-murder-plot-as-police-find-axes-nazi-note/",
+    "pubDate": "Sat, 02 May 2026 02:04:49 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-02T06:15:01.778Z"
   }
 ]
