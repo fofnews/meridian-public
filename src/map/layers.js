@@ -3,6 +3,8 @@
 // committed `meridian.style.json`; the data-driven highlight layers
 // (country-highlight, state-boundary) will remain runtime additions.
 
+import { GRATICULE_GEOJSON } from './graticule.js';
+
 // Fog values tuned for broadcast look on globe projection.
 // Dark: deep space with visible stars and blue atmospheric glow.
 // Light: editorial daylight — warm horizon haze, pale sky, no stars.
@@ -101,6 +103,30 @@ export function applyMapStyle(map, isDark) {
       map.setPaintProperty('country-label', 'text-halo-width', 1.5);
     } catch {}
   }
+
+  // Graticule (item 6) — lat/lon gridlines at 15° intervals, beneath all
+  // other custom layers and beneath Mapbox's label layers.
+  // beforeId targets 'country-label' so the grid sits below text; falls
+  // back to no beforeId if that layer isn't present in the base style.
+  try {
+    const graticuleBefore = map.getLayer('country-label') ? 'country-label' : undefined;
+    if (!map.getSource('graticule')) {
+      map.addSource('graticule', { type: 'geojson', data: GRATICULE_GEOJSON });
+    }
+    if (!map.getLayer('graticule')) {
+      map.addLayer({
+        id: 'graticule',
+        type: 'line',
+        source: 'graticule',
+        paint: {
+          'line-color': isDark ? 'rgba(200,215,240,0.13)' : 'rgba(10,24,40,0.08)',
+          'line-width': 0.5,
+        },
+      }, graticuleBefore);
+    } else {
+      map.setPaintProperty('graticule', 'line-color', isDark ? 'rgba(200,215,240,0.13)' : 'rgba(10,24,40,0.08)');
+    }
+  } catch {}
 
   // Country borders + glowing highlight (item 3) — re-added after every
   // style change. Highlight = wide blurred glow + narrow sharp edge, both
