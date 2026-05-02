@@ -1,6 +1,7 @@
 import { useState, useEffect, useCallback, useRef, useLayoutEffect } from 'react';
 import { Sun, Moon, ArrowUp } from 'lucide-react';
 import MapHero from './components/MapHero';
+import BroadcastStage from './components/BroadcastStage';
 import DateNav from './components/DateNav';
 import StoryCard from './components/StoryCard';
 import SuggestionBox from './components/SuggestionBox';
@@ -11,6 +12,7 @@ import { useTheme } from './ThemeContext.jsx';
 
 export default function App() {
   const { isDark, toggleTheme } = useTheme();
+  const isBroadcast = new URLSearchParams(window.location.search).get('mode') === 'broadcast';
   const [report, setReport] = useState(null);
   const [availableDates, setAvailableDates] = useState([]);
   const [selectedDate, setSelectedDate] = useState(null);
@@ -125,6 +127,32 @@ export default function App() {
       </div>
     </div>
   );
+
+  // Broadcast mode: fullscreen BroadcastStage only — no shell, no nav,
+  // no footer. ?mode=broadcast is consumed by the headless recorder and
+  // by operators who want a preview of the video output.
+  if (isBroadcast) {
+    const broadcastFallback = (
+      <div style={{ position: 'fixed', inset: 0, background: '#060810', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+        <div style={{ color: 'rgba(240,235,224,0.25)', letterSpacing: '3px', fontSize: 13 }}>THE MERIDIAN</div>
+      </div>
+    );
+    if (loading) return broadcastFallback;
+    if (!report || multiSource.length === 0) return broadcastFallback;
+    return (
+      <ErrorBoundary label="broadcast stage" fallback={broadcastFallback}>
+        <BroadcastStage
+          stories={multiSource}
+          selectedIdx={featuredIdx}
+          onSelect={setFeaturedIdx}
+          edition={selectedEdition}
+          availableEditions={availableDates.find(d => d.date === selectedDate)?.editions ?? []}
+          onEditionSelect={edition => loadReport(selectedDate, edition)}
+          broadcastMode
+        />
+      </ErrorBoundary>
+    );
+  }
 
   return (
     <ErrorBoundary label="the app" fallback={appLevelFallback}>

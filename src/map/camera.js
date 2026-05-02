@@ -50,6 +50,20 @@ export function getMapPadding(containerEl) {
   return { top: 40, bottom: 110, left: 0, right: 160 };
 }
 
+// Broadcast padding: biases the camera focal point into the upper 60% of
+// the frame so it clears the chyron + ticker band at the bottom, and
+// reserves the right edge for the story-selector column.
+export function getMapPaddingBroadcast(containerEl) {
+  const h = containerEl?.offsetHeight ?? window.innerHeight;
+  const w = containerEl?.offsetWidth ?? window.innerWidth;
+  return {
+    top: 40,
+    bottom: Math.round(h * 0.28),
+    left: 0,
+    right: Math.round(w * 0.22),
+  };
+}
+
 // Helper: set the iso filter on both country highlight line layers (item 3).
 function setCountryFilter(map, iso) {
   const filter = ['==', 'iso_3166_1', iso];

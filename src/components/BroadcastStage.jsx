@@ -4,11 +4,11 @@
 // chrome here from the website-facing MapHero; the website now uses a
 // sober status strip instead.
 //
-// Item #11 will route ?mode=broadcast to this component and hide the
-// surrounding app shell. Item #12 will replace the CRT scanlines with
-// a subtle film-grain overlay (scanlines moiré under YouTube/TikTok
-// re-encode). Item #4 will push the focus pitch from 30° to 45-60°.
-// Until then this component is functionally complete but unrouted.
+// broadcastMode=true (set by App.jsx when ?mode=broadcast): fills the
+// full viewport, disables map interaction, enables preserveDrawingBuffer
+// and higher pixelRatio for headless capture (item #16), and enforces
+// title-safe camera padding (marker in upper 60%, chyron in bottom 20%).
+// Item #12 will replace the CRT scanlines with a subtle film-grain overlay.
 
 import { useState, useEffect, useRef } from 'react';
 import { decodeText } from '../utils';
@@ -43,6 +43,7 @@ export default function BroadcastStage({
   edition,
   availableEditions = [],
   onEditionSelect,
+  broadcastMode = false,
 }) {
   const { isDark } = useTheme();
   const EDITION_LABELS = { morning: '☀  Morning', evening: '🌙  Evening' };
@@ -55,6 +56,7 @@ export default function BroadcastStage({
     isDark,
     focusPitch: FOCUSED_PITCH_BROADCAST,
     cinematic: true,
+    broadcast: broadcastMode,
   });
 
   // Clock — 1s tick so the LIVE chyron clock animates seconds.
@@ -189,11 +191,17 @@ export default function BroadcastStage({
     </>
   );
 
+  const outerStyle = broadcastMode
+    ? { position: 'fixed', inset: 0, zIndex: 100, display: 'flex', flexDirection: 'column' }
+    : { position: 'sticky', top: 0, zIndex: 30 };
+
+  const mapHeight = broadcastMode ? 'calc(100vh - 110px)' : 'clamp(220px, 45vh, 560px)';
+
   return (
-    <div style={{ position: 'sticky', top: 0, zIndex: 30 }}>
+    <div style={outerStyle}>
       <div
         className="relative w-full overflow-hidden hero-aspect-container"
-        style={{ height: 'clamp(220px, 45vh, 560px)', zIndex: 20 }}
+        style={{ height: mapHeight, zIndex: 20, flex: broadcastMode ? '1 1 auto' : undefined }}
       >
         {/* Mapbox map */}
         <div ref={mapContainer} className="absolute inset-0" style={{ opacity: 1.8, width: '100%', height: '100%' }} />
@@ -224,10 +232,10 @@ export default function BroadcastStage({
           </div>
         </div>
 
-        {/* Story selector — broadcast mode lets the operator scrub between
-             stories during recording; item #15's shotlist will drive this
-             automatically and the buttons can disappear under #11. */}
-        {stories.length > 1 && (
+        {/* Story selector — hidden in broadcastMode; item #15's shotlist
+             drives the transition automatically. Visible in preview mode
+             (broadcastMode=false) so operators can scrub manually. */}
+        {stories.length > 1 && !broadcastMode && (
           <div className="absolute story-selector" style={{ zIndex: 10 }}>
             {stories.slice(0, 6).map((story, i) => (
               <button
@@ -252,8 +260,9 @@ export default function BroadcastStage({
           </div>
         )}
 
-        {/* Location buttons */}
-        {featuredLocations.length > 1 && (
+        {/* Location buttons — hidden in broadcastMode; camera is driven
+             by story data, not operator clicks. */}
+        {featuredLocations.length > 1 && !broadcastMode && (
           <div
             className="absolute flex gap-2 flex-wrap justify-end"
             style={{ bottom: 8, right: 8, zIndex: 10 }}

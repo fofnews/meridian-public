@@ -17,6 +17,7 @@ import { computeNightPolygon } from './terminator.js';
 import { updatePulseMarkerTheme } from './marker.js';
 import {
   getMapPadding,
+  getMapPaddingBroadcast,
   flyToLocation as kernelFlyTo,
   cinematicFlyTo,
   returnToAmbient,
@@ -24,7 +25,7 @@ import {
   AMBIENT_IDLE_TIMEOUT_MS,
 } from './camera.js';
 
-export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = false }) {
+export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = false, broadcast = false }) {
   const mapContainer = useRef(null);
   const mapRef = useRef(null);
   const markerRef = useRef(null);
@@ -68,7 +69,7 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = fal
     let cancelled = false;
     let mapInstance = null;
 
-    createMap(mapContainer.current, { isDark }).then(({ map, marker }) => {
+    createMap(mapContainer.current, { isDark, broadcast }).then(({ map, marker }) => {
       if (cancelled) {
         map.remove();
         return;
@@ -132,11 +133,14 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = fal
     const ro = new ResizeObserver(() => {
       if (!mapRef.current) return;
       mapRef.current.resize();
-      mapRef.current.setPadding(getMapPadding(mapContainer.current));
+      const padding = broadcast
+        ? getMapPaddingBroadcast(mapContainer.current)
+        : getMapPadding(mapContainer.current);
+      mapRef.current.setPadding(padding);
     });
     ro.observe(mapContainer.current);
     return () => ro.disconnect();
-  }, []);
+  }, [broadcast]);
 
   // Theme switch: re-apply style + restore polygon + retint marker.
   useEffect(() => {

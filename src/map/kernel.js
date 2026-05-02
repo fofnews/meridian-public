@@ -41,7 +41,7 @@ loadMapbox().catch(() => {});
 // later, fall back to mercator below a viewport threshold here without
 // changing the rest of the kernel — the map style, layers, and marker
 // look the same under either projection.
-export async function createMap(container, { isDark }) {
+export async function createMap(container, { isDark, broadcast = false }) {
   const mapboxgl = await loadMapbox();
 
   const map = new mapboxgl.Map({
@@ -50,8 +50,12 @@ export async function createMap(container, { isDark }) {
     projection: 'globe',
     center: [0, 20],
     zoom: 1.0,
-    interactive: true,
+    interactive: !broadcast,
     attributionControl: false,
+    ...(broadcast && {
+      preserveDrawingBuffer: true,
+      pixelRatio: Math.min(window.devicePixelRatio * 1.5, 3),
+    }),
   });
 
   map.on('load', () => {
