@@ -454,7 +454,7 @@
       "id": "sinaloa-cartel-violence",
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-04-30",
+      "lastSeen": "2026-05-02",
       "active": true,
       "entries": [
         {
@@ -506,6 +506,11 @@
           "date": "2026-04-30",
           "edition": "morning",
           "update": "Ten current and former Mexican officials, including Sinaloa state Governor Rubén Rocha Moya, have been charged in a U.S. federal indictment for drug trafficking offenses connected to the Sinaloa Cartel."
+        },
+        {
+          "date": "2026-05-02",
+          "edition": "evening",
+          "update": "Sinaloa Governor Rubén Rocha Moya has stepped down from his position following the U.S. federal drug trafficking charges filed against him."
         }
       ],
       "parentId": null
@@ -2259,5 +2264,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-02T11:02:55.141Z"
+  "updatedAt": "2026-05-02T21:02:30.621Z"
 }
