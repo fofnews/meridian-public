@@ -3,7 +3,32 @@
 // committed `meridian.style.json`; the data-driven highlight layers
 // (country-highlight, state-boundary) will remain runtime additions.
 
+// Fog values tuned for broadcast look on globe projection.
+// Dark: deep space with visible stars and blue atmospheric glow.
+// Light: editorial daylight — warm horizon haze, pale sky, no stars.
+const FOG = {
+  dark: {
+    color: 'rgba(14,18,35,0.85)',
+    'high-color': 'rgba(22,40,80,0.90)',
+    'horizon-blend': 0.04,
+    'space-color': '#04050e',
+    'star-intensity': 0.12,
+  },
+  light: {
+    color: 'rgba(240,235,222,0.80)',
+    'high-color': 'rgba(185,210,230,0.90)',
+    'horizon-blend': 0.04,
+    'space-color': '#dde8f0',
+    'star-intensity': 0.0,
+  },
+};
+
 export function applyMapStyle(map, isDark) {
+  // Atmospheric fog (item 1) — applied first so the globe gets its
+  // atmosphere ring before any layer patches. Silently no-ops on
+  // mercator or if setFog isn't available.
+  try { map.setFog(isDark ? FOG.dark : FOG.light); } catch {}
+
   // Land color — warm paper in light, dark navy in dark
   try {
     map.setPaintProperty('land', 'background-color', isDark ? '#222534' : '#F5F2ED');
@@ -77,7 +102,10 @@ export function applyMapStyle(map, isDark) {
     } catch {}
   }
 
-  // Country highlight + border layers (re-added after every style change)
+  // Country borders + glowing highlight (item 3) — re-added after every
+  // style change. Highlight = wide blurred glow + narrow sharp edge, both
+  // filtered by iso_3166_1. Flat fill is intentionally removed (the line
+  // treatment reads better on broadcast video than a tinted fill).
   try {
     if (!map.getSource('country-boundaries')) {
       map.addSource('country-boundaries', {
@@ -85,22 +113,8 @@ export function applyMapStyle(map, isDark) {
         url: 'mapbox://mapbox.country-boundaries-v1',
       });
     }
-    if (!map.getLayer('country-highlight')) {
-      map.addLayer({
-        id: 'country-highlight',
-        type: 'fill',
-        source: 'country-boundaries',
-        'source-layer': 'country_boundaries',
-        filter: ['==', 'iso_3166_1', ''],
-        paint: {
-          'fill-color': isDark ? '#e8c547' : '#9A7200',
-          'fill-opacity': isDark ? 0.18 : 0.13,
-        },
-      });
-    } else {
-      map.setPaintProperty('country-highlight', 'fill-color', isDark ? '#e8c547' : '#9A7200');
-      map.setPaintProperty('country-highlight', 'fill-opacity', isDark ? 0.18 : 0.13);
-    }
+
+    // World borders
     if (!map.getLayer('country-borders')) {
       map.addLayer({
         id: 'country-borders',
@@ -118,41 +132,87 @@ export function applyMapStyle(map, isDark) {
       map.setPaintProperty('country-borders', 'line-width', isDark ? 0.8 : 0.5);
       map.setPaintProperty('country-borders', 'line-opacity', isDark ? 0.6 : 0.65);
     }
+
+    // Highlight glow — wide, blurred, low-opacity outer ring
+    if (!map.getLayer('country-highlight-glow')) {
+      map.addLayer({
+        id: 'country-highlight-glow',
+        type: 'line',
+        source: 'country-boundaries',
+        'source-layer': 'country_boundaries',
+        filter: ['==', 'iso_3166_1', ''],
+        paint: {
+          'line-color': isDark ? '#e8c547' : '#9A7200',
+          'line-width': 10,
+          'line-blur': 4,
+          'line-opacity': isDark ? 0.35 : 0.28,
+        },
+      });
+    } else {
+      map.setPaintProperty('country-highlight-glow', 'line-color', isDark ? '#e8c547' : '#9A7200');
+      map.setPaintProperty('country-highlight-glow', 'line-opacity', isDark ? 0.35 : 0.28);
+    }
+
+    // Highlight edge — narrow, crisp inner line
+    if (!map.getLayer('country-highlight-edge')) {
+      map.addLayer({
+        id: 'country-highlight-edge',
+        type: 'line',
+        source: 'country-boundaries',
+        'source-layer': 'country_boundaries',
+        filter: ['==', 'iso_3166_1', ''],
+        paint: {
+          'line-color': isDark ? '#e8c547' : '#9A7200',
+          'line-width': 1.5,
+          'line-opacity': isDark ? 0.90 : 0.80,
+        },
+      });
+    } else {
+      map.setPaintProperty('country-highlight-edge', 'line-color', isDark ? '#e8c547' : '#9A7200');
+      map.setPaintProperty('country-highlight-edge', 'line-opacity', isDark ? 0.90 : 0.80);
+    }
+  } catch {}
+
+  // State/region boundary layers (GeoJSON, data-driven) — same glow+edge
+  // treatment as the country highlight, used when a story targets a
+  // sub-national region (e.g. a US state).
+  try {
     if (!map.getSource('state-boundary')) {
       map.addSource('state-boundary', {
         type: 'geojson',
         data: { type: 'FeatureCollection', features: [] },
       });
     }
-    if (!map.getLayer('state-highlight')) {
+    if (!map.getLayer('state-highlight-glow')) {
       map.addLayer({
-        id: 'state-highlight',
-        type: 'fill',
-        source: 'state-boundary',
-        paint: {
-          'fill-color': isDark ? '#e8c547' : '#9A7200',
-          'fill-opacity': isDark ? 0.18 : 0.13,
-        },
-      });
-    } else {
-      map.setPaintProperty('state-highlight', 'fill-color', isDark ? '#e8c547' : '#9A7200');
-      map.setPaintProperty('state-highlight', 'fill-opacity', isDark ? 0.18 : 0.13);
-    }
-    if (!map.getLayer('state-border')) {
-      map.addLayer({
-        id: 'state-border',
+        id: 'state-highlight-glow',
         type: 'line',
         source: 'state-boundary',
         paint: {
-          'line-color': isDark ? 'rgba(232,197,71,0.7)' : '#9A7200',
-          'line-width': 1,
-          'line-opacity': isDark ? 0.7 : 0.65,
+          'line-color': isDark ? '#e8c547' : '#9A7200',
+          'line-width': 10,
+          'line-blur': 4,
+          'line-opacity': isDark ? 0.35 : 0.28,
         },
       });
     } else {
-      map.setPaintProperty('state-border', 'line-color', isDark ? 'rgba(232,197,71,0.7)' : '#9A7200');
-      map.setPaintProperty('state-border', 'line-width', 1);
-      map.setPaintProperty('state-border', 'line-opacity', isDark ? 0.7 : 0.65);
+      map.setPaintProperty('state-highlight-glow', 'line-color', isDark ? '#e8c547' : '#9A7200');
+      map.setPaintProperty('state-highlight-glow', 'line-opacity', isDark ? 0.35 : 0.28);
+    }
+    if (!map.getLayer('state-highlight-edge')) {
+      map.addLayer({
+        id: 'state-highlight-edge',
+        type: 'line',
+        source: 'state-boundary',
+        paint: {
+          'line-color': isDark ? '#e8c547' : '#9A7200',
+          'line-width': 1.5,
+          'line-opacity': isDark ? 0.90 : 0.80,
+        },
+      });
+    } else {
+      map.setPaintProperty('state-highlight-edge', 'line-color', isDark ? '#e8c547' : '#9A7200');
+      map.setPaintProperty('state-highlight-edge', 'line-opacity', isDark ? 0.90 : 0.80);
     }
   } catch {}
 }

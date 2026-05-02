@@ -41,7 +41,15 @@ export function getMapPadding(containerEl) {
   return { top: 40, bottom: 110, left: 0, right: 160 };
 }
 
-// Fly to a location, update the marker, and refresh country-highlight +
+// Helper: set the iso filter on both country highlight line layers (item 3).
+function setCountryFilter(map, iso) {
+  const filter = ['==', 'iso_3166_1', iso];
+  ['country-highlight-glow', 'country-highlight-edge'].forEach(id => {
+    if (map.getLayer(id)) map.setFilter(id, filter);
+  });
+}
+
+// Fly to a location, update the marker, and refresh country highlight +
 // state-boundary layers. If the map hasn't finished loading yet, queues
 // the move until the load event fires.
 //
@@ -61,9 +69,7 @@ export function flyToLocation(map, marker, loc, { pitch = 0, duration = FOCUSED_
       marker.getElement().style.display = '';
       marker.setLngLat([loc.lng, loc.lat]);
     }
-    if (map.getLayer('country-highlight')) {
-      map.setFilter('country-highlight', ['==', 'iso_3166_1', loc.iso ?? '']);
-    }
+    setCountryFilter(map, loc.iso ?? '');
     if (map.getSource('state-boundary')) {
       map.getSource('state-boundary').setData(
         loc.polygon ?? { type: 'FeatureCollection', features: [] }
@@ -89,9 +95,7 @@ export function returnToAmbient(map, marker) {
     if (marker) {
       marker.getElement().style.display = 'none';
     }
-    if (map.getLayer('country-highlight')) {
-      map.setFilter('country-highlight', ['==', 'iso_3166_1', '']);
-    }
+    setCountryFilter(map, '');
     if (map.getSource('state-boundary')) {
       map.getSource('state-boundary').setData({ type: 'FeatureCollection', features: [] });
     }

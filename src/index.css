@@ -157,7 +157,7 @@ input::placeholder {
   transform-origin: 52% 48%;
 }
 
-/* Location dot pulse */
+/* Location dot + radar rings (item 5) */
 @keyframes dotPulse {
   0%   { box-shadow: 0 0 0 0   rgba(232,197,71,0.7); }
   70%  { box-shadow: 0 0 0 14px rgba(232,197,71,0);   }
@@ -173,6 +173,29 @@ input::placeholder {
 }
 .dot-pulse-light {
   animation: dotPulseLight 2s ease-out infinite;
+}
+
+/* Three-ring radar sweep. Each ring expands from the dot outward and
+   fades; staggered 0.6s apart on a 1.8s period (= 3 × 0.6s) so one
+   ring is always visible. */
+@keyframes radarRing {
+  0%   { width: 10px; height: 10px; opacity: 0.8; box-shadow: 0 0 0 0 transparent; }
+  80%  { width: 48px; height: 48px; opacity: 0; }
+  100% { width: 48px; height: 48px; opacity: 0; }
+}
+@keyframes radarRingLight {
+  0%   { width: 10px; height: 10px; opacity: 0.65; }
+  80%  { width: 48px; height: 48px; opacity: 0; }
+  100% { width: 48px; height: 48px; opacity: 0; }
+}
+.marker-ring {
+  background: transparent;
+  border: 1.5px solid rgba(232,197,71,0.7);
+  animation: radarRing 1.8s ease-out infinite;
+}
+.marker-ring--light {
+  border-color: rgba(154,114,0,0.6);
+  animation-name: radarRingLight;
 }
 
 /* News ticker */
