@@ -713,5 +713,25 @@
     "source": "Wall Street Journal",
     "categories": [],
     "collectedAt": "2026-05-02T09:30:01.616Z"
+  },
+  {
+    "title": "King Charles III cracks some jokes, and a congressional map gets thrown out: The news quiz",
+    "description": "James Comey gets indicted again, the Pentagon says how much the Iran war has cost taxpayers, and viral trend is removing door handles.",
+    "link": "https://www.nbcnews.com/news/news-quiz/king-charles-speech-news-quiz-rcna342979",
+    "pubDate": "Sat, 02 May 2026 09:15:00 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-05-02T09:45:02.402Z"
+  },
+  {
+    "title": "Japan’s Takaichi pledges deeper energy cooperation with Vietnam",
+    "description": "Takaichi signs six agreements with Vietnam, including on technology, agriculture and space, during a trip to Hanoi.",
+    "link": "https://www.aljazeera.com/news/2026/5/2/japans-takaichi-pledges-deeper-energy-cooperation-with-vietnam?traffic_source=rss",
+    "pubDate": "Sat, 02 May 2026 09:16:49 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-02T09:45:02.402Z"
   }
 ]
