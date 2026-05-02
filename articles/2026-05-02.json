@@ -545,5 +545,34 @@
     "source": "AP News",
     "categories": [],
     "collectedAt": "2026-05-02T08:45:01.309Z"
+  },
+  {
+    "title": "Dems circle the wagons by blaming GOP for their gerrymandering response ahead of midterms: 'Very desperate'",
+    "description": "Democrats are defending redistricting plans as a response to GOP efforts after the Supreme Court struck down a Louisiana congressional district map.",
+    "link": "https://www.foxnews.com/politics/dems-circle-wagons-blaming-gop-for-their-redistricting-response-midterms",
+    "pubDate": "Sat, 02 May 2026 04:00:10 -0400",
+    "source": "Fox News",
+    "categories": [
+      "525d3634-695d-513b-82bc-7748f1327612",
+      "fnc",
+      "fox news",
+      "fox-news/democrats",
+      "fox-news/politics/elections/midterm-elections",
+      "fox-news/us/congress",
+      "fox-news/politics/elections/republicans",
+      "fox-news/us/democratic-party",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-05-02T09:00:01.179Z"
+  },
+  {
+    "title": "US warns shipping firms they could face sanctions for paying Iranian tolls in Strait of Hormuz",
+    "description": "“OFAC is issuing this alert to warn US and non-US persons about the sanctions risks of making these payments to, or soliciting guarantees from, the Iranian regime for safe passage.\"",
+    "link": "https://nypost.com/2026/05/02/world-news/us-warns-iran-toll-payments-in-strait-of-hormuz-could-trigger-sanctions-for-shipping-firms/",
+    "pubDate": "Sat, 02 May 2026 04:58:09 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-02T09:00:01.179Z"
   }
 ]
