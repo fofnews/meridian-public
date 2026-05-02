@@ -43,5 +43,65 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-02T04:30:01.243Z"
+  },
+  {
+    "title": "The Papers:  'Burnham plans to return' and 'Four weeks from crunch'",
+    "description": "Labour grandee Andy Burnham \"plans to return to Westminster\" and oil crunch looms lead Saturday's papers.",
+    "link": "https://www.bbc.com/news/articles/c8d8m677zjro?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 02 May 2026 04:40:39 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-02T04:45:01.370Z"
+  },
+  {
+    "title": "Dolphins' Malik Willis Roasted After Embarrassing First Pitch at Marlins Game",
+    "description": "Miami Dolphins QB Malik Willis had a moment he wants to forget at Friday's Marlins-Phillies game.",
+    "link": "https://www.newsweek.com/sports/nfl/dolphins-malik-willis-roasted-after-embarrassing-first-pitch-at-marlins-game-11905675",
+    "pubDate": "Sat, 02 May 2026 00:38:58 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-02T04:45:01.370Z"
+  },
+  {
+    "title": "Trump says US forces are ‘like pirates’ taking Iranian oil",
+    "description": "Donald Trump says US forces are ‘like pirates’ taking over Iranian ships and cargo near the Strait of Hormuz.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/trump-says-us-forces-are-like-pirates-taking-iranian-oil?traffic_source=rss",
+    "pubDate": "Sat, 02 May 2026 04:35:54 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-05-02T04:45:01.370Z"
+  },
+  {
+    "title": "Iran war protester speaks to Al Jazeera from top of Washington bridge",
+    "description": "A 45-year old man is occupying the top of Washington’s Frederick Douglass Memorial Bridge to protest the war on Iran.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/iran-war-protester-speaks-to-al-jazeera-from-top-of-washington-bridge?traffic_source=rss",
+    "pubDate": "Sat, 02 May 2026 04:17:09 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-05-02T04:45:01.370Z"
+  },
+  {
+    "title": "Havana slams new Trump sanctions as ‘collective punishment’ of Cuban people",
+    "description": "The Cuban government has firmly rejected the recent sanctions levied by US President Donald Trump.",
+    "link": "https://www.aljazeera.com/economy/2026/5/2/havana-slams-new-trump-sanctions-as-collective-punishment-of-cuban-people?traffic_source=rss",
+    "pubDate": "Sat, 02 May 2026 04:06:01 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-02T04:45:01.370Z"
+  },
+  {
+    "title": "Ronny Mauricio’s late homer leads Mets past Angels for needed win to start May",
+    "description": "Ronny Mauricio crushed a 1-1 fastball from Jose Fermin, with a 111.3 mph exit velocity, for his first homer this season.",
+    "link": "https://nypost.com/2026/05/02/sports/ronny-mauricios-late-homer-leads-mets-past-angels-for-win-to-start-may/",
+    "pubDate": "Sat, 02 May 2026 00:34:24 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-02T04:45:01.370Z"
   }
 ]
