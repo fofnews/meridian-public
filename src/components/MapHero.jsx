@@ -43,7 +43,7 @@ export default function MapHero({
   const [mapEnabled] = useState(() => localStorage.getItem('meridian-map') !== 'false');
   const [mapVisible, setMapVisible] = useState(() => localStorage.getItem('meridian-map-visible') !== 'false');
 
-  const { mapContainer, mapRef, flyToLocation } = useMeridianMap({
+  const { mapContainer, mapRef, flyToLocation, updateArcs } = useMeridianMap({
     mapEnabled,
     isDark,
     focusPitch: FOCUSED_PITCH_WEBSITE,
@@ -82,7 +82,7 @@ export default function MapHero({
   const featured = stories[selectedIdx] ?? stories[0];
   const featuredLocations = featured?.analysis?.locations?.filter(l => l?.lat != null && l?.lng != null) ?? [];
 
-  // Fly to first location when story changes.
+  // Fly to first location when story changes; draw source arcs to that point.
   useEffect(() => {
     if (!featured) return;
     setActiveLocIdx(0);
@@ -90,9 +90,13 @@ export default function MapHero({
       const loc = featuredLocations[0];
       fetchBoundaryPolygon(loc.name, loc.iso).then(polygon => {
         flyToLocation({ ...loc, polygon });
+        updateArcs(featured.articles, loc);
       });
     } else {
-      geocodeStory(featured).then((coords) => flyToLocation(coords));
+      geocodeStory(featured).then((coords) => {
+        flyToLocation(coords);
+        updateArcs(featured.articles, coords);
+      });
     }
   }, [selectedIdx]);
 

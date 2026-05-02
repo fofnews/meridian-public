@@ -12,7 +12,7 @@
 
 import { useEffect, useRef, useCallback } from 'react';
 import { createMap } from './kernel.js';
-import { applyMapStyle } from './layers.js';
+import { applyMapStyle, updateArcs as kernelUpdateArcs, clearArcs } from './layers.js';
 import { computeNightPolygon } from './terminator.js';
 import { updatePulseMarkerTheme } from './marker.js';
 import {
@@ -42,6 +42,8 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = fal
   // Cancel function returned by cinematicFlyTo — called when a new fly
   // request arrives to abort any pending step-2 timeout.
   const cinematicCancelRef = useRef(null);
+  // Cancel function for the arc draw-on animation.
+  const arcsCancelRef = useRef(null);
   // Capture focusPitch so the fly callback always sees the latest value
   // without needing to be re-created on every prop change.
   const focusPitchRef = useRef(focusPitch);
@@ -98,6 +100,10 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = fal
       if (cinematicCancelRef.current) {
         cinematicCancelRef.current();
         cinematicCancelRef.current = null;
+      }
+      if (arcsCancelRef.current) {
+        arcsCancelRef.current();
+        arcsCancelRef.current = null;
       }
       if (mapInstance) {
         mapInstance.remove();
@@ -164,6 +170,7 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = fal
   const enterAmbient = useCallback(() => {
     if (!mapRef.current) return;
     returnToAmbient(mapRef.current, markerRef.current);
+    clearArcs(mapRef.current);
     currentPolygonRef.current = null;
     rotationRef.current?.setActive(true);
   }, []);
@@ -197,5 +204,16 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = fal
     }, AMBIENT_IDLE_TIMEOUT_MS);
   }, [cinematic, enterAmbient]);
 
-  return { mapContainer, mapRef, flyToLocation, enterAmbient };
+  // Draw source-to-story arcs for the newly focused story. Called by
+  // the component after flyToLocation so arcs and camera move together.
+  const updateArcs = useCallback((articles, storyLoc) => {
+    if (!mapRef.current) return;
+    if (arcsCancelRef.current) {
+      arcsCancelRef.current();
+      arcsCancelRef.current = null;
+    }
+    arcsCancelRef.current = kernelUpdateArcs(mapRef.current, articles, storyLoc);
+  }, []);
+
+  return { mapContainer, mapRef, flyToLocation, enterAmbient, updateArcs };
 }

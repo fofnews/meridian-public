@@ -50,7 +50,7 @@ export default function BroadcastStage({
   const [activeLocIdx, setActiveLocIdx] = useState(0);
   const [mapEnabled] = useState(true); // broadcast always renders the map
 
-  const { mapContainer, mapRef, flyToLocation } = useMeridianMap({
+  const { mapContainer, mapRef, flyToLocation, updateArcs } = useMeridianMap({
     mapEnabled,
     isDark,
     focusPitch: FOCUSED_PITCH_BROADCAST,
@@ -74,7 +74,7 @@ export default function BroadcastStage({
   const featuredLocations = featured?.analysis?.locations?.filter(l => l?.lat != null && l?.lng != null) ?? [];
 
   // Fly to first location when story changes. Will be replaced by a
-  // shotlist-driven timeline in item #15.
+  // Will be replaced by shotlist-driven timeline in item #15.
   useEffect(() => {
     if (!featured) return;
     setActiveLocIdx(0);
@@ -82,9 +82,13 @@ export default function BroadcastStage({
       const loc = featuredLocations[0];
       fetchBoundaryPolygon(loc.name, loc.iso).then(polygon => {
         flyToLocation({ ...loc, polygon });
+        updateArcs(featured.articles, loc);
       });
     } else {
-      geocodeStory(featured).then((coords) => flyToLocation(coords));
+      geocodeStory(featured).then((coords) => {
+        flyToLocation(coords);
+        updateArcs(featured.articles, coords);
+      });
     }
   }, [selectedIdx]);
 

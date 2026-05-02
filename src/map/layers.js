@@ -5,6 +5,7 @@
 
 import { GRATICULE_GEOJSON } from './graticule.js';
 import { computeNightPolygon } from './terminator.js';
+import { buildArcsGeoJSON } from './arcs.js';
 
 // Fog values tuned for broadcast look on globe projection.
 // Dark: deep space with visible stars and blue atmospheric glow.
@@ -270,5 +271,107 @@ export function applyMapStyle(map, isDark) {
       map.setPaintProperty('state-highlight-edge', 'line-color', isDark ? '#e8c547' : '#9A7200');
       map.setPaintProperty('state-highlight-edge', 'line-opacity', isDark ? 0.90 : 0.80);
     }
+  } catch {}
+
+  // Source-to-story arc layers (item 9) — empty on init; updateArcs()
+  // fills them when a story is focused. lineMetrics: true is required
+  // for line-trim-offset (the draw-on animation).
+  // Arcs sit above highlights but below labels.
+  try {
+    const arcsBefore = map.getLayer('country-label') ? 'country-label' : undefined;
+    if (!map.getSource('arcs')) {
+      map.addSource('arcs', {
+        type: 'geojson',
+        lineMetrics: true,
+        data: { type: 'FeatureCollection', features: [] },
+      });
+    }
+    if (!map.getLayer('arcs-glow')) {
+      map.addLayer({
+        id: 'arcs-glow',
+        type: 'line',
+        source: 'arcs',
+        layout: { 'line-cap': 'round' },
+        paint: {
+          'line-color': isDark ? '#e8c547' : '#9A7200',
+          'line-width': 5,
+          'line-blur': 3,
+          'line-opacity': isDark ? 0.28 : 0.22,
+        },
+      }, arcsBefore);
+    } else {
+      map.setPaintProperty('arcs-glow', 'line-color', isDark ? '#e8c547' : '#9A7200');
+      map.setPaintProperty('arcs-glow', 'line-opacity', isDark ? 0.28 : 0.22);
+    }
+    if (!map.getLayer('arcs-edge')) {
+      map.addLayer({
+        id: 'arcs-edge',
+        type: 'line',
+        source: 'arcs',
+        layout: { 'line-cap': 'round' },
+        paint: {
+          'line-color': isDark ? '#e8c547' : '#9A7200',
+          'line-width': 1.2,
+          'line-opacity': isDark ? 0.70 : 0.55,
+        },
+      }, arcsBefore);
+    } else {
+      map.setPaintProperty('arcs-edge', 'line-color', isDark ? '#e8c547' : '#9A7200');
+      map.setPaintProperty('arcs-edge', 'line-opacity', isDark ? 0.70 : 0.55);
+    }
+  } catch {}
+}
+
+// Draw source-to-story arcs for the focused story. Returns a cancel()
+// function that aborts the draw-on animation if a new story is selected
+// before the animation finishes.
+//
+// articles  — story.articles array
+// storyLoc  — { lat, lng } of the story focus point
+export function updateArcs(map, articles, storyLoc) {
+  if (!map) return () => {};
+
+  const geojson = buildArcsGeoJSON(articles, storyLoc);
+  try { map.getSource('arcs')?.setData(geojson); } catch { return () => {}; }
+
+  // If there are no arcs (no known sources), nothing to animate.
+  if (!geojson.features.length) return () => {};
+
+  const DURATION_MS = 1_600;
+  const start = performance.now();
+  let raf = null;
+  let cancelled = false;
+
+  // Reset to hidden before animating.
+  try {
+    map.setPaintProperty('arcs-glow', 'line-trim-offset', [0, 1]);
+    map.setPaintProperty('arcs-edge', 'line-trim-offset', [0, 1]);
+  } catch {}
+
+  const tick = (now) => {
+    if (cancelled) return;
+    const t = Math.min((now - start) / DURATION_MS, 1);
+    const eased = 1 - (1 - t) ** 3; // cubic ease-out
+    const trimEnd = 1 - eased;
+    try {
+      map.setPaintProperty('arcs-glow', 'line-trim-offset', [0, trimEnd]);
+      map.setPaintProperty('arcs-edge', 'line-trim-offset', [0, trimEnd]);
+    } catch {}
+    if (t < 1) raf = requestAnimationFrame(tick);
+  };
+  raf = requestAnimationFrame(tick);
+
+  return () => {
+    cancelled = true;
+    if (raf != null) cancelAnimationFrame(raf);
+  };
+}
+
+// Clear arcs — called by returnToAmbient so arcs disappear with the globe idle return.
+export function clearArcs(map) {
+  try {
+    map.getSource('arcs')?.setData({ type: 'FeatureCollection', features: [] });
+    map.setPaintProperty('arcs-glow', 'line-trim-offset', [0, 1]);
+    map.setPaintProperty('arcs-edge', 'line-trim-offset', [0, 1]);
   } catch {}
 }
