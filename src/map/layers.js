@@ -77,6 +77,28 @@ export function applyMapStyle(map, isDark) {
     } catch {}
   }
 
+  // Atmospheric fog — gives the globe a horizon and space backdrop (item #1).
+  // Runs on every style change so theme switches re-apply the right palette.
+  try {
+    if (isDark) {
+      map.setFog({
+        color: '#0a1828',          // near-horizon haze (matches dark land)
+        'high-color': '#1a2a4a',   // upper atmosphere — cool blue
+        'horizon-blend': 0.04,     // narrow band — crisp edge reads well on video
+        'space-color': '#000814',  // deep space
+        'star-intensity': 0.6,
+      });
+    } else {
+      map.setFog({
+        color: '#c8ddf0',          // hazy daylight atmosphere at horizon
+        'high-color': '#a0c4e0',   // upper sky
+        'horizon-blend': 0.06,
+        'space-color': '#7aafc8',  // clear sky — distinct from pale land (#f5f2ed)
+        'star-intensity': 0,
+      });
+    }
+  } catch {}
+
   // Country highlight + border layers (re-added after every style change)
   try {
     if (!map.getSource('country-boundaries')) {

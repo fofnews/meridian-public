@@ -2,7 +2,7 @@
 
 Goal: turn `BroadcastHero`'s Mapbox map from an interactive info widget into a video-grade backdrop for news clips generated from Meridian reports, then build the recording pipeline that turns each daily edition into publishable video.
 
-**Status:** 4 / 23 complete · Last updated: 2026-04-30
+**Status:** 5 / 23 complete · Last updated: 2026-05-01
 
 To resume work in a new session: ask Claude to read `docs/map-broadcast-checklist.md`.
 
@@ -54,10 +54,10 @@ All Phase 1 items land in the shared kernel (Phase 0a) unless otherwise noted. B
 
 ## Priority 1 — Highest visual impact
 
-- [ ] **1. Switch to globe projection + atmospheric fog**
-  - Set `projection: 'globe'` on the `Map` constructor in `src/components/BroadcastHero.jsx`
-  - Add `map.setFog({ color, 'high-color', 'horizon-blend', 'space-color', 'star-intensity' })` after style load
-  - Verify story flyTo still frames correctly on the sphere (may need to lower zoom for wide regions)
+- [x] **1. Switch to globe projection + atmospheric fog**
+  - Globe projection landed in 0c (`projection: 'globe'` in `src/map/kernel.js`).
+  - `map.setFog(...)` added to `applyMapStyle` in `src/map/layers.js` — runs on style load and every theme switch so both surfaces inherit it. Dark: deep space (`#000814`) + narrow 0.04 horizon-blend + 0.6 star intensity. Light: daytime sky blue (`#7aafc8`) + 0.06 blend + no stars. Light theme `space-color` tuned away from warm-paper (caused globe to disappear into background) to a clear sky blue.
+  - flyTo verified: marker + country-highlight work correctly on the sphere; zoom 5 frames well for city and country targets.
 
 - [ ] **2. Author a custom Mapbox style and stop patching `dark-v11` at runtime**
   - Build `meridian.style.json` in Mapbox Studio (or hand-author) covering: land, water, country borders, admin-1, country labels, place labels, graticule, day/night
