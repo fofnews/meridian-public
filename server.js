@@ -51,6 +51,9 @@ app.post('/api/suggestions/:id/vote', (req, res) => {
   res.json(suggestion);
 });
 
+// Serve generated shotlists so the broadcast page can fetch them.
+app.use('/out/shotlists', express.static(path.join(__dirname, 'out', 'shotlists')));
+
 // Serve the built React app
 app.use(express.static(path.join(__dirname, 'dist')));
 
