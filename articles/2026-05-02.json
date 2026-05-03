@@ -7779,5 +7779,63 @@
     "source": "Newsmax",
     "categories": [],
     "collectedAt": "2026-05-03T01:15:02.054Z"
+  },
+  {
+    "title": "America Strong: Oldest TSA officer in the US",
+    "description": "John Wayne, 90, recounts how joining the Transportation Security Administration became a second career after financial hardship.",
+    "link": "https://abcnews.com/video/132608079/",
+    "pubDate": "Sat, 02 May 2026 21:15:46 -0400",
+    "source": "ABC News",
+    "categories": [
+      "wnt"
+    ],
+    "collectedAt": "2026-05-03T01:30:02.258Z"
+  },
+  {
+    "title": "Beloved racer Alex Zanardi, who turned tragedy into Paralympic triumph, dead at 59",
+    "description": "Alex Zanardi, Italian auto racing champion-turned-Paralympic gold medalist whose career was marked by two life-altering accidents, has died at age 59.",
+    "link": "https://www.foxnews.com/sports/beloved-racer-alex-zanardi-turned-tragedy-paralympic-triumph-dead-59",
+    "pubDate": "Sat, 02 May 2026 21:22:53 -0400",
+    "source": "Fox News",
+    "categories": [
+      "feb9bee7-fdcd-5cc5-95fe-8e5de4731337",
+      "fnc",
+      "fox news",
+      "fox-news/auto/formula-one",
+      "fox-news/auto/attributes/racing",
+      "fox-news/sports/olympics",
+      "fox-news/entertainment/events/departed",
+      "fox-news/sports",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-05-03T01:30:02.258Z"
+  },
+  {
+    "title": "California park highlights wildflowers despite recent bloom vandalism",
+    "description": "A sea of vivid purple lupine carpet the Bald Hills near the Lyons Ranch Trailhead in northern California, where the flowers are expected to last through May.",
+    "link": "https://nypost.com/2026/05/02/us-news/california-park-highlights-wildflowers-despite-recent-bloom-vandalism/",
+    "pubDate": "Sat, 02 May 2026 21:22:15 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-03T01:30:02.258Z"
+  },
+  {
+    "title": "Rangers promote Tanner Glass to director of player development",
+    "description": "The Rangers filled their director of player development role internally.",
+    "link": "https://nypost.com/2026/05/02/sports/rangers-promote-tanner-glass-to-director-of-player-development/",
+    "pubDate": "Sat, 02 May 2026 21:19:36 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-03T01:30:02.258Z"
+  },
+  {
+    "title": "UCLA’s spring football game shows off team’s new energetic vibe",
+    "description": "The big winner of UCLA’s spring football game was anyone looking for signs of life in the program. A year ago, the team held what was dubbed a spring showcase before a smattering of fans. It was a glorified practice, with quarterback Nico Iamaleava watching in sunglasses and a designer T-shirt after having recently transferred...",
+    "link": "https://nypost.com/2026/05/02/sports/ucla-football-holds-energetic-spring-game-at-rose-bowl/",
+    "pubDate": "Sat, 02 May 2026 21:19:08 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-03T01:30:02.258Z"
   }
 ]
