@@ -8,7 +8,12 @@
     "dev:client": "vite",
     "dev:server": "node server.js",
     "build": "vite build",
-    "start": "node server.js"
+    "start": "node server.js",
+    "build-shotlist": "node scripts/build-shotlist.js",
+    "synthesize-narration": "node scripts/synthesize-narration.js",
+    "record-clip": "node scripts/record-clip.js",
+    "finalize-clip": "node scripts/finalize-clip.js",
+    "produce-clip": "node scripts/produce-clip.js"
   },
   "dependencies": {
     "@upstash/redis": "^1.37.0",
@@ -23,6 +28,7 @@
     "@tailwindcss/vite": "^4.2.0",
     "@vitejs/plugin-react": "^5.1.1",
     "concurrently": "^9.2.1",
+    "playwright": "^1.59.1",
     "vite": "npm:rolldown-vite@7.2.5"
   },
   "overrides": {

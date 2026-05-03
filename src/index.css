@@ -24,6 +24,11 @@
   --accent:      #e8c547;
   --accent-text: #0a0d14;
 
+  /* 3-tier map highlight palette (item 10) */
+  --accent-active:    #e8c547;  /* focused location — gold */
+  --accent-secondary: #7ab8d8;  /* other story locations — cool blue */
+  --accent-trail:     #8a7840;  /* previous story — muted gray-gold */
+
   /* RGB channels for rgba() */
   --text-primary-rgb: 240, 235, 224;
   --bg-secondary-rgb: 10, 13, 20;
@@ -92,6 +97,11 @@
   --accent:      #9A7200;
   --accent-text: #F2F6FA;
 
+  /* 3-tier map highlight palette (item 10) */
+  --accent-active:    #9A7200;  /* focused location — brass gold */
+  --accent-secondary: #1a6090;  /* other story locations — steel blue */
+  --accent-trail:     #6b5420;  /* previous story — muted dark gold */
+
   /* RGB channels for rgba() */
   --text-primary-rgb: 10, 24, 40;
   --bg-secondary-rgb: 216, 226, 236;
@@ -157,7 +167,7 @@ input::placeholder {
   transform-origin: 52% 48%;
 }
 
-/* Location dot pulse */
+/* Location dot + radar rings (item 5) */
 @keyframes dotPulse {
   0%   { box-shadow: 0 0 0 0   rgba(232,197,71,0.7); }
   70%  { box-shadow: 0 0 0 14px rgba(232,197,71,0);   }
@@ -175,6 +185,29 @@ input::placeholder {
   animation: dotPulseLight 2s ease-out infinite;
 }
 
+/* Three-ring radar sweep. Each ring expands from the dot outward and
+   fades; staggered 0.6s apart on a 1.8s period (= 3 × 0.6s) so one
+   ring is always visible. */
+@keyframes radarRing {
+  0%   { width: 10px; height: 10px; opacity: 0.8; box-shadow: 0 0 0 0 transparent; }
+  80%  { width: 48px; height: 48px; opacity: 0; }
+  100% { width: 48px; height: 48px; opacity: 0; }
+}
+@keyframes radarRingLight {
+  0%   { width: 10px; height: 10px; opacity: 0.65; }
+  80%  { width: 48px; height: 48px; opacity: 0; }
+  100% { width: 48px; height: 48px; opacity: 0; }
+}
+.marker-ring {
+  background: transparent;
+  border: 1.5px solid rgba(232,197,71,0.7);
+  animation: radarRing 1.8s ease-out infinite;
+}
+.marker-ring--light {
+  border-color: rgba(154,114,0,0.6);
+  animation-name: radarRingLight;
+}
+
 /* News ticker */
 @keyframes ticker {
   0%   { transform: translateX(100vw); }
@@ -182,17 +215,6 @@ input::placeholder {
 }
 .ticker-scroll {
   animation: ticker 720s linear infinite;
-}
-
-/* CRT scanline overlay */
-.scanlines {
-  background: repeating-linear-gradient(
-    0deg,
-    transparent,
-    transparent 2px,
-    rgba(0,0,0,0.04) 2px,
-    rgba(0,0,0,0.04) 4px
-  );
 }
 
 /* ── Responsive ─────────────────────────────────────────── */

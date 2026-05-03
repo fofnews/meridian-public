@@ -12,7 +12,7 @@ import { Component } from 'react';
  *   </ErrorBoundary>
  *
  *   <ErrorBoundary fallback={null}>  // silent: render nothing on error
- *     <BroadcastHero ... />
+ *     <MapHero ... />
  *   </ErrorBoundary>
  */
 export default class ErrorBoundary extends Component {

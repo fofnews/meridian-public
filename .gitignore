@@ -7,3 +7,4 @@ timelines/embeddings.json
 .claude/worktrees/
 graphify-out/
 .superpowers/
+out/
