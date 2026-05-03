@@ -10,6 +10,7 @@
     "build": "vite build",
     "start": "node server.js",
     "build-shotlist": "node scripts/build-shotlist.js",
+    "synthesize-narration": "node scripts/synthesize-narration.js",
     "record-clip": "node scripts/record-clip.js"
   },
   "dependencies": {
