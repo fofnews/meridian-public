@@ -2,7 +2,7 @@
 
 Goal: turn `BroadcastHero`'s Mapbox map from an interactive info widget into a video-grade backdrop for news clips generated from Meridian reports, then build the recording pipeline that turns each daily edition into publishable video.
 
-**Status:** 13 / 23 complete · Last updated: 2026-05-03
+**Status:** 21 / 23 complete · Last updated: 2026-05-03
 
 To resume work in a new session: ask Claude to read `docs/map-broadcast-checklist.md`.
 
@@ -54,58 +54,42 @@ All Phase 1 items land in the shared kernel (Phase 0a) unless otherwise noted. B
 
 ## Priority 1 — Highest visual impact
 
-- [ ] **1. Switch to globe projection + atmospheric fog**
-  - Set `projection: 'globe'` on the `Map` constructor in `src/components/BroadcastHero.jsx`
-  - Add `map.setFog({ color, 'high-color', 'horizon-blend', 'space-color', 'star-intensity' })` after style load
-  - Verify story flyTo still frames correctly on the sphere (may need to lower zoom for wide regions)
+- [x] **1. Switch to globe projection + atmospheric fog**
+  - Globe projection set in item 0c. Atmospheric fog (`setFog`) added in `src/map/kernel.js` after style load: horizon-blend, space-color, star-intensity, high-color tuned for broadcast dark palette.
 
 - [ ] **2. Author a custom Mapbox style and stop patching `dark-v11` at runtime**
   - Build `meridian.style.json` in Mapbox Studio (or hand-author) covering: land, water, country borders, admin-1, country labels, place labels, graticule, day/night
   - Replace the runtime `applyMapStyle` patching block in `BroadcastHero.jsx` with a single `style:` URL
   - Keep the country-highlight / state-highlight layers as runtime additions (they're data-driven), but drop the try/catch label/road/poi mutations
 
-- [ ] **3. Replace flat country-fill highlight with a glowing edge**
-  - Two stacked `line` layers on `country-boundaries`: wide (8–12px, low-opacity, `line-blur: 4`) + narrow (1.5px, full-opacity)
-  - Both filtered by `iso_3166_1` like today's `country-highlight`
-  - Drop or de-emphasize the existing flat `fill` highlight
+- [x] **3. Replace flat country-fill highlight with a glowing edge**
+  - Two stacked `line` layers in `src/map/layers.js`: wide (10px, low-opacity, `line-blur: 4`) + narrow (1.5px, full-opacity), both filtered by `iso_3166_1`. Flat fill de-emphasized to near-transparent.
 
 ## Priority 2 — Cinematic camera + on-theme detail
 
-- [ ] **4. Cinematic camera moves (pitch, bearing, longer easing)**
-  - Update `flyToLocation` in `BroadcastHero.jsx` to pass `pitch: 45–60`, optional `bearing` offset
-  - Lengthen `duration` from 2000 → 4000–6000 ms
-  - Consider a two-step move: ease out to wider view, then fly in to target
+- [x] **4. Cinematic camera moves (pitch, bearing, longer easing)**
+  - `flyToLocation` in `src/map/camera.js` uses pitch 50°, bearing derived from shot metadata, duration 5000ms for broadcast. Shot-list camera objects carry explicit `pitch` and `bearing` fields.
 
-- [ ] **5. Radar-pulse marker (3 staggered rings)**
-  - Replace single-ring DOM marker in `createMarkerElement` with three rings on staggered animation delays
-  - Update CSS keyframes (`dot-pulse`, `dot-pulse-light`) accordingly
-  - Confirm pulse loops visibly during the multi-second camera hold
+- [x] **5. Radar-pulse marker (3 staggered rings)**
+  - `src/map/marker.js` creates three rings with staggered `animation-delay` (0s, 0.4s, 0.8s). Marker hidden outside focused state (bug fixed in same commit). Pulse loops continuously through the multi-second camera hold.
 
-- [ ] **6. Graticule overlay (lat/lon gridlines)**
-  - Generate static GeoJSON multi-line at 10° or 15° intervals (commit as `public/graticule.geojson` or inline)
-  - Add as a `line` layer at 10–15% opacity, beneath labels
+- [x] **6. Graticule overlay (lat/lon gridlines)**
+  - `src/map/graticule.js` generates GeoJSON at 15° intervals inline (no external file). Added as a `line` layer at 12% opacity beneath labels in `src/map/layers.js`.
 
 - [ ] **7. Custom typography for place labels**
   - Self-host Playfair Display SDF glyph set, expose via Mapbox style's `glyphs:` URL
   - Update `text-font` on country-label / place-label layers in the custom style
 
-- [ ] **8. Day/night terminator overlay**
-  - Compute terminator polygon from current UTC time (cheap math, runs once per minute)
-  - Add as a low-opacity dark fill layer on the night side
-  - Reinforces morning/evening edition cadence visually
+- [x] **8. Day/night terminator overlay**
+  - `src/map/terminator.js` computes the terminator polygon from UTC time. Added as a low-opacity dark fill layer, updated every 60s. Reinforces morning/evening edition cadence visually.
 
 ## Priority 3 — Brand differentiator
 
-- [ ] **9. Source-to-story arcs (multi-source visualization)**
-  - For the featured story, draw a thin gold great-circle arc from each contributing outlet's HQ to the story location
-  - Requires a static `source → {lat, lng}` lookup for the ~20 sources (commit as `src/sources.js`)
-  - Render via a `line` layer with computed great-circle geometry, animate `line-dasharray` for the "draw-on" effect
-  - This is the unique product expression — prioritize even if other items slip
+- [x] **9. Source-to-story arcs (multi-source visualization)**
+  - `src/map/arcs.js` draws great-circle arcs from each outlet's HQ to the story location. Static source→coords lookup in `src/map/sources.js` (~20 outlets). Animated `line-dasharray` draw-on effect. Both surfaces consume it via `useMeridianMap`.
 
-- [ ] **10. 3-color highlight palette**
-  - Currently every accent uses `--accent` (#e8c547)
-  - Define `--accent-active` (gold), `--accent-secondary` (cool white / pale blue), `--accent-trail` (muted gray-gold)
-  - Wire focused location → active, other story locations → secondary, previous story → trail
+- [x] **10. 3-color highlight palette**
+  - CSS custom properties `--accent-active` (gold), `--accent-secondary` (pale blue-white), `--accent-trail` (muted gray-gold) defined in `src/index.css`. Focused location → active, other story locations → secondary, previous → trail; wired in `src/map/layers.js`.
 
 ## Priority 4 — Video output infrastructure
 
