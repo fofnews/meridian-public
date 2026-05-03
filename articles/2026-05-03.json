@@ -418,5 +418,36 @@
     "source": "Newsweek",
     "categories": [],
     "collectedAt": "2026-05-03T08:30:03.710Z"
+  },
+  {
+    "title": "Israel issues new forced displacement orders in southern Lebanon",
+    "description": "Warning covers more than 10 villages and towns, including several in Nabatieh district that lie north of Litani River.",
+    "link": "https://www.aljazeera.com/news/2026/5/3/israel-issues-new-forced-displacement-orders-in-southern-lebanon?traffic_source=rss",
+    "pubDate": "Sun, 03 May 2026 08:35:43 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-03T08:45:04.069Z"
+  },
+  {
+    "title": "Gretchen Walsh lowers own 100m butterfly world record for fourth time",
+    "description": "Walsh won in 54.33 seconds at the Fort Lauderdale Open in Florida, where she set her previous world record of 54.60s.",
+    "link": "https://www.aljazeera.com/sports/2026/5/3/gretchen-walsh-lowers-own-100m-butterfly-world-record-for-fourth-time?traffic_source=rss",
+    "pubDate": "Sun, 03 May 2026 08:24:28 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-05-03T08:45:04.069Z"
+  },
+  {
+    "title": "Kentucky teen accused of killing 2 bank employees busted after posting clues on social media",
+    "description": "A silver BMW seen on surveillance video became a key break in the case — investigators matched it to a car Weaver had listed for sale on Facebook.",
+    "link": "https://nypost.com/2026/05/03/us-news/kentucky-teen-busted-after-flaunting-clues-on-facebook-following-deadly-bank-rampage/",
+    "pubDate": "Sun, 03 May 2026 04:32:48 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-03T08:45:04.069Z"
   }
 ]
