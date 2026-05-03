@@ -454,7 +454,7 @@
       "id": "sinaloa-cartel-violence",
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-04-30",
+      "lastSeen": "2026-05-02",
       "active": true,
       "entries": [
         {
@@ -506,6 +506,11 @@
           "date": "2026-04-30",
           "edition": "morning",
           "update": "Ten current and former Mexican officials, including Sinaloa state Governor Rubén Rocha Moya, have been charged in a U.S. federal indictment for drug trafficking offenses connected to the Sinaloa Cartel."
+        },
+        {
+          "date": "2026-05-02",
+          "edition": "evening",
+          "update": "Sinaloa Governor Rubén Rocha Moya has stepped down from his position following the U.S. federal drug trafficking charges filed against him."
         }
       ],
       "parentId": null
@@ -1014,7 +1019,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-04-30",
+      "lastSeen": "2026-05-02",
       "active": true,
       "entries": [
         {
@@ -1401,6 +1406,16 @@
           "date": "2026-04-30",
           "edition": "evening",
           "update": "Hegseth extended his congressional testimony to both chambers, appearing before the House on Wednesday and the Senate on Thursday, where lawmakers pressed him on the objectives and costs of the Iran war. PCE inflation rose to 3.5% in March, the highest reading in nearly three years and above the Federal Reserve's 2% target, with the Iran conflict cited as a contributing driver. Representative Seth Moulton accused Hegseth of being 'guilty' of war crimes in a CNN interview."
+        },
+        {
+          "date": "2026-05-01",
+          "edition": "evening",
+          "update": "President Trump sent a formal notification to Congress declaring that hostilities with Iran have 'terminated,' addressing a 60-day deadline under the War Powers Act. The letter was addressed to both House Speaker Mike Johnson and Senate President Pro Tempore Chuck Grassley."
+        },
+        {
+          "date": "2026-05-02",
+          "edition": "morning",
+          "update": "At a public event, Trump described U.S. Navy actions against Iranian oil shipments near the Strait of Hormuz as acting 'like pirates.'"
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2125,7 +2140,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-04-30",
+      "lastSeen": "2026-05-02",
       "active": true
     },
     {
@@ -2232,7 +2247,22 @@
           "update": "The U.S. Senate blocked a Democratic-led resolution challenging Trump's military authority over Cuba, with Republican senators voting against advancing the measure."
         }
       ]
+    },
+    {
+      "id": "us-military-intervention-in-cuba",
+      "title": "US Military Intervention in Cuba",
+      "parentId": null,
+      "firstSeen": "2026-05-02",
+      "lastSeen": "2026-05-02",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-05-02",
+          "edition": "morning",
+          "update": "Trump, speaking at a Palm Beach forum, said the U.S. would be 'taking over' Cuba 'almost immediately,' and referenced finishing a job in Iran before turning to Cuba."
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-05-01T11:03:11.974Z"
+  "updatedAt": "2026-05-02T21:02:30.621Z"
 }
