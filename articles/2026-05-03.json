@@ -560,5 +560,47 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-03T09:15:01.230Z"
+  },
+  {
+    "title": "Trump Says He Is Reviewing Iran’s Latest Offer but Doubts It Is Acceptable",
+    "description": "The comments came one day after President Trump flatly rejected the proposal. He later clarified he was only briefed on the “concept of the deal.”",
+    "link": "https://www.nytimes.com/2026/05/02/us/politics/trump-us-iran-plan.html",
+    "pubDate": "Sun, 03 May 2026 09:12:32 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "united states politics and government",
+      "peace process",
+      "united states international relations",
+      "trump, donald j",
+      "iran",
+      "florida"
+    ],
+    "collectedAt": "2026-05-03T09:30:00.992Z"
+  },
+  {
+    "title": "Court restricts abortion access across the US by blocking the mailing of mifepristone - AP News",
+    "description": "Court restricts abortion access across the US by blocking the mailing of mifepristone  AP News",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUFg4VW55R0NfeXB2QmR3Y09Ydi1nYXhUWXdKRlBHTEhTLUdQZDdwSXVJbkpBX0Q1R29NdDBmZDk0cDZsY0tuOHBrVTMtQllpSEZIVG5EMk5Zb1JZWjQ3UE82TE42U3ZOZ2kxRGFlbmRCMXlzY2EzUkdNc2RqbW9PNnA1SXd4VGxfVmE3RFBuZWZ1N2E5NzRDUWtzSng?oc=5",
+    "pubDate": "Sun, 03 May 2026 09:21:57 GMT",
+    "source": "AP News",
+    "categories": [],
+    "collectedAt": "2026-05-03T09:30:00.992Z"
+  },
+  {
+    "title": "Congressional Black Caucus faces lose-lose situation after Supreme Court ruling",
+    "description": "The Congressional Black Caucus is bracing for potential fallout after a Supreme Court decision this week dealt a blow to race-based redistricting, setting the stage for a new round of the redistricting wars.  The ruling could intensify gerrymandering battles in both red and blue states, with implications for black-majority districts and Democratic representation more broadly. According […]",
+    "link": "https://www.washingtonexaminer.com/news/house/4551665/congressional-black-caucus-lose-lose-situation-vra-ruling/",
+    "pubDate": "Sun, 03 May 2026 09:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "house",
+      "congressional black caucus",
+      "democratic party",
+      "redistricting",
+      "supreme court",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-05-03T09:30:00.992Z"
   }
 ]
