@@ -7837,5 +7837,48 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-03T01:30:02.258Z"
+  },
+  {
+    "title": "AI finds signs of pancreatic cancer before tumors develop",
+    "description": "An artificial intelligence model from the Mayo Clinic detected early signs of possible pancreatic cancer on scans up to two years before patients were diagnosed.",
+    "link": "https://www.nbcnews.com/health/cancer/ai-early-signs-pancreatic-cancer-before-tumors-develop-rcna343099",
+    "pubDate": "Sat, 02 May 2026 10:00:41 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-05-03T01:45:01.838Z"
+  },
+  {
+    "title": "Fire Breaks Out at University of South Florida Marine Science Lab",
+    "description": "A fire broke out Saturday evening at a University of South Florida marine science lab in St. Petersburg, prompting an evacuation.",
+    "link": "https://www.newsweek.com/fire-breaks-out-at-university-of-south-florida-marine-science-lab-11907355",
+    "pubDate": "Sat, 02 May 2026 21:42:48 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-03T01:45:01.838Z"
+  },
+  {
+    "title": "White House dinner shooting suspect seeks end of suicide precautions - Reuters",
+    "description": "White House dinner shooting suspect seeks end of suicide precautions  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSGhqMzlVa09mQzdMSkV3UlFXWEV6UUx1SmpRNTRibnJsVGhFRnZJZHl0bDZ2Ni16NG1CZmtNRFpzdEVMZEYxakp3aVhkc1ZFTkxkR1RjR2htTmhadkRPb2drRTUzamJLbjFvR0tZOXRiZVBsMWJnaXZnekUyQ19tbG9GMGU5RWozUjVKclBXM3ZiYnhvUm1ybTk0bm5KWGNEb3g1enVRRjZGd1ZrNmhz?oc=5",
+    "pubDate": "Sat, 02 May 2026 22:27:44 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-05-03T01:45:01.838Z"
+  },
+  {
+    "title": "Czech Republic president on Trump’s anger with Europe over Iran war response: ‘We are not part of it’",
+    "description": "The leader of the Czech Republic pushed back this week against President Trump’s accusations that Europe has failed to do its part to support the U.S.’s ongoing military operations against Iran.  “I believe that Europe could do much more, but we are not part of it,” Czech President Petr Pavel told CNN’s Christine Amanpour at…",
+    "link": "https://thehill.com/policy/international/5861117-czech-leader-europe-iran-support/",
+    "pubDate": "Sun, 03 May 2026 00:55:25 +0000",
+    "source": "The Hill",
+    "categories": [
+      "international",
+      "news",
+      "europe",
+      "nato",
+      "petr pavel",
+      "president trump"
+    ],
+    "collectedAt": "2026-05-03T01:45:01.838Z"
   }
 ]
