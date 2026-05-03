@@ -37,6 +37,9 @@ function truncateHeadline(headline, maxLen = 72) {
   return decoded.length <= maxLen ? decoded : decoded.slice(0, maxLen - 1) + '…';
 }
 
+const PRE_ROLL_MS  = 1000;
+const POST_ROLL_MS = 1000;
+
 export default function BroadcastStage({
   stories,
   selectedIdx,
@@ -45,12 +48,23 @@ export default function BroadcastStage({
   availableEditions = [],
   onEditionSelect,
   broadcastMode = false,
+  shotlistUrl = null,
 }) {
   const { isDark } = useTheme();
   const EDITION_LABELS = { morning: '☀  Morning', evening: '🌙  Evening' };
   const [time, setTime] = useState('');
   const [activeLocIdx, setActiveLocIdx] = useState(0);
   const [mapEnabled] = useState(true); // broadcast always renders the map
+
+  // Shotlist-driven render state (item 15).
+  // activeShot overrides chyron label/headline when a shotlist is running.
+  // overlayOpacity drives the pre-roll black frame (1) → visible (0) →
+  // post-roll fade-to-black (1) sequence.
+  const [shotlist, setShotlist]         = useState(null);
+  const [activeShot, setActiveShot]     = useState(null);
+  const [overlayOpacity, setOverlayOpacity] = useState(
+    broadcastMode && shotlistUrl ? 1 : 0
+  );
 
   const { mapContainer, mapRef, flyToLocation, updateArcs, updateHighlights } = useMeridianMap({
     mapEnabled,
@@ -72,6 +86,57 @@ export default function BroadcastStage({
     const id = setInterval(update, 1000);
     return () => clearInterval(id);
   }, []);
+
+  // Fetch shotlist when URL is provided.
+  useEffect(() => {
+    if (!shotlistUrl) return;
+    fetch(shotlistUrl)
+      .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(setShotlist)
+      .catch(err => console.error('Shotlist fetch failed:', err));
+  }, [shotlistUrl]);
+
+  // Timeline scheduler — fires once the shotlist is loaded.
+  // Each shot's t (seconds) maps to an absolute setTimeout delay relative
+  // to a shared epoch so shots can't drift relative to each other.
+  useEffect(() => {
+    if (!shotlist || !broadcastMode) return;
+
+    const ids = [];
+
+    // Pre-roll: fade in after a short grace period for first paint.
+    ids.push(setTimeout(() => setOverlayOpacity(0), 50));
+
+    shotlist.shots.forEach(shot => {
+      ids.push(setTimeout(() => {
+        setActiveShot(shot);
+
+        // Camera: fly to the shot's specified position.
+        const loc = {
+          lng:  shot.camera.lng,
+          lat:  shot.camera.lat,
+          zoom: shot.camera.zoom,
+          iso:  '',  // no country-highlight in shotlist mode
+        };
+        flyToLocation(loc);
+
+        // Arcs: match story by headline to get article sources.
+        const story = stories.find(s => s.headline === shot.chyron.headline);
+        if (story) {
+          const locs = story.analysis?.locations?.filter(l => l?.lat != null) ?? [];
+          updateArcs(story.articles, loc);
+          updateHighlights(locs.slice(1).map(l => l.iso).filter(Boolean));
+        }
+      }, PRE_ROLL_MS + shot.t * 1000));
+    });
+
+    // Post-roll: fade to black, then signal the recorder.
+    const endMs = PRE_ROLL_MS + shotlist.duration * 1000;
+    ids.push(setTimeout(() => setOverlayOpacity(1), endMs));
+    ids.push(setTimeout(() => { window.__meridianClipDone = true; }, endMs + POST_ROLL_MS));
+
+    return () => ids.forEach(clearTimeout);
+  }, [shotlist, broadcastMode]);
 
   const featured = stories[selectedIdx] ?? stories[0];
   const featuredLocations = featured?.analysis?.locations?.filter(l => l?.lat != null && l?.lng != null) ?? [];
@@ -117,8 +182,10 @@ export default function BroadcastStage({
 
   if (!featured) return null;
 
-  const chyronSub = buildChyronSub(featured.analysis);
-  const chyronLabel = CHYRON_LABELS[selectedIdx % CHYRON_LABELS.length];
+  const chyronSub   = buildChyronSub(featured.analysis);
+  // Shotlist overrides label/headline so DOM matches camera state each frame.
+  const chyronLabel   = activeShot?.chyron.label   ?? CHYRON_LABELS[selectedIdx % CHYRON_LABELS.length].toUpperCase();
+  const chyronHeadline = activeShot?.chyron.headline ?? featured.headline;
   const sourceCount = new Set(featured.articles.map(a => a.source)).size;
 
   // Semi-transparent color helpers
@@ -150,7 +217,7 @@ export default function BroadcastStage({
           className="font-display font-bold"
           style={{ color: 'var(--text-primary)', fontSize: 'clamp(11px, 1.75vw, 20px)', letterSpacing: '0.3px' }}
         >
-          {truncateHeadline(featured.headline, window.innerWidth < 640 ? 45 : 72)}
+          {truncateHeadline(chyronHeadline, window.innerWidth < 640 ? 45 : 72)}
         </div>
       </div>
       <div
@@ -330,6 +397,22 @@ export default function BroadcastStage({
         </div>
         {chyronContent}
       </div>
+
+      {/* Pre-roll / post-roll black overlay (item 15).
+           Starts opaque, fades out at first shot, fades back in after the
+           last shot so encoders don't clip the first/last beat.
+           transition-duration switches: 0.6 s fade-in, 0.9 s fade-out. */}
+      {broadcastMode && overlayOpacity > 0 && (
+        <div
+          style={{
+            position: 'absolute', inset: 0, zIndex: 200,
+            background: '#000',
+            opacity: overlayOpacity,
+            transition: `opacity ${overlayOpacity < 1 ? '0.6s' : '0.9s'} ease`,
+            pointerEvents: 'none',
+          }}
+        />
+      )}
     </div>
   );
 }

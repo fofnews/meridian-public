@@ -12,7 +12,9 @@ import { useTheme } from './ThemeContext.jsx';
 
 export default function App() {
   const { isDark, toggleTheme } = useTheme();
-  const isBroadcast = new URLSearchParams(window.location.search).get('mode') === 'broadcast';
+  const _params     = new URLSearchParams(window.location.search);
+  const isBroadcast = _params.get('mode') === 'broadcast';
+  const shotlistUrl = isBroadcast ? (_params.get('shotlist') ?? null) : null;
   const [report, setReport] = useState(null);
   const [availableDates, setAvailableDates] = useState([]);
   const [selectedDate, setSelectedDate] = useState(null);
@@ -149,6 +151,7 @@ export default function App() {
           availableEditions={availableDates.find(d => d.date === selectedDate)?.editions ?? []}
           onEditionSelect={edition => loadReport(selectedDate, edition)}
           broadcastMode
+          shotlistUrl={shotlistUrl}
         />
       </ErrorBoundary>
     );
