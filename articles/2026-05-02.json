@@ -7926,5 +7926,72 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-03T02:00:01.424Z"
+  },
+  {
+    "title": "Musk's AI told me people were coming to kill me. I grabbed a hammer and prepared for war",
+    "description": "Several people told the BBC they experienced delusions after intense conversations with AI.",
+    "link": "https://www.bbc.com/news/articles/c242pzr1zp2o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 03 May 2026 01:48:55 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-03T02:15:01.682Z"
+  },
+  {
+    "title": "Massive 2,000-pound sea lion shocks tourists at iconic US hot spot: 'He’s like a Volkswagen!'",
+    "description": "A rare Steller sea lion nicknamed Chonkers, weighing up to 2,000 pounds, has become an overnight sensation at San Francisco's popular Pier 39 waterfront.",
+    "link": "https://www.foxnews.com/travel/massive-2000-pound-sea-lion-shocks-tourists-iconic-us-hot-spot-hes-like-volkswagen",
+    "pubDate": "Sat, 02 May 2026 22:00:03 -0400",
+    "source": "Fox News",
+    "categories": [
+      "c9c9a423-592b-5031-a65e-2c3b6b651c0c",
+      "fnc",
+      "fox news",
+      "fox-news/us/san-francisco",
+      "fox-news/science/wild-nature",
+      "fox-news/us/us-regions/west/california",
+      "fox-news/science/wild-nature/fish",
+      "fox-news/science/wild-nature/mammals",
+      "fox-news/lifestyle",
+      "fox-news/travel",
+      "fox-news/travel",
+      "article"
+    ],
+    "collectedAt": "2026-05-03T02:15:01.682Z"
+  },
+  {
+    "title": "Connor McDavid delivers message Oilers fans won’t want to hear",
+    "description": "Connor McDavid says the Edmonton Oilers are an average team with high expectations and agrees the organization has taken a step back as a whole.",
+    "link": "https://www.foxnews.com/outkick-sports/connor-mcdavid-delivers-message-oilers-fans-wont-want-hear",
+    "pubDate": "Sat, 02 May 2026 21:55:10 -0400",
+    "source": "Fox News",
+    "categories": [
+      "9428df7f-0bfb-5d69-8823-ae81a3ce80c8",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/sports/nhl/edmonton-oilers",
+      "fox-news/sports/nhl",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-05-03T02:15:01.682Z"
+  },
+  {
+    "title": "Mob of teens storms Times Square Scientology church amid viral ‘speed running’ trend",
+    "description": "The incident comes as a bizarre new TikTok trend -- dubbed \"Scientology speed running\" -- has seen thrill-seeking influencers charging into properties owned or tied to the Church of Scientology.",
+    "link": "https://nypost.com/2026/05/02/us-news/mob-of-rowdy-teens-storm-nyc-scientology-church-amid-viral-speed-running-trend/",
+    "pubDate": "Sat, 02 May 2026 22:11:21 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-03T02:15:01.682Z"
+  },
+  {
+    "title": "76ers up next for Knicks in playoffs after surviving Jayson Tatum-less Celtics in Game 7 thriller",
+    "description": "It was nearly an improbable victory for the Celtics, nearly managing to snag a Game 7 victory without superstar Jayson Tatum.",
+    "link": "https://nypost.com/2026/05/02/sports/76ers-up-next-for-knicks-in-playoff-after-surviving-celtics-in-game-7/",
+    "pubDate": "Sat, 02 May 2026 22:06:23 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-03T02:15:01.682Z"
   }
 ]
