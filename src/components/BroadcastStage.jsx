@@ -76,8 +76,12 @@ export default function BroadcastStage({
   const featured = stories[selectedIdx] ?? stories[0];
   const featuredLocations = featured?.analysis?.locations?.filter(l => l?.lat != null && l?.lng != null) ?? [];
 
-  // Fly to first location when story changes. Will be replaced by a
-  // Will be replaced by shotlist-driven timeline in item #15.
+  // Fly to first location when story changes. Will be replaced by
+  // shotlist-driven timeline in item #15.
+  //
+  // In broadcastMode the headline geocoder fallback is intentionally
+  // skipped: a wrong guess reads as a factual error on video. If
+  // analysis.locations is empty the map stays at the ambient globe view.
   useEffect(() => {
     if (!featured) return;
     setActiveLocIdx(0);
@@ -89,7 +93,7 @@ export default function BroadcastStage({
         updateArcs(featured.articles, loc);
         updateHighlights(secondaryIsos);
       });
-    } else {
+    } else if (!broadcastMode) {
       geocodeStory(featured).then((coords) => {
         flyToLocation(coords);
         updateArcs(featured.articles, coords);
@@ -259,6 +263,22 @@ export default function BroadcastStage({
                 {truncateHeadline(story.headline, 40)}
               </button>
             ))}
+          </div>
+        )}
+
+        {/* Mapbox attribution — required for recorded video output (item 13).
+             Positioned bottom-left, outside the title-safe chyron band. */}
+        {broadcastMode && (
+          <div
+            style={{
+              position: 'absolute', bottom: 8, left: 10, zIndex: 10,
+              color: 'rgba(240,235,224,0.30)',
+              fontSize: 'clamp(5px, 0.55vw, 8px)',
+              letterSpacing: '0.4px',
+              pointerEvents: 'none',
+            }}
+          >
+            © Mapbox · © OpenStreetMap
           </div>
         )}
 
