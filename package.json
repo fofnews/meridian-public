@@ -12,7 +12,8 @@
     "build-shotlist": "node scripts/build-shotlist.js",
     "synthesize-narration": "node scripts/synthesize-narration.js",
     "record-clip": "node scripts/record-clip.js",
-    "finalize-clip": "node scripts/finalize-clip.js"
+    "finalize-clip": "node scripts/finalize-clip.js",
+    "produce-clip": "node scripts/produce-clip.js"
   },
   "dependencies": {
     "@upstash/redis": "^1.37.0",
