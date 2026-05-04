@@ -1019,7 +1019,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-05-02",
+      "lastSeen": "2026-05-04",
       "active": true,
       "entries": [
         {
@@ -1416,6 +1416,11 @@
           "date": "2026-05-02",
           "edition": "morning",
           "update": "At a public event, Trump described U.S. Navy actions against Iranian oil shipments near the Strait of Hormuz as acting 'like pirates.'"
+        },
+        {
+          "date": "2026-05-04",
+          "edition": "morning",
+          "update": "Trump announced on Sunday that the U.S. will help free or guide ships stranded in the Strait of Hormuz, including vessels from countries uninvolved in the conflict."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2140,7 +2145,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-02",
+      "lastSeen": "2026-05-04",
       "active": true
     },
     {
@@ -2264,5 +2269,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-03T21:02:21.095Z"
+  "updatedAt": "2026-05-04T11:03:10.017Z"
 }
