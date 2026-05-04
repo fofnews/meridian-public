@@ -119,5 +119,34 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-04T04:30:01.163Z"
+  },
+  {
+    "title": "The Papers: 'No money for new weapons' and 'Cost of pint hits £10'",
+    "description": "A lack of defence funding and surging costs of a pint of beer are prominent stories on Monday's papers.",
+    "link": "https://www.bbc.com/news/articles/c302njdend1o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 04 May 2026 04:44:43 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-04T05:00:01.251Z"
+  },
+  {
+    "title": "Shooting at lake near Oklahoma City leaves at least 10 wounded, police say",
+    "description": "At least 10 people have been taken to hospitals following a shooting at party at Arcadia Lake, near Oklahoma City, police say.",
+    "link": "https://www.cbsnews.com/news/shooting-at-lake-near-oklahoma-city-leaves-at-least-10-wounded/",
+    "pubDate": "Mon, 04 May 2026 00:56:00 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-05-04T05:00:01.251Z"
+  },
+  {
+    "title": "Detained Gaza aid flotilla activists arrive in Netherlands",
+    "description": "Two activists from the Global Sumud Flotilla arrived in the Netherlands after being released from Israeli custody.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/detained-gaza-aid-flotilla-activists-arrive-in-netherlands?traffic_source=rss",
+    "pubDate": "Mon, 04 May 2026 04:45:52 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-05-04T05:00:01.251Z"
   }
 ]
