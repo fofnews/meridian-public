@@ -576,5 +576,40 @@
     "source": "BBC News",
     "categories": [],
     "collectedAt": "2026-05-04T08:45:02.003Z"
+  },
+  {
+    "title": "Japan PM: Hormuz closure ‘inflicting enormous impact’ on Asia Pacific",
+    "description": "Japan’s PM says the effective closure of the Strait of Hormuz is ‘inflicting an ‘enormous impact’ on Asia Pacific.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/4/japan-pm-hormuz-closure-inflicting-enormous-impact-on-asia-pacific?traffic_source=rss",
+    "pubDate": "Mon, 04 May 2026 08:27:00 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-05-04T09:00:01.579Z"
+  },
+  {
+    "title": "Olivia Rodrigo mocks former Disney co-star Jake Paul’s boxing career in ‘SNL’ monologue",
+    "description": "The pop star pulled double duty as musical guest and host on the variety show over the weekend where she couldn’t help but poke fun of Paul, who was her castmate on the comedy series \"Bizaardvark.\"",
+    "link": "https://pagesix.com/2026/05/04/celebrity-news/olivia-rodrigo-mocks-former-disney-co-star-jake-pauls-boxing-career-in-snl-monologue/",
+    "pubDate": "Mon, 04 May 2026 04:47:21 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-04T09:00:01.579Z"
+  },
+  {
+    "title": "Shooting at lake near Oklahoma City sends at least 12 people to hospitals",
+    "description": "EDMOND, Okla. (AP) — A shooting Sunday night at a party at a lake near Oklahoma City sent least 12 people to hospitals, according to police and hospital officials. Edmond police spokesperson Emily Ward said authorities received reports of shots being fired at about 9 p.m. at a gathering of young people near Arcadia Lake. […]",
+    "link": "https://www.washingtonexaminer.com/news/4553199/shooting-at-lake-near-oklahoma-city-sends-at-least-12-people-to-hospitals/",
+    "pubDate": "Mon, 04 May 2026 08:49:34 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "crime",
+      "mass shootings",
+      "shootings",
+      "violence"
+    ],
+    "collectedAt": "2026-05-04T09:00:01.579Z"
   }
 ]
