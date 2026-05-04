@@ -251,5 +251,53 @@
       "sport"
     ],
     "collectedAt": "2026-05-04T06:00:05.643Z"
+  },
+  {
+    "title": "2 US service members missing after military exercises in Morocco",
+    "description": "Two U.S. service members are missing in southwestern Morocco after taking part in annual multinational military exercises in the North African country, the United States Africa Command (AFRICOM) said.",
+    "link": "https://www.npr.org/2026/05/04/g-s1-119963/2-us-service-members-missing-in-morocco",
+    "pubDate": "Mon, 04 May 2026 02:03:49 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-05-04T06:15:01.910Z"
+  },
+  {
+    "title": "America's Best Addiction Treatment Centers 2026 Survey",
+    "description": "Newsweek and Statista are evaluating the Best Addiction Treatment Centers in America for 2026.",
+    "link": "https://www.newsweek.com/americas-best-addiction-treatment-centers-2026-survey-11888612",
+    "pubDate": "Mon, 04 May 2026 02:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-04T06:15:01.910Z"
+  },
+  {
+    "title": "Anti-ICE demonstrators detained after protesting arrest of illegal immigrant facing assault, drug charges",
+    "description": "Nearly 10 people were detained in Brooklyn after anti-ICE protesters gathered outside a hospital following the arrest of an illegal immigrant, DHS says.",
+    "link": "https://www.foxnews.com/us/anti-ice-demonstrators-detained-protesting-arrest-illegal-immigrant-facing-assault-drug-charges",
+    "pubDate": "Mon, 04 May 2026 01:59:33 -0400",
+    "source": "Fox News",
+    "categories": [
+      "0f1d3444-da3e-5c33-bc03-5b425098af90",
+      "fnc",
+      "fox news",
+      "fox-news/us/immigration",
+      "fox-news/us/immigration/illegal-immigrants",
+      "fox-news/us",
+      "fox-news/crime",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/us/immigration/migrant-crime",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-05-04T06:15:01.910Z"
+  },
+  {
+    "title": "NY DoorDash driver who allegedly filmed naked customer and posted viral TikTok now indicted",
+    "description": "The video, which showed the man inside his home, quickly went viral and reached nearly 30 million views before it was removed.",
+    "link": "https://nypost.com/2026/05/04/us-news/ny-doordash-driver-olivia-henderson-indicted-after-allegedly-posting-tiktok-video-of-naked-customer/",
+    "pubDate": "Mon, 04 May 2026 02:06:26 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-04T06:15:01.910Z"
   }
 ]
