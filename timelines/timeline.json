@@ -1421,6 +1421,11 @@
           "date": "2026-05-04",
           "edition": "morning",
           "update": "Trump announced on Sunday that the U.S. will help free or guide ships stranded in the Strait of Hormuz, including vessels from countries uninvolved in the conflict."
+        },
+        {
+          "date": "2026-05-04",
+          "edition": "evening",
+          "update": "A U.S. admiral reported that American forces destroyed six Iranian small boats and shot down missiles and drones during operations connected to the Strait of Hormuz crisis."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1429,7 +1434,7 @@
       "id": "iran-strait-of-hormuz-crisis",
       "title": "Iran Strait of Hormuz Crisis",
       "firstSeen": "2026-03-10",
-      "lastSeen": "2026-04-22",
+      "lastSeen": "2026-05-04",
       "active": true,
       "entries": [
         {
@@ -1656,6 +1661,11 @@
           "date": "2026-04-22",
           "edition": "evening",
           "update": "The IRGC conducted operations against ships in the Strait of Hormuz within hours of President Trump announcing an indefinite extension of the U.S.-Iran ceasefire, which was contingent on Iran agreeing to negotiate a new deal."
+        },
+        {
+          "date": "2026-05-04",
+          "edition": "evening",
+          "update": "President Trump announced the U.S. would escort ships through the Strait of Hormuz, and the U.S. military confirmed on Monday that two American ships successfully transited the waterway. Iran responded to Trump's announcement with threats warning against foreign armed forces transiting the strait, and multiple ships remain trapped in the waterway due to the ongoing conflict."
         }
       ],
       "parentId": null
@@ -2269,5 +2279,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-04T11:03:10.017Z"
+  "updatedAt": "2026-05-04T21:04:13.617Z"
 }
