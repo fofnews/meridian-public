@@ -229,5 +229,27 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-04T05:45:01.717Z"
+  },
+  {
+    "title": "Former NYC mayor Rudy Giuliani hospitalized in critical condition",
+    "description": "Former New York City mayor Rudy Giuliani has been hospitalized in \"critical but stable\" condition, his spokesman said on Sunday.",
+    "link": "https://abcnews.com/Politics/rudy-giuliani-hospitalized-critical-condition-spokesperson/story?id=132622123",
+    "pubDate": "Mon, 04 May 2026 01:50:24 -0400",
+    "source": "ABC News",
+    "categories": [
+      "politics"
+    ],
+    "collectedAt": "2026-05-04T06:00:05.643Z"
+  },
+  {
+    "title": "Fireworks in Milan as Inter clinch Serie A title with a 2-0 win over Parma",
+    "description": "Inter Milan win their 21st Scudetto, edging Napoli, with three matches remaining in the Italian football league season.",
+    "link": "https://www.aljazeera.com/sports/2026/5/4/fireworks-in-milan-as-inter-clinch-serie-a-title-with-a-2-0-win-over-parma?traffic_source=rss",
+    "pubDate": "Mon, 04 May 2026 05:15:35 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-05-04T06:00:05.643Z"
   }
 ]
