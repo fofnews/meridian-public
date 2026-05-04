@@ -7828,5 +7828,99 @@
     "source": "Newsmax",
     "categories": [],
     "collectedAt": "2026-05-04T01:30:01.710Z"
+  },
+  {
+    "title": "Cade Cunningham, Tobias Harris Join Pistons Great With Historic Playoff Feat",
+    "description": "Detroit's Tobias Harris and Cade Cunningham joined a Pistons great with a historic feat in their Game 7 win.",
+    "link": "https://www.newsweek.com/sports/nba/cade-cunningham-tobias-harris-join-pistons-great-with-historic-playoff-feat-11909049",
+    "pubDate": "Sun, 03 May 2026 21:38:39 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-04T01:45:01.074Z"
+  },
+  {
+    "title": "'Storage Wars' star's son breaks silence after father's death by suicide at 67",
+    "description": "Brandon Sheets paid an emotional tribute to his father, Darrell Sheets, on social media and honored the \"Storage Wars\" star's legacy after his death by suicide.",
+    "link": "https://www.foxnews.com/entertainment/storage-wars-stars-son-breaks-silence-fathers-death-suicide-67",
+    "pubDate": "Sun, 03 May 2026 21:31:59 -0400",
+    "source": "Fox News",
+    "categories": [
+      "476d00a8-516b-51e9-b249-c0b3f3290a1f",
+      "fnc",
+      "fox news",
+      "fox-news/entertainment",
+      "fox-news/entertainment/events/obituary",
+      "fox-news/entertainment/events/departed",
+      "fox-news/entertainment/genres/reality",
+      "fox-news/entertainment/tv",
+      "fox-news/entertainment",
+      "article"
+    ],
+    "collectedAt": "2026-05-04T01:45:01.074Z"
+  },
+  {
+    "title": "Pistons fans chant 'Angel Reese' at Wendell Carter Jr. during Game 7 blowout win over Orlando Magic",
+    "description": "Detroit Pistons fans turned the Angel Reese-Jalen Duren-Wendell Carter Jr. love triangle into psychological warfare during their Game 7 blowout win.",
+    "link": "https://www.foxnews.com/outkick-sports/pistons-fans-chant-angel-reese-wendell-carter-jr-game-7-blowout-win-orlando-magic",
+    "pubDate": "Sun, 03 May 2026 21:24:17 -0400",
+    "source": "Fox News",
+    "categories": [
+      "689f72b3-dd62-54ee-ab18-bfab32484c4e",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/sports/nba",
+      "fox-news/sports/nba/detroit-pistons",
+      "fox-news/sports/nba/orlando-magic",
+      "fox-news/person/angel-reese",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-05-04T01:45:01.074Z"
+  },
+  {
+    "title": "United plane strikes light pole, tractor-trailer on NJ Turnpike while landing at Newark Airport: officials",
+    "description": "Wild video captured by witnesses cruising along the turnpike showed the plane gliding precariously close to the road. One light pole appeared to have snapped in half.",
+    "link": "https://nypost.com/2026/05/03/us-news/united-plane-strikes-light-pole-tractor-trailer-while-landing-at-newark-airport-officials/",
+    "pubDate": "Sun, 03 May 2026 21:41:22 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-04T01:45:01.074Z"
+  },
+  {
+    "title": "Disgruntled Californians praise stark dystopian view of state under Dem control",
+    "description": "An eerie doomsday music video depicting California as a dystopian state of corruption and failed political policies has gone viral on social media.",
+    "link": "https://nypost.com/2026/05/03/us-news/californians-praise-dystopian-view-of-state-under-dem-control/",
+    "pubDate": "Sun, 03 May 2026 21:35:46 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-04T01:45:01.074Z"
+  },
+  {
+    "title": "Current, former NBA coaches break down Knicks-76ers to The Post — and how to stop Philly’s star duo",
+    "description": "The Post spoke with five current and former NBA coaches about the most important tactical elements of this Knicks-76ers playoff series.",
+    "link": "https://nypost.com/2026/05/03/sports/current-former-nba-coaches-break-down-knicks-76ers-to-the-post/",
+    "pubDate": "Sun, 03 May 2026 21:32:59 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-04T01:45:01.074Z"
+  },
+  {
+    "title": "Trump disapproval hits new high as cost concerns, Iran war continue: New poll",
+    "description": "President Donald Trump's disapproval rating hit a record-high 62% in a new poll: The Washington Post.",
+    "link": "https://www.washingtonexaminer.com/news/4553090/trump-disapproval-high-as-iran-war-cost-concerns-new-poll/",
+    "pubDate": "Mon, 04 May 2026 01:40:15 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "campaigns",
+      "news",
+      "donald trump",
+      "gas prices",
+      "iran",
+      "midterm elections",
+      "trump administration",
+      "washington d.c"
+    ],
+    "collectedAt": "2026-05-04T01:45:01.074Z"
   }
 ]
