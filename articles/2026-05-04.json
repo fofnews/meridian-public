@@ -1189,5 +1189,82 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-04T10:15:02.718Z"
+  },
+  {
+    "title": "United flight hits light pole while landing",
+    "description": "A United Airlines flight arriving from Italy struck a light pole and a tractor-trailer on the New Jersey Turnpike while on final approach to Newark Liberty International Airport, the airline said.",
+    "link": "https://abcnews.com/video/132627866/",
+    "pubDate": "Mon, 04 May 2026 06:23:31 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-05-04T10:30:01.114Z"
+  },
+  {
+    "title": "Couple's quirky 'Lobster Day' tradition draws millions online",
+    "description": "Jon and Evie, two high school sweethearts from Virginia, celebrate their love each year with a scare from a lobster.",
+    "link": "https://abcnews.com/video/132627967/",
+    "pubDate": "Mon, 04 May 2026 06:06:07 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-05-04T10:30:01.114Z"
+  },
+  {
+    "title": "PGA Tour warms back up to Trump after long freeze",
+    "description": "The PGA Tour returned to President Trump’s golf resort in Doral, Fla., over the weekend, ending a decade-long absence and signaling a new era of warmer relations between the president’s sprawling resort business and the world’s most popular golf league.    The tournament came as LIV Golf, the Saudi-backed and Trump-allied rival tour, appears on the…",
+    "link": "https://thehill.com/policy/keeping-score/5859992-trump-pga-thaw-doral/",
+    "pubDate": "Mon, 04 May 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "keeping score",
+      "policy"
+    ],
+    "collectedAt": "2026-05-04T10:30:01.114Z"
+  },
+  {
+    "title": "Republicans see GOP dysfunction as major liability ahead of midterms",
+    "description": "Senate Republicans say the dysfunction in the House is becoming a liability for the broader GOP brand ahead of this year’s midterm elections, warning that if Congress can’t break through legislative gridlock the party’s candidates will pay a severe political price in November. Republican senators were dumbfounded by their House brethren’s refusal to pass a…",
+    "link": "https://thehill.com/homenews/senate/5860118-senate-republicans-house-infighting-gridlock/",
+    "pubDate": "Mon, 04 May 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "news",
+      "senate"
+    ],
+    "collectedAt": "2026-05-04T10:30:01.114Z"
+  },
+  {
+    "title": "Crypto fight at center of FISA extension poised to escalate",
+    "description": "A bid by hard-line conservatives to pass a measure banning the Federal Reserve from issuing a central bank digital currency (CBDC) fell short, but the fight is only poised to escalate as both chambers revisit another extension of the Foreign Intelligence Surveillance Act’s (FISA) warrantless surveillance powers in the weeks ahead. Conservatives have long sought…",
+    "link": "https://thehill.com/policy/technology/5859873-crypto-fight-at-center-of-fisa-extension-poised-to-escalate/",
+    "pubDate": "Mon, 04 May 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "house",
+      "technology"
+    ],
+    "collectedAt": "2026-05-04T10:30:01.114Z"
+  },
+  {
+    "title": "Celtics star accuses referees of having an ‘agenda’ against him after playoff exit",
+    "description": "Jaylen Brown claimed on Sunday that NBA refs had an \"agenda\" to call fouls on him as the Boston Celtics lost their playoff series to the Philadelphia 76ers in seven games.",
+    "link": "https://www.foxnews.com/sports/celtics-star-accuses-referees-agenda-playoff-exit",
+    "pubDate": "Mon, 04 May 2026 06:15:12 -0400",
+    "source": "Fox News",
+    "categories": [
+      "39aecc63-653f-572a-90c2-1d4236961aa4",
+      "fnc",
+      "fox news",
+      "fox-news/sports/nba-playoffs",
+      "fox-news/sports/nba/philadelphia-76ers",
+      "fox-news/sports/nba",
+      "fox-news/sports/nba/boston-celtics",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-05-04T10:30:01.114Z"
   }
 ]
