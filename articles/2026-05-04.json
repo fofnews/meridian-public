@@ -944,5 +944,250 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-04T10:00:02.717Z"
+  },
+  {
+    "title": "Court Ruling Upends Abortion Access in the U.S., and Trump’s New Plan for the Strait of Hormuz",
+    "description": "Plus, the complicated legacy of Spirit Airlines.",
+    "link": "https://www.nytimes.com/2026/05/04/podcasts/the-headlines/court-ruling-upends-abortion-access-in-the-us-and-trumps-new-plan-for-the-strait-of-hormuz.html",
+    "pubDate": "Mon, 04 May 2026 10:00:07 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "abortion",
+      "supreme court (us)"
+    ],
+    "collectedAt": "2026-05-04T10:15:02.718Z"
+  },
+  {
+    "title": "The U.S. Army’s ‘Big Experiment’ in the Arctic Cold",
+    "description": "How would soldiers from places like Florida, Texas and Georgia fight and persevere in temperatures as low as minus 40 degrees?",
+    "link": "https://www.nytimes.com/2026/05/04/us/politics/us-army-arctic-cold.html",
+    "pubDate": "Mon, 04 May 2026 09:01:45 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "united states defense and military forces",
+      "cold and cold spells",
+      "snow and snowstorms",
+      "defense department",
+      "alaska",
+      "arctic regions",
+      "united states army"
+    ],
+    "collectedAt": "2026-05-04T10:15:02.718Z"
+  },
+  {
+    "title": "Trump Backed Forced Treatment for Homeless People. Utah Shows the Challenges.",
+    "description": "State lawmakers declined to back a Trump-inspired plan to move 1,300 homeless people to a campus on the edge of Salt Lake City, but supporters are trying to keep the plan’s spirit alive.",
+    "link": "https://www.nytimes.com/2026/05/04/us/politics/utah-homeless-camp-stalls.html",
+    "pubDate": "Mon, 04 May 2026 09:02:37 +0000",
+    "source": "NY Times",
+    "categories": [
+      "homeless persons",
+      "mental health and disorders",
+      "federal aid (us)",
+      "poverty",
+      "civil rights and liberties",
+      "public and subsidized housing",
+      "cicero institute",
+      "democratic party",
+      "republican party"
+    ],
+    "collectedAt": "2026-05-04T10:15:02.718Z"
+  },
+  {
+    "title": "Bison Have Grazed These Lands for Centuries. Trump Wants to Evict Them.",
+    "description": "The Trump administration is evicting bison herds from federal grasslands in Montana, siding with ranchers and Republican leaders over environmentalists and tribal leaders.",
+    "link": "https://www.nytimes.com/2026/05/04/us/politics/trump-buffalos-montana.html",
+    "pubDate": "Mon, 04 May 2026 09:01:35 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "livestock",
+      "federal lands",
+      "agriculture and farming",
+      "bison",
+      "bureau of land management",
+      "gianforte, greg (1961- )",
+      "trump, donald j",
+      "montana"
+    ],
+    "collectedAt": "2026-05-04T10:15:02.718Z"
+  },
+  {
+    "title": "Drone Hits a Moscow High-Rise Days Before a Major Military Parade",
+    "description": "Air defenses in the Russian capital were breached as Ukraine expands long-range strikes.",
+    "link": "https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html",
+    "pubDate": "Mon, 04 May 2026 10:08:52 +0000",
+    "source": "NY Times",
+    "categories": [
+      "russian invasion of ukraine (2022)",
+      "drones (pilotless planes)",
+      "parades",
+      "putin, vladimir v",
+      "russia",
+      "ukraine"
+    ],
+    "collectedAt": "2026-05-04T10:15:02.718Z"
+  },
+  {
+    "title": "The Met Gala’s Embrace of Jeff Bezos Causes a Backlash",
+    "description": "Protesters have found a perfect foil in Amazon’s founder, the gala’s lead sponsor this year.",
+    "link": "https://www.nytimes.com/2026/05/04/style/met-gala-jeff-bezos-backlash.html",
+    "pubDate": "Mon, 04 May 2026 09:01:46 +0000",
+    "source": "NY Times",
+    "categories": [
+      "met gala",
+      "new york city",
+      "bezos, jeffrey p",
+      "sanchez, lauren (1969- )",
+      "amazon.com inc",
+      "fashion and apparel",
+      "demonstrations, protests and riots",
+      "high net worth individuals",
+      "boycotts",
+      "metropolitan museum of art",
+      "wintour, anna"
+    ],
+    "collectedAt": "2026-05-04T10:15:02.718Z"
+  },
+  {
+    "title": "The Met Makes a Statement With 9 New Mannequin Bodies",
+    "description": "The latest Costume Institute exhibition expands its ideas of who, exactly, belongs in fashion. Will the gala follow suit?",
+    "link": "https://www.nytimes.com/2026/05/04/style/met-gala-exhibition-mannequins.html",
+    "pubDate": "Mon, 04 May 2026 09:01:22 +0000",
+    "source": "NY Times",
+    "categories": [
+      "met gala",
+      "fashion and apparel",
+      "disabilities",
+      "mannequins (dummies)",
+      "costume institute",
+      "metropolitan museum of art",
+      "bolton, andrew",
+      "stark, michaela (artist)",
+      "your-feed-fashion"
+    ],
+    "collectedAt": "2026-05-04T10:15:02.718Z"
+  },
+  {
+    "title": "Met Gala 2026 Guide: Theme, Hosts, Dress Code and More",
+    "description": "What to know about this year’s celebration, including the return of a superstar last seen on the Met carpet 10 years ago.",
+    "link": "https://www.nytimes.com/article/met-gala-2026-theme-hosts-guide.html",
+    "pubDate": "Mon, 04 May 2026 06:02:26 +0000",
+    "source": "NY Times",
+    "categories": [
+      "met gala",
+      "costume institute",
+      "metropolitan museum of art",
+      "museums",
+      "fashion and apparel",
+      "parties (social)",
+      "celebrities",
+      "bezos, jeffrey p",
+      "knowles, beyonce",
+      "sanchez, lauren (1969- )",
+      "wintour, anna",
+      "new york city",
+      "your-feed-fashion",
+      "costume art (exhibit)"
+    ],
+    "collectedAt": "2026-05-04T10:15:02.718Z"
+  },
+  {
+    "title": "State Department fires back at accusations of ‘empty planes’ rescuing Americans from conflict zones",
+    "description": "Grey Bull Rescue founder Bryan Stern is contesting State Department claims that every American who sought evacuation help during the U.S.-Iran conflict got it.",
+    "link": "https://www.foxnews.com/politics/state-department-fires-back-accusations-empty-planes-rescuing-americans-conflict-zones",
+    "pubDate": "Mon, 04 May 2026 06:00:53 -0400",
+    "source": "Fox News",
+    "categories": [
+      "ab162ae2-2559-52af-9fe3-e62b5345b27c",
+      "fnc",
+      "fox news",
+      "fox-news/politics/executive/homeland-security",
+      "fox-news/disaster-response",
+      "fox-news/us/disasters/refugees",
+      "fox-news/us/us-regions/west/washington",
+      "fox-news/politics/foreign-policy/state-department",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-05-04T10:15:02.718Z"
+  },
+  {
+    "title": "Dying former congressman Barney Frank tells Democrats their far-left messaging is costing them voters",
+    "description": "Former Rep. Barney Frank claims Democrats have neglected economic inequality by pushing progressive causes, arguing in a forthcoming book for a more strategic approach.",
+    "link": "https://www.foxnews.com/media/dying-former-congressman-barney-frank-tells-democrats-far-left-messaging-costing-them-voters",
+    "pubDate": "Mon, 04 May 2026 06:00:31 -0400",
+    "source": "Fox News",
+    "categories": [
+      "72752fa0-b7c8-5626-ab0e-38ee2c9650f8",
+      "fnc",
+      "fox news",
+      "fox-news/media",
+      "fox-news/culture-trends",
+      "fox-news/politics",
+      "fox-news/democrats",
+      "fox-news/media",
+      "article"
+    ],
+    "collectedAt": "2026-05-04T10:15:02.718Z"
+  },
+  {
+    "title": "Jon Ossoff silent on SPLC indictment after taking more than $700K from affiliate of indicted group",
+    "description": "Sen. Jon Ossoff faces GOP attacks over his ties to the Southern Poverty Law Center following its indictment for alleged fraud and money laundering schemes.",
+    "link": "https://www.foxnews.com/politics/jon-ossoff-silent-splc-indictment-taking-700k-affiliate-indicted-group",
+    "pubDate": "Mon, 04 May 2026 06:00:13 -0400",
+    "source": "Fox News",
+    "categories": [
+      "77722cb2-f24f-519e-82cb-40007487e7fe",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/politics/house-of-representatives/republicans",
+      "fox-news/politics/senate",
+      "fox-news/politics/finance/investigations",
+      "fox-news/politics/elections/fundraising",
+      "fox-news/democrats",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-05-04T10:15:02.718Z"
+  },
+  {
+    "title": "Mets' Carson Benge lays out for incredible catch vs Angels",
+    "description": "Mets rookie right fielder Carson Benge laid out for a breathtaking diving catch against the Los Angeles Angels as the slumping New York picked up a 5-1 series win Sunday.",
+    "link": "https://www.foxnews.com/sports/mets-carson-benge-lays-incredible-catch-vs-angels",
+    "pubDate": "Mon, 04 May 2026 05:58:04 -0400",
+    "source": "Fox News",
+    "categories": [
+      "f95627e4-f162-5b63-ab56-8e0cde5909d5",
+      "fnc",
+      "fox news",
+      "fox-news/sports/mlb/new-york-mets",
+      "fox-news/sports/mlb",
+      "fox-news/sports/mlb/los-angeles-angels",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-05-04T10:15:02.718Z"
+  },
+  {
+    "title": "Diners can’t eat these 4 pancakes in 18 minutes as Long Island challenge goes viral",
+    "description": "“We’ve had well over 400 tries, with a success rate of probably 10% or around 40.”",
+    "link": "https://nypost.com/2026/05/04/us-news/diners-cant-eat-these-4-pancakes-in-18-minutes-as-long-island-challenge-goes-viral/",
+    "pubDate": "Mon, 04 May 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-04T10:15:02.718Z"
+  },
+  {
+    "title": "Mark Zuckerberg is trying to wiggle out of testifying in person at a slew of social media trials",
+    "description": "The Instagram parent is headed to Calif. federal court this summer as part of federal multidistrict litigation – a bid to streamline more than 2,400 lawsuits filed by school districts, state attorneys general and individuals into a few “bellwether” cases.",
+    "link": "https://nypost.com/2026/05/04/business/mark-zuckerberg-is-trying-to-wiggle-out-of-testifying-in-person-at-a-slew-of-social-media-trials/",
+    "pubDate": "Mon, 04 May 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-04T10:15:02.718Z"
   }
 ]
