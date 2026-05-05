@@ -239,5 +239,40 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-05T05:15:01.681Z"
+  },
+  {
+    "title": "U.S. Military Strikes Boat in Caribbean, Killing 2",
+    "description": "The aerial strike raised the death toll to at least 187 in the U.S. campaign against boats the Trump administration accuses of smuggling drugs.",
+    "link": "https://www.nytimes.com/2026/05/05/us/us-military-boat-strike-caribbean.html",
+    "pubDate": "Tue, 05 May 2026 05:01:49 +0000",
+    "source": "NY Times",
+    "categories": [
+      "drug abuse and traffic",
+      "smuggling",
+      "united states defense and military forces",
+      "defense department",
+      "trump, donald j",
+      "donovan, francis l",
+      "caribbean area"
+    ],
+    "collectedAt": "2026-05-05T05:30:01.419Z"
+  },
+  {
+    "title": "Attacks in Strait of Hormuz, Gulf region imperil fragile U.S.-Iran ceasefire - The Washington Post",
+    "description": "Attacks in Strait of Hormuz, Gulf region imperil fragile U.S.-Iran ceasefire  The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNckdPV2dIXzh5YXJBSExUc3dsLWFBZkJSWmg4UHpLUTd2OFBUT1BzMjRmOUU0TTBFYjdwRVJaYkh2cjFueUp2ekNWMkRUNTZSQjZRRVBicXVTRTNwMHpxYkxHVkpXNHNQcWVyT0hzZV9LWnlVNmw1aWFqLWloUXlWSnFDaU5IZw?oc=5",
+    "pubDate": "Tue, 05 May 2026 05:05:16 GMT",
+    "source": "Washington Post",
+    "categories": [],
+    "collectedAt": "2026-05-05T05:30:01.419Z"
+  },
+  {
+    "title": "Anthony Edwards 'Disappointed' Despite Timberwolves' Wild Win vs. Spurs",
+    "description": "Anthony Edwards shockingly returned to the Minnesota Timberwolves' lineup nine days after suffering a knee injury.",
+    "link": "https://www.newsweek.com/sports/nba/anthony-edwards-disappointed-despite-timberwolves-wild-win-vs-spurs-11912484",
+    "pubDate": "Tue, 05 May 2026 01:24:16 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-05T05:30:01.419Z"
   }
 ]
