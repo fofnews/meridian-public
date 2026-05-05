@@ -417,5 +417,36 @@
       "news"
     ],
     "collectedAt": "2026-05-05T06:30:01.235Z"
+  },
+  {
+    "title": "Fireworks plant explosion in China kills at least 26, state media say",
+    "description": "An explosion at a fireworks plant in a province in central China killed at least 26 people and injured 61 others, authorities said. The cause was unknown. The person in charge was detained.",
+    "link": "https://www.cbsnews.com/news/fireworks-plant-explosion-in-china-kills-at-least-26-injures-dozens-more-state-media-say/",
+    "pubDate": "Tue, 05 May 2026 02:30:02 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-05-05T06:45:02.520Z"
+  },
+  {
+    "title": "Iran war: What’s happening on day 67 as Hormuz crisis deepens?",
+    "description": "The UAE says it intercepted Iranian missiles after a suspected drone attack, with no comment from Iran.",
+    "link": "https://www.aljazeera.com/news/2026/5/5/iran-war-whats-happening-on-day-67-as-hormuz-crisis-deepens?traffic_source=rss",
+    "pubDate": "Tue, 05 May 2026 06:31:34 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-05T06:45:02.520Z"
+  },
+  {
+    "title": "FIFA bans former Guyana official Alves for 5 years over sexual harassment",
+    "description": "Former General Secretary Ian Alves found guilty of sexually harassing female staff ​members by FIFA's Ethics Committee.",
+    "link": "https://www.aljazeera.com/sports/2026/5/5/fifa-bans-former-guyana-official-alves-for-5-years-over-sexual-harassment?traffic_source=rss",
+    "pubDate": "Tue, 05 May 2026 06:24:08 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-05-05T06:45:02.520Z"
   }
 ]
