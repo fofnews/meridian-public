@@ -356,5 +356,39 @@
       "terrorism"
     ],
     "collectedAt": "2026-05-05T06:00:01.732Z"
+  },
+  {
+    "title": "Explosion at China fireworks factory kills 26 people",
+    "description": "A blast at a fireworks factory in Hunan province has killed 26 people and injured 61, state media report.",
+    "link": "https://www.bbc.com/news/articles/c70vqwengxno?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 05 May 2026 06:06:42 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-05T06:15:01.370Z"
+  },
+  {
+    "title": "Oil Prices Slide but Remain Elevated as Middle East Tensions Escalate",
+    "description": "Oil prices fell, giving back some of the gains from the previous day as attacks in the Middle East raised concerns about the war starting again.",
+    "link": "https://www.nytimes.com/2026/05/05/business/oil-gas-prices-iran.html",
+    "pubDate": "Tue, 05 May 2026 05:46:16 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "oil (petroleum) and gasoline",
+      "prices (fares, fees and rates)",
+      "stocks and bonds",
+      "standard & poor's 500-stock index",
+      "iran"
+    ],
+    "collectedAt": "2026-05-05T06:15:01.370Z"
+  },
+  {
+    "title": "US prepared for visa sanctions on China over migrants issue, official says - Reuters",
+    "description": "Exclusive: US prepared for visa sanctions on China over migrants issue, official says  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcFNjUE1xMXJrZ3AxVGU2UW94Wm9Cb3BtTUNiN3JDZWhycHNBcWJBWHFRM1J6TU5kWW5WWTRMRHRLN3NUZlRqcTVXSTdWTE1pY1E3UlE0N3loc3Z3UzFnUktxRTAxbmhnTU4tU1VXV013YW9TbzJDblFkekJ4Sm1Lb01UXzhWM0xsdHJvMjI1Q2dmZl83MUdfR29FZFpsS1YxWTBBc0R2ZTYtemJoazZ4cg?oc=5",
+    "pubDate": "Tue, 05 May 2026 05:04:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-05-05T06:15:01.370Z"
   }
 ]
