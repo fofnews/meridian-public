@@ -283,5 +283,78 @@
     "source": "CBS News",
     "categories": [],
     "collectedAt": "2026-05-05T05:45:01.825Z"
+  },
+  {
+    "title": "Starmer to say antisemitism 'a crisis for all of us' at Downing Street summit",
+    "description": "The prime minister will meet leaders from a number of sectors at Downing Street on Tuesday.",
+    "link": "https://www.bbc.com/news/articles/czd2l55d1e7o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 05 May 2026 05:54:06 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-05T06:00:01.732Z"
+  },
+  {
+    "title": "Widow of falsely accused murder suspect plans to sue Scottish authorities",
+    "description": "Sapna Mukherjee said her husband Sougat's life was \"irreversibly destroyed\" after he was labelled a suspect.",
+    "link": "https://www.bbc.com/news/articles/ckgw07yxyeko?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 05 May 2026 05:08:21 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-05T06:00:01.732Z"
+  },
+  {
+    "title": "Cruise ship waiting for help after 3 people died in a suspected hantavirus outbreak",
+    "description": "A cruise ship with nearly 150 people aboard was waiting for help off the coast of Cape Verde in the Atlantic Ocean after three passengers died in a suspected outbreak of the rare hantavirus.",
+    "link": "https://www.npr.org/2026/05/05/g-s1-120130/cruise-ship-hantavirus-outbreak",
+    "pubDate": "Tue, 05 May 2026 01:49:20 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-05-05T06:00:01.732Z"
+  },
+  {
+    "title": "Russia declares a truce in Ukraine to mark Victory Day",
+    "description": "Russia declared a unilateral ceasefire in Ukraine for Friday and Saturday to mark the defeat of Nazi Germany in World War II, but threatened to strike back at Kyiv if it tries to disrupt festivities.",
+    "link": "https://www.npr.org/2026/05/05/g-s1-120129/russia-declares-a-truce-in-ukraine-to-mark-victory-day",
+    "pubDate": "Tue, 05 May 2026 01:47:24 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-05-05T06:00:01.732Z"
+  },
+  {
+    "title": "U.S. sinks 7 Iranian boats as Iran attacks UAE, ships in Strait of Hormuz",
+    "description": "Iran launched attacks on the UAE and tankers in the Strait of Hormuz while the U.S. destroyed Iranian boats \"that attempted to interfere\" with Project Freedom.",
+    "link": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-ship-attack-threat-peace-proposal/",
+    "pubDate": "Tue, 05 May 2026 01:47:29 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-05-05T06:00:01.732Z"
+  },
+  {
+    "title": "Man City have lost control of the Premier League title race: Guardiola",
+    "description": "Man City's 3–3 draw at Everton has left them five points adrift of leaders Arsenal, albeit with a game in hand.",
+    "link": "https://www.aljazeera.com/sports/2026/5/5/man-city-have-lost-control-of-the-premier-league-title-race-guardiola?traffic_source=rss",
+    "pubDate": "Tue, 05 May 2026 05:38:24 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-05-05T06:00:01.732Z"
+  },
+  {
+    "title": "Two killed in ‘lethal kinetic strike’ on suspected drug vessel in Caribbean",
+    "description": "The United States military announced it conducted its first “lethal kinetic” military strike in May on a suspected drug trafficking vessel in the Southern Hemisphere as part of Operation Southern Spear. The strike occurred in the Caribbean Sea, and two alleged “narco-terrorists” were killed.  U.S. Southern Command announced the strike in a release posted to […]",
+    "link": "https://www.washingtonexaminer.com/news/4554789/two-killed-lethal-kinetic-strike-on-suspected-drug-vessel/",
+    "pubDate": "Tue, 05 May 2026 05:47:05 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "airstrikes",
+      "drug cartels",
+      "drugs",
+      "military",
+      "narco trafficking",
+      "terrorism"
+    ],
+    "collectedAt": "2026-05-05T06:00:01.732Z"
   }
 ]
