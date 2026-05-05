@@ -1019,7 +1019,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-05-04",
+      "lastSeen": "2026-05-05",
       "active": true,
       "entries": [
         {
@@ -1426,6 +1426,11 @@
           "date": "2026-05-04",
           "edition": "evening",
           "update": "A U.S. admiral reported that American forces destroyed six Iranian small boats and shot down missiles and drones during operations connected to the Strait of Hormuz crisis."
+        },
+        {
+          "date": "2026-05-05",
+          "edition": "evening",
+          "update": "Defense Secretary Pete Hegseth and Joint Chiefs Chair Gen. Dan Caine held a Pentagon press briefing on the Iran conflict, during which Hegseth confirmed the U.S.-Iran ceasefire is holding. Hegseth announced 'Project Freedom,' a U.S. operation to ensure the free flow of commercial shipping through the Strait of Hormuz, characterizing it as a separate and distinct operation from the ceasefire. Exchanges of fire occurred in the Strait of Hormuz on Monday. During the briefing, Hegseth also addressed claims about Iranian 'kamikaze dolphins,' denying Iran possesses such capabilities while leaving open the possibility that the U.S. may."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2155,7 +2160,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-04",
+      "lastSeen": "2026-05-05",
       "active": true
     },
     {
@@ -2284,5 +2289,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-05T11:03:31.146Z"
+  "updatedAt": "2026-05-05T21:04:06.286Z"
 }
