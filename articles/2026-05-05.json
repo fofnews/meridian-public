@@ -390,5 +390,32 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-05-05T06:15:01.370Z"
+  },
+  {
+    "title": "What to Know About the Suspected Hantavirus Outbreak on an Atlantic Cruise Ship",
+    "description": "Three passengers of the MV Hondius died after showing symptoms of the rare disease. Health authorities confirmed two cases and are investigating four others.",
+    "link": "https://www.nytimes.com/2026/05/04/world/hantavirus-cruise-ship-outbreak-hondius.html",
+    "pubDate": "Tue, 05 May 2026 06:16:00 +0000",
+    "source": "NY Times",
+    "categories": [
+      "hantavirus",
+      "cruises",
+      "oceanwide expeditions bv",
+      "south africa",
+      "argentina",
+      "deaths (fatalities)"
+    ],
+    "collectedAt": "2026-05-05T06:30:01.235Z"
+  },
+  {
+    "title": "Iran says US military killed five civilians in attacks on passenger boats",
+    "description": "Iranian commander says US military attacked two passenger boats, not IRGC vessels, in the Strait of Hormuz on Monday.",
+    "link": "https://www.aljazeera.com/news/2026/5/5/iran-says-us-military-killed-five-civilians-in-attacks-on-passenger-boats?traffic_source=rss",
+    "pubDate": "Tue, 05 May 2026 05:52:08 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-05T06:30:01.235Z"
   }
 ]
