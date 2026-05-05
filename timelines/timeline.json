@@ -2203,13 +2203,18 @@
       "title": "US Military Operations Eastern Pacific",
       "parentId": null,
       "firstSeen": "2026-04-27",
-      "lastSeen": "2026-04-27",
+      "lastSeen": "2026-05-05",
       "active": true,
       "entries": [
         {
           "date": "2026-04-27",
           "edition": "morning",
           "update": "A U.S. military strike in the eastern Pacific Ocean on Sunday killed three people aboard a boat accused of drug trafficking."
+        },
+        {
+          "date": "2026-05-05",
+          "edition": "morning",
+          "update": "A separate U.S. military strike targeting a boat accused of carrying drugs in the Caribbean Sea on Monday killed two people. This follows a similar strike in the eastern Pacific the previous day."
         }
       ]
     },
@@ -2279,5 +2284,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-04T21:04:13.617Z"
+  "updatedAt": "2026-05-05T11:03:31.146Z"
 }
