@@ -43,7 +43,7 @@ export default function MapHero({
   const [mapEnabled] = useState(() => localStorage.getItem('meridian-map') !== 'false');
   const [mapVisible, setMapVisible] = useState(() => localStorage.getItem('meridian-map-visible') !== 'false');
 
-  const { mapContainer, mapRef, flyToLocation, updateArcs, updateHighlights } = useMeridianMap({
+  const { mapContainer, mapRef, flyToLocation, updateArcs, updateHighlights, applyBoundaryPolygon } = useMeridianMap({
     mapEnabled,
     isDark,
     focusPitch: FOCUSED_PITCH_WEBSITE,
@@ -83,16 +83,20 @@ export default function MapHero({
   const featuredLocations = featured?.analysis?.locations?.filter(l => l?.lat != null && l?.lng != null) ?? [];
 
   // Fly to first location when story changes; draw source arcs + update highlight palette.
+  // Fly immediately with the coordinates we already have — don't block on the
+  // boundary polygon fetch. The polygon is applied via applyBoundaryPolygon once
+  // it arrives so the camera moves on every selection without network latency.
   useEffect(() => {
     if (!featured) return;
     setActiveLocIdx(0);
     const secondaryIsos = featuredLocations.slice(1).map(l => l.iso).filter(Boolean);
     if (featuredLocations.length > 0) {
       const loc = featuredLocations[0];
+      flyToLocation({ ...loc });
+      updateArcs(featured.articles, loc);
+      updateHighlights(secondaryIsos);
       fetchBoundaryPolygon(loc.name, loc.iso).then(polygon => {
-        flyToLocation({ ...loc, polygon });
-        updateArcs(featured.articles, loc);
-        updateHighlights(secondaryIsos);
+        applyBoundaryPolygon(polygon);
       });
     } else {
       geocodeStory(featured).then((coords) => {
@@ -262,8 +266,9 @@ export default function MapHero({
                 key={loc.name}
                 onClick={() => {
                   setActiveLocIdx(i);
+                  flyToLocation({ ...loc });
                   fetchBoundaryPolygon(loc.name, loc.iso).then(polygon => {
-                    flyToLocation({ ...loc, polygon });
+                    applyBoundaryPolygon(polygon);
                   });
                 }}
                 className="cursor-pointer transition-all"
