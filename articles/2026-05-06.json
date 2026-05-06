@@ -184,5 +184,62 @@
       "state watch"
     ],
     "collectedAt": "2026-05-06T05:15:01.934Z"
+  },
+  {
+    "title": "FBI director criticizes sheriff over Nancy Guthrie case",
+    "description": "FBI director criticizes sheriff over Nancy Guthrie case",
+    "link": "https://www.nbcnews.com/video/shorts/fbi-director-criticizes-sheriff-over-nancy-guthrie-case-262825029715",
+    "pubDate": "Wed, 06 May 2026 05:05:39 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-05-06T05:30:01.639Z"
+  },
+  {
+    "title": "Kentucky man accused of kidnapping, killing woman and keeping her body under trailer before disposal",
+    "description": "A Kentucky man is set to stand trial for allegedly abducting and killing a mother of three whose body was found on a roadside seven years ago.",
+    "link": "https://www.foxnews.com/us/kentucky-man-accused-kidnapping-killing-woman-keeping-her-body-under-trailer-before-disposal",
+    "pubDate": "Wed, 06 May 2026 01:11:32 -0400",
+    "source": "Fox News",
+    "categories": [
+      "962eeb1e-5dfa-55b9-9f54-f061ebd7f328",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/southeast/kentucky",
+      "fox-news/us",
+      "fox-news/crime",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/politics/judiciary",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-05-06T05:30:01.639Z"
+  },
+  {
+    "title": "NY could ban common ingredient found in pizza and bagels over health concerns",
+    "description": "“New Yorkers deserve to know what they are consuming,” the bill states.",
+    "link": "https://nypost.com/2026/05/06/us-news/new-york-could-ban-common-ingredient-found-in-pizza-and-bagels-over-health-concerns/",
+    "pubDate": "Wed, 06 May 2026 01:22:23 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-06T05:30:01.639Z"
+  },
+  {
+    "title": "‘Bickering’ and blaming Trump dominate California gubernatorial debate",
+    "description": "Seven candidates vying to be the next California governor participated in a primary debate on Tuesday night that featured a lot more fiery exchanges and aggressive verbal attacks than previous debates.  The debate was hosted by CNN and moderated by Kaitlan Collins and Elix Michaelson. Two Republicans, Riverside County Sheriff Chad Bianco and businessman and […]",
+    "link": "https://www.washingtonexaminer.com/news/4556656/bickering-and-blaming-trump-dominate-california-gubernatorial-debate/",
+    "pubDate": "Wed, 06 May 2026 05:21:40 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "2026 elections",
+      "california",
+      "democratic primary",
+      "gavin newsom",
+      "katie porter",
+      "primaries",
+      "republican primary",
+      "xavier becerra"
+    ],
+    "collectedAt": "2026-05-06T05:30:01.639Z"
   }
 ]
