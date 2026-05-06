@@ -99,7 +99,14 @@ export function flyToLocation(map, marker, loc, { pitch = 0, duration = FOCUSED_
       );
     }
   };
-  if (map.loaded()) go(); else map.once('load', go);
+  // map.loaded() returns false both when the initial style is loading AND when
+  // tiles are loading after a flyTo. The 'load' event only fires once (initial
+  // style load), so map.once('load', go) would silently drop the camera move if
+  // called while tiles are pending from a previous flyTo.
+  // Using layer existence as a proxy for "applyMapStyle has run" lets us call
+  // go() immediately whenever the style is ready, regardless of tile state.
+  if (map.loaded() || map.getLayer('country-highlight-glow')) go();
+  else map.once('load', go);
 }
 
 // Two-step cinematic fly for the video stage (item 4).
@@ -155,7 +162,8 @@ export function cinematicFlyTo(map, marker, loc, { pitch = FOCUSED_PITCH_BROADCA
     }, CINEMATIC_PULLBACK_DURATION_MS + 100);
   };
 
-  if (map.loaded()) go(); else map.once('load', go);
+  if (map.loaded() || map.getLayer('country-highlight-glow')) go();
+  else map.once('load', go);
 
   return () => {
     cancelled = true;
@@ -184,7 +192,8 @@ export function returnToAmbient(map, marker) {
       map.getSource('state-boundary').setData({ type: 'FeatureCollection', features: [] });
     }
   };
-  if (map.loaded()) go(); else map.once('load', go);
+  if (map.loaded() || map.getLayer('country-highlight-glow')) go();
+  else map.once('load', go);
 }
 
 // Slow bearing rotation for ambient mode. Returns a controller:
