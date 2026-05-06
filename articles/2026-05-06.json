@@ -151,5 +151,38 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-06T05:00:02.624Z"
+  },
+  {
+    "title": "FDA halts publication of studies on covid, shingles vaccines - The Washington Post",
+    "description": "FDA halts publication of studies on covid, shingles vaccines  The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNVJMY1Z4clRTVWxYNTlHOFFkY0xaaUlKS0JrbncxTGhKMTZRTWtNa1RCMF9tZHNIWlQ4ejJ5bWV5MHBIMnlXVXk2eC11UHEyVDdfZUh2NGFUVGVlcE1SYkx4bjMwVXFSdGQ1SzVXZjd6Z2liZDdLUTRTN1BOaUQ2NlBkQldVMVpqa0JzX1NmWTdLVHFISHc?oc=5",
+    "pubDate": "Wed, 06 May 2026 04:45:17 GMT",
+    "source": "Washington Post",
+    "categories": [],
+    "collectedAt": "2026-05-06T05:15:01.934Z"
+  },
+  {
+    "title": "Iran’s Araghchi holds talks with China’s Wang Yi in Beijing",
+    "description": "Iran's foreign minister meets his Chinese counterpart one week ahead of President Donald Trump's visit to Beijing.",
+    "link": "https://www.aljazeera.com/news/2026/5/6/irans-araghchi-holds-talks-with-chinas-wang-yi-in-beijing?traffic_source=rss",
+    "pubDate": "Wed, 06 May 2026 04:55:02 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-06T05:15:01.934Z"
+  },
+  {
+    "title": "California gubernatorial candidates pounce on Becerra at debate",
+    "description": "Candidates running to replace term-limited Gov. Gavin Newsom (D) pounced on former Health and Human Services Secretary Xavier Becerra (D) during the Golden State’s gubernatorial debate on Tuesday. The focus on Becerra underscores his surge to frontrunner status in the crowded race, which was rattled by the dramatic exit of former Rep. Eric Swalwell (D-Calif.)…",
+    "link": "https://thehill.com/homenews/campaign/5865219-becerra-california-governor-debate/",
+    "pubDate": "Wed, 06 May 2026 04:15:05 +0000",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "news",
+      "state watch"
+    ],
+    "collectedAt": "2026-05-06T05:15:01.934Z"
   }
 ]
