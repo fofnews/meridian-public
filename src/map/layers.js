@@ -1,7 +1,9 @@
-// Mapbox layer + style customizations applied at runtime on top of the
-// base style. Item #2 will replace the per-property patches with a
-// committed `meridian.style.json`; the data-driven highlight layers
-// (country-highlight, state-boundary) will remain runtime additions.
+// Mapbox layer + style customizations applied at runtime.
+// Static visual properties (land/water color, label styling, admin borders,
+// road/POI removal, country-borders) are baked into the Meridian style files
+// (public/meridian-dark.style.json, public/meridian-light.style.json).
+// This module adds only fog and data-driven layers (highlights, state bounds,
+// arcs, graticule, night overlay).
 
 import { GRATICULE_GEOJSON } from './graticule.js';
 import { computeNightPolygon } from './terminator.js';
