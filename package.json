@@ -14,7 +14,8 @@
     "record-clip": "node scripts/record-clip.js",
     "finalize-clip": "node scripts/finalize-clip.js",
     "produce-clip": "node scripts/produce-clip.js",
-    "build-styles": "node scripts/build-meridian-styles.js"
+    "build-styles": "node scripts/build-meridian-styles.js",
+    "build-glyphs": "node scripts/build-glyphs.js"
   },
   "dependencies": {
     "@upstash/redis": "^1.37.0",
@@ -29,6 +30,7 @@
     "@tailwindcss/vite": "^4.2.0",
     "@vitejs/plugin-react": "^5.1.1",
     "concurrently": "^9.2.1",
+    "fontnik": "^0.7.4",
     "playwright": "^1.59.1",
     "vite": "npm:rolldown-vite@7.2.5"
   },

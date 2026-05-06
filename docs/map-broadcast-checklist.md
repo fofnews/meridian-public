@@ -2,7 +2,7 @@
 
 Goal: turn `BroadcastHero`'s Mapbox map from an interactive info widget into a video-grade backdrop for news clips generated from Meridian reports, then build the recording pipeline that turns each daily edition into publishable video.
 
-**Status:** 22 / 23 complete · Last updated: 2026-05-05
+**Status:** 23 / 23 complete · Last updated: 2026-05-06
 
 To resume work in a new session: ask Claude to read `docs/map-broadcast-checklist.md`.
 
@@ -74,9 +74,10 @@ All Phase 1 items land in the shared kernel (Phase 0a) unless otherwise noted. B
 - [x] **6. Graticule overlay (lat/lon gridlines)**
   - `src/map/graticule.js` generates GeoJSON at 15° intervals inline (no external file). Added as a `line` layer at 12% opacity beneath labels in `src/map/layers.js`.
 
-- [ ] **7. Custom typography for place labels**
-  - Self-host Playfair Display SDF glyph set, expose via Mapbox style's `glyphs:` URL
-  - Update `text-font` on country-label / place-label layers in the custom style
+- [x] **7. Custom typography for place labels**
+  - `scripts/build-glyphs.js` (new): downloads Playfair Display Regular/Bold + Noto Sans Regular/Bold TTF from Google Fonts, generates all 256 Unicode PBF ranges via `fontnik`, writes to `public/fonts/`. 4.4 MB total; run-once-and-commit, same pattern as `build-meridian-styles.js`. Added `npm run build-glyphs`.
+  - `build-meridian-styles.js`: sets `style.glyphs = '/fonts/{fontstack}/{range}.pbf'` (self-hosted), adds `applyTypography()` which assigns `text-font` per layer: country-label + continent-label → `Playfair Display Bold`; settlement-major-label → `Playfair Display Regular`; state-label → `Noto Sans Bold`; all others → `Noto Sans Regular`. Fallback is always `Noto Sans Regular`.
+  - Both style JSONs re-generated; `verify-styles.js` extended to assert the new `glyphs` URL and that `country-label` uses `Playfair Display Bold`.
 
 - [x] **8. Day/night terminator overlay**
   - `src/map/terminator.js` computes the terminator polygon from UTC time. Added as a low-opacity dark fill layer, updated every 60s. Reinforces morning/evening edition cadence visually.

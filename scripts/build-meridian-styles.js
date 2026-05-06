@@ -84,9 +84,25 @@ function addCountryBordersLayer(style, paintProps) {
   }
 }
 
+// text-font assignments for self-hosted glyphs (Playfair Display + Noto Sans)
+function applyTypography(style) {
+  // Headline geography — serif display
+  setLayerLayout(style, 'country-label',   { 'text-font': ['Playfair Display Bold',    'Noto Sans Regular'] });
+  setLayerLayout(style, 'continent-label', { 'text-font': ['Playfair Display Bold',    'Noto Sans Regular'] });
+  // Cities — lighter serif
+  setLayerLayout(style, 'settlement-major-label',       { 'text-font': ['Playfair Display Regular', 'Noto Sans Regular'] });
+  // Secondary labels — sans-serif
+  setLayerLayout(style, 'settlement-minor-label',       { 'text-font': ['Noto Sans Regular'] });
+  setLayerLayout(style, 'settlement-subdivision-label', { 'text-font': ['Noto Sans Regular'] });
+  setLayerLayout(style, 'state-label',                  { 'text-font': ['Noto Sans Bold',    'Noto Sans Regular'] });
+  setLayerLayout(style, 'airport-label',                { 'text-font': ['Noto Sans Regular'] });
+  setLayerLayout(style, 'water-point-label',            { 'text-font': ['Noto Sans Regular'] });
+}
+
 function buildDark(style) {
   console.log('  Applying dark customizations...');
   stripUnwantedLayers(style);
+  style.glyphs = '/fonts/{fontstack}/{range}.pbf';
   setLayerPaint(style, 'land', { 'background-color': '#222534' });
   setLayerPaint(style, 'country-label', {
     'text-color': '#ffffff',
@@ -94,6 +110,7 @@ function buildDark(style) {
     'text-halo-width': 1.5,
   });
   setLayerLayout(style, 'country-label', { 'text-size': 20 });
+  applyTypography(style);
   patchAdmin1(style, { 'line-color': 'rgba(180,190,220,0.2)', 'line-width': 0.5 });
   addCountryBordersLayer(style, {
     'line-color': 'rgba(180,190,220,0.6)',
@@ -106,6 +123,7 @@ function buildDark(style) {
 function buildLight(style) {
   console.log('  Applying light customizations...');
   stripUnwantedLayers(style);
+  style.glyphs = '/fonts/{fontstack}/{range}.pbf';
   setLayerPaint(style, 'land', { 'background-color': '#F5F2ED' });
   setLayerPaint(style, 'water', { 'fill-color': '#DCE5EC' });
   setLayerPaint(style, 'country-label', {
@@ -113,6 +131,8 @@ function buildLight(style) {
     'text-halo-color': 'rgba(245,242,237,0.85)',
     'text-halo-width': 1.5,
   });
+  setLayerLayout(style, 'country-label', { 'text-size': 20 });
+  applyTypography(style);
   patchAdmin1(style, { 'line-color': 'rgba(10,24,40,0.15)', 'line-width': 0.5 });
   addCountryBordersLayer(style, {
     'line-color': '#0A1828',
