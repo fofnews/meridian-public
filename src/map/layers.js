@@ -45,91 +45,13 @@ const FOG = {
 };
 
 export function applyMapStyle(map, isDark) {
-  // Atmospheric fog (item 1) — applied first so the globe gets its
-  // atmosphere ring before any layer patches. Silently no-ops on
-  // mercator or if setFog isn't available.
+  // Fog — kept in code (not in the style file) for easy value tuning.
   try { map.setFog(isDark ? FOG.dark : FOG.light); } catch {}
-
-  // Land color — warm paper in light, dark navy in dark
-  try {
-    map.setPaintProperty('land', 'background-color', isDark ? '#222534' : '#F5F2ED');
-  } catch {}
-
-  if (isDark) {
-    // Dark mode preserves base style's labels, restyled for the broadcast look
-    try {
-      map.setPaintProperty('country-label', 'text-color', '#ffffff');
-      map.setPaintProperty('country-label', 'text-halo-color', 'rgba(0,0,0,0.6)');
-      map.setPaintProperty('country-label', 'text-halo-width', 1.5);
-      map.setLayoutProperty('country-label', 'text-size', 20);
-    } catch {}
-    try {
-      const style = map.getStyle();
-      if (style && style.layers) {
-        style.layers.forEach(layer => {
-          if (layer.id.startsWith('admin-1')) {
-            try {
-              map.setLayoutProperty(layer.id, 'visibility', 'visible');
-              map.setPaintProperty(layer.id, 'line-color', 'rgba(180,190,220,0.2)');
-              map.setPaintProperty(layer.id, 'line-width', 0.5);
-              map.setLayerZoomRange(layer.id, 3, 24);
-            } catch {}
-          }
-        });
-      }
-    } catch {}
-  } else {
-    // Light mode — editorial monochrome: paint water, restyle admin-1 lines as
-    // subtle guides, strip road / POI / transit / natural-feature noise, but
-    // keep place labels so the map gives orientation context.
-    try { map.setPaintProperty('water', 'fill-color', '#DCE5EC'); } catch {}
-
-    try {
-      const style = map.getStyle();
-      if (style && style.layers) {
-        style.layers.forEach((layer) => {
-          const id = layer.id;
-          if (id.startsWith('admin-1')) {
-            try {
-              map.setLayoutProperty(id, 'visibility', 'visible');
-              map.setPaintProperty(id, 'line-color', 'rgba(10,24,40,0.15)');
-              map.setPaintProperty(id, 'line-width', 0.5);
-              map.setLayerZoomRange(id, 3, 24);
-            } catch {}
-            return;
-          }
-          if (
-            id.startsWith('road') ||
-            id.startsWith('bridge') ||
-            id.startsWith('tunnel') ||
-            id.startsWith('ferry') ||
-            id.startsWith('poi') ||
-            id.startsWith('natural') ||
-            id.startsWith('transit') ||
-            id === 'waterway-label' ||
-            id === 'water-line-label'
-          ) {
-            try { map.setLayoutProperty(id, 'visibility', 'none'); } catch {}
-          }
-        });
-      }
-    } catch {}
-
-    // Tint country labels to match the navy/paper palette
-    try {
-      map.setPaintProperty('country-label', 'text-color', '#0A1828');
-      map.setPaintProperty('country-label', 'text-halo-color', 'rgba(245,242,237,0.85)');
-      map.setPaintProperty('country-label', 'text-halo-width', 1.5);
-    } catch {}
-  }
 
   // Night-side terminator overlay (item 8) — low-opacity dark fill over
   // the hemisphere where the sun is below the horizon. Seeded with the
   // current time here; useMeridianMap refreshes it every 60 s.
-  // Inserted before the graticule so the grid lines show through the shadow.
   try {
-    // Insert below country-label so the shadow sits under all text.
-    // Graticule is added after this block, so it naturally layers on top.
     const nightBefore = map.getLayer('country-label') ? 'country-label' : undefined;
     const nightData = computeNightPolygon();
     if (!map.getSource('night-overlay')) {
@@ -152,10 +74,7 @@ export function applyMapStyle(map, isDark) {
     }
   } catch {}
 
-  // Graticule (item 6) — lat/lon gridlines at 15° intervals, beneath all
-  // other custom layers and beneath Mapbox's label layers.
-  // beforeId targets 'country-label' so the grid sits below text; falls
-  // back to no beforeId if that layer isn't present in the base style.
+  // Graticule (item 6) — lat/lon gridlines at 15° intervals.
   try {
     const graticuleBefore = map.getLayer('country-label') ? 'country-label' : undefined;
     if (!map.getSource('graticule')) {
@@ -176,38 +95,11 @@ export function applyMapStyle(map, isDark) {
     }
   } catch {}
 
-  // Country borders + glowing highlight (item 3) — re-added after every
-  // style change. Highlight = wide blurred glow + narrow sharp edge, both
-  // filtered by iso_3166_1. Flat fill is intentionally removed (the line
-  // treatment reads better on broadcast video than a tinted fill).
+  // Country highlight layers (item 3 + item 10) — data-driven, filtered by iso_3166_1.
+  // country-boundaries source is provided by the Meridian style; no addSource needed.
   try {
-    if (!map.getSource('country-boundaries')) {
-      map.addSource('country-boundaries', {
-        type: 'vector',
-        url: 'mapbox://mapbox.country-boundaries-v1',
-      });
-    }
+    const pal = PALETTE[isDark ? 'dark' : 'light'];
 
-    // World borders
-    if (!map.getLayer('country-borders')) {
-      map.addLayer({
-        id: 'country-borders',
-        type: 'line',
-        source: 'country-boundaries',
-        'source-layer': 'country_boundaries',
-        paint: {
-          'line-color': isDark ? 'rgba(180,190,220,0.6)' : '#0A1828',
-          'line-width': isDark ? 0.8 : 0.5,
-          'line-opacity': isDark ? 0.6 : 0.65,
-        },
-      });
-    } else {
-      map.setPaintProperty('country-borders', 'line-color', isDark ? 'rgba(180,190,220,0.6)' : '#0A1828');
-      map.setPaintProperty('country-borders', 'line-width', isDark ? 0.8 : 0.5);
-      map.setPaintProperty('country-borders', 'line-opacity', isDark ? 0.6 : 0.65);
-    }
-
-    // Highlight glow — wide, blurred, low-opacity outer ring
     if (!map.getLayer('country-highlight-glow')) {
       map.addLayer({
         id: 'country-highlight-glow',
@@ -227,7 +119,6 @@ export function applyMapStyle(map, isDark) {
       map.setPaintProperty('country-highlight-glow', 'line-opacity', isDark ? 0.35 : 0.28);
     }
 
-    // Highlight edge — narrow, crisp inner line
     if (!map.getLayer('country-highlight-edge')) {
       map.addLayer({
         id: 'country-highlight-edge',
@@ -246,8 +137,6 @@ export function applyMapStyle(map, isDark) {
       map.setPaintProperty('country-highlight-edge', 'line-opacity', isDark ? 0.90 : 0.80);
     }
 
-    // Secondary highlight — other locations in the current story (item 10)
-    const pal = PALETTE[isDark ? 'dark' : 'light'];
     if (!map.getLayer('country-highlight-secondary-glow')) {
       map.addLayer({
         id: 'country-highlight-secondary-glow',
@@ -266,6 +155,7 @@ export function applyMapStyle(map, isDark) {
       map.setPaintProperty('country-highlight-secondary-glow', 'line-color', pal.secondary);
       map.setPaintProperty('country-highlight-secondary-glow', 'line-opacity', isDark ? 0.28 : 0.22);
     }
+
     if (!map.getLayer('country-highlight-secondary-edge')) {
       map.addLayer({
         id: 'country-highlight-secondary-edge',
@@ -284,7 +174,6 @@ export function applyMapStyle(map, isDark) {
       map.setPaintProperty('country-highlight-secondary-edge', 'line-opacity', isDark ? 0.65 : 0.55);
     }
 
-    // Trail highlight — the previous story's location, glow-only (item 10)
     if (!map.getLayer('country-highlight-trail-glow')) {
       map.addLayer({
         id: 'country-highlight-trail-glow',
@@ -305,9 +194,7 @@ export function applyMapStyle(map, isDark) {
     }
   } catch {}
 
-  // State/region boundary layers (GeoJSON, data-driven) — same glow+edge
-  // treatment as the country highlight, used when a story targets a
-  // sub-national region (e.g. a US state).
+  // State/region boundary layers — GeoJSON, same glow+edge treatment as country highlight.
   try {
     if (!map.getSource('state-boundary')) {
       map.addSource('state-boundary', {
@@ -348,10 +235,7 @@ export function applyMapStyle(map, isDark) {
     }
   } catch {}
 
-  // Source-to-story arc layers (item 9) — empty on init; updateArcs()
-  // fills them when a story is focused. lineMetrics: true is required
-  // for line-trim-offset (the draw-on animation).
-  // Arcs sit above highlights but below labels.
+  // Source-to-story arc layers (item 9) — empty on init; updateArcs() fills them.
   try {
     const arcsBefore = map.getLayer('country-label') ? 'country-label' : undefined;
     if (!map.getSource('arcs')) {
