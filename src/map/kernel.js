@@ -46,7 +46,7 @@ export async function createMap(container, { isDark, broadcast = false }) {
 
   const map = new mapboxgl.Map({
     container,
-    style: isDark ? 'mapbox://styles/mapbox/dark-v11' : 'mapbox://styles/mapbox/light-v11',
+    style: isDark ? '/meridian-dark.style.json' : '/meridian-light.style.json',
     projection: 'globe',
     center: [0, 20],
     zoom: 1.0,

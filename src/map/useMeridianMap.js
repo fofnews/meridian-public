@@ -155,7 +155,7 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = fal
       styleLoadCallbackRef.current = null;
     }
 
-    const newStyle = isDark ? 'mapbox://styles/mapbox/dark-v11' : 'mapbox://styles/mapbox/light-v11';
+    const newStyle = isDark ? '/meridian-dark.style.json' : '/meridian-light.style.json';
     map.setStyle(newStyle);
 
     const onStyleLoad = () => {
