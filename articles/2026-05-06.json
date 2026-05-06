@@ -61,5 +61,59 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-06T04:30:01.706Z"
+  },
+  {
+    "title": "Oil Falls and Stocks Gain as Trump Changes Course in Strait of Hormuz",
+    "description": "Oil prices fell and stocks rose after President Trump’s about-face to pause the U.S. operation to escort commercial ships through the Strait of Hormuz",
+    "link": "https://www.nytimes.com/2026/05/06/business/oil-gas-price-iran.html",
+    "pubDate": "Wed, 06 May 2026 04:31:27 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "oil (petroleum) and gasoline",
+      "prices (fares, fees and rates)",
+      "stocks and bonds",
+      "standard & poor's 500-stock index",
+      "iran"
+    ],
+    "collectedAt": "2026-05-06T04:45:01.568Z"
+  },
+  {
+    "title": "Insider Sets the Record Straight on Aaron Rodgers-Cardinals Rumors",
+    "description": "Rumors have been growing that Aaron Rodgers wants to join the Arizona Cardinals, and one ESPN analyst reveals whether it's true.",
+    "link": "https://www.newsweek.com/sports/nfl/insider-sets-the-record-straight-on-aaron-rodgers-cardinals-rumors-11917099",
+    "pubDate": "Wed, 06 May 2026 00:39:42 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-06T04:45:01.568Z"
+  },
+  {
+    "title": "Romania’s pro-EU government ousted after no-confidence vote",
+    "description": "The pro-European Union coalition of Romanian Prime Minister Ilie Bolojan has collapsed after a vote of no confidence.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/romanias-pro-eu-government-ousted-after-no-confidence-vote?traffic_source=rss",
+    "pubDate": "Wed, 06 May 2026 04:22:16 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-05-06T04:45:01.568Z"
+  },
+  {
+    "title": "Giants’ multi-homer game goes to waste as Padres light up Logan Webb",
+    "description": "An early lead with their ace on the mound wasn't enough for the Giants to beat the Padres.",
+    "link": "https://nypost.com/2026/05/06/sports/giants-multi-homer-game-goes-to-waste-as-padres-light-up-logan-webb/",
+    "pubDate": "Wed, 06 May 2026 00:42:08 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-06T04:45:01.568Z"
+  },
+  {
+    "title": "LIU athletics placed on three-year probation after NCAA eligibility probe",
+    "description": "LIU was placed on a three-year probation by the NCAA following an investigation.",
+    "link": "https://nypost.com/2026/05/06/sports/liu-athletics-placed-on-three-year-probation-after-ncaa-eligibility-probe/",
+    "pubDate": "Wed, 06 May 2026 00:33:58 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-06T04:45:01.568Z"
   }
 ]
