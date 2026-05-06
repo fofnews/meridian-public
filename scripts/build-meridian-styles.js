@@ -100,6 +100,7 @@ function buildDark(style) {
     'line-width': 0.8,
     'line-opacity': 0.6,
   });
+  delete style.fog;  // fog is set at runtime by applyMapStyle; not baked into the style file
 }
 
 function buildLight(style) {
@@ -118,6 +119,7 @@ function buildLight(style) {
     'line-width': 0.5,
     'line-opacity': 0.65,
   });
+  delete style.fog;  // fog is set at runtime by applyMapStyle; not baked into the style file
 }
 
 async function main() {
