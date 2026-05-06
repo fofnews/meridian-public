@@ -13,7 +13,8 @@
     "synthesize-narration": "node scripts/synthesize-narration.js",
     "record-clip": "node scripts/record-clip.js",
     "finalize-clip": "node scripts/finalize-clip.js",
-    "produce-clip": "node scripts/produce-clip.js"
+    "produce-clip": "node scripts/produce-clip.js",
+    "build-styles": "node scripts/build-meridian-styles.js"
   },
   "dependencies": {
     "@upstash/redis": "^1.37.0",
