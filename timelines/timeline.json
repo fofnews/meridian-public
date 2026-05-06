@@ -454,7 +454,7 @@
       "id": "sinaloa-cartel-violence",
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-05-02",
+      "lastSeen": "2026-05-06",
       "active": true,
       "entries": [
         {
@@ -511,6 +511,11 @@
           "date": "2026-05-02",
           "edition": "evening",
           "update": "Sinaloa Governor Rubén Rocha Moya has stepped down from his position following the U.S. federal drug trafficking charges filed against him."
+        },
+        {
+          "date": "2026-05-06",
+          "edition": "morning",
+          "update": "U.S. drug czar Sara Carter issued a warning about medetomidine, a veterinary sedative known as a 'rhino tranquilizer,' appearing in the U.S. drug supply mixed with fentanyl and linked to American deaths, amid the administration's escalating cartel crackdown."
         }
       ],
       "parentId": null
@@ -1019,7 +1024,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true,
       "entries": [
         {
@@ -1431,6 +1436,11 @@
           "date": "2026-05-05",
           "edition": "evening",
           "update": "Defense Secretary Pete Hegseth and Joint Chiefs Chair Gen. Dan Caine held a Pentagon press briefing on the Iran conflict, during which Hegseth confirmed the U.S.-Iran ceasefire is holding. Hegseth announced 'Project Freedom,' a U.S. operation to ensure the free flow of commercial shipping through the Strait of Hormuz, characterizing it as a separate and distinct operation from the ceasefire. Exchanges of fire occurred in the Strait of Hormuz on Monday. During the briefing, Hegseth also addressed claims about Iranian 'kamikaze dolphins,' denying Iran possesses such capabilities while leaving open the possibility that the U.S. may."
+        },
+        {
+          "date": "2026-05-06",
+          "edition": "morning",
+          "update": "President Trump announced a temporary pause in Project Freedom on Tuesday to allow time for finalizing an agreement with Iran."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2160,7 +2170,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-06",
       "active": true
     },
     {
@@ -2289,5 +2299,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-05T21:04:06.286Z"
+  "updatedAt": "2026-05-06T11:04:12.999Z"
 }
