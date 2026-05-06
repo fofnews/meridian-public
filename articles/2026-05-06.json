@@ -391,5 +391,71 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-06T06:30:01.344Z"
+  },
+  {
+    "title": "BBC traces how huge wave of Israeli strikes brought chaos to Lebanon",
+    "description": "The BBC’s Nawal Al-Maghafi has been piecing together what happened on 8 April 2026, after one of the deadliest chapters in the country’s recent history.",
+    "link": "https://www.bbc.com/news/videos/c0l2z28d6elo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 06 May 2026 06:39:27 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-06T06:45:01.436Z"
+  },
+  {
+    "title": "5 Takeaways From the California Gubernatorial Debate",
+    "description": "Seven candidates sparred in the first nationally televised debate in the 2026 California governor’s race. Many tried to launch attacks in a last-ditch effort to gain ground on their opponents.",
+    "link": "https://www.nytimes.com/2026/05/06/us/elections/california-governor-debate-cnn-takeaways.html",
+    "pubDate": "Wed, 06 May 2026 06:21:20 +0000",
+    "source": "NY Times",
+    "categories": [
+      "debates (political)",
+      "midterm elections (2026)",
+      "elections, governors",
+      "democratic party",
+      "republican party",
+      "becerra, xavier",
+      "bianco, chad",
+      "hilton, steve (1969- )",
+      "mahan, matt",
+      "steyer, thomas f",
+      "porter, katie (1974- )",
+      "villaraigosa, antonio",
+      "taxation",
+      "health insurance and managed care",
+      "budgets and budgeting",
+      "oath keepers",
+      "swalwell, eric m",
+      "california"
+    ],
+    "collectedAt": "2026-05-06T06:45:01.436Z"
+  },
+  {
+    "title": "‘Like 10 Manhattan Projects going off all at once’: AI is rewiring the entire global economy, says this BlackRock exec",
+    "description": "The head of BlackRock’s fundamental equities global technology team, Tony Kim, says AI is rewiring the global economy, and that will just keep going.",
+    "link": "https://www.marketwatch.com/story/like-10-manhattan-projects-going-off-all-at-once-how-ai-is-rewiring-the-global-economy-says-this-blackrock-exec-a07da7ef?mod=mw_rss_topstories",
+    "pubDate": "Wed, 06 May 2026 06:32:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-05-06T06:45:01.436Z"
+  },
+  {
+    "title": "Two planes come within 500 feet of each other while approaching JFK Airport in latest close call",
+    "description": "Air traffic control reportedly alerted pilots after two planes came within about 500 feet of each other on approach to JFK International Airport.",
+    "link": "https://www.foxnews.com/us/two-planes-come-within-500-feet-approaching-jfk-airport-latest-close-call",
+    "pubDate": "Wed, 06 May 2026 02:41:36 -0400",
+    "source": "Fox News",
+    "categories": [
+      "4f28944a-a66f-5424-9c92-6c0365bfab8c",
+      "fnc",
+      "fox news",
+      "fox-news/travel/general/airports",
+      "fox-news/person",
+      "fox-news/travel",
+      "fox-news/travel/general/airlines",
+      "fox-news/us/environment/air",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-05-06T06:45:01.436Z"
   }
 ]
