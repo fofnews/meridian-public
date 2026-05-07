@@ -446,5 +446,44 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-07T06:15:01.915Z"
+  },
+  {
+    "title": "Woman covertly filmed for 'humiliating' social media content - then told to pay",
+    "description": "Alice says the video was posted on social media and viewed about 40,000 times.",
+    "link": "https://www.bbc.com/news/articles/cwy87wqz0q9o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 07 May 2026 04:57:42 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-07T06:30:01.845Z"
+  },
+  {
+    "title": "Toronto World Cup tickets to be resold for face value on FIFA marketplace",
+    "description": "Tickets for matches at other venues may be listed above face value on the official resale and exchange marketplace.",
+    "link": "https://www.aljazeera.com/sports/2026/5/7/toronto-world-cup-tickets-to-be-resold-for-face-value-on-fifa-marketplace?traffic_source=rss",
+    "pubDate": "Thu, 07 May 2026 06:02:07 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-05-07T06:30:01.845Z"
+  },
+  {
+    "title": "Oregon burglary suspect nabbed after crashing SUV during police chase: video",
+    "description": "A burglary suspect in Oregon now faces charges including DUII, identity theft and reckless driving after crashing into another vehicle during a police pursuit, deputies said.",
+    "link": "https://www.foxnews.com/us/oregon-burglary-suspect-nabbed-after-crashing-suv-during-police-chase-video",
+    "pubDate": "Thu, 07 May 2026 02:16:29 -0400",
+    "source": "Fox News",
+    "categories": [
+      "e4ea1ea1-aaea-5ed3-b71d-f2f171fdcea0",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/west/oregon",
+      "fox-news/us",
+      "fox-news/crime",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-05-07T06:30:01.845Z"
   }
 ]
