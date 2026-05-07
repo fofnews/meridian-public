@@ -217,7 +217,7 @@ export default function MapHero({
         className="relative w-full overflow-hidden hero-aspect-container"
         style={{ ...containerStyle, display: mapVisible ? '' : 'none' }}
       >
-        <div ref={mapContainer} className="absolute inset-0" style={{ opacity: 1.8, width: '100%', height: '100%' }} />
+        <div ref={mapContainer} className="absolute inset-0" style={{ opacity: 1, width: '100%', height: '100%' }} />
 
         {!mapEnabled && (
           <div className="absolute inset-0" style={{ background: 'var(--bg-primary)' }} />

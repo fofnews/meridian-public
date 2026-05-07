@@ -47,6 +47,8 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = fal
   const arcsCancelRef = useRef(null);
   // ISO code of the currently focused location — becomes trail on next fly.
   const activeIsoRef = useRef('');
+  // Last arc arguments — re-applied after a theme-switch style reload.
+  const lastArcsRef = useRef({ articles: null, storyLoc: null });
   // Capture focusPitch so the fly callback always sees the latest value
   // without needing to be re-created on every prop change.
   const focusPitchRef = useRef(focusPitch);
@@ -164,6 +166,10 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = fal
       if (currentPolygonRef.current && map.getSource('state-boundary')) {
         map.getSource('state-boundary').setData(currentPolygonRef.current);
       }
+      const { articles, storyLoc } = lastArcsRef.current;
+      if (articles && storyLoc) {
+        kernelUpdateArcs(map, articles, storyLoc);
+      }
     };
     styleLoadCallbackRef.current = onStyleLoad;
     map.once('style.load', onStyleLoad);
@@ -180,6 +186,7 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = fal
     setHighlightPalette(mapRef.current, { secondary: [], trail: '' });
     activeIsoRef.current = '';
     currentPolygonRef.current = null;
+    lastArcsRef.current = { articles: null, storyLoc: null };
     rotationRef.current?.setActive(true);
   }, []);
 
@@ -231,6 +238,7 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = fal
   // the component after flyToLocation so arcs and camera move together.
   const updateArcs = useCallback((articles, storyLoc) => {
     if (!mapRef.current) return;
+    lastArcsRef.current = { articles, storyLoc };
     if (arcsCancelRef.current) {
       arcsCancelRef.current();
       arcsCancelRef.current = null;

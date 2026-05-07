@@ -113,10 +113,11 @@ export default function BroadcastStage({
 
         // Camera: fly to the shot's specified position.
         const loc = {
-          lng:  shot.camera.lng,
-          lat:  shot.camera.lat,
-          zoom: shot.camera.zoom,
-          iso:  '',  // no country-highlight in shotlist mode
+          lng:     shot.camera.lng,
+          lat:     shot.camera.lat,
+          zoom:    shot.camera.zoom,
+          bearing: shot.camera.bearing ?? 0,
+          iso:     '',  // no country-highlight in shotlist mode
         };
         flyToLocation(loc);
 
@@ -276,7 +277,7 @@ export default function BroadcastStage({
         style={{ height: mapHeight, zIndex: 20, flex: broadcastMode ? '1 1 auto' : undefined }}
       >
         {/* Mapbox map */}
-        <div ref={mapContainer} className="absolute inset-0" style={{ opacity: 1.8, width: '100%', height: '100%' }} />
+        <div ref={mapContainer} className="absolute inset-0" style={{ opacity: 1, width: '100%', height: '100%' }} />
 
         {/* Radial overlay */}
         <div className="absolute inset-0 pointer-events-none" style={{ background: overlayGrad }} />

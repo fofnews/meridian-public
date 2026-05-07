@@ -148,6 +148,7 @@ export function cinematicFlyTo(map, marker, loc, { pitch = FOCUSED_PITCH_BROADCA
         center: [loc.lng, loc.lat],
         zoom: loc.zoom ?? getStoryZoom(),
         pitch,
+        bearing: loc.bearing ?? 0,
         duration: CINEMATIC_FLY_DURATION_MS,
         essential: true,
       });
