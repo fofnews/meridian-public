@@ -622,5 +622,34 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-07T07:30:01.571Z"
+  },
+  {
+    "title": "Zara Larsson, Dua Lipa and the Algorithm Hack Behind Pop Remix Albums",
+    "description": "More artists are pushing remix albums following successful releases, but these are not just fun bonus tracks.",
+    "link": "https://www.newsweek.com/entertainment/zara-larsson-dua-lipa-algorithm-hack-behind-pop-remix-albums-11919342",
+    "pubDate": "Thu, 07 May 2026 03:38:43 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-07T07:45:01.210Z"
+  },
+  {
+    "title": "Aid cuts, drought and conflict leave Somalis desperate",
+    "description": "Drought, conflict and aid cuts push Somalis into hunger as Kismayo IDP camps struggle to cope with the crisis.",
+    "link": "https://www.aljazeera.com/gallery/2026/5/7/aid-cuts-drought-and-conflict-leave-somalis-desperate?traffic_source=rss",
+    "pubDate": "Thu, 07 May 2026 07:23:59 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-07T07:45:01.210Z"
+  },
+  {
+    "title": "Arrival of hantavirus-ridden MV Hondius cruise ship revives COVID flashbacks in Canary Islands: ‘I don’t think we can cope’",
+    "description": "“This is bringing back flashbacks of the Covid-19 pandemic. We had a terrible time in the hospital then.”",
+    "link": "https://nypost.com/2026/05/07/world-news/arrival-of-virus-ridden-mv-hondius-cruise-ship-revives-covid-flashbacks-in-canary-islands-i-dont-think-we-can-cope/",
+    "pubDate": "Thu, 07 May 2026 03:41:03 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-07T07:45:01.210Z"
   }
 ]
