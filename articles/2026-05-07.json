@@ -687,5 +687,74 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-07T08:00:02.674Z"
+  },
+  {
+    "title": "Drone delivers first Amazon parcels in UK",
+    "description": "The tech giant says it hopes to slowly expand the service as the demand for ultra-fast deliveries grows.",
+    "link": "https://www.bbc.com/news/videos/c0l21992z75o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 07 May 2026 07:54:50 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-07T08:15:01.209Z"
+  },
+  {
+    "title": "The AI fitness instructors selling unreal gains",
+    "description": "A BBC Sport investigation finds misleading adverts for fitness apps that use AI-generated instructors to make exaggerated claims.",
+    "link": "https://www.bbc.com/sport/articles/c5ye7dnxv86o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 07 May 2026 05:15:08 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-07T08:15:01.209Z"
+  },
+  {
+    "title": "Federal authorities arrest 18 for alleged drug distribution around Los Angeles park",
+    "description": "The area, called MacArthur Park, is a densely populated immigrant neighborhood west of downtown LA where federal immigration authorities and the National Guard made a brief  show of force last summer.",
+    "link": "https://www.npr.org/2026/05/07/g-s1-120659/authorities-arrest-drug-distribution-los-angeles",
+    "pubDate": "Thu, 07 May 2026 03:53:47 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-05-07T08:15:01.209Z"
+  },
+  {
+    "title": "Iran war day 69: Tehran ‘reviewing’ US proposals; Israel bombs Beirut",
+    "description": "Trump says US-Iran talks are progressing as Tehran reviews a US proposal delivered through Pakistan.",
+    "link": "https://www.aljazeera.com/news/2026/5/7/iran-war-day-69-tehran-reviewing-us-proposals-israel-bombs-beirut?traffic_source=rss",
+    "pubDate": "Thu, 07 May 2026 08:01:07 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-07T08:15:01.209Z"
+  },
+  {
+    "title": "Rubio heads to Rome with Trump’s Iran clash looming over Pope, Meloni talks",
+    "description": "Rubio led a White House briefing with pointed remarks on Iran before traveling to Italy for meetings with Pope Leo and Prime Minister Giorgia Meloni.",
+    "link": "https://www.foxnews.com/politics/rubio-heads-rome-trumps-iran-clash-looming-over-pope-meloni-talks",
+    "pubDate": "Thu, 07 May 2026 04:00:44 -0400",
+    "source": "Fox News",
+    "categories": [
+      "1e4ccf85-e579-5a18-9fb8-5d96edf1ec40",
+      "fnc",
+      "fox news",
+      "fox-news/politics/executive/white-house",
+      "fox-news/politics/defense/wars/war-with-iran",
+      "fox-news/world/conflicts/iran",
+      "fox-news/politics/foreign-policy/state-department",
+      "fox-news/person/marco-rubio",
+      "fox-news/world/world-regions/italy",
+      "fox-news/person/pope-leo-xiv",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-05-07T08:15:01.209Z"
+  },
+  {
+    "title": "Trump administration can keep 2020 election ballots seized from Georgia, judge rules",
+    "description": "Atlanta-based US District Judge J.P. Boulee rejected Fulton County’s request for the return of original copies of the seized material.",
+    "link": "https://nypost.com/2026/05/07/us-news/trump-administration-can-keep-2020-election-ballots-seized-from-georgia-judge-rules/",
+    "pubDate": "Thu, 07 May 2026 04:11:43 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-07T08:15:01.209Z"
   }
 ]
