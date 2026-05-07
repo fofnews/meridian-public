@@ -1461,6 +1461,11 @@
           "date": "2026-05-07",
           "edition": "morning",
           "update": "Secretary of State Marco Rubio departed for Rome to meet with Pope Leo XIV and Italian Prime Minister Giorgia Meloni, participating in a White House briefing before leaving. The trip comes amid the ongoing U.S.-Iran tensions."
+        },
+        {
+          "date": "2026-05-07",
+          "edition": "evening",
+          "update": "The DOJ is investigating approximately $2.6 billion in suspicious oil market trades allegedly timed ahead of major announcements related to Iran that were connected to President Trump. Separately, shipping data indicates the UAE has been moving oil tankers through the Strait of Hormuz using concealment methods while navigating near Iranian-controlled waters. Rep. Tom Barrett (R-MI), facing a tough re-election race, introduced a bill that would impose limits on U.S. military force in Iran and set a deadline to end the war by late July."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2334,5 +2339,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-07T11:08:37.196Z"
+  "updatedAt": "2026-05-07T21:04:19.297Z"
 }
