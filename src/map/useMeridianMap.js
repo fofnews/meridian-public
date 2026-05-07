@@ -121,13 +121,14 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = fal
   // Night-terminator refresh — update the night polygon every 60 s so the
   // shadow visibly creeps across the globe during a long session.
   useEffect(() => {
+    if (!mapEnabled) return;
     const tick = () => {
       const src = mapRef.current?.getSource('night-overlay');
       if (src) src.setData(computeNightPolygon());
     };
     const id = setInterval(tick, 60_000);
     return () => clearInterval(id);
-  }, []);
+  }, [mapEnabled]);
 
   // ResizeObserver: keep map sized + padding correct as the container changes.
   useEffect(() => {
@@ -166,9 +167,10 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = fal
       if (currentPolygonRef.current && map.getSource('state-boundary')) {
         map.getSource('state-boundary').setData(currentPolygonRef.current);
       }
+      if (arcsCancelRef.current) { arcsCancelRef.current(); arcsCancelRef.current = null; }
       const { articles, storyLoc } = lastArcsRef.current;
       if (articles && storyLoc) {
-        kernelUpdateArcs(map, articles, storyLoc);
+        arcsCancelRef.current = kernelUpdateArcs(map, articles, storyLoc);
       }
     };
     styleLoadCallbackRef.current = onStyleLoad;

@@ -43,4 +43,8 @@ assert(Array.isArray(darkCountryFont) && darkCountryFont[0] === 'Playfair Displa
 const lightCountryFont = light.layers.find(l => l.id === 'country-label')?.layout?.['text-font'];
 assert(Array.isArray(lightCountryFont) && lightCountryFont[0] === 'Playfair Display Bold', 'light country-label font');
 
+// Fog must not be baked into the style files — it is set at runtime by applyMapStyle.
+assert(!dark.fog, 'dark style must not contain fog (set at runtime)');
+assert(!light.fog, 'light style must not contain fog (set at runtime)');
+
 console.log('All assertions passed.');

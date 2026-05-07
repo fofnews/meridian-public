@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback, useRef, useLayoutEffect } from 'react';
+import { useState, useEffect, useCallback, useRef, useLayoutEffect, useMemo } from 'react';
 import { Sun, Moon, ArrowUp } from 'lucide-react';
 import MapHero from './components/MapHero';
 import BroadcastStage from './components/BroadcastStage';
@@ -12,9 +12,11 @@ import { useTheme } from './ThemeContext.jsx';
 
 export default function App() {
   const { isDark, toggleTheme } = useTheme();
-  const _params     = new URLSearchParams(window.location.search);
-  const isBroadcast = _params.get('mode') === 'broadcast';
-  const shotlistUrl = isBroadcast ? (_params.get('shotlist') ?? null) : null;
+  const [isBroadcast, shotlistUrl] = useMemo(() => {
+    const params = new URLSearchParams(window.location.search);
+    const broadcast = params.get('mode') === 'broadcast';
+    return [broadcast, broadcast ? (params.get('shotlist') ?? null) : null];
+  }, []);
   const [report, setReport] = useState(null);
   const [availableDates, setAvailableDates] = useState([]);
   const [selectedDate, setSelectedDate] = useState(null);

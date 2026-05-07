@@ -194,6 +194,24 @@ export function applyMapStyle(map, isDark) {
       map.setPaintProperty('country-highlight-trail-glow', 'line-color', pal.trail);
       map.setPaintProperty('country-highlight-trail-glow', 'line-opacity', isDark ? 0.18 : 0.14);
     }
+
+    if (!map.getLayer('country-highlight-trail-edge')) {
+      map.addLayer({
+        id: 'country-highlight-trail-edge',
+        type: 'line',
+        source: 'country-boundaries',
+        'source-layer': 'country_boundaries',
+        filter: ['==', 'iso_3166_1', ''],
+        paint: {
+          'line-color': pal.trail,
+          'line-width': 1.0,
+          'line-opacity': isDark ? 0.40 : 0.30,
+        },
+      });
+    } else {
+      map.setPaintProperty('country-highlight-trail-edge', 'line-color', pal.trail);
+      map.setPaintProperty('country-highlight-trail-edge', 'line-opacity', isDark ? 0.40 : 0.30);
+    }
   } catch {}
 
   // State/region boundary layers — GeoJSON, same glow+edge treatment as country highlight.
@@ -342,9 +360,9 @@ export function setHighlightPalette(map, { secondary = [], trail = '' } = {}) {
     });
   } catch {}
   try {
-    if (map.getLayer('country-highlight-trail-glow')) {
-      map.setFilter('country-highlight-trail-glow', ['==', 'iso_3166_1', trail]);
-    }
+    ['country-highlight-trail-glow', 'country-highlight-trail-edge'].forEach(id => {
+      if (map.getLayer(id)) map.setFilter(id, ['==', 'iso_3166_1', trail]);
+    });
   } catch {}
 }
 

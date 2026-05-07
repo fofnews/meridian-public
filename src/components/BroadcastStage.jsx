@@ -166,7 +166,7 @@ export default function BroadcastStage({
         updateHighlights(secondaryIsos);
       });
     }
-  }, [selectedIdx]);
+  }, [selectedIdx, stories]);
 
   const tickerRef = useRef(null);
   const [tickerDuration, setTickerDuration] = useState(null);

@@ -105,7 +105,7 @@ export default function MapHero({
         updateHighlights(secondaryIsos);
       });
     }
-  }, [selectedIdx]);
+  }, [selectedIdx, stories]);
 
   if (!featured) return null;
 
