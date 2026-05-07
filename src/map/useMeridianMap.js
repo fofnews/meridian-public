@@ -83,9 +83,13 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = fal
 
       rotationRef.current = startAmbientRotation(map);
 
-      // Pause rotation while the user is dragging or zooming so the rAF loop
-      // doesn't fight their input. Resume after DRAG_RESUME_MS of inactivity.
+      // Pause rotation the instant the user presses (mousedown/touchstart fires
+      // before Mapbox's drag threshold, so the rAF can't fight the interaction).
+      // Also cancels any in-progress flyTo so the map responds immediately.
+      // Resume rotation DRAG_RESUME_MS after the user lifts off.
       const onInteractStart = () => {
+        map.stop();
+        if (cinematicCancelRef.current) { cinematicCancelRef.current(); cinematicCancelRef.current = null; }
         rotationRef.current?.setActive(false);
         if (idleTimerRef.current) { clearTimeout(idleTimerRef.current); idleTimerRef.current = null; }
       };
@@ -96,10 +100,11 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = fal
           rotationRef.current?.setActive(true);
         }, DRAG_RESUME_MS);
       };
-      map.on('dragstart', onInteractStart);
-      map.on('zoomstart', onInteractStart);
+      map.on('mousedown', onInteractStart);
+      map.on('touchstart', onInteractStart);
+      map.on('mouseup', onInteractEnd);
       map.on('dragend', onInteractEnd);
-      map.on('zoomend', onInteractEnd);
+      map.on('touchend', onInteractEnd);
 
       // Drain any fly-to that was requested while we were loading.
       if (pendingFlyRef.current) {
