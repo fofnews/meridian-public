@@ -12,7 +12,7 @@
 
 import { useEffect, useRef, useCallback } from 'react';
 import { createMap } from './kernel.js';
-import { applyMapStyle, updateArcs as kernelUpdateArcs, clearArcs, setHighlightPalette } from './layers.js';
+import { applyMapStyle, updateArcs as kernelUpdateArcs, setHighlightPalette } from './layers.js';
 import { computeNightPolygon } from './terminator.js';
 import { updatePulseMarkerTheme } from './marker.js';
 import {
@@ -20,10 +20,12 @@ import {
   getMapPaddingBroadcast,
   flyToLocation as kernelFlyTo,
   cinematicFlyTo,
-  returnToAmbient,
   startAmbientRotation,
   AMBIENT_IDLE_TIMEOUT_MS,
 } from './camera.js';
+
+// How long after the user stops dragging/zooming before rotation resumes.
+const DRAG_RESUME_MS = 5_000;
 
 export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = false, broadcast = false }) {
   const mapContainer = useRef(null);
@@ -35,9 +37,8 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = fal
   // the target here so the init effect can apply it once ready.
   const pendingFlyRef = useRef(null);
   const currentPolygonRef = useRef(null);
-  // Ambient mode (item 0b): the globe rotates slowly until a story is
-  // focused; an idle timer flips it back to the wide view 30s after the
-  // last focus.
+  // Ambient mode (item 0b): the globe rotates slowly. Rotation pauses while
+  // a story is focused or the user is dragging; the idle timer resumes it.
   const rotationRef = useRef(null);
   const idleTimerRef = useRef(null);
   // Cancel function returned by cinematicFlyTo — called when a new fly
@@ -81,6 +82,24 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = fal
       markerRef.current = marker;
 
       rotationRef.current = startAmbientRotation(map);
+
+      // Pause rotation while the user is dragging or zooming so the rAF loop
+      // doesn't fight their input. Resume after DRAG_RESUME_MS of inactivity.
+      const onInteractStart = () => {
+        rotationRef.current?.setActive(false);
+        if (idleTimerRef.current) { clearTimeout(idleTimerRef.current); idleTimerRef.current = null; }
+      };
+      const onInteractEnd = () => {
+        if (idleTimerRef.current) clearTimeout(idleTimerRef.current);
+        idleTimerRef.current = setTimeout(() => {
+          idleTimerRef.current = null;
+          rotationRef.current?.setActive(true);
+        }, DRAG_RESUME_MS);
+      };
+      map.on('dragstart', onInteractStart);
+      map.on('zoomstart', onInteractStart);
+      map.on('dragend', onInteractEnd);
+      map.on('zoomend', onInteractEnd);
 
       // Drain any fly-to that was requested while we were loading.
       if (pendingFlyRef.current) {
@@ -182,13 +201,6 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = fal
   }, [isDark]);
 
   const enterAmbient = useCallback(() => {
-    if (!mapRef.current) return;
-    returnToAmbient(mapRef.current, markerRef.current);
-    clearArcs(mapRef.current);
-    setHighlightPalette(mapRef.current, { secondary: [], trail: '' });
-    activeIsoRef.current = '';
-    currentPolygonRef.current = null;
-    lastArcsRef.current = { articles: null, storyLoc: null };
     rotationRef.current?.setActive(true);
   }, []);
 
