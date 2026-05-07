@@ -246,5 +246,16 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = fal
     arcsCancelRef.current = kernelUpdateArcs(mapRef.current, articles, storyLoc);
   }, []);
 
-  return { mapContainer, mapRef, flyToLocation, enterAmbient, updateArcs, updateHighlights };
+  // Apply a boundary polygon to the state-boundary source without moving the
+  // camera. Used when the polygon fetch resolves after the flyTo has already
+  // started so the camera isn't re-triggered. Also updates currentPolygonRef
+  // so the polygon is restored correctly after a theme switch.
+  const applyBoundaryPolygon = useCallback((polygon) => {
+    currentPolygonRef.current = polygon ?? null;
+    if (!mapRef.current) return;
+    const src = mapRef.current.getSource('state-boundary');
+    if (src) src.setData(polygon ?? { type: 'FeatureCollection', features: [] });
+  }, []);
+
+  return { mapContainer, mapRef, flyToLocation, enterAmbient, updateArcs, updateHighlights, applyBoundaryPolygon };
 }

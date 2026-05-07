@@ -35,4 +35,12 @@ function checkBordersPosition(style, name) {
 checkBordersPosition(dark, 'dark');
 checkBordersPosition(light, 'light');
 
+// Self-hosted glyphs + Playfair Display typography
+assert(dark.glyphs === '/fonts/{fontstack}/{range}.pbf', 'dark glyphs URL');
+assert(light.glyphs === '/fonts/{fontstack}/{range}.pbf', 'light glyphs URL');
+const darkCountryFont = dark.layers.find(l => l.id === 'country-label')?.layout?.['text-font'];
+assert(Array.isArray(darkCountryFont) && darkCountryFont[0] === 'Playfair Display Bold', 'dark country-label font');
+const lightCountryFont = light.layers.find(l => l.id === 'country-label')?.layout?.['text-font'];
+assert(Array.isArray(lightCountryFont) && lightCountryFont[0] === 'Playfair Display Bold', 'light country-label font');
+
 console.log('All assertions passed.');
