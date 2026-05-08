@@ -1471,6 +1471,11 @@
           "date": "2026-05-08",
           "edition": "morning",
           "update": "Iran fired on U.S. Navy destroyers in the Strait of Hormuz on Thursday, which U.S. officials characterized as unprovoked. CENTCOM confirmed the U.S. conducted retaliatory 'self-defense' strikes against Iranian targets in response."
+        },
+        {
+          "date": "2026-05-08",
+          "edition": "evening",
+          "update": "Despite Trump stating late Thursday that the U.S.-Iran ceasefire remains in effect, a fresh exchange of fire occurred between U.S. and Iranian forces in the Strait of Hormuz."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2347,7 +2352,22 @@
           "update": "Rep. Pramila Jayapal admitted to working with Mexico on facilitating oil transfers to Cuba despite U.S. sanctions, and faced backlash following the admission."
         }
       ]
+    },
+    {
+      "id": "russia-ukraine-ceasefire-negotiations",
+      "title": "Russia-Ukraine Ceasefire Negotiations",
+      "parentId": null,
+      "firstSeen": "2026-05-08",
+      "lastSeen": "2026-05-08",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-05-08",
+          "edition": "evening",
+          "update": "Trump announced a three-day ceasefire between Russia and Ukraine running from May 9 to May 11, timed to coincide with Russia's Victory Day celebrations, along with a prisoner swap agreement."
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-05-08T11:03:54.090Z"
+  "updatedAt": "2026-05-08T21:03:53.050Z"
 }
