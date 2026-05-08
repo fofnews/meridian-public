@@ -315,5 +315,34 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-08T05:30:01.640Z"
+  },
+  {
+    "title": "What early election results show us in maps and charts",
+    "description": "See which parties are winning - and losing – across the UK and who’s won in your area, using our interactive tool.",
+    "link": "https://www.bbc.com/news/articles/c0ljrp76ywxo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 08 May 2026 05:07:31 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-08T05:45:01.608Z"
+  },
+  {
+    "title": "March Madness tournaments will expand to 76 teams each starting next season",
+    "description": "The NCAA will expand its March Madness tournaments by eight teams each next season. It will add more early-round games in the first week without altering the overall format.",
+    "link": "https://www.npr.org/2026/05/08/g-s1-121050/march-madness-tournaments-expansion",
+    "pubDate": "Fri, 08 May 2026 01:31:58 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-05-08T05:45:01.608Z"
+  },
+  {
+    "title": "Ex-prisoners recount abuse in Israeli detention centres",
+    "description": "Former Palestinian detainees are speaking out about torture and sexual violence they faced in Israeli detention.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/ex-prisoners-recount-abuse-in-israeli-detention-centres?traffic_source=rss",
+    "pubDate": "Fri, 08 May 2026 05:21:22 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "newsfeed"
+    ],
+    "collectedAt": "2026-05-08T05:45:01.608Z"
   }
 ]
