@@ -249,5 +249,53 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-08T05:00:01.201Z"
+  },
+  {
+    "title": "Labour expected to lose Senedd after century of winning elections in Wales",
+    "description": "Labour sources have told the BBC the party's century-long winning run is expected to come to an end.",
+    "link": "https://www.bbc.com/news/articles/cdrpxvz61vko?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 08 May 2026 05:03:27 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-08T05:15:02.271Z"
+  },
+  {
+    "title": "Six things to watch out for in the Scottish election",
+    "description": "Results are expected to be announced across the country from early on Friday afternoon.",
+    "link": "https://www.bbc.com/news/articles/cn4pyrnmplgo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 08 May 2026 05:08:09 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-08T05:15:02.271Z"
+  },
+  {
+    "title": "North Korea says it will deploy new artillery guns targeting Seoul",
+    "description": "North Korea says it'll deploy new long-range artillery systems capable of striking the capital region of rival South Korea this year and commission its first naval destroyer in coming weeks.",
+    "link": "https://www.npr.org/2026/05/08/g-s1-121048/north-korea-new-artillery-guns-targeting-seoul",
+    "pubDate": "Fri, 08 May 2026 01:04:37 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-05-08T05:15:02.271Z"
+  },
+  {
+    "title": "Trump motorcade drives across Lincoln Memorial Reflecting Pool to inspect renovation efforts",
+    "description": "President Donald Trump inspected the progress on the renovation of the Lincoln Memorial Reflecting Pool on Thursday evening. In doing so, the presidential motorcade drove across the drained pool’s surface to inspect the new “American flag blue” protective coating being installed.  Afterward, the president exited his vehicle and answered questions from the media. He was […]",
+    "link": "https://www.washingtonexaminer.com/news/4560255/trump-motorcade-lincoln-memorial-reflecting-pool/",
+    "pubDate": "Fri, 08 May 2026 05:12:51 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "abraham lincoln",
+      "donald trump",
+      "doug burgum",
+      "markwayne mullin",
+      "memorials",
+      "president donald trump",
+      "tom homan",
+      "trump administration",
+      "washington d.c",
+      "washington monument"
+    ],
+    "collectedAt": "2026-05-08T05:15:02.271Z"
   }
 ]
