@@ -196,5 +196,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-09T05:45:01.620Z"
+  },
+  {
+    "title": "Russia's Famed Victory Day Falls Short of Triumph",
+    "description": "Russian President Vladimir Putin used Victory Day in 2022 to justify the Russian invasion of Ukraine, which had just got underway.",
+    "link": "https://www.newsweek.com/russia-military-capabilities-today-may-9-victory-day-11912911",
+    "pubDate": "Sat, 09 May 2026 02:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-09T06:15:01.301Z"
+  },
+  {
+    "title": "Wembanyama powers Spurs past T-Wolves as Knicks beat Sixers in NBA playoffs",
+    "description": "San Antonio take 2-1 semifinal series lead over Minnesota, while New York Knicks 3-0 up against Philadelphia 76ers.",
+    "link": "https://www.aljazeera.com/sports/2026/5/9/wembanyama-powers-spurs-past-t-wolves-as-knicks-beat-sixers-in-nba-playoffs?traffic_source=rss",
+    "pubDate": "Sat, 09 May 2026 05:57:54 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-05-09T06:15:01.301Z"
   }
 ]
