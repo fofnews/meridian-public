@@ -2145,7 +2145,7 @@
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
       "lastSeen": "2026-04-09",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-03-29",
@@ -2258,7 +2258,7 @@
       "title": "US Military Operations Eastern Pacific",
       "parentId": null,
       "firstSeen": "2026-04-27",
-      "lastSeen": "2026-05-05",
+      "lastSeen": "2026-05-09",
       "active": true,
       "entries": [
         {
@@ -2270,6 +2270,11 @@
           "date": "2026-05-05",
           "edition": "morning",
           "update": "A separate U.S. military strike targeting a boat accused of carrying drugs in the Caribbean Sea on Monday killed two people. This follows a similar strike in the eastern Pacific the previous day."
+        },
+        {
+          "date": "2026-05-09",
+          "edition": "morning",
+          "update": "A U.S. military strike on an alleged drug-trafficking boat in the eastern Pacific Ocean killed two men, leaving one survivor. The strike is the latest in a series of such operations conducted by the military in the region."
         }
       ]
     },
@@ -2369,5 +2374,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-08T21:03:53.050Z"
+  "updatedAt": "2026-05-09T11:02:49.257Z"
 }
