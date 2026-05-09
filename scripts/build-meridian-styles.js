@@ -140,7 +140,7 @@ function buildLight(style) {
     'text-halo-color': 'rgba(245,242,237,0.85)',
     'text-halo-width': 1.5,
   });
-  setLayerLayout(style, 'country-label', { 'text-size': 20 });
+  setLayerLayout(style, 'country-label', { 'text-size': COUNTRY_LABEL_TEXT_SIZE });
   applyTypography(style);
   patchAdmin1(style, { 'line-color': 'rgba(10,24,40,0.15)', 'line-width': 0.5 });
   addCountryBordersLayer(style, {
