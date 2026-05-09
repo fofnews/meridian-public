@@ -254,5 +254,34 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-09T06:45:02.061Z"
+  },
+  {
+    "title": "Frontier Airlines jet reports striking an individual on runway at Denver airport",
+    "description": "A Frontier Airlines flight taking off for Los Angeles from Denver International Airport on Friday night appeared to strike an individual walking on runway 17L.",
+    "link": "https://abcnews.com/US/frontier-airlines-jet-reports-striking-individual-walking-runway/story?id=132805804",
+    "pubDate": "Sat, 09 May 2026 02:56:52 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-05-09T07:00:01.618Z"
+  },
+  {
+    "title": "Utah Supreme Court justice resigns amid probe into alleged relationship with redistricting attorney",
+    "description": "A Utah Supreme Court justice has resigned amid a probe into an alleged relationship with an attorney who worked on a redistricting lawsuit.",
+    "link": "https://nypost.com/2026/05/09/us-news/utah-supreme-court-justice-diana-hagen-resigns-after-investigation-into-affair-with-attorney-david-reymann/",
+    "pubDate": "Sat, 09 May 2026 02:57:37 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-09T07:00:01.618Z"
+  },
+  {
+    "title": "US moving to evacuate American passengers aboard hantavirus cruise ship, quarantine in Nebraska",
+    "description": "President Trump said earlier Friday that the situation appears to be under control, pointing to the virus being difficult to transmit.",
+    "link": "https://nypost.com/2026/05/09/us-news/us-moving-to-evacuate-american-passengers-aboard-hantavirus-cruise-ship-quarantine-in-nebraska/",
+    "pubDate": "Sat, 09 May 2026 02:48:57 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-09T07:00:01.618Z"
   }
 ]
