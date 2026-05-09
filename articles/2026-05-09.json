@@ -482,5 +482,25 @@
       "news"
     ],
     "collectedAt": "2026-05-09T08:45:02.028Z"
+  },
+  {
+    "title": "More than 200,000 migrants have crossed Channel in small boats since 2018",
+    "description": "More than 6,000 people crossed the Channel so far this year, 36% below the total for the same time last year",
+    "link": "https://www.bbc.com/news/articles/cx249y1jew2o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 09 May 2026 08:43:43 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-09T09:00:01.343Z"
+  },
+  {
+    "title": "Hantavirus live updates: CDC tells US doctors be aware of imported hantavirus cases",
+    "description": "The MV Hondius cruise ship, on which the hantavirus infection was identified, is making its way to the Canary Islands.",
+    "link": "https://abcnews.com/International/live-updates/hantavirus-live-updates-mv-hondius-canary-islands/?id=132746955",
+    "pubDate": "Sat, 09 May 2026 04:58:12 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-05-09T09:00:01.343Z"
   }
 ]
