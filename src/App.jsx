@@ -12,10 +12,15 @@ import { useTheme } from './ThemeContext.jsx';
 
 export default function App() {
   const { isDark, toggleTheme } = useTheme();
-  const [isBroadcast, shotlistUrl] = useMemo(() => {
+  const [isBroadcast, shotlistUrl, broadcastDate, broadcastEdition] = useMemo(() => {
     const params = new URLSearchParams(window.location.search);
     const broadcast = params.get('mode') === 'broadcast';
-    return [broadcast, broadcast ? (params.get('shotlist') ?? null) : null];
+    return [
+      broadcast,
+      broadcast ? (params.get('shotlist') ?? null) : null,
+      broadcast ? (params.get('date') ?? null) : null,
+      broadcast ? (params.get('edition') ?? null) : null,
+    ];
   }, []);
   const [report, setReport] = useState(null);
   const [availableDates, setAvailableDates] = useState([]);
@@ -77,6 +82,10 @@ export default function App() {
       .then(dates => {
         setAvailableDates(dates);
         if (!dates.length) { setLoading(false); return; }
+        if (broadcastDate && broadcastEdition) {
+          loadReport(broadcastDate, broadcastEdition);
+          return;
+        }
         const [{ date, editions }] = dates;
         const edition = editions.includes('evening') ? 'evening'
           : editions.includes('morning') ? 'morning'
@@ -84,7 +93,7 @@ export default function App() {
         loadReport(date, edition);
       })
       .catch(() => setLoading(false));
-  }, [loadReport]);
+  }, [loadReport, broadcastDate, broadcastEdition]);
 
   // Defensive: if a story's `articles` is missing or malformed, treat it as
   // zero sources rather than throwing during App render (which would escape

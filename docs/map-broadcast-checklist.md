@@ -2,7 +2,7 @@
 
 Goal: turn `BroadcastHero`'s Mapbox map from an interactive info widget into a video-grade backdrop for news clips generated from Meridian reports, then build the recording pipeline that turns each daily edition into publishable video.
 
-**Status:** 23 / 23 complete · Last updated: 2026-05-06
+**Status:** 23 / 23 complete · Last updated: 2026-05-09
 
 To resume work in a new session: ask Claude to read `docs/map-broadcast-checklist.md`.
 
@@ -157,4 +157,16 @@ Pipeline shape: **report JSON → shot list JSON → headless browser playback �
 
 ## Notes / decisions log
 
-_Add notes here as we work through items — what was tried, what was rejected, follow-ups._
+### 2026-05-09 — First live broadcast test (bugs fixed)
+
+Five issues surfaced during first `?mode=broadcast` browser test:
+
+1. **Broadcast showed fallback screen** — `App.jsx` defaulted to the most recent date (`2026-05-08`, articles-only, no report). Fixed by adding `?date=` and `?edition=` URL params so broadcast mode can target a specific edition. Full URL format: `/?mode=broadcast&date=YYYY-MM-DD&edition=morning|evening&shotlist=/out/shotlists/<edition>.json`.
+
+2. **Black screen (pre-roll overlay stuck)** — shotlist fetch was CORS-blocked (`localhost:5174 → localhost:3002` is cross-origin). Fixed by adding `/out` to the Vite proxy in `vite.config.js`. Shotlist URL must be relative (`/out/...`).
+
+3. **`line-trim-offset[1] > 1` Mapbox error** — rAF timestamp represents frame-start time; `performance.now()` called mid-frame can be fractionally later, making `t` slightly negative and `(1-t)**3` slightly above 1. Fixed with `Math.max(0, Math.min(1, ...))` clamp in `layers.js`.
+
+4. **Arcs layers not found on first shot** — `createMap` resolves before `map.on('load')` fires (which is where `applyMapStyle` adds the arc layers). First shot at `PRE_ROLL_MS = 1s` could arrive before layers exist. Fixed in `useMeridianMap.js`: `updateArcs` guards on `map.getLayer('arcs-glow')`; init effect adds `map.once('load', drainPendingArcs)` to re-apply deferred arcs after layers are added.
+
+5. **Mapbox tile 404s** — normal; Mapbox returns 404 for empty vector tiles (ocean, no-data zoom levels). Not an error.

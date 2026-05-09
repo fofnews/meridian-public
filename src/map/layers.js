@@ -331,7 +331,7 @@ export function updateArcs(map, articles, storyLoc) {
     if (cancelled) return;
     const t = Math.min((now - start) / DURATION_MS, 1);
     const eased = 1 - (1 - t) ** 3; // cubic ease-out
-    const trimEnd = 1 - eased;
+    const trimEnd = Math.max(0, Math.min(1, 1 - eased));
     try {
       map.setPaintProperty('arcs-glow', 'line-trim-offset', [0, trimEnd]);
       map.setPaintProperty('arcs-edge', 'line-trim-offset', [0, trimEnd]);

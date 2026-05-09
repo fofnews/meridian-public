@@ -1034,7 +1034,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-05-07",
+      "lastSeen": "2026-05-08",
       "active": true,
       "entries": [
         {
@@ -1466,6 +1466,16 @@
           "date": "2026-05-07",
           "edition": "evening",
           "update": "The DOJ is investigating approximately $2.6 billion in suspicious oil market trades allegedly timed ahead of major announcements related to Iran that were connected to President Trump. Separately, shipping data indicates the UAE has been moving oil tankers through the Strait of Hormuz using concealment methods while navigating near Iranian-controlled waters. Rep. Tom Barrett (R-MI), facing a tough re-election race, introduced a bill that would impose limits on U.S. military force in Iran and set a deadline to end the war by late July."
+        },
+        {
+          "date": "2026-05-08",
+          "edition": "morning",
+          "update": "Iran fired on U.S. Navy destroyers in the Strait of Hormuz on Thursday, which U.S. officials characterized as unprovoked. CENTCOM confirmed the U.S. conducted retaliatory 'self-defense' strikes against Iranian targets in response."
+        },
+        {
+          "date": "2026-05-08",
+          "edition": "evening",
+          "update": "Despite Trump stating late Thursday that the U.S.-Iran ceasefire remains in effect, a fresh exchange of fire occurred between U.S. and Iranian forces in the Strait of Hormuz."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1474,7 +1484,7 @@
       "id": "iran-strait-of-hormuz-crisis",
       "title": "Iran Strait of Hormuz Crisis",
       "firstSeen": "2026-03-10",
-      "lastSeen": "2026-05-04",
+      "lastSeen": "2026-05-08",
       "active": true,
       "entries": [
         {
@@ -1706,6 +1716,11 @@
           "date": "2026-05-04",
           "edition": "evening",
           "update": "President Trump announced the U.S. would escort ships through the Strait of Hormuz, and the U.S. military confirmed on Monday that two American ships successfully transited the waterway. Iran responded to Trump's announcement with threats warning against foreign armed forces transiting the strait, and multiple ships remain trapped in the waterway due to the ongoing conflict."
+        },
+        {
+          "date": "2026-05-08",
+          "edition": "morning",
+          "update": "Iran accused the United States of violating the ceasefire following an exchange of fire in the Strait of Hormuz, while Trump stated the ceasefire remains in effect."
         }
       ],
       "parentId": null
@@ -2175,7 +2190,7 @@
       "title": "Journalist Abductions and Releases",
       "firstSeen": "2026-04-07",
       "lastSeen": "2026-04-08",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-04-07",
@@ -2195,7 +2210,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-07",
+      "lastSeen": "2026-05-08",
       "active": true
     },
     {
@@ -2337,7 +2352,22 @@
           "update": "Rep. Pramila Jayapal admitted to working with Mexico on facilitating oil transfers to Cuba despite U.S. sanctions, and faced backlash following the admission."
         }
       ]
+    },
+    {
+      "id": "russia-ukraine-ceasefire-negotiations",
+      "title": "Russia-Ukraine Ceasefire Negotiations",
+      "parentId": null,
+      "firstSeen": "2026-05-08",
+      "lastSeen": "2026-05-08",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-05-08",
+          "edition": "evening",
+          "update": "Trump announced a three-day ceasefire between Russia and Ukraine running from May 9 to May 11, timed to coincide with Russia's Victory Day celebrations, along with a prisoner swap agreement."
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-05-07T21:04:19.297Z"
+  "updatedAt": "2026-05-08T21:03:53.050Z"
 }
