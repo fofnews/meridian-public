@@ -319,5 +319,36 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-09T07:30:01.367Z"
+  },
+  {
+    "title": "Israeli settlers set fire to homes and cars in violent West Bank raids",
+    "description": "Dozens of Israeli settlers stormed various areas of the West Bank, set cars on fire, and attacked Palestinians.",
+    "link": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-set-fire-to-homes-and-cars-in-violent-west-bank-raids?traffic_source=rss",
+    "pubDate": "Sat, 09 May 2026 07:18:27 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-09T07:45:01.960Z"
+  },
+  {
+    "title": "Financial struggles burden Yemen’s army as soldiers wait for wages",
+    "description": "Yemeni soldiers earn $38 to $116 monthly, but an unstable currency has eroded the value of their salaries.",
+    "link": "https://www.aljazeera.com/news/2026/5/9/financial-struggles-haunt-yemens-army-as-wage-payments-stall?traffic_source=rss",
+    "pubDate": "Sat, 09 May 2026 07:11:53 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-09T07:45:01.960Z"
+  },
+  {
+    "title": "Mets’ Carson Benge gets clutch hit in 10th after being moved up to No. 5 hole",
+    "description": "Carson Benge’s recent surge has moved him to the middle of the Mets batting order.",
+    "link": "https://nypost.com/2026/05/09/sports/mets-carson-benge-gets-clutch-hit-in-10th-after-being-moved-up-to-no-5-hole/",
+    "pubDate": "Sat, 09 May 2026 03:33:34 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-09T07:45:01.960Z"
   }
 ]
