@@ -462,5 +462,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-09T08:30:01.244Z"
+  },
+  {
+    "title": "Putin denounces Nato at scaled back Victory Day parade",
+    "description": "The Russian leader used his annual speech to justify his so-called special military operation in Ukraine.",
+    "link": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 09 May 2026 08:27:48 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-09T08:45:02.028Z"
+  },
+  {
+    "title": "Russia holds downsized Victory Day parade",
+    "description": "Putin is set to speak at the World War II commemoration, which is scaled back this year due to security concerns.",
+    "link": "https://www.aljazeera.com/news/2026/5/9/russia-holds-downsized-victory-day?traffic_source=rss",
+    "pubDate": "Sat, 09 May 2026 08:07:57 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-09T08:45:02.028Z"
   }
 ]
