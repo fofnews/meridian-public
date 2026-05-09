@@ -1927,5 +1927,151 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-09T12:30:01.217Z"
+  },
+  {
+    "title": "With Gas Above $6, Gavin Newsom Rejects Green Tax Holiday",
+    "description": "Under Newsom, California has maintained some of the nation’s highest environmental taxes tied to the oil and gas industry.",
+    "link": "https://www.newsweek.com/with-gas-above-6-gavin-newsom-rejects-green-tax-holiday-11932083",
+    "pubDate": "Sat, 09 May 2026 08:34:21 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-09T12:45:01.651Z"
+  },
+  {
+    "title": "Trump says hantavirus is ‘under control’ as WHO tracks cruise outbreak",
+    "description": "US President Donald Trump says a hantavirus cruise ship cluster is ‘under very good control.’",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/9/trump-says-hantavirus-is-under-control-as-who-tracks-cruise-outbreak?traffic_source=rss",
+    "pubDate": "Sat, 09 May 2026 12:35:02 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-05-09T12:45:01.651Z"
+  },
+  {
+    "title": "Australia’s populist One Nation scores first-ever lower house victory",
+    "description": "The far-right party's winning candidate, David Farley, has advocated for stricter migration and farming reforms.",
+    "link": "https://www.aljazeera.com/news/2026/5/9/australias-populist-one-nation-scores-first-ever-lower-house-victory?traffic_source=rss",
+    "pubDate": "Sat, 09 May 2026 12:20:05 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-09T12:45:01.651Z"
+  },
+  {
+    "title": "The most prestigious job in AI has no description",
+    "description": "Everyone from Anthropic to tiny startups is hiring for the “member of technical staff” — but does anyone know what it means?",
+    "link": "https://www.marketwatch.com/story/the-most-prestigious-job-in-ai-has-no-description-d517601f?mod=mw_rss_topstories",
+    "pubDate": "Sat, 09 May 2026 12:30:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-05-09T12:45:01.651Z"
+  },
+  {
+    "title": "More Americans are buying homes to fit multiple generations: ‘It answered a lot of prayers’",
+    "description": "Multigenerational living is expected to get even more popular as baby boomers age.",
+    "link": "https://www.marketwatch.com/story/more-americans-are-buying-homes-to-fit-multiple-generations-it-answered-a-lot-of-prayers-00d0239d?mod=mw_rss_topstories",
+    "pubDate": "Sat, 09 May 2026 12:30:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-05-09T12:45:01.651Z"
+  },
+  {
+    "title": "Disappointed cruise passengers erupt as alcohol ban affects major voyages",
+    "description": "A temporary alcohol ban across the Bahamas during its upcoming election will leave cruise ship passengers unable to buy drinks on island stops.",
+    "link": "https://www.foxnews.com/travel/disappointed-cruise-passengers-erupt-alcohol-ban-affects-major-voyages",
+    "pubDate": "Sat, 09 May 2026 08:36:01 -0400",
+    "source": "Fox News",
+    "categories": [
+      "24ffb568-ed5b-596d-847e-92b8bcc725e5",
+      "fnc",
+      "fox news",
+      "fox-news/travel",
+      "fox-news/travel/regions/caribbean",
+      "fox-news/travel/general/cruises",
+      "fox-news/travel/vacation-destinations/bahamas",
+      "fox-news/beer",
+      "fox-news/travel/vacation-destinations",
+      "fox-news/food-drink/drinks/spirits",
+      "fox-news/travel",
+      "article"
+    ],
+    "collectedAt": "2026-05-09T12:45:01.651Z"
+  },
+  {
+    "title": "Fernando Tatis Jr. ripped for embarrassing fielding blunder that led to \"little league grand slam\"",
+    "description": "Fernando Tatis Jr. committed a brutal fielding error as his rough season continues with no home runs and a .248 average for the Padres.",
+    "link": "https://www.foxnews.com/outkick-sports/fernando-tatis-jr-ripped-embarrassing-fielding-blunder-led-little-league-grand-slam",
+    "pubDate": "Sat, 09 May 2026 08:33:37 -0400",
+    "source": "Fox News",
+    "categories": [
+      "77f7e241-2e7a-58a4-b826-98feff88d194",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/person/fernando-tatis-jr",
+      "fox-news/sports/mlb/san-diego-padres",
+      "fox-news/sports/mlb",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-05-09T12:45:01.651Z"
+  },
+  {
+    "title": "As Trump forces NATO to pay up, alliance races to close military gap with US",
+    "description": "Trump pressures NATO allies to boost defense spending as experts describe a decades-long commitment gap between political promises and military capability.",
+    "link": "https://www.foxnews.com/world/trump-forces-nato-pay-up-alliance-races-close-military-gap-us",
+    "pubDate": "Sat, 09 May 2026 08:30:58 -0400",
+    "source": "Fox News",
+    "categories": [
+      "9f9b598d-9cd8-5c47-b042-35b7bf39603b",
+      "fnc",
+      "fox news",
+      "fox-news/world/nato",
+      "fox-news/politics/defense",
+      "fox-news/politics/executive/national-security",
+      "fox-news/politics/foreign-policy/alliances",
+      "fox-news/politics/defense/spending",
+      "fox-news/world",
+      "article"
+    ],
+    "collectedAt": "2026-05-09T12:45:01.651Z"
+  },
+  {
+    "title": "Trump’s visit to Beijing brings hope for sister of Uyghur man detained in Chinese internment camp",
+    "description": "Ekpar Asat disappeared after returning to Xinjiang from a trip to Washington in 2016, where he'd flown to attend a State Department program for young leaders.",
+    "link": "https://nypost.com/2026/05/09/world-news/trumps-visit-to-beijing-brings-hope-for-sister-of-uyghur-man-detained-in-chinese-internment-camp/",
+    "pubDate": "Sat, 09 May 2026 08:37:45 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-09T12:45:01.651Z"
+  },
+  {
+    "title": "Joel Embiid alleges referee bias in Game 3 with 76ers’ hopes fading fast: ‘I guess it’s good when New York wins’",
+    "description": "Joel Embiid believes the fix is in.",
+    "link": "https://nypost.com/2026/05/09/sports/joel-embiid-alleges-referee-bias-in-game-3-with-76ers-hopes-fading-fast-i-guess-its-good-when-new-york-wins/",
+    "pubDate": "Sat, 09 May 2026 08:32:48 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-09T12:45:01.651Z"
+  },
+  {
+    "title": "First great white shark of season spotted off Jersey coast",
+    "description": "A great white shark named Nori, a 9-foot, 432-pound man-eating predator was spotted off the coast of New Jersey on May 4, the first shark seen surfacing as they begin their annual migration from the warm waters of the Caribbean and the Gulf of America up the east coast toward New York and New Jersey.",
+    "link": "https://nypost.com/2026/05/09/us-news/beachgoers-beware-first-great-white-of-season-spotted-off-jersey-coast/",
+    "pubDate": "Sat, 09 May 2026 08:30:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-09T12:45:01.651Z"
+  },
+  {
+    "title": "‘The Sheep Detectives’ Attempts to Redeem Hollywood’s Worst Genre: The Talking-Animal Movie",
+    "description": "Is this the least annoying talking-animal movie since the Babe series?!",
+    "link": "https://decider.com/2026/05/09/the-sheep-detectives-talking-animal-movies/",
+    "pubDate": "Sat, 09 May 2026 08:30:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-09T12:45:01.651Z"
   }
 ]
