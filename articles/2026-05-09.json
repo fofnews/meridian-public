@@ -386,5 +386,63 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-09T08:00:01.678Z"
+  },
+  {
+    "title": "'Illegal' traveller plot for sale on Facebook",
+    "description": "The four-acre site has been at the heart of an ongoing row with locals since Friday.",
+    "link": "https://www.bbc.com/news/articles/c0k2g81v6n8o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 09 May 2026 04:43:52 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-09T08:15:02.301Z"
+  },
+  {
+    "title": "Thomas Massie's Chances of Losing to MAGA Foe With Under 2 Weeks to Primary",
+    "description": "Polls point to a close race between Massie and Trump-backed challenger Ed Gallrein in the Kentucky primary.",
+    "link": "https://www.newsweek.com/thomas-massies-chances-of-losing-to-maga-foe-with-under-2-weeks-to-primary-11931174",
+    "pubDate": "Sat, 09 May 2026 04:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-09T08:15:02.301Z"
+  },
+  {
+    "title": "Spain’s Canary Islands brace for incoming hantavirus-stricken cruise ship",
+    "description": "140 passengers and crew on the MV Hondius vessel will be 'completely isolated' and evacuated, say Spanish authorities.",
+    "link": "https://www.aljazeera.com/news/2026/5/9/spains-canary-islands-brace-for-incoming-hantavirus-stricken-cruise-ship?traffic_source=rss",
+    "pubDate": "Sat, 09 May 2026 07:42:06 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-09T08:15:02.301Z"
+  },
+  {
+    "title": "US, Iran no closer to ending war as Gulf clashes flare - Reuters",
+    "description": "US, Iran no closer to ending war as Gulf clashes flare  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVlNJcVlISWZXdENyOVI2ZU50RS1KcnN2eEY0M25rNTI0eTdJTzFDSmlnSGRfX19RcmRSZ1dOYllLZG81Z0hDZGJmMVBhb0ctdVJCb3FFUDJyX1lYNm1fVXd5VFJGdk1EN2h3TEpyd1ByYVJ6TEZ0aXZjSllXR1cyTUtpRDdvZmItZG44ekJhQUpBanI5RncxLVRoQQ?oc=5",
+    "pubDate": "Sat, 09 May 2026 06:58:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-05-09T08:15:02.301Z"
+  },
+  {
+    "title": "Democrats shy away from questions on whether Harris should run for president in 2028",
+    "description": "House Democrats are shying away from endorsing Kamala Harris for a 2028 presidential run as names like Newsom, Shapiro and Whitmer are also being discussed.",
+    "link": "https://www.foxnews.com/politics/democrats-shy-away-questions-whether-harris-run-president-2028",
+    "pubDate": "Sat, 09 May 2026 04:00:36 -0400",
+    "source": "Fox News",
+    "categories": [
+      "eb52e7bc-b31c-541c-af62-14c85bea3320",
+      "fnc",
+      "fox news",
+      "fox-news/person/kamala-harris",
+      "fox-news/person/joe-biden",
+      "fox-news/person/gretchen-whitmer",
+      "fox-news/politics/state-and-local/governors",
+      "fox-news/democrats",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-05-09T08:15:02.301Z"
   }
 ]
