@@ -109,7 +109,9 @@ function buildDark(style) {
     'text-halo-color': 'rgba(0,0,0,0.6)',
     'text-halo-width': 1.5,
   });
-  setLayerLayout(style, 'country-label', { 'text-size': 20 });
+  setLayerLayout(style, 'country-label', {
+    'text-size': ['interpolate', ['linear'], ['zoom'], 1, 9, 4, 14, 7, 18, 10, 20],
+  });
   applyTypography(style);
   patchAdmin1(style, { 'line-color': 'rgba(180,190,220,0.2)', 'line-width': 0.5 });
   addCountryBordersLayer(style, {
@@ -131,7 +133,9 @@ function buildLight(style) {
     'text-halo-color': 'rgba(245,242,237,0.85)',
     'text-halo-width': 1.5,
   });
-  setLayerLayout(style, 'country-label', { 'text-size': 20 });
+  setLayerLayout(style, 'country-label', {
+    'text-size': ['interpolate', ['linear'], ['zoom'], 1, 9, 4, 14, 7, 18, 10, 20],
+  });
   applyTypography(style);
   patchAdmin1(style, { 'line-color': 'rgba(10,24,40,0.15)', 'line-width': 0.5 });
   addCountryBordersLayer(style, {

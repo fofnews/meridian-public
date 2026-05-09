@@ -106,6 +106,19 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = fal
       map.on('dragend', onInteractEnd);
       map.on('touchend', onInteractEnd);
 
+      // After style.load (kernel.js calls applyMapStyle there, adding arc layers),
+      // re-apply any arcs that arrived before the layers existed.
+      const drainPendingArcs = () => {
+        if (cancelled) return;
+        const { articles, storyLoc } = lastArcsRef.current;
+        if (articles && storyLoc) {
+          if (arcsCancelRef.current) { arcsCancelRef.current(); arcsCancelRef.current = null; }
+          arcsCancelRef.current = kernelUpdateArcs(map, articles, storyLoc);
+        }
+      };
+      if (map.isStyleLoaded()) drainPendingArcs();
+      else map.once('load', drainPendingArcs);
+
       // Drain any fly-to that was requested while we were loading.
       if (pendingFlyRef.current) {
         const loc = pendingFlyRef.current;
@@ -258,6 +271,7 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = fal
   const updateArcs = useCallback((articles, storyLoc) => {
     if (!mapRef.current) return;
     lastArcsRef.current = { articles, storyLoc };
+    if (!mapRef.current.getLayer('arcs-glow')) return; // style not loaded yet; init drainer will re-apply
     if (arcsCancelRef.current) {
       arcsCancelRef.current();
       arcsCancelRef.current = null;
