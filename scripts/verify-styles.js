@@ -43,6 +43,11 @@ assert(Array.isArray(darkCountryFont) && darkCountryFont[0] === 'Playfair Displa
 const lightCountryFont = light.layers.find(l => l.id === 'country-label')?.layout?.['text-font'];
 assert(Array.isArray(lightCountryFont) && lightCountryFont[0] === 'Playfair Display Bold', 'light country-label font');
 
+const darkCountrySize = dark.layers.find(l => l.id === 'country-label')?.layout?.['text-size'];
+assert(Array.isArray(darkCountrySize) && darkCountrySize[0] === 'interpolate', 'dark country-label text-size must be interpolated (not static)');
+const lightCountrySize = light.layers.find(l => l.id === 'country-label')?.layout?.['text-size'];
+assert(Array.isArray(lightCountrySize) && lightCountrySize[0] === 'interpolate', 'light country-label text-size must be interpolated (not static)');
+
 // Fog must not be baked into the style files — it is set at runtime by applyMapStyle.
 assert(!dark.fog, 'dark style must not contain fog (set at runtime)');
 assert(!light.fog, 'light style must not contain fog (set at runtime)');
