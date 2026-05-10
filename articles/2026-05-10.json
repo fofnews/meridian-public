@@ -1828,5 +1828,50 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-10T12:15:01.348Z"
+  },
+  {
+    "title": "Temple Israel rebuilds after terror attack",
+    "description": "Two months ago, a gunman drove through the preschool at Temple Israel, the largest synagogue in Michigan. Every child and teacher survived, but the community is still displaced and navigating the trauma of the attack.",
+    "link": "https://www.npr.org/2026/05/10/nx-s1-5810635/temple-israel-rebuilds-after-terror-attack",
+    "pubDate": "Sun, 10 May 2026 08:12:10 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-05-10T12:30:01.233Z"
+  },
+  {
+    "title": "I was a slave to credit-card debt, then I got laid off and turned my life around. Here’s how I did it.",
+    "description": "“I have steadily increased my assets by more than 10% since being laid off.”",
+    "link": "https://www.marketwatch.com/story/americans-love-their-rose-colored-glasses-i-was-a-slave-to-credit-card-debt-then-i-got-laid-off-and-turned-my-life-around-32ba4d4c?mod=mw_rss_topstories",
+    "pubDate": "Sun, 10 May 2026 12:25:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-05-10T12:30:01.233Z"
+  },
+  {
+    "title": "EBay permanently bans GameStop CEO Ryan Cohen for putting its community ‘at risk’ following takeover attempt",
+    "description": "The GameStop chief, who proposed acquiring eBay for $55.5 billion Monday, was selling GameStop-related merchandise through his account.",
+    "link": "https://www.marketwatch.com/story/ebay-permanently-bans-gamestop-ceo-ryan-cohen-for-putting-its-community-at-risk-following-takeover-attempt-71b44c37?mod=mw_rss_topstories",
+    "pubDate": "Sun, 10 May 2026 12:23:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-05-10T12:30:01.233Z"
+  },
+  {
+    "title": "UFC great Jim Miller picks up victory in first fight since son's cancer battle, makes heartwarming reveal",
+    "description": "Jim Miller made an emotional UFC return at UFC 328, defeating Jared Gordon via submission after his son Wyatt's recovery from a rare cancer diagnosis.",
+    "link": "https://www.foxnews.com/sports/ufc-great-jim-miller-picks-victory-first-fight-since-sons-cancer-battle-makes-heartwarming-reveal",
+    "pubDate": "Sun, 10 May 2026 08:22:13 -0400",
+    "source": "Fox News",
+    "categories": [
+      "e849ade2-782e-56e6-9e7b-5cf9727cd5e8",
+      "fnc",
+      "fox news",
+      "fox-news/sports/ufc",
+      "fox-news/sports",
+      "fox-news/topic/trending-news",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-05-10T12:30:01.233Z"
   }
 ]
