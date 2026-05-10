@@ -6274,5 +6274,88 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-05-10T22:00:01.778Z"
+  },
+  {
+    "title": "Here’s the biggest news you missed this weekend",
+    "description": "Iran responded to a U.S. proposal to bring an end to the war in the Middle East, Tehran’s state media reported Sunday",
+    "link": "https://www.nbcnews.com/news/us-news/weekend-rundown-may-10-rcna344141",
+    "pubDate": "Sun, 10 May 2026 22:00:00 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-05-10T22:15:01.385Z"
+  },
+  {
+    "title": "Powell’s legacy as Fed chair is fighting inflation and Trump. He may lose the battle against both.",
+    "description": "Jerome Powell will be remembered for how the struggles against inflation and to preserve Federal Reserve independence ultimately end.",
+    "link": "https://www.marketwatch.com/story/powells-legacy-as-fed-chair-is-fighting-inflation-and-trump-he-may-lose-the-battle-against-both-aeb32f89?mod=mw_rss_topstories",
+    "pubDate": "Sun, 10 May 2026 22:00:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-05-10T22:15:01.385Z"
+  },
+  {
+    "title": "China’s undersea cable threat raises $10T fears as Trump-Xi talks loom",
+    "description": "Former intelligence official warns China and Russia can inflict devastating economic chaos by targeting undersea cables carrying 99% of global data.",
+    "link": "https://www.foxnews.com/world/chinas-undersea-cable-threat-raises-10t-fears-trump-xi-talks-loom",
+    "pubDate": "Sun, 10 May 2026 18:05:51 -0400",
+    "source": "Fox News",
+    "categories": [
+      "ec6f798d-8b2a-5b60-9ff4-9b85d73cf5a9",
+      "fnc",
+      "fox news",
+      "fox-news/world/world-regions/taiwan",
+      "fox-news/tech/topics/pentagon",
+      "fox-news/us/economy",
+      "fox-news/us",
+      "fox-news/world/global-economy/trade",
+      "fox-news/world",
+      "article"
+    ],
+    "collectedAt": "2026-05-10T22:15:01.385Z"
+  },
+  {
+    "title": "AOC triples down, claims American Revolution was against 'the billionaires of their time'",
+    "description": "Rep. Alexandria Ocasio-Cortez claimed the American Revolution was against the \"billionaires of their time,\" drawing sharp criticism from conservatives.",
+    "link": "https://www.foxnews.com/media/aoc-triples-claims-american-revolution-billionaires-time",
+    "pubDate": "Sun, 10 May 2026 18:00:40 -0400",
+    "source": "Fox News",
+    "categories": [
+      "09794dd3-8bf4-537d-9f93-87f917c8fd96",
+      "fnc",
+      "fox news",
+      "fox-news/media",
+      "fox-news/person/alexandria-ocasio-cortez",
+      "fox-news/us/democratic-party",
+      "fox-news/media",
+      "article"
+    ],
+    "collectedAt": "2026-05-10T22:15:01.385Z"
+  },
+  {
+    "title": "NBA mock draft 1.0: Predicting top 14 first-round selections after lottery",
+    "description": "Here is The Post's first NBA mock draft after Sunday's lottery.",
+    "link": "https://nypost.com/2026/05/10/sports/nba-mock-draft-1-0-predicting-top-14-first-round-selections/",
+    "pubDate": "Sun, 10 May 2026 18:14:34 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-10T22:15:01.385Z"
+  },
+  {
+    "title": "Knicks advance to second straight Eastern Conference finals by destroying 76ers to finish sweep",
+    "description": "For the second consecutive year, the Knicks' season will reach the Eastern Conference finals. And for the second consecutive series, they closed it out with a blowout.",
+    "link": "https://nypost.com/2026/05/10/sports/knicks-advance-to-eastern-conference-finals-again-sweep-76ers/",
+    "pubDate": "Sun, 10 May 2026 18:11:21 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-10T22:15:01.385Z"
+  },
+  {
+    "title": "Trump: Schumer Task Force Plotting Election Interference - Newsmax",
+    "description": "Trump: Schumer Task Force Plotting Election Interference  Newsmax",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR045cUkwMGFpZm9PTWlCQktGZFlaVEYtS3RiMlRicTE4WG1iR2NQSEMzaDhZVEtEVUxGSUZMUE95bXVERjJOXzhSaHZTRFlEdXltSGpVOVBBcmVjdDM4NFJraXdYV0kxWW5JZlExWEN1NzlQbzBtMEg3ckd5a0N4bm9BUjU2MjFtazRBT2xyVDEwWkFFM3c?oc=5",
+    "pubDate": "Sun, 10 May 2026 20:06:56 GMT",
+    "source": "Newsmax",
+    "categories": [],
+    "collectedAt": "2026-05-10T22:15:01.385Z"
   }
 ]
