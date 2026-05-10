@@ -77,5 +77,56 @@
       "news"
     ],
     "collectedAt": "2026-05-10T05:00:01.397Z"
+  },
+  {
+    "title": "Tenerife medics poised to receive virus-hit cruise ship passengers",
+    "description": "BBC's Sarah Rainsford reports from the port in Tenerife where the MV Hondius is soon to dock, after a deadly hantavirus outbreak.",
+    "link": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 10 May 2026 05:09:52 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-10T05:15:01.666Z"
+  },
+  {
+    "title": "Cruise ship stricken by hantavirus reaches Canary Islands before planned evacuations",
+    "description": "Health officials will begin the complex process of evacuating the passengers and most of the crew, and repatriating them to their respective countries.",
+    "link": "https://www.cbsnews.com/news/cruise-ship-stricken-by-hantavirus-reaches-canary-islands/",
+    "pubDate": "Sun, 10 May 2026 01:04:04 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-05-10T05:15:01.666Z"
+  },
+  {
+    "title": "Kristin Smart Search Ends Without Recovery of Remains at California Property",
+    "description": "A new lead brought investigators back to a property just south of San Luis Obispo, Calif., tied to the family of the man convicted of killing Ms. Smart, a student, 30 years ago.",
+    "link": "https://www.nytimes.com/2026/05/09/us/kristin-smart-search-no-remains-recovered-california-property.html",
+    "pubDate": "Sun, 10 May 2026 04:59:10 +0000",
+    "source": "NY Times",
+    "categories": [
+      "missing persons",
+      "murders, attempted murders and homicides",
+      "smart, kristin (d 1996)",
+      "california",
+      "flores, paul (1976- )"
+    ],
+    "collectedAt": "2026-05-10T05:15:01.666Z"
+  },
+  {
+    "title": "Hantavirus-stricken cruise ship arrives in Tenerife",
+    "description": "TENERIFE, Spain — The cruise ship at the center of a deadly hantavirus outbreak arrived early Sunday off the Spanish island of Tenerife, where the process of sending passengers back to their home countries will get underway.",
+    "link": "https://www.nbcnews.com/health/health-news/hantavirus-stricken-cruise-ship-arrives-tenerife-rcna344318",
+    "pubDate": "Sun, 10 May 2026 05:01:11 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-05-10T05:15:01.666Z"
+  },
+  {
+    "title": "Influencer James Charles torched after blasting canned Spirit Airlines staffer as ‘lazy piece of s–t’ over donation plea",
+    "description": "While the sudden shutdown cost some 17,000 jobs – Charles raged that the sacked staffer should have focused on \"getting another job\" instead of sending him a \"f–k ass message.\"",
+    "link": "https://nypost.com/2026/05/10/us-news/influencer-james-charles-torched-after-blasting-canned-spirit-airlines-staffer-as-lazy-piece-of-s-t/",
+    "pubDate": "Sun, 10 May 2026 01:09:32 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-10T05:15:01.666Z"
   }
 ]
