@@ -214,7 +214,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-04-21",
+      "lastSeen": "2026-05-10",
       "active": true,
       "entries": [
         {
@@ -286,6 +286,11 @@
           "date": "2026-04-21",
           "edition": "evening",
           "update": "Trump initially told CNBC he did not want to extend the ceasefire with Iran, but ultimately announced an extension before the deadline expired. The extension is conditional, remaining in effect until Iran submits a proposal and discussions are concluded, while the blockade against Iran stays in place."
+        },
+        {
+          "date": "2026-05-10",
+          "edition": "evening",
+          "update": "Iran submitted a response to a U.S. peace proposal aimed at ending the war, according to Iranian state media outlet IRNA. No details of Iran's response or the contents of the U.S. proposal have been publicly disclosed."
         }
       ],
       "parentId": null
@@ -2379,5 +2384,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-10T11:02:27.745Z"
+  "updatedAt": "2026-05-10T21:03:04.530Z"
 }
