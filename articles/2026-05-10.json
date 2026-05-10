@@ -547,5 +547,27 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-10T08:30:01.385Z"
+  },
+  {
+    "title": "Deadly car bomb attack hits checkpoint in northwest Pakistan",
+    "description": "A suspected car bombing followed by a firefight at a police checkpoint has killed more than a dozen people in Bannu.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/deadly-car-bomb-attack-hits-checkpoint-in-northwest-pakistan?traffic_source=rss",
+    "pubDate": "Sun, 10 May 2026 08:21:02 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-05-10T08:45:01.319Z"
+  },
+  {
+    "title": "Iran war day 72: Tehran yet to reply to US plan; Israel bombs Lebanon",
+    "description": "Israel kills at least 24 people in Lebanon in one day as Tehran's response to US proposal to end the war is awaited.",
+    "link": "https://www.aljazeera.com/news/2026/5/10/iran-war-day-72-tehran-yet-to-reply-to-us-plan-israel-bombs-lebanon?traffic_source=rss",
+    "pubDate": "Sun, 10 May 2026 08:18:23 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-10T08:45:01.319Z"
   }
 ]
