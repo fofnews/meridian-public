@@ -44,5 +44,16 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-10T04:15:01.832Z"
+  },
+  {
+    "title": "Possible boat explosion sends several to the hospital: Fire officials",
+    "description": "Several people were rushed to a hospital following a possible boat explosion near Miami Saturday afternoon, fire officials said.",
+    "link": "https://abcnews.com/US/boat-explosion-miami-sends-dozen-people-hospital-fire/story?id=132815455",
+    "pubDate": "Sun, 10 May 2026 00:22:26 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-05-10T04:30:01.644Z"
   }
 ]
