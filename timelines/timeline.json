@@ -294,7 +294,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-04-16",
+      "lastSeen": "2026-05-10",
       "active": true,
       "entries": [
         {
@@ -456,6 +456,11 @@
           "date": "2026-04-16",
           "edition": "morning",
           "update": "Russia launched one of the most intense aerial attacks of the year on Ukraine, sending hundreds of drones and missiles overnight in a hours-long assault targeting civilian areas across the country."
+        },
+        {
+          "date": "2026-05-10",
+          "edition": "morning",
+          "update": "Vladimir Putin declared his belief that the war with Ukraine is 'coming to an end' as a new three-day ceasefire went into effect."
         }
       ],
       "parentId": null
@@ -2374,5 +2379,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-09T21:02:44.548Z"
+  "updatedAt": "2026-05-10T11:02:27.745Z"
 }
