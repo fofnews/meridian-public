@@ -316,5 +316,45 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-10T06:45:01.499Z"
+  },
+  {
+    "title": "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain’s Canary Islands for Disembarking",
+    "description": "The MV Hondius, the cruise ship that had carried passengers infected with hantavirus, anchored off the Spanish territory, where other passengers would soon disembark.",
+    "link": "https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html",
+    "pubDate": "Sun, 10 May 2026 06:50:37 +0000",
+    "source": "NY Times",
+    "categories": [
+      "cruises",
+      "hantavirus",
+      "deaths (fatalities)",
+      "oceanwide expeditions bv",
+      "world health organization",
+      "tedros adhanom ghebreyesus",
+      "tenerife (canary islands)",
+      "spain",
+      "canary islands",
+      "atlantic ocean"
+    ],
+    "collectedAt": "2026-05-10T07:00:02.374Z"
+  },
+  {
+    "title": "Strickland vs Chimaev – UFC 328: Strickland downs Chimaev on split decision",
+    "description": "Sean Strickland won 48–47, 48–47 and 47–48 against Khamzat Chimaev in a fight that failed to live up to its hype.",
+    "link": "https://www.aljazeera.com/sports/2026/5/10/strickland-vs-chimaev-ufc-328-strickland-downs-chimaev-on-split?traffic_source=rss",
+    "pubDate": "Sun, 10 May 2026 06:18:12 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-05-10T07:00:02.374Z"
+  },
+  {
+    "title": "Olivia, Liam top list of most popular US baby names for seventh year running",
+    "description": "The Social Security Administration annually tracks the names given to girls and boys in each state, with lists dating back to 1880.",
+    "link": "https://nypost.com/2026/05/10/lifestyle/olivia-liam-top-list-of-most-popular-us-baby-names-for-seventh-year-running/",
+    "pubDate": "Sun, 10 May 2026 02:52:07 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-10T07:00:02.374Z"
   }
 ]
