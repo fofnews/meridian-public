@@ -529,5 +529,74 @@
     "source": "AP News",
     "categories": [],
     "collectedAt": "2026-05-11T07:45:01.850Z"
+  },
+  {
+    "title": "Hantavirus live updates: Plane carrying Americans arrives in Nebraska",
+    "description": "The MV Hondius cruise ship, on which the hantavirus infection was identified, has made its way to the Canary Islands, where passengers are disembarking.",
+    "link": "https://abcnews.com/International/live-updates/hantavirus-live-updates-mv-hondius-canary-islands/?id=132746955",
+    "pubDate": "Mon, 11 May 2026 03:49:37 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-05-11T08:00:01.280Z"
+  },
+  {
+    "title": "Texas Map Shows Where ‘Severe Thunderstorms,’ Flash Floods To Hit",
+    "description": "Areas affected include several coastal counties, with damaging winds and large hail expected.",
+    "link": "https://www.newsweek.com/texas-map-severe-thunderstorms-flash-floods-11935143",
+    "pubDate": "Mon, 11 May 2026 03:57:59 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-11T08:00:01.280Z"
+  },
+  {
+    "title": "Pennsylvania man accused of fatal arson after woman allegedly rejected his advances",
+    "description": "A Pennsylvania man allegedly set a home on fire after allegedly being rejected by a woman, killing an Army veteran and injuring two others, according to police.",
+    "link": "https://www.foxnews.com/us/pennsylvania-man-accused-fatal-arson-after-woman-allegedly-rejected-his-advances",
+    "pubDate": "Mon, 11 May 2026 03:47:20 -0400",
+    "source": "Fox News",
+    "categories": [
+      "c45d3fd2-c1a4-5bbf-83bc-8fb183baf758",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/northeast/pennsylvania",
+      "fox-news/us",
+      "fox-news/crime",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/fires",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-05-11T08:00:01.280Z"
+  },
+  {
+    "title": "‘DWTS’ winner Robert Irwin was ‘death rolled’ by a 14-foot crocodile he named after Jimmy Fallon",
+    "description": "Robert said the crocodile pinned him with about 700 pounds on top before it rolled back the other way.",
+    "link": "https://pagesix.com/2026/05/11/entertainment/dwts-winner-robert-irwin-was-death-rolled-by-a-14-foot-crocodile-he-named-after-jimmy-fallon/",
+    "pubDate": "Mon, 11 May 2026 03:50:15 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-11T08:00:01.280Z"
+  },
+  {
+    "title": "DOJ begins denaturalization process against 12 people accused of ‘serious offenses’",
+    "description": "The Department of Justice announced on Friday efforts to denaturalize 12 individuals in the United States who are accused of misrepresenting their backgrounds during immigration proceedings. Among the 12 the DOJ is seeking to denaturalize are a man convicted of sexual assault against a child, committing terrorist activities while a member of Al-Qaeda, financing Al-Qaeda, […]",
+    "link": "https://www.washingtonexaminer.com/news/4562484/doj-denaturalization-12-people-accused-serious-offenses/",
+    "pubDate": "Mon, 11 May 2026 07:59:32 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "china",
+      "department of justice",
+      "illegal immigrants",
+      "immigrants",
+      "immigration",
+      "justice",
+      "legal immigration",
+      "morocco",
+      "nigeria"
+    ],
+    "collectedAt": "2026-05-11T08:00:01.280Z"
   }
 ]
