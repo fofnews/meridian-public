@@ -189,6 +189,13 @@ export default function MapHero({
         >
           {time}
         </span>
+        <button
+          onClick={() => setMapVisible(false)}
+          className="cursor-pointer transition-all"
+          style={{ color: 'var(--accent)', fontSize: 11, letterSpacing: '1.5px', textTransform: 'uppercase', background: 'none', border: 'none', padding: '0 4px' }}
+        >
+          Hide Map ▲
+        </button>
       </div>
     </div>
   );
@@ -289,25 +296,6 @@ export default function MapHero({
               {label}
             </button>
           ))}
-          <button
-            onClick={() => setMapVisible(false)}
-            title="Minimize map"
-            className="cursor-pointer transition-all"
-            style={{
-              background: btnBg,
-              border: '1px solid var(--hero-border)',
-              color: textAlpha70,
-              fontSize: 'clamp(10px, 1.1vw, 14px)',
-              width: 'clamp(28px, 3vw, 40px)',
-              height: 'clamp(28px, 3vw, 40px)',
-              display: 'flex',
-              alignItems: 'center',
-              justifyContent: 'center',
-              lineHeight: 1,
-            }}
-          >
-            ▲
-          </button>
           <button
             onClick={() => setExpanded(e => !e)}
             title={expanded ? 'Exit fullscreen' : 'Expand map'}
