@@ -93,5 +93,57 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-11T04:45:01.286Z"
+  },
+  {
+    "title": "Trump calls Iran response “totally unacceptable”",
+    "description": "Report on the latest developments after US President Donald Trump rejected Iran’s response to the US peace proposal.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/aje-onl-nf_tv-pkg_trump-rejects-iran-response-110526?traffic_source=rss",
+    "pubDate": "Mon, 11 May 2026 04:58:03 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-05-11T05:15:01.503Z"
+  },
+  {
+    "title": "Risks and rewards in France-Kenya partnership",
+    "description": "Nairobi's partnership with Paris has sparked criticism, with many worried Kenya's interests will be subordinated.",
+    "link": "https://www.aljazeera.com/features/2026/5/11/risks-and-rewards-in-france-kenya-partnership?traffic_source=rss",
+    "pubDate": "Mon, 11 May 2026 04:45:57 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "features"
+    ],
+    "collectedAt": "2026-05-11T05:15:01.503Z"
+  },
+  {
+    "title": "Russia and Ukraine accuse the other of ceasefire violations",
+    "description": "Russia and Ukraine accuse the other of ceasefire violations.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/russia-and-ukraine-accuse-the-other-of-ceasefire-violations?traffic_source=rss",
+    "pubDate": "Mon, 11 May 2026 04:33:07 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-05-11T05:15:01.503Z"
+  },
+  {
+    "title": "Remains recovered of US soldier who went missing in military exercises in Morocco, 2nd soldier still missing",
+    "description": "The remains of a U.S. soldier were recovered in Morocco's Atlantic waters after he fell off a cliff during a hike, as the search remains for a second missing soldier.",
+    "link": "https://www.foxnews.com/world/remains-recovered-us-soldier-who-went-missing-military-exercises-morocco-2nd-soldier-still-missing",
+    "pubDate": "Mon, 11 May 2026 00:53:17 -0400",
+    "source": "Fox News",
+    "categories": [
+      "67599798-5c14-51f0-afeb-7c86d1b88525",
+      "fnc",
+      "fox news",
+      "fox-news/us/military",
+      "fox-news/world/world-regions/africa",
+      "fox-news/world",
+      "fox-news/tech/topics/pentagon",
+      "fox-news/world",
+      "article"
+    ],
+    "collectedAt": "2026-05-11T05:15:01.503Z"
   }
 ]
