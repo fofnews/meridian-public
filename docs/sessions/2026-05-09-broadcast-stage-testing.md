@@ -70,3 +70,45 @@ The rAF `tick(now)` callback receives a `DOMHighResTimeStamp` representing when 
 
 - Minor open items from 2026-05-07 review still pending (see that session doc).
 - Consider whether `?date`/`?edition` should be validated against `/api/dates` in broadcast mode (currently silently fails if the edition doesn't exist).
+
+---
+
+# Session — 2026-05-09 (map labels)
+
+## What was worked on
+
+Debugged missing and inconsistent map labels across territory, city, and water body layers. Two root causes found and fixed in `scripts/build-meridian-styles.js`.
+
+## Root causes and fixes
+
+### Bug 1 — Multi-font stacks 404 silently
+
+`applyTypography()` assigned font stacks like `['Playfair Display Bold', 'Noto Sans Regular']`. Mapbox GL JS joins the array with commas to construct the glyph URL: `/fonts/Playfair Display Bold,Noto Sans Regular/0-255.pbf`. No such directory exists — `build-glyphs.js` generates per-font directories only. Every multi-font layer (country, continent, state, major cities) produced 404s and rendered no labels. Only single-font `['Noto Sans Regular']` layers worked.
+
+**Fix:** Changed all font stacks to single-font arrays. Labels use `name_en` (Latin); the primary fonts cover all required glyphs.
+
+### Bug 2 — Static `text-size: 20` caused globe-zoom collision
+
+`country-label` had `text-size: 20` (static) instead of a zoom-interpolated expression. At globe zoom (~1.0), every country tried to render at 20px; Mapbox collision detection hid most. All other label layers retained their original zoom-interpolated expressions.
+
+**Fix:** `['interpolate', ['linear'], ['zoom'], 1, 9, 4, 14, 7, 18, 10, 20]`. Extracted to `COUNTRY_LABEL_TEXT_SIZE` constant so dark and light themes share it.
+
+### Bug 3 — Merge conflict left `buildLight` with static value
+
+After fixing, a merge conflict reverted `buildLight` to `'text-size': 20` while `buildDark` got the constant. The built JSONs were correct (committed before the conflict) but the source script was wrong. Caught immediately by the new `verify-styles.js` assertion when `build-styles` was re-run.
+
+## Key decisions
+
+- **Single-font stacks only** in `applyTypography()` — permanently constrained by the per-font glyph directory layout from `build-glyphs.js`. Adding any fallback font to a `text-font` array will silently break that layer.
+- `verify-styles.js` now asserts `country-label text-size` is an interpolated expression.
+
+## Discoveries
+
+- Mapbox GL JS glyph requests use the full comma-joined fontstack as a path segment. Supporting multi-font fallback requires a compositing glyph server — serving individual PBF files is not sufficient.
+- The pipeline's `gitCommitAndPush` pushes to `origin/main` via temp-index without updating local HEAD. The local clone drifts behind origin after each pipeline run; `git pull` is needed before local commits. This is intentional — avoids interfering with local development work.
+
+## Files modified
+
+- `scripts/build-meridian-styles.js` — single-font stacks, `COUNTRY_LABEL_TEXT_SIZE` constant, `buildLight` regression fixed
+- `scripts/verify-styles.js` — `text-size` interpolation assertions for both themes
+- `public/meridian-dark.style.json` / `public/meridian-light.style.json` — rebuilt artifacts

@@ -170,3 +170,11 @@ Five issues surfaced during first `?mode=broadcast` browser test:
 4. **Arcs layers not found on first shot** — `createMap` resolves before `map.on('load')` fires (which is where `applyMapStyle` adds the arc layers). First shot at `PRE_ROLL_MS = 1s` could arrive before layers exist. Fixed in `useMeridianMap.js`: `updateArcs` guards on `map.getLayer('arcs-glow')`; init effect adds `map.once('load', drainPendingArcs)` to re-apply deferred arcs after layers are added.
 
 5. **Mapbox tile 404s** — normal; Mapbox returns 404 for empty vector tiles (ocean, no-data zoom levels). Not an error.
+
+### 2026-05-09 — Map label debugging (post-checklist)
+
+Two bugs in `scripts/build-meridian-styles.js` caused labels to be missing or inconsistent across the globe view:
+
+1. **Multi-font stacks 404 silently** — `applyTypography()` used font stacks like `['Playfair Display Bold', 'Noto Sans Regular']`. Mapbox GL JS joins the array with commas as the glyph URL path segment (`/fonts/Playfair Display Bold,Noto Sans Regular/0-255.pbf`). `build-glyphs.js` generates per-font directories, not per-combination — so every multi-font layer 404'd and rendered no labels. Only `['Noto Sans Regular']` layers (water, minor cities, airports) worked. **Fix:** all font stacks changed to single-font arrays. Constraint is permanent given the per-font glyph directory layout.
+
+2. **Static `text-size: 20` on `country-label`** — all other label layers use zoom-interpolated text sizes; `country-label` had a flat `20` at every zoom. At globe zoom (~1.0), 20px labels for 190+ countries overwhelmed Mapbox collision detection, hiding most. **Fix:** `['interpolate', ['linear'], ['zoom'], 1, 9, 4, 14, 7, 18, 10, 20]`, extracted to `COUNTRY_LABEL_TEXT_SIZE` constant. `verify-styles.js` now asserts this is interpolated so it can't silently revert.
