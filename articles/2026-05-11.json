@@ -154,5 +154,30 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-11T05:30:01.208Z"
+  },
+  {
+    "title": "American Flying Back to US Tests Positive For Hantavirus: What Happens Now",
+    "description": "One of the 17 American passengers evacuated from the MV Hondius tested positive for hantavirus but is not showing symptoms",
+    "link": "https://www.newsweek.com/hantavirus-cruise-ship-outbreak-update-american-positive-11935022",
+    "pubDate": "Mon, 11 May 2026 01:34:04 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-11T05:45:02.373Z"
+  },
+  {
+    "title": "US passenger aboard MV Hondius cruise ship tests positive for hantavirus",
+    "description": "A U.S. citizen who was a passenger aboard the MV Hondius cruise ship with a hantavirus outbreak has tested positive for the virus, the Department of Health and Human Services reported on Sunday night. The positive test result came as HHS announced that 17 U.S. citizens were being airlifted back to the United States after […]",
+    "link": "https://www.washingtonexaminer.com/news/4562463/us-passenger-aboard-mv-hondius-cruise-ship-tests-positive-for-hantavirus/",
+    "pubDate": "Mon, 11 May 2026 05:34:21 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "centers for disease control and prevention",
+      "department of health and human services",
+      "nih",
+      "viruses",
+      "world"
+    ],
+    "collectedAt": "2026-05-11T05:45:02.373Z"
   }
 ]
