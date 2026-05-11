@@ -1044,7 +1044,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-05-08",
+      "lastSeen": "2026-05-11",
       "active": true,
       "entries": [
         {
@@ -1486,6 +1486,11 @@
           "date": "2026-05-08",
           "edition": "evening",
           "update": "Despite Trump stating late Thursday that the U.S.-Iran ceasefire remains in effect, a fresh exchange of fire occurred between U.S. and Iranian forces in the Strait of Hormuz."
+        },
+        {
+          "date": "2026-05-11",
+          "edition": "evening",
+          "update": "Iran submitted a counter-proposal to the U.S. through mediator Pakistan, marking Pakistan's formal role as intermediary in the ongoing conflict. Trump publicly rejected the counter-proposal, calling it 'unacceptable.'"
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2220,7 +2225,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-08",
+      "lastSeen": "2026-05-11",
       "active": true
     },
     {
@@ -2293,7 +2298,7 @@
       "title": "Correspondents' Dinner Shooting Investigation",
       "parentId": null,
       "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-30",
+      "lastSeen": "2026-05-11",
       "active": true,
       "entries": [
         {
@@ -2305,6 +2310,11 @@
           "date": "2026-04-30",
           "edition": "evening",
           "update": "The suspect charged in the assassination attempt has been identified as Cole Allen, who has agreed to remain jailed ahead of his trial. Critics of President Trump publicly blamed his rhetoric in connection with the attack."
+        },
+        {
+          "date": "2026-05-11",
+          "edition": "evening",
+          "update": "Cole Allen, 31, pleaded not guilty on Monday in federal court to charges related to the alleged assassination attempt against President Trump at the White House Correspondents' Association dinner."
         }
       ]
     },
@@ -2384,5 +2394,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-11T11:03:09.229Z"
+  "updatedAt": "2026-05-11T21:04:37.531Z"
 }
