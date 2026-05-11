@@ -8279,5 +8279,81 @@
     "source": "Newsmax",
     "categories": [],
     "collectedAt": "2026-05-11T03:30:01.401Z"
+  },
+  {
+    "title": "French national shows symptoms on return from hantavirus-hit ship",
+    "description": "Five passengers of the MV Hondius will be quarantined in Paris \"until further notice\", France's prime minister says.",
+    "link": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 11 May 2026 03:29:58 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-11T03:45:01.299Z"
+  },
+  {
+    "title": "Abe Foxman, former head of Anti-Defamation League, dies at 86",
+    "description": "The ADL said in a statement that it \"deeply mourns the loss of our longtime national director,\" without providing details about where and when Foxman died.",
+    "link": "https://www.cbsnews.com/news/abe-foxman-dies-age-86-former-head-adl/",
+    "pubDate": "Sun, 10 May 2026 23:36:00 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-05-11T03:45:01.299Z"
+  },
+  {
+    "title": "Remains of US soldier who went missing in Morocco recovered",
+    "description": "The remains of a US soldier who went missing in Morocco were recovered on Saturday from the Atlantic Ocean.  The deceased service member was identified as 1st Lt. Kendrick Lamont Key Jr. of Richmond, Virginia, by the U.S. Army Europe and Africa.  Key fell off a cliff during a recreational hike while off duty, according…",
+    "link": "https://thehill.com/policy/international/5872022-soldier-kendrick-key-found/",
+    "pubDate": "Mon, 11 May 2026 02:57:39 +0000",
+    "source": "The Hill",
+    "categories": [
+      "international",
+      "missing us soldier",
+      "morocco"
+    ],
+    "collectedAt": "2026-05-11T03:45:01.299Z"
+  },
+  {
+    "title": "Georgia teacher, 25, accused of sexually assaulting high school student in classroom closet",
+    "description": "A science teacher at a Georgia high school was arrested on Friday for allegedly having sex with one of her students — including an alleged sexual assault inside a closet on school property.",
+    "link": "https://nypost.com/2026/05/10/us-news/georgia-teacher-25-allegedly-had-sex-with-high-school-student-in-classroom-closet/",
+    "pubDate": "Sun, 10 May 2026 23:38:29 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-11T03:45:01.299Z"
+  },
+  {
+    "title": "1 American returning from hantavirus-stricken cruise showing symptoms, another US passenger postive: HHS",
+    "description": "An American passenger returning to the US from the hantavirus-stricken MV Hondius cruise ship has tested positive for the virus — with a second passenger also showing mild symptoms, according to authorities.",
+    "link": "https://nypost.com/2026/05/10/us-news/1-american-returning-from-hantavirus-stricken-cruise-showing-symptoms-another-postive-hhs/",
+    "pubDate": "Sun, 10 May 2026 23:33:52 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-11T03:45:01.299Z"
+  },
+  {
+    "title": "Marine Johannes earns place in WNBA history with needed early-season tear for shorthanded Liberty",
+    "description": "Liberty guard Marine Johannès knew there would be more of an onus on her to score in the team’s retooled offense this season.",
+    "link": "https://nypost.com/2026/05/10/sports/marine-johannes-tear-earns-place-in-wnba-history-for-liberty/",
+    "pubDate": "Sun, 10 May 2026 23:33:17 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-11T03:45:01.299Z"
+  },
+  {
+    "title": "Don Lemon continues teasing 2028 presidental run: ‘Why not?’",
+    "description": "Don Lemon continued to tease a potential 2028 presidential election run at an event in London.",
+    "link": "https://www.washingtonexaminer.com/news/4562449/don-lemon-teasing-2028-run/",
+    "pubDate": "Mon, 11 May 2026 03:30:24 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "2028 elections",
+      "campaign",
+      "cnn",
+      "don lemon",
+      "donald trump",
+      "london",
+      "stephen a. smith"
+    ],
+    "collectedAt": "2026-05-11T03:45:01.299Z"
   }
 ]
