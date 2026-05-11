@@ -229,32 +229,6 @@ export default function MapHero({
 
         {mapEnabled && <div className="absolute inset-0 pointer-events-none" style={{ background: overlayGrad }} />}
 
-        {/* Story selector */}
-        {stories.length > 1 && (
-          <div className="absolute story-selector" style={{ zIndex: 10 }}>
-            {stories.slice(0, 6).map((story, i) => (
-              <button
-                key={story.id}
-                onClick={() => onSelect(i)}
-                className="text-left transition-all cursor-pointer story-selector-btn"
-                style={{
-                  background: selectedIdx === i ? 'rgba(232,197,71,0.15)' : btnBg,
-                  border: `0.5px solid ${selectedIdx === i ? 'var(--hero-border-active)' : 'var(--hero-border)'}`,
-                  color: selectedIdx === i ? 'var(--accent)' : 'var(--text-secondary)',
-                  letterSpacing: '0.8px',
-                  textTransform: 'uppercase',
-                  padding: '5px 10px',
-                  whiteSpace: 'nowrap',
-                  overflow: 'hidden',
-                  textOverflow: 'ellipsis',
-                }}
-              >
-                {truncateHeadline(story.headline)}
-              </button>
-            ))}
-          </div>
-        )}
-
         {/* Location buttons */}
         {featuredLocations.length > 1 && (
           <div
