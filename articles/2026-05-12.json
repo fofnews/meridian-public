@@ -584,5 +584,36 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-12T07:30:01.349Z"
+  },
+  {
+    "title": "‘Potential security risk’: Unpacking the UK’s trust issues with Palantir",
+    "description": "Analysts say it is challenging to track whether Palantir is sticking to the terms of its NHS contract.",
+    "link": "https://www.aljazeera.com/news/2026/5/12/palantir?traffic_source=rss",
+    "pubDate": "Tue, 12 May 2026 07:17:21 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-12T07:45:01.776Z"
+  },
+  {
+    "title": "Starving on the front lines: Food supply in crisis as Ukraine fights Russia",
+    "description": "Photos of emaciated Ukrainians reveal conditions suffered by Ukraine, as meagre rations also afflict Russian soldiers.",
+    "link": "https://www.aljazeera.com/news/2026/5/12/with-drone-dropped-food-on-ukraines-frontline-do-soldiers-starve?traffic_source=rss",
+    "pubDate": "Tue, 12 May 2026 07:16:50 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-12T07:45:01.776Z"
+  },
+  {
+    "title": "With Keir Starmer premiership on the brink, British government debt tumbles further",
+    "description": "British government debt fell sharply on Tuesday, with reports suggesting Prime Minister Keir Starmer may face a leadership challenge or even resign as early as today.",
+    "link": "https://www.marketwatch.com/story/with-keir-starmer-premiership-on-the-brink-british-government-debt-tumbles-further-3a113f26?mod=mw_rss_topstories",
+    "pubDate": "Tue, 12 May 2026 07:38:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-05-12T07:45:01.776Z"
   }
 ]
