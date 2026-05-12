@@ -295,5 +295,71 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-12T05:45:01.704Z"
+  },
+  {
+    "title": "The Papers: 'Cabinet turns on Starmer' and 'You have been murdered'",
+    "description": "Every paper on Tuesday has dedicated its front page to the future of Sir Keir Starmer's premiership.",
+    "link": "https://www.bbc.com/news/articles/c62d8z4m582o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 12 May 2026 04:53:03 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-12T06:00:01.209Z"
+  },
+  {
+    "title": "EU diplomats agree to sanction Hamas leaders and Israeli settlers",
+    "description": "The unanimous decision by the European Union, agreed to on Monday, was sparked by growing outrage over the devastation in Gaza during the Israel-Hamas war.",
+    "link": "https://www.npr.org/2026/05/12/g-s1-121581/eu-sanction-hamas-leaders-israeli-settlers",
+    "pubDate": "Tue, 12 May 2026 01:47:02 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-05-12T06:00:01.209Z"
+  },
+  {
+    "title": "Iran vows to fight on as Trump says ceasefire is \"on life support\"",
+    "description": "President Trump is expected to encourage China to pressure Iran to make a deal to end the war when he visits Beijing this week and meets with President Xi Jinping.",
+    "link": "https://www.cbsnews.com/live-updates/iran-war-trump-oil-prices-peace-proposal-unacceptable/",
+    "pubDate": "Tue, 12 May 2026 01:54:13 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-05-12T06:00:01.209Z"
+  },
+  {
+    "title": "Minnesota Senate votes to ban ICE from wearing masks, allow residents to sue for constitutional violations",
+    "description": "The Minnesota Senate passed a bill to bar federal agents from shielding their faces and to allow people to sue over alleged constitutional rights violations.",
+    "link": "https://www.foxnews.com/politics/minnesota-senate-votes-ban-ice-from-wearing-masks-allow-residents-sue-constitutional-violations",
+    "pubDate": "Tue, 12 May 2026 01:40:16 -0400",
+    "source": "Fox News",
+    "categories": [
+      "f02c2ec0-a9ae-5196-83f1-eb4d75d4922a",
+      "fnc",
+      "fox news",
+      "fox-news/us/immigration",
+      "fox-news/politics",
+      "fox-news/us/us-regions/midwest/minnesota",
+      "fox-news/politics/executive/homeland-security",
+      "fox-news/person/donald-trump",
+      "fox-news/us",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-05-12T06:00:01.209Z"
+  },
+  {
+    "title": "Dodgers’ funk continues as slumping offense, pitching both falter in loss to Giants",
+    "description": "There was blame to go around for the Dodgers on Monday night.",
+    "link": "https://nypost.com/2026/05/12/sports/dodgers-funk-continues-as-slumping-offense-pitching-falter-in-loss-to-giants/",
+    "pubDate": "Tue, 12 May 2026 01:57:29 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-12T06:00:01.209Z"
+  },
+  {
+    "title": "Lakers eliminated by Thunder after crushing Game 4 loss as LeBron James suffers rare sweep",
+    "description": "In the end, the Thunder killed the Lakers’ 2025-26 season, with the Lakers falling to the Thunder in Game 4 and being eliminated from the playoffs.",
+    "link": "https://nypost.com/2026/05/12/sports/lakers-eliminated-by-thunder-after-crushing-game-4/",
+    "pubDate": "Tue, 12 May 2026 01:50:59 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-12T06:00:01.209Z"
   }
 ]
