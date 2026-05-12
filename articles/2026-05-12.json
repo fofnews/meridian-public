@@ -2367,5 +2367,224 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-12T11:00:01.186Z"
+  },
+  {
+    "title": "$40,000 home equity loan vs. $40,000 HELOC: Which is cheaper this May?",
+    "description": "HELOCs and home equity loans both offer viable ways for homeowners to borrow equity. Here's which one is cheaper now.",
+    "link": "https://www.cbsnews.com/news/40000-home-equity-loan-vs-40000-heloc-cheaper-may-2026/",
+    "pubDate": "Tue, 12 May 2026 07:00:08 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-05-12T11:15:01.206Z"
+  },
+  {
+    "title": "Gas explosion in São Paulo leaves at least one dead",
+    "description": "Gas explosion in São Paulo leaves at least one dead",
+    "link": "https://www.nbcnews.com/video/shorts/gas-explosion-in-sao-paulo-leaves-at-least-one-dead-263149125873",
+    "pubDate": "Tue, 12 May 2026 10:47:32 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-05-12T11:15:01.206Z"
+  },
+  {
+    "title": "Over 370 Afghans killed in Pakistan conflict in first 3 months of 2026: UN",
+    "description": "Fighting between the Taliban and Pakistani forces intensified in February, with many civilians killed in air raids.",
+    "link": "https://www.aljazeera.com/news/2026/5/12/over-370-afghans-killed-in-pakistan-conflict-in-first-3-months-of-2026-un?traffic_source=rss",
+    "pubDate": "Tue, 12 May 2026 10:48:16 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-12T11:15:01.206Z"
+  },
+  {
+    "title": "USA’s Johnny Cardoso expected to miss World Cup through ankle injury",
+    "description": "Atletico Madrid midfielder Cardoso is the latest name in the growing list of injured players for tournament cohosts USA.",
+    "link": "https://www.aljazeera.com/sports/2026/5/12/usas-johnny-cardoso-expected-to-miss-world-cup-through-ankle-injury?traffic_source=rss",
+    "pubDate": "Tue, 12 May 2026 10:33:00 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-05-12T11:15:01.206Z"
+  },
+  {
+    "title": "At least nine people killed in explosion at Pakistan market",
+    "description": "About 30 people wounded in blast in town of Sarai Naurang, in Lakki Marwat district, northwestern Pakistan.",
+    "link": "https://www.aljazeera.com/news/2026/5/12/at-least-nine-people-killed-in-explosion-at-pakistan-market?traffic_source=rss",
+    "pubDate": "Tue, 12 May 2026 10:31:54 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-12T11:15:01.206Z"
+  },
+  {
+    "title": "Germany must pull itself together, Merz tells unions as jeers ring out - Reuters",
+    "description": "Germany must pull itself together, Merz tells unions as jeers ring out  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMjVnUmxkMEMyQTc3bzBYU2JjYTFWa0o2Z2RBbENoMGpCYXNwOWpKc3ZfZE1kanM0QWxZMkNiZHo1b3R1NEdGQzhCaWJDMXBKdTN6SzU5SHg0OUtjQmR0NHVMTWFIeTE3SWUwSWNIZE5qR2RmTWZNYXBTeEVHdlh6WEpHM3NXcjZaejByZHhCeHNycjhZamF6N2Y2Y0lKMGlib3lfaG95V09XOXp3OTNidA?oc=5",
+    "pubDate": "Tue, 12 May 2026 09:35:44 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-05-12T11:15:01.206Z"
+  },
+  {
+    "title": "Waymo to recall nearly 3,800 robotaxis over self-driving software issue - Reuters",
+    "description": "Waymo to recall nearly 3,800 robotaxis over self-driving software issue  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTnNGRnlaV3FINEZkTTFxSHlfUVFsanJQaklBQ2l3T0tLVU95czgxckVJMGlrZ2I2MjhqLUw5TjdHM2RQUXFWenZUbXVCNDRRbXJaUlRVM2tKS2ZCR2lJTklUTkVJU2FiWFNidW1rNElNemU2WVc4SWdPTTZyZTZoWWFNNmtRQlNkdzFNTFNZN3lKUUZzbklXb2JxNjAzUUxPWkYxUEZOdGI4YnpkenRMYzhNdGtGaG1Ba1hRVA?oc=5",
+    "pubDate": "Tue, 12 May 2026 08:13:43 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-05-12T11:15:01.206Z"
+  },
+  {
+    "title": "US CEOs seek China business gains from Trump-Xi summit - Reuters",
+    "description": "US CEOs seek China business gains from Trump-Xi summit  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZEMwaVFwS241U3kzWVcxMXZJTnhMdlBjUE9MQm11U0RtNXFJWXZ1VlVzTGNBZ215ZzQzM1phQWZoUHhBejN2YXVORE84dGhXNGxNRHhsT0lJNXFCYndMcmFHQXRqQzh5cEZjUm1Tb0k5cG1sSy1uU1lpa3pHY01DR0VPRjItV1Q1c0RQcVVfT0pPQWZMbkliel9ldXNWZURla19ya3ViSDB3X2RmanpPOUhwNGtrdw?oc=5",
+    "pubDate": "Tue, 12 May 2026 09:54:45 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-05-12T11:15:01.206Z"
+  },
+  {
+    "title": "‘I nearly made a major misstep’: I claimed my Social Security benefits at 64 instead of 70. Here’s why.",
+    "description": "“It’s remarkable — and discouraging — how many people are disengaged from their own financial lives.”",
+    "link": "https://www.marketwatch.com/story/i-nearly-made-a-major-misstep-i-claimed-my-social-security-benefits-at-64-instead-of-70-heres-why-e0d0edfe?mod=mw_rss_topstories",
+    "pubDate": "Tue, 12 May 2026 11:05:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-05-12T11:15:01.206Z"
+  },
+  {
+    "title": "The Ryan Cohen saga gets a new twist as eBay shoots down GameStop’s takeover offer",
+    "description": "eBay says the $56 buyout deal is “neither credible nor attractive” and cheers its standalone prospects.",
+    "link": "https://www.marketwatch.com/story/the-ryan-cohen-saga-gets-a-new-twist-as-ebay-shoots-down-gamestops-takeover-offer-81c12de2?mod=mw_rss_topstories",
+    "pubDate": "Tue, 12 May 2026 11:02:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-05-12T11:15:01.206Z"
+  },
+  {
+    "title": "Fox News touted at annual upfront presentation to advertisers: ‘We’re not just competing, we are dominating’",
+    "description": "Tom Brady, Lachlan Murdoch and top Fox News hosts took the stage at the annual FOX upfront to showcase live sports, news and streaming for advertisers.",
+    "link": "https://www.foxnews.com/media/fox-news-touted-annual-upfront-presentation-advertisers-were-not-just-competing-we-are-dominating",
+    "pubDate": "Tue, 12 May 2026 07:01:15 -0400",
+    "source": "Fox News",
+    "categories": [
+      "23167e3a-856a-5a36-8f75-d2b7abe88bc9",
+      "fnc",
+      "fox news",
+      "fox-news/media",
+      "fox-news",
+      "fox-news/entertainment/events/tv-ratings",
+      "fox-news/media",
+      "article"
+    ],
+    "collectedAt": "2026-05-12T11:15:01.206Z"
+  },
+  {
+    "title": "AOC takes page from Biden playbook in dodging interviews with national press",
+    "description": "Rep. Alexandria Ocasio-Cortez, D-N.Y., has been called out for the lack of interviews she has granted with national news outlets despite the growing buzz about her political ambitions.",
+    "link": "https://www.foxnews.com/media/aoc-takes-page-from-biden-playbook-dodging-interviews-national-press",
+    "pubDate": "Tue, 12 May 2026 07:00:58 -0400",
+    "source": "Fox News",
+    "categories": [
+      "b7b749a1-6744-5d43-a104-acb62fd28ffe",
+      "fnc",
+      "fox news",
+      "fox-news/person/alexandria-ocasio-cortez",
+      "fox-news/media",
+      "fox-news/person/joe-biden",
+      "fox-news/media",
+      "article"
+    ],
+    "collectedAt": "2026-05-12T11:15:01.206Z"
+  },
+  {
+    "title": "Pete Hegseth faces Congress over Pentagon's unprecedented $1.5 trillion budget as Democrats vow to block it",
+    "description": "Pete Hegseth will face a high-stakes House hearing on the Pentagon's unprecedented $1.5 trillion request amid bipartisan concerns over the proposed budget and Iran War.",
+    "link": "https://www.foxnews.com/politics/pete-hegseth-faces-congress-pentagons-unprecedented-15-trillion-budget-democrats-vow-block",
+    "pubDate": "Tue, 12 May 2026 07:00:51 -0400",
+    "source": "Fox News",
+    "categories": [
+      "0c661c83-4d37-5390-94e5-2807e0ccf3e0",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/person/pete-hegseth",
+      "fox-news/us/congress",
+      "fox-news/tech/topics/pentagon",
+      "fox-news/politics/defense/wars/war-with-iran",
+      "fox-news/politics/defense/spending",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-05-12T11:15:01.206Z"
+  },
+  {
+    "title": "Alzheimer’s drugs slammed as ‘ineffective’ in major review, but critics push back",
+    "description": "Cochrane review says amyloid-targeting Alzheimer's drugs are ineffective, but the Alzheimer's Association and drug makers dispute the findings.",
+    "link": "https://www.foxnews.com/health/alzheimers-drugs-slammed-ineffective-major-review-critics-push-back",
+    "pubDate": "Tue, 12 May 2026 07:00:11 -0400",
+    "source": "Fox News",
+    "categories": [
+      "e26fa2e3-9578-5e95-b801-24a022074b85",
+      "fnc",
+      "fox news",
+      "fox-news/health",
+      "fox-news/health/medical-research",
+      "fox-news/health/healthy-living/medications",
+      "fox-news/health/nervous-system-health/alzheimers",
+      "fox-news/health/brain-health",
+      "fox-news/lifestyle",
+      "fox-news/health",
+      "article"
+    ],
+    "collectedAt": "2026-05-12T11:15:01.206Z"
+  },
+  {
+    "title": "Trump heads to China for Xi Jinping summit that will test ‘great relationship’",
+    "description": "Trump is expected to raise a series of concerns about artificial intelligence, the global economy, trade and nuclear weapons.",
+    "link": "https://nypost.com/2026/05/12/us-news/trump-heads-to-china-for-xi-jinping-summit-that-will-test-great-relationship/",
+    "pubDate": "Tue, 12 May 2026 07:12:09 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-12T11:15:01.206Z"
+  },
+  {
+    "title": "Should I give the man who ghosted me a second chance?",
+    "description": "Grandma Gail was ghosted herself, and she has some surprising advice.",
+    "link": "https://nypost.com/2026/05/12/lifestyle/dear-excuse-my-advice-should-i-give-the-man-who-ghosted-me-a-second-chance/",
+    "pubDate": "Tue, 12 May 2026 07:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-12T11:15:01.206Z"
+  },
+  {
+    "title": "The death of the big-hitting third baseman",
+    "description": "Nearly every team spending significantly on third base is receiving a horrendous return on investment.",
+    "link": "https://nypost.com/2026/05/12/sports/mets-bo-bichette-problem-just-part-of-mlbs-third-baseman-problem/",
+    "pubDate": "Tue, 12 May 2026 07:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-12T11:15:01.206Z"
+  },
+  {
+    "title": "Republicans build the wall against a blue wave",
+    "description": "Before they fight for next year’s congressional majorities, Democrats and Republicans are duking it out over congressional maps in the states they control throughout the country, as seen most recently in Virginia’s emotional roller coaster.  Democrats are hoping for a blue wave, while Republicans are looking to just retain control of the House and the […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4563912/republicans-blue-wave-2026-midterm-elections/",
+    "pubDate": "Tue, 12 May 2026 11:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "congressional",
+      "2026 elections",
+      "congress",
+      "democratic party",
+      "donald trump",
+      "redistricting",
+      "republican party",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-05-12T11:15:01.206Z"
   }
 ]
