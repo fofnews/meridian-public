@@ -141,15 +141,15 @@ export default function MapHero({
           The Meridian
         </span>
         {edition && edition !== 'manual' && EDITION_LABELS[edition] && (
-          <>
+          <span className={`flex items-center gap-3 shrink-0${availableEditions.length > 1 ? ' hero-edition-tag' : ''}`}>
             <span style={{ color: 'var(--border-dim)' }}>·</span>
             <span
-              className="shrink-0 uppercase"
+              className="uppercase"
               style={{ color: 'var(--accent)', fontSize: 11, letterSpacing: '1.5px', fontWeight: 600 }}
             >
               {EDITION_LABELS[edition]}
             </span>
-          </>
+          </span>
         )}
         {selectedDate && (
           <>

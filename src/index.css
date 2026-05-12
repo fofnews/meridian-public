@@ -278,6 +278,18 @@ input::placeholder {
   }
 }
 
+/* Hide redundant left-side edition label when the right-side switcher is also visible */
+@media (max-width: 639px) {
+  .hero-edition-tag {
+    display: none;
+  }
+}
+@media (orientation: landscape) and (max-height: 500px) {
+  .hero-edition-tag {
+    display: none;
+  }
+}
+
 /* Ticker speed on narrow screens — matches desktop */
 @media (max-width: 639px) {
   .ticker-scroll {
