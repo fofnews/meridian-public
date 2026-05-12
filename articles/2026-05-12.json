@@ -533,5 +533,56 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-12T07:15:01.208Z"
+  },
+  {
+    "title": "'Patients have tried to punch me because of my skin colour'",
+    "description": "Figures from some NHS trusts in England show there was a 17% rise in reports of racism in a year.",
+    "link": "https://www.bbc.com/news/articles/cly99nzqg6xo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 12 May 2026 05:08:26 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-12T07:30:01.349Z"
+  },
+  {
+    "title": "Why is Israel allowed to take part in the Eurovision song contest?",
+    "description": "Five countries are boycotting the 70th edition of Eurovision on May 16 in protest over Israel's genocidal war on Gaza.",
+    "link": "https://www.aljazeera.com/news/2026/5/12/why-is-israel-allowed-to-take-part-in-the-eurovision-song-contest?traffic_source=rss",
+    "pubDate": "Tue, 12 May 2026 07:03:44 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-12T07:30:01.349Z"
+  },
+  {
+    "title": "Iran war: What’s happening on day 74 as Tehran says ready for ‘aggression’",
+    "description": "US-Iran tensions remain high as Tehran warns against 'aggression' and Trump says the ceasefire is on 'life support'.",
+    "link": "https://www.aljazeera.com/news/2026/5/12/iran-war-whats-happening-on-day-74-as-tehran-says-ready-for-aggression?traffic_source=rss",
+    "pubDate": "Tue, 12 May 2026 06:56:31 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-12T07:30:01.349Z"
+  },
+  {
+    "title": "Malaysia rescues 23 migrants after boat capsizes, 14 still missing",
+    "description": "Authorities deploy boats, helicopter and surveillance aircraft to search for missing migrants off Pangkor Island.",
+    "link": "https://www.aljazeera.com/news/2026/5/12/malaysia-rescues-23-migrants-after-boat-capsizes-14-still-missing?traffic_source=rss",
+    "pubDate": "Tue, 12 May 2026 06:54:12 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-12T07:30:01.349Z"
+  },
+  {
+    "title": "Pennsylvania liberal arts college drops professor’s name from campus building after he excavated Native American burial site",
+    "description": "A Pennsylvania liberal arts college has removed a college professor’s name from a campus building after it emerged he excavated a Native American burial site – but critics say the move is revisionist.",
+    "link": "https://nypost.com/2026/05/12/us-news/swarthmore-college-drops-professors-name-from-campus-building-after-he-excavated-native-american-burial-site/",
+    "pubDate": "Tue, 12 May 2026 03:16:45 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-12T07:30:01.349Z"
   }
 ]
