@@ -1780,7 +1780,7 @@
       "title": "Cuba Energy Crisis",
       "firstSeen": "2026-03-16",
       "lastSeen": "2026-04-12",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-03-16",
@@ -2394,5 +2394,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-11T21:04:37.531Z"
+  "updatedAt": "2026-05-12T11:03:47.035Z"
 }
