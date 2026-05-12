@@ -758,5 +758,43 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-12T08:15:01.605Z"
+  },
+  {
+    "title": "Green Party admits Polanski may have failed to pay council tax",
+    "description": "The Green Party admits that its leader has, until recently, been living on a houseboat in London and may have failed to pay council tax.",
+    "link": "https://www.bbc.com/news/articles/cy02wdzrg6jo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 12 May 2026 08:19:59 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-12T08:30:01.591Z"
+  },
+  {
+    "title": "Trump is floating a gas tax holiday. What does that mean?",
+    "description": "President Trump and some congressional Republicans are suggesting a potential suspension of the gas tax amid rising fuel costs due to the war with Iran.",
+    "link": "https://abcnews.com/Politics/trump-floating-gas-tax-holiday-amid-rising-fuel/story?id=132859509",
+    "pubDate": "Tue, 12 May 2026 04:16:24 -0400",
+    "source": "ABC News",
+    "categories": [
+      "politics"
+    ],
+    "collectedAt": "2026-05-12T08:30:01.591Z"
+  },
+  {
+    "title": "Texas man flees to Italy after arrest in wife's murder",
+    "description": "Texas man flees to Italy after arrest in wife's murder",
+    "link": "https://www.nbcnews.com/video/shorts/texas-man-flees-to-italy-after-arrest-in-wife-s-murder-263148613956",
+    "pubDate": "Tue, 12 May 2026 08:03:55 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-05-12T08:30:01.591Z"
+  },
+  {
+    "title": "Thousands Warned of Major Heat Risk In Phoenix: 'Dangerously Hot'",
+    "description": "Extreme Heat Warning in Phoenix as temps hit 105–110°F through Tuesday before a gradual midweek cooldown begins.",
+    "link": "https://www.newsweek.com/thousands-warned-of-major-heat-risk-in-phoenix-dangerously-hot-11939561",
+    "pubDate": "Tue, 12 May 2026 04:23:06 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-12T08:30:01.591Z"
   }
 ]
