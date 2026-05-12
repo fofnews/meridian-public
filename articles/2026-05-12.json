@@ -2813,5 +2813,298 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-12T12:00:04.099Z"
+  },
+  {
+    "title": "EU needs to delay social media access for children - von der Leyen",
+    "description": "She told an EU summit that an expert panel was due to come up with steps on how to protect minors online by July.",
+    "link": "https://www.bbc.com/news/articles/c9q3x19ddl7o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 12 May 2026 11:00:34 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-12T12:15:05.209Z"
+  },
+  {
+    "title": "Texas accuses Netflix of spying on users, including children",
+    "description": "The lawsuit comes amid increased scrutiny over platform features like auto-play that deliver endless content to users.",
+    "link": "https://www.bbc.com/news/articles/c072dvv1rmro?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 12 May 2026 10:01:54 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-12T12:15:05.209Z"
+  },
+  {
+    "title": "Hantavirus live updates: 16 at facility in Nebraska, 2 at hospital in Atlanta",
+    "description": "The MV Hondius cruise ship, on which the hantavirus infection was identified, has made its way to the Canary Islands, where passengers are disembarking.",
+    "link": "https://abcnews.com/International/live-updates/hantavirus-live-updates-mv-hondius-canary-islands/?id=132746955",
+    "pubDate": "Tue, 12 May 2026 08:12:07 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-05-12T12:15:05.209Z"
+  },
+  {
+    "title": "Brian Hooker's boat seized by Coast Guard after wife goes overboard in Bahamas",
+    "description": "The U.S. Coast Guard has seized the boat used by Americans Brian and Lynette Hooker.",
+    "link": "https://abcnews.com/International/brian-hookers-boat-seized-coast-guard-after-wife/story?id=132856456",
+    "pubDate": "Tue, 12 May 2026 08:08:30 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-05-12T12:15:05.209Z"
+  },
+  {
+    "title": "K9 to the rescue",
+    "description": "How a police dog became a hero in the search for a missing elderly man and how it was all caught on camera.",
+    "link": "https://abcnews.com/video/132874562/",
+    "pubDate": "Tue, 12 May 2026 08:09:47 -0400",
+    "source": "ABC News",
+    "categories": [
+      "gma"
+    ],
+    "collectedAt": "2026-05-12T12:15:05.209Z"
+  },
+  {
+    "title": "Watch Live: Hegseth questioned amid $1.5 trillion budget request",
+    "description": "Defense Secretary Pete Hegseth and Joint Chiefs Chairman Gen. Dan Caine are appearing in back-to-back hearings before the House and Senate Appropriations subcommittees that oversee defense spending.",
+    "link": "https://www.cbsnews.com/news/hegseth-caine-pentagon-budget-request-congress-committees/",
+    "pubDate": "Tue, 12 May 2026 08:02:43 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-05-12T12:15:05.209Z"
+  },
+  {
+    "title": "As Trump Dismisses Iran Truce Plan, World Braces for Lasting Economic Pain",
+    "description": "President Trump said the fragile cease-fire was on “life support,” and India’s leader urged residents to cut back on purchases and travel.",
+    "link": "https://www.nytimes.com/2026/05/11/world/middleeast/economic-woes-trump-iran-truce.html",
+    "pubDate": "Tue, 12 May 2026 11:58:15 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "economic conditions and trends",
+      "peace process",
+      "united states international relations",
+      "trump, donald j",
+      "xi jinping",
+      "oil (petroleum) and gasoline",
+      "modi, narendra",
+      "china",
+      "india",
+      "iran",
+      "israel",
+      "persian gulf",
+      "strait of hormuz",
+      "united arab emirates",
+      "united states",
+      "international relations"
+    ],
+    "collectedAt": "2026-05-12T12:15:05.209Z"
+  },
+  {
+    "title": "Argentina Faces Hantavirus Outbreak as Thousands to Visit US for World Cup",
+    "description": "Argentina is battling one of its largest outbreaks of hantavirus in years, with deaths rising.",
+    "link": "https://www.newsweek.com/argentina-faces-hantavirus-outbreak-as-thousands-to-visit-us-for-world-cup-11938289",
+    "pubDate": "Tue, 12 May 2026 08:11:34 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-12T12:15:05.209Z"
+  },
+  {
+    "title": "Trump's Venezuela Fantasy Turns America First Inside Out",
+    "description": "Perspective: The contradiction in the president's approach to Venezuela is both symbolic and strategic.",
+    "link": "https://www.newsweek.com/trump-venezuela-51st-state-immigration-america-first-11940401",
+    "pubDate": "Tue, 12 May 2026 08:05:01 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-12T12:15:05.209Z"
+  },
+  {
+    "title": "Watch live: Hegseth, Caine testify before House on Iran, defense budget",
+    "description": "Defense Secretary Pete Hegseth and Joint Chiefs of Staff Chair Dan Caine will testify before the House Appropriations Committee on Tuesday morning on the President Trump’s fiscal 2027 $1.5 trillion budget request for the Pentagon. The hearing comes as the fragile U.S.-Iran ceasefire is under pressure, with both sides rejecting proposals to end the war.…",
+    "link": "https://thehill.com/video-clips/5873516-watch-live-pete-hegseth-dan-caine-iran-war-defense-budget-house/",
+    "pubDate": "Tue, 12 May 2026 12:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "news",
+      "video"
+    ],
+    "collectedAt": "2026-05-12T12:15:05.209Z"
+  },
+  {
+    "title": "The Movement: Primaries affirm Trump’s grip on GOP, but key tests are ahead",
+    "description": "Some of the biggest primary battles of the year have reaffirmed President Trump’s grip on Republicans, despite the party facing tough midterm odds — but more tests are coming. Trump’s endorsement of Rep. Andy Barr (R-Ky.) for Senate last week, and an apparent offer to businessman Nate Morris to be an ambassador, led to Morris’s prompt withdrawal from the race —…",
+    "link": "https://thehill.com/newsletters/the-movement/5873156-trump-gop-endorsement-primary-tests/",
+    "pubDate": "Tue, 12 May 2026 12:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "news",
+      "newsletters",
+      "the movement"
+    ],
+    "collectedAt": "2026-05-12T12:15:05.209Z"
+  },
+  {
+    "title": "Trump urges House to pass Senate’s housing bill over conservative opposition",
+    "description": "President Trump on Monday urged the House to pass a sweeping housing affordability bill that has stalled in the lower chamber amid divisions over certain provisions, including a ban on large institutional investors buying single-family homes. The 21st Century ROAD to Housing Act, aimed at lowering housing costs, overwhelmingly passed the Senate in an 89-10…",
+    "link": "https://thehill.com/homenews/administration/5873550-trump-congress-housing-bill-gop/",
+    "pubDate": "Tue, 12 May 2026 11:52:11 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "house",
+      "news",
+      "senate",
+      "century road to housing act",
+      "fannie mae",
+      "freddie mac",
+      "house gop",
+      "housing affordability",
+      "housing bill",
+      "senate gop",
+      "trump administration",
+      "trump state of the union"
+    ],
+    "collectedAt": "2026-05-12T12:15:05.209Z"
+  },
+  {
+    "title": "The ‘godfather of crypto’ predicts $1 million bitcoin, but it’s going to fall first",
+    "description": "Michael Terpin explained his theory of four-year cycles in the bitcoin price that bottom during midterm-election years. One more correction is coming before another bull market.",
+    "link": "https://www.marketwatch.com/story/the-godfather-of-crypto-predicts-1-million-bitcoin-but-its-going-to-fall-first-af8558f7?mod=mw_rss_topstories",
+    "pubDate": "Tue, 12 May 2026 12:11:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-05-12T12:15:05.209Z"
+  },
+  {
+    "title": "Eagles Super Bowl champion accused of kicking out pregnant ex-girlfriend, seeking women on dating app",
+    "description": "Philadelphia Eagles Super Bowl champion Fred Johnson faces allegations from pregnant ex-girlfriend Alyssa Okada in viral TikTok video with millions of views.",
+    "link": "https://www.foxnews.com/outkick-sports/eagles-super-bowl-champion-accused-kicking-pregnant-ex-girlfriend-seeking-women-dating-app",
+    "pubDate": "Tue, 12 May 2026 08:03:51 -0400",
+    "source": "Fox News",
+    "categories": [
+      "aa1632b8-60c5-5a80-b87a-43aab2eb2d69",
+      "fnc",
+      "fox news",
+      "fox-news/sports/nfl/philadelphia-eagles",
+      "fox-news/sports/nfl",
+      "fox-news/sports",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-05-12T12:15:05.209Z"
+  },
+  {
+    "title": "Ric Flair takes another verbal chop at Lakers star over injury absence",
+    "description": "Ric Flair took another shot at Luka Doncic ahead of the Lakers' Game 4 loss to the Thunder, saying he has little sympathy for the hamstring.",
+    "link": "https://www.foxnews.com/sports/ric-flair-takes-another-verbal-chop-lakers-star-injury-absence",
+    "pubDate": "Tue, 12 May 2026 08:02:24 -0400",
+    "source": "Fox News",
+    "categories": [
+      "afff752a-42d8-59c6-b7de-fc5350bd1c43",
+      "fnc",
+      "fox news",
+      "fox-news/sports/pro-wrestling",
+      "fox-news/sports/nba/los-angeles-lakers",
+      "fox-news/sports/nba",
+      "fox-news/sports/injuries",
+      "fox-news/organization/wwe",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-05-12T12:15:05.209Z"
+  },
+  {
+    "title": "Lost pages with 'ghost' text recovered from one of the world's most important New Testament manuscripts",
+    "description": "Researchers recovered 42 lost pages from Codex H, one of the world's most important early New Testament manuscripts dating back to the sixth century.",
+    "link": "https://www.foxnews.com/travel/lost-pages-ghost-text-recovered-one-worlds-most-important-new-testament-manuscripts",
+    "pubDate": "Tue, 12 May 2026 08:00:29 -0400",
+    "source": "Fox News",
+    "categories": [
+      "d376edf1-0e83-57e1-98c5-d9c664e2bb3e",
+      "fnc",
+      "fox news",
+      "fox-news/science/archaeology",
+      "fox-news/science/archaeology/history",
+      "fox-news/christianity",
+      "fox-news/travel",
+      "fox-news/travel/regions/europe",
+      "fox-news/faith-values",
+      "fox-news/lifestyle",
+      "fox-news/travel",
+      "article"
+    ],
+    "collectedAt": "2026-05-12T12:15:05.209Z"
+  },
+  {
+    "title": "Seized boat may spill Bahamas disappearance secrets — but experts warn ticking clock could wash away the truth",
+    "description": "Coast Guard investigators seized the sailboat of Brian Hooker, whose wife Lynette went missing in the Bahamas, as their probe reportedly intensifies.",
+    "link": "https://www.foxnews.com/us/seized-boat-may-spill-bahamas-disappearance-secrets-experts-warn-ticking-clock-could-wash-away-truth",
+    "pubDate": "Tue, 12 May 2026 08:00:24 -0400",
+    "source": "Fox News",
+    "categories": [
+      "e91a0e31-ae34-57e1-917a-2afddc1491c3",
+      "fnc",
+      "fox news",
+      "fox-news/topic/missing-persons",
+      "fox-news/travel/regions/caribbean",
+      "fox-news/travel/vacation-destinations/bahamas",
+      "fox-news/us/military/coast-guard",
+      "fox-news/us/crime/homicide",
+      "fox-news/us",
+      "fox-news/us/true-crime",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-05-12T12:15:05.209Z"
+  },
+  {
+    "title": "FBI boss Patel faces Senate grilling, seeks $12B boost as controversies swirl",
+    "description": "Kash Patel will testify before the Senate to defend the FBI's $12 billion budget request as part of Trump's broader DOJ funding proposal of $41 billion.",
+    "link": "https://www.foxnews.com/politics/fbi-boss-patel-faces-senate-grilling-seeks-12b-boost-controversies-swirl",
+    "pubDate": "Tue, 12 May 2026 08:00:00 -0400",
+    "source": "Fox News",
+    "categories": [
+      "33996d11-b707-50b2-acd8-33675fec2ecb",
+      "fnc",
+      "fox news",
+      "fox-news/hearings",
+      "fox-news/politics/executive/national-security",
+      "fox-news/person/kash-patel",
+      "fox-news/tech/topics/fbi",
+      "fox-news/politics/justice-department",
+      "fox-news/politics",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-05-12T12:15:05.209Z"
+  },
+  {
+    "title": "Lakers’ Luka Doncic won’t play for Slovenian team amidst contentious custody battle",
+    "description": "The next time Luka Doncic is seen playing in a basketball game will have to wait until the fall – not the summer like is customary for the Lakers superstar.  Less than 30 minutes after the Lakers 2025-26 season ended with their Game 4 loss to the Thunder in the second round of the playoffs,...",
+    "link": "https://nypost.com/2026/05/12/sports/lakers-luka-doncic-wont-play-for-slovenia-this-summer/",
+    "pubDate": "Tue, 12 May 2026 08:11:43 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-12T12:15:05.209Z"
+  },
+  {
+    "title": "‘American Idol’ Season 24 winner revealed during star-studded finale",
+    "description": "Hannah Harper, Jordan McCullough and Keyla Richardson were the Top 3 during Monday's episode.",
+    "link": "https://pagesix.com/2026/05/12/entertainment/american-idol-season-24-winner-revealed-during-star-studded-finale/",
+    "pubDate": "Tue, 12 May 2026 08:02:50 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-12T12:15:05.209Z"
+  },
+  {
+    "title": "‘The Bear’ Stars Jon Bernthal and Ebon Moss-Bachrach Tease What Mikey’s Awful Speech to Richie in ‘Gary’ Was Really About: “There’s This One Black Box and That’s Their Father”",
+    "description": "\"It's like we know the whole neighborhood that The Bear takes place in, except for one.\"",
+    "link": "https://decider.com/2026/05/12/the-bear-gary-jon-bernthal-ebon-moss-bacharach-interview/",
+    "pubDate": "Tue, 12 May 2026 08:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-12T12:15:05.209Z"
   }
 ]
