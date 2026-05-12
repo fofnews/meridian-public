@@ -796,5 +796,75 @@
     "source": "Newsweek",
     "categories": [],
     "collectedAt": "2026-05-12T08:30:01.591Z"
+  },
+  {
+    "title": "Trump goes to China as Iran war smolders",
+    "description": "President Trump says he has a great relationship with President Xi. His trip to China will provide a temperature check.",
+    "link": "https://www.npr.org/2026/05/12/nx-s1-5818529/trump-goes-to-china-as-iran-war-smolders",
+    "pubDate": "Tue, 12 May 2026 04:41:30 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-05-12T08:45:01.263Z"
+  },
+  {
+    "title": "Stephen Colbert and late night hosts strike again as his show nears finale",
+    "description": "Stephen Colbert invited his \"best television friends,\" fellow late night hosts John Oliver, Seth Meyers and the two Jimmies— Kimmel and Fallon— to join him, as his final show on CBS is set for May 21.",
+    "link": "https://www.npr.org/2026/05/12/nx-s1-5819155/colbert-late-night-hosts-strike-again",
+    "pubDate": "Tue, 12 May 2026 04:27:15 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-05-12T08:45:01.263Z"
+  },
+  {
+    "title": "‘Whole morning revolves around gas’: Pakistan’s fuel crisis enters kitchens",
+    "description": "The crisis sees women waking up early, cooking quickly, rearranging meals and planning days around the prospect of gas.",
+    "link": "https://www.aljazeera.com/features/2026/5/12/whole-morning-revolves-around-gas-pakistans-fuel-crisis-enters-kitchens?traffic_source=rss",
+    "pubDate": "Tue, 12 May 2026 08:23:44 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-12T08:45:01.263Z"
+  },
+  {
+    "title": "Trump and Xi: The history of encounters between two superpower leaders",
+    "description": "US President Donald Trump and Chinese President Xi Jinping have met six times since 2017.",
+    "link": "https://www.aljazeera.com/news/2026/5/12/trump-and-xi-a-recap-of-talks-between-two-of-the-worlds-most-powerful-men?traffic_source=rss",
+    "pubDate": "Tue, 12 May 2026 08:08:56 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-12T08:45:01.263Z"
+  },
+  {
+    "title": "UK's Starmer faces crucial cabinet meeting as calls grow for him to quit - Reuters",
+    "description": "UK's Starmer faces crucial cabinet meeting as calls grow for him to quit  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONmlLX0hoVzVxNW1ySmRxZjQ4a19tODFUZlBqVWpYMUIzOGxYM1AwOHZVclNkcGVJTmx5d1dBWjBqRTBVVGl1TlgyQmZucmNqMllwZHQwU0tDbjJhaEpzVUlKX2F2VzFRRS1OY0RIWURzMjg5RjhGa1FnWDUxaDc5MHZaVmtlSWY1aTdEX1RMWmVpdTZELW9Rd0xJTTdNMFU?oc=5",
+    "pubDate": "Tue, 12 May 2026 06:35:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-05-12T08:45:01.263Z"
+  },
+  {
+    "title": "Russia ends ceasefire, launching ‘200 attack drones’ at Ukraine",
+    "description": "Russia resumed attacks against Ukraine on Tuesday, hours after a three-day ceasefire between the countries expired. Over 200 attack drones hit multiple Ukrainian cities, reportedly including residential areas, energy depots, infrastructure targets, and a kindergarten in Kyiv. Multiple people were reportedly injured in the strikes, and at least one person was killed, said Andrii Sybiha, […]",
+    "link": "https://www.washingtonexaminer.com/news/4564133/russia-ends-ceasefire-launching-200-attack-drones-at-ukraine/",
+    "pubDate": "Tue, 12 May 2026 08:43:54 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "world",
+      "donald trump",
+      "drones",
+      "kyiv",
+      "president donald trump",
+      "russia",
+      "russia-ukraine war",
+      "ukraine",
+      "vladimir putin",
+      "volodymyr zelensky"
+    ],
+    "collectedAt": "2026-05-12T08:45:01.263Z"
   }
 ]
