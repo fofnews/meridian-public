@@ -1496,6 +1496,16 @@
           "date": "2026-05-11",
           "edition": "evening",
           "update": "Iran submitted a counter-proposal to the U.S. through mediator Pakistan, marking Pakistan's formal role as intermediary in the ongoing conflict. Trump publicly rejected the counter-proposal, calling it 'unacceptable.'"
+        },
+        {
+          "date": "2026-05-11",
+          "edition": "evening",
+          "update": "Trump characterized the ceasefire with Iran as on 'massive life support' and described it as 'unbelievably weak' in remarks from the Oval Office on Monday. In response to rising gas prices linked to the conflict, Trump announced plans to suspend the federal gas tax during a phone interview with CBS News, calling it 'a great idea.' Separately, the UK imposed sanctions on an Iran-linked network accused of financing alleged attack plots and conducting money laundering operations."
+        },
+        {
+          "date": "2026-05-11",
+          "edition": "evening",
+          "update": "The UK sanctions on the Iran-linked network include asset freezes and travel bans targeting individuals accused of financing attack plots and money laundering."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2253,7 +2263,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-04-27",
+      "lastSeen": "2026-05-11",
       "active": true,
       "entries": [
         {
@@ -2270,6 +2280,11 @@
           "date": "2026-04-27",
           "edition": "evening",
           "update": "German Chancellor Friedrich Merz publicly stated that Iran is humiliating the United States in negotiations, describing Iranians as skilled at 'not negotiating' by causing American envoys to travel and then canceling talks. Merz made the remarks while visiting a school in his home region."
+        },
+        {
+          "date": "2026-05-11",
+          "edition": "evening",
+          "update": "Trump rejected Iran's counter-proposal on Monday, calling it 'unacceptable' and describing the ceasefire as on 'massive life support' and 'unbelievably weak' in remarks to reporters in the Oval Office. Iran's counter-proposal had been passed to the U.S. through Pakistan, which has been acting as mediator in the exchange."
         }
       ]
     },
@@ -2320,6 +2335,11 @@
           "date": "2026-05-11",
           "edition": "evening",
           "update": "Cole Allen, 31, pleaded not guilty on Monday in federal court to charges related to the alleged assassination attempt against President Trump at the White House Correspondents' Association dinner."
+        },
+        {
+          "date": "2026-05-11",
+          "edition": "evening",
+          "update": "Allen faces four total counts in the case. Monday's court proceeding was formally an arraignment, at which Allen entered not guilty pleas to all charges."
         }
       ]
     },
@@ -2399,5 +2419,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-13T11:04:05.519Z"
+  "updatedAt": "2026-05-13T13:30:50.331Z"
 }
