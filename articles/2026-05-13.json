@@ -221,5 +221,36 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-13T04:45:01.277Z"
+  },
+  {
+    "title": "Bears Rookie Abruptly Retires 2 Weeks After Signing With Team",
+    "description": "Chicago Bears rookie WR Squirrel White retired not long after signing with the team as an undrafted free agent.",
+    "link": "https://www.newsweek.com/sports/nfl/bears-rookie-abruptly-retires-2-weeks-after-signing-with-team-11944343",
+    "pubDate": "Wed, 13 May 2026 00:44:56 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-13T05:00:01.263Z"
+  },
+  {
+    "title": "Zelenskyy’s ex-chief of staff appears in court in money-laundering case",
+    "description": "Andriy Yermak is suspected in an alleged $10.5m money-laundering scheme involving a luxury real estate development.",
+    "link": "https://www.aljazeera.com/news/2026/5/13/zelenskyys-ex-chief-of-staff-appears-in-court-in-money-laundering-case?traffic_source=rss",
+    "pubDate": "Wed, 13 May 2026 04:51:20 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-13T05:00:01.263Z"
+  },
+  {
+    "title": "Putin hails Russia’s test launch of ‘most powerful missile in the world’",
+    "description": "Russian leader says the nuclear-capable Sarmat missile will enter combat service at the end of the year.",
+    "link": "https://www.aljazeera.com/news/2026/5/13/putin-hails-russias-test-launch-of-most-powerful-missile-in-the-world?traffic_source=rss",
+    "pubDate": "Wed, 13 May 2026 04:27:51 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-13T05:00:01.263Z"
   }
 ]
