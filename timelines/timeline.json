@@ -594,7 +594,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-04-22",
+      "lastSeen": "2026-05-12",
       "active": true,
       "entries": [
         {
@@ -731,6 +731,11 @@
           "date": "2026-04-22",
           "edition": "morning",
           "update": "UK inflation rose to 3.3%, with officials identifying the Iran-Israel conflict as a contributing factor in the first official economic data reflecting the war's impact on UK figures."
+        },
+        {
+          "date": "2026-05-12",
+          "edition": "evening",
+          "update": "President Trump described the ceasefire with Iran as on 'massive life support' and characterized it as fragile and at serious risk of collapse. Iran and the U.S. have exchanged threats over the ceasefire's future. When asked whether Americans' financial situations motivate his push for a deal, Trump told reporters 'not even a little bit,' stating his focus in negotiations is solely on preventing Iran from acquiring a nuclear weapon."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1780,7 +1785,7 @@
       "title": "Cuba Energy Crisis",
       "firstSeen": "2026-03-16",
       "lastSeen": "2026-04-12",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-03-16",
@@ -2225,7 +2230,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-11",
+      "lastSeen": "2026-05-12",
       "active": true
     },
     {
@@ -2394,5 +2399,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-11T21:04:37.531Z"
+  "updatedAt": "2026-05-13T11:04:05.519Z"
 }
