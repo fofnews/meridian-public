@@ -678,5 +678,31 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-13T07:30:01.741Z"
+  },
+  {
+    "title": "French hantavirus patient is critically ill as outbreak grows to 11",
+    "description": "A French woman infected in the deadly hantavirus outbreak on a cruise ship is critically ill and being treated with an artificial lung. The outbreak has now reached 11 total reported cases, 9 of which have been confirmed.",
+    "link": "https://www.npr.org/2026/05/13/nx-s1-5820639/french-hantavirus-patient-critically-ill",
+    "pubDate": "Wed, 13 May 2026 03:31:20 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-05-13T07:45:02.187Z"
+  },
+  {
+    "title": "Appeals court spares Trump from paying $83 million defamation award to E. Jean Carroll — for now",
+    "description": "NEW YORK (AP) — President Donald Trump won’t have to pay an $83 million defamation award to a longtime advice columnist until the U.S. Supreme Court gets a chance to review the case or reject an appeal, according to a court entry Tuesday. The 2nd U.S. Circuit Court of Appeals agreed to a request by one of […]",
+    "link": "https://www.washingtonexaminer.com/news/4565935/appeals-court-spares-trump-paying-83-million-defamation-e-jean-carroll/",
+    "pubDate": "Wed, 13 May 2026 07:36:51 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "appeals courts",
+      "defamation",
+      "donald trump",
+      "justice",
+      "president donald trump",
+      "supreme court"
+    ],
+    "collectedAt": "2026-05-13T07:45:02.187Z"
   }
 ]
