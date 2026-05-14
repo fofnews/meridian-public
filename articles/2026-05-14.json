@@ -291,5 +291,32 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-14T05:15:01.306Z"
+  },
+  {
+    "title": "The Papers:  'Wes, prime minister?' and 'My flare lady'",
+    "description": "Health Secretary Wes Streeting dominates the front pages on Thursday, as Sir Keir Starmer tries to retain his premiership.",
+    "link": "https://www.bbc.com/news/articles/c936d9562vlo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 14 May 2026 05:20:08 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-14T05:30:02.196Z"
+  },
+  {
+    "title": "Russia hits Kyiv with drones and ballistic missiles, killing 1 and injuring 31",
+    "description": "Russia has launched a mass drone and missile attack on Ukraine's capital, Kyiv, killing one person and injuring at least 31. Local authorities report damage across six districts.",
+    "link": "https://www.npr.org/2026/05/14/g-s1-121998/russia-hits-kyiv-with-drones-and-ballistic-missiles",
+    "pubDate": "Thu, 14 May 2026 01:21:16 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-05-14T05:30:02.196Z"
+  },
+  {
+    "title": "Thousands of mysterious underwater UFOs spotted off US shores: report",
+    "description": "Unidentified Submersible Objects (USOs) are defined as \"any object detected underwater that cannot be immediately identified or explained.\"",
+    "link": "https://nypost.com/2026/05/14/us-news/ufo-tracker-app-spots-thousands-of-mysterious-underwater-objects-off-us-shores/",
+    "pubDate": "Thu, 14 May 2026 01:20:43 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-14T05:30:02.196Z"
   }
 ]
