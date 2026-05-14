@@ -594,7 +594,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-12",
+      "lastSeen": "2026-05-13",
       "active": true,
       "entries": [
         {
@@ -736,6 +736,16 @@
           "date": "2026-05-12",
           "edition": "evening",
           "update": "President Trump described the ceasefire with Iran as on 'massive life support' and characterized it as fragile and at serious risk of collapse. Iran and the U.S. have exchanged threats over the ceasefire's future. When asked whether Americans' financial situations motivate his push for a deal, Trump told reporters 'not even a little bit,' stating his focus in negotiations is solely on preventing Iran from acquiring a nuclear weapon."
+        },
+        {
+          "date": "2026-05-13",
+          "edition": "morning",
+          "update": "Supply chain effects of the Iran-Israel conflict have reached Japanese consumer goods, with some snack packaging reverting to black-and-white printing due to disruptions in an ingredient used in colored ink traced to the war."
+        },
+        {
+          "date": "2026-05-13",
+          "edition": "evening",
+          "update": "Netanyahu made a secret visit to the United Arab Emirates, where he met with UAE President Sheikh Mohammed bin Zayed. Netanyahu's office confirmed the visit."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1049,7 +1059,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-05-11",
+      "lastSeen": "2026-05-13",
       "active": true,
       "entries": [
         {
@@ -1506,6 +1516,11 @@
           "date": "2026-05-11",
           "edition": "evening",
           "update": "The UK sanctions on the Iran-linked network include asset freezes and travel bans targeting individuals accused of financing attack plots and money laundering."
+        },
+        {
+          "date": "2026-05-13",
+          "edition": "evening",
+          "update": "The U.S. Senate voted on a bill to limit Trump's war powers regarding Iran, but the measure failed to pass. A number of Republican senators broke with their party to support the bill."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2240,7 +2255,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-12",
+      "lastSeen": "2026-05-13",
       "active": true
     },
     {
@@ -2419,5 +2434,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-13T13:30:50.331Z"
+  "updatedAt": "2026-05-13T21:04:25.926Z"
 }
