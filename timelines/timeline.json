@@ -2255,7 +2255,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-13",
+      "lastSeen": "2026-05-14",
       "active": true
     },
     {
@@ -2378,13 +2378,18 @@
       "title": "Cuba Military Intervention",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-04-29",
-      "lastSeen": "2026-04-29",
+      "lastSeen": "2026-05-14",
       "active": true,
       "entries": [
         {
           "date": "2026-04-29",
           "edition": "morning",
           "update": "The U.S. Senate blocked a Democratic-led resolution challenging Trump's military authority over Cuba, with Republican senators voting against advancing the measure."
+        },
+        {
+          "date": "2026-05-14",
+          "edition": "morning",
+          "update": "Cuba is experiencing severe energy disruptions due to a nationwide depletion of diesel and fuel oil stocks, with the U.S.-led embargo cited as a contributing factor to the shortage."
         }
       ]
     },
@@ -2434,5 +2439,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-13T21:04:25.926Z"
+  "updatedAt": "2026-05-14T11:03:26.892Z"
 }
