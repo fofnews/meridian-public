@@ -140,5 +140,71 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-14T04:30:01.540Z"
+  },
+  {
+    "title": "Cuba has run out of diesel and oil, energy minister says",
+    "description": "The minister says the situation in Cuba is \"extremely tense\", as a US-led blockade of oil to the country causes widespread power cuts.",
+    "link": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 14 May 2026 04:26:09 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-14T04:45:02.913Z"
+  },
+  {
+    "title": "Man set to be executed for killing his ex-girlfriend and her 7-month-old daughter",
+    "description": "An Oklahoma man convicted of killing his ex-girlfriend and her 7-month-old daughter after setting their home on fire nearly 20 years ago is facing execution",
+    "link": "https://abcnews.com/US/wireStory/oklahoma-man-set-executed-killing-girlfriend-7-month-132949110",
+    "pubDate": "Thu, 14 May 2026 00:26:44 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-05-14T04:45:02.913Z"
+  },
+  {
+    "title": "Honor guard welcomes Trump elaborate arrival ceremony",
+    "description": "President Trump and Chinese President Xi participate in an elaborate arrival ceremony ahead of their bilateral talks.",
+    "link": "https://www.nbcnews.com/video/shorts/honor-guard-welcomes-trump-elaborate-arrival-ceremony-263290437532",
+    "pubDate": "Thu, 14 May 2026 04:08:03 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-05-14T04:45:02.913Z"
+  },
+  {
+    "title": "Shakira, Madonna and BTS co-headline first-ever World Cup Final halftime show",
+    "description": "BTS, Madonna and Shakira will perform at the 2026 FIFA World Cup Final halftime show, curated by Coldplay's Chris Martin, the first ever for the tournament.",
+    "link": "https://www.foxnews.com/outkick-sports/fifa-announces-first-ever-world-cup-final-halftime-show-featuring-madonna-bts-shakira",
+    "pubDate": "Thu, 14 May 2026 00:34:15 -0400",
+    "source": "Fox News",
+    "categories": [
+      "c88017be-a5b0-50f1-808f-b47fae6ce6c2",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/sports/soccer",
+      "fox-news/sports",
+      "fox-news/sports/soccer/the-world-cup",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-05-14T04:45:02.913Z"
+  },
+  {
+    "title": "Xi raises prospect of a future US-China war in meeting with Trump: ‘Thucydides trap’",
+    "description": "Xi made reference to a geopolitical concept known as the Thucydides trap, which posits that there is a high probability of a violent clash when a rising power challenges the ruling hegemon.",
+    "link": "https://nypost.com/2026/05/14/us-news/xi-raises-prospect-of-a-future-us-china-war-at-trump-meeting/",
+    "pubDate": "Thu, 14 May 2026 00:40:36 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-14T04:45:02.913Z"
+  },
+  {
+    "title": "Girl, 5, grazed by bullet during gun fight between warring gangs on NYC street",
+    "description": "The 5-year-old girl was grazed in the ear when shots were exchanged between two groups, believed to be gang-affiliated, on Southern Avenue in Longwood.",
+    "link": "https://nypost.com/2026/05/14/us-news/girl-5-grazed-in-ear-by-bullet-during-gang-gun-fight-on-nyc-street/",
+    "pubDate": "Thu, 14 May 2026 00:36:54 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-14T04:45:02.913Z"
   }
 ]
