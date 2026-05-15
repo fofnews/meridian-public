@@ -2477,7 +2477,52 @@
           "update": "Tensions near the Strait of Hormuz have escalated, with one vessel seized near the UAE and taken toward Iran, and a second ship attacked and sunk off the coast of Oman."
         }
       ]
+    },
+    {
+      "id": "ra-l-castro-indictment-for-1996-plane-downing",
+      "title": "Raúl Castro Indictment for 1996 Plane Downing",
+      "parentId": null,
+      "firstSeen": "2026-05-15",
+      "lastSeen": "2026-05-15",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-05-15",
+          "edition": "evening",
+          "update": "The DOJ is pushing to indict former Cuban President Raúl Castro in connection with Cuba's 1996 downing of civilian planes, according to U.S. officials familiar with the matter."
+        }
+      ]
+    },
+    {
+      "id": "israeli-embassy-shooting-investigation",
+      "title": "Israeli Embassy Shooting Investigation",
+      "parentId": null,
+      "firstSeen": "2026-05-15",
+      "lastSeen": "2026-05-15",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-05-15",
+          "edition": "evening",
+          "update": "The DOJ formally filed its intent to seek the death penalty for the suspect accused of shooting and killing two Israeli Embassy staffers outside a Jewish museum in Washington, D.C. The filing was submitted to a federal judge on a Friday and is associated with U.S. Attorney for D.C. Jeanine Pirro."
+        }
+      ]
+    },
+    {
+      "id": "harvey-weinstein-trials",
+      "title": "Harvey Weinstein Trials",
+      "parentId": null,
+      "firstSeen": "2026-05-15",
+      "lastSeen": "2026-05-15",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-05-15",
+          "edition": "evening",
+          "update": "A judge declared a mistrial in Harvey Weinstein's third Manhattan sex crimes rape retrial after the jury deadlocked and was unable to reach a verdict. The charges were brought by accuser Jessica Mann."
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-05-15T11:03:29.734Z"
+  "updatedAt": "2026-05-15T21:04:58.796Z"
 }
