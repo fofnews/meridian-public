@@ -270,5 +270,43 @@
     "source": "The Free Press",
     "categories": [],
     "collectedAt": "2026-05-15T05:15:01.247Z"
+  },
+  {
+    "title": "UK anti-immigration social media accounts traced to Sri Lanka and Vietnam",
+    "description": "Overseas fakers are using AI videos to push a narrative of UK decline to large audiences, BBC finds.",
+    "link": "https://www.bbc.com/news/articles/ckgpyn30dp3o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 15 May 2026 05:01:37 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-15T05:30:01.240Z"
+  },
+  {
+    "title": "Tensions flare near Strait of Hormuz as a ship is seized and another is sunk",
+    "description": "Tensions are escalating again near the Strait of Hormuz after a ship anchored off the United Arab Emirates was seized and taken toward Iran and another was attacked and sank near the coast of Oman.",
+    "link": "https://www.npr.org/2026/05/15/g-s1-122203/tensions-flare-near-strait-of-hormuz",
+    "pubDate": "Fri, 15 May 2026 01:11:32 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-05-15T05:30:01.240Z"
+  },
+  {
+    "title": "Trump touts ‘fantastic trade deals’ in final Xi meeting amid tariff standoff",
+    "description": "President Donald Trump touts an incredible visit and fantastic trade deals with China after his final meeting with Xi, as Beijing agrees to order 200 Boeing jets.",
+    "link": "https://www.foxnews.com/politics/trump-touts-fantastic-trade-deals-final-xi-meeting-amid-tariff-standoff",
+    "pubDate": "Fri, 15 May 2026 01:02:12 -0400",
+    "source": "Fox News",
+    "categories": [
+      "ef1ab069-e93a-556a-b31d-2a616325e61c",
+      "fnc",
+      "fox news",
+      "fox-news/person/pete-hegseth",
+      "fox-news/us/economy/jobs",
+      "fox-news/person/donald-trump",
+      "fox-news/world/global-economy/trade",
+      "fox-news/person/xi-jinping",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-05-15T05:30:01.240Z"
   }
 ]
