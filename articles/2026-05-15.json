@@ -502,5 +502,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-15T06:30:02.814Z"
+  },
+  {
+    "title": "British Gas pays £20m to settle probe into force-fitting of prepayment meters",
+    "description": "Debt agents working for British Gas had broken into the homes of vulnerable customers to fit pre-payment energy meters.",
+    "link": "https://www.bbc.com/news/articles/cq8p7l1y59lo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 15 May 2026 06:37:19 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-15T06:45:01.678Z"
+  },
+  {
+    "title": "Iran war day 77: Trump, Xi discuss Hormuz as Tehran rallies BRICS",
+    "description": "The US and Chinese leaders agreed during talks that the Strait of Hormuz should remain open to ensure global supplies.",
+    "link": "https://www.aljazeera.com/news/2026/5/15/iran-war-day-77-trump-xi-discuss-hormuz-as-tehran-rallies-brics?traffic_source=rss",
+    "pubDate": "Fri, 15 May 2026 06:18:39 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-15T06:45:01.678Z"
   }
 ]
