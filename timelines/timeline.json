@@ -1069,7 +1069,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-05-13",
+      "lastSeen": "2026-05-15",
       "active": true,
       "entries": [
         {
@@ -1531,6 +1531,11 @@
           "date": "2026-05-13",
           "edition": "evening",
           "update": "The U.S. Senate voted on a bill to limit Trump's war powers regarding Iran, but the measure failed to pass. A number of Republican senators broke with their party to support the bill."
+        },
+        {
+          "date": "2026-05-15",
+          "edition": "morning",
+          "update": "The FBI is offering a reward for information on the whereabouts of Monica Witt, a former U.S. Air Force officer who allegedly defected to Iran in 2013 and is accused of providing classified national defense information to Iranian authorities."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2265,7 +2270,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-14",
+      "lastSeen": "2026-05-15",
       "active": true
     },
     {
@@ -2388,7 +2393,7 @@
       "title": "Cuba Military Intervention",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-04-29",
-      "lastSeen": "2026-05-14",
+      "lastSeen": "2026-05-15",
       "active": true,
       "entries": [
         {
@@ -2400,6 +2405,11 @@
           "date": "2026-05-14",
           "edition": "morning",
           "update": "Cuba is experiencing severe energy disruptions due to a nationwide depletion of diesel and fuel oil stocks, with the U.S.-led embargo cited as a contributing factor to the shortage."
+        },
+        {
+          "date": "2026-05-15",
+          "edition": "morning",
+          "update": "CIA Director John Ratcliffe met with Cuban officials in Havana on Thursday to discuss economic and security issues, with both sides confirming the meeting took place."
         }
       ]
     },
@@ -2452,7 +2462,22 @@
           "update": "Trump announced a three-day ceasefire between Russia and Ukraine running from May 9 to May 11, timed to coincide with Russia's Victory Day celebrations, along with a prisoner swap agreement."
         }
       ]
+    },
+    {
+      "id": "strait-of-hormuz-maritime-tensions",
+      "title": "Strait of Hormuz Maritime Tensions",
+      "parentId": null,
+      "firstSeen": "2026-05-15",
+      "lastSeen": "2026-05-15",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-05-15",
+          "edition": "morning",
+          "update": "Tensions near the Strait of Hormuz have escalated, with one vessel seized near the UAE and taken toward Iran, and a second ship attacked and sunk off the coast of Oman."
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-05-15T10:44:44.835Z"
+  "updatedAt": "2026-05-15T11:03:29.734Z"
 }
