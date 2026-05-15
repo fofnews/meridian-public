@@ -102,9 +102,9 @@ export default function App() {
     const articles = Array.isArray(s?.articles) ? s.articles : [];
     return new Set(articles.map(a => a?.source).filter(Boolean)).size;
   };
-  const multiSource = (report?.stories?.filter(s => sourceCount(s) >= 2) ?? [])
+  const multiSource = (report?.stories?.filter(s => !s.isParent && sourceCount(s) >= 2) ?? [])
     .sort((a, b) => sourceCount(b) - sourceCount(a));
-  const singleSource = report?.stories?.filter(s => sourceCount(s) < 2) ?? [];
+  const singleSource = report?.stories?.filter(s => !s.isParent && sourceCount(s) < 2) ?? [];
 
   // Last-resort fallback for errors that escape the per-section boundaries
   // below (e.g. a throw in App's own body). The per-section boundaries handle
