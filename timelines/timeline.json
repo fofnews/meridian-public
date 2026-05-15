@@ -599,7 +599,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-13",
+      "lastSeen": "2026-05-11",
       "active": true,
       "entries": [
         {
@@ -751,6 +751,11 @@
           "date": "2026-05-13",
           "edition": "evening",
           "update": "Netanyahu made a secret visit to the United Arab Emirates, where he met with UAE President Sheikh Mohammed bin Zayed. Netanyahu's office confirmed the visit."
+        },
+        {
+          "date": "2026-05-11",
+          "edition": "evening",
+          "update": "The UK imposed sanctions on a network accused of conducting attack plots and financial operations on behalf of Iran."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2449,5 +2454,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-14T21:04:20.266Z"
+  "updatedAt": "2026-05-15T10:44:44.835Z"
 }
