@@ -732,5 +732,34 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-05-15T08:00:01.328Z"
+  },
+  {
+    "title": "Five Italians die during cave scuba dive in Maldives",
+    "description": "Four of the Italians were part of a team from the University of Genoa.",
+    "link": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 15 May 2026 07:38:17 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-15T08:15:01.728Z"
+  },
+  {
+    "title": "Catholic Rebels Facing Excommunication Would 'Rather Die' Than Change",
+    "description": "Society of St. Pius X's leader told Pope Leo members want to remain in the Church but won't abandon its fundamentalist principles.",
+    "link": "https://www.newsweek.com/catholic-rebels-facing-excommunication-would-rather-die-than-change-11953756",
+    "pubDate": "Fri, 15 May 2026 04:13:30 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-15T08:15:01.728Z"
+  },
+  {
+    "title": "Scientists identify massive new dinosaur following Thailand dig",
+    "description": "Nagatitan chaiyaphumensis had enough unique features to be considered a new species.",
+    "link": "https://www.aljazeera.com/news/2026/5/15/scientists-identify-massive-new-dinosaur-following-thailand-dig?traffic_source=rss",
+    "pubDate": "Fri, 15 May 2026 08:02:40 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-15T08:15:01.728Z"
   }
 ]
