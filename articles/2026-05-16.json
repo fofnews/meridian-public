@@ -128,5 +128,48 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-16T04:45:01.583Z"
+  },
+  {
+    "title": "Long Island Rail Road workers go on strike, halting busiest US commuter rail system",
+    "description": "Workers on New York’s Long Island Rail Road are on strike, paralyzing the busiest commuter rail system in North America",
+    "link": "https://abcnews.com/US/wireStory/strike-deadline-nears-new-york-area-train-system-132994625",
+    "pubDate": "Sat, 16 May 2026 00:52:22 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-05-16T05:00:01.338Z"
+  },
+  {
+    "title": "LIRR Strike May Begin Tomorrow. Here’s What to Know.",
+    "description": "America’s busiest passenger rail service shut down on Saturday after unions and transit officials failed to agree on a new contract.",
+    "link": "https://www.nytimes.com/2026/05/13/nyregion/lirr-strike-long-island-rail-road.html",
+    "pubDate": "Sat, 16 May 2026 04:41:38 +0000",
+    "source": "NY Times",
+    "categories": [
+      "transit systems",
+      "railroads",
+      "long island rail road co",
+      "strikes",
+      "organized labor",
+      "brotherhood of locomotive engineers and trainmen",
+      "metropolitan transportation authority",
+      "brotherhood of railroad signalmen",
+      "international assn of machinists and aerospace workers",
+      "international brotherhood of electrical workers",
+      "commuting",
+      "wages and salaries",
+      "long island (ny)"
+    ],
+    "collectedAt": "2026-05-16T05:00:01.338Z"
+  },
+  {
+    "title": "Trump says ISIS second in command Abu-Bilal al-Minuki eliminated - Reuters",
+    "description": "Trump says ISIS second in command Abu-Bilal al-Minuki eliminated  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNblNUYkNXYVJHeEpscklIWjlaQWJ6dk9Idlk1aUxKNjd4NktpZjJfNVIzOHlvaktNR25xMnFheXBVdUFvNDZ0N2QyUG9xcTNZa24zQjZOcWYtTFIzUTc2aklrNVltZlpjaGVhRW4zOThLOW9OVklSaHpHR0NFdlZBTDhxQjJnMlcyd0xOc3g1QVpkUllHTER4VWY5cXR6dWk3QTN6d2VURjlLYlQ5Zk1zODM4bTNyUQ?oc=5",
+    "pubDate": "Sat, 16 May 2026 04:04:11 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-05-16T05:00:01.338Z"
   }
 ]
