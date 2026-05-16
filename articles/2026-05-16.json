@@ -254,5 +254,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-16T06:00:01.804Z"
+  },
+  {
+    "title": "Trump says Islamic State group leader was killed in a joint US-Nigerian mission",
+    "description": "President Donald Trump said U.S. and Nigerian forces carried out a mission Friday night to kill a leader of the Islamic State group",
+    "link": "https://abcnews.com/US/wireStory/trump-islamic-state-group-leader-killed-joint-us-133026521",
+    "pubDate": "Sat, 16 May 2026 01:43:01 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-05-16T06:15:02.323Z"
+  },
+  {
+    "title": "Trump's geopolitical brinkmanship has hit a wall with Iran - Reuters",
+    "description": "Trump's geopolitical brinkmanship has hit a wall with Iran  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZG82ZDhaS3UxcVRGSEpHTFVsb25nSVB0bVA0UEdYQlhrLWU4dmFlbUFiRDdScEtESkxtbHdqaWpnQ3BCcUZHanhNaGVEdERaTG5ia2RCWmpyZ0JZeC1KQUxCNVNHS1RhMWphNXBuT2ExUm5nOWtCaG1sNjh0YmVlY21iX1VrX2JGbE9Ka1g2WE9OaVh1YnA0dE5lMERxd1AxZURWV2JVcUdMV2lpMlE?oc=5",
+    "pubDate": "Sat, 16 May 2026 05:03:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-05-16T06:15:02.323Z"
   }
 ]
