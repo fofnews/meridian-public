@@ -6580,5 +6580,62 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-16T21:00:02.437Z"
+  },
+  {
+    "title": "Canadian from hantavirus-hit cruise ship tests positive",
+    "description": "The individual is one of four former passengers on the MV Hondius isolating on Vancouver Island, British Columbia.",
+    "link": "https://www.bbc.com/news/articles/c2k2p057ezno?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 16 May 2026 20:36:53 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-16T21:15:01.197Z"
+  },
+  {
+    "title": "Ice cream sold in 17 states recalled over possible metal contamination",
+    "description": "California-based Straus Family Creamery is recalling multiple organic ice cream products in pint and quart sizes due to the potential presence of metal fragments, according to a notice published Friday by the Food and Drug Administration",
+    "link": "https://www.nbcnews.com/news/us-news/straus-family-ice-cream-recall-rcna345485",
+    "pubDate": "Sat, 16 May 2026 20:57:26 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-05-16T21:15:01.197Z"
+  },
+  {
+    "title": "Rory McIlroy Walks Back Frustration of Course Setup at PGA Championship",
+    "description": "Rory McIlroy walked back his earlier comments regarding his frustration with the course setup at the PGA Championship.",
+    "link": "https://www.newsweek.com/sports/golf/rory-mcilroy-walks-back-frustration-of-course-setup-at-pga-championship-11960065",
+    "pubDate": "Sat, 16 May 2026 17:10:32 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-16T21:15:01.197Z"
+  },
+  {
+    "title": "Bolivian army attempts to clear roads after 11 days of protests",
+    "description": "Military police in Bolivia arrested demonstrators, and used tear gas to disrupt road blockades after 11 days of protests",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/bolivian-army-attempts-to-clear-roads-after-11-days-of-protests?traffic_source=rss",
+    "pubDate": "Sat, 16 May 2026 20:44:15 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-05-16T21:15:01.197Z"
+  },
+  {
+    "title": "Canadian Police respond to BBQ food theft, culprit found to be fox with mouthful of hot dogs",
+    "description": "Canadian police investigated a BBQ goods theft in Alberta and found the culprit was a fox caught red-handed stealing hot dogs from an outdoor cook.",
+    "link": "https://www.foxnews.com/outkick-culture/canadian-police-respond-bbq-food-theft-culprit-found-fox-mouthful-hot-dogs",
+    "pubDate": "Sat, 16 May 2026 16:55:03 -0400",
+    "source": "Fox News",
+    "categories": [
+      "789b67c4-364f-5c11-8732-b60c9bd5b771",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-culture",
+      "fox-news/food-drink/recipes/techniques/grilling",
+      "fox-news/odd-news",
+      "fox-news/science/natural-science",
+      "fox-news/outkick-culture",
+      "article"
+    ],
+    "collectedAt": "2026-05-16T21:15:01.197Z"
   }
 ]
