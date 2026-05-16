@@ -6892,5 +6892,75 @@
       "settlements"
     ],
     "collectedAt": "2026-05-16T22:00:02.452Z"
+  },
+  {
+    "title": "Here’s how the voting works.",
+    "description": "",
+    "link": "https://www.nytimes.com/live/2026/05/16/arts/eurovision-2026-final-winner/heres-how-the-voting-works",
+    "pubDate": "Sat, 16 May 2026 21:51:19 +0000",
+    "source": "NY Times",
+    "categories": [],
+    "collectedAt": "2026-05-16T22:15:01.371Z"
+  },
+  {
+    "title": "Severe Storms to Bring Strong Winds and Hail to Central United States",
+    "description": "A series of storms, including supercells, threatens to dump rain, hail and create a tornado risk for a vast section of the country. The most severe weather is expected on Monday.",
+    "link": "https://www.nytimes.com/2026/05/16/weather/storm-tornado-forecast-nebraska-minnesota.html",
+    "pubDate": "Sat, 16 May 2026 19:25:46 +0000",
+    "source": "NY Times",
+    "categories": [
+      "weather",
+      "tornadoes",
+      "floods",
+      "wind",
+      "midwestern states (us)",
+      "great lakes",
+      "colorado",
+      "iowa",
+      "kansas",
+      "minnesota",
+      "missouri",
+      "nebraska",
+      "texas"
+    ],
+    "collectedAt": "2026-05-16T22:15:01.371Z"
+  },
+  {
+    "title": "Two presidential campaign staffers killed in Colombia as elections near",
+    "description": "Rights office says the violence could hinder 'exercise of political rights' ahead of May vote to replace Gustavo Petro.",
+    "link": "https://www.aljazeera.com/news/2026/5/16/two-presidential-campaign-staffers-killed-in-colombia-as-elections-near?traffic_source=rss",
+    "pubDate": "Sat, 16 May 2026 21:42:04 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-16T22:15:01.371Z"
+  },
+  {
+    "title": "Carly Pearce knew her marriage was a mistake on her wedding night and 'blew up my life to get out'",
+    "description": "Carly Pearce says she knew on her wedding night that marrying Michael Ray was a mistake, revealing he made it 'very clear' she had made a big error.",
+    "link": "https://www.foxnews.com/entertainment/carly-pearce-knew-marriage-mistake-wedding-night-blew-life-get",
+    "pubDate": "Sat, 16 May 2026 17:55:40 -0400",
+    "source": "Fox News",
+    "categories": [
+      "cfc0b2d3-e3b5-53c1-99b4-f3d48126982d",
+      "fnc",
+      "fox news",
+      "fox-news/entertainment",
+      "fox-news/entertainment/events/divorce",
+      "fox-news/entertainment/genres/country",
+      "fox-news/entertainment",
+      "article"
+    ],
+    "collectedAt": "2026-05-16T22:15:01.371Z"
+  },
+  {
+    "title": "Popular ice cream brand recalls several flavors in 17 states over ‘metal foreign material’",
+    "description": "Straus Family Creamery has voluntarily recalled several ice cream flavors in 17 states over worries they may contain a \"metal foreign material.\"",
+    "link": "https://nypost.com/2026/05/16/us-news/straus-family-creamery-voluntarily-recalls-several-ice-cream-flavors-in-17-states/",
+    "pubDate": "Sat, 16 May 2026 18:07:43 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-16T22:15:01.371Z"
   }
 ]
