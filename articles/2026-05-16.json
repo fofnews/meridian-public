@@ -456,5 +456,36 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-16T08:00:01.275Z"
+  },
+  {
+    "title": "Cuba Braces as Trump Doubles Down Despite Iran War Woes",
+    "description": "\"This has become a very strong interest to the White House, and it doesn't appear to be going away or wavering,\" one expert said.",
+    "link": "https://www.newsweek.com/cuba-braces-as-trump-doubles-down-despite-iran-war-woes-11957914",
+    "pubDate": "Sat, 16 May 2026 04:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-16T08:15:02.204Z"
+  },
+  {
+    "title": "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended",
+    "description": "Iran says Trump signalled openness to talks as deadlock remains over Tehran’s nuclear programme.",
+    "link": "https://www.aljazeera.com/news/2026/5/16/iran-war-day-78-trump-tehran-signal-talks-as-lebanon-truce-extended?traffic_source=rss",
+    "pubDate": "Sat, 16 May 2026 08:02:43 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-16T08:15:02.204Z"
+  },
+  {
+    "title": "Gunmen kidnap dozens of students in Nigeria’s Borno State",
+    "description": "No group ​claimed responsibility for the raid, which bore the hallmark of the ​Boko Haram group.",
+    "link": "https://www.aljazeera.com/news/2026/5/16/gunmen-kidnap-dozens-of-students-in-nigerias-borno-state?traffic_source=rss",
+    "pubDate": "Sat, 16 May 2026 07:58:49 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-16T08:15:02.204Z"
   }
 ]
