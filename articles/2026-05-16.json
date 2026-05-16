@@ -99,5 +99,34 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-16T04:30:01.146Z"
+  },
+  {
+    "title": "Trump says Abu-Bilal al-Minuki, second in command of ISIS globally, killed in US-Nigerian operation",
+    "description": "President Trump announced U.S. and Nigerian forces eliminated Abu-Bilal al-Minuki, whom he identified as the second in command of ISIS globally.",
+    "link": "https://www.foxnews.com/world/trump-says-abu-bilal-al-minuki-second-command-isis-globally-killed-us-nigerian-operation",
+    "pubDate": "Sat, 16 May 2026 00:33:25 -0400",
+    "source": "Fox News",
+    "categories": [
+      "703f35c5-424f-5f7c-b392-46df66db8fa9",
+      "fnc",
+      "fox news",
+      "fox-news/us/operation-legend",
+      "fox-news/person/donald-trump",
+      "fox-news/world/terrorism/isis",
+      "fox-news/us/terror/counter-terrorism",
+      "fox-news/world/conflicts/syria",
+      "fox-news/world",
+      "article"
+    ],
+    "collectedAt": "2026-05-16T04:45:01.583Z"
+  },
+  {
+    "title": "NFL responds to Trump’s scathing ‘price gouging’ criticism of streaming games",
+    "description": "The NFL is swatting away President Donald Trump's criticism of their evolving business model.",
+    "link": "https://nypost.com/2026/05/16/sports/nfl-responds-to-trumps-scathing-gouging-criticism-of-streaming-games/",
+    "pubDate": "Sat, 16 May 2026 00:30:27 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-16T04:45:01.583Z"
   }
 ]
