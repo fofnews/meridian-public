@@ -180,5 +180,43 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-16T05:15:01.645Z"
+  },
+  {
+    "title": "Gaza airstrike targeted Hamas military wing leader, Israel says",
+    "description": "An Israeli airstrike in Gaza on Friday targeted the leader of Hamas' military wing, Israeli officials said, but it wasn't immediately clear if Izz al-Din al-Haddad was killed or injured.",
+    "link": "https://www.npr.org/2026/05/16/g-s1-122453/gaza-airstrike-hamas-military-leader",
+    "pubDate": "Sat, 16 May 2026 01:15:57 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-05-16T05:30:10.046Z"
+  },
+  {
+    "title": "Trump says ISIS second-in-command killed in Africa",
+    "description": "President Donald Trump late Friday said that a top Islamic State group commander has been killed in Africa in a joint operation with Nigeria’s armed forces",
+    "link": "https://www.nbcnews.com/politics/politics-news/trump-says-isis-second-command-killed-africa-rcna345430",
+    "pubDate": "Sat, 16 May 2026 05:09:06 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-05-16T05:30:10.046Z"
+  },
+  {
+    "title": "Outbreak of rare strain of Ebola claims at least 65 lives in DR Congo",
+    "description": "Sixty-five people have died in a new Ebola outbreak in DR Congo's Ituri province with 246 suspected cases.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/outbreak-of-rare-strain-of-ebola-claims-at-least-65-lives-in-dr-congo?traffic_source=rss",
+    "pubDate": "Sat, 16 May 2026 04:58:26 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-05-16T05:30:10.046Z"
+  },
+  {
+    "title": "University of Georgia student dies after jumping off cliff into Alabama lake while celebrating graduation",
+    "description": "“Jayden jumped off the rock, and witnesses told us he never came back up.”",
+    "link": "https://nypost.com/2026/05/16/us-news/university-of-georgia-student-jayden-barreto-dies-after-jumping-from-cliff-into-alabama-lake-celebrating-graduation/",
+    "pubDate": "Sat, 16 May 2026 01:18:11 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-16T05:30:10.046Z"
   }
 ]
