@@ -2030,7 +2030,7 @@
       "title": "Artemis Moon Mission",
       "firstSeen": "2026-03-23",
       "lastSeen": "2026-04-16",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-03-23",
@@ -2270,7 +2270,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-15",
+      "lastSeen": "2026-05-16",
       "active": true
     },
     {
@@ -2393,7 +2393,7 @@
       "title": "Cuba Military Intervention",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-04-29",
-      "lastSeen": "2026-05-15",
+      "lastSeen": "2026-05-16",
       "active": true,
       "entries": [
         {
@@ -2410,6 +2410,11 @@
           "date": "2026-05-15",
           "edition": "morning",
           "update": "CIA Director John Ratcliffe met with Cuban officials in Havana on Thursday to discuss economic and security issues, with both sides confirming the meeting took place."
+        },
+        {
+          "date": "2026-05-16",
+          "edition": "morning",
+          "update": "U.S. officials are seeking to indict former Cuban leader Raúl Castro, according to U.S. officials."
         }
       ]
     },
@@ -2524,5 +2529,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-15T21:04:58.796Z"
+  "updatedAt": "2026-05-16T11:03:18.122Z"
 }
