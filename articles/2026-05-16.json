@@ -416,5 +416,27 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-16T07:30:01.360Z"
+  },
+  {
+    "title": "Spain PM defends Eurovision boycott over Israel",
+    "description": "Spanish PM Pedro Sanchez has defended Spain’s boycott of the Eurovision Song Contest over Israel’s participation.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/spain-pm-defends-eurovision-boycott-over-israel?traffic_source=rss",
+    "pubDate": "Sat, 16 May 2026 07:31:10 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-16T07:45:01.226Z"
+  },
+  {
+    "title": "Man killed in great white shark attack in western Australia",
+    "description": "The 38-year-old was bitten at a popular diving and fishing spot near the city of Perth, police say.",
+    "link": "https://www.aljazeera.com/news/2026/5/16/man-killed-in-great-white-shark-attack-in-western-australia?traffic_source=rss",
+    "pubDate": "Sat, 16 May 2026 07:13:16 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-16T07:45:01.226Z"
   }
 ]
