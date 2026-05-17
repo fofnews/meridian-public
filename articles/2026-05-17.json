@@ -6221,5 +6221,43 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-17T22:30:01.472Z"
+  },
+  {
+    "title": "Netanyahu 'blunder' threatens US-backed Israel-UAE alliance at critical moment with Iran: analyst",
+    "description": "U.S.-brokered Israel-UAE alliance shows signs of strain after Netanyahu's claimed secret UAE visit drew a swift denial amid rising Iran tensions.",
+    "link": "https://www.foxnews.com/world/netanyahu-blunder-threatens-us-backed-israel-uae-alliance-critical-moment-iran-analyst",
+    "pubDate": "Sun, 17 May 2026 18:34:20 -0400",
+    "source": "Fox News",
+    "categories": [
+      "a7750ac3-f013-53aa-af97-f88e29593899",
+      "fnc",
+      "fox news",
+      "fox-news/person/benjamin-netanyahu",
+      "fox-news/world/world-regions/middle-east",
+      "fox-news/politics/foreign-policy/alliances",
+      "fox-news/world/conflicts/iran",
+      "fox-news/world/world-regions/israel",
+      "fox-news/world",
+      "article"
+    ],
+    "collectedAt": "2026-05-17T22:45:02.633Z"
+  },
+  {
+    "title": "Spencer Pratt vows to leave LA and find 'last American Dream' in another city if mayoral bid fails",
+    "description": "Spencer Pratt admitted he won't rebuild his Palisades wildfire-destroyed home unless he wins LA's mayoral race, and threatened to leave the city otherwise.",
+    "link": "https://www.foxnews.com/entertainment/spencer-pratt-vows-leave-la-find-last-american-dream-another-city-mayoral-bid-fails",
+    "pubDate": "Sun, 17 May 2026 18:29:42 -0400",
+    "source": "Fox News",
+    "categories": [
+      "3d475bb2-9ed3-5f72-8cb6-cc7578bdc78c",
+      "fnc",
+      "fox news",
+      "fox-news/entertainment",
+      "fox-news/entertainment/genres/reality",
+      "fox-news/entertainment/tv",
+      "fox-news/entertainment",
+      "article"
+    ],
+    "collectedAt": "2026-05-17T22:45:02.633Z"
   }
 ]
