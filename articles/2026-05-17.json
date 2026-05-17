@@ -541,5 +541,58 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-17T08:45:01.349Z"
+  },
+  {
+    "title": "Riot police deal with 'serious disorder' as Celtic fans celebrate Premiership title win",
+    "description": "Hoops fans gathered in Glasgow's east end after a 3-1 win put paid to Hearts' dream of lifting the trophy.",
+    "link": "https://www.bbc.com/news/articles/c5yegmxv883o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 17 May 2026 08:45:30 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-17T09:00:01.204Z"
+  },
+  {
+    "title": "Bulgaria wins Eurovision for first time; Israel comes second amid boycott",
+    "description": "Spain, Netherlands, Ireland, Iceland and Slovenia stage biggest political boycott in Eurovision history over Gaza war.",
+    "link": "https://www.aljazeera.com/news/2026/5/17/bulgaria-wins-eurovision-for-first-time-israel-comes-second-amid-boycott?traffic_source=rss",
+    "pubDate": "Sun, 17 May 2026 08:42:47 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-17T09:00:01.204Z"
+  },
+  {
+    "title": "Sardar Azmoun left out as Iran announce World Cup 2026 squad",
+    "description": "Veteran striker Azmoun was not named in the 30-man squad, which will be trimmed to 26 by June 1.",
+    "link": "https://www.aljazeera.com/sports/2026/5/17/sardar-azmoun-left-out-as-iran-announce-world-cup-2026-squad?traffic_source=rss",
+    "pubDate": "Sun, 17 May 2026 08:40:52 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-05-17T09:00:01.204Z"
+  },
+  {
+    "title": "Federal funding for Trump ballroom in trouble after Senate ruling",
+    "description": "Republicans seek to allocate $1bn in public funds for Secret Service security upgrades linked to the plans.",
+    "link": "https://www.aljazeera.com/news/2026/5/17/federal-funding-for-trump-ballroom-in-trouble-after-senate-ruling?traffic_source=rss",
+    "pubDate": "Sun, 17 May 2026 08:37:38 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-17T09:00:01.204Z"
+  },
+  {
+    "title": "Chelsea appoint Xabi Alonso as new manager on four-year deal",
+    "description": "Former Real Madrid coach replaces Liam Rosenior at the end of a difficult season for the Premier League club.",
+    "link": "https://www.aljazeera.com/sports/2026/5/17/chelsea-appoint-xabi-alonso-as-new-manager-premier-league-club-says?traffic_source=rss",
+    "pubDate": "Sun, 17 May 2026 08:37:02 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-05-17T09:00:01.204Z"
   }
 ]
