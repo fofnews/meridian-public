@@ -304,7 +304,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-05-10",
+      "lastSeen": "2026-05-17",
       "active": true,
       "entries": [
         {
@@ -471,6 +471,11 @@
           "date": "2026-05-10",
           "edition": "morning",
           "update": "Vladimir Putin declared his belief that the war with Ukraine is 'coming to an end' as a new three-day ceasefire went into effect."
+        },
+        {
+          "date": "2026-05-17",
+          "edition": "evening",
+          "update": "Ukraine launched one of its largest drone attacks on Russia, killing at least four people, three of them in the Moscow region."
         }
       ],
       "parentId": null
@@ -764,7 +769,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-04-22",
+      "lastSeen": "2026-05-17",
       "active": true,
       "entries": [
         {
@@ -836,6 +841,11 @@
           "date": "2026-04-22",
           "edition": "evening",
           "update": "President Trump announced on Truth Social that eight Iranian women protesters accused of involvement in anti-regime protests will not be executed, posting 'Very good news!' following his public plea for their release the previous day."
+        },
+        {
+          "date": "2026-05-17",
+          "edition": "evening",
+          "update": "Trump issued escalating warnings to Iran, stating the 'clock is ticking' and that there 'won't be anything left' of Iran if it does not act, as US-Iran peace negotiations appear to be at a standstill."
         }
       ],
       "parentId": null
@@ -2544,5 +2554,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-17T11:03:46.058Z"
+  "updatedAt": "2026-05-17T21:02:52.651Z"
 }
