@@ -4,7 +4,6 @@ import MapHero from './components/MapHero';
 import BroadcastStage from './components/BroadcastStage';
 import DateNav from './components/DateNav';
 import StoryCard from './components/StoryCard';
-import ParentStoryCard from './components/ParentStoryCard';
 import SuggestionBox from './components/SuggestionBox';
 import ArticlesView from './components/ArticlesView';
 import TimelineView from './components/TimelineView';
@@ -105,22 +104,13 @@ export default function App() {
   };
 
   const allStories = report?.stories ?? [];
-  const storyById = new Map(allStories.map(s => [s.id, s]));
-
-  const parentGroups = allStories
-    .filter(s => s.isParent)
-    .map(parent => ({
-      parent,
-      subThreads: (parent.subThreadIds ?? []).map(id => storyById.get(id)).filter(Boolean),
-    }))
-    .sort((a, b) => b.subThreads.length - a.subThreads.length);
 
   const multiSource = allStories
-    .filter(s => !s.isParent && !s.parentId && sourceCount(s) >= 2)
+    .filter(s => !s.isParent && sourceCount(s) >= 2)
     .sort((a, b) => sourceCount(b) - sourceCount(a));
 
   const singleSource = allStories
-    .filter(s => !s.isParent && !s.parentId && sourceCount(s) < 2);
+    .filter(s => !s.isParent && sourceCount(s) < 2);
 
   // Last-resort fallback for errors that escape the per-section boundaries
   // below (e.g. a throw in App's own body). The per-section boundaries handle
@@ -291,18 +281,11 @@ export default function App() {
                   </h2>
                   <div style={{ flex: 1, height: 1, background: 'var(--border-primary)' }} />
                   <span className="text-xs shrink-0 font-semibold uppercase" style={{ color: 'var(--accent)', letterSpacing: '2px' }}>
-                    {parentGroups.length + multiSource.length} stories
+                    {multiSource.length} stories
                   </span>
                 </div>
 
                 <div className="space-y-4">
-                  {parentGroups.map(({ parent, subThreads }) => (
-                    <ParentStoryCard
-                      key={parent.id}
-                      parent={parent}
-                      subThreads={subThreads}
-                    />
-                  ))}
                   {multiSource.map((story, i) => (
                     <StoryCard
                       key={story.id}
@@ -312,7 +295,7 @@ export default function App() {
                         scrollAnchor.current = { element: el, top: el.getBoundingClientRect().top };
                         const next = expandedStory === story.id ? null : story.id;
                         setExpandedStory(next);
-                        if (next) setFeaturedIdx(i + parentGroups.length);
+                        if (next) setFeaturedIdx(i);
                       }}
                     />
                   ))}

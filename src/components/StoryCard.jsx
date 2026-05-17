@@ -93,7 +93,10 @@ export default function StoryCard({ story, brief = false, expanded, onToggle }) 
             </span>
             <span style={{ color: 'var(--border-dim)' }}>·</span>
             <div className="flex flex-wrap gap-1">
-              {sources.map(s => <SourceBadge key={s} source={s} />)}
+              {sources.slice(0, 6).map(s => <SourceBadge key={s} source={s} />)}
+              {sources.length > 6 && (
+                <span className="text-xs" style={{ color: 'var(--text-faint)' }}>+{sources.length - 6} more</span>
+              )}
             </div>
             {agreementCount > 0 && (
               <>
