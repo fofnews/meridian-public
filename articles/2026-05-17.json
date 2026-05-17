@@ -722,5 +722,64 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-05-17T09:30:02.277Z"
+  },
+  {
+    "title": "Extremist Jewish settlers eye Gaza as they seek to expel Palestinians from enclave",
+    "description": "Calls for Jewish settlements in Gaza are shifting toward the mainstream in Israel, with some groups advocating the wholesale ethnic cleansing of Palestinians.",
+    "link": "https://www.nbcnews.com/world/gaza/extremist-jewish-settlers-gaza-expel-palestinians-enclave-rcna341575",
+    "pubDate": "Sun, 17 May 2026 09:30:42 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-05-17T09:45:01.743Z"
+  },
+  {
+    "title": "Thousands Told To ‘Keep Windows Closed’ in Two States Over Air Quality",
+    "description": "Air quality alerts hit California and Colorado as dust and wildfire smoke drive hazardous pollution, posing possible health risks.",
+    "link": "https://www.newsweek.com/thousands-told-keep-windows-closed-air-quality-california-colorado-11960701",
+    "pubDate": "Sun, 17 May 2026 05:35:48 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-17T09:45:01.743Z"
+  },
+  {
+    "title": "At least four killed in Ukrainian drone attacks on Russia",
+    "description": "Russian authorities say three people killed in the Moscow region and one in Belgorod in Ukrainian attacks.",
+    "link": "https://www.aljazeera.com/news/2026/5/17/at-least-four-killed-in-ukrainian-drone-attacks-on-russia?traffic_source=rss",
+    "pubDate": "Sun, 17 May 2026 09:14:31 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-17T09:45:01.743Z"
+  },
+  {
+    "title": "Conor McGregor to fight Max Holloway in UFC return on July 11",
+    "description": "MMA legend will compete for the first time in five years at UFC 329 in the United States.",
+    "link": "https://www.aljazeera.com/sports/2026/5/17/conor-mcgregor-to-fight-max-holloway-in-ufc-return-on-july-11?traffic_source=rss",
+    "pubDate": "Sun, 17 May 2026 09:09:09 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-05-17T09:45:01.743Z"
+  },
+  {
+    "title": "King Charles 'shocked and saddened' over soldier's 'unexplained' death at horse show he attended",
+    "description": "King Charles was \"shocked and saddened\" after a soldier died following a fall at the Royal Windsor Horse Show during a King's Troop display Friday.",
+    "link": "https://www.foxnews.com/world/king-charles-shocked-saddened-soldiers-unexplained-death-horse-show-attended",
+    "pubDate": "Sun, 17 May 2026 05:30:24 -0400",
+    "source": "Fox News",
+    "categories": [
+      "e88b7c3b-59c9-5dab-b314-43fb3e9db052",
+      "fnc",
+      "fox news",
+      "fox-news/world/personalities/british-royals",
+      "fox-news/person/king-charles-iii",
+      "fox-news/world",
+      "fox-news/world/world-regions/united-kingdom",
+      "fox-news/world",
+      "article"
+    ],
+    "collectedAt": "2026-05-17T09:45:01.743Z"
   }
 ]
