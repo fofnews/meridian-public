@@ -2527,7 +2527,22 @@
           "update": "A judge declared a mistrial in Harvey Weinstein's third Manhattan sex crimes rape retrial after the jury deadlocked and was unable to reach a verdict. The charges were brought by accuser Jessica Mann."
         }
       ]
+    },
+    {
+      "id": "ebola-outbreak-dr-congo-uganda-2025",
+      "title": "Ebola Outbreak DR Congo Uganda 2025",
+      "parentId": null,
+      "firstSeen": "2026-05-17",
+      "lastSeen": "2026-05-17",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-05-17",
+          "edition": "morning",
+          "update": "The WHO declared the Ebola outbreak affecting DR Congo and Uganda a global public health emergency, with approximately 80 deaths reported across both countries."
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-05-17T10:49:05.001Z"
+  "updatedAt": "2026-05-17T11:03:46.058Z"
 }
