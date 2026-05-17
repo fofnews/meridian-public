@@ -5799,5 +5799,62 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-17T21:00:01.682Z"
+  },
+  {
+    "title": "Random Shootings Spur Shelter in Place in Austin",
+    "description": "Austin Police Chief Lisa Davis said the shootings appear random in nature, and investigators have not identified a motive.",
+    "link": "https://www.newsweek.com/random-shootings-spur-shelter-in-place-in-austin-11961414",
+    "pubDate": "Sun, 17 May 2026 17:14:43 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-17T21:15:01.304Z"
+  },
+  {
+    "title": "Is the Staff Job Is Dead? Welcome to the Era of Fractional Work",
+    "description": "The staff job may not be dead, but it is changing fast. Here is what experts told Newsweek about what you should know.",
+    "link": "https://www.newsweek.com/staff-job-dead-welcome-era-fractional-work-11936212",
+    "pubDate": "Sun, 17 May 2026 17:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-17T21:15:01.304Z"
+  },
+  {
+    "title": "NY governor blamed for 'lack of leadership' as railroad strike disrupts more than 300,000 commuters",
+    "description": "Nassau County Executive Bruce Blakeman blames Gov. Kathy Hochul for the LIRR strike crisis, accusing her of driving New York commuters into chaos.",
+    "link": "https://www.foxnews.com/media/ny-governor-blamed-lack-leadership-railroad-strike-disrupts-more-than-300000-commuters",
+    "pubDate": "Sun, 17 May 2026 17:00:44 -0400",
+    "source": "Fox News",
+    "categories": [
+      "37311368-52c8-5104-a86b-451284b0bd0d",
+      "fnc",
+      "fox news",
+      "fox-news/media",
+      "fox-news/us/economy/labor-unions",
+      "fox-news/person/kathy-hochul",
+      "fox-news/us/us-regions/northeast/new-york",
+      "fox-news/media/fox-news-flash",
+      "fox-news/shows/fox-friends-weekend",
+      "fox-news/media",
+      "article"
+    ],
+    "collectedAt": "2026-05-17T21:15:01.304Z"
+  },
+  {
+    "title": "Vandals mount toilet to toppled Christopher Columbus statue as activist fumes over lack of investigation: ‘Blatant racism’",
+    "description": "The pedestal that once held a statue of Columbus had been empty since it was pulled down by a mob in 2020 -- until last week.",
+    "link": "https://nypost.com/2026/05/17/us-news/vandals-mount-toilet-to-toppled-christopher-columbus-statue-as-activist-fumes-over-lack-of-investigation-blatant-racism/",
+    "pubDate": "Sun, 17 May 2026 17:07:38 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-17T21:15:01.304Z"
+  },
+  {
+    "title": "Tyrone Taylor’s dramatic homer rallies Mets in 10-inning win to take Subway Series from Yankees",
+    "description": "Down to their final out, Tyrone Taylor hit a game-tying three-run homer in the bottom of the ninth.",
+    "link": "https://nypost.com/2026/05/17/sports/mets-rally-from-dramatic-win-over-yankees-to-take-subway-series/",
+    "pubDate": "Sun, 17 May 2026 17:00:29 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-17T21:15:01.304Z"
   }
 ]
