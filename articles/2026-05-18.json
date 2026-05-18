@@ -173,5 +173,52 @@
     "source": "BBC News",
     "categories": [],
     "collectedAt": "2026-05-18T05:15:01.233Z"
+  },
+  {
+    "title": "Instant AI answers can trivialise human intelligence, warns Royal Observatory",
+    "description": "Paddy Rodgers said the Observatory's rich history showed the power of human knowledge and the need to avoid \"dependence\" on AI.",
+    "link": "https://www.bbc.com/news/articles/c2023l60370o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 18 May 2026 05:19:27 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-18T05:30:01.279Z"
+  },
+  {
+    "title": "EU to force companies to buy components from non-Chinese suppliers, FT reports - Reuters",
+    "description": "EU to force companies to buy components from non-Chinese suppliers, FT reports  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWJCZjhjZFBkS1VfNWNRVGs3b1lpTlZzTEJ6eEhLLUs0bDJKbmZFWTZUMWQ5YlVpREh6X3ZCLS0wQjdiZUpNOWUwN096UUNSR3ZXNVZ2M2F0Y09veF9NNlJpYzRoeWstd016cWNocjF1SkZTVEtDREdXSU5QQW90UDhCd0pKWG14QU5VTDBHNTVfcW5TbkU5eDVibGlDZV9PV01tblJ4dVR2eE42UGpmVmkzWVI?oc=5",
+    "pubDate": "Mon, 18 May 2026 04:20:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-05-18T05:30:01.279Z"
+  },
+  {
+    "title": "Arkansas man allegedly threatened Walmart mass shooting over hantavirus lockdown fears, authorities say",
+    "description": "Arkansas man arrested for allegedly threatening a Walmart mass shooting over a potential hantavirus lockdown, according to the Marion County Sheriff.",
+    "link": "https://www.foxnews.com/us/arkansas-man-allegedly-threatened-walmart-mass-shooting-hantavirus-lockdown-fears-authorities-say",
+    "pubDate": "Mon, 18 May 2026 01:11:25 -0400",
+    "source": "Fox News",
+    "categories": [
+      "6008364c-e805-550e-8c82-7502a33176c9",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/midwest/arkansas",
+      "fox-news/health/infectious-disease/hantavirus",
+      "fox-news/health/infectious-disease/outbreaks",
+      "fox-news/us/crime/mass-murder",
+      "fox-news/us/mass-shootings",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-05-18T05:30:01.279Z"
+  },
+  {
+    "title": "Chicago pastor gathers hundreds of men to declare violence-free zone in notorious neighborhood",
+    "description": "Project H.O.O.D. brought together pastors, fathers, mentors and former gang members from across Chicago.",
+    "link": "https://nypost.com/2026/05/18/us-news/chicago-pastor-corey-b-brooks-gathers-hundreds-of-men-to-declare-violence-free-zone-on-south-side/",
+    "pubDate": "Mon, 18 May 2026 01:17:06 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-18T05:30:01.279Z"
   }
 ]
