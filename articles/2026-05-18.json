@@ -565,5 +565,54 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-18T08:00:01.392Z"
+  },
+  {
+    "title": "Iran live updates: Saudi Arabia, UAE condemn fresh drone attacks",
+    "description": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.",
+    "link": "https://abcnews.com/International/live-updates/iran-live-updates-saudi-arabia-uae-condemn-fresh/?id=133061203",
+    "pubDate": "Mon, 18 May 2026 04:07:05 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-05-18T08:15:06.845Z"
+  },
+  {
+    "title": "Thousands in New York, Maryland, California To Stay Inside Over Air Quality",
+    "description": "An air quality health advisory has been issued for New York City, with ozone levels expected to push the AQI above 100.",
+    "link": "https://www.newsweek.com/thousands-new-york-maryland-california-stay-inside-air-quality-11961695",
+    "pubDate": "Mon, 18 May 2026 04:09:33 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-18T08:15:06.845Z"
+  },
+  {
+    "title": "Mali drone strikes kill at least 10 civilians at wedding",
+    "description": "Mali's military carries out strikes after attacks last month by al-Qaeda-linked fighters and Tuareg separatists.",
+    "link": "https://www.aljazeera.com/news/2026/5/18/mali-drone-strikes-kill-at-least-10-civilians-at-wedding?traffic_source=rss",
+    "pubDate": "Mon, 18 May 2026 07:51:58 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-18T08:15:06.845Z"
+  },
+  {
+    "title": "Anthropic to brief global financial watchdog on cyber flaws exposed by Mythos, FT reports - Reuters",
+    "description": "Anthropic to brief global financial watchdog on cyber flaws exposed by Mythos, FT reports  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaE96UFNSbUJBTS12SUdiU3NZTHNiVU92TmNuZVhuOHQwSFFnQngtZjQ4Qi04WTN1T1lzU2RlLUFEZnZBQlFNVnlpZzIwdDdsM29TVks5aVpiTUkxZkdLVndheWxmLU51TXFwSWFRb1EtRFhNMDRUc3FDZUUzZExiUDlLbklWa3V1dFRrUUFNcGZxWE1CN0dFTlprS1JwUFBxZzJpb2Rhdm54aTl5TXZGNWdGeE9vSEUzdzdsZGd3?oc=5",
+    "pubDate": "Mon, 18 May 2026 06:47:01 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-05-18T08:15:06.845Z"
+  },
+  {
+    "title": "4 crew members eject safely after two Navy jets crash during air show in Idaho - AP News",
+    "description": "4 crew members eject safely after two Navy jets crash during air show in Idaho  AP News",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcGxncGFXSC1vNFNHQUtLX2U3UjZDZURrVGNXSGNMVmNXOUVneEZDeTJFQlZTYjJIa2J3X1RNNjhVdnkxRUN0cElWY0dSRGwyYjZsdEx2ZlRxcllzLS1KdGZ1MkxzZUMyOGJwYlR1VXMxWGdVdXExQ2JqdFpaak01R3BIWi1aWFc5cTJHWmdId3c1V2dfRnA4?oc=5",
+    "pubDate": "Mon, 18 May 2026 04:16:00 GMT",
+    "source": "AP News",
+    "categories": [],
+    "collectedAt": "2026-05-18T08:15:06.845Z"
   }
 ]
