@@ -105,12 +105,15 @@ export default function App() {
 
   const allStories = report?.stories ?? [];
 
+  // !s.isParent and !s.parentId: backward-compat guards for old reports still
+  // in the repo that contain empty parent containers and sub-thread stories.
+  // New reports have neither field; guards can be removed once old reports are gone.
   const multiSource = allStories
-    .filter(s => !s.isParent && sourceCount(s) >= 2)
+    .filter(s => !s.isParent && !s.parentId && sourceCount(s) >= 2)
     .sort((a, b) => sourceCount(b) - sourceCount(a));
 
   const singleSource = allStories
-    .filter(s => !s.isParent && sourceCount(s) < 2);
+    .filter(s => !s.isParent && !s.parentId && sourceCount(s) < 2);
 
   // Last-resort fallback for errors that escape the per-section boundaries
   // below (e.g. a throw in App's own body). The per-section boundaries handle
