@@ -304,7 +304,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-05-10",
+      "lastSeen": "2026-05-17",
       "active": true,
       "entries": [
         {
@@ -471,6 +471,11 @@
           "date": "2026-05-10",
           "edition": "morning",
           "update": "Vladimir Putin declared his belief that the war with Ukraine is 'coming to an end' as a new three-day ceasefire went into effect."
+        },
+        {
+          "date": "2026-05-17",
+          "edition": "evening",
+          "update": "Ukraine launched one of its largest drone attacks on Russia, killing at least four people, three of them in the Moscow region."
         }
       ],
       "parentId": null
@@ -764,7 +769,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-04-22",
+      "lastSeen": "2026-05-17",
       "active": true,
       "entries": [
         {
@@ -836,6 +841,11 @@
           "date": "2026-04-22",
           "edition": "evening",
           "update": "President Trump announced on Truth Social that eight Iranian women protesters accused of involvement in anti-regime protests will not be executed, posting 'Very good news!' following his public plea for their release the previous day."
+        },
+        {
+          "date": "2026-05-17",
+          "edition": "evening",
+          "update": "Trump issued escalating warnings to Iran, stating the 'clock is ticking' and that there 'won't be anything left' of Iran if it does not act, as US-Iran peace negotiations appear to be at a standstill."
         }
       ],
       "parentId": null
@@ -2527,7 +2537,22 @@
           "update": "A judge declared a mistrial in Harvey Weinstein's third Manhattan sex crimes rape retrial after the jury deadlocked and was unable to reach a verdict. The charges were brought by accuser Jessica Mann."
         }
       ]
+    },
+    {
+      "id": "ebola-outbreak-dr-congo-uganda-2025",
+      "title": "Ebola Outbreak DR Congo Uganda 2025",
+      "parentId": null,
+      "firstSeen": "2026-05-17",
+      "lastSeen": "2026-05-17",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-05-17",
+          "edition": "morning",
+          "update": "The WHO declared the Ebola outbreak affecting DR Congo and Uganda a global public health emergency, with approximately 80 deaths reported across both countries."
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-05-17T10:49:05.001Z"
+  "updatedAt": "2026-05-18T10:08:05.860Z"
 }
