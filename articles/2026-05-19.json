@@ -1366,5 +1366,405 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-19T10:00:01.185Z"
+  },
+  {
+    "title": "Jackson Pollock painting sells for record $181m at auction",
+    "description": "The Abstract Expressionist's Number 7A, 1948 painting is now his most expensive artwork ever sold at auction.",
+    "link": "https://www.bbc.com/news/articles/crkp777llgko?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 19 May 2026 09:59:58 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-19T10:15:01.340Z"
+  },
+  {
+    "title": "3 adults killed in shooting at Islamic Center of San Diego; both suspects dead",
+    "description": "Three adults were killed in a shooting at the Islamic Center of San Diego on Monday, the San Diego Police Department said.",
+    "link": "https://abcnews.com/US/active-shooter-reported-islamic-center-san-diego-police/story?id=133081988",
+    "pubDate": "Tue, 19 May 2026 05:59:40 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-05-19T10:15:01.340Z"
+  },
+  {
+    "title": "Brother, sister share special bond over basketball",
+    "description": "ESPN's Mike Breen profiles a man in Wisconsin who calls New York Knicks games from his living room to make his sister smile following her traumatic brain injury.",
+    "link": "https://abcnews.com/video/133100071/",
+    "pubDate": "Tue, 19 May 2026 06:08:03 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-05-19T10:15:01.340Z"
+  },
+  {
+    "title": "Russia conducting 3 days of major nuclear drills",
+    "description": "Russia's army has started three days of nuclear weapons drills involving thousands of troops across the country, as Kyiv escalates its drone attacks and with President Vladimir Putin headed to China.",
+    "link": "https://www.cbsnews.com/news/russia-nuclear-drills-major-3-days/",
+    "pubDate": "Tue, 19 May 2026 06:14:09 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-05-19T10:15:01.340Z"
+  },
+  {
+    "title": "Divers recover bodies of 2 Italians from Maldives sea cave",
+    "description": "The bodies of two Italian divers have been brought to the surface after the Maldives' worst diving disaster, with two more yet to recover, a government spokesman says.",
+    "link": "https://www.cbsnews.com/news/maldives-sea-cave-4-italians-bodies-divers/",
+    "pubDate": "Tue, 19 May 2026 06:06:31 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-05-19T10:15:01.340Z"
+  },
+  {
+    "title": "What to know about today's primaries in Georgia, Kentucky and more",
+    "description": "Voters are going to the polls Tuesday for primaries in several states, including the most expensive House primary in history.",
+    "link": "https://www.cbsnews.com/news/2026-midterm-elections-primaries-kentucky-georgia-pennsyvlania-alabama-idaho/",
+    "pubDate": "Tue, 19 May 2026 06:00:06 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-05-19T10:15:01.340Z"
+  },
+  {
+    "title": "Trump’s New $1.8 Billion Pot of Money, and a Deadly Mosque Attack in California",
+    "description": "Plus, a North Korean soccer team hits the road.",
+    "link": "https://www.nytimes.com/2026/05/19/podcasts/the-headlines/trump-irs-mosque-attack-california.html",
+    "pubDate": "Tue, 19 May 2026 10:00:06 +0000",
+    "source": "NY Times",
+    "categories": [
+      "mosques",
+      "treasury department",
+      "trump, donald j",
+      "california"
+    ],
+    "collectedAt": "2026-05-19T10:15:01.340Z"
+  },
+  {
+    "title": "Charitable Platforms Have Empowered Trump’s Attack on Dissent | Opinion",
+    "description": "The decision to effectively aid the administration’s attack on SPLC poses a direct threat to the health of our democracy.",
+    "link": "https://www.newsweek.com/charitable-platforms-have-empowered-trumps-attack-on-dissent-opinion-11964138",
+    "pubDate": "Tue, 19 May 2026 06:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-19T10:15:01.340Z"
+  },
+  {
+    "title": "Iran squad in race against time for World Cup readiness amid US-Israel war",
+    "description": "With Iran's local football league suspended since March, most players in the squad have not been in action for months.",
+    "link": "https://www.aljazeera.com/sports/2026/5/19/iran-squad-in-race-against-time-for-world-cup-readiness-amid-us-israel-war?traffic_source=rss",
+    "pubDate": "Tue, 19 May 2026 10:00:36 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-05-19T10:15:01.340Z"
+  },
+  {
+    "title": "Khartoum’s slow recovery amid cautious return",
+    "description": "War-damaged Khartoum sees uneven recovery as residents weigh return amid fragile services and economy.",
+    "link": "https://www.aljazeera.com/news/2026/5/19/khartoums-slow-recovery-amid-cautious-return?traffic_source=rss",
+    "pubDate": "Tue, 19 May 2026 09:41:34 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-19T10:15:01.340Z"
+  },
+  {
+    "title": "The Memo: Massie seeks to buck GOP trend, survive Trump-enforced exit",
+    "description": "Rep. Thomas Massie (R-Ky.) will be the latest Republican to face his fate against a Trump-backed primary challenger on Tuesday. Retired Navy SEAL Ed Gallrein is Massie’s official opponent. But the real threat comes from the White House, where President Trump has repeatedly blasted the libertarian-minded incumbent. Massie is extremely skeptical of government spending in…",
+    "link": "https://thehill.com/homenews/administration/5883993-gallrein-massie-kentucky-gop/",
+    "pubDate": "Tue, 19 May 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "news"
+    ],
+    "collectedAt": "2026-05-19T10:15:01.340Z"
+  },
+  {
+    "title": "Republicans seek to shift blame for unpopular redistricting war",
+    "description": "Republicans on Capitol Hill are seeking to shift the blame for the redistricting war onto Democrats, downplaying President Trump’s leading role in a gerrymandering frenzy that’s unpopular with voters of all stripes.  Trump instigated the rare, mid-decade redistricting fight last summer when he pressed Texas state Republicans to redraw their map with designs to eliminate five Democratic…",
+    "link": "https://thehill.com/homenews/house/5883852-republicans-blame-redistricting-democrats/",
+    "pubDate": "Tue, 19 May 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "house",
+      "news"
+    ],
+    "collectedAt": "2026-05-19T10:15:01.340Z"
+  },
+  {
+    "title": "Republicans grow increasingly worried about Trump’s negative polls",
+    "description": "Republicans see President Trump’s sagging approval ratings as a major problem heading into the midterms. Their fears are underscored by a New York Times/Siena College poll released on Monday showing Trump’s approval ratings hitting new second term lows as voters expressed anxiety about inflation, gas prices and U.S. involvement in the war in Iran.  …",
+    "link": "https://thehill.com/homenews/state-watch/5883896-republicans-fear-trump-approval-decline/",
+    "pubDate": "Tue, 19 May 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "news",
+      "state watch"
+    ],
+    "collectedAt": "2026-05-19T10:15:01.340Z"
+  },
+  {
+    "title": "Gallego to offer DACA, immigration enforcement amendments for reconciliation bill",
+    "description": "Sen. Ruben Gallego (D-Ariz.) will propose amendments to immigration policy on Tuesday as part of reconciliation legislation to fund federal immigration enforcement agencies.  Gallego, the son of a Colombian mother and a Mexican father, will file three amendments during the Senate Homeland Security and Governmental Affairs Committee markup, according to copies of his proposals obtained…",
+    "link": "https://thehill.com/homenews/senate/5884372-senate-daca-amendments-gallego/",
+    "pubDate": "Tue, 19 May 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "house",
+      "news",
+      "senate"
+    ],
+    "collectedAt": "2026-05-19T10:15:01.340Z"
+  },
+  {
+    "title": "Trump’s SAVE America Act push creates fresh headaches for GOP leaders",
+    "description": "President Trump is ramping up pressure on GOP leaders to attach the Safeguard American Voter Eligibility (SAVE America) Act to must-pass legislation, a move that would complicate an already difficult stretch on Capitol Hill. Republicans in both chambers are racing to get a bipartisan housing bill, a long-term extension of the Foreign Intelligence Surveillance Act’s…",
+    "link": "https://thehill.com/homenews/house/5884025-trump-gop-save-act-housing-fisa/",
+    "pubDate": "Tue, 19 May 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "house",
+      "news",
+      "senate"
+    ],
+    "collectedAt": "2026-05-19T10:15:01.340Z"
+  },
+  {
+    "title": "Trump’s ouster of Republican senator sends shockwaves through Senate GOP",
+    "description": "The resounding defeat of Sen. Bill Cassidy (R) in Saturday’s Louisiana primary has sent shockwaves through the Senate Republican Conference, underscoring how Republicans who look to distance themselves from President Trump and his low approval ratings will have to think twice about paying a political price for perceived disloyalty. Cassidy’s ouster came a few weeks…",
+    "link": "https://thehill.com/homenews/senate/5884028-trump-republican-party-loyalty/",
+    "pubDate": "Tue, 19 May 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "news",
+      "senate"
+    ],
+    "collectedAt": "2026-05-19T10:15:01.340Z"
+  },
+  {
+    "title": "Kids digital safety concerns collide with prediction market debate",
+    "description": "The growing popularity of prediction markets has caught the attention of kids online safety advocates in Congress and gambling researchers, putting pressure on the industry to explain what they are doing to prevent minors and those younger than 21 from using their platforms.  The scrutiny from Congress largely comes from a contingent of lawmakers who…",
+    "link": "https://thehill.com/policy/technology/5883658-lawmakers-address-prediction-markets/",
+    "pubDate": "Tue, 19 May 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "business",
+      "technology"
+    ],
+    "collectedAt": "2026-05-19T10:15:01.340Z"
+  },
+  {
+    "title": "Trump-Massie feud hits fever pitch: What to watch in Kentucky, Georgia, Alabama primaries",
+    "description": "Six states are set to conclude primary voting Tuesday, with the spotlight on Rep. Thomas Massie’s (R) ugly primary battle in Kentucky and the highly competitive Senate and gubernatorial contests in Georgia.  The Kentucky House primary marks the latest front in President Trump’s fight to oust GOP dissenters and another test of his influence among the party’s…",
+    "link": "https://thehill.com/homenews/campaign/5883312-trump-massie-kentucky-georgia-alabama-primary-elections/",
+    "pubDate": "Tue, 19 May 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "house",
+      "news",
+      "senate",
+      "state watch"
+    ],
+    "collectedAt": "2026-05-19T10:15:01.340Z"
+  },
+  {
+    "title": "America's best-tasting pizza chain is an old-school favorite, survey finds",
+    "description": "A YouGov survey of over 44,000 diners finds Pizza Hut edges out Domino's as America's best-tasting fast-food pizza, with Papa Johns ranking third in the list.",
+    "link": "https://www.foxnews.com/food-drink/americas-best-tasting-pizza-chain-old-school-favorite-survey-finds",
+    "pubDate": "Tue, 19 May 2026 06:00:43 -0400",
+    "source": "Fox News",
+    "categories": [
+      "2ae28cba-4b9e-5f3a-ba0f-b40aca818b1b",
+      "fnc",
+      "fox news",
+      "fox-news/food-drink/food/restaurants",
+      "fox-news/food-drink/food/fast-food",
+      "fox-news/food-drink/food/food-trends",
+      "fox-news/food-drink/recipes/cuisines/american",
+      "fox-news/food-drink",
+      "fox-news/lifestyle",
+      "fox-news/food-drink/recipes/meals",
+      "fox-news/food-drink",
+      "article"
+    ],
+    "collectedAt": "2026-05-19T10:15:01.340Z"
+  },
+  {
+    "title": "Prince Harry and Meghan Markle face renewed criticism over ‘half-in, half-out’ royal role: experts",
+    "description": "Prince Harry and Meghan Markle, the Duke and Duchess of Sussex, continue leveraging royal connections after their exit, with experts divided on whether it helps or hurts.",
+    "link": "https://www.foxnews.com/entertainment/prince-harry-meghan-markle-face-renewed-criticism-half-half-royal-role-experts",
+    "pubDate": "Tue, 19 May 2026 06:00:40 -0400",
+    "source": "Fox News",
+    "categories": [
+      "36659e4e-6738-5c67-b444-da520f7bbbfe",
+      "fnc",
+      "fox news",
+      "fox-news/world/personalities/british-royals",
+      "fox-news/person/prince-harry",
+      "fox-news/entertainment/celebrity-news/meghan-markle",
+      "fox-news/world/personalities/queen",
+      "fox-news/person/king-charles-iii",
+      "fox-news/world/personalities/will",
+      "fox-news/entertainment",
+      "fox-news/entertainment",
+      "article"
+    ],
+    "collectedAt": "2026-05-19T10:15:01.340Z"
+  },
+  {
+    "title": "Blue-state tax burden fuels Americans fleeing to Republican-led southern states",
+    "description": "The widening fiscal gap between red and blue America is driving migration patterns as states compete for residents with vastly different tax models.",
+    "link": "https://www.foxnews.com/politics/blue-state-tax-burden-fuels-americans-fleeing-republican-led-southern-states",
+    "pubDate": "Tue, 19 May 2026 06:00:21 -0400",
+    "source": "Fox News",
+    "categories": [
+      "7b43f156-d238-537f-be87-5ef85aa80a21",
+      "fnc",
+      "fox news",
+      "fox-news/politics/judiciary/state-and-local",
+      "fox-news/politics/state-and-local/governors",
+      "fox-news/politics/elections/republicans",
+      "fox-news/politics/finance/taxes",
+      "fox-news/us/us-regions/northeast/new-jersey",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-05-19T10:15:01.340Z"
+  },
+  {
+    "title": "Poland seeks answers after Pentagon scraps planned US armored brigade rotation",
+    "description": "Poland seeks answers from U.S. officials after the Pentagon canceled a planned armored brigade rotation, raising concerns among NATO's top defense spender.",
+    "link": "https://www.foxnews.com/politics/poland-seeks-answers-after-pentagon-scraps-planned-us-armored-brigade-rotation",
+    "pubDate": "Tue, 19 May 2026 06:00:21 -0400",
+    "source": "Fox News",
+    "categories": [
+      "d78598f6-0885-5cda-969b-a7804b17a4ac",
+      "fnc",
+      "fox news",
+      "fox-news/world/nato",
+      "fox-news/person/pete-hegseth",
+      "fox-news/politics/defense",
+      "fox-news/world/conflicts/ukraine",
+      "fox-news/tech/topics/pentagon",
+      "fox-news/world",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-05-19T10:15:01.340Z"
+  },
+  {
+    "title": "Dems demand release of hidden DNC autopsy after 2024 collapse: ‘We got our butts kicked’",
+    "description": "House Democrats publicly question why the DNC has not released its 2024 election autopsy, with some calling the delay embarrassing for party leaders.",
+    "link": "https://www.foxnews.com/politics/dems-demand-release-hidden-dnc-autopsy-2024-collapse-got-butts-kicked",
+    "pubDate": "Tue, 19 May 2026 06:00:19 -0400",
+    "source": "Fox News",
+    "categories": [
+      "44c1e859-6927-5788-86cd-8047246051ad",
+      "fnc",
+      "fox news",
+      "fox-news/democrats",
+      "fox-news/politics/elections/midterm-elections",
+      "fox-news/democrats",
+      "fox-news/us/democratic-party",
+      "fox-news/person/jerrold-nadler",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-05-19T10:15:01.340Z"
+  },
+  {
+    "title": "Tyler Robinson's defense team fights to seal evidence and punish prosecutors in Charlie Kirk's assassination",
+    "description": "Tyler Robinson, accused of assassinating Charlie Kirk at a Utah event, faces court hearing on defense motions to seal evidence and close testimony.",
+    "link": "https://www.foxnews.com/us/tyler-robinsons-defense-team-fights-seal-evidence-punish-prosecutors-charlie-kirks-assassination",
+    "pubDate": "Tue, 19 May 2026 06:00:13 -0400",
+    "source": "Fox News",
+    "categories": [
+      "8e94fe84-d2a5-5dd9-8d21-9a52520c4dd9",
+      "fnc",
+      "fox news",
+      "fox-news/person/tyler-robinson",
+      "fox-news/media/charlie-kirk",
+      "fox-news/us/terror/assassinations-murders",
+      "fox-news/us/crime/homicide",
+      "fox-news/us",
+      "fox-news/us/us-regions/west/utah",
+      "fox-news/us/true-crime",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-05-19T10:15:01.340Z"
+  },
+  {
+    "title": "AFT boss Randi Weingarten tapped  union resources worth over $1.4M to write ‘manifesto’ book",
+    "description": "American Federation of Teachers boss Randi Weingarten tapped hundreds of thousands in union resources to help write her controversial book -- working with a team that raked in more than $1.4 million from the labor group, a new analysis found.",
+    "link": "https://nypost.com/2026/05/19/us-news/aft-boss-randi-weingarten-tapped-union-resources-worth-over-1-4m-to-write-manifesto-book/",
+    "pubDate": "Tue, 19 May 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-19T10:15:01.340Z"
+  },
+  {
+    "title": "Gas prices: Three consecutive days of increases at the pumps to begin the week",
+    "description": "The national average price for regular gas increased again on Tuesday, climbing to $4.533 per gallon. It marked the third consecutive day of pump price increases, less than a week before the Memorial Day Weekend holiday, traditionally recognized as the beginning of the summer season.  Gas prices have fluctuated between $4.50 and $4.56 per gallon […]",
+    "link": "https://www.washingtonexaminer.com/news/4573835/gas-prices-three-consecutive-days-of-increases-at-the-pumps-to-begin-work-week/",
+    "pubDate": "Tue, 19 May 2026 10:06:52 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "economy",
+      "energy",
+      "news",
+      "affordability",
+      "donald trump",
+      "fossil fuels",
+      "gas",
+      "gas prices",
+      "iran",
+      "president donald trump",
+      "strait of hormuz",
+      "trump administration"
+    ],
+    "collectedAt": "2026-05-19T10:15:01.340Z"
+  },
+  {
+    "title": "Asians to Democrats: You’re not doing enough to win our votes",
+    "description": "The Supreme Court‘s weakening of the Voting Rights Act in the Louisiana v. Callais ruling has led to much anxiety about the representation of African American voters in the Deep South. But leaders in the Asian American community are also warning that the ruling could affect the Democratic Party‘s ability to galvanize their voters with […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4568748/asian-american-vote-democrats-not-doing-enough/",
+    "pubDate": "Tue, 19 May 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "congressional",
+      "2026 elections",
+      "asian americans",
+      "donald trump",
+      "supreme court",
+      "voting",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-05-19T10:15:01.340Z"
+  },
+  {
+    "title": "An unburdened Bill Cassidy doesn’t regret Trump impeachment vote after primary loss",
+    "description": "Sen. Bill Cassidy (R-LA), fresh off a stunning primary election loss over the weekend to two Republican challengers, holds no remorse for actions that likely cost him his political career. That includes his 2021 vote to convict President Donald Trump of impeachment over the U.S. Capitol riot. “I voted to uphold the Constitution. That may […]",
+    "link": "https://www.washingtonexaminer.com/news/senate/4573703/bill-cassidy-no-regrets-after-primary-loss/",
+    "pubDate": "Tue, 19 May 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "senate",
+      "2026 elections",
+      "bill cassidy",
+      "congress",
+      "donald trump",
+      "louisiana",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-05-19T10:15:01.340Z"
   }
 ]
