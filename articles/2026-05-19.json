@@ -2628,5 +2628,180 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-19T11:45:02.013Z"
+  },
+  {
+    "title": "Charges sought for up to 57 people over Grenfell",
+    "description": "The Met Police says it will submit files to the Crown Prosecution Service by the end of September.",
+    "link": "https://www.bbc.com/news/articles/c1e24vxyqnwo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 19 May 2026 11:36:36 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-19T12:00:01.533Z"
+  },
+  {
+    "title": "Swatch boss defends watch launch that sparked chaos and closures",
+    "description": "Nick Hayek Jr says the pocket watch launch saw \"overcrowding like hell\" at a small number of its UK stores.",
+    "link": "https://www.bbc.com/news/articles/cq6p0vzyvrmo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 19 May 2026 11:47:03 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-19T12:00:01.533Z"
+  },
+  {
+    "title": "I survived a dangerous rip current by floating - here's what people should know to stay alive",
+    "description": "The RNLI is urging people to follow Euan Gray's example by floating until help comes.",
+    "link": "https://www.bbc.com/news/articles/c3v2nvnrexdo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 19 May 2026 07:12:53 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-19T12:00:01.533Z"
+  },
+  {
+    "title": "Security guard at Islamic Center of San Diego hailed as a hero",
+    "description": "Amin Abdullah, the security guard who was killed along with two others in a shooting at the Islamic Center of San Diego on Monday, is being hailed as a hero.",
+    "link": "https://abcnews.com/US/security-guard-islamic-center-san-diego-hailed-hero/story?id=133101287",
+    "pubDate": "Tue, 19 May 2026 07:49:12 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-05-19T12:00:01.533Z"
+  },
+  {
+    "title": "Troops say Army ignored request for more medical support before deadly attack",
+    "description": "Survivors say they'd asked for more medical support before the Iranian drone strike that killed six U.S. soldiers at their command post in Kuwait in the war's first 24 hours.",
+    "link": "https://www.cbsnews.com/news/troops-army-medical-support-iran-kuwait-attack/",
+    "pubDate": "Tue, 19 May 2026 07:51:01 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-05-19T12:00:01.533Z"
+  },
+  {
+    "title": "Middle East on Edge After Trump Says He Delayed Attack on Iran",
+    "description": "President Trump said he had postponed a “very major attack” against Iran, as Pakistan continued its mediation efforts to end the war.",
+    "link": "https://www.nytimes.com/2026/05/19/world/middleeast/iran-trump-tension.html",
+    "pubDate": "Tue, 19 May 2026 11:37:52 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "united states politics and government",
+      "united states international relations",
+      "politics and government",
+      "peace process",
+      "international relations",
+      "defense and military forces",
+      "united states defense and military forces",
+      "araghchi, abbas",
+      "munir, syed asim",
+      "trump, donald j",
+      "iran",
+      "middle east",
+      "pakistan",
+      "united states"
+    ],
+    "collectedAt": "2026-05-19T12:00:01.533Z"
+  },
+  {
+    "title": "Goodbye Trump, hello Putin: China welcomes Russian leader facing pressure at home",
+    "description": "Vladimir Putin landed in China on Tuesday to a warm welcome from his “dear friend” President Xi Jinping, but he arrived with the heavy burden of a war he increasingly seems unable to win.",
+    "link": "https://www.nbcnews.com/world/china/putin-visits-china-trump-xi-summit-ukraine-war-russia-protests-rcna345632",
+    "pubDate": "Tue, 19 May 2026 11:44:38 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-05-19T12:00:01.533Z"
+  },
+  {
+    "title": "Thailand to slash tourist visa-free stays",
+    "description": "Southeast Asia’s tourism powerhouse to introduce new tiered visa system.",
+    "link": "https://www.aljazeera.com/news/2026/5/19/thailand-to-slash-tourist-visa-free-stays?traffic_source=rss",
+    "pubDate": "Tue, 19 May 2026 11:26:36 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-19T12:00:01.533Z"
+  },
+  {
+    "title": "Gaza aid flotilla organisers say 41 boats intercepted, 10 still sailing",
+    "description": "Foreign ministers of 10 countries say Israel's storming of the aid flotilla is a blatant violation of international law.",
+    "link": "https://www.aljazeera.com/news/2026/5/19/gaza-aid-flotilla-organisers-say-41-boats-intercepted-10-still-sailing?traffic_source=rss",
+    "pubDate": "Tue, 19 May 2026 11:24:19 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-19T12:00:01.533Z"
+  },
+  {
+    "title": "Moon is getting farther away from Earth each year, report finds",
+    "description": "A report from Space Daily says the moon is receding from Earth at 3.8 centimetres per year.",
+    "link": "https://thehill.com/homenews/space/5884345-moon-moving-away-from-earth-report/",
+    "pubDate": "Tue, 19 May 2026 11:47:21 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "news",
+      "space",
+      "artemis ii",
+      "lunar laser ranging experiment",
+      "moon",
+      "nasa",
+      "space daily"
+    ],
+    "collectedAt": "2026-05-19T12:00:01.533Z"
+  },
+  {
+    "title": "WNBA broadcaster pushes back against Caitlin Clark critics over turnovers",
+    "description": "WNBA broadcaster Kate Scott defended Caitlin Clark's turnovers, comparing her stats to NBA leaders while Angel Reese leads the league in turnovers.",
+    "link": "https://www.foxnews.com/sports/wnba-broadcaster-pushes-back-caitlin-clark-critics-turnovers",
+    "pubDate": "Tue, 19 May 2026 07:42:40 -0400",
+    "source": "Fox News",
+    "categories": [
+      "9adefb82-ace8-5c27-a70b-1d07ac095d6d",
+      "fnc",
+      "fox news",
+      "fox-news/sports/wnba/indiana-fever",
+      "fox-news/person/caitlin-clark",
+      "fox-news/sports/wnba",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-05-19T12:00:01.533Z"
+  },
+  {
+    "title": "Yankees take new approach with Austin Wells as offensive woes reach critical point",
+    "description": "He entered Monday in another slump, just 3-for-31 with three walks, 14 strikeouts and no extra-base hits in his previous 10 games.",
+    "link": "https://nypost.com/2026/05/19/sports/yankees-take-new-approach-with-austin-wells-as-offensive-woes-reach-critical-point/",
+    "pubDate": "Tue, 19 May 2026 07:57:57 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-19T12:00:01.533Z"
+  },
+  {
+    "title": "Cops were already hunting San Diego mosque shooters after mom raised alarm that one was armed and suicidal",
+    "description": "Police spent two hours scrambling to locate the suspects, since identified as 17-year-old Cain Clark and 18-year-old Caleb Velasquez, off the back of the mother's alert before the gunshots rang out at the Islamic Center of San Diego on Monday.",
+    "link": "https://nypost.com/2026/05/19/us-news/mom-reported-son-had-runaway-in-camo-weapons-missing-just-hours-before-san-diego-mosque-shooting/",
+    "pubDate": "Tue, 19 May 2026 07:55:06 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-19T12:00:01.533Z"
+  },
+  {
+    "title": "How the Warriors’ dynasty shaped the Knicks’ Eastern Conference finals",
+    "description": "The two head coaches, though, are only one thread of the Warriors’ influence on this series.",
+    "link": "https://nypost.com/2026/05/19/sports/how-warriors-dynasty-shaped-knicks-cavaliers-eastern-conference-finals/",
+    "pubDate": "Tue, 19 May 2026 07:50:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-19T12:00:01.533Z"
+  },
+  {
+    "title": "William Daniels’ wife, Bonnie Bartlett, confesses to having months-long affair with ‘slightly boring’ actor: ‘The sex was good’",
+    "description": "The \"Love of Life\" actress said she began looking for a \"kinder and gentler man\" in the early years of her marriage with the \"Boy Meets World\" alum.",
+    "link": "https://pagesix.com/2026/05/19/celebrity-news/william-daniels-wife-bonnie-bartlett-confesses-to-having-months-long-affair-with-boring-actor/",
+    "pubDate": "Tue, 19 May 2026 07:48:10 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-19T12:00:01.533Z"
   }
 ]
