@@ -604,7 +604,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-11",
+      "lastSeen": "2026-05-18",
       "active": true,
       "entries": [
         {
@@ -761,6 +761,11 @@
           "date": "2026-05-11",
           "edition": "evening",
           "update": "The UK imposed sanctions on a network accused of conducting attack plots and financial operations on behalf of Iran."
+        },
+        {
+          "date": "2026-05-18",
+          "edition": "evening",
+          "update": "Pakistan deployed a squadron of fighter jets to Saudi Arabia during the Iran war in a move that had not been previously disclosed, despite Pakistan's role as a neutral mediator in the Iran-U.S. conflict."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1079,7 +1084,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-05-15",
+      "lastSeen": "2026-05-18",
       "active": true,
       "entries": [
         {
@@ -1546,6 +1551,11 @@
           "date": "2026-05-15",
           "edition": "morning",
           "update": "The FBI is offering a reward for information on the whereabouts of Monica Witt, a former U.S. Air Force officer who allegedly defected to Iran in 2013 and is accused of providing classified national defense information to Iranian authorities."
+        },
+        {
+          "date": "2026-05-18",
+          "edition": "evening",
+          "update": "Trump announced via Truth Social on Monday that he is delaying a planned strike against Iran that had been scheduled for Tuesday, citing 'serious negotiations' and requests from Gulf state leaders — including Qatar, Saudi Arabia, and the UAE — to hold off on the attack. A New York Times-Siena College poll shows Trump's approval rating has dropped to 37%, with the decline linked to the Iran war and economic concerns."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2280,7 +2290,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-16",
+      "lastSeen": "2026-05-18",
       "active": true
     },
     {
@@ -2554,5 +2564,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-18T10:08:05.860Z"
+  "updatedAt": "2026-05-18T21:04:32.959Z"
 }
