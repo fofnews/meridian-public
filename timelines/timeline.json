@@ -1084,7 +1084,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-05-18",
+      "lastSeen": "2026-05-19",
       "active": true,
       "entries": [
         {
@@ -1556,6 +1556,11 @@
           "date": "2026-05-18",
           "edition": "evening",
           "update": "Trump announced via Truth Social on Monday that he is delaying a planned strike against Iran that had been scheduled for Tuesday, citing 'serious negotiations' and requests from Gulf state leaders — including Qatar, Saudi Arabia, and the UAE — to hold off on the attack. A New York Times-Siena College poll shows Trump's approval rating has dropped to 37%, with the decline linked to the Iran war and economic concerns."
+        },
+        {
+          "date": "2026-05-19",
+          "edition": "evening",
+          "update": "At a House Armed Services Committee hearing, CENTCOM Commander Admiral Brad Cooper faced questioning from Rep. Seth Moulton (D-MA) on the Trump administration's Iran strategy, with Cooper pushing back strongly against Moulton's line of questioning. Separately, Trump told reporters during a tour of an active White House ballroom construction site that he had been approximately one hour away from ordering military strikes on Iran before calling them off, reiterating that Middle Eastern allies influenced his decision to stand down."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2290,7 +2295,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-18",
+      "lastSeen": "2026-05-19",
       "active": true
     },
     {
@@ -2609,5 +2614,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-19T11:03:55.872Z"
+  "updatedAt": "2026-05-19T21:05:00.403Z"
 }
