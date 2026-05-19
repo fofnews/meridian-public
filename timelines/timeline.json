@@ -1810,7 +1810,7 @@
       "title": "Hezbollah US Operations",
       "firstSeen": "2026-03-15",
       "lastSeen": "2026-04-19",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-03-15",
@@ -2562,7 +2562,52 @@
           "update": "The WHO declared the Ebola outbreak affecting DR Congo and Uganda a global public health emergency, with approximately 80 deaths reported across both countries."
         }
       ]
+    },
+    {
+      "id": "austin-teen-alleged-attack-rampage",
+      "title": "Austin Teen Alleged Attack Rampage",
+      "parentId": null,
+      "firstSeen": "2026-05-19",
+      "lastSeen": "2026-05-19",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-05-19",
+          "edition": "morning",
+          "update": "Cristian Fajardo Mondragon, 17, was named as a suspect in an Austin shooting spree involving 12 attacks over approximately 28 hours. Three juveniles were arrested in connection with the incident."
+        }
+      ]
+    },
+    {
+      "id": "san-diego-mosque-shooting-investigation",
+      "title": "San Diego Mosque Shooting Investigation",
+      "parentId": null,
+      "firstSeen": "2026-05-19",
+      "lastSeen": "2026-05-19",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-05-19",
+          "edition": "morning",
+          "update": "Three adults were killed in a shooting at the Islamic Center of San Diego on Monday, with both suspects also dead. Authorities are investigating the attack as a suspected hate crime."
+        }
+      ]
+    },
+    {
+      "id": "congo-ebola-outbreak",
+      "title": "Congo Ebola Outbreak",
+      "parentId": null,
+      "firstSeen": "2026-05-19",
+      "lastSeen": "2026-05-19",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-05-19",
+          "edition": "morning",
+          "update": "At least 131 people have died in the Congo Ebola outbreak, prompting the WHO to express concern over its speed and scale. An American medical missionary who tested positive for Ebola in the Democratic Republic of Congo is being transported to Germany for treatment."
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-05-18T21:04:32.959Z"
+  "updatedAt": "2026-05-19T11:03:55.872Z"
 }
