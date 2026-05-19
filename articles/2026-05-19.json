@@ -819,5 +819,84 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-19T08:45:01.553Z"
+  },
+  {
+    "title": "Millions Urged To Stay Inside In 11 States Over Air Quality",
+    "description": "Smog in the East and wildfire smoke in California have created hazardous air conditions for millions of Americans.",
+    "link": "https://www.newsweek.com/millions-stay-inside-11-states-air-quality-11966141",
+    "pubDate": "Tue, 19 May 2026 04:55:01 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-19T09:00:04.112Z"
+  },
+  {
+    "title": "At least 10 dead as huge floods sweep southern and central China",
+    "description": "The affected area extends more than 1,000km (620 miles), according to Chinese meteorologists.",
+    "link": "https://www.aljazeera.com/news/2026/5/19/at-least-10-dead-as-huge-floods-sweep-southern-and-central-china?traffic_source=rss",
+    "pubDate": "Tue, 19 May 2026 08:49:44 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-19T09:00:04.112Z"
+  },
+  {
+    "title": "‘King of the North’: Who is Andy Burnham, a potential UK prime minister?",
+    "description": "With Keir Starmer under fire, it is Manchester’s mayor who looks to be the key challenger.",
+    "link": "https://www.aljazeera.com/news/2026/5/19/king-of-the-north-who-is-andy-burnham-a-potential-uk-prime-minister?traffic_source=rss",
+    "pubDate": "Tue, 19 May 2026 08:27:48 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-19T09:00:04.112Z"
+  },
+  {
+    "title": "Sweden to buy navy frigates from France for over $4 billion - Reuters",
+    "description": "Sweden to buy navy frigates from France for over $4 billion  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQzhsWEhaUkg4STdVb282Rk9sWmVhdnlyRWVRbzZ4X0RKdi1xNllxU2JFOXh6LXNZdllnbGNkSnczUHBMUUR3SUt2UldFOV9wai1sQWMxdDMxTHNOc01mMlRZbDFIbk5IeFpxNEJfSE0xcThlbDhwSTBSaktLenpobkUtc0FDdzlJSTZ4QjR1UTJKZm5vdkhaQmRyUW9rLVpOdGc?oc=5",
+    "pubDate": "Tue, 19 May 2026 07:52:13 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-05-19T09:00:04.112Z"
+  },
+  {
+    "title": "European shares gain as Trump's Iran comments cheer markets - Reuters",
+    "description": "European shares gain as Trump's Iran comments cheer markets  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaS1Jc3l3RGdNZEhQODhpY0Y0SUo3XzVqSUhXT2U5SUNRb05xUTdpZEEtTkpIcmxyaDFpaDNUbmRXM3Q5RlU2Vm42dzROU1FPUk40bzg1WjJVY0hQMUdwaW1RVFg5Q0Q3eUpoeV8ycVNwMWRZWGkyclZLQTdnLXVVYjlNcW5nLWYxUzItekxxUQ?oc=5",
+    "pubDate": "Tue, 19 May 2026 08:19:55 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-05-19T09:00:04.112Z"
+  },
+  {
+    "title": "‘Family Feud’ host Steve Harvey cuts the price of his luxury Georgia home to $4.75 million",
+    "description": "Steve Harvey has cut the price of his longtime Georgia home—just four months after listing the enormous abode for $5.1 million.",
+    "link": "https://www.marketwatch.com/story/family-feud-host-steve-harvey-cuts-the-price-of-his-luxury-georgia-home-to-4-75-million-1438a1b2?mod=mw_rss_topstories",
+    "pubDate": "Tue, 19 May 2026 08:58:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-05-19T09:00:04.112Z"
+  },
+  {
+    "title": "Nebraska ranchers struggle to recover from historic wildfires as drought worsens crisis",
+    "description": "The Morrill Fire, the largest wildfire in Nebraska state history, is leaving a lasting impact. Some grazing pastures look more like the Sahara Desert, with little improvement since March.",
+    "link": "https://www.foxnews.com/weather/nebraska-ranchers-wildfires-drought-recovery",
+    "pubDate": "Tue, 19 May 2026 04:51:25 -0400",
+    "source": "Fox News",
+    "categories": [
+      "db235883-9623-5038-8c3f-fe055728d782",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/midwest/nebraska",
+      "fox-news/drought",
+      "fox-news/weather",
+      "fox-news/fires",
+      "fox-news/us/disasters/wildfire",
+      "fox-news/fires",
+      "fox-news/weather",
+      "article"
+    ],
+    "collectedAt": "2026-05-19T09:00:04.112Z"
   }
 ]
