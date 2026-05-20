@@ -1,5 +1,13 @@
 # meridian-public
 
+## Mission
+
+**Tell the whole story during each news cycle.**
+
+People distrust the news because they sense they're only getting a fragment — filtered through a single outlet's framing. Meridian pieces it back together: collecting what every major source reports, surfacing where they agree, diverge, and what conclusions each reaches. The public site is how that synthesis reaches readers.
+
+Every UI and feature decision should serve this: disagreements and unique angles deserve prominence, source attribution matters, and the display should make cross-outlet contrast legible — not flatten it into a single narrative.
+
 ## Project Overview
 
 The public-facing Meridian news site. Displays analysis reports, raw articles, timelines, and broadcast content produced by the Meridian-Website pipeline.

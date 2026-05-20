@@ -60,7 +60,11 @@ export default function StoryCard({ story, brief = false, expanded, onToggle }) 
   }
 
   // Full card — for multi-source top stories
-  const agreementCount = story.analysis?.agreements?.length ?? 0;
+  const hasClaims = Array.isArray(story.analysis?.claims);
+  const factsLabel = hasClaims ? 'claims' : 'agreements';
+  const factsCount = hasClaims
+    ? story.analysis.claims.length
+    : (story.analysis?.agreements?.length ?? 0);
   const disagreementCount = story.analysis?.disagreements?.length ?? 0;
 
   return (
@@ -98,10 +102,10 @@ export default function StoryCard({ story, brief = false, expanded, onToggle }) 
                 <span className="text-xs" style={{ color: 'var(--text-faint)' }}>+{sources.length - 6} more</span>
               )}
             </div>
-            {agreementCount > 0 && (
+            {factsCount > 0 && (
               <>
                 <span style={{ color: 'var(--border-dim)' }}>·</span>
-                <span className="text-xs" style={{ color: 'var(--section-agree-accent)' }}>{agreementCount} agreements</span>
+                <span className="text-xs" style={{ color: 'var(--section-agree-accent)' }}>{factsCount} {factsLabel}</span>
               </>
             )}
             {disagreementCount > 0 && (

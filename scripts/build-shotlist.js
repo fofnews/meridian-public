@@ -59,21 +59,35 @@ function sourceCount(story) {
   return new Set((story.articles ?? []).map(a => a.source).filter(Boolean)).size;
 }
 
-// Build narration from summary + up to 2 agreements or disagreements.
+// Build narration from summary + up to 2 multi-source claims (or legacy agreements).
 function buildNarration(analysis) {
   if (!analysis) return '';
   const parts = [];
   if (analysis.summary) parts.push(analysis.summary.trim());
 
-  const agreements    = analysis.agreements    ?? [];
-  const disagreements = analysis.disagreements ?? [];
+  // New shape: prefer multi-source claims (≥2 sources). Legacy fallback: agreements.
+  let picks = [];
+  if (Array.isArray(analysis.claims)) {
+    picks = analysis.claims
+      .filter(c => Array.isArray(c.sources) && c.sources.length >= 2)
+      .slice(0, 2)
+      .map(c => (c.statement ?? '').trim())
+      .filter(Boolean);
+  } else if (Array.isArray(analysis.agreements)) {
+    picks = analysis.agreements
+      .slice(0, 2)
+      .map(a => (typeof a === 'string' ? a : a.text ?? '').trim())
+      .filter(Boolean);
+  }
 
-  if (agreements.length > 0) {
-    const picks = agreements.slice(0, 2).map(a => (typeof a === 'string' ? a : a.text ?? '').trim()).filter(Boolean);
-    if (picks.length) parts.push(picks.join(' '));
-  } else if (disagreements.length > 0) {
-    const picks = disagreements.slice(0, 1).map(d => (typeof d === 'string' ? d : d.text ?? '').trim()).filter(Boolean);
-    if (picks.length) parts.push(picks.join(' '));
+  if (picks.length) {
+    parts.push(picks.join(' '));
+  } else if (Array.isArray(analysis.disagreements) && analysis.disagreements.length > 0) {
+    const dPicks = analysis.disagreements
+      .slice(0, 1)
+      .map(d => (typeof d === 'string' ? d : d.text ?? '').trim())
+      .filter(Boolean);
+    if (dPicks.length) parts.push(dPicks.join(' '));
   }
 
   return parts.join('  ');
