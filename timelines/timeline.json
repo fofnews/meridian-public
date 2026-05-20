@@ -2423,7 +2423,7 @@
       "title": "Cuba Military Intervention",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-04-29",
-      "lastSeen": "2026-05-16",
+      "lastSeen": "2026-05-20",
       "active": true,
       "entries": [
         {
@@ -2445,6 +2445,11 @@
           "date": "2026-05-16",
           "edition": "morning",
           "update": "U.S. officials are seeking to indict former Cuban leader Raúl Castro, according to U.S. officials."
+        },
+        {
+          "date": "2026-05-20",
+          "edition": "evening",
+          "update": "A U.S. grand jury indicted Raúl Castro, now 94, along with five others on charges including murder, conspiracy to kill U.S. nationals, and destruction of aircraft related to the 1996 shootdown of two Brothers to the Rescue civilian planes that killed four Cuban Americans. Acting Attorney General Todd Blanche announced the indictment in South Florida; Castro was Cuba's armed forces minister at the time of the incident."
         }
       ]
     },
@@ -2628,5 +2633,5 @@
       "entries": []
     }
   ],
-  "updatedAt": "2026-05-20T11:04:44.132Z"
+  "updatedAt": "2026-05-20T21:07:55.300Z"
 }
