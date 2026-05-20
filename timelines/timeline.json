@@ -1084,7 +1084,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-05-19",
+      "lastSeen": "2026-05-20",
       "active": true,
       "entries": [
         {
@@ -1561,6 +1561,11 @@
           "date": "2026-05-19",
           "edition": "evening",
           "update": "At a House Armed Services Committee hearing, CENTCOM Commander Admiral Brad Cooper faced questioning from Rep. Seth Moulton (D-MA) on the Trump administration's Iran strategy, with Cooper pushing back strongly against Moulton's line of questioning. Separately, Trump told reporters during a tour of an active White House ballroom construction site that he had been approximately one hour away from ordering military strikes on Iran before calling them off, reiterating that Middle Eastern allies influenced his decision to stand down."
+        },
+        {
+          "date": "2026-05-20",
+          "edition": "morning",
+          "update": "The Senate voted to advance a resolution requiring Trump to withdraw U.S. forces deployed against Iran or obtain congressional authorization for war. Four Republican senators, including Sen. Bill Cassidy (R-LA), voted with Democrats to advance the measure; Cassidy's vote came after he lost his Louisiana Senate Republican primary."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2295,7 +2300,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-19",
+      "lastSeen": "2026-05-20",
       "active": true
     },
     {
@@ -2612,7 +2617,16 @@
           "update": "At least 131 people have died in the Congo Ebola outbreak, prompting the WHO to express concern over its speed and scale. An American medical missionary who tested positive for Ebola in the Democratic Republic of Congo is being transported to Germany for treatment."
         }
       ]
+    },
+    {
+      "id": "iran-nuclear-deal-negotiations-and-regional-tensions",
+      "title": "Iran Nuclear Deal Negotiations and Regional Tensions",
+      "parentId": "middle-east-military-conflicts-2026",
+      "firstSeen": "2026-05-20",
+      "lastSeen": "2026-05-20",
+      "active": true,
+      "entries": []
     }
   ],
-  "updatedAt": "2026-05-19T21:05:00.403Z"
+  "updatedAt": "2026-05-20T11:04:44.132Z"
 }
