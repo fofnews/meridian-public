@@ -213,5 +213,91 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-20T05:00:01.170Z"
+  },
+  {
+    "title": "Boss of Sarah Ferguson-linked firm used royal links to threaten worker with jail",
+    "description": "In a recording obtained by the BBC, the worker was threatened with jail for allegedly hacking emails at lifestyle app vVoosh.",
+    "link": "https://www.bbc.com/news/articles/c4g8kv7ykv8o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 20 May 2026 05:00:59 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-20T05:15:01.311Z"
+  },
+  {
+    "title": "Takeaways from Tuesday's primaries",
+    "description": "Here are key takeaways from Tuesday's primaries and what they might mean for 2028.",
+    "link": "https://abcnews.com/Politics/takeaways-tuesdays-primaries/story?id=133138022",
+    "pubDate": "Wed, 20 May 2026 01:05:07 -0400",
+    "source": "ABC News",
+    "categories": [
+      "politics"
+    ],
+    "collectedAt": "2026-05-20T05:15:01.311Z"
+  },
+  {
+    "title": "More than 17,000 under evacuation orders as Southern California wildfire threatens homes - AP News",
+    "description": "More than 17,000 under evacuation orders as Southern California wildfire threatens homes  AP News",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTzhJdlM0WjAtZ2Z3dVRHWElTMDc3QmVJUGEzczFCSHpweTBEaWpZdExwZ1dxQXBrbFhJcm9rZllCNmVRUjNrNkxqUlVkR2JDd0ZLTU1CLUNieTJJcTVrS2hBR2RJbk54S1ZOZlVZRldBSXVHamVFVEc5VVRSSXI4dWxXc0pMM3preWxTaS1JRHpHcEh6SHI0Yw?oc=5",
+    "pubDate": "Wed, 20 May 2026 04:29:00 GMT",
+    "source": "AP News",
+    "categories": [],
+    "collectedAt": "2026-05-20T05:15:01.311Z"
+  },
+  {
+    "title": "Squad-endorsed socialist wins heated primary to represent America’s birthplace",
+    "description": "Pennsylvania's 3rd Congressional District primary drew multiple candidates vying to represent the nation's most Democratic and Black-majority district.",
+    "link": "https://www.foxnews.com/politics/squad-endorsed-dem-wins-primary-represent-americas-birthplace",
+    "pubDate": "Wed, 20 May 2026 01:06:17 -0400",
+    "source": "Fox News",
+    "categories": [
+      "2bd99a69-c39d-58ec-8c20-0f053d3f4d51",
+      "fnc",
+      "fox news",
+      "fox-news/person/pramila-jayapal",
+      "fox-news/democrats",
+      "fox-news/us/us-regions/northeast/pennsylvania",
+      "fox-news/us/philadelphia",
+      "fox-news/politics/the-squad",
+      "fox-news/politics",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-05-20T05:15:01.311Z"
+  },
+  {
+    "title": "Voodoo King clears MSG of possible ‘Mamdani curse’ after mayor hints at going to Game 1 – and Knicks pull off stunning win",
+    "description": "“I command thee for no more spells from Mayor Mamdani on any team or anyone that interfere with their success. I'm here to protect the Knicks from his benevolent respect,\" the Voodoo King chanted outside Madison Square Garden.",
+    "link": "https://nypost.com/2026/05/20/us-news/voodoo-king-clears-msg-of-possible-mamdani-curse-after-mayor-hints-at-going-to-game-1-and-knicks-pull-off-stunning-win/",
+    "pubDate": "Wed, 20 May 2026 01:13:15 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-20T05:15:01.311Z"
+  },
+  {
+    "title": "Jon Stewart surprises Stephen Colbert with a surprise serenade from Andra Day",
+    "description": "\"The Daily Show\" host Jon Stewart was one of Stephen Colbert's final guests as \"The Late Show\" continues its final week, and he had quite the going-away present for his old friend.",
+    "link": "https://pagesix.com/2026/05/20/entertainment/jon-stewart-surprises-stephen-colbert-with-a-surprise-serenade-from-andra-day/",
+    "pubDate": "Wed, 20 May 2026 01:12:16 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-20T05:15:01.311Z"
+  },
+  {
+    "title": "Spark plug Josh Hart rides bench during Knicks’ insane comeback win",
+    "description": "Madison Square Garden went electric when the Knicks’ customary spark went out.",
+    "link": "https://nypost.com/2026/05/20/sports/josh-hart-on-bench-during-knicks-insane-comeback-win/",
+    "pubDate": "Wed, 20 May 2026 01:05:03 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-20T05:15:01.311Z"
+  },
+  {
+    "title": "Landry Shamet went from forgotten man to Knicks hero with epic closing stretch",
+    "description": "Over the first three quarters, Landry Shamet was on the floor for a grand total of three minutes and 13 seconds.",
+    "link": "https://nypost.com/2026/05/20/sports/landry-shamet-went-from-forgotten-man-to-knicks-hero-with-epic-closing-stretch/",
+    "pubDate": "Wed, 20 May 2026 01:02:41 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-20T05:15:01.311Z"
   }
 ]
