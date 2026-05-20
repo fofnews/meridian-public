@@ -434,5 +434,34 @@
       "news"
     ],
     "collectedAt": "2026-05-20T06:00:02.317Z"
+  },
+  {
+    "title": "DHS blasts California sanctuary policies after jail releases illegal immigrant accused in hit-and-run",
+    "description": "Federal officials criticize California sanctuary policies after ICE agents arrest an illegal immigrant charged in a felony hit-and-run crash that injured a little boy.",
+    "link": "https://www.foxnews.com/us/dhs-blasts-california-sanctuary-policies-after-jail-releases-illegal-immigrant-accused-hit-and-run",
+    "pubDate": "Wed, 20 May 2026 02:06:08 -0400",
+    "source": "Fox News",
+    "categories": [
+      "9b2939f9-e177-51c8-b0a8-84b58492d7a7",
+      "fnc",
+      "fox news",
+      "fox-news/person/gavin-newsom",
+      "fox-news/us/immigration/migrant-crime",
+      "fox-news/us/immigration/illegal-immigrants",
+      "fox-news/us/us-regions/west/california",
+      "fox-news/topic/sanctuary-cities",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-05-20T06:15:01.971Z"
+  },
+  {
+    "title": "Three stabbed as hundreds take over Rhode Island beaches",
+    "description": "Three beachgoers were stabbed while roughly 1,200 teens took over packed New England beaches in separate incidents on Tuesday, sparking fights and forcing evacuations of the summer hotspot.",
+    "link": "https://nypost.com/2026/05/20/us-news/rhode-island-beach-chaos-leads-to-three-stabbed-11-arrested/",
+    "pubDate": "Wed, 20 May 2026 02:02:29 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-20T06:15:01.971Z"
   }
 ]
