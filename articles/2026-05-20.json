@@ -339,5 +339,35 @@
     "source": "Politico",
     "categories": [],
     "collectedAt": "2026-05-20T05:30:01.312Z"
+  },
+  {
+    "title": "Trump says he was \"an hour away\" from striking Iran",
+    "description": "President Trump says he scrapped a planned attack on Iran at the request of Gulf allies as \"serious negotiations\" on a peace deal are underway.",
+    "link": "https://www.cbsnews.com/live-updates/iran-war-trump-peace-deal-attack-possible/",
+    "pubDate": "Wed, 20 May 2026 01:44:13 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-05-20T05:45:01.321Z"
+  },
+  {
+    "title": "Early War Goal Was to Install Hard Line Former President as Iran’s Leader",
+    "description": "An Israeli strike designed to free Mahmoud Ahmadinejad from house arrest in Tehran, U.S. officials said, was part of an effort to bring about regime change and put him in power.",
+    "link": "https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html",
+    "pubDate": "Wed, 20 May 2026 05:39:20 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "united states international relations",
+      "mossad",
+      "islamic revolutionary guards corps",
+      "ahmadinejad, mahmoud",
+      "barnea, david",
+      "khamenei, ali",
+      "netanyahu, benjamin",
+      "trump, donald j",
+      "iran",
+      "internal-open-access-from-nl"
+    ],
+    "collectedAt": "2026-05-20T05:45:01.321Z"
   }
 ]
