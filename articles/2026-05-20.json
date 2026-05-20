@@ -2517,5 +2517,135 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-20T11:15:01.129Z"
+  },
+  {
+    "title": "More die of suspected Ebola as WHO warns that numbers will rise further",
+    "description": "In its latest update, the World Health Organization says there have now been 139 suspected deaths and 600 cases.",
+    "link": "https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 20 May 2026 10:59:01 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-20T11:30:01.400Z"
+  },
+  {
+    "title": "WHO says Ebola risks high for region, but not a \"pandemic emergency\"",
+    "description": "WHO chief Tedros Adhanom Ghebreyesus says risks from the Ebola outbreak in Congo and Uganda are \"high at the national and regional levels, and low at the global level.\"",
+    "link": "https://www.cbsnews.com/news/ebola-outbreak-2026-not-pandemic-who-rubio-criticism-misunderstanding/",
+    "pubDate": "Wed, 20 May 2026 07:24:16 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-05-20T11:30:01.400Z"
+  },
+  {
+    "title": "Iran Threatens to Strike Beyond the Middle East if the U.S. Resumes Attacks",
+    "description": "The warning was issued as President Trump and Vice President JD Vance say progress is being made toward a deal, while keeping open the threat of renewed strikes.",
+    "link": "https://www.nytimes.com/2026/05/20/world/middleeast/iran-threat-us-attacks-trump.html",
+    "pubDate": "Wed, 20 May 2026 11:06:57 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "islamic revolutionary guards corps",
+      "trump, donald j",
+      "iran",
+      "war and armed conflicts",
+      "iran-israel proxy conflict",
+      "ships and shipping",
+      "houthis",
+      "islamic republic of iran broadcaster",
+      "middle east",
+      "red sea",
+      "strait of hormuz"
+    ],
+    "collectedAt": "2026-05-20T11:30:01.400Z"
+  },
+  {
+    "title": "How Florida Property Tax Changes Could Make State Less Attractive",
+    "description": "DeSantis wants to exclude snowbirds and out-of-state investors from tax relief, despite them already struggling with higher costs.",
+    "link": "https://www.newsweek.com/how-florida-property-tax-changes-could-make-state-less-attractive-11971014",
+    "pubDate": "Wed, 20 May 2026 07:27:07 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-20T11:30:01.400Z"
+  },
+  {
+    "title": "Map Shows US Cities That Could Go Underwater if Sea Levels Rise 3 Meters",
+    "description": "One of the world's largest glaciers, located in Antarctica, is on the verge of collapse, amplifying concerns about sea level rise.",
+    "link": "https://www.newsweek.com/map-us-cities-could-go-underwater-if-sea-levels-rise-3-meters-11971380",
+    "pubDate": "Wed, 20 May 2026 07:24:39 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-20T11:30:01.400Z"
+  },
+  {
+    "title": "Sberbank seeks Chinese chips to power Russia's GigaChat AI model - Reuters",
+    "description": "Sberbank seeks Chinese chips to power Russia's GigaChat AI model  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaldHXzVvaGFJUWRMQVMySDR6V3FmSUhkSUExbGdnR1A2ZWlRU0dWVTM0RkQweDNlb3IwS1lSeE92MGwxZVN5WTJtZm13a29lMWd5Vk9aRjhFdkpIeU0tOW5UZWhRRTgwRy1WMGZyd1BoajJKcjBla0cwV0FwdnQ2WEFPMmo3MWtMekFnNkxqZkplTkNUN1FfTjEyRnhmWHVJVGVyVlVaSWhxS2hCNU9jbTV1NA?oc=5",
+    "pubDate": "Wed, 20 May 2026 09:51:59 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-05-20T11:30:01.400Z"
+  },
+  {
+    "title": "Poland says US troop deployment delayed, not canceled - Reuters",
+    "description": "Poland says US troop deployment delayed, not canceled  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMnlZQkQ1VDBVQ0J2cnhjbFFQQW5LNndMOEg0bXJqMnhVUXF3ZElFdTJDMVBnMUxHejlhMklHSmVGeEhNWjBCcjJnM1pDdW5DdU13cm04bDh1TGxDbDBiZlpMN2JfUmw5bG1RX0cxcm5WdnZrZWsyOUhSWEdIWHF3RFpKeDc3V1N2c3NjbnBNY1pWSE1LMFV1TnMwSG00Y2s0RS12V0VlbnBRVk9oSVpvbzBCVzZERXRMZ1hhcw?oc=5",
+    "pubDate": "Wed, 20 May 2026 09:25:45 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-05-20T11:30:01.400Z"
+  },
+  {
+    "title": "Israel's parliament has voted to dissolve itself. What's next? - Reuters",
+    "description": "Israel's parliament has voted to dissolve itself. What's next?  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc2NKLXBmZmRUMEY4WVRfclJmX3dyeFZuaGRKdXAxODhFS25YR0RxSmJiblVDYWxvMFpDbnFTZ0NLNlJ6SGRWM1Bad0NGMEVtcUtqU2gwSk04aXRvWXMxT1hSTEZka0FoNW8yX1hkSWpwTGRuNjhlTlNzWndNTjdwMldoVEJLd1pYOG94MjI3NEw0OVZNamNMSmNaRVNRSXZoZW91VDB3WnhjbUs5dDlWZHJ2Nlo?oc=5",
+    "pubDate": "Wed, 20 May 2026 10:54:12 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-05-20T11:30:01.400Z"
+  },
+  {
+    "title": "Teenage gunmen open fire on San Diego mosque, killing 3 men and then themselves - AP News",
+    "description": "Teenage gunmen open fire on San Diego mosque, killing 3 men and then themselves  AP News",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNmE2ODE3T1gxWkU2emtQSWNyN0VOa0ZycEpmckVfd0FCcE5vWTlpbXlPamdPS1A2YVVzcE9GUmdwaDg4dmJnaFFIUmVyZWFKQm9pMDNpckwyaURmVWlNNUhweS1RcEFrZExMS2FlRTJVY1ZBbTBiR1ZHU0N2ZFJ3NGpiSWZ6bWN4QWxlb05KaWh5ZHhSM01uNA?oc=5",
+    "pubDate": "Wed, 20 May 2026 11:26:24 GMT",
+    "source": "AP News",
+    "categories": [],
+    "collectedAt": "2026-05-20T11:30:01.400Z"
+  },
+  {
+    "title": "Michelle Pfeiffer reveals brutal filming conditions on ‘The Madison’: ‘You may as well be in a tent’",
+    "description": "\"\"There was no bathroom nearby. There was no food. And in the winter, it was cold.\"",
+    "link": "https://pagesix.com/2026/05/20/entertainment/michelle-pfeiffer-reveals-brutal-filming-conditions-on-taylor-sheridans-the-madison/",
+    "pubDate": "Wed, 20 May 2026 07:25:36 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-20T11:30:01.400Z"
+  },
+  {
+    "title": "Poland says US troop deployment delayed, not canceled",
+    "description": "Poland was earlier alarmed by reports the Pentagon had canceled plans to deploy 4,000 US troops in the country. Officials tried to reassure Poles that this was not the case.",
+    "link": "https://nypost.com/2026/05/20/us-news/poland-says-us-troop-deployment-delayed-not-canceled/",
+    "pubDate": "Wed, 20 May 2026 07:23:41 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-20T11:30:01.400Z"
+  },
+  {
+    "title": "Lawfare compensation fund threatens to reopen Jan. 6 debate for Republicans",
+    "description": "The Justice Department‘s new $1.776 billion fund to compensate victims of lawfare is giving Democrats a fresh opportunity to drag Republicans back into politically fraught debates over Jan. 6 just months before the midterm elections. The DOJ announced the fund on Monday as part of its settlement with President Donald Trump, his sons Eric and […]",
+    "link": "https://www.washingtonexaminer.com/news/white-house/4575263/lawfare-compensation-fund-threatens-to-reopen-jan-6-debate-for-republicans/",
+    "pubDate": "Wed, 20 May 2026 11:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "justice",
+      "white house",
+      "donald trump",
+      "irs",
+      "jd vance",
+      "lawfare",
+      "todd blanche",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-05-20T11:30:01.400Z"
   }
 ]
