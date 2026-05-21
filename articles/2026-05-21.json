@@ -434,5 +434,65 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-21T06:45:01.866Z"
+  },
+  {
+    "title": "Officers who defended Capitol from rioters sue to block payouts from fund",
+    "description": "Two police officers who helped defend the U.S. Capitol during the Jan. 6 riot are suing to block anyone from receiving payouts from a new settlement fund.",
+    "link": "https://www.npr.org/2026/05/21/g-s1-123293/officers-who-defended-capitol-sue",
+    "pubDate": "Thu, 21 May 2026 02:54:20 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-05-21T07:00:01.562Z"
+  },
+  {
+    "title": "MVP Gilgeous-Alexander stars as Thunder level series with Spurs",
+    "description": "Defending champs OKC win 122-113 as Gilgeous-Alexander scores 30 points and provides 9 assists, overshadowing Wembanyama.",
+    "link": "https://www.aljazeera.com/sports/2026/5/21/mvp-gilgeous-alexander-stars-as-thunder-level-series-with-spurs?traffic_source=rss",
+    "pubDate": "Thu, 21 May 2026 06:26:46 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-05-21T07:00:01.562Z"
+  },
+  {
+    "title": "Colorado Democrats formally censure Gov Polis over Tina Peters commutation",
+    "description": "Colorado Democratic Party formally censures Gov. Jared Polis for commuting Tina Peters' sentence in the Mesa County voting system breach case.",
+    "link": "https://www.foxnews.com/politics/colorado-democrats-formally-censure-gov-polis-tina-peters-commutation",
+    "pubDate": "Thu, 21 May 2026 02:51:38 -0400",
+    "source": "Fox News",
+    "categories": [
+      "fd77611e-2798-5ab2-ba58-d5a9c7fb28bb",
+      "fnc",
+      "fox news",
+      "fox-news/politics/state-and-local/elections-disputes",
+      "fox-news/democrats",
+      "fox-news/politics/state-and-local/governors",
+      "fox-news/politics/elections/voter-fraud-concerns",
+      "fox-news/politics/foreign-policy/secretary-of-state",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-05-21T07:00:01.562Z"
+  },
+  {
+    "title": "Brooklyn mother who drowned her three children in the ocean near Coney Island sentenced to decades in prison",
+    "description": "Brooklyn woman Erin Merdy sentenced to decades in prison after pleading guilty to drowning her three young children near Coney Island in 2022.",
+    "link": "https://www.foxnews.com/us/brooklyn-mother-drowned-three-children-ocean-near-coney-island-sentenced-decades-prison",
+    "pubDate": "Thu, 21 May 2026 02:46:28 -0400",
+    "source": "Fox News",
+    "categories": [
+      "0efed827-6308-585b-a9fa-1ea7e3f54195",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/northeast/new-york",
+      "fox-news/entertainment/events/in-court",
+      "fox-news/entertainment/genres/kids",
+      "fox-news/us/education/parents",
+      "fox-news/us/crime/homicide",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-05-21T07:00:01.562Z"
   }
 ]
