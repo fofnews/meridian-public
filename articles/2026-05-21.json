@@ -685,5 +685,76 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-21T08:15:02.502Z"
+  },
+  {
+    "title": "UK agrees £3.7bn trade deal with six Gulf states",
+    "description": "The deal will remove an estimated £580m worth of tariffs from British exports, but rights groups are critical",
+    "link": "https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 21 May 2026 08:19:59 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-21T08:30:01.522Z"
+  },
+  {
+    "title": "Car catches fire and explodes in Lower Manhattan",
+    "description": "A car caught fire and exploded Tuesday in Lower Manhattan, sending a plume of smoke into the air near New York City's famous Charging Bull statue.",
+    "link": "https://abcnews.com/video/133171310/",
+    "pubDate": "Thu, 21 May 2026 02:07:47 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-05-21T08:30:01.522Z"
+  },
+  {
+    "title": "Buddhist hall housing ‘eternal flame’ burns down in Japan",
+    "description": "Buddhist hall housing ‘eternal flame’ burns down in Japan",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/21/buddhist-hall-housing-eternal-flame-burns-down-in-japan?traffic_source=rss",
+    "pubDate": "Thu, 21 May 2026 08:05:18 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-21T08:30:01.522Z"
+  },
+  {
+    "title": "Israel pushes for war amid US ceasefire, but its options may be limited",
+    "description": "Israeli officials and media indicate renewed conflict with Iran is being actively considered despite a shaky deadlock.",
+    "link": "https://www.aljazeera.com/news/2026/5/21/israel-pushes-for-war-amid-us-ceasefire-but-its-options-may-be-limited?traffic_source=rss",
+    "pubDate": "Thu, 21 May 2026 07:59:56 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-21T08:30:01.522Z"
+  },
+  {
+    "title": "DR Congo cancel World Cup training camp in Kinshasa over Ebola outbreak",
+    "description": "DRC's public sendoff in the capital was also cancelled before their departure for the FIFA World Cup.",
+    "link": "https://www.aljazeera.com/sports/2026/5/21/dr-congo-cancel-world-cup-training-camp-in-kinshasa-over-ebola-outbreak?traffic_source=rss",
+    "pubDate": "Thu, 21 May 2026 07:57:44 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-05-21T08:30:01.522Z"
+  },
+  {
+    "title": "Airbnb launches major expansion with airport pickups, luggage storage and AI-powered travel tools",
+    "description": "Instacart grocery delivery is launching in over 25 US cities.",
+    "link": "https://nypost.com/2026/05/21/business/airbnb-launches-major-expansion-with-airport-pickups-luggage-storage-and-ai-powered-travel-tools/",
+    "pubDate": "Thu, 21 May 2026 04:24:40 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-21T08:30:01.522Z"
+  },
+  {
+    "title": "White House calls The Chicks’ Natalie Maines a ‘despicable nobody’ after singer’s vulgar attack on Trump",
+    "description": "\"Natalie Maines is a despicable nobody who clearly suffers from a severe case of Trump Derangement Syndrome.\"",
+    "link": "https://nypost.com/2026/05/21/us-news/white-house-slams-the-chicks-natalie-maines-over-vulgar-trump-attack/",
+    "pubDate": "Thu, 21 May 2026 04:15:59 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-21T08:30:01.522Z"
   }
 ]
