@@ -756,5 +756,43 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-21T08:30:01.522Z"
+  },
+  {
+    "title": "EasyJet boss says 'don't panic' over summer jet fuel supplies",
+    "description": "The airline has seen no problems with fuel, but says people are booking later because of uncertainty caused by the Iran war.",
+    "link": "https://www.bbc.com/news/articles/ckgplpd7px4o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 21 May 2026 08:23:31 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-21T08:45:01.671Z"
+  },
+  {
+    "title": "Vanessa Trump says she has been diagnosed with breast cancer",
+    "description": "She made the announcement in a post on Instagram, writing, \"While this isn't news anyone expects, I'm working closely with. my medical team on a treatment plan.\"",
+    "link": "https://abcnews.com/US/vanessa-trump-diagnosed-breast-cancer/story?id=133168360",
+    "pubDate": "Thu, 21 May 2026 04:20:23 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-05-21T08:45:01.671Z"
+  },
+  {
+    "title": "Record 274 climbers scale Mount Everest in a single day from Nepali side - Reuters",
+    "description": "Record 274 climbers scale Mount Everest in a single day from Nepali side  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUkZJN0Q5MEFXaWg5bXVYWEVQdHhEZHM1RGNsNlZibVpvdWJWZGVGM3lyZjd4bE90YUtxaGZsczlscHdTYTVuVE5zbDZBTkx0WldfNEVWVW53QUJTWXBod00wTFJaY0paLWx5N1F5a0cxZGNueURXT0tTQUd3MV9uQ2FVcGFDSkhiclNqQ0Noc1JISFA1aFNmMFdJZTNKUkdrVm0yZldxUDNjcktUc2xXMHpMVGRMd3FW?oc=5",
+    "pubDate": "Thu, 21 May 2026 07:55:24 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-05-21T08:45:01.671Z"
+  },
+  {
+    "title": "I’m selling my $1 million home. Will my agent really charge less than a 6% commission?",
+    "description": "“I haven’t bought or sold property since the National Association of Realtors ruling that decoupled buyer’s and seller’s agent commissions.”",
+    "link": "https://www.marketwatch.com/story/im-selling-my-1-million-maui-home-will-my-agent-charge-me-less-than-a-6-commission-ed06c0f1?mod=mw_rss_topstories",
+    "pubDate": "Thu, 21 May 2026 08:42:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-05-21T08:45:01.671Z"
   }
 ]
