@@ -22,12 +22,14 @@ const CHYRON_LABELS = ['Breaking', 'Developing', 'Analysis', 'Report', 'Update',
 
 function buildChyronSub(analysis) {
   if (!analysis) return 'Analysis pending';
-  const agreements = analysis.agreements?.length ?? 0;
+  const hasClaims = Array.isArray(analysis.claims);
+  const claimsCount = hasClaims ? analysis.claims.length : (analysis.agreements?.length ?? 0);
+  const claimsLabel = hasClaims ? 'sourced claim' : 'source agreement';
   const disagreements = analysis.disagreements?.length ?? 0;
   const facts = analysis.facts?.length ?? 0;
   if (facts > 0) return `${facts} reported facts extracted`;
   const parts = [];
-  if (agreements > 0) parts.push(`${agreements} source agreement${agreements !== 1 ? 's' : ''}`);
+  if (claimsCount > 0) parts.push(`${claimsCount} ${claimsLabel}${claimsCount !== 1 ? 's' : ''}`);
   if (disagreements > 0) parts.push(`${disagreements} disagreement${disagreements !== 1 ? 's' : ''}`);
   return parts.length ? parts.join('  ·  ') : 'Multi-source coverage';
 }

@@ -13,7 +13,12 @@
       "PowerShell($darkStyle = Get-Content \"C:\\\\Users\\\\Daniel\\\\meridian-public\\\\public\\\\meridian-dark.style.json\" -Raw | ConvertFrom-Json; $darkStyle.layers | Where-Object { $_.id -eq \"land\" } | Format-List)",
       "PowerShell($darkStyle = Get-Content \"C:\\\\Users\\\\Daniel\\\\meridian-public\\\\public\\\\meridian-dark.style.json\" -Raw | ConvertFrom-Json; $darkStyle.layers | Where-Object { $_.id -eq \"country-borders\" } | Format-List)",
       "PowerShell($lightStyle = Get-Content \"C:\\\\Users\\\\Daniel\\\\meridian-public\\\\public\\\\meridian-light.style.json\" -Raw | ConvertFrom-Json; $lightStyle.layers | Where-Object { $_.id -eq \"water\" } | Format-List)",
-      "PowerShell($lightStyle = Get-Content \"C:\\\\Users\\\\Daniel\\\\meridian-public\\\\public\\\\meridian-light.style.json\" -Raw | ConvertFrom-Json; $lightStyle.layers | Where-Object { $_.id -eq \"land\" } | Format-List)"
+      "PowerShell($lightStyle = Get-Content \"C:\\\\Users\\\\Daniel\\\\meridian-public\\\\public\\\\meridian-light.style.json\" -Raw | ConvertFrom-Json; $lightStyle.layers | Where-Object { $_.id -eq \"land\" } | Format-List)",
+      "mcp__plugin_chrome-devtools-mcp_chrome-devtools__navigate_page",
+      "mcp__plugin_chrome-devtools-mcp_chrome-devtools__take_screenshot",
+      "mcp__plugin_chrome-devtools-mcp_chrome-devtools__take_snapshot",
+      "mcp__plugin_chrome-devtools-mcp_chrome-devtools__click",
+      "mcp__plugin_chrome-devtools-mcp_chrome-devtools__evaluate_script"
     ]
   }
 }
