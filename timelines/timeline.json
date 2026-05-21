@@ -2300,7 +2300,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-20",
+      "lastSeen": "2026-05-21",
       "active": true
     },
     {
@@ -2423,7 +2423,7 @@
       "title": "Cuba Military Intervention",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-04-29",
-      "lastSeen": "2026-05-20",
+      "lastSeen": "2026-05-21",
       "active": true,
       "entries": [
         {
@@ -2450,6 +2450,11 @@
           "date": "2026-05-20",
           "edition": "evening",
           "update": "A U.S. grand jury indicted Raúl Castro, now 94, along with five others on charges including murder, conspiracy to kill U.S. nationals, and destruction of aircraft related to the 1996 shootdown of two Brothers to the Rescue civilian planes that killed four Cuban Americans. Acting Attorney General Todd Blanche announced the indictment in South Florida; Castro was Cuba's armed forces minister at the time of the incident."
+        },
+        {
+          "date": "2026-05-21",
+          "edition": "morning",
+          "update": "The USS Nimitz carrier strike group, including the destroyer USS Gridley and an air wing of F/A-18 Super Hornets and EA-18G Growlers, arrived in the Caribbean on the same day the Justice Department announced the indictment of Raúl Castro."
         }
       ]
     },
@@ -2523,13 +2528,18 @@
       "title": "Raúl Castro Indictment for 1996 Plane Downing",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-05-15",
+      "lastSeen": "2026-05-21",
       "active": true,
       "entries": [
         {
           "date": "2026-05-15",
           "edition": "evening",
           "update": "The DOJ is pushing to indict former Cuban President Raúl Castro in connection with Cuba's 1996 downing of civilian planes, according to U.S. officials familiar with the matter."
+        },
+        {
+          "date": "2026-05-21",
+          "edition": "morning",
+          "update": "A Florida-seated U.S. grand jury formally indicted former Cuban leader Raúl Castro on charges including murder and conspiracy to kill U.S. nationals, in connection with Cuba's 1996 shootdown of two Brothers to the Rescue civilian planes. The indictment was announced Wednesday."
         }
       ]
     },
@@ -2633,5 +2643,5 @@
       "entries": []
     }
   ],
-  "updatedAt": "2026-05-20T21:07:55.300Z"
+  "updatedAt": "2026-05-21T11:05:45.492Z"
 }
