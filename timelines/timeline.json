@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-05-07",
+      "lastSeen": "2026-05-22",
       "active": true,
       "entries": [
         {
@@ -206,6 +206,11 @@
           "date": "2026-05-07",
           "edition": "morning",
           "update": "A federal judge ordered the release of a document purported to be a suicide note attributed to Jeffrey Epstein, with the unsealing occurring on a Wednesday following a request by The New York Times. The note's authenticity has not been fully verified. Lutnick's testimony before the House Oversight Committee was conducted as a closed-door session."
+        },
+        {
+          "date": "2026-05-22",
+          "edition": "morning",
+          "update": "Former Rep. Marjorie Taylor Greene claimed on CBS News that President Trump is targeting Republicans who voted to release Epstein files, citing Rep. Thomas Massie's primary defeat as an example. Separately, a trespasser who illegally accessed Epstein's private island Little St. James claimed he was hog-tied and held in a dungeon on the property."
         }
       ],
       "parentId": null
@@ -1104,7 +1109,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-05-20",
+      "lastSeen": "2026-05-22",
       "active": true,
       "entries": [
         {
@@ -1586,6 +1591,11 @@
           "date": "2026-05-20",
           "edition": "morning",
           "update": "The Senate voted to advance a resolution requiring Trump to withdraw U.S. forces deployed against Iran or obtain congressional authorization for war. Four Republican senators, including Sen. Bill Cassidy (R-LA), voted with Democrats to advance the measure; Cassidy's vote came after he lost his Louisiana Senate Republican primary."
+        },
+        {
+          "date": "2026-05-22",
+          "edition": "morning",
+          "update": "House Republicans canceled a scheduled Thursday vote on an Iran war powers resolution after the party lacked sufficient votes to dismiss it due to absences and defections, despite the resolution appearing to have enough support to pass. Sen. Thom Tillis (R-N.C.) announced he would not support the war powers resolution, dismissing it as a messaging vote. U.S. oil prices rose amid investor doubt over a breakthrough in US-Iran peace talks, with escalating tensions also straining Asian currencies and foreign-exchange reserves. On day 84 of the war, the U.S. and Iran continued mediated talks, exchanging draft proposals aimed at a formal agreement."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2320,8 +2330,15 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-21",
-      "active": true
+      "lastSeen": "2026-05-22",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-05-22",
+          "edition": "morning",
+          "update": "Acting Navy Secretary Hung Cao told a Senate Appropriations Defense Subcommittee hearing on Thursday that the U.S. has paused a $14 billion arms sale to Taiwan to ensure sufficient munitions for American military operations against Iran."
+        }
+      ]
     },
     {
       "id": "nato-iran-diplomatic-crisis",
@@ -2343,7 +2360,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-05-11",
+      "lastSeen": "2026-05-22",
       "active": true,
       "entries": [
         {
@@ -2365,6 +2382,11 @@
           "date": "2026-05-11",
           "edition": "evening",
           "update": "Trump rejected Iran's counter-proposal on Monday, calling it 'unacceptable' and describing the ceasefire as on 'massive life support' and 'unbelievably weak' in remarks to reporters in the Oval Office. Iran's counter-proposal had been passed to the U.S. through Pakistan, which has been acting as mediator in the exchange."
+        },
+        {
+          "date": "2026-05-22",
+          "edition": "morning",
+          "update": "A new opinion poll indicates 60 percent of Americans oppose Trump's war on Iran. Pakistan is actively seeking to facilitate a breakthrough in peace talks between the U.S. and Iran."
         }
       ]
     },
@@ -2483,7 +2505,7 @@
       "title": "US Military Intervention in Cuba",
       "parentId": null,
       "firstSeen": "2026-05-02",
-      "lastSeen": "2026-05-14",
+      "lastSeen": "2026-05-22",
       "active": true,
       "entries": [
         {
@@ -2495,6 +2517,11 @@
           "date": "2026-05-14",
           "edition": "evening",
           "update": "Cuba's Energy Minister Vicente de la O Levy announced on Wednesday that the country has completely exhausted its fuel oil and diesel supplies, stating 'We have absolutely no fuel (oil), and absolutely no diesel.' The minister attributed the crisis to U.S. sanctions and the blockade, which have pushed Cuba's energy system into severe collapse."
+        },
+        {
+          "date": "2026-05-22",
+          "edition": "morning",
+          "update": "Secretary of State Rubio announced the arrest of the sister of the head of GAESA, Cuba's military business conglomerate. Rubio formally declared Cuba a national security threat to the United States, raising the prospect of military intervention, while Cuba's foreign minister accused him of spreading lies and attempting to instigate military aggression. Trump and Rubio raised the possibility of military intervention in Cuba one day after the administration announced criminal charges against former Cuban leader Raúl Castro."
         }
       ]
     },
@@ -2533,7 +2560,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-05-21",
+      "lastSeen": "2026-05-22",
       "active": true,
       "entries": [
         {
@@ -2545,6 +2572,11 @@
           "date": "2026-05-21",
           "edition": "evening",
           "update": "Iran published a map asserting armed forces oversight over more than 22,000 square kilometers of the Strait of Hormuz. Despite regional tensions, OPEC+ leaders are expected to approve an increased oil output target for July, reflecting confidence in sustaining production increases."
+        },
+        {
+          "date": "2026-05-22",
+          "edition": "morning",
+          "update": "Iran and Oman are in talks over a ship payment system related to the Strait of Hormuz, with the U.S. and Iran reported to remain far from a broader deal. Oil prices jumped as negotiations over reopening the strait reached an impasse, with disagreements persisting over Iran's uranium stockpile and proposed transit fees for the strait."
         }
       ]
     },
@@ -2553,7 +2585,7 @@
       "title": "Raúl Castro Indictment for 1996 Plane Downing",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-05-21",
+      "lastSeen": "2026-05-22",
       "active": true,
       "entries": [
         {
@@ -2570,6 +2602,11 @@
           "date": "2026-05-21",
           "edition": "evening",
           "update": "A Florida grand jury indicted Raúl Castro and five others in connection with the 1996 shootdown. China criticized the U.S. for what it called 'threats' against Cuba following the indictment. Russia expressed full solidarity with Cuba and pledged active support amid escalating U.S. pressure, which also included Secretary of State Rubio messaging that appeared to encourage Cubans to overthrow their government. The U.S. Supreme Court issued an 8-1 ruling by Justice Clarence Thomas limiting lawsuits over property seized by Cuba. Senator Rubio stated the likelihood of a negotiated agreement with Cuba is low. The indictment is circulating among Cubans amid widespread blackouts, with many expressing hope it could improve their living conditions."
+        },
+        {
+          "date": "2026-05-22",
+          "edition": "morning",
+          "update": "Luis González-Pardo, a Cuban pilot living in Florida, was identified as one of the named defendants in the federal indictment alongside Raúl Castro. Cuban officials publicly rallied in support of Castro following his indictment on murder charges."
         }
       ]
     },
@@ -2608,7 +2645,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-05-21",
+      "lastSeen": "2026-05-22",
       "active": true,
       "entries": [
         {
@@ -2620,6 +2657,11 @@
           "date": "2026-05-21",
           "edition": "evening",
           "update": "An Air France flight bound for Detroit was diverted to Canada after a passenger from the DRC boarded 'in error,' prompting Ebola-related concerns. The Department of Homeland Security announced new arrival restrictions for travelers from the DRC, Uganda, and South Sudan. Enhanced Ebola screening is now required at Washington Dulles International Airport for U.S.-bound travelers from affected African countries. The WHO reported the death toll in Congo has risen to 134, with the WHO chief expressing alarm at the outbreak's rapid spread and scale. India postponed an Africa summit due to the virus spreading into M23-controlled territory in eastern DRC, where armed conflict has complicated containment efforts. Russia expressed solidarity with Cuba and promised active support amid escalating U.S. pressure on the Castro regime."
+        },
+        {
+          "date": "2026-05-22",
+          "edition": "morning",
+          "update": "The U.S. imposed new travel restrictions formally barring entry to non-U.S. passport holders who have visited the DRC, Uganda, or South Sudan within the past three weeks. Trump administration officials also issued quarantine orders regarding Ebola and hantavirus that public health experts described as going beyond what is necessary, with experts expressing being stunned by the strictness of the measures."
         }
       ]
     },
@@ -2643,7 +2685,7 @@
       "title": "San Diego Mosque Shooting Investigation",
       "parentId": null,
       "firstSeen": "2026-05-19",
-      "lastSeen": "2026-05-21",
+      "lastSeen": "2026-05-22",
       "active": true,
       "entries": [
         {
@@ -2655,6 +2697,11 @@
           "date": "2026-05-21",
           "edition": "evening",
           "update": "Writings attributed to the suspects contain extremist neo-Nazi ideology and apparent incel-related influences, according to authorities."
+        },
+        {
+          "date": "2026-05-22",
+          "edition": "morning",
+          "update": "A memorial drew thousands of mourners honoring the three victims, who were remembered as heroes. Authorities revealed that only 7 officers were assigned to the area at the time of the attack. In 2025, police had seized approximately a dozen firearms from the home of suspect Caleb Vazquez after his father surrendered them following reports about Vazquez's obsession with mass shooters and Nazism. Vazquez's family issued a public statement saying his exposure to hateful and extremist online content contributed to his radicalization, and apologized for his alleged actions."
         }
       ]
     },
@@ -2683,5 +2730,5 @@
       "entries": []
     }
   ],
-  "updatedAt": "2026-05-21T21:09:46.422Z"
+  "updatedAt": "2026-05-22T11:06:38.650Z"
 }
