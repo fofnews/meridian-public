@@ -291,5 +291,57 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-22T05:30:01.258Z"
+  },
+  {
+    "title": "'Extraordinary' heat health alerts to come into force as record May heat possible",
+    "description": "As the temperature builds across the UK, we could see the hottest May day on record in this heatwave, Simon King explains",
+    "link": "https://www.bbc.com/weather/articles/cpwpneyj05eo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 22 May 2026 04:45:20 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-22T05:45:01.471Z"
+  },
+  {
+    "title": "Republicans call off vote on Iran war resolution that was on the verge of passing",
+    "description": "Republicans struggled Thursday to find the votes to dismiss legislation that would compel President Donald Trump to withdraw from the war with Iran, delaying planned votes on the matter into June.",
+    "link": "https://www.npr.org/2026/05/22/g-s1-123592/republicans-call-off-vote-on-iran-war-resolution",
+    "pubDate": "Fri, 22 May 2026 01:32:31 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-05-22T05:45:01.471Z"
+  },
+  {
+    "title": "Rubio doubtful of diplomacy with Cuba as Trump raises new threat of military action",
+    "description": "President Donald Trump and America's top diplomat on Thursday again raised the specter of U.S. military intervention in Cuba, a day after the administration announced criminal charges against the island's former leader, Raúl Castro.",
+    "link": "https://www.npr.org/2026/05/22/nx-s1-5830999/rubio-diplomacy-cuba-trump-military-action",
+    "pubDate": "Fri, 22 May 2026 01:23:02 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-05-22T05:45:01.471Z"
+  },
+  {
+    "title": "Iran mulls latest U.S. proposal as Trump says war is in \"final stages\"",
+    "description": "Iran says it's considering the latest U.S. peace offer, as President Trump says he's willing to wait \"a couple of days\" for a response.",
+    "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-latest-peace-proposal/",
+    "pubDate": "Fri, 22 May 2026 01:41:14 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-05-22T05:45:01.471Z"
+  },
+  {
+    "title": "Stephen Colbert signs off one last time: ‘Hello, Goodbye’",
+    "description": "Late-night TV host Stephen Colbert signed off for the last time Thursday evening after 11 years at the Ed Sullivan Theater in New York City.  CBS announced the cancellation of the The Late Show with Stephen Colbert in July, citing it as a “financial decision.” Colbert used his final episode to thank his viewers, criticize […]",
+    "link": "https://www.washingtonexaminer.com/news/entertainment/4578698/stephen-colbert-signs-off-one-last-time-hello-goodbye/",
+    "pubDate": "Fri, 22 May 2026 05:30:51 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "entertainment",
+      "donald trump",
+      "federal communications commission",
+      "paramount",
+      "pope leo xiv",
+      "stephen colbert"
+    ],
+    "collectedAt": "2026-05-22T05:45:01.471Z"
   }
 ]
