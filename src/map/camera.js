@@ -150,7 +150,7 @@ export function cinematicFlyTo(map, marker, loc, { pitch = FOCUSED_PITCH_BROADCA
 
     // Step 2: fly in after the pullback completes.
     timeoutId = setTimeout(() => {
-      if (cancelled || !map || map._removed) return;
+      if (cancelled || !map) return;
       map.flyTo({
         center: [loc.lng, loc.lat],
         zoom: loc.zoom ?? getStoryZoom(),
@@ -210,7 +210,7 @@ export function startAmbientRotation(map) {
 
   const tick = (now) => {
     if (stopped) return;
-    if (active && !document.hidden && map && !map._removed) {
+    if (active && !document.hidden && map) {
       // Cap dt so a long-paused tab doesn't fling the longitude on resume.
       const dt = Math.min((now - lastT) / 1000, 0.1);
       const cur = map.getCenter();

@@ -13,7 +13,7 @@ function buildGraticule() {
   for (let lng = -180; lng < 180; lng += STEP) {
     features.push({
       type: 'Feature',
-      geometry: { type: 'LineString', coordinates: [[lng, -80], [lng, 0], [lng, 80]] },
+      geometry: { type: 'LineString', coordinates: [[lng, -80], [lng, 80]] },
       properties: {},
     });
   }

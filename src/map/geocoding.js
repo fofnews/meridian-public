@@ -5,7 +5,12 @@
 
 import { getStoryZoom } from './camera.js';
 
-const geocodeCache = {};
+const MAX_CACHE = 400;
+const geocodeCache = new Map();
+function cacheSet(key, value) {
+  if (geocodeCache.size >= MAX_CACHE) geocodeCache.delete(geocodeCache.keys().next().value);
+  geocodeCache.set(key, value);
+}
 
 const SKIP_WORDS = new Set([
   'The','His','Her','Its','Their','This','That','These','Those','After','Before',
@@ -27,7 +32,7 @@ export function extractLocationQuery(headline) {
 export async function fetchBoundaryPolygon(name, iso) {
   if (!name) return null;
   const cacheKey = `poly:${name}:${iso ?? ''}`;
-  if (geocodeCache[cacheKey] !== undefined) return geocodeCache[cacheKey];
+  if (geocodeCache.has(cacheKey)) return geocodeCache.get(cacheKey);
 
   try {
     const q = iso ? `${name}, ${iso}` : name;
@@ -38,24 +43,24 @@ export async function fetchBoundaryPolygon(name, iso) {
       const geojson = data[0].geojson;
       if (geojson && (geojson.type === 'Polygon' || geojson.type === 'MultiPolygon')) {
         const polygon = { type: 'Feature', geometry: geojson, properties: {} };
-        geocodeCache[cacheKey] = polygon;
+        cacheSet(cacheKey, polygon);
         return polygon;
       }
     }
   } catch (e) {
     console.warn('Boundary fetch failed:', e);
   }
-  geocodeCache[cacheKey] = null;
+  cacheSet(cacheKey, null);
   return null;
 }
 
 export async function geocodeStory(story) {
-  if (geocodeCache[story.id] !== undefined) return geocodeCache[story.id];
+  if (geocodeCache.has(story.id)) return geocodeCache.get(story.id);
 
   const fallback = { lng: 0, lat: 20, zoom: 1.0, polygon: null };
   const locationQuery = extractLocationQuery(story.headline);
   if (!locationQuery) {
-    geocodeCache[story.id] = fallback;
+    cacheSet(story.id, fallback);
     return fallback;
   }
 
@@ -69,13 +74,13 @@ export async function geocodeStory(story) {
         ? { type: 'Feature', geometry: geojson, properties: {} }
         : null;
       const result = { lng: parseFloat(data[0].lon), lat: parseFloat(data[0].lat), zoom: getStoryZoom(), polygon };
-      geocodeCache[story.id] = result;
+      cacheSet(story.id, result);
       return result;
     }
   } catch (e) {
     console.warn('Geocoding failed:', e);
   }
 
-  geocodeCache[story.id] = fallback;
+  cacheSet(story.id, fallback);
   return fallback;
 }
