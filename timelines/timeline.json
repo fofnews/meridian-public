@@ -211,6 +211,11 @@
           "date": "2026-05-22",
           "edition": "morning",
           "update": "Former Rep. Marjorie Taylor Greene claimed on CBS News that President Trump is targeting Republicans who voted to release Epstein files, citing Rep. Thomas Massie's primary defeat as an example. Separately, a trespasser who illegally accessed Epstein's private island Little St. James claimed he was hog-tied and held in a dungeon on the property."
+        },
+        {
+          "date": "2026-05-22",
+          "edition": "evening",
+          "update": "British police issued a public appeal for witnesses on a Friday as part of an investigation into potential sexual misconduct offenses by former Prince Andrew, with the probe connected to Jeffrey Epstein. Newly released papers revealed Prince Andrew was coached on how to justify his qualifications for a UK trade ambassador role after lawmakers accused him of prioritizing his Epstein ties over British interests. Sarah Kellen, described as both an alleged survivor and recruiter for Epstein, testified in a closed-door session before lawmakers, reportedly naming three individuals tied to abuse. Commerce Secretary Howard Lutnick donated $5 million to House Republicans after agreeing to be interviewed by lawmakers about his relationship with Epstein, according to the New York Times."
         }
       ],
       "parentId": null
@@ -314,7 +319,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-05-21",
+      "lastSeen": "2026-05-22",
       "active": true,
       "entries": [
         {
@@ -491,6 +496,11 @@
           "date": "2026-05-21",
           "edition": "evening",
           "update": "Russia conducted joint military exercises with Belarus that included delivering nuclear warheads to Belarusian sites, with the drills described as rehearsals for the use of nuclear forces. Ukraine conducted attacks targeting Russian energy infrastructure sites as part of ongoing military operations."
+        },
+        {
+          "date": "2026-05-22",
+          "edition": "evening",
+          "update": "Russia condemned a Ukrainian strike on occupied Luhansk as a 'monstrous crime,' claiming a student dormitory was hit and at least four people killed. Ukrainian officials reported Russia has suffered approximately 83,000 soldiers killed so far in 2026 and is actively seeking to recruit new soldiers, with independent estimates also suggesting Russia's economy is faltering."
         }
       ],
       "parentId": null
@@ -1596,6 +1606,11 @@
           "date": "2026-05-22",
           "edition": "morning",
           "update": "House Republicans canceled a scheduled Thursday vote on an Iran war powers resolution after the party lacked sufficient votes to dismiss it due to absences and defections, despite the resolution appearing to have enough support to pass. Sen. Thom Tillis (R-N.C.) announced he would not support the war powers resolution, dismissing it as a messaging vote. U.S. oil prices rose amid investor doubt over a breakthrough in US-Iran peace talks, with escalating tensions also straining Asian currencies and foreign-exchange reserves. On day 84 of the war, the U.S. and Iran continued mediated talks, exchanging draft proposals aimed at a formal agreement."
+        },
+        {
+          "date": "2026-05-22",
+          "edition": "evening",
+          "update": "Former Rep. Marjorie Taylor Greene stated she fears President Trump may use the war with Iran as a pretext to cancel the 2028 presidential election, according to The Hill."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2387,6 +2402,11 @@
           "date": "2026-05-22",
           "edition": "morning",
           "update": "A new opinion poll indicates 60 percent of Americans oppose Trump's war on Iran. Pakistan is actively seeking to facilitate a breakthrough in peace talks between the U.S. and Iran."
+        },
+        {
+          "date": "2026-05-22",
+          "edition": "evening",
+          "update": "Senate Armed Services Committee Chairman Sen. Roger Wicker (R-Miss.) called on Friday for resumed military strikes against Iran, characterizing Trump's pursuit of a deal as 'ill-advised' and urging him to 'finish' the military campaign. Despite Wicker's stance, diplomatic negotiations between the U.S. and Iran are continuing, with both Pakistan and Qatar dispatching teams to Tehran in an effort to salvage a ceasefire after weeks of talks failed to produce a formal agreement."
         }
       ]
     },
@@ -2522,6 +2542,11 @@
           "date": "2026-05-22",
           "edition": "morning",
           "update": "Secretary of State Rubio announced the arrest of the sister of the head of GAESA, Cuba's military business conglomerate. Rubio formally declared Cuba a national security threat to the United States, raising the prospect of military intervention, while Cuba's foreign minister accused him of spreading lies and attempting to instigate military aggression. Trump and Rubio raised the possibility of military intervention in Cuba one day after the administration announced criminal charges against former Cuban leader Raúl Castro."
+        },
+        {
+          "date": "2026-05-22",
+          "edition": "evening",
+          "update": "Former national security adviser John Bolton warned that the Trump administration may attempt to 'kidnap or snatch' Raúl Castro, cautioning that Castro's indictment could serve as a pretext for military intervention in Cuba. The U.S. warned a peaceful agreement with Cuba is unlikely, while Havana described the situation as a 'fraudulent case' designed to justify military aggression."
         }
       ]
     },
@@ -2577,6 +2602,11 @@
           "date": "2026-05-22",
           "edition": "morning",
           "update": "Iran and Oman are in talks over a ship payment system related to the Strait of Hormuz, with the U.S. and Iran reported to remain far from a broader deal. Oil prices jumped as negotiations over reopening the strait reached an impasse, with disagreements persisting over Iran's uranium stockpile and proposed transit fees for the strait."
+        },
+        {
+          "date": "2026-05-22",
+          "edition": "evening",
+          "update": "Iran and Oman have discussed establishing a toll system to charge vessels transiting the Strait of Hormuz, a move that conflicts with Trump's stated opposition to transit fees on the strategic waterway. Iran's intensified closure of the strait has left sailors stranded, compounding hardships for those affected by the restrictions, according to Reuters."
         }
       ]
     },
@@ -2662,6 +2692,11 @@
           "date": "2026-05-22",
           "edition": "morning",
           "update": "The U.S. imposed new travel restrictions formally barring entry to non-U.S. passport holders who have visited the DRC, Uganda, or South Sudan within the past three weeks. Trump administration officials also issued quarantine orders regarding Ebola and hantavirus that public health experts described as going beyond what is necessary, with experts expressing being stunned by the strictness of the measures."
+        },
+        {
+          "date": "2026-05-22",
+          "edition": "evening",
+          "update": "UK scientists are developing a new vaccine targeting the Bundibugyo strain of Ebola, which kills approximately one third of those infected and has no proven vaccine, with the candidate potentially ready within months. Former CDC epidemiologist Dr. Neil Vora warned the outbreak will 'get worse before it gets better,' citing his experience during the 2019 DRC outbreak. NBC News reported the outbreak is being further hampered by misinformation, strained resources, and armed conflict, with healthcare workers among the first reported cases."
         }
       ]
     },
@@ -2730,5 +2765,5 @@
       "entries": []
     }
   ],
-  "updatedAt": "2026-05-22T11:06:38.650Z"
+  "updatedAt": "2026-05-22T21:09:16.744Z"
 }
