@@ -1264,5 +1264,43 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-22T09:45:01.783Z"
+  },
+  {
+    "title": "Mercedes Isn’t Going to Follow Volkswagen's China Success Path",
+    "description": "Volkswagen and Audi are shifting their approach to China, and it's working. Other companies aren't taking the same approach.",
+    "link": "https://www.newsweek.com/mercedes-isnt-going-to-follow-volkswagens-china-success-path-11972468",
+    "pubDate": "Fri, 22 May 2026 05:47:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-22T10:00:01.232Z"
+  },
+  {
+    "title": "Colombian national sentenced to 25 years for raping, impregnating 12-year-old girl in Missouri",
+    "description": "A Colombian national was sentenced to 25 years in prison for sexual exploitation of a minor in Missouri after pleading guilty, authorities announced.",
+    "link": "https://www.foxnews.com/us/colombian-national-sentenced-25-years-raping-impregnating-12-year-old-girl-missouri",
+    "pubDate": "Fri, 22 May 2026 05:51:02 -0400",
+    "source": "Fox News",
+    "categories": [
+      "5743d796-b233-54e7-a7e9-a6ec96851f8c",
+      "fnc",
+      "fox news",
+      "fox-news/us/crime/rape",
+      "fox-news/us/immigration",
+      "fox-news/us/crime/sex-crimes",
+      "fox-news/us/immigration/illegal-immigrants",
+      "fox-news/person/markwayne-mullin",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-05-22T10:00:01.232Z"
+  },
+  {
+    "title": "United Airlines passenger tries to open plane door at 36,000 feet, assaulted traveler on flight from Newark",
+    "description": "An unruly United Airlines passenger allegedly tried to open one of the plane’s doors at a height of 36,000 feet and assaulted another traveler after the jet had taken off from Newark Liberty International Airport. Pilots aboard United 1551, which was bound for Guatemala City, were forced to make an emergency landing in Washington Dulles...",
+    "link": "https://nypost.com/2026/05/22/us-news/united-airlines-passenger-tries-to-open-plane-door-at-36000-feet-assaulted-traveler-on-flight-from-newark/",
+    "pubDate": "Fri, 22 May 2026 05:51:15 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-22T10:00:01.232Z"
   }
 ]
