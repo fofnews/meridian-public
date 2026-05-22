@@ -1217,5 +1217,52 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-22T09:30:01.423Z"
+  },
+  {
+    "title": "Cubans grapple with fuel shortages and blackouts as US steps up pressure",
+    "description": "The BBC speaks to Havana residents after the US charges the country's former leader, Raúl Castro, with murder.",
+    "link": "https://www.bbc.com/news/articles/c3e2w43lkvzo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 22 May 2026 09:32:42 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-22T09:45:01.783Z"
+  },
+  {
+    "title": "Europe's AI stocks shine through gloom of Iran war - Reuters",
+    "description": "Europe's AI stocks shine through gloom of Iran war  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSkJmUXNhaXlNbFNrbGVQdTRldWdZbXI0UVFvQkx5UHd1YWVWc0lOTENwbDVCa0tyQjJ1NHVMV21MVVc1ejJBcGZ2eW9IakUzNTNxa2RBNWhfUmc5N0pOSUMwNmFlMDZtMVpETkUyLVZGWV9xY2p6YkZxMXpBdUVmOWFtRG8yLVE0Nmh5SDlyYURlNGR1Ql9Na3JB?oc=5",
+    "pubDate": "Fri, 22 May 2026 05:06:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-05-22T09:45:01.783Z"
+  },
+  {
+    "title": "Army cuts helicopters, pushes ‘Amazon for war’ as drone combat reshapes military",
+    "description": "Army leaders signal drone warfare lessons from Ukraine and the Middle East are driving cuts to Apache, Black Hawk and Chinook helicopter programs.",
+    "link": "https://www.foxnews.com/politics/army-cuts-helicopters-pushes-amazon-war-drone-combat-reshapes-military",
+    "pubDate": "Fri, 22 May 2026 05:30:09 -0400",
+    "source": "Fox News",
+    "categories": [
+      "4bfd6d42-1bb5-5505-a6f0-2ddb2ba0924d",
+      "fnc",
+      "fox news",
+      "fox-news/politics/defense/conflicts",
+      "fox-news/tech/topics/pentagon",
+      "fox-news/tech/technologies/drones",
+      "fox-news/tech/topics/us-army",
+      "fox-news/politics/defense/spending",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-05-22T09:45:01.783Z"
+  },
+  {
+    "title": "College students accused of turning popular beach town into booze-soaked free-for-all in takeover chaos",
+    "description": "Four college students are facing charges after police say they organized a series of rowdy \"takeover\" events in Rehoboth Beach, Delaware.",
+    "link": "https://nypost.com/2026/05/22/us-news/delaware-college-students-charged-with-leading-takeover-at-rehoboth-beach/",
+    "pubDate": "Fri, 22 May 2026 05:42:25 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-22T09:45:01.783Z"
   }
 ]
