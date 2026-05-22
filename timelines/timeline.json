@@ -214,7 +214,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-05-14",
+      "lastSeen": "2026-05-21",
       "active": true,
       "entries": [
         {
@@ -296,6 +296,11 @@
           "date": "2026-05-14",
           "edition": "evening",
           "update": "Trump claimed in a Fox News interview with Sean Hannity that during his talks with Xi Jinping in Beijing, Xi offered to help with Iran, specifically related to keeping the Strait of Hormuz open. Trump also stated that Xi committed to not providing military equipment to Iran, describing the pledge as significant."
+        },
+        {
+          "date": "2026-05-21",
+          "edition": "evening",
+          "update": "Trump stated that the United States will retrieve uranium from Iran, reflecting tensions over its enrichment activities. Iranian Supreme Leader Khamenei has ordered that enriched uranium remain inside Iran rather than be transferred elsewhere. The U.S. Senate advanced a bill aimed at ending the war with Iran, with Senator Cassidy switching his position to support the measure after losing a primary election."
         }
       ],
       "parentId": null
@@ -304,7 +309,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-05-17",
+      "lastSeen": "2026-05-21",
       "active": true,
       "entries": [
         {
@@ -476,6 +481,11 @@
           "date": "2026-05-17",
           "edition": "evening",
           "update": "Ukraine launched one of its largest drone attacks on Russia, killing at least four people, three of them in the Moscow region."
+        },
+        {
+          "date": "2026-05-21",
+          "edition": "evening",
+          "update": "Russia conducted joint military exercises with Belarus that included delivering nuclear warheads to Belarusian sites, with the drills described as rehearsals for the use of nuclear forces. Ukraine conducted attacks targeting Russian energy infrastructure sites as part of ongoing military operations."
         }
       ],
       "parentId": null
@@ -604,7 +614,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-18",
+      "lastSeen": "2026-05-21",
       "active": true,
       "entries": [
         {
@@ -766,6 +776,11 @@
           "date": "2026-05-18",
           "edition": "evening",
           "update": "Pakistan deployed a squadron of fighter jets to Saudi Arabia during the Iran war in a move that had not been previously disclosed, despite Pakistan's role as a neutral mediator in the Iran-U.S. conflict."
+        },
+        {
+          "date": "2026-05-21",
+          "edition": "evening",
+          "update": "Rising tensions related to Iran are being cited as a drag on European economic growth, increasing prices and creating trade and market headwinds for European nations."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -859,7 +874,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-04-30",
+      "lastSeen": "2026-05-21",
       "active": true,
       "entries": [
         {
@@ -1076,6 +1091,11 @@
           "date": "2026-04-30",
           "edition": "morning",
           "update": "Israeli forces intercepted a pro-Palestinian aid flotilla sailing in international waters near the Greek island of Crete, detaining crew members and activists who were attempting to break Israel's blockade and deliver aid to Gaza."
+        },
+        {
+          "date": "2026-05-21",
+          "edition": "evening",
+          "update": "Nearly 3,000 people have been killed and almost 1 million displaced since fighting began in southern Lebanon in March, with approximately 400 deaths occurring after the April ceasefire took effect."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2513,13 +2533,18 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-05-15",
+      "lastSeen": "2026-05-21",
       "active": true,
       "entries": [
         {
           "date": "2026-05-15",
           "edition": "morning",
           "update": "Tensions near the Strait of Hormuz have escalated, with one vessel seized near the UAE and taken toward Iran, and a second ship attacked and sunk off the coast of Oman."
+        },
+        {
+          "date": "2026-05-21",
+          "edition": "evening",
+          "update": "Iran published a map asserting armed forces oversight over more than 22,000 square kilometers of the Strait of Hormuz. Despite regional tensions, OPEC+ leaders are expected to approve an increased oil output target for July, reflecting confidence in sustaining production increases."
         }
       ]
     },
@@ -2540,6 +2565,11 @@
           "date": "2026-05-21",
           "edition": "morning",
           "update": "A Florida-seated U.S. grand jury formally indicted former Cuban leader Raúl Castro on charges including murder and conspiracy to kill U.S. nationals, in connection with Cuba's 1996 shootdown of two Brothers to the Rescue civilian planes. The indictment was announced Wednesday."
+        },
+        {
+          "date": "2026-05-21",
+          "edition": "evening",
+          "update": "A Florida grand jury indicted Raúl Castro and five others in connection with the 1996 shootdown. China criticized the U.S. for what it called 'threats' against Cuba following the indictment. Russia expressed full solidarity with Cuba and pledged active support amid escalating U.S. pressure, which also included Secretary of State Rubio messaging that appeared to encourage Cubans to overthrow their government. The U.S. Supreme Court issued an 8-1 ruling by Justice Clarence Thomas limiting lawsuits over property seized by Cuba. Senator Rubio stated the likelihood of a negotiated agreement with Cuba is low. The indictment is circulating among Cubans amid widespread blackouts, with many expressing hope it could improve their living conditions."
         }
       ]
     },
@@ -2578,13 +2608,18 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-05-17",
+      "lastSeen": "2026-05-21",
       "active": true,
       "entries": [
         {
           "date": "2026-05-17",
           "edition": "morning",
           "update": "The WHO declared the Ebola outbreak affecting DR Congo and Uganda a global public health emergency, with approximately 80 deaths reported across both countries."
+        },
+        {
+          "date": "2026-05-21",
+          "edition": "evening",
+          "update": "An Air France flight bound for Detroit was diverted to Canada after a passenger from the DRC boarded 'in error,' prompting Ebola-related concerns. The Department of Homeland Security announced new arrival restrictions for travelers from the DRC, Uganda, and South Sudan. Enhanced Ebola screening is now required at Washington Dulles International Airport for U.S.-bound travelers from affected African countries. The WHO reported the death toll in Congo has risen to 134, with the WHO chief expressing alarm at the outbreak's rapid spread and scale. India postponed an Africa summit due to the virus spreading into M23-controlled territory in eastern DRC, where armed conflict has complicated containment efforts. Russia expressed solidarity with Cuba and promised active support amid escalating U.S. pressure on the Castro regime."
         }
       ]
     },
@@ -2608,13 +2643,18 @@
       "title": "San Diego Mosque Shooting Investigation",
       "parentId": null,
       "firstSeen": "2026-05-19",
-      "lastSeen": "2026-05-19",
+      "lastSeen": "2026-05-21",
       "active": true,
       "entries": [
         {
           "date": "2026-05-19",
           "edition": "morning",
           "update": "Three adults were killed in a shooting at the Islamic Center of San Diego on Monday, with both suspects also dead. Authorities are investigating the attack as a suspected hate crime."
+        },
+        {
+          "date": "2026-05-21",
+          "edition": "evening",
+          "update": "Writings attributed to the suspects contain extremist neo-Nazi ideology and apparent incel-related influences, according to authorities."
         }
       ]
     },
@@ -2643,5 +2683,5 @@
       "entries": []
     }
   ],
-  "updatedAt": "2026-05-21T11:05:45.492Z"
+  "updatedAt": "2026-05-21T21:09:46.422Z"
 }
