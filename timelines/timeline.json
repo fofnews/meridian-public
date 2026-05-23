@@ -319,7 +319,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-05-22",
+      "lastSeen": "2026-05-23",
       "active": true,
       "entries": [
         {
@@ -501,6 +501,11 @@
           "date": "2026-05-22",
           "edition": "evening",
           "update": "Russia condemned a Ukrainian strike on occupied Luhansk as a 'monstrous crime,' claiming a student dormitory was hit and at least four people killed. Ukrainian officials reported Russia has suffered approximately 83,000 soldiers killed so far in 2026 and is actively seeking to recruit new soldiers, with independent estimates also suggesting Russia's economy is faltering."
+        },
+        {
+          "date": "2026-05-23",
+          "edition": "morning",
+          "update": "Putin vowed retaliation following the Luhansk strike, while Ukraine stated the attack targeted Russia's elite Rubicon drone military unit operating in Moscow-occupied eastern Ukraine."
         }
       ],
       "parentId": null
@@ -629,7 +634,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-21",
+      "lastSeen": "2026-05-23",
       "active": true,
       "entries": [
         {
@@ -796,6 +801,11 @@
           "date": "2026-05-21",
           "edition": "evening",
           "update": "Rising tensions related to Iran are being cited as a drag on European economic growth, increasing prices and creating trade and market headwinds for European nations."
+        },
+        {
+          "date": "2026-05-23",
+          "edition": "morning",
+          "update": "Israel has been largely excluded from U.S.-Iran peace negotiations, leaving Prime Minister Netanyahu sidelined despite Israel's participation in prior military operations against Iran, according to the New York Times."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -889,7 +899,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-05-21",
+      "lastSeen": "2026-05-23",
       "active": true,
       "entries": [
         {
@@ -1111,6 +1121,11 @@
           "date": "2026-05-21",
           "edition": "evening",
           "update": "Nearly 3,000 people have been killed and almost 1 million displaced since fighting began in southern Lebanon in March, with approximately 400 deaths occurring after the April ceasefire took effect."
+        },
+        {
+          "date": "2026-05-23",
+          "edition": "morning",
+          "update": "Israeli forces struck Nuseirat and Bureij refugee camps in central Gaza, injuring dozens, despite a ceasefire agreement being in place."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1119,7 +1134,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-05-22",
+      "lastSeen": "2026-05-23",
       "active": true,
       "entries": [
         {
@@ -1611,6 +1626,11 @@
           "date": "2026-05-22",
           "edition": "evening",
           "update": "Former Rep. Marjorie Taylor Greene stated she fears President Trump may use the war with Iran as a pretext to cancel the 2028 presidential election, according to The Hill."
+        },
+        {
+          "date": "2026-05-23",
+          "edition": "morning",
+          "update": "Tulsi Gabbard resigned as Director of National Intelligence, citing her husband's cancer diagnosis, amid reports Trump is weighing a resumption of military strikes against Iran. Iran's Civil Aviation Authority closed airspace over the western part of the country to all flights through Monday, canceling remaining flights and issuing a notice to airmen. The U.S. and Israel are reported to be reviewing potential targets for future strikes, while Iran is simultaneously evaluating the latest American peace proposal. Pakistan's army chief arrived in Tehran as mediation efforts intensified, with Iran stating that major gaps remain in U.S.-Iran talks."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2345,7 +2365,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-22",
+      "lastSeen": "2026-05-23",
       "active": true,
       "entries": [
         {
@@ -2485,7 +2505,7 @@
       "title": "Cuba Military Intervention",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-04-29",
-      "lastSeen": "2026-05-21",
+      "lastSeen": "2026-05-23",
       "active": true,
       "entries": [
         {
@@ -2517,6 +2537,11 @@
           "date": "2026-05-21",
           "edition": "morning",
           "update": "The USS Nimitz carrier strike group, including the destroyer USS Gridley and an air wing of F/A-18 Super Hornets and EA-18G Growlers, arrived in the Caribbean on the same day the Justice Department announced the indictment of Raúl Castro."
+        },
+        {
+          "date": "2026-05-23",
+          "edition": "morning",
+          "update": "CIA Director Ratcliffe brought a covert operator involved in efforts to capture Nicolás Maduro to his meeting with senior Cuban officials in Havana last week. Critics accused the Trump administration of manufacturing a pretext for a potential invasion of Cuba, citing the Castro indictment and administration statements amplifying Cuba's perceived military and intelligence threat."
         }
       ]
     },
@@ -2585,7 +2610,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-05-22",
+      "lastSeen": "2026-05-23",
       "active": true,
       "entries": [
         {
@@ -2607,6 +2632,11 @@
           "date": "2026-05-22",
           "edition": "evening",
           "update": "Iran and Oman have discussed establishing a toll system to charge vessels transiting the Strait of Hormuz, a move that conflicts with Trump's stated opposition to transit fees on the strategic waterway. Iran's intensified closure of the strait has left sailors stranded, compounding hardships for those affected by the restrictions, according to Reuters."
+        },
+        {
+          "date": "2026-05-23",
+          "edition": "morning",
+          "update": "Experts assess that full Iranian control over the Strait of Hormuz is unlikely, but Iran's attempts to charge vessels for passage have prompted concern within the international shipping industry."
         }
       ]
     },
@@ -2615,7 +2645,7 @@
       "title": "Raúl Castro Indictment for 1996 Plane Downing",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-05-22",
+      "lastSeen": "2026-05-23",
       "active": true,
       "entries": [
         {
@@ -2637,6 +2667,11 @@
           "date": "2026-05-22",
           "edition": "morning",
           "update": "Luis González-Pardo, a Cuban pilot living in Florida, was identified as one of the named defendants in the federal indictment alongside Raúl Castro. Cuban officials publicly rallied in support of Castro following his indictment on murder charges."
+        },
+        {
+          "date": "2026-05-23",
+          "edition": "morning",
+          "update": "Mexican President Claudia Sheinbaum publicly protested the U.S. indictment of Raúl Castro at a Friday press conference, arguing the 1996 incident occurred too long ago to warrant charges."
         }
       ]
     },
@@ -2675,7 +2710,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-05-22",
+      "lastSeen": "2026-05-23",
       "active": true,
       "entries": [
         {
@@ -2697,6 +2732,11 @@
           "date": "2026-05-22",
           "edition": "evening",
           "update": "UK scientists are developing a new vaccine targeting the Bundibugyo strain of Ebola, which kills approximately one third of those infected and has no proven vaccine, with the candidate potentially ready within months. Former CDC epidemiologist Dr. Neil Vora warned the outbreak will 'get worse before it gets better,' citing his experience during the 2019 DRC outbreak. NBC News reported the outbreak is being further hampered by misinformation, strained resources, and armed conflict, with healthcare workers among the first reported cases."
+        },
+        {
+          "date": "2026-05-23",
+          "edition": "morning",
+          "update": "The Trump administration expanded its pause on U.S. visa processing to additional embassies beyond the initial suspension at Uganda, South Sudan, and DRC posts. Suspected Ebola cases in the DRC have grown to nearly 750, prompting health authorities to intensify measures along the DRC–Uganda border, disrupting daily life in the region. BBC News gathered perspectives from survivors and experts of the West Africa outbreak a decade ago, highlighting lessons on speed, funding, and compassion."
         }
       ]
     },
@@ -2765,5 +2805,5 @@
       "entries": []
     }
   ],
-  "updatedAt": "2026-05-22T21:09:16.744Z"
+  "updatedAt": "2026-05-23T11:05:30.504Z"
 }
