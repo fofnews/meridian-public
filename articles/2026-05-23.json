@@ -176,5 +176,34 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-23T04:45:01.824Z"
+  },
+  {
+    "title": "The Papers: 'Heat leaves Africa and Med in shade' and 'Can't cope without Catherine'",
+    "description": "An expected heatwave, tax proposals and the Prince of Wales are prominent on Saturday's papers.",
+    "link": "https://www.bbc.com/news/articles/cj6pddx64jko?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 23 May 2026 04:45:56 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-23T05:00:01.236Z"
+  },
+  {
+    "title": "Over 1.6 million pilgrims arrive in Saudi Arabia for hajj pilgrimage",
+    "description": "More than 1.6 million Muslim pilgrims have arrived in Saudi Arabia for the annual Hajj pilgrimage",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/over-1-6-million-pilgrims-arrive-in-saudi-arabia-for-hajj-pilgrimage?traffic_source=rss",
+    "pubDate": "Sat, 23 May 2026 04:20:04 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-05-23T05:00:01.236Z"
+  },
+  {
+    "title": "14-year-old killed, another teen critical after Williamsburg Bridge subway surfing stunt",
+    "description": "A 14-year-old boy is dead and an 18-year-old man is fighting for his life after a subway surfing stunt turned tragic on the Williamsburg Bridge Friday evening.",
+    "link": "https://nypost.com/2026/05/23/us-news/nyc-subway-surfing-stunt-leaves-teen-dead-another-critical-at-williamsburg-bridge/",
+    "pubDate": "Sat, 23 May 2026 00:58:58 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-23T05:00:01.236Z"
   }
 ]
