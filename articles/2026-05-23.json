@@ -827,5 +827,62 @@
     "source": "AP News",
     "categories": [],
     "collectedAt": "2026-05-23T09:15:01.166Z"
+  },
+  {
+    "title": "A mysterious document’s long-awaited release, and pour one out for a legendary beer: The news quiz",
+    "description": "The Premier League has a new champion, a late-night host signs off, and the U.S. indicts Raúl Castro.",
+    "link": "https://www.nbcnews.com/news/news-quiz/files-released-beer-news-quiz-rcna346401",
+    "pubDate": "Sat, 23 May 2026 09:15:00 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-05-23T09:30:01.670Z"
+  },
+  {
+    "title": "Judge drops criminal case against Kilmar Abrego García, deeming it vindictive - The Washington Post",
+    "description": "Judge drops criminal case against Kilmar Abrego García, deeming it vindictive  The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRVAzcXZSRkR6VjhjNEpXZzV0OVF6X2dHRWFnNUI3QWlEVUdVZDR1bW9MWGlJTVctWm5KczdicWFyTmE0V09tUFlpUjBxcFhJenJwYXg4X081T29pWFJBRXBQZlVYR1JCYWpsbGY0d1dFeVRBbHQ3Z1ltbXFER2VmTEwyemlXZVRFX0lwcnRZdmVVMVNGOVRldGc0ckhoaXJRdXZIRnowT21jaHY5VlUwVHItZTVHS2xJX1B1dmFFeUlaU3B4Yzhza2luWlVXYXhH?oc=5",
+    "pubDate": "Sat, 23 May 2026 05:16:00 GMT",
+    "source": "Washington Post",
+    "categories": [],
+    "collectedAt": "2026-05-23T09:30:01.670Z"
+  },
+  {
+    "title": "'Life-Threatening' Storms Threaten Millions On Memorial Day Weekend: Map",
+    "description": "Forecasters say many can expect a wet Memorial Day weekend, with dangerous flooding possible in some parts of the country.",
+    "link": "https://www.newsweek.com/life-threatening-storms-threaten-millions-on-memorial-day-weekend-map-11986006",
+    "pubDate": "Sat, 23 May 2026 05:15:23 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-23T09:30:01.670Z"
+  },
+  {
+    "title": "As Salah plays final Liverpool match, his legacy goes far beyond the pitch",
+    "description": "Mohamed Salah's status as one of Liverpool's greatest players of all time transcends his achievements in the sport.",
+    "link": "https://www.aljazeera.com/sports/2026/5/23/mohamed-salah-liverpool-final-match-legacy?traffic_source=rss",
+    "pubDate": "Sat, 23 May 2026 09:13:23 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-05-23T09:30:01.670Z"
+  },
+  {
+    "title": "Kansas City barbecue restaurant prepares for World Cup tourism rush",
+    "description": "As millions travel for the FIFA World Cup, one iconic Kansas City barbecue restaurant says it’s preparing for major crowds, longer lines and fans from around the world.",
+    "link": "https://www.foxnews.com/us/kansas-city-barbecue-restaurant-prepares-world-cup-tourism-rush",
+    "pubDate": "Sat, 23 May 2026 05:12:20 -0400",
+    "source": "Fox News",
+    "categories": [
+      "2ff6d91e-ea9e-5231-a5cc-f319aee41d97",
+      "fnc",
+      "fox news",
+      "fox-news/topic/fox-news-multimedia-reporters",
+      "fox-news/sports/soccer/the-world-cup",
+      "fox-news/sports/soccer",
+      "fox-news/us/us-regions/midwest",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-05-23T09:30:01.670Z"
   }
 ]
