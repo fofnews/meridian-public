@@ -520,5 +520,43 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-23T07:45:01.288Z"
+  },
+  {
+    "title": "Feds seize $6.4M worth of cocaine aboard oil tanker at Port of Los Angeles, arrest suspected cartel smuggler",
+    "description": "A suspected drug smuggler was arrested after federal agents allegedly discovered $6.4 million worth of cocaine aboard an oil tanker in California.",
+    "link": "https://www.foxnews.com/us/feds-seize-64-million-worth-cocaine-aboard-oil-tanker-port-los-angeles-arrest-suspected-cartel-smuggler",
+    "pubDate": "Sat, 23 May 2026 03:54:19 -0400",
+    "source": "Fox News",
+    "categories": [
+      "89f32262-dbab-598a-84ef-da3e9d017edb",
+      "fnc",
+      "fox news",
+      "fox-news/topic/mexican-cartel-violence",
+      "fox-news/us/crime/organized-crime",
+      "fox-news/us/military/coast-guard",
+      "fox-news/us/crime/drugs",
+      "fox-news/us/us-regions/west/california",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-05-23T08:00:01.360Z"
+  },
+  {
+    "title": "Rhode Island 18-year-old arrested in beach stabbing as hundreds of teens packed area",
+    "description": "Authorities allege Medina was involved in a May 19 stabbing at Narragansett Town Beach as hundreds of teenagers packed the area.",
+    "link": "https://nypost.com/2026/05/23/us-news/rhode-island-man-willy-medina-arrested-in-beach-stabbing-as-hundreds-of-teens-packed-area/",
+    "pubDate": "Sat, 23 May 2026 03:55:36 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-23T08:00:01.360Z"
+  },
+  {
+    "title": "Scarlett Johansson, who earned $43M in 2025, says life is a constant ‘deficit’ at home",
+    "description": "According to Forbes, Johansson earned $43 million in 2025 and was named the highest-paid actress of 2025.",
+    "link": "https://pagesix.com/2026/05/23/celebrity-news/scarlett-johansson-says-there-is-no-work-life-balance-in-candid-interview/",
+    "pubDate": "Sat, 23 May 2026 03:46:01 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-23T08:00:01.360Z"
   }
 ]
