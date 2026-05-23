@@ -11873,5 +11873,72 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-22T23:45:01.604Z"
+  },
+  {
+    "title": "Evacuation orders issued for 40,000 people in California over explosion threat",
+    "description": "Officials said Friday there is no active gas leak or plume, but that the tank is \"actively in crisis\" and is unable to be \"secured.\"",
+    "link": "https://abcnews.com/US/evacuation-orders-issued-california-city-chemical-tank-fails/story?id=133234846",
+    "pubDate": "Fri, 22 May 2026 19:46:26 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-05-23T00:00:01.298Z"
+  },
+  {
+    "title": "Some schools are teaching kindness classes: \"Makes me want to be a better person\"",
+    "description": "Schools teach kids how to read, write and do math. But what about a class on how to be kind? In some places, it is. Steve Hartman goes \"On the Road\" with the story.",
+    "link": "https://www.cbsnews.com/video/some-schools-teaching-kindness-classes-want-better-person/",
+    "pubDate": "Fri, 22 May 2026 19:40:39 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-05-23T00:00:01.298Z"
+  },
+  {
+    "title": "What is methyl methacrylate, the chemical at the center of the Orange County crisis?",
+    "description": "The E.P.A. warns that short-term exposure to the compound, methyl methacrylate, can cause skin and eye irritation and respiratory issues.",
+    "link": "https://www.nytimes.com/2026/05/22/us/methyl-methacrylate-garden-grove-chemical-leak.html",
+    "pubDate": "Fri, 22 May 2026 23:49:33 +0000",
+    "source": "NY Times",
+    "categories": [
+      "chemicals",
+      "garden grove (calif)"
+    ],
+    "collectedAt": "2026-05-23T00:00:01.298Z"
+  },
+  {
+    "title": "Jazz Chisholm Jr. left in awe of friend Josh Hart and his ‘legendary’ Knicks Game 2 moment",
+    "description": "Josh Hart and Jazz Chisholm Jr. built a texting and dinners-meet-up friendship as two of the most approachable athletes in New York.",
+    "link": "https://nypost.com/2026/05/22/sports/yankees-jazz-chisholm-jr-left-in-awe-of-friend-josh-hart/",
+    "pubDate": "Fri, 22 May 2026 19:53:06 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-23T00:00:01.298Z"
+  },
+  {
+    "title": "Rob Base, ‘It Takes Two’ rapper, dead at 59",
+    "description": "The rapper, who died following a private cancer battle, died just four days after celebrating his birthday.",
+    "link": "https://pagesix.com/2026/05/22/entertainment/rob-base-it-takes-two-rapper-dead-at-59/",
+    "pubDate": "Fri, 22 May 2026 19:45:48 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-23T00:00:01.298Z"
+  },
+  {
+    "title": "Iran closes western airspace until Monday as Trump administration mulls strikes",
+    "description": "Iran closed the airspace over the western part of the country to all flights until Monday, another sign that the United States may resume its air campaign against Iran. The Civil Aviation Authority of the Islamic Republic of Iran issued the notice to airmen late on Friday, canceling all remaining flights until the next morning. […]",
+    "link": "https://www.washingtonexaminer.com/news/world/4580384/iran-airspace-closure-trump-mulls-strikes/",
+    "pubDate": "Fri, 22 May 2026 23:44:52 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "world",
+      "air travel",
+      "donald trump",
+      "iran",
+      "middle east",
+      "qatar",
+      "war"
+    ],
+    "collectedAt": "2026-05-23T00:00:01.298Z"
   }
 ]
