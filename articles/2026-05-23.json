@@ -449,5 +449,56 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-23T07:15:01.138Z"
+  },
+  {
+    "title": "Attorney general to review teen boys' rape sentences",
+    "description": "The three teenagers were not given custodial sentences for their roles in the rape of two girls.",
+    "link": "https://www.bbc.com/news/articles/cwy2x7wxjego?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 23 May 2026 07:23:55 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-23T07:30:01.304Z"
+  },
+  {
+    "title": "Gas explosion at Chinese coal mine kills at least 90",
+    "description": "President Xi Jinping has called on authorities nationwide to learn from the incident.",
+    "link": "https://www.aljazeera.com/news/2026/5/23/gas-explosion-at-chinese-coal-mine-kills-at-least-90?traffic_source=rss",
+    "pubDate": "Sat, 23 May 2026 06:57:17 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-23T07:30:01.304Z"
+  },
+  {
+    "title": "World Cup 2026: Which star players will miss the tournament?",
+    "description": "Al Jazeera takes a look at the high-profile players who will play no part in the tournament in North America.",
+    "link": "https://www.aljazeera.com/sports/2026/5/23/world-cup-2026-which-star-players-will-miss-the-tournament?traffic_source=rss",
+    "pubDate": "Sat, 23 May 2026 06:54:42 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-05-23T07:30:01.304Z"
+  },
+  {
+    "title": "Iran war day 85: Tehran says major gaps remain in US talks",
+    "description": "Pakistan army chief Asim Munir arrives in Tehran as mediation efforts to secure a US-Iran peace deal intensify.",
+    "link": "https://www.aljazeera.com/news/2026/5/23/iran-war-day-85-tehran-says-major-gaps-remain-in-us-talks?traffic_source=rss",
+    "pubDate": "Sat, 23 May 2026 06:51:45 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-23T07:30:01.304Z"
+  },
+  {
+    "title": "‘Illicit’ version of fentanyl linked to deadly New Mexico incident that sickened first responders",
+    "description": "Officials said 25 people were exposed to the substance, with 20 hospitalized for treatment before being released.",
+    "link": "https://nypost.com/2026/05/23/us-news/illicit-version-of-fentanyl-linked-to-deadly-new-mexico-incident/",
+    "pubDate": "Sat, 23 May 2026 03:25:28 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-23T07:30:01.304Z"
   }
 ]
