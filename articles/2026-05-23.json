@@ -500,5 +500,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-23T07:30:01.304Z"
+  },
+  {
+    "title": "82 dead, 9 trapped in coal mine accident in northern China: State media",
+    "description": "The accident occurred Friday night local time at the Liushenyu coal mine in Changzhi City, according to the Chinese state news agency Xinhua.",
+    "link": "https://abcnews.com/International/4-dead-90-trapped-coal-mine-accident-northern/story?id=133238116",
+    "pubDate": "Sat, 23 May 2026 03:44:05 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-05-23T07:45:01.288Z"
+  },
+  {
+    "title": "Golden Knights stun favored Avalanche again to grab 2-0 series lead in Western Conference Final",
+    "description": "The Avalanche, the NHL's best team during the regular season, are in danger thanks to a Vegas team that's rolling after a late-season coaching change.",
+    "link": "https://nypost.com/2026/05/23/sports/golden-knights-stun-avalanche-again-to-grab-2-0-series-lead/",
+    "pubDate": "Sat, 23 May 2026 03:34:38 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-23T07:45:01.288Z"
   }
 ]
