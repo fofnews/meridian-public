@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-05-22",
+      "lastSeen": "2026-05-23",
       "active": true,
       "entries": [
         {
@@ -216,6 +216,11 @@
           "date": "2026-05-22",
           "edition": "evening",
           "update": "British police issued a public appeal for witnesses on a Friday as part of an investigation into potential sexual misconduct offenses by former Prince Andrew, with the probe connected to Jeffrey Epstein. Newly released papers revealed Prince Andrew was coached on how to justify his qualifications for a UK trade ambassador role after lawmakers accused him of prioritizing his Epstein ties over British interests. Sarah Kellen, described as both an alleged survivor and recruiter for Epstein, testified in a closed-door session before lawmakers, reportedly naming three individuals tied to abuse. Commerce Secretary Howard Lutnick donated $5 million to House Republicans after agreeing to be interviewed by lawmakers about his relationship with Epstein, according to the New York Times."
+        },
+        {
+          "date": "2026-05-23",
+          "edition": "evening",
+          "update": "FEC filings confirmed that Commerce Secretary Howard Lutnick donated the $5 million to the Congressional Leadership Fund, a House Republican super PAC, on April 1, specifically ahead of his congressional testimony regarding his ties to Jeffrey Epstein."
         }
       ],
       "parentId": null
@@ -506,6 +511,11 @@
           "date": "2026-05-23",
           "edition": "morning",
           "update": "Putin vowed retaliation following the Luhansk strike, while Ukraine stated the attack targeted Russia's elite Rubicon drone military unit operating in Moscow-occupied eastern Ukraine."
+        },
+        {
+          "date": "2026-05-23",
+          "edition": "evening",
+          "update": "The drone strike on a student dormitory in Russian-controlled Luhansk was reported to have killed 16 people, with most victims described as young women, adding detail to previously reported Russian accusations. Ukraine claimed it struck Russia's Sheskharis oil terminal on the Black Sea. Ukrainian President Zelenskyy warned that Russia is preparing to strike Ukraine using a hypersonic 'Oreshnik' missile."
         }
       ],
       "parentId": null
@@ -806,6 +816,11 @@
           "date": "2026-05-23",
           "edition": "morning",
           "update": "Israel has been largely excluded from U.S.-Iran peace negotiations, leaving Prime Minister Netanyahu sidelined despite Israel's participation in prior military operations against Iran, according to the New York Times."
+        },
+        {
+          "date": "2026-05-23",
+          "edition": "evening",
+          "update": "An Israeli attack on a police post in northern Gaza killed five police officers and a 13-year-old boy, with dozens more wounded across the territory in the preceding 48 hours. Israeli forces arrested two Palestinian children during a raid on the village of al-Mughayyir in the occupied West Bank."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1126,6 +1141,11 @@
           "date": "2026-05-23",
           "edition": "morning",
           "update": "Israeli forces struck Nuseirat and Bureij refugee camps in central Gaza, injuring dozens, despite a ceasefire agreement being in place."
+        },
+        {
+          "date": "2026-05-23",
+          "edition": "evening",
+          "update": "Israeli strikes damaged a main hospital in the Lebanese city of Tyre on Saturday, as funerals were held for paramedics killed in strikes the previous day. An Israeli air strike also hit the Al-Baqbouq area north of Tyre, injuring multiple people. France banned far-right Israeli Minister Itamar Ben-Gvir from entering the country, with Foreign Minister Jean-Noel Barrot citing the need to protect French nationals from threats and intimidation attributed to the minister."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1631,6 +1651,11 @@
           "date": "2026-05-23",
           "edition": "morning",
           "update": "Tulsi Gabbard resigned as Director of National Intelligence, citing her husband's cancer diagnosis, amid reports Trump is weighing a resumption of military strikes against Iran. Iran's Civil Aviation Authority closed airspace over the western part of the country to all flights through Monday, canceling remaining flights and issuing a notice to airmen. The U.S. and Israel are reported to be reviewing potential targets for future strikes, while Iran is simultaneously evaluating the latest American peace proposal. Pakistan's army chief arrived in Tehran as mediation efforts intensified, with Iran stating that major gaps remain in U.S.-Iran talks."
+        },
+        {
+          "date": "2026-05-23",
+          "edition": "evening",
+          "update": "Tulsi Gabbard's resignation as Director of National Intelligence was confirmed as the U.S. was reportedly preparing a fresh round of military strikes against Iran amid an ongoing ceasefire. Secretary of State Marco Rubio, speaking during a visit to India, stated progress has been made in U.S.-Iran peace negotiations, saying the conflict will be resolved 'one way or the other.' A hard-line Iranian general emerged as a significant figure in ongoing U.S.-Iran talks, according to AP News. Retired U.S. Navy Commander Kirk Lippold stated on Fox News that resumed U.S. combat operations against Iran are a matter of 'not if, but when.'"
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1919,8 +1944,8 @@
       "id": "cuba-energy-crisis",
       "title": "Cuba Energy Crisis",
       "firstSeen": "2026-03-16",
-      "lastSeen": "2026-04-12",
-      "active": false,
+      "lastSeen": "2026-05-23",
+      "active": true,
       "entries": [
         {
           "date": "2026-03-16",
@@ -2066,6 +2091,11 @@
           "date": "2026-04-12",
           "edition": "evening",
           "update": "In the Meet the Press interview, Díaz-Canel stated he is prepared to 'give my life for the revolution' and said 'if we need to die, we'll die' when referencing resistance to a potential U.S. invasion."
+        },
+        {
+          "date": "2026-05-23",
+          "edition": "evening",
+          "update": "Cubans are turning to alternative energy sources including solar panels and charcoal to cope with ongoing power outages and fuel shortages, though access to solar panels remains limited and charcoal use has raised health concerns."
         }
       ],
       "parentId": null
@@ -2395,7 +2425,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-05-22",
+      "lastSeen": "2026-05-23",
       "active": true,
       "entries": [
         {
@@ -2427,6 +2457,11 @@
           "date": "2026-05-22",
           "edition": "evening",
           "update": "Senate Armed Services Committee Chairman Sen. Roger Wicker (R-Miss.) called on Friday for resumed military strikes against Iran, characterizing Trump's pursuit of a deal as 'ill-advised' and urging him to 'finish' the military campaign. Despite Wicker's stance, diplomatic negotiations between the U.S. and Iran are continuing, with both Pakistan and Qatar dispatching teams to Tehran in an effort to salvage a ceasefire after weeks of talks failed to produce a formal agreement."
+        },
+        {
+          "date": "2026-05-23",
+          "edition": "evening",
+          "update": "President Trump stated the U.S. is 'getting a lot closer' to an agreement with Iran, and separately described the chances of a nuclear deal as '50/50' as negotiations entered what officials called a critical stage. Iran met with mediators in Tehran with no clear breakthrough reported, while Tehran clarified that the issue of nuclear weapons is not part of any initial framework being negotiated. U.S. officials and negotiators were reported to be discussing a process to reopen the Strait of Hormuz as part of broader talks. Trump held a conference call with leaders of Saudi Arabia, Qatar, the UAE, Egypt, Turkey, and Pakistan on Saturday to discuss a possible U.S.-Iran agreement."
         }
       ]
     },
@@ -2550,7 +2585,7 @@
       "title": "US Military Intervention in Cuba",
       "parentId": null,
       "firstSeen": "2026-05-02",
-      "lastSeen": "2026-05-22",
+      "lastSeen": "2026-05-23",
       "active": true,
       "entries": [
         {
@@ -2572,6 +2607,11 @@
           "date": "2026-05-22",
           "edition": "evening",
           "update": "Former national security adviser John Bolton warned that the Trump administration may attempt to 'kidnap or snatch' Raúl Castro, cautioning that Castro's indictment could serve as a pretext for military intervention in Cuba. The U.S. warned a peaceful agreement with Cuba is unlikely, while Havana described the situation as a 'fraudulent case' designed to justify military aggression."
+        },
+        {
+          "date": "2026-05-23",
+          "edition": "evening",
+          "update": "Sen. Lindsey Graham declared that 'the liberation of the wonderful people of Cuba from the clutches of communism is close at hand,' backing White House threats of potential military action against the island."
         }
       ]
     },
@@ -2637,6 +2677,11 @@
           "date": "2026-05-23",
           "edition": "morning",
           "update": "Experts assess that full Iranian control over the Strait of Hormuz is unlikely, but Iran's attempts to charge vessels for passage have prompted concern within the international shipping industry."
+        },
+        {
+          "date": "2026-05-23",
+          "edition": "evening",
+          "update": "U.S. Central Command announced it has redirected more than 100 commercial vessels as part of a naval blockade of Iranian ports in the Strait of Hormuz, describing the operation as involving more than 15,000 U.S. troops and launched in April at President Trump's direction."
         }
       ]
     },
@@ -2737,6 +2782,11 @@
           "date": "2026-05-23",
           "edition": "morning",
           "update": "The Trump administration expanded its pause on U.S. visa processing to additional embassies beyond the initial suspension at Uganda, South Sudan, and DRC posts. Suspected Ebola cases in the DRC have grown to nearly 750, prompting health authorities to intensify measures along the DRC–Uganda border, disrupting daily life in the region. BBC News gathered perspectives from survivors and experts of the West Africa outbreak a decade ago, highlighting lessons on speed, funding, and compassion."
+        },
+        {
+          "date": "2026-05-23",
+          "edition": "evening",
+          "update": "Three Red Cross workers died from Ebola in DR Congo. Uganda confirmed three new cases, bringing its total to five, including a driver who transported the country's first confirmed patient and a health worker. The CDC expanded enhanced Ebola screening to Hartsfield-Jackson Atlanta International Airport, the world's busiest, targeting passengers arriving from Congo, Uganda, and South Sudan. The Trump administration further tightened travel restrictions to include lawful permanent residents (green card holders) who have been in the DRC, Uganda, or South Sudan within the past 21 days, with the update issued by the Department of Health and Human Services. U.S. citizens and permanent residents departing Ebola-affected countries are now required to enter the U.S. through one of three designated airports. DR Congo stated it would not alter its World Cup preparations despite a U.S. warning to its soccer team to isolate due to Ebola concerns."
         }
       ]
     },
@@ -2760,7 +2810,7 @@
       "title": "San Diego Mosque Shooting Investigation",
       "parentId": null,
       "firstSeen": "2026-05-19",
-      "lastSeen": "2026-05-22",
+      "lastSeen": "2026-05-23",
       "active": true,
       "entries": [
         {
@@ -2777,6 +2827,11 @@
           "date": "2026-05-22",
           "edition": "morning",
           "update": "A memorial drew thousands of mourners honoring the three victims, who were remembered as heroes. Authorities revealed that only 7 officers were assigned to the area at the time of the attack. In 2025, police had seized approximately a dozen firearms from the home of suspect Caleb Vazquez after his father surrendered them following reports about Vazquez's obsession with mass shooters and Nazism. Vazquez's family issued a public statement saying his exposure to hateful and extremist online content contributed to his radicalization, and apologized for his alleged actions."
+        },
+        {
+          "date": "2026-05-23",
+          "edition": "evening",
+          "update": "Online associates of suspect Caleb Vazquez told the New York Post that he allegedly joked about killing Muslim and Jewish people in a radical-right group chat and was obsessed with a 'based racist' Dutch cartoon character."
         }
       ]
     },
@@ -2805,5 +2860,5 @@
       "entries": []
     }
   ],
-  "updatedAt": "2026-05-23T11:05:30.504Z"
+  "updatedAt": "2026-05-23T21:06:29.521Z"
 }
