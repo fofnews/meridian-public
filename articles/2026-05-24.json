@@ -415,5 +415,43 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-24T08:00:01.359Z"
+  },
+  {
+    "title": "Trump May Not Have the Votes to Replace Clarence Thomas, Samuel Alito",
+    "description": "President Donald Trump's revenge tour against GOP senators may have cost him Supreme Court confirmations.",
+    "link": "https://www.newsweek.com/trump-may-not-have-the-votes-to-replace-clarence-thomas-samuel-alito-11985003",
+    "pubDate": "Sun, 24 May 2026 04:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-24T08:15:01.324Z"
+  },
+  {
+    "title": "Why Your Cat Sleeps in Unusual Places—and What It Says About Them",
+    "description": "Have you ever wondered why your cat naps in a sink rather than their bed? Animal behaviorist Michelle Bernstein told Newsweek why.",
+    "link": "https://www.newsweek.com/why-cat-sleeps-unusual-places-what-says-11981693",
+    "pubDate": "Sun, 24 May 2026 04:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-24T08:15:01.324Z"
+  },
+  {
+    "title": "Republicans shrug off fears that Trump targeting GOP incumbents could backfire on agenda",
+    "description": "House Republicans brush aside fears over Trump backing primary challengers against GOP incumbents after Rep. Thomas Massie's Kentucky defeat.",
+    "link": "https://www.foxnews.com/politics/watch-republicans-shrug-fears-trump-targeting-gop-incumbents-could-backfire-agenda",
+    "pubDate": "Sun, 24 May 2026 04:00:59 -0400",
+    "source": "Fox News",
+    "categories": [
+      "6c95e8e2-e0c0-507d-ba7f-e8dad795a896",
+      "fnc",
+      "fox news",
+      "fox-news/politics/elections/midterm-elections",
+      "fox-news/us/congress",
+      "fox-news/person/donald-trump",
+      "fox-news/politics/elections/2023/primary-results",
+      "fox-news/politics/senate/republicans",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-05-24T08:15:01.324Z"
   }
 ]
