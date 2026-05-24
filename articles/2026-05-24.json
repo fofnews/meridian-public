@@ -1867,5 +1867,113 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-24T12:15:01.387Z"
+  },
+  {
+    "title": "24 killed, dozens more injured in suicide bombing in Pakistan",
+    "description": "Prime Minister Shehbaz Sharif called the attack a \"cowardly act of terrorism\" on social media.",
+    "link": "https://www.cbsnews.com/news/balochistan-quetta-pakistan-explosion-bombing-train-attack/",
+    "pubDate": "Sun, 24 May 2026 08:17:32 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-05-24T12:30:01.794Z"
+  },
+  {
+    "title": "Colbert’s Connection",
+    "description": "A reflection on Stephen Colbert’s relationship with his audience.",
+    "link": "https://www.nytimes.com/2026/05/24/briefing/colberts-connection.html",
+    "pubDate": "Sun, 24 May 2026 11:27:53 +0000",
+    "source": "NY Times",
+    "categories": [
+      "internal-storyline-no",
+      "television",
+      "colbert, stephen",
+      "late show with stephen colbert (tv program)",
+      "the colbert report (tv program)",
+      "cbs corporation",
+      "comedy and humor"
+    ],
+    "collectedAt": "2026-05-24T12:30:01.794Z"
+  },
+  {
+    "title": "Live coverage: Trump’s tentative Iran deal faces GOP criticism; Shooting at White House renews security fears",
+    "description": "President Trump on Saturday said a deal with Iran to end the war is getting closer, but a number of Republicans and other conservatives said they feared the emerging agreement was not a good one for the United States. The emerging deal is likely to take center stage on the Sunday talk shows over Memorial…",
+    "link": "https://thehill.com/homenews/administration/5893197-iran-agreement-us-concerns/",
+    "pubDate": "Sun, 24 May 2026 11:52:10 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "news"
+    ],
+    "collectedAt": "2026-05-24T12:30:01.794Z"
+  },
+  {
+    "title": "Trump thanks Secret Service, renews call for ballroom after White House shooting",
+    "description": "President Trump early Sunday thanked the Secret Service for their actions in neutralizing an armed man who exchanged shots with officers outside the White House on Saturday and argued that the incident shows the importance of the under-construction White House ballroom.  “Thank you to our great Secret Service and Law Enforcement for the swift and…",
+    "link": "https://thehill.com/homenews/administration/5893184-trump-thanks-secret-service/",
+    "pubDate": "Sun, 24 May 2026 11:45:40 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "in the know",
+      "news",
+      "senate"
+    ],
+    "collectedAt": "2026-05-24T12:30:01.794Z"
+  },
+  {
+    "title": "‘We have longevity in the family’: My sister is turning 67. Should she wait until 70 to claim Social Security?",
+    "description": "“Others say she should start at full retirement age.”",
+    "link": "https://www.marketwatch.com/story/we-have-longevity-in-the-family-my-sister-is-turning-67-should-she-wait-until-70-to-claim-social-security-812087a4?mod=mw_rss_topstories",
+    "pubDate": "Sun, 24 May 2026 12:16:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-05-24T12:30:01.794Z"
+  },
+  {
+    "title": "Johnny Manziel picks up MMA victory with first-round win over social media influencer",
+    "description": "Former Heisman Trophy winner Johnny Manziel is now 1-0 in MMA after defeating Bob Menery in a Brand Risk Promotions co-main event fight card.",
+    "link": "https://www.foxnews.com/sports/johnny-manziel-picks-mma-victory-first-round-win-social-media-influencer",
+    "pubDate": "Sun, 24 May 2026 08:12:16 -0400",
+    "source": "Fox News",
+    "categories": [
+      "ae34d37d-a26c-5620-98ce-7545ac664f14",
+      "fnc",
+      "fox news",
+      "fox-news/sports/ncaa-fb",
+      "fox-news/sports",
+      "fox-news/topic/trending-news",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-05-24T12:30:01.794Z"
+  },
+  {
+    "title": "White House gunman had criminal record, history of mental health issues",
+    "description": "The gunman killed after firing at a White House checkpoint had a history of mental health concerns and prior Secret Service encounters, officials say.",
+    "link": "https://www.foxnews.com/us/white-house-gunman-criminal-record-history-mental-health-issues",
+    "pubDate": "Sun, 24 May 2026 08:06:37 -0400",
+    "source": "Fox News",
+    "categories": [
+      "9cadf8ce-0a19-5d64-bab0-c8f783667c1c",
+      "fnc",
+      "fox news",
+      "fox-news/politics/executive/white-house",
+      "fox-news/us/crime/manhunt",
+      "fox-news/politics/executive/national-security",
+      "fox-news/tech/topics/fbi",
+      "fox-news/us/crime/homicide",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-05-24T12:30:01.794Z"
+  },
+  {
+    "title": "How to watch Pirates vs. Blue Jays on MLB Sunday Leadoff: Start time, livestream",
+    "description": "The Blue Jays are looking to close out the holiday weekend series with their fifth win in a row.",
+    "link": "https://nypost.com/2026/05/24/sports/how-to-watch-pirates-vs-blue-jays-on-mlb-sunday-leadoff/",
+    "pubDate": "Sun, 24 May 2026 08:15:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-24T12:30:01.794Z"
   }
 ]
