@@ -3852,5 +3852,142 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-24T16:30:10.058Z"
+  },
+  {
+    "title": "Army runs secret wargames under central London",
+    "description": "The exercise tested the army's ability to plan military operations involving NATO and UK forces.",
+    "link": "https://www.bbc.com/news/articles/c2e2vjl2ry8o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 24 May 2026 12:15:24 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-24T16:45:03.695Z"
+  },
+  {
+    "title": "Face the Nation: Hassett, Birx, Swenson and Williams",
+    "description": "Missed the second half of the show? WHite House National Economic Council Director Kevin Hassett, Dr. Deborah Birx and Medal of Honor recipients retired Army Lt. Col. William Swenson and retired Army Command Sergeant Major Matthew Williams.",
+    "link": "https://www.cbsnews.com/video/face-the-nation-hassett-birx-swenson-williams/",
+    "pubDate": "Sun, 24 May 2026 12:34:47 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-05-24T16:45:03.695Z"
+  },
+  {
+    "title": "Transcript: Kevin Hassett on \"Face the Nation with Margaret Brennan,\" May 24, 2026",
+    "description": "The following is the transcript of the interview with Kevin Hassett, director of the White House National Economic Council, that aired on \"Face the Nation with Margaret Brennan\" on May 24, 2026.",
+    "link": "https://www.cbsnews.com/news/kevin-hassett-national-economic-council-face-the-nation-transcript-05-24-2026/",
+    "pubDate": "Sun, 24 May 2026 12:31:22 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-05-24T16:45:03.695Z"
+  },
+  {
+    "title": "China’s Shenzhou-23 astronauts blast off on space station mission",
+    "description": "China’s Shenzhou-23 astronauts blast off on space station mission.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/24/chinas-shenzhou-23-astronauts-blast-off-on-space-station-mission?traffic_source=rss",
+    "pubDate": "Sun, 24 May 2026 16:26:09 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-05-24T16:45:03.695Z"
+  },
+  {
+    "title": "Iran recounts historic battles in response to Trump’s talk of agreement",
+    "description": "Iran cites battles from history in response to Trump's latest comments on an imminent deal between the US and Iran.",
+    "link": "https://www.aljazeera.com/news/2026/5/24/iran-recounts-historic-battles-in-response-to-trumps-talk-of-agreement?traffic_source=rss",
+    "pubDate": "Sun, 24 May 2026 16:18:19 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-24T16:45:03.695Z"
+  },
+  {
+    "title": "Navy chief undercuts Trump and Hegseth on Taiwan, Iran",
+    "description": "Acting Navy Secretary Hung Cao’s insistence this week that the Pentagon had paused a $14 billion arms sale to Taiwan over a munitions review has undercut the Trump administration’s narrative on both Iran and Taipei.  Cao on Thursday told Senate appropriators that while the U.S. has “plenty” of missiles and interceptors, the Trump administration is holding off…",
+    "link": "https://thehill.com/policy/defense/5892374-navy-secretary-taiwan-arms-sale-pause-iran/",
+    "pubDate": "Sun, 24 May 2026 16:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "defense",
+      "international",
+      "policy",
+      "aei",
+      "hung cao",
+      "iran war",
+      "taiwan",
+      "taiwan arms sale",
+      "trump administration",
+      "u.s. navy",
+      "u.s.-china relations"
+    ],
+    "collectedAt": "2026-05-24T16:45:03.695Z"
+  },
+  {
+    "title": "Humanoid robots work nonstop in package test",
+    "description": "Figure AI claims its three humanoid robots completed over 24 hours of continuous autonomous package sorting without any human control in a warehouse test.",
+    "link": "https://www.foxnews.com/tech/humanoid-robots-work-nonstop-package-test",
+    "pubDate": "Sun, 24 May 2026 12:30:51 -0400",
+    "source": "Fox News",
+    "categories": [
+      "8b906d82-348b-56e2-a37f-4726b8fe844c",
+      "fnc",
+      "fox news",
+      "fox-news/tech/artificial-intelligence",
+      "fox-news/tech/companies",
+      "fox-news/special/sponsored/smart-and-safe-tech",
+      "fox-news/tech",
+      "fox-news/tech/technologies/robots",
+      "fox-news/tech",
+      "article"
+    ],
+    "collectedAt": "2026-05-24T16:45:03.695Z"
+  },
+  {
+    "title": "Should wedding guests tip the bartender? Here’s what etiquette experts say you should do",
+    "description": "Do you need to bring cash to tip the bartender at a wedding? An etiquette expert explains when tipping is expected and when it's simply not needed.",
+    "link": "https://www.foxnews.com/food-drink/wedding-guests-tip-bartender-heres-etiquette-experts-say",
+    "pubDate": "Sun, 24 May 2026 12:27:32 -0400",
+    "source": "Fox News",
+    "categories": [
+      "ce4a3a9b-5536-515c-9735-bd36eeed9c71",
+      "fnc",
+      "fox news",
+      "fox-news/entertainment/events",
+      "fox-news/food-drink/drinks/bars",
+      "fox-news/lifestyle/weddings",
+      "fox-news/lifestyle/social-etiquette",
+      "fox-news/beer",
+      "fox-news/food-drink",
+      "article"
+    ],
+    "collectedAt": "2026-05-24T16:45:03.695Z"
+  },
+  {
+    "title": "Florida gov candidate James Fishback marries mystery blonde — just weeks after ditching girlfriend",
+    "description": "“I’m on my honeymoon with my wife, Valeria. I don’t have time for your AIPAC-inspired fake news,\" Fishback told The Post.",
+    "link": "https://nypost.com/2026/05/24/us-news/james-fishback-marries-mystery-woman-3-months-after-ditching-crypto-ex/",
+    "pubDate": "Sun, 24 May 2026 12:44:06 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-24T16:45:03.695Z"
+  },
+  {
+    "title": "Sinister past of military jet giant behind ticking timebomb toxic chemical plant",
+    "description": "The crisis began Thursday morning when the chemical tank started overheating and venting vapors at the aerospace manufacturing facility.",
+    "link": "https://nypost.com/2026/05/24/us-news/gkn-aerospaces-toxic-past-garden-grove-chemical-plant-risks-explosion/",
+    "pubDate": "Sun, 24 May 2026 12:41:50 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-24T16:45:03.695Z"
+  },
+  {
+    "title": "Camp Mystic nurse who abandoned little girls during deadly flooding has license suspended",
+    "description": "Mary Liz Eastland would present a \"continuing and imminent threat to the public welfare\" if she were allowed to keep practicing, according to the Texas Board of Nursing.",
+    "link": "https://nypost.com/2026/05/24/us-news/camp-mystic-nurse-who-abandoned-little-girls-during-deadly-flooding-has-license-suspended/",
+    "pubDate": "Sun, 24 May 2026 12:35:45 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-24T16:45:03.695Z"
   }
 ]
