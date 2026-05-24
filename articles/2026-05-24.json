@@ -291,5 +291,24 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-24T06:30:01.308Z"
+  },
+  {
+    "title": "Kyiv, Ukraine, Hit in Russian Missile Attack",
+    "description": "Buildings rattled in the Ukrainian capital for hours early Sunday. It was unclear if Russia’s Oreshnik intermediate-range ballistic missile had been used.",
+    "link": "https://www.nytimes.com/2026/05/24/world/europe/russia-ukraine-kyiv-attack-oreshnik-missile.html",
+    "pubDate": "Sun, 24 May 2026 06:21:52 +0000",
+    "source": "NY Times",
+    "categories": [
+      "russian invasion of ukraine (2022)",
+      "missiles and missile defense systems",
+      "nuclear weapons",
+      "international relations",
+      "bombs and explosives",
+      "drones (pilotless planes)",
+      "zelensky, volodymyr",
+      "kyiv (ukraine)",
+      "ukraine"
+    ],
+    "collectedAt": "2026-05-24T06:45:01.267Z"
   }
 ]
