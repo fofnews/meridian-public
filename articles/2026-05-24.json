@@ -1566,7 +1566,7 @@
       "sharif, shahbaz",
       "pakistan"
     ],
-    "collectedAt": "2026-05-24T11:45:01.178Z"
+    "collectedAt": "2026-05-24T11:45:01.122Z"
   },
   {
     "title": "Four-time Indy 500 winner Helio Castroneves recalls getting speeding ticket for going triple digits",
@@ -1585,7 +1585,7 @@
       "fox-news/sports",
       "article"
     ],
-    "collectedAt": "2026-05-24T11:45:01.178Z"
+    "collectedAt": "2026-05-24T11:45:01.122Z"
   },
   {
     "title": "EXCLUSIVE VIDEO: Bishop Barron blasts Catholic left for 'demonization' of Trump amid child trafficking crisis",
@@ -1607,7 +1607,7 @@
       "fox-news/politics",
       "article"
     ],
-    "collectedAt": "2026-05-24T11:45:01.178Z"
+    "collectedAt": "2026-05-24T11:45:01.122Z"
   },
   {
     "title": "Ritzy private academy attended by Kardashian kids faces trial in bizarre 'kissing club' scandal",
@@ -1626,7 +1626,7 @@
       "fox-news/us",
       "article"
     ],
-    "collectedAt": "2026-05-24T11:45:01.178Z"
+    "collectedAt": "2026-05-24T11:45:01.122Z"
   },
   {
     "title": "Trans track star sweeps three events, shares first-place podium and qualifies for CA state meet yet again",
@@ -1644,7 +1644,7 @@
       "fox-news/outkick-sports",
       "article"
     ],
-    "collectedAt": "2026-05-24T11:45:01.178Z"
+    "collectedAt": "2026-05-24T11:45:01.122Z"
   },
   {
     "title": "R.I.P. Grizz Chapman: ‘30 Rock’ Favorite Dead At 52",
@@ -1653,6 +1653,67 @@
     "pubDate": "Sun, 24 May 2026 07:30:00 -0400",
     "source": "New York Post",
     "categories": [],
-    "collectedAt": "2026-05-24T11:45:01.178Z"
+    "collectedAt": "2026-05-24T11:45:01.122Z"
+  },
+  {
+    "title": "Clashes in Belgrade as student-led protests demand elections",
+    "description": "Demonstrators challenge President Vucic’s rule and demand elections, justice and rule of law.",
+    "link": "https://www.aljazeera.com/gallery/2026/5/24/clashes-in-belgrade-as-student-led-protests-demand-elections?traffic_source=rss",
+    "pubDate": "Sun, 24 May 2026 11:48:02 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-24T12:00:01.745Z"
+  },
+  {
+    "title": "Israeli attack on Gaza kills three family members, including infant",
+    "description": "Mohammad Abu Mallouh, ​Alaa Zaqlan and their child, Osama, killed in the attack on Nuseirat refugee camp, medics say.",
+    "link": "https://www.aljazeera.com/news/2026/5/24/israeli-attack-on-gaza-kills-three-family-members-including-infant?traffic_source=rss",
+    "pubDate": "Sun, 24 May 2026 11:41:58 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-24T12:00:01.745Z"
+  },
+  {
+    "title": "White House says ex-Secretary of State Pompeo should ‘shut his stupid mouth’ on Iran",
+    "description": "White House Communications Director Stephen Cheung blasted former Secretary of State Mike Pompeo for criticizing a deal being negotiated by the Trump administration to end the Iran war, telling the one-time Trump ally to “shut his stupid mouth.” Cheung wrote that Pompeo “has no idea what the f— he’s talking about,” after Pompeo wrote in…",
+    "link": "https://thehill.com/homenews/administration/5893185-trump-pompeo-iran-deal-criticism/",
+    "pubDate": "Sun, 24 May 2026 11:29:10 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "news"
+    ],
+    "collectedAt": "2026-05-24T12:00:01.745Z"
+  },
+  {
+    "title": "Penta hits gnarly move on Ethan Page to retain Intercontinental Championship at Saturday Night's Main Event",
+    "description": "Penta defeated Ethan Page with a Mexican Destroyer to retain the Intercontinental Championship at Saturday Night's Main Event in a hard-fought contest.",
+    "link": "https://www.foxnews.com/sports/penta-hits-gnarly-move-ethan-page-retain-intercontinental-championship-saturday-nights-main-event",
+    "pubDate": "Sun, 24 May 2026 07:42:17 -0400",
+    "source": "Fox News",
+    "categories": [
+      "fb42ee9c-9d88-5b52-b81f-c23dadfcd7ab",
+      "fnc",
+      "fox news",
+      "fox-news/organization/wwe",
+      "fox-news/sports/pro-wrestling",
+      "fox-news/sports",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-05-24T12:00:01.745Z"
+  },
+  {
+    "title": "Trump says Iran peace deal is near ‘finalization’ — here’s how it would reopen the Strait of Hormuz and deal with the nuclear issue",
+    "description": "An Iran cease-fire deal that appears to be near “finalization” would reopen the Strait of Hormuz without tolls, end the fight for 60 days and begin tough negotiations on the Islamic Republic’s nuclear program, according to reports. President Trump said Saturday that Iran and the US are preparing the final details on “a Memorandum of...",
+    "link": "https://nypost.com/2026/05/24/us-news/how-us-iran-peace-deal-would-reopen-the-strait-of-hormuz-and-deal-with-the-nuclear-issue/",
+    "pubDate": "Sun, 24 May 2026 07:57:13 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-24T12:00:01.745Z"
   }
 ]
