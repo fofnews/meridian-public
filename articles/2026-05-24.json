@@ -1541,7 +1541,7 @@
     "pubDate": "Sun, 24 May 2026 11:16:00 GMT",
     "source": "Wall Street Journal",
     "categories": [],
-    "collectedAt": "2026-05-24T11:30:01.250Z"
+    "collectedAt": "2026-05-24T11:30:04.485Z"
   },
   {
     "title": "The guiding light who propelled Giants’ top draft pick Arvell Reese from disillusion to stardom",
@@ -1550,6 +1550,109 @@
     "pubDate": "Sun, 24 May 2026 07:15:00 -0400",
     "source": "New York Post",
     "categories": [],
-    "collectedAt": "2026-05-24T11:30:01.250Z"
+    "collectedAt": "2026-05-24T11:30:04.485Z"
+  },
+  {
+    "title": "At Least 14 Killed in Bombing Attack That Derailed a Train in Pakistan",
+    "description": "The explosion was so powerful that several nearby buildings were damaged and a resident 15 miles away was jolted awake by the blast. A separatist group claimed responsibility.",
+    "link": "https://www.nytimes.com/2026/05/24/world/asia/pakistan-train-bomb-attack-derailment.html",
+    "pubDate": "Sun, 24 May 2026 11:19:25 +0000",
+    "source": "NY Times",
+    "categories": [
+      "deaths (fatalities)",
+      "terrorism",
+      "baluchistan (pakistan)",
+      "quetta (pakistan)",
+      "sharif, shahbaz",
+      "pakistan"
+    ],
+    "collectedAt": "2026-05-24T11:45:01.178Z"
+  },
+  {
+    "title": "Four-time Indy 500 winner Helio Castroneves recalls getting speeding ticket for going triple digits",
+    "description": "Four-time Indy 500 winner Helio Castroneves recalled getting a speeding ticket for going more than 100 mph during a recent appearance on \"Planet Tyrus.\"",
+    "link": "https://www.foxnews.com/sports/four-time-indy-500-winner-helio-castroneves-recalls-getting-speeding-ticket-going-triple-digits",
+    "pubDate": "Sun, 24 May 2026 07:33:48 -0400",
+    "source": "Fox News",
+    "categories": [
+      "2f0a39ad-42f3-5955-82ba-de5808a6a0a6",
+      "fnc",
+      "fox news",
+      "fox-news/auto/indycar",
+      "fox-news/auto/attributes/racing",
+      "fox-news/sports",
+      "fox-news/shows/planet_tyrus_podcast",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-05-24T11:45:01.178Z"
+  },
+  {
+    "title": "EXCLUSIVE VIDEO: Bishop Barron blasts Catholic left for 'demonization' of Trump amid child trafficking crisis",
+    "description": "Bishop Robert Barron encourages dialogue between Catholics and the Trump administration, saying demonization of conservative immigration views is unfair.",
+    "link": "https://www.foxnews.com/politics/exclusive-video-bishop-barron-blasts-catholic-left-demonization-trump-amid-child-trafficking-crisis",
+    "pubDate": "Sun, 24 May 2026 07:30:03 -0400",
+    "source": "Fox News",
+    "categories": [
+      "59449236-01aa-5751-a96c-ceaa67403695",
+      "fnc",
+      "fox news",
+      "fox-news/us/immigration",
+      "fox-news/us/religion/roman-catholic",
+      "fox-news/us/immigration/border-security",
+      "fox-news/person/tom-homan",
+      "fox-news/person/donald-trump",
+      "fox-news/person/pope-leo-xiv",
+      "fox-news/politics",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-05-24T11:45:01.178Z"
+  },
+  {
+    "title": "Ritzy private academy attended by Kardashian kids faces trial in bizarre 'kissing club' scandal",
+    "description": "A judge ruled that a lawsuit accusing Sierra Canyon School of ignoring an alleged student-run \"kissing club\" involving sexual abuse will proceed publicly.",
+    "link": "https://www.foxnews.com/us/ritzy-private-academy-attended-kardashian-kids-faces-trial-bizarre-kissing-club-scandal",
+    "pubDate": "Sun, 24 May 2026 07:28:06 -0400",
+    "source": "Fox News",
+    "categories": [
+      "d1a03984-2f64-5f23-9ed1-fa855deb2533",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/west/california",
+      "fox-news/us/education/high-school",
+      "fox-news/controversies",
+      "fox-news/us",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-05-24T11:45:01.178Z"
+  },
+  {
+    "title": "Trans track star sweeps three events, shares first-place podium and qualifies for CA state meet yet again",
+    "description": "Now a senior, trans athlete AB Hernandez continues to make headlines, qualifying for the California high school girls state track meet for the second straight year.",
+    "link": "https://www.foxnews.com/outkick-sports/trans-track-star-sweeps-three-events-shares-first-place-podium-qualifies-ca-state-meet-yet",
+    "pubDate": "Sun, 24 May 2026 07:23:42 -0400",
+    "source": "Fox News",
+    "categories": [
+      "ba223810-36f1-5f3f-9158-c69f71d653b6",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/us/education/high-school",
+      "fox-news/us/us-regions/west/california",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-05-24T11:45:01.178Z"
+  },
+  {
+    "title": "R.I.P. Grizz Chapman: ‘30 Rock’ Favorite Dead At 52",
+    "description": "The seven-foot-tall actor once pushed back against Hollywood’s tendency to typecast him.",
+    "link": "https://decider.com/2026/05/24/rip-grizz-chapman-30-rock-favorite-dead-at-52/",
+    "pubDate": "Sun, 24 May 2026 07:30:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-24T11:45:01.178Z"
   }
 ]
