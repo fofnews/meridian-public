@@ -156,5 +156,37 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-24T05:15:01.218Z"
+  },
+  {
+    "title": "Gunman in Shooting Near White House Killed in Exchange of Fire With Secret Service",
+    "description": "A gunman known to the U.S. Secret Service opened fire near the White House and was shot and killed by federal officers. President Trump was in the White House at the time.",
+    "link": "https://www.nytimes.com/2026/05/23/us/politics/white-house-shooting.html",
+    "pubDate": "Sun, 24 May 2026 05:13:11 +0000",
+    "source": "NY Times",
+    "categories": [
+      "white house building (washington, dc)",
+      "united states politics and government",
+      "murders, attempted murders and homicides",
+      "trump, donald j"
+    ],
+    "collectedAt": "2026-05-24T05:30:01.691Z"
+  },
+  {
+    "title": "Garden Grove Chemical Tank Could Be Inching Toward Explosion, Authorities Say",
+    "description": "Firefighters still have few options to prevent a tank of toxic chemicals in Garden Grove, Calif., from leaking or exploding.",
+    "link": "https://www.nytimes.com/2026/05/23/us/garden-grove-chemical-tank-orange-county.html",
+    "pubDate": "Sun, 24 May 2026 05:27:31 +0000",
+    "source": "NY Times",
+    "categories": [
+      "hazardous and toxic substances",
+      "evacuations and evacuees",
+      "fires and firefighters",
+      "explosions (accidental)",
+      "chemicals",
+      "garden grove (calif)",
+      "orange county (calif)",
+      "california"
+    ],
+    "collectedAt": "2026-05-24T05:30:01.691Z"
   }
 ]
