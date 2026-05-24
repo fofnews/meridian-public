@@ -44,5 +44,34 @@
       "minotaur (movie)"
     ],
     "collectedAt": "2026-05-24T04:30:01.459Z"
+  },
+  {
+    "title": "Suspect dead, bystander wounded after gunfire near White House: Secret Service",
+    "description": "The White House North Lawn was cleared by Secret Service on Saturday evening after the sound of apparent gun shots near the White House.",
+    "link": "https://abcnews.com/US/white-house-lawn-cleared-after-apparent-gunshots/story?id=133257965",
+    "pubDate": "Sun, 24 May 2026 00:36:28 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-05-24T04:45:01.463Z"
+  },
+  {
+    "title": "Mikal Bridges rises from the depths to become most impactful Knick",
+    "description": "Here’s all you need to know about the Eastern Conference finals: Mikal Bridges has outscored James Harden.",
+    "link": "https://nypost.com/2026/05/24/sports/mikal-bridges-rises-from-depths-to-become-most-impactful-knick/",
+    "pubDate": "Sun, 24 May 2026 00:37:50 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-24T04:45:01.463Z"
+  },
+  {
+    "title": "‘Fantastic’ OG Anunoby looks like himself for first time since injury in Knicks’ Game 3 win",
+    "description": "Post-injury OG Anunoby hadn’t been quite the same as pre-injury OG Anunoby — until Saturday night, when he scored 21 points during the Knicks' win.",
+    "link": "https://nypost.com/2026/05/24/sports/og-anunoby-looks-like-himself-for-first-time-since-injury-in-knicks-game-3-win/",
+    "pubDate": "Sun, 24 May 2026 00:33:29 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-24T04:45:01.463Z"
   }
 ]
