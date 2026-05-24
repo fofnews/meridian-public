@@ -357,5 +357,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-24T07:15:01.234Z"
+  },
+  {
+    "title": "Four dead and dozens injured in wave of Russian strikes on Kyiv",
+    "description": "More than 50 people have been injured, including three children, with damage reported across Kyiv and nearby areas.",
+    "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 24 May 2026 07:17:44 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-24T07:30:01.072Z"
+  },
+  {
+    "title": "Man dies in northeast Australia after shark attack",
+    "description": "The man was rushed to ⁠shore after being bitten on Sunday near ​Kennedy Shoal, but died shortly afterwards.",
+    "link": "https://www.aljazeera.com/news/2026/5/24/man-dies-in-northeast-australia-after-shark-attack?traffic_source=rss",
+    "pubDate": "Sun, 24 May 2026 07:13:57 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-24T07:30:01.072Z"
   }
 ]
