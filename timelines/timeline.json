@@ -225,7 +225,7 @@
         {
           "date": "2026-05-24",
           "edition": "evening",
-          "update": "A physical repository described as a US 'library' has been established in New York to house approximately 3.5 million pages of Epstein-related documents, aimed at providing accountability for victims. Rep. Thomas Massie attributed his primary loss to Trump-backed challenger Ed Gallrein directly to his advocacy for releasing the Epstein files."
+          "update": "A U.S. document repository described as a 'library' has been established in New York to house 3.5 million pages of Epstein-related documents, aimed at providing accountability for victims, according to Al Jazeera. Rep. Thomas Massie attributed his primary loss to Trump-backed challenger Ed Gallrein to his bipartisan advocacy, particularly his push to release the Epstein files."
         }
       ],
       "parentId": null
@@ -535,7 +535,7 @@
         {
           "date": "2026-05-24",
           "edition": "evening",
-          "update": "Russia launched a nuclear-capable Oreshnik ballistic missile at Ukraine for the third time since the war began as part of a broader airstrike barrage, with Ukrainian President Zelensky reporting approximately 100 injured and damage to 30 residential buildings beyond the four deaths previously recorded."
+          "update": "Russia's Oreshnik ballistic missile strike on Ukraine — its third such use since the war began — was confirmed by Ukrainian President Zelenskyy as part of Sunday's barrage on Kyiv, which killed four people and injured approximately 100, with damage reported to 30 residential buildings."
         }
       ],
       "parentId": null
@@ -2125,7 +2125,7 @@
         {
           "date": "2026-05-24",
           "edition": "evening",
-          "update": "China sent aid to Cuba amid the ongoing energy crisis, according to Al Jazeera."
+          "update": "China sent aid to Cuba amid what Al Jazeera described as a harsh U.S. blockade."
         }
       ],
       "parentId": null
@@ -2432,6 +2432,11 @@
           "date": "2026-05-22",
           "edition": "morning",
           "update": "Acting Navy Secretary Hung Cao told a Senate Appropriations Defense Subcommittee hearing on Thursday that the U.S. has paused a $14 billion arms sale to Taiwan to ensure sufficient munitions for American military operations against Iran."
+        },
+        {
+          "date": "2026-05-24",
+          "edition": "evening",
+          "update": "An Israeli attack on Nuseirat refugee camp in Gaza killed Mohammad Abu Mallouh, Alaa Zaqlan, and their infant child, Osama, according to medics. France banned Israeli far-right minister Itamar Ben-Gvir from entering the country after French officials described his behavior toward arrested Gaza flotilla activists as 'unspeakable.' Israel blocked Muslims in Gaza from traveling to perform Hajj for the third consecutive year, with the border remaining shut as millions of other Muslims gathered for the pilgrimage. An Israeli source cited by Reuters said Prime Minister Netanyahu told President Trump that Israel will retain the freedom to act independently against threats."
         }
       ]
     },
@@ -2496,7 +2501,7 @@
         {
           "date": "2026-05-24",
           "edition": "evening",
-          "update": "Trump stated the U.S. and Iran are near 'finalization' of a deal involving a 60-day ceasefire, reopening of the Strait of Hormuz without tolls, and the start of nuclear program negotiations, and separately said the deal has been 'largely negotiated.' Iran rejected parts of the tentative agreement, calling Trump's remarks on the Strait of Hormuz 'inconsistent with reality,' while Iranian officials invoked ancient Persia's victory over Rome to signal that any agreement would be on Tehran's terms. Trump subsequently walked back his Saturday statement, saying he has instructed negotiators 'not to rush into a deal' and described talks as proceeding in 'an orderly and constructive' manner. Secretary of State Rubio cited 'significant progress' but clarified it was not 'final progress.' Republican opposition intensified, with Senators Ted Cruz, Thom Tillis, and Lindsey Graham expressing skepticism or outright opposition, while Sen. Rand Paul defended the negotiations; House Speaker Mike Johnson backed the tentative framework. Gulf stock markets surged on deal expectations, and White House Communications Director Stephen Cheung publicly told former Secretary of State Mike Pompeo to 'shut his stupid mouth' after Pompeo criticized the talks."
+          "update": "Trump stated Saturday that the U.S. and Iran are near 'finalization' of a deal involving a 60-day ceasefire, reopening of the Strait of Hormuz without tolls, and the start of nuclear negotiations, but later walked back the claim Sunday, saying his administration would 'not rush into a deal' and that talks were proceeding in 'an orderly and constructive' manner. Secretary of State Rubio described 'significant' but not 'final' progress in negotiations. Iran disputed Trump's characterization of the Strait of Hormuz provisions as 'inconsistent with reality,' and Iran's foreign ministry spokesman invoked ancient Persia's victory over Rome to suggest talks would conclude on Tehran's terms. Republican opposition to the emerging deal grew, with Senators Ted Cruz, Thom Tillis, and Lindsey Graham publicly criticizing it, while Sen. Rand Paul defended the negotiations; House Speaker Mike Johnson offered support. White House Communications Director Stephen Cheung publicly attacked former Secretary of State Mike Pompeo, telling him to 'shut his stupid mouth' after Pompeo criticized the negotiations. Gulf stock markets surged on expectations of a deal, while a U.S. 'library' framework for an interim ceasefire-first agreement was reported by Newsmax."
         }
       ]
     },
@@ -2841,7 +2846,7 @@
         {
           "date": "2026-05-24",
           "edition": "evening",
-          "update": "Uganda confirmed three additional Ebola cases as neighboring countries implemented COVID-style monitoring measures to prevent cross-border spread. A senior Médecins Sans Frontières official, Kate White, warned of serious challenges getting resources to the affected region in the DRC."
+          "update": "Uganda confirmed three additional Ebola cases as DR Congo's neighboring countries intensified monitoring with Covid-style cross-border restrictions. A senior Médecins Sans Frontières official, Kate White, warned of being 'extremely concerned about the inability to get resources' to the affected region. NPR reported the outbreak is spreading amid distrust and armed conflict, with infections threatening a total of 10 countries across the region."
         }
       ]
     },
@@ -2915,5 +2920,5 @@
       "entries": []
     }
   ],
-  "updatedAt": "2026-05-24T21:05:16.208Z"
+  "updatedAt": "2026-05-24T21:05:49.977Z"
 }
