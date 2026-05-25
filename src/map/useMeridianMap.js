@@ -1,0 +1,294 @@
+// Shared map orchestration hook. Both MapHero (website) and
+// BroadcastStage (video) consume this so the map setup, ambient mode,
+// theme switching, and focus / idle-return logic live in one place.
+//
+// Returns:
+//   mapContainer  — ref to attach to a <div>
+//   mapRef        — ref to the Mapbox map (for zoom controls, etc.)
+//   flyToLocation — focus-aware fly: pauses ambient rotation, applies
+//                   pitch, arms idle timer that returns to ambient
+//   enterAmbient  — manual return to globe (rarely needed by caller;
+//                   the idle timer will fire it automatically)
+
+import { useEffect, useRef, useCallback } from 'react';
+import { createMap } from './kernel.js';
+import { applyMapStyle, updateArcs as kernelUpdateArcs, setHighlightPalette } from './layers.js';
+import { computeNightPolygon } from './terminator.js';
+import { updatePulseMarkerTheme } from './marker.js';
+import {
+  getMapPadding,
+  getMapPaddingBroadcast,
+  flyToLocation as kernelFlyTo,
+  cinematicFlyTo,
+  startAmbientRotation,
+  AMBIENT_IDLE_TIMEOUT_MS,
+} from './camera.js';
+
+// How long after the user stops dragging/zooming before rotation resumes.
+const DRAG_RESUME_MS = 5_000;
+
+export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = false, broadcast = false }) {
+  const mapContainer = useRef(null);
+  const mapRef = useRef(null);
+  const markerRef = useRef(null);
+  const styleLoadCallbackRef = useRef(null);
+  const pendingIsDarkRef = useRef(isDark);
+  // If a fly-to is requested before the map finishes loading, we stash
+  // the target here so the init effect can apply it once ready.
+  const pendingFlyRef = useRef(null);
+  const currentPolygonRef = useRef(null);
+  // Ambient mode (item 0b): the globe rotates slowly. Rotation pauses while
+  // a story is focused or the user is dragging; the idle timer resumes it.
+  const rotationRef = useRef(null);
+  const idleTimerRef = useRef(null);
+  // Cancel function returned by cinematicFlyTo — called when a new fly
+  // request arrives to abort any pending step-2 timeout.
+  const cinematicCancelRef = useRef(null);
+  // Cancel function for the arc draw-on animation.
+  const arcsCancelRef = useRef(null);
+  // ISO code of the currently focused location — becomes trail on next fly.
+  const activeIsoRef = useRef('');
+  // Last arc arguments — re-applied after a theme-switch style reload.
+  const lastArcsRef = useRef({ articles: null, storyLoc: null });
+  // Capture focusPitch so the fly callback always sees the latest value
+  // without needing to be re-created on every prop change.
+  const focusPitchRef = useRef(focusPitch);
+  focusPitchRef.current = focusPitch;
+
+  // Init map (skipped entirely when disabled). Mapbox is imported lazily
+  // by the kernel so users who never enable the map never pay the cost.
+  useEffect(() => {
+    if (!mapEnabled) {
+      if (mapRef.current) {
+        mapRef.current.remove();
+        mapRef.current = null;
+        markerRef.current = null;
+      }
+      return;
+    }
+
+    if (!mapContainer.current || mapRef.current) return;
+
+    let cancelled = false;
+    let mapInstance = null;
+
+    createMap(mapContainer.current, { isDark, broadcast }).then(({ map, marker }) => {
+      if (cancelled) {
+        map.remove();
+        return;
+      }
+      mapInstance = map;
+      mapRef.current = map;
+      markerRef.current = marker;
+
+      rotationRef.current = startAmbientRotation(map);
+
+      // Pause rotation the instant the user presses (mousedown/touchstart fires
+      // before Mapbox's drag threshold, so the rAF can't fight the interaction).
+      // Also cancels any in-progress flyTo so the map responds immediately.
+      // Resume rotation DRAG_RESUME_MS after the user lifts off.
+      const onInteractStart = () => {
+        map.stop();
+        if (cinematicCancelRef.current) { cinematicCancelRef.current(); cinematicCancelRef.current = null; }
+        rotationRef.current?.setActive(false);
+        if (idleTimerRef.current) { clearTimeout(idleTimerRef.current); idleTimerRef.current = null; }
+      };
+      const onInteractEnd = () => {
+        if (idleTimerRef.current) clearTimeout(idleTimerRef.current);
+        idleTimerRef.current = setTimeout(() => {
+          idleTimerRef.current = null;
+          rotationRef.current?.setActive(true);
+        }, DRAG_RESUME_MS);
+      };
+      map.on('mousedown', onInteractStart);
+      map.on('touchstart', onInteractStart);
+      map.on('mouseup', onInteractEnd);
+      map.on('dragend', onInteractEnd);
+      map.on('touchend', onInteractEnd);
+
+      // After style.load (kernel.js calls applyMapStyle there, adding arc layers),
+      // re-apply any arcs that arrived before the layers existed.
+      const drainPendingArcs = () => {
+        if (cancelled) return;
+        const { articles, storyLoc } = lastArcsRef.current;
+        if (articles && storyLoc) {
+          if (arcsCancelRef.current) { arcsCancelRef.current(); arcsCancelRef.current = null; }
+          arcsCancelRef.current = kernelUpdateArcs(map, articles, storyLoc);
+        }
+      };
+      if (map.isStyleLoaded()) drainPendingArcs();
+      else map.once('load', drainPendingArcs);
+
+      // Drain any fly-to that was requested while we were loading.
+      if (pendingFlyRef.current) {
+        const loc = pendingFlyRef.current;
+        pendingFlyRef.current = null;
+        kernelFlyTo(map, marker, loc, { pitch: focusPitchRef.current });
+        currentPolygonRef.current = loc.polygon ?? null;
+        rotationRef.current?.setActive(false);
+      }
+    }).catch((err) => {
+      console.warn('Mapbox failed to load:', err);
+    });
+
+    return () => {
+      cancelled = true;
+      rotationRef.current?.stop();
+      rotationRef.current = null;
+      if (idleTimerRef.current) {
+        clearTimeout(idleTimerRef.current);
+        idleTimerRef.current = null;
+      }
+      if (cinematicCancelRef.current) {
+        cinematicCancelRef.current();
+        cinematicCancelRef.current = null;
+      }
+      if (arcsCancelRef.current) {
+        arcsCancelRef.current();
+        arcsCancelRef.current = null;
+      }
+      if (mapInstance) {
+        mapInstance.remove();
+      }
+      mapRef.current = null;
+      markerRef.current = null;
+    };
+  }, [mapEnabled]);
+
+  // Night-terminator refresh — update the night polygon every 60 s so the
+  // shadow visibly creeps across the globe during a long session.
+  useEffect(() => {
+    if (!mapEnabled) return;
+    const tick = () => {
+      const src = mapRef.current?.getSource('night-overlay');
+      if (src) src.setData(computeNightPolygon());
+    };
+    const id = setInterval(tick, 60_000);
+    return () => clearInterval(id);
+  }, [mapEnabled]);
+
+  // ResizeObserver: keep map sized + padding correct as the container changes.
+  useEffect(() => {
+    if (!mapContainer.current) return;
+    const ro = new ResizeObserver(() => {
+      if (!mapRef.current) return;
+      mapRef.current.resize();
+      const padding = broadcast
+        ? getMapPaddingBroadcast(mapContainer.current)
+        : getMapPadding(mapContainer.current);
+      mapRef.current.setPadding(padding);
+    });
+    ro.observe(mapContainer.current);
+    return () => ro.disconnect();
+  }, [broadcast]);
+
+  // Theme switch: re-apply style + restore polygon + retint marker.
+  useEffect(() => {
+    pendingIsDarkRef.current = isDark;
+
+    if (!mapRef.current) return;
+    const map = mapRef.current;
+
+    // Cancel any stale style.load listener from a previous rapid toggle.
+    if (styleLoadCallbackRef.current) {
+      map.off('style.load', styleLoadCallbackRef.current);
+      styleLoadCallbackRef.current = null;
+    }
+
+    const newStyle = isDark ? '/meridian-dark.style.json' : '/meridian-light.style.json';
+    map.setStyle(newStyle);
+
+    const onStyleLoad = () => {
+      styleLoadCallbackRef.current = null;
+      applyMapStyle(map, pendingIsDarkRef.current);
+      if (currentPolygonRef.current && map.getSource('state-boundary')) {
+        map.getSource('state-boundary').setData(currentPolygonRef.current);
+      }
+      if (arcsCancelRef.current) { arcsCancelRef.current(); arcsCancelRef.current = null; }
+      const { articles, storyLoc } = lastArcsRef.current;
+      if (articles && storyLoc) {
+        arcsCancelRef.current = kernelUpdateArcs(map, articles, storyLoc);
+      }
+    };
+    styleLoadCallbackRef.current = onStyleLoad;
+    map.once('style.load', onStyleLoad);
+
+    if (markerRef.current) {
+      updatePulseMarkerTheme(markerRef.current.getElement(), isDark);
+    }
+  }, [isDark]);
+
+  const enterAmbient = useCallback(() => {
+    rotationRef.current?.setActive(true);
+  }, []);
+
+  const flyToLocation = useCallback((loc) => {
+    if (!mapRef.current) {
+      pendingFlyRef.current = loc;
+      return;
+    }
+
+    // Advance trail: current active ISO becomes the ghost.
+    const trailIso = activeIsoRef.current;
+    activeIsoRef.current = loc.iso ?? '';
+    setHighlightPalette(mapRef.current, { secondary: [], trail: trailIso });
+
+    // Cancel any in-flight cinematic step-2 before starting a new move.
+    if (cinematicCancelRef.current) {
+      cinematicCancelRef.current();
+      cinematicCancelRef.current = null;
+    }
+
+    if (cinematic) {
+      cinematicCancelRef.current = cinematicFlyTo(
+        mapRef.current, markerRef.current, loc, { pitch: focusPitchRef.current }
+      );
+    } else {
+      kernelFlyTo(mapRef.current, markerRef.current, loc, { pitch: focusPitchRef.current });
+    }
+    currentPolygonRef.current = loc.polygon ?? null;
+
+    rotationRef.current?.setActive(false);
+    if (idleTimerRef.current) clearTimeout(idleTimerRef.current);
+    idleTimerRef.current = setTimeout(() => {
+      idleTimerRef.current = null;
+      enterAmbient();
+    }, AMBIENT_IDLE_TIMEOUT_MS);
+  }, [cinematic, enterAmbient]);
+
+  // Set secondary highlight ISOs (other locations in the current story).
+  // Trail is managed automatically by flyToLocation.
+  const updateHighlights = useCallback((secondaryIsos) => {
+    if (!mapRef.current) return;
+    setHighlightPalette(mapRef.current, {
+      secondary: secondaryIsos,
+      trail: activeIsoRef.current === '' ? '' : activeIsoRef.current,
+    });
+  }, []);
+
+  // Draw source-to-story arcs for the newly focused story. Called by
+  // the component after flyToLocation so arcs and camera move together.
+  const updateArcs = useCallback((articles, storyLoc) => {
+    if (!mapRef.current) return;
+    lastArcsRef.current = { articles, storyLoc };
+    if (!mapRef.current.getLayer('arcs-glow')) return; // style not loaded yet; init drainer will re-apply
+    if (arcsCancelRef.current) {
+      arcsCancelRef.current();
+      arcsCancelRef.current = null;
+    }
+    arcsCancelRef.current = kernelUpdateArcs(mapRef.current, articles, storyLoc);
+  }, []);
+
+  // Apply a boundary polygon to the state-boundary source without moving the
+  // camera. Used when the polygon fetch resolves after the flyTo has already
+  // started so the camera isn't re-triggered. Also updates currentPolygonRef
+  // so the polygon is restored correctly after a theme switch.
+  const applyBoundaryPolygon = useCallback((polygon) => {
+    currentPolygonRef.current = polygon ?? null;
+    if (!mapRef.current) return;
+    const src = mapRef.current.getSource('state-boundary');
+    if (src) src.setData(polygon ?? { type: 'FeatureCollection', features: [] });
+  }, []);
+
+  return { mapContainer, mapRef, flyToLocation, enterAmbient, updateArcs, updateHighlights, applyBoundaryPolygon };
+}
