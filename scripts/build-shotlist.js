@@ -28,6 +28,7 @@ const args = Object.fromEntries(
 const edition     = args['edition'];
 const maxDuration = Number(args['max-duration'] ?? 90);
 const aspect      = args['aspect'] ?? '16:9';
+const timingsPath = args['timings'] ?? null;
 
 if (!edition) {
   console.error('Usage: node scripts/build-shotlist.js --edition=YYYY-MM-DD-{morning|evening}');
@@ -100,37 +101,76 @@ function estimateHold(narration) {
 
 // ── Build shots ───────────────────────────────────────────────────────────────
 
-// Only multi-source stories make it to the broadcast; single-source stories
-// are "In Brief" on the website and don't have enough corroboration to air.
-const topStories = (report.stories ?? []).filter(s => sourceCount(s) >= 2);
-
 const shots = [];
 let elapsed = 0;
 
-for (let i = 0; i < topStories.length; i++) {
-  const story    = topStories[i];
-  const analysis = story.analysis ?? {};
-  const loc      = (analysis.locations ?? []).find(l => l?.lat != null && l?.lng != null);
+if (timingsPath) {
+  // Timings-driven mode: use provided story indices and durations for exact sync
+  let timings;
+  try {
+    timings = JSON.parse(readFileSync(timingsPath, 'utf8'));
+  } catch {
+    console.error(`Failed to read timings file: ${timingsPath}`);
+    process.exit(1);
+  }
 
-  const narration = buildNarration(analysis);
-  const hold      = estimateHold(narration);
+  for (let i = 0; i < timings.length; i++) {
+    const { storyIndex, beat, durationSecs } = timings[i];
+    if (elapsed + durationSecs > maxDuration) break;
 
-  if (elapsed + hold > maxDuration) break;
+    const story = (report.stories ?? [])[storyIndex];
+    if (!story) {
+      console.warn(`timings[${i}]: storyIndex ${storyIndex} not found in report, skipping`);
+      continue;
+    }
 
-  shots.push({
-    t: elapsed,
-    camera: loc
-      ? { lng: loc.lng, lat: loc.lat, zoom: DEFAULT_ZOOM, pitch: PITCH, bearing: BEARING }
-      : { lng: 0, lat: 20, zoom: 1.5, pitch: 0, bearing: 0 },
-    chyron: {
-      label:    CHYRON_LABELS[i % CHYRON_LABELS.length].toUpperCase(),
-      headline: story.headline,
-    },
-    narration,
-    hold,
-  });
+    const analysis = story.analysis ?? {};
+    const loc = (analysis.locations ?? []).find(l => l?.lat != null && l?.lng != null);
 
-  elapsed += hold;
+    shots.push({
+      t: elapsed,
+      camera: loc
+        ? { lng: loc.lng, lat: loc.lat, zoom: DEFAULT_ZOOM, pitch: PITCH, bearing: BEARING }
+        : { lng: 0, lat: 20, zoom: 1.5, pitch: 0, bearing: 0 },
+      chyron: {
+        label: CHYRON_LABELS[i % CHYRON_LABELS.length].toUpperCase(),
+        headline: story.headline,
+      },
+      narration: beat,
+      hold: durationSecs,
+    });
+
+    elapsed += durationSecs;
+  }
+} else {
+  // Existing behaviour: filter ≥2-source stories, estimate hold from summary length
+  const topStories = (report.stories ?? []).filter(s => sourceCount(s) >= 2);
+
+  for (let i = 0; i < topStories.length; i++) {
+    const story    = topStories[i];
+    const analysis = story.analysis ?? {};
+    const loc      = (analysis.locations ?? []).find(l => l?.lat != null && l?.lng != null);
+
+    const narration = buildNarration(analysis);
+    const hold      = estimateHold(narration);
+
+    if (elapsed + hold > maxDuration) break;
+
+    shots.push({
+      t: elapsed,
+      camera: loc
+        ? { lng: loc.lng, lat: loc.lat, zoom: DEFAULT_ZOOM, pitch: PITCH, bearing: BEARING }
+        : { lng: 0, lat: 20, zoom: 1.5, pitch: 0, bearing: 0 },
+      chyron: {
+        label:    CHYRON_LABELS[i % CHYRON_LABELS.length].toUpperCase(),
+        headline: story.headline,
+      },
+      narration,
+      hold,
+    });
+
+    elapsed += hold;
+  }
 }
 
 if (shots.length === 0) {

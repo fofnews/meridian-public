@@ -21,7 +21,7 @@
 //   ELEVENLABS_API_KEY
 //   OPENAI_API_KEY
 
-import { existsSync } from 'fs';
+import { existsSync, mkdirSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { execFileSync, spawn } from 'child_process';
@@ -44,6 +44,8 @@ const aspect      = args['aspect']       ?? '16:9';
 const platforms   = args['platforms']    ?? 'youtube,tiktok';
 const bed         = args['bed']          ?? null;
 const port        = args['port']         ?? '3002';
+const audio       = args['audio']        ?? null;
+const timings     = args['timings']      ?? null;
 
 if (!edition) {
   console.error('Usage: node scripts/produce-clip.js --edition=YYYY-MM-DD-{morning|evening}');
@@ -144,6 +146,7 @@ run('build-shotlist', 'node', [
   `--edition=${edition}`,
   `--max-duration=${maxDuration}`,
   `--aspect=${aspect}`,
+  ...(timings ? [`--timings=${timings}`] : []),
 ]);
 
 const shotlistPath = join(ROOT, 'out', 'shotlists', `${edition}.json`);
@@ -175,28 +178,43 @@ if (!existsSync(rawPath)) {
   process.exit(1);
 }
 
-// ── Stage 3: synthesize-narration ─────────────────────────────────────────────
+// ── Stage 3: audio ────────────────────────────────────────────────────────────
 
-banner('3 / 4', `synthesize-narration  edition=${edition}`);
+if (audio) {
+  banner('3 / 4', `placing provided audio file`);
 
-const hasTTS = !!(process.env.ELEVENLABS_API_KEY || process.env.OPENAI_API_KEY);
-if (!hasTTS) {
-  console.warn('  ⚠  No TTS API key found (ELEVENLABS_API_KEY / OPENAI_API_KEY).');
-  console.warn('     Falling back to --dry-run (silence for all shots).');
-}
+  const outAudioDir = join(ROOT, 'out', 'audio', edition);
+  mkdirSync(outAudioDir, { recursive: true });
+  const wavDest = join(outAudioDir, 'full.wav');
 
-const narrArgs = [
-  join(SCRIPTS, 'synthesize-narration.js'),
-  `--edition=${edition}`,
-  ...(hasTTS ? [] : ['--dry-run']),
-];
+  run('place-audio', 'ffmpeg', ['-y', '-i', audio, '-c', 'copy', wavDest]);
 
-run('synthesize-narration', 'node', narrArgs);
+  if (!existsSync(wavDest)) {
+    console.error(`✗ Audio file not placed at ${wavDest}`);
+    process.exit(1);
+  }
+} else {
+  banner('3 / 4', `synthesize-narration  edition=${edition}`);
 
-const audioPath = join(ROOT, 'out', 'audio', edition, 'full.wav');
-if (!existsSync(audioPath)) {
-  console.error(`✗ synthesize-narration did not produce ${audioPath}`);
-  process.exit(1);
+  const hasTTS = !!(process.env.ELEVENLABS_API_KEY || process.env.OPENAI_API_KEY);
+  if (!hasTTS) {
+    console.warn('  ⚠  No TTS API key found (ELEVENLABS_API_KEY / OPENAI_API_KEY).');
+    console.warn('     Falling back to --dry-run (silence for all shots).');
+  }
+
+  const narrArgs = [
+    join(SCRIPTS, 'synthesize-narration.js'),
+    `--edition=${edition}`,
+    ...(hasTTS ? [] : ['--dry-run']),
+  ];
+
+  run('synthesize-narration', 'node', narrArgs);
+
+  const audioPath = join(ROOT, 'out', 'audio', edition, 'full.wav');
+  if (!existsSync(audioPath)) {
+    console.error(`✗ synthesize-narration did not produce ${audioPath}`);
+    process.exit(1);
+  }
 }
 
 // ── Stage 4: finalize-clip ────────────────────────────────────────────────────
