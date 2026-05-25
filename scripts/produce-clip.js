@@ -21,7 +21,7 @@
 //   ELEVENLABS_API_KEY
 //   OPENAI_API_KEY
 
-import { existsSync, mkdirSync } from 'fs';
+import { existsSync, mkdirSync, readFileSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { execFileSync, spawn } from 'child_process';
@@ -155,6 +155,10 @@ if (!existsSync(shotlistPath)) {
   process.exit(1);
 }
 
+// Derive a generous timeout for record-clip: full clip duration + 90s overhead.
+const shotlistDuration = JSON.parse(readFileSync(shotlistPath, 'utf8')).duration ?? 90;
+const recordTimeoutMs  = Math.ceil(shotlistDuration * 1000) + 90_000;
+
 // ── Stage 2: record-clip ──────────────────────────────────────────────────────
 
 banner('2 / 4', `record-clip  edition=${edition}  port=${port}`);
@@ -167,6 +171,7 @@ try {
     `--edition=${edition}`,
     `--aspect=${aspect}`,
     `--port=${port}`,
+    `--timeout=${recordTimeoutMs}`,
   ]);
 } finally {
   if (ownedServer) stopServer();
@@ -180,17 +185,19 @@ if (!existsSync(rawPath)) {
 
 // ── Stage 3: audio ────────────────────────────────────────────────────────────
 
+let audioPath;
+
 if (audio) {
   banner('3 / 4', `placing provided audio file`);
 
   const outAudioDir = join(ROOT, 'out', 'audio', edition);
   mkdirSync(outAudioDir, { recursive: true });
-  const wavDest = join(outAudioDir, 'full.wav');
+  audioPath = join(outAudioDir, 'full.wav');
 
-  run('place-audio', 'ffmpeg', ['-y', '-i', audio, '-c', 'copy', wavDest]);
+  run('place-audio', 'ffmpeg', ['-y', '-i', audio, '-c', 'copy', audioPath]);
 
-  if (!existsSync(wavDest)) {
-    console.error(`✗ Audio file not placed at ${wavDest}`);
+  if (!existsSync(audioPath)) {
+    console.error(`✗ Audio file not placed at ${audioPath}`);
     process.exit(1);
   }
 } else {
@@ -210,7 +217,7 @@ if (audio) {
 
   run('synthesize-narration', 'node', narrArgs);
 
-  const audioPath = join(ROOT, 'out', 'audio', edition, 'full.wav');
+  audioPath = join(ROOT, 'out', 'audio', edition, 'full.wav');
   if (!existsSync(audioPath)) {
     console.error(`✗ synthesize-narration did not produce ${audioPath}`);
     process.exit(1);

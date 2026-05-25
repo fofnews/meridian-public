@@ -92,9 +92,9 @@ console.log('Navigating…');
 await page.goto(pageUrl, { waitUntil: 'networkidle', timeout: 60_000 });
 
 console.log('Page loaded — waiting for window.__meridianClipDone…');
-await page.waitForFunction(() => window.__meridianClipDone === true, {
-  timeout:  timeoutMs,
-  polling:  500,
+await page.waitForFunction(() => window.__meridianClipDone === true, undefined, {
+  timeout: timeoutMs,
+  polling: 500,
 });
 
 // Close the page to finalise the video file, then retrieve its tmp path.
