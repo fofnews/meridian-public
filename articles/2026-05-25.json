@@ -4862,7 +4862,7 @@
     "pubDate": "Mon, 25 May 2026 13:34:43 -0400",
     "source": "CBS News",
     "categories": [],
-    "collectedAt": "2026-05-25T17:45:10.053Z"
+    "collectedAt": "2026-05-25T17:45:10.054Z"
   },
   {
     "title": "Suspect previously tried to enter White House before deadly shooting incident, court documents show",
@@ -4871,7 +4871,22 @@
     "pubDate": "Mon, 25 May 2026 13:19:51 -0400",
     "source": "CBS News",
     "categories": [],
-    "collectedAt": "2026-05-25T17:45:10.053Z"
+    "collectedAt": "2026-05-25T17:45:10.054Z"
+  },
+  {
+    "title": "Threat of Toxic Explosion in Orange County, Calif., Eliminated, Officials Say",
+    "description": "Evacuation orders remained in place for more than 40,000 residents around Garden Grove, Calif., the location of an industrial site containing an unstable tank of toxic chemical.",
+    "link": "https://www.nytimes.com/2026/05/25/us/chemical-tank-garden-grove.html",
+    "pubDate": "Mon, 25 May 2026 17:30:18 +0000",
+    "source": "NY Times",
+    "categories": [
+      "hazardous and toxic substances",
+      "evacuations and evacuees",
+      "explosions (accidental)",
+      "orange county (calif)",
+      "orange county fire authority"
+    ],
+    "collectedAt": "2026-05-25T17:45:10.054Z"
   },
   {
     "title": "Shai Gilgeous-Alexander Reveals Mindset After Thunder's Game 4 Loss",
@@ -4880,7 +4895,7 @@
     "pubDate": "Mon, 25 May 2026 13:32:07 -0400",
     "source": "Newsweek",
     "categories": [],
-    "collectedAt": "2026-05-25T17:45:10.053Z"
+    "collectedAt": "2026-05-25T17:45:10.054Z"
   },
   {
     "title": "Giants Insider Doesn’t See a Future for Kayvon Thibodeaux in New York",
@@ -4889,7 +4904,7 @@
     "pubDate": "Mon, 25 May 2026 13:29:18 -0400",
     "source": "Newsweek",
     "categories": [],
-    "collectedAt": "2026-05-25T17:45:10.053Z"
+    "collectedAt": "2026-05-25T17:45:10.054Z"
   },
   {
     "title": "Victor Wembanyama Made Spurs History in Game 4 Win Over Thunder",
@@ -4898,7 +4913,7 @@
     "pubDate": "Mon, 25 May 2026 13:18:38 -0400",
     "source": "Newsweek",
     "categories": [],
-    "collectedAt": "2026-05-25T17:45:10.053Z"
+    "collectedAt": "2026-05-25T17:45:10.054Z"
   },
   {
     "title": "Karl-Anthony Towns Reacts to All-NBA Snub With Selfless Message About Knicks",
@@ -4907,7 +4922,7 @@
     "pubDate": "Mon, 25 May 2026 13:17:22 -0400",
     "source": "Newsweek",
     "categories": [],
-    "collectedAt": "2026-05-25T17:45:10.053Z"
+    "collectedAt": "2026-05-25T17:45:10.054Z"
   },
   {
     "title": "Victor Wembanyama Gets Honest About Game 4 Blowout",
@@ -4916,17 +4931,6 @@
     "pubDate": "Mon, 25 May 2026 13:14:32 -0400",
     "source": "Newsweek",
     "categories": [],
-    "collectedAt": "2026-05-25T17:45:10.053Z"
-  },
-  {
-    "title": "Mexico steps in to host Iran’s World Cup team after US refusal",
-    "description": "Mexico says it has agreed to host Iran’s World Cup team after the US declined to allow the squad to stay.",
-    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/mexico-steps-in-to-host-irans-world-cup-team-after-us-refusal?traffic_source=rss",
-    "pubDate": "Mon, 25 May 2026 17:31:01 +0000",
-    "source": "Al Jazeera",
-    "categories": [
-      "show types"
-    ],
-    "collectedAt": "2026-05-25T17:45:10.053Z"
+    "collectedAt": "2026-05-25T17:45:10.054Z"
   }
 ]
