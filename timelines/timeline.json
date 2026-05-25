@@ -230,7 +230,7 @@
         {
           "date": "2026-05-25",
           "edition": "evening",
-          "update": "Rep. Thomas Massie, who lost his reelection bid after being targeted by President Trump, promised to expose more names from the Epstein files before his term ends in approximately seven months."
+          "update": "Rep. Thomas Massie, following his primary defeat, pledged to expose additional names from the Epstein files before his congressional term ends in approximately seven months."
         }
       ],
       "parentId": null
@@ -620,7 +620,7 @@
         {
           "date": "2026-05-25",
           "edition": "evening",
-          "update": "The Mexican government announced the auction of a plot of land within the country club where Jalisco New Generation Cartel leader 'El Mencho' was killed during a clash with the army in February."
+          "update": "The Mexican government announced the auction of a plot of land within the country club where cartel leader 'El Mencho' was killed during a clash with the army in February."
         }
       ],
       "parentId": null
@@ -679,7 +679,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-23",
+      "lastSeen": "2026-05-25",
       "active": true,
       "entries": [
         {
@@ -856,6 +856,11 @@
           "date": "2026-05-23",
           "edition": "evening",
           "update": "An Israeli attack on a police post in northern Gaza killed five police officers and a 13-year-old boy, with dozens more wounded across the territory in the preceding 48 hours. Israeli forces arrested two Palestinian children during a raid on the village of al-Mughayyir in the occupied West Bank."
+        },
+        {
+          "date": "2026-05-25",
+          "edition": "evening",
+          "update": "Israel vowed to continue striking what it describes as regional and nuclear threats even as the U.S. and Iran move closer to a nuclear deal, raising questions about potential Israeli interference in negotiations."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2561,7 +2566,7 @@
         {
           "date": "2026-05-25",
           "edition": "evening",
-          "update": "Trump on Monday linked participation in any Iran deal to joining the Abraham Accords, calling it 'mandatory' for additional Middle Eastern nations involved in any agreement. Iran acknowledged a deal is taking shape but cited 'frequent changes' in U.S. positions as a complicating factor, while Iranian Foreign Ministry spokesman Baghaei said a 'large portion' of issues have been resolved but a deal is 'not imminent.' Secretary of State Rubio stated an agreement to reopen the Strait of Hormuz could be announced as early as Monday. Trump publicly attacked critics of the reported deal, calling Democratic opponents, RINOs, and others 'weak and ineffective fools,' while the Wall Street Journal editorial board warned against providing Iran an 'economic bailout' and Israeli opposition leader Yair Lapid called the reported framework 'a disaster.' The NY Times reported that Trump's combination of threats and military operations had little effect on Iran's terms, with Tehran declining to accept American demands despite the pressure campaign."
+          "update": "Iranian Foreign Ministry spokesman Baghaei stated a 'large portion' of issues with the U.S. have been resolved but cautioned a deal is 'not imminent,' citing 'frequent changes' in U.S. positions as a complicating factor. Secretary of State Rubio said a deal reopening the Strait of Hormuz could be announced as early as Monday. Trump claimed on social media the peace deal was 'largely negotiated,' a characterization Iran acknowledged but pushed back on. The NY Times reported Trump's combination of threats and military operations has had little effect in pressuring Iran to accept American terms."
         }
       ]
     },
@@ -2811,7 +2816,7 @@
         {
           "date": "2026-05-25",
           "edition": "evening",
-          "update": "Maritime experts warned that even if a deal to reopen the Strait of Hormuz is reached, moving an estimated backlog of approximately 1,500 stranded vessels — held up for nearly three months — would pose a complex logistical challenge."
+          "update": "The NY Times reported that even if a deal is reached to reopen the Strait of Hormuz, moving a backlog of approximately 1,500 stranded ships held up for nearly three months would present a complex logistical challenge."
         }
       ]
     },
@@ -2941,7 +2946,7 @@
         {
           "date": "2026-05-25",
           "edition": "evening",
-          "update": "The WHO Director-General warned that the suspected Ebola death toll has reached 220, stating the epidemic is 'outpacing us' as case detection delays left responders 'playing catch-up.' Uganda reported two additional cases, bringing its total to seven. Police fired shots into the air to disperse angry crowds at a Congo Ebola treatment centre, as unrest continued over authorities retaining the bodies of suspected victims. Ongoing attacks on health facilities in Congo have caused Ebola patients to flee and are further hobbling the response effort."
+          "update": "Uganda reported two additional Ebola cases, bringing its total to seven, while DR Congo surpassed 900 suspected cases and suspected deaths reached 220. WHO Director-General Tedros stated the epidemic is 'outpacing' responders due to delays in case detection, leaving officials 'playing catch-up.' Attacks on health facilities in Congo continued to hobble the response, causing Ebola patients to flee treatment centers, and police fired shots into the air to disperse crowds attempting to reclaim bodies of suspected victims at a treatment center."
         }
       ]
     },
@@ -3015,10 +3020,16 @@
       "title": "Iran Nuclear Deal Negotiations and Regional Tensions",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-05-20",
-      "lastSeen": "2026-05-20",
+      "lastSeen": "2026-05-25",
       "active": true,
-      "entries": []
+      "entries": [
+        {
+          "date": "2026-05-25",
+          "edition": "evening",
+          "update": "Trump declared Abraham Accords participation 'mandatory' for any country seeking to be part of an Iran nuclear agreement. Oil prices fell sharply, with WTI crude dropping over 6% to $90.68, amid optimism over U.S.-Iran negotiations on the Strait of Hormuz. The Wall Street Journal editorial board warned against offering Iran an 'economic bailout,' cautioning that ceasefire terms 'may deliver a strategic setback' for the U.S. Israeli opposition leader Yair Lapid called the emerging U.S.-Iran framework 'a disaster,' while China and India increased imports of Brazilian crude as buyers sought alternatives to Hormuz-dependent supplies."
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-05-25T21:06:12.631Z"
+  "updatedAt": "2026-05-25T21:06:15.790Z"
 }
