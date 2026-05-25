@@ -1,0 +1,305 @@
+@import "tailwindcss";
+
+/* ── Theme tokens ────────────────────────────────────────────────── */
+:root, [data-theme="dark"] {
+  /* Backgrounds */
+  --bg-primary:   #060810;
+  --bg-secondary: #0a0d14;
+  --bg-card:      #0d1220;
+  --bg-hover:     #111827;
+  --bg-input:     #060810;
+  --bg-tabbar:    #0d1220;
+
+  /* Borders */
+  --border-primary: #1a2035;
+  --border-dim:     #2a3040;
+
+  /* Text */
+  --text-primary:   #f0ebe0;
+  --text-secondary: #c8c0b0;
+  --text-muted:     #6b7a9a;
+  --text-faint:     #4a5568;
+
+  /* Accent (gold) */
+  --accent:      #e8c547;
+  --accent-text: #0a0d14;
+
+  /* 3-tier map highlight palette (item 10) */
+  --accent-active:    #e8c547;  /* focused location — gold */
+  --accent-secondary: #7ab8d8;  /* other story locations — cool blue */
+  --accent-trail:     #8a7840;  /* previous story — muted gray-gold */
+
+  /* RGB channels for rgba() */
+  --text-primary-rgb: 240, 235, 224;
+  --bg-secondary-rgb: 10, 13, 20;
+  --bg-chyron-rgb:    18, 22, 36;
+
+  /* AnalysisView section tints */
+  --bg-agree:       #0d2520;
+  --border-agree:   #1a3530;
+  --bg-unique:      #0d1830;
+  --border-unique:  #1a2a40;
+  --bg-disagree:    #1e1600;
+  --border-disagree:#3a2800;
+  --bg-facts:       #141824;
+  --border-facts:   #2a3040;
+
+  /* Hero map button borders */
+  --hero-border:        rgba(232,197,71,0.30);
+  --hero-border-active: rgba(232,197,71,0.70);
+
+  /* AnalysisView section text colors (light variants for dark bg tints) */
+  --section-agree-title:    #86efac;
+  --section-agree-text:     #bbf7d0;
+  --section-agree-accent:   #4ade80;
+  --section-unique-title:   #7dd3fc;
+  --section-unique-accent:  #38bdf8;
+  --section-disagree-title: #fcd34d;
+  --section-disagree-text:  #fde68a;
+  --section-disagree-accent:#fbbf24;
+  --section-facts-title:    #a0b0cc;
+  --section-facts-accent:   #8899bb;
+
+  /* SourceBadge center sources */
+  --source-center-bg:     #1e2535;
+  --source-center-border: #3a4560;
+  --source-center-text:   #c8c0b0;
+
+  /* Card border (same as primary in dark mode) */
+  --border-card: #1a2035;
+}
+
+[data-theme="light"] {
+  /* Backgrounds — naval steel blue */
+  --bg-primary:   #D0DCE8;  /* deeper steel — page bg */
+  --bg-secondary: #EBF1F7;  /* lighter — cards float above page */
+  --bg-card:      #F5F2ED;  /* warm paper — inner sub-elements */
+  --bg-hover:     #C4D3E0;
+  --bg-input:     #EBF1F7;
+  --bg-tabbar:    #C8D7E4;
+
+  /* Borders — navy */
+  --border-primary: #1A3A5C;
+  --border-dim:     rgba(26,58,92,0.35);
+  --border-card:    rgba(26,58,92,0.18);  /* softer border for collapsed cards */
+
+  /* Hero map button borders */
+  --hero-border:        rgba(26,58,92,0.45);
+  --hero-border-active: rgba(26,58,92,0.90);
+
+  /* Text — deep navy */
+  --text-primary:   #0A1828;
+  --text-secondary: #1A2E44;
+  --text-muted:     #3A5070;
+  --text-faint:     #6A8098;
+
+  /* Accent — brass gold */
+  --accent:      #9A7200;
+  --accent-text: #F2F6FA;
+
+  /* 3-tier map highlight palette (item 10) */
+  --accent-active:    #9A7200;  /* focused location — brass gold */
+  --accent-secondary: #1a6090;  /* other story locations — steel blue */
+  --accent-trail:     #6b5420;  /* previous story — muted dark gold */
+
+  /* RGB channels for rgba() */
+  --text-primary-rgb: 10, 24, 40;
+  --bg-secondary-rgb: 216, 226, 236;
+  --bg-chyron-rgb:    216, 226, 236;
+
+  /* AnalysisView section tints */
+  --bg-agree:       #c8ddb4;
+  --border-agree:   #4a7a30;
+  --bg-unique:      #b4cce0;
+  --border-unique:  #6098bc;
+  --bg-disagree:    #e4c898;
+  --border-disagree:#b87830;
+  --bg-facts:       #dcd0b0;
+  --border-facts:   #b0a070;
+
+  /* AnalysisView section text colors */
+  --section-agree-title:    #1a5c10;
+  --section-agree-text:     #0e3808;
+  --section-agree-accent:   #2a7a1c;
+  --section-unique-title:   #0d4a6e;
+  --section-unique-accent:  #1a6090;
+  --section-disagree-title: #7a3808;
+  --section-disagree-text:  #5a2804;
+  --section-disagree-accent:#a05010;
+  --section-facts-title:    #3d4a5c;
+  --section-facts-accent:   #5a6878;
+
+  /* SourceBadge center sources */
+  --source-center-bg:     #EBF1F7;
+  --source-center-border: #1A3A5C;
+  --source-center-text:   #1A2E44;
+}
+
+body {
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: 'Source Serif 4', serif;
+}
+
+input::placeholder {
+  color: var(--text-muted);
+  opacity: 1;
+}
+
+/* Light mode body — naval steel blue with subtle dot-grid depth */
+[data-theme="light"] body {
+  background-color: #D0DCE8;
+  background-image: radial-gradient(rgba(26,58,92,0.08) 1px, transparent 1px);
+  background-size: 22px 22px;
+}
+
+.font-display {
+  font-family: 'Playfair Display', serif;
+}
+
+/* Map slow zoom */
+@keyframes slowZoom {
+  from { transform: scale(1); }
+  to   { transform: scale(1.08); }
+}
+.map-zoom {
+  animation: slowZoom 20s ease-in-out infinite alternate;
+  transform-origin: 52% 48%;
+}
+
+/* Location dot + radar rings (item 5) */
+@keyframes dotPulse {
+  0%   { box-shadow: 0 0 0 0   rgba(232,197,71,0.7); }
+  70%  { box-shadow: 0 0 0 14px rgba(232,197,71,0);   }
+  100% { box-shadow: 0 0 0 0   rgba(232,197,71,0);   }
+}
+@keyframes dotPulseLight {
+  0%   { box-shadow: 0 0 0 0   rgba(26,58,92,0.7); }
+  70%  { box-shadow: 0 0 0 14px rgba(26,58,92,0);   }
+  100% { box-shadow: 0 0 0 0   rgba(26,58,92,0);   }
+}
+.dot-pulse {
+  animation: dotPulse 2s ease-out infinite;
+}
+.dot-pulse-light {
+  animation: dotPulseLight 2s ease-out infinite;
+}
+
+/* Three-ring radar sweep. Each ring expands from the dot outward and
+   fades; staggered 0.6s apart on a 1.8s period (= 3 × 0.6s) so one
+   ring is always visible. */
+@keyframes radarRing {
+  0%   { width: 10px; height: 10px; opacity: 0.8; box-shadow: 0 0 0 0 transparent; }
+  80%  { width: 48px; height: 48px; opacity: 0; }
+  100% { width: 48px; height: 48px; opacity: 0; }
+}
+@keyframes radarRingLight {
+  0%   { width: 10px; height: 10px; opacity: 0.65; }
+  80%  { width: 48px; height: 48px; opacity: 0; }
+  100% { width: 48px; height: 48px; opacity: 0; }
+}
+.marker-ring {
+  background: transparent;
+  border: 1.5px solid rgba(232,197,71,0.7);
+  animation: radarRing 1.8s ease-out infinite;
+}
+.marker-ring--light {
+  border-color: rgba(154,114,0,0.6);
+  animation-name: radarRingLight;
+}
+
+/* News ticker */
+@keyframes ticker {
+  0%   { transform: translateX(100vw); }
+  100% { transform: translateX(-100%); }
+}
+.ticker-scroll {
+  animation: ticker 720s linear infinite;
+}
+
+/* ── Responsive ─────────────────────────────────────────── */
+
+/* Hero container: CSS custom property for chyron height offset */
+.hero-aspect-container {
+  --chyron-h: 72px; /* only used in fullscreen (expanded) mode */
+}
+@media (max-width: 639px) {
+  .hero-aspect-container {
+    --chyron-h: 82px;
+  }
+}
+
+/* Landscape on short-viewport screens: further reduce map height so
+   content is visible. The base clamp(220px, 45vh, 560px) already helps,
+   but on very short screens (phones in landscape, ≤500px tall) we push
+   it down further to leave room for the chyron + nav + stories. */
+@media (orientation: landscape) and (max-height: 500px) {
+  .hero-aspect-container {
+    height: 38vh !important;
+    min-height: 140px !important;
+  }
+}
+
+/* Story selector: right-column on desktop, hidden on small screens */
+.story-selector {
+  top: 50%;
+  right: 3%;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+@media (max-width: 639px) {
+  .story-selector {
+    display: none;
+  }
+}
+@media (orientation: landscape) and (max-height: 500px) {
+  .story-selector {
+    display: none;
+  }
+}
+
+/* Story selector buttons */
+.story-selector-btn {
+  max-width: 20vw;
+  font-size: clamp(6px, 0.8vw, 10px);
+}
+
+/* Hide clock in top bar on small screens */
+@media (max-width: 639px) {
+  .hero-clock {
+    display: none;
+  }
+}
+@media (orientation: landscape) and (max-height: 500px) {
+  .hero-clock {
+    display: none;
+  }
+}
+
+/* Hide redundant left-side edition label when the right-side switcher is also visible */
+@media (max-width: 639px) {
+  .hero-edition-tag {
+    display: none;
+  }
+}
+@media (orientation: landscape) and (max-height: 500px) {
+  .hero-edition-tag {
+    display: none;
+  }
+}
+
+/* Ticker speed on narrow screens — matches desktop */
+@media (max-width: 639px) {
+  .ticker-scroll {
+    animation-duration: 720s;
+  }
+}
+
+/* Allow vertical page scroll even when touching the map */
+@media (max-width: 639px) {
+  .mapboxgl-canvas {
+    touch-action: pan-y;
+  }
+}
