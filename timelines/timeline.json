@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-05-24",
+      "lastSeen": "2026-05-25",
       "active": true,
       "entries": [
         {
@@ -226,6 +226,11 @@
           "date": "2026-05-24",
           "edition": "evening",
           "update": "A U.S. document repository described as a 'library' has been established in New York to house 3.5 million pages of Epstein-related documents, aimed at providing accountability for victims, according to Al Jazeera. Rep. Thomas Massie attributed his primary loss to Trump-backed challenger Ed Gallrein to his bipartisan advocacy, particularly his push to release the Epstein files."
+        },
+        {
+          "date": "2026-05-25",
+          "edition": "evening",
+          "update": "Rep. Thomas Massie, who lost his reelection bid after being targeted by President Trump, promised to expose more names from the Epstein files before his term ends in approximately seven months."
         }
       ],
       "parentId": null
@@ -549,7 +554,7 @@
       "id": "sinaloa-cartel-violence",
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-05-06",
+      "lastSeen": "2026-05-25",
       "active": true,
       "entries": [
         {
@@ -611,6 +616,11 @@
           "date": "2026-05-06",
           "edition": "morning",
           "update": "U.S. drug czar Sara Carter issued a warning about medetomidine, a veterinary sedative known as a 'rhino tranquilizer,' appearing in the U.S. drug supply mixed with fentanyl and linked to American deaths, amid the administration's escalating cartel crackdown."
+        },
+        {
+          "date": "2026-05-25",
+          "edition": "evening",
+          "update": "The Mexican government announced the auction of a plot of land within the country club where Jalisco New Generation Cartel leader 'El Mencho' was killed during a clash with the army in February."
         }
       ],
       "parentId": null
@@ -949,7 +959,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-05-24",
+      "lastSeen": "2026-05-25",
       "active": true,
       "entries": [
         {
@@ -1186,6 +1196,11 @@
           "date": "2026-05-24",
           "edition": "morning",
           "update": "Funerals were held in southern Lebanon for paramedics killed in two Israeli air strikes, as previously reported strikes continued to claim victims, according to Al Jazeera."
+        },
+        {
+          "date": "2026-05-25",
+          "edition": "evening",
+          "update": "Israeli Prime Minister Netanyahu announced Israel will intensify strikes against Hezbollah, with the Israeli military subsequently hitting targets in eastern Lebanon. Israeli right-wing ministers urged Netanyahu to resume strikes on Beirut in response to Hezbollah drone attacks."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2542,6 +2557,11 @@
           "date": "2026-05-25",
           "edition": "morning",
           "update": "Talks continued Monday with both the U.S. and Iran reiterating that no agreement is imminent, consistent with Trump's earlier walkback. Separately, U.S. officials confirmed that weapons stockpiles are being depleted in the conflict with Iran, creating urgent demand for tungsten, a critical metal predominantly controlled by China, prompting a search for alternative sources. Singapore's government warned of potential economic fallout from the Iran conflict even as its economy grew 6 percent year-on-year in Q1, beating expectations."
+        },
+        {
+          "date": "2026-05-25",
+          "edition": "evening",
+          "update": "Trump on Monday linked participation in any Iran deal to joining the Abraham Accords, calling it 'mandatory' for additional Middle Eastern nations involved in any agreement. Iran acknowledged a deal is taking shape but cited 'frequent changes' in U.S. positions as a complicating factor, while Iranian Foreign Ministry spokesman Baghaei said a 'large portion' of issues have been resolved but a deal is 'not imminent.' Secretary of State Rubio stated an agreement to reopen the Strait of Hormuz could be announced as early as Monday. Trump publicly attacked critics of the reported deal, calling Democratic opponents, RINOs, and others 'weak and ineffective fools,' while the Wall Street Journal editorial board warned against providing Iran an 'economic bailout' and Israeli opposition leader Yair Lapid called the reported framework 'a disaster.' The NY Times reported that Trump's combination of threats and military operations had little effect on Iran's terms, with Tehran declining to accept American demands despite the pressure campaign."
         }
       ]
     },
@@ -2787,6 +2807,11 @@
           "date": "2026-05-25",
           "edition": "morning",
           "update": "Despite a preliminary understanding between the U.S. and Iran on Strait of Hormuz reopening, the NY Times reported that no formal agreement on resuming normal shipping has been reached, leaving the timeline for restored traffic and oil price stabilization uncertain."
+        },
+        {
+          "date": "2026-05-25",
+          "edition": "evening",
+          "update": "Maritime experts warned that even if a deal to reopen the Strait of Hormuz is reached, moving an estimated backlog of approximately 1,500 stranded vessels — held up for nearly three months — would pose a complex logistical challenge."
         }
       ]
     },
@@ -2912,6 +2937,11 @@
           "date": "2026-05-25",
           "edition": "morning",
           "update": "The NY Times reported that the Congo outbreak is only now beginning to see a coordinated response take shape, after authorities were caught unprepared by the virus's rapid spread in its early months."
+        },
+        {
+          "date": "2026-05-25",
+          "edition": "evening",
+          "update": "The WHO Director-General warned that the suspected Ebola death toll has reached 220, stating the epidemic is 'outpacing us' as case detection delays left responders 'playing catch-up.' Uganda reported two additional cases, bringing its total to seven. Police fired shots into the air to disperse angry crowds at a Congo Ebola treatment centre, as unrest continued over authorities retaining the bodies of suspected victims. Ongoing attacks on health facilities in Congo have caused Ebola patients to flee and are further hobbling the response effort."
         }
       ]
     },
@@ -2990,5 +3020,5 @@
       "entries": []
     }
   ],
-  "updatedAt": "2026-05-25T11:34:03.046Z"
+  "updatedAt": "2026-05-25T21:06:12.631Z"
 }
