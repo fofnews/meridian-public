@@ -230,7 +230,7 @@
         {
           "date": "2026-05-25",
           "edition": "evening",
-          "update": "Rep. Thomas Massie, following his primary defeat, pledged to expose additional names from the Epstein files before his congressional term ends in approximately seven months."
+          "update": "Rep. Thomas Massie, despite losing his primary race after being targeted by President Trump, promised to expose additional names from the Epstein files before his term ends in approximately seven months."
         }
       ],
       "parentId": null
@@ -554,7 +554,7 @@
       "id": "sinaloa-cartel-violence",
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-05-25",
+      "lastSeen": "2026-05-06",
       "active": true,
       "entries": [
         {
@@ -616,11 +616,6 @@
           "date": "2026-05-06",
           "edition": "morning",
           "update": "U.S. drug czar Sara Carter issued a warning about medetomidine, a veterinary sedative known as a 'rhino tranquilizer,' appearing in the U.S. drug supply mixed with fentanyl and linked to American deaths, amid the administration's escalating cartel crackdown."
-        },
-        {
-          "date": "2026-05-25",
-          "edition": "evening",
-          "update": "The Mexican government announced the auction of a plot of land within the country club where cartel leader 'El Mencho' was killed during a clash with the army in February."
         }
       ],
       "parentId": null
@@ -860,7 +855,7 @@
         {
           "date": "2026-05-25",
           "edition": "evening",
-          "update": "Israel vowed to continue striking what it describes as regional and nuclear threats even as the U.S. and Iran move closer to a nuclear deal, raising questions about potential Israeli interference in negotiations."
+          "update": "As U.S.-Iran negotiations advance, Israel vowed to continue striking what it describes as regional and nuclear threats, raising concerns among observers about potential Israeli interference in the peace process."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1205,7 +1200,7 @@
         {
           "date": "2026-05-25",
           "edition": "evening",
-          "update": "Israeli Prime Minister Netanyahu announced Israel will intensify strikes against Hezbollah, with the Israeli military subsequently hitting targets in eastern Lebanon. Israeli right-wing ministers urged Netanyahu to resume strikes on Beirut in response to Hezbollah drone attacks."
+          "update": "Israeli Prime Minister Netanyahu announced Israel will intensify strikes against Hezbollah, with the Israeli military carrying out attacks on targets in eastern Lebanon. Israeli right-wing ministers separately urged Netanyahu to resume strikes on Beirut in response to Hezbollah drone attacks."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1721,6 +1716,11 @@
           "date": "2026-05-25",
           "edition": "morning",
           "update": "Vessels carrying Middle East oil and LNG have exited the Strait of Hormuz heading toward Pakistan and China, signaling continued energy shipments through the waterway. As U.S. weapons stockpiles are depleted in the conflict, American officials are searching globally for alternative supplies of tungsten, a critical munitions metal predominantly controlled by China. On Memorial Day, families of U.S. service members killed in the Iraq War offered support to military families affected by the ongoing Iran conflict."
+        },
+        {
+          "date": "2026-05-25",
+          "edition": "evening",
+          "update": "The war in Iran is posing a new threat to harvests in hunger-stricken Sudan, according to Reuters, compounding existing food security challenges in the country."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2566,7 +2566,7 @@
         {
           "date": "2026-05-25",
           "edition": "evening",
-          "update": "Iranian Foreign Ministry spokesman Baghaei stated a 'large portion' of issues with the U.S. have been resolved but cautioned a deal is 'not imminent,' citing 'frequent changes' in U.S. positions as a complicating factor. Secretary of State Rubio said a deal reopening the Strait of Hormuz could be announced as early as Monday. Trump claimed on social media the peace deal was 'largely negotiated,' a characterization Iran acknowledged but pushed back on. The NY Times reported Trump's combination of threats and military operations has had little effect in pressuring Iran to accept American terms."
+          "update": "Iran acknowledged a deal is taking shape but cited 'frequent changes' in U.S. positions as a complicating factor, with Iranian Foreign Ministry spokesman Baghaei stating a 'large portion' of issues have been resolved but a deal is 'not imminent.' Trump claimed on social media the agreement was 'largely negotiated,' which Iran acknowledged while pushing back on the characterization. Secretary of State Rubio stated a deal reopening the Strait of Hormuz could be announced as early as Monday. Oil prices fell sharply, with WTI crude dropping over 6.1% to $90.68, amid optimism over negotiations. The NY Times reported Trump's pressure campaign had little effect on Iran's terms, with Tehran declining to accept key American demands. China and India increased imports of Brazilian crude as Strait of Hormuz disruptions prompted buyers to seek alternative suppliers."
         }
       ]
     },
@@ -2816,7 +2816,7 @@
         {
           "date": "2026-05-25",
           "edition": "evening",
-          "update": "The NY Times reported that even if a deal is reached to reopen the Strait of Hormuz, moving a backlog of approximately 1,500 stranded ships held up for nearly three months would present a complex logistical challenge."
+          "update": "Maritime experts warned that even if a deal is reached to reopen the Strait of Hormuz, moving an estimated 1,500 backlogged ships stranded for nearly three months would be a complex and lengthy process."
         }
       ]
     },
@@ -2946,7 +2946,7 @@
         {
           "date": "2026-05-25",
           "edition": "evening",
-          "update": "Uganda reported two additional Ebola cases, bringing its total to seven, while DR Congo surpassed 900 suspected cases and suspected deaths reached 220. WHO Director-General Tedros stated the epidemic is 'outpacing' responders due to delays in case detection, leaving officials 'playing catch-up.' Attacks on health facilities in Congo continued to hobble the response, causing Ebola patients to flee treatment centers, and police fired shots into the air to disperse crowds attempting to reclaim bodies of suspected victims at a treatment center."
+          "update": "WHO Director-General Tedros stated suspected Ebola deaths have reached 220, warning the epidemic is 'outpacing' responders and that delays in case detection have left officials 'playing catch-up.' Uganda reported two new cases, bringing its total to seven. Police fired shots into the air to disperse angry crowds at a treatment centre in Congo as unrest over body recovery continued, with attacks on health facilities causing additional patients to flee and further hampering the response."
         }
       ]
     },
@@ -3026,10 +3026,10 @@
         {
           "date": "2026-05-25",
           "edition": "evening",
-          "update": "Trump declared Abraham Accords participation 'mandatory' for any country seeking to be part of an Iran nuclear agreement. Oil prices fell sharply, with WTI crude dropping over 6% to $90.68, amid optimism over U.S.-Iran negotiations on the Strait of Hormuz. The Wall Street Journal editorial board warned against offering Iran an 'economic bailout,' cautioning that ceasefire terms 'may deliver a strategic setback' for the U.S. Israeli opposition leader Yair Lapid called the emerging U.S.-Iran framework 'a disaster,' while China and India increased imports of Brazilian crude as buyers sought alternatives to Hormuz-dependent supplies."
+          "update": "Trump declared Abraham Accords participation 'mandatory' for any country seeking involvement in a prospective Iran deal. Trump publicly attacked critics of the emerging agreement, calling Democratic opponents, RINOs, and others 'weak and ineffective fools.' The Wall Street Journal editorial board warned the administration against offering Iran an 'economic bailout,' cautioning that ceasefire terms 'may deliver a strategic setback' for the U.S. Israeli opposition leader Yair Lapid called the emerging framework 'a disaster.'"
         }
       ]
     }
   ],
-  "updatedAt": "2026-05-25T21:06:15.790Z"
+  "updatedAt": "2026-05-25T21:06:27.076Z"
 }
