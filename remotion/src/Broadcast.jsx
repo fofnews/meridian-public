@@ -31,13 +31,11 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
 
   // Per-frame camera update: jumpTo computed position, delay Remotion
   // until Mapbox reports idle (all tiles rendered for this position).
-  const frameHandleRef = useRef(null);
 
   useEffect(() => {
     if (!mapReady || !mapRef.current || !shotlist) return;
 
     const handle = delayRender(`cam-frame-${frame}`);
-    frameHandleRef.current = handle;
 
     const cam = interpolateCamera(shotlist.shots, t, PRE_ROLL_S);
     mapRef.current.jumpTo({
@@ -51,6 +49,7 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
     mapRef.current.once('idle', onIdle);
 
     return () => {
+      continueRender(handle);
       mapRef.current?.off('idle', onIdle);
     };
   }, [frame, mapReady]);
