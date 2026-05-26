@@ -4,8 +4,8 @@
 // One command: edition ID → publishable MP4s + thumbnails.
 // Stages (in order):
 //   1. build-shotlist   — generate out/shotlists/<edition>.json
-//   2. record-clip      — headless Playwright render → out/raw/<edition>.webm
-//   3. synthesize-narr  — TTS per shot → out/audio/<edition>/full.wav
+//   2. remotion render  — frame-accurate render → out/raw/<edition>.mp4
+//   3. synthesize-narr  — TTS per shot → out/audio/<edition>/shot-N.wav
 //   4. finalize-clip    — ffmpeg mux + per-platform encode → out/final/
 //
 // The Express dev server on :3002 is started automatically if not already
@@ -21,7 +21,7 @@
 //   ELEVENLABS_API_KEY
 //   OPENAI_API_KEY
 
-import { existsSync, mkdirSync, readFileSync } from 'fs';
+import { existsSync, mkdirSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { execFileSync, spawn } from 'child_process';
@@ -44,7 +44,6 @@ const aspect      = args['aspect']       ?? '16:9';
 const platforms   = args['platforms']    ?? 'youtube,tiktok';
 const bed         = args['bed']          ?? null;
 const port        = args['port']         ?? '3002';
-const audio       = args['audio']        ?? null;
 const timings     = args['timings']      ?? null;
 
 if (!edition) {
@@ -155,74 +154,49 @@ if (!existsSync(shotlistPath)) {
   process.exit(1);
 }
 
-// Derive a generous timeout for record-clip: full clip duration + 90s overhead.
-const shotlistDuration = JSON.parse(readFileSync(shotlistPath, 'utf8')).duration ?? 90;
-const recordTimeoutMs  = Math.ceil(shotlistDuration * 1000) + 90_000;
+// ── Stage 2: remotion render ──────────────────────────────────────────────────
 
-// ── Stage 2: record-clip ──────────────────────────────────────────────────────
-
-banner('2 / 4', `record-clip  edition=${edition}  port=${port}`);
+banner('2 / 4', `remotion render  edition=${edition}  port=${port}`);
 
 const ownedServer = await ensureServer();
 
+const rawPath = join(ROOT, 'out', 'raw', `${edition}.mp4`);
+mkdirSync(join(ROOT, 'out', 'raw'), { recursive: true });
+
 try {
-  run('record-clip', 'node', [
-    join(SCRIPTS, 'record-clip.js'),
-    `--edition=${edition}`,
-    `--aspect=${aspect}`,
-    `--port=${port}`,
-    `--timeout=${recordTimeoutMs}`,
+  run('record', 'node', [
+    join(ROOT, 'node_modules', '.bin', 'remotion'),
+    'render',
+    'Broadcast',
+    `--props=${JSON.stringify({ edition, aspect, port: Number(port) })}`,
+    '--output', rawPath,
+    '--concurrency', '1',
+    '--log', 'verbose',
   ]);
 } finally {
   if (ownedServer) stopServer();
 }
 
-const rawPath = join(ROOT, 'out', 'raw', `${edition}.webm`);
 if (!existsSync(rawPath)) {
-  console.error(`✗ record-clip did not produce ${rawPath}`);
+  console.error(`✗ remotion render did not produce ${rawPath}`);
   process.exit(1);
 }
 
-// ── Stage 3: audio ────────────────────────────────────────────────────────────
+// ── Stage 3: synthesize-narration ────────────────────────────────────────────
 
-let audioPath;
+banner('3 / 4', `synthesize-narration  edition=${edition}`);
 
-if (audio) {
-  banner('3 / 4', `placing provided audio file`);
-
-  const outAudioDir = join(ROOT, 'out', 'audio', edition);
-  mkdirSync(outAudioDir, { recursive: true });
-  audioPath = join(outAudioDir, 'full.wav');
-
-  run('place-audio', 'ffmpeg', ['-y', '-i', audio, '-c', 'copy', audioPath]);
-
-  if (!existsSync(audioPath)) {
-    console.error(`✗ Audio file not placed at ${audioPath}`);
-    process.exit(1);
-  }
-} else {
-  banner('3 / 4', `synthesize-narration  edition=${edition}`);
-
-  const hasTTS = !!(process.env.ELEVENLABS_API_KEY || process.env.OPENAI_API_KEY);
-  if (!hasTTS) {
-    console.warn('  ⚠  No TTS API key found (ELEVENLABS_API_KEY / OPENAI_API_KEY).');
-    console.warn('     Falling back to --dry-run (silence for all shots).');
-  }
-
-  const narrArgs = [
-    join(SCRIPTS, 'synthesize-narration.js'),
-    `--edition=${edition}`,
-    ...(hasTTS ? [] : ['--dry-run']),
-  ];
-
-  run('synthesize-narration', 'node', narrArgs);
-
-  audioPath = join(ROOT, 'out', 'audio', edition, 'full.wav');
-  if (!existsSync(audioPath)) {
-    console.error(`✗ synthesize-narration did not produce ${audioPath}`);
-    process.exit(1);
-  }
+const hasTTS = !!(process.env.ELEVENLABS_API_KEY || process.env.OPENAI_API_KEY);
+if (!hasTTS) {
+  console.warn('  ⚠  No TTS API key found (ELEVENLABS_API_KEY / OPENAI_API_KEY).');
+  console.warn('     Falling back to --dry-run (silence for all shots).');
 }
+
+run('synthesize-narration', 'node', [
+  join(SCRIPTS, 'synthesize-narration.js'),
+  `--edition=${edition}`,
+  ...(hasTTS ? [] : ['--dry-run']),
+]);
 
 // ── Stage 4: finalize-clip ────────────────────────────────────────────────────
 
@@ -244,7 +218,6 @@ console.log('  DONE');
 console.log('═'.repeat(60));
 console.log(`  Shotlist : ${shotlistPath}`);
 console.log(`  Raw clip : ${rawPath}`);
-console.log(`  Audio    : ${audioPath}`);
 
 const platformList = platforms.split(',').map(s => s.trim());
 for (const p of platformList) {
