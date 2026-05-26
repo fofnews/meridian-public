@@ -1,20 +1,20 @@
 // remotion/src/Root.jsx
-import { Composition, AbsoluteFill, registerRoot } from 'remotion';
+import { Composition, registerRoot } from 'remotion';
+import { Broadcast, calculateMetadata } from './Broadcast.jsx';
 
-function Placeholder() {
-  return <AbsoluteFill style={{ background: '#000', color: '#fff', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 48 }}>Remotion scaffold</AbsoluteFill>;
+export function RemotionRoot() {
+  return (
+    <Composition
+      id="Broadcast"
+      component={Broadcast}
+      calculateMetadata={calculateMetadata}
+      defaultProps={{ edition: '', fps: 30, aspect: '16:9', port: 3002 }}
+      width={1920}
+      height={1080}
+      fps={30}
+      durationInFrames={1}
+    />
+  );
 }
-
-export const RemotionRoot = () => (
-  <Composition
-    id="Broadcast"
-    component={Placeholder}
-    width={1920}
-    height={1080}
-    fps={30}
-    durationInFrames={90}
-    defaultProps={{}}
-  />
-);
 
 registerRoot(RemotionRoot);
