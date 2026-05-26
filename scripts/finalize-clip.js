@@ -1,10 +1,9 @@
 #!/usr/bin/env node
 // ffmpeg mux + per-platform encode (item 18).
 //
-// Takes the raw silent .webm from the headless recorder, the timed
-// narration full.wav from the synthesis pipeline, and an optional bed-
-// music file, then produces publication-ready MP4s + thumbnails for each
-// platform.
+// Takes a muxed MP4 from Remotion (video + narration audio), optionally
+// mixes in bed music, then produces publication-ready MP4s + thumbnails
+// for each platform with loudness normalization.
 //
 // Usage:
 //   node scripts/finalize-clip.js --edition=2026-04-30-evening
@@ -22,7 +21,7 @@ import { fileURLToPath } from 'url';
 import { spawnSync, execFileSync } from 'child_process';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
-const PRE_ROLL_S = 1; // must match BroadcastStage PRE_ROLL_MS / 1000
+const PRE_ROLL_S = 1; // pre-roll duration (seconds) before first shot
 
 // ── Platform definitions ──────────────────────────────────────────────────────
 
