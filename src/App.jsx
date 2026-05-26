@@ -139,7 +139,7 @@ export default function App() {
     <ErrorBoundary label="the app" fallback={appLevelFallback}>
     <div className="min-h-screen" style={{ background: 'var(--bg-primary)' }}>
 
-      {/* Broadcast hero — silent failure so a bad story doesn't block the page */}
+      {/* Map hero — silent failure so a bad story doesn't block the page */}
       {!loading && report && multiSource.length > 0 && (
         <ErrorBoundary
           label="map hero"
