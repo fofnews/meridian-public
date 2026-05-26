@@ -1,9 +1,8 @@
 #!/usr/bin/env node
 // Narration synthesis pipeline (item 17).
 //
-// For each shot in the shot list, calls the TTS provider and saves a WAV,
-// then uses ffmpeg to build a timed mix aligned to the video timeline
-// (PRE_ROLL + shot.t seconds offset per shot).
+// For each shot in the shot list, calls the TTS provider and saves a WAV.
+// Per-shot WAVs are consumed directly by Remotion <Audio> components.
 //
 // Usage:
 //   node scripts/synthesize-narration.js --edition=2026-04-30-evening
@@ -17,7 +16,6 @@
 //
 // Output:
 //   out/audio/<edition>/shot-<n>.wav     per-shot WAV
-//   out/audio/<edition>/full.wav         timed mix aligned to video timeline
 
 import { writeFileSync, existsSync, mkdirSync } from 'fs';
 import { readFileSync } from 'fs';
@@ -182,30 +180,5 @@ for (let i = 0; i < shotlist.shots.length; i++) {
   }
 }
 
-// ── Timed mix → full.wav ──────────────────────────────────────────────────────
-// Each shot's audio is delayed to PRE_ROLL_MS + shot.t * 1000 so it aligns
-// with the video frame where that shot's camera move begins.
-
-console.log('\nBuilding timed mix…');
-
-const fullWavPath = join(outDir, 'full.wav');
-const n = shotlist.shots.length;
-
-const filterParts = shotlist.shots.map((shot, i) => {
-  const delayMs = PRE_ROLL_MS + Math.round(shot.t * 1000);
-  return `[${i}:a]adelay=${delayMs}|${delayMs}[a${i}]`;
-});
-const mixIn        = shotlist.shots.map((_, i) => `[a${i}]`).join('');
-const filterComplex = [...filterParts, `${mixIn}amix=inputs=${n}:duration=longest:normalize=0[out]`].join('; ');
-
-execFileSync(FFMPEG, [
-  '-y',
-  ...wavPaths.flatMap(p => ['-i', p]),
-  '-filter_complex', filterComplex,
-  '-map', '[out]',
-  '-ar', '44100', '-ac', '2', '-c:a', 'pcm_s16le',
-  fullWavPath,
-], { stdio: 'inherit' });
-
-console.log(`\nSaved: ${fullWavPath}`);
-console.log(`Total shots: ${n}  |  Video duration: ${PRE_ROLL_MS / 1000 + shotlist.duration}s (incl. pre-roll)`);
+console.log(`\nSaved ${wavPaths.length} per-shot WAVs to ${outDir}`);
+console.log(`Total shots: ${shotlist.shots.length}  |  Clip duration: ${shotlist.duration}s`);
