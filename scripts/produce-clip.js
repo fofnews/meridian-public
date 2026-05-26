@@ -4,8 +4,8 @@
 // One command: edition ID → publishable MP4s + thumbnails.
 // Stages (in order):
 //   1. build-shotlist   — generate out/shotlists/<edition>.json
-//   2. remotion render  — frame-accurate render → out/raw/<edition>.mp4
-//   3. synthesize-narr  — TTS per shot → out/audio/<edition>/shot-N.wav
+//   2. synthesize-narr  — TTS per shot → out/audio/<edition>/shot-N.wav
+//   3. remotion render  — frame-accurate render → out/raw/<edition>.mp4
 //   4. finalize-clip    — ffmpeg mux + per-platform encode → out/final/
 //
 // The Express dev server on :3002 is started automatically if not already
@@ -154,9 +154,26 @@ if (!existsSync(shotlistPath)) {
   process.exit(1);
 }
 
-// ── Stage 2: remotion render ──────────────────────────────────────────────────
+// ── Stage 2: synthesize-narration ────────────────────────────────────────────
+// Must run BEFORE remotion render — Remotion fetches the per-shot WAVs during rendering.
 
-banner('2 / 4', `remotion render  edition=${edition}  port=${port}`);
+banner('2 / 4', `synthesize-narration  edition=${edition}`);
+
+const hasTTS = !!(process.env.ELEVENLABS_API_KEY || process.env.OPENAI_API_KEY);
+if (!hasTTS) {
+  console.warn('  ⚠  No TTS API key found (ELEVENLABS_API_KEY / OPENAI_API_KEY).');
+  console.warn('     Falling back to --dry-run (silence for all shots).');
+}
+
+run('synthesize-narration', 'node', [
+  join(SCRIPTS, 'synthesize-narration.js'),
+  `--edition=${edition}`,
+  ...(hasTTS ? [] : ['--dry-run']),
+]);
+
+// ── Stage 3: remotion render ──────────────────────────────────────────────────
+
+banner('3 / 4', `remotion render  edition=${edition}  port=${port}`);
 
 const ownedServer = await ensureServer();
 
@@ -181,22 +198,6 @@ if (!existsSync(rawPath)) {
   console.error(`✗ remotion render did not produce ${rawPath}`);
   process.exit(1);
 }
-
-// ── Stage 3: synthesize-narration ────────────────────────────────────────────
-
-banner('3 / 4', `synthesize-narration  edition=${edition}`);
-
-const hasTTS = !!(process.env.ELEVENLABS_API_KEY || process.env.OPENAI_API_KEY);
-if (!hasTTS) {
-  console.warn('  ⚠  No TTS API key found (ELEVENLABS_API_KEY / OPENAI_API_KEY).');
-  console.warn('     Falling back to --dry-run (silence for all shots).');
-}
-
-run('synthesize-narration', 'node', [
-  join(SCRIPTS, 'synthesize-narration.js'),
-  `--edition=${edition}`,
-  ...(hasTTS ? [] : ['--dry-run']),
-]);
 
 // ── Stage 4: finalize-clip ────────────────────────────────────────────────────
 
