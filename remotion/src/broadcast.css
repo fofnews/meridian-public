@@ -1,0 +1,28 @@
+/* Google Fonts — loaded at render time by Remotion's Chrome instance */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,600;1,8..60,400&display=swap');
+
+/* Mapbox GL base CSS */
+@import 'mapbox-gl/dist/mapbox-gl.css';
+
+/* Dark theme CSS custom properties — matches [data-theme="dark"] in src/index.css */
+:root {
+  --bg-primary:   #060810;
+  --bg-secondary: #0a0d14;
+  --bg-chyron:    #121624;
+
+  --text-primary:   #f0ebe0;
+  --text-secondary: #c8c0b0;
+
+  --accent:      #e8c547;
+  --accent-text: #0a0d14;
+
+  --text-primary-rgb: 240, 235, 224;
+  --bg-secondary-rgb: 10, 13, 20;
+  --bg-chyron-rgb:    18, 22, 36;
+
+  --hero-border:        rgba(232,197,71,0.30);
+  --hero-border-active: rgba(232,197,71,0.70);
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: #000; }
