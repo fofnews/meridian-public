@@ -66,17 +66,14 @@ if (!edition) {
   process.exit(1);
 }
 
-const videoIn = args['video'] ?? join(ROOT, 'out', 'raw',   `${edition}.webm`);
-const audioIn = args['audio'] ?? join(ROOT, 'out', 'audio', edition, 'full.wav');
+const videoIn = args['video'] ?? join(ROOT, 'out', 'raw', `${edition}.mp4`);
 const outDir  = join(ROOT, 'out', 'final');
 
 // ── Pre-flight ────────────────────────────────────────────────────────────────
 
-for (const [label, path] of [['Video', videoIn], ['Audio', audioIn]]) {
-  if (!existsSync(path)) {
-    console.error(`${label} not found: ${path}`);
-    process.exit(1);
-  }
+if (!existsSync(videoIn)) {
+  console.error(`Video not found: ${videoIn}`);
+  process.exit(1);
 }
 if (bedMusic && !existsSync(bedMusic)) {
   console.error(`Bed music not found: ${bedMusic}`);
@@ -96,18 +93,22 @@ mkdirSync(outDir, { recursive: true });
 // Build the audio filter chain (mixing + placeholder for loudnorm pass 2).
 // Returns an array of [-i, path, ...] input args plus a filter_complex string.
 function buildAudioFilter(lufs, measuredStats) {
-  const loudnormLinear =
-    `loudnorm=I=${lufs}:TP=-1:LRA=11:linear=true` +
-    `:measured_I=${measuredStats.input_i}` +
-    `:measured_LRA=${measuredStats.input_lra}` +
-    `:measured_TP=${measuredStats.input_tp}` +
-    `:measured_thresh=${measuredStats.input_thresh}` +
-    `:offset=${measuredStats.target_offset}`;
+  // Silence (dry-run) produces -inf measured_I, which loudnorm linear mode rejects.
+  // Fall back to single-pass loudnorm (no measured_ params) in that case.
+  const isSilent = !isFinite(parseFloat(measuredStats.input_i));
+  const loudnormLinear = isSilent
+    ? `loudnorm=I=${lufs}:TP=-1:LRA=11`
+    : `loudnorm=I=${lufs}:TP=-1:LRA=11:linear=true` +
+      `:measured_I=${measuredStats.input_i}` +
+      `:measured_LRA=${measuredStats.input_lra}` +
+      `:measured_TP=${measuredStats.input_tp}` +
+      `:measured_thresh=${measuredStats.input_thresh}` +
+      `:offset=${measuredStats.target_offset}`;
 
   if (!bedMusic) {
     return {
       extraInputs: [],
-      audioFilter: `[1:a]${loudnormLinear}[aout]`,
+      audioFilter: `[0:a]${loudnormLinear}[aout]`,
       audioMap:    '[aout]',
     };
   }
@@ -116,8 +117,8 @@ function buildAudioFilter(lufs, measuredStats) {
   return {
     extraInputs: ['-i', bedMusic],
     audioFilter:
-      `[1:a]aformat=sample_fmts=fltp[narr];` +
-      `[2:a]volume=0.12,aformat=sample_fmts=fltp[bed];` +
+      `[0:a]aformat=sample_fmts=fltp[narr];` +
+      `[1:a]volume=0.12,aformat=sample_fmts=fltp[bed];` +
       `[narr][bed]amix=inputs=2:duration=longest:normalize=0[mix];` +
       `[mix]${loudnormLinear}[aout]`,
     audioMap: '[aout]',
@@ -135,7 +136,7 @@ function analyzeLoudness(lufs) {
       `[mix]loudnorm=I=${lufs}:TP=-1:LRA=11:print_format=json[out]`
     : `[0:a]loudnorm=I=${lufs}:TP=-1:LRA=11:print_format=json[out]`;
 
-  const analysisInputs = bedMusic ? ['-i', audioIn, '-i', bedMusic] : ['-i', audioIn];
+  const analysisInputs = bedMusic ? ['-i', videoIn, '-i', bedMusic] : ['-i', videoIn];
 
   const { stderr } = spawnSync('ffmpeg', [
     '-y',
@@ -178,7 +179,6 @@ function encode(platform) {
   execFileSync('ffmpeg', [
     '-y',
     '-i', videoIn,
-    '-i', audioIn,
     ...extraInputs,
     '-filter_complex', filterComplex,
     '-map', '[vout]',
@@ -208,7 +208,6 @@ function encode(platform) {
 
 console.log(`Edition:   ${edition}`);
 console.log(`Video:     ${videoIn}`);
-console.log(`Audio:     ${audioIn}`);
 console.log(`Bed:       ${bedMusic ?? '(none)'}`);
 console.log(`Platforms: ${platforms.join(', ')}`);
 
