@@ -26,8 +26,14 @@ export function useRemotionMap() {
     createMap(mapContainer.current, { isDark: true, broadcast: true }).then(({ map }) => {
       if (cancelled) { map.remove(); return; }
       mapRef.current = map;
-      setMapReady(true);
-      continueRender(initHandle);
+      // Wait for the map style to finish loading before declaring ready.
+      // createMap() resolves before 'load' fires, so per-frame jumpTo calls
+      // must not begin until the map is actually usable.
+      map.once('load', () => {
+        if (cancelled) return;
+        setMapReady(true);
+        continueRender(initHandle);
+      });
     }).catch(err => {
       console.error('[useRemotionMap] Mapbox failed to load:', err);
       continueRender(initHandle);  // unblock even on error

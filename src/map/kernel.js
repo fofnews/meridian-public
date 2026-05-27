@@ -20,7 +20,7 @@ export function loadMapbox() {
       import('mapbox-gl/dist/mapbox-gl.css'),
     ]).then(([mod]) => {
       const mapboxgl = mod.default;
-      mapboxgl.accessToken = import.meta.env.VITE_MAPBOX_TOKEN;
+      mapboxgl.accessToken = import.meta.env?.VITE_MAPBOX_TOKEN ?? process.env.VITE_MAPBOX_TOKEN ?? '';
       return mapboxgl;
     });
   }
