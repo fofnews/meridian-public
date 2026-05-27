@@ -31,7 +31,6 @@ export function useRemotionMap({ mapboxToken = '', port = 3002 } = {}) {
       mapRef.current = map;
       map.on('error', (e) => console.error('[useRemotionMap] map error:', e.error?.message ?? e));
       map.once('style.load', () => {
-        console.log('[useRemotionMap] style.load fired');
         if (cancelled) return;
         setMapReady(true);
         continueRender(initHandle);
