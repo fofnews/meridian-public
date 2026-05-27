@@ -1,0 +1,106 @@
+[
+  {
+    "label": "Ken Paxton",
+    "count": 11,
+    "sources": 9,
+    "keywords": [
+      "texas",
+      "paxton",
+      "cornyn",
+      "gop",
+      "runoff",
+      "senate"
+    ]
+  },
+  {
+    "label": "Christian Menefee",
+    "count": 7,
+    "sources": 5,
+    "keywords": [
+      "texas",
+      "menefee",
+      "rep",
+      "green",
+      "house",
+      "runoff"
+    ]
+  },
+  {
+    "label": "Federal Workers",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "federal",
+      "workers",
+      "ndas",
+      "leaks",
+      "trump",
+      "administration"
+    ]
+  },
+  {
+    "label": "Chemical Tank",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "chemical",
+      "missing",
+      "dead",
+      "implosion",
+      "washington",
+      "tank"
+    ]
+  },
+  {
+    "label": "Biden Sues",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "biden",
+      "sues",
+      "release",
+      "audio",
+      "doj",
+      "interview"
+    ]
+  },
+  {
+    "label": "Texas Democratic",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "johnson",
+      "texas",
+      "allred",
+      "rep",
+      "democratic",
+      "runoff"
+    ]
+  },
+  {
+    "label": "South Carolina",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "redistricting",
+      "south",
+      "carolina",
+      "trump",
+      "backed",
+      "plan"
+    ]
+  },
+  {
+    "label": "Deal Deal",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "deal",
+      "iran",
+      "trump",
+      "ceasefire",
+      "violating",
+      "seeks"
+    ]
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "label": "Pope Leo",
+    "count": 7,
+    "sources": 6,
+    "keywords": [
+      "pope",
+      "calls",
+      "leo",
+      "robust",
+      "regulation",
+      "manifesto"
+    ]
+  },
+  {
+    "label": "Abraham Accords",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "trump",
+      "abraham",
+      "accords",
+      "iran",
+      "join",
+      "deal"
+    ]
+  },
+  {
+    "label": "Memorial Day",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "trump",
+      "memorial",
+      "day",
+      "delivers",
+      "remarks",
+      "arlington"
+    ]
+  },
+  {
+    "label": "World Cup",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "mexico",
+      "world",
+      "cup",
+      "team",
+      "host",
+      "iran"
+    ]
+  },
+  {
+    "label": "Negotiators Rush",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "trump",
+      "deal",
+      "iran",
+      "rush",
+      "negotiators",
+      "war"
+    ]
+  },
+  {
+    "label": "Oil Prices",
+    "count": 5,
+    "sources": 4,
+    "keywords": [
+      "iran",
+      "peace",
+      "deal",
+      "oil",
+      "prices",
+      "rubio"
+    ]
+  },
+  {
+    "label": "Tiger Woods",
+    "count": 5,
+    "sources": 4,
+    "keywords": [
+      "tiger",
+      "woods",
+      "breaks",
+      "silence",
+      "memorial",
+      "day"
+    ]
+  },
+  {
+    "label": "Iran Deal",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "deal",
+      "iran",
+      "trump",
+      "rubio",
+      "critics",
+      "solid"
+    ]
+  }
+]
