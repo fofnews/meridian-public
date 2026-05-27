@@ -1,7 +1,7 @@
 // remotion/src/Broadcast.jsx
 import './broadcast.css';
 import { useEffect, useRef } from 'react';
-import { useCurrentFrame, useVideoConfig, AbsoluteFill, Audio, delayRender, continueRender } from 'remotion';
+import { useCurrentFrame, useVideoConfig, AbsoluteFill, Audio, Sequence, delayRender, continueRender } from 'remotion';
 import { useRemotionMap } from './useRemotionMap.js';
 import { interpolateCamera } from './camera.js';
 import { RemotionFilmGrain, Chyron, Ticker, TopBar, MapAttribution, FadeOverlay } from './overlays.jsx';
@@ -11,6 +11,7 @@ const POST_ROLL_S = 1;
 
 export async function calculateMetadata({ props }) {
   const { edition, fps = 30, port = 3002 } = props;
+  if (!edition) return { durationInFrames: 1, fps, props: { ...props, shotlist: null } };
   const res = await fetch(`http://localhost:${port}/out/shotlists/${edition}.json`);
   if (!res.ok) throw new Error(`Shotlist fetch failed: ${res.status} for edition "${edition}"`);
   const shotlist = await res.json();
@@ -36,6 +37,7 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
     if (!mapReady || !mapRef.current || !shotlist) return;
 
     const handle = delayRender(`cam-frame-${frame}`);
+    let resolved = false;
 
     const cam = interpolateCamera(shotlist.shots, t, PRE_ROLL_S);
     mapRef.current.jumpTo({
@@ -45,28 +47,22 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
       bearing:  cam.bearing,
     });
 
-    const onIdle = () => continueRender(handle);
+    const onIdle = () => { resolved = true; continueRender(handle); };
     mapRef.current.once('idle', onIdle);
 
     return () => {
-      continueRender(handle);
       mapRef.current?.off('idle', onIdle);
+      if (!resolved) continueRender(handle);
     };
   }, [frame, mapReady]);
 
   if (!shotlist) return <AbsoluteFill style={{ background: '#000' }} />;
 
-  // Calculate the ticker height + chyron height so the map fills the rest.
-  // Ticker: ~28px, chyron upper: ~38px, chyron lower: ~28px → total ~94px.
-  // These are approximate; the actual heights are set by the flex layout.
-  const overlayHeight = 166;
-  const mapHeight = `calc(100% - ${overlayHeight}px)`;
-
   return (
     <AbsoluteFill style={{ background: '#000', display: 'flex', flexDirection: 'column' }}>
 
-      {/* Map area */}
-      <div style={{ position: 'relative', width: '100%', height: mapHeight, overflow: 'hidden' }}>
+      {/* Map area — flex: 1 so it fills whatever height remains after the overlays */}
+      <div style={{ position: 'relative', width: '100%', flex: 1, overflow: 'hidden' }}>
         <div
           ref={mapContainer}
           style={{ position: 'absolute', inset: 0, width: '100%', height: '100%' }}
@@ -94,13 +90,12 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
         postRollS={POST_ROLL_S}
       />
 
-      {/* Per-shot narration audio */}
+      {/* Per-shot narration audio — Sequence delays playback to the right
+          timeline position; Audio without startFrom plays from its beginning. */}
       {shotlist.shots.map((shot, i) => (
-        <Audio
-          key={i}
-          src={`http://localhost:${port}/out/audio/${edition}/shot-${i}.wav`}
-          startFrom={Math.round((PRE_ROLL_S + shot.t) * fps)}
-        />
+        <Sequence key={i} from={Math.round((PRE_ROLL_S + shot.t) * fps)}>
+          <Audio src={`http://localhost:${port}/out/audio/${edition}/shot-${i}.wav`} />
+        </Sequence>
       ))}
 
     </AbsoluteFill>

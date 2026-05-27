@@ -25,13 +25,8 @@ import { execFileSync } from 'child_process';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 
-// Use system ffmpeg (Playwright's bundled build is audio-stripped).
-// Install: sudo apt-get install -y ffmpeg
+// Use system ffmpeg for WAV encoding. Install: sudo apt-get install -y ffmpeg
 const FFMPEG = 'ffmpeg';
-
-// Must match BroadcastStage PRE_ROLL_MS so audio aligns with the black
-// fade-in that precedes the first shot.
-const PRE_ROLL_MS = 1000;
 
 // ── Voice config (see docs/voice.md) ─────────────────────────────────────────
 const ELEVENLABS_VOICE_ID = process.env.ELEVENLABS_VOICE_ID ?? 'JBFqnCBsd6RMkjVDRZzb'; // George

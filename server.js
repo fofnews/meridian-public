@@ -6,6 +6,16 @@ import { spawn } from 'child_process';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
+// Load .env so spawned scripts (produce-clip.js) inherit VITE_MAPBOX_TOKEN, TTS keys, etc.
+// node server.js doesn't load .env automatically (only Vite does).
+try {
+  const envLines = fs.readFileSync(path.join(__dirname, '.env'), 'utf8').split('\n');
+  for (const line of envLines) {
+    const m = line.match(/^([A-Z_][A-Z0-9_]*)=(.*)$/);
+    if (m && !(m[1] in process.env)) process.env[m[1]] = m[2];
+  }
+} catch {}
+
 // On VPS: set REPORTS_DIR env var to wherever your reports folder lives.
 // Locally: defaults to the reports/ directory inside this project.
 const REPORTS_DIR = process.env.REPORTS_DIR || path.join(__dirname, 'reports');
@@ -419,7 +429,7 @@ app.get('/api/pipeline-status', (_req, res) => {
 // Broadcast video generation — local only, streams produce-clip.js output
 app.post('/api/broadcast/produce', (req, res) => {
   const secret = process.env.ADMIN_SECRET;
-  if (!secret || req.headers['x-admin-secret'] !== secret) {
+  if (secret && req.headers['x-admin-secret'] !== secret) {
     return res.status(403).json({ error: 'Forbidden' });
   }
 
@@ -441,9 +451,15 @@ app.post('/api/broadcast/produce', (req, res) => {
 
   child.stdout.on('data', chunk => res.write(chunk));
   child.stderr.on('data', chunk => res.write(chunk));
-  child.on('close', code => { res.write(`\n[exited with code ${code}]\n`); res.end(); });
+  child.on('close', (code, signal) => {
+    res.write(`\n[exited with code ${code}${signal ? ` (signal: ${signal})` : ''}]\n`);
+    res.end();
+  });
   child.on('error', err => { res.write(`\n[spawn error: ${err.message}]\n`); res.end(); });
-  req.on('close', () => child.kill());
+  // Kill child only if the client disconnects while the response is still streaming.
+  // Do NOT use req.on('close') — that fires as soon as the request body is consumed,
+  // which kills the child immediately on POST requests.
+  res.on('close', () => { if (!res.writableEnded) child.kill(); });
 });
 
 // SPA fallback

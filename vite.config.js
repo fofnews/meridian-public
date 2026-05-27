@@ -10,5 +10,8 @@ export default defineConfig({
       '/api': 'http://localhost:3002',
       '/out': 'http://localhost:3002',
     },
+    watch: {
+      ignored: ['**/reports/**', '**/articles/**', '**/topics/**', '**/timelines/**', '**/out/**'],
+    },
   },
 });

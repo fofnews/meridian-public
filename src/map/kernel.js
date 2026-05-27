@@ -46,9 +46,32 @@ export async function createMap(container, { isDark, broadcast = false, mapboxTo
   if (mapboxToken) mapboxgl.accessToken = mapboxToken;
 
   const base = styleBaseUrl ? styleBaseUrl.replace(/\/$/, '') : '';
+  const styleUrl = isDark ? `${base}/meridian-dark.style.json` : `${base}/meridian-light.style.json`;
+
+  // When styleBaseUrl is provided (Remotion headless context), fetch the style
+  // as JSON and rewrite the glyphs URL to be absolute. The style file uses a
+  // root-relative path (/fonts/...) which Mapbox GL resolves against the page
+  // origin — in Remotion that's the webpack dev server (3003), not Express (3002)
+  // which actually serves the font tiles. Without this patch, all label and
+  // border layers silently lose their text because glyph requests 404.
+  let style = styleUrl;
+  if (base) {
+    try {
+      const res = await fetch(styleUrl);
+      if (res.ok) {
+        const styleJson = await res.json();
+        styleJson.glyphs = `${base}/fonts/{fontstack}/{range}.pbf`;
+        styleJson.sprite = styleJson.sprite?.startsWith('mapbox://')
+          ? styleJson.sprite   // keep mapbox:// sprites — resolved by mapbox-gl using the token
+          : `${base}${styleJson.sprite}`;
+        style = styleJson;
+      }
+    } catch {}
+  }
+
   const map = new mapboxgl.Map({
     container,
-    style: isDark ? `${base}/meridian-dark.style.json` : `${base}/meridian-light.style.json`,
+    style,
     projection: 'globe',
     center: [0, 20],
     zoom: 1.0,

@@ -160,7 +160,6 @@ export function Ticker({ shots }) {
 
   return (
     <div style={{
-      position: 'absolute', bottom: 78, left: 0, right: 0, zIndex: 10,
       background: ACCENT, padding: '5px 0', overflow: 'hidden',
     }}>
       <style>{`
