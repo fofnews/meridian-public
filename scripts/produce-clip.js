@@ -21,7 +21,7 @@
 //   ELEVENLABS_API_KEY
 //   OPENAI_API_KEY
 
-import { existsSync, mkdirSync } from 'fs';
+import { existsSync, mkdirSync, writeFileSync, unlinkSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { execFileSync, spawn } from 'child_process';
@@ -185,17 +185,23 @@ const remotionBin = process.platform === 'win32'
   ? join(ROOT, 'node_modules', '.bin', 'remotion.cmd')
   : join(ROOT, 'node_modules', '.bin', 'remotion');
 
+// Pass props via a JSON file — inline --props JSON breaks on Windows CMD
+// because CMD strips the double quotes from the value.
+const propsPath = join(ROOT, 'out', `remotion-props-${edition}.json`);
+writeFileSync(propsPath, JSON.stringify({ edition, aspect, port: Number(port) }));
+
 try {
   run('record', remotionBin, [
     'render',
     'Broadcast',
-    `--props=${JSON.stringify({ edition, aspect, port: Number(port) })}`,
+    `--props=${propsPath}`,
     '--output', rawPath,
     '--concurrency', '1',
     '--log', 'verbose',
   ]);
 } finally {
   if (ownedServer) stopServer();
+  try { unlinkSync(propsPath); } catch {}
 }
 
 if (!existsSync(rawPath)) {
