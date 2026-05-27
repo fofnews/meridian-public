@@ -51,8 +51,9 @@ app.post('/api/suggestions/:id/vote', (req, res) => {
   res.json(suggestion);
 });
 
-// Serve generated shotlists so the broadcast page can fetch them.
+// Serve generated shotlists and per-shot audio for Remotion render.
 app.use('/out/shotlists', express.static(path.join(__dirname, 'out', 'shotlists')));
+app.use('/out/audio', express.static(path.join(__dirname, 'out', 'audio')));
 
 // Serve the built React app
 app.use(express.static(path.join(__dirname, 'dist')));

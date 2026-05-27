@@ -191,6 +191,7 @@ const propsPath = join(ROOT, 'out', `remotion-props-${edition}.json`);
 writeFileSync(propsPath, JSON.stringify({ edition, aspect, port: Number(port) }));
 
 try {
+  // shell: true is required on Windows for .cmd files to run via execFileSync.
   run('record', remotionBin, [
     'render',
     'Broadcast',
@@ -198,7 +199,7 @@ try {
     '--output', rawPath,
     '--concurrency', '1',
     '--log', 'verbose',
-  ]);
+  ], { shell: process.platform === 'win32' });
 } finally {
   if (ownedServer) stopServer();
   try { unlinkSync(propsPath); } catch {}
