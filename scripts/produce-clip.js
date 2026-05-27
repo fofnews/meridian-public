@@ -180,9 +180,13 @@ const ownedServer = await ensureServer();
 const rawPath = join(ROOT, 'out', 'raw', `${edition}.mp4`);
 mkdirSync(join(ROOT, 'out', 'raw'), { recursive: true });
 
+// On Windows, .bin/remotion is a bash script — use the .cmd wrapper instead.
+const remotionBin = process.platform === 'win32'
+  ? join(ROOT, 'node_modules', '.bin', 'remotion.cmd')
+  : join(ROOT, 'node_modules', '.bin', 'remotion');
+
 try {
-  run('record', 'node', [
-    join(ROOT, 'node_modules', '.bin', 'remotion'),
+  run('record', remotionBin, [
     'render',
     'Broadcast',
     `--props=${JSON.stringify({ edition, aspect, port: Number(port) })}`,
