@@ -41,13 +41,14 @@ loadMapbox().catch(() => {});
 // later, fall back to mercator below a viewport threshold here without
 // changing the rest of the kernel — the map style, layers, and marker
 // look the same under either projection.
-export async function createMap(container, { isDark, broadcast = false, mapboxToken = null }) {
+export async function createMap(container, { isDark, broadcast = false, mapboxToken = null, styleBaseUrl = '' }) {
   const mapboxgl = await loadMapbox();
   if (mapboxToken) mapboxgl.accessToken = mapboxToken;
 
+  const base = styleBaseUrl ? styleBaseUrl.replace(/\/$/, '') : '';
   const map = new mapboxgl.Map({
     container,
-    style: isDark ? '/meridian-dark.style.json' : '/meridian-light.style.json',
+    style: isDark ? `${base}/meridian-dark.style.json` : `${base}/meridian-light.style.json`,
     projection: 'globe',
     center: [0, 20],
     zoom: 1.0,

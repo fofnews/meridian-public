@@ -11,7 +11,7 @@ import { createMap } from '../../src/map/kernel.js';
  * Callers drive the camera via mapRef.current.jumpTo() each frame,
  * wrapped in a delayRender/continueRender pair around map.once('idle').
  */
-export function useRemotionMap({ mapboxToken = '' } = {}) {
+export function useRemotionMap({ mapboxToken = '', port = 3002 } = {}) {
   const mapContainer = useRef(null);
   const mapRef       = useRef(null);
   const [mapReady, setMapReady] = useState(false);
@@ -23,20 +23,21 @@ export function useRemotionMap({ mapboxToken = '' } = {}) {
     const initHandle = delayRender('map init');
     let cancelled = false;
 
-    createMap(mapContainer.current, { isDark: true, broadcast: true, mapboxToken: mapboxToken || undefined }).then(({ map }) => {
+    // Fetch style from Express server (port=3002) so it's reliably accessible.
+    // Remotion's webpack server (port=3003) does not serve publicDir files.
+    const styleBaseUrl = `http://localhost:${port}`;
+    createMap(mapContainer.current, { isDark: true, broadcast: true, mapboxToken: mapboxToken || undefined, styleBaseUrl }).then(({ map }) => {
       if (cancelled) { map.remove(); return; }
       mapRef.current = map;
       map.on('error', (e) => console.error('[useRemotionMap] map error:', e.error?.message ?? e));
-      // 'style.load' fires when the style JSON is parsed and sources are registered,
-      // before tiles are fetched from CDN. Sufficient for jumpTo operations —
-      // each frame's tile rendering is gated by map.once('idle') separately.
       map.once('style.load', () => {
+        console.log('[useRemotionMap] style.load fired');
         if (cancelled) return;
         setMapReady(true);
         continueRender(initHandle);
       });
     }).catch(err => {
-      console.error('[useRemotionMap] Mapbox failed to load:', err);
+      console.error('[useRemotionMap] createMap catch:', err?.message ?? err);
       continueRender(initHandle);  // unblock even on error
     });
 

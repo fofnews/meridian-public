@@ -27,7 +27,7 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
   const { fps, durationInFrames } = useVideoConfig();
   const t = frame / fps;
 
-  const { mapContainer, mapRef, mapReady } = useRemotionMap({ mapboxToken });
+  const { mapContainer, mapRef, mapReady } = useRemotionMap({ mapboxToken, port });
 
   // Per-frame camera update: jumpTo computed position, delay Remotion
   // until Mapbox reports idle (all tiles rendered for this position).

@@ -58,6 +58,11 @@ const outCors = (_req, res, next) => { res.setHeader('Access-Control-Allow-Origi
 app.use('/out/shotlists', outCors, express.static(path.join(__dirname, 'out', 'shotlists')));
 app.use('/out/audio',     outCors, express.static(path.join(__dirname, 'out', 'audio')));
 
+// Serve public/ with CORS so Remotion's headless Chrome (localhost:3003) can fetch
+// map style files and other static assets. Must come before dist/ serving.
+const publicCors = (_req, res, next) => { res.setHeader('Access-Control-Allow-Origin', '*'); next(); };
+app.use(publicCors, express.static(path.join(__dirname, 'public')));
+
 // Serve the built React app
 app.use(express.static(path.join(__dirname, 'dist')));
 
