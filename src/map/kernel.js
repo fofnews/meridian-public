@@ -59,7 +59,10 @@ export async function createMap(container, { isDark, broadcast = false, mapboxTo
     }),
   });
 
-  map.on('load', () => {
+  // 'style.load' fires when the style JSON is parsed and sources are registered —
+  // before tiles are fetched. Safe for resize/padding/layer setup, and avoids
+  // waiting for tile CDN responses (which is what 'load' requires).
+  map.on('style.load', () => {
     map.resize();
     map.setPadding(getMapPadding(container));
     applyMapStyle(map, isDark);

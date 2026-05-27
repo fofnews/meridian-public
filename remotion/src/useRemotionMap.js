@@ -26,10 +26,11 @@ export function useRemotionMap({ mapboxToken = '' } = {}) {
     createMap(mapContainer.current, { isDark: true, broadcast: true, mapboxToken: mapboxToken || undefined }).then(({ map }) => {
       if (cancelled) { map.remove(); return; }
       mapRef.current = map;
-      // Wait for the map style to finish loading before declaring ready.
-      // createMap() resolves before 'load' fires, so per-frame jumpTo calls
-      // must not begin until the map is actually usable.
-      map.once('load', () => {
+      map.on('error', (e) => console.error('[useRemotionMap] map error:', e.error?.message ?? e));
+      // 'style.load' fires when the style JSON is parsed and sources are registered,
+      // before tiles are fetched from CDN. Sufficient for jumpTo operations —
+      // each frame's tile rendering is gated by map.once('idle') separately.
+      map.once('style.load', () => {
         if (cancelled) return;
         setMapReady(true);
         continueRender(initHandle);
