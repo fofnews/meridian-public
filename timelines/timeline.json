@@ -551,6 +551,11 @@
           "date": "2026-05-27",
           "edition": "morning",
           "update": "The EU is actively searching for potential mediators to help broker an end to the war in Ukraine following U.S. withdrawal from trilateral talks, according to BBC News. Ukraine used British-supplied Storm Shadow missiles in an attack on Sevastopol, according to the city's governor. The GCHQ Director is set to deliver a speech Wednesday warning that Russia is 'relentlessly targeting' critical infrastructure and democracy, outlining threats facing the UK and proposed countermeasures. UN Secretary-General Guterres expressed being 'deeply concerned' following Russia's announcement of plans to strike Kyiv."
+        },
+        {
+          "date": "2026-05-27",
+          "edition": "evening",
+          "update": "GCHQ Director Anne Keast-Butler, in her first public speech, stated that almost 500,000 Russian soldiers have been killed in the Ukraine war, while outlining threats facing the UK from Russia."
         }
       ],
       "parentId": null
@@ -626,6 +631,11 @@
           "date": "2026-05-27",
           "edition": "morning",
           "update": "Mexican military captured Isai 'N,' nephew of former Sinaloa cartel leader Joaquín 'El Chapo' Guzmán, during a security operation in Nogales, Sonora, near the U.S.-Mexico border. Mexican official Omar Hamid Garcia Harfuch confirmed the arrest and noted the suspect has an extradition order."
+        },
+        {
+          "date": "2026-05-27",
+          "edition": "evening",
+          "update": "Reuters reported on a paper trail linking a U.S. fuel trader to a notorious Mexican cartel, though specific details of the individuals and transactions involved were not disclosed."
         }
       ],
       "parentId": null
@@ -871,6 +881,11 @@
           "date": "2026-05-27",
           "edition": "morning",
           "update": "Lebanon's Health Ministry reported that Israeli attacks have killed 3,213 people and injured 9,737 in Lebanon since March 2, according to Al Jazeera."
+        },
+        {
+          "date": "2026-05-27",
+          "edition": "evening",
+          "update": "Israel renewed strikes against Hezbollah in Lebanon while the status of U.S.-Iran negotiations remained unclear, according to CBS News."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1226,6 +1241,11 @@
           "date": "2026-05-27",
           "edition": "morning",
           "update": "Israel killed Mohammed Odeh, the newly appointed head of Hamas's armed wing, in a strike in Gaza on Tuesday; his predecessor had also been killed in an Israeli operation earlier in May. Israel carried out heavy airstrikes across southern Lebanon and expanded its ground operations beyond the designated security zone, killing at least 31 people. New footage showed widespread destruction in Maarakeh following the strikes. The Lebanon ceasefire showed signs of faltering as President Trump simultaneously pushed for a deal with Iran, according to the Washington Post."
+        },
+        {
+          "date": "2026-05-27",
+          "edition": "evening",
+          "update": "Israel issued sweeping evacuation orders for two southern Lebanese cities before striking Hezbollah targets in Tyre, warning it would 'act forcefully' against the group. Israeli warplanes were reported circling over southern Lebanon as the military expanded attacks, with officials stating the goal was to increase the intensity of fighting against Iran-backed Hezbollah. Few Lebanese believe U.S.-Iran diplomatic efforts will bring peace to their country, according to the NY Times."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1751,6 +1771,11 @@
           "date": "2026-05-27",
           "edition": "morning",
           "update": "The U.S. struck southern Iran late Monday, raising tensions between Washington and Tehran and putting an emerging peace plan at risk that would have opened the Strait of Hormuz and provided relief to rising oil and gas prices, according to The Hill."
+        },
+        {
+          "date": "2026-05-27",
+          "edition": "evening",
+          "update": "At his Cabinet meeting, Trump stated Iran is 'negotiating on fumes' and that the U.S. is unsatisfied with Iran's offers, while threatening Oman with military action if it sides with Iran over the Strait of Hormuz and declaring there will be no sanctions relief in a uranium deal. A new analysis found U.S. military contractors will need at least three years to replenish stockpiles of three key advanced weapons systems used in the Iran conflict. The IMF warned the Iran war could trigger a spike in global debt levels, as Bangladesh sought IMF aid amid economic fallout, while the Washington Post reported Trump is holding the Cabinet meeting amid declining approval ratings over his handling of Iran and the economy."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2264,8 +2289,8 @@
       "id": "artemis-moon-mission",
       "title": "Artemis Moon Mission",
       "firstSeen": "2026-03-23",
-      "lastSeen": "2026-04-16",
-      "active": false,
+      "lastSeen": "2026-05-27",
+      "active": true,
       "entries": [
         {
           "date": "2026-03-23",
@@ -2431,6 +2456,11 @@
           "date": "2026-04-16",
           "edition": "evening",
           "update": "The Artemis II crew held a news conference on Thursday, their first since their post-splashdown public appearance, discussing their mission flyby around the moon."
+        },
+        {
+          "date": "2026-05-27",
+          "edition": "evening",
+          "update": "NASA outlined a three-phase plan for establishing a permanent Moon base, describing it as 'humanity's first lunar outpost,' and released new images alongside the announcement, stating the plan represents 'when living and working on the Moon becomes a reality.'"
         }
       ],
       "parentId": null
@@ -2540,7 +2570,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-05-25",
+      "lastSeen": "2026-05-27",
       "active": true,
       "entries": [
         {
@@ -2597,6 +2627,11 @@
           "date": "2026-05-25",
           "edition": "evening",
           "update": "Iran acknowledged a deal is taking shape but cited 'frequent changes' in U.S. positions as a complicating factor, with Iranian Foreign Ministry spokesman Baghaei stating a 'large portion' of issues have been resolved but a deal is 'not imminent.' Trump claimed on social media the agreement was 'largely negotiated,' which Iran acknowledged while pushing back on the characterization. Secretary of State Rubio stated a deal reopening the Strait of Hormuz could be announced as early as Monday. Oil prices fell sharply, with WTI crude dropping over 6.1% to $90.68, amid optimism over negotiations. The NY Times reported Trump's pressure campaign had little effect on Iran's terms, with Tehran declining to accept key American demands. China and India increased imports of Brazilian crude as Strait of Hormuz disruptions prompted buyers to seek alternative suppliers."
+        },
+        {
+          "date": "2026-05-27",
+          "edition": "evening",
+          "update": "An unofficial draft U.S.-Iran peace deal has emerged that would see shipping in the Strait of Hormuz return to pre-war levels within one month of signing, with Iranian state TV also confirming a draft deal would reopen the waterway and end a naval blockade. During a Cabinet meeting at the White House — relocated from Camp David due to inclement weather — Trump stated Iran is 'negotiating on fumes,' declared there will be no sanctions relief for Iran in a uranium deal, and said the U.S. is unsatisfied with Iran's current offers. Trump also threatened that Oman would need to 'behave or we'll have to blow 'em up' if it sided with Iran over the Strait of Hormuz. Iran has separately made the release of billions in frozen funds a precondition for meaningful nuclear negotiations, according to the NY Times, while a University of Chicago professor identified control over the Strait and Iran's nuclear capabilities as zero-sum issues blocking a deal."
         }
       ]
     },
@@ -2992,6 +3027,11 @@
           "date": "2026-05-27",
           "edition": "morning",
           "update": "Canada imposed a travel ban related to the Ebola outbreak, while the Bahamas announced plans to increase screening measures, according to Reuters. Communities in western Uganda, approximately 200 miles from the outbreak epicenter, are reporting significant economic anxiety as the crisis threatens the tourism industry sustaining livelihoods in areas like Katunguru near Queen Elizabeth National Park."
+        },
+        {
+          "date": "2026-05-27",
+          "edition": "evening",
+          "update": "The Ebola outbreak in the Democratic Republic of Congo has surpassed 1,000 confirmed or suspected cases, as the U.S. plans a quarantine site and seeks volunteers in response. WHO Director-General Tedros warned that Congo faces a 'catastrophic collision' of Ebola and armed conflict, stating that halting transmission 'depends entirely on humanitarian access.' A doctor who died while treating Ebola patients in the DRC has been buried, according to Al Jazeera."
         }
       ]
     },
@@ -3081,5 +3121,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-27T11:07:05.672Z"
+  "updatedAt": "2026-05-27T21:08:52.084Z"
 }
