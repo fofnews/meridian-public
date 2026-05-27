@@ -26,7 +26,7 @@
 import { existsSync, mkdirSync, writeFileSync, unlinkSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
-import { execFileSync } from 'child_process';
+import { execFileSync, spawn } from 'child_process';
 import { startRenderServer } from './render-server.js';
 
 const ROOT    = join(dirname(fileURLToPath(import.meta.url)), '..');
@@ -70,6 +70,20 @@ function run(stage, cmd, cmdArgs, opts = {}) {
     console.error(`\n✗ Stage "${stage}" failed (exit ${err.status ?? 1})`);
     process.exit(err.status ?? 1);
   }
+}
+
+// Async variant using spawn — keeps the event loop free so in-process
+// servers (render-server.js) can continue accepting connections.
+function runAsync(stage, cmd, cmdArgs, opts = {}) {
+  console.log(`\n+ ${cmd} ${cmdArgs.join(' ')}`);
+  return new Promise((resolve, reject) => {
+    const child = spawn(cmd, cmdArgs, { stdio: 'inherit', ...opts });
+    child.on('error', reject);
+    child.on('exit', (code, signal) => {
+      if (code === 0) resolve();
+      else reject(Object.assign(new Error(`Stage "${stage}" failed (exit ${code ?? signal ?? 1})`), { status: code ?? 1 }));
+    });
+  });
 }
 
 // ── Stage 1: build-shotlist ───────────────────────────────────────────────────
@@ -131,9 +145,11 @@ const remotionBin = process.platform === 'win32'
 const propsPath = join(ROOT, 'out', `remotion-props-${edition}.json`);
 writeFileSync(propsPath, JSON.stringify({ edition, aspect, port: renderPort, mapboxToken: process.env.VITE_MAPBOX_TOKEN ?? '' }));
 
+// Use runAsync so the event loop stays live and the render server above
+// can accept Chromium's fetch requests during the render.
+let renderError = null;
 try {
-  // shell: true is required on Windows for .cmd files to run via execFileSync.
-  run('record', remotionBin, [
+  await runAsync('record', remotionBin, [
     'render',
     'Broadcast',
     `--props=${propsPath}`,
@@ -141,10 +157,17 @@ try {
     '--concurrency', '1',
     '--log', 'verbose',
   ], { shell: process.platform === 'win32' });
-} finally {
-  await closeRenderServer();
-  console.log('  Render server closed.');
-  try { unlinkSync(propsPath); } catch {}
+} catch (err) {
+  renderError = err;
+}
+
+await closeRenderServer();
+console.log('  Render server closed.');
+try { unlinkSync(propsPath); } catch {}
+
+if (renderError) {
+  console.error(`\n✗ ${renderError.message}`);
+  process.exit(renderError.status ?? 1);
 }
 
 if (!existsSync(rawPath)) {
