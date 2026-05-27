@@ -188,7 +188,7 @@ const remotionBin = process.platform === 'win32'
 // Pass props via a JSON file — inline --props JSON breaks on Windows CMD
 // because CMD strips the double quotes from the value.
 const propsPath = join(ROOT, 'out', `remotion-props-${edition}.json`);
-writeFileSync(propsPath, JSON.stringify({ edition, aspect, port: Number(port) }));
+writeFileSync(propsPath, JSON.stringify({ edition, aspect, port: Number(port), mapboxToken: process.env.VITE_MAPBOX_TOKEN ?? '' }));
 
 try {
   // shell: true is required on Windows for .cmd files to run via execFileSync.

@@ -6,6 +6,8 @@ Config.setPublicDir('./public');
 Config.setVideoImageFormat('jpeg');
 Config.setJpegQuality(95);
 Config.setConcurrency(1);
+// Mapbox GL requires WebGL; 'angle' is the most reliable renderer in headless Chrome on Windows.
+Config.setChromiumOpenGlRenderer('angle');
 
 // Inject VITE_MAPBOX_TOKEN into the webpack bundle so kernel.js can read
 // it via process.env.VITE_MAPBOX_TOKEN (import.meta.env is Vite-only).

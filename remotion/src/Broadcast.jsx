@@ -22,12 +22,12 @@ export async function calculateMetadata({ props }) {
   };
 }
 
-export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps: propFps = 30 }) {
+export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps: propFps = 30, mapboxToken = '' }) {
   const frame = useCurrentFrame();
   const { fps, durationInFrames } = useVideoConfig();
   const t = frame / fps;
 
-  const { mapContainer, mapRef, mapReady } = useRemotionMap();
+  const { mapContainer, mapRef, mapReady } = useRemotionMap({ mapboxToken });
 
   // Per-frame camera update: jumpTo computed position, delay Remotion
   // until Mapbox reports idle (all tiles rendered for this position).

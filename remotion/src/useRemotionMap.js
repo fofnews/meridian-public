@@ -11,7 +11,7 @@ import { createMap } from '../../src/map/kernel.js';
  * Callers drive the camera via mapRef.current.jumpTo() each frame,
  * wrapped in a delayRender/continueRender pair around map.once('idle').
  */
-export function useRemotionMap() {
+export function useRemotionMap({ mapboxToken = '' } = {}) {
   const mapContainer = useRef(null);
   const mapRef       = useRef(null);
   const [mapReady, setMapReady] = useState(false);
@@ -23,7 +23,7 @@ export function useRemotionMap() {
     const initHandle = delayRender('map init');
     let cancelled = false;
 
-    createMap(mapContainer.current, { isDark: true, broadcast: true }).then(({ map }) => {
+    createMap(mapContainer.current, { isDark: true, broadcast: true, mapboxToken: mapboxToken || undefined }).then(({ map }) => {
       if (cancelled) { map.remove(); return; }
       mapRef.current = map;
       // Wait for the map style to finish loading before declaring ready.
