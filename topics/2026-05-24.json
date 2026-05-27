@@ -1,0 +1,106 @@
+[
+  {
+    "label": "White House",
+    "count": 9,
+    "sources": 7,
+    "keywords": [
+      "white",
+      "house",
+      "secret",
+      "service",
+      "near",
+      "fire"
+    ]
+  },
+  {
+    "label": "Trump Iran",
+    "count": 8,
+    "sources": 6,
+    "keywords": [
+      "deal",
+      "iran",
+      "trump",
+      "largely",
+      "negotiated",
+      "strait"
+    ]
+  },
+  {
+    "label": "Kills Least",
+    "count": 7,
+    "sources": 6,
+    "keywords": [
+      "pakistan",
+      "least",
+      "train",
+      "kills",
+      "bombing",
+      "suicide"
+    ]
+  },
+  {
+    "label": "Russia Uses",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "russia",
+      "hypersonic",
+      "missile",
+      "oreshnik",
+      "attack",
+      "uses"
+    ]
+  },
+  {
+    "label": "Iran Deal",
+    "count": 5,
+    "sources": 4,
+    "keywords": [
+      "trump",
+      "iran",
+      "deal",
+      "rush",
+      "newsmax",
+      "details"
+    ]
+  },
+  {
+    "label": "Inconsistent Reality",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "trump",
+      "iran",
+      "deal",
+      "inconsistent",
+      "reality",
+      "potential"
+    ]
+  },
+  {
+    "label": "Peace Deal",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "peace",
+      "deal",
+      "iran",
+      "potential",
+      "oil",
+      "senate"
+    ]
+  },
+  {
+    "label": "Building Collapse",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "building",
+      "philippines",
+      "trapped",
+      "collapse",
+      "under",
+      "construction"
+    ]
+  }
+]

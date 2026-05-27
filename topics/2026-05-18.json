@@ -1,0 +1,106 @@
+[
+  {
+    "label": "Elon Musk",
+    "count": 15,
+    "sources": 11,
+    "keywords": [
+      "musk",
+      "against",
+      "openai",
+      "elon",
+      "lawsuit",
+      "sam"
+    ]
+  },
+  {
+    "label": "Active Shooter",
+    "count": 10,
+    "sources": 8,
+    "keywords": [
+      "active",
+      "shooter",
+      "san",
+      "diego",
+      "islamic",
+      "center"
+    ]
+  },
+  {
+    "label": "Lawsuit Against",
+    "count": 8,
+    "sources": 7,
+    "keywords": [
+      "trump",
+      "lawsuit",
+      "irs",
+      "against",
+      "billion",
+      "tax"
+    ]
+  },
+  {
+    "label": "San Diego",
+    "count": 11,
+    "sources": 6,
+    "keywords": [
+      "san",
+      "diego",
+      "islamic",
+      "center",
+      "shooting",
+      "dead"
+    ]
+  },
+  {
+    "label": "Ebola Outbreak",
+    "count": 8,
+    "sources": 6,
+    "keywords": [
+      "ebola",
+      "outbreak",
+      "emergency",
+      "uganda",
+      "global",
+      "congo"
+    ]
+  },
+  {
+    "label": "Cruise Ship",
+    "count": 8,
+    "sources": 6,
+    "keywords": [
+      "hantavirus",
+      "cruise",
+      "ship",
+      "netherlands",
+      "hit",
+      "arrives"
+    ]
+  },
+  {
+    "label": "Luigi Mangione",
+    "count": 7,
+    "sources": 6,
+    "keywords": [
+      "mangione",
+      "evidence",
+      "judge",
+      "luigi",
+      "gun",
+      "can"
+    ]
+  },
+  {
+    "label": "Mark Fuhrman",
+    "count": 7,
+    "sources": 6,
+    "keywords": [
+      "mark",
+      "fuhrman",
+      "simpson",
+      "detective",
+      "dead",
+      "trial"
+    ]
+  }
+]

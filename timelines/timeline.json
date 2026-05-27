@@ -339,7 +339,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-05-25",
+      "lastSeen": "2026-05-27",
       "active": true,
       "entries": [
         {
@@ -546,6 +546,11 @@
           "date": "2026-05-25",
           "edition": "morning",
           "update": "European leaders condemned Russia's hypersonic ballistic missile strike on Kyiv. Energy infrastructure was also damaged in a separate missile attack on Russia's Belgorod region, according to local authorities cited by Reuters."
+        },
+        {
+          "date": "2026-05-27",
+          "edition": "morning",
+          "update": "The EU is actively searching for potential mediators to help broker an end to the war in Ukraine following U.S. withdrawal from trilateral talks, according to BBC News. Ukraine used British-supplied Storm Shadow missiles in an attack on Sevastopol, according to the city's governor. The GCHQ Director is set to deliver a speech Wednesday warning that Russia is 'relentlessly targeting' critical infrastructure and democracy, outlining threats facing the UK and proposed countermeasures. UN Secretary-General Guterres expressed being 'deeply concerned' following Russia's announcement of plans to strike Kyiv."
         }
       ],
       "parentId": null
@@ -554,7 +559,7 @@
       "id": "sinaloa-cartel-violence",
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-05-06",
+      "lastSeen": "2026-05-27",
       "active": true,
       "entries": [
         {
@@ -616,6 +621,11 @@
           "date": "2026-05-06",
           "edition": "morning",
           "update": "U.S. drug czar Sara Carter issued a warning about medetomidine, a veterinary sedative known as a 'rhino tranquilizer,' appearing in the U.S. drug supply mixed with fentanyl and linked to American deaths, amid the administration's escalating cartel crackdown."
+        },
+        {
+          "date": "2026-05-27",
+          "edition": "morning",
+          "update": "Mexican military captured Isai 'N,' nephew of former Sinaloa cartel leader Joaquín 'El Chapo' Guzmán, during a security operation in Nogales, Sonora, near the U.S.-Mexico border. Mexican official Omar Hamid Garcia Harfuch confirmed the arrest and noted the suspect has an extradition order."
         }
       ],
       "parentId": null
@@ -674,7 +684,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-25",
+      "lastSeen": "2026-05-27",
       "active": true,
       "entries": [
         {
@@ -856,6 +866,11 @@
           "date": "2026-05-25",
           "edition": "evening",
           "update": "As U.S.-Iran negotiations advance, Israel vowed to continue striking what it describes as regional and nuclear threats, raising concerns among observers about potential Israeli interference in the peace process."
+        },
+        {
+          "date": "2026-05-27",
+          "edition": "morning",
+          "update": "Lebanon's Health Ministry reported that Israeli attacks have killed 3,213 people and injured 9,737 in Lebanon since March 2, according to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -864,7 +879,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-05-25",
+      "lastSeen": "2026-05-27",
       "active": true,
       "entries": [
         {
@@ -951,6 +966,11 @@
           "date": "2026-05-25",
           "edition": "morning",
           "update": "Separate reporting confirmed that Supreme Leader Khamenei himself — not only his son Mojtaba — is sheltering in an undisclosed location, with senior Iranian officials unaware of his whereabouts and relying on a courier network to communicate with him."
+        },
+        {
+          "date": "2026-05-27",
+          "edition": "morning",
+          "update": "Iran's negotiators operate under a mandate established by the Supreme National Security Council and approved by Supreme Leader Khamenei, according to Al Jazeera's breakdown of the country's decision-making structure."
         }
       ],
       "parentId": null
@@ -959,7 +979,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-05-25",
+      "lastSeen": "2026-05-27",
       "active": true,
       "entries": [
         {
@@ -1201,6 +1221,11 @@
           "date": "2026-05-25",
           "edition": "evening",
           "update": "Israeli Prime Minister Netanyahu announced Israel will intensify strikes against Hezbollah, with the Israeli military carrying out attacks on targets in eastern Lebanon. Israeli right-wing ministers separately urged Netanyahu to resume strikes on Beirut in response to Hezbollah drone attacks."
+        },
+        {
+          "date": "2026-05-27",
+          "edition": "morning",
+          "update": "Israel killed Mohammed Odeh, the newly appointed head of Hamas's armed wing, in a strike in Gaza on Tuesday; his predecessor had also been killed in an Israeli operation earlier in May. Israel carried out heavy airstrikes across southern Lebanon and expanded its ground operations beyond the designated security zone, killing at least 31 people. New footage showed widespread destruction in Maarakeh following the strikes. The Lebanon ceasefire showed signs of faltering as President Trump simultaneously pushed for a deal with Iran, according to the Washington Post."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1209,7 +1234,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-05-25",
+      "lastSeen": "2026-05-27",
       "active": true,
       "entries": [
         {
@@ -1721,6 +1746,11 @@
           "date": "2026-05-25",
           "edition": "evening",
           "update": "The war in Iran is posing a new threat to harvests in hunger-stricken Sudan, according to Reuters, compounding existing food security challenges in the country."
+        },
+        {
+          "date": "2026-05-27",
+          "edition": "morning",
+          "update": "The U.S. struck southern Iran late Monday, raising tensions between Washington and Tehran and putting an emerging peace plan at risk that would have opened the Strait of Hormuz and provided relief to rising oil and gas prices, according to The Hill."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2475,7 +2505,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-25",
+      "lastSeen": "2026-05-27",
       "active": true,
       "entries": [
         {
@@ -2575,7 +2605,7 @@
       "title": "US Military Operations Eastern Pacific",
       "parentId": null,
       "firstSeen": "2026-04-27",
-      "lastSeen": "2026-05-09",
+      "lastSeen": "2026-05-27",
       "active": true,
       "entries": [
         {
@@ -2592,6 +2622,11 @@
           "date": "2026-05-09",
           "edition": "morning",
           "update": "A U.S. military strike on an alleged drug-trafficking boat in the eastern Pacific Ocean killed two men, leaving one survivor. The strike is the latest in a series of such operations conducted by the military in the region."
+        },
+        {
+          "date": "2026-05-27",
+          "edition": "morning",
+          "update": "At least 193 people have been killed in the Trump administration's campaign of missile strikes on boats claimed to be trafficking drugs in Latin American waters. A recent U.S. strike on a boat in the Eastern Pacific killed one person while two others survived, according to SOUTHCOM."
         }
       ]
     },
@@ -2765,7 +2800,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-05-25",
+      "lastSeen": "2026-05-27",
       "active": true,
       "entries": [
         {
@@ -2817,6 +2852,11 @@
           "date": "2026-05-25",
           "edition": "evening",
           "update": "Maritime experts warned that even if a deal is reached to reopen the Strait of Hormuz, moving an estimated 1,500 backlogged ships stranded for nearly three months would be a complex and lengthy process."
+        },
+        {
+          "date": "2026-05-27",
+          "edition": "morning",
+          "update": "A tanker reported an external explosion off the coast of Oman, according to the United Kingdom Maritime Trade Operations (UKMTO), which confirmed the crew is safe."
         }
       ]
     },
@@ -2890,7 +2930,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-05-25",
+      "lastSeen": "2026-05-27",
       "active": true,
       "entries": [
         {
@@ -2947,6 +2987,11 @@
           "date": "2026-05-25",
           "edition": "evening",
           "update": "WHO Director-General Tedros stated suspected Ebola deaths have reached 220, warning the epidemic is 'outpacing' responders and that delays in case detection have left officials 'playing catch-up.' Uganda reported two new cases, bringing its total to seven. Police fired shots into the air to disperse angry crowds at a treatment centre in Congo as unrest over body recovery continued, with attacks on health facilities causing additional patients to flee and further hampering the response."
+        },
+        {
+          "date": "2026-05-27",
+          "edition": "morning",
+          "update": "Canada imposed a travel ban related to the Ebola outbreak, while the Bahamas announced plans to increase screening measures, according to Reuters. Communities in western Uganda, approximately 200 miles from the outbreak epicenter, are reporting significant economic anxiety as the crisis threatens the tourism industry sustaining livelihoods in areas like Katunguru near Queen Elizabeth National Park."
         }
       ]
     },
@@ -3020,16 +3065,21 @@
       "title": "Iran Nuclear Deal Negotiations and Regional Tensions",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-05-20",
-      "lastSeen": "2026-05-25",
+      "lastSeen": "2026-05-27",
       "active": true,
       "entries": [
         {
           "date": "2026-05-25",
           "edition": "evening",
           "update": "Trump declared Abraham Accords participation 'mandatory' for any country seeking involvement in a prospective Iran deal. Trump publicly attacked critics of the emerging agreement, calling Democratic opponents, RINOs, and others 'weak and ineffective fools.' The Wall Street Journal editorial board warned the administration against offering Iran an 'economic bailout,' cautioning that ceasefire terms 'may deliver a strategic setback' for the U.S. Israeli opposition leader Yair Lapid called the emerging framework 'a disaster.'"
+        },
+        {
+          "date": "2026-05-27",
+          "edition": "morning",
+          "update": "Fresh U.S. airstrikes on southern Iran on Monday cast doubt on the progress of ongoing negotiations, even as a fierce public relations battle over a potential deal continued. Trump's social media posts over the weekend created confusion regarding the status of the Iran negotiations, according to NBC News. Trump convened a Cabinet meeting Wednesday amid the ongoing negotiations and mounting criticism of the emerging deal. The EU launched a fertiliser plan in response to disruptions in the Strait of Hormuz stemming from the Iran war, citing growing food security concerns in Europe."
         }
       ]
     }
   ],
-  "updatedAt": "2026-05-25T21:06:27.076Z"
+  "updatedAt": "2026-05-27T11:07:05.672Z"
 }

@@ -1,0 +1,106 @@
+[
+  {
+    "label": "Coal Mine",
+    "count": 9,
+    "sources": 7,
+    "keywords": [
+      "coal",
+      "mine",
+      "explosion",
+      "china",
+      "least",
+      "kills"
+    ]
+  },
+  {
+    "label": "White House",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "white",
+      "house",
+      "shots",
+      "near",
+      "fired",
+      "secret"
+    ]
+  },
+  {
+    "label": "Kyle Busch",
+    "count": 7,
+    "sources": 5,
+    "keywords": [
+      "kyle",
+      "busch",
+      "death",
+      "cause",
+      "nascar",
+      "revealed"
+    ]
+  },
+  {
+    "label": "Kyle Busch",
+    "count": 7,
+    "sources": 5,
+    "keywords": [
+      "kyle",
+      "busch",
+      "family",
+      "severe",
+      "died",
+      "pneumonia"
+    ]
+  },
+  {
+    "label": "Largely Negotiated",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "trump",
+      "iran",
+      "largely",
+      "negotiated",
+      "strait",
+      "hormuz"
+    ]
+  },
+  {
+    "label": "White House",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "white",
+      "house",
+      "gunshots",
+      "heard",
+      "near",
+      "lawn"
+    ]
+  },
+  {
+    "label": "Magnitude Earthquake",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "magnitude",
+      "earthquake",
+      "hawaii",
+      "strikes",
+      "big",
+      "island"
+    ]
+  },
+  {
+    "label": "Largely Negotiated",
+    "count": 6,
+    "sources": 4,
+    "keywords": [
+      "trump",
+      "iran",
+      "getting",
+      "closer",
+      "agreement",
+      "deal"
+    ]
+  }
+]

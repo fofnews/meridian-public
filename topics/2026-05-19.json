@@ -1,0 +1,106 @@
+[
+  {
+    "label": "Texas Senate",
+    "count": 13,
+    "sources": 10,
+    "keywords": [
+      "trump",
+      "texas",
+      "senate",
+      "paxton",
+      "runoff",
+      "endorses"
+    ]
+  },
+  {
+    "label": "Georgia Gop",
+    "count": 8,
+    "sources": 7,
+    "keywords": [
+      "georgia",
+      "runoff",
+      "gop",
+      "senate",
+      "ossoff",
+      "primary"
+    ]
+  },
+  {
+    "label": "Andy Barr",
+    "count": 7,
+    "sources": 7,
+    "keywords": [
+      "barr",
+      "andy",
+      "primary",
+      "kentucky",
+      "senate",
+      "mcconnell"
+    ]
+  },
+  {
+    "label": "San Diego",
+    "count": 9,
+    "sources": 6,
+    "keywords": [
+      "san",
+      "diego",
+      "guard",
+      "shooting",
+      "security",
+      "killed"
+    ]
+  },
+  {
+    "label": "Trump Backs",
+    "count": 7,
+    "sources": 6,
+    "keywords": [
+      "trump",
+      "senate",
+      "paxton",
+      "texas",
+      "republican",
+      "gop"
+    ]
+  },
+  {
+    "label": "Thomas Massie",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "trump",
+      "massie",
+      "thomas",
+      "primary",
+      "backed",
+      "gallrein"
+    ]
+  },
+  {
+    "label": "Iran War",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "iran",
+      "war",
+      "cassidy",
+      "gop",
+      "powers",
+      "flips"
+    ]
+  },
+  {
+    "label": "Ebola Outbreak",
+    "count": 7,
+    "sources": 5,
+    "keywords": [
+      "ebola",
+      "outbreak",
+      "speed",
+      "scale",
+      "rise",
+      "chief"
+    ]
+  }
+]
