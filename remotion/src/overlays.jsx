@@ -236,7 +236,7 @@ function formatBroadcastTime(edition, t) {
 export function MapAttribution() {
   return (
     <div style={{
-      position: 'absolute', bottom: 168, left: 10, zIndex: 10,
+      position: 'absolute', bottom: 8, left: 10, zIndex: 10,
       color: 'rgba(240,235,224,0.30)', fontSize: 8,
       letterSpacing: 0.4, pointerEvents: 'none',
       fontFamily: 'Source Serif 4, serif',

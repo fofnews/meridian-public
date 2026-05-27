@@ -56,17 +56,14 @@ export async function createMap(container, { isDark, broadcast = false, mapboxTo
   // border layers silently lose their text because glyph requests 404.
   let style = styleUrl;
   if (base) {
-    try {
-      const res = await fetch(styleUrl);
-      if (res.ok) {
-        const styleJson = await res.json();
-        styleJson.glyphs = `${base}/fonts/{fontstack}/{range}.pbf`;
-        styleJson.sprite = styleJson.sprite?.startsWith('mapbox://')
-          ? styleJson.sprite   // keep mapbox:// sprites — resolved by mapbox-gl using the token
-          : `${base}${styleJson.sprite}`;
-        style = styleJson;
-      }
-    } catch {}
+    const res = await fetch(styleUrl);
+    if (!res.ok) throw new Error(`Style fetch failed: ${res.status} for ${styleUrl}`);
+    const styleJson = await res.json();
+    styleJson.glyphs = `${base}/fonts/{fontstack}/{range}.pbf`;
+    if (styleJson.sprite && !styleJson.sprite.startsWith('mapbox://')) {
+      styleJson.sprite = `${base}${styleJson.sprite}`;
+    }
+    style = styleJson;
   }
 
   const map = new mapboxgl.Map({

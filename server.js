@@ -428,6 +428,10 @@ app.get('/api/pipeline-status', (_req, res) => {
 
 // Broadcast video generation — local only, streams produce-clip.js output
 app.post('/api/broadcast/produce', (req, res) => {
+  const addr = req.socket.remoteAddress;
+  if (!['127.0.0.1', '::1', '::ffff:127.0.0.1'].includes(addr)) {
+    return res.status(403).json({ error: 'Forbidden' });
+  }
   const secret = process.env.ADMIN_SECRET;
   if (secret && req.headers['x-admin-secret'] !== secret) {
     return res.status(403).json({ error: 'Forbidden' });

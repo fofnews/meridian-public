@@ -8,7 +8,7 @@ export function RemotionRoot() {
       id="Broadcast"
       component={Broadcast}
       calculateMetadata={calculateMetadata}
-      defaultProps={{ edition: '', fps: 30, aspect: '16:9', port: 3002 }}
+      defaultProps={{ edition: null, fps: 30, aspect: '16:9', port: 3002 }}
       width={1920}
       height={1080}
       fps={30}
