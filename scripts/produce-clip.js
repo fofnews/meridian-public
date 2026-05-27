@@ -8,8 +8,10 @@
 //   3. remotion render  — frame-accurate render → out/raw/<edition>.mp4
 //   4. finalize-clip    — ffmpeg mux + per-platform encode → out/final/
 //
-// The Express dev server on :3002 is started automatically if not already
-// reachable, and stopped after recording.
+// Stage 3 starts an isolated render server on a free ephemeral port
+// (scripts/render-server.js) that serves the static assets Remotion needs.
+// This decouples the render from server.js on :3002, so cron restarts of
+// the dev/prod server cannot break an in-flight render.
 //
 // Usage:
 //   node scripts/produce-clip.js --edition=2026-04-30-evening
@@ -24,8 +26,8 @@
 import { existsSync, mkdirSync, writeFileSync, unlinkSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
-import { execFileSync, spawn } from 'child_process';
-import { createConnection } from 'net';
+import { execFileSync } from 'child_process';
+import { startRenderServer } from './render-server.js';
 
 const ROOT    = join(dirname(fileURLToPath(import.meta.url)), '..');
 const SCRIPTS = join(ROOT, 'scripts');
@@ -43,12 +45,11 @@ const maxDuration = args['max-duration'] ?? '90';
 const aspect      = args['aspect']       ?? '16:9';
 const platforms   = args['platforms']    ?? 'youtube,tiktok';
 const bed         = args['bed']          ?? null;
-const port        = args['port']         ?? '3002';
 const timings     = args['timings']      ?? null;
 
 if (!edition) {
   console.error('Usage: node scripts/produce-clip.js --edition=YYYY-MM-DD-{morning|evening}');
-  console.error('       Optional: --max-duration=30  --aspect=16:9  --platforms=youtube,tiktok  --bed=<path>  --port=3002');
+  console.error('       Optional: --max-duration=30  --aspect=16:9  --platforms=youtube,tiktok  --bed=<path>');
   process.exit(1);
 }
 
@@ -68,71 +69,6 @@ function run(stage, cmd, cmdArgs, opts = {}) {
   } catch (err) {
     console.error(`\n✗ Stage "${stage}" failed (exit ${err.status ?? 1})`);
     process.exit(err.status ?? 1);
-  }
-}
-
-// Probe TCP port — resolves true if connectable within timeoutMs.
-function tcpReachable(host, portNum, timeoutMs = 500) {
-  return new Promise(resolve => {
-    const sock = createConnection({ host, port: portNum });
-    const done = (val) => { sock.destroy(); resolve(val); };
-    sock.on('connect', () => done(true));
-    sock.on('error',   () => done(false));
-    setTimeout(() => done(false), timeoutMs);
-  });
-}
-
-// Poll until port is open, up to maxWaitMs.
-async function waitForPort(host, portNum, maxWaitMs = 15_000, interval = 300) {
-  const deadline = Date.now() + maxWaitMs;
-  while (Date.now() < deadline) {
-    if (await tcpReachable(host, portNum)) return true;
-    await new Promise(r => setTimeout(r, interval));
-  }
-  return false;
-}
-
-// ── Server management ─────────────────────────────────────────────────────────
-
-let serverProc = null;
-
-async function ensureServer() {
-  const portNum = Number(port);
-  if (await tcpReachable('localhost', portNum)) {
-    console.log(`  ✓ Express server already running on :${portNum}`);
-    return false; // caller should NOT shut it down
-  }
-
-  console.log(`  Starting Express server on :${portNum}…`);
-  serverProc = spawn('node', [join(ROOT, 'server.js')], {
-    stdio: ['ignore', 'pipe', 'pipe'],
-    env: { ...process.env, PORT: port },
-    detached: false,
-  });
-
-  serverProc.stdout.on('data', d => process.stdout.write(`  [server] ${d}`));
-  serverProc.stderr.on('data', d => process.stderr.write(`  [server] ${d}`));
-  serverProc.on('exit', (code) => {
-    if (code !== null && code !== 0) {
-      console.error(`  [server] exited with code ${code}`);
-    }
-  });
-
-  const ready = await waitForPort('localhost', portNum, 15_000);
-  if (!ready) {
-    console.error(`  ✗ Express server did not start within 15s on :${portNum}`);
-    serverProc.kill();
-    process.exit(1);
-  }
-  console.log(`  ✓ Express server ready on :${portNum}`);
-  return true; // caller owns it and should shut it down
-}
-
-function stopServer() {
-  if (serverProc && !serverProc.killed) {
-    serverProc.kill('SIGTERM');
-    serverProc = null;
-    console.log('  Express server stopped.');
   }
 }
 
@@ -173,9 +109,14 @@ run('synthesize-narration', 'node', [
 
 // ── Stage 3: remotion render ──────────────────────────────────────────────────
 
-banner('3 / 4', `remotion render  edition=${edition}  port=${port}`);
+banner('3 / 4', `remotion render  edition=${edition}`);
 
-const ownedServer = await ensureServer();
+// Start an isolated static server on a free ephemeral port. This serves the
+// three asset trees Remotion fetches (public/, out/shotlists/, out/audio/)
+// independently of server.js on :3002, so cron restarts of the dev server
+// cannot interrupt an in-flight render.
+const { port: renderPort, close: closeRenderServer } = await startRenderServer({ rootDir: ROOT });
+console.log(`  ✓ Render server listening on :${renderPort}`);
 
 const rawPath = join(ROOT, 'out', 'raw', `${edition}.mp4`);
 mkdirSync(join(ROOT, 'out', 'raw'), { recursive: true });
@@ -188,7 +129,7 @@ const remotionBin = process.platform === 'win32'
 // Pass props via a JSON file — inline --props JSON breaks on Windows CMD
 // because CMD strips the double quotes from the value.
 const propsPath = join(ROOT, 'out', `remotion-props-${edition}.json`);
-writeFileSync(propsPath, JSON.stringify({ edition, aspect, port: Number(port), mapboxToken: process.env.VITE_MAPBOX_TOKEN ?? '' }));
+writeFileSync(propsPath, JSON.stringify({ edition, aspect, port: renderPort, mapboxToken: process.env.VITE_MAPBOX_TOKEN ?? '' }));
 
 try {
   // shell: true is required on Windows for .cmd files to run via execFileSync.
@@ -201,7 +142,8 @@ try {
     '--log', 'verbose',
   ], { shell: process.platform === 'win32' });
 } finally {
-  if (ownedServer) stopServer();
+  await closeRenderServer();
+  console.log('  Render server closed.');
   try { unlinkSync(propsPath); } catch {}
 }
 

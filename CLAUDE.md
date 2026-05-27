@@ -14,7 +14,7 @@ The public-facing Meridian news site. Displays analysis reports, raw articles, t
 
 **Stack:** React 19, Vite (Rolldown), Tailwind CSS v4, Express (local dev only)
 **Deployment:** Vercel — static build (`dist/`) + serverless functions in `api/`
-**Local dev:** `npm run dev` (Vite client on :5173 + Express server on :3002)
+**Local dev:** `npm run dev` (Vite client on :5174 + Express server on :3002)
 
 ## Dual Server Architecture
 
@@ -88,9 +88,9 @@ scripts/
   verify-styles.js            — Asserts key properties on the generated style files
   build-shotlist.js           — Generates a shotlist JSON for a broadcast edition (item 14)
   synthesize-narration.js     — ElevenLabs narration synthesis pipeline (item 17)
-  record-clip.js              — Headless Playwright renderer: captures .webm from the broadcast page (item 16)
-  finalize-clip.js            — ffmpeg mux: combines .webm + narration audio → MP4 (item 18)
-  produce-clip.js             — End-to-end: edition ID → publishable MP4s + thumbnails (item 19)
+  render-server.js            — Ephemeral static server (free port) used by produce-clip.js during Remotion render; isolates the render from server.js restarts
+  finalize-clip.js            — ffmpeg mux + per-platform encode → out/final/ (item 18)
+  produce-clip.js             — End-to-end: edition ID → publishable MP4s + thumbnails (item 19); uses Remotion, not Playwright
 
 docs/
   map-broadcast-checklist.md  — Full broadcast pipeline phases 0–2 (19 items); authoritative reference for map/broadcast work

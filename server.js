@@ -62,19 +62,10 @@ app.post('/api/suggestions/:id/vote', (req, res) => {
   res.json(suggestion);
 });
 
-// Serve generated shotlists and per-shot audio for Remotion render.
-// CORS wildcard needed because Remotion's webpack server (localhost:3003) fetches
-// these from Chrome, which enforces same-origin policy.
-const outCors = (_req, res, next) => { res.setHeader('Access-Control-Allow-Origin', '*'); next(); };
-app.use('/out/shotlists', outCors, express.static(path.join(__dirname, 'out', 'shotlists')));
-app.use('/out/audio',     outCors, express.static(path.join(__dirname, 'out', 'audio')));
-
-// Serve public/ with CORS so Remotion's headless Chrome (localhost:3003) can fetch
-// map style files and other static assets. Must come before dist/ serving.
-const publicCors = (_req, res, next) => { res.setHeader('Access-Control-Allow-Origin', '*'); next(); };
-app.use(publicCors, express.static(path.join(__dirname, 'public')));
-
-// Serve the built React app
+// Serve static assets (favicon, map styles, fonts) then the built React app.
+// Remotion render now uses scripts/render-server.js on its own ephemeral port,
+// so no CORS headers are needed here.
+app.use(express.static(path.join(__dirname, 'public')));
 app.use(express.static(path.join(__dirname, 'dist')));
 
 // List available dates
