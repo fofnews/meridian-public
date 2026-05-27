@@ -52,8 +52,11 @@ app.post('/api/suggestions/:id/vote', (req, res) => {
 });
 
 // Serve generated shotlists and per-shot audio for Remotion render.
-app.use('/out/shotlists', express.static(path.join(__dirname, 'out', 'shotlists')));
-app.use('/out/audio', express.static(path.join(__dirname, 'out', 'audio')));
+// CORS wildcard needed because Remotion's webpack server (localhost:3003) fetches
+// these from Chrome, which enforces same-origin policy.
+const outCors = (_req, res, next) => { res.setHeader('Access-Control-Allow-Origin', '*'); next(); };
+app.use('/out/shotlists', outCors, express.static(path.join(__dirname, 'out', 'shotlists')));
+app.use('/out/audio',     outCors, express.static(path.join(__dirname, 'out', 'audio')));
 
 // Serve the built React app
 app.use(express.static(path.join(__dirname, 'dist')));
