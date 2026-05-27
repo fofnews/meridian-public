@@ -2,6 +2,7 @@ import express from 'express';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { spawn } from 'child_process';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -413,6 +414,36 @@ app.get('/api/pipeline-status', (_req, res) => {
   const healthy = (articles?.staleMins ?? Infinity) <= 30;
 
   res.json({ checkedAt: now.toISOString(), healthy, articles, reports, timelines });
+});
+
+// Broadcast video generation — local only, streams produce-clip.js output
+app.post('/api/broadcast/produce', (req, res) => {
+  const secret = process.env.ADMIN_SECRET;
+  if (!secret || req.headers['x-admin-secret'] !== secret) {
+    return res.status(403).json({ error: 'Forbidden' });
+  }
+
+  const { edition, aspect = '16:9' } = req.body;
+  if (!edition || typeof edition !== 'string' || !/^[\w-]+$/.test(edition)) {
+    return res.status(400).json({ error: 'Invalid edition' });
+  }
+
+  res.setHeader('Content-Type', 'text/plain; charset=utf-8');
+  res.setHeader('Transfer-Encoding', 'chunked');
+  res.setHeader('Cache-Control', 'no-cache');
+  res.flushHeaders();
+
+  const child = spawn(
+    'node',
+    ['scripts/produce-clip.js', `--edition=${edition}`, `--aspect=${aspect}`],
+    { cwd: __dirname, env: { ...process.env } }
+  );
+
+  child.stdout.on('data', chunk => res.write(chunk));
+  child.stderr.on('data', chunk => res.write(chunk));
+  child.on('close', code => { res.write(`\n[exited with code ${code}]\n`); res.end(); });
+  child.on('error', err => { res.write(`\n[spawn error: ${err.message}]\n`); res.end(); });
+  req.on('close', () => child.kill());
 });
 
 // SPA fallback

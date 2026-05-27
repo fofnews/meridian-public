@@ -4,6 +4,7 @@ import MapHero from './components/MapHero';
 import DateNav from './components/DateNav';
 import StoryCard from './components/StoryCard';
 import SuggestionBox from './components/SuggestionBox';
+import BroadcastPanel from './components/BroadcastPanel';
 import ArticlesView from './components/ArticlesView';
 import TimelineView from './components/TimelineView';
 import ErrorBoundary from './components/ErrorBoundary';
@@ -19,7 +20,8 @@ export default function App() {
   const [error, setError] = useState(null);
   const [expandedStory, setExpandedStory] = useState(null);
   const [featuredIdx, setFeaturedIdx] = useState(0);
-  const [view, setView] = useState('analysis'); // 'analysis' | 'articles' | 'timeline'
+  const [view, setView] = useState('analysis'); // 'analysis' | 'articles' | 'timeline' | 'broadcast'
+  const adminSecret = new URLSearchParams(window.location.search).get('admin') ?? '';
   const [showScrollTop, setShowScrollTop] = useState(false);
   const scrollAnchor = useRef(null);
 
@@ -181,7 +183,7 @@ export default function App() {
       {/* View tabs */}
       <div style={{ borderBottom: '1px solid var(--border-primary)', background: 'var(--bg-tabbar)' }}>
         <div className="max-w-5xl mx-auto px-4 flex gap-0 overflow-x-auto" style={{ scrollbarWidth: 'none' }}>
-          {[['analysis', 'Analysis'], ['articles', 'Articles'], ['timeline', 'Timeline']].map(([v, label]) => (
+          {[['analysis', 'Analysis'], ['articles', 'Articles'], ['timeline', 'Timeline'], ...(adminSecret ? [['broadcast', 'Broadcast']] : [])].map(([v, label]) => (
             <button
               key={v}
               onClick={() => setView(v)}
@@ -206,6 +208,13 @@ export default function App() {
           <ErrorBoundary label="the timeline">
             <TimelineView />
           </ErrorBoundary>
+        )}
+
+        {view === 'broadcast' && adminSecret && (
+          <BroadcastPanel
+            currentEdition={selectedDate && selectedEdition && selectedEdition !== 'articles-only' ? `${selectedDate}-${selectedEdition}` : ''}
+            adminSecret={adminSecret}
+          />
         )}
 
         {view === 'articles' && selectedDate && (
