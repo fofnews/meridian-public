@@ -54,6 +54,8 @@ export default function BroadcastPanel({ currentEdition = '', adminSecret = '' }
   const btnColor = status === 'done' ? 'var(--section-agree-accent)' : status === 'error' ? '#e87547' : 'var(--accent-text)';
   const btnBorder = status === 'done' ? '1px solid var(--border-agree)' : status === 'error' ? '1px solid #e87547' : 'none';
 
+  const isLocal = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+
   return (
     <div>
       <div className="flex items-center gap-4 mb-8">
@@ -65,6 +67,11 @@ export default function BroadcastPanel({ currentEdition = '', adminSecret = '' }
 
       <div className="rounded-xl overflow-hidden" style={{ border: '1px solid var(--border-primary)', background: 'var(--bg-secondary)' }}>
         <div className="px-5 py-4">
+          {!isLocal && (
+            <p className="text-xs mb-4 px-3 py-3 rounded-lg" style={{ color: '#e87547', background: 'rgba(232,117,71,0.08)', border: '1px solid rgba(232,117,71,0.25)' }}>
+              Video generation is only available when running locally. Open this page at <strong>localhost:5173</strong> (or :3002) to use this panel.
+            </p>
+          )}
           <p className="text-xs mb-4" style={{ color: 'var(--text-muted)' }}>
             Generate a broadcast video from a report edition. Runs the full pipeline: shotlist → narration → Remotion render → finalize.
           </p>
@@ -87,15 +94,15 @@ export default function BroadcastPanel({ currentEdition = '', adminSecret = '' }
             />
             <button
               onClick={generate}
-              disabled={!edition.trim() || isRunning}
+              disabled={!edition.trim() || isRunning || !isLocal}
               className="px-4 py-2 rounded-lg text-xs font-semibold uppercase tracking-widest shrink-0"
               style={{
                 background: btnBg,
                 color: btnColor,
                 border: btnBorder,
                 letterSpacing: '2px',
-                cursor: !edition.trim() || isRunning ? 'default' : 'pointer',
-                opacity: !edition.trim() || isRunning ? 0.5 : 1,
+                cursor: !edition.trim() || isRunning || !isLocal ? 'default' : 'pointer',
+                opacity: !edition.trim() || isRunning || !isLocal ? 0.5 : 1,
               }}
             >
               {btnLabel}
