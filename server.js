@@ -360,6 +360,61 @@ app.get('/api/topics/:date', (req, res) => {
   }
 });
 
+// Pipeline health: last article collectedAt, last report fetchedAt, timelines updatedAt
+app.get('/api/pipeline-status', (_req, res) => {
+  res.setHeader('Cache-Control', 'no-store');
+  const now = new Date();
+
+  let articles = null;
+  try {
+    const files = fs.readdirSync(ARTICLES_DIR)
+      .filter(f => /^\d{4}-\d{2}-\d{2}\.json$/.test(f))
+      .sort();
+    if (files.length > 0) {
+      const latestFile = files[files.length - 1];
+      const latestDate = latestFile.replace('.json', '');
+      const raw = JSON.parse(fs.readFileSync(path.join(ARTICLES_DIR, latestFile), 'utf8'));
+      const lastArticle = Array.isArray(raw) ? raw[raw.length - 1] : null;
+      const lastCollectedAt = lastArticle?.collectedAt ?? null;
+      const staleMins = lastCollectedAt
+        ? Math.round((now - new Date(lastCollectedAt)) / 60000)
+        : null;
+      articles = { latestDate, lastCollectedAt, staleMins, count: Array.isArray(raw) ? raw.length : null };
+    }
+  } catch { /* non-fatal */ }
+
+  let reports = null;
+  try {
+    const files = fs.readdirSync(REPORTS_DIR)
+      .filter(f => /^\d{4}-\d{2}-\d{2}(-\w+)?\.json$/.test(f))
+      .sort();
+    if (files.length > 0) {
+      const latestFile = files[files.length - 1];
+      const latest = latestFile.replace('.json', '');
+      const raw = JSON.parse(fs.readFileSync(path.join(REPORTS_DIR, latestFile), 'utf8'));
+      const fetchedAt = raw.fetchedAt ?? null;
+      const staleMins = fetchedAt
+        ? Math.round((now - new Date(fetchedAt)) / 60000)
+        : null;
+      reports = { latest, fetchedAt, staleMins };
+    }
+  } catch { /* non-fatal */ }
+
+  let timelines = null;
+  try {
+    const raw = JSON.parse(fs.readFileSync(path.join(TIMELINES_DIR, 'timeline.json'), 'utf8'));
+    const updatedAt = raw.updatedAt ?? null;
+    const staleMins = updatedAt
+      ? Math.round((now - new Date(updatedAt)) / 60000)
+      : null;
+    timelines = { updatedAt, staleMins };
+  } catch { /* non-fatal */ }
+
+  const healthy = (articles?.staleMins ?? Infinity) <= 30;
+
+  res.json({ checkedAt: now.toISOString(), healthy, articles, reports, timelines });
+});
+
 // SPA fallback
 app.get('*path', (_req, res) => {
   res.sendFile(path.join(__dirname, 'dist', 'index.html'));
