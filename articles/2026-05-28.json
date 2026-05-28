@@ -226,5 +226,61 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-05-28T05:30:02.612Z"
+  },
+  {
+    "title": "Ex-CIA official charged with stealing millions of dollars in gold bars",
+    "description": "A former senior CIA official with top secret-level clearance is accused of stealing hundreds of gold bars worth more than $40 million from the federal government and stashing them in his home.",
+    "link": "https://www.npr.org/2026/05/28/nx-s1-5837160/ex-cia-official-stealing-gold-bars",
+    "pubDate": "Thu, 28 May 2026 01:38:46 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-05-28T05:45:01.840Z"
+  },
+  {
+    "title": "Dodgers' Shohei Ohtani Needs One Game to Achieve MLB Career First",
+    "description": "Shohei Ohtani's dominant two-way season peaked when he hit a leadoff home run and didn't allow a hit for six innings on the mound.",
+    "link": "https://www.newsweek.com/sports/mlb/dodgers-shohei-ohtani-needs-one-game-to-achieve-mlb-career-first-12001674",
+    "pubDate": "Thu, 28 May 2026 01:42:34 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-28T05:45:01.840Z"
+  },
+  {
+    "title": "Ebola outbreak: What travel restrictions have countries imposed?",
+    "description": "Canada, the Bahamas and the US are banning arrivals from affected countries to prevent the spread of the rare strain.",
+    "link": "https://www.aljazeera.com/news/2026/5/28/ebola-outbreak-what-travel-restrictions-have-countries-imposed?traffic_source=rss",
+    "pubDate": "Thu, 28 May 2026 05:25:58 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-28T05:45:01.840Z"
+  },
+  {
+    "title": "Texas news anchor under fire for bizarre ‘Death to America’ joke over BTS-themed Oreos on live TV",
+    "description": "“You need to train your news anchor better after you [have] fired this one.\"",
+    "link": "https://nypost.com/2026/05/28/media/texas-news-anchor-james-eppler-under-fire-for-bizarre-death-to-america-joke-over-bts-themed-oreos-on-live-tv/",
+    "pubDate": "Thu, 28 May 2026 01:36:19 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-28T05:45:01.840Z"
+  },
+  {
+    "title": "Three ‘narco-terrorists’ killed in two separate ‘lethal kinetic strikes’ on drug boats",
+    "description": "The United States military conducted two separate “lethal kinetic strikes” this week on two boats suspected of drug trafficking in the eastern Pacific Ocean. The strikes were the latest efforts of Operation Southern Spear and occurred on May 26 and May 27. Three “narco-terrorists” were reportedly killed during the incidents, according to a press release […]",
+    "link": "https://www.washingtonexaminer.com/news/4584886/three-narco-terrorists-killed-in-two-separate-lethal-kinetic-strikes-on-drug-boats/",
+    "pubDate": "Thu, 28 May 2026 05:32:39 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "department of defense (department of war)",
+      "drug cartels",
+      "drug trafficking",
+      "drugs",
+      "military",
+      "pacific ocean",
+      "trump administration"
+    ],
+    "collectedAt": "2026-05-28T05:45:01.840Z"
   }
 ]
