@@ -1260,7 +1260,7 @@
         {
           "date": "2026-05-28",
           "edition": "evening",
-          "update": "Israel carried out a targeted strike on Beirut, marking a significant escalation as the Lebanese capital had largely been spared from direct attacks during the current phase of the conflict. Hezbollah has shifted to using fibre-optic drones as its primary weapon against Israeli forces and civilians, a tactic adapted from the war in Ukraine, according to BBC News."
+          "update": "Israel carried out a targeted strike on Beirut, marking a significant escalation as the Lebanese capital had largely been spared from direct strikes despite ongoing hostilities. Hezbollah has shifted to using fibre-optic drones as its primary weapon against Israeli forces and civilians, a tactic adapted from Ukrainian warfare, according to BBC News."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1800,7 +1800,7 @@
         {
           "date": "2026-05-28",
           "edition": "evening",
-          "update": "On Thursday, Treasury Secretary Scott Bessent announced sanctions against Iran's newly formed Persian Gulf Strait Authority (PGSA), which the U.S. described as an IRGC attempt to monetize and control the Strait of Hormuz. The U.S. also warned Oman not to facilitate Iran's proposed tolling system over the strait, with President Trump telling Oman to 'behave' during a Cabinet meeting; Iran's Foreign Ministry subsequently pledged support for Oman against U.S. threats. Iran fired a ballistic missile toward Kuwait at 10:17 p.m. ET on Wednesday, which was successfully intercepted by Kuwaiti forces; U.S. Central Command described the launch as an 'egregious ceasefire violation.' Despite the ongoing exchanges, U.S. and Iranian negotiators reached a 60-day ceasefire extension structured as a memorandum of understanding, which also includes provisions for reopening the Strait of Hormuz and launching substantive nuclear negotiations, though President Trump had not yet given final approval as of reporting, per Axios."
+          "update": "U.S. and Iranian negotiators reached a tentative memorandum of understanding, first reported by Axios, proposing a 60-day ceasefire extension, reopening of the Strait of Hormuz, and the start of substantive nuclear program negotiations, pending final approval from President Trump. Treasury Secretary Scott Bessent announced sanctions against Iran's Persian Gulf Strait Authority and warned against paying tolls in the Strait of Hormuz, with his announcements made on Thursday. President Trump threatened to bomb Oman during a Cabinet meeting over its role in Strait of Hormuz negotiations, prompting Iran's Foreign Ministry to pledge support for Oman against U.S. threats. Iran fired a ballistic missile at Kuwait at 10:17 p.m. ET on May 27, which was successfully intercepted by Kuwaiti forces; U.S. Central Command called it an 'egregious ceasefire violation.' The Iran conflict drove the April PCE index to a 3.8 percent year-over-year rise, the largest since May 2023, with energy prices identified as a leading inflationary factor. Iranian authorities have arbitrarily arrested at least 6,000 people since February 28, including journalists, lawyers, and human rights defenders, amid a crackdown following the U.S.-Israel conflict with Iran, according to a human rights report cited by the Washington Examiner."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2260,7 +2260,7 @@
         {
           "date": "2026-05-28",
           "edition": "evening",
-          "update": "A Russian tanker that had appeared to be heading to Cuba with fuel changed course and redirected away from the island, dealing a further setback to Cuba's fuel supply amid the ongoing U.S. oil blockade, according to the NY Times."
+          "update": "A Russian tanker that appeared to be heading to Cuba with fuel supplies changed course, denying the island a critical energy shipment as it continues to face a U.S. oil blockade, according to the NY Times."
         }
       ],
       "parentId": null
@@ -2751,7 +2751,7 @@
         {
           "date": "2026-05-28",
           "edition": "evening",
-          "update": "The 21-year-old Austrian defendant was convicted and sentenced to 15 years in prison after admitting to plotting the attack on the Taylor Swift concert in Vienna, along with other terrorism-related offences."
+          "update": "The 21-year-old Austrian defendant was convicted and sentenced to 15 years in prison after admitting to plotting the attack on the Taylor Swift Vienna concert along with other terrorism-related offences."
         }
       ]
     },
@@ -2841,7 +2841,7 @@
         {
           "date": "2026-05-28",
           "edition": "evening",
-          "update": "The Trump administration is reportedly accelerating plans aimed at triggering the collapse of the Cuban government, according to Newsmax, though specific details of the strategy were not disclosed."
+          "update": "The Trump administration is reportedly accelerating plans aimed at engineering the collapse of the Cuban government, according to Newsmax, though specific details of the strategy were not disclosed."
         }
       ]
     },
@@ -2942,6 +2942,11 @@
           "date": "2026-05-28",
           "edition": "morning",
           "update": "President Trump threatened serious repercussions if Iran and Oman proceeded with a deal to open the Strait of Hormuz, before adding 'They'll be fine,' according to the NY Times."
+        },
+        {
+          "date": "2026-05-28",
+          "edition": "evening",
+          "update": "The U.S. Treasury Department sanctioned Iran's Persian Gulf Strait Authority (PGSA), a newly formed Iranian government agency, describing it as an IRGC attempt to control and monetize passage through the Strait of Hormuz."
         }
       ]
     },
@@ -2981,7 +2986,7 @@
         {
           "date": "2026-05-28",
           "edition": "evening",
-          "update": "Luis Raúl González-Pardo Rodríguez, the Cuban pilot named as a defendant in the federal indictment alongside Raúl Castro, has been sentenced for providing false information to U.S. immigration authorities during his application for permanent residency."
+          "update": "Luis Raúl González-Pardo Rodríguez, the Cuban pilot named as a defendant in the Raúl Castro indictment, was sentenced for providing false information to U.S. immigration authorities during his application for permanent residency."
         }
       ]
     },
@@ -3096,7 +3101,7 @@
         {
           "date": "2026-05-28",
           "edition": "evening",
-          "update": "Doctors on the front lines in eastern DRC told ABC News the outbreak remains 'out of control' and continues to spread at an alarming rate. The U.S., Mexico, and Canada announced Ebola-related public health travel measures ahead of the FIFA World Cup, which all three nations are hosting."
+          "update": "Doctors at the Ebola outbreak epicenter in eastern DRC told ABC News the virus remains 'out of control' and is still spreading at an alarming rate. The U.S., Mexico, and Canada announced Ebola-related travel measures ahead of the FIFA World Cup, which the three nations are jointly hosting beginning in June."
         }
       ]
     },
@@ -3191,5 +3196,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-28T21:10:22.961Z"
+  "updatedAt": "2026-05-28T21:10:47.093Z"
 }
