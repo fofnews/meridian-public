@@ -1256,6 +1256,11 @@
           "date": "2026-05-28",
           "edition": "morning",
           "update": "The Lebanese Health Ministry reported that Israeli attacks have killed 3,269 people in Lebanon since March 2. Israel's military issued an evacuation order designating all areas south of the Zahrani River as 'combat zones,' representing a mass forced displacement order for all of south Lebanon."
+        },
+        {
+          "date": "2026-05-28",
+          "edition": "evening",
+          "update": "Israel carried out a targeted strike on Beirut, marking a significant escalation as the Lebanese capital had largely been spared from direct attacks during the current phase of the conflict. Hezbollah has shifted to using fibre-optic drones as its primary weapon against Israeli forces and civilians, a tactic adapted from the war in Ukraine, according to BBC News."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1791,6 +1796,11 @@
           "date": "2026-05-28",
           "edition": "morning",
           "update": "On Wednesday, the U.S. military conducted new strikes on an Iranian military site near Bandar Abbas, characterizing the operations as self-defense against a site assessed as posing a direct threat to U.S. forces and commercial shipping in the Strait of Hormuz. The U.S. also shot down four incoming Iranian drones; Iran's IRGC subsequently claimed it targeted a U.S. base in retaliation, though it did not specify which base. The Wednesday strikes marked at least the second U.S. military action against Iran within the same week, with the fragile ceasefire reported by Reuters to be unraveling. Oil prices for WTI and Brent crude front-month contracts rose following the exchanges, while markets had earlier rallied on hopes of a deal to reopen the Strait of Hormuz. President Trump dismissed suggestions that upcoming midterm elections were pressuring him toward a deal, stating 'I don't care about the midterms' and saying high oil prices would not force his hand. Trump visited Walter Reed military hospital but did not meet with the 14 soldiers injured in Operation Epic Fury who are still recovering there, according to CBS News."
+        },
+        {
+          "date": "2026-05-28",
+          "edition": "evening",
+          "update": "On Thursday, Treasury Secretary Scott Bessent announced sanctions against Iran's newly formed Persian Gulf Strait Authority (PGSA), which the U.S. described as an IRGC attempt to monetize and control the Strait of Hormuz. The U.S. also warned Oman not to facilitate Iran's proposed tolling system over the strait, with President Trump telling Oman to 'behave' during a Cabinet meeting; Iran's Foreign Ministry subsequently pledged support for Oman against U.S. threats. Iran fired a ballistic missile toward Kuwait at 10:17 p.m. ET on Wednesday, which was successfully intercepted by Kuwaiti forces; U.S. Central Command described the launch as an 'egregious ceasefire violation.' Despite the ongoing exchanges, U.S. and Iranian negotiators reached a 60-day ceasefire extension structured as a memorandum of understanding, which also includes provisions for reopening the Strait of Hormuz and launching substantive nuclear negotiations, though President Trump had not yet given final approval as of reporting, per Axios."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2079,7 +2089,7 @@
       "id": "cuba-energy-crisis",
       "title": "Cuba Energy Crisis",
       "firstSeen": "2026-03-16",
-      "lastSeen": "2026-05-25",
+      "lastSeen": "2026-05-28",
       "active": true,
       "entries": [
         {
@@ -2246,6 +2256,11 @@
           "date": "2026-05-25",
           "edition": "morning",
           "update": "Residents of Santiago de Cuba, including those in high-rise apartment buildings, have resorted to cooking with charcoal and wood fires due to severe shortages of cooking gas, according to the NY Times."
+        },
+        {
+          "date": "2026-05-28",
+          "edition": "evening",
+          "update": "A Russian tanker that had appeared to be heading to Cuba with fuel changed course and redirected away from the island, dealing a further setback to Cuba's fuel supply amid the ongoing U.S. oil blockade, according to the NY Times."
         }
       ],
       "parentId": null
@@ -2732,6 +2747,11 @@
           "date": "2026-05-28",
           "edition": "morning",
           "update": "The Austrian trial over the foiled Taylor Swift concert attack plot has entered its final day, according to Reuters."
+        },
+        {
+          "date": "2026-05-28",
+          "edition": "evening",
+          "update": "The 21-year-old Austrian defendant was convicted and sentenced to 15 years in prison after admitting to plotting the attack on the Taylor Swift concert in Vienna, along with other terrorism-related offences."
         }
       ]
     },
@@ -2790,7 +2810,7 @@
       "title": "US Military Intervention in Cuba",
       "parentId": null,
       "firstSeen": "2026-05-02",
-      "lastSeen": "2026-05-23",
+      "lastSeen": "2026-05-28",
       "active": true,
       "entries": [
         {
@@ -2817,6 +2837,11 @@
           "date": "2026-05-23",
           "edition": "evening",
           "update": "Sen. Lindsey Graham declared that 'the liberation of the wonderful people of Cuba from the clutches of communism is close at hand,' backing White House threats of potential military action against the island."
+        },
+        {
+          "date": "2026-05-28",
+          "edition": "evening",
+          "update": "The Trump administration is reportedly accelerating plans aimed at triggering the collapse of the Cuban government, according to Newsmax, though specific details of the strategy were not disclosed."
         }
       ]
     },
@@ -2925,7 +2950,7 @@
       "title": "Raúl Castro Indictment for 1996 Plane Downing",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-05-23",
+      "lastSeen": "2026-05-28",
       "active": true,
       "entries": [
         {
@@ -2952,6 +2977,11 @@
           "date": "2026-05-23",
           "edition": "morning",
           "update": "Mexican President Claudia Sheinbaum publicly protested the U.S. indictment of Raúl Castro at a Friday press conference, arguing the 1996 incident occurred too long ago to warrant charges."
+        },
+        {
+          "date": "2026-05-28",
+          "edition": "evening",
+          "update": "Luis Raúl González-Pardo Rodríguez, the Cuban pilot named as a defendant in the federal indictment alongside Raúl Castro, has been sentenced for providing false information to U.S. immigration authorities during his application for permanent residency."
         }
       ]
     },
@@ -3062,6 +3092,11 @@
           "date": "2026-05-28",
           "edition": "morning",
           "update": "The Trump administration announced plans to quarantine Americans exposed to Ebola at a new treatment facility being constructed in Kenya, with public health service officers preparing for rapid deployment to staff the site. The Department of Homeland Security confirmed that JFK International Airport has been added to the limited list of U.S. entry points designated for travelers from Ebola-affected nations, joining existing screening sites at major U.S. cities."
+        },
+        {
+          "date": "2026-05-28",
+          "edition": "evening",
+          "update": "Doctors on the front lines in eastern DRC told ABC News the outbreak remains 'out of control' and continues to spread at an alarming rate. The U.S., Mexico, and Canada announced Ebola-related public health travel measures ahead of the FIFA World Cup, which all three nations are hosting."
         }
       ]
     },
@@ -3156,5 +3191,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-28T11:07:30.546Z"
+  "updatedAt": "2026-05-28T21:10:22.961Z"
 }
