@@ -903,5 +903,111 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-28T09:15:01.366Z"
+  },
+  {
+    "title": "Is AI to blame for hiring woes faced by college graduates?",
+    "description": "Analysts disagree about whether AI is a factor in the hiring crunch.",
+    "link": "https://abcnews.com/Business/ai-blame-hiring-woes-faced-college-graduates/story?id=133309225",
+    "pubDate": "Thu, 28 May 2026 05:27:30 -0400",
+    "source": "ABC News",
+    "categories": [
+      "business"
+    ],
+    "collectedAt": "2026-05-28T09:30:02.028Z"
+  },
+  {
+    "title": "Buffalo named ‘Donald Trump’ for its blond comb-over is spared Eid sacrifice",
+    "description": "There’s the distinctive blond tuft, combed over.",
+    "link": "https://www.nbcnews.com/world/asia/buffalo-named-donald-trump-spared-eid-sacrifice-bangladesh-rcna347280",
+    "pubDate": "Thu, 28 May 2026 09:16:37 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-05-28T09:30:02.028Z"
+  },
+  {
+    "title": "Four stabbed by knifeman shouting ‘Allahu Akbar’ at Switzerland train station in front of terrified children",
+    "description": "Eyewitnesses said a group of school children had passed the knife-wielding man, as the teacher stepped in to protect the defenseless minors.",
+    "link": "https://nypost.com/2026/05/28/world-news/four-stabbed-by-knifeman-shouting-allahu-akbar-at-switzerland-train-station-in-front-of-terrified-children/",
+    "pubDate": "Thu, 28 May 2026 05:17:21 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-28T09:30:02.028Z"
+  },
+  {
+    "title": "US denies reports of evacuating US Embassy in Kyiv amid threats of Russian airstrikes",
+    "description": "Officials from the United States Embassy in Kyiv, Ukraine, disputed reports of abandonment on Thursday amid threats of Russian airstrikes in the country’s capital city. The denial comes in response to comments by Kaja Kallas, the European Union’s high representative for foreign affairs and security policy, who claimed the U.S. had evacuated the Embassy. She […]",
+    "link": "https://www.washingtonexaminer.com/news/4584903/us-denies-reports-of-evacuating-us-embassy-in-kyiv-amid-threats-of-russian-airstrikes/",
+    "pubDate": "Thu, 28 May 2026 09:16:45 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "world",
+      "foreign affairs",
+      "kyiv",
+      "marco rubio",
+      "russia",
+      "russia-ukraine war",
+      "ukraine"
+    ],
+    "collectedAt": "2026-05-28T09:30:02.028Z"
+  },
+  {
+    "title": "BlackRock and other firms ‘weaponized’ retirement portfolios to push ESG, watchdog says",
+    "description": "EXCLUSIVE — Three of the world’s largest asset management firms have used retirement shares as leverage in corporate political fights to push environmental, social, and governance investing goals on Wall Street, a free market watchdog is claiming. BlackRock, Vanguard, and State Street have effectively turned clients’ retirement accounts into pro-ESG voting power, according to a […]",
+    "link": "https://www.washingtonexaminer.com/news/investigations/4581940/blackrock-retirement-portfolios-esg-push/",
+    "pubDate": "Thu, 28 May 2026 09:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "finance and economy",
+      "investigations",
+      "blackrock",
+      "dei",
+      "esg",
+      "investment",
+      "wall street"
+    ],
+    "collectedAt": "2026-05-28T09:30:02.028Z"
+  },
+  {
+    "title": "Ukrainian veterans are returning injured, broken, and angry. How can the government help them survive?",
+    "description": "LVIV, UKRAINE — Andriy Zholob, the deputy mayor of Lviv for Veterans Affairs, understood there was, unmistakably, a mental health crisis brewing among Ukrainian veterans after one disquieting phone call. Zholob recounted to the Washington Examiner the moment when a former comrade in arms called him to say his car had been towed away. The veteran, […]",
+    "link": "https://www.washingtonexaminer.com/news/world/4584032/ukraine-veterans-return-injured-angry-how-government-help/",
+    "pubDate": "Thu, 28 May 2026 09:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "foreign policy",
+      "infrastructure",
+      "world",
+      "drones",
+      "health",
+      "mental health",
+      "recovery",
+      "russia",
+      "russia-ukraine war",
+      "ukraine",
+      "veterans",
+      "veterans affairs",
+      "war"
+    ],
+    "collectedAt": "2026-05-28T09:30:02.028Z"
+  },
+  {
+    "title": "What big 2026 races could Trump wade into next?",
+    "description": "President Donald Trump‘s endorsement has become the closest thing Republicans have to a political death sentence — or a golden ticket. This cycle, Trump has ousted Sens. Bill Cassidy (R-LA) and John Cornyn (R-TX), as well as Rep. Thomas Massie (R-KY), after endorsing their primary challengers. So far, nearly all of the Republicans that Trump […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4584367/big-2026-races-trump-could-wade-into-next/",
+    "pubDate": "Thu, 28 May 2026 09:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "congressional",
+      "state",
+      "2026 elections",
+      "donald trump",
+      "endorsements",
+      "georgia",
+      "los angeles",
+      "michigan",
+      "south carolina"
+    ],
+    "collectedAt": "2026-05-28T09:30:02.028Z"
   }
 ]
