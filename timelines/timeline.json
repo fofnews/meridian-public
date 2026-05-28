@@ -339,7 +339,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-05-27",
+      "lastSeen": "2026-05-28",
       "active": true,
       "entries": [
         {
@@ -556,6 +556,11 @@
           "date": "2026-05-27",
           "edition": "evening",
           "update": "GCHQ Director Anne Keast-Butler, in her first public speech, stated that almost 500,000 Russian soldiers have been killed in the Ukraine war."
+        },
+        {
+          "date": "2026-05-28",
+          "edition": "morning",
+          "update": "Ukrainian President Zelensky formally requested Patriot missile interceptors from Trump and Congress, stating Ukraine has made progress in drone defense but lacks domestic anti-missile production capability. The U.S. Embassy in Kyiv denied reports of evacuation on Thursday, disputing EU foreign policy chief Kaja Kallas's claim that Washington had evacuated personnel amid escalating Russian airstrike threats. Ukrainian veterans returning from the front are facing a growing mental health crisis, with officials in Lviv acknowledging significant difficulties in reintegrating injured former combatants."
         }
       ],
       "parentId": null
@@ -694,7 +699,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-27",
+      "lastSeen": "2026-05-28",
       "active": true,
       "entries": [
         {
@@ -881,6 +886,11 @@
           "date": "2026-05-27",
           "edition": "morning",
           "update": "Lebanon's Health Ministry reported that Israeli attacks have killed 3,213 people and injured 9,737 in Lebanon since March 2, according to Al Jazeera."
+        },
+        {
+          "date": "2026-05-28",
+          "edition": "morning",
+          "update": "President Trump called for expanding the Abraham Accords by requiring more countries to recognize Israel as part of a deal to end the war with Iran; regional analysts described the chances of this happening as close to zero, and the proposal drew widespread bafflement across the Middle East."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -989,7 +999,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-05-27",
+      "lastSeen": "2026-05-28",
       "active": true,
       "entries": [
         {
@@ -1241,6 +1251,11 @@
           "date": "2026-05-27",
           "edition": "evening",
           "update": "Israel issued sweeping evacuation orders for two southern Lebanese cities and subsequently struck Hezbollah targets in Tyre, warning it would 'act forcefully' against the group. Israeli warplanes were observed circling over southern Lebanon as the military expanded its campaign. Lebanese citizens expressed little faith that U.S.-Iran diplomatic efforts would bring peace to Lebanon, according to the NY Times."
+        },
+        {
+          "date": "2026-05-28",
+          "edition": "morning",
+          "update": "Israel issued an evacuation order for all areas of southern Lebanon south of the Zahrani River, declaring them active combat zones. Lebanon's Health Ministry reported that Israeli attacks have killed 3,269 people in Lebanon since March 2, an increase from the previously recorded 3,213."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1249,7 +1264,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-05-27",
+      "lastSeen": "2026-05-28",
       "active": true,
       "entries": [
         {
@@ -1771,6 +1786,11 @@
           "date": "2026-05-27",
           "edition": "evening",
           "update": "A new analysis found U.S. military contractors will need at least three years to replenish stockpiles of three key advanced weapons systems used in the Iran conflict. Washington Examiner chief political correspondent Byron York described the U.S.-Iran situation as 'something in the middle between war and peace,' noting the ceasefire has already lasted longer than the active combat phase. Senator Ted Cruz is advocating for U.S. recognition of Somaliland, with the U.S. reportedly exploring access to its port and airbase facilities as a potential strategic asset against Iranian and Houthi activity in the Red Sea."
+        },
+        {
+          "date": "2026-05-28",
+          "edition": "morning",
+          "update": "The U.S. military conducted new strikes Wednesday on an Iranian military site near Bandar Abbas assessed as threatening U.S. forces and commercial shipping, destroying one ground control station and shooting down four incoming Iranian drones — at least a second round of strikes within the same week. Iran's IRGC announced retaliatory strikes on a U.S. military base in response, though it did not specify which base was targeted, and Iranian authorities reported no casualties or damage from the U.S. attack. The ceasefire is now reported to be unraveling, according to Reuters and the NY Times, with the renewed exchanges threatening the fragile agreement. Oil prices jumped following the strikes. President Trump visited Walter Reed but did not meet with the 14 soldiers still recovering from injuries sustained during Operation Epic Fury, according to CBS News. Trump stated he feels no political pressure to reach a deal with Iran, saying high oil prices would not force his hand, while Retired Lt. Gen. Keith Kellogg argued that Iran's fractured inner circle represents the biggest obstacle to finalizing a nuclear peace deal."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2530,7 +2550,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-27",
+      "lastSeen": "2026-05-28",
       "active": true,
       "entries": [
         {
@@ -2565,7 +2585,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-05-27",
+      "lastSeen": "2026-05-28",
       "active": true,
       "entries": [
         {
@@ -2627,6 +2647,11 @@
           "date": "2026-05-27",
           "edition": "evening",
           "update": "Trump publicly declared Iran is 'negotiating on fumes,' stated the U.S. is not satisfied with Iran's current offers, and warned Iran cannot out-wait him. Trump also announced there will be no sanctions relief for Iran in any uranium deal. Iran is separately demanding the unfreezing of billions of dollars in Iranian funds as a precondition for substantive nuclear negotiations, according to the NY Times, marking a key financial sticking point. An unofficial draft deal has emerged that would reopen Strait of Hormuz shipping to pre-war levels within one month, with Iranian state TV confirming a draft agreement would end the naval blockade; however, Newsweek reported Iran continues to effectively control the strait, raising questions about whether any deal meets stated U.S. war aims. University of Chicago professor Robert Pape described the Strait of Hormuz and Iran's nuclear capabilities as 'zero-sum' issues blocking progress, while Vice President Vance stated he is 'extremely hopeful' Tehran will disavow nuclear weapons."
+        },
+        {
+          "date": "2026-05-28",
+          "edition": "morning",
+          "update": "The White House dismissed the outline of an unofficial Iran deal, according to the NY Times. Global markets rallied amid hopes of a deal that could reopen the Strait of Hormuz, according to Al Jazeera."
         }
       ]
     },
@@ -2700,13 +2725,18 @@
       "title": "Taylor Swift Concert Attack Plot Investigation",
       "parentId": null,
       "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-28",
+      "lastSeen": "2026-05-28",
       "active": true,
       "entries": [
         {
           "date": "2026-04-28",
           "edition": "morning",
           "update": "An Austrian man is on trial in Austria for allegedly plotting a terrorist attack on a Taylor Swift concert in Vienna, with prosecutors alleging ties to the Islamic State."
+        },
+        {
+          "date": "2026-05-28",
+          "edition": "morning",
+          "update": "The Austrian trial related to the foiled Taylor Swift concert attack plot entered its final day, according to Reuters."
         }
       ]
     },
@@ -2830,7 +2860,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-05-27",
+      "lastSeen": "2026-05-28",
       "active": true,
       "entries": [
         {
@@ -2887,6 +2917,11 @@
           "date": "2026-05-27",
           "edition": "morning",
           "update": "A tanker reported an external explosion off the coast of Oman, according to the United Kingdom Maritime Trade Operations (UKMTO), which confirmed the crew is safe."
+        },
+        {
+          "date": "2026-05-28",
+          "edition": "morning",
+          "update": "President Trump threatened serious repercussions if Iran and Oman proceed with a reported deal to open the Strait of Hormuz, before adding 'They'll be fine,' according to the NY Times."
         }
       ]
     },
@@ -2960,7 +2995,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-05-27",
+      "lastSeen": "2026-05-28",
       "active": true,
       "entries": [
         {
@@ -3027,6 +3062,11 @@
           "date": "2026-05-27",
           "edition": "evening",
           "update": "The DRC Ebola outbreak has surpassed 1,000 confirmed or suspected cases, and the U.S. announced plans for a quarantine site and is seeking volunteers in response. WHO Director-General Tedros warned of a 'catastrophic collision' of Ebola and armed conflict in the DRC, stating that halting transmission depends entirely on humanitarian access. A doctor who died treating Ebola patients in the DRC has been buried. Health officials are also contending with unfamiliar species of Ebola and hantavirus that differ significantly from strains identified decades ago, raising new questions about response strategies, according to the NY Times."
+        },
+        {
+          "date": "2026-05-28",
+          "edition": "morning",
+          "update": "The U.S. announced plans to quarantine Americans exposed to Ebola at a new treatment facility being constructed in Kenya, with public health service officers preparing for rapid deployment to staff the site. DHS confirmed that JFK International Airport has been added to a limited list of U.S. entry points for travelers from Ebola-impacted nations."
         }
       ]
     },
@@ -3116,5 +3156,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-27T21:09:26.768Z"
+  "updatedAt": "2026-05-28T11:07:16.353Z"
 }
