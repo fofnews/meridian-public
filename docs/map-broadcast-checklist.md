@@ -171,6 +171,20 @@ Five issues surfaced during first `?mode=broadcast` browser test:
 
 5. **Mapbox tile 404s** — normal; Mapbox returns 404 for empty vector tiles (ocean, no-data zoom levels). Not an error.
 
+### 2026-05-28 — Broadcast video quality pass
+
+Full quality overhaul after first end-to-end render with ElevenLabs + Mapbox. Pipeline now produces broadcast-grade output from `node scripts/produce-clip.js --edition=<edition>`.
+
+**Audio:** `<Sequence durationInFrames>` added to cap each shot's audio at its boundary — eliminates narration bleed. `synthesize-narration.js` probes each WAV with `ffprobe` and rewrites `shot.hold` + cameraPath tOffsets with real measured durations so `durationInFrames` is audio-accurate.
+
+**Narration source:** `build-shotlist.js` reads `broadcasts/<edition>.json` from the pipeline (sibling `my-news-analyzer-pipeline/broadcasts/`) and uses `beats[i].narration` directly. Falls back to `buildNarration()` when no broadcast file is present. First/last paragraphs of `broadcast.script` are extracted as intro/outro globe shots.
+
+**Camera:** Multi-location shots use a "hold → 2.5 s fly → hold" waypoint model (`FLY_BETWEEN_S`). Cross-shot transition reduced to 0.8 s (`FLY_DURATION_S`). Story shots have fixed bearing (no ambient drift); globe intro/outro shots spin at 1.5°/s. Zoom is location-aware: large countries → 4, small countries/US states → 6, cities → 9.
+
+**Map:** Night overlay opacity halved in broadcast mode (0.38 → 0.18). `story-path` dashed line layer added (broadcast-only) connecting each shot's locations. Settlement label LOD raised: `settlement-major-label` minzoom 6, `settlement-minor-label` minzoom 9 — country zoom shows only state names, state zoom adds city names, city zoom adds towns.
+
+**Bug fixed:** `produce-clip.js` was passing `--max-duration=90` (its own default) to `build-shotlist.js`, overriding the new 360 s default. Fixed on line 49.
+
 ### 2026-05-09 — Map label debugging (post-checklist)
 
 Two bugs in `scripts/build-meridian-styles.js` caused labels to be missing or inconsistent across the globe view:

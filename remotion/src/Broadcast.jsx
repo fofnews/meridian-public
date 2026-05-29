@@ -3,7 +3,7 @@ import './broadcast.css';
 import { useEffect, useRef } from 'react';
 import { useCurrentFrame, useVideoConfig, AbsoluteFill, Audio, Sequence, delayRender, continueRender } from 'remotion';
 import { useRemotionMap } from './useRemotionMap.js';
-import { interpolateCamera } from './camera.js';
+import { interpolateCameraOnPath, getActiveLocation } from './camera.js';
 import { RemotionFilmGrain, Chyron, Ticker, TopBar, MapAttribution, FadeOverlay } from './overlays.jsx';
 
 const PRE_ROLL_S  = 1;
@@ -23,12 +23,35 @@ export async function calculateMetadata({ props }) {
   };
 }
 
+// Build GeoJSON for the dashed story-path line connecting a shot's unique locations.
+function shotPathGeoJson(shot) {
+  if (!shot?.cameraPath?.length) return { type: 'FeatureCollection', features: [] };
+  // Deduplicate consecutive same-position waypoints (hold duplicates).
+  const unique = [];
+  for (const wp of shot.cameraPath) {
+    const last = unique[unique.length - 1];
+    if (!last || Math.abs(wp.lng - last.lng) > 0.001 || Math.abs(wp.lat - last.lat) > 0.001) {
+      unique.push(wp);
+    }
+  }
+  // Globe-level shots and single-location shots need no path line.
+  if (unique.length < 2 || (unique[0].zoom ?? 5) <= 2) {
+    return { type: 'FeatureCollection', features: [] };
+  }
+  return {
+    type: 'FeatureCollection',
+    features: [{ type: 'Feature', geometry: { type: 'LineString', coordinates: unique.map(wp => [wp.lng, wp.lat]) } }],
+  };
+}
+
 export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps: propFps = 30, mapboxToken = '' }) {
   const frame = useCurrentFrame();
   const { fps, durationInFrames } = useVideoConfig();
   const t = frame / fps;
 
-  const { mapContainer, mapRef, mapReady } = useRemotionMap({ mapboxToken, port });
+  const { mapContainer, mapRef, markerRef, mapReady } = useRemotionMap({ mapboxToken, port });
+  // Track active shot index so story-path source is only updated on shot changes.
+  const activeShotIdxRef = useRef(-1);
 
   // Per-frame camera update: jumpTo computed position, delay Remotion
   // until Mapbox reports idle (all tiles rendered for this position).
@@ -39,13 +62,45 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
     const handle = delayRender(`cam-frame-${frame}`);
     let resolved = false;
 
-    const cam = interpolateCamera(shotlist.shots, t, PRE_ROLL_S);
+    const cam = interpolateCameraOnPath(shotlist.shots, t, PRE_ROLL_S);
     mapRef.current.jumpTo({
       center:  [cam.lng, cam.lat],
       zoom:     cam.zoom,
       pitch:    cam.pitch,
       bearing:  cam.bearing,
     });
+
+    // Highlight the active shot's country on the map.
+    let activeShot = shotlist.shots[0];
+    let activeShotIdx = 0;
+    for (let si = 0; si < shotlist.shots.length; si++) {
+      if (shotlist.shots[si].t + PRE_ROLL_S <= t) { activeShot = shotlist.shots[si]; activeShotIdx = si; }
+    }
+    const isoCode = activeShot?.isoCode ?? '';
+
+    // Update story-path dashed line only when shot changes (not every frame).
+    if (activeShotIdx !== activeShotIdxRef.current) {
+      activeShotIdxRef.current = activeShotIdx;
+      try { mapRef.current.getSource('story-path')?.setData(shotPathGeoJson(activeShot)); } catch {}
+    }
+
+    // Move location marker to the current story's primary place.
+    // Hide it during globe shots (isoCode null = intro/outro).
+    const loc = getActiveLocation(shotlist.shots, t, PRE_ROLL_S);
+    if (markerRef.current) {
+      if (loc && activeShot?.isoCode != null) {
+        markerRef.current.getElement().style.display = '';
+        markerRef.current.setLngLat([loc.lng, loc.lat]);
+      } else {
+        markerRef.current.getElement().style.display = 'none';
+      }
+    }
+    try {
+      if (mapRef.current.getLayer('country-highlight-glow')) {
+        mapRef.current.setFilter('country-highlight-glow', ['==', 'iso_3166_1', isoCode]);
+        mapRef.current.setFilter('country-highlight-edge', ['==', 'iso_3166_1', isoCode]);
+      }
+    } catch {}
 
     const onIdle = () => { resolved = true; continueRender(handle); };
     mapRef.current.once('idle', onIdle);
@@ -93,7 +148,7 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
       {/* Per-shot narration audio — Sequence delays playback to the right
           timeline position; Audio without startFrom plays from its beginning. */}
       {shotlist.shots.map((shot, i) => (
-        <Sequence key={i} from={Math.round((PRE_ROLL_S + shot.t) * fps)}>
+        <Sequence key={i} from={Math.round((PRE_ROLL_S + shot.t) * fps)} durationInFrames={Math.round(shot.hold * fps)}>
           <Audio src={`http://localhost:${port}/out/audio/${edition}/shot-${i}.wav`} />
         </Sequence>
       ))}

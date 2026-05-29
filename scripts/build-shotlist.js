@@ -26,7 +26,7 @@ const args = Object.fromEntries(
 );
 
 const edition     = args['edition'];
-const maxDuration = Number(args['max-duration'] ?? 90);
+const maxDuration = Number(args['max-duration'] ?? 360);
 const aspect      = args['aspect'] ?? '16:9';
 const timingsPath = args['timings'] ?? null;
 
@@ -46,37 +46,124 @@ try {
   process.exit(1);
 }
 
+// ── Load broadcast script (pipeline-generated narrations) ────────────────────
+// Priority: --timings > broadcast file > buildNarration() fallback.
+// The broadcast file is produced by the Meridian-Website pipeline prompt.
+// To change the narration template, edit the prompt there.
+//
+// Location resolved as: BROADCASTS_DIR env var, or the sibling pipeline dir.
+
+const broadcastsDir = process.env.BROADCASTS_DIR
+  ?? join(ROOT, '..', 'my-news-analyzer-pipeline', 'broadcasts');
+const broadcastPath = join(broadcastsDir, `${edition}.json`);
+let broadcast = null;
+if (!timingsPath) {
+  try {
+    broadcast = JSON.parse(readFileSync(broadcastPath, 'utf8'));
+    console.log(`Using broadcast script: ${broadcastPath}`);
+  } catch {
+    console.log('No broadcast file found — falling back to buildNarration()');
+  }
+}
+
 // ── Helpers ───────────────────────────────────────────────────────────────────
 
 const CHYRON_LABELS = ['Breaking', 'Developing', 'Analysis', 'Report', 'Update', 'Exclusive'];
-const PITCH         = 50;   // FOCUSED_PITCH_BROADCAST
-const BEARING       = -10;  // slight tilt for visual interest
-const DEFAULT_ZOOM  = 5;
-const TTS_CHARS_PER_SEC = 15;
-const MIN_HOLD      = 5;
-const MAX_HOLD      = 22;
+const PITCH              = 50;    // FOCUSED_PITCH_BROADCAST
+const BEARING            = -10;   // fixed bearing for all story waypoints (no drift)
+const TTS_CHARS_PER_SEC  = 15;
+const MIN_HOLD           = 4;
+const MAX_HOLD           = 120;   // safety ceiling; synthesis rewrites with measured audio duration
+const MAX_NARRATION_CHARS = 900;  // ~60 s at TTS pace
+
+// Zoom tiers. 'Large country' covers nations wide enough that zoom 4 is needed
+// to fit them in frame; 'small country' and US states fit at zoom 6; cities
+// and specific locations default to zoom 9.
+const LARGE_COUNTRY_NAMES = new Set([
+  'United States', 'Russia', 'China', 'Canada', 'Brazil', 'Australia', 'India',
+  'Argentina', 'Kazakhstan', 'Algeria', 'Democratic Republic of the Congo',
+  'Saudi Arabia', 'Mexico', 'Indonesia', 'Sudan', 'Libya', 'Iran', 'Mongolia',
+  'Peru', 'Chad', 'Niger', 'Angola', 'Mali', 'South Africa', 'Colombia',
+  'Ethiopia', 'Bolivia', 'Mauritania', 'Egypt', 'Tanzania', 'Nigeria',
+  'Venezuela', 'Pakistan', 'Namibia', 'Mozambique', 'Turkey', 'Chile',
+  'Zambia', 'Myanmar', 'Afghanistan',
+]);
+const COUNTRY_OR_STATE_NAMES = new Set([
+  // Countries
+  'France', 'Germany', 'United Kingdom', 'Italy', 'Spain', 'Japan', 'South Korea',
+  'Ukraine', 'Poland', 'Sweden', 'Norway', 'Finland', 'Denmark', 'Netherlands',
+  'Belgium', 'Austria', 'Switzerland', 'Portugal', 'Greece', 'Romania', 'Hungary',
+  'Czech Republic', 'Slovakia', 'Bulgaria', 'Serbia', 'Croatia', 'Albania',
+  'Slovenia', 'Kosovo', 'Belarus', 'Moldova', 'Estonia', 'Latvia', 'Lithuania',
+  'Israel', 'Iraq', 'Syria', 'Jordan', 'Lebanon', 'Yemen', 'Oman',
+  'United Arab Emirates', 'UAE', 'Kuwait', 'Qatar', 'Bahrain',
+  'Georgia', 'Armenia', 'Azerbaijan', 'Uzbekistan', 'Kyrgyzstan', 'Tajikistan',
+  'Turkmenistan', 'Cuba', 'Haiti', 'Dominican Republic', 'Guatemala', 'Honduras',
+  'El Salvador', 'Nicaragua', 'Costa Rica', 'Panama', 'Ecuador', 'Paraguay',
+  'Uruguay', 'New Zealand', 'Philippines', 'Vietnam', 'Thailand', 'Malaysia',
+  'Cambodia', 'Laos', 'Taiwan', 'North Korea', 'Bangladesh', 'Sri Lanka',
+  'Nepal', 'Kenya', 'Ghana', 'Ivory Coast', 'Senegal', 'Tunisia', 'Morocco',
+  'Zimbabwe', 'Rwanda', 'Uganda', 'Cameroon', 'Somalia', 'South Sudan',
+  'Sierra Leone', 'Liberia', 'Guinea', 'Benin', 'Togo', 'Burkina Faso',
+  'Malawi', 'Gaza', 'Palestinian Territories', 'Palestine',
+  // US states
+  'Alabama', 'Alaska', 'Arizona', 'Arkansas', 'California', 'Colorado',
+  'Connecticut', 'Delaware', 'Florida', 'Georgia', 'Hawaii', 'Idaho',
+  'Illinois', 'Indiana', 'Iowa', 'Kansas', 'Kentucky', 'Louisiana', 'Maine',
+  'Maryland', 'Massachusetts', 'Michigan', 'Minnesota', 'Mississippi', 'Missouri',
+  'Montana', 'Nebraska', 'Nevada', 'New Hampshire', 'New Jersey', 'New Mexico',
+  'New York', 'North Carolina', 'North Dakota', 'Ohio', 'Oklahoma', 'Oregon',
+  'Pennsylvania', 'Rhode Island', 'South Carolina', 'South Dakota', 'Tennessee',
+  'Texas', 'Utah', 'Vermont', 'Virginia', 'Washington', 'West Virginia',
+  'Wisconsin', 'Wyoming', 'Washington D.C.', 'Puerto Rico',
+]);
+
+function locationZoom(loc) {
+  const name = loc.name ?? '';
+  if (LARGE_COUNTRY_NAMES.has(name)) return 4;
+  if (COUNTRY_OR_STATE_NAMES.has(name)) return 6;
+  return 9; // city / specific location default
+}
+
+// Format edition slug as a human-readable label for globe-shot chyrons.
+function editionLabel(ed) {
+  const m = ed.match(/^(\d{4})-(\d{2})-(\d{2})-(morning|evening)$/);
+  if (!m) return ed;
+  const date = new Date(Number(m[1]), Number(m[2]) - 1, Number(m[3]));
+  const dateStr = date.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+  const time = m[4] === 'morning' ? 'Morning' : 'Evening';
+  return `${dateStr} — ${time} Edition`;
+}
 
 function sourceCount(story) {
   return new Set((story.articles ?? []).map(a => a.source).filter(Boolean)).size;
 }
 
-// Build narration from summary + up to 2 multi-source claims (or legacy agreements).
+// Build narration: summary → significance → claims (up to 3) → outlook → disagreement fallback.
 function buildNarration(analysis) {
   if (!analysis) return '';
   const parts = [];
+
   if (analysis.summary) parts.push(analysis.summary.trim());
 
-  // New shape: prefer multi-source claims (≥2 sources). Legacy fallback: agreements.
+  // One sentence of significance (why this matters).
+  if (analysis.context?.significance) {
+    const sig = analysis.context.significance.trim();
+    const firstSentence = sig.match(/^[^.!?]+[.!?]/)?.[0]?.trim() ?? sig;
+    if (firstSentence) parts.push(firstSentence);
+  }
+
+  // Up to 3 multi-source claims. Legacy fallback: agreements.
   let picks = [];
   if (Array.isArray(analysis.claims)) {
     picks = analysis.claims
       .filter(c => Array.isArray(c.sources) && c.sources.length >= 2)
-      .slice(0, 2)
+      .slice(0, 3)
       .map(c => (c.statement ?? '').trim())
       .filter(Boolean);
   } else if (Array.isArray(analysis.agreements)) {
     picks = analysis.agreements
-      .slice(0, 2)
+      .slice(0, 3)
       .map(a => (typeof a === 'string' ? a : a.text ?? '').trim())
       .filter(Boolean);
   }
@@ -84,19 +171,88 @@ function buildNarration(analysis) {
   if (picks.length) {
     parts.push(picks.join(' '));
   } else if (Array.isArray(analysis.disagreements) && analysis.disagreements.length > 0) {
-    const dPicks = analysis.disagreements
-      .slice(0, 1)
-      .map(d => (typeof d === 'string' ? d : d.text ?? '').trim())
-      .filter(Boolean);
-    if (dPicks.length) parts.push(dPicks.join(' '));
+    const dPick = (typeof analysis.disagreements[0] === 'string'
+      ? analysis.disagreements[0]
+      : analysis.disagreements[0].text ?? '').trim();
+    if (dPick) parts.push(dPick);
   }
 
-  return parts.join('  ');
+  // One forward-looking outlook bullet.
+  if (Array.isArray(analysis.context?.outlook) && analysis.context.outlook.length > 0) {
+    const outlook = (analysis.context.outlook[0] ?? '').trim();
+    if (outlook) parts.push(outlook);
+  }
+
+  const joined = parts.join('  ');
+  // Hard ceiling to prevent any single story from overwhelming the budget.
+  if (joined.length > MAX_NARRATION_CHARS) {
+    return joined.slice(0, MAX_NARRATION_CHARS).replace(/\s+\S*$/, '');
+  }
+  return joined;
 }
 
 function estimateHold(narration) {
   const raw = Math.ceil(narration.length / TTS_CHARS_PER_SEC);
   return Math.min(MAX_HOLD, Math.max(MIN_HOLD, raw));
+}
+
+// Quick camera cut duration between locations within a multi-location shot.
+const FLY_BETWEEN_S = 2.5;
+
+// Build a camera waypoint array for a story shot.
+// Single-location → one static waypoint zoomed to the location's geographic scale.
+// Multi-location  → "hold → quick 2.5 s fly → hold" pairs per location so the
+//                   cut is decisive rather than a slow continuous pan.
+function buildCameraPath(locations, estimatedHold) {
+  const validLocs = (locations ?? []).filter(l => l?.lat != null && l?.lng != null);
+
+  if (validLocs.length === 0) {
+    return [{ tOffset: 0, lng: 0, lat: 20, zoom: 1.5, pitch: 0, bearing: 0 }];
+  }
+
+  const waypointCamera = (loc) => {
+    const isSpecial = loc.iso === 'XX' || (Math.abs(loc.lat) < 0.5 && Math.abs(loc.lng) < 0.5);
+    return {
+      lng:     loc.lng,
+      lat:     loc.lat,
+      zoom:    isSpecial ? 1.5 : locationZoom(loc),
+      pitch:   isSpecial ? 0   : PITCH,
+      bearing: BEARING,
+    };
+  };
+
+  if (validLocs.length === 1) {
+    return [{ tOffset: 0, ...waypointCamera(validLocs[0]) }];
+  }
+
+  const N = validLocs.length;
+  const totalFlyTime = (N - 1) * FLY_BETWEEN_S;
+  const holdPerLoc = Math.max(2, (estimatedHold - totalFlyTime) / N);
+
+  const waypoints = [];
+  let t = 0;
+  for (let i = 0; i < N; i++) {
+    const cam = waypointCamera(validLocs[i]);
+    // Arrival at this location.
+    waypoints.push({ tOffset: Math.round(t * 10) / 10, ...cam });
+    t += holdPerLoc;
+    if (i < N - 1) {
+      // Hold waypoint — same position, marks the start of the outgoing transition.
+      waypoints.push({ tOffset: Math.round(t * 10) / 10, ...cam });
+      t += FLY_BETWEEN_S;
+    }
+  }
+
+  return waypoints;
+}
+
+// Slow globe spin used for intro and outro shots.
+// The bearing drifts at 1.5°/s to give the "earth rotating" look.
+function globeSpinPath(hold) {
+  return [
+    { tOffset: 0,    lng: 0, lat: 20, zoom: 1.5, pitch: 0, bearing: 0 },
+    { tOffset: hold, lng: 0, lat: 20, zoom: 1.5, pitch: 0, bearing: -(hold * 1.5) },
+  ];
 }
 
 // ── Build shots ───────────────────────────────────────────────────────────────
@@ -125,13 +281,13 @@ if (timingsPath) {
     }
 
     const analysis = story.analysis ?? {};
-    const loc = (analysis.locations ?? []).find(l => l?.lat != null && l?.lng != null);
+    const validLocs = (analysis.locations ?? []).filter(l => l?.lat != null && l?.lng != null);
+    const isoCode = validLocs.find(l => l.iso && l.iso !== 'XX')?.iso ?? null;
 
     shots.push({
       t: elapsed,
-      camera: loc
-        ? { lng: loc.lng, lat: loc.lat, zoom: DEFAULT_ZOOM, pitch: PITCH, bearing: BEARING }
-        : { lng: 0, lat: 20, zoom: 1.5, pitch: 0, bearing: 0 },
+      isoCode,
+      cameraPath: buildCameraPath(analysis.locations, durationSecs),
       chyron: {
         label: CHYRON_LABELS[i % CHYRON_LABELS.length].toUpperCase(),
         headline: story.headline,
@@ -142,25 +298,91 @@ if (timingsPath) {
 
     elapsed += durationSecs;
   }
+} else if (broadcast) {
+  // Broadcast-file mode: use pipeline-generated narrations, keyed by storyIndices.
+  // Intro/outro are parsed from the full script text (first and last paragraphs).
+  const { beats = [], storyIndices = [], script = '' } = broadcast;
+  const scriptParas = script.split(/\n\n+/).map(p => p.trim()).filter(Boolean);
+  const introNarration = scriptParas[0] ?? '';
+  const outroNarration = scriptParas.length > 1 ? scriptParas[scriptParas.length - 1] : '';
+  const edLabel = editionLabel(edition);
+
+  // Intro globe shot
+  if (introNarration) {
+    const hold = estimateHold(introNarration);
+    shots.push({
+      t: elapsed,
+      isoCode: null,
+      cameraPath: globeSpinPath(hold),
+      chyron: { label: 'LIVE', headline: edLabel },
+      narration: introNarration,
+      hold,
+    });
+    elapsed += hold;
+  }
+
+  // Story beats
+  for (let i = 0; i < beats.length; i++) {
+    const narration = (beats[i].narration ?? '').trim();
+    if (!narration) continue;
+
+    const hold = estimateHold(narration);
+    if (elapsed + hold > maxDuration) break;
+
+    const storyIdx = storyIndices[i] ?? null;
+    const story    = storyIdx != null ? (report.stories ?? [])[storyIdx] : null;
+    const analysis = story?.analysis ?? {};
+    const validLocs = (analysis.locations ?? []).filter(l => l?.lat != null && l?.lng != null);
+    const isoCode = validLocs.find(l => l.iso && l.iso !== 'XX')?.iso ?? null;
+
+    shots.push({
+      t: elapsed,
+      isoCode,
+      cameraPath: buildCameraPath(analysis.locations, hold),
+      chyron: {
+        label:    CHYRON_LABELS[i % CHYRON_LABELS.length].toUpperCase(),
+        headline: story?.headline ?? beats[i].beat ?? '',
+      },
+      narration,
+      hold,
+    });
+
+    elapsed += hold;
+  }
+
+  // Outro globe shot
+  if (outroNarration) {
+    const hold = estimateHold(outroNarration);
+    shots.push({
+      t: elapsed,
+      isoCode: null,
+      cameraPath: globeSpinPath(hold),
+      chyron: { label: 'LIVE', headline: edLabel },
+      narration: outroNarration,
+      hold,
+    });
+    elapsed += hold;
+  }
 } else {
-  // Existing behaviour: filter ≥2-source stories, estimate hold from summary length
+  // Fallback: derive narration from report fields when no broadcast file is available.
   const topStories = (report.stories ?? []).filter(s => sourceCount(s) >= 2);
 
   for (let i = 0; i < topStories.length; i++) {
     const story    = topStories[i];
     const analysis = story.analysis ?? {};
-    const loc      = (analysis.locations ?? []).find(l => l?.lat != null && l?.lng != null);
 
     const narration = buildNarration(analysis);
     const hold      = estimateHold(narration);
 
     if (elapsed + hold > maxDuration) break;
 
+    const validLocs = (analysis.locations ?? []).filter(l => l?.lat != null && l?.lng != null);
+    const isoCode = validLocs.find(l => l.iso && l.iso !== 'XX')?.iso ?? null;
+
     shots.push({
       t: elapsed,
-      camera: loc
-        ? { lng: loc.lng, lat: loc.lat, zoom: DEFAULT_ZOOM, pitch: PITCH, bearing: BEARING }
-        : { lng: 0, lat: 20, zoom: 1.5, pitch: 0, bearing: 0 },
+      isoCode,
+      cameraPath: buildCameraPath(analysis.locations, hold),
       chyron: {
         label:    CHYRON_LABELS[i % CHYRON_LABELS.length].toUpperCase(),
         headline: story.headline,

@@ -32,6 +32,11 @@ import { startRenderServer } from './render-server.js';
 const ROOT    = join(dirname(fileURLToPath(import.meta.url)), '..');
 const SCRIPTS = join(ROOT, 'scripts');
 
+// Load .env from repo root so ELEVENLABS_API_KEY, MAPBOX_TOKEN_RENDER, etc.
+// are available to this process and all child processes spawned below.
+const { config } = await import('dotenv');
+config({ path: join(ROOT, '.env') });
+
 // ── CLI args ──────────────────────────────────────────────────────────────────
 
 const args = Object.fromEntries(
@@ -41,7 +46,7 @@ const args = Object.fromEntries(
 );
 
 const edition     = args['edition'];
-const maxDuration = args['max-duration'] ?? '90';
+const maxDuration = args['max-duration'] ?? '360';
 const aspect      = args['aspect']       ?? '16:9';
 const platforms   = args['platforms']    ?? 'youtube,tiktok';
 const bed         = args['bed']          ?? null;
@@ -143,7 +148,7 @@ const remotionBin = process.platform === 'win32'
 // Pass props via a JSON file — inline --props JSON breaks on Windows CMD
 // because CMD strips the double quotes from the value.
 const propsPath = join(ROOT, 'out', `remotion-props-${edition}.json`);
-writeFileSync(propsPath, JSON.stringify({ edition, aspect, port: renderPort, mapboxToken: process.env.VITE_MAPBOX_TOKEN ?? '' }));
+writeFileSync(propsPath, JSON.stringify({ edition, aspect, port: renderPort, mapboxToken: process.env.MAPBOX_TOKEN_RENDER ?? process.env.VITE_MAPBOX_TOKEN ?? '' }));
 
 // Use runAsync so the event loop stays live and the render server above
 // can accept Chromium's fetch requests during the render.

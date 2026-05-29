@@ -46,7 +46,7 @@ const FOG = {
   },
 };
 
-export function applyMapStyle(map, isDark) {
+export function applyMapStyle(map, isDark, { broadcast = false } = {}) {
   // Fog — kept in code (not in the style file) for easy value tuning.
   try { map.setFog(isDark ? FOG.dark : FOG.light); } catch {}
 
@@ -68,11 +68,11 @@ export function applyMapStyle(map, isDark) {
         source: 'night-overlay',
         paint: {
           'fill-color': '#04081a',
-          'fill-opacity': isDark ? 0.38 : 0.30,
+          'fill-opacity': broadcast ? (isDark ? 0.18 : 0.14) : (isDark ? 0.38 : 0.30),
         },
       }, nightBefore);
     } else {
-      map.setPaintProperty('night-overlay', 'fill-opacity', isDark ? 0.38 : 0.30);
+      map.setPaintProperty('night-overlay', 'fill-opacity', broadcast ? (isDark ? 0.18 : 0.14) : (isDark ? 0.38 : 0.30));
     }
   } catch {}
 
@@ -254,6 +254,47 @@ export function applyMapStyle(map, isDark) {
       map.setPaintProperty('state-highlight-edge', 'line-opacity', isDark ? 0.90 : 0.80);
     }
   } catch {}
+
+  // Broadcast-only: story location path line + settlement label LOD overrides.
+  if (broadcast) {
+    // Story path line — dashed line connecting the locations visited in the active shot.
+    // Source data is updated per shot by Broadcast.jsx via story-path source.
+    try {
+      if (!map.getSource('story-path')) {
+        map.addSource('story-path', {
+          type: 'geojson',
+          data: { type: 'FeatureCollection', features: [] },
+        });
+      }
+      if (!map.getLayer('story-path-line')) {
+        map.addLayer({
+          id: 'story-path-line',
+          type: 'line',
+          source: 'story-path',
+          layout: { 'line-join': 'round', 'line-cap': 'round' },
+          paint: {
+            'line-color': '#ffffff',
+            'line-width': 1.5,
+            'line-opacity': 0.55,
+            'line-dasharray': [3, 4],
+          },
+        });
+      }
+    } catch {}
+
+    // Raise settlement label minzooms so the map stays uncluttered at country/state
+    // zoom levels. At zoom 4 (country) only state names show; at zoom 6 (state) major
+    // city names appear; at zoom 9 (city) minor settlements become visible.
+    try {
+      const LOD = [
+        ['settlement-major-label', 6],
+        ['settlement-minor-label', 9],
+      ];
+      for (const [id, min] of LOD) {
+        if (map.getLayer(id)) map.setLayerZoomRange(id, min, 24);
+      }
+    } catch {}
+  }
 
   // Source-to-story arc layers (item 9) — empty on init; updateArcs() fills them.
   try {

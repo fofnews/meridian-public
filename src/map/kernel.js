@@ -86,7 +86,7 @@ export async function createMap(container, { isDark, broadcast = false, mapboxTo
   map.on('style.load', () => {
     map.resize();
     map.setPadding(getMapPadding(container));
-    applyMapStyle(map, isDark);
+    applyMapStyle(map, isDark, { broadcast });
   });
 
   const marker = new mapboxgl.Marker({ element: createPulseMarker(isDark), anchor: 'center' })

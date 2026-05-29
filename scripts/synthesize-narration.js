@@ -25,8 +25,9 @@ import { execFileSync } from 'child_process';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 
-// Use system ffmpeg for WAV encoding. Install: sudo apt-get install -y ffmpeg
-const FFMPEG = 'ffmpeg';
+// Use system ffmpeg/ffprobe for WAV encoding and duration probing.
+const FFMPEG  = 'ffmpeg';
+const FFPROBE = 'ffprobe';
 
 // ── Voice config (see docs/voice.md) ─────────────────────────────────────────
 const ELEVENLABS_VOICE_ID = process.env.ELEVENLABS_VOICE_ID ?? 'JBFqnCBsd6RMkjVDRZzb'; // George
@@ -119,6 +120,22 @@ async function synthesizeOpenAI(text, voice, apiKey) {
   return Buffer.from(await res.arrayBuffer());
 }
 
+// Probe the duration (in seconds) of a WAV file. Returns null on failure.
+function probeWavDuration(wavPath) {
+  try {
+    const out = execFileSync(FFPROBE, [
+      '-v', 'error',
+      '-show_entries', 'format=duration',
+      '-of', 'csv=p=0',
+      wavPath,
+    ], { stdio: ['pipe', 'pipe', 'pipe'] }).toString().trim();
+    const d = parseFloat(out);
+    return isFinite(d) ? d : null;
+  } catch {
+    return null;
+  }
+}
+
 // Convert an MP3 buffer to a 44.1kHz stereo PCM WAV file via ffmpeg.
 function mp3ToWav(mp3Buf, wavPath) {
   const tmpMp3 = wavPath.replace(/\.wav$/, '.tmp.mp3');
@@ -173,6 +190,51 @@ for (let i = 0; i < shotlist.shots.length; i++) {
     console.error(`  ✗ TTS failed (${err.message}) — inserting silence`);
     silenceWav(shot.hold, wavPath);
   }
+}
+
+// ── Rewrite shotlist with measured audio durations ────────────────────────────
+// Probe each WAV and replace estimated holds with real durations.
+// Then recompute shot.t (cumulative) and shotlist.duration so Remotion's
+// durationInFrames reflects the actual audio length.
+
+let anyUpdated = false;
+for (let i = 0; i < shotlist.shots.length; i++) {
+  const shot    = shotlist.shots[i];
+  const wavPath = wavPaths[i];
+  if (!wavPath) continue;
+
+  const measured = probeWavDuration(wavPath);
+  if (measured == null || measured <= 0) continue;
+
+  const newHold = Math.ceil(measured * 10) / 10;
+  if (newHold === shot.hold) continue;
+
+  // Proportionally rescale cameraPath tOffsets to the new hold duration.
+  if (Array.isArray(shot.cameraPath) && shot.hold > 0) {
+    const scale = newHold / shot.hold;
+    for (const wp of shot.cameraPath) {
+      wp.tOffset = Math.round(wp.tOffset * scale * 10) / 10;
+    }
+  }
+
+  shot.hold = newHold;
+  anyUpdated = true;
+}
+
+if (anyUpdated) {
+  const oldDuration = shotlist.duration;
+
+  // Recompute all shot.t values as a cumulative sum.
+  let elapsed = 0;
+  for (const shot of shotlist.shots) {
+    shot.t = Math.round(elapsed * 10) / 10;
+    elapsed += shot.hold;
+  }
+  shotlist.duration = Math.round(elapsed * 10) / 10;
+
+  writeFileSync(shotlistPath, JSON.stringify(shotlist, null, 2));
+  console.log(`\nShotlist updated with measured durations → ${shotlistPath}`);
+  console.log(`Clip duration: ${oldDuration}s (estimated) → ${shotlist.duration}s (measured)`);
 }
 
 console.log(`\nSaved ${wavPaths.length} per-shot WAVs to ${outDir}`);
