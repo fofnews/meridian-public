@@ -236,6 +236,11 @@
           "date": "2026-05-29",
           "edition": "morning",
           "update": "Pam Bondi appeared before the House Oversight Committee in a closed-door transcribed interview on Friday regarding the Epstein files, despite having been removed from her role as attorney general in April. A lawyer representing Epstein survivors told BBC News that his clients lack confidence in how UK police would treat them, casting doubt on their willingness to cooperate with the British inquiry into Prince Andrew."
+        },
+        {
+          "date": "2026-05-29",
+          "edition": "evening",
+          "update": "During her closed-door testimony before the House Oversight Committee, Bondi refused to answer questions about President Trump's involvement in the Epstein files release and instead blamed Acting Attorney General Todd Blanche and FBI Director Kash Patel for issues with the release. Following the interview, House Democrats announced plans to seek subpoenas for both Blanche and Patel. Epstein survivor Danielle Besnky spoke out during the proceedings, stating she wants 'baseline humanity' from Bondi."
         }
       ],
       "parentId": null
@@ -346,6 +351,11 @@
           "date": "2026-05-29",
           "edition": "morning",
           "update": "Wall Street investors are broadly assuming a U.S.-Iran nuclear deal would be a net positive for stocks and risky assets, though analysts also raise the possibility it could trigger a market selloff. Separately, analysts suggest oil prices may not return to previous lower levels even after the conflict concludes."
+        },
+        {
+          "date": "2026-05-29",
+          "edition": "evening",
+          "update": "Trump announced he is convening advisers in the White House Situation Room to make a 'final determination' on a deal with Iran, posting the announcement via social media. Trump also demanded that Arab and Muslim countries normalize relations with Israel through the Abraham Accords as a condition for ending the conflict, a last-minute linkage that U.S. allies pushed back against, according to NBC News. Former national security adviser John Bolton publicly called the tentative deal 'a big defeat for the United States' and a 'mistake,' alleging it is driven by Trump's concerns over high gas prices ahead of midterm elections."
         }
       ],
       "parentId": null
@@ -581,6 +591,11 @@
           "date": "2026-05-29",
           "edition": "morning",
           "update": "Russia dismissed a U.S. call not to launch systemic strikes on Kyiv, according to Reuters, signaling continued disagreement between Moscow and Washington over attacks on the Ukrainian capital."
+        },
+        {
+          "date": "2026-05-29",
+          "edition": "evening",
+          "update": "A Russian drone struck an apartment building in Galati, eastern Romania, near the Ukrainian border overnight Friday, injuring two people with minor wounds — the first confirmed Russian drone strike on Romanian territory. Romanian officials confirmed the incident, and Russian officials acknowledged the drone was targeting Ukraine when it drifted off course. Dmitry Medvedev issued a public warning following the incident, declaring that Europe's 'peaceful sleep is over' and asserting that European authorities have 'unilaterally entered into a war with Russia.' Separately, Russia's diesel output fell an additional 10% in May following drone attacks on Russian energy infrastructure, according to Reuters data."
         }
       ],
       "parentId": null
@@ -1286,6 +1301,11 @@
           "date": "2026-05-29",
           "edition": "morning",
           "update": "Families in Tyre had their homes destroyed by Israeli airstrikes shortly after receiving evacuation orders, with some residents defying the orders and refusing to leave despite the bombings, according to Al Jazeera."
+        },
+        {
+          "date": "2026-05-29",
+          "edition": "evening",
+          "update": "The UN reported that an average of 11 children are being killed or injured every 24 hours in Lebanon due to ongoing conflict. Israeli and Lebanese officials are set to meet as U.S.-Iran peace talks continue."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2084,8 +2104,8 @@
       "id": "hezbollah-us-operations",
       "title": "Hezbollah US Operations",
       "firstSeen": "2026-03-15",
-      "lastSeen": "2026-04-19",
-      "active": false,
+      "lastSeen": "2026-05-29",
+      "active": true,
       "entries": [
         {
           "date": "2026-03-15",
@@ -2111,6 +2131,11 @@
           "date": "2026-04-19",
           "edition": "evening",
           "update": "Shamim Mafi was arrested by federal authorities at LAX and accused of brokering sales of Iranian-made weapons, including drones and bombs, allegedly sold to Sudan."
+        },
+        {
+          "date": "2026-05-29",
+          "edition": "evening",
+          "update": "The FBI issued a new wanted poster for Monica Witt, a former U.S. intelligence officer previously charged with revealing classified information to the Iranian government."
         }
       ],
       "parentId": null
@@ -2354,7 +2379,7 @@
       "id": "artemis-moon-mission",
       "title": "Artemis Moon Mission",
       "firstSeen": "2026-03-23",
-      "lastSeen": "2026-05-27",
+      "lastSeen": "2026-05-29",
       "active": true,
       "entries": [
         {
@@ -2526,6 +2551,11 @@
           "date": "2026-05-27",
           "edition": "evening",
           "update": "NASA released new images and outlined a three-phase plan for establishing a permanent Moon base, describing the project as 'humanity's first lunar outpost' and framing it as the point at which living and working on the Moon becomes a reality."
+        },
+        {
+          "date": "2026-05-29",
+          "edition": "evening",
+          "update": "A Blue Origin rocket exploded during a ground test at Cape Canaveral Space Force Station, prompting retired NASA astronaut Susan Kilrain to discuss potential setbacks to upcoming moon missions."
         }
       ],
       "parentId": null
@@ -2635,7 +2665,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-05-27",
+      "lastSeen": "2026-05-29",
       "active": true,
       "entries": [
         {
@@ -2697,6 +2727,11 @@
           "date": "2026-05-27",
           "edition": "evening",
           "update": "Trump publicly declared Iran is 'negotiating on fumes,' stated the U.S. is not satisfied with Iran's current offers, and warned Iran cannot out-wait him. Trump also announced there will be no sanctions relief for Iran in any uranium deal. Iran is separately demanding the unfreezing of billions of dollars in Iranian funds as a precondition for substantive nuclear negotiations, according to the NY Times, marking a key financial sticking point. An unofficial draft deal has emerged that would reopen Strait of Hormuz shipping to pre-war levels within one month, with Iranian state TV confirming a draft agreement would end the naval blockade; however, Newsweek reported Iran continues to effectively control the strait, raising questions about whether any deal meets stated U.S. war aims. University of Chicago professor Robert Pape described the Strait of Hormuz and Iran's nuclear capabilities as 'zero-sum' issues blocking progress, while Vice President Vance stated he is 'extremely hopeful' Tehran will disavow nuclear weapons."
+        },
+        {
+          "date": "2026-05-29",
+          "edition": "evening",
+          "update": "According to NBC News, the U.S. and Iran are closing in on a preliminary agreement that would extend a ceasefire for 60 days, begin negotiations on Iran's nuclear program, and reopen the Strait of Hormuz. However, Trump administration officials subsequently walked back reports that a memorandum of understanding had been reached, according to CBS News. Pakistan's Foreign Minister is set to meet with Secretary of State Rubio in Washington to discuss Iran. Former national security adviser Jake Sullivan, while critical of the administration's approach, acknowledged the tentative deal 'may be the best of the very bad outcomes.'"
         }
       ]
     },
@@ -3065,7 +3100,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-05-28",
+      "lastSeen": "2026-05-29",
       "active": true,
       "entries": [
         {
@@ -3142,6 +3177,11 @@
           "date": "2026-05-28",
           "edition": "evening",
           "update": "Doctors at the Ebola outbreak epicenter in eastern DRC told ABC News the virus remains 'out of control' and is still spreading at an alarming rate. The U.S., Mexico, and Canada announced Ebola-related travel measures ahead of the FIFA World Cup, which the three nations are jointly hosting beginning in June."
+        },
+        {
+          "date": "2026-05-29",
+          "edition": "evening",
+          "update": "A Kenyan court on Friday temporarily blocked the U.S. plan to construct an Ebola quarantine facility for Americans in Kenya. The WHO reported 906 suspected cases and 223 suspected deaths from the Bundibugyo strain of Ebola. NPR reported that community members in affected areas are attacking Ebola clinics and distrusting medical workers, with traditional burial practices posing additional transmission risks."
         }
       ]
     },
@@ -3241,5 +3281,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-29T11:07:01.432Z"
+  "updatedAt": "2026-05-29T21:08:00.642Z"
 }
