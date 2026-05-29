@@ -602,5 +602,61 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-29T07:15:01.274Z"
+  },
+  {
+    "title": "Two charged after bystander fatally shot outside bar",
+    "description": "Shanice Brookes, 30, was an \"innocent bystander\" when she was shot in Sheffield, police say.",
+    "link": "https://www.bbc.com/news/articles/cr5pjd43y80o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 29 May 2026 07:25:39 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-29T07:30:01.321Z"
+  },
+  {
+    "title": "Trump Pays Tribute to Claude Lemieux After NHL Legend's Death at 60",
+    "description": "President Donald Trump called Lemieux \"a true Legend of the Game\" in his tribute.",
+    "link": "https://www.newsweek.com/claude-lemieux-trump-supporter-tribute-nhl-cause-of-death-12007192",
+    "pubDate": "Fri, 29 May 2026 03:19:37 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-29T07:30:01.321Z"
+  },
+  {
+    "title": "White House Launches ‘Aliens’ Map Showing Immigration Arrests",
+    "description": "The website says Trump was the first U.S. president to \"call out the real danger aliens pose to every American family.\"",
+    "link": "https://www.newsweek.com/white-house-launches-aliens-map-showing-immigration-arrests-12007231",
+    "pubDate": "Fri, 29 May 2026 03:13:37 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-29T07:30:01.321Z"
+  },
+  {
+    "title": "Drone strikes apartment building in NATO member Romania as Russia attacks neighboring Ukraine",
+    "description": "A drone entered Romanian airspace and struck an apartment building, causing an explosion and fire that injured multiple people, authorities said.",
+    "link": "https://www.foxnews.com/world/drone-strikes-apartment-building-nato-member-romania-russia-attacks-neighboring-ukraine",
+    "pubDate": "Fri, 29 May 2026 03:15:00 -0400",
+    "source": "Fox News",
+    "categories": [
+      "666d43a2-ff87-52b3-8e43-8ea2ef1bb511",
+      "fnc",
+      "fox news",
+      "fox-news/world/nato",
+      "fox-news/world/volodymyr-zelenskyy",
+      "fox-news/world/conflicts/ukraine",
+      "fox-news/tech/technologies/drones",
+      "fox-news/us/terror/bombings",
+      "fox-news/world",
+      "article"
+    ],
+    "collectedAt": "2026-05-29T07:30:01.321Z"
+  },
+  {
+    "title": "Murder suspect wanted over 3 killings arrested after intense search of Hawaii’s Big Island",
+    "description": "A man wanted in connection with the killings of three men was apprehended Thursday after a massive search of Hawaii’s Big Island that had left residents on edge.",
+    "link": "https://nypost.com/2026/05/29/us-news/hawaii-murder-suspect-jacob-baker-arrested-after-three-killings-on-big-island/",
+    "pubDate": "Fri, 29 May 2026 03:21:37 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-29T07:30:01.321Z"
   }
 ]
