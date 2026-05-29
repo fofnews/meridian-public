@@ -8642,5 +8642,183 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-29T19:15:02.567Z"
+  },
+  {
+    "title": "23andMe accused of failing to protect user data in new lawsuit",
+    "description": "The lawsuit alleges the genetic testing company failed to protect user data during a 2023 breach.",
+    "link": "https://abcnews.com/GMA/News/23andme-accused-failing-protect-user-data-new-lawsuit/story?id=133414032",
+    "pubDate": "Fri, 29 May 2026 13:04:20 -0400",
+    "source": "ABC News",
+    "categories": [
+      "gma"
+    ],
+    "collectedAt": "2026-05-29T19:30:01.682Z"
+  },
+  {
+    "title": "Federal Judge Bars Trump From Immediately Setting Up $1.8 Billion Fund",
+    "description": "A judge in Virginia temporarily blocked the Trump administration from transferring money in or out of the fund until the court could hear arguments in June.",
+    "link": "https://www.nytimes.com/2026/05/29/us/politics/federal-judge-trump-fund.html",
+    "pubDate": "Fri, 29 May 2026 15:48:23 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "federal aid (us)",
+      "courts and the judiciary",
+      "federal courts (us)",
+      "compensation for damages (law)",
+      "storming of the us capitol (jan, 2021)",
+      "brinkema, leonie m",
+      "trump, donald j"
+    ],
+    "collectedAt": "2026-05-29T19:30:01.682Z"
+  },
+  {
+    "title": "Who Is the Prosecutor Investigating E. Jean Carroll’s Lawsuits?",
+    "description": "Andrew S. Boutros, the Trump-appointed U.S. attorney for the Northern District of Illinois, is said to be overseeing the criminal investigation.",
+    "link": "https://www.nytimes.com/2026/05/29/us/chicago-prosecutor-andrew-boutros.html",
+    "pubDate": "Fri, 29 May 2026 19:09:57 +0000",
+    "source": "NY Times",
+    "categories": [
+      "trump, donald j",
+      "carroll, e jean",
+      "justice department",
+      "chicago (ill)"
+    ],
+    "collectedAt": "2026-05-29T19:30:01.682Z"
+  },
+  {
+    "title": "Judge Tosses Citizenship Law Aimed at New Voters in New Hampshire",
+    "description": "The judge said the 2024 law “constitutes an unjustifiable burden on the right to vote,” and that new voters should be able to prove their citizenship with a sworn affidavit.",
+    "link": "https://www.nytimes.com/2026/05/29/us/new-hampshire-citizenship-law-voters.html",
+    "pubDate": "Fri, 29 May 2026 19:10:49 +0000",
+    "source": "NY Times",
+    "categories": [
+      "voting rights, registration and requirements",
+      "law and legislation",
+      "elections, courts and the judiciary",
+      "voter fraud (election fraud)",
+      "american civil liberties union",
+      "league of women voters",
+      "republican party",
+      "sununu, christopher t (1974- )",
+      "new hampshire"
+    ],
+    "collectedAt": "2026-05-29T19:30:01.682Z"
+  },
+  {
+    "title": "Ex-head of Des Moines schools sentenced to 2 years in prison for misrepresenting U.S. citizenship",
+    "description": "The former superintendent of Iowa’s largest school district was sentenced Friday to two years in federal prison for falsely claiming to be a U.S. citizen.“I regret what I’ve done every single day,” Ian Roberts said before U.S.",
+    "link": "https://www.nbcnews.com/news/us-news/ex-head-des-moines-schools-sentenced-2-years-prison-misrepresenting-us-rcna347514",
+    "pubDate": "Fri, 29 May 2026 19:04:22 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-05-29T19:30:01.682Z"
+  },
+  {
+    "title": "Obama Appointed Judge Rules Kennedy Center Can't Be Named After Trump",
+    "description": "A federal judge ordered Trump’s name stripped from the Kennedy Center within 14 days and blocked a planned two-year closure.",
+    "link": "https://www.newsweek.com/judge-orders-trump-name-removed-kennedy-center-closure-blocked-12010708",
+    "pubDate": "Fri, 29 May 2026 15:26:48 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-29T19:30:01.682Z"
+  },
+  {
+    "title": "Magic Hire Spurs Assistant as Next Head Coach: Report",
+    "description": "Magic finalized a deal with Spurs assistant Sean Sweeney to become the franchise’s next head coach amid San Antonio’s playoff run.",
+    "link": "https://www.newsweek.com/sports/nba/magic-hire-spurs-assistant-as-next-head-coach-report-12010622",
+    "pubDate": "Fri, 29 May 2026 15:22:19 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-29T19:30:01.682Z"
+  },
+  {
+    "title": "Israel, Russia among new additions on UN sexual violence ‘blacklist’",
+    "description": "New report says nearly 10,000 cases of conflict-related sexual violence were recorded worldwide last year.",
+    "link": "https://www.aljazeera.com/news/2026/5/29/israel-russia-un-conflict-related-sexual-violence-report?traffic_source=rss",
+    "pubDate": "Fri, 29 May 2026 19:13:31 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-29T19:30:01.682Z"
+  },
+  {
+    "title": "Trump heads into Situation Room to potentially finalise Iran deal",
+    "description": "Donald Trump says he’s in the Situation Room at the White House to make a “final determination” on a deal with Iran.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/trump-heads-into-situation-room-to-potentially-finalise-iran-deal?traffic_source=rss",
+    "pubDate": "Fri, 29 May 2026 19:01:17 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-05-29T19:30:01.682Z"
+  },
+  {
+    "title": "US judge orders removal of Trump's name from Kennedy Center - Reuters",
+    "description": "US judge orders removal of Trump's name from Kennedy Center  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSVkwRy1vcEhMY192Wk93ZTV2dGlxTkxudzZEblFyUlRObXVnQ3VRRVZsUk9KOTktdlp3MnNZT1FIUUlseFR1WHp0eXRFU1lBTjBDYV9QQzQ0N2dYSFFMSW1vMkRiazgwa25pLVBUTEx2OVpBWGZLV0hpR0VtWXA4TnRFbGJ5Q0JHeS1QR3JVQmctNVQ5cVZj?oc=5",
+    "pubDate": "Fri, 29 May 2026 19:10:11 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-05-29T19:30:01.682Z"
+  },
+  {
+    "title": "ICE agent charged in nonfatal Minnesota shooting arrested",
+    "description": "State law enforcement officers on Friday arrested a federal immigration agent in Texas who officials say was involved in a nonfatal shooting in Minneapolis earlier this year.  Agents from the Department of Homeland Security (DHS) Office of the Inspector General and the Texas Rangers arrested Christian Castro after he was located by the Minnesota Bureau…",
+    "link": "https://thehill.com/homenews/state-watch/5901654-ice-agent-arrested-minneapolis/",
+    "pubDate": "Fri, 29 May 2026 19:12:55 +0000",
+    "source": "The Hill",
+    "categories": [
+      "national security",
+      "news",
+      "state watch"
+    ],
+    "collectedAt": "2026-05-29T19:30:01.682Z"
+  },
+  {
+    "title": "Changes at CBS put pressure on California AG to challenge Paramount-Warner Bros. deal",
+    "description": "With the DOJ expected to approve the $110 billion Hollywood megamerger, political concerns over turmoil at Paramount’s CBS may push Democratic AGs to act, experts say.",
+    "link": "https://www.marketwatch.com/story/changes-at-cbs-put-pressure-on-california-ag-to-challenge-paramount-warner-bros-deal-8b3dcec3?mod=mw_rss_topstories",
+    "pubDate": "Fri, 29 May 2026 19:23:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-05-29T19:30:01.682Z"
+  },
+  {
+    "title": "Halle Berry makes rare comment on ex Eric Benèt’s cheating scandal: ‘You remember every detail’",
+    "description": "Berry was married to Benèt from 2001 to 2005.",
+    "link": "https://pagesix.com/2026/05/29/celebrity-news/halle-berry-revisits-ex-eric-benets-cheating-scandal/",
+    "pubDate": "Fri, 29 May 2026 15:26:42 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-29T19:30:01.682Z"
+  },
+  {
+    "title": "Mom used identity of Nashville daughter, who had been missing for 9 years, for food stamps: cops",
+    "description": "A mother was arrested after she allegedly continued collecting her daughter's food stamps — for nine years after she went missing, police said.",
+    "link": "https://nypost.com/2026/05/29/us-news/mom-charged-with-fraud-for-using-missing-daughters-id-for-food-stamps/",
+    "pubDate": "Fri, 29 May 2026 15:25:53 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-29T19:30:01.682Z"
+  },
+  {
+    "title": "Park Slope Coop’s Israel boycott actually ripped Arab products from the shelves: business owner",
+    "description": "Park Slope Food Coop’s contested vote to boycott Israeli products earlier this week has actually removed Arab-founded products from the shelves, according to one of the business owners impacted. Rachel Simons, the founder and CEO of tahini brand Seed + Mill — one of the products impacted by the boycott — told The Post that...",
+    "link": "https://nypost.com/2026/05/29/lifestyle/park-slope-coops-israel-boycott-actually-forced-arab-products-from-shelves-business-owner/",
+    "pubDate": "Fri, 29 May 2026 15:18:21 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-29T19:30:01.682Z"
+  },
+  {
+    "title": "Intimate details of JFK Jr.’s ‘whirlwind’ fling with Madonna revealed after she named him ‘best sex’ of her life",
+    "description": "JFK Jr.'s inner circle dished on his short-lived romance with the pop star after she said he was the best sex of her life.",
+    "link": "https://pagesix.com/2026/05/29/celebrity-news/intimate-details-of-jfk-jr-s-whirlwind-fling-with-madonna-revealed-after-she-named-him-best-sex-of-her-life/",
+    "pubDate": "Fri, 29 May 2026 15:16:09 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-29T19:30:01.682Z"
   }
 ]
