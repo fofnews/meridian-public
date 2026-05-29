@@ -101,5 +101,81 @@
     "source": "Newsweek",
     "categories": [],
     "collectedAt": "2026-05-29T04:30:01.364Z"
+  },
+  {
+    "title": "Blue Origin Rocket Blows Up on Florida Launchpad During Test",
+    "description": "The rocket, built by the Jeff Bezos-owned space company, was to carry 48 satellites into space. Blue Origin reported on social media that “all personnel have been accounted for.”",
+    "link": "https://www.nytimes.com/2026/05/28/science/blue-origin-explosion-rocket.html",
+    "pubDate": "Fri, 29 May 2026 04:30:36 +0000",
+    "source": "NY Times",
+    "categories": [
+      "private spaceflight",
+      "satellites",
+      "space and astronomy",
+      "blue origin",
+      "starlink satellite constellation (spacex)",
+      "national aeronautics and space administration",
+      "bezos, jeffrey p"
+    ],
+    "collectedAt": "2026-05-29T04:45:01.712Z"
+  },
+  {
+    "title": "Scripps Spelling Bee 2026 Takeaways: Shrey Parikh Wins in Spell-Off",
+    "description": "The competition came down to a spell-off. Contestants were eliminated early, and a sixth grader became a crowd favorite.",
+    "link": "https://www.nytimes.com/2026/05/28/us/scripps-spelling-bee-takeaways-winner.html",
+    "pubDate": "Fri, 29 May 2026 04:38:44 +0000",
+    "source": "NY Times",
+    "categories": [
+      "spelling",
+      "scripps national spelling bee"
+    ],
+    "collectedAt": "2026-05-29T04:45:01.712Z"
+  },
+  {
+    "title": "Kansas City Chiefs 2026 Training Camp Preview: Is KC Still a Playoff Team?",
+    "description": "What should Kansas City Chiefs fans expect from the team heading into training camp? Read our team preview here.",
+    "link": "https://www.newsweek.com/sports/nfl/kansas-city-chiefs-2026-training-camp-preview-is-kc-still-a-playoff-team-12007154",
+    "pubDate": "Fri, 29 May 2026 00:29:40 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-29T04:45:01.712Z"
+  },
+  {
+    "title": "Knicks, Thunder, or Spurs? Ranking the NBA Title Favorites by the Odds",
+    "description": "There are three teams left in the NBA playoffs: Knicks, Thunder, and Spurs. Who do you have as the favorite to win it all?",
+    "link": "https://www.newsweek.com/sports/nba/knicks-thunder-or-spurs-ranking-the-nba-title-favorites-by-the-odds-12007119",
+    "pubDate": "Fri, 29 May 2026 00:28:54 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-29T04:45:01.712Z"
+  },
+  {
+    "title": "12-Year-Old Boy Dies After Raft Capsizes During School Trip in Pennsylvania",
+    "description": "A 12-year-old boy died from accidental drowning during a school rafting trip in Pennsylvania's Pocono Mountains after his raft capsized, officials said.",
+    "link": "https://www.foxnews.com/us/12-year-old-boy-drowns-raft-capsizes-school-trip-pennsylvanias-pocono-mountains",
+    "pubDate": "Fri, 29 May 2026 00:33:47 -0400",
+    "source": "Fox News",
+    "categories": [
+      "e2fbbc01-e070-5320-8f76-7b8925fca92d",
+      "fnc",
+      "fox news",
+      "fox-news/great-outdoors/boating",
+      "fox-news/us/education/parents",
+      "fox-news/us/education/high-school",
+      "fox-news/us/us-regions/northeast/pennsylvania",
+      "fox-news/floods",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-05-29T04:45:01.712Z"
+  },
+  {
+    "title": "St. John’s baseball headed to NCAA Tournament on strength of local players",
+    "description": "Historically, the best St. John’s baseball teams have been led by local stars. This year's team is no different.",
+    "link": "https://nypost.com/2026/05/29/sports/st-johns-baseball-headed-to-ncaa-tournament-on-strength-of-local-players/",
+    "pubDate": "Fri, 29 May 2026 00:41:31 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-29T04:45:01.712Z"
   }
 ]
