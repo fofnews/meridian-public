@@ -836,5 +836,62 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-29T08:45:01.410Z"
+  },
+  {
+    "title": "Morning news brief",
+    "description": "The U.S. says it's moving closer to a deal to end the Iran war despite continued fighting, DOJ opens investigation into Trump accuser E. Jean Carroll, Bari Weiss wants to reinvent CBS' \"60 Minutes.\"",
+    "link": "https://www.npr.org/2026/05/29/nx-s1-5831085/morning-news-brief",
+    "pubDate": "Fri, 29 May 2026 04:47:36 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-05-29T09:00:01.225Z"
+  },
+  {
+    "title": "Kenya court suspends US plan for Ebola quarantine facility for Americans",
+    "description": "A court in Kenya has suspended a U.S. plan to establish a quarantine facility for Americans exposed to a rare Ebola virus in northeastern Congo",
+    "link": "https://abcnews.com/Health/wireStory/kenya-court-suspends-us-plan-ebola-quarantine-facility-133410257",
+    "pubDate": "Fri, 29 May 2026 03:51:05 -0400",
+    "source": "ABC News",
+    "categories": [
+      "health"
+    ],
+    "collectedAt": "2026-05-29T09:00:01.225Z"
+  },
+  {
+    "title": "Imported voters, fake websites: Russia's covert efforts to stop Armenia's pivot West - Reuters",
+    "description": "Exclusive: Imported voters, fake websites: Russia's covert efforts to stop Armenia's pivot West  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcWtocUNFR1R2bWM4WnhldC1jcURaME1jSkJnd0lUSW5fWnVtejhKX2h1azhBU1dYejZCclFYcVJDYW5iUW5IanpNX1FIMkk4Nk5rX2ktS1FibzZYS2RKeE9TbHlUV3JtOWNOYkE0bVo5cm9mQUxqbHB6SW9KX2Q3ZFJpTnpuQy13MGJZLVZXdFFnMFc4Z1I5NXVPZmM4Vldnc2dZazg4eG85c2hkWXFTcWlDODJSaWZUcHJn?oc=5",
+    "pubDate": "Fri, 29 May 2026 07:11:20 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-05-29T09:00:01.225Z"
+  },
+  {
+    "title": "Rescuers work to drain flooded Laos cave to free 5 villagers and search for 2 still missing",
+    "description": "Rescuers working at a flooded cave in Laos said Friday that they were trying to drain water out to help extricate five villagers who have been trapped for more than a week.",
+    "link": "https://nypost.com/2026/05/29/world-news/rescuers-work-to-drain-flooded-laos-cave-to-free-5-villagers-and-search-for-2-still-missing/",
+    "pubDate": "Fri, 29 May 2026 04:57:19 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-29T09:00:01.225Z"
+  },
+  {
+    "title": "Multiple performers drop out of Great American State Fair for America 250 celebration",
+    "description": "On Wednesday, a list of nine performers was announced for the Great American State Fair in Washington, D.C. By Thursday, several had announced they would no longer be participating in the festivities, including the singer scheduled to perform the first night, country singer Martina McBride. The fair was part of the America 250 celebration and is […]",
+    "link": "https://www.washingtonexaminer.com/news/4586672/multiple-performers-drop-out-of-great-american-state-fair-for-america-250-celebration/",
+    "pubDate": "Fri, 29 May 2026 08:58:30 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "entertainment",
+      "news",
+      "america 250",
+      "donald trump",
+      "hollywood",
+      "music",
+      "national mall",
+      "president donald trump",
+      "washington d.c"
+    ],
+    "collectedAt": "2026-05-29T09:00:01.225Z"
   }
 ]
