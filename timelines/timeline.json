@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-05-25",
+      "lastSeen": "2026-05-29",
       "active": true,
       "entries": [
         {
@@ -231,6 +231,11 @@
           "date": "2026-05-25",
           "edition": "evening",
           "update": "Rep. Thomas Massie, despite losing his primary race after being targeted by President Trump, promised to expose additional names from the Epstein files before his term ends in approximately seven months."
+        },
+        {
+          "date": "2026-05-29",
+          "edition": "morning",
+          "update": "Pam Bondi appeared before the House Oversight Committee in a closed-door transcribed interview on Friday regarding the Epstein files, despite having been removed from her role as attorney general in April. A lawyer representing Epstein survivors told BBC News that his clients lack confidence in how UK police would treat them, casting doubt on their willingness to cooperate with the British inquiry into Prince Andrew."
         }
       ],
       "parentId": null
@@ -239,7 +244,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-05-28",
+      "lastSeen": "2026-05-29",
       "active": true,
       "entries": [
         {
@@ -336,6 +341,11 @@
           "date": "2026-05-28",
           "edition": "morning",
           "update": "The White House dismissed an outline of an 'unofficial' Iran deal, according to the NY Times."
+        },
+        {
+          "date": "2026-05-29",
+          "edition": "morning",
+          "update": "Wall Street investors are broadly assuming a U.S.-Iran nuclear deal would be a net positive for stocks and risky assets, though analysts also raise the possibility it could trigger a market selloff. Separately, analysts suggest oil prices may not return to previous lower levels even after the conflict concludes."
         }
       ],
       "parentId": null
@@ -344,7 +354,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-05-28",
+      "lastSeen": "2026-05-29",
       "active": true,
       "entries": [
         {
@@ -566,6 +576,11 @@
           "date": "2026-05-28",
           "edition": "morning",
           "update": "Ukrainian President Zelensky appealed directly to Trump and members of Congress on Wednesday, requesting Patriot missile interceptors and citing Ukraine's lack of domestic capability to produce anti-missile defense systems. The U.S. Embassy in Kyiv denied reports of an evacuation, disputing claims by EU foreign policy chief Kaja Kallas that Washington had withdrawn personnel amid escalating Russian airstrike threats. Ukrainian veterans returning from the front are facing a growing mental health crisis, according to a Washington Examiner report from Lviv."
+        },
+        {
+          "date": "2026-05-29",
+          "edition": "morning",
+          "update": "Russia dismissed a U.S. call not to launch systemic strikes on Kyiv, according to Reuters, signaling continued disagreement between Moscow and Washington over attacks on the Ukrainian capital."
         }
       ],
       "parentId": null
@@ -704,7 +719,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-27",
+      "lastSeen": "2026-05-29",
       "active": true,
       "entries": [
         {
@@ -891,6 +906,11 @@
           "date": "2026-05-27",
           "edition": "morning",
           "update": "Lebanon's Health Ministry reported that Israeli attacks have killed 3,213 people and injured 9,737 in Lebanon since March 2, according to Al Jazeera."
+        },
+        {
+          "date": "2026-05-29",
+          "edition": "morning",
+          "update": "Israeli Prime Minister Netanyahu announced he has ordered the military to seize control of 70 percent of Gaza, a move BBC News reported would contradict the terms of the ceasefire agreed with Hamas in October 2025."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -999,7 +1019,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-05-28",
+      "lastSeen": "2026-05-29",
       "active": true,
       "entries": [
         {
@@ -1261,6 +1281,11 @@
           "date": "2026-05-28",
           "edition": "evening",
           "update": "Israel carried out a targeted strike on Beirut, marking a significant escalation as the Lebanese capital had largely been spared from direct strikes despite ongoing hostilities. Hezbollah has shifted to using fibre-optic drones as its primary weapon against Israeli forces and civilians, a tactic adapted from Ukrainian warfare, according to BBC News."
+        },
+        {
+          "date": "2026-05-29",
+          "edition": "morning",
+          "update": "Families in Tyre had their homes destroyed by Israeli airstrikes shortly after receiving evacuation orders, with some residents defying the orders and refusing to leave despite the bombings, according to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1269,7 +1294,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-05-28",
+      "lastSeen": "2026-05-29",
       "active": true,
       "entries": [
         {
@@ -1801,6 +1826,11 @@
           "date": "2026-05-28",
           "edition": "evening",
           "update": "U.S. and Iranian negotiators reached a tentative memorandum of understanding, first reported by Axios, proposing a 60-day ceasefire extension, reopening of the Strait of Hormuz, and the start of substantive nuclear program negotiations, pending final approval from President Trump. Treasury Secretary Scott Bessent announced sanctions against Iran's Persian Gulf Strait Authority and warned against paying tolls in the Strait of Hormuz, with his announcements made on Thursday. President Trump threatened to bomb Oman during a Cabinet meeting over its role in Strait of Hormuz negotiations, prompting Iran's Foreign Ministry to pledge support for Oman against U.S. threats. Iran fired a ballistic missile at Kuwait at 10:17 p.m. ET on May 27, which was successfully intercepted by Kuwaiti forces; U.S. Central Command called it an 'egregious ceasefire violation.' The Iran conflict drove the April PCE index to a 3.8 percent year-over-year rise, the largest since May 2023, with energy prices identified as a leading inflationary factor. Iranian authorities have arbitrarily arrested at least 6,000 people since February 28, including journalists, lawyers, and human rights defenders, amid a crackdown following the U.S.-Israel conflict with Iran, according to a human rights report cited by the Washington Examiner."
+        },
+        {
+          "date": "2026-05-29",
+          "edition": "morning",
+          "update": "The White House confirmed the general outlines of a 60-day ceasefire extension with Iran but said President Trump has not yet given final approval; Iranian officials denied any agreement had been reached. Vice President Vance stated the U.S. and Iran are 'very close' to a deal but 'not there yet,' with the tentative framework including a ceasefire extension and reopening of the Strait of Hormuz. Iranian state TV claimed U.S. aircraft were destroyed in Iran's Bushehr province, a claim the U.S. has not confirmed. The DOJ indicted Mohammad Baqer Saad Dawood al Saadi, a dual Iraqi-Iranian national, on charges of plotting terrorist attacks in the U.S. and coordinating nearly 20 attacks across Europe on behalf of Iranian-backed organizations; he was taken into custody on May 1. Trump stated in an interview that Iran crossing a specific line would trigger a renewed U.S. offensive military campaign, without specifying the exact threshold."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2089,7 +2119,7 @@
       "id": "cuba-energy-crisis",
       "title": "Cuba Energy Crisis",
       "firstSeen": "2026-03-16",
-      "lastSeen": "2026-05-28",
+      "lastSeen": "2026-05-29",
       "active": true,
       "entries": [
         {
@@ -2261,6 +2291,11 @@
           "date": "2026-05-28",
           "edition": "evening",
           "update": "A Russian tanker that appeared to be heading to Cuba with fuel supplies changed course, denying the island a critical energy shipment as it continues to face a U.S. oil blockade, according to the NY Times."
+        },
+        {
+          "date": "2026-05-29",
+          "edition": "morning",
+          "update": "Nearly 3 million Cubans are experiencing daily water shortages as the severe oil shortage cripples the country's infrastructure, with Cuban government officials attributing the crisis to a U.S. energy blockade."
         }
       ],
       "parentId": null
@@ -2565,7 +2600,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-28",
+      "lastSeen": "2026-05-29",
       "active": true,
       "entries": [
         {
@@ -2880,7 +2915,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-05-28",
+      "lastSeen": "2026-05-29",
       "active": true,
       "entries": [
         {
@@ -2947,6 +2982,11 @@
           "date": "2026-05-28",
           "edition": "evening",
           "update": "The U.S. Treasury Department sanctioned Iran's Persian Gulf Strait Authority (PGSA), a newly formed Iranian government agency, describing it as an IRGC attempt to control and monetize passage through the Strait of Hormuz."
+        },
+        {
+          "date": "2026-05-29",
+          "edition": "morning",
+          "update": "The U.S. and Iran have entered an economic standoff in the Strait of Hormuz, with an American blockade and Iranian control of the strait creating a stalemate as both sides attempt economic strangulation through naval presence, according to the NY Times."
         }
       ]
     },
@@ -3160,13 +3200,18 @@
       "title": "Congo Ebola Outbreak",
       "parentId": null,
       "firstSeen": "2026-05-19",
-      "lastSeen": "2026-05-19",
+      "lastSeen": "2026-05-29",
       "active": true,
       "entries": [
         {
           "date": "2026-05-19",
           "edition": "morning",
           "update": "At least 131 people have died in the Congo Ebola outbreak, prompting the WHO to express concern over its speed and scale. An American medical missionary who tested positive for Ebola in the Democratic Republic of Congo is being transported to Germany for treatment."
+        },
+        {
+          "date": "2026-05-29",
+          "edition": "morning",
+          "update": "A Kenyan court suspended the U.S. plan to establish an Ebola quarantine facility in Kenya, which the Trump administration had confirmed it was working to set up for Americans exposed to or infected with Ebola. WHO Director-General traveled to Kinshasa to personally assess the outbreak response, amid ongoing challenges including local distrust and insecurity."
         }
       ]
     },
@@ -3196,5 +3241,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-28T21:10:47.093Z"
+  "updatedAt": "2026-05-29T11:07:01.432Z"
 }
