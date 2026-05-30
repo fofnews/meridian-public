@@ -84,5 +84,67 @@
     "source": "BBC News",
     "categories": [],
     "collectedAt": "2026-05-30T04:30:01.563Z"
+  },
+  {
+    "title": "White House Releases Results of Trump’s Latest Physical Exam",
+    "description": "The report by President Trump’s physician said he was in “excellent health.” It showed that he had gained weight and that neurological and heart tests had come back “normal.”",
+    "link": "https://www.nytimes.com/2026/05/30/us/politics/trump-health-medical-physical-exam.html",
+    "pubDate": "Sat, 30 May 2026 04:49:07 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "diet and nutrition",
+      "trump, donald j",
+      "reed, walter, national military medical center",
+      "tests (medical)"
+    ],
+    "collectedAt": "2026-05-30T05:00:01.797Z"
+  },
+  {
+    "title": "Frustration in Lebanon as Israel expands invasion",
+    "description": "Israel’s ground invasion of Lebanon has moved deeper into sovereign territory, with troops crossing the Litani river.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/aje-onl-nf_frustration-in-lebanon-as-israel-expands-invasion-300526?traffic_source=rss",
+    "pubDate": "Sat, 30 May 2026 04:36:17 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-05-30T05:00:01.797Z"
+  },
+  {
+    "title": "Yankees’ offense keep things rolling against A’s for fifth straight victory",
+    "description": "Not an off day nor a change in time zones could cool off the Yankees offense.",
+    "link": "https://nypost.com/2026/05/30/sports/yankees-offense-keep-things-going-against-as-for-fifth-straight-victory/",
+    "pubDate": "Sat, 30 May 2026 00:57:39 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-30T05:00:01.797Z"
+  },
+  {
+    "title": "Karl-Anthony Towns credits Jeremy Lin for making him a Knicks fan",
+    "description": "As Linsanity took over the NBA, Karl-Anthony Towns was as big a fan as anyone.",
+    "link": "https://nypost.com/2026/05/30/sports/karl-anthony-towns-credits-jeremy-lin-for-making-him-a-knicks-fan/",
+    "pubDate": "Sat, 30 May 2026 00:49:56 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-30T05:00:01.797Z"
+  },
+  {
+    "title": "Anti-ICE agitator charged with allegedly biting officers during Delaney Hall protest",
+    "description": "The anti-ICE rioter who allegedly sank his teeth into federal law enforcement officers during a violent protest at Delaney Hall Thursday has been charged.",
+    "link": "https://nypost.com/2026/05/30/us-news/anti-ice-agitator-brendan-geier-charged-with-allegedly-biting-officers-during-nj-delaney-hall-protest/",
+    "pubDate": "Sat, 30 May 2026 00:49:42 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-30T05:00:01.797Z"
+  },
+  {
+    "title": "Betnijah Laney-Hamilton returns to lineup to play key role in Liberty win",
+    "description": "Betnijah Laney-Hamilton needed time.",
+    "link": "https://nypost.com/2026/05/30/sports/betnijah-laney-hamilton-returns-to-lineup-to-play-key-role-in-liberty-win/",
+    "pubDate": "Sat, 30 May 2026 00:48:31 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-30T05:00:01.797Z"
   }
 ]
