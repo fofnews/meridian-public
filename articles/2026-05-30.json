@@ -676,5 +676,75 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-30T09:30:01.317Z"
+  },
+  {
+    "title": "Four more men freed from flooded Laos cave",
+    "description": "The first of the five men was rescued on Friday after flash-flooding cut the men off from an exit",
+    "link": "https://www.bbc.com/news/articles/cn4pn4ex0ymo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 30 May 2026 09:21:46 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-30T09:45:01.627Z"
+  },
+  {
+    "title": "Four more men rescued from flooded cave after becoming trapped while searching for gold",
+    "description": "Five men have been freed after spending more than a week trapped in a flooded cave in Laos, according to rescuers, with two others still missing",
+    "link": "https://www.nbcnews.com/world/asia/four-men-rescued-week-trapped-flooded-cave-laos-rcna347660",
+    "pubDate": "Sat, 30 May 2026 09:24:07 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-05-30T09:45:01.627Z"
+  },
+  {
+    "title": "Map Shows States Where Donald Trump's Approval Rating Has Crashed the Most",
+    "description": "The president is underwater in many key swing states, signaling a shift in the battlegrounds that often decide national elections.",
+    "link": "https://www.newsweek.com/map-donald-trump-approval-rating-crash-states-11998580",
+    "pubDate": "Sat, 30 May 2026 05:30:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-30T09:45:01.627Z"
+  },
+  {
+    "title": "Police fire tear gas during protest outside New Jersey ICE facility",
+    "description": "Police fired tear gas and used horses to push back protesters outside the Delaney Hall immigration detention facility.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/police-fire-tear-gas-during-protest-outside-new-jersey-ice-facility?traffic_source=rss",
+    "pubDate": "Sat, 30 May 2026 09:28:36 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-05-30T09:45:01.627Z"
+  },
+  {
+    "title": "Officer accuses disabled driver of holding phone with missing hand",
+    "description": "A traffic stop in Florida has gone viral after an officer accused a disabled driver of holding a phone in her right hand",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/30/officer-accuses-disabled-driver-of-holding-phone-with-missing-hand?traffic_source=rss",
+    "pubDate": "Sat, 30 May 2026 09:11:28 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-30T09:45:01.627Z"
+  },
+  {
+    "title": "Trump declared 'fully fit' for all presidential duties after annual physical shows 'excellent health'",
+    "description": "President Donald Trump remains in \"excellent health\" with no major concerns identified, his physician says following his annual physical at Walter Reed.",
+    "link": "https://www.foxnews.com/politics/trump-declared-fully-fit-all-presidential-duties-annual-physical-shows-excellent-health",
+    "pubDate": "Sat, 30 May 2026 05:27:47 -0400",
+    "source": "Fox News",
+    "categories": [
+      "23e07992-abc8-50df-b461-800c5c25e949",
+      "fnc",
+      "fox news",
+      "fox-news/person/donald-trump",
+      "fox-news/politics/elections/presidential",
+      "fox-news/health/healthy-living/mens-health",
+      "fox-news/health",
+      "fox-news/politics",
+      "fox-news/politics/executive/white-house",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-05-30T09:45:01.627Z"
   }
 ]
