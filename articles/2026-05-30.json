@@ -450,5 +450,43 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-30T08:30:01.228Z"
+  },
+  {
+    "title": "United Airlines plane diverted and ‘unruly passenger’ detained after in-flight incident",
+    "description": "A United flight bound for Minneapolis diverted to Dane County Regional Airport Friday night after reports of an unruly passenger, officials said",
+    "link": "https://www.nbcnews.com/news/us-news/united-airlines-plane-diverted-unruly-passenger-detained-rcna347658",
+    "pubDate": "Sat, 30 May 2026 08:24:53 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-05-30T08:45:01.527Z"
+  },
+  {
+    "title": "I Thought My Sore Throat Was Harmless, Then I Was Given a Death Sentence",
+    "description": "I kept telling myself I was just being dramatic, but one blood test changed everything and may have saved my life.",
+    "link": "https://www.newsweek.com/i-thought-my-sore-throat-was-harmless-then-i-was-given-a-death-sentence-12003116",
+    "pubDate": "Sat, 30 May 2026 04:30:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-30T08:45:01.527Z"
+  },
+  {
+    "title": "Voting ongoing in snap elections in Malta, governing party expected to win",
+    "description": "Malta's economy to dominate this year’s election, with rising rents and infrastructure at the forefront of debates.",
+    "link": "https://www.aljazeera.com/news/2026/5/30/voting-ongoing-in-snap-elections-in-malta-governing-party-expected-to-win?traffic_source=rss",
+    "pubDate": "Sat, 30 May 2026 08:22:40 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-30T08:45:01.527Z"
+  },
+  {
+    "title": "Yankees give Jose Caballero start at shortstop in win over A’s",
+    "description": "The Yankees spun their daily shortstop roulette wheel Friday and for the first time since Sunday, it came up on José Caballero.",
+    "link": "https://nypost.com/2026/05/30/sports/yankees-give-jose-caballero-start-at-shortstop-in-win-over-as/",
+    "pubDate": "Sat, 30 May 2026 04:32:50 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-30T08:45:01.527Z"
   }
 ]
