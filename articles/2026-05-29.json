@@ -12765,5 +12765,33 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-30T02:00:02.771Z"
+  },
+  {
+    "title": "What Novak Djokovic Told Joao Fonseca After French Open Defeat",
+    "description": "Tennis legend Novak Djokovic revealed what he told Joao Fonseca after his upset loss at the French Open on Friday.",
+    "link": "https://www.newsweek.com/sports/what-novak-djokovic-told-joao-fonseca-after-french-open-defeat-12011852",
+    "pubDate": "Fri, 29 May 2026 22:00:27 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-30T02:15:01.215Z"
+  },
+  {
+    "title": "FBI arrests protester who threatened to kill ICE officer's family at NJ detention center protest, Blanche says",
+    "description": "Acting AG Todd Blanche says the FBI arrested a man who made death threats against an ICE officer and his family at a Newark, New Jersey protest.",
+    "link": "https://www.foxnews.com/politics/fbi-arrests-protester-threatened-kill-ice-officers-family-nj-detention-center-protest-blanche-says",
+    "pubDate": "Fri, 29 May 2026 21:55:54 -0400",
+    "source": "Fox News",
+    "categories": [
+      "acd25841-5bc6-5cf4-85d7-3f386dd71817",
+      "fnc",
+      "fox news",
+      "fox-news/politics/attorney-general",
+      "fox-news/us/immigration",
+      "fox-news/tech/topics/fbi",
+      "fox-news/politics",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-05-30T02:15:01.215Z"
   }
 ]
