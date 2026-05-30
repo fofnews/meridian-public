@@ -276,5 +276,56 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-30T07:30:01.272Z"
+  },
+  {
+    "title": "The tactics that could win Arsenal the Champions League",
+    "description": "BBC Sport's tactics correspondent Umir Irfan looks at how Arsenal can defeat Paris St-Germain in Saturday's Champions League final.",
+    "link": "https://www.bbc.com/sport/football/articles/c8xwwp0vr17o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 30 May 2026 05:17:50 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-30T07:45:01.279Z"
+  },
+  {
+    "title": "Iran war: What is happening on day 92 as Trump weighs Iran deal",
+    "description": "Trump weighs next steps on Iran deal as Tehran insists negotiations are continuing and no final agreement exists.",
+    "link": "https://www.aljazeera.com/news/2026/5/30/iran-war-what-is-happening-on-day-92-as-trump-weighs-iran-deal?traffic_source=rss",
+    "pubDate": "Sat, 30 May 2026 07:30:15 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-30T07:45:01.279Z"
+  },
+  {
+    "title": "Satire, social media and India’s Gen Z revolt",
+    "description": "A satirical online movement challenges power and propaganda in India.",
+    "link": "https://www.aljazeera.com/video/the-listening-post/2026/5/30/satire-social-media-and-indias-gen-z-revolt?traffic_source=rss",
+    "pubDate": "Sat, 30 May 2026 07:05:17 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "tv shows"
+    ],
+    "collectedAt": "2026-05-30T07:45:01.279Z"
+  },
+  {
+    "title": "'Spokane 3' protesters convicted on federal conspiracy charges for blocking ICE transfer in Washington",
+    "description": "Three protesters known as the Spokane 3 face federal conspiracy convictions for blocking an ICE transfer bus during Washington state protests in 2025.",
+    "link": "https://www.foxnews.com/us/spokane-3-protesters-convicted-federal-conspiracy-charges-blocking-ice-transfer-washington",
+    "pubDate": "Sat, 30 May 2026 03:29:41 -0400",
+    "source": "Fox News",
+    "categories": [
+      "8b84b648-26e1-5ab5-8f00-c13689b6ac6d",
+      "fnc",
+      "fox news",
+      "fox-news/us/immigration",
+      "fox-news/entertainment/events/in-court",
+      "fox-news/us/immigration/immigrant-rights",
+      "fox-news/us/crime/trials",
+      "fox-news/us/us-regions/west/washington",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-05-30T07:45:01.279Z"
   }
 ]
