@@ -1,11 +1,13 @@
 const UNITS = '(?:percent|%|billion|million|thousand|trillion|dollars?|deaths?|killed|injured)';
-const WRITTEN = '(?:one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety|hundred|thousand|million|billion|trillion)';
+const SMALL_WRITTEN = '(?:one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve)';
+const LARGE_WRITTEN = '(?:thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety|hundred|thousand|million|billion|trillion)';
 
 const DATA_RE = new RegExp(
   `\\b(?:` +
     `\\d[\\d,.]*(?:\\s+${UNITS})?` +
-    `|${WRITTEN}(?:\\s+${UNITS})?` +
-    `|${UNITS}\\s+${WRITTEN}` +
+    `|${SMALL_WRITTEN}\\s+${UNITS}` +
+    `|${LARGE_WRITTEN}(?:\\s+${UNITS})?` +
+    `|${UNITS}\\s+(?:${SMALL_WRITTEN}|${LARGE_WRITTEN})` +
   `)\\b`,
   'i'
 );
@@ -49,7 +51,7 @@ export function splitIntoSentences(text) {
         current += closingQuotes;
         i = j - 1;
         quoteDepth = Math.max(0, quoteDepth - closingQuotes.length);
-        result.push(current.trimEnd());
+        result.push(current.trim());
         current = '';
         if (followedBySpace) i = j;
       }
@@ -60,7 +62,7 @@ export function splitIntoSentences(text) {
   return result;
 }
 
-export function classifyIntent({ anchor, sentenceContainingAnchor, previousSentence, isFirstOccurrenceInShot }) {
+export function classifyIntent({ _anchor, sentenceContainingAnchor, _previousSentence, isFirstOccurrenceInShot }) {
   const sentence = sentenceContainingAnchor ?? '';
 
   if (DATA_RE.test(sentence)) return 'data';

@@ -47,6 +47,14 @@ describe('classifyIntent', () => {
       isFirstOccurrenceInShot: false,
     })).toBe('hold');
   });
+
+  it('small written number without unit does NOT trigger data — "Two sides exchanged fire."', () => {
+    expect(classify('Two sides exchanged fire.')).not.toBe('data');
+  });
+
+  it('small written number followed by unit DOES trigger data — "Two million displaced."', () => {
+    expect(classify('Two million displaced.')).toBe('data');
+  });
 });
 
 describe('splitIntoSentences', () => {
@@ -62,5 +70,12 @@ describe('splitIntoSentences', () => {
     expect(result).toHaveLength(2);
     expect(result[0]).toBe('He said "wait. Stop."');
     expect(result[1]).toBe('Then left.');
+  });
+
+  it('strips leading space when sentences separated by two spaces', () => {
+    expect(splitIntoSentences('Hello world.  Foo bar.')).toEqual([
+      'Hello world.',
+      'Foo bar.',
+    ]);
   });
 });
