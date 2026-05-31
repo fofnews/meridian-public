@@ -273,5 +273,45 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-31T07:00:02.278Z"
+  },
+  {
+    "title": "Panic on beach in northern Israel during Hezbollah strikes",
+    "description": "Videos show people on a beach in Nahariya, Israel running for shelter as Hezbollah rockets are launched.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/panic-on-beach-in-northern-israel-during-hezbollah-strikes?traffic_source=rss",
+    "pubDate": "Sun, 31 May 2026 06:43:04 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-05-31T07:15:01.358Z"
+  },
+  {
+    "title": "Karen Bass appears to liken Spencer Pratt to Trump amid tightening LA mayoral race",
+    "description": "The Los Angeles mayoral race heads toward a likely runoff as Karen Bass, Spencer Pratt and Nithya Raman make final pitches before Election Day on Tuesday.",
+    "link": "https://www.foxnews.com/politics/karen-bass-appears-liken-spencer-pratt-trump-amid-tightening-la-mayoral-race",
+    "pubDate": "Sun, 31 May 2026 02:59:01 -0400",
+    "source": "Fox News",
+    "categories": [
+      "3a2f8cbd-d2d8-5483-9879-72131cbbfb6b",
+      "fnc",
+      "fox news",
+      "fox-news/us/los-angeles",
+      "fox-news/politics/elections",
+      "fox-news/person/gavin-newsom",
+      "fox-news/person/kamala-harris",
+      "fox-news/politics/elections/2023/primary-results",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-05-31T07:15:01.358Z"
+  },
+  {
+    "title": "Dear Abby: My husband not getting along with my sister and her husband is dividing my family apart",
+    "description": "Dear Abby advises a man whose husband doesn't get along with his sister and husband, and feels conflicted about how to solve this dilemma.",
+    "link": "https://nypost.com/2026/05/31/lifestyle/dear-abby-my-husband-not-getting-along-with-my-sister-and-her-husband-is-dividing-my-family-apart/",
+    "pubDate": "Sun, 31 May 2026 03:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-31T07:15:01.358Z"
   }
 ]
