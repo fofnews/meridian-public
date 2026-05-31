@@ -661,5 +661,34 @@
       "war"
     ],
     "collectedAt": "2026-05-31T09:30:01.121Z"
+  },
+  {
+    "title": "Delaney Hall Curfew Announced After Violent Clashes",
+    "description": "Demonstrations around the detention facility have intensified, while New Jersey's governor described the area as \"unsafe.\"",
+    "link": "https://www.newsweek.com/delaney-hall-curfew-announced-after-violent-clashes-12014070",
+    "pubDate": "Sun, 31 May 2026 05:41:30 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-31T09:45:01.639Z"
+  },
+  {
+    "title": "Paris Soccer Victory Leads to Street Clashes, Hundreds of Arrests",
+    "description": "Over 400 people were detained after celebrations marking Paris Saint-Germain’s win over Arsenal descended into unrest.",
+    "link": "https://www.newsweek.com/sports/paris-saint-germain-soccer-victory-street-clashes-arrests-12014010",
+    "pubDate": "Sun, 31 May 2026 05:36:25 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-05-31T09:45:01.639Z"
+  },
+  {
+    "title": "Trump tightens terms on Iran war deal, US media say",
+    "description": "US officials indicate Tehran may take days to respond to Trump's tougher terms on a potential peace agreement.",
+    "link": "https://www.aljazeera.com/news/2026/5/31/trump-tightens-terms-on-iran-war-deal-us-media-say?traffic_source=rss",
+    "pubDate": "Sun, 31 May 2026 09:15:00 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-05-31T09:45:01.639Z"
   }
 ]
