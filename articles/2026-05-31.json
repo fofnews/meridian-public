@@ -63,5 +63,54 @@
     "source": "BBC News",
     "categories": [],
     "collectedAt": "2026-05-31T05:15:02.271Z"
+  },
+  {
+    "title": "The world hit a 44-year high in executions",
+    "description": "Governments around the world executed more people in 2025 than at any point since 1981.",
+    "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/5/31/the-world-hit-a-44-year-high-in-executions?traffic_source=rss",
+    "pubDate": "Sun, 31 May 2026 05:03:18 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-05-31T05:30:01.202Z"
+  },
+  {
+    "title": "Hasan Piker defends pro-communist, anti-ICE Singham network activists as 'wonderful people'",
+    "description": "Marxist influencer Hasan Piker defended the Singham-funded activist network at a New Jersey ICE protest and dismissed federal scrutiny of his Cuba travel.",
+    "link": "https://www.foxnews.com/politics/hasan-piker-defends-pro-communist-anti-ice-singham-network-activists-wonderful-people",
+    "pubDate": "Sun, 31 May 2026 01:20:31 -0400",
+    "source": "Fox News",
+    "categories": [
+      "2771ae0a-e1e3-579a-8c8b-b5d09c492c1c",
+      "fnc",
+      "fox news",
+      "fox-news",
+      "fox-news/us/campus-radicals",
+      "fox-news/politics/the-squad",
+      "fox-news/us/us-regions/northeast/new-jersey",
+      "fox-news/us/us-protests",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-05-31T05:30:01.202Z"
+  },
+  {
+    "title": "Ryan Weathers, Yankees sunk by home runs in loss to A’s as winning streak ends",
+    "description": "The Yankees do seem to like Ryan Weathers, but they have a funny way of showing it for their new teammate.",
+    "link": "https://nypost.com/2026/05/31/sports/ryan-weathers-yankees-sunk-by-home-runs-in-loss-to-as-as-winning-streak-ends/",
+    "pubDate": "Sun, 31 May 2026 01:29:04 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-31T05:30:01.202Z"
+  },
+  {
+    "title": "Woman fatally stabbed on Atlanta train in ‘senseless’ daylight attack, suspect arrested",
+    "description": "First responders began rendering aid to the wounded rider before she was pronounced dead.",
+    "link": "https://nypost.com/2026/05/31/us-news/woman-stabbed-to-death-on-atlanta-marta-train-in-senseless-attack-suspect-arrested/",
+    "pubDate": "Sun, 31 May 2026 01:22:56 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-31T05:30:01.202Z"
   }
 ]
