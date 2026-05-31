@@ -6323,5 +6323,63 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-31T22:00:04.433Z"
+  },
+  {
+    "title": "DHS says most immigrants won’t need to leave US to obtain green card",
+    "description": "The Department of Homeland Security appears to be downplaying impact of policy directive issued last week that prompted concerns among immigrant advocates and lawyers.",
+    "link": "https://abcnews.com/Politics/dhs-immigrants-wont-leave-us-obtain-green-card/story?id=133469618",
+    "pubDate": "Sun, 31 May 2026 18:12:07 -0400",
+    "source": "ABC News",
+    "categories": [
+      "politics"
+    ],
+    "collectedAt": "2026-05-31T22:15:01.828Z"
+  },
+  {
+    "title": "Here’s the biggest news you missed this weekend",
+    "description": "Family visitation at a New Jersey immigration detention center is set to resume after being suspended amid days of protests, arrests and clashes outside the facility, Gov.",
+    "link": "https://www.nbcnews.com/news/us-news/weekend-rundown-may-31-rcna347615",
+    "pubDate": "Sun, 31 May 2026 22:00:00 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-05-31T22:15:01.828Z"
+  },
+  {
+    "title": "Mojtaba Khamenei touts new anti-US alliance as Gulf backchannels seep into Tehran: analyst",
+    "description": "Iran's supreme leader launched a sweeping counteroffensive against President Donald Trump, seeking to rally Middle Eastern nations into an anti-American alliance, an analyst says.",
+    "link": "https://www.foxnews.com/world/mojtaba-khamenei-touts-new-anti-us-alliance-gulf-backchannels-seep-tehran-analyst",
+    "pubDate": "Sun, 31 May 2026 18:03:35 -0400",
+    "source": "Fox News",
+    "categories": [
+      "af8d4bf5-8c0e-5102-9996-444f05bdaad9",
+      "fnc",
+      "fox news",
+      "fox-news/person/mojtaba-khamenei",
+      "fox-news/world/world-regions/middle-east",
+      "fox-news/person/donald-trump",
+      "fox-news/politics/foreign-policy/alliances",
+      "fox-news/world/conflicts/iran",
+      "fox-news/world",
+      "article"
+    ],
+    "collectedAt": "2026-05-31T22:15:01.828Z"
+  },
+  {
+    "title": "USMNT makes impressive statement before World Cup with friendly win over Senegal",
+    "description": "If you weren’t excited about the U.S. men’s national team before, you ought to be now.",
+    "link": "https://nypost.com/2026/05/31/sports/usmnt-makes-impressive-statement-before-world-cup-with-friendly-win-over-senegal/",
+    "pubDate": "Sun, 31 May 2026 18:05:09 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-31T22:15:01.828Z"
+  },
+  {
+    "title": "Syria's Sharaa Holds Phone Call With Trump, Syrian Presidency Says - Newsmax",
+    "description": "Syria's Sharaa Holds Phone Call With Trump, Syrian Presidency Says  Newsmax",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVURBQ3lyX09famt5OElDUFJWdF9FNko5MzBsT1o0cmM3djN1MUdvNzQySUVld25HTjRyaF9oenhYQmp6cFBEM1hOSWdPRmY0V2FSR3dYdzNCZWl2dWhZNHpNbFZiYVVQcTN0cWFHemJxWVNtS2Q3YU1ocEk1WG9TYkpoYkk?oc=5",
+    "pubDate": "Sun, 31 May 2026 20:19:13 GMT",
+    "source": "Newsmax",
+    "categories": [],
+    "collectedAt": "2026-05-31T22:15:01.828Z"
   }
 ]
