@@ -1461,5 +1461,77 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-31T11:45:01.695Z"
+  },
+  {
+    "title": "Scene Stealer",
+    "description": "What happens when a reporter who has interviewed some of the biggest names in Hollywood sits down with the first A.I. actress?",
+    "link": "https://www.nytimes.com/2026/05/31/briefing/ai-actress-tilly-norwood.html",
+    "pubDate": "Sun, 31 May 2026 11:29:18 +0000",
+    "source": "NY Times",
+    "categories": [
+      "internal-storyline-no",
+      "artificial intelligence",
+      "actors and actresses",
+      "celebrities"
+    ],
+    "collectedAt": "2026-05-31T12:00:01.868Z"
+  },
+  {
+    "title": "Dublin protesters demand justice over death of Congolese man",
+    "description": "Dublin protesters demand justice over death of Congolese man",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/5/31/dublin-protesters-demand-justice-over-death-of-congolese-man?traffic_source=rss",
+    "pubDate": "Sun, 31 May 2026 11:36:55 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-05-31T12:00:01.868Z"
+  },
+  {
+    "title": "Rio’s Forever War",
+    "description": "In 2025, Brazil’s deadliest police raid killed 120 people and exposed a pattern of mishandled evidence and impunity.",
+    "link": "https://www.aljazeera.com/video/fault-lines/2026/5/31/rios-forever-war?traffic_source=rss",
+    "pubDate": "Sun, 31 May 2026 11:24:16 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-05-31T12:00:01.868Z"
+  },
+  {
+    "title": "My friend, 62, earns $20,000 a year. Should she take Social Security now — and claim survivor’s benefit at 67?",
+    "description": "“I calculated her break-even point to be around age 78.”",
+    "link": "https://www.marketwatch.com/story/my-friend-62-earns-20-000-a-year-should-she-take-social-security-now-or-claim-survivors-benefit-at-67-c661bdca?mod=mw_rss_topstories",
+    "pubDate": "Sun, 31 May 2026 11:50:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-05-31T12:00:01.868Z"
+  },
+  {
+    "title": "American Frances Tiafoe clashes with French Open opponent during comeback win",
+    "description": "Frances Tiafoe won a fiery five-set match against Jaime Faria at the French Open, yelling at his opponent before completing the comeback victory.",
+    "link": "https://www.foxnews.com/sports/american-frances-tiafoe-clashes-french-open-opponent-comeback-win",
+    "pubDate": "Sun, 31 May 2026 07:52:26 -0400",
+    "source": "Fox News",
+    "categories": [
+      "e91c110f-d4d2-5b43-a37d-2ff73a897419",
+      "fnc",
+      "fox news",
+      "fox-news/sports/tennis/french-open",
+      "fox-news/sports",
+      "fox-news/sports/tennis",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-05-31T12:00:01.868Z"
+  },
+  {
+    "title": "Spurs fan, 17, declared brain dead after horrific accident while celebrating conference final win",
+    "description": "A young NBA fan suffered catastrophic head injuries after falling from a moving vehicle while celebrating a San Antonio Spurs playoff win.",
+    "link": "https://nypost.com/2026/05/31/sports/spurs-fan-17-declared-brain-dead-after-horrific-accident-while-celebrating-conference-final-win/",
+    "pubDate": "Sun, 31 May 2026 07:58:36 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-31T12:00:01.868Z"
   }
 ]
