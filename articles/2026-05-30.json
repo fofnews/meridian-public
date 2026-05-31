@@ -7969,5 +7969,91 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-31T03:15:01.380Z"
+  },
+  {
+    "title": "11 Dead as All Bodies Recovered After Washington Chemical Explosion",
+    "description": "The remains of the two workers who were still missing after the blast this week at a Washington State paper mill were recovered on Saturday, officials said.",
+    "link": "https://www.nytimes.com/2026/05/30/us/11-dead-longview-washington-chemical-explosion.html",
+    "pubDate": "Sun, 31 May 2026 02:41:58 +0000",
+    "source": "NY Times",
+    "categories": [
+      "longview (wash)",
+      "nippon dynawave packaging co",
+      "chemicals"
+    ],
+    "collectedAt": "2026-05-31T03:30:01.398Z"
+  },
+  {
+    "title": "Zelensky expecting ‘big attacks’ from Russia soon",
+    "description": "Ukrainian President Volodymyr Zelensky is bracing for a major attack from Russia that he said he expects to occur within the next 48 hours, citing intelligence shared by the U.S. and European allies. “Today at night, or tomorrow at night, we will have, we think that we will have big attacks from Russian side using…",
+    "link": "https://thehill.com/policy/international/5902840-zelensky-warns-russian-attack/",
+    "pubDate": "Sun, 31 May 2026 02:57:59 +0000",
+    "source": "The Hill",
+    "categories": [
+      "international",
+      "dmitry medvedev",
+      "russia",
+      "vladimir putin",
+      "volodymyr zelensky"
+    ],
+    "collectedAt": "2026-05-31T03:30:01.398Z"
+  },
+  {
+    "title": "Justice Department asks for judge’s recusal from Georgia election case over Fani Willis event",
+    "description": "The Justice Department (DOJ) on Friday asked a federal judge to recuse herself from overseeing the department’s lawsuit against Georgia election officials, arguing that her attendance at an event honoring Fulton County District Attorney Fani Willis raises questions about her ability to remain impartial. In a filing submitted to the U.S. District Court for the…",
+    "link": "https://thehill.com/regulation/court-battles/5902833-doj-asks-judge-recusal-georgia/",
+    "pubDate": "Sun, 31 May 2026 02:49:50 +0000",
+    "source": "The Hill",
+    "categories": [
+      "court battles",
+      "brad raffensperger",
+      "donald trump",
+      "fani willis",
+      "fulton county",
+      "judge eleanor ross",
+      "justice department"
+    ],
+    "collectedAt": "2026-05-31T03:30:01.398Z"
+  },
+  {
+    "title": "Victor Wembanyama leads Spurs past Thunder to set up 1999 NBA Finals rematch with Knicks",
+    "description": "San Antonio Spurs defeat the Oklahoma City Thunder in Game 7 to win the Western Conference title and advance to the NBA Finals against the New York Knicks.",
+    "link": "https://www.foxnews.com/sports/victor-wembanyama-leads-spurs-past-thunder-set-1999-nba-finals-rematch-knicks",
+    "pubDate": "Sat, 30 May 2026 23:13:10 -0400",
+    "source": "Fox News",
+    "categories": [
+      "1a61abf1-ac79-5138-a3b3-ed1886593304",
+      "fnc",
+      "fox news",
+      "fox-news/sports/nba-playoffs",
+      "fox-news/sports/nba",
+      "fox-news/sports/nba/san-antonio-spurs",
+      "fox-news/sports/nba/oklahoma-city-thunder",
+      "fox-news/sports/nba/new-york-knicks",
+      "fox-news/sports",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-05-31T03:30:01.398Z"
+  },
+  {
+    "title": "California neighborhood on alert after bat found near sidewalk tests positive for rabies virus",
+    "description": "A bat found near a California neighborhood tested positive for rabies, prompting health officials to urge residents to avoid contact with wildlife.",
+    "link": "https://www.foxnews.com/us/california-neighborhood-alert-bat-found-near-sidewalk-tests-positive-rabies-virus",
+    "pubDate": "Sat, 30 May 2026 23:10:55 -0400",
+    "source": "Fox News",
+    "categories": [
+      "1e4e9138-501f-5e8a-ac32-563013fbb0c9",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/west/california",
+      "fox-news/health/healthy-living/pet-health",
+      "fox-news/lifestyle/pets",
+      "fox-news/health/infectious-disease/outbreaks",
+      "fox-news/science/wild-nature/viruses",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-05-31T03:30:01.398Z"
   }
 ]
