@@ -206,5 +206,45 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-05-31T06:15:01.325Z"
+  },
+  {
+    "title": "Hundreds arrested in France after wild Champions League celebrations",
+    "description": "Thousands of officers tried to quell unrest as crowds of fans - some firing flares - celebrated PSG's victory over Arsenal.",
+    "link": "https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 31 May 2026 06:41:02 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-05-31T06:45:01.422Z"
+  },
+  {
+    "title": "France arrests hundreds of rioters nationwide as PSG win Champions League",
+    "description": "French Ministry of Interior says 416 people detained nationwide, including 283 in Paris, after PSG's win over Arsenal.",
+    "link": "https://www.aljazeera.com/sports/2026/5/31/france-arrests-hundreds-of-rioters-nationwide-as-psg-win-champions-league?traffic_source=rss",
+    "pubDate": "Sun, 31 May 2026 06:08:38 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-05-31T06:45:01.422Z"
+  },
+  {
+    "title": "Mexico beat Australia 1-0 before World Cup squad submission deadline",
+    "description": "The warm-up friendly simulated World Cup conditions, including cooling breaks for the players, at the Rose Bowl stadium.",
+    "link": "https://www.aljazeera.com/sports/2026/5/31/mexico-beat-australia-1-0-a-day-before-world-cup-squad-submission-deadline?traffic_source=rss",
+    "pubDate": "Sun, 31 May 2026 06:07:18 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-05-31T06:45:01.422Z"
+  },
+  {
+    "title": "Trump floats replacing Freedom 250 concert with massive MAGA rally after artists pull out",
+    "description": "\"Cancel it, just like I canceled my involvement with the failing and unsafe to be in Kennedy Center.\"",
+    "link": "https://nypost.com/2026/05/31/us-news/trump-floats-replacing-freedom-250-concert-with-massive-maga-rally/",
+    "pubDate": "Sun, 31 May 2026 02:34:24 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-05-31T06:45:01.422Z"
   }
 ]
