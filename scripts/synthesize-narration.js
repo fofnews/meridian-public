@@ -15,13 +15,16 @@
 //   OPENAI_VOICE         Override voice (default: onyx — see docs/voice.md)
 //
 // Output:
-//   out/audio/<edition>/shot-<n>.wav     per-shot WAV
+//   out/audio/<edition>/shot-<n>.wav               per-shot WAV
+//   out/audio/<edition>/shot-<n>.timestamps.json   ElevenLabs character timestamps sidecar
 
 import { writeFileSync, existsSync, mkdirSync } from 'fs';
 import { readFileSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { execFileSync } from 'child_process';
+
+import { findAnchors, filterAnchors, buildAnchoredCameraPath, ANCHOR_DEFAULTS } from './anchor-finder.js';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 
@@ -41,8 +44,15 @@ const args = Object.fromEntries(
     .map(a => { const [k, ...rest] = a.slice(2).split('='); return [k, rest.join('=') || 'true']; })
 );
 
-const edition = args['edition'];
-const dryRun  = args['dry-run'] === 'true';
+const edition       = args['edition'];
+const dryRun        = args['dry-run']       === 'true';
+const noAnchored    = args['no-anchored']   === 'true';
+const debugAnchors  = args['debug-anchors'] === 'true';
+
+// ANCHOR_OPTS: start with defaults and apply CLI overrides.
+const ANCHOR_OPTS = { ...ANCHOR_DEFAULTS };
+if (args['lead-time']  != null) ANCHOR_OPTS.LEAD_TIME_S  = parseFloat(args['lead-time']);
+if (args['min-dwell']  != null) ANCHOR_OPTS.MIN_DWELL_S  = parseFloat(args['min-dwell']);
 
 if (!edition) {
   console.error('Usage: node scripts/synthesize-narration.js --edition=YYYY-MM-DD-{morning|evening}');
@@ -87,9 +97,11 @@ mkdirSync(outDir, { recursive: true });
 
 // ── TTS helpers ───────────────────────────────────────────────────────────────
 
+// Returns { mp3Buf: Buffer, alignment: object } where alignment has:
+//   { characters, character_start_times_seconds, character_end_times_seconds }
 async function synthesizeElevenLabs(text, voiceId, apiKey) {
   const res = await fetch(
-    `https://api.elevenlabs.io/v1/text-to-speech/${voiceId}?output_format=mp3_44100_128`,
+    `https://api.elevenlabs.io/v1/text-to-speech/${voiceId}/with-timestamps?output_format=mp3_44100_128`,
     {
       method:  'POST',
       headers: { 'xi-api-key': apiKey, 'Content-Type': 'application/json' },
@@ -104,7 +116,10 @@ async function synthesizeElevenLabs(text, voiceId, apiKey) {
     const msg = await res.text().catch(() => res.status);
     throw new Error(`ElevenLabs ${res.status}: ${msg}`);
   }
-  return Buffer.from(await res.arrayBuffer());
+  const json = await res.json();
+  const mp3Buf = Buffer.from(json.audio_base64, 'base64');
+  const al = json.normalized_alignment ?? json.alignment;
+  return { mp3Buf, alignment: al };
 }
 
 async function synthesizeOpenAI(text, voice, apiKey) {
@@ -164,6 +179,7 @@ const wavPaths = [];
 for (let i = 0; i < shotlist.shots.length; i++) {
   const shot    = shotlist.shots[i];
   const wavPath = join(outDir, `shot-${i}.wav`);
+  const tsPath  = join(outDir, `shot-${i}.timestamps.json`);
   wavPaths.push(wavPath);
 
   const narration = (shot.narration ?? '').trim();
@@ -173,22 +189,34 @@ for (let i = 0; i < shotlist.shots.length; i++) {
     // Empty narration or dry-run → silent gap of the shot's hold duration.
     console.log(`${label}: ${dryRun ? 'dry-run silence' : 'empty narration — silent gap'}`);
     silenceWav(shot.hold, wavPath);
+    writeFileSync(tsPath, JSON.stringify({ source: null }));
     continue;
   }
 
   console.log(`${label}: synthesizing ${narration.length} chars…`);
   try {
-    let mp3Buf;
     if (provider === 'elevenlabs') {
-      mp3Buf = await synthesizeElevenLabs(narration, ELEVENLABS_VOICE_ID, elevenKey);
+      const { mp3Buf, alignment } = await synthesizeElevenLabs(narration, ELEVENLABS_VOICE_ID, elevenKey);
+      mp3ToWav(mp3Buf, wavPath);
+      // Write character-level timestamps sidecar.
+      writeFileSync(tsPath, JSON.stringify({
+        source: 'elevenlabs',
+        characters: alignment.characters,
+        character_start_times_seconds: alignment.character_start_times_seconds,
+        character_end_times_seconds: alignment.character_end_times_seconds,
+        normalized_text: alignment.characters.join(''),
+      }));
     } else {
-      mp3Buf = await synthesizeOpenAI(narration, OPENAI_VOICE, openaiKey);
+      const mp3Buf = await synthesizeOpenAI(narration, OPENAI_VOICE, openaiKey);
+      mp3ToWav(mp3Buf, wavPath);
+      // OpenAI does not provide timestamps.
+      writeFileSync(tsPath, JSON.stringify({ source: null }));
     }
-    mp3ToWav(mp3Buf, wavPath);
     console.log(`  → ${wavPath}`);
   } catch (err) {
     console.error(`  ✗ TTS failed (${err.message}) — inserting silence`);
     silenceWav(shot.hold, wavPath);
+    writeFileSync(tsPath, JSON.stringify({ source: null }));
   }
 }
 
@@ -206,7 +234,7 @@ for (let i = 0; i < shotlist.shots.length; i++) {
   const measured = probeWavDuration(wavPath);
   if (measured == null || measured <= 0) continue;
 
-  const newHold = Math.ceil(measured * 10) / 10;
+  const newHold = Math.ceil(measured * 1000) / 1000;
   if (newHold === shot.hold) continue;
 
   // Proportionally rescale cameraPath tOffsets to the new hold duration.
@@ -227,14 +255,100 @@ if (anyUpdated) {
   // Recompute all shot.t values as a cumulative sum.
   let elapsed = 0;
   for (const shot of shotlist.shots) {
-    shot.t = Math.round(elapsed * 10) / 10;
+    shot.t = elapsed;
     elapsed += shot.hold;
   }
-  shotlist.duration = Math.round(elapsed * 10) / 10;
+  shotlist.duration = elapsed;
 
   writeFileSync(shotlistPath, JSON.stringify(shotlist, null, 2));
   console.log(`\nShotlist updated with measured durations → ${shotlistPath}`);
   console.log(`Clip duration: ${oldDuration}s (estimated) → ${shotlist.duration}s (measured)`);
+}
+
+// ── Re-anchor camera paths using character timestamps ─────────────────────────
+// For each shot that has an ElevenLabs timestamps sidecar, find named-location
+// mentions in the narration text and rewrite cameraPath waypoints so the map
+// flies to each location as it is spoken.
+
+if (!noAnchored) {
+  // Determine which shots have real timestamps before loading the report.
+  const shotTimestamps = [];
+  let hasAnyElevenLabs = false;
+
+  for (let i = 0; i < shotlist.shots.length; i++) {
+    const tsPath = join(outDir, `shot-${i}.timestamps.json`);
+    let ts = null;
+    if (existsSync(tsPath)) {
+      try { ts = JSON.parse(readFileSync(tsPath, 'utf8')); } catch { /* ignore */ }
+    }
+    shotTimestamps.push(ts);
+    if (ts?.source === 'elevenlabs') hasAnyElevenLabs = true;
+  }
+
+  if (hasAnyElevenLabs) {
+    // Lazy-load report — only needed if at least one shot has ElevenLabs timestamps.
+    const reportPath = join(ROOT, 'reports', `${edition}.json`);
+    let report = null;
+    if (existsSync(reportPath)) {
+      try { report = JSON.parse(readFileSync(reportPath, 'utf8')); } catch { /* ignore */ }
+    }
+
+    let anyReAnchored = false;
+
+    for (let i = 0; i < shotlist.shots.length; i++) {
+      const ts = shotTimestamps[i];
+      if (!ts || ts.source !== 'elevenlabs') continue;
+
+      const shot = shotlist.shots[i];
+
+      // Guard: storyIndex must be set (added by Task 4 of build-shotlist.js).
+      if (shot.storyIndex == null) continue;
+
+      const locations = report?.stories?.[shot.storyIndex]?.analysis?.locations ?? [];
+      if (locations.length === 0) continue;
+
+      const rawAnchors = findAnchors({
+        locations,
+        timestamps: ts,
+        shotIsoCode: shot.isoCode ?? null,
+      });
+
+      const anchors = filterAnchors(rawAnchors, ANCHOR_OPTS);
+      if (anchors.length === 0) continue;
+
+      const result = buildAnchoredCameraPath(
+        shot.cameraPath,
+        anchors,
+        locations,
+        null,       // polygonMap — not needed here; highlights already in cameraPath
+        ANCHOR_OPTS,
+        shot.narration,
+        shot.hold,
+      );
+
+      shot.cameraPath   = result.cameraPath;
+      shot.overlays     = result.overlays;
+      shot.cameraSource = 'anchored';
+      shot.anchors      = anchors; // diagnostic only
+
+      anyReAnchored = true;
+
+      if (debugAnchors) {
+        const matched = anchors.map(a => `${a.locationName}@${a.secondsStart.toFixed(2)}s`).join(', ');
+        const matchedNames = new Set(anchors.map(a => a.locationName));
+        const missed = locations
+          .map(l => l.name)
+          .filter(n => !matchedNames.has(n));
+        console.log(`[shot ${i}] matched ${anchors.length}/${locations.length} locations: ${matched}`);
+        if (missed.length > 0) console.log(`  (missed: ${missed.join(', ')})`);
+      }
+    }
+
+    if (anyReAnchored) {
+      writeFileSync(shotlistPath, JSON.stringify(shotlist, null, 2));
+      console.log(`\nShotlist re-anchored with character timestamps → ${shotlistPath}`);
+    }
+  }
 }
 
 console.log(`\nSaved ${wavPaths.length} per-shot WAVs to ${outDir}`);
