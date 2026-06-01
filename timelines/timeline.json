@@ -600,7 +600,7 @@
         {
           "date": "2026-06-01",
           "edition": "morning",
-          "update": "Russian drone strikes on public buses in Kherson have killed three transport workers so far in 2025, according to BBC News, with drivers continuing to operate routes despite the ongoing threat."
+          "update": "Russian drone strikes on public buses in Kherson have killed three transport workers so far in 2025, according to BBC News, with drivers continuing to operate routes despite the ongoing danger."
         }
       ],
       "parentId": null
@@ -1330,7 +1330,7 @@
         {
           "date": "2026-06-01",
           "edition": "morning",
-          "update": "Israeli forces conducted what AP News describes as the deepest ground incursion into Lebanon in 26 years, capturing Beaufort Castle and complicating ongoing U.S.-Iran diplomatic efforts. Israeli Prime Minister Netanyahu ordered additional strikes on targets in Beirut's southern suburbs. France requested a UN Security Council meeting in response to the expanding Israeli ground invasion, and oil prices rose more than 2% following the escalation. A drone expert warned that Hezbollah's nighttime thermal-sensor drone capabilities represent a 'game changing' development punching through Israeli defenses. The United States proposed a 'roadmap' aimed at creating conditions for gradual de-escalation and a cessation of all hostilities in Lebanon. Lebanon's government had been pursuing Hezbollah disarmament efforts showing signs of progress before the Iran war began, though those efforts ultimately failed, according to the NY Times."
+          "update": "France requested an emergency UN Security Council meeting in response to Israel's expanding ground invasion of Lebanon. Netanyahu ordered strikes on targets in Beirut's southern suburbs. A drone expert warned that Hezbollah has deployed thermal sensor-equipped drones capable of targeting IDF troops at night, describing the nighttime hunting capability as 'game changing.' Oil prices rose more than 2% as Israel escalated its military incursion. Lebanon's government had shown signs of progress toward disarming Hezbollah before the Iran war began, though the effort ultimately failed, according to the NY Times."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1880,7 +1880,7 @@
         {
           "date": "2026-06-01",
           "edition": "morning",
-          "update": "U.S. Central Command conducted additional 'self-defense strikes' over the weekend targeting Iranian radar and drone command and control sites in southern Iran, with both sides publicly labeling their respective strikes as self-defense. Iran's IRGC launched retaliatory strikes following the U.S. attacks, and Kuwait — which hosts U.S. forces — reported its air defenses intercepted missiles and drones, with sirens sounding across the country. BBC Verify's analysis of satellite imagery found that Iranian attacks have damaged 20 U.S. military sites since the start of the war, with analysts stating the strikes were more extensive than publicly acknowledged. The U.S. military also bombed Iranian radar and drone control sites after Iran shot down an American MQ-1 Predator drone. A deadly strike from the early days of the conflict reached a seaside town in Sri Lanka, according to NPR, illustrating the war's geographic reach into the Indian Ocean region. Oil and gold markets reacted to the continued exchanges, with oil rising and gold declining amid a stronger dollar as markets awaited Trump's decision on the Iran proposal."
+          "update": "U.S. Central Command conducted additional self-defense strikes over the weekend targeting Iranian radar and drone command-and-control sites, including action following Iran's shootdown of an American MQ-1 Predator drone. Iran claimed retaliatory strikes on the specific U.S. air base used in the American attack, with both sides characterizing their actions as self-defense or retaliation. Kuwait reported its air defense systems intercepted missiles and drones as sirens sounded across the country, with the country again caught in the crossfire amid its role hosting U.S. forces. Satellite imagery analysis revealed that Iranian attacks have damaged at least 20 U.S. military sites since the start of the war, with analysts telling BBC Verify the strikes were more extensive than publicly acknowledged. A deadly strike during the early days of the conflict hit a seaside town in Sri Lanka, underscoring the war's geographic reach into the Indian Ocean region. Oil prices rose as the military exchanges continued alongside simultaneous diplomatic negotiations."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2705,7 +2705,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-05-31",
+      "lastSeen": "2026-06-01",
       "active": true,
       "entries": [
         {
@@ -2777,6 +2777,11 @@
           "date": "2026-05-31",
           "edition": "evening",
           "update": "Trump stated that Iran has agreed not to pursue nuclear weapons, according to Newsmax. U.S. officials reported that Trump sent tougher terms to Iran for a peace framework, with one official suggesting the changes may be intended to pressure Iran into accepting the existing deal more quickly. Saudi Arabian shares gained while Qatar's market slipped amid ongoing uncertainty over a potential deal."
+        },
+        {
+          "date": "2026-06-01",
+          "edition": "morning",
+          "update": "President Trump stated that Iran really wants to make a deal with the United States, and urged political critics to 'just sit back and relax,' claiming critical remarks hamper negotiation efforts. A Fox News analyst reported that Mojtaba Khamenei launched a counteroffensive against Trump, seeking to rally Middle Eastern nations into an anti-American alliance while Gulf backchannels reportedly continue to reach Tehran."
         }
       ]
     },
@@ -3251,7 +3256,7 @@
         {
           "date": "2026-06-01",
           "edition": "morning",
-          "update": "Aid workers in Uganda are preparing for a potential surge in Ebola cases from the neighboring DRC outbreak, but foreign aid cuts are hampering frontline response efforts, according to NPR. The NY Times reported on conditions inside an Ebola ward and highlighted a roadblock affecting Trump's $1.8 billion fund tied to Ebola response efforts. Newsweek identified Ebola among elevated infectious disease risks for the 2025 summer travel season."
+          "update": "Aid workers in Uganda report that foreign aid cuts are hampering preparations for a potential spillover of the Ebola outbreak from the DRC. The NY Times reported on conditions inside an Ebola ward while highlighting obstacles facing Trump's $1.8 billion fund designated for related health efforts. Newsweek noted that the 2025 summer travel season is coinciding with elevated infectious disease concerns, including Ebola, mpox, and flesh-eating parasites."
         }
       ]
     },
@@ -3351,10 +3356,10 @@
         {
           "date": "2026-06-01",
           "edition": "morning",
-          "update": "President Trump is seeking edits to a potential U.S.-Iran deal, with requested changes focused on the Strait of Hormuz and the removal of highly enriched uranium, according to U.S. media reports. French President Macron urged Middle East leaders to help the U.S. and Iran seize a current opportunity for a peace deal, stating he met with Saudi Crown Prince Mohammed bin Salman, Omani Sultan Haitham bin Tariq, and Emirati leadership as part of the effort. Trump stated that Iran 'really wants to make a deal' while urging political critics to 'just sit back and relax,' arguing that critical remarks hamper negotiations. Senate Armed Services Committee Chair Roger Wicker is leading defense hawks in Republican opposition to a potential deal that would open the Strait of Hormuz while easing sanctions."
+          "update": "President Trump made edits to a possible U.S.-Iran agreement, with requested changes related to the Strait of Hormuz and the removal of highly enriched uranium, according to CBS News and other U.S. media reports. French President Macron called on Middle Eastern leaders to help the U.S. and Iran seize a diplomatic opening, stating he met with Saudi Crown Prince Mohammed bin Salman, Omani Sultan Haitham bin Tariq, and Emirati leaders as part of these efforts. The United States proposed a 'roadmap' for de-escalation in Lebanon, according to a U.S. official. Israel's historic ground incursion into Lebanon is reported to be complicating ongoing Iran deal efforts. Trump's consideration of an Iran deal is sparking an intra-Republican debate, with Senate Armed Services Committee Chair Roger Wicker expected to lead opposition from defense hawks."
         }
       ]
     }
   ],
-  "updatedAt": "2026-06-01T11:07:06.401Z"
+  "updatedAt": "2026-06-01T11:07:24.396Z"
 }
