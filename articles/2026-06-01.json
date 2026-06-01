@@ -328,5 +328,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-01T05:45:01.374Z"
+  },
+  {
+    "title": "Iran attacks damage 20 US military sites since start of war, satellite images show",
+    "description": "Analysts told BBC Verify that Tehran's strikes were more extensive than publicly acknowledged.",
+    "link": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 01 Jun 2026 05:33:18 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-01T06:00:01.297Z"
+  },
+  {
+    "title": "Iran live updates: IRGC claims airbase attack after US 'self-defense' strikes",
+    "description": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.",
+    "link": "https://abcnews.com/International/live-updates/iran-live-updates-irgc-claims-airbase-attack-after/?id=133475855",
+    "pubDate": "Mon, 01 Jun 2026 01:54:35 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-06-01T06:00:01.297Z"
   }
 ]
