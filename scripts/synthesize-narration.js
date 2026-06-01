@@ -119,6 +119,7 @@ async function synthesizeElevenLabs(text, voiceId, apiKey) {
   const json = await res.json();
   const mp3Buf = Buffer.from(json.audio_base64, 'base64');
   const al = json.normalized_alignment ?? json.alignment;
+  if (!al?.characters) throw new Error('ElevenLabs response missing alignment data');
   return { mp3Buf, alignment: al };
 }
 
@@ -241,7 +242,7 @@ for (let i = 0; i < shotlist.shots.length; i++) {
   if (Array.isArray(shot.cameraPath) && shot.hold > 0) {
     const scale = newHold / shot.hold;
     for (const wp of shot.cameraPath) {
-      wp.tOffset = Math.round(wp.tOffset * scale * 10) / 10;
+      wp.tOffset = Math.round(wp.tOffset * scale * 1000) / 1000;
     }
   }
 
@@ -255,7 +256,7 @@ if (anyUpdated) {
   // Recompute all shot.t values as a cumulative sum.
   let elapsed = 0;
   for (const shot of shotlist.shots) {
-    shot.t = elapsed;
+    shot.t = Math.round(elapsed * 1000) / 1000;
     elapsed += shot.hold;
   }
   shotlist.duration = elapsed;
