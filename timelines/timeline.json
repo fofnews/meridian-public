@@ -601,6 +601,11 @@
           "date": "2026-06-01",
           "edition": "morning",
           "update": "Russian drone strikes on public buses in Kherson have killed three transport workers so far in 2025, according to BBC News, with drivers continuing to operate routes despite the ongoing danger."
+        },
+        {
+          "date": "2026-06-01",
+          "edition": "evening",
+          "update": "Ukrainian President Zelensky stated his government has evidence that Russia is abducting thousands of Ukrainian children and forcing them to fight in the war."
         }
       ],
       "parentId": null
@@ -739,7 +744,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-31",
+      "lastSeen": "2026-06-01",
       "active": true,
       "entries": [
         {
@@ -936,6 +941,11 @@
           "date": "2026-05-31",
           "edition": "evening",
           "update": "Sen. Chris Coons (D-Del.) claimed that Iran is 'stronger' than it was 90 days ago before the U.S. war began, citing Iran's use of 'cheap and lethal drones' as a key factor."
+        },
+        {
+          "date": "2026-06-01",
+          "edition": "evening",
+          "update": "Iran suspended indirect peace talks with the United States in protest of Israel's expanding offensive in Lebanon and Gaza, with Iranian officials demanding a 'ceasefire on all fronts' before negotiations resume. President Trump told NBC News he had not been informed of the suspension."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -944,7 +954,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-05-31",
+      "lastSeen": "2026-06-01",
       "active": true,
       "entries": [
         {
@@ -1041,6 +1051,11 @@
           "date": "2026-05-31",
           "edition": "evening",
           "update": "Iran has reinstated some internet access following disruptions, but restrictions remain in place for most users, with data centers still offline and internet protocols blocked, restricted, or whitelisted, according to Al Jazeera."
+        },
+        {
+          "date": "2026-06-01",
+          "edition": "evening",
+          "update": "Iran's president is reportedly seeking to exit his position due to an internal power clash, according to Newsmax, though specific details were not provided."
         }
       ],
       "parentId": null
@@ -1331,6 +1346,11 @@
           "date": "2026-06-01",
           "edition": "morning",
           "update": "France requested an emergency UN Security Council meeting in response to Israel's expanding ground invasion of Lebanon. Netanyahu ordered strikes on targets in Beirut's southern suburbs. A drone expert warned that Hezbollah has deployed thermal sensor-equipped drones capable of targeting IDF troops at night, describing the nighttime hunting capability as 'game changing.' Oil prices rose more than 2% as Israel escalated its military incursion. Lebanon's government had shown signs of progress toward disarming Hezbollah before the Iran war began, though the effort ultimately failed, according to the NY Times."
+        },
+        {
+          "date": "2026-06-01",
+          "edition": "evening",
+          "update": "Israeli Prime Minister Netanyahu ordered strikes on Hezbollah-controlled southern suburbs of Beirut (the Dahiyeh area), prompting thousands of residents to flee in gridlocked traffic. Israeli forces continued expanding their ground occupation in southern Lebanon, pushing past the Litani River while UNIFIL peacekeeping forces were unable to prevent the advance. Trump announced that Israel and Hezbollah have agreed to dial back fighting, signaling a potential reduction in hostilities. France banned Israeli officials from attending a defense exhibition, according to Israel's defense ministry."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1881,6 +1901,11 @@
           "date": "2026-06-01",
           "edition": "morning",
           "update": "U.S. Central Command conducted additional self-defense strikes over the weekend targeting Iranian radar and drone command-and-control sites, including action following Iran's shootdown of an American MQ-1 Predator drone. Iran claimed retaliatory strikes on the specific U.S. air base used in the American attack, with both sides characterizing their actions as self-defense or retaliation. Kuwait reported its air defense systems intercepted missiles and drones as sirens sounded across the country, with the country again caught in the crossfire amid its role hosting U.S. forces. Satellite imagery analysis revealed that Iranian attacks have damaged at least 20 U.S. military sites since the start of the war, with analysts telling BBC Verify the strikes were more extensive than publicly acknowledged. A deadly strike during the early days of the conflict hit a seaside town in Sri Lanka, underscoring the war's geographic reach into the Indian Ocean region. Oil prices rose as the military exchanges continued alongside simultaneous diplomatic negotiations."
+        },
+        {
+          "date": "2026-06-01",
+          "edition": "evening",
+          "update": "U.S. Central Command conducted new self-defense strikes on Iranian radar and drone command-and-control sites in Goruk, Iran and on Qeshm Island in the Strait of Hormuz, and separately intercepted Iranian ballistic missiles targeting U.S. troops in Kuwait. Iran's Revolutionary Guard threatened to respond with a 'completely different' escalation, dimming prospects for a quick diplomatic resolution. Iran subsequently announced a suspension of indirect peace talks with the United States, with Trump telling NBC News he had not been informed of the suspension and adding 'I think we've been talking too much.' International oil prices surged approximately 6 percent on Monday, reaching their highest levels since mid-May, with analysts warning prices could climb further if the Strait of Hormuz remains closed. Trump sent proposed edits to a potential Iran agreement addressing the Strait of Hormuz and enriched uranium terms, and posted on Truth Social urging Democrats and 'seemingly unpatriotic Republicans' to stop 'chirping' about the negotiations."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2782,6 +2807,11 @@
           "date": "2026-06-01",
           "edition": "morning",
           "update": "President Trump stated that Iran really wants to make a deal with the United States, and urged political critics to 'just sit back and relax,' claiming critical remarks hamper negotiation efforts. A Fox News analyst reported that Mojtaba Khamenei launched a counteroffensive against Trump, seeking to rally Middle Eastern nations into an anti-American alliance while Gulf backchannels reportedly continue to reach Tehran."
+        },
+        {
+          "date": "2026-06-01",
+          "edition": "evening",
+          "update": "Iran praised diplomatic efforts by Oman despite Trump's earlier threats to target the Gulf state over its mediating role. Reuters reported that Iran is seeking a limited deal with the U.S. aimed primarily at relieving sanctions pressure while buying time for further negotiations. Iran subsequently suspended indirect talks with the U.S. in protest of Israeli military operations in Lebanon, demanding a ceasefire on all fronts as a condition for resuming diplomacy."
         }
       ]
     },
@@ -3010,7 +3040,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-05-31",
+      "lastSeen": "2026-06-01",
       "active": true,
       "entries": [
         {
@@ -3087,6 +3117,11 @@
           "date": "2026-05-31",
           "edition": "evening",
           "update": "National Economic Council Director Kevin Hassett predicted on ABC's 'This Week' that oil shipments will resume through the Strait of Hormuz within 'a month or two,' noting there is already 'a lot more traffic' passing through the strait. U.S. Central Command has quietly guided approximately 70 commercial ships through the Strait of Hormuz over a three-week period, according to a U.S. official."
+        },
+        {
+          "date": "2026-06-01",
+          "edition": "evening",
+          "update": "Iran announced it is halting ceasefire message exchanges with the United States and plans to close the Strait of Hormuz, citing Trump administration ceasefire violations, according to Iran's state-affiliated Tasnim News Agency."
         }
       ]
     },
@@ -3257,6 +3292,11 @@
           "date": "2026-06-01",
           "edition": "morning",
           "update": "Aid workers in Uganda report that foreign aid cuts are hampering preparations for a potential spillover of the Ebola outbreak from the DRC. The NY Times reported on conditions inside an Ebola ward while highlighting obstacles facing Trump's $1.8 billion fund designated for related health efforts. Newsweek noted that the 2025 summer travel season is coinciding with elevated infectious disease concerns, including Ebola, mpox, and flesh-eating parasites."
+        },
+        {
+          "date": "2026-06-01",
+          "edition": "evening",
+          "update": "Suspected Ebola cases in Brazil have risen to two patients being tested at hospitals in Rio de Janeiro and São Paulo displaying Ebola-like symptoms. The total number of suspected cases globally has surpassed 1,100, with the WHO Director-General traveling to the Democratic Republic of Congo amid what officials are characterizing as the third largest Ebola outbreak in history."
         }
       ]
     },
@@ -3361,5 +3401,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-01T11:07:24.396Z"
+  "updatedAt": "2026-06-01T21:10:00.747Z"
 }
