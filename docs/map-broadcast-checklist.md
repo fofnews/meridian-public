@@ -2,7 +2,7 @@
 
 Goal: turn `BroadcastHero`'s Mapbox map from an interactive info widget into a video-grade backdrop for news clips generated from Meridian reports, then build the recording pipeline that turns each daily edition into publishable video.
 
-**Status:** 23 / 23 complete · Last updated: 2026-05-09
+**Status:** 23 / 23 complete · Last updated: 2026-06-01
 
 To resume work in a new session: ask Claude to read `docs/map-broadcast-checklist.md`.
 
@@ -192,3 +192,32 @@ Two bugs in `scripts/build-meridian-styles.js` caused labels to be missing or in
 1. **Multi-font stacks 404 silently** — `applyTypography()` used font stacks like `['Playfair Display Bold', 'Noto Sans Regular']`. Mapbox GL JS joins the array with commas as the glyph URL path segment (`/fonts/Playfair Display Bold,Noto Sans Regular/0-255.pbf`). `build-glyphs.js` generates per-font directories, not per-combination — so every multi-font layer 404'd and rendered no labels. Only `['Noto Sans Regular']` layers (water, minor cities, airports) worked. **Fix:** all font stacks changed to single-font arrays. Constraint is permanent given the per-font glyph directory layout.
 
 2. **Static `text-size: 20` on `country-label`** — all other label layers use zoom-interpolated text sizes; `country-label` had a flat `20` at every zoom. At globe zoom (~1.0), 20px labels for 190+ countries overwhelmed Mapbox collision detection, hiding most. **Fix:** `['interpolate', ['linear'], ['zoom'], 1, 9, 4, 14, 7, 18, 10, 20]`, extracted to `COUNTRY_LABEL_TEXT_SIZE` constant. `verify-styles.js` now asserts this is interpolated so it can't silently revert.
+
+### 2026-06-01 — Semantic-anchor shot selection (Phases A + B)
+
+Root problem: even-spacing camera moves (`hold / N` partitions) caused the map to arrive at a location before or after it was spoken, breaking visual–audio sync. Fix: pin each mid-story camera move to the character timestamp of the first character of the location name as spoken.
+
+**New modules:**
+- `scripts/anchor-finder.js` — fuzzy-matches `report.story.analysis.locations[]` against ElevenLabs `normalized_text` using longest-match-first alias resolution (static aliases + 30-country adjective map, word-boundary lookarounds, masked ranges). Exports `findAnchors`, `filterAnchors`, `buildAnchoredCameraPath`, `ANCHOR_DEFAULTS`.
+- `scripts/intent-classifier.js` — per-anchor sentence classifier: `data | contrast | stakes | reveal | hold`. First-match-wins; data uses regex for digit/written-number patterns, contrast has a quote guard (>50% quoted chars → skip), stakes checks modal/risk vocabulary.
+
+**Pipeline change:** build-shotlist still emits uniform `cameraPath` waypoints. synthesize-narration now switches to the ElevenLabs `with-timestamps` endpoint, writes per-shot `shot-N.timestamps.json` sidecars, then runs a re-anchor pass that overwrites `shot.cameraPath` and `shot.overlays` in the shotlist JSON. `shot.cameraSource` records `'anchored'` vs `'uniform'`.
+
+**Intent → camera/overlay mapping:**
+| Intent | Camera | Overlay |
+|---|---|---|
+| `reveal` | fly to new location | — |
+| `contrast` | pull back to midpoint (zoom −2); skip if \|Δlng\| > 120° | — |
+| `stakes` | push in +0.5 zoom on prior position | — |
+| `data` | no move | `data-callout` text box for 2.2 s |
+| `hold` | no move | — |
+
+**New Remotion component:** `DataCallout` in `overlays.jsx` — center-bottom-third, large Playfair Display numeral, gold pill, 9-frame fade in/out. `dataCalloutOpacity` extracted as an exported pure function so it can be unit-tested directly.
+
+**Broadcast.jsx:** renders `shot.overlays[]` as frame-anchored `<Sequence>` + `<DataCallout>` blocks.
+
+**Constants:** `LEAD_TIME_S: 0.4`, `MIN_DWELL_S: 1.8`, `MERGE_SAME_LOCATION_S: 4`. All overridable via `--lead-time`, `--min-dwell` CLI flags. `--no-anchored` disables re-anchoring; `--debug-anchors` prints per-shot match diagnostics.
+
+**Fallback:** shots with no ElevenLabs timestamps (OpenAI fallback, dry-run, TTS error) keep their uniform cameraPath unchanged.
+
+**Precision fix:** tOffset / hold / elapsed now stored at 3dp (was 1dp), preventing ~50ms timing drift per shot.
