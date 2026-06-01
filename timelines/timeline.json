@@ -364,7 +364,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-05-29",
+      "lastSeen": "2026-06-01",
       "active": true,
       "entries": [
         {
@@ -596,6 +596,11 @@
           "date": "2026-05-29",
           "edition": "evening",
           "update": "A Russian drone struck an apartment building in Galati, eastern Romania, near the Ukrainian border overnight Friday, injuring two people with minor wounds — the first confirmed Russian drone strike on Romanian territory. Romanian officials confirmed the incident, and Russian officials acknowledged the drone was targeting Ukraine when it drifted off course. Dmitry Medvedev issued a public warning following the incident, declaring that Europe's 'peaceful sleep is over' and asserting that European authorities have 'unilaterally entered into a war with Russia.' Separately, Russia's diesel output fell an additional 10% in May following drone attacks on Russian energy infrastructure, according to Reuters data."
+        },
+        {
+          "date": "2026-06-01",
+          "edition": "morning",
+          "update": "Russian drone strikes on public buses in Kherson have killed three transport workers so far in 2025, according to BBC News, with drivers continuing to operate routes despite the ongoing threat."
         }
       ],
       "parentId": null
@@ -1044,7 +1049,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-05-31",
+      "lastSeen": "2026-06-01",
       "active": true,
       "entries": [
         {
@@ -1321,6 +1326,11 @@
           "date": "2026-05-31",
           "edition": "evening",
           "update": "Israeli forces crossed north of Lebanon's Litani River and seized Beaufort Castle, a 12th-century Crusader fortress overlooking southern Lebanon and northern Israel, as part of an expanded ground offensive pushing toward the Zahrani River. Analysts told Al Jazeera that Israel is effectively expanding its area of military control northward. NPR reported that some Israeli far-right activists and political leaders are advocating for a 'Greater Israel,' seeking to extend Israeli control into neighboring countries amid the ongoing conflicts."
+        },
+        {
+          "date": "2026-06-01",
+          "edition": "morning",
+          "update": "Israeli forces conducted what AP News describes as the deepest ground incursion into Lebanon in 26 years, capturing Beaufort Castle and complicating ongoing U.S.-Iran diplomatic efforts. Israeli Prime Minister Netanyahu ordered additional strikes on targets in Beirut's southern suburbs. France requested a UN Security Council meeting in response to the expanding Israeli ground invasion, and oil prices rose more than 2% following the escalation. A drone expert warned that Hezbollah's nighttime thermal-sensor drone capabilities represent a 'game changing' development punching through Israeli defenses. The United States proposed a 'roadmap' aimed at creating conditions for gradual de-escalation and a cessation of all hostilities in Lebanon. Lebanon's government had been pursuing Hezbollah disarmament efforts showing signs of progress before the Iran war began, though those efforts ultimately failed, according to the NY Times."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1329,7 +1339,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-05-29",
+      "lastSeen": "2026-06-01",
       "active": true,
       "entries": [
         {
@@ -1866,6 +1876,11 @@
           "date": "2026-05-29",
           "edition": "morning",
           "update": "The White House confirmed the general outlines of a 60-day ceasefire extension with Iran but said President Trump has not yet given final approval; Iranian officials denied any agreement had been reached. Vice President Vance stated the U.S. and Iran are 'very close' to a deal but 'not there yet,' with the tentative framework including a ceasefire extension and reopening of the Strait of Hormuz. Iranian state TV claimed U.S. aircraft were destroyed in Iran's Bushehr province, a claim the U.S. has not confirmed. The DOJ indicted Mohammad Baqer Saad Dawood al Saadi, a dual Iraqi-Iranian national, on charges of plotting terrorist attacks in the U.S. and coordinating nearly 20 attacks across Europe on behalf of Iranian-backed organizations; he was taken into custody on May 1. Trump stated in an interview that Iran crossing a specific line would trigger a renewed U.S. offensive military campaign, without specifying the exact threshold."
+        },
+        {
+          "date": "2026-06-01",
+          "edition": "morning",
+          "update": "U.S. Central Command conducted additional 'self-defense strikes' over the weekend targeting Iranian radar and drone command and control sites in southern Iran, with both sides publicly labeling their respective strikes as self-defense. Iran's IRGC launched retaliatory strikes following the U.S. attacks, and Kuwait — which hosts U.S. forces — reported its air defenses intercepted missiles and drones, with sirens sounding across the country. BBC Verify's analysis of satellite imagery found that Iranian attacks have damaged 20 U.S. military sites since the start of the war, with analysts stating the strikes were more extensive than publicly acknowledged. The U.S. military also bombed Iranian radar and drone control sites after Iran shot down an American MQ-1 Predator drone. A deadly strike from the early days of the conflict reached a seaside town in Sri Lanka, according to NPR, illustrating the war's geographic reach into the Indian Ocean region. Oil and gold markets reacted to the continued exchanges, with oil rising and gold declining amid a stronger dollar as markets awaited Trump's decision on the Iran proposal."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2159,7 +2174,7 @@
       "id": "cuba-energy-crisis",
       "title": "Cuba Energy Crisis",
       "firstSeen": "2026-03-16",
-      "lastSeen": "2026-05-29",
+      "lastSeen": "2026-06-01",
       "active": true,
       "entries": [
         {
@@ -2336,6 +2351,11 @@
           "date": "2026-05-29",
           "edition": "morning",
           "update": "Nearly 3 million Cubans are experiencing daily water shortages as the severe oil shortage cripples the country's infrastructure, with Cuban government officials attributing the crisis to a U.S. energy blockade."
+        },
+        {
+          "date": "2026-06-01",
+          "edition": "morning",
+          "update": "Cuba has begun distributing donated powdered milk received from Mexico and Uruguay as the island faces severe shortages, according to Al Jazeera."
         }
       ],
       "parentId": null
@@ -2645,7 +2665,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-31",
+      "lastSeen": "2026-06-01",
       "active": true,
       "entries": [
         {
@@ -3140,7 +3160,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-05-31",
+      "lastSeen": "2026-06-01",
       "active": true,
       "entries": [
         {
@@ -3227,6 +3247,11 @@
           "date": "2026-05-31",
           "edition": "evening",
           "update": "WHO Director-General Tedros announced that five people infected with the rare Bundibugyo strain of Ebola have recovered in eastern Congo, making the announcement during a visit to Bunia. Africa CDC reported 263 confirmed cases and 43 deaths across Congo and Uganda. Brazil is monitoring two patients for possible Ebola infection, which if confirmed would be the first cases outside Africa since the current outbreak began."
+        },
+        {
+          "date": "2026-06-01",
+          "edition": "morning",
+          "update": "Aid workers in Uganda are preparing for a potential surge in Ebola cases from the neighboring DRC outbreak, but foreign aid cuts are hampering frontline response efforts, according to NPR. The NY Times reported on conditions inside an Ebola ward and highlighted a roadblock affecting Trump's $1.8 billion fund tied to Ebola response efforts. Newsweek identified Ebola among elevated infectious disease risks for the 2025 summer travel season."
         }
       ]
     },
@@ -3305,7 +3330,7 @@
       "title": "Iran Nuclear Deal Negotiations and Regional Tensions",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-05-20",
-      "lastSeen": "2026-05-28",
+      "lastSeen": "2026-06-01",
       "active": true,
       "entries": [
         {
@@ -3322,9 +3347,14 @@
           "date": "2026-05-28",
           "edition": "morning",
           "update": "President Trump called for more countries to recognize Israel as a condition for ending the war with Iran, proposing an expansion of the Abraham Accords. Analysts cited by the NY Times described the likelihood of such an expansion as close to zero, with the proposal being met with bewilderment across the Middle East."
+        },
+        {
+          "date": "2026-06-01",
+          "edition": "morning",
+          "update": "President Trump is seeking edits to a potential U.S.-Iran deal, with requested changes focused on the Strait of Hormuz and the removal of highly enriched uranium, according to U.S. media reports. French President Macron urged Middle East leaders to help the U.S. and Iran seize a current opportunity for a peace deal, stating he met with Saudi Crown Prince Mohammed bin Salman, Omani Sultan Haitham bin Tariq, and Emirati leadership as part of the effort. Trump stated that Iran 'really wants to make a deal' while urging political critics to 'just sit back and relax,' arguing that critical remarks hamper negotiations. Senate Armed Services Committee Chair Roger Wicker is leading defense hawks in Republican opposition to a potential deal that would open the Strait of Hormuz while easing sanctions."
         }
       ]
     }
   ],
-  "updatedAt": "2026-06-01T10:37:01.209Z"
+  "updatedAt": "2026-06-01T11:07:06.401Z"
 }
