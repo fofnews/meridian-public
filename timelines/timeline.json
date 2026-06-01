@@ -605,7 +605,7 @@
         {
           "date": "2026-06-01",
           "edition": "evening",
-          "update": "Ukrainian President Zelensky stated his government has evidence that Russia is abducting thousands of Ukrainian children and forcing them to fight in the war."
+          "update": "Ukrainian President Zelenskyy stated his government has evidence that Russia is abducting thousands of Ukrainian children and forcing them to fight in the war, according to CBS News."
         }
       ],
       "parentId": null
@@ -744,7 +744,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-01",
+      "lastSeen": "2026-05-31",
       "active": true,
       "entries": [
         {
@@ -941,11 +941,6 @@
           "date": "2026-05-31",
           "edition": "evening",
           "update": "Sen. Chris Coons (D-Del.) claimed that Iran is 'stronger' than it was 90 days ago before the U.S. war began, citing Iran's use of 'cheap and lethal drones' as a key factor."
-        },
-        {
-          "date": "2026-06-01",
-          "edition": "evening",
-          "update": "Iran suspended indirect peace talks with the United States in protest of Israel's expanding offensive in Lebanon and Gaza, with Iranian officials demanding a 'ceasefire on all fronts' before negotiations resume. President Trump told NBC News he had not been informed of the suspension."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1055,7 +1050,7 @@
         {
           "date": "2026-06-01",
           "edition": "evening",
-          "update": "Iran's president is reportedly seeking to exit his position due to an internal power clash, according to Newsmax, though specific details were not provided."
+          "update": "Iranian President Pezeshkian is reportedly seeking to exit his position due to a power clash within the Iranian leadership, according to Newsmax, though specific details about the parties involved were not provided."
         }
       ],
       "parentId": null
@@ -1350,7 +1345,7 @@
         {
           "date": "2026-06-01",
           "edition": "evening",
-          "update": "Israeli Prime Minister Netanyahu ordered strikes on Hezbollah-controlled southern suburbs of Beirut (the Dahiyeh area), prompting thousands of residents to flee in gridlocked traffic. Israeli forces continued expanding their ground occupation in southern Lebanon, pushing past the Litani River while UNIFIL peacekeeping forces were unable to prevent the advance. Trump announced that Israel and Hezbollah have agreed to dial back fighting, signaling a potential reduction in hostilities. France banned Israeli officials from attending a defense exhibition, according to Israel's defense ministry."
+          "update": "Israeli Prime Minister Netanyahu ordered strikes on Hezbollah-controlled southern suburbs of Beirut (the Dahiyeh area), prompting thousands to flee with videos showing gridlocked traffic as residents evacuated. Israel and Hezbollah have agreed to reduce the intensity of their fighting, according to Trump. France reportedly banned Israeli officials from attending a defence show, according to Israel's defence ministry."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1905,7 +1900,7 @@
         {
           "date": "2026-06-01",
           "edition": "evening",
-          "update": "U.S. Central Command conducted new self-defense strikes on Iranian radar and drone command-and-control sites in Goruk, Iran and on Qeshm Island in the Strait of Hormuz, and separately intercepted Iranian ballistic missiles targeting U.S. troops in Kuwait. Iran's Revolutionary Guard threatened to respond with a 'completely different' escalation, dimming prospects for a quick diplomatic resolution. Iran subsequently announced a suspension of indirect peace talks with the United States, with Trump telling NBC News he had not been informed of the suspension and adding 'I think we've been talking too much.' International oil prices surged approximately 6 percent on Monday, reaching their highest levels since mid-May, with analysts warning prices could climb further if the Strait of Hormuz remains closed. Trump sent proposed edits to a potential Iran agreement addressing the Strait of Hormuz and enriched uranium terms, and posted on Truth Social urging Democrats and 'seemingly unpatriotic Republicans' to stop 'chirping' about the negotiations."
+          "update": "U.S. Central Command struck Iranian military sites on Qeshm Island in the Strait of Hormuz over the weekend, in addition to radar and drone command-and-control sites in Goruk, Iran. Iran's Revolutionary Guard threatened a 'completely different' escalatory response following the latest U.S. self-defense strikes. International oil prices jumped 6 percent on Monday, reaching levels not seen since mid-May, after Iran reportedly cut off nuclear talks with the United States; analysts warned prices could climb further if the Strait of Hormuz remains closed. President Trump sent proposed edits to a potential Iran agreement addressing points about the Strait of Hormuz and enriched uranium, while posting on Truth Social urging Democrats and what he called 'seemingly unpatriotic Republicans' to stop 'chirping' about the negotiations, stating Iran 'really wants to make a deal.'"
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2811,7 +2806,7 @@
         {
           "date": "2026-06-01",
           "edition": "evening",
-          "update": "Iran praised diplomatic efforts by Oman despite Trump's earlier threats to target the Gulf state over its mediating role. Reuters reported that Iran is seeking a limited deal with the U.S. aimed primarily at relieving sanctions pressure while buying time for further negotiations. Iran subsequently suspended indirect talks with the U.S. in protest of Israeli military operations in Lebanon, demanding a ceasefire on all fronts as a condition for resuming diplomacy."
+          "update": "Iran suspended indirect peace talks with the U.S. to protest Israeli military operations in Lebanon, demanding a 'ceasefire on all fronts.' President Trump told NBC News he had not been informed of the suspension, adding 'I think we've been talking too much' and suggesting a period of silence in negotiations would be beneficial. Reuters reported that Iran is seeking a limited deal aimed at alleviating sanctions pressure and gaining time, rather than a comprehensive nuclear agreement."
         }
       ]
     },
@@ -3121,7 +3116,7 @@
         {
           "date": "2026-06-01",
           "edition": "evening",
-          "update": "Iran announced it is halting ceasefire message exchanges with the United States and plans to close the Strait of Hormuz, citing Trump administration ceasefire violations, according to Iran's state-affiliated Tasnim News Agency."
+          "update": "Iran's state-affiliated Tasnim News Agency announced that Tehran is halting indirect message exchanges with the United States and may move to close the Strait of Hormuz, citing U.S. ceasefire violations as justification."
         }
       ]
     },
@@ -3296,7 +3291,7 @@
         {
           "date": "2026-06-01",
           "edition": "evening",
-          "update": "Suspected Ebola cases in Brazil have risen to two patients being tested at hospitals in Rio de Janeiro and São Paulo displaying Ebola-like symptoms. The total number of suspected cases globally has surpassed 1,100, with the WHO Director-General traveling to the Democratic Republic of Congo amid what officials are characterizing as the third largest Ebola outbreak in history."
+          "update": "Suspected Ebola cases have surpassed 1,100 globally as Brazil launched a formal investigation into two patients in Rio de Janeiro and São Paulo hospitals exhibiting Ebola-like symptoms. Moderna and other groups received $60 million in funding to develop an Ebola vaccine, according to Reuters."
         }
       ]
     },
@@ -3397,9 +3392,14 @@
           "date": "2026-06-01",
           "edition": "morning",
           "update": "President Trump made edits to a possible U.S.-Iran agreement, with requested changes related to the Strait of Hormuz and the removal of highly enriched uranium, according to CBS News and other U.S. media reports. French President Macron called on Middle Eastern leaders to help the U.S. and Iran seize a diplomatic opening, stating he met with Saudi Crown Prince Mohammed bin Salman, Omani Sultan Haitham bin Tariq, and Emirati leaders as part of these efforts. The United States proposed a 'roadmap' for de-escalation in Lebanon, according to a U.S. official. Israel's historic ground incursion into Lebanon is reported to be complicating ongoing Iran deal efforts. Trump's consideration of an Iran deal is sparking an intra-Republican debate, with Senate Armed Services Committee Chair Roger Wicker expected to lead opposition from defense hawks."
+        },
+        {
+          "date": "2026-06-01",
+          "edition": "evening",
+          "update": "Iran suspended peace talks with the United States specifically to protest Israel's expanding offensive in Lebanon, with Iranian officials demanding a ceasefire on all fronts before negotiations could resume. President Trump told NBC News he had not been informed of the suspension."
         }
       ]
     }
   ],
-  "updatedAt": "2026-06-01T21:10:00.747Z"
+  "updatedAt": "2026-06-01T21:10:25.259Z"
 }
