@@ -274,15 +274,19 @@ export function FadeOverlay({ durationInFrames, preRollS, postRollS }) {
 
 // ── DataCallout ───────────────────────────────────────────────────────────────
 
-export function DataCallout({ text, fromFrame, durationFrames, fadeFrames = 9 }) {
-  const frame = useCurrentFrame();
-
-  const opacity = interpolate(
+export function dataCalloutOpacity(frame, fromFrame, durationFrames, fadeFrames = 9) {
+  return interpolate(
     frame,
     [fromFrame, fromFrame + fadeFrames, fromFrame + durationFrames - fadeFrames, fromFrame + durationFrames],
     [0, 1, 1, 0],
     { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' }
   );
+}
+
+export function DataCallout({ text, fromFrame, durationFrames, fadeFrames = 9 }) {
+  const frame = useCurrentFrame();
+
+  const opacity = dataCalloutOpacity(frame, fromFrame, durationFrames, fadeFrames);
 
   if (opacity === 0) return null;
 

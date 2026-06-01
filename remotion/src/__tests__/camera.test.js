@@ -131,3 +131,46 @@ describe('interpolateCameraOnPath — legacy shot.camera fallback', () => {
     expect(cam.lng).toBeLessThan(100);
   });
 });
+
+describe('interpolateCameraOnPath — anchored-path keyframes', () => {
+  // Single shot: waypoints at non-even tOffsets (3.7, 8.1), no trailing waypoint.
+  // The camera holds the opening position, moves to anchor A at 3.7s,
+  // moves to anchor B at 8.1s, then clamps (trailing hold) for the rest of hold=15s.
+  const anchoredShots = [
+    {
+      t: 0, hold: 15,
+      cameraPath: [
+        { tOffset: 0,   lng: 10, lat: 5,  zoom: 9, pitch: 50, bearing: -10 }, // opening hold
+        { tOffset: 3.7, lng: 35, lat: 31, zoom: 9, pitch: 50, bearing: -10 }, // anchor A
+        { tOffset: 8.1, lng: 48, lat: 33, zoom: 9, pitch: 50, bearing: -10 }, // anchor B
+        // No waypoint at tOffset=15 — trailing hold is implicit (clamp to last wp)
+      ],
+    },
+  ];
+
+  it('opening hold: camera is at the first waypoint at t=0', () => {
+    const cam = interpolateCameraOnPath(anchoredShots, PRE_ROLL_S + 0, PRE_ROLL_S);
+    expect(cam.lng).toBe(10);
+    expect(cam.lat).toBe(5);
+  });
+
+  it('between-anchor interpolation: lng is strictly between anchor A and B at t=5.9', () => {
+    // t=5.9 is exactly halfway between 3.7 and 8.1 (midpoint = 5.9)
+    const cam = interpolateCameraOnPath(anchoredShots, PRE_ROLL_S + 5.9, PRE_ROLL_S);
+    expect(cam.lng).toBeGreaterThan(35);
+    expect(cam.lng).toBeLessThan(48);
+  });
+
+  it('at anchor B: camera is at lng≈48, lat≈33 at tOffset=8.1', () => {
+    const cam = interpolateCameraOnPath(anchoredShots, PRE_ROLL_S + 8.1, PRE_ROLL_S);
+    expect(cam.lng).toBeCloseTo(48, 1);
+    expect(cam.lat).toBeCloseTo(33, 1);
+  });
+
+  it('trailing hold clamp: camera stays at anchor B after last waypoint (t=12.5)', () => {
+    // tInShot=12.5 exceeds the last tOffset=8.1 — evalCameraPath clamps to last waypoint
+    const cam = interpolateCameraOnPath(anchoredShots, PRE_ROLL_S + 12.5, PRE_ROLL_S);
+    expect(cam.lng).toBeCloseTo(48, 1);
+    expect(cam.lat).toBeCloseTo(33, 1);
+  });
+});
