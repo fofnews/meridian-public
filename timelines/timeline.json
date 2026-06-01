@@ -734,7 +734,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-29",
+      "lastSeen": "2026-05-31",
       "active": true,
       "entries": [
         {
@@ -926,6 +926,11 @@
           "date": "2026-05-29",
           "edition": "morning",
           "update": "Israeli Prime Minister Netanyahu announced he has ordered the military to seize control of 70 percent of Gaza, a move BBC News reported would contradict the terms of the ceasefire agreed with Hamas in October 2025."
+        },
+        {
+          "date": "2026-05-31",
+          "edition": "evening",
+          "update": "Sen. Chris Coons (D-Del.) claimed that Iran is 'stronger' than it was 90 days ago before the U.S. war began, citing Iran's use of 'cheap and lethal drones' as a key factor."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -934,7 +939,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-05-27",
+      "lastSeen": "2026-05-31",
       "active": true,
       "entries": [
         {
@@ -1026,6 +1031,11 @@
           "date": "2026-05-27",
           "edition": "morning",
           "update": "Iran's negotiators operate under a mandate established by the Supreme National Security Council and approved by Supreme Leader Khamenei, according to Al Jazeera's breakdown of the country's decision-making structure."
+        },
+        {
+          "date": "2026-05-31",
+          "edition": "evening",
+          "update": "Iran has reinstated some internet access following disruptions, but restrictions remain in place for most users, with data centers still offline and internet protocols blocked, restricted, or whitelisted, according to Al Jazeera."
         }
       ],
       "parentId": null
@@ -1034,7 +1044,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-05-29",
+      "lastSeen": "2026-05-31",
       "active": true,
       "entries": [
         {
@@ -1306,6 +1316,11 @@
           "date": "2026-05-29",
           "edition": "evening",
           "update": "The UN reported that an average of 11 children are being killed or injured every 24 hours in Lebanon due to ongoing conflict. Israeli and Lebanese officials are set to meet as U.S.-Iran peace talks continue."
+        },
+        {
+          "date": "2026-05-31",
+          "edition": "evening",
+          "update": "Israeli forces crossed north of Lebanon's Litani River and seized Beaufort Castle, a 12th-century Crusader fortress overlooking southern Lebanon and northern Israel, as part of an expanded ground offensive pushing toward the Zahrani River. Analysts told Al Jazeera that Israel is effectively expanding its area of military control northward. NPR reported that some Israeli far-right activists and political leaders are advocating for a 'Greater Israel,' seeking to extend Israeli control into neighboring countries amid the ongoing conflicts."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2630,7 +2645,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-29",
+      "lastSeen": "2026-05-31",
       "active": true,
       "entries": [
         {
@@ -2642,6 +2657,11 @@
           "date": "2026-05-24",
           "edition": "evening",
           "update": "An Israeli attack on Nuseirat refugee camp in Gaza killed Mohammad Abu Mallouh, Alaa Zaqlan, and their infant child, Osama, according to medics. France banned Israeli far-right minister Itamar Ben-Gvir from entering the country after French officials described his behavior toward arrested Gaza flotilla activists as 'unspeakable.' Israel blocked Muslims in Gaza from traveling to perform Hajj for the third consecutive year, with the border remaining shut as millions of other Muslims gathered for the pilgrimage. An Israeli source cited by Reuters said Prime Minister Netanyahu told President Trump that Israel will retain the freedom to act independently against threats."
+        },
+        {
+          "date": "2026-05-31",
+          "edition": "evening",
+          "update": "According to the NY Times, Trump's diplomatic efforts in Ukraine, Gaza, and Iran have reached a stalemate, with early declarations of easy wins giving way to more complex realities across all three conflicts."
         }
       ]
     },
@@ -2665,7 +2685,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-05-29",
+      "lastSeen": "2026-05-31",
       "active": true,
       "entries": [
         {
@@ -2732,6 +2752,11 @@
           "date": "2026-05-29",
           "edition": "evening",
           "update": "According to NBC News, the U.S. and Iran are closing in on a preliminary agreement that would extend a ceasefire for 60 days, begin negotiations on Iran's nuclear program, and reopen the Strait of Hormuz. However, Trump administration officials subsequently walked back reports that a memorandum of understanding had been reached, according to CBS News. Pakistan's Foreign Minister is set to meet with Secretary of State Rubio in Washington to discuss Iran. Former national security adviser Jake Sullivan, while critical of the administration's approach, acknowledged the tentative deal 'may be the best of the very bad outcomes.'"
+        },
+        {
+          "date": "2026-05-31",
+          "edition": "evening",
+          "update": "Trump stated that Iran has agreed not to pursue nuclear weapons, according to Newsmax. U.S. officials reported that Trump sent tougher terms to Iran for a peace framework, with one official suggesting the changes may be intended to pressure Iran into accepting the existing deal more quickly. Saudi Arabian shares gained while Qatar's market slipped amid ongoing uncertainty over a potential deal."
         }
       ]
     },
@@ -2740,7 +2765,7 @@
       "title": "US Military Operations Eastern Pacific",
       "parentId": null,
       "firstSeen": "2026-04-27",
-      "lastSeen": "2026-05-27",
+      "lastSeen": "2026-05-31",
       "active": true,
       "entries": [
         {
@@ -2762,6 +2787,11 @@
           "date": "2026-05-27",
           "edition": "morning",
           "update": "At least 193 people have been killed in the Trump administration's campaign of missile strikes on boats claimed to be trafficking drugs in Latin American waters. A recent U.S. strike on a boat in the Eastern Pacific killed one person while two others survived, according to SOUTHCOM."
+        },
+        {
+          "date": "2026-05-31",
+          "edition": "evening",
+          "update": "A U.S. military strike in the eastern Pacific Ocean killed three people aboard an alleged drug-trafficking boat, the fourth such strike this week. The total death toll from the administration's campaign against alleged drug boats has now surpassed 200."
         }
       ]
     },
@@ -2935,13 +2965,18 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-05-08",
+      "lastSeen": "2026-05-31",
       "active": true,
       "entries": [
         {
           "date": "2026-05-08",
           "edition": "evening",
           "update": "Trump announced a three-day ceasefire between Russia and Ukraine running from May 9 to May 11, timed to coincide with Russia's Victory Day celebrations, along with a prisoner swap agreement."
+        },
+        {
+          "date": "2026-05-31",
+          "edition": "evening",
+          "update": "Ukrainian President Zelensky stated on Sunday that he hopes White House envoy Steve Witkoff and Jared Kushner will visit Kyiv for talks in the coming weeks, in an interview on CBS News's 'Face the Nation.'"
         }
       ]
     },
@@ -2950,7 +2985,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-05-29",
+      "lastSeen": "2026-05-31",
       "active": true,
       "entries": [
         {
@@ -3022,6 +3057,11 @@
           "date": "2026-05-29",
           "edition": "morning",
           "update": "The U.S. and Iran have entered an economic standoff in the Strait of Hormuz, with an American blockade and Iranian control of the strait creating a stalemate as both sides attempt economic strangulation through naval presence, according to the NY Times."
+        },
+        {
+          "date": "2026-05-31",
+          "edition": "evening",
+          "update": "National Economic Council Director Kevin Hassett predicted on ABC's 'This Week' that oil shipments will resume through the Strait of Hormuz within 'a month or two,' noting there is already 'a lot more traffic' passing through the strait. U.S. Central Command has quietly guided approximately 70 commercial ships through the Strait of Hormuz over a three-week period, according to a U.S. official."
         }
       ]
     },
@@ -3100,7 +3140,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-05-29",
+      "lastSeen": "2026-05-31",
       "active": true,
       "entries": [
         {
@@ -3182,6 +3222,11 @@
           "date": "2026-05-29",
           "edition": "evening",
           "update": "A Kenyan court on Friday temporarily blocked the U.S. plan to construct an Ebola quarantine facility for Americans in Kenya. The WHO reported 906 suspected cases and 223 suspected deaths from the Bundibugyo strain of Ebola. NPR reported that community members in affected areas are attacking Ebola clinics and distrusting medical workers, with traditional burial practices posing additional transmission risks."
+        },
+        {
+          "date": "2026-05-31",
+          "edition": "evening",
+          "update": "WHO Director-General Tedros announced that five people infected with the rare Bundibugyo strain of Ebola have recovered in eastern Congo, making the announcement during a visit to Bunia. Africa CDC reported 263 confirmed cases and 43 deaths across Congo and Uganda. Brazil is monitoring two patients for possible Ebola infection, which if confirmed would be the first cases outside Africa since the current outbreak began."
         }
       ]
     },
@@ -3281,5 +3326,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-05-30T11:05:36.873Z"
+  "updatedAt": "2026-06-01T10:37:01.209Z"
 }
