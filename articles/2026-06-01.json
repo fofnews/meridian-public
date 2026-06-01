@@ -651,5 +651,37 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-01T07:30:01.263Z"
+  },
+  {
+    "title": "Sam Levinson on Why ‘Euphoria’ Had to End This Way. For Good.",
+    "description": "In an exclusive interview, Sam Levinson explained why he felt it was time to bring the series to a close and responded to its detractors.",
+    "link": "https://www.nytimes.com/2026/06/01/arts/television/popcast-euphoria-sam-levinson-interview.html",
+    "pubDate": "Mon, 01 Jun 2026 04:04:10 +0000",
+    "source": "NY Times",
+    "categories": [
+      "television",
+      "drug abuse and traffic",
+      "content type: personal profile",
+      "levinson, sam (1985- )",
+      "sweeney, sydney (1997- )",
+      "cloud, angus",
+      "coleman, zendaya",
+      "domingo, colman",
+      "schafer, hunter (1999- )",
+      "elordi, jacob",
+      "euphoria (tv program)"
+    ],
+    "collectedAt": "2026-06-01T08:00:01.327Z"
+  },
+  {
+    "title": "Iran war day 94: US strikes Iranian sites; Kuwait intercepts missiles",
+    "description": "While a peace deal between the US and Iran remains elusive, Israel has deepened its offensive into southern Lebanon.",
+    "link": "https://www.aljazeera.com/news/2026/6/1/iran-war-day-94-us-strikes-iranian-sites-kuwait-intercepts-missiles?traffic_source=rss",
+    "pubDate": "Mon, 01 Jun 2026 07:40:23 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-06-01T08:00:01.327Z"
   }
 ]
