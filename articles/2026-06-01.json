@@ -1526,5 +1526,394 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-01T10:00:01.404Z"
+  },
+  {
+    "title": "France intercepts sanctioned Russian oil tanker, Macron says",
+    "description": "The French Navy conducted the operation with the support of allies including the UK on Sunday.",
+    "link": "https://www.bbc.com/news/articles/cn8pwgej1gxo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 01 Jun 2026 10:02:02 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-01T10:15:01.224Z"
+  },
+  {
+    "title": "Laos cave rescue workers report 'knocking sound' in search for last 2 missing people",
+    "description": "Rescue workers searching flooded caves in Laos reported hearing \"a knocking sound\" from inside the system as they sought to extricate two people.",
+    "link": "https://abcnews.com/International/laos-cave-rescue-workers-report-knocking-sound-search/story?id=133476803",
+    "pubDate": "Mon, 01 Jun 2026 06:12:24 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-06-01T10:15:01.224Z"
+  },
+  {
+    "title": "Inside an Ebola Ward, and a Roadblock for Trump’s $1.8 Billion Fund",
+    "description": "Plus, the 20-year-old director with the No. 1 movie.",
+    "link": "https://www.nytimes.com/2026/06/01/podcasts/the-headlines/ebola-ward-trump-1-8-billion-fund.html",
+    "pubDate": "Mon, 01 Jun 2026 10:00:09 +0000",
+    "source": "NY Times",
+    "categories": [
+      "federal aid (us)",
+      "united states politics and government",
+      "ebola virus",
+      "trump, donald j"
+    ],
+    "collectedAt": "2026-06-01T10:15:01.224Z"
+  },
+  {
+    "title": "Turkey's Democratic Crisis Is Becoming a Security Crisis | Opinion",
+    "description": "Turkey's role in migration, energy, and regional security means democratic collapse would not remain within its borders.",
+    "link": "https://www.newsweek.com/turkeys-democratic-crisis-is-becoming-a-security-crisis-opinion-12015939",
+    "pubDate": "Mon, 01 Jun 2026 06:08:04 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-01T10:15:01.224Z"
+  },
+  {
+    "title": "Dangerous chemical plant disasters spotlight Trump’s deregulatory efforts",
+    "description": "Critics are outraged that the Trump administration is moving to roll back chemical safety rules even as the U.S. faces deadly industrial chemical incidents. Last week, about 50,000 people were told to evacuate in Southern California because an overheating chemical tank was at risk of exploding. Those orders have since been lifted. And this week, in Washington…",
+    "link": "https://thehill.com/policy/energy-environment/5902007-chemical-plant-disasters-trump-epa/",
+    "pubDate": "Mon, 01 Jun 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "business",
+      "energy & environment",
+      "regulation",
+      "chemical regulation",
+      "chemical safety board",
+      "environmental protection agency",
+      "epa"
+    ],
+    "collectedAt": "2026-06-01T10:15:01.224Z"
+  },
+  {
+    "title": "Trump’s Iran peace deal pits Republican vs. Republican",
+    "description": "President Trump’s serious consideration of a peace deal with Iran that would open the Strait of Hormuz but also ease sanctions on Iran, a longtime U.S. adversary, is pitting Republican against Republican in a messy debate that will take over the Senate this week. Defense hawks led by Senate Armed Services Committee Chair Roger Wicker…",
+    "link": "https://thehill.com/homenews/senate/5901912-trump-iran-peace-deal-senate-republicans/",
+    "pubDate": "Mon, 01 Jun 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "defense",
+      "news",
+      "policy",
+      "senate"
+    ],
+    "collectedAt": "2026-06-01T10:15:01.224Z"
+  },
+  {
+    "title": "Hackers more focused on misleading voters than ballot tampering: Report",
+    "description": "Hackers and foreign influence operators are increasingly turning to misinformation campaigns to confuse and mislead voters rather than tampering with voting machines and ballots in the 2026 midterm elections, a new cybersecurity report found. The report, published Monday by cybersecurity firm Check Point Software, said attempts at phishing, impersonation and misinformation activity will be most…",
+    "link": "https://thehill.com/policy/technology/5903411-ai-amplified-misinformation-voter/",
+    "pubDate": "Mon, 01 Jun 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "cybersecurity",
+      "national security",
+      "technology"
+    ],
+    "collectedAt": "2026-06-01T10:15:01.224Z"
+  },
+  {
+    "title": "Trump wades into GOP fight over prediction market regulation",
+    "description": "President Trump is throwing his weight behind an effort to block state restrictions on prediction markets, as federal and state regulators vie for authority over the platforms in a legal dispute that has divided the GOP. The Commodity Futures Trading Commission (CFTC) has brought cases against more than half a dozen states over their efforts…",
+    "link": "https://thehill.com/policy/technology/5901031-trump-supports-prediction-markets/",
+    "pubDate": "Mon, 01 Jun 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "business",
+      "technology",
+      "american gaming association",
+      "chris christie",
+      "donald trump jr.",
+      "letitia james",
+      "michael selig",
+      "prediction markets",
+      "utah"
+    ],
+    "collectedAt": "2026-06-01T10:15:01.224Z"
+  },
+  {
+    "title": "Becerra looks likely to pull off California comeback",
+    "description": "Former Health and Human Services (HHS) Secretary Xavier Becerra (D) looks poised to finish as one of the front-runners Tuesday in the race to succeed California Gov. Gavin Newsom (D), a remarkable arc for the candidate who polled in just single digits a few months ago. Democrats credit several factors for Becerra’s momentum: former Rep. Eric Swalwell’s (D-Calif.) exit from…",
+    "link": "https://thehill.com/homenews/campaign/5901975-xavier-becerra-california-gubernatorial-race-newsom/",
+    "pubDate": "Mon, 01 Jun 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "news"
+    ],
+    "collectedAt": "2026-06-01T10:15:01.224Z"
+  },
+  {
+    "title": "This week on the Hill: Reconciliation bill runs up against Republican infighting",
+    "description": "Monday was supposed to be the deadline for getting an immigration enforcement funding package on President Trump’s desk.   Instead, the Senate will return Monday evening, preparing for a showdown over the bill after negotiations on the measure blew up more than a week ago following the White House’s  announcement of the creation of a separate, controversial “anti-weaponization” fund that would issue payouts to those…",
+    "link": "https://thehill.com/homenews/senate/5901961-reconciliation-immigration-war-powers-iran-fisa/",
+    "pubDate": "Mon, 01 Jun 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "house",
+      "news",
+      "senate"
+    ],
+    "collectedAt": "2026-06-01T10:15:01.224Z"
+  },
+  {
+    "title": "‘I’m unsure of the best approach’: My father, 91, is in hospice care. He left his six children CDs. Can we cash out?",
+    "description": "“His banker suggested that it might be easier after my father’s passing if we liquidate all of the CDs.”",
+    "link": "https://www.marketwatch.com/story/im-unsure-of-the-best-approach-my-father-91-is-in-hospice-care-he-left-his-six-children-cds-can-we-cash-out-72006059?mod=mw_rss_topstories",
+    "pubDate": "Mon, 01 Jun 2026 10:00:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-06-01T10:15:01.224Z"
+  },
+  {
+    "title": "Another dire problem for Social Security: Trustees may be calculating the birth rate wrong",
+    "description": "Don’t expect a baby boom to save Social Security.",
+    "link": "https://www.marketwatch.com/story/another-dire-problem-for-social-security-trustees-may-be-calculating-the-birth-rate-wrong-955d1930?mod=mw_rss_topstories",
+    "pubDate": "Mon, 01 Jun 2026 10:00:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-06-01T10:15:01.224Z"
+  },
+  {
+    "title": "‘I have no preexisting conditions’: I’m 56, earn $198,000 and want to retire early. Can I afford private healthcare?",
+    "description": "“I’m trying to figure out whether it’s worth my while achieving FIRE.”",
+    "link": "https://www.marketwatch.com/story/i-have-no-preexisting-conditions-im-56-earn-198-000-and-want-to-retire-early-can-i-afford-private-healthcare-e80cdd26?mod=mw_rss_topstories",
+    "pubDate": "Mon, 01 Jun 2026 10:00:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-06-01T10:15:01.224Z"
+  },
+  {
+    "title": "Sailboat tracking shutoff could be crucial in Lynette Hooker disappearance, expert says",
+    "description": "Former federal prosecutor says sailboat tracking blackout is highly suspicious in case of missing American woman who vanished in the Bahamas.",
+    "link": "https://www.foxnews.com/us/sailboat-tracking-shutoff-could-crucial-lynette-hooker-disappearance-expert-says",
+    "pubDate": "Mon, 01 Jun 2026 06:00:45 -0400",
+    "source": "Fox News",
+    "categories": [
+      "3c1e846c-119a-5dad-878d-5ab19ce053cf",
+      "fnc",
+      "fox news",
+      "fox-news/topic/missing-persons",
+      "fox-news/travel/vacation-destinations/bahamas",
+      "fox-news/great-outdoors/boating",
+      "fox-news/us/military/coast-guard",
+      "fox-news/crime",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-06-01T10:15:01.224Z"
+  },
+  {
+    "title": "Queen Elizabeth’s mother wanted her to marry another man before Prince Philip: author",
+    "description": "Royal historian Hugo Vickers claims Hugh, Earl of Euston, was once in the running to marry Queen Elizabeth II before she fell in love with Prince Philip.",
+    "link": "https://www.foxnews.com/entertainment/queen-elizabeths-mother-wanted-marry-another-man-prince-philip-author",
+    "pubDate": "Mon, 01 Jun 2026 06:00:37 -0400",
+    "source": "Fox News",
+    "categories": [
+      "fb4d655a-bc07-5998-b2cb-f0caa15108bf",
+      "fnc",
+      "fox news",
+      "fox-news/world/personalities/queen",
+      "fox-news/world/personalities/british-royals",
+      "fox-news/entertainment/genres/books",
+      "fox-news/entertainment",
+      "fox-news/entertainment",
+      "article"
+    ],
+    "collectedAt": "2026-06-01T10:15:01.224Z"
+  },
+  {
+    "title": "NYC landlord pleads for help as '9-year-squatter' continues to drain him dry in court saga: 'Twilight Zone'",
+    "description": "A Brooklyn landlord claims a nearly decade-long legal battle over rent stabilization has drained his finances while his tenant remains in the unit.",
+    "link": "https://www.foxnews.com/politics/nyc-landlord-pleads-help-9-year-squatter-continues-drain-dry-court-saga-twilight-zone",
+    "pubDate": "Mon, 01 Jun 2026 06:00:31 -0400",
+    "source": "Fox News",
+    "categories": [
+      "f0b809df-64b2-5ba0-afac-9f01d3801998",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/northeast/new-york",
+      "fox-news/entertainment/events/in-court",
+      "fox-news/us/new-york-city",
+      "fox-news/us/economy/housing",
+      "fox-news/real-estate",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-06-01T10:15:01.224Z"
+  },
+  {
+    "title": "Karmelo Anthony’s self-defense claim could define murder trial in high school track meet stabbing: analyst",
+    "description": "Karmelo Anthony faces trial on a first-degree murder charge in the fatal stabbing of teen Austin Metcalf at a Frisco high school track meet in April 2025.",
+    "link": "https://www.foxnews.com/us/karmelo-anthony-self-defense-claim-could-define-murder-trial-high-school-track-meet-stabbing-analyst",
+    "pubDate": "Mon, 01 Jun 2026 06:00:17 -0400",
+    "source": "Fox News",
+    "categories": [
+      "dea5b2b2-7dea-53ca-8eb2-5e741b593eda",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/southwest/texas",
+      "fox-news/entertainment/events/in-court",
+      "fox-news/politics/defense/threats",
+      "fox-news/us/crime/trials",
+      "fox-news/us/crime/homicide",
+      "fox-news/crime",
+      "fox-news/us",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-06-01T10:15:01.224Z"
+  },
+  {
+    "title": "One southern city you've never heard of is growing faster than anywhere else in America",
+    "description": "Once a quiet ranching town north of Dallas, Celina, Texas, is now America's fastest-growing city as families seek cheaper housing and more space.",
+    "link": "https://www.foxnews.com/politics/small-southern-suburb-became-americas-fastest-growing-city",
+    "pubDate": "Mon, 01 Jun 2026 06:00:08 -0400",
+    "source": "Fox News",
+    "categories": [
+      "8b243ac9-5995-5037-8dc9-16710038be15",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/southwest/texas",
+      "fox-news/us/economy/growth",
+      "fox-news/us/infrastructure-across-america",
+      "fox-news/us/dallas-fort-worth",
+      "fox-news/us/economy/jobs",
+      "fox-news/us/economy",
+      "fox-news/politics",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-06-01T10:15:01.224Z"
+  },
+  {
+    "title": "Hasan Piker says UK has barred him, trashes ‘unbelievable…power’ of pro-Israel groups",
+    "description": "Jewish groups had publicly urged the government to block the Twitch streamer, citing remarks on Hamas and Hezbollah.",
+    "link": "https://nypost.com/2026/06/01/us-news/hasan-piker-says-uk-has-barred-him-trashes-unbelievable-power-of-pro-israel-groups/",
+    "pubDate": "Mon, 01 Jun 2026 06:10:18 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-01T10:15:01.224Z"
+  },
+  {
+    "title": "A rare but deadly disease was secretly lurking in my body — the lucky way it was caught, despite no symptoms",
+    "description": "\"I've got a 4-year-old and a 6-year-old, and it's scary to think about if I wouldn't have found this diagnosis,\" Maggie Hott told The Post.",
+    "link": "https://nypost.com/2026/06/01/health/lucky-way-millennial-found-rare-deadly-disease-in-her-body/",
+    "pubDate": "Mon, 01 Jun 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-01T10:15:01.224Z"
+  },
+  {
+    "title": "Atlanta stadium execs spent $600K in tax dollars on World Cup VIP seats while fretting over ‘crazy’ prices",
+    "description": "After President Trump ripped the sky-high prices for World Cup tickets, now even the executives helping to host the competition say the cost of attending games is too high.",
+    "link": "https://nypost.com/2026/06/01/business/atlanta-stadium-execs-spent-600k-in-tax-dollars-on-world-cup-vip-seats-while-fretting-over-crazy-prices/",
+    "pubDate": "Mon, 01 Jun 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-01T10:15:01.224Z"
+  },
+  {
+    "title": "Frances Tiafoe vs. Matteo Arnaldi prediction: French Open odds, picks, best bets",
+    "description": "Frances Tiafoe has the opportunity of a lifetime ahead of him. The American is into the Round of 16 at the French Open, and he won’t face a seeded player until at least the semifinal. With Jannik Sinner, Carlos Alcaraz, and Novak Djokovic all out of the picture, a Grand Slam is within Tiafoe’s grasp....",
+    "link": "https://nypost.com/2026/06/01/betting/frances-tiafoe-vs-matteo-arnaldi-prediction-french-open-odds-picks-best-bets/",
+    "pubDate": "Mon, 01 Jun 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-01T10:15:01.224Z"
+  },
+  {
+    "title": "Jeremy Sochan could be Knicks factor in NBA Finals with his Victor Wembanyama knowledge: Know quite a lot’",
+    "description": "Jeremy Sochan knows Victor Wembanyama well. And he is helping advise the Knicks on how to slow him down in the NBA Finals.",
+    "link": "https://nypost.com/2026/06/01/sports/jeremy-sochan-could-be-a-knicks-factor-with-his-victor-wembanyama-knowledge/",
+    "pubDate": "Mon, 01 Jun 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-01T10:15:01.224Z"
+  },
+  {
+    "title": "Mamdani wants to remove former Mayor Ed Koch’s name from iconic NYC bridge — but critics say hands off",
+    "description": "\"How'm I Doin'?”, the late former three-term Mayor Ed Koch used to ask. Current Mayor Zohran Mamdani says not too good, pledging to remove Koch's name from the 59th Street Bridge named in his honor.",
+    "link": "https://nypost.com/2026/06/01/us-news/mamdani-wants-to-remove-former-mayor-ed-kochs-name-from-iconic-nyc-bridge-but-critics-say-hands-off/",
+    "pubDate": "Mon, 01 Jun 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-01T10:15:01.224Z"
+  },
+  {
+    "title": "Trump urges ‘Dumocrats’ to ‘just sit back and relax’ while he negotiates with Iran",
+    "description": "President Donald Trump urged his political critics and detractors to “just sit back and relax” as he leads negotiations with Iran to end the military conflict with the country. He also said that politicians making critical remarks about him hamper efforts to negotiate an agreement to end hostilities. He made the comments in an early-morning […]",
+    "link": "https://www.washingtonexaminer.com/news/4588934/trump-urges-dumocrats-to-just-sit-back-and-relax-negotiates-with-iran/",
+    "pubDate": "Mon, 01 Jun 2026 10:03:46 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "dan goldman",
+      "democrats",
+      "donald trump",
+      "iran",
+      "president donald trump",
+      "strait of hormuz",
+      "ted cruz",
+      "truth social"
+    ],
+    "collectedAt": "2026-06-01T10:15:01.224Z"
+  },
+  {
+    "title": "Retiring Senate Democrats open door to anti-filibuster successors",
+    "description": "Retirements among Senate Democrats are paving the way for younger and fresher successors who are more vocal about abolishing the filibuster. Efforts to create policy carveouts for the 60-vote threshold under Democratic majorities fell short thanks to centrist holdouts. But Senate hopefuls in several states have a stronger desire to repeal the filibuster in its […]",
+    "link": "https://www.washingtonexaminer.com/news/senate/4587558/retiring-senate-democrats-open-door-to-anti-filibuster-successors/",
+    "pubDate": "Mon, 01 Jun 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "senate",
+      "2026 elections",
+      "congress",
+      "filibuster",
+      "michigan",
+      "minnesota",
+      "new hampshire"
+    ],
+    "collectedAt": "2026-06-01T10:15:01.224Z"
+  },
+  {
+    "title": "Progressive Democratic House front-runner Adam Hamawy faces scrutiny over past terrorist association",
+    "description": "A progressive darling leading in Democratic primary polls in New Jersey‘s 12th District has drawn scrutiny for his connections to a terrorist mastermind and alleged work with an al Qaeda front organization in Bosnia. Dr. Adam Hamawy, who earned national fame for his work in Gaza during the Israel-Hamas war, has earned endorsements from Sen. […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4584640/progressive-democrat-adam-hamawy-scrutiny-terrorist-link/",
+    "pubDate": "Mon, 01 Jun 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "congressional",
+      "2026 elections",
+      "al qaeda",
+      "democratic party",
+      "egypt",
+      "islam",
+      "new jersey",
+      "terrorism"
+    ],
+    "collectedAt": "2026-06-01T10:15:01.224Z"
+  },
+  {
+    "title": "California primary races to watch as 61 candidates seek governor’s mansion",
+    "description": "The nation’s most populous state is holding its primaries on Tuesday, including close elections that will draw national attention. While California is renowned as the most significant blue bastion in the country, its size and diversity mean several congressional races are competitive or Republican-leaning. Republicans have a rare shot in the gubernatorial race, and the […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/state/4588596/california-primary-races-governor-mayor/",
+    "pubDate": "Mon, 01 Jun 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "state",
+      "2026 elections",
+      "california",
+      "governor",
+      "mayors",
+      "midterm elections",
+      "primaries",
+      "spencer pratt",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-06-01T10:15:01.224Z"
   }
 ]
