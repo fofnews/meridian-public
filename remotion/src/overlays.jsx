@@ -271,3 +271,59 @@ export function FadeOverlay({ durationInFrames, preRollS, postRollS }) {
     }} />
   );
 }
+
+// ── DataCallout ───────────────────────────────────────────────────────────────
+
+export function DataCallout({ text, fromFrame, durationFrames, fadeFrames = 9 }) {
+  const frame = useCurrentFrame();
+
+  const opacity = interpolate(
+    frame,
+    [fromFrame, fromFrame + fadeFrames, fromFrame + durationFrames - fadeFrames, fromFrame + durationFrames],
+    [0, 1, 1, 0],
+    { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' }
+  );
+
+  if (opacity === 0) return null;
+
+  return (
+    <div style={{
+      position: 'absolute',
+      bottom: 110,
+      left: '50%',
+      transform: 'translateX(-50%)',
+      opacity,
+      zIndex: 15,
+      pointerEvents: 'none',
+    }}>
+      <div style={{
+        background: 'rgba(10,13,20,0.82)',
+        borderRadius: 6,
+        padding: '16px 32px',
+        borderTop: `2px solid ${BORDER_ACTIVE}`,
+        textAlign: 'center',
+      }}>
+        <div style={{
+          color: ACCENT,
+          fontFamily: 'Source Serif 4, serif',
+          fontSize: 10,
+          fontWeight: 600,
+          letterSpacing: 2,
+          textTransform: 'uppercase',
+          marginBottom: 8,
+        }}>
+          DATA
+        </div>
+        <div style={{
+          color: ACCENT,
+          fontFamily: 'Playfair Display, serif',
+          fontSize: 64,
+          fontWeight: 900,
+          lineHeight: 1,
+        }}>
+          {text}
+        </div>
+      </div>
+    </div>
+  );
+}
