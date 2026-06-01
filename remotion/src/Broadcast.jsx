@@ -3,8 +3,8 @@ import './broadcast.css';
 import { useEffect, useRef } from 'react';
 import { useCurrentFrame, useVideoConfig, AbsoluteFill, Audio, Sequence, delayRender, continueRender } from 'remotion';
 import { useRemotionMap } from './useRemotionMap.js';
-import { interpolateCameraOnPath, getActiveLocation } from './camera.js';
-import { RemotionFilmGrain, Chyron, Ticker, TopBar, MapAttribution, FadeOverlay } from './overlays.jsx';
+import { interpolateCameraOnPath, getActiveLocation, getActiveWaypoint } from './camera.js';
+import { RemotionFilmGrain, Chyron, Ticker, TopBar, MapAttribution, FadeOverlay, DataCallout } from './overlays.jsx';
 
 const PRE_ROLL_S  = 1;
 const POST_ROLL_S = 1;
@@ -52,6 +52,8 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
   const { mapContainer, mapRef, markerRef, mapReady } = useRemotionMap({ mapboxToken, port });
   // Track active shot index so story-path source is only updated on shot changes.
   const activeShotIdxRef = useRef(-1);
+  // Track active waypoint so highlight polygon is only swapped on waypoint changes.
+  const activeWaypointKeyRef = useRef(null);
 
   // Per-frame camera update: jumpTo computed position, delay Remotion
   // until Mapbox reports idle (all tiles rendered for this position).
@@ -76,8 +78,6 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
     for (let si = 0; si < shotlist.shots.length; si++) {
       if (shotlist.shots[si].t + PRE_ROLL_S <= t) { activeShot = shotlist.shots[si]; activeShotIdx = si; }
     }
-    const isoCode = activeShot?.isoCode ?? '';
-
     // Update story-path dashed line only when shot changes (not every frame).
     if (activeShotIdx !== activeShotIdxRef.current) {
       activeShotIdxRef.current = activeShotIdx;
@@ -95,12 +95,29 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
         markerRef.current.getElement().style.display = 'none';
       }
     }
-    try {
-      if (mapRef.current.getLayer('country-highlight-glow')) {
-        mapRef.current.setFilter('country-highlight-glow', ['==', 'iso_3166_1', isoCode]);
-        mapRef.current.setFilter('country-highlight-edge', ['==', 'iso_3166_1', isoCode]);
-      }
-    } catch {}
+    // Per-waypoint highlight: swap state-boundary polygon + country filter when
+    // the active waypoint changes (not just on shot boundaries).
+    const activeWpResult = getActiveWaypoint(shotlist.shots, t, PRE_ROLL_S);
+    const wpKey = activeWpResult
+      ? `${activeWpResult.shotIdx}:${activeWpResult.waypointIdx}`
+      : null;
+    if (wpKey !== activeWaypointKeyRef.current) {
+      activeWaypointKeyRef.current = wpKey;
+      const hl = activeWpResult?.waypoint?.highlight ?? null;
+      const poly = hl?.polygon ?? null;
+      const iso  = hl?.iso    ?? '';
+      const emptyFC = { type: 'FeatureCollection', features: [] };
+      const polyFC  = poly
+        ? { type: 'FeatureCollection', features: [poly] }
+        : emptyFC;
+      try { mapRef.current.getSource('state-boundary')?.setData(polyFC); } catch {}
+      try {
+        if (mapRef.current.getLayer('country-highlight-glow')) {
+          mapRef.current.setFilter('country-highlight-glow', ['==', 'iso_3166_1', iso]);
+          mapRef.current.setFilter('country-highlight-edge', ['==', 'iso_3166_1', iso]);
+        }
+      } catch {}
+    }
 
     const onIdle = () => { resolved = true; continueRender(handle); };
     mapRef.current.once('idle', onIdle);
@@ -137,6 +154,26 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
           durationInFrames={durationInFrames}
         />
       </div>
+
+      {/* Per-shot data overlays (data-callout type) */}
+      {shotlist.shots.flatMap((shot, i) =>
+        (shot.overlays ?? []).map((ov, j) => {
+          const fromFrame   = Math.round((PRE_ROLL_S + shot.t + ov.tOffset) * fps);
+          const shotEndFrame = Math.round((PRE_ROLL_S + shot.t + shot.hold) * fps);
+          const durFrames   = Math.min(
+            Math.round((ov.durationMs / 1000) * fps),
+            shotEndFrame - fromFrame,
+          );
+          if (durFrames <= 0) return null;
+          return (
+            <Sequence key={`${i}-${j}`} from={fromFrame} durationInFrames={durFrames}>
+              {ov.type === 'data-callout' && (
+                <DataCallout text={ov.text} fromFrame={fromFrame} durationFrames={durFrames} />
+              )}
+            </Sequence>
+          );
+        })
+      )}
 
       {/* Pre-roll / post-roll black fade — sits on top of everything */}
       <FadeOverlay
