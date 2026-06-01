@@ -48,5 +48,43 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-01T04:30:01.179Z"
+  },
+  {
+    "title": "Iran live updates: US conducts 'self-defense' strikes in Iran",
+    "description": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.",
+    "link": "https://abcnews.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077",
+    "pubDate": "Mon, 01 Jun 2026 00:30:20 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-06-01T04:45:01.713Z"
+  },
+  {
+    "title": "Body of ‘Alaskan Bush People’ star Matt Brown found in Washington state river",
+    "description": "A body pulled from a Washington state river has been identified as that of “Alaskan Bush People” cast member Matt Brown",
+    "link": "https://www.nbcnews.com/news/us-news/body-alaskan-bush-people-star-matt-brown-found-washington-state-river-rcna347803",
+    "pubDate": "Mon, 01 Jun 2026 04:20:51 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-06-01T04:45:01.713Z"
+  },
+  {
+    "title": "Max Schuemann gives Yankees a ‘good spark’ against his former team in rare start",
+    "description": "With a lefty on the mound and his former team across the way, Max Schuemann got a rare start Sunday afternoon and made the most of it again.",
+    "link": "https://nypost.com/2026/06/01/sports/max-schuemann-gives-yankees-a-good-spark-in-rare-start/",
+    "pubDate": "Mon, 01 Jun 2026 00:39:18 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-01T04:45:01.713Z"
+  },
+  {
+    "title": "St. John’s baseball reaches NCAA regional final with historic offensive outburst to top Northern Illinois",
+    "description": "The trip to the regional final is St. John’s first in more than a decade. It has been 14 years since the Red Storm last played in a Super Regional.",
+    "link": "https://nypost.com/2026/06/01/sports/st-johns-baseball-reaches-ncaa-regional-final-with-historic-offensive-outburst/",
+    "pubDate": "Mon, 01 Jun 2026 00:38:35 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-01T04:45:01.713Z"
   }
 ]
