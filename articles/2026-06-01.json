@@ -431,5 +431,63 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-01T06:30:02.460Z"
+  },
+  {
+    "title": "America Strong: When most are slowing down, he's just getting started!",
+    "description": "90-year-old Bill Schwarz runs his very first marathon in San Diego.",
+    "link": "https://abcnews.com/video/133472029/",
+    "pubDate": "Mon, 01 Jun 2026 01:24:18 -0400",
+    "source": "ABC News",
+    "categories": [
+      "wnt"
+    ],
+    "collectedAt": "2026-06-01T06:45:01.189Z"
+  },
+  {
+    "title": "Hundreds arrested in violent clashes after Champions League win",
+    "description": "Fans of Paris Saint-Germain celebrated a remarkable win before chaos on the streets of France erupted with hundreds arrested for rioting, vandalizing and setting fires.",
+    "link": "https://abcnews.com/video/133472033/",
+    "pubDate": "Mon, 01 Jun 2026 02:40:43 -0400",
+    "source": "ABC News",
+    "categories": [
+      "wnt"
+    ],
+    "collectedAt": "2026-06-01T06:45:01.189Z"
+  },
+  {
+    "title": "Markets Rise as U.S. and Iran Exchange Fire but Keep Talking",
+    "description": "Oil prices climbed as investors weighed a renewed exchange of military strikes between the United States and Iran against signs that both sides remain engaged in negotiations.",
+    "link": "https://www.nytimes.com/2026/06/01/business/oil-gas-price-iran.html",
+    "pubDate": "Mon, 01 Jun 2026 06:34:13 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "oil (petroleum) and gasoline",
+      "prices (fares, fees and rates)",
+      "stocks and bonds",
+      "standard & poor's 500-stock index",
+      "iran"
+    ],
+    "collectedAt": "2026-06-01T06:45:01.189Z"
+  },
+  {
+    "title": "Tense election night in Colombia as country heads to presidential runoff",
+    "description": "Colombia’s election heads to a June 21 runoff after a tight first round between de la Espriella and Cepeda.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/aje-onl-nf_sv_colombia-heads-to-presidential-runoff-010626?traffic_source=rss",
+    "pubDate": "Mon, 01 Jun 2026 06:18:08 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-06-01T06:45:01.189Z"
+  },
+  {
+    "title": "South Korea export growth hits four-decade high on AI chip boom - Reuters",
+    "description": "South Korea export growth hits four-decade high on AI chip boom  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObUZaNE0zcldLWGpoVWFONHR4OS12MTZ4Um5rN2xYNkZLdUUyM3JWbDMxX0I0WTFaNXNuRXNnaGJIeGJ3WjdxV1ltams4cGVEeURGX2Jxd1NEV1BsNFNjVHV2Rk12NnR4VGZxQmxlMHU1X1F6UTdvdUxURnJ6bHdKdUNmM0o4elVZbVozSG5McmlkLXQ1eV8tWnNPX3laNmpHOVo2eWl6ZXZKc1VQUldMMTBoQjN4TWlJNnR1MHFwckEzMWstNVdpdGI1WTQ?oc=5",
+    "pubDate": "Mon, 01 Jun 2026 04:03:11 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-06-01T06:45:01.189Z"
   }
 ]
