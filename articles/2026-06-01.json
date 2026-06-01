@@ -1273,5 +1273,258 @@
     "source": "Wall Street Journal",
     "categories": [],
     "collectedAt": "2026-06-01T09:45:01.651Z"
+  },
+  {
+    "title": "Protesters, N.J. State Police clash near Delaney Hall, despite curfew",
+    "description": "Protesters and New Jersey State Police clashed again Sunday night near Delaney Hall, despite a 9 p.m. curfew imposed by Newark Mayor Ras Baraka.",
+    "link": "https://www.cbsnews.com/news/delaney-hall-ice-protests-dhs-restores-family-visitation/",
+    "pubDate": "Mon, 01 Jun 2026 05:57:49 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-06-01T10:00:01.404Z"
+  },
+  {
+    "title": "How Lebanon’s Best Chance to Disarm Hezbollah Failed",
+    "description": "Lebanon’s government has long wanted the powerful militia to give up its weapons. Before the Iran war began, there were signs of progress toward that goal.",
+    "link": "https://www.nytimes.com/2026/06/01/world/middleeast/lebanon-hezbollah-disarm.html",
+    "pubDate": "Mon, 01 Jun 2026 09:21:17 +0000",
+    "source": "NY Times",
+    "categories": [
+      "israel",
+      "hezbollah",
+      "iran",
+      "trump, donald j",
+      "arms control and limitation and disarmament",
+      "lebanon",
+      "beirut (lebanon)"
+    ],
+    "collectedAt": "2026-06-01T10:00:01.404Z"
+  },
+  {
+    "title": "They Voted for Trump. Here’s How They Feel About High Gas Prices.",
+    "description": "With the midterm elections five months away, many Americans who backed President Trump are wrestling with pain at the pump and the war in Iran.",
+    "link": "https://www.nytimes.com/2026/06/01/us/politics/trump-gas-prices-iran-war.html",
+    "pubDate": "Mon, 01 Jun 2026 09:00:32 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "us and israeli attack on iran (2026)",
+      "oil (petroleum) and gasoline",
+      "trump, donald j"
+    ],
+    "collectedAt": "2026-06-01T10:00:01.404Z"
+  },
+  {
+    "title": "The Progressive Pastor Who Helped Shape James Talarico",
+    "description": "Jim Rigby, who rarely uses the word “God,” is a key to understanding the Senate candidate trying to pull off something unusual in Texas.",
+    "link": "https://www.nytimes.com/2026/06/01/us/politics/james-talarico-christian.html",
+    "pubDate": "Mon, 01 Jun 2026 09:00:10 +0000",
+    "source": "NY Times",
+    "categories": [
+      "religion-state relations",
+      "christians and christianity",
+      "bible",
+      "baptist churches",
+      "presbyterian church",
+      "midterm elections (2026)",
+      "abbott, gregory w (1957- )",
+      "cornyn, john",
+      "paxton, ken",
+      "talarico, james",
+      "austin (tex)",
+      "texas"
+    ],
+    "collectedAt": "2026-06-01T10:00:01.404Z"
+  },
+  {
+    "title": "What to Watch For in the NY Primary: Key Races and Why They Matter",
+    "description": "Congressional primaries in Manhattan, Brooklyn and beyond could test the strength of Mayor Zohran Mamdani’s socialist movement and reverberate across the country.",
+    "link": "https://www.nytimes.com/2026/06/01/nyregion/new-york-primary-midterm-elections.html",
+    "pubDate": "Mon, 01 Jun 2026 07:00:09 +0000",
+    "source": "NY Times",
+    "categories": [
+      "avila chevalier, darializa",
+      "bores, alex",
+      "conley, cait",
+      "constantino, anthony t (1982- )",
+      "conway, george t iii",
+      "davidson, beth j",
+      "espaillat, adriano d",
+      "goldman, daniel s",
+      "lander, brad",
+      "lasher, micah c",
+      "mamdani, zohran",
+      "lawler, mike (1986- )",
+      "valdez, claire (1989- )",
+      "smullen, robert",
+      "reynoso, antonio",
+      "house of representatives",
+      "new york city",
+      "new york state",
+      "midterm elections (2026)",
+      "primaries and caucuses"
+    ],
+    "collectedAt": "2026-06-01T10:00:01.404Z"
+  },
+  {
+    "title": "A Paralympic Champion and an Eagle Scout Give Democrats Hope in Deep-Red Iowa",
+    "description": "Tuesday’s Senate primary features two candidates with compelling personal stories. Both have stressed their independence.",
+    "link": "https://www.nytimes.com/2026/06/01/us/politics/iowa-senate-primary-turek-wahls.html",
+    "pubDate": "Mon, 01 Jun 2026 09:01:54 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "midterm elections (2026)",
+      "elections, senate",
+      "turek, josh (1979- )",
+      "wahls, zach (1991- )",
+      "iowa"
+    ],
+    "collectedAt": "2026-06-01T10:00:01.404Z"
+  },
+  {
+    "title": "China Aims A.I. at Predicting Who Could Pose a Political Risk",
+    "description": "New research examines how a Chinese company struggled to develop its predictive surveillance technology while U.S. restrictions were in place.",
+    "link": "https://www.nytimes.com/2026/06/01/us/politics/china-ai-predicting-dissent.html",
+    "pubDate": "Mon, 01 Jun 2026 09:01:55 +0000",
+    "source": "NY Times",
+    "categories": [
+      "artificial intelligence",
+      "surveillance of citizens by government",
+      "computer chips",
+      "computers and the internet",
+      "censorship",
+      "china",
+      "vanderbilt university",
+      "golaxy",
+      "nvidia corporation",
+      "trump, donald j"
+    ],
+    "collectedAt": "2026-06-01T10:00:01.404Z"
+  },
+  {
+    "title": "Chinese Military Sought Nvidia Chips for Years, Report Says",
+    "description": "An analysis of six years of procurement records suggests that the People’s Liberation Army has openly tried to acquire restricted U.S. technology.",
+    "link": "https://www.nytimes.com/2026/06/01/business/economy/china-military-nvidia-chips.html",
+    "pubDate": "Mon, 01 Jun 2026 09:02:12 +0000",
+    "source": "NY Times",
+    "categories": [
+      "nvidia corporation",
+      "people's liberation army (china)",
+      "huawei technologies co ltd",
+      "jamestown foundation",
+      "china",
+      "united states",
+      "artificial intelligence",
+      "computer chips",
+      "regulation and deregulation of industry",
+      "cyberwarfare and defense"
+    ],
+    "collectedAt": "2026-06-01T10:00:01.404Z"
+  },
+  {
+    "title": "Ultra-Orthodox Jewish demonstrators storm Israeli police station",
+    "description": "Ultra-Orthodox Jewish demonstrators storm Israeli police station",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/1/ultra-orthodox-jewish-demonstrators-storm-israeli-police-station?traffic_source=rss",
+    "pubDate": "Mon, 01 Jun 2026 09:14:58 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-06-01T10:00:01.404Z"
+  },
+  {
+    "title": "Hungary's Magyar threatens legal action if president refuses to resign - Reuters",
+    "description": "Hungary's Magyar threatens legal action if president refuses to resign  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORDVNOVBxOGxSSktIOVN6cmdGcjgwaWd6WTFWVXRBMzVYS1BvZFRDZ3VQbm93WjJJXzdKMV9Oc19sdWxIY0VDblg2cjREOXhnVVdtdklqeDhfLUczLUVRZmVFZjV2UnNlcXAzSDFibEZDS1hiNFZId1B5cktFYm5MLVVzdkcyclBUejRZOFlXbmhOTHg3TUNVcS05enJNZTlOckdBS0FVZ0lra3FGRENLQUoyRHZIc3EtUGln?oc=5",
+    "pubDate": "Mon, 01 Jun 2026 09:02:09 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-06-01T10:00:01.404Z"
+  },
+  {
+    "title": "Intel and AMD shares fall more than Nvidia rises on new PC superchip",
+    "description": "Nvidia and Microsoft have announced the launch of PCs powered by the RTX Spark chip, which is built for artificial intelligence agents.",
+    "link": "https://www.marketwatch.com/story/intel-and-amd-shares-fall-more-than-nvidia-rises-on-new-pc-superchip-08b2411f?mod=mw_rss_topstories",
+    "pubDate": "Mon, 01 Jun 2026 09:53:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-06-01T10:00:01.404Z"
+  },
+  {
+    "title": "Greg Abbott posts AI image of himself dunking in Spurs jersey to troll Kathy Hochul after Knicks gaffe",
+    "description": "Texas Gov. Greg Abbott trolls New York Gov. Kathy Hochul with AI dunk image after she incorrectly claimed the Knicks won a 1993 championship during a media event.",
+    "link": "https://www.foxnews.com/outkick-sports/greg-abbott-posts-ai-image-dunking-spurs-jersey-troll-kathy-hochul-knicks-gaffe",
+    "pubDate": "Mon, 01 Jun 2026 05:46:03 -0400",
+    "source": "Fox News",
+    "categories": [
+      "062afcf3-9f3f-5fbb-9e5d-112b97c3b233",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/sports/nba",
+      "fox-news/sports/nba/san-antonio-spurs",
+      "fox-news/sports/nba/new-york-knicks",
+      "fox-news/person/kathy-hochul",
+      "fox-news/person/greg-abbott",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-06-01T10:00:01.404Z"
+  },
+  {
+    "title": "US military attacks Iran in 'self-defense strikes' over weekend",
+    "description": "CENTCOM announced that it targeted Iran in \"self-defense strikes\" during the weekend, asserting that CENTCOM will defend American interests.",
+    "link": "https://www.foxnews.com/world/us-military-attacks-iran-self-defense-strikes-over-weekend",
+    "pubDate": "Mon, 01 Jun 2026 05:44:02 -0400",
+    "source": "Fox News",
+    "categories": [
+      "40528010-bd41-5c0a-9f05-a9e591900bd4",
+      "fnc",
+      "fox news",
+      "fox-news/politics/defense/wars/war-with-iran",
+      "fox-news/world/conflicts/iran",
+      "fox-news/world",
+      "fox-news/us/military",
+      "fox-news/world",
+      "article"
+    ],
+    "collectedAt": "2026-06-01T10:00:01.404Z"
+  },
+  {
+    "title": "USMNT star Christian Pulisic finally ends lengthy goal drought in win over Senegal",
+    "description": "Christian Pulisic snapped his months-long goal drought in the 19th minute of the U.S. friendly against Senegal as coach Pochettino praised his play.",
+    "link": "https://www.foxnews.com/sports/usmnt-star-christian-pulisic-finally-ends-lengthy-goal-drought-win-senegal",
+    "pubDate": "Mon, 01 Jun 2026 05:39:50 -0400",
+    "source": "Fox News",
+    "categories": [
+      "8d40507c-b4f7-5aee-846f-e667c5a7153f",
+      "fnc",
+      "fox news",
+      "fox-news/sports/soccer/the-world-cup",
+      "fox-news/sports/soccer",
+      "fox-news/sports",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-06-01T10:00:01.404Z"
+  },
+  {
+    "title": "Two people in critical condition, firefighter hospitalized after fire breaks out at Queens apartment",
+    "description": "Two people are in critical condition in hospital after a fire broke out inside a Queen’s apartment building early Monday that also saw a firefighter hospitalized. The blaze broke out on the second floor of a 5-story apartment building on 45-08 40th Street in Sunnyside, Queens, a FDNY spokesperson told The Post. A fire broke...",
+    "link": "https://nypost.com/2026/06/01/us-news/two-people-in-critical-condition-firefighter-hospitalized-after-fire-breaks-out-at-queens-apartment/",
+    "pubDate": "Mon, 01 Jun 2026 05:52:13 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-01T10:00:01.404Z"
+  },
+  {
+    "title": "Viral video of rising light after meteor streaks past erupting Philippine volcano sparks alien frenzy — but scientist has an explanation",
+    "description": "\"That massive volcano was briefly upstaged by the impact of something the size of a coffee cup.\"",
+    "link": "https://nypost.com/2026/06/01/world-news/viral-video-of-rising-light-after-meteor-streaks-past-erupting-philippine-volcano-sparks-alien-frenzy/",
+    "pubDate": "Mon, 01 Jun 2026 05:46:42 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-01T10:00:01.404Z"
   }
 ]
