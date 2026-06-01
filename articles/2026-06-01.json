@@ -252,5 +252,43 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-01T05:15:04.480Z"
+  },
+  {
+    "title": "Iran and US report new wave of air strikes in Gulf",
+    "description": "Washington and Tehran targeted each other's military facilities around the Strait of Hormuz.",
+    "link": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 01 Jun 2026 05:11:41 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-01T05:30:01.693Z"
+  },
+  {
+    "title": "Elderly couple fatally stabbed inside Queens apartment, no arrests made as investigation continues: report",
+    "description": "Police are investigating after an elderly couple was found fatally stabbed inside a residence in Fresh Meadows, Queens, according to local reports.",
+    "link": "https://www.foxnews.com/us/elderly-couple-fatally-stabbed-queens-apartment-arrests-investigation-report",
+    "pubDate": "Mon, 01 Jun 2026 01:14:43 -0400",
+    "source": "Fox News",
+    "categories": [
+      "608c979d-a0a3-54f6-bff8-b7cb01aebcc9",
+      "fnc",
+      "fox news",
+      "fox-news/us/new-york-city",
+      "fox-news/us/us-regions/northeast/new-york",
+      "fox-news/entertainment/genres/crime",
+      "fox-news/us",
+      "fox-news/us/crime/homicide",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-06-01T05:30:01.693Z"
+  },
+  {
+    "title": "Christian Pulisic wastes no time ending five-month goal drought in huge USMNT weight lifted",
+    "description": "His smooth finish past Mory Diaw marked the high point of what was an excellent 45-minute performance from Pulisic before he was subbed off at halftime along with nine other USMNT starters.",
+    "link": "https://nypost.com/2026/06/01/sports/christian-pulisic-wastes-no-time-ending-five-month-goal-drought-in-huge-usmnt-weight-lifted/",
+    "pubDate": "Mon, 01 Jun 2026 01:22:51 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-01T05:30:01.693Z"
   }
 ]
