@@ -130,6 +130,15 @@ describe('findAnchors', () => {
     expect(result).toHaveLength(1);
     expect(result[0].matchedText).toBe("Russia's");
   });
+
+  it('zero locations — returns []', () => {
+    const text = 'Reporting from Israel tonight.';
+    const ts = makeTimestamps(text);
+
+    const result = findAnchors({ locations: [], timestamps: ts, shotIsoCode: null });
+
+    expect(result).toEqual([]);
+  });
 });
 
 // ── filterAnchors ──────────────────────────────────────────────────────────────
@@ -272,21 +281,23 @@ describe('buildAnchoredCameraPath', () => {
   });
 
   it('stakes intent — inherits previous position, zoom increases', () => {
-    const narration = 'Reporting from Israel. The conflict may escalate.';
+    // Craft narration so each anchor's matchedText is unique to one sentence.
+    // First anchor: matchedText 'Iranian' appears only in sentence 1 → reveal intent.
+    // Second anchor (same location Israel, idx 0): matchedText 'Israel' appears only in
+    // sentence 2 (which has a stakes keyword) → stakes intent.
+    const narration = 'The Iranian government condemned the strike. Israel may escalate the conflict.';
     const anchorsArr = [
-      anchor(1.5, 0, 'Israel'),
-      anchor(4.0, 0, 'Israel'),
+      { locationIdx: 0, locationName: 'Israel', secondsStart: 1.5, secondsEnd: 1.9, charStart: 4, charEnd: 10, matchedText: 'Iranian' },
+      { locationIdx: 0, locationName: 'Israel', secondsStart: 4.0, secondsEnd: 4.4, charStart: 45, charEnd: 51, matchedText: 'Israel' },
     ];
 
     const result = buildAnchoredCameraPath(existingPath, anchorsArr, locations, null, ANCHOR_DEFAULTS, narration);
 
     const stakesWp = result.cameraPath.find(wp => wp.tOffset >= 4.0 - ANCHOR_DEFAULTS.LEAD_TIME_S - 0.1);
-    if (stakesWp) {
-      const revealWp = result.cameraPath.find(wp => wp.tOffset > 0 && wp.tOffset < stakesWp.tOffset);
-      if (revealWp) {
-        expect(stakesWp.zoom).toBeGreaterThan(revealWp.zoom);
-      }
-    }
+    expect(stakesWp).toBeDefined();
+    const revealWp = result.cameraPath.find(wp => wp.tOffset > 0 && wp.tOffset < stakesWp.tOffset);
+    expect(revealWp).toBeDefined();
+    expect(stakesWp.zoom).toBeGreaterThan(revealWp.zoom);
   });
 
   it('contrast intent — emits a pull-back midpoint waypoint', () => {
@@ -301,8 +312,9 @@ describe('buildAnchoredCameraPath', () => {
     expect(result.cameraPath.length).toBeGreaterThanOrEqual(2);
     // The contrast waypoint should be between Israel (lng 35) and Iran (lng 53)
     const contrastWp = result.cameraPath[result.cameraPath.length - 1];
-    // Either a midpoint or a full fly-to Iran
-    expect(contrastWp.lng).toBeDefined();
+    // Midpoint longitude must be strictly between the two source longitudes (35 and 53)
+    expect(contrastWp.lng).toBeGreaterThan(35);
+    expect(contrastWp.lng).toBeLessThan(53);
   });
 
   it('prepends a tOffset=0 start waypoint when first anchor is at tOffset > 0', () => {

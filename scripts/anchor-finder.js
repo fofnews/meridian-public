@@ -10,8 +10,8 @@ export const ANCHOR_DEFAULTS = {
 };
 
 const STATIC_ALIASES = new Map([
-  ['United States', ['U.S.', 'US', 'America', 'the United States', 'American']],
-  ['United Kingdom', ['U.K.', 'UK', 'Britain', 'British']],
+  ['United States', ['U.S.', 'US', 'America', 'the United States']],
+  ['United Kingdom', ['U.K.', 'UK', 'Britain']],
   ['European Union', ['EU', 'Europe']],
   ['United Arab Emirates', ['UAE', 'the Emirates']],
   ['South Korea', ['Korea']],
@@ -175,12 +175,49 @@ export function filterAnchors(anchors, opts) {
 }
 
 // ── Inline camera helpers (mirrors build-shotlist.js, no import to avoid CLI side-effects) ──
+// Inline copies of LARGE_COUNTRY_NAMES and COUNTRY_OR_STATE_NAMES from build-shotlist.js — keep in sync.
 
 const PITCH = 50;
 const BEARING = -10;
 
-const LARGE_ZOOM_SET = new Set(['United States', 'Russia', 'China', 'Canada', 'Brazil', 'Australia', 'India', 'Argentina']);
-const MID_ZOOM_SET = new Set(['France', 'Germany', 'United Kingdom', 'Ukraine', 'Japan', 'Israel', 'Iran', 'Turkey', 'Saudi Arabia', 'Pakistan', 'Iraq', 'Syria']);
+const LARGE_ZOOM_SET = new Set([
+  'United States', 'Russia', 'China', 'Canada', 'Brazil', 'Australia', 'India',
+  'Argentina', 'Kazakhstan', 'Algeria', 'Democratic Republic of the Congo',
+  'Saudi Arabia', 'Mexico', 'Indonesia', 'Sudan', 'Libya', 'Iran', 'Mongolia',
+  'Peru', 'Chad', 'Niger', 'Angola', 'Mali', 'South Africa', 'Colombia',
+  'Ethiopia', 'Bolivia', 'Mauritania', 'Egypt', 'Tanzania', 'Nigeria',
+  'Venezuela', 'Pakistan', 'Namibia', 'Mozambique', 'Turkey', 'Chile',
+  'Zambia', 'Myanmar', 'Afghanistan',
+]);
+const MID_ZOOM_SET = new Set([
+  // Countries
+  'France', 'Germany', 'United Kingdom', 'Italy', 'Spain', 'Japan', 'South Korea',
+  'Ukraine', 'Poland', 'Sweden', 'Norway', 'Finland', 'Denmark', 'Netherlands',
+  'Belgium', 'Austria', 'Switzerland', 'Portugal', 'Greece', 'Romania', 'Hungary',
+  'Czech Republic', 'Slovakia', 'Bulgaria', 'Serbia', 'Croatia', 'Albania',
+  'Slovenia', 'Kosovo', 'Belarus', 'Moldova', 'Estonia', 'Latvia', 'Lithuania',
+  'Israel', 'Iraq', 'Syria', 'Jordan', 'Lebanon', 'Yemen', 'Oman',
+  'United Arab Emirates', 'UAE', 'Kuwait', 'Qatar', 'Bahrain',
+  'Georgia', 'Armenia', 'Azerbaijan', 'Uzbekistan', 'Kyrgyzstan', 'Tajikistan',
+  'Turkmenistan', 'Cuba', 'Haiti', 'Dominican Republic', 'Guatemala', 'Honduras',
+  'El Salvador', 'Nicaragua', 'Costa Rica', 'Panama', 'Ecuador', 'Paraguay',
+  'Uruguay', 'New Zealand', 'Philippines', 'Vietnam', 'Thailand', 'Malaysia',
+  'Cambodia', 'Laos', 'Taiwan', 'North Korea', 'Bangladesh', 'Sri Lanka',
+  'Nepal', 'Kenya', 'Ghana', 'Ivory Coast', 'Senegal', 'Tunisia', 'Morocco',
+  'Zimbabwe', 'Rwanda', 'Uganda', 'Cameroon', 'Somalia', 'South Sudan',
+  'Sierra Leone', 'Liberia', 'Guinea', 'Benin', 'Togo', 'Burkina Faso',
+  'Malawi', 'Gaza', 'Palestinian Territories', 'Palestine',
+  // US states
+  'Alabama', 'Alaska', 'Arizona', 'Arkansas', 'California', 'Colorado',
+  'Connecticut', 'Delaware', 'Florida', 'Georgia', 'Hawaii', 'Idaho',
+  'Illinois', 'Indiana', 'Iowa', 'Kansas', 'Kentucky', 'Louisiana', 'Maine',
+  'Maryland', 'Massachusetts', 'Michigan', 'Minnesota', 'Mississippi', 'Missouri',
+  'Montana', 'Nebraska', 'Nevada', 'New Hampshire', 'New Jersey', 'New Mexico',
+  'New York', 'North Carolina', 'North Dakota', 'Ohio', 'Oklahoma', 'Oregon',
+  'Pennsylvania', 'Rhode Island', 'South Carolina', 'South Dakota', 'Tennessee',
+  'Texas', 'Utah', 'Vermont', 'Virginia', 'Washington', 'West Virginia',
+  'Wisconsin', 'Wyoming', 'Washington D.C.', 'Puerto Rico',
+]);
 
 function locationZoom(loc) {
   const name = loc.name ?? '';
@@ -197,7 +234,7 @@ function waypointCamera(loc) {
 function waypointHighlight(loc, polygonMap) {
   if (!loc || loc.iso === 'XX' || (Math.abs(loc.lat ?? 0) < 0.5 && Math.abs(loc.lng ?? 0) < 0.5)) return null;
   const zoom = locationZoom(loc);
-  const type = zoom <= 5 ? 'country' : zoom <= 7 ? 'state' : 'city';
+  const type = zoom <= 4 ? 'country' : zoom <= 6 ? 'state' : 'city';
   const polygon = polygonMap?.get(`${loc.name}|${loc.iso ?? ''}`) ?? null;
   return { type, name: loc.name, iso: loc.iso ?? null, polygon };
 }
