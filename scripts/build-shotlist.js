@@ -11,11 +11,59 @@
 //
 // Output: out/shotlists/<edition>.json
 
-import { readFileSync, mkdirSync, writeFileSync } from 'fs';
+import { readFileSync, mkdirSync, writeFileSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
+
+// ── Polygon cache ─────────────────────────────────────────────────────────────
+// Persisted across editions at out/polygons-cache.json.
+// Key: `${name}|${iso}` → GeoJSON Feature or null (null = Nominatim had nothing usable).
+
+const POLYGON_CACHE_PATH = join(ROOT, 'out', 'polygons-cache.json');
+let polygonCache = {};
+try {
+  polygonCache = JSON.parse(readFileSync(POLYGON_CACHE_PATH, 'utf8'));
+} catch {}
+
+const NOMINATIM_DELAY_MS = 1100; // honor 1 req/s Nominatim policy
+let lastNominatimCall = 0;
+
+async function fetchBoundaryPolygon(name, iso) {
+  const key = `${name}|${iso ?? ''}`;
+  if (Object.prototype.hasOwnProperty.call(polygonCache, key)) return polygonCache[key];
+
+  // Rate-limit: wait if last call was < NOMINATIM_DELAY_MS ago.
+  const now = Date.now();
+  const wait = NOMINATIM_DELAY_MS - (now - lastNominatimCall);
+  if (wait > 0) await new Promise(r => setTimeout(r, wait));
+  lastNominatimCall = Date.now();
+
+  const q = iso ? `${name}, ${iso}` : name;
+  const url = `https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(q)}&format=json&limit=1&polygon_geojson=1&polygon_threshold=0.005`;
+  try {
+    const res = await fetch(url, {
+      headers: { 'User-Agent': 'MeridianBroadcast/1.0 (news broadcast renderer; contact: meridian@fofnews.com)' },
+    });
+    if (!res.ok) { console.warn(`Nominatim ${res.status} for "${name}"`); polygonCache[key] = null; return null; }
+    const data = await res.json();
+    if (!data[0]?.geojson) { polygonCache[key] = null; return null; }
+    const feature = { type: 'Feature', geometry: data[0].geojson, properties: {} };
+    polygonCache[key] = feature;
+    console.log(`  Polygon fetched: ${name} (${data[0].geojson.type})`);
+    return feature;
+  } catch (e) {
+    console.warn(`Nominatim fetch failed for "${name}": ${e.message}`);
+    polygonCache[key] = null;
+    return null;
+  }
+}
+
+function savePolygonCache() {
+  mkdirSync(join(ROOT, 'out'), { recursive: true });
+  writeFileSync(POLYGON_CACHE_PATH, JSON.stringify(polygonCache, null, 2));
+}
 
 // ── CLI args ─────────────────────────────────────────────────────────────────
 
@@ -25,10 +73,14 @@ const args = Object.fromEntries(
     .map(a => { const [k, v = 'true'] = a.slice(2).split('='); return [k, v]; })
 );
 
-const edition     = args['edition'];
-const maxDuration = Number(args['max-duration'] ?? 360);
-const aspect      = args['aspect'] ?? '16:9';
-const timingsPath = args['timings'] ?? null;
+const edition      = args['edition'];
+const maxDuration  = Number(args['max-duration'] ?? 360);
+const aspect       = args['aspect'] ?? '16:9';
+const timingsPath  = args['timings'] ?? null;
+const noAnchored   = args['no-anchored'] === 'true';
+const debugAnchors = args['debug-anchors'] === 'true';
+const leadTime     = args['lead-time'] != null ? parseFloat(args['lead-time']) : null;
+const minDwell     = args['min-dwell'] != null ? parseFloat(args['min-dwell']) : null;
 
 if (!edition) {
   console.error('Usage: node scripts/build-shotlist.js --edition=YYYY-MM-DD-{morning|evening}');
@@ -120,8 +172,8 @@ const COUNTRY_OR_STATE_NAMES = new Set([
 
 function locationZoom(loc) {
   const name = loc.name ?? '';
-  if (LARGE_COUNTRY_NAMES.has(name)) return 4;
-  if (COUNTRY_OR_STATE_NAMES.has(name)) return 6;
+  if (LARGE_COUNTRY_NAMES.has(name)) return 5;
+  if (COUNTRY_OR_STATE_NAMES.has(name)) return 7;
   return 9; // city / specific location default
 }
 
@@ -199,11 +251,21 @@ function estimateHold(narration) {
 // Quick camera cut duration between locations within a multi-location shot.
 const FLY_BETWEEN_S = 2.5;
 
+// Build highlight metadata for a location waypoint.
+function waypointHighlight(loc, polygonMap) {
+  if (!loc || loc.iso === 'XX' || (Math.abs(loc.lat) < 0.5 && Math.abs(loc.lng) < 0.5)) return null;
+  const zoom = locationZoom(loc);
+  const type = zoom <= 4 ? 'country' : zoom <= 6 ? 'state' : 'city';
+  const polygon = polygonMap?.get(`${loc.name}|${loc.iso ?? ''}`) ?? null;
+  return { type, name: loc.name, iso: loc.iso ?? null, polygon };
+}
+
 // Build a camera waypoint array for a story shot.
 // Single-location → one static waypoint zoomed to the location's geographic scale.
 // Multi-location  → "hold → quick 2.5 s fly → hold" pairs per location so the
 //                   cut is decisive rather than a slow continuous pan.
-function buildCameraPath(locations, estimatedHold) {
+// polygonMap: Map<`${name}|${iso}`, GeoJSON Feature | null> pre-fetched by fetchAllPolygons.
+function buildCameraPath(locations, estimatedHold, polygonMap) {
   const validLocs = (locations ?? []).filter(l => l?.lat != null && l?.lng != null);
 
   if (validLocs.length === 0) {
@@ -222,7 +284,9 @@ function buildCameraPath(locations, estimatedHold) {
   };
 
   if (validLocs.length === 1) {
-    return [{ tOffset: 0, ...waypointCamera(validLocs[0]) }];
+    const cam = waypointCamera(validLocs[0]);
+    const highlight = waypointHighlight(validLocs[0], polygonMap);
+    return [{ tOffset: 0, ...cam, ...(highlight ? { highlight } : {}) }];
   }
 
   const N = validLocs.length;
@@ -233,12 +297,14 @@ function buildCameraPath(locations, estimatedHold) {
   let t = 0;
   for (let i = 0; i < N; i++) {
     const cam = waypointCamera(validLocs[i]);
+    const highlight = waypointHighlight(validLocs[i], polygonMap);
+    const hlField = highlight ? { highlight } : {};
     // Arrival at this location.
-    waypoints.push({ tOffset: Math.round(t * 10) / 10, ...cam });
+    waypoints.push({ tOffset: Math.round(t * 10) / 10, ...cam, ...hlField });
     t += holdPerLoc;
     if (i < N - 1) {
       // Hold waypoint — same position, marks the start of the outgoing transition.
-      waypoints.push({ tOffset: Math.round(t * 10) / 10, ...cam });
+      waypoints.push({ tOffset: Math.round(t * 10) / 10, ...cam, ...hlField });
       t += FLY_BETWEEN_S;
     }
   }
@@ -255,7 +321,34 @@ function globeSpinPath(hold) {
   ];
 }
 
+// ── Collect unique locations and pre-fetch polygons ───────────────────────────
+
+async function fetchAllPolygons(locations) {
+  const unique = new Map();
+  for (const loc of (locations ?? [])) {
+    if (!loc?.lat || !loc?.lng) continue;
+    if (loc.iso === 'XX' || (Math.abs(loc.lat) < 0.5 && Math.abs(loc.lng) < 0.5)) continue;
+    const key = `${loc.name}|${loc.iso ?? ''}`;
+    if (!unique.has(key)) unique.set(key, loc);
+  }
+  const fresh = [...unique.keys()].filter(k => !Object.prototype.hasOwnProperty.call(polygonCache, k));
+  if (fresh.length > 0) console.log(`Fetching ${fresh.length} boundary polygon(s) from Nominatim…`);
+  else if (unique.size > 0) console.log(`All ${unique.size} polygon(s) served from cache.`);
+  for (const key of unique.keys()) {
+    const loc = unique.get(key);
+    await fetchBoundaryPolygon(loc.name, loc.iso ?? '');
+  }
+  if (fresh.length > 0) savePolygonCache();
+  return new Map([...unique.keys()].map(k => [k, polygonCache[k] ?? null]));
+}
+
 // ── Build shots ───────────────────────────────────────────────────────────────
+
+async function main() {
+
+// Pre-fetch boundary polygons for all unique locations in this report.
+const allLocs = (report.stories ?? []).flatMap(s => s.analysis?.locations ?? []);
+const polygonMap = await fetchAllPolygons(allLocs);
 
 const shots = [];
 let elapsed = 0;
@@ -286,8 +379,9 @@ if (timingsPath) {
 
     shots.push({
       t: elapsed,
+      storyIndex,
       isoCode,
-      cameraPath: buildCameraPath(analysis.locations, durationSecs),
+      cameraPath: buildCameraPath(analysis.locations, durationSecs, polygonMap),
       chyron: {
         label: CHYRON_LABELS[i % CHYRON_LABELS.length].toUpperCase(),
         headline: story.headline,
@@ -312,6 +406,7 @@ if (timingsPath) {
     const hold = estimateHold(introNarration);
     shots.push({
       t: elapsed,
+      storyIndex: null,
       isoCode: null,
       cameraPath: globeSpinPath(hold),
       chyron: { label: 'LIVE', headline: edLabel },
@@ -337,8 +432,9 @@ if (timingsPath) {
 
     shots.push({
       t: elapsed,
+      storyIndex: storyIdx,
       isoCode,
-      cameraPath: buildCameraPath(analysis.locations, hold),
+      cameraPath: buildCameraPath(analysis.locations, hold, polygonMap),
       chyron: {
         label:    CHYRON_LABELS[i % CHYRON_LABELS.length].toUpperCase(),
         headline: story?.headline ?? beats[i].beat ?? '',
@@ -355,6 +451,7 @@ if (timingsPath) {
     const hold = estimateHold(outroNarration);
     shots.push({
       t: elapsed,
+      storyIndex: null,
       isoCode: null,
       cameraPath: globeSpinPath(hold),
       chyron: { label: 'LIVE', headline: edLabel },
@@ -378,11 +475,13 @@ if (timingsPath) {
 
     const validLocs = (analysis.locations ?? []).filter(l => l?.lat != null && l?.lng != null);
     const isoCode = validLocs.find(l => l.iso && l.iso !== 'XX')?.iso ?? null;
+    const actualIdx = (report.stories ?? []).indexOf(story);
 
     shots.push({
       t: elapsed,
+      storyIndex: actualIdx,
       isoCode,
-      cameraPath: buildCameraPath(analysis.locations, hold),
+      cameraPath: buildCameraPath(analysis.locations, hold, polygonMap),
       chyron: {
         label:    CHYRON_LABELS[i % CHYRON_LABELS.length].toUpperCase(),
         headline: story.headline,
@@ -405,6 +504,11 @@ const shotlist = {
   aspect,
   duration: elapsed,
   shots,
+  anchorOpts: {
+    noAnchored,
+    leadTime,
+    minDwell,
+  },
 };
 
 // ── Write output ──────────────────────────────────────────────────────────────
@@ -415,3 +519,6 @@ mkdirSync(outDir, { recursive: true });
 writeFileSync(outPath, JSON.stringify(shotlist, null, 2));
 
 console.log(`Wrote ${shots.length} shots, ${elapsed}s total → ${outPath}`);
+
+} // end main()
+main().catch(err => { console.error(err); process.exit(1); });

@@ -45,12 +45,16 @@ const args = Object.fromEntries(
     .map(a => { const [k, ...rest] = a.slice(2).split('='); return [k, rest.join('=') || 'true']; })
 );
 
-const edition     = args['edition'];
-const maxDuration = args['max-duration'] ?? '360';
-const aspect      = args['aspect']       ?? '16:9';
-const platforms   = args['platforms']    ?? 'youtube,tiktok';
-const bed         = args['bed']          ?? null;
-const timings     = args['timings']      ?? null;
+const edition      = args['edition'];
+const maxDuration  = args['max-duration'] ?? '360';
+const aspect       = args['aspect']       ?? '16:9';
+const platforms    = args['platforms']    ?? 'youtube,tiktok';
+const bed          = args['bed']          ?? null;
+const timings      = args['timings']      ?? null;
+const noAnchored   = args['no-anchored']   ?? null;
+const debugAnchors = args['debug-anchors'] ?? null;
+const leadTime     = args['lead-time']     ?? null;
+const minDwell     = args['min-dwell']     ?? null;
 
 if (!edition) {
   console.error('Usage: node scripts/produce-clip.js --edition=YYYY-MM-DD-{morning|evening}');
@@ -91,6 +95,15 @@ function runAsync(stage, cmd, cmdArgs, opts = {}) {
   });
 }
 
+// ── Anchor-related flags to forward to sub-scripts ────────────────────────────
+
+const anchorFlags = [
+  ...(noAnchored   != null ? [`--no-anchored=${noAnchored}`]     : []),
+  ...(debugAnchors != null ? [`--debug-anchors=${debugAnchors}`] : []),
+  ...(leadTime     != null ? [`--lead-time=${leadTime}`]         : []),
+  ...(minDwell     != null ? [`--min-dwell=${minDwell}`]         : []),
+];
+
 // ── Stage 1: build-shotlist ───────────────────────────────────────────────────
 
 banner('1 / 4', `build-shotlist  edition=${edition}`);
@@ -101,6 +114,7 @@ run('build-shotlist', 'node', [
   `--max-duration=${maxDuration}`,
   `--aspect=${aspect}`,
   ...(timings ? [`--timings=${timings}`] : []),
+  ...anchorFlags,
 ]);
 
 const shotlistPath = join(ROOT, 'out', 'shotlists', `${edition}.json`);
@@ -124,6 +138,7 @@ run('synthesize-narration', 'node', [
   join(SCRIPTS, 'synthesize-narration.js'),
   `--edition=${edition}`,
   ...(hasTTS ? [] : ['--dry-run']),
+  ...anchorFlags,
 ]);
 
 // ── Stage 3: remotion render ──────────────────────────────────────────────────
