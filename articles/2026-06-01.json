@@ -411,5 +411,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-01T06:15:01.230Z"
+  },
+  {
+    "title": "Explosion and fire at defense company in South Korea kills 5",
+    "description": "An explosion and fire has occurred at a defense company in South Korea, killing five people and injuring two others",
+    "link": "https://abcnews.com/International/wireStory/explosion-fire-defense-company-south-korea-kills-5-133475956",
+    "pubDate": "Mon, 01 Jun 2026 02:20:10 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-06-01T06:30:02.460Z"
+  },
+  {
+    "title": "USC baseball pulverizes Texas A&M behind surprise pitching star",
+    "description": "The USC baseball team clobbered top-seeded Texas A&M, 14-3, in the NCAA Tournament behind a strong outing from sophomore pitcher Andrew Johnson and an offense that amassed 17 hits.",
+    "link": "https://nypost.com/2026/06/01/sports/usc-baseball-routs-texas-am-to-stay-alive-in-ncaa-tournament/",
+    "pubDate": "Mon, 01 Jun 2026 02:21:26 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-01T06:30:02.460Z"
   }
 ]
