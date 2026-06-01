@@ -9,7 +9,7 @@
 // Legacy shots (no cameraPath, only camera) are treated as a single static
 // waypoint — same behavior as before, so old shotlists remain compatible.
 
-const FLY_DURATION_S = 0.8;
+const FLY_DURATION_S = 2;
 
 function easeInOut(t) {
   return t < 0.5 ? 4 * t ** 3 : 1 - (-2 * t + 2) ** 3 / 2;
@@ -91,6 +91,41 @@ export function interpolateCameraOnPath(shots, t, preRollS = 1) {
 
 // Legacy alias — kept for any external callers referencing the old name.
 export const interpolateCamera = interpolateCameraOnPath;
+
+/**
+ * Returns the active shot index and waypoint index at time t, plus the full
+ * waypoint object (which carries `highlight` metadata when built by build-shotlist).
+ * Snaps to the most recent waypoint reached — no interpolation.
+ *
+ * Returns null before pre-roll ends or when shots is empty.
+ *
+ * @param {Array}  shots
+ * @param {number} t
+ * @param {number} preRollS
+ * @returns {{ shotIdx: number, waypointIdx: number, waypoint: object } | null}
+ */
+export function getActiveWaypoint(shots, t, preRollS = 1) {
+  if (!shots || shots.length === 0) return null;
+
+  let activeShot = shots[0];
+  let activeShotIdx = 0;
+  for (let i = 0; i < shots.length; i++) {
+    if (shots[i].t + preRollS <= t) { activeShot = shots[i]; activeShotIdx = i; }
+  }
+
+  if (t < shots[0].t + preRollS) return null;
+
+  const path = activeShot.cameraPath;
+  if (!path || path.length === 0) return null;
+
+  const tInShot = t - (activeShot.t + preRollS);
+  let activeWaypointIdx = 0;
+  for (let j = 0; j < path.length; j++) {
+    if (path[j].tOffset <= Math.max(0, tInShot)) activeWaypointIdx = j;
+  }
+
+  return { shotIdx: activeShotIdx, waypointIdx: activeWaypointIdx, waypoint: path[activeWaypointIdx] };
+}
 
 /**
  * Returns the discrete lat/lng the camera is currently "at" — the most recent
