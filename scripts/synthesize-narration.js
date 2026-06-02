@@ -24,7 +24,7 @@ import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { execFileSync } from 'child_process';
 
-import { findAnchors, filterAnchors, buildAnchoredCameraPath, ANCHOR_DEFAULTS } from './anchor-finder.js';
+import { findAnchors, filterAnchors, buildAnchoredCameraPath, ANCHOR_DEFAULTS, findQuoteOverlays } from './anchor-finder.js';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 
@@ -302,46 +302,60 @@ if (!noAnchored) {
 
       const shot = shotlist.shots[i];
 
+      // Re-anchor camera path using location mentions in narration.
       // Guard: storyIndex must be set (added by Task 4 of build-shotlist.js).
-      if (shot.storyIndex == null) continue;
+      if (shot.storyIndex != null) {
+        const locations = report?.stories?.[shot.storyIndex]?.analysis?.locations ?? [];
 
-      const locations = report?.stories?.[shot.storyIndex]?.analysis?.locations ?? [];
-      if (locations.length === 0) continue;
+        if (locations.length > 0) {
+          const rawAnchors = findAnchors({
+            locations,
+            timestamps: ts,
+            shotIsoCode: shot.isoCode ?? null,
+          });
 
-      const rawAnchors = findAnchors({
-        locations,
+          const anchors = filterAnchors(rawAnchors, ANCHOR_OPTS);
+
+          if (anchors.length > 0) {
+            const result = buildAnchoredCameraPath(
+              shot.cameraPath,
+              anchors,
+              locations,
+              null,       // polygonMap — not needed here; highlights already in cameraPath
+              ANCHOR_OPTS,
+              shot.narration,
+              shot.hold,
+            );
+
+            shot.cameraPath   = result.cameraPath;
+            shot.overlays     = result.overlays;
+            shot.cameraSource = 'anchored';
+            shot.anchors      = anchors; // diagnostic only
+
+            anyReAnchored = true;
+
+            if (debugAnchors) {
+              const matched = anchors.map(a => `${a.locationName}@${a.secondsStart.toFixed(2)}s`).join(', ');
+              const matchedNames = new Set(anchors.map(a => a.locationName));
+              const missed = locations
+                .map(l => l.name)
+                .filter(n => !matchedNames.has(n));
+              console.log(`[shot ${i}] matched ${anchors.length}/${locations.length} locations: ${matched}`);
+              if (missed.length > 0) console.log(`  (missed: ${missed.join(', ')})`);
+            }
+          }
+        }
+      }
+
+      // Quote detection — runs for all ElevenLabs shots regardless of storyIndex.
+      const quoteOverlays = findQuoteOverlays({
+        narration: shot.narration ?? '',
         timestamps: ts,
-        shotIsoCode: shot.isoCode ?? null,
+        shotHold: shot.hold,
       });
-
-      const anchors = filterAnchors(rawAnchors, ANCHOR_OPTS);
-      if (anchors.length === 0) continue;
-
-      const result = buildAnchoredCameraPath(
-        shot.cameraPath,
-        anchors,
-        locations,
-        null,       // polygonMap — not needed here; highlights already in cameraPath
-        ANCHOR_OPTS,
-        shot.narration,
-        shot.hold,
-      );
-
-      shot.cameraPath   = result.cameraPath;
-      shot.overlays     = result.overlays;
-      shot.cameraSource = 'anchored';
-      shot.anchors      = anchors; // diagnostic only
-
-      anyReAnchored = true;
-
-      if (debugAnchors) {
-        const matched = anchors.map(a => `${a.locationName}@${a.secondsStart.toFixed(2)}s`).join(', ');
-        const matchedNames = new Set(anchors.map(a => a.locationName));
-        const missed = locations
-          .map(l => l.name)
-          .filter(n => !matchedNames.has(n));
-        console.log(`[shot ${i}] matched ${anchors.length}/${locations.length} locations: ${matched}`);
-        if (missed.length > 0) console.log(`  (missed: ${missed.join(', ')})`);
+      if (quoteOverlays.length > 0) {
+        shot.overlays = [...(shot.overlays ?? []), ...quoteOverlays];
+        anyReAnchored = true;
       }
     }
 

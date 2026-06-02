@@ -367,3 +367,46 @@ export function buildAnchoredCameraPath(existingCameraPath, anchors, locations, 
 
   return { cameraPath: waypoints, overlays };
 }
+
+// ── findQuoteOverlays ─────────────────────────────────────────────────────────
+// Scans the narration for "quoted phrases", finds their position in the
+// ElevenLabs normalized_text, and returns quote-callout overlay entries.
+
+export function findQuoteOverlays({ narration, timestamps, shotHold }) {
+  if (timestamps?.source !== 'elevenlabs') return [];
+
+  const text       = timestamps.normalized_text ?? '';
+  const charStarts = timestamps.character_start_times_seconds ?? [];
+  const charEnds   = timestamps.character_end_times_seconds   ?? [];
+
+  const overlays = [];
+  const quoteRe  = /"([^"]+)"/g;
+  let m;
+
+  while ((m = quoteRe.exec(narration)) !== null) {
+    const quotedText = m[1].trim();
+    if (!quotedText || quotedText.length < 3) continue;
+
+    // Find the quoted content in normalized_text (case-insensitive).
+    const idx = text.toLowerCase().indexOf(quotedText.toLowerCase());
+    if (idx < 0) continue;
+
+    const tStart = charStarts[idx] ?? null;
+    const endIdx = Math.min(idx + quotedText.length - 1, charEnds.length - 1);
+    const tEnd   = charEnds[endIdx] ?? null;
+    if (tStart == null || tEnd == null) continue;
+
+    const rawDurationMs = Math.max(1500, (tEnd - tStart + 0.3) * 1000);
+    const overlay = { type: 'quote-callout', text: quotedText, tOffset: tStart, durationMs: rawDurationMs };
+
+    if (shotHold != null) {
+      const maxEnd = shotHold - 0.05;
+      if (overlay.tOffset + overlay.durationMs / 1000 > maxEnd) {
+        overlay.durationMs = Math.max(0, (maxEnd - overlay.tOffset) * 1000);
+      }
+    }
+    if (overlay.durationMs > 0) overlays.push(overlay);
+  }
+
+  return overlays;
+}

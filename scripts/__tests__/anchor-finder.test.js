@@ -4,6 +4,7 @@ import {
   findAnchors,
   filterAnchors,
   buildAnchoredCameraPath,
+  findQuoteOverlays,
 } from '../anchor-finder.js';
 
 // ── Helpers ────────────────────────────────────────────────────────────────────
@@ -345,5 +346,79 @@ describe('buildAnchoredCameraPath', () => {
     expect(result.overlays).toHaveLength(1);
     const overlay = result.overlays[0];
     expect(overlay.tOffset + overlay.durationMs / 1000).toBeLessThanOrEqual(10.0 - 0.05 + 0.001);
+  });
+});
+
+describe('findQuoteOverlays', () => {
+  function makeTsFromNormalized(normalized) {
+    const chars = normalized.split('');
+    return {
+      source: 'elevenlabs',
+      normalized_text: normalized,
+      characters: chars,
+      character_start_times_seconds: chars.map((_, i) => i * 0.1),
+      character_end_times_seconds:   chars.map((_, i) => (i + 1) * 0.1),
+    };
+  }
+
+  it('detects a quoted phrase and returns a quote-callout overlay', () => {
+    const narration   = 'He said "we will not yield" and left.';
+    // ElevenLabs normalized_text typically omits the outer quote marks.
+    const normalized  = 'He said we will not yield and left.';
+    const ts          = makeTsFromNormalized(normalized);
+    const overlays    = findQuoteOverlays({ narration, timestamps: ts, shotHold: 30 });
+
+    expect(overlays).toHaveLength(1);
+    expect(overlays[0].type).toBe('quote-callout');
+    expect(overlays[0].text).toBe('we will not yield');
+    // "we" starts at index 8 in normalized → t = 0.8
+    expect(overlays[0].tOffset).toBeCloseTo(0.8, 1);
+    expect(overlays[0].durationMs).toBeGreaterThan(0);
+  });
+
+  it('returns [] when source is not elevenlabs', () => {
+    const overlays = findQuoteOverlays({
+      narration: 'He said "hello"',
+      timestamps: { source: null },
+      shotHold: 30,
+    });
+    expect(overlays).toEqual([]);
+  });
+
+  it('returns [] when narration has no quotes', () => {
+    const normalized = 'No quotes here at all.';
+    const ts = makeTsFromNormalized(normalized);
+    expect(findQuoteOverlays({ narration: 'No quotes here at all.', timestamps: ts, shotHold: 30 })).toEqual([]);
+  });
+
+  it('detects multiple quoted phrases', () => {
+    const narration  = '"first quote" then "second quote" done.';
+    const normalized = 'first quote then second quote done.';
+    const ts         = makeTsFromNormalized(normalized);
+    const overlays   = findQuoteOverlays({ narration, timestamps: ts, shotHold: 30 });
+    expect(overlays).toHaveLength(2);
+    expect(overlays[0].text).toBe('first quote');
+    expect(overlays[1].text).toBe('second quote');
+  });
+
+  it('clamps durationMs to not exceed shotHold', () => {
+    const narration  = '"long quote here"';
+    const normalized = 'long quote here';
+    const ts         = makeTsFromNormalized(normalized);
+    const overlays   = findQuoteOverlays({ narration, timestamps: ts, shotHold: 1.2 });
+    if (overlays.length > 0) {
+      const ov = overlays[0];
+      expect(ov.tOffset + ov.durationMs / 1000).toBeLessThanOrEqual(1.2);
+    }
+  });
+
+  it('skips very short quoted spans (< 3 chars)', () => {
+    const narration  = 'Said "hi" and "bye now".';
+    const normalized = 'Said hi and bye now.';
+    const ts         = makeTsFromNormalized(normalized);
+    const overlays   = findQuoteOverlays({ narration, timestamps: ts, shotHold: 30 });
+    // "hi" is 2 chars — skipped. "bye now" is 7 — kept.
+    expect(overlays).toHaveLength(1);
+    expect(overlays[0].text).toBe('bye now');
   });
 });
