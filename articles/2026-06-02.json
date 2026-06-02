@@ -260,5 +260,36 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-02T05:15:02.130Z"
+  },
+  {
+    "title": "Hegseth blocks promotion of several Navy officers to 1-star rank",
+    "description": "Defense Secretary Pete Hegseth blocked the promotions to one-star admirals of several senior Navy officers who had been selected for promotion by a board of officials.",
+    "link": "https://abcnews.com/Politics/hegseth-blocks-promotion-navy-officers-1-star-rank/story?id=133498412",
+    "pubDate": "Tue, 02 Jun 2026 00:04:03 -0400",
+    "source": "ABC News",
+    "categories": [
+      "politics"
+    ],
+    "collectedAt": "2026-06-02T05:30:01.313Z"
+  },
+  {
+    "title": "Russian attack on Ukraine kills at least 11 and traps others in damaged buildings",
+    "description": "Ukrainian authorities say Russia attacked the country with a barrage of missiles and drones overnight, killing at least 11 people, injuring dozens and trapping others",
+    "link": "https://abcnews.com/International/wireStory/russian-attack-ukraine-kills-11-traps-damaged-buildings-133505501",
+    "pubDate": "Tue, 02 Jun 2026 01:25:50 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-06-02T05:30:01.313Z"
+  },
+  {
+    "title": "Black Crowes singer Chris Robinson booed after mocking Florida fans’ ‘USA’ chant",
+    "description": "\"For those of you f--king booing us, some of us are not afraid.\"",
+    "link": "https://pagesix.com/2026/06/02/entertainment/black-crowes-singer-chris-robinson-booed-after-mocking-florida-fans-usa-chant/",
+    "pubDate": "Tue, 02 Jun 2026 01:19:13 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-02T05:30:01.313Z"
   }
 ]
