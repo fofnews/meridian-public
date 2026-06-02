@@ -971,6 +971,11 @@
           "date": "2026-06-02",
           "edition": "evening",
           "update": "President Trump reportedly cursed at Israeli Prime Minister Netanyahu during a 15-minute phone call, calling him 'crazy' and accusing him of 'ingratitude' over Israel's escalating strikes in Lebanon, which have become a key obstacle to a potential peace deal with Iran. Democratic strategist David Axelrod stated Trump's reported outburst was justified, while critics accused Netanyahu of running Israel as a U.S. 'vassal state' after Trump claimed on social media to have persuaded Netanyahu to call off a major raid on Hezbollah in Beirut."
+        },
+        {
+          "date": "2026-06-02",
+          "edition": "evening",
+          "update": "Eight Muslim countries, including the UAE, issued a joint statement condemning Israel after approximately 200 hard-line Israeli activists stormed the al-Aqsa mosque on Sunday and raised the Israeli flag at the site."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1386,6 +1391,11 @@
           "date": "2026-06-02",
           "edition": "evening",
           "update": "Israeli air strikes in Lebanon killed at least 13 people in the day following President Trump's announcement of a de-escalation agreement, with Israel and Lebanon exchanging fire overnight despite Trump's claim both sides had agreed to pause fighting. Netanyahu agreed to halt operations near Beirut while Hezbollah agreed to stop attacks on Israel under the U.S.-announced partial truce, though Israeli strikes continued in southern Lebanon. Netanyahu faced domestic criticism from his national security minister after Trump intervened to halt Beirut strikes, while Lebanon's NY Times coverage highlighted the country as largely a bystander to a conflict driven by U.S., Israeli, and Iranian decisions."
+        },
+        {
+          "date": "2026-06-02",
+          "edition": "evening",
+          "update": "Israel continued strikes in southern Lebanon but refrained from targeting Beirut following the U.S.-brokered partial truce, with the ceasefire appearing to hold in Beirut while fighting persisted elsewhere, according to BBC News. Israeli strikes killed at least 8 people in Lebanon in the day after Trump's de-escalation announcement, according to AP. Critics accused Netanyahu of running Israel as a U.S. 'vassal state' after Trump claimed on social media to have persuaded him to call off a major raid on Hezbollah in Beirut, while Democratic strategist David Axelrod said Trump's reported outburst at Netanyahu was justified, noting the call reportedly prompted Iran to suspend unspecified actions."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1946,6 +1956,11 @@
           "date": "2026-06-02",
           "edition": "evening",
           "update": "Rep. Ashley Hinson, a Trump ally, warned that a potential war with Iran risks becoming a political liability for the Republican Party, according to Newsmax."
+        },
+        {
+          "date": "2026-06-02",
+          "edition": "evening",
+          "update": "Secretary of State Marco Rubio testified before the Senate Foreign Relations Committee and the House Appropriations Committee on Tuesday regarding the State Department's FY2027 budget request, marking his first congressional testimony since the start of the war. During the Senate hearing, Rubio clashed with Sen. Cory Booker, who accused the Trump administration of strengthening Iran's geopolitical position; Rubio pushed back and stated that the destruction of Iran's military has eliminated the country's ability to use a 'conventional shield' to protect its nuclear program, dismissing the Iranian Navy as 'a bunch of Boston Whalers with machine guns.' DHS Secretary Markwayne Mullin also testified before a Senate appropriations subcommittee Tuesday on the DHS FY2027 budget request. Reuters reported Iran is studying a deal to halt the war as a stalemate persists, while former National Security Adviser John Bolton claimed Iran believes it can outlast Trump in negotiations, citing oil price pressures as leverage. The U.S. is also reportedly pressing Oman to cut its ties with Iran, according to Newsmax."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2990,7 +3005,7 @@
       "title": "Cuba Military Intervention",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-04-29",
-      "lastSeen": "2026-05-24",
+      "lastSeen": "2026-06-02",
       "active": true,
       "entries": [
         {
@@ -3032,6 +3047,11 @@
           "date": "2026-05-24",
           "edition": "morning",
           "update": "Cuba issued a formal warning to the United States on Saturday, asserting its 'full and exclusive sovereignty over the airspace above its territory,' in an apparent response to the federal indictment of Raúl Castro. The U.S. Treasury Department issued subpoenas to Twitch streamer Hasan Piker and CodePink cofounder Medea Benjamin as part of a federal probe into whether the two violated U.S. sanctions by traveling to Cuba, according to Fox News."
+        },
+        {
+          "date": "2026-06-02",
+          "edition": "evening",
+          "update": "A key European airline has stopped direct flights to Cuba, with nearly a dozen airlines having cancelled or restricted flights to the country since the start of the year, according to Newsweek."
         }
       ]
     },
@@ -3501,5 +3521,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-02T21:07:43.475Z"
+  "updatedAt": "2026-06-02T21:13:19.228Z"
 }
