@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-05-29",
+      "lastSeen": "2026-06-02",
       "active": true,
       "entries": [
         {
@@ -241,6 +241,11 @@
           "date": "2026-05-29",
           "edition": "evening",
           "update": "During her closed-door testimony before the House Oversight Committee, Bondi refused to answer questions about President Trump's involvement in the Epstein files release and instead blamed Acting Attorney General Todd Blanche and FBI Director Kash Patel for issues with the release. Following the interview, House Democrats announced plans to seek subpoenas for both Blanche and Patel. Epstein survivor Danielle Besnky spoke out during the proceedings, stating she wants 'baseline humanity' from Bondi."
+        },
+        {
+          "date": "2026-06-02",
+          "edition": "morning",
+          "update": "New Mexico lawmakers announced they will issue subpoenas to government and private institutions as the first major step in their state investigation into Jeffrey Epstein's activities in New Mexico, including examining whether additional individuals should face prosecution."
         }
       ],
       "parentId": null
@@ -249,7 +254,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-05-29",
+      "lastSeen": "2026-06-02",
       "active": true,
       "entries": [
         {
@@ -356,6 +361,11 @@
           "date": "2026-05-29",
           "edition": "evening",
           "update": "Trump announced he is convening advisers in the White House Situation Room to make a 'final determination' on a deal with Iran, posting the announcement via social media. Trump also demanded that Arab and Muslim countries normalize relations with Israel through the Abraham Accords as a condition for ending the conflict, a last-minute linkage that U.S. allies pushed back against, according to NBC News. Former national security adviser John Bolton publicly called the tentative deal 'a big defeat for the United States' and a 'mistake,' alleging it is driven by Trump's concerns over high gas prices ahead of midterm elections."
+        },
+        {
+          "date": "2026-06-02",
+          "edition": "morning",
+          "update": "Iran suspended nuclear talks with the U.S. on Monday in protest of Israeli strikes on Lebanon, causing optimism over a potential deal to reopen the Strait of Hormuz to fade rapidly. IAEA Director General Rafael Grossi stated that the 2015 JCPOA is no longer a workable model and that any future nuclear agreement with Iran will look significantly different."
         }
       ],
       "parentId": null
@@ -364,7 +374,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-01",
+      "lastSeen": "2026-06-02",
       "active": true,
       "entries": [
         {
@@ -606,6 +616,11 @@
           "date": "2026-06-01",
           "edition": "evening",
           "update": "Ukrainian President Zelenskyy stated his government has evidence that Russia is abducting thousands of Ukrainian children and forcing them to fight in the war, according to CBS News."
+        },
+        {
+          "date": "2026-06-02",
+          "edition": "morning",
+          "update": "Russia launched a large-scale overnight attack on Ukraine on Tuesday, deploying 656 drones and 73 missiles according to Ukraine's air force, striking the cities of Kyiv and Dnipro. At least 3 people were killed and dozens injured, with residential buildings and civilian infrastructure damaged and people trapped in rubble. Separately, the Washington Post reported that Russia has failed to achieve its war aims in Ukraine, with analysis suggesting Putin is seeking an exit from the conflict. Ukrainian startups are also developing sea drone swarms and autonomous robot trucks to bolster defenses, according to Reuters."
         }
       ],
       "parentId": null
@@ -744,7 +759,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-31",
+      "lastSeen": "2026-06-02",
       "active": true,
       "entries": [
         {
@@ -941,6 +956,11 @@
           "date": "2026-05-31",
           "edition": "evening",
           "update": "Sen. Chris Coons (D-Del.) claimed that Iran is 'stronger' than it was 90 days ago before the U.S. war began, citing Iran's use of 'cheap and lethal drones' as a key factor."
+        },
+        {
+          "date": "2026-06-02",
+          "edition": "morning",
+          "update": "Iran vowed to end talks amid ongoing conflict after Trump claimed he persuaded Israel and Hezbollah to halt attacks in Lebanon, framing the move as an effort to prevent a wider regional war. U.S. senators from both parties sought more details on potential deal negotiations with Iran to pause the war and reopen the Strait of Hormuz, as talks were complicated by the fragile Israel-Hezbollah ceasefire. Asian markets slipped as renewed fighting undermined the US-Iran ceasefire, according to AP News."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1059,7 +1079,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-01",
+      "lastSeen": "2026-06-02",
       "active": true,
       "entries": [
         {
@@ -1346,6 +1366,11 @@
           "date": "2026-06-01",
           "edition": "evening",
           "update": "Israeli Prime Minister Netanyahu ordered strikes on Hezbollah-controlled southern suburbs of Beirut (the Dahiyeh area), prompting thousands to flee with videos showing gridlocked traffic as residents evacuated. Israel and Hezbollah have agreed to reduce the intensity of their fighting, according to Trump. France reportedly banned Israeli officials from attending a defence show, according to Israel's defence ministry."
+        },
+        {
+          "date": "2026-06-02",
+          "edition": "morning",
+          "update": "An Israeli militia staff sergeant was killed and three others injured in a Hezbollah drone attack near Beaufort Castle. Lebanon's Health Ministry raised the death toll from Israeli attacks since March to 3,433, with 10,395 injured. Trump announced a diplomatic breakthrough after calls with Netanyahu and Hezbollah intermediaries, claiming both sides had agreed not to attack each other, though clashes continued. According to Axios, Trump berated Netanyahu during a Monday phone call, calling him 'crazy' and accusing him of ingratitude over his Lebanon campaign. Israel's National Security Minister publicly urged Netanyahu to reject Trump's demands, while right-wing coalition members expressed outrage at U.S. pressure. Israel subsequently appeared to back off its threat to strike Beirut, and both Israel and Hezbollah accepted a US partial ceasefire plan per BBC News."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2154,7 +2179,7 @@
       "id": "hezbollah-us-operations",
       "title": "Hezbollah US Operations",
       "firstSeen": "2026-03-15",
-      "lastSeen": "2026-05-29",
+      "lastSeen": "2026-06-02",
       "active": true,
       "entries": [
         {
@@ -2186,6 +2211,11 @@
           "date": "2026-05-29",
           "edition": "evening",
           "update": "The FBI issued a new wanted poster for Monica Witt, a former U.S. intelligence officer previously charged with revealing classified information to the Iranian government."
+        },
+        {
+          "date": "2026-06-02",
+          "edition": "morning",
+          "update": "A militia leader pleaded not guilty to charges related to attacks described by prosecutors as part of Iran's response to the war with Israel and the United States, with the U.S. indicating additional individuals may face charges in the case."
         }
       ],
       "parentId": null
@@ -2434,7 +2464,7 @@
       "id": "artemis-moon-mission",
       "title": "Artemis Moon Mission",
       "firstSeen": "2026-03-23",
-      "lastSeen": "2026-05-29",
+      "lastSeen": "2026-06-02",
       "active": true,
       "entries": [
         {
@@ -2611,6 +2641,11 @@
           "date": "2026-05-29",
           "edition": "evening",
           "update": "A Blue Origin rocket exploded during a ground test at Cape Canaveral Space Force Station, prompting retired NASA astronaut Susan Kilrain to discuss potential setbacks to upcoming moon missions."
+        },
+        {
+          "date": "2026-06-02",
+          "edition": "morning",
+          "update": "Paralympian John McFall moved one step closer to potentially becoming the first astronaut with a disability to live and work in space, according to BBC News."
         }
       ],
       "parentId": null
@@ -2685,7 +2720,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-01",
+      "lastSeen": "2026-06-02",
       "active": true,
       "entries": [
         {
@@ -2725,7 +2760,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-06-01",
+      "lastSeen": "2026-06-02",
       "active": true,
       "entries": [
         {
@@ -2807,6 +2842,11 @@
           "date": "2026-06-01",
           "edition": "evening",
           "update": "Iran suspended indirect peace talks with the U.S. to protest Israeli military operations in Lebanon, demanding a 'ceasefire on all fronts.' President Trump told NBC News he had not been informed of the suspension, adding 'I think we've been talking too much' and suggesting a period of silence in negotiations would be beneficial. Reuters reported that Iran is seeking a limited deal aimed at alleviating sanctions pressure and gaining time, rather than a comprehensive nuclear agreement."
+        },
+        {
+          "date": "2026-06-02",
+          "edition": "morning",
+          "update": "Trump told CNBC he 'couldn't care less' if Iran negotiations break down, and separately told NBC News he would be 'okay' if Iran refused to return to nuclear talks. The administration also appeared to abandon its $1.8 billion anti-weaponization fund. Trump characterized the Iran negotiations as 'Very Boring.' Secretary of State Rubio is scheduled to testify before Congress in his first appearance since the start of the Iran war. Oil prices steadied amid continued market uncertainty over the talks, according to Reuters."
         }
       ]
     },
@@ -3195,7 +3235,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-06-01",
+      "lastSeen": "2026-06-02",
       "active": true,
       "entries": [
         {
@@ -3292,6 +3332,11 @@
           "date": "2026-06-01",
           "edition": "evening",
           "update": "Suspected Ebola cases have surpassed 1,100 globally as Brazil launched a formal investigation into two patients in Rio de Janeiro and São Paulo hospitals exhibiting Ebola-like symptoms. Moderna and other groups received $60 million in funding to develop an Ebola vaccine, according to Reuters."
+        },
+        {
+          "date": "2026-06-02",
+          "edition": "morning",
+          "update": "The International Rescue Committee warned that the Ebola outbreak in the DRC is 'likely far worse' than official figures suggest. Two people were killed in Kenya during protests against a planned U.S. Ebola quarantine site, according to a protest organizer and a Reuters source. Health workers in DR Congo are responding to the Bundibugyo outbreak with no approved drugs currently available to specifically target that virus strain."
         }
       ]
     },
@@ -3401,5 +3446,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-01T21:10:25.259Z"
+  "updatedAt": "2026-06-02T11:17:38.864Z"
 }
