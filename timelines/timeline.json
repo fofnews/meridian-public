@@ -245,7 +245,7 @@
         {
           "date": "2026-06-02",
           "edition": "morning",
-          "update": "New Mexico lawmakers announced they will issue subpoenas to government and private institutions as the first major step in their state investigation into Jeffrey Epstein's activities in New Mexico, including examining whether additional individuals should face prosecution."
+          "update": "New Mexico lawmakers announced they will issue subpoenas to government and private institutions as the first major step in their state investigation into Jeffrey Epstein's activities in New Mexico, with the goal of determining whether additional prosecutions are warranted."
         }
       ],
       "parentId": null
@@ -365,7 +365,7 @@
         {
           "date": "2026-06-02",
           "edition": "morning",
-          "update": "Iran suspended nuclear talks with the U.S. on Monday in protest of Israeli strikes on Lebanon, causing optimism over a potential deal to reopen the Strait of Hormuz to fade rapidly. IAEA Director General Rafael Grossi stated that the 2015 JCPOA is no longer a workable model and that any future nuclear agreement with Iran will look significantly different."
+          "update": "Iranian state media announced the suspension of all peace talks with the United States following U.S. and Israeli strikes. Trump described the negotiations as 'very boring' and told CNBC he 'couldn't care less' if they break down. IAEA Director General Rafael Grossi stated that the 2015 JCPOA is no longer a workable model and that any future nuclear agreement with Iran will look significantly different."
         }
       ],
       "parentId": null
@@ -620,7 +620,7 @@
         {
           "date": "2026-06-02",
           "edition": "morning",
-          "update": "Russia launched a large-scale overnight attack on Ukraine on Tuesday, deploying 656 drones and 73 missiles according to Ukraine's air force, striking the cities of Kyiv and Dnipro. At least 3 people were killed and dozens injured, with residential buildings and civilian infrastructure damaged and people trapped in rubble. Separately, the Washington Post reported that Russia has failed to achieve its war aims in Ukraine, with analysis suggesting Putin is seeking an exit from the conflict. Ukrainian startups are also developing sea drone swarms and autonomous robot trucks to bolster defenses, according to Reuters."
+          "update": "Russia launched a large-scale overnight attack on Ukraine using 656 drones and 73 missiles, according to Ukraine's air force, striking cities including Kyiv and Dnipro. At least 11 people were killed and dozens injured, with residential buildings and civilian infrastructure damaged and people trapped inside collapsed or damaged buildings. Separately, the Washington Post reported that Russia has failed to achieve its war aims in Ukraine and that Putin is seeking a way out of the conflict. Ukrainian startups are also developing sea drone swarms and autonomous robot trucks to bolster the country's defenses, according to Reuters."
         }
       ],
       "parentId": null
@@ -759,7 +759,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-02",
+      "lastSeen": "2026-05-31",
       "active": true,
       "entries": [
         {
@@ -956,11 +956,6 @@
           "date": "2026-05-31",
           "edition": "evening",
           "update": "Sen. Chris Coons (D-Del.) claimed that Iran is 'stronger' than it was 90 days ago before the U.S. war began, citing Iran's use of 'cheap and lethal drones' as a key factor."
-        },
-        {
-          "date": "2026-06-02",
-          "edition": "morning",
-          "update": "Iran vowed to end talks amid ongoing conflict after Trump claimed he persuaded Israel and Hezbollah to halt attacks in Lebanon, framing the move as an effort to prevent a wider regional war. U.S. senators from both parties sought more details on potential deal negotiations with Iran to pause the war and reopen the Strait of Hormuz, as talks were complicated by the fragile Israel-Hezbollah ceasefire. Asian markets slipped as renewed fighting undermined the US-Iran ceasefire, according to AP News."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1370,7 +1365,7 @@
         {
           "date": "2026-06-02",
           "edition": "morning",
-          "update": "An Israeli militia staff sergeant was killed and three others injured in a Hezbollah drone attack near Beaufort Castle. Lebanon's Health Ministry raised the death toll from Israeli attacks since March to 3,433, with 10,395 injured. Trump announced a diplomatic breakthrough after calls with Netanyahu and Hezbollah intermediaries, claiming both sides had agreed not to attack each other, though clashes continued. According to Axios, Trump berated Netanyahu during a Monday phone call, calling him 'crazy' and accusing him of ingratitude over his Lebanon campaign. Israel's National Security Minister publicly urged Netanyahu to reject Trump's demands, while right-wing coalition members expressed outrage at U.S. pressure. Israel subsequently appeared to back off its threat to strike Beirut, and both Israel and Hezbollah accepted a US partial ceasefire plan per BBC News."
+          "update": "An Israeli militia staff sergeant was killed and three others injured in a Hezbollah drone attack near Beaufort Castle in Lebanon. Lebanon's Health Ministry reported the death toll from Israeli attacks since March has reached 3,433, with 10,395 injured. Netanyahu stated military operations in southern Lebanon would continue, appearing to contradict Trump's announcement of an agreed ceasefire, and informed Trump that Israel would strike Beirut if attacked. According to Axios, Trump berated Netanyahu during a Monday phone call, calling him 'crazy' and accusing him of ingratitude, though Trump subsequently claimed a diplomatic breakthrough and that Israel and Hezbollah had accepted a partial U.S. ceasefire plan. Israel's National Security Minister criticized Netanyahu for yielding to U.S. pressure, while the NY Times reported Israel's campaign has reached a military impasse with Hezbollah's drone capabilities proving more resilient than anticipated."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2215,7 +2210,7 @@
         {
           "date": "2026-06-02",
           "edition": "morning",
-          "update": "A militia leader pleaded not guilty to charges related to attacks described by prosecutors as part of Iran's response to the war with Israel and the United States, with the U.S. indicating additional individuals may face charges in the case."
+          "update": "A militia leader pleaded not guilty to charges related to attacks described by prosecutors as part of Iran's response to the war involving Israel and the U.S., with federal authorities indicating additional charges may be filed."
         }
       ],
       "parentId": null
@@ -2645,7 +2640,7 @@
         {
           "date": "2026-06-02",
           "edition": "morning",
-          "update": "Paralympian John McFall moved one step closer to potentially becoming the first astronaut with a disability to live and work in space, according to BBC News."
+          "update": "Paralympian John McFall moved closer to becoming the first astronaut with a disability to live and work in space, according to BBC News."
         }
       ],
       "parentId": null
@@ -2846,7 +2841,7 @@
         {
           "date": "2026-06-02",
           "edition": "morning",
-          "update": "Trump told CNBC he 'couldn't care less' if Iran negotiations break down, and separately told NBC News he would be 'okay' if Iran refused to return to nuclear talks. The administration also appeared to abandon its $1.8 billion anti-weaponization fund. Trump characterized the Iran negotiations as 'Very Boring.' Secretary of State Rubio is scheduled to testify before Congress in his first appearance since the start of the Iran war. Oil prices steadied amid continued market uncertainty over the talks, according to Reuters."
+          "update": "Iran suspended nuclear and trade talks with the U.S. on Monday in protest of Israeli strikes on Lebanon, causing optimism over reopening the Strait of Hormuz to fade. Trump told NBC News he would be 'okay' if Iran refused to return to talks, while the administration also appeared to abandon its $1.8 billion anti-weaponization fund. Oil prices steadied amid ongoing uncertainty surrounding the talks, according to Reuters."
         }
       ]
     },
@@ -3336,7 +3331,7 @@
         {
           "date": "2026-06-02",
           "edition": "morning",
-          "update": "The International Rescue Committee warned that the Ebola outbreak in the DRC is 'likely far worse' than official figures suggest. Two people were killed in Kenya during protests against a planned U.S. Ebola quarantine site, according to a protest organizer and a Reuters source. Health workers in DR Congo are responding to the Bundibugyo outbreak with no approved drugs currently available to specifically target that virus strain."
+          "update": "The International Rescue Committee warned that the Ebola outbreak in the DRC is 'likely far worse' than official figures suggest. Two people were killed in Kenya during a protest against the U.S. plan to establish an Ebola quarantine site, according to a protest organiser and a source cited by Reuters. BBC News reported that health workers are responding to the Bundibugyo strain for which no approved targeted treatments currently exist."
         }
       ]
     },
@@ -3446,5 +3441,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-02T11:17:38.864Z"
+  "updatedAt": "2026-06-02T11:18:32.630Z"
 }
