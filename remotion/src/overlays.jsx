@@ -1,6 +1,7 @@
 // remotion/src/overlays.jsx
 import { useEffect, useRef } from 'react';
 import { useCurrentFrame, useVideoConfig, interpolate, AbsoluteFill } from 'remotion';
+import { tokenizeWords, getActiveWord } from './subtitles.js';
 
 // ── Color constants (dark theme) ──────────────────────────────────────────────
 const ACCENT         = '#e8c547';
@@ -269,6 +270,66 @@ export function FadeOverlay({ durationInFrames, preRollS, postRollS }) {
       position: 'absolute', inset: 0, zIndex: 200,
       background: '#000', opacity, pointerEvents: 'none',
     }} />
+  );
+}
+
+// ── SubtitleBar ───────────────────────────────────────────────────────────────
+
+export function SubtitleBar({ shots, timestamps, t, preRollS = 1 }) {
+  const frame = useCurrentFrame();
+  const { fps } = useVideoConfig();
+
+  // Find active shot index.
+  let activeShotIdx = 0;
+  for (let i = 0; i < shots.length; i++) {
+    if (shots[i].t + preRollS <= t) activeShotIdx = i;
+  }
+  const activeShot = shots[activeShotIdx];
+
+  const ts    = timestamps?.[activeShotIdx] ?? null;
+  const words = tokenizeWords(ts);
+  if (words.length === 0) return null;
+
+  const tInShot   = t - (activeShot.t + preRollS);
+  const activeIdx = getActiveWord(words, tInShot);
+  if (activeIdx < 0) return null;
+
+  // Show a window of up to 7 words centred on the current word.
+  const winStart = Math.max(0, activeIdx - 3);
+  const winEnd   = Math.min(words.length - 1, activeIdx + 3);
+  const window   = words.slice(winStart, winEnd + 1);
+  const curInWin = activeIdx - winStart;
+
+  // Fade in/out at shot boundary (9 frames).
+  const FADE = 9;
+  const shotStartFrame = Math.round((preRollS + activeShot.t) * fps);
+  const shotEndFrame   = Math.round((preRollS + activeShot.t + activeShot.hold) * fps);
+  const opacity = interpolate(
+    frame,
+    [shotStartFrame, shotStartFrame + FADE, shotEndFrame - FADE, shotEndFrame],
+    [0, 1, 1, 0],
+    { extrapolateLeft: 'clamp', extrapolateRight: 'clamp' },
+  );
+  if (opacity === 0) return null;
+
+  return (
+    <div style={{
+      position: 'absolute', bottom: 16, left: '50%', transform: 'translateX(-50%)',
+      zIndex: 12, pointerEvents: 'none', opacity,
+      background: 'rgba(10,13,20,0.75)', borderRadius: 4, padding: '8px 20px',
+      maxWidth: '80%',
+    }}>
+      <div style={{ display: 'flex', gap: 6, alignItems: 'baseline', flexWrap: 'wrap', justifyContent: 'center' }}>
+        {window.map((w, wi) => (
+          <span key={winStart + wi} style={{
+            fontFamily: 'Source Serif 4, serif',
+            fontSize: 20,
+            fontWeight: wi === curInWin ? 600 : 400,
+            color: wi === curInWin ? ACCENT : 'rgba(240,235,224,0.75)',
+          }}>{w.text}</span>
+        ))}
+      </div>
+    </div>
   );
 }
 

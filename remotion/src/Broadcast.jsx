@@ -4,23 +4,30 @@ import { useEffect, useRef } from 'react';
 import { useCurrentFrame, useVideoConfig, AbsoluteFill, Audio, Sequence, delayRender, continueRender } from 'remotion';
 import { useRemotionMap } from './useRemotionMap.js';
 import { interpolateCameraOnPath, getActiveLocation, getActiveWaypoint } from './camera.js';
-import { RemotionFilmGrain, Chyron, Ticker, TopBar, MapAttribution, FadeOverlay, DataCallout } from './overlays.jsx';
+import { RemotionFilmGrain, Chyron, Ticker, TopBar, MapAttribution, FadeOverlay, DataCallout, SubtitleBar } from './overlays.jsx';
 
 const PRE_ROLL_S  = 1;
 const POST_ROLL_S = 1;
 
 export async function calculateMetadata({ props }) {
   const { edition, fps = 30, port = 3002 } = props;
-  if (!edition) return { durationInFrames: 1, fps, props: { ...props, shotlist: null } };
+  if (!edition) return { durationInFrames: 1, fps, props: { ...props, shotlist: null, timestamps: [] } };
   const res = await fetch(`http://localhost:${port}/out/shotlists/${edition}.json`);
   if (!res.ok) throw new Error(`Shotlist fetch failed: ${res.status} for edition "${edition}"`);
   const shotlist = await res.json();
+
+  // Fetch per-shot timestamps sidecars so SubtitleBar can render word-by-word subtitles.
+  const timestamps = await Promise.all(
+    shotlist.shots.map(async (_, i) => {
+      try {
+        const r = await fetch(`http://localhost:${port}/out/audio/${edition}/shot-${i}.timestamps.json`);
+        return r.ok ? await r.json() : null;
+      } catch { return null; }
+    })
+  );
+
   const durationInFrames = Math.ceil((PRE_ROLL_S + shotlist.duration + POST_ROLL_S) * fps);
-  return {
-    durationInFrames,
-    fps,
-    props: { ...props, shotlist },
-  };
+  return { durationInFrames, fps, props: { ...props, shotlist, timestamps } };
 }
 
 // Build GeoJSON for the dashed story-path line connecting a shot's unique locations.
@@ -44,7 +51,7 @@ function shotPathGeoJson(shot) {
   };
 }
 
-export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps: propFps = 30, mapboxToken = '' }) {
+export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps: propFps = 30, mapboxToken = '', timestamps = [] }) {
   const frame = useCurrentFrame();
   const { fps, durationInFrames } = useVideoConfig();
   const t = frame / fps;
@@ -142,6 +149,7 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
         <TopBar edition={edition} t={t} />
         <MapAttribution />
         <RemotionFilmGrain opacity={0.055} />
+        <SubtitleBar shots={shotlist.shots} timestamps={timestamps} t={t} preRollS={PRE_ROLL_S} />
       </div>
 
       {/* Ticker + chyron below map */}
