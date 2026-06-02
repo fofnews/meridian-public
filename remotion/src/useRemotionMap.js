@@ -35,6 +35,34 @@ export function useRemotionMap({ mapboxToken = '', port = 3002 } = {}) {
 
       const onStyleReady = () => {
         if (cancelled) return;
+
+        // Broadcast-only: location pin label for state/city-level shots.
+        if (!map.getSource('location-label')) {
+          map.addSource('location-label', {
+            type: 'geojson',
+            data: { type: 'FeatureCollection', features: [] },
+          });
+          map.addLayer({
+            id: 'location-label-text',
+            type: 'symbol',
+            source: 'location-label',
+            layout: {
+              'text-field': ['get', 'name'],
+              'text-font': ['Playfair Display Bold'],
+              'text-size': 16,
+              'text-anchor': 'bottom',
+              'text-offset': [0, -2],
+              'text-allow-overlap': true,
+              'text-ignore-placement': true,
+            },
+            paint: {
+              'text-color': '#e8c547',
+              'text-halo-color': 'rgba(10,13,20,0.92)',
+              'text-halo-width': 2,
+            },
+          });
+        }
+
         setMapReady(true);
         continueRender(initHandle);
       };

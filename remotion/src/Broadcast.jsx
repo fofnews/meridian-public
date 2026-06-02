@@ -124,6 +124,20 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
           mapRef.current.setFilter('country-highlight-edge', ['==', 'iso_3166_1', iso]);
         }
       } catch {}
+
+      // Update location pin label — show for state/city shots, hide for country/globe.
+      const showLabel = hl?.type === 'state' || hl?.type === 'city';
+      const labelFC = showLabel && activeWpResult?.waypoint
+        ? {
+            type: 'FeatureCollection',
+            features: [{
+              type: 'Feature',
+              geometry: { type: 'Point', coordinates: [activeWpResult.waypoint.lng, activeWpResult.waypoint.lat] },
+              properties: { name: hl.name },
+            }],
+          }
+        : emptyFC;
+      try { mapRef.current.getSource('location-label')?.setData(labelFC); } catch {}
     }
 
     const onIdle = () => { resolved = true; continueRender(handle); };
