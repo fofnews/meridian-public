@@ -437,5 +437,44 @@
     "source": "Newsweek",
     "categories": [],
     "collectedAt": "2026-06-02T06:45:01.323Z"
+  },
+  {
+    "title": "Russia Launches Deadly Strikes on Ukraine",
+    "description": "Missiles and drones struck the cities of Kyiv and Dnipro, Ukrainian officials said. At least 10 people were killed.",
+    "link": "https://www.nytimes.com/2026/06/02/world/europe/ukraine-war-russia-kyiv-attack.html",
+    "pubDate": "Tue, 02 Jun 2026 06:47:12 +0000",
+    "source": "NY Times",
+    "categories": [
+      "russian invasion of ukraine (2022)",
+      "international relations",
+      "defense and military forces",
+      "missiles and missile defense systems",
+      "deaths (fatalities)",
+      "kyiv (ukraine)",
+      "ukraine",
+      "russia",
+      "drones (pilotless planes)",
+      "civilian casualties",
+      "war and armed conflicts"
+    ],
+    "collectedAt": "2026-06-02T07:00:01.341Z"
+  },
+  {
+    "title": "Morning Bid: Nvidia chief to Asia: 'We're still supply constrained' - Reuters",
+    "description": "Morning Bid: Nvidia chief to Asia: 'We're still supply constrained'  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uVUgwRW5rZ1ZIVmwzbXhQY2VnakRmQWpudEw3RlQyaVM3THB0eUMzeUpBMnZ5aHhFb2Ytc3pnUWZJUWh4TjdSYjl1WWRrYl9lSTR1SE1zN3dmc3d1WThrX2pTaTM0Szlzei1RVHJXMjZsNGNkYkJlam1HQjZMX2c?oc=5",
+    "pubDate": "Tue, 02 Jun 2026 04:34:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-06-02T07:00:01.341Z"
+  },
+  {
+    "title": "Archaeologists uncover ‘mysterious’ ancient tunnel near biblical Kingdom of Judah site in Jerusalem",
+    "description": "Rock-hewn passage was found filled with soil accumulated over possibly thousands of years.",
+    "link": "https://nypost.com/2026/06/02/world-news/archaeologists-uncover-mysterious-ancient-tunnel-near-biblical-kingdom-of-judah-site-in-jerusalem/",
+    "pubDate": "Tue, 02 Jun 2026 02:57:21 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-02T07:00:01.341Z"
   }
 ]
