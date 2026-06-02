@@ -382,19 +382,22 @@ export function findQuoteOverlays({ narration, timestamps, shotHold }) {
   const overlays = [];
   const quoteRe  = /"([^"]+)"/g;
   let m;
+  let searchOffset = 0;
 
   while ((m = quoteRe.exec(narration)) !== null) {
     const quotedText = m[1].trim();
     if (!quotedText || quotedText.length < 3) continue;
 
     // Find the quoted content in normalized_text (case-insensitive).
-    const idx = text.toLowerCase().indexOf(quotedText.toLowerCase());
+    const idx = text.toLowerCase().indexOf(quotedText.toLowerCase(), searchOffset);
     if (idx < 0) continue;
 
     const tStart = charStarts[idx] ?? null;
     const endIdx = Math.min(idx + quotedText.length - 1, charEnds.length - 1);
     const tEnd   = charEnds[endIdx] ?? null;
     if (tStart == null || tEnd == null) continue;
+
+    searchOffset = idx + quotedText.length;
 
     const rawDurationMs = Math.max(1500, (tEnd - tStart + 0.3) * 1000);
     const overlay = { type: 'quote-callout', text: quotedText, tOffset: tStart, durationMs: rawDurationMs };
