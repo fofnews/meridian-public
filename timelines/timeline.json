@@ -621,6 +621,11 @@
           "date": "2026-06-02",
           "edition": "morning",
           "update": "Russia launched a large-scale overnight attack on Ukraine using 656 drones and 73 missiles, according to Ukraine's air force, striking cities including Kyiv and Dnipro. At least 11 people were killed and dozens injured, with residential buildings and civilian infrastructure damaged and people trapped inside collapsed or damaged buildings. Separately, the Washington Post reported that Russia has failed to achieve its war aims in Ukraine and that Putin is seeking a way out of the conflict. Ukrainian startups are also developing sea drone swarms and autonomous robot trucks to bolster the country's defenses, according to Reuters."
+        },
+        {
+          "date": "2026-06-02",
+          "edition": "evening",
+          "update": "Russian overnight strikes across Ukraine killed at least 13 people, with the death toll expected to rise as emergency responders continue searching for survivors trapped in rubble. A Kyiv resident described the attack as feeling like 'some kind of apocalypse.' The NY Times reported Russia has intensified strikes amid recent battlefield losses and mounting casualties, with Moscow seeking to improve its position ahead of potential negotiations."
         }
       ],
       "parentId": null
@@ -629,7 +634,7 @@
       "id": "sinaloa-cartel-violence",
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-05-27",
+      "lastSeen": "2026-06-02",
       "active": true,
       "entries": [
         {
@@ -701,6 +706,11 @@
           "date": "2026-05-27",
           "edition": "evening",
           "update": "Reuters reported on a paper trail linking a U.S. fuel trader to a notorious Mexican cartel, though specific individuals and the cartel involved were not identified in available reporting."
+        },
+        {
+          "date": "2026-06-02",
+          "edition": "evening",
+          "update": "U.S. authorities uncovered a cross-border smuggling tunnel running between San Diego and Tijuana, concealed beneath a fake store on the U.S. side, which was used to transport illegal drugs and weapons. Four people were arrested and charged in connection with the tunnel operation."
         }
       ],
       "parentId": null
@@ -759,7 +769,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-31",
+      "lastSeen": "2026-06-02",
       "active": true,
       "entries": [
         {
@@ -956,6 +966,11 @@
           "date": "2026-05-31",
           "edition": "evening",
           "update": "Sen. Chris Coons (D-Del.) claimed that Iran is 'stronger' than it was 90 days ago before the U.S. war began, citing Iran's use of 'cheap and lethal drones' as a key factor."
+        },
+        {
+          "date": "2026-06-02",
+          "edition": "evening",
+          "update": "President Trump reportedly cursed at Israeli Prime Minister Netanyahu during a 15-minute phone call, calling him 'crazy' and accusing him of 'ingratitude' over Israel's escalating strikes in Lebanon, which have become a key obstacle to a potential peace deal with Iran. Democratic strategist David Axelrod stated Trump's reported outburst was justified, while critics accused Netanyahu of running Israel as a U.S. 'vassal state' after Trump claimed on social media to have persuaded Netanyahu to call off a major raid on Hezbollah in Beirut."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1366,6 +1381,11 @@
           "date": "2026-06-02",
           "edition": "morning",
           "update": "An Israeli militia staff sergeant was killed and three others injured in a Hezbollah drone attack near Beaufort Castle in Lebanon. Lebanon's Health Ministry reported the death toll from Israeli attacks since March has reached 3,433, with 10,395 injured. Netanyahu stated military operations in southern Lebanon would continue, appearing to contradict Trump's announcement of an agreed ceasefire, and informed Trump that Israel would strike Beirut if attacked. According to Axios, Trump berated Netanyahu during a Monday phone call, calling him 'crazy' and accusing him of ingratitude, though Trump subsequently claimed a diplomatic breakthrough and that Israel and Hezbollah had accepted a partial U.S. ceasefire plan. Israel's National Security Minister criticized Netanyahu for yielding to U.S. pressure, while the NY Times reported Israel's campaign has reached a military impasse with Hezbollah's drone capabilities proving more resilient than anticipated."
+        },
+        {
+          "date": "2026-06-02",
+          "edition": "evening",
+          "update": "Israeli air strikes in Lebanon killed at least 13 people in the day following President Trump's announcement of a de-escalation agreement, with Israel and Lebanon exchanging fire overnight despite Trump's claim both sides had agreed to pause fighting. Netanyahu agreed to halt operations near Beirut while Hezbollah agreed to stop attacks on Israel under the U.S.-announced partial truce, though Israeli strikes continued in southern Lebanon. Netanyahu faced domestic criticism from his national security minister after Trump intervened to halt Beirut strikes, while Lebanon's NY Times coverage highlighted the country as largely a bystander to a conflict driven by U.S., Israeli, and Iranian decisions."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1374,7 +1394,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-01",
+      "lastSeen": "2026-06-02",
       "active": true,
       "entries": [
         {
@@ -1921,6 +1941,11 @@
           "date": "2026-06-01",
           "edition": "evening",
           "update": "U.S. Central Command struck Iranian military sites on Qeshm Island in the Strait of Hormuz over the weekend, in addition to radar and drone command-and-control sites in Goruk, Iran. Iran's Revolutionary Guard threatened a 'completely different' escalatory response following the latest U.S. self-defense strikes. International oil prices jumped 6 percent on Monday, reaching levels not seen since mid-May, after Iran reportedly cut off nuclear talks with the United States; analysts warned prices could climb further if the Strait of Hormuz remains closed. President Trump sent proposed edits to a potential Iran agreement addressing points about the Strait of Hormuz and enriched uranium, while posting on Truth Social urging Democrats and what he called 'seemingly unpatriotic Republicans' to stop 'chirping' about the negotiations, stating Iran 'really wants to make a deal.'"
+        },
+        {
+          "date": "2026-06-02",
+          "edition": "evening",
+          "update": "Rep. Ashley Hinson, a Trump ally, warned that a potential war with Iran risks becoming a political liability for the Republican Party, according to Newsmax."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1929,7 +1954,7 @@
       "id": "iran-strait-of-hormuz-crisis",
       "title": "Iran Strait of Hormuz Crisis",
       "firstSeen": "2026-03-10",
-      "lastSeen": "2026-05-08",
+      "lastSeen": "2026-06-02",
       "active": true,
       "entries": [
         {
@@ -2166,6 +2191,11 @@
           "date": "2026-05-08",
           "edition": "morning",
           "update": "Iran accused the United States of violating the ceasefire following an exchange of fire in the Strait of Hormuz, while Trump stated the ceasefire remains in effect."
+        },
+        {
+          "date": "2026-06-02",
+          "edition": "evening",
+          "update": "U.S. and Israeli attacks on Iranian desalination plants and other water infrastructure have worsened Iran's existing water crisis, according to Al Jazeera."
         }
       ],
       "parentId": null
@@ -2219,7 +2249,7 @@
       "id": "cuba-energy-crisis",
       "title": "Cuba Energy Crisis",
       "firstSeen": "2026-03-16",
-      "lastSeen": "2026-06-01",
+      "lastSeen": "2026-06-02",
       "active": true,
       "entries": [
         {
@@ -2401,6 +2431,11 @@
           "date": "2026-06-01",
           "edition": "morning",
           "update": "Cuba has begun distributing donated powdered milk received from Mexico and Uruguay as the island faces severe shortages, according to Al Jazeera."
+        },
+        {
+          "date": "2026-06-02",
+          "edition": "evening",
+          "update": "Nearly a dozen airlines have cancelled or restricted flights to Cuba since the start of the year, with a key European airline stopping direct flights to the island, compounding the country's ongoing economic crisis."
         }
       ],
       "parentId": null
@@ -2842,6 +2877,11 @@
           "date": "2026-06-02",
           "edition": "morning",
           "update": "Iran suspended nuclear and trade talks with the U.S. on Monday in protest of Israeli strikes on Lebanon, causing optimism over reopening the Strait of Hormuz to fade. Trump told NBC News he would be 'okay' if Iran refused to return to talks, while the administration also appeared to abandon its $1.8 billion anti-weaponization fund. Oil prices steadied amid ongoing uncertainty surrounding the talks, according to Reuters."
+        },
+        {
+          "date": "2026-06-02",
+          "edition": "evening",
+          "update": "Secretary of State Marco Rubio testified before the Senate Foreign Relations Committee and a House Appropriations subcommittee on Tuesday regarding the State Department's budget, marking his first congressional appearance since the start of the war with Iran. Rubio characterized the destruction of Iran's military through Operation Epic Fury as having eliminated the country's 'conventional shield' protecting its nuclear program, dismissing the Iranian Navy as 'a bunch of Boston Whalers with machine guns.' Sen. Cory Booker clashed with Rubio at the Senate hearing, accusing the Trump administration of strengthening Iran's geopolitical position. Former National Security Advisor John Bolton claimed Iran believes it can 'outlast Trump' in negotiations, while Reuters reported Iran is studying a deal as a stalemate persists. Oil prices pulled back from monthly highs after Trump signaled a peace deal was forthcoming, and the U.S. is separately pressuring Oman to cut ties with Iran."
         }
       ]
     },
@@ -2885,7 +2925,7 @@
       "title": "Correspondents' Dinner Shooting Investigation",
       "parentId": null,
       "firstSeen": "2026-04-28",
-      "lastSeen": "2026-05-25",
+      "lastSeen": "2026-06-02",
       "active": true,
       "entries": [
         {
@@ -2912,6 +2952,11 @@
           "date": "2026-05-25",
           "edition": "morning",
           "update": "A separate incident from the Correspondents' Dinner case: U.S. Secret Service officers shot and killed a man identified as Nasire Best, 21, of Dundalk, Maryland, who opened fire at a White House security checkpoint on Saturday. CBS News reported Best had previously blocked a White House entry lane in June 2025 and had attempted to gain access to the White House the year before. A bystander was left in serious condition during the exchange of gunfire. Secret Service Director Sean Curran praised officers for their 'quick and decisive response,' and five senior law enforcement officials told NBC News that Best had a history of mental health concerns."
+        },
+        {
+          "date": "2026-06-02",
+          "edition": "evening",
+          "update": "The White House Correspondents' Association announced Tuesday that the dinner has been rescheduled for July 24, with WHCA President Weijia Jiang making the announcement to members. President Trump announced Tuesday he will attend the rescheduled event."
         }
       ]
     },
@@ -3050,7 +3095,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-05-31",
+      "lastSeen": "2026-06-02",
       "active": true,
       "entries": [
         {
@@ -3062,6 +3107,11 @@
           "date": "2026-05-31",
           "edition": "evening",
           "update": "Ukrainian President Zelensky stated on Sunday that he hopes White House envoy Steve Witkoff and Jared Kushner will visit Kyiv for talks in the coming weeks, in an interview on CBS News's 'Face the Nation.'"
+        },
+        {
+          "date": "2026-06-02",
+          "edition": "evening",
+          "update": "Hungarian opposition leader Péter Magyar expressed readiness to meet Ukrainian President Zelenskyy, signaling a potential foreign policy shift toward Ukraine in a post-Orbán Hungary, according to Reuters."
         }
       ]
     },
@@ -3070,7 +3120,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-06-01",
+      "lastSeen": "2026-06-02",
       "active": true,
       "entries": [
         {
@@ -3152,6 +3202,11 @@
           "date": "2026-06-01",
           "edition": "evening",
           "update": "Iran's state-affiliated Tasnim News Agency announced that Tehran is halting indirect message exchanges with the United States and may move to close the Strait of Hormuz, citing U.S. ceasefire violations as justification."
+        },
+        {
+          "date": "2026-06-02",
+          "edition": "evening",
+          "update": "Many large oil tankers remain stranded in the Strait of Hormuz, with uncertainty over whether they will return to Middle East routes in significant numbers once they are able to leave, according to the Wall Street Journal."
         }
       ]
     },
@@ -3332,6 +3387,11 @@
           "date": "2026-06-02",
           "edition": "morning",
           "update": "The International Rescue Committee warned that the Ebola outbreak in the DRC is 'likely far worse' than official figures suggest. Two people were killed in Kenya during a protest against the U.S. plan to establish an Ebola quarantine site, according to a protest organiser and a source cited by Reuters. BBC News reported that health workers are responding to the Bundibugyo strain for which no approved targeted treatments currently exist."
+        },
+        {
+          "date": "2026-06-02",
+          "edition": "evening",
+          "update": "A Kenyan court issued a ruling further delaying the Trump administration's proposed 50-bed Ebola quarantine facility for Americans exposed to the virus, a plan that has already sparked violent protests and prompted Kenya's president to publicly defend the center. The IRC indicated the current outbreak may have been spreading undetected since as early as January, while NPR highlighted the gap between the intensive care Ebola requires and the limited healthcare resources available in the DRC. A chronic lack of diagnostic testing infrastructure in Congo is hampering containment efforts, according to the NY Times."
         }
       ]
     },
@@ -3441,5 +3501,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-02T11:18:32.630Z"
+  "updatedAt": "2026-06-02T21:07:43.475Z"
 }
