@@ -512,5 +512,83 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-02T07:15:02.221Z"
+  },
+  {
+    "title": "Iran War Live Updates: Israel Appears to Back Off Threat to Strike Beirut",
+    "description": "President Trump is pressing Israel to not strike the Lebanese capital. An escalation in Israel’s campaign against Hezbollah could threaten peace talks with Iran.",
+    "link": "https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon",
+    "pubDate": "Tue, 02 Jun 2026 07:27:52 +0000",
+    "source": "NY Times",
+    "categories": [],
+    "collectedAt": "2026-06-02T07:30:02.543Z"
+  },
+  {
+    "title": "Trump Targets Brazil with 25% Tariff, Citing Unfair Trade Practices",
+    "description": "The proposal marks the latest effort by the administration to rebuild its tariff agenda through Section 301 investigations.",
+    "link": "https://www.nytimes.com/2026/06/02/business/trump-tariffs-brazil.html",
+    "pubDate": "Tue, 02 Jun 2026 07:23:07 +0000",
+    "source": "NY Times",
+    "categories": [
+      "brazil",
+      "united states politics and government",
+      "international trade and world market",
+      "customs (tariff)",
+      "greer, jamieson l",
+      "trump, donald j",
+      "da silva, luiz inacio lula",
+      "united states"
+    ],
+    "collectedAt": "2026-06-02T07:30:02.543Z"
+  },
+  {
+    "title": "At least nine people killed, dozens wounded in Russian attacks on Ukraine",
+    "description": "Russia launches 656 drones and 73 missiles at Ukraine overnight, according to Ukraine's air force.",
+    "link": "https://www.aljazeera.com/news/2026/6/2/at-least-nine-people-killed-dozens-wounded-in-russian-attacks-on-ukraine?traffic_source=rss",
+    "pubDate": "Tue, 02 Jun 2026 07:07:21 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-06-02T07:30:02.543Z"
+  },
+  {
+    "title": "South Africa’s World Cup delegation departs for Mexico without coach",
+    "description": "Bafana Bafana's departure was delayed due to non-issuance of visas for several players and support staff.",
+    "link": "https://www.aljazeera.com/sports/2026/6/2/south-africas-world-cup-delegation-departs-for-mexico-without-coach?traffic_source=rss",
+    "pubDate": "Tue, 02 Jun 2026 06:55:39 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-06-02T07:30:02.543Z"
+  },
+  {
+    "title": "Iran war day 95: Trump pushes Lebanon truce after Tehran vows to end talks",
+    "description": "Trump says he persuaded Israel and Hezbollah to halt attacks, seeking to prevent a wider war in Lebanon.",
+    "link": "https://www.aljazeera.com/news/2026/6/2/iran-war-day-95-trump-pushes-lebanon-truce-after-tehran-vows-to-end-talks?traffic_source=rss",
+    "pubDate": "Tue, 02 Jun 2026 06:55:14 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-06-02T07:30:02.543Z"
+  },
+  {
+    "title": "Asian shares mostly slip as latest fighting undermines the US-Iran ceasefire. - AP News",
+    "description": "Asian shares mostly slip as latest fighting undermines the US-Iran ceasefire.  AP News",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUgtMzUtb3E5V2g5QnZDcktfa0lLV0VuNXduUlVmRXhwWEd0T3ZsS0Z4NkJCb2Z2amFtV0I2RUxTSjJia0RSRVhwdmY3WUhEWi1VN29JMGtvb2xzVzBxMWpOdU54Tk5LTlNyYzEyTlBab1ZWQkZycVZjSllmeGtPdGxfVzYwVXBNRTVCTHIwS0ZCcnR5YWRiT0RVMHI?oc=5",
+    "pubDate": "Tue, 02 Jun 2026 06:57:00 GMT",
+    "source": "AP News",
+    "categories": [],
+    "collectedAt": "2026-06-02T07:30:02.543Z"
+  },
+  {
+    "title": "Subscribe - The Free Press - The Free Press",
+    "description": "Subscribe - The Free Press  The Free Press",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4zTmZMejFnWXNLNUVPcnFtaDVNR2lMMjJtX1k2VzF3b3NGYTNIUUVRMFRyb2JfN0Z3eDBUOUdwdV9rc3dXcXc?oc=5",
+    "pubDate": "Tue, 02 Jun 2026 05:17:45 GMT",
+    "source": "The Free Press",
+    "categories": [],
+    "collectedAt": "2026-06-02T07:30:02.543Z"
   }
 ]
