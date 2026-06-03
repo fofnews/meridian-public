@@ -541,5 +541,44 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-03T06:30:02.111Z"
+  },
+  {
+    "title": "California’s race for governor and other key primaries remain unsettled as vote count continues",
+    "description": "California’s crowded, protracted gubernatorial primary is going to take a little more time to settle",
+    "link": "https://www.nbcnews.com/politics/2026-election/california-governor-key-races-house-unsettled-vote-count-continues-rcna348210",
+    "pubDate": "Wed, 03 Jun 2026 06:37:35 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-06-03T06:45:01.384Z"
+  },
+  {
+    "title": "Trump picks mortgage chief Bill Pulte to lead on national intelligence - The Washington Post",
+    "description": "Trump picks mortgage chief Bill Pulte to lead on national intelligence  The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVGtSRzdzNThMQllmNG1BNkdSaG15Zm9BbzNqVi1wdFUyVkk1NjA2WllvaHRYd3JZSTU1ZWpYUTgybFRTRmU3U2FpT0VZckVvZmx4cUVnVWlJVG52andJXzVhRFBPZVFsRkk1SXhaSFZtMjNBY09JS19nNmV2TjQzUUxhd0M5bnFOTUdEUDZNN2pRLVF3SmZrMU5BWDczd2pMaFRJOXVxc01NQmlFdVM0endrRWNZNmJFVF9TdWl3dWpZVnM?oc=5",
+    "pubDate": "Wed, 03 Jun 2026 05:05:01 GMT",
+    "source": "Washington Post",
+    "categories": [],
+    "collectedAt": "2026-06-03T06:45:01.384Z"
+  },
+  {
+    "title": "South Dakota governors race remains up in the air as GOP contest goes to runoff",
+    "description": "Gov. Larry Rhoden is projected to survive an upset attempt by popular Rep. Dusty Johnson in South Dakota's crowded GOP gubernatorial primary Tuesday.",
+    "link": "https://www.foxnews.com/politics/south-dakota-governors-race-remains-up-air-gop-contest-goes-runoff",
+    "pubDate": "Wed, 03 Jun 2026 02:24:38 -0400",
+    "source": "Fox News",
+    "categories": [
+      "2323216f-5559-51db-b9db-00bef41700ab",
+      "fnc",
+      "fox news",
+      "fox-news/politics/elections/gubernatorial",
+      "fox-news/person/donald-trump",
+      "fox-news/person/kristi-noem",
+      "fox-news/politics/state-and-local/governors",
+      "fox-news/us/us-regions/midwest/south-dakota",
+      "fox-news/politics",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-06-03T06:45:01.384Z"
   }
 ]
