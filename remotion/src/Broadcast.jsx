@@ -4,7 +4,7 @@ import { useEffect, useRef } from 'react';
 import { useCurrentFrame, useVideoConfig, AbsoluteFill, Audio, Sequence, delayRender, continueRender } from 'remotion';
 import { useRemotionMap } from './useRemotionMap.js';
 import { interpolateCameraOnPath, getActiveLocation, getActiveWaypoint } from './camera.js';
-import { RemotionFilmGrain, Chyron, Ticker, TopBar, MapAttribution, FadeOverlay, DataCallout, SubtitleBar } from './overlays.jsx';
+import { RemotionFilmGrain, Chyron, Ticker, TopBar, MapAttribution, FadeOverlay, DataCallout, SubtitleBar, QuoteCallout } from './overlays.jsx';
 
 const PRE_ROLL_S  = 1;
 const POST_ROLL_S = 1;
@@ -191,6 +191,9 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
             <Sequence key={`${i}-${j}`} from={fromFrame} durationInFrames={durFrames}>
               {ov.type === 'data-callout' && (
                 <DataCallout text={ov.text} fromFrame={fromFrame} durationFrames={durFrames} />
+              )}
+              {ov.type === 'quote-callout' && (
+                <QuoteCallout text={ov.text} fromFrame={fromFrame} durationFrames={durFrames} />
               )}
             </Sequence>
           );

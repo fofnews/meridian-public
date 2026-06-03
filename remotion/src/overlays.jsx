@@ -392,3 +392,46 @@ export function DataCallout({ text, fromFrame, durationFrames, fadeFrames = 9 })
     </div>
   );
 }
+
+// ── QuoteCallout ──────────────────────────────────────────────────────────────
+
+export function QuoteCallout({ text, fromFrame, durationFrames, fadeFrames = 9 }) {
+  const frame = useCurrentFrame();
+  const opacity = dataCalloutOpacity(frame, fromFrame, durationFrames, fadeFrames);
+  if (opacity === 0) return null;
+
+  return (
+    <div style={{
+      position: 'absolute',
+      left: '5%',
+      bottom: 140,
+      maxWidth: '45%',
+      opacity,
+      zIndex: 15,
+      pointerEvents: 'none',
+    }}>
+      <div style={{
+        background: 'rgba(10,13,20,0.88)',
+        borderRadius: 6,
+        padding: '20px 28px',
+        borderLeft: `3px solid ${ACCENT}`,
+      }}>
+        <div style={{
+          color: ACCENT,
+          fontSize: 40,
+          fontFamily: 'Playfair Display, serif',
+          lineHeight: 1,
+          marginBottom: 6,
+          opacity: 0.65,
+        }}>"</div>
+        <div style={{
+          color: 'rgba(240,235,224,0.92)',
+          fontSize: 18,
+          fontFamily: 'Playfair Display, serif',
+          fontStyle: 'italic',
+          lineHeight: 1.5,
+        }}>{text}</div>
+      </div>
+    </div>
+  );
+}

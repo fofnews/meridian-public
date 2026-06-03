@@ -18,7 +18,7 @@ vi.mock('remotion', () => ({
   Sequence: ({ children }) => <>{children}</>,
 }));
 
-import { dataCalloutOpacity } from '../overlays.jsx';
+import { dataCalloutOpacity, QuoteCallout } from '../overlays.jsx';
 
 describe('DataCallout — opacity interpolation', () => {
   const fromFrame      = 100;
@@ -38,6 +38,28 @@ describe('DataCallout — opacity interpolation', () => {
   });
 
   it('opacity is 0 after the overlay ends (frame = fromFrame + durationFrames + 1)', () => {
+    expect(dataCalloutOpacity(fromFrame + durationFrames + 1, fromFrame, durationFrames, fadeFrames)).toBe(0);
+  });
+});
+
+describe('QuoteCallout — opacity interpolation (reuses dataCalloutOpacity)', () => {
+  const fromFrame      = 200;
+  const durationFrames = 60;
+  const fadeFrames     = 9;
+
+  it('opacity is 0 before the overlay starts', () => {
+    expect(dataCalloutOpacity(fromFrame - 1, fromFrame, durationFrames, fadeFrames)).toBe(0);
+  });
+
+  it('opacity is 1 when fully faded in', () => {
+    expect(dataCalloutOpacity(fromFrame + fadeFrames, fromFrame, durationFrames, fadeFrames)).toBe(1);
+  });
+
+  it('opacity is 1 at start of fade-out', () => {
+    expect(dataCalloutOpacity(fromFrame + durationFrames - fadeFrames, fromFrame, durationFrames, fadeFrames)).toBe(1);
+  });
+
+  it('opacity is 0 after the overlay ends', () => {
     expect(dataCalloutOpacity(fromFrame + durationFrames + 1, fromFrame, durationFrames, fadeFrames)).toBe(0);
   });
 });
