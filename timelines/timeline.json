@@ -636,6 +636,11 @@
           "date": "2026-06-03",
           "edition": "morning",
           "update": "A drone struck a bus traveling between Moscow and Simferopol in Russian-controlled territory, killing seven people, with Denis Pushilin, the Russian-installed leader of the Donetsk region, confirming the attack. Ukraine launched a large-scale drone attack on Russian targets early Wednesday, with Ukrainian drones striking and setting ablaze an oil terminal in St. Petersburg as the city hosted the St. Petersburg International Economic Forum, an annual economic forum promoted by President Putin. The death toll from recent Russian overnight strikes across Ukraine has risen to at least 22, including children, according to Al Jazeera. BBC News reported that concern over the war is growing even among Putin loyalists more than four years into the conflict."
+        },
+        {
+          "date": "2026-06-03",
+          "edition": "evening",
+          "update": "Ukrainian drones struck an oil or energy facility in St. Petersburg, sending plumes of black smoke over the city as Putin's St. Petersburg International Economic Forum was opening, though this attack had already been noted in prior reporting. No additional new developments beyond what was previously recorded."
         }
       ],
       "parentId": null
@@ -1411,6 +1416,11 @@
           "date": "2026-06-03",
           "edition": "morning",
           "update": "UN Secretary-General António Guterres proposed options to help end the Israel-Hezbollah conflict following the withdrawal of UN peacekeepers from Lebanon, according to AP News."
+        },
+        {
+          "date": "2026-06-03",
+          "edition": "evening",
+          "update": "Hezbollah launched rockets at Israel, and Israeli strikes killed nine people in Lebanon, straining the partial U.S.-mediated ceasefire agreement reached earlier in the week."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1981,6 +1991,11 @@
           "date": "2026-06-03",
           "edition": "morning",
           "update": "An Iranian drone attack struck Kuwait's main airport, causing injuries and prompting Kuwait to suspend commercial flights, occurring hours after Iran and the U.S. traded missile strikes in the region. U.S. Central Command announced that U.S. forces fired a Hellfire missile at a Botswana-flagged oil tanker sailing toward an Iranian port in the Arabian Gulf. Iran's IRGC launched attacks on the U.S. Fifth Fleet headquarters and an airbase, according to Iranian local media cited by Reuters. CBS News sources reported that the U.S. fighter pilot whose jet was downed over Iran in April had previously been shot down by Kuwaiti friendly fire at the start of the war. Oil prices jumped following the latest missile exchanges in the region."
+        },
+        {
+          "date": "2026-06-03",
+          "edition": "evening",
+          "update": "The U.S. House moved toward a vote on a measure directing Trump to halt U.S. military engagement in Iran after Republican leaders ran out of time to delay it further. Audio obtained by CBS News captured Rep. Ashley Hinson, an Iowa GOP Senate candidate, acknowledging the conflict could become a 'political liability' if it extends beyond the next few weeks. According to National Review, the conflict with Iran represented a tactical triumph but the subsequent ceasefire was described as a disappointment for the Trump administration. A U.S. pilot who had previously ejected during a friendly-fire incident over Kuwait was later shot down over Iran by a surface-to-air missile, triggering a rescue operation."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2802,6 +2817,11 @@
           "date": "2026-05-31",
           "edition": "evening",
           "update": "According to the NY Times, Trump's diplomatic efforts in Ukraine, Gaza, and Iran have reached a stalemate, with early declarations of easy wins giving way to more complex realities across all three conflicts."
+        },
+        {
+          "date": "2026-06-03",
+          "edition": "evening",
+          "update": "Iran launched a missile and drone barrage targeting Kuwait and Bahrain, striking Kuwait's airport and killing at least one person. Secretary of State Rubio told lawmakers the war on Iran is over following the latest exchanges. Trump confirmed he called Netanyahu 'crazy' during a heated phone call about Israel's military operations in Lebanon, saying he was 'perturbed' at Netanyahu's constant fighting and that he cursed at him during the call. An Al Jazeera satellite imagery investigation identified 40 distinct Israeli military outposts under continued construction within Gaza. The European Commission warned the EU could lose 1.3 million jobs due to an energy price surge linked to the Iran conflict."
         }
       ]
     },
@@ -2922,6 +2942,11 @@
           "date": "2026-06-03",
           "edition": "morning",
           "update": "Secretary of State Marco Rubio stated that Iranian Supreme Leader Mojtaba Khamenei is 'increasingly engaging' in ongoing U.S.-Iran negotiations, though Khamenei has not been publicly visible during the process. The U.S. Treasury imposed sanctions on Nobitex, Iran's largest cryptocurrency exchange, and several of its executives, accusing the platform of helping the Iranian government evade sanctions and finance militant groups. The NY Times reported that U.S.-Iran negotiations are facing complications prolonging the process, with reporter David E. Sanger outlining key factors causing delays. Iranians inside Iran expressed fear and frustration over a potential deal, with concerns that any agreement could leave the Islamic Republic's government intact despite widespread economic devastation."
+        },
+        {
+          "date": "2026-06-03",
+          "edition": "evening",
+          "update": "Trump claimed in a Wednesday interview with the New York Post's Pod Force One podcast that Tehran has pledged never to obtain a nuclear weapon. Trump also expressed anticipation about potentially meeting with Iran's Supreme Leader, signaling possible high-level direct diplomatic engagement."
         }
       ]
     },
@@ -3145,7 +3170,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-06-02",
+      "lastSeen": "2026-06-03",
       "active": true,
       "entries": [
         {
@@ -3162,6 +3187,11 @@
           "date": "2026-06-02",
           "edition": "evening",
           "update": "Hungarian opposition leader Péter Magyar expressed readiness to meet Ukrainian President Zelenskyy, signaling a potential foreign policy shift toward Ukraine in a post-Orbán Hungary, according to Reuters."
+        },
+        {
+          "date": "2026-06-03",
+          "edition": "evening",
+          "update": "Secretary of State Marco Rubio acknowledged on Tuesday that the prospects for a Russia-Ukraine peace deal 'don't look great,' despite extensive efforts from the Trump administration to end the conflict."
         }
       ]
     },
@@ -3452,6 +3482,11 @@
           "date": "2026-06-03",
           "edition": "morning",
           "update": "Demonstrators in Nairobi, Kenya carried an 'Ebola coffin' in protest against the proposed U.S. quarantine facility, opposing its establishment in the country."
+        },
+        {
+          "date": "2026-06-03",
+          "edition": "evening",
+          "update": "Secretary of State Rubio rejected accusations that Trump administration funding cuts contributed to the Ebola outbreak, as health workers blamed U.S. cutbacks for enabling the crisis. The mayor of La Línea de la Concepción, Spain, banned a planned friendly match between DR Congo and Chile over Ebola health concerns, with DR Congo proposing the World Cup warm-up be held behind closed doors. The IRC warned the current outbreak may have been spreading for three months before any cases were detected, citing delayed detection and slow contact tracing."
         }
       ]
     },
@@ -3561,5 +3596,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-03T11:09:51.305Z"
+  "updatedAt": "2026-06-03T21:08:15.335Z"
 }
