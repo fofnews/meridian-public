@@ -314,16 +314,16 @@ export function SubtitleBar({ shots, timestamps, t, preRollS = 1 }) {
 
   return (
     <div style={{
-      position: 'absolute', bottom: 16, left: '50%', transform: 'translateX(-50%)',
+      position: 'absolute', bottom: 110, left: '50%', transform: 'translateX(-50%)',
       zIndex: 12, pointerEvents: 'none', opacity,
-      background: 'rgba(10,13,20,0.75)', borderRadius: 4, padding: '8px 20px',
+      background: 'rgba(10,13,20,0.75)', borderRadius: 4, padding: '10px 28px',
       maxWidth: '80%',
     }}>
-      <div style={{ display: 'flex', gap: 6, alignItems: 'baseline', flexWrap: 'wrap', justifyContent: 'center' }}>
+      <div style={{ display: 'flex', gap: 8, alignItems: 'baseline', flexWrap: 'wrap', justifyContent: 'center' }}>
         {window.map((w, wi) => (
           <span key={winStart + wi} style={{
             fontFamily: 'Source Serif 4, serif',
-            fontSize: 20,
+            fontSize: 30,
             fontWeight: wi === curInWin ? 600 : 400,
             color: wi === curInWin ? ACCENT : 'rgba(240,235,224,0.75)',
           }}>{w.text}</span>
