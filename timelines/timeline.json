@@ -250,7 +250,7 @@
         {
           "date": "2026-06-03",
           "edition": "morning",
-          "update": "Acting Attorney General Todd Blanche and Rep. Madeleine Dean had a heated exchange during a House Appropriations Committee hearing over the status of the Jeffrey Epstein investigation."
+          "update": "Acting Attorney General Todd Blanche and Rep. Madeleine Dean had a heated exchange during a House Appropriations Committee hearing over the state of the Jeffrey Epstein investigation."
         }
       ],
       "parentId": null
@@ -635,7 +635,7 @@
         {
           "date": "2026-06-03",
           "edition": "morning",
-          "update": "A drone struck a bus traveling between Moscow and Simferopol in Russian-controlled territory, killing 7 people. Ukraine launched hundreds of drones at Russian targets early Wednesday, with strikes hitting St. Petersburg as the city hosted its annual economic forum, described as 'Putin's Davos.' Ukrainian President Zelenskyy confirmed that Ukrainian drones struck and set ablaze an oil terminal in St. Petersburg during the forum. Al Jazeera reported the latest Russian overnight barrage killed at least 22 people, including children, raising the death toll above earlier figures. BBC News reported that concern over the war is growing even among Putin loyalists more than four years into the conflict."
+          "update": "A drone struck a bus traveling between Moscow and Simferopol in Russian-controlled territory, killing seven people, with Denis Pushilin, the Russian-installed leader of the Donetsk region, confirming the attack. Ukraine launched a large-scale drone attack on Russian targets early Wednesday, with Ukrainian drones striking and setting ablaze an oil terminal in St. Petersburg as the city hosted the St. Petersburg International Economic Forum, an annual economic forum promoted by President Putin. The death toll from recent Russian overnight strikes across Ukraine has risen to at least 22, including children, according to Al Jazeera. BBC News reported that concern over the war is growing even among Putin loyalists more than four years into the conflict."
         }
       ],
       "parentId": null
@@ -1980,7 +1980,7 @@
         {
           "date": "2026-06-03",
           "edition": "morning",
-          "update": "An Iranian drone attack struck Kuwait's main airport, causing injuries and prompting Kuwait to suspend commercial flights. The US military carried out self-defense strikes on Iran's Qeshm Island, while Iran responded by targeting Kuwait and Bahrain, including the US Fifth Fleet headquarters and an airbase, according to IRGC-linked reports. According to CBS News sources, the U.S. fighter pilot whose jet was downed over Iran in April had previously been shot down by Kuwaiti friendly fire at the start of the conflict. Oil prices jumped following the renewed missile activity in the Persian Gulf."
+          "update": "An Iranian drone attack struck Kuwait's main airport, causing injuries and prompting Kuwait to suspend commercial flights, occurring hours after Iran and the U.S. traded missile strikes in the region. U.S. Central Command announced that U.S. forces fired a Hellfire missile at a Botswana-flagged oil tanker sailing toward an Iranian port in the Arabian Gulf. Iran's IRGC launched attacks on the U.S. Fifth Fleet headquarters and an airbase, according to Iranian local media cited by Reuters. CBS News sources reported that the U.S. fighter pilot whose jet was downed over Iran in April had previously been shot down by Kuwaiti friendly fire at the start of the war. Oil prices jumped following the latest missile exchanges in the region."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2921,7 +2921,7 @@
         {
           "date": "2026-06-03",
           "edition": "morning",
-          "update": "Secretary of State Marco Rubio stated that Iranian Supreme Leader Mojtaba Khamenei is 'increasingly engaging' in ongoing negotiations, while noting Khamenei has not been seen publicly during the process. The U.S. Treasury Department imposed sanctions on Nobitex, Iran's largest cryptocurrency exchange, and several of its executives, accusing the platform of helping the Iranian government evade sanctions and finance militant groups. The NY Times reported U.S.-Iran negotiations are ongoing but facing complications prolonging any agreement, with factors delaying a deal outlined by reporter David E. Sanger. Iranians inside Iran expressed fear and frustration over a potential deal, with concerns it could leave the Islamic Republic in power despite economic devastation, according to Fox News."
+          "update": "Secretary of State Marco Rubio stated that Iranian Supreme Leader Mojtaba Khamenei is 'increasingly engaging' in ongoing U.S.-Iran negotiations, though Khamenei has not been publicly visible during the process. The U.S. Treasury imposed sanctions on Nobitex, Iran's largest cryptocurrency exchange, and several of its executives, accusing the platform of helping the Iranian government evade sanctions and finance militant groups. The NY Times reported that U.S.-Iran negotiations are facing complications prolonging the process, with reporter David E. Sanger outlining key factors causing delays. Iranians inside Iran expressed fear and frustration over a potential deal, with concerns that any agreement could leave the Islamic Republic's government intact despite widespread economic devastation."
         }
       ]
     },
@@ -2965,7 +2965,7 @@
       "title": "Correspondents' Dinner Shooting Investigation",
       "parentId": null,
       "firstSeen": "2026-04-28",
-      "lastSeen": "2026-06-02",
+      "lastSeen": "2026-06-03",
       "active": true,
       "entries": [
         {
@@ -2997,6 +2997,11 @@
           "date": "2026-06-02",
           "edition": "evening",
           "update": "The White House Correspondents' Association announced Tuesday that the dinner has been rescheduled for July 24, with WHCA President Weijia Jiang making the announcement to members. President Trump announced Tuesday he will attend the rescheduled event."
+        },
+        {
+          "date": "2026-06-03",
+          "edition": "morning",
+          "update": "Press freedom advocates warned that the rescheduled White House Correspondents' Dinner on July 24 could provide Trump a platform to attack the news media. A new article in The Atlantic by Matt Viser reported that security around the White House has been significantly tightened following the April shooting, with new perimeter measures raising questions about balancing security and public access."
         }
       ]
     },
@@ -3256,7 +3261,7 @@
         {
           "date": "2026-06-03",
           "edition": "morning",
-          "update": "U.S. Central Command announced it fired a Hellfire missile at a Botswana-flagged oil tanker sailing toward an Iranian port in the Arabian Gulf, disabling its engine to prevent it from breaking through the blockade. BBC News reported approximately 20,000 seafarers remain trapped in the conflict zone, describing stress and exhaustion after months stranded due to the Strait of Hormuz blockade."
+          "update": "Approximately 20,000 seafarers remain trapped in the Iran war zone, reporting stress and exhaustion after months of being blocked by the Strait of Hormuz blockade, according to BBC News. U.S. Central Command announced that the U.S. military disabled the engine of a ship attempting to break through the blockade of Iran's ports."
         }
       ]
     },
@@ -3446,7 +3451,7 @@
         {
           "date": "2026-06-03",
           "edition": "morning",
-          "update": "Demonstrators in Nairobi carried an 'Ebola coffin' in protest against the proposed U.S. quarantine facility in the city."
+          "update": "Demonstrators in Nairobi, Kenya carried an 'Ebola coffin' in protest against the proposed U.S. quarantine facility, opposing its establishment in the country."
         }
       ]
     },
@@ -3556,5 +3561,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-03T11:09:21.461Z"
+  "updatedAt": "2026-06-03T11:09:51.305Z"
 }
