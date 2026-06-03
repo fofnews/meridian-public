@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-02",
+      "lastSeen": "2026-06-03",
       "active": true,
       "entries": [
         {
@@ -246,6 +246,11 @@
           "date": "2026-06-02",
           "edition": "morning",
           "update": "New Mexico lawmakers announced they will issue subpoenas to government and private institutions as the first major step in their state investigation into Jeffrey Epstein's activities in New Mexico, with the goal of determining whether additional prosecutions are warranted."
+        },
+        {
+          "date": "2026-06-03",
+          "edition": "morning",
+          "update": "Acting Attorney General Todd Blanche and Rep. Madeleine Dean had a heated exchange during a House Appropriations Committee hearing over the status of the Jeffrey Epstein investigation."
         }
       ],
       "parentId": null
@@ -374,7 +379,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-02",
+      "lastSeen": "2026-06-03",
       "active": true,
       "entries": [
         {
@@ -626,6 +631,11 @@
           "date": "2026-06-02",
           "edition": "evening",
           "update": "Russian overnight strikes across Ukraine killed at least 13 people, with the death toll expected to rise as emergency responders continue searching for survivors trapped in rubble. A Kyiv resident described the attack as feeling like 'some kind of apocalypse.' The NY Times reported Russia has intensified strikes amid recent battlefield losses and mounting casualties, with Moscow seeking to improve its position ahead of potential negotiations."
+        },
+        {
+          "date": "2026-06-03",
+          "edition": "morning",
+          "update": "A drone struck a bus traveling between Moscow and Simferopol in Russian-controlled territory, killing 7 people. Ukraine launched hundreds of drones at Russian targets early Wednesday, with strikes hitting St. Petersburg as the city hosted its annual economic forum, described as 'Putin's Davos.' Ukrainian President Zelenskyy confirmed that Ukrainian drones struck and set ablaze an oil terminal in St. Petersburg during the forum. Al Jazeera reported the latest Russian overnight barrage killed at least 22 people, including children, raising the death toll above earlier figures. BBC News reported that concern over the war is growing even among Putin loyalists more than four years into the conflict."
         }
       ],
       "parentId": null
@@ -1094,7 +1104,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-02",
+      "lastSeen": "2026-06-03",
       "active": true,
       "entries": [
         {
@@ -1396,6 +1406,11 @@
           "date": "2026-06-02",
           "edition": "evening",
           "update": "Israel continued strikes in southern Lebanon but refrained from targeting Beirut following the U.S.-brokered partial truce, with the ceasefire appearing to hold in Beirut while fighting persisted elsewhere, according to BBC News. Israeli strikes killed at least 8 people in Lebanon in the day after Trump's de-escalation announcement, according to AP. Critics accused Netanyahu of running Israel as a U.S. 'vassal state' after Trump claimed on social media to have persuaded him to call off a major raid on Hezbollah in Beirut, while Democratic strategist David Axelrod said Trump's reported outburst at Netanyahu was justified, noting the call reportedly prompted Iran to suspend unspecified actions."
+        },
+        {
+          "date": "2026-06-03",
+          "edition": "morning",
+          "update": "UN Secretary-General António Guterres proposed options to help end the Israel-Hezbollah conflict following the withdrawal of UN peacekeepers from Lebanon, according to AP News."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1404,7 +1419,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-02",
+      "lastSeen": "2026-06-03",
       "active": true,
       "entries": [
         {
@@ -1961,6 +1976,11 @@
           "date": "2026-06-02",
           "edition": "evening",
           "update": "Secretary of State Marco Rubio testified before the Senate Foreign Relations Committee and the House Appropriations Committee on Tuesday regarding the State Department's FY2027 budget request, marking his first congressional testimony since the start of the war. During the Senate hearing, Rubio clashed with Sen. Cory Booker, who accused the Trump administration of strengthening Iran's geopolitical position; Rubio pushed back and stated that the destruction of Iran's military has eliminated the country's ability to use a 'conventional shield' to protect its nuclear program, dismissing the Iranian Navy as 'a bunch of Boston Whalers with machine guns.' DHS Secretary Markwayne Mullin also testified before a Senate appropriations subcommittee Tuesday on the DHS FY2027 budget request. Reuters reported Iran is studying a deal to halt the war as a stalemate persists, while former National Security Adviser John Bolton claimed Iran believes it can outlast Trump in negotiations, citing oil price pressures as leverage. The U.S. is also reportedly pressing Oman to cut its ties with Iran, according to Newsmax."
+        },
+        {
+          "date": "2026-06-03",
+          "edition": "morning",
+          "update": "An Iranian drone attack struck Kuwait's main airport, causing injuries and prompting Kuwait to suspend commercial flights. The US military carried out self-defense strikes on Iran's Qeshm Island, while Iran responded by targeting Kuwait and Bahrain, including the US Fifth Fleet headquarters and an airbase, according to IRGC-linked reports. According to CBS News sources, the U.S. fighter pilot whose jet was downed over Iran in April had previously been shot down by Kuwaiti friendly fire at the start of the conflict. Oil prices jumped following the renewed missile activity in the Persian Gulf."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2765,7 +2785,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-02",
+      "lastSeen": "2026-06-03",
       "active": true,
       "entries": [
         {
@@ -2805,7 +2825,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-06-02",
+      "lastSeen": "2026-06-03",
       "active": true,
       "entries": [
         {
@@ -2897,6 +2917,11 @@
           "date": "2026-06-02",
           "edition": "evening",
           "update": "Secretary of State Marco Rubio testified before the Senate Foreign Relations Committee and a House Appropriations subcommittee on Tuesday regarding the State Department's budget, marking his first congressional appearance since the start of the war with Iran. Rubio characterized the destruction of Iran's military through Operation Epic Fury as having eliminated the country's 'conventional shield' protecting its nuclear program, dismissing the Iranian Navy as 'a bunch of Boston Whalers with machine guns.' Sen. Cory Booker clashed with Rubio at the Senate hearing, accusing the Trump administration of strengthening Iran's geopolitical position. Former National Security Advisor John Bolton claimed Iran believes it can 'outlast Trump' in negotiations, while Reuters reported Iran is studying a deal as a stalemate persists. Oil prices pulled back from monthly highs after Trump signaled a peace deal was forthcoming, and the U.S. is separately pressuring Oman to cut ties with Iran."
+        },
+        {
+          "date": "2026-06-03",
+          "edition": "morning",
+          "update": "Secretary of State Marco Rubio stated that Iranian Supreme Leader Mojtaba Khamenei is 'increasingly engaging' in ongoing negotiations, while noting Khamenei has not been seen publicly during the process. The U.S. Treasury Department imposed sanctions on Nobitex, Iran's largest cryptocurrency exchange, and several of its executives, accusing the platform of helping the Iranian government evade sanctions and finance militant groups. The NY Times reported U.S.-Iran negotiations are ongoing but facing complications prolonging any agreement, with factors delaying a deal outlined by reporter David E. Sanger. Iranians inside Iran expressed fear and frustration over a potential deal, with concerns it could leave the Islamic Republic in power despite economic devastation, according to Fox News."
         }
       ]
     },
@@ -3140,7 +3165,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-06-02",
+      "lastSeen": "2026-06-03",
       "active": true,
       "entries": [
         {
@@ -3227,6 +3252,11 @@
           "date": "2026-06-02",
           "edition": "evening",
           "update": "Many large oil tankers remain stranded in the Strait of Hormuz, with uncertainty over whether they will return to Middle East routes in significant numbers once they are able to leave, according to the Wall Street Journal."
+        },
+        {
+          "date": "2026-06-03",
+          "edition": "morning",
+          "update": "U.S. Central Command announced it fired a Hellfire missile at a Botswana-flagged oil tanker sailing toward an Iranian port in the Arabian Gulf, disabling its engine to prevent it from breaking through the blockade. BBC News reported approximately 20,000 seafarers remain trapped in the conflict zone, describing stress and exhaustion after months stranded due to the Strait of Hormuz blockade."
         }
       ]
     },
@@ -3305,7 +3335,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-06-02",
+      "lastSeen": "2026-06-03",
       "active": true,
       "entries": [
         {
@@ -3412,6 +3442,11 @@
           "date": "2026-06-02",
           "edition": "evening",
           "update": "A Kenyan court issued a ruling further delaying the Trump administration's proposed 50-bed Ebola quarantine facility for Americans exposed to the virus, a plan that has already sparked violent protests and prompted Kenya's president to publicly defend the center. The IRC indicated the current outbreak may have been spreading undetected since as early as January, while NPR highlighted the gap between the intensive care Ebola requires and the limited healthcare resources available in the DRC. A chronic lack of diagnostic testing infrastructure in Congo is hampering containment efforts, according to the NY Times."
+        },
+        {
+          "date": "2026-06-03",
+          "edition": "morning",
+          "update": "Demonstrators in Nairobi carried an 'Ebola coffin' in protest against the proposed U.S. quarantine facility in the city."
         }
       ]
     },
@@ -3521,5 +3556,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-02T21:13:19.228Z"
+  "updatedAt": "2026-06-03T11:09:21.461Z"
 }
