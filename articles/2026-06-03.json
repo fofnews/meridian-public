@@ -107,5 +107,83 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-03T04:30:06.355Z"
+  },
+  {
+    "title": "Suspect barricaded with hostages in Southern California bank, officials say",
+    "description": "Bakersfield police said the suspect had agreed to release two of the hostages.",
+    "link": "https://www.cbsnews.com/news/california-bank-bakersfield-chase-possible-hostage-situation/",
+    "pubDate": "Wed, 03 Jun 2026 00:44:52 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-06-03T04:45:02.201Z"
+  },
+  {
+    "title": "Republican James Gallagher wins special election for vacant red House district in California",
+    "description": "Republican state Rep. James Gallagher, the former state Assembly minority leader, will join Congress as its newest member after winning California’s 1st District special election, NBC News projects.",
+    "link": "https://www.nbcnews.com/politics/2026-election/republican-james-gallagher-wins-special-election-vacant-red-house-dist-rcna348179",
+    "pubDate": "Wed, 03 Jun 2026 04:38:38 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-06-03T04:45:02.201Z"
+  },
+  {
+    "title": "Republican businessman Toby Doeden advances to primary runoff in South Dakota governor’s race",
+    "description": "Republican businessman Toby Doeden has advanced to runoff primary in South Dakota governor’s race, NBC News projects.Gov.",
+    "link": "https://www.nbcnews.com/politics/2026-election/republican-toby-doeden-advances-primary-runoff-south-dakota-rcna347472",
+    "pubDate": "Wed, 03 Jun 2026 04:36:06 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-06-03T04:45:02.201Z"
+  },
+  {
+    "title": "Accident on Kuwait motorway as Iranian missiles fly overhead",
+    "description": "Video shows a car accident occurring on a road in Kuwait City as missiles flew overhead.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/accident-on-kuwait-motorway-as-iranian-missiles-fly-overhead?traffic_source=rss",
+    "pubDate": "Wed, 03 Jun 2026 04:33:22 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-06-03T04:45:02.201Z"
+  },
+  {
+    "title": "Gregg Hull wins New Mexico GOP gubernatorial primary, setting up bid to flip governor’s office",
+    "description": "New Mexico's GOP gubernatorial primary produced a nominee Tuesday as Republicans aim to reclaim the governor's office for the first time since 2019.",
+    "link": "https://www.foxnews.com/politics/gregg-hull-wins-new-mexico-gop-gubernatorial-primary-setting-up-bid-flip-governors-office",
+    "pubDate": "Wed, 03 Jun 2026 00:23:42 -0400",
+    "source": "Fox News",
+    "categories": [
+      "19744d37-5bd5-502a-bfd1-cac82bcdf347",
+      "fnc",
+      "fox news",
+      "fox-news/politics/elections/midterm-elections",
+      "fox-news/us/us-regions/southwest/new-mexico",
+      "fox-news/politics/elections/republicans",
+      "fox-news/politics/elections/gubernatorial",
+      "fox-news/politics/elections/2023/primary-results",
+      "fox-news/politics/state-and-local/governors",
+      "fox-news/politics",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-06-03T04:45:02.201Z"
+  },
+  {
+    "title": "Just about everything goes wrong in Mets’ ugly loss to Mariners",
+    "description": "A challenging schedule awaited the Mets as they departed Queens late Sunday afternoon, and two games into that slate, all is hardly well",
+    "link": "https://nypost.com/2026/06/03/sports/just-about-everything-goes-wrong-in-mets-ugly-loss-to-mariners/",
+    "pubDate": "Wed, 03 Jun 2026 00:44:43 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-03T04:45:02.201Z"
+  },
+  {
+    "title": "Eric Swalwell collects thousands of votes in California governor’s race",
+    "description": "Thousands of California Democrats cast ballots for Eric Swalwell even though the disgraced ex-congressman's zombie campaign for governor was suspended after allegations of rape and sexual assault.",
+    "link": "https://nypost.com/2026/06/03/us-news/eric-swalwell-receives-more-than-15000-votes-for-california-governor/",
+    "pubDate": "Wed, 03 Jun 2026 00:34:32 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-03T04:45:02.201Z"
   }
 ]
