@@ -224,10 +224,10 @@ function formatBroadcastTime(edition, t) {
 
 // ── Attribution ───────────────────────────────────────────────────────────────
 
-export function MapAttribution() {
+export function MapAttribution({ aspect = '16:9' }) {
   return (
     <div style={{
-      position: 'absolute', bottom: 8, left: 10, zIndex: 10,
+      position: 'absolute', bottom: mapAttributionBottom(aspect), left: 10, zIndex: 10,
       color: 'rgba(240,235,224,0.30)', fontSize: 8,
       letterSpacing: 0.4, pointerEvents: 'none',
       fontFamily: 'Source Serif 4, serif',
@@ -263,9 +263,25 @@ export function FadeOverlay({ durationInFrames, preRollS, postRollS }) {
   );
 }
 
+// ── Aspect-aware helpers ──────────────────────────────────────────────────────
+
+export function subtitleFontSize(aspect) {
+  return aspect === '9:16' ? 60 : 40;
+}
+
+export function quoteCalloutHorizontal(aspect) {
+  return aspect === '9:16'
+    ? { left: '50%', transform: 'translateX(-50%)' }
+    : { left: '5%' };
+}
+
+export function mapAttributionBottom(aspect) {
+  return aspect === '9:16' ? 100 : 8;
+}
+
 // ── SubtitleBar ───────────────────────────────────────────────────────────────
 
-export function SubtitleBar({ shots, timestamps, t, preRollS = 1 }) {
+export function SubtitleBar({ shots, timestamps, t, preRollS = 1, aspect = '16:9' }) {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
 
@@ -313,7 +329,7 @@ export function SubtitleBar({ shots, timestamps, t, preRollS = 1 }) {
         {window.map((w, wi) => (
           <span key={winStart + wi} style={{
             fontFamily: 'Source Serif 4, serif',
-            fontSize: 30,
+            fontSize: subtitleFontSize(aspect),
             fontWeight: wi === curInWin ? 600 : 400,
             color: wi === curInWin ? ACCENT : 'rgba(240,235,224,0.75)',
           }}>{w.text}</span>
@@ -385,7 +401,7 @@ export function DataCallout({ text, fromFrame, durationFrames, fadeFrames = 9 })
 
 // ── QuoteCallout ──────────────────────────────────────────────────────────────
 
-export function QuoteCallout({ text, fromFrame, durationFrames, fadeFrames = 9 }) {
+export function QuoteCallout({ text, fromFrame, durationFrames, fadeFrames = 9, aspect = '16:9' }) {
   const frame = useCurrentFrame();
   const opacity = dataCalloutOpacity(frame, fromFrame, durationFrames, fadeFrames);
   if (opacity === 0) return null;
@@ -393,7 +409,7 @@ export function QuoteCallout({ text, fromFrame, durationFrames, fadeFrames = 9 }
   return (
     <div style={{
       position: 'absolute',
-      left: '5%',
+      ...quoteCalloutHorizontal(aspect),
       bottom: 140,
       maxWidth: '45%',
       opacity,

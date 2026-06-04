@@ -18,7 +18,7 @@ vi.mock('remotion', () => ({
   Sequence: ({ children }) => <>{children}</>,
 }));
 
-import { dataCalloutOpacity, QuoteCallout } from '../overlays.jsx';
+import { dataCalloutOpacity, QuoteCallout, subtitleFontSize, quoteCalloutHorizontal, mapAttributionBottom } from '../overlays.jsx';
 
 describe('DataCallout — opacity interpolation', () => {
   const fromFrame      = 100;
@@ -61,5 +61,35 @@ describe('QuoteCallout — opacity interpolation (reuses dataCalloutOpacity)', (
 
   it('opacity is 0 after the overlay ends', () => {
     expect(dataCalloutOpacity(fromFrame + durationFrames + 1, fromFrame, durationFrames, fadeFrames)).toBe(0);
+  });
+});
+
+describe('subtitleFontSize', () => {
+  it('returns 40 for 16:9', () => {
+    expect(subtitleFontSize('16:9')).toBe(40);
+  });
+  it('returns 60 for 9:16', () => {
+    expect(subtitleFontSize('9:16')).toBe(60);
+  });
+  it('defaults to 40 for unrecognised aspect', () => {
+    expect(subtitleFontSize('4:3')).toBe(40);
+  });
+});
+
+describe('quoteCalloutHorizontal', () => {
+  it('returns left 5% for 16:9', () => {
+    expect(quoteCalloutHorizontal('16:9')).toEqual({ left: '5%' });
+  });
+  it('returns centered style for 9:16', () => {
+    expect(quoteCalloutHorizontal('9:16')).toEqual({ left: '50%', transform: 'translateX(-50%)' });
+  });
+});
+
+describe('mapAttributionBottom', () => {
+  it('returns 8 for 16:9', () => {
+    expect(mapAttributionBottom('16:9')).toBe(8);
+  });
+  it('returns 100 for 9:16', () => {
+    expect(mapAttributionBottom('9:16')).toBe(100);
   });
 });
