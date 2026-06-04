@@ -32,12 +32,10 @@ const PLATFORM_DEFS = {
     videoFilter: null,           // pass-through
     thumbTime:  PRE_ROLL_S + 5,  // 5s into first shot
   },
-  // 9:16 vertical — center-crop from the 16:9 master then scale up.
-  // Smart per-shot x-offset is deferred pending shot-list metadata (item 14+).
+  // 9:16 vertical — native 1080 × 1920 render from Broadcast916 composition.
   tiktok: {
     lufs:        -16,
-    // crop(608 × 1080 from centre) → scale(1080 × 1920)
-    videoFilter: 'crop=608:1080:656:0,scale=1080:1920',
+    videoFilter: null,
     thumbTime:   PRE_ROLL_S + 5,
   },
   // 1:1 square — center-crop 1080 × 1080 from the 1920 × 1080 master.
