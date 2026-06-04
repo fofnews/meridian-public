@@ -645,7 +645,7 @@
         {
           "date": "2026-06-04",
           "edition": "morning",
-          "update": "Secretary of State Marco Rubio told a Senate Appropriations subcommittee that the Russia-Ukraine war 'has no military solution' and warned that escalation risk is 'more real than it was two years ago,' citing concerns over increasing long-range exchanges. The U.S. House advanced new sanctions on Russia and aid to Ukraine, with six Republicans and one Independent joining Democrats to force the measure to the floor, bypassing Speaker opposition after GOP leaders had previously blocked the legislation."
+          "update": "Secretary of State Marco Rubio told a Senate Appropriations subcommittee that the Russia-Ukraine war 'has no military solution' and warned that escalation risk is 'more real than it was two years ago,' citing concerns about increasing long-range exchanges. The U.S. House advanced new sanctions on Russia and aid to Ukraine after six Republicans and one Independent joined Democrats to force the measure to the floor, bypassing Speaker opposition. Al Jazeera reported that the Ukrainian strikes near St. Petersburg late Tuesday targeted both an oil facility and a naval air base, with new video of the attacks emerging via NBC News."
         }
       ],
       "parentId": null
@@ -1000,7 +1000,7 @@
         {
           "date": "2026-06-04",
           "edition": "morning",
-          "update": "President Trump publicly confirmed he called Israeli Prime Minister Netanyahu 'f***ing crazy' during a phone call, following an initial report by Axios. Trump stated he wants to keep Lebanon conflict talks separate from Iran negotiations, while Secretary of State Rubio distanced himself from Netanyahu's Gaza plan during House questioning, where Democrats raised concerns about stalled progress on Trump's 20-point Gaza proposal. Israeli strikes on residential buildings in Gaza City killed nine Palestinians, according to Al Jazeera."
+          "update": "The Iranian drone attack on Kuwait's main airport killed one person and injured dozens more, straining the fragile ceasefire. Trump dismissed the latest violence and said a longer-term peace deal could be reached that weekend, according to NBC News."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1435,7 +1435,7 @@
         {
           "date": "2026-06-04",
           "edition": "morning",
-          "update": "Israel and Lebanon agreed to implement a ceasefire, with Hezbollah excluded as a formal party to the agreement but conditioned on halting its attacks. Israel killed 11 people in Lebanon, according to AP News, one day after Trump's de-escalation announcement. Israeli Prime Minister Netanyahu faces declining support among voters in northern Israel who are demanding a tougher stance toward Lebanon, according to Reuters. Lebanon's Health Ministry reports Israeli attacks have killed 3,516 people in the country since March, according to Al Jazeera."
+          "update": "Israel and Lebanon agreed to implement a ceasefire, though Hezbollah was not included in the talks and the agreement is conditional on Hezbollah halting its attacks. Lebanon's Health Ministry reported that Israeli attacks have killed 3,516 people in the country since March. Netanyahu is facing declining support among voters in northern Israel, who are demanding a tougher stance on Lebanon, according to Reuters."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2015,7 +2015,7 @@
         {
           "date": "2026-06-04",
           "edition": "morning",
-          "update": "The U.S. House passed a war powers resolution 215-208 directing the removal of U.S. Armed Forces from hostilities against Iran without congressional authorization — the first such resolution passed since the conflict began. Four Republicans crossed party lines to join Democrats, including Reps. Thomas Massie (Ky.) and Brian Fitzpatrick (Pa.); the resolution is expected to face a presidential veto. Iran launched deadly strikes on U.S. bases in Kuwait on Wednesday, which Tehran described as self-defense; Kuwait's defense ministry condemned the airport attack as 'heinous Iranian aggression' and released CCTV footage as visual evidence. President Trump told reporters he is 'very proud' of the decision to strike Iran and claimed the conflict has not harmed the economy, while the OECD warned that prolonged energy supply disruption from the war could trigger recessions and rising unemployment globally. Gold prices rose amid a softer dollar as investors weighed optimism over potential U.S.-Iran peace developments, and Trump indicated talks with Iran remain ongoing despite the latest strikes."
+          "update": "The House passed a war powers resolution 215-208 on Wednesday to restrict President Trump's authority to engage U.S. forces in hostilities with Iran without congressional approval, marking the first time the House has passed such a resolution since the conflict began. Four Republicans, including Thomas Massie (Ky.) and Brian Fitzpatrick (Pa.), voted with Democrats to pass the measure, though it would likely face a presidential veto even if the Senate approves it. Iran launched deadly strikes on U.S. bases in Kuwait on Wednesday, describing the attacks as self-defense, while Kuwait's defence ministry condemned the airport attack as 'heinous Iranian aggression' and released CCTV footage it says shows the Iranian drone strike. Trump told reporters Wednesday he is 'very proud' of the decision to strike Iran and claimed the war has coincided with record stock market gains, though Reuters reported stocks declined following the latest flare-up of hostilities and the OECD warned a prolonged energy supply disruption could trigger recessions and increased unemployment globally. Trump indicated nuclear talks with Iran remain ongoing despite the strikes. Marc Short, former chief of staff to Vice President Pence, published a Washington Post op-ed warning the war and Trump's trade policy could cost Republicans the support of farmers."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3220,7 +3220,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-06-04",
+      "lastSeen": "2026-06-03",
       "active": true,
       "entries": [
         {
@@ -3317,11 +3317,6 @@
           "date": "2026-06-03",
           "edition": "evening",
           "update": "WTI crude futures rose for a third consecutive day, gaining nearly 10% over three sessions, as hopes for a quick peace deal faded, according to the Wall Street Journal. Secretary of State Rubio told lawmakers that the war on Iran is over, amid reports of recent strikes hitting Iran, Kuwait, and Bahrain."
-        },
-        {
-          "date": "2026-06-04",
-          "edition": "morning",
-          "update": "More oil shipments are passing through the Strait of Hormuz, according to Reuters, leaving energy traders uncertain about supply flows through the waterway."
         }
       ]
     },
@@ -3521,7 +3516,7 @@
         {
           "date": "2026-06-04",
           "edition": "morning",
-          "update": "U.S. equipment and experts arrived at the Kenya Ebola facility despite an existing court order and ongoing protests against the installation, according to Reuters."
+          "update": "U.S. equipment and experts arrived at the Kenya Ebola facility despite an existing court order and ongoing protests against the site, according to Reuters. Global health officials warned that response efforts to the ongoing DRC outbreak are still falling short, stating 'we're still behind.'"
         }
       ]
     },
@@ -3631,5 +3626,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-04T11:08:35.828Z"
+  "updatedAt": "2026-06-04T11:08:41.857Z"
 }
