@@ -379,7 +379,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-03",
+      "lastSeen": "2026-06-04",
       "active": true,
       "entries": [
         {
@@ -641,6 +641,11 @@
           "date": "2026-06-03",
           "edition": "evening",
           "update": "Ukrainian drones struck an oil or energy facility in St. Petersburg as Vladimir Putin's annual St. Petersburg International Economic Forum was opening, with black smoke visible over the city."
+        },
+        {
+          "date": "2026-06-04",
+          "edition": "morning",
+          "update": "Secretary of State Marco Rubio told a Senate Appropriations subcommittee that the Russia-Ukraine war 'has no military solution' and warned that escalation risk is 'more real than it was two years ago,' citing concerns over increasing long-range exchanges. The U.S. House advanced new sanctions on Russia and aid to Ukraine, with six Republicans and one Independent joining Democrats to force the measure to the floor, bypassing Speaker opposition after GOP leaders had previously blocked the legislation."
         }
       ],
       "parentId": null
@@ -784,7 +789,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-02",
+      "lastSeen": "2026-06-04",
       "active": true,
       "entries": [
         {
@@ -991,6 +996,11 @@
           "date": "2026-06-02",
           "edition": "evening",
           "update": "Eight Muslim countries, including the UAE, issued a joint statement condemning Israel after approximately 200 hard-line Israeli activists stormed the al-Aqsa mosque on Sunday and raised the Israeli flag at the site."
+        },
+        {
+          "date": "2026-06-04",
+          "edition": "morning",
+          "update": "President Trump publicly confirmed he called Israeli Prime Minister Netanyahu 'f***ing crazy' during a phone call, following an initial report by Axios. Trump stated he wants to keep Lebanon conflict talks separate from Iran negotiations, while Secretary of State Rubio distanced himself from Netanyahu's Gaza plan during House questioning, where Democrats raised concerns about stalled progress on Trump's 20-point Gaza proposal. Israeli strikes on residential buildings in Gaza City killed nine Palestinians, according to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1109,7 +1119,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-03",
+      "lastSeen": "2026-06-04",
       "active": true,
       "entries": [
         {
@@ -1421,6 +1431,11 @@
           "date": "2026-06-03",
           "edition": "evening",
           "update": "Hezbollah launched rockets at Israel, testing the durability of the U.S.-mediated partial ceasefire, while Israeli strikes killed nine people in Lebanon, straining the agreement reached earlier in the week. Analysts cited by Al Jazeera said France is seeking to reassert its diminishing regional influence through its involvement in Lebanon's future."
+        },
+        {
+          "date": "2026-06-04",
+          "edition": "morning",
+          "update": "Israel and Lebanon agreed to implement a ceasefire, with Hezbollah excluded as a formal party to the agreement but conditioned on halting its attacks. Israel killed 11 people in Lebanon, according to AP News, one day after Trump's de-escalation announcement. Israeli Prime Minister Netanyahu faces declining support among voters in northern Israel who are demanding a tougher stance toward Lebanon, according to Reuters. Lebanon's Health Ministry reports Israeli attacks have killed 3,516 people in the country since March, according to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1429,7 +1444,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-03",
+      "lastSeen": "2026-06-04",
       "active": true,
       "entries": [
         {
@@ -1996,6 +2011,11 @@
           "date": "2026-06-03",
           "edition": "evening",
           "update": "The U.S. House is set to vote on a measure directing President Trump to halt military engagement in Iran, after Republican leaders can no longer delay the vote. The European Commission warned the EU could lose 1.3 million jobs due to energy price surges linked to the conflict. Rep. Ashley Hinson stated in audio obtained by CBS News that the conflict could become a political liability if it extends beyond the next few weeks. National Review characterized the subsequent ceasefire as a disappointment for the Trump administration despite describing the conflict itself as a tactical triumph."
+        },
+        {
+          "date": "2026-06-04",
+          "edition": "morning",
+          "update": "The U.S. House passed a war powers resolution 215-208 directing the removal of U.S. Armed Forces from hostilities against Iran without congressional authorization — the first such resolution passed since the conflict began. Four Republicans crossed party lines to join Democrats, including Reps. Thomas Massie (Ky.) and Brian Fitzpatrick (Pa.); the resolution is expected to face a presidential veto. Iran launched deadly strikes on U.S. bases in Kuwait on Wednesday, which Tehran described as self-defense; Kuwait's defense ministry condemned the airport attack as 'heinous Iranian aggression' and released CCTV footage as visual evidence. President Trump told reporters he is 'very proud' of the decision to strike Iran and claimed the conflict has not harmed the economy, while the OECD warned that prolonged energy supply disruption from the war could trigger recessions and rising unemployment globally. Gold prices rose amid a softer dollar as investors weighed optimism over potential U.S.-Iran peace developments, and Trump indicated talks with Iran remain ongoing despite the latest strikes."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2800,7 +2820,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-03",
+      "lastSeen": "2026-06-04",
       "active": true,
       "entries": [
         {
@@ -3200,7 +3220,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-06-03",
+      "lastSeen": "2026-06-04",
       "active": true,
       "entries": [
         {
@@ -3297,6 +3317,11 @@
           "date": "2026-06-03",
           "edition": "evening",
           "update": "WTI crude futures rose for a third consecutive day, gaining nearly 10% over three sessions, as hopes for a quick peace deal faded, according to the Wall Street Journal. Secretary of State Rubio told lawmakers that the war on Iran is over, amid reports of recent strikes hitting Iran, Kuwait, and Bahrain."
+        },
+        {
+          "date": "2026-06-04",
+          "edition": "morning",
+          "update": "More oil shipments are passing through the Strait of Hormuz, according to Reuters, leaving energy traders uncertain about supply flows through the waterway."
         }
       ]
     },
@@ -3375,7 +3400,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-06-03",
+      "lastSeen": "2026-06-04",
       "active": true,
       "entries": [
         {
@@ -3492,6 +3517,11 @@
           "date": "2026-06-03",
           "edition": "evening",
           "update": "Secretary of State Rubio rejected accusations that Trump administration funding cuts contributed to the Ebola outbreak, as health workers blamed U.S. cutbacks for enabling the crisis. The mayor of La Línea de la Concepción, Spain, banned a planned friendly football match between DR Congo and Chile over Ebola health concerns."
+        },
+        {
+          "date": "2026-06-04",
+          "edition": "morning",
+          "update": "U.S. equipment and experts arrived at the Kenya Ebola facility despite an existing court order and ongoing protests against the installation, according to Reuters."
         }
       ]
     },
@@ -3601,5 +3631,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-03T21:08:57.141Z"
+  "updatedAt": "2026-06-04T11:08:35.828Z"
 }
