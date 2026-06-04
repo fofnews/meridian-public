@@ -49,6 +49,9 @@ const edition      = args['edition'];
 const maxDuration  = args['max-duration'] ?? '360';
 const aspect       = args['aspect']       ?? '16:9';
 const platforms    = args['platforms']    ?? 'youtube,tiktok';
+const platformList        = platforms.split(',').map(s => s.trim());
+const hasTiktok           = platformList.includes('tiktok');
+const nonTiktokPlatforms  = platformList.filter(p => p !== 'tiktok');
 const bed          = args['bed']          ?? null;
 const timings      = args['timings']      ?? null;
 const noAnchored   = args['no-anchored']   ?? null;
@@ -141,57 +144,75 @@ run('synthesize-narration', 'node', [
   ...anchorFlags,
 ]);
 
-// ── Stage 3: remotion render ──────────────────────────────────────────────────
+// ── Stage 3: remotion render(s) ──────────────────────────────────────────────
 
 banner('3 / 4', `remotion render  edition=${edition}`);
 
-// Start an isolated static server on a free ephemeral port. This serves the
-// three asset trees Remotion fetches (public/, out/shotlists/, out/audio/)
-// independently of server.js on :3002, so cron restarts of the dev server
-// cannot interrupt an in-flight render.
 const { port: renderPort, close: closeRenderServer } = await startRenderServer({ rootDir: ROOT });
 console.log(`  ✓ Render server listening on :${renderPort}`);
 
-const rawPath = join(ROOT, 'out', 'raw', `${edition}.mp4`);
 mkdirSync(join(ROOT, 'out', 'raw'), { recursive: true });
 
-// On Windows, .bin/remotion is a bash script — use the .cmd wrapper instead.
+const rawPath     = join(ROOT, 'out', 'raw', `${edition}.mp4`);
+const raw9x16Path = join(ROOT, 'out', 'raw', `${edition}-9x16.mp4`);
+
 const remotionBin = process.platform === 'win32'
   ? join(ROOT, 'node_modules', '.bin', 'remotion.cmd')
   : join(ROOT, 'node_modules', '.bin', 'remotion');
 
-// Pass props via a JSON file — inline --props JSON breaks on Windows CMD
-// because CMD strips the double quotes from the value.
-const propsPath = join(ROOT, 'out', `remotion-props-${edition}.json`);
-writeFileSync(propsPath, JSON.stringify({ edition, aspect, port: renderPort, mapboxToken: process.env.MAPBOX_TOKEN_RENDER ?? process.env.VITE_MAPBOX_TOKEN ?? '' }));
-
-// Use runAsync so the event loop stays live and the render server above
-// can accept Chromium's fetch requests during the render.
+const propsFiles = [];
 let renderError = null;
 try {
-  await runAsync('record', remotionBin, [
-    'render',
-    'Broadcast',
-    `--props=${propsPath}`,
-    '--output', rawPath,
-    '--concurrency', '1',
-    '--log', 'verbose',
-  ], { shell: process.platform === 'win32' });
+  // 3a: 16:9 render — skipped only when tiktok is the sole platform.
+  if (nonTiktokPlatforms.length > 0) {
+    const propsPath = join(ROOT, 'out', `remotion-props-${edition}.json`);
+    propsFiles.push(propsPath);
+    writeFileSync(propsPath, JSON.stringify({
+      edition, aspect: '16:9', port: renderPort,
+      mapboxToken: process.env.MAPBOX_TOKEN_RENDER ?? process.env.VITE_MAPBOX_TOKEN ?? '',
+    }));
+    await runAsync('record-16x9', remotionBin, [
+      'render', 'Broadcast',
+      `--props=${propsPath}`,
+      '--output', rawPath,
+      '--concurrency', '1', '--log', 'verbose',
+    ], { shell: process.platform === 'win32' });
+  }
+
+  // 3b: 9:16 render — only when tiktok is in platforms.
+  if (hasTiktok) {
+    const props9x16Path = join(ROOT, 'out', `remotion-props-${edition}-9x16.json`);
+    propsFiles.push(props9x16Path);
+    writeFileSync(props9x16Path, JSON.stringify({
+      edition, aspect: '9:16', port: renderPort,
+      mapboxToken: process.env.MAPBOX_TOKEN_RENDER ?? process.env.VITE_MAPBOX_TOKEN ?? '',
+    }));
+    await runAsync('record-9x16', remotionBin, [
+      'render', 'Broadcast916',
+      `--props=${props9x16Path}`,
+      '--output', raw9x16Path,
+      '--concurrency', '1', '--log', 'verbose',
+    ], { shell: process.platform === 'win32' });
+  }
 } catch (err) {
   renderError = err;
 }
 
 await closeRenderServer();
 console.log('  Render server closed.');
-try { unlinkSync(propsPath); } catch {}
+for (const f of propsFiles) { try { unlinkSync(f); } catch {} }
 
 if (renderError) {
   console.error(`\n✗ ${renderError.message}`);
   process.exit(renderError.status ?? 1);
 }
 
-if (!existsSync(rawPath)) {
+if (nonTiktokPlatforms.length > 0 && !existsSync(rawPath)) {
   console.error(`✗ remotion render did not produce ${rawPath}`);
+  process.exit(1);
+}
+if (hasTiktok && !existsSync(raw9x16Path)) {
+  console.error(`✗ remotion render did not produce ${raw9x16Path}`);
   process.exit(1);
 }
 
@@ -199,14 +220,26 @@ if (!existsSync(rawPath)) {
 
 banner('4 / 4', `finalize-clip  edition=${edition}  platforms=${platforms}`);
 
-const finalArgs = [
-  join(SCRIPTS, 'finalize-clip.js'),
-  `--edition=${edition}`,
-  `--platforms=${platforms}`,
-  ...(bed ? [`--bed=${bed}`] : []),
-];
+// 4a: finalize non-tiktok platforms with the 16:9 master.
+if (nonTiktokPlatforms.length > 0) {
+  run('finalize-16x9', 'node', [
+    join(SCRIPTS, 'finalize-clip.js'),
+    `--edition=${edition}`,
+    `--platforms=${nonTiktokPlatforms.join(',')}`,
+    ...(bed ? [`--bed=${bed}`] : []),
+  ]);
+}
 
-run('finalize-clip', 'node', finalArgs);
+// 4b: finalize tiktok with the native 9:16 master.
+if (hasTiktok) {
+  run('finalize-tiktok', 'node', [
+    join(SCRIPTS, 'finalize-clip.js'),
+    `--edition=${edition}`,
+    `--platforms=tiktok`,
+    `--video=${raw9x16Path}`,
+    ...(bed ? [`--bed=${bed}`] : []),
+  ]);
+}
 
 // ── Summary ───────────────────────────────────────────────────────────────────
 
@@ -216,7 +249,6 @@ console.log('═'.repeat(60));
 console.log(`  Shotlist : ${shotlistPath}`);
 console.log(`  Raw clip : ${rawPath}`);
 
-const platformList = platforms.split(',').map(s => s.trim());
 for (const p of platformList) {
   const mp4   = join(ROOT, 'out', 'final', `${edition}-${p}.mp4`);
   const thumb = join(ROOT, 'out', 'final', `${edition}-${p}-thumb.png`);
