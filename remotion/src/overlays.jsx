@@ -185,11 +185,10 @@ export function Ticker({ shots }) {
   );
 }
 
-// ── TopBar (wordmark + LIVE badge + clock) ────────────────────────────────────
+// ── TopBar (wordmark + date) ──────────────────────────────────────────────────
 
 export function TopBar({ edition, t }) {
-  // Derive a broadcast time from edition string + elapsed seconds.
-  const [dateStr, timeStr] = formatBroadcastTime(edition, t);
+  const [dateStr] = formatBroadcastTime(edition, t);
   return (
     <div style={{
       position: 'absolute', top: 0, left: 0, right: 0,
@@ -203,17 +202,8 @@ export function TopBar({ edition, t }) {
       }}>
         The Meridian
       </div>
-      <div style={{
-        background: '#c0392b', color: '#fff',
-        fontFamily: 'Source Serif 4, serif',
-        fontWeight: 600, fontSize: 11,
-        letterSpacing: 2, textTransform: 'uppercase',
-        padding: '3px 10px',
-      }}>
-        Live
-      </div>
       <div style={{ color: TEXT_55, fontSize: 11, letterSpacing: 1, fontFamily: 'Source Serif 4, serif' }}>
-        {dateStr}  ·  {timeStr} ET
+        {dateStr}
       </div>
     </div>
   );
