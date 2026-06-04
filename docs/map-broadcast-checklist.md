@@ -2,7 +2,7 @@
 
 Goal: turn `BroadcastHero`'s Mapbox map from an interactive info widget into a video-grade backdrop for news clips generated from Meridian reports, then build the recording pipeline that turns each daily edition into publishable video.
 
-**Status:** 23 / 23 complete · Last updated: 2026-06-01
+**Status:** 23 / 23 complete · Last updated: 2026-06-03
 
 To resume work in a new session: ask Claude to read `docs/map-broadcast-checklist.md`.
 
@@ -219,5 +219,24 @@ Root problem: even-spacing camera moves (`hold / N` partitions) caused the map t
 **Constants:** `LEAD_TIME_S: 0.4`, `MIN_DWELL_S: 1.8`, `MERGE_SAME_LOCATION_S: 4`. All overridable via `--lead-time`, `--min-dwell` CLI flags. `--no-anchored` disables re-anchoring; `--debug-anchors` prints per-shot match diagnostics.
 
 **Fallback:** shots with no ElevenLabs timestamps (OpenAI fallback, dry-run, TTS error) keep their uniform cameraPath unchanged.
+
+### 2026-06-02 — Subtitles, quote callout, and map pin labels
+
+Three new visual features layered on top of the ElevenLabs timestamps infrastructure from 2026-06-01.
+
+**Subtitles (`SubtitleBar` in `overlays.jsx`):**
+- `remotion/src/subtitles.js` — pure `tokenizeWords(ts)` and `getActiveWord(words, tInShot)`. Splits ElevenLabs character array into `{ text, start, end }` word tokens; `getActiveWord` returns the most-recently-started word index.
+- `calculateMetadata` in `Broadcast.jsx` now fetches all `shot-N.timestamps.json` sidecars in parallel and passes them as a `timestamps` prop.
+- `SubtitleBar` renders a 7-word sliding window centred on the current word; current word in ACCENT gold, context words in dim white. 9-frame fade at shot boundaries. Silently renders nothing for shots without ElevenLabs timestamps.
+- Positioning: `bottom: 110` (above chyron), `fontSize: 30`. *(Originally shipped at `bottom: 16, fontSize: 20` — overlapped chyron; fixed 2026-06-03.)*
+
+**Map pin label (`location-label` Mapbox symbol layer):**
+- Added to `useRemotionMap.js` on style load: GeoJSON source + `symbol` layer using Playfair Display Bold, 16px, gold text with dark halo.
+- Broadcast.jsx updates the source data on each waypoint change: shows the location name for `highlight.type === 'state' | 'city'` shots, hides it for country and globe shots.
+
+**Quote callout (`QuoteCallout` in `overlays.jsx`):**
+- `findQuoteOverlays({ narration, timestamps, shotHold })` added to `scripts/anchor-finder.js`: scans narration for `"quoted phrases"`, locates inner text in `normalized_text` via case-insensitive indexOf (with a rolling `searchOffset` to handle repeated quotes), emits `{ type: 'quote-callout', text, tOffset, durationMs }` overlays. Minimum 3-char span; minimum 1500ms display; clamps to shot boundary.
+- Wired into `scripts/synthesize-narration.js` — runs for every ElevenLabs shot regardless of storyIndex, merges into `shot.overlays[]` alongside any `data-callout` entries.
+- `QuoteCallout` component: left-side card (`left: 5%`, `bottom: 140`), max 45% width, gold left border, oversized opening quote mark, italic 18px serif body text. Reuses `dataCalloutOpacity` for fade.
 
 **Precision fix:** tOffset / hold / elapsed now stored at 3dp (was 1dp), preventing ~50ms timing drift per shot.
