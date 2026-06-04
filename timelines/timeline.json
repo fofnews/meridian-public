@@ -379,7 +379,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-03",
+      "lastSeen": "2026-06-04",
       "active": true,
       "entries": [
         {
@@ -641,6 +641,11 @@
           "date": "2026-06-03",
           "edition": "evening",
           "update": "Ukrainian drones struck an oil or energy facility in St. Petersburg as Vladimir Putin's annual St. Petersburg International Economic Forum was opening, with black smoke visible over the city."
+        },
+        {
+          "date": "2026-06-04",
+          "edition": "morning",
+          "update": "Secretary of State Marco Rubio told a Senate Appropriations subcommittee that the Russia-Ukraine war 'has no military solution' and warned that escalation risk is 'more real than it was two years ago,' citing concerns about increasing long-range exchanges. The U.S. House advanced new sanctions on Russia and aid to Ukraine after six Republicans and one Independent joined Democrats to force the measure to the floor, bypassing Speaker opposition. Al Jazeera reported that the Ukrainian strikes near St. Petersburg late Tuesday targeted both an oil facility and a naval air base, with new video of the attacks emerging via NBC News."
         }
       ],
       "parentId": null
@@ -784,7 +789,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-02",
+      "lastSeen": "2026-06-04",
       "active": true,
       "entries": [
         {
@@ -991,6 +996,11 @@
           "date": "2026-06-02",
           "edition": "evening",
           "update": "Eight Muslim countries, including the UAE, issued a joint statement condemning Israel after approximately 200 hard-line Israeli activists stormed the al-Aqsa mosque on Sunday and raised the Israeli flag at the site."
+        },
+        {
+          "date": "2026-06-04",
+          "edition": "morning",
+          "update": "The Iranian drone attack on Kuwait's main airport killed one person and injured dozens more, straining the fragile ceasefire. Trump dismissed the latest violence and said a longer-term peace deal could be reached that weekend, according to NBC News."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1109,7 +1119,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-03",
+      "lastSeen": "2026-06-04",
       "active": true,
       "entries": [
         {
@@ -1421,6 +1431,11 @@
           "date": "2026-06-03",
           "edition": "evening",
           "update": "Hezbollah launched rockets at Israel, testing the durability of the U.S.-mediated partial ceasefire, while Israeli strikes killed nine people in Lebanon, straining the agreement reached earlier in the week. Analysts cited by Al Jazeera said France is seeking to reassert its diminishing regional influence through its involvement in Lebanon's future."
+        },
+        {
+          "date": "2026-06-04",
+          "edition": "morning",
+          "update": "Israel and Lebanon agreed to implement a ceasefire, though Hezbollah was not included in the talks and the agreement is conditional on Hezbollah halting its attacks. Lebanon's Health Ministry reported that Israeli attacks have killed 3,516 people in the country since March. Netanyahu is facing declining support among voters in northern Israel, who are demanding a tougher stance on Lebanon, according to Reuters."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1429,7 +1444,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-03",
+      "lastSeen": "2026-06-04",
       "active": true,
       "entries": [
         {
@@ -1996,6 +2011,11 @@
           "date": "2026-06-03",
           "edition": "evening",
           "update": "The U.S. House is set to vote on a measure directing President Trump to halt military engagement in Iran, after Republican leaders can no longer delay the vote. The European Commission warned the EU could lose 1.3 million jobs due to energy price surges linked to the conflict. Rep. Ashley Hinson stated in audio obtained by CBS News that the conflict could become a political liability if it extends beyond the next few weeks. National Review characterized the subsequent ceasefire as a disappointment for the Trump administration despite describing the conflict itself as a tactical triumph."
+        },
+        {
+          "date": "2026-06-04",
+          "edition": "morning",
+          "update": "The House passed a war powers resolution 215-208 on Wednesday to restrict President Trump's authority to engage U.S. forces in hostilities with Iran without congressional approval, marking the first time the House has passed such a resolution since the conflict began. Four Republicans, including Thomas Massie (Ky.) and Brian Fitzpatrick (Pa.), voted with Democrats to pass the measure, though it would likely face a presidential veto even if the Senate approves it. Iran launched deadly strikes on U.S. bases in Kuwait on Wednesday, describing the attacks as self-defense, while Kuwait's defence ministry condemned the airport attack as 'heinous Iranian aggression' and released CCTV footage it says shows the Iranian drone strike. Trump told reporters Wednesday he is 'very proud' of the decision to strike Iran and claimed the war has coincided with record stock market gains, though Reuters reported stocks declined following the latest flare-up of hostilities and the OECD warned a prolonged energy supply disruption could trigger recessions and increased unemployment globally. Trump indicated nuclear talks with Iran remain ongoing despite the strikes. Marc Short, former chief of staff to Vice President Pence, published a Washington Post op-ed warning the war and Trump's trade policy could cost Republicans the support of farmers."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2800,7 +2820,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-03",
+      "lastSeen": "2026-06-04",
       "active": true,
       "entries": [
         {
@@ -3375,7 +3395,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-06-03",
+      "lastSeen": "2026-06-04",
       "active": true,
       "entries": [
         {
@@ -3492,6 +3512,11 @@
           "date": "2026-06-03",
           "edition": "evening",
           "update": "Secretary of State Rubio rejected accusations that Trump administration funding cuts contributed to the Ebola outbreak, as health workers blamed U.S. cutbacks for enabling the crisis. The mayor of La Línea de la Concepción, Spain, banned a planned friendly football match between DR Congo and Chile over Ebola health concerns."
+        },
+        {
+          "date": "2026-06-04",
+          "edition": "morning",
+          "update": "U.S. equipment and experts arrived at the Kenya Ebola facility despite an existing court order and ongoing protests against the site, according to Reuters. Global health officials warned that response efforts to the ongoing DRC outbreak are still falling short, stating 'we're still behind.'"
         }
       ]
     },
@@ -3601,5 +3626,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-03T21:08:57.141Z"
+  "updatedAt": "2026-06-04T11:08:41.857Z"
 }
