@@ -47,7 +47,7 @@ const args = Object.fromEntries(
 
 const edition      = args['edition'];
 const maxDuration  = args['max-duration'] ?? '360';
-const aspect       = args['aspect']       ?? '16:9';
+const aspect       = args['aspect']       ?? '16:9'; // forwarded to build-shotlist only; render aspect is derived from --platforms
 const platforms    = args['platforms']    ?? 'youtube,tiktok';
 const platformList        = platforms.split(',').map(s => s.trim());
 const hasTiktok           = platformList.includes('tiktok');
@@ -247,7 +247,7 @@ console.log(`\n${'═'.repeat(60)}`);
 console.log('  DONE');
 console.log('═'.repeat(60));
 console.log(`  Shotlist : ${shotlistPath}`);
-console.log(`  Raw clip : ${rawPath}`);
+if (nonTiktokPlatforms.length > 0) console.log(`  Raw clip : ${rawPath}`);
 
 for (const p of platformList) {
   const mp4   = join(ROOT, 'out', 'final', `${edition}-${p}.mp4`);
