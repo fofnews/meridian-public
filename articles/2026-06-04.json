@@ -439,5 +439,45 @@
     "source": "CBS News",
     "categories": [],
     "collectedAt": "2026-06-04T06:15:01.353Z"
+  },
+  {
+    "title": "New World Screwworm Found In Texas: What It Means For US, Beef Prices",
+    "description": "Texas has established a 12-mile quarantine zone around a calf that was infested by a New World screwworm in La Pryor.",
+    "link": "https://www.newsweek.com/new-world-screwworm-found-in-texas-what-it-means-for-us-beef-prices-la-pryor-12030065",
+    "pubDate": "Thu, 04 Jun 2026 02:27:37 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-04T06:30:01.329Z"
+  },
+  {
+    "title": "World Cup 2026: FIFA bans fans from bringing reusable bottles to stadiums",
+    "description": "Football's governing body makes a last-minute U-turn on its stadium code of conduct.",
+    "link": "https://www.aljazeera.com/sports/2026/6/4/world-cup-2026-fifa-bans-fans-reusable-bottles-stadiums-venues-football?traffic_source=rss",
+    "pubDate": "Thu, 04 Jun 2026 06:01:31 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-06-04T06:30:01.329Z"
+  },
+  {
+    "title": "Albino buffalo nicknamed 'Donald Trump' becomes sensation at Bangladesh's national zoo for its blond hair",
+    "description": "A rare albino buffalo nicknamed \"Donald Trump\" has become a sensation at Bangladesh's national zoo thanks to its blond hair resembling the president.",
+    "link": "https://www.foxnews.com/world/albino-buffalo-nicknamed-donald-trump-becomes-sensation-bangladeshs-national-zoo-blond-hair",
+    "pubDate": "Thu, 04 Jun 2026 02:05:36 -0400",
+    "source": "Fox News",
+    "categories": [
+      "19a7ac2f-1736-5ce9-9514-1946924f2b9d",
+      "fnc",
+      "fox news",
+      "fox-news/person/donald-trump",
+      "fox-news/science/wild-nature",
+      "fox-news/endangered-species",
+      "fox-news/odd-news",
+      "fox-news/entertainment/genres/viral",
+      "fox-news/world",
+      "article"
+    ],
+    "collectedAt": "2026-06-04T06:30:01.329Z"
   }
 ]
