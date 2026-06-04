@@ -151,22 +151,81 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
 
   if (!shotlist) return <AbsoluteFill style={{ background: '#000' }} />;
 
+  // Overlay sequences shared between both layouts.
+  const overlaySequences = shotlist.shots.flatMap((shot, i) =>
+    (shot.overlays ?? []).map((ov, j) => {
+      const fromFrame    = Math.round((PRE_ROLL_S + shot.t + ov.tOffset) * fps);
+      const shotEndFrame = Math.round((PRE_ROLL_S + shot.t + shot.hold) * fps);
+      const durFrames    = Math.min(
+        Math.round((ov.durationMs / 1000) * fps),
+        shotEndFrame - fromFrame,
+      );
+      if (durFrames <= 0) return null;
+      return (
+        <Sequence key={`${i}-${j}`} from={fromFrame} durationInFrames={durFrames}>
+          {ov.type === 'data-callout' && (
+            <DataCallout text={ov.text} fromFrame={fromFrame} durationFrames={durFrames} />
+          )}
+          {ov.type === 'quote-callout' && (
+            <QuoteCallout text={ov.text} fromFrame={fromFrame} durationFrames={durFrames} aspect={aspect} />
+          )}
+        </Sequence>
+      );
+    })
+  );
+
+  const audioSequences = shotlist.shots.map((shot, i) => (
+    <Sequence key={i} from={Math.round((PRE_ROLL_S + shot.t) * fps)} durationInFrames={Math.round(shot.hold * fps)}>
+      <Audio src={`http://localhost:${port}/out/audio/${edition}/shot-${i}.wav`} />
+    </Sequence>
+  ));
+
+  const fadeOverlay = (
+    <FadeOverlay
+      durationInFrames={durationInFrames}
+      preRollS={PRE_ROLL_S}
+      postRollS={POST_ROLL_S}
+    />
+  );
+
+  // ── 9:16 full-bleed layout ────────────────────────────────────────────────
+  if (aspect === '9:16') {
+    return (
+      <AbsoluteFill style={{ background: '#000' }}>
+        <div ref={mapContainer} style={{ position: 'absolute', inset: 0, width: '100%', height: '100%' }} />
+        <TopBar edition={edition} t={t} />
+        <MapAttribution aspect={aspect} />
+        <RemotionFilmGrain opacity={0.055} />
+        <SubtitleBar shots={shotlist.shots} timestamps={timestamps} t={t} preRollS={PRE_ROLL_S} aspect={aspect} />
+        <div style={{ position: 'absolute', bottom: 0, left: 0, right: 0 }}>
+          <Ticker shots={shotlist.shots} />
+          <Chyron
+            shots={shotlist.shots}
+            t={t}
+            preRollS={PRE_ROLL_S}
+            durationInFrames={durationInFrames}
+          />
+        </div>
+        {overlaySequences}
+        {fadeOverlay}
+        {audioSequences}
+      </AbsoluteFill>
+    );
+  }
+
+  // ── 16:9 layout (unchanged) ───────────────────────────────────────────────
   return (
     <AbsoluteFill style={{ background: '#000', display: 'flex', flexDirection: 'column' }}>
-
-      {/* Map area — flex: 1 so it fills whatever height remains after the overlays */}
       <div style={{ position: 'relative', width: '100%', flex: 1, overflow: 'hidden' }}>
         <div
           ref={mapContainer}
           style={{ position: 'absolute', inset: 0, width: '100%', height: '100%' }}
         />
         <TopBar edition={edition} t={t} />
-        <MapAttribution />
+        <MapAttribution aspect={aspect} />
         <RemotionFilmGrain opacity={0.055} />
-        <SubtitleBar shots={shotlist.shots} timestamps={timestamps} t={t} preRollS={PRE_ROLL_S} />
+        <SubtitleBar shots={shotlist.shots} timestamps={timestamps} t={t} preRollS={PRE_ROLL_S} aspect={aspect} />
       </div>
-
-      {/* Ticker + chyron below map */}
       <div style={{ flexShrink: 0 }}>
         <Ticker shots={shotlist.shots} />
         <Chyron
@@ -176,45 +235,9 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
           durationInFrames={durationInFrames}
         />
       </div>
-
-      {/* Per-shot data overlays (data-callout type) */}
-      {shotlist.shots.flatMap((shot, i) =>
-        (shot.overlays ?? []).map((ov, j) => {
-          const fromFrame   = Math.round((PRE_ROLL_S + shot.t + ov.tOffset) * fps);
-          const shotEndFrame = Math.round((PRE_ROLL_S + shot.t + shot.hold) * fps);
-          const durFrames   = Math.min(
-            Math.round((ov.durationMs / 1000) * fps),
-            shotEndFrame - fromFrame,
-          );
-          if (durFrames <= 0) return null;
-          return (
-            <Sequence key={`${i}-${j}`} from={fromFrame} durationInFrames={durFrames}>
-              {ov.type === 'data-callout' && (
-                <DataCallout text={ov.text} fromFrame={fromFrame} durationFrames={durFrames} />
-              )}
-              {ov.type === 'quote-callout' && (
-                <QuoteCallout text={ov.text} fromFrame={fromFrame} durationFrames={durFrames} />
-              )}
-            </Sequence>
-          );
-        })
-      )}
-
-      {/* Pre-roll / post-roll black fade — sits on top of everything */}
-      <FadeOverlay
-        durationInFrames={durationInFrames}
-        preRollS={PRE_ROLL_S}
-        postRollS={POST_ROLL_S}
-      />
-
-      {/* Per-shot narration audio — Sequence delays playback to the right
-          timeline position; Audio without startFrom plays from its beginning. */}
-      {shotlist.shots.map((shot, i) => (
-        <Sequence key={i} from={Math.round((PRE_ROLL_S + shot.t) * fps)} durationInFrames={Math.round(shot.hold * fps)}>
-          <Audio src={`http://localhost:${port}/out/audio/${edition}/shot-${i}.wav`} />
-        </Sequence>
-      ))}
-
+      {overlaySequences}
+      {fadeOverlay}
+      {audioSequences}
     </AbsoluteFill>
   );
 }
