@@ -12,7 +12,7 @@
 //
 // Output:
 //   out/final/<edition>-youtube.mp4        16:9, −14 LUFS
-//   out/final/<edition>-tiktok.mp4         9:16 crop, −16 LUFS
+//   out/final/<edition>-tiktok.mp4         9:16 native render, −16 LUFS
 //   out/final/<edition>-<platform>-thumb.png
 
 import { existsSync, mkdirSync } from 'fs';
