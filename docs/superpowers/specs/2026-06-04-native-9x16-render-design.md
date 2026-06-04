@@ -33,7 +33,7 @@ These apply to both formats via `remotion/src/overlays.jsx`:
 
 - **Remove LIVE badge** from `TopBar`
 - **Remove time** from `TopBar` — show date only (e.g. `JUN 4, 2026`)
-- These do **not** affect `BroadcastStage.jsx` (the website component) — the website keeps LIVE and the clock
+- The website (`MapHero.jsx`, `BroadcastPanel.jsx`) has no LIVE badge — this is a clean removal from the Remotion overlays only
 
 ## Per-Format Differences
 
