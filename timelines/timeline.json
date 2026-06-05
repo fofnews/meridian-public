@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-04",
+      "lastSeen": "2026-06-05",
       "active": true,
       "entries": [
         {
@@ -256,6 +256,11 @@
           "date": "2026-06-04",
           "edition": "evening",
           "update": "The House Oversight Committee released transcripts of interviews related to the Epstein files on Thursday. Chairman James Comer separately requested the DOJ investigate allegations of sexual abuse by individuals in Jeffrey Epstein's orbit, based on claims made by a former Epstein assistant."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "morning",
+          "update": "The House Oversight Committee released the transcript of Pam Bondi's closed-door interview on Thursday. Sen. Ron Wyden launched a separate inquiry into why billionaire Leon Black paid Jeffrey Epstein $170 million for alleged tax planning services. A former correction officer testified before the committee that she was not the unidentified orange shape seen moving outside Epstein's cell tier on the night of his death."
         }
       ],
       "parentId": null
@@ -264,7 +269,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-04",
+      "lastSeen": "2026-06-05",
       "active": true,
       "entries": [
         {
@@ -381,6 +386,11 @@
           "date": "2026-06-04",
           "edition": "evening",
           "update": "The IAEA released its first report on Iran's nuclear programme since February, finding little change in the programme despite the ongoing conflict in the region, according to Reuters."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "morning",
+          "update": "The IAEA reiterated this week that Iran's suspension of cooperation with the agency has prevented inspectors from fully monitoring Iran's nuclear program since 2025, blocking oversight of its nuclear activities."
         }
       ],
       "parentId": null
@@ -389,7 +399,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-04",
+      "lastSeen": "2026-06-05",
       "active": true,
       "entries": [
         {
@@ -661,6 +671,11 @@
           "date": "2026-06-04",
           "edition": "evening",
           "update": "French jets intercepted Russian aircraft 11 times over the course of one week in the Baltic region, according to Reuters. Sweden's Gripen fighter jet is under scrutiny as Ukraine's air war with Russia presents a critical test for the aircraft's potential role in the conflict."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "morning",
+          "update": "Russian President Vladimir Putin is set to deliver a speech at the St. Petersburg International Economic Forum, days after Ukrainian drone strikes hit the host city."
         }
       ],
       "parentId": null
@@ -1139,7 +1154,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-04",
+      "lastSeen": "2026-06-05",
       "active": true,
       "entries": [
         {
@@ -1461,6 +1476,11 @@
           "date": "2026-06-04",
           "edition": "evening",
           "update": "Israel and Lebanon announced a ceasefire renewal following a third round of trilateral talks involving the U.S. State Department. Hezbollah formally rejected the renewed agreement, clouding prospects for ending both the Lebanon conflict and the broader confrontation with Iran. A UN peacekeeper was killed and others wounded after coming under mortar fire in southeastern Lebanon, according to UNIFIL. Iran declared 'no tangible progress' had been made in its talks with the U.S. amid the ongoing tensions."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "morning",
+          "update": "One day after Israel signed a ceasefire agreement with Lebanon, Israel and Hezbollah resumed trading strikes, while Israel began withdrawing troops from the Debbine area in southern Lebanon. The House voted 324-92 to reject a war powers resolution that would have directed Trump to remove U.S. troops from unauthorized hostilities in Lebanon, with 117 Democrats voting against the measure alongside Republicans. Israel's Supreme Court annulled a government ban that had prevented the International Red Cross from visiting Palestinian prisoners held in Israeli jails."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1469,7 +1489,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-04",
+      "lastSeen": "2026-06-05",
       "active": true,
       "entries": [
         {
@@ -2046,6 +2066,11 @@
           "date": "2026-06-04",
           "edition": "evening",
           "update": "Trump condemned the four Republican lawmakers who voted with Democrats to pass the war powers resolution as 'unpatriotic' and 'bad,' and dismissed the resolution itself as 'meaningless.' The White House confirmed it continues to pursue diplomatic negotiations with Iran over its nuclear program nearly two months after the fragile ceasefire, despite repeated Iranian military provocations."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "morning",
+          "update": "A new Economist/YouGov poll found that 68% of Americans want the U.S. to make a deal to end the war in Iran as quickly as possible. Former Secretary of State Condoleezza Rice wrote in a Wall Street Journal op-ed that the conflict has left behind a 'weaker, more confused' Iranian regime, praising the U.S.'s efforts."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2865,7 +2890,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-04",
+      "lastSeen": "2026-06-05",
       "active": true,
       "entries": [
         {
@@ -2910,7 +2935,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-06-03",
+      "lastSeen": "2026-06-05",
       "active": true,
       "entries": [
         {
@@ -3012,6 +3037,11 @@
           "date": "2026-06-03",
           "edition": "evening",
           "update": "Trump claimed in a New York Post podcast interview that Iran has agreed to 'no nuclear,' stating Tehran pledged never to obtain a nuclear weapon. Trump also expressed anticipation about meeting with Iran's Supreme Leader, signaling potential direct diplomatic engagement, according to Newsmax."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "morning",
+          "update": "Trump stated in the Oval Office that he would be 'honored' to meet with Iran's Supreme Leader, contingent on reaching a deal to end the conflict. Oil prices remained little changed as uncertainty over the status of a potential U.S.-Iran peace deal persisted."
         }
       ]
     },
@@ -3235,7 +3265,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-06-03",
+      "lastSeen": "2026-06-05",
       "active": true,
       "entries": [
         {
@@ -3257,6 +3287,11 @@
           "date": "2026-06-03",
           "edition": "evening",
           "update": "Secretary of State Marco Rubio acknowledged on Tuesday that the prospects for a Russia-Ukraine peace deal 'don't look great,' despite extensive Trump administration efforts to end the conflict."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "morning",
+          "update": "Ukrainian President Volodymyr Zelensky published an open letter to Russian President Vladimir Putin on Thursday, proposing a full ceasefire and face-to-face negotiations, asserting that only direct engagement between the two countries could end the war."
         }
       ]
     },
@@ -3625,7 +3660,7 @@
       "title": "Congo Ebola Outbreak",
       "parentId": null,
       "firstSeen": "2026-05-19",
-      "lastSeen": "2026-05-29",
+      "lastSeen": "2026-06-05",
       "active": true,
       "entries": [
         {
@@ -3637,6 +3672,11 @@
           "date": "2026-05-29",
           "edition": "morning",
           "update": "A Kenyan court suspended the U.S. plan to establish an Ebola quarantine facility in Kenya, which the Trump administration had confirmed it was working to set up for Americans exposed to or infected with Ebola. WHO Director-General traveled to Kinshasa to personally assess the outbreak response, amid ongoing challenges including local distrust and insecurity."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "morning",
+          "update": "Kenyan President William Ruto defended his government's decision to allow the United States to build an Ebola quarantine facility in Kenya, calling it 'the right thing,' amid deadly protests against the plan."
         }
       ]
     },
@@ -3676,5 +3716,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-04T21:09:13.201Z"
+  "updatedAt": "2026-06-05T11:07:40.911Z"
 }
