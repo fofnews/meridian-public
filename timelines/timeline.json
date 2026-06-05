@@ -260,7 +260,7 @@
         {
           "date": "2026-06-05",
           "edition": "morning",
-          "update": "The House Oversight Committee released the transcript of Pam Bondi's closed-door interview on Thursday. Sen. Ron Wyden launched a separate inquiry into why billionaire Leon Black paid Jeffrey Epstein $170 million for alleged tax planning services. A former correction officer testified before the committee that she was not the unidentified orange shape seen moving outside Epstein's cell tier on the night of his death."
+          "update": "The House Oversight Committee released the transcript of Pam Bondi's closed-door interview, sparking a dispute between Republicans and Democrats over her claims, including her attribution of responsibility for the Epstein files release to then-Deputy Attorney General Todd Blanche. Sen. Ron Wyden launched an inquiry into why billionaire Leon Black paid Jeffrey Epstein approximately $170 million for alleged tax planning services. The Committee called on the DOJ to investigate sexual misconduct allegations made by former Epstein assistant Sarah Kellen against two of Epstein's associates. A former correction officer testified before the Committee that she was not the orange shape seen moving up the stairs near Epstein's cell tier on the night of his death."
         }
       ],
       "parentId": null
@@ -390,7 +390,7 @@
         {
           "date": "2026-06-05",
           "edition": "morning",
-          "update": "The IAEA reiterated this week that Iran's suspension of cooperation with the agency has prevented inspectors from fully monitoring Iran's nuclear program since 2025, blocking oversight of its nuclear activities."
+          "update": "The IAEA reiterated concerns that Iran's suspension of cooperation with the agency has prevented inspectors from fully monitoring Iran's nuclear program since 2025."
         }
       ],
       "parentId": null
@@ -675,7 +675,7 @@
         {
           "date": "2026-06-05",
           "edition": "morning",
-          "update": "Russian President Vladimir Putin is set to deliver a speech at the St. Petersburg International Economic Forum, days after Ukrainian drone strikes hit the host city."
+          "update": "The House passed a Ukraine aid and Russia sanctions package on Thursday by a vote of 226 to 195, with 18 Republicans joining Democrats in defying House GOP leadership and President Trump's preferred approach. The legislation includes military aid to Ukraine and sanctions on Russia. Putin is scheduled to deliver a speech at the St. Petersburg International Economic Forum, days after Ukrainian drone strikes targeted the host city."
         }
       ],
       "parentId": null
@@ -819,7 +819,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-04",
+      "lastSeen": "2026-06-05",
       "active": true,
       "entries": [
         {
@@ -1036,6 +1036,11 @@
           "date": "2026-06-04",
           "edition": "evening",
           "update": "Iran national football players Saeid Ezatolahi and Mohammad Ghorbani spoke to Al Jazeera about how the conflict involving the U.S. and Israel is affecting their focus during World Cup preparations. Kuwait's defense ministry condemned the Iranian drone strike on the country's international airport as 'criminal Iranian aggression,' releasing footage showing a massive explosion at the facility."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "morning",
+          "update": "UN envoys called on President Trump to intervene and halt Israeli annexation plans, according to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1480,7 +1485,7 @@
         {
           "date": "2026-06-05",
           "edition": "morning",
-          "update": "One day after Israel signed a ceasefire agreement with Lebanon, Israel and Hezbollah resumed trading strikes, while Israel began withdrawing troops from the Debbine area in southern Lebanon. The House voted 324-92 to reject a war powers resolution that would have directed Trump to remove U.S. troops from unauthorized hostilities in Lebanon, with 117 Democrats voting against the measure alongside Republicans. Israel's Supreme Court annulled a government ban that had prevented the International Red Cross from visiting Palestinian prisoners held in Israeli jails."
+          "update": "The House voted 324-92 to reject a war powers resolution that would have directed President Trump to remove U.S. troops from unauthorized hostilities in Lebanon, with 207 Republicans, 117 Democrats, and one independent voting against the measure. One day after Israel and Lebanon signed a ceasefire agreement, Israel and Hezbollah resumed trading strikes, while Israeli troops began withdrawing from the Debbine area in southern Lebanon. Israel's Supreme Court annulled a government ban that had prevented the International Red Cross from visiting Palestinian prisoners held in Israeli jails."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2070,7 +2075,7 @@
         {
           "date": "2026-06-05",
           "edition": "morning",
-          "update": "A new Economist/YouGov poll found that 68% of Americans want the U.S. to make a deal to end the war in Iran as quickly as possible. Former Secretary of State Condoleezza Rice wrote in a Wall Street Journal op-ed that the conflict has left behind a 'weaker, more confused' Iranian regime, praising the U.S.'s efforts."
+          "update": "An Economist/YouGov poll found that 68% of Americans said the U.S. should make a deal to end the war in Iran 'as quickly as possible,' while 11% disagreed and 21% were undecided."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3041,7 +3046,7 @@
         {
           "date": "2026-06-05",
           "edition": "morning",
-          "update": "Trump stated in the Oval Office that he would be 'honored' to meet with Iran's Supreme Leader, contingent on reaching a deal to end the conflict. Oil prices remained little changed as uncertainty over the status of a potential U.S.-Iran peace deal persisted."
+          "update": "Former Secretary of State Condoleezza Rice wrote in a Wall Street Journal op-ed that the conflict with Iran has left behind a 'weaker, more confused' Iranian regime, praising U.S. efforts. Trump stated in the Oval Office that he would be 'honored' to meet with Iran's Supreme Leader, contingent on reaching a deal. Oil prices remained little changed amid ongoing uncertainty over a potential peace deal, while global stocks declined as the AI-driven market rally paused and US-Iran talks stalled."
         }
       ]
     },
@@ -3291,7 +3296,7 @@
         {
           "date": "2026-06-05",
           "edition": "morning",
-          "update": "Ukrainian President Volodymyr Zelensky published an open letter to Russian President Vladimir Putin on Thursday, proposing a full ceasefire and face-to-face negotiations, asserting that only direct engagement between the two countries could end the war."
+          "update": "Zelensky published an open letter addressed directly to Putin on Thursday, proposing face-to-face negotiations and calling for a comprehensive ceasefire between Ukraine and Russia."
         }
       ]
     },
@@ -3300,7 +3305,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-06-03",
+      "lastSeen": "2026-06-05",
       "active": true,
       "entries": [
         {
@@ -3397,6 +3402,11 @@
           "date": "2026-06-03",
           "edition": "evening",
           "update": "WTI crude futures rose for a third consecutive day, gaining nearly 10% over three sessions, as hopes for a quick peace deal faded, according to the Wall Street Journal. Secretary of State Rubio told lawmakers that the war on Iran is over, amid reports of recent strikes hitting Iran, Kuwait, and Bahrain."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "morning",
+          "update": "The Japanese yen hit the key 160 level against the dollar for the third consecutive session, with Gulf tensions cited as a further support for the dollar, according to Reuters."
         }
       ]
     },
@@ -3475,7 +3485,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-06-04",
+      "lastSeen": "2026-06-05",
       "active": true,
       "entries": [
         {
@@ -3602,6 +3612,11 @@
           "date": "2026-06-04",
           "edition": "evening",
           "update": "Congo reported an attack on an Ebola burial team as the case count continued to rise. NPR reported that some jurisdictions have weakened public health authority powers following backlash over COVID-era measures, raising concerns about future outbreak response capabilities. The outbreak is being driven by a strain not covered by the existing effective Ebola vaccine, with trials underway for several vaccine candidates targeting this variety."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "morning",
+          "update": "Kenyan President William Ruto publicly defended the government's decision to allow the United States to build an Ebola quarantine facility in Kenya, calling it 'the right thing,' amid deadly protests against the plan."
         }
       ]
     },
@@ -3660,7 +3675,7 @@
       "title": "Congo Ebola Outbreak",
       "parentId": null,
       "firstSeen": "2026-05-19",
-      "lastSeen": "2026-06-05",
+      "lastSeen": "2026-05-29",
       "active": true,
       "entries": [
         {
@@ -3672,11 +3687,6 @@
           "date": "2026-05-29",
           "edition": "morning",
           "update": "A Kenyan court suspended the U.S. plan to establish an Ebola quarantine facility in Kenya, which the Trump administration had confirmed it was working to set up for Americans exposed to or infected with Ebola. WHO Director-General traveled to Kinshasa to personally assess the outbreak response, amid ongoing challenges including local distrust and insecurity."
-        },
-        {
-          "date": "2026-06-05",
-          "edition": "morning",
-          "update": "Kenyan President William Ruto defended his government's decision to allow the United States to build an Ebola quarantine facility in Kenya, calling it 'the right thing,' amid deadly protests against the plan."
         }
       ]
     },
@@ -3716,5 +3726,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-05T11:07:40.911Z"
+  "updatedAt": "2026-06-05T11:08:16.875Z"
 }
