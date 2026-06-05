@@ -450,5 +450,61 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-05T05:45:01.426Z"
+  },
+  {
+    "title": "Burnham says he would seek to enter any Labour leadership contest",
+    "description": "The Greater Manchester mayor would need to win the by-election in Makerfield to be a possible candidate.",
+    "link": "https://www.bbc.com/news/articles/cp9p9z31rr1o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 05 Jun 2026 05:59:22 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-05T06:00:01.378Z"
+  },
+  {
+    "title": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
+    "description": "Zeynab Javadli had not been in contact with any of her friends since Tuesday.",
+    "link": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 05 Jun 2026 05:44:44 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-05T06:00:01.378Z"
+  },
+  {
+    "title": "Republicans Defeat Move to Bar Trump’s Payout Fund",
+    "description": "The vote on Democrats’ proposal, which would have sent the G.O.P. immigration bill back to committee, kicked off a marathon of votes that stretched all day and overnight.",
+    "link": "https://www.nytimes.com/2026/06/04/us/politics/trump-payout-fund.html",
+    "pubDate": "Fri, 05 Jun 2026 05:32:26 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "senate",
+      "republican party",
+      "schumer, charles e",
+      "trump, donald j"
+    ],
+    "collectedAt": "2026-06-05T06:00:01.378Z"
+  },
+  {
+    "title": "Indian central bank keeps key policy rate on hold, despite falling currency - Reuters",
+    "description": "Indian central bank keeps key policy rate on hold, despite falling currency  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUHNYYmwybW5sTVN2MVdxZndGODhiTFE5Y0xZRU14bU1tYnQtZU9zenpHZVBkRGRmWDQ4TExyNHJYelNSb01POWdXY0cxNmpxcmZ0ODZpeU1vdzI3RmhBbFFHcEd6dUw3Q0owRUxPUVdRLTFvVEpVZTFqRWFUdW1MTHBLZ19fbHdoaFJDN05lOURnT29fMlRYVjRDdVIzSmlzV0g5bldsZW5FQkdCbnIxMzZ4Q1hGZWRBSEtKcnNiT3QzVFd0?oc=5",
+    "pubDate": "Fri, 05 Jun 2026 04:34:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-06-05T06:00:01.378Z"
+  },
+  {
+    "title": "House panel advances $1.15 trillion defense bill after marathon debate",
+    "description": "The House Armed Services Committee (HASC) late Thursday passed the annual Defense policy bill, sending the mammoth, nearly $1.15 trillion measure to the full House after debating a chunk of some 900 offered amendments for 14 hours. The measure, known as the fiscal 2027 National Defense Authorization Act (NDAA), passed the panel by a 44…",
+    "link": "https://thehill.com/policy/defense/5911353-ndaa-amendments-pentagon-house-armed-services/",
+    "pubDate": "Fri, 05 Jun 2026 05:11:12 +0000",
+    "source": "The Hill",
+    "categories": [
+      "defense",
+      "house",
+      "news",
+      "policy"
+    ],
+    "collectedAt": "2026-06-05T06:00:01.378Z"
   }
 ]
