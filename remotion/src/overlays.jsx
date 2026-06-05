@@ -1,7 +1,7 @@
 // remotion/src/overlays.jsx
 import { useEffect, useRef } from 'react';
 import { useCurrentFrame, useVideoConfig, interpolate, AbsoluteFill } from 'remotion';
-import { tokenizeWords, getActiveWord } from './subtitles.js';
+import { tokenizeWords, getActiveWord, tokenizeSentences, getActiveSentence } from './subtitles.js';
 
 // ── Color constants (dark theme) ──────────────────────────────────────────────
 const ACCENT         = '#e8c547';
@@ -300,11 +300,10 @@ export function SubtitleBar({ shots, timestamps, t, preRollS = 1, aspect = '16:9
   const activeIdx = getActiveWord(words, tInShot);
   if (activeIdx < 0) return null;
 
-  // Show a window of up to 7 words centred on the current word.
-  const winStart = Math.max(0, activeIdx - 3);
-  const winEnd   = Math.min(words.length - 1, activeIdx + 3);
-  const window   = words.slice(winStart, winEnd + 1);
-  const curInWin = activeIdx - winStart;
+  const sentences = tokenizeSentences(words);
+  const activeSentenceIdx = getActiveSentence(sentences, activeIdx);
+  if (activeSentenceIdx < 0) return null;
+  const activeSentence = sentences[activeSentenceIdx];
 
   // Fade in/out at shot boundary (9 frames).
   const FADE = 9;
@@ -326,14 +325,17 @@ export function SubtitleBar({ shots, timestamps, t, preRollS = 1, aspect = '16:9
       maxWidth: '80%',
     }}>
       <div style={{ display: 'flex', gap: 8, alignItems: 'baseline', flexWrap: 'wrap', justifyContent: 'center' }}>
-        {window.map((w, wi) => (
-          <span key={winStart + wi} style={{
-            fontFamily: 'Source Serif 4, serif',
-            fontSize: subtitleFontSize(aspect),
-            fontWeight: wi === curInWin ? 600 : 400,
-            color: wi === curInWin ? ACCENT : 'rgba(240,235,224,0.75)',
-          }}>{w.text}</span>
-        ))}
+        {activeSentence.words.map((w, wi) => {
+          const globalIdx = activeSentence.startWordIdx + wi;
+          return (
+            <span key={globalIdx} style={{
+              fontFamily: 'Source Serif 4, serif',
+              fontSize: subtitleFontSize(aspect),
+              fontWeight: globalIdx === activeIdx ? 600 : 400,
+              color: globalIdx === activeIdx ? ACCENT : 'rgba(240,235,224,0.75)',
+            }}>{w.text}</span>
+          );
+        })}
       </div>
     </div>
   );

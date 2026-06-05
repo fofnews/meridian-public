@@ -49,3 +49,63 @@ export function getActiveWord(words, tInShot) {
   }
   return idx;
 }
+
+/**
+ * Groups consecutive words into sentences delimited by terminal punctuation
+ * (.!?). A trailing fragment with no terminal punctuation is emitted as its
+ * own sentence so the end of a shot always renders.
+ *
+ * @param {{ text: string, start: number, end: number }[]} words
+ * @returns {{ words: object[], startWordIdx: number, endWordIdx: number, start: number, end: number }[]}
+ */
+export function tokenizeSentences(words) {
+  if (!words || words.length === 0) return [];
+  const sentences = [];
+  let sentenceWords = [];
+  let startWordIdx = 0;
+
+  for (let i = 0; i < words.length; i++) {
+    sentenceWords.push(words[i]);
+    if (/[.!?]$/.test(words[i].text)) {
+      sentences.push({
+        words: sentenceWords,
+        startWordIdx,
+        endWordIdx: i,
+        start: sentenceWords[0].start,
+        end: sentenceWords[sentenceWords.length - 1].end,
+      });
+      sentenceWords = [];
+      startWordIdx = i + 1;
+    }
+  }
+
+  if (sentenceWords.length > 0) {
+    sentences.push({
+      words: sentenceWords,
+      startWordIdx,
+      endWordIdx: words.length - 1,
+      start: sentenceWords[0].start,
+      end: sentenceWords[sentenceWords.length - 1].end,
+    });
+  }
+
+  return sentences;
+}
+
+/**
+ * Returns the index of the sentence whose word range contains activeWordIdx.
+ * Returns -1 if activeWordIdx is -1, sentences is empty, or no match.
+ *
+ * @param {{ startWordIdx: number, endWordIdx: number }[]} sentences
+ * @param {number} activeWordIdx
+ * @returns {number}
+ */
+export function getActiveSentence(sentences, activeWordIdx) {
+  if (!sentences || sentences.length === 0 || activeWordIdx < 0) return -1;
+  for (let i = 0; i < sentences.length; i++) {
+    if (activeWordIdx >= sentences[i].startWordIdx && activeWordIdx <= sentences[i].endWordIdx) {
+      return i;
+    }
+  }
+  return -1;
+}
