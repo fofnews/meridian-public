@@ -261,11 +261,6 @@
           "date": "2026-06-05",
           "edition": "morning",
           "update": "The House Oversight Committee released the transcript of Pam Bondi's closed-door interview, sparking a dispute between Republicans and Democrats over her claims, including her attribution of responsibility for the Epstein files release to then-Deputy Attorney General Todd Blanche. Sen. Ron Wyden launched an inquiry into why billionaire Leon Black paid Jeffrey Epstein approximately $170 million for alleged tax planning services. The Committee called on the DOJ to investigate sexual misconduct allegations made by former Epstein assistant Sarah Kellen against two of Epstein's associates. A former correction officer testified before the Committee that she was not the orange shape seen moving up the stairs near Epstein's cell tier on the night of his death."
-        },
-        {
-          "date": "2026-06-05",
-          "edition": "evening",
-          "update": "The New York Times published a summary of key findings on Jeffrey Epstein, covering the convicted sexual predator's ties to money, power, and complicity among his associates."
         }
       ],
       "parentId": null
@@ -396,6 +391,11 @@
           "date": "2026-06-05",
           "edition": "morning",
           "update": "The IAEA reiterated concerns that Iran's suspension of cooperation with the agency has prevented inspectors from fully monitoring Iran's nuclear program since 2025."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "evening",
+          "update": "The US is preparing a draft resolution to condemn Iran at the IAEA, according to diplomats cited by Newsmax."
         }
       ],
       "parentId": null
@@ -685,7 +685,7 @@
         {
           "date": "2026-06-05",
           "edition": "evening",
-          "update": "Ukraine announced it struck five cargo ships carrying illegal cargo in the Sea of Azov and coastal waters of Russian-occupied territories. A Ukrainian naval drone malfunctioned and exploded at a key Black Sea port in Romania, with European Commission President calling it a 'direct consequence' of the Russia-Ukraine war and raising fears of NATO territory spillover. A Swedish court ruled that a seized cargo ship can be handed over to Ukraine."
+          "update": "Ukraine announced it struck five cargo ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories. A malfunctioning Ukrainian naval drone exploded at a key Black Sea port in Romania, prompting European Commission President Ursula von der Leyen to warn it was a 'direct consequence' of the Russia-Ukraine war and raising fears of conflict spillover into NATO territory. A Swedish court ruled that a seized cargo ship can be handed over to Ukraine."
         }
       ],
       "parentId": null
@@ -1051,6 +1051,11 @@
           "date": "2026-06-05",
           "edition": "morning",
           "update": "UN envoys called on President Trump to intervene and halt Israeli annexation plans, according to Al Jazeera."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "evening",
+          "update": "Iran declared its support for Hezbollah amid doubts over a wider peace deal, according to Reuters."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1500,7 +1505,7 @@
         {
           "date": "2026-06-05",
           "edition": "evening",
-          "update": "The UN issued an appeal for nearly $640 million in humanitarian aid for Lebanon over the next six months. Despite the US-brokered ceasefire agreement, Israel continued military attacks and issued new forced displacement orders for towns and villages in southern Lebanon. Hezbollah formally reiterated its rejection of the ceasefire conditions, calling the requirement to stop firing first a virtual surrender."
+          "update": "The UN increased its humanitarian aid appeal for Lebanon to nearly $640 million for the next six months, citing the humanitarian crisis driven by the Israeli war. Israel continued attacks and issued new forced displacement orders for several towns and villages in southern Lebanon despite the US-brokered ceasefire deal. Hezbollah, which was not party to the talks, rejected the ceasefire conditions — which required the group to stop firing first — calling them a virtual surrender."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2095,7 +2100,7 @@
         {
           "date": "2026-06-05",
           "edition": "evening",
-          "update": "The WFP warned that the US-Iran conflict is driving substantial food price increases across multiple countries, pushing millions into a food crisis. A US naval blockade has cost Iran nearly $6 billion in oil revenues, with Iranian oil exports falling to less than one-sixth of pre-war levels, according to Al Jazeera. Iran announced it fired warning missiles and drones at US warships in the Gulf of Oman, and US forces separately boarded a sanctioned tanker in the Indian Ocean. The United States is also preparing a draft resolution to condemn Iran at the IAEA, according to diplomats."
+          "update": "The UN World Food Programme warned that the US-Iran war is causing substantial increases in food prices across multiple countries, pushing millions into food crisis. A US naval blockade has cost Iran nearly $6 billion in oil revenues, with Iran now exporting less than one-sixth of pre-war oil volumes, according to Al Jazeera. Iran announced it fired warning missiles and drones at US warships in the Gulf of Oman, and U.S. forces boarded a sanctioned tanker in the Indian Ocean, according to the Pentagon."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2354,7 +2359,7 @@
       "id": "hezbollah-us-operations",
       "title": "Hezbollah US Operations",
       "firstSeen": "2026-03-15",
-      "lastSeen": "2026-06-05",
+      "lastSeen": "2026-06-04",
       "active": true,
       "entries": [
         {
@@ -2396,11 +2401,6 @@
           "date": "2026-06-04",
           "edition": "evening",
           "update": "Federal agents arrested tech CEO Jamshid Ghomi, a dual U.S.-Iranian citizen, on charges of selling sensitive U.S. computer equipment to Iran in violation of U.S. sanctions, according to CBS News."
-        },
-        {
-          "date": "2026-06-05",
-          "edition": "evening",
-          "update": "Iran declared its support for Hezbollah amid ongoing doubts over a wider peace deal, according to Reuters. Iranian-American journalist Reza Valizadeh, held in Evin Prison, issued a recorded plea calling on the US government to secure medical assistance for him and other American detainees in Iranian custody."
         }
       ],
       "parentId": null
@@ -2849,7 +2849,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-06-04",
+      "lastSeen": "2026-06-05",
       "active": true,
       "entries": [
         {
@@ -2891,6 +2891,11 @@
           "date": "2026-06-04",
           "edition": "evening",
           "update": "North Korean leader Kim Jong Un called for an 'exponential' expansion of the country's nuclear arsenal, citing worsening security threats, with Newsweek reporting he was reinforced in this position by observing U.S. military action against Iran. North Korea also announced the opening of a new nuclear facility, with state media photos showing what appeared to be a large centrifuge hall likely used to enrich weapons-grade uranium."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "evening",
+          "update": "Chinese President Xi Jinping announced he will travel to North Korea next week, his first visit since 2019, with both countries confirming the trip on Friday — one day after North Korea unveiled a new nuclear fuel production facility."
         }
       ],
       "parentId": null
@@ -3076,7 +3081,7 @@
         {
           "date": "2026-06-05",
           "edition": "evening",
-          "update": "An Iranian adviser stated that nuclear talks between Iran and the US have reached a deadlock over a dispute involving $24 billion, according to Newsmax."
+          "update": "An Iranian adviser stated that nuclear talks between Iran and the US have reached a deadlock, with $24 billion cited as the key point of contention, according to Newsmax."
         }
       ]
     },
@@ -3331,7 +3336,7 @@
         {
           "date": "2026-06-05",
           "edition": "evening",
-          "update": "Putin rejected Zelensky's proposal for face-to-face negotiations on Friday, stating he sees no point in such a meeting. Putin is also preparing to deliver a major address at the St. Petersburg International Economic Forum, days after the city was struck by Ukrainian drones."
+          "update": "Putin rejected Zelenskyy's offer for direct talks on Friday, stating he sees 'no point' in meeting with Zelenskyy to discuss ending the war. Putin made the rejection while preparing to deliver a major address in St. Petersburg, days after the city was targeted by Ukrainian drones."
         }
       ]
     },
@@ -3761,5 +3766,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-05T21:08:10.527Z"
+  "updatedAt": "2026-06-05T21:08:39.961Z"
 }
