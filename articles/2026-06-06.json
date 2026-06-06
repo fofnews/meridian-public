@@ -548,5 +548,64 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-06T08:00:01.431Z"
+  },
+  {
+    "title": "Singer Duffy to return for first live concert in more than 15 years",
+    "description": "Duffy announces she will host a \"secret intimate gig\" and play new songs on 5 July in London.",
+    "link": "https://www.bbc.com/news/articles/ce8p8mzj4e8o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 06 Jun 2026 07:54:22 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-06T08:15:01.298Z"
+  },
+  {
+    "title": "5 Daily Habits That Make Your Cat Secretly Dislike You",
+    "description": "Dawn LaFontaine, a feline expert, said owners often assume cats experience social interaction the way humans or dogs do.",
+    "link": "https://www.newsweek.com/5-daily-habits-that-make-your-cat-secretly-dislike-you-12037522",
+    "pubDate": "Sat, 06 Jun 2026 04:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-06T08:15:01.298Z"
+  },
+  {
+    "title": "US intercepts Iranian attacks as Israel continues to bomb Lebanon",
+    "description": "US Central Command said seven ballistic missiles were fired towards Kuwait and Bahrain.",
+    "link": "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon?traffic_source=rss",
+    "pubDate": "Sat, 06 Jun 2026 07:51:28 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-06-06T08:15:01.298Z"
+  },
+  {
+    "title": "Hawley fumes after 4 GOP senators help sink Trump-backed voter ID law",
+    "description": "Sen. Josh Hawley criticizes four Republicans who voted with Democrats to block the SAVE Act voter ID amendment in the Senate reconciliation package.",
+    "link": "https://www.foxnews.com/politics/watch-hawley-fumes-4-gop-senators-help-sink-trump-backed-voter-id-law",
+    "pubDate": "Sat, 06 Jun 2026 04:00:59 -0400",
+    "source": "Fox News",
+    "categories": [
+      "cef712aa-aaa7-5af7-ba69-e4eedf5244e0",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/politics/elections/senate",
+      "fox-news/politics/state-and-local/states-rights",
+      "fox-news/politics/elections/republicans",
+      "fox-news/politics/elections/campaigning",
+      "fox-news/politics/elections/voter-fraud-concerns",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-06-06T08:15:01.298Z"
+  },
+  {
+    "title": "Mets’ Jorge Polanco to spend few more days at Triple-A buidling ‘volume’",
+    "description": "Jorge Polanco will spend at least this weekend building “volume” at Triple-A Syracuse rather than rejoining the Mets.",
+    "link": "https://nypost.com/2026/06/06/sports/mets-jorge-polanco-to-spend-few-more-days-at-triple-a/",
+    "pubDate": "Sat, 06 Jun 2026 04:00:57 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-06T08:15:01.298Z"
   }
 ]
