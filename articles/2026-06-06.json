@@ -926,5 +926,227 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-06T09:45:01.204Z"
+  },
+  {
+    "title": "As Trump Pushes Deportations, a Skyrocketing Caseload Strains Immigration Courts",
+    "description": "A federal surge has more than doubled caseloads within some immigration courts nationwide. Lawyers say the tactic is causing errors and confusion.",
+    "link": "https://www.nytimes.com/2026/06/06/us/politics/immigration-courts-deportation.html",
+    "pubDate": "Sat, 06 Jun 2026 09:00:34 +0000",
+    "source": "NY Times",
+    "categories": [
+      "deportation",
+      "illegal immigration",
+      "asylum, right of",
+      "courts and the judiciary",
+      "executive office for immigration review",
+      "trump, donald j",
+      "virginia"
+    ],
+    "collectedAt": "2026-06-06T10:00:01.250Z"
+  },
+  {
+    "title": "Paxton’s Senate Bid Raises the Stakes in His War on Latino Voting Groups",
+    "description": "The Texas attorney general has mounted an all-out effort to prove Democratic Hispanic groups have been corrupting elections. Now he could be the beneficiary of his own attacks.",
+    "link": "https://www.nytimes.com/2026/06/06/us/politics/ken-paxton-latino-voting.html",
+    "pubDate": "Sat, 06 Jun 2026 09:00:25 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "midterm elections (2026)",
+      "hispanic-americans",
+      "voting rights, registration and requirements",
+      "elections, senate",
+      "paxton, ken",
+      "league of united latin american citizens",
+      "texas"
+    ],
+    "collectedAt": "2026-06-06T10:00:01.250Z"
+  },
+  {
+    "title": "ICE Says Detainees Are ‘Worst of the Worst.’ Government Data Disagrees.",
+    "description": "Federal officials said they are removing killers and rapists from the streets. Data obtained by The New York Times indicates most detainees at a Newark facility haven’t been convicted of crimes.",
+    "link": "https://www.nytimes.com/2026/06/06/nyregion/delaney-hall-ice-detainees.html",
+    "pubDate": "Sat, 06 Jun 2026 09:01:54 +0000",
+    "source": "NY Times",
+    "categories": [
+      "illegal immigration",
+      "immigration detention",
+      "deportation",
+      "drug abuse and traffic",
+      "sex crimes",
+      "hunger strikes",
+      "murders, attempted murders and homicides",
+      "prisons and prisoners",
+      "politics and government",
+      "immigration and emigration",
+      "delaney hall (newark, nj)",
+      "geo group inc",
+      "homeland security department",
+      "immigration and customs enforcement (us)",
+      "sherrill, mikie",
+      "newark (nj)",
+      "new jersey"
+    ],
+    "collectedAt": "2026-06-06T10:00:01.250Z"
+  },
+  {
+    "title": "Newark Mayor to Scale Back Police Presence at Delaney Hall ICE Detention Center",
+    "description": "The mayor, Ras Baraka, said the city would not spend taxpayer money to safeguard Delaney Hall, an immigration detention center in Newark run by a private prison company.",
+    "link": "https://www.nytimes.com/2026/06/05/nyregion/delaney-hall-police-baraka.html",
+    "pubDate": "Sat, 06 Jun 2026 04:40:51 +0000",
+    "source": "NY Times",
+    "categories": [
+      "demonstrations, protests and riots",
+      "immigration detention",
+      "federal-state relations (us)",
+      "delaney hall (newark, nj)",
+      "geo group inc",
+      "immigration and customs enforcement (us)",
+      "sherrill, mikie",
+      "baraka, ras",
+      "newark (nj)"
+    ],
+    "collectedAt": "2026-06-06T10:00:01.250Z"
+  },
+  {
+    "title": "Deluged With Mail Ballots, California Takes Its Time Counting Votes Again",
+    "description": "Experts say speeding up the count in California would take more resources, but also scaling back rules that expand voting access.",
+    "link": "https://www.nytimes.com/2026/06/06/us/california-slow-vote-count.html",
+    "pubDate": "Sat, 06 Jun 2026 09:02:24 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "midterm elections (2026)",
+      "absentee voting",
+      "newsom, gavin",
+      "trump, donald j",
+      "weber, shirley (1948- )",
+      "california",
+      "los angeles (calif)",
+      "maricopa county (ariz)"
+    ],
+    "collectedAt": "2026-06-06T10:00:01.250Z"
+  },
+  {
+    "title": "Iran Fired Drones Toward Strait of Hormuz With U.S. Shooting Down at Least 4, U.S. Military Says",
+    "description": "The latest violence between the United States and Iran threatened a cease-fire and risked further stoking tensions in the region.",
+    "link": "https://www.nytimes.com/2026/06/05/us/politics/iran-attack-drones-hormuz.html",
+    "pubDate": "Sat, 06 Jun 2026 07:22:36 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "drones (pilotless planes)",
+      "united states defense and military forces",
+      "international relations",
+      "defense and military forces",
+      "missiles and missile defense systems",
+      "trump, donald j"
+    ],
+    "collectedAt": "2026-06-06T10:00:01.250Z"
+  },
+  {
+    "title": "What Visual Evidence Tells Us About Israel’s Use of White Phosphorus in Lebanon",
+    "description": "Videos collected by The Times shows how the Israeli military has deployed a munition that can be extremely harmful over populated areas in Lebanon.",
+    "link": "https://www.nytimes.com/2026/06/06/world/middleeast/white-phosphorous-israel-lebanon.html",
+    "pubDate": "Sat, 06 Jun 2026 09:00:06 +0000",
+    "source": "NY Times",
+    "categories": [
+      "white phosphorus",
+      "war and armed conflicts",
+      "defense and military forces",
+      "us and israeli attack on iran (2026)",
+      "lebanon",
+      "war crimes, genocide and crimes against humanity"
+    ],
+    "collectedAt": "2026-06-06T10:00:01.250Z"
+  },
+  {
+    "title": "Trump Pardons Former Congressman Convicted of Insider Trading",
+    "description": "Stephen Buyer, a former Republican representative from Indiana, was convicted of trading stock related to two deals before they were made public.",
+    "link": "https://www.nytimes.com/2026/06/06/us/politics/trump-pardon-stephen-buyer-insider-trading.html",
+    "pubDate": "Sat, 06 Jun 2026 05:32:50 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "amnesties, commutations and pardons",
+      "insider trading",
+      "securities and commodities violations",
+      "politics and government",
+      "buyer, steve e",
+      "securities and exchange commission",
+      "trump, donald j",
+      "mergers, acquisitions and divestitures",
+      "indiana",
+      "united states"
+    ],
+    "collectedAt": "2026-06-06T10:00:01.250Z"
+  },
+  {
+    "title": "As Ebola Spreads in East Africa, Will China Step Up?",
+    "description": "China is well positioned to help stop the deadly virus, and could move into a gap left by U.S. retreat.",
+    "link": "https://www.nytimes.com/2026/06/06/world/asia/as-ebola-spreads-in-east-africa-will-china-step-up.html",
+    "pubDate": "Sat, 06 Jun 2026 09:01:43 +0000",
+    "source": "NY Times",
+    "categories": [
+      "ebola virus",
+      "epidemics",
+      "medicine and health",
+      "foreign aid",
+      "tests (medical)",
+      "vaccination and immunization",
+      "laboratories and scientific equipment",
+      "biotechnology and bioengineering",
+      "africa",
+      "congo, democratic republic of (congo-kinshasa)"
+    ],
+    "collectedAt": "2026-06-06T10:00:01.250Z"
+  },
+  {
+    "title": "The World Has Learned From the Last Ebola Outbreak, but Gaps Remain",
+    "description": "The vaccine development process and coordination between health organizations have improved since a devastating 2014-2016 outbreak.",
+    "link": "https://www.nytimes.com/2026/06/06/world/africa/the-world-has-learned-from-the-last-ebola-outbreak-but-gaps-remain.html",
+    "pubDate": "Sat, 06 Jun 2026 09:00:20 +0000",
+    "source": "NY Times",
+    "categories": [
+      "ebola virus",
+      "epidemics",
+      "clinical trials",
+      "medicine and health",
+      "africa centers for disease control and prevention",
+      "world health organization",
+      "united states agency for international development",
+      "africa",
+      "congo, democratic republic of (congo-kinshasa)"
+    ],
+    "collectedAt": "2026-06-06T10:00:01.250Z"
+  },
+  {
+    "title": "‘Badge of honour’: Israeli settlers shrug off global condemnation",
+    "description": "Activists claim sanctions fail to reflect either the depth of violence or state complicity in settler attacks.",
+    "link": "https://www.aljazeera.com/news/2026/6/6/badge-of-honour-israeli-settlers-shrug-off-global-condemnation?traffic_source=rss",
+    "pubDate": "Sat, 06 Jun 2026 09:18:39 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-06-06T10:00:01.250Z"
+  },
+  {
+    "title": "Russia's Sechin says U.S. companies benefit from the closure of the Strait of Hormuz - Reuters",
+    "description": "Russia's Sechin says U.S. companies benefit from the closure of the Strait of Hormuz  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSHJyOUJ0WVpCMVZ2MFNmNWEtQ1JuZW1LUW5obFNZZTlEZDBmcWE3S3ZYYXI0Q0Y5MHJLNjdGSjI1RnVRYmdtdmtqWGFIWmRINy1RdWMzdGMxTEROWENRQnJlMUxma2FkTHVNN1BDLW83QjdWWHhhdG9nZ3ktU1dGQk5KMFFyR09wZXM4bHhXSGxnWFZEMUJkb3BoRDNkc3FjUW5NODJyR2tRZlB5Q1ltN3RUcjY?oc=5",
+    "pubDate": "Sat, 06 Jun 2026 08:38:26 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-06-06T10:00:01.250Z"
+  },
+  {
+    "title": "Why Ferrari Is Making a Car No One Wants - The Free Press",
+    "description": "Why Ferrari Is Making a Car No One Wants  The Free Press",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Tai1wZ01nZkN5OUVsb2xLdHB5U3hRbFlmdVg4cEZDT291UVJXaEpfb29XZWVldHNHUTdpMkZKZlh2RnhNSEh2OUY5ZzV4VGFyUGhRUkNCdjZMQkl6?oc=5",
+    "pubDate": "Sat, 06 Jun 2026 09:32:04 GMT",
+    "source": "The Free Press",
+    "categories": [],
+    "collectedAt": "2026-06-06T10:00:01.250Z"
   }
 ]
