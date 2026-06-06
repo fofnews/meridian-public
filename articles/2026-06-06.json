@@ -7105,5 +7105,75 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-06T22:30:01.760Z"
+  },
+  {
+    "title": "Lebanese general among three soldiers killed in Israeli attack on car",
+    "description": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
+    "link": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 06 Jun 2026 21:23:03 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-06T22:45:01.730Z"
+  },
+  {
+    "title": "Iran says staff blocked from entering US after players given World Cup visas",
+    "description": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
+    "link": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 06 Jun 2026 22:38:36 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-06T22:45:01.730Z"
+  },
+  {
+    "title": "Ukraine Strikes St. Petersburg in Long-Range Drone Attack",
+    "description": "It was the second such attack in days and came just hours after President Vladimir V. Putin spoke at an economic forum in the city.",
+    "link": "https://www.nytimes.com/2026/06/06/world/europe/ukraine-drone-strike-st-petersburg.html",
+    "pubDate": "Sat, 06 Jun 2026 22:01:57 +0000",
+    "source": "NY Times",
+    "categories": [
+      "russian invasion of ukraine (2022)",
+      "drones (pilotless planes)",
+      "st petersburg (russia)",
+      "zelensky, volodymyr",
+      "putin, vladimir v",
+      "defense and military forces"
+    ],
+    "collectedAt": "2026-06-06T22:45:01.730Z"
+  },
+  {
+    "title": "Utah Lawmakers Criticize Pentagon After LDS Religious Designation Removed",
+    "description": "According to officials, the shift is part of an effort to streamline what the Pentagon characterized as an \"unmanageable\" system.",
+    "link": "https://www.newsweek.com/utah-lawmakers-criticize-pentagon-after-lds-religious-designation-removed-12040950",
+    "pubDate": "Sat, 06 Jun 2026 18:31:02 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-06T22:45:01.730Z"
+  },
+  {
+    "title": "Missing US student found dead near Kyoto, Japan, mother says - Reuters",
+    "description": "Missing US student found dead near Kyoto, Japan, mother says  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVG5vaklCN09yUjlLcEpjbTRuWnFxQkYzODBHZVA2S1JKU0ZESG11bndTdDQ0eDAwLXVUTWV5ZWtfTGtHaF9OZlM0MEx0YlRXU3MtVzAzZTBQRTF0VFNpLTA2amdWSkpKY2lLSEl2ZExVNVFaWFJaSWRNb29IUjZqMDhtZWU2M0NaSS1wTVNNbHFuZVBrNkNPRVg2dUJCZ05aRDR6eER3?oc=5",
+    "pubDate": "Sat, 06 Jun 2026 20:05:43 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-06-06T22:45:01.730Z"
+  },
+  {
+    "title": "Johnny and Matthew Gaudreau remembered through new playground for special needs children",
+    "description": "The Gaudreau family dedicated an adaptive playground for children with special needs, funded by their annual 5K honoring Johnny and Matthew Gaudreau.",
+    "link": "https://www.foxnews.com/sports/johnny-matthew-gaudreau-remembered-new-playground-special-needs-children",
+    "pubDate": "Sat, 06 Jun 2026 18:35:07 -0400",
+    "source": "Fox News",
+    "categories": [
+      "dd8fbe43-e615-5b3e-bd66-4e1e2bb55611",
+      "fnc",
+      "fox news",
+      "fox-news/sports",
+      "fox-news/sports/nhl",
+      "fox-news/sports/nhl/columbus-blue-jackets",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-06-06T22:45:01.730Z"
   }
 ]
