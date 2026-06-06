@@ -607,5 +607,36 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-06T08:15:01.298Z"
+  },
+  {
+    "title": "D-Day veterans mark 82nd anniversary as nearly 100 British names added to memorial",
+    "description": "Tributes are under way to mark the largest military seaborne operation ever attempted.",
+    "link": "https://www.bbc.com/news/articles/cvgm53nqvndo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 06 Jun 2026 08:17:49 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-06T08:30:01.223Z"
+  },
+  {
+    "title": "Maine voters divided on Platner as scandals shadow Democratic primary",
+    "description": "Maine voters are split on whether explosive allegations against Democratic Senate candidate Graham Platner will affect their vote in Tuesday's primary.",
+    "link": "https://www.foxnews.com/politics/maine-voters-divided-platner-controversies-shadow-democratic-primary",
+    "pubDate": "Sat, 06 Jun 2026 04:00:10 -0400",
+    "source": "Fox News",
+    "categories": [
+      "0e87c9e9-3a9d-506f-815d-f4dad5a717ec",
+      "fnc",
+      "fox news",
+      "fox-news/democrats",
+      "fox-news/politics/state-and-local/issues",
+      "fox-news/politics/elections/2023/primary-results",
+      "fox-news/politics/elections/senate",
+      "fox-news/us/us-regions/northeast/maine",
+      "fox-news/politics",
+      "fox-news/politics/elections/midterm-elections",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-06-06T08:30:01.223Z"
   }
 ]
