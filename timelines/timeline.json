@@ -270,7 +270,7 @@
         {
           "date": "2026-06-06",
           "edition": "evening",
-          "update": "Rep. Nancy Mace is running for South Carolina governor while facing significant political headwinds, including a Trump endorsement of her opponent, partly stemming from her vote related to the Epstein files."
+          "update": "Nancy Mace is running for South Carolina governor while facing political headwinds including President Trump endorsing her opponent following her vote on the Epstein files."
         }
       ],
       "parentId": null
@@ -705,7 +705,7 @@
         {
           "date": "2026-06-06",
           "edition": "evening",
-          "update": "Ukraine launched drone strikes near St. Petersburg for the second time in one week on the final day of Putin's flagship St. Petersburg International Economic Forum, with Russia's defence ministry reporting hundreds of drones were shot down across 16 regions including Crimea. Putin signaled openness to a 'new relationship' with the United States amid reports of a deadlock in Ukraine, following his earlier rejection of direct talks with Zelensky."
+          "update": "Ukraine launched drone strikes near St. Petersburg for the second time in one week on the final day of Putin's flagship St. Petersburg International Economic Forum. Russia's defense ministry reported that hundreds of Ukrainian drones were shot down across 16 regions, including Crimea, as the forum concluded."
         }
       ],
       "parentId": null
@@ -1085,7 +1085,7 @@
         {
           "date": "2026-06-06",
           "edition": "evening",
-          "update": "Bahrain's General Command reported that Iran launched three ballistic missiles and several drones toward Bahrain and Kuwait, all of which were intercepted and destroyed by Bahrain's air defense systems. Kuwait separately reported intercepting seven ballistic missiles over residential areas, with some debris falling but no casualties."
+          "update": "Bahrain's General Command reported that Iran launched three ballistic missiles and several drones toward Bahrain and Kuwait, all of which were intercepted and destroyed by Bahrain's air defense systems. Kuwait separately reported intercepting seven ballistic missiles over residential areas, with some debris falling but no casualties. Pope Leo XIV declared that the war with Iran does not qualify as a 'just war' under Catholic teaching, making the statement to journalists during his six-day visit to Spain."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1545,7 +1545,7 @@
         {
           "date": "2026-06-06",
           "edition": "evening",
-          "update": "An Israeli strike killed three Lebanese soldiers and a brigadier general, a captain, and an additional soldier travelling on the Khardali-Nabatieh road, occurring days after a truce was signed. Israeli forces killed a Palestinian infant, Sam Fahd Abu Haikal, in the West Bank, with his parents also wounded; the Israeli military said the car was speeding toward soldiers, but the baby's grandmother, who said she was in the vehicle, disputed the account. An Israeli strike killed at least five people at a wedding in Gaza, with the casualty toll expected to rise, and separately killed a Palestinian man hours before his scheduled wedding in Gaza. Three simultaneous ceasefire agreements covering Gaza, Lebanon, and the Gulf remain in effect, though deadly strikes have continued across all fronts."
+          "update": "An Israeli strike killed three Lebanese soldiers while they were travelling on the Khardali-Nabatieh road, occurring days after the ceasefire agreement was signed. Israeli attacks in Lebanon killed at least 10 people in total, including a brigadier general, a captain, and a soldier among the dead. A Palestinian infant, Sam Fahd Abu Haikal, was killed in the West Bank after an Israeli soldier opened fire on a car; the Israeli military said the vehicle was speeding toward soldiers, while the baby's grandmother, who said she was in the car, disputed that account."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2150,7 +2150,7 @@
         {
           "date": "2026-06-06",
           "edition": "evening",
-          "update": "Pope Leo XIV declared that the U.S.-Iran war does not qualify as a 'just war' under Catholic teaching, making the statement to journalists aboard the papal plane during his visit to Spain. President Trump declared Iran 'has no choice' but to reach a deal, while his approval rating hit an all-time low according to The Economist's YouGov polling tracker, with Trump standing 25 points underwater amid economic pressures linked to the conflict. Embraer reported that airlines are delaying option decisions due to uncertainty created by the conflict, clouding the aviation industry outlook."
+          "update": "President Trump stated that Iran 'has no choice' but to reach a deal to end the war, according to Newsmax."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3375,7 +3375,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-06-05",
+      "lastSeen": "2026-06-06",
       "active": true,
       "entries": [
         {
@@ -3407,6 +3407,11 @@
           "date": "2026-06-05",
           "edition": "evening",
           "update": "Putin rejected Zelenskyy's offer for direct talks on Friday, stating he sees 'no point' in meeting with Zelenskyy to discuss ending the war. Putin made the rejection while preparing to deliver a major address in St. Petersburg, days after the city was targeted by Ukrainian drones."
+        },
+        {
+          "date": "2026-06-06",
+          "edition": "evening",
+          "update": "Russian President Vladimir Putin signaled openness to a 'new relationship' with the United States, according to NBC News, as the conflict in Ukraine remains at a deadlock."
         }
       ]
     },
@@ -3741,7 +3746,7 @@
         {
           "date": "2026-06-06",
           "edition": "evening",
-          "update": "U.S. doctor Peter Stafford, who contracted Ebola while working with a missionary group in the DRC, has been discharged from a Berlin hospital after recovering from the virus. Rangers at Virunga National Park are simultaneously managing the Ebola outbreak and rising conflict-related violence, and have taken measures to protect the park's rare gorilla population from the virus."
+          "update": "Dr. Peter Stafford, a U.S. doctor who contracted Ebola while working with a missionary group in the DRC, was discharged from a Berlin hospital after recovering from the virus. Rangers at Virunga National Park in the DRC are simultaneously managing Ebola containment efforts and an increase in conflict-related violence in the park."
         }
       ]
     },
@@ -3851,5 +3856,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-06T21:05:14.415Z"
+  "updatedAt": "2026-06-06T21:06:12.895Z"
 }
