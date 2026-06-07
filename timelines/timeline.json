@@ -410,7 +410,7 @@
         {
           "date": "2026-06-07",
           "edition": "morning",
-          "update": "Trump claimed to have secured a 'big' promise from Iran not to develop nuclear weapons, but nuclear experts noted that Iran has maintained such a pledge for over 50 years, according to the NY Times."
+          "update": "Trump claimed Iran made a 'big' promise not to develop nuclear weapons, but nuclear experts noted Iran has formally maintained this pledge for over 50 years, according to the NY Times."
         }
       ],
       "parentId": null
@@ -419,7 +419,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-06",
+      "lastSeen": "2026-06-07",
       "active": true,
       "entries": [
         {
@@ -711,6 +711,11 @@
           "date": "2026-06-06",
           "edition": "evening",
           "update": "Ukraine launched drone strikes near St. Petersburg for the second time in one week on the final day of Putin's flagship St. Petersburg International Economic Forum. Russia's defense ministry reported that hundreds of Ukrainian drones were shot down across 16 regions, including Crimea, as the forum concluded."
+        },
+        {
+          "date": "2026-06-07",
+          "edition": "morning",
+          "update": "Ukraine launched a long-range drone strike on St. Petersburg hours after Putin concluded his address at the St. Petersburg International Economic Forum, marking the second such attack on the city within days."
         }
       ],
       "parentId": null
@@ -854,7 +859,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-06",
+      "lastSeen": "2026-06-07",
       "active": true,
       "entries": [
         {
@@ -1091,6 +1096,11 @@
           "date": "2026-06-06",
           "edition": "evening",
           "update": "Bahrain's General Command reported that Iran launched three ballistic missiles and several drones toward Bahrain and Kuwait, all of which were intercepted and destroyed by Bahrain's air defense systems. Kuwait separately reported intercepting seven ballistic missiles over residential areas, with some debris falling but no casualties. Pope Leo XIV declared that the war with Iran does not qualify as a 'just war' under Catholic teaching, making the statement to journalists during his six-day visit to Spain."
+        },
+        {
+          "date": "2026-06-07",
+          "edition": "morning",
+          "update": "Arab nations condemned Iran's missile and drone attacks on Bahrain and Kuwait. One person was killed and six others wounded in shootings near the West Bank, according to Israeli rescue services."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1555,7 +1565,7 @@
         {
           "date": "2026-06-07",
           "edition": "morning",
-          "update": "The Israeli military confirmed it is investigating the strike that killed three Lebanese Army soldiers, including a general, which Arab nations condemned alongside Iran's attacks on Bahrain and Kuwait. The Israeli military also reported intercepting two projectiles that crossed into Israel from Lebanon. Lebanese army chief Rodolphe Haykal departed for an unannounced visit to Pakistan as funeral preparations began for the soldiers killed in the strike."
+          "update": "Lebanese army chief Rodolphe Haykal departed on a surprise visit to Pakistan amid the ongoing conflict, coinciding with funeral preparations for Lebanese soldiers killed in Israeli strikes. The Israeli military confirmed it is investigating the strike that killed three soldiers, including a general, on a road in south Lebanon. The Israeli military separately reported intercepting two projectiles that crossed into Israel from Lebanon."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2165,7 +2175,7 @@
         {
           "date": "2026-06-07",
           "edition": "morning",
-          "update": "Al Jazeera published a data report marking 100 days since the start of the US-Israel conflict with Iran, which it dates to February 28, covering the human and economic toll of the war. The Middle East experienced its most intense exchange of fire between the US and Iran since a ceasefire began, straining the fragile truce. A former US ambassador told Newsweek that American vulnerabilities exposed during the 100 days stem from political decisions rather than military capability, while Newsweek identified China, Iran, and Israel as winners and energy markets, Lebanon, and US regional standing as losers."
+          "update": "The US and Iranian forces engaged in their most intense exchange since a ceasefire began, straining the fragile truce, with the US shooting down Iranian drones over the Strait of Hormuz on what marked day 100 of the conflict. The Treasury Department is considering using frozen Iranian assets to fund reconstruction efforts for Gulf allies damaged by Iranian attacks. A former US ambassador told Newsweek that American vulnerabilities exposed over the 100-day conflict stem from political rather than military failures, while analysts identified China, Iran, and Israel as relative winners of the period. Economists are revisiting the concept of 'demand destruction' as oil price spikes persist."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2975,7 +2985,7 @@
         {
           "date": "2026-06-07",
           "edition": "morning",
-          "update": "Chinese President Xi Jinping arrived in North Korea for his first visit in seven years, with Kim Jong Un expected to project confidence and defiance. North Korea had reaffirmed its nuclear status the day before Xi's arrival."
+          "update": "North Korea reaffirmed its status as a nuclear state on the eve of Chinese President Xi Jinping's scheduled visit to Pyongyang."
         }
       ],
       "parentId": null
@@ -3171,7 +3181,7 @@
         {
           "date": "2026-06-07",
           "edition": "morning",
-          "update": "The US Treasury Department is considering using frozen Iranian assets to fund reconstruction efforts for Gulf allies damaged by Iranian attacks. Separately, Iranian officials reported that technical staff have been denied US visas, hours after the State Department confirmed Iranian players would receive visas for the World Cup."
+          "update": "Al Jazeera reviewed the multiple instances during the first 100 days of the US-Israel conflict with Iran in which a diplomatic deal appeared imminent but failed to materialize."
         }
       ]
     },
@@ -3556,7 +3566,7 @@
         {
           "date": "2026-06-07",
           "edition": "morning",
-          "update": "OPEC+ is set to implement its fourth oil production quota increase since the closure of the Strait of Hormuz, according to Reuters sources."
+          "update": "OPEC+ is set to approve a fourth consecutive oil production quota increase since the closure of the Strait of Hormuz, according to Reuters sources."
         }
       ]
     },
@@ -3886,5 +3896,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-07T11:05:00.419Z"
+  "updatedAt": "2026-06-07T11:05:05.903Z"
 }
