@@ -73,5 +73,65 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-07T04:45:01.427Z"
+  },
+  {
+    "title": "Why is Chinese President Xi Jinping visiting North Korea now?",
+    "description": "The Chinese leader is making his first trip to Pyongyang in seven years amid significant military developments.",
+    "link": "https://www.aljazeera.com/news/2026/6/7/why-is-chinese-president-xi-jinping-visiting-north-korea-now?traffic_source=rss",
+    "pubDate": "Sun, 07 Jun 2026 04:30:44 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-06-07T05:00:01.380Z"
+  },
+  {
+    "title": "Kenyan graduates turn to AI tools for farming as jobs dry up",
+    "description": "Young farmers are combining traditional agriculture with mobile apps to build livelihoods in the absence of formal jobs.",
+    "link": "https://www.aljazeera.com/economy/2026/6/7/kenyan-graduates-turn-to-ai-tools-for-farming-as-jobs-dry-up?traffic_source=rss",
+    "pubDate": "Sun, 07 Jun 2026 04:14:27 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-06-07T05:00:01.380Z"
+  },
+  {
+    "title": "Golden Knights beat Hurricanes in double OT Game 3, one of the wildest Stanley Cup Final games of all-time",
+    "description": "Mitch Marner set an NHL record with a hat trick in just six minutes and 10 seconds as Vegas beat Carolina in double overtime in a wild Game 3.",
+    "link": "https://www.foxnews.com/sports/golden-knights-win-double-ot-game-one-wildest-stanley-cup-final-games-time",
+    "pubDate": "Sun, 07 Jun 2026 00:50:07 -0400",
+    "source": "Fox News",
+    "categories": [
+      "14e6eb04-7739-59a2-8836-d64fc8168821",
+      "fnc",
+      "fox news",
+      "fox-news/sports",
+      "fox-news/sports/nhl/vegas-golden-knights",
+      "fox-news/sports/stanley-cup-playoffs",
+      "fox-news/sports/nhl",
+      "fox-news/sports/nhl/carolina-hurricanes",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-06-07T05:00:01.380Z"
+  },
+  {
+    "title": "Austin Warren allows costly homer in rare bullpen hiccup as Mets fall to Padres",
+    "description": "Austin Warren has become indispensable to the Mets bullpen based on his versatility and success, but Saturday night brought his most glaring hiccup.",
+    "link": "https://nypost.com/2026/06/07/sports/austin-warren-allows-costly-homer-as-mets-fall-to-padres/",
+    "pubDate": "Sun, 07 Jun 2026 00:56:34 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-07T05:00:01.380Z"
+  },
+  {
+    "title": "Florida flight attendant fatally struck by boat while snorkeling, body found on beach by fishermen",
+    "description": "An American Airlines flight attendant was fatally struck by a boat while she was snorkeling in South Florida, before her body was found washed up on a beach",
+    "link": "https://nypost.com/2026/06/07/us-news/florida-flight-attendant-kellie-melinda-williams-fatally-struck-by-boat-while-snorkeling-body-found-on-beach-by-fisherman/",
+    "pubDate": "Sun, 07 Jun 2026 00:55:50 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-07T05:00:01.380Z"
   }
 ]
