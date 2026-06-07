@@ -716,6 +716,11 @@
           "date": "2026-06-07",
           "edition": "morning",
           "update": "Ukraine launched a long-range drone strike on St. Petersburg hours after Putin concluded his address at the St. Petersburg International Economic Forum, marking the second such attack on the city within days."
+        },
+        {
+          "date": "2026-06-07",
+          "edition": "evening",
+          "update": "A Russian Shahed drone struck a nuclear fuel storage facility near the Chornobyl nuclear plant; Zelensky described the strike as 'extremely vile.' UK Prime Minister Starmer hosted Zelensky alongside French President Macron and German Chancellor Merz for talks, as separate Russian strikes killed three people in Ukraine."
         }
       ],
       "parentId": null
@@ -1101,6 +1106,11 @@
           "date": "2026-06-07",
           "edition": "morning",
           "update": "Arab nations condemned Iran's missile and drone attacks on Bahrain and Kuwait. One person was killed and six others wounded in shootings near the West Bank, according to Israeli rescue services."
+        },
+        {
+          "date": "2026-06-07",
+          "edition": "evening",
+          "update": "Iran launched missile strikes against Israel for the first time since the April ceasefire took effect, firing in retaliation for Israeli strikes on what Israel described as Hezbollah command centers in Beirut; Israeli air defense systems were activated in response. Trump stated he will not unfreeze Iranian assets or lift sanctions until a deal is completed, and the attack is reported to be complicating ongoing mediation efforts."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1566,6 +1576,11 @@
           "date": "2026-06-07",
           "edition": "morning",
           "update": "Lebanese army chief Rodolphe Haykal departed on a surprise visit to Pakistan amid the ongoing conflict, coinciding with funeral preparations for Lebanese soldiers killed in Israeli strikes. The Israeli military confirmed it is investigating the strike that killed three soldiers, including a general, on a road in south Lebanon. The Israeli military separately reported intercepting two projectiles that crossed into Israel from Lebanon."
+        },
+        {
+          "date": "2026-06-07",
+          "edition": "evening",
+          "update": "A Palestinian man with Israeli citizenship opened fire across multiple towns in central Israel, killing one 35-year-old man and wounding five others, two critically; Israeli police later killed the suspect in Kokhav Yair, and far-right National Security Minister Itamar Ben-Gvir praised the police response. Israel bombed the outskirts of Beirut, with the Israeli government describing the target as a Hezbollah headquarters, even as Israeli and Lebanese officials held ceasefire talks in Washington brokered by the Trump administration."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2176,6 +2191,11 @@
           "date": "2026-06-07",
           "edition": "morning",
           "update": "The US and Iranian forces engaged in their most intense exchange since a ceasefire began, straining the fragile truce, with the US shooting down Iranian drones over the Strait of Hormuz on what marked day 100 of the conflict. The Treasury Department is considering using frozen Iranian assets to fund reconstruction efforts for Gulf allies damaged by Iranian attacks. A former US ambassador told Newsweek that American vulnerabilities exposed over the 100-day conflict stem from political rather than military failures, while analysts identified China, Iran, and Israel as relative winners of the period. Economists are revisiting the concept of 'demand destruction' as oil price spikes persist."
+        },
+        {
+          "date": "2026-06-07",
+          "edition": "evening",
+          "update": "Iran's top negotiator threatened US targets in response to escalation in Lebanon, according to Reuters. The US circulated a draft resolution at the IAEA demanding Iran provide access to undisclosed nuclear sites and account for its uranium stockpiles. Global airlines cut their 2026 profit forecasts due to war-related fuel price shocks, and Al Jazeera reported US households have spent an average of $750 more in expenses over the 100-day conflict, with lower-income Americans disproportionately affected. The NY Times reported widespread despair among Iranians across the political spectrum amid war-related deaths and severe economic deterioration including skyrocketing inflation."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3037,6 +3057,11 @@
           "date": "2026-06-03",
           "edition": "evening",
           "update": "Trump confirmed he called Israeli Prime Minister Netanyahu 'crazy' during a phone call, saying he was 'perturbed' by Israel's ongoing military operations in Lebanon, which he said were complicating U.S. efforts to secure a peace agreement with Iran."
+        },
+        {
+          "date": "2026-06-07",
+          "edition": "evening",
+          "update": "Israel struck the southern suburbs of Beirut, claiming to target Hezbollah command facilities, following Hezbollah fire into Israeli territory — despite a recently renewed US-brokered ceasefire. At least five people were killed in Gaza by Israeli strikes, Egypt is hosting renewed ceasefire talks between Hamas and mediators, and a suspected Hamas member was arrested in Crete, Greece, for allegedly plotting an attack on an Israeli cruise ship."
         }
       ]
     },
@@ -3182,6 +3207,11 @@
           "date": "2026-06-07",
           "edition": "morning",
           "update": "Al Jazeera reviewed the multiple instances during the first 100 days of the US-Israel conflict with Iran in which a diplomatic deal appeared imminent but failed to materialize."
+        },
+        {
+          "date": "2026-06-07",
+          "edition": "evening",
+          "update": "Trump stated in an NBC Meet the Press interview that the war with Iran 'is not a forever war' and that the U.S. would work with Iran to retrieve and destroy its highly enriched uranium as part of a potential deal. Trump also expanded his stated condition for a nuclear agreement to include preventing Iran from acquiring a nuclear weapon by any means, including purchase — not only domestic development — and warned the U.S. will 'blow the hell out of' Iran if no deal is reached."
         }
       ]
     },
@@ -3896,5 +3926,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-07T11:05:05.903Z"
+  "updatedAt": "2026-06-07T21:06:58.302Z"
 }
