@@ -7865,5 +7865,53 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-07T01:00:01.204Z"
+  },
+  {
+    "title": "Starmer tells supporters he will fight any leadership contest",
+    "description": "The prime minister's position has hardened since Andy Burnham said he would seek to enter any potential Labour contest.",
+    "link": "https://www.bbc.com/news/articles/c3vyxzl625po?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 07 Jun 2026 01:03:55 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-07T01:15:02.676Z"
+  },
+  {
+    "title": "Professional sports and media need to stop acting like Russian athletes are Putin puppets",
+    "description": "Russian athletes face flag bans and political scrutiny at 2026 French Open as Mirra Andreeva wins Roland Garros amid ongoing neutrality policies.",
+    "link": "https://www.foxnews.com/outkick-analysis/professional-sports-media-need-stop-acting-like-russian-athletes-putin-puppets",
+    "pubDate": "Sat, 06 Jun 2026 21:01:34 -0400",
+    "source": "Fox News",
+    "categories": [
+      "db1edaa3-0080-5847-9a87-c9c19dbeb2e0",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-analysis",
+      "fox-news/sports/tennis/french-open",
+      "fox-news/world/conflicts/ukraine",
+      "fox-news/world/personalities/vladimir-putin",
+      "fox-news/sports/nhl",
+      "fox-news/sports/tennis",
+      "fox-news/outkick-analysis",
+      "article"
+    ],
+    "collectedAt": "2026-06-07T01:15:02.676Z"
+  },
+  {
+    "title": "Marine Fauthoux finally set for Liberty debut after ‘hard’ rehab that took longer than expected",
+    "description": "French guard Marine Fauthoux has typically stood on the outskirts of the team huddle during timeouts.",
+    "link": "https://nypost.com/2026/06/06/sports/marine-fauthoux-finally-set-for-liberty-debut-after-hard-rehab/",
+    "pubDate": "Sat, 06 Jun 2026 21:09:38 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-07T01:15:02.676Z"
+  },
+  {
+    "title": "Golden Tempo trainer Cherie DeVaux makes more history with Belmont Stakes win",
+    "description": "Cherie DeVaux, Golden Tempo’s trainer, made more history Saturday at the Belmont Stakes, which her horse won after also taking the Kentucky Derby.",
+    "link": "https://nypost.com/2026/06/06/sports/golden-tempo-trainer-cherie-devaux-makes-more-history-with-belmont-stakes-win/",
+    "pubDate": "Sat, 06 Jun 2026 21:06:59 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-07T01:15:02.676Z"
   }
 ]
