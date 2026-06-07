@@ -1966,5 +1966,97 @@
     "source": "Newsmax",
     "categories": [],
     "collectedAt": "2026-06-07T12:45:01.682Z"
+  },
+  {
+    "title": "Missing American student found dead in Japan",
+    "description": "Auburn student James \"Weston\" Higginbotham was found dead by volunteers searching a mountainous area near Kyoto, his mother said in a Facebook post.",
+    "link": "https://abcnews.com/International/american-missing-japan-found-dead-mountainous-area-kyoto/story?id=133651194",
+    "pubDate": "Sun, 07 Jun 2026 08:48:35 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-06-07T13:00:01.444Z"
+  },
+  {
+    "title": "Hegseth Criticizes Europe Over Migration ‘Invasion’ in D-Day Speech",
+    "description": "The remarks from Defense Secretary Pete Hegseth reflect many of the Trump administration’s previous assertions on immigrants in Europe, which overlap with the language of European far-right political parties.",
+    "link": "https://www.nytimes.com/2026/06/07/us/politics/hegseth-europe-migration-d-day.html",
+    "pubDate": "Sun, 07 Jun 2026 12:37:58 +0000",
+    "source": "NY Times",
+    "categories": [
+      "hegseth, pete",
+      "europe",
+      "world war ii (1939-45)",
+      "trump, donald j",
+      "immigration and emigration"
+    ],
+    "collectedAt": "2026-06-07T13:00:01.444Z"
+  },
+  {
+    "title": "World Cup 2026 in numbers: Key statistical goals, titles and age records",
+    "description": "The 2026 World Cup has already set records for the most host nations, most matches and the highest prize money.",
+    "link": "https://www.aljazeera.com/sports/2026/6/7/world-cup-2026-in-numbers-key-statistical-goals-titles-and-age-records?traffic_source=rss",
+    "pubDate": "Sun, 07 Jun 2026 12:33:24 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-06-07T13:00:01.444Z"
+  },
+  {
+    "title": "US troops, families adjust to new normal of Iran war - Reuters",
+    "description": "US troops, families adjust to new normal of Iran war  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNnZsdGU2c1U4bVEtODZxTlpvd0x5VGNja3hYTHZSUVJjZGI2VG5XUEVkck1NdG5Rb0tTenNyYWJJa1BUVzlsVmpiM1lOWjhaMmM2a1lWOFZVcnh2MnhzMkM2YjV4ZVF0MmIzenE4MmFoaE9pQ014R1oxS2RXR0kzejZLUVNYQUZOdUxhLW13SWE3WEI2QUcyLUs4el96QnFiZzkweHROVERfRVdCVEx6ZA?oc=5",
+    "pubDate": "Sun, 07 Jun 2026 10:37:40 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-06-07T13:00:01.444Z"
+  },
+  {
+    "title": "Trump: Iran has not agreed on peace deal because they’re ‘strong,’ ‘proud’",
+    "description": "President Trump said Iran has not agreed to a deal to end the war because they are “strong” and “proud” but noted they have “no choice” but to reach an agreement.  “They’re strong, they’re proud, there are things they never thought they’d be doing that they’re going to have to do,” Trump said during an…",
+    "link": "https://thehill.com/policy/international/5913641-trump-iran-deal-pressure/",
+    "pubDate": "Sun, 07 Jun 2026 12:04:24 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "international",
+      "news",
+      "iran war",
+      "president trump",
+      "trump administration",
+      "u.s.-iran peace deal"
+    ],
+    "collectedAt": "2026-06-07T13:00:01.444Z"
+  },
+  {
+    "title": "‘This would be a one-time event’: How can I take extra money from my 401(k) without triggering higher Medicare premiums?",
+    "description": "“I generally withdraw money from my traditional 401(k) for projects, larger expenses and sometimes just to stay ahead on upcoming bills.”",
+    "link": "https://www.marketwatch.com/story/this-would-be-a-one-time-event-how-can-i-take-extra-money-from-my-401-k-without-triggering-higher-medicare-premiums-fef1586d?mod=mw_rss_topstories",
+    "pubDate": "Sun, 07 Jun 2026 12:51:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-06-07T13:00:01.444Z"
+  },
+  {
+    "title": "Android fake call detection warns you about scams",
+    "description": "Android's new fake call detection feature warns users when scammers spoof trusted contacts' numbers and use AI voice tools to impersonate loved ones.",
+    "link": "https://www.foxnews.com/tech/android-fake-call-detection-warns-scams",
+    "pubDate": "Sun, 07 Jun 2026 08:46:47 -0400",
+    "source": "Fox News",
+    "categories": [
+      "83ee10c9-bfc9-59d2-a2bd-ee1be686844f",
+      "fnc",
+      "fox news",
+      "fox-news/tech/technologies/smartphones",
+      "fox-news/tech/topics/security",
+      "fox-news/tech/technologies/android",
+      "fox-news/tech/topics/cybercrime",
+      "fox-news/tech/companies/google",
+      "fox-news/tech",
+      "article"
+    ],
+    "collectedAt": "2026-06-07T13:00:01.444Z"
   }
 ]
