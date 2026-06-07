@@ -720,7 +720,7 @@
         {
           "date": "2026-06-07",
           "edition": "evening",
-          "update": "A Russian Shahed drone struck a nuclear fuel storage facility near the Chornobyl nuclear plant; Zelensky described the strike as 'extremely vile.' UK Prime Minister Starmer hosted Zelensky alongside French President Macron and German Chancellor Merz for talks, as separate Russian strikes killed three people in Ukraine."
+          "update": "A Russian Shahed drone struck a nuclear fuel storage facility near the Chernobyl nuclear plant; Zelensky condemned the strike as 'extremely vile.' UK Prime Minister Starmer hosted Zelensky alongside French President Macron and German Chancellor Merz, as Russian strikes killed three people in Ukraine."
         }
       ],
       "parentId": null
@@ -1110,7 +1110,7 @@
         {
           "date": "2026-06-07",
           "edition": "evening",
-          "update": "Iran launched missile strikes against Israel for the first time since the April ceasefire took effect, firing in retaliation for Israeli strikes on what Israel described as Hezbollah command centers in Beirut; Israeli air defense systems were activated in response. Trump stated he will not unfreeze Iranian assets or lift sanctions until a deal is completed, and the attack is reported to be complicating ongoing mediation efforts."
+          "update": "Iran launched ballistic missiles at Israel for the first time since an April 2026 ceasefire, in retaliation for Israeli strikes on Hezbollah command centers in Beirut; Israel's air defense systems were activated to intercept them. Iran's top negotiator also threatened U.S. targets in response to the escalation in Lebanon. Trump stated the U.S. will not unfreeze Iranian assets or lift sanctions until a deal is completed, and the renewed missile exchange has complicated ongoing mediation efforts."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1580,7 +1580,7 @@
         {
           "date": "2026-06-07",
           "edition": "evening",
-          "update": "A Palestinian man with Israeli citizenship opened fire across multiple towns in central Israel, killing one 35-year-old man and wounding five others, two critically; Israeli police later killed the suspect in Kokhav Yair, and far-right National Security Minister Itamar Ben-Gvir praised the police response. Israel bombed the outskirts of Beirut, with the Israeli government describing the target as a Hezbollah headquarters, even as Israeli and Lebanese officials held ceasefire talks in Washington brokered by the Trump administration."
+          "update": "Israel launched airstrikes on Beirut's southern suburbs, striking what it described as a Hezbollah 'terrorist' headquarters in the Dahieh district, with multiple explosions reported. The strikes occurred days after a U.S.-brokered ceasefire renewal and while Israeli and Lebanese officials were engaged in Washington talks pushed by the Trump administration. Hezbollah has rejected the proposed truce. Egypt separately hosted renewed Gaza ceasefire talks on the same day as the Beirut strikes."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2195,7 +2195,7 @@
         {
           "date": "2026-06-07",
           "edition": "evening",
-          "update": "Iran's top negotiator threatened US targets in response to escalation in Lebanon, according to Reuters. The US circulated a draft resolution at the IAEA demanding Iran provide access to undisclosed nuclear sites and account for its uranium stockpiles. Global airlines cut their 2026 profit forecasts due to war-related fuel price shocks, and Al Jazeera reported US households have spent an average of $750 more in expenses over the 100-day conflict, with lower-income Americans disproportionately affected. The NY Times reported widespread despair among Iranians across the political spectrum amid war-related deaths and severe economic deterioration including skyrocketing inflation."
+          "update": "At the 100-day mark, U.S. households have spent an average of $750 more in expenses, with middle- and lower-income Americans bearing the greatest burden, according to Al Jazeera. Global airlines slashed their 2026 profit forecasts due to the fuel price shock caused by the conflict. The United States circulated a draft IAEA resolution demanding Iran provide greater transparency about its nuclear sites and uranium stockpiles. Trump, in his NBC Meet the Press interview, defended a compensation fund and reiterated that gas prices would fall when the war ends. The NY Times reported widespread despair among Iranians across the political spectrum amid a collapsing economy and skyrocketing inflation."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3057,11 +3057,6 @@
           "date": "2026-06-03",
           "edition": "evening",
           "update": "Trump confirmed he called Israeli Prime Minister Netanyahu 'crazy' during a phone call, saying he was 'perturbed' by Israel's ongoing military operations in Lebanon, which he said were complicating U.S. efforts to secure a peace agreement with Iran."
-        },
-        {
-          "date": "2026-06-07",
-          "edition": "evening",
-          "update": "Israel struck the southern suburbs of Beirut, claiming to target Hezbollah command facilities, following Hezbollah fire into Israeli territory — despite a recently renewed US-brokered ceasefire. At least five people were killed in Gaza by Israeli strikes, Egypt is hosting renewed ceasefire talks between Hamas and mediators, and a suspected Hamas member was arrested in Crete, Greece, for allegedly plotting an attack on an Israeli cruise ship."
         }
       ]
     },
@@ -3211,7 +3206,7 @@
         {
           "date": "2026-06-07",
           "edition": "evening",
-          "update": "Trump stated in an NBC Meet the Press interview that the war with Iran 'is not a forever war' and that the U.S. would work with Iran to retrieve and destroy its highly enriched uranium as part of a potential deal. Trump also expanded his stated condition for a nuclear agreement to include preventing Iran from acquiring a nuclear weapon by any means, including purchase — not only domestic development — and warned the U.S. will 'blow the hell out of' Iran if no deal is reached."
+          "update": "In a Meet the Press interview with Kristen Welker, Trump stated 'This is not going to be a forever war' and insisted the Iran conflict is not a quagmire, while warning he will 'blow the hell out of' Iran if a nuclear deal is not reached. Trump expanded his stated condition for a deal to include preventing Iran from acquiring a nuclear weapon by any means, including purchase — broadening his prior focus on domestic development. He also stated the U.S. would work with Iran to retrieve and destroy its highly enriched uranium if an agreement is reached."
         }
       ]
     },
@@ -3926,5 +3921,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-07T21:06:58.302Z"
+  "updatedAt": "2026-06-07T21:07:00.523Z"
 }
