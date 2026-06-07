@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-03",
+      "lastSeen": "2026-06-06",
       "active": true,
       "entries": [
         {
@@ -251,6 +251,26 @@
           "date": "2026-06-03",
           "edition": "morning",
           "update": "Acting Attorney General Todd Blanche and Rep. Madeleine Dean had a heated exchange during a House Appropriations Committee hearing over the state of the Jeffrey Epstein investigation."
+        },
+        {
+          "date": "2026-06-04",
+          "edition": "evening",
+          "update": "The House Oversight Committee released transcripts of interviews related to the Epstein files on Thursday. Chairman James Comer separately requested the DOJ investigate allegations of sexual abuse by individuals in Jeffrey Epstein's orbit, based on claims made by a former Epstein assistant."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "morning",
+          "update": "The House Oversight Committee released the transcript of Pam Bondi's closed-door interview, sparking a dispute between Republicans and Democrats over her claims, including her attribution of responsibility for the Epstein files release to then-Deputy Attorney General Todd Blanche. Sen. Ron Wyden launched an inquiry into why billionaire Leon Black paid Jeffrey Epstein approximately $170 million for alleged tax planning services. The Committee called on the DOJ to investigate sexual misconduct allegations made by former Epstein assistant Sarah Kellen against two of Epstein's associates. A former correction officer testified before the Committee that she was not the orange shape seen moving up the stairs near Epstein's cell tier on the night of his death."
+        },
+        {
+          "date": "2026-06-06",
+          "edition": "morning",
+          "update": "Former Epstein prison guard Tova Noel publicly addressed how conspiracy theories and threats have disrupted her life, including questions raised about her browsing history and bank transactions."
+        },
+        {
+          "date": "2026-06-06",
+          "edition": "evening",
+          "update": "Nancy Mace is running for South Carolina governor while facing political headwinds including President Trump endorsing her opponent following her vote on the Epstein files."
         }
       ],
       "parentId": null
@@ -259,7 +279,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-02",
+      "lastSeen": "2026-06-05",
       "active": true,
       "entries": [
         {
@@ -371,6 +391,21 @@
           "date": "2026-06-02",
           "edition": "morning",
           "update": "Iranian state media announced the suspension of all peace talks with the United States following U.S. and Israeli strikes. Trump described the negotiations as 'very boring' and told CNBC he 'couldn't care less' if they break down. IAEA Director General Rafael Grossi stated that the 2015 JCPOA is no longer a workable model and that any future nuclear agreement with Iran will look significantly different."
+        },
+        {
+          "date": "2026-06-04",
+          "edition": "evening",
+          "update": "The IAEA released its first report on Iran's nuclear programme since February, finding little change in the programme despite the ongoing conflict in the region, according to Reuters."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "morning",
+          "update": "The IAEA reiterated concerns that Iran's suspension of cooperation with the agency has prevented inspectors from fully monitoring Iran's nuclear program since 2025."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "evening",
+          "update": "The US is preparing a draft resolution to condemn Iran at the IAEA, according to diplomats cited by Newsmax."
         }
       ],
       "parentId": null
@@ -379,7 +414,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-04",
+      "lastSeen": "2026-06-06",
       "active": true,
       "entries": [
         {
@@ -646,6 +681,31 @@
           "date": "2026-06-04",
           "edition": "morning",
           "update": "Secretary of State Marco Rubio told a Senate Appropriations subcommittee that the Russia-Ukraine war 'has no military solution' and warned that escalation risk is 'more real than it was two years ago,' citing concerns about increasing long-range exchanges. The U.S. House advanced new sanctions on Russia and aid to Ukraine after six Republicans and one Independent joined Democrats to force the measure to the floor, bypassing Speaker opposition. Al Jazeera reported that the Ukrainian strikes near St. Petersburg late Tuesday targeted both an oil facility and a naval air base, with new video of the attacks emerging via NBC News."
+        },
+        {
+          "date": "2026-06-04",
+          "edition": "evening",
+          "update": "French jets intercepted Russian aircraft 11 times over the course of one week in the Baltic region, according to Reuters. Sweden's Gripen fighter jet is under scrutiny as Ukraine's air war with Russia presents a critical test for the aircraft's potential role in the conflict."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "morning",
+          "update": "The House passed a Ukraine aid and Russia sanctions package on Thursday by a vote of 226 to 195, with 18 Republicans joining Democrats in defying House GOP leadership and President Trump's preferred approach. The legislation includes military aid to Ukraine and sanctions on Russia. Putin is scheduled to deliver a speech at the St. Petersburg International Economic Forum, days after Ukrainian drone strikes targeted the host city."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "evening",
+          "update": "Ukraine announced it struck five cargo ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories. A malfunctioning Ukrainian naval drone exploded at a key Black Sea port in Romania, prompting European Commission President Ursula von der Leyen to warn it was a 'direct consequence' of the Russia-Ukraine war and raising fears of conflict spillover into NATO territory. A Swedish court ruled that a seized cargo ship can be handed over to Ukraine."
+        },
+        {
+          "date": "2026-06-06",
+          "edition": "morning",
+          "update": "Putin rejected the possibility of direct talks with Ukrainian President Zelensky, stating there was 'no point' in such a meeting, while acknowledging economic difficulties caused by ongoing Ukrainian drone strikes penetrating Moscow's air defenses."
+        },
+        {
+          "date": "2026-06-06",
+          "edition": "evening",
+          "update": "Ukraine launched drone strikes near St. Petersburg for the second time in one week on the final day of Putin's flagship St. Petersburg International Economic Forum. Russia's defense ministry reported that hundreds of Ukrainian drones were shot down across 16 regions, including Crimea, as the forum concluded."
         }
       ],
       "parentId": null
@@ -789,7 +849,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-04",
+      "lastSeen": "2026-06-06",
       "active": true,
       "entries": [
         {
@@ -1001,6 +1061,31 @@
           "date": "2026-06-04",
           "edition": "morning",
           "update": "The Iranian drone attack on Kuwait's main airport killed one person and injured dozens more, straining the fragile ceasefire. Trump dismissed the latest violence and said a longer-term peace deal could be reached that weekend, according to NBC News."
+        },
+        {
+          "date": "2026-06-04",
+          "edition": "evening",
+          "update": "Iran national football players Saeid Ezatolahi and Mohammad Ghorbani spoke to Al Jazeera about how the conflict involving the U.S. and Israel is affecting their focus during World Cup preparations. Kuwait's defense ministry condemned the Iranian drone strike on the country's international airport as 'criminal Iranian aggression,' releasing footage showing a massive explosion at the facility."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "morning",
+          "update": "UN envoys called on President Trump to intervene and halt Israeli annexation plans, according to Al Jazeera."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "evening",
+          "update": "Iran declared its support for Hezbollah amid doubts over a wider peace deal, according to Reuters."
+        },
+        {
+          "date": "2026-06-06",
+          "edition": "morning",
+          "update": "Azerbaijan officially denied a CNN report, citing four anonymous sources, that alleged Israel conducted intelligence and military operations against Iran from Azerbaijani territory during the war."
+        },
+        {
+          "date": "2026-06-06",
+          "edition": "evening",
+          "update": "Bahrain's General Command reported that Iran launched three ballistic missiles and several drones toward Bahrain and Kuwait, all of which were intercepted and destroyed by Bahrain's air defense systems. Kuwait separately reported intercepting seven ballistic missiles over residential areas, with some debris falling but no casualties. Pope Leo XIV declared that the war with Iran does not qualify as a 'just war' under Catholic teaching, making the statement to journalists during his six-day visit to Spain."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1119,7 +1204,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-04",
+      "lastSeen": "2026-06-06",
       "active": true,
       "entries": [
         {
@@ -1436,6 +1521,31 @@
           "date": "2026-06-04",
           "edition": "morning",
           "update": "Israel and Lebanon agreed to implement a ceasefire, though Hezbollah was not included in the talks and the agreement is conditional on Hezbollah halting its attacks. Lebanon's Health Ministry reported that Israeli attacks have killed 3,516 people in the country since March. Netanyahu is facing declining support among voters in northern Israel, who are demanding a tougher stance on Lebanon, according to Reuters."
+        },
+        {
+          "date": "2026-06-04",
+          "edition": "evening",
+          "update": "Israel and Lebanon announced a ceasefire renewal following a third round of trilateral talks involving the U.S. State Department. Hezbollah formally rejected the renewed agreement, clouding prospects for ending both the Lebanon conflict and the broader confrontation with Iran. A UN peacekeeper was killed and others wounded after coming under mortar fire in southeastern Lebanon, according to UNIFIL. Iran declared 'no tangible progress' had been made in its talks with the U.S. amid the ongoing tensions."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "morning",
+          "update": "The House voted 324-92 to reject a war powers resolution that would have directed President Trump to remove U.S. troops from unauthorized hostilities in Lebanon, with 207 Republicans, 117 Democrats, and one independent voting against the measure. One day after Israel and Lebanon signed a ceasefire agreement, Israel and Hezbollah resumed trading strikes, while Israeli troops began withdrawing from the Debbine area in southern Lebanon. Israel's Supreme Court annulled a government ban that had prevented the International Red Cross from visiting Palestinian prisoners held in Israeli jails."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "evening",
+          "update": "The UN increased its humanitarian aid appeal for Lebanon to nearly $640 million for the next six months, citing the humanitarian crisis driven by the Israeli war. Israel continued attacks and issued new forced displacement orders for several towns and villages in southern Lebanon despite the US-brokered ceasefire deal. Hezbollah, which was not party to the talks, rejected the ceasefire conditions — which required the group to stop firing first — calling them a virtual surrender."
+        },
+        {
+          "date": "2026-06-06",
+          "edition": "morning",
+          "update": "US Central Command reported intercepting seven ballistic missiles fired toward Kuwait and Bahrain amid ongoing Israeli bombardment of Lebanon. Visual evidence collected by the NY Times shows the Israeli military has deployed white phosphorus munitions over populated areas in Lebanon."
+        },
+        {
+          "date": "2026-06-06",
+          "edition": "evening",
+          "update": "An Israeli strike killed three Lebanese soldiers while they were travelling on the Khardali-Nabatieh road, occurring days after the ceasefire agreement was signed. Israeli attacks in Lebanon killed at least 10 people in total, including a brigadier general, a captain, and a soldier among the dead. A Palestinian infant, Sam Fahd Abu Haikal, was killed in the West Bank after an Israeli soldier opened fire on a car; the Israeli military said the vehicle was speeding toward soldiers, while the baby's grandmother, who said she was in the car, disputed that account."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1444,7 +1554,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-04",
+      "lastSeen": "2026-06-06",
       "active": true,
       "entries": [
         {
@@ -2016,6 +2126,31 @@
           "date": "2026-06-04",
           "edition": "morning",
           "update": "The House passed a war powers resolution 215-208 on Wednesday to restrict President Trump's authority to engage U.S. forces in hostilities with Iran without congressional approval, marking the first time the House has passed such a resolution since the conflict began. Four Republicans, including Thomas Massie (Ky.) and Brian Fitzpatrick (Pa.), voted with Democrats to pass the measure, though it would likely face a presidential veto even if the Senate approves it. Iran launched deadly strikes on U.S. bases in Kuwait on Wednesday, describing the attacks as self-defense, while Kuwait's defence ministry condemned the airport attack as 'heinous Iranian aggression' and released CCTV footage it says shows the Iranian drone strike. Trump told reporters Wednesday he is 'very proud' of the decision to strike Iran and claimed the war has coincided with record stock market gains, though Reuters reported stocks declined following the latest flare-up of hostilities and the OECD warned a prolonged energy supply disruption could trigger recessions and increased unemployment globally. Trump indicated nuclear talks with Iran remain ongoing despite the strikes. Marc Short, former chief of staff to Vice President Pence, published a Washington Post op-ed warning the war and Trump's trade policy could cost Republicans the support of farmers."
+        },
+        {
+          "date": "2026-06-04",
+          "edition": "evening",
+          "update": "Trump condemned the four Republican lawmakers who voted with Democrats to pass the war powers resolution as 'unpatriotic' and 'bad,' and dismissed the resolution itself as 'meaningless.' The White House confirmed it continues to pursue diplomatic negotiations with Iran over its nuclear program nearly two months after the fragile ceasefire, despite repeated Iranian military provocations."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "morning",
+          "update": "An Economist/YouGov poll found that 68% of Americans said the U.S. should make a deal to end the war in Iran 'as quickly as possible,' while 11% disagreed and 21% were undecided."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "evening",
+          "update": "The UN World Food Programme warned that the US-Iran war is causing substantial increases in food prices across multiple countries, pushing millions into food crisis. A US naval blockade has cost Iran nearly $6 billion in oil revenues, with Iran now exporting less than one-sixth of pre-war oil volumes, according to Al Jazeera. Iran announced it fired warning missiles and drones at US warships in the Gulf of Oman, and U.S. forces boarded a sanctioned tanker in the Indian Ocean, according to the Pentagon."
+        },
+        {
+          "date": "2026-06-06",
+          "edition": "morning",
+          "update": "US Central Command confirmed that at least four Iranian drones launched toward the Strait of Hormuz were shot down, with CENTCOM stating the drones posed an immediate threat to regional maritime traffic. US forces subsequently struck Iranian coastal radar sites at Goruk in Hormozgan province and on Qeshm Island in response to the drone launch. President Trump stated that Iran retains approximately 21-22% of its missiles and claimed most of Iran's drone factories, launching pads, and missile manufacturing facilities have been destroyed, as peace talks continue."
+        },
+        {
+          "date": "2026-06-06",
+          "edition": "evening",
+          "update": "President Trump stated that Iran 'has no choice' but to reach a deal to end the war, according to Newsmax."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2274,7 +2409,7 @@
       "id": "hezbollah-us-operations",
       "title": "Hezbollah US Operations",
       "firstSeen": "2026-03-15",
-      "lastSeen": "2026-06-02",
+      "lastSeen": "2026-06-04",
       "active": true,
       "entries": [
         {
@@ -2311,6 +2446,11 @@
           "date": "2026-06-02",
           "edition": "morning",
           "update": "A militia leader pleaded not guilty to charges related to attacks described by prosecutors as part of Iran's response to the war involving Israel and the U.S., with federal authorities indicating additional charges may be filed."
+        },
+        {
+          "date": "2026-06-04",
+          "edition": "evening",
+          "update": "Federal agents arrested tech CEO Jamshid Ghomi, a dual U.S.-Iranian citizen, on charges of selling sensitive U.S. computer equipment to Iran in violation of U.S. sanctions, according to CBS News."
         }
       ],
       "parentId": null
@@ -2564,7 +2704,7 @@
       "id": "artemis-moon-mission",
       "title": "Artemis Moon Mission",
       "firstSeen": "2026-03-23",
-      "lastSeen": "2026-06-02",
+      "lastSeen": "2026-06-06",
       "active": true,
       "entries": [
         {
@@ -2746,6 +2886,16 @@
           "date": "2026-06-02",
           "edition": "morning",
           "update": "Paralympian John McFall moved closer to becoming the first astronaut with a disability to live and work in space, according to BBC News."
+        },
+        {
+          "date": "2026-06-04",
+          "edition": "evening",
+          "update": "NASA officially declared the $582 million MAVEN Mars orbiter lost and unrecoverable after a problem occurred on the far side of Mars, ending what officials described as its 'extraordinarily successful mission.'"
+        },
+        {
+          "date": "2026-06-06",
+          "edition": "morning",
+          "update": "Five astronauts temporarily sheltered in an attached spacecraft aboard the International Space Station for approximately two hours while two cosmonauts assessed and repaired new air leaks, before all crew members resumed normal duties."
         }
       ],
       "parentId": null
@@ -2754,8 +2904,8 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-04-09",
-      "active": false,
+      "lastSeen": "2026-06-06",
+      "active": true,
       "entries": [
         {
           "date": "2026-03-29",
@@ -2791,6 +2941,21 @@
           "date": "2026-04-09",
           "edition": "morning",
           "update": "North Korea conducted a weapons testing spree this week involving multiple new systems, including ballistic missiles armed with cluster-bomb warheads, as part of efforts to expand its nuclear-capable forces."
+        },
+        {
+          "date": "2026-06-04",
+          "edition": "evening",
+          "update": "North Korean leader Kim Jong Un called for an 'exponential' expansion of the country's nuclear arsenal, citing worsening security threats, with Newsweek reporting he was reinforced in this position by observing U.S. military action against Iran. North Korea also announced the opening of a new nuclear facility, with state media photos showing what appeared to be a large centrifuge hall likely used to enrich weapons-grade uranium."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "evening",
+          "update": "Chinese President Xi Jinping announced he will travel to North Korea next week, his first visit since 2019, with both countries confirming the trip on Friday — one day after North Korea unveiled a new nuclear fuel production facility."
+        },
+        {
+          "date": "2026-06-06",
+          "edition": "morning",
+          "update": "Kim Jong Un ordered the North Korean navy to build a 10,000-tonne destroyer, according to state media, as he continues visiting military sites ahead of Chinese President Xi Jinping's scheduled visit on Monday and Tuesday."
         }
       ],
       "parentId": null
@@ -2820,7 +2985,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-04",
+      "lastSeen": "2026-06-06",
       "active": true,
       "entries": [
         {
@@ -2865,7 +3030,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-06-03",
+      "lastSeen": "2026-06-06",
       "active": true,
       "entries": [
         {
@@ -2967,6 +3132,21 @@
           "date": "2026-06-03",
           "edition": "evening",
           "update": "Trump claimed in a New York Post podcast interview that Iran has agreed to 'no nuclear,' stating Tehran pledged never to obtain a nuclear weapon. Trump also expressed anticipation about meeting with Iran's Supreme Leader, signaling potential direct diplomatic engagement, according to Newsmax."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "morning",
+          "update": "Former Secretary of State Condoleezza Rice wrote in a Wall Street Journal op-ed that the conflict with Iran has left behind a 'weaker, more confused' Iranian regime, praising U.S. efforts. Trump stated in the Oval Office that he would be 'honored' to meet with Iran's Supreme Leader, contingent on reaching a deal. Oil prices remained little changed amid ongoing uncertainty over a potential peace deal, while global stocks declined as the AI-driven market rally paused and US-Iran talks stalled."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "evening",
+          "update": "An Iranian adviser stated that nuclear talks between Iran and the US have reached a deadlock, with $24 billion cited as the key point of contention, according to Newsmax."
+        },
+        {
+          "date": "2026-06-06",
+          "edition": "morning",
+          "update": "President Trump stated on Friday that Iran has not agreed to a U.S. deal to end the conflict, attributing the impasse to Iranian leaders being 'strong' and 'proud.'"
         }
       ]
     },
@@ -3010,7 +3190,7 @@
       "title": "Correspondents' Dinner Shooting Investigation",
       "parentId": null,
       "firstSeen": "2026-04-28",
-      "lastSeen": "2026-06-03",
+      "lastSeen": "2026-06-06",
       "active": true,
       "entries": [
         {
@@ -3047,6 +3227,11 @@
           "date": "2026-06-03",
           "edition": "morning",
           "update": "Press freedom advocates warned that the rescheduled White House Correspondents' Dinner on July 24 could provide Trump a platform to attack the news media. A new article in The Atlantic by Matt Viser reported that security around the White House has been significantly tightened following the April shooting, with new perimeter measures raising questions about balancing security and public access."
+        },
+        {
+          "date": "2026-06-06",
+          "edition": "morning",
+          "update": "Two men wounded during the assassination attempt at Donald Trump's Butler, Pennsylvania rally have filed a lawsuit against the federal government, alleging gross negligence by the Secret Service and describing the security failures as preventable."
         }
       ]
     },
@@ -3176,7 +3361,7 @@
       "parentId": null,
       "firstSeen": "2026-05-07",
       "lastSeen": "2026-05-07",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-05-07",
@@ -3190,7 +3375,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-06-03",
+      "lastSeen": "2026-06-06",
       "active": true,
       "entries": [
         {
@@ -3212,6 +3397,21 @@
           "date": "2026-06-03",
           "edition": "evening",
           "update": "Secretary of State Marco Rubio acknowledged on Tuesday that the prospects for a Russia-Ukraine peace deal 'don't look great,' despite extensive Trump administration efforts to end the conflict."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "morning",
+          "update": "Zelensky published an open letter addressed directly to Putin on Thursday, proposing face-to-face negotiations and calling for a comprehensive ceasefire between Ukraine and Russia."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "evening",
+          "update": "Putin rejected Zelenskyy's offer for direct talks on Friday, stating he sees 'no point' in meeting with Zelenskyy to discuss ending the war. Putin made the rejection while preparing to deliver a major address in St. Petersburg, days after the city was targeted by Ukrainian drones."
+        },
+        {
+          "date": "2026-06-06",
+          "edition": "evening",
+          "update": "Russian President Vladimir Putin signaled openness to a 'new relationship' with the United States, according to NBC News, as the conflict in Ukraine remains at a deadlock."
         }
       ]
     },
@@ -3220,7 +3420,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-06-03",
+      "lastSeen": "2026-06-06",
       "active": true,
       "entries": [
         {
@@ -3317,6 +3517,16 @@
           "date": "2026-06-03",
           "edition": "evening",
           "update": "WTI crude futures rose for a third consecutive day, gaining nearly 10% over three sessions, as hopes for a quick peace deal faded, according to the Wall Street Journal. Secretary of State Rubio told lawmakers that the war on Iran is over, amid reports of recent strikes hitting Iran, Kuwait, and Bahrain."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "morning",
+          "update": "The Japanese yen hit the key 160 level against the dollar for the third consecutive session, with Gulf tensions cited as a further support for the dollar, according to Reuters."
+        },
+        {
+          "date": "2026-06-06",
+          "edition": "morning",
+          "update": "Iran is reported to be targeting a second oil chokepoint in addition to maintaining threats against the Strait of Hormuz, escalating pressure on critical global energy supply routes. Rosneft chief Igor Sechin claimed that U.S. companies would benefit from the closure of the Strait of Hormuz."
         }
       ]
     },
@@ -3395,7 +3605,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-06-04",
+      "lastSeen": "2026-06-06",
       "active": true,
       "entries": [
         {
@@ -3517,6 +3727,26 @@
           "date": "2026-06-04",
           "edition": "morning",
           "update": "U.S. equipment and experts arrived at the Kenya Ebola facility despite an existing court order and ongoing protests against the site, according to Reuters. Global health officials warned that response efforts to the ongoing DRC outbreak are still falling short, stating 'we're still behind.'"
+        },
+        {
+          "date": "2026-06-04",
+          "edition": "evening",
+          "update": "Congo reported an attack on an Ebola burial team as the case count continued to rise. NPR reported that some jurisdictions have weakened public health authority powers following backlash over COVID-era measures, raising concerns about future outbreak response capabilities. The outbreak is being driven by a strain not covered by the existing effective Ebola vaccine, with trials underway for several vaccine candidates targeting this variety."
+        },
+        {
+          "date": "2026-06-05",
+          "edition": "morning",
+          "update": "Kenyan President William Ruto publicly defended the government's decision to allow the United States to build an Ebola quarantine facility in Kenya, calling it 'the right thing,' amid deadly protests against the plan."
+        },
+        {
+          "date": "2026-06-06",
+          "edition": "morning",
+          "update": "A CDC report projected that the DRC and Uganda Ebola outbreak could reach more than 20,000 cases and over 2,000 deaths in a worst-case scenario. The Trump administration urged European countries via a State Department cable to adopt travel restrictions similar to U.S. measures, amid concerns about spread during the upcoming World Cup. An Ebola-related border shutdown between Uganda and the DRC has left goods stranded and rotting at the crossing. The NY Times reported that China is increasingly seen as positioned to fill the gap in global outbreak response left by reduced U.S. engagement."
+        },
+        {
+          "date": "2026-06-06",
+          "edition": "evening",
+          "update": "Dr. Peter Stafford, a U.S. doctor who contracted Ebola while working with a missionary group in the DRC, was discharged from a Berlin hospital after recovering from the virus. Rangers at Virunga National Park in the DRC are simultaneously managing Ebola containment efforts and an increase in conflict-related violence in the park."
         }
       ]
     },
@@ -3626,5 +3856,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-04T11:08:41.857Z"
+  "updatedAt": "2026-06-06T21:06:12.895Z"
 }
