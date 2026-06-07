@@ -9,6 +9,11 @@
 //   node scripts/finalize-clip.js --edition=2026-04-30-evening
 //   node scripts/finalize-clip.js --edition=2026-04-30-evening --bed=assets/bed.wav
 //   node scripts/finalize-clip.js --edition=2026-04-30-evening --platforms=youtube,tiktok,square
+//   node scripts/finalize-clip.js --edition=2026-04-30-evening --post=resolve   # uses graded master from DaVinci Resolve
+//
+// DaVinci Resolve finishing pass (optional):
+//   1. python tools/post-process/resolve-import.py --edition=2026-04-30-evening
+//   2. node scripts/finalize-clip.js --edition=2026-04-30-evening --post=resolve
 //
 // Output:
 //   out/final/<edition>-youtube.mp4        16:9, −14 LUFS
@@ -55,7 +60,8 @@ const args = Object.fromEntries(
 );
 
 const edition   = args['edition'];
-const bedMusic  = args['bed'] ?? null;
+const bedMusic  = args['bed']  ?? null;
+const postMode  = args['post'] ?? null;   // 'resolve' → use graded master from DaVinci Resolve
 const platforms = (args['platforms'] ?? 'youtube,tiktok').split(',').map(s => s.trim());
 
 if (!edition) {
@@ -63,11 +69,19 @@ if (!edition) {
   process.exit(1);
 }
 
-const videoIn = args['video'] ?? join(ROOT, 'out', 'raw', `${edition}.mp4`);
-const outDir  = join(ROOT, 'out', 'final');
+// When --post=resolve is set, expect the graded master to exist; finalize from it.
+const gradedPath = join(ROOT, 'out', 'raw', `${edition}-graded.mp4`);
+const rawPath    = args['video'] ?? join(ROOT, 'out', 'raw', `${edition}.mp4`);
+const videoIn    = (postMode === 'resolve') ? gradedPath : rawPath;
+const outDir     = join(ROOT, 'out', 'final');
 
 // ── Pre-flight ────────────────────────────────────────────────────────────────
 
+if (postMode === 'resolve' && !existsSync(gradedPath)) {
+  console.error(`--post=resolve specified but graded master not found: ${gradedPath}`);
+  console.error(`Run: python tools/post-process/resolve-import.py --edition=${edition}`);
+  process.exit(1);
+}
 if (!existsSync(videoIn)) {
   console.error(`Video not found: ${videoIn}`);
   process.exit(1);

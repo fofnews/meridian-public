@@ -14,6 +14,8 @@
 import { readFileSync, mkdirSync, writeFileSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
+import { buildArcsGeoJSON } from '../src/map/arcs.js';
+import { SOURCE_COORDS } from '../src/map/sources.js';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 
@@ -121,6 +123,67 @@ if (!timingsPath) {
 // ── Helpers ───────────────────────────────────────────────────────────────────
 
 const CHYRON_LABELS = ['Breaking', 'Developing', 'Analysis', 'Report', 'Update', 'Exclusive'];
+const KNOWN_SOURCES_COUNT = Object.keys(SOURCE_COORDS).length; // total outlets with known HQ
+
+// ── Viz data helpers ──────────────────────────────────────────────────────────
+
+// Returns per-source article count for a story, e.g. { 'AP News': 3, 'Reuters': 2 }.
+function sourceCounts(story) {
+  const counts = {};
+  for (const a of (story.articles ?? [])) {
+    if (a.source) counts[a.source] = (counts[a.source] ?? 0) + 1;
+  }
+  return counts;
+}
+
+// Builds the viz block for a story shot: choropleth when many sources cover it,
+// compare (SourceCompareBar data) when fewer sources, null for globe shots.
+function buildStoryViz(story, isoCode) {
+  if (!story) return null;
+  const counts = sourceCounts(story);
+  const numSources = Object.keys(counts).length;
+  if (!isoCode || numSources === 0) return null;
+  const ratio = numSources / KNOWN_SOURCES_COUNT;
+  return {
+    kind: numSources >= 4 ? 'choropleth' : null,
+    data: { isoCode, ratio },
+  };
+}
+
+// Builds the overlays array for a story shot (source compare bar).
+function buildStoryOverlays(story, hold) {
+  if (!story) return [];
+  const counts = sourceCounts(story);
+  const numSources = Object.keys(counts).length;
+  if (numSources < 2) return [];
+  const durationMs = Math.round(hold * 1000);
+  return [{
+    type: 'source-compare-bar',
+    tOffset: 0,
+    durationMs,
+    counts,
+  }];
+}
+
+// Builds the heatmap viz for intro/outro globe shots from all story locations.
+function buildHeatmapViz(stories) {
+  const points = [];
+  for (const story of (stories ?? [])) {
+    const locs = (story.analysis?.locations ?? []).filter(l => l?.lat != null && l?.lng != null);
+    for (const loc of locs) {
+      if (loc.iso !== 'XX' && !(Math.abs(loc.lat) < 0.5 && Math.abs(loc.lng) < 0.5)) {
+        points.push([loc.lng, loc.lat]);
+      }
+    }
+    // Also add source HQ points weighted by article count.
+    for (const src of Object.keys(sourceCounts(story))) {
+      const hq = SOURCE_COORDS[src];
+      if (hq) points.push([hq.lng, hq.lat]);
+    }
+  }
+  if (points.length === 0) return null;
+  return { kind: 'heatmap', data: { points } };
+}
 const PITCH              = 50;    // FOCUSED_PITCH_BROADCAST
 const BEARING            = -10;   // fixed bearing for all story waypoints (no drift)
 const TTS_CHARS_PER_SEC  = 15;
@@ -388,6 +451,8 @@ if (timingsPath) {
       },
       narration: beat,
       hold: durationSecs,
+      viz: buildStoryViz(story, isoCode),
+      overlays: buildStoryOverlays(story, durationSecs),
     });
 
     elapsed += durationSecs;
@@ -412,6 +477,8 @@ if (timingsPath) {
       chyron: { label: 'LIVE', headline: edLabel },
       narration: introNarration,
       hold,
+      viz: buildHeatmapViz(report.stories),
+      overlays: [],
     });
     elapsed += hold;
   }
@@ -441,6 +508,8 @@ if (timingsPath) {
       },
       narration,
       hold,
+      viz: buildStoryViz(story, isoCode),
+      overlays: buildStoryOverlays(story, hold),
     });
 
     elapsed += hold;
@@ -457,6 +526,8 @@ if (timingsPath) {
       chyron: { label: 'LIVE', headline: edLabel },
       narration: outroNarration,
       hold,
+      viz: buildHeatmapViz(report.stories),
+      overlays: [],
     });
     elapsed += hold;
   }
@@ -488,6 +559,8 @@ if (timingsPath) {
       },
       narration,
       hold,
+      viz: buildStoryViz(story, isoCode),
+      overlays: buildStoryOverlays(story, hold),
     });
 
     elapsed += hold;

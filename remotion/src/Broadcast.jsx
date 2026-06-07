@@ -4,7 +4,8 @@ import { useEffect, useRef } from 'react';
 import { useCurrentFrame, useVideoConfig, AbsoluteFill, Audio, Sequence, delayRender, continueRender } from 'remotion';
 import { useRemotionMap } from './useRemotionMap.js';
 import { interpolateCameraOnPath, getActiveLocation, getActiveWaypoint } from './camera.js';
-import { RemotionFilmGrain, Chyron, Ticker, TopBar, MapAttribution, FadeOverlay, DataCallout, SubtitleBar, QuoteCallout } from './overlays.jsx';
+import { RemotionFilmGrain, Chyron, Ticker, TopBar, MapAttribution, FadeOverlay, DataCallout, SubtitleBar, QuoteCallout, SourceCompareBar, ArcTokens, ComparisonOverlay, EscalationOverlay, ContextLabelOverlay } from './overlays.jsx';
+import { applyBroadcastChoropleth, addBroadcastHeatmap } from './broadcast-map.js';
 
 const PRE_ROLL_S  = 1;
 const POST_ROLL_S = 1;
@@ -61,6 +62,8 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
   const activeShotIdxRef = useRef(-1);
   // Track active waypoint so highlight polygon is only swapped on waypoint changes.
   const activeWaypointKeyRef = useRef(null);
+  // Cleanup function returned by the active broadcast map-viz helper (heatmap).
+  const vizCleanupRef = useRef(null);
 
   // Per-frame camera update: jumpTo computed position, delay Remotion
   // until Mapbox reports idle (all tiles rendered for this position).
@@ -85,10 +88,30 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
     for (let si = 0; si < shotlist.shots.length; si++) {
       if (shotlist.shots[si].t + PRE_ROLL_S <= t) { activeShot = shotlist.shots[si]; activeShotIdx = si; }
     }
-    // Update story-path dashed line only when shot changes (not every frame).
+    // Update story-path dashed line and broadcast viz when shot changes.
     if (activeShotIdx !== activeShotIdxRef.current) {
       activeShotIdxRef.current = activeShotIdx;
       try { mapRef.current.getSource('story-path')?.setData(shotPathGeoJson(activeShot)); } catch {}
+
+      // Clean up previous broadcast viz layer (e.g. heatmap from intro shot).
+      if (vizCleanupRef.current) { vizCleanupRef.current(); vizCleanupRef.current = null; }
+
+      const viz = activeShot?.viz;
+      if (viz?.kind === 'choropleth' && viz.data?.isoCode) {
+        applyBroadcastChoropleth({
+          map: mapRef.current,
+          isoCode: viz.data.isoCode,
+          ratio:   viz.data.ratio ?? 0,
+        });
+      } else if (viz?.kind === 'heatmap' && viz.data?.points?.length) {
+        vizCleanupRef.current = addBroadcastHeatmap({
+          map:    mapRef.current,
+          points: viz.data.points,
+        });
+      } else {
+        // Clear any residual choropleth fill.
+        applyBroadcastChoropleth({ map: mapRef.current, isoCode: '', ratio: 0 });
+      }
     }
 
     // Move location marker to the current story's primary place.
@@ -168,6 +191,21 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
           )}
           {ov.type === 'quote-callout' && (
             <QuoteCallout text={ov.text} fromFrame={fromFrame} durationFrames={durFrames} aspect={aspect} />
+          )}
+          {ov.type === 'source-compare-bar' && (
+            <SourceCompareBar counts={ov.counts} fromFrame={fromFrame} durationFrames={durFrames} aspect={aspect} />
+          )}
+          {ov.type === 'arc-tokens' && (
+            <ArcTokens arcs={ov.arcs} fromFrame={fromFrame} durationFrames={durFrames} mapRef={mapRef} />
+          )}
+          {ov.type === 'comparison' && (
+            <ComparisonOverlay textA={ov.textA} textB={ov.textB} labelA={ov.labelA} labelB={ov.labelB} fromFrame={fromFrame} durationFrames={durFrames} />
+          )}
+          {ov.type === 'escalation' && (
+            <EscalationOverlay text={ov.text} fromFrame={fromFrame} durationFrames={durFrames} />
+          )}
+          {ov.type === 'context-label' && (
+            <ContextLabelOverlay text={ov.text} fromFrame={fromFrame} durationFrames={durFrames} />
           )}
         </Sequence>
       );
