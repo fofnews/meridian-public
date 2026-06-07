@@ -580,5 +580,52 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-07T08:30:01.721Z"
+  },
+  {
+    "title": "Police Hunt Suspects After 12 Shot Near Toledo Festival",
+    "description": "Police believe at least two people exchanged gunfire as investigators appeal for photos and video from hundreds of festivalgoers.",
+    "link": "https://www.newsweek.com/police-hunt-suspects-12-shot-toledo-festival-12041162",
+    "pubDate": "Sun, 07 Jun 2026 04:34:40 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-07T08:45:01.513Z"
+  },
+  {
+    "title": "Ukraine Claims Russian Drone Struck Nuclear Facility Near Chernobyl",
+    "description": "Ukraine said a drone struck a spent nuclear fuel storage facility located approximately 15km (9.3miles) from Chernobyl",
+    "link": "https://www.newsweek.com/ukraine-drone-strike-russia-nuclear-storage-facility-12041215",
+    "pubDate": "Sun, 07 Jun 2026 04:15:47 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-07T08:45:01.513Z"
+  },
+  {
+    "title": "Mace says Trump's endorsement hasn't sealed SC gubernatorial race: ‘It’s a dog fight’",
+    "description": "Rep. Nancy Mace says Trump's endorsement of Lt. Gov. Pamela Evette hasn't resonated with grassroots Republicans in South Carolina's GOP primary.",
+    "link": "https://www.foxnews.com/politics/watch-mace-says-trumps-endorsement-hasnt-sealed-sc-governor-race-dog-fight",
+    "pubDate": "Sun, 07 Jun 2026 04:00:46 -0400",
+    "source": "Fox News",
+    "categories": [
+      "44f44631-448f-5f4a-a84a-0a5c8dc61668",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/southeast/south-carolina",
+      "fox-news/politics/elections/presidential-primaries",
+      "fox-news/person/donald-trump",
+      "fox-news/politics/state-and-local/governors",
+      "fox-news/politics/elections/republicans",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-06-07T08:45:01.513Z"
+  },
+  {
+    "title": "Israel kills Hamas terrorist commander tied to Oct. 7 massacre",
+    "description": "Abu Karim had continued to plan and carry out attacks against Israeli troops during the war.",
+    "link": "https://nypost.com/2026/06/07/world-news/israel-kills-hamas-terrorist-sakr-abu-karim-tied-to-oct-7-massacre/",
+    "pubDate": "Sun, 07 Jun 2026 04:34:13 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-07T08:45:01.513Z"
   }
 ]
