@@ -725,7 +725,7 @@
         {
           "date": "2026-06-08",
           "edition": "morning",
-          "update": "A drone was shot down over Latvia amid growing concerns about the expanding conflict, as a series of drone incursions into neighboring countries has been reported, according to CBS News."
+          "update": "A drone was shot down over Latvia amid concerns about the Ukraine-Russia war spreading, following a series of drone incursions into neighboring countries, according to CBS News."
         }
       ],
       "parentId": null
@@ -1120,7 +1120,7 @@
         {
           "date": "2026-06-08",
           "edition": "morning",
-          "update": "Israel struck military targets in western and central Iran hours after Iran launched a missile barrage at Israel on Sunday, defying Trump's public warnings against retaliation. The IRGC described its attack as 'a warning' following Israeli strikes on Beirut that it said 'crossed all red lines,' with missiles directed at northern Israel, including over occupied East Jerusalem and the West Bank, and passing through Lebanese airspace; debris fell over Jordan after at least one missile was intercepted there. Iranian state TV broadcast celebrations in Tehran as missiles launched, while Iranian media released footage of the launches. Israel's strikes on Iran came despite Trump telling Netanyahu not to retaliate, with Trump publicly asserting he 'calls the shots' in U.S. policy. Iran's foreign minister confirmed new details about the strike that killed Supreme Leader Khamenei, acknowledging U.S.-Israeli precision targeting. The exchange marked the first mutual strikes since the April ceasefire, occurring on the 100th day of the war, and sent oil prices higher."
+          "update": "Israel struck military targets in western and central Iran hours after Iran launched ballistic missiles at Israel on Sunday — the first direct attack since the April ceasefire — with Iranian missiles concentrated largely in northern Israel and also intercepted over occupied East Jerusalem and the West Bank. Israel conducted the retaliatory strikes despite Trump publicly urging Netanyahu not to retaliate, with Trump later stating he 'calls the shots' in U.S. foreign policy. Iranian state TV broadcast street celebrations in Tehran as missiles flew toward Israel, and Iran's foreign minister released new details confirming U.S.-Israeli precision targeting in the earlier strike that killed Supreme Leader Khamenei. Global and Asian stock markets fell sharply and oil prices rose following the exchange; missile debris was reported in Jordan after interceptions over Jordanian airspace. The Treasury Department is reportedly planning to use frozen Iranian assets to help Gulf allies rebuild from war damage. Al Jazeera published satellite imagery documenting destruction at 15 sites including Iranian naval ports and U.S. military bases across the Gulf region."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1595,7 +1595,7 @@
         {
           "date": "2026-06-08",
           "edition": "morning",
-          "update": "Iran warned that ceasefire talks could be halted and attacks would resume if Israel continued military strikes on Lebanon. Oil prices rose more than $2 following the Israeli strikes on Beirut, according to Reuters."
+          "update": "Iran warned that ceasefire talks could be halted and attacks would resume if Israel continued its strikes on Lebanon. Oil prices rose more than $2 following the Israeli strikes on Beirut."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1604,7 +1604,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-08",
+      "lastSeen": "2026-06-07",
       "active": true,
       "entries": [
         {
@@ -2211,11 +2211,6 @@
           "date": "2026-06-07",
           "edition": "evening",
           "update": "At the 100-day mark, U.S. households have spent an average of $750 more in expenses, with middle- and lower-income Americans bearing the greatest burden, according to Al Jazeera. Global airlines slashed their 2026 profit forecasts due to the fuel price shock caused by the conflict. The United States circulated a draft IAEA resolution demanding Iran provide greater transparency about its nuclear sites and uranium stockpiles. Trump, in his NBC Meet the Press interview, defended a compensation fund and reiterated that gas prices would fall when the war ends. The NY Times reported widespread despair among Iranians across the political spectrum amid a collapsing economy and skyrocketing inflation."
-        },
-        {
-          "date": "2026-06-08",
-          "edition": "morning",
-          "update": "Former National Security Adviser John Bolton warned in an opinion piece that Trump's actions during the conflict could spark nuclear proliferation across the Middle East regardless of any deal reached. Trump dismissed claims that launching a war with Iran contradicted his 2024 'No new wars' campaign promise. Al Jazeera released satellite imagery comparing 15 sites before and after attacks, documenting destruction at Iranian naval ports and U.S. military bases across the Gulf region. The Treasury Department is planning to use Iranian assets to help Gulf allies rebuild from war damage, citing a source familiar with Secretary Bessent's thinking."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3030,7 +3025,7 @@
         {
           "date": "2026-06-08",
           "edition": "morning",
-          "update": "Chinese President Xi Jinping arrived in Pyongyang for a state visit, receiving a lavish welcome ahead of talks with Kim Jong Un — his first visit since 2019. The visit comes amid a shifted dynamic in which Kim's deepened alliance with Russia has reduced North Korea's dependence on China. Kim Jong Un also inspected munitions at a weapons factory, with state media releasing photos of the visit."
+          "update": "Xi Jinping arrived in Pyongyang for a state visit and received a lavish welcome ahead of talks with Kim Jong Un, with the visit framed by BBC News as Beijing's effort to reassert influence over North Korea amid Pyongyang's deepened alliance with Russia. Kim Jong Un was separately photographed inspecting munitions at a weapons factory during Xi's visit."
         }
       ],
       "parentId": null
@@ -3626,7 +3621,7 @@
         {
           "date": "2026-06-08",
           "edition": "morning",
-          "update": "Iran's envoy to Moscow stated the Strait of Hormuz will remain open but subject to transit fees, according to Reuters."
+          "update": "Iran's ambassador to Moscow stated that the Strait of Hormuz will remain open but subject to transit fees, according to Reuters."
         }
       ]
     },
@@ -3956,5 +3951,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-08T11:07:26.847Z"
+  "updatedAt": "2026-06-08T11:07:56.803Z"
 }
