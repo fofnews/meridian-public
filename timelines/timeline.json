@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-06",
+      "lastSeen": "2026-06-08",
       "active": true,
       "entries": [
         {
@@ -271,6 +271,11 @@
           "date": "2026-06-06",
           "edition": "evening",
           "update": "Nancy Mace is running for South Carolina governor while facing political headwinds including President Trump endorsing her opponent following her vote on the Epstein files."
+        },
+        {
+          "date": "2026-06-08",
+          "edition": "evening",
+          "update": "An Epstein victim testified before U.S. Congress members that she had dinner at Prince Andrew's apartment in Buckingham Palace, marking the first time a woman abused and trafficked by Epstein has publicly spoken of attending royal residences."
         }
       ],
       "parentId": null
@@ -279,7 +284,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-07",
+      "lastSeen": "2026-06-08",
       "active": true,
       "entries": [
         {
@@ -411,6 +416,11 @@
           "date": "2026-06-07",
           "edition": "morning",
           "update": "Trump claimed Iran made a 'big' promise not to develop nuclear weapons, but nuclear experts noted Iran has formally maintained this pledge for over 50 years, according to the NY Times."
+        },
+        {
+          "date": "2026-06-08",
+          "edition": "evening",
+          "update": "IAEA chief described Iran-U.S. nuclear talks as being in a 'complicated phase.' Trump stated in a Financial Times interview that Israel 'won't have any choice' but to accept any potential deal with Iran, repeating that he 'calls all the shots' regarding U.S.-Israel decisions."
         }
       ],
       "parentId": null
@@ -726,6 +736,11 @@
           "date": "2026-06-08",
           "edition": "morning",
           "update": "A drone was shot down over Latvia amid concerns about the Ukraine-Russia war spreading, following a series of drone incursions into neighboring countries, according to CBS News."
+        },
+        {
+          "date": "2026-06-08",
+          "edition": "evening",
+          "update": "Ukrainian forces struck multiple oil facilities inside Russia and Russian-occupied Crimea, targeting energy infrastructure to impose economic costs on Moscow. Polish Prime Minister Donald Tusk called for calm and dialogue with Ukraine amid a dispute over an army unit."
         }
       ],
       "parentId": null
@@ -1121,6 +1136,11 @@
           "date": "2026-06-08",
           "edition": "morning",
           "update": "Israel struck military targets in western and central Iran hours after Iran launched ballistic missiles at Israel on Sunday — the first direct attack since the April ceasefire — with Iranian missiles concentrated largely in northern Israel and also intercepted over occupied East Jerusalem and the West Bank. Israel conducted the retaliatory strikes despite Trump publicly urging Netanyahu not to retaliate, with Trump later stating he 'calls the shots' in U.S. foreign policy. Iranian state TV broadcast street celebrations in Tehran as missiles flew toward Israel, and Iran's foreign minister released new details confirming U.S.-Israeli precision targeting in the earlier strike that killed Supreme Leader Khamenei. Global and Asian stock markets fell sharply and oil prices rose following the exchange; missile debris was reported in Jordan after interceptions over Jordanian airspace. The Treasury Department is reportedly planning to use frozen Iranian assets to help Gulf allies rebuild from war damage. Al Jazeera published satellite imagery documenting destruction at 15 sites including Iranian naval ports and U.S. military bases across the Gulf region."
+        },
+        {
+          "date": "2026-06-08",
+          "edition": "evening",
+          "update": "Both Israel and Iran announced a halt to attacks following the weekend flare-up. Israel conducted further strikes Monday morning, including a confirmed strike on the Mahshahr Petrochemical Complex in Iran's Khuzestan Province, which Israel stated produces materials used in ballistic missile development. Iran's IRGC declared its latest ballistic missile campaign a 'complete success' and warned attacks would resume if Israel restarts strikes on Lebanon. Iran's Deputy Foreign Minister Kazem Gharibabadi rejected U.S. plans to use frozen Iranian assets to compensate Gulf allies, stating Iran's neighbors were 'not in a position to demand reparations.' Iran framed its strikes as reflecting a strategic doctrine of 'taking initiative and offensive power,' with analysts noting a shift from projecting power through proxies to direct use of Iranian firepower. Netanyahu faces mounting domestic and international pressure following the exchanges, while gold prices fell during the escalation, challenging its status as a safe-haven asset."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1596,6 +1616,11 @@
           "date": "2026-06-08",
           "edition": "morning",
           "update": "Iran warned that ceasefire talks could be halted and attacks would resume if Israel continued its strikes on Lebanon. Oil prices rose more than $2 following the Israeli strikes on Beirut."
+        },
+        {
+          "date": "2026-06-08",
+          "edition": "evening",
+          "update": "Israeli forces pushed deeper into southern Lebanon as conflict escalated. Analysts told Al Jazeera that Iran has formally shifted its military strategy from projecting power through proxy forces to directly deploying its own firepower to protect those proxies, with Lebanon identified as a key flashpoint in this transition. Experts warned that children in Lebanon are facing lasting physical and psychological trauma from the ongoing conflict."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3622,6 +3647,11 @@
           "date": "2026-06-08",
           "edition": "morning",
           "update": "Iran's ambassador to Moscow stated that the Strait of Hormuz will remain open but subject to transit fees, according to Reuters."
+        },
+        {
+          "date": "2026-06-08",
+          "edition": "evening",
+          "update": "The EU imposed sanctions on Iranian individuals over their role in restricting naval traffic in the Strait of Hormuz. Yemen's Houthi movement threatened Israeli shipping in the Red Sea, with a Houthi source stating the group has imposed a blockade on a global trade chokepoint as part of 'unity of the arenas' with Iran-aligned forces."
         }
       ]
     },
@@ -3951,5 +3981,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-08T11:07:56.803Z"
+  "updatedAt": "2026-06-08T21:08:44.727Z"
 }
