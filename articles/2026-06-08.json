@@ -5713,5 +5713,315 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-08T16:15:06.784Z"
+  },
+  {
+    "title": "Penn State student shot dead near his home",
+    "description": "Officials at Penn State University said they're \"heartbroken\" after a student was shot and killed about one block from his home in Philadelphia.",
+    "link": "https://abcnews.com/US/penn-state-student-shot-dead-home-philadelphia-police/story?id=133678368",
+    "pubDate": "Mon, 08 Jun 2026 12:07:17 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-06-08T16:30:01.321Z"
+  },
+  {
+    "title": "2026 Tony Awards biggest moments",
+    "description": "ABC News' Will Ganss breaks down the highlights and major surprises from the awards show.",
+    "link": "https://abcnews.com/video/133681626/",
+    "pubDate": "Mon, 08 Jun 2026 09:39:44 -0400",
+    "source": "ABC News",
+    "categories": [
+      "entertainment"
+    ],
+    "collectedAt": "2026-06-08T16:30:01.321Z"
+  },
+  {
+    "title": "Great white shark captured on video in Mediterranean in rare sighting",
+    "description": "Great white sharks are classified as \"critically endangered\" in the Mediterranean Sea, and underwater sightings are incredibly rare.",
+    "link": "https://www.cbsnews.com/news/great-white-shark-mediterranean-sea-video-insane-sighting/",
+    "pubDate": "Mon, 08 Jun 2026 12:25:09 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-06-08T16:30:01.321Z"
+  },
+  {
+    "title": "Biggest winners from the 79th Tony Awards",
+    "description": "CBS News New York's Dave Carlin breaks down the biggest wins and performances from the 79th Tony Awards.",
+    "link": "https://www.cbsnews.com/video/biggest-winners-from-the-79th-tony-awards/",
+    "pubDate": "Mon, 08 Jun 2026 12:15:46 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-06-08T16:30:01.321Z"
+  },
+  {
+    "title": "Trump storms off during NBC interview after insisting California primaries were rigged",
+    "description": "President Trump continues to make claims about the California primaries and the subsequent vote count. CBS News' Nancy Cordes has more on his latest reaction to questions about his election fraud claims.",
+    "link": "https://www.cbsnews.com/video/trump-storms-off-during-nbc-interview-after-insisting-california-primaries-were-rigged/",
+    "pubDate": "Mon, 08 Jun 2026 12:14:53 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-06-08T16:30:01.321Z"
+  },
+  {
+    "title": "Are U.S. and Israel on the Same Page in Mideast Wars?",
+    "description": "President Trump has voiced his frustration with Prime Minister Benjamin Netanyahu of Israel, but it is not clear how able he is to rein in Israeli military action.",
+    "link": "https://www.nytimes.com/2026/06/08/world/middleeast/netanyahu-trump-split-iran-lebanon.html",
+    "pubDate": "Mon, 08 Jun 2026 15:51:57 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "united states international relations",
+      "iran-israel proxy conflict",
+      "hezbollah",
+      "netanyahu, benjamin",
+      "trump, donald j",
+      "lebanon",
+      "iran",
+      "israel"
+    ],
+    "collectedAt": "2026-06-08T16:30:01.321Z"
+  },
+  {
+    "title": "Why Iran Risked an Attack on Israel",
+    "description": "For Tehran, retaliating for strikes against Hezbollah in Lebanon shows that it will stand by its regional allies and block attempts to shift the regional balance of power.",
+    "link": "https://www.nytimes.com/2026/06/08/world/middleeast/israel-iran-strikes-regional-gains.html",
+    "pubDate": "Mon, 08 Jun 2026 15:08:25 +0000",
+    "source": "NY Times",
+    "categories": [
+      "hezbollah",
+      "iran",
+      "israel",
+      "us and israeli attack on iran (2026)",
+      "united states",
+      "trump, donald j",
+      "middle east"
+    ],
+    "collectedAt": "2026-06-08T16:30:01.321Z"
+  },
+  {
+    "title": "Amy Coney Barrett and Samuel Alito Sit Out Supreme Court Decisions",
+    "description": "The recusals highlight a tension between judicial ethics practices and broader concerns about transparency and accountability.",
+    "link": "https://www.newsweek.com/amy-coney-barrett-samuel-alito-sit-out-supreme-court-decisions-12044858",
+    "pubDate": "Mon, 08 Jun 2026 12:17:48 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-08T16:30:01.321Z"
+  },
+  {
+    "title": "‘Strategic doctrine’: Iran hails military shift after Beirut raid response",
+    "description": "Iranians describe attacks on Israel as part of military approach prioritising 'taking initiative and offensive power'.",
+    "link": "https://www.aljazeera.com/news/2026/6/8/strategic-doctrine-iran-hails-military-shift-after-beirut-raid-response?traffic_source=rss",
+    "pubDate": "Mon, 08 Jun 2026 16:06:47 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-06-08T16:30:01.321Z"
+  },
+  {
+    "title": "Lebanon’s children face physical, psychological trauma amid Israel’s war",
+    "description": "Experts warn of lasting trauma for Lebanon's children as war continues to shatter their sense of safety.",
+    "link": "https://www.aljazeera.com/features/2026/6/8/lebanon-children-face-physical-psychological-trauma-israel-war?traffic_source=rss",
+    "pubDate": "Mon, 08 Jun 2026 16:01:27 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-06-08T16:30:01.321Z"
+  },
+  {
+    "title": "Defying Trump with brief Iran fight, Israel seeks sway over peace talks - Reuters",
+    "description": "Defying Trump with brief Iran fight, Israel seeks sway over peace talks  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTmtRMjRxTjh5TTVpTlNkblM0VlFZemNDUHlvR01vT0lYYVd1M3JWTWVlVy1BZFVhTHNtdjY1cjM3WjBIanNzR1l5eGhEMnhFbTR0WlRDdmxyZzYwTjJxNmVxNkxQYU0zQzdzN0FDRUxiMUZYNFgxM3RxTHpqQkhMS0JrVkJmV2huRTI0LV9TTDZ0VUdUVTZzVVBPem1UR3JmR1U4MXN6aWhHWU9kOWFlVldzaUZPVXRaT2ZMUHY1V1pENm11aWViTFpYQVZRQQ?oc=5",
+    "pubDate": "Mon, 08 Jun 2026 15:06:46 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-06-08T16:30:01.321Z"
+  },
+  {
+    "title": "Stephen A. Smith: Trump will ruin ‘vibe’ at NBA Finals game",
+    "description": "Sports commentator Stephen A. Smith on Saturday said President Trump’s planned attendance at Monday night’s Game 3 of the NBA Finals at Madison Square Garden between the New York Knicks and San Antonio Spurs will ruin the “vibe.” Smith responded to a user on the social platform X who blasted the commentator’s take against having…",
+    "link": "https://thehill.com/policy/sports-gaming/5914777-stephen-a-smith-trump-nba-finals-game-3/",
+    "pubDate": "Mon, 08 Jun 2026 16:17:27 +0000",
+    "source": "The Hill",
+    "categories": [
+      "in the know",
+      "keeping score",
+      "media",
+      "sports & gaming",
+      "house minority leader hakeem jeffries",
+      "james dolan",
+      "madison square garden",
+      "new york knicks",
+      "president trump",
+      "rep. alexandria ocasio-cortez",
+      "san antonio spurs",
+      "stephen a. smith",
+      "zohran mamdani"
+    ],
+    "collectedAt": "2026-06-08T16:30:01.321Z"
+  },
+  {
+    "title": "Ocasio-Cortez calls Trump’s presence at the Knicks game a ‘vibe killer’ for shutting down watch parties",
+    "description": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) on Sunday criticized President Trump for planning to attend Game 3 of the NBA finals in his hometown of New York, which shut down watch parties previously slated to occur outside of Madison Square Garden. “It already has been a vibe killer, because now the city has to shut down all the…",
+    "link": "https://thehill.com/homenews/house/5914802-trump-nba-finals-ocasio-cortez/",
+    "pubDate": "Mon, 08 Jun 2026 16:16:07 +0000",
+    "source": "The Hill",
+    "categories": [
+      "house",
+      "sports & gaming",
+      "game 3 nba finals",
+      "knicks game",
+      "rep. alexandria ocasio-cortez",
+      "trump administration"
+    ],
+    "collectedAt": "2026-06-08T16:30:01.321Z"
+  },
+  {
+    "title": "Mormon lawmakers protest ‘offensive’ Hegseth, Pentagon policy affecting LDS",
+    "description": "Mormon lawmakers in Congress aren’t happy with the Defense Department’s new policy that does not put The Church of Jesus Christ of Latter-day Saints (LDS) under the “Christian” designation. Defense Secretary Pete Hegseth earlier this year declared the Pentagon would cut down the faith codes – the recognized faith groups meant to provide more accurate demographic data…",
+    "link": "https://thehill.com/policy/defense/5914835-pentagon-christian-list-controversy/",
+    "pubDate": "Mon, 08 Jun 2026 16:10:10 +0000",
+    "source": "The Hill",
+    "categories": [
+      "defense",
+      "policy"
+    ],
+    "collectedAt": "2026-06-08T16:30:01.321Z"
+  },
+  {
+    "title": "‘Bring her home’: Savannah Guthrie shares new message after mother’s alleged abduction",
+    "description": "Authorities believe 84-year-old Nancy Guthrie was abducted from her home on the early morning hours of Feb. 1, 2026.",
+    "link": "https://thehill.com/homenews/media/5914820-bring-her-home-savannah-guthrie-shares-new-message-after-mothers-alleged-abduction/",
+    "pubDate": "Mon, 08 Jun 2026 16:09:59 +0000",
+    "source": "The Hill",
+    "categories": [
+      "media"
+    ],
+    "collectedAt": "2026-06-08T16:30:01.321Z"
+  },
+  {
+    "title": "'You're destroying your countries': Is Europe finally heeding Trump's warning on illegal immigration?",
+    "description": "Trump and Vance warned EU about illegal immigration as new stricter border rules emerge as Europe's politicians seem to be reacting to the needs of its citizens.",
+    "link": "https://www.foxnews.com/world/youre-destroying-your-countries-europe-finally-heeding-trumps-warning-illegal-immigration",
+    "pubDate": "Mon, 08 Jun 2026 12:19:33 -0400",
+    "source": "Fox News",
+    "categories": [
+      "7f461778-73de-58ba-9aca-b97036ebf515",
+      "fnc",
+      "fox news",
+      "fox-news/topic/the-european-union",
+      "fox-news/us/immigration/deportation",
+      "fox-news/us/immigration/illegal-immigrants",
+      "fox-news/world/world-regions/spain",
+      "fox-news/us/immigration/border-security",
+      "fox-news/world/world-regions/france",
+      "fox-news/world",
+      "article"
+    ],
+    "collectedAt": "2026-06-08T16:30:01.321Z"
+  },
+  {
+    "title": "Early Prime Day fishing and hunting deals worth grabbing now, starting at $18",
+    "description": "Save on fishing and hunting gear before Prime Day, including rods, boots, camo apparel and more.",
+    "link": "https://www.foxnews.com/deals/amazon-fishing-and-hunting-deals-prime-day",
+    "pubDate": "Mon, 08 Jun 2026 12:17:19 -0400",
+    "source": "Fox News",
+    "categories": [
+      "86538258-c01e-5deb-ad80-0fc38e8db5a7",
+      "fnc",
+      "fox news",
+      "fox-news/deals",
+      "fox-news/commerce",
+      "fox-news/deals/outdoor",
+      "fox-news/deals/outdoor/water-sport-deals",
+      "fox-news/deals/amazon-deals",
+      "fox-news/deals",
+      "article"
+    ],
+    "collectedAt": "2026-06-08T16:30:01.321Z"
+  },
+  {
+    "title": "Platner calls Fetterman ‘a--hole’ at town hall as Democratic feud heats up",
+    "description": "Graham Platner calls Sen. John Fetterman \"an a--hole\" at a Maine town hall days before the Democratic Senate primary election against rivals.",
+    "link": "https://www.foxnews.com/politics/platner-calls-fetterman-a-hole-town-hall-democratic-feud-heats-up",
+    "pubDate": "Mon, 08 Jun 2026 12:09:14 -0400",
+    "source": "Fox News",
+    "categories": [
+      "b039a49d-592a-5037-b240-63cb00c6d844",
+      "fnc",
+      "fox news",
+      "fox-news/person/graham-platner",
+      "fox-news/politics/elections/2023/primary-results",
+      "fox-news/person/john-fetterman",
+      "fox-news/politics/elections/senate",
+      "fox-news/democrats",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-06-08T16:30:01.321Z"
+  },
+  {
+    "title": "HelloFresh draws backlash over suggestive Pride Month message",
+    "description": "HelloFresh faces backlash after a Pride Month Instagram post about high-fiber meals and \"prepping\" drew accusations of promoting explicit content.",
+    "link": "https://www.foxnews.com/culture/hellofresh-draws-backlash-over-suggestive-pride-month-message",
+    "pubDate": "Mon, 08 Jun 2026 12:07:58 -0400",
+    "source": "Fox News",
+    "categories": [
+      "cb238c31-c9ba-534b-a9a7-cdbb8fddb065",
+      "fnc",
+      "fox news",
+      "fox-news/media",
+      "fox-news/culture-trends",
+      "fox-news/food-drink",
+      "fox-news/food-prep",
+      "fox-news/culture",
+      "article"
+    ],
+    "collectedAt": "2026-06-08T16:30:01.321Z"
+  },
+  {
+    "title": "Spurs’ Victor Wembanyama spotted ‘drawing a statue’ in Gramercy Park ahead of NBA Finals Game 3",
+    "description": "Who let him in?",
+    "link": "https://nypost.com/2026/06/08/sports/victor-wembanyama-spotted-in-gramercy-park-ahead-of-nba-finals-game-3/",
+    "pubDate": "Mon, 08 Jun 2026 12:20:43 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-08T16:30:01.321Z"
+  },
+  {
+    "title": "Broncos star Jonathon Cooper speaks out after he and girlfriend arrested for domestic violence",
+    "description": "The Broncos outside linebacker, who had eight sacks last season, also issued an apology.",
+    "link": "https://nypost.com/2026/06/08/sports/jonathan-cooper-speaks-out-after-he-and-girlfriend-arrested-for-domestic-violence/",
+    "pubDate": "Mon, 08 Jun 2026 12:17:39 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-08T16:30:01.321Z"
+  },
+  {
+    "title": "Penn Station slasher had ‘rage in his eyes,’ victim says while recalling NYC rampage: ‘Wanted to kill me’",
+    "description": "He was one of five victims slashed or stabbed during the rampage around 7 p.m. Sunday evening.",
+    "link": "https://nypost.com/2026/06/08/us-news/nyc-penn-station-slasher-had-rage-in-his-eyes-victim-says-wanted-to-kill-me/",
+    "pubDate": "Mon, 08 Jun 2026 12:15:55 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-08T16:30:01.321Z"
+  },
+  {
+    "title": "Homan says most anti-ICE protesters at New Jersey’s Delaney Hall are not state residents",
+    "description": "White House border czar Tom Homan on Monday said most anti-ICE protesters engaging in violence at Delaney Hall, the immigration detention center in Newark, are not from New Jersey. Most of the protesters come from other Democratic states, according to the Trump administration’s top immigration official. “These are paid protesters,” Homan said on Fox News’s […]",
+    "link": "https://www.washingtonexaminer.com/policy/immigration/4598964/homan-anti-ice-protesters-delaney-hall-new-jersey/",
+    "pubDate": "Mon, 08 Jun 2026 16:02:01 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "crime",
+      "immigration",
+      "ice",
+      "new jersey",
+      "protests",
+      "tom homan"
+    ],
+    "collectedAt": "2026-06-08T16:30:01.321Z"
   }
 ]
