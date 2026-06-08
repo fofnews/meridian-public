@@ -419,7 +419,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-07",
+      "lastSeen": "2026-06-08",
       "active": true,
       "entries": [
         {
@@ -721,6 +721,11 @@
           "date": "2026-06-07",
           "edition": "evening",
           "update": "A Russian Shahed drone struck a nuclear fuel storage facility near the Chernobyl nuclear plant; Zelensky condemned the strike as 'extremely vile.' UK Prime Minister Starmer hosted Zelensky alongside French President Macron and German Chancellor Merz, as Russian strikes killed three people in Ukraine."
+        },
+        {
+          "date": "2026-06-08",
+          "edition": "morning",
+          "update": "A drone was shot down over Latvia amid growing concerns about the expanding conflict, as a series of drone incursions into neighboring countries has been reported, according to CBS News."
         }
       ],
       "parentId": null
@@ -864,7 +869,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-07",
+      "lastSeen": "2026-06-08",
       "active": true,
       "entries": [
         {
@@ -1111,6 +1116,11 @@
           "date": "2026-06-07",
           "edition": "evening",
           "update": "Iran launched ballistic missiles at Israel for the first time since an April 2026 ceasefire, in retaliation for Israeli strikes on Hezbollah command centers in Beirut; Israel's air defense systems were activated to intercept them. Iran's top negotiator also threatened U.S. targets in response to the escalation in Lebanon. Trump stated the U.S. will not unfreeze Iranian assets or lift sanctions until a deal is completed, and the renewed missile exchange has complicated ongoing mediation efforts."
+        },
+        {
+          "date": "2026-06-08",
+          "edition": "morning",
+          "update": "Israel struck military targets in western and central Iran hours after Iran launched a missile barrage at Israel on Sunday, defying Trump's public warnings against retaliation. The IRGC described its attack as 'a warning' following Israeli strikes on Beirut that it said 'crossed all red lines,' with missiles directed at northern Israel, including over occupied East Jerusalem and the West Bank, and passing through Lebanese airspace; debris fell over Jordan after at least one missile was intercepted there. Iranian state TV broadcast celebrations in Tehran as missiles launched, while Iranian media released footage of the launches. Israel's strikes on Iran came despite Trump telling Netanyahu not to retaliate, with Trump publicly asserting he 'calls the shots' in U.S. policy. Iran's foreign minister confirmed new details about the strike that killed Supreme Leader Khamenei, acknowledging U.S.-Israeli precision targeting. The exchange marked the first mutual strikes since the April ceasefire, occurring on the 100th day of the war, and sent oil prices higher."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1229,7 +1239,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-07",
+      "lastSeen": "2026-06-08",
       "active": true,
       "entries": [
         {
@@ -1581,6 +1591,11 @@
           "date": "2026-06-07",
           "edition": "evening",
           "update": "Israel launched airstrikes on Beirut's southern suburbs, striking what it described as a Hezbollah 'terrorist' headquarters in the Dahieh district, with multiple explosions reported. The strikes occurred days after a U.S.-brokered ceasefire renewal and while Israeli and Lebanese officials were engaged in Washington talks pushed by the Trump administration. Hezbollah has rejected the proposed truce. Egypt separately hosted renewed Gaza ceasefire talks on the same day as the Beirut strikes."
+        },
+        {
+          "date": "2026-06-08",
+          "edition": "morning",
+          "update": "Iran warned that ceasefire talks could be halted and attacks would resume if Israel continued military strikes on Lebanon. Oil prices rose more than $2 following the Israeli strikes on Beirut, according to Reuters."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1589,7 +1604,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-07",
+      "lastSeen": "2026-06-08",
       "active": true,
       "entries": [
         {
@@ -2196,6 +2211,11 @@
           "date": "2026-06-07",
           "edition": "evening",
           "update": "At the 100-day mark, U.S. households have spent an average of $750 more in expenses, with middle- and lower-income Americans bearing the greatest burden, according to Al Jazeera. Global airlines slashed their 2026 profit forecasts due to the fuel price shock caused by the conflict. The United States circulated a draft IAEA resolution demanding Iran provide greater transparency about its nuclear sites and uranium stockpiles. Trump, in his NBC Meet the Press interview, defended a compensation fund and reiterated that gas prices would fall when the war ends. The NY Times reported widespread despair among Iranians across the political spectrum amid a collapsing economy and skyrocketing inflation."
+        },
+        {
+          "date": "2026-06-08",
+          "edition": "morning",
+          "update": "Former National Security Adviser John Bolton warned in an opinion piece that Trump's actions during the conflict could spark nuclear proliferation across the Middle East regardless of any deal reached. Trump dismissed claims that launching a war with Iran contradicted his 2024 'No new wars' campaign promise. Al Jazeera released satellite imagery comparing 15 sites before and after attacks, documenting destruction at Iranian naval ports and U.S. military bases across the Gulf region. The Treasury Department is planning to use Iranian assets to help Gulf allies rebuild from war damage, citing a source familiar with Secretary Bessent's thinking."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2949,7 +2969,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-06-07",
+      "lastSeen": "2026-06-08",
       "active": true,
       "entries": [
         {
@@ -3006,6 +3026,11 @@
           "date": "2026-06-07",
           "edition": "morning",
           "update": "North Korea reaffirmed its status as a nuclear state on the eve of Chinese President Xi Jinping's scheduled visit to Pyongyang."
+        },
+        {
+          "date": "2026-06-08",
+          "edition": "morning",
+          "update": "Chinese President Xi Jinping arrived in Pyongyang for a state visit, receiving a lavish welcome ahead of talks with Kim Jong Un — his first visit since 2019. The visit comes amid a shifted dynamic in which Kim's deepened alliance with Russia has reduced North Korea's dependence on China. Kim Jong Un also inspected munitions at a weapons factory, with state media releasing photos of the visit."
         }
       ],
       "parentId": null
@@ -3035,7 +3060,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-07",
+      "lastSeen": "2026-06-08",
       "active": true,
       "entries": [
         {
@@ -3435,7 +3460,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-06-06",
+      "lastSeen": "2026-06-08",
       "active": true,
       "entries": [
         {
@@ -3472,6 +3497,11 @@
           "date": "2026-06-06",
           "edition": "evening",
           "update": "Russian President Vladimir Putin signaled openness to a 'new relationship' with the United States, according to NBC News, as the conflict in Ukraine remains at a deadlock."
+        },
+        {
+          "date": "2026-06-08",
+          "edition": "morning",
+          "update": "European leaders expressed readiness to support ceasefire talks between Ukraine and Russia, according to Reuters."
         }
       ]
     },
@@ -3480,7 +3510,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-06-07",
+      "lastSeen": "2026-06-08",
       "active": true,
       "entries": [
         {
@@ -3592,6 +3622,11 @@
           "date": "2026-06-07",
           "edition": "morning",
           "update": "OPEC+ is set to approve a fourth consecutive oil production quota increase since the closure of the Strait of Hormuz, according to Reuters sources."
+        },
+        {
+          "date": "2026-06-08",
+          "edition": "morning",
+          "update": "Iran's envoy to Moscow stated the Strait of Hormuz will remain open but subject to transit fees, according to Reuters."
         }
       ]
     },
@@ -3921,5 +3956,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-07T21:07:00.523Z"
+  "updatedAt": "2026-06-08T11:07:26.847Z"
 }
