@@ -599,5 +599,46 @@
       "philippines"
     ],
     "collectedAt": "2026-06-08T06:45:01.362Z"
+  },
+  {
+    "title": "Lawsuit says it seeks to stop 'deeply corrupt' UFC event at White House",
+    "description": "The filing asks a federal judge to declare the authorization for the event, framed around the country’s 250th anniversary, unlawful.",
+    "link": "https://abcnews.com/US/lawsuit-seeks-stop-deeply-corrupt-ufc-event-white/story?id=133672866",
+    "pubDate": "Mon, 08 Jun 2026 01:02:19 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-06-08T07:00:01.294Z"
+  },
+  {
+    "title": "Tsunami Alert After Philippines Earthquake: What to Know",
+    "description": "U.S. embassy warns residents \"evacuate immediately to higher grounds or move farther inland.\"",
+    "link": "https://www.newsweek.com/tsunami-warning-philippines-earthquake-today-2026-map-us-manilla-12042800",
+    "pubDate": "Mon, 08 Jun 2026 02:57:48 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-08T07:00:01.294Z"
+  },
+  {
+    "title": "US adversaries China, North Korea strengthening ties as Xi, Kim set to begin talks",
+    "description": "Chinese President Xi Jinping arrived in Pyongyang for a rare state visit, set to meet with North Korea's Kim Jong Un as both nations seek to restore their traditional alliance.",
+    "link": "https://www.foxnews.com/world/xi-jinping-north-korea-kim-jong-un-talks",
+    "pubDate": "Mon, 08 Jun 2026 02:55:32 -0400",
+    "source": "Fox News",
+    "categories": [
+      "9d60af57-febb-52b5-9d24-137fbc5b6f2d",
+      "fnc",
+      "fox news",
+      "fox-news/person/xi-jinping",
+      "fox-news/world/world-regions/china",
+      "fox-news/world/conflicts/north-korea",
+      "fox-news/person/kim-jong-un",
+      "fox-news/world/conflicts",
+      "fox-news/world",
+      "fox-news/world",
+      "article"
+    ],
+    "collectedAt": "2026-06-08T07:00:01.294Z"
   }
 ]
