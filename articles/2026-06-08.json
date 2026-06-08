@@ -480,5 +480,59 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-06-08T06:00:01.645Z"
+  },
+  {
+    "title": "M&S launches new traineeship for 1,000 young people",
+    "description": "The scheme aims to tackle the \"growing challenge\" of young people not in employment, education, or training.",
+    "link": "https://www.bbc.com/news/articles/cr7xr3dvxp9o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 08 Jun 2026 06:03:37 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-08T06:15:01.704Z"
+  },
+  {
+    "title": "Oil Surges, Asian Stocks Sink After Iran Strikes Israel",
+    "description": "Oil prices jumped and stocks plunged after Iran and Israel exchanged strikes, raising doubts about the future of fragile cease-fire in the Middle East.",
+    "link": "https://www.nytimes.com/2026/06/07/business/oil-gas-stocks-iran.html",
+    "pubDate": "Mon, 08 Jun 2026 06:12:48 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "oil (petroleum) and gasoline",
+      "prices (fares, fees and rates)",
+      "stocks and bonds",
+      "standard & poor's 500-stock index",
+      "iran"
+    ],
+    "collectedAt": "2026-06-08T06:15:01.704Z"
+  },
+  {
+    "title": "Yamal, Williams to be available for Spain’s opening World Cup match",
+    "description": "Star forward Yamal expected to be ready after suffering a groin injury that kept him out of a pretournament friendly.",
+    "link": "https://www.aljazeera.com/sports/2026/6/8/yamal-williams-to-be-available-for-spains-opening-world-cup-match?traffic_source=rss",
+    "pubDate": "Mon, 08 Jun 2026 05:50:20 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-06-08T06:15:01.704Z"
+  },
+  {
+    "title": "Morning Bid: Blistering AI rally turns ugly - Reuters",
+    "description": "Morning Bid: Blistering AI rally turns ugly  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1icDZwNHN1NGwtTk5fSnhfU3h2cmJ3Ym14M2h1U0t2bFREdGFmOXN5LU1BMlVNMExuWWJqVTlaYU5Oa3l6ZDBSNFNMQUN3bWExdGxDbWg2NnhlanNjU0lyUDlPWVlVTTcwc3FrcXNrNjVHVTg0OUpyRFJmalhrSFk?oc=5",
+    "pubDate": "Mon, 08 Jun 2026 04:32:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-06-08T06:15:01.704Z"
+  },
+  {
+    "title": "$500K worth of bourbon snatched from Philadelphia warehouse in broad daylight heist",
+    "description": "The 10,800 bottles of Noble Oak Bourbon were loaded right into the thieves' truck by unsuspecting employees.",
+    "link": "https://nypost.com/2026/06/08/us-news/500k-worth-of-bourbon-snatched-from-philadelphia-warehouse-in-broad-daylight-heist/",
+    "pubDate": "Mon, 08 Jun 2026 02:00:07 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-08T06:15:01.704Z"
   }
 ]
