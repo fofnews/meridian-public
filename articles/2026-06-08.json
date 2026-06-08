@@ -131,5 +131,105 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-08T04:30:01.484Z"
+  },
+  {
+    "title": "Tech stocks plunge in Asia after record rally and renewed Middle East attacks",
+    "description": "Markets in South Korea and Japan slid after a rally in tech stocks in recent weeks.",
+    "link": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 08 Jun 2026 04:42:42 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-08T04:45:01.463Z"
+  },
+  {
+    "title": "Israel says it has struck Iran after taking missile fire",
+    "description": "Israel has launched airstrikes targeting central and western Iran in response to missile fire. Iranian state television has reported the sound of explosions being heard in Isfahan, Tabriz and Tehran.",
+    "link": "https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates",
+    "pubDate": "Mon, 08 Jun 2026 00:23:36 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-06-08T04:45:01.463Z"
+  },
+  {
+    "title": "Our Favorite Photos From the Tony Awards",
+    "description": "As Broadway’s brightest gathered for the industry’s biggest night, here’s an up-close look at what you couldn’t see on TV.",
+    "link": "https://www.nytimes.com/2026/06/07/theater/our-favorite-photos-from-the-tony-awards-red-carpet.html",
+    "pubDate": "Mon, 08 Jun 2026 04:09:54 +0000",
+    "source": "NY Times",
+    "categories": [
+      "vis-photo",
+      "tony awards (theater awards)"
+    ],
+    "collectedAt": "2026-06-08T04:45:01.463Z"
+  },
+  {
+    "title": "What To Know as China’s Xi Jinping Heads to North Korea",
+    "description": "As Xi Jinping visits Pyongyang, he faces an emboldened North Korean dictator, whose alliance with Russia has reduced his dependence on China.",
+    "link": "https://www.nytimes.com/2026/06/04/world/asia/china-north-korea-xi-jinping-visit.html",
+    "pubDate": "Mon, 08 Jun 2026 04:41:26 +0000",
+    "source": "NY Times",
+    "categories": [
+      "china",
+      "north korea",
+      "xi jinping",
+      "kim jong-un",
+      "international relations",
+      "russia",
+      "russian invasion of ukraine (2022)",
+      "arms control and limitation and disarmament",
+      "nuclear weapons",
+      "united states international relations",
+      "trump, donald j"
+    ],
+    "collectedAt": "2026-06-08T04:45:01.463Z"
+  },
+  {
+    "title": "Casual World Cup Fan? These Are the USMNT Players You Need to Know",
+    "description": "A casual fan of soccer and interested in the upcoming World Cup? Here are a few players to learn about before the tournament.",
+    "link": "https://www.newsweek.com/sports/casual-world-cup-fan-these-are-the-usmnt-players-you-need-to-know-12042539",
+    "pubDate": "Mon, 08 Jun 2026 00:42:13 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-08T04:45:01.463Z"
+  },
+  {
+    "title": "Ranking All 16 World Cup Stadiums From Best to Worst",
+    "description": "16 different venues will host the World Cup this summer across Canada, the USA, and Mexico. Find out which is #1 in our ranking.",
+    "link": "https://www.newsweek.com/sports/ranking-all-16-world-cup-stadiums-from-best-to-worst-12042499",
+    "pubDate": "Mon, 08 Jun 2026 00:33:25 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-08T04:45:01.463Z"
+  },
+  {
+    "title": "Debris reported in Jordan after Iranian missiles aimed at Israel intercepte",
+    "description": "Missiles believed fired from Iran toward Israel were seen over Jordan, with one reportedly intercepted.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/aje-onl-nf_debris-reported-in-jordan-after-iranian-missiles-070626?traffic_source=rss",
+    "pubDate": "Mon, 08 Jun 2026 04:14:35 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-06-08T04:45:01.463Z"
+  },
+  {
+    "title": "Peru’s Sanchez visits jailed ex-president as votes are counted",
+    "description": "Peruvian presidential candidate Roberto Sanchez visited jailed former president Pedro Castillo.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/perus-sanchez-visits-jailed-ex-president-as-votes-are-counted?traffic_source=rss",
+    "pubDate": "Mon, 08 Jun 2026 04:13:27 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-06-08T04:45:01.463Z"
+  },
+  {
+    "title": "Mets finally done with ‘brutal’ West Coast schedule that ruined ‘balance’ of season",
+    "description": "The Mets are finally finished with their West Coast schedule.",
+    "link": "https://nypost.com/2026/06/08/sports/mets-finally-done-with-brutal-west-coast-schedule-that-ruined-balance/",
+    "pubDate": "Mon, 08 Jun 2026 00:35:35 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-08T04:45:01.463Z"
   }
 ]
