@@ -359,5 +359,61 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-08T05:15:01.660Z"
+  },
+  {
+    "title": "The Papers:  'Iran fires missile barrage' and 'New Eriksen hell'",
+    "description": "Iran's latest strike on Israel and Danish footballer Christian Eriksen's on-field collapse are prominent on Monday's papers.",
+    "link": "https://www.bbc.com/news/articles/cvgl3gx9y32o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 08 Jun 2026 05:23:32 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-08T05:30:01.439Z"
+  },
+  {
+    "title": "A 7.8 magnitude earthquake in the southern Philippines causes 4 deaths, damage and a tsunami",
+    "description": "A magnitude 7.8 earthquake has caused destruction in the southern Philippines and set off a 3-foot tsunami",
+    "link": "https://abcnews.com/International/wireStory/78-magnitude-earthquake-shakes-part-southern-philippines-tsunami-133670776",
+    "pubDate": "Mon, 08 Jun 2026 01:13:56 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-06-08T05:30:01.439Z"
+  },
+  {
+    "title": "‘Superman: Man of Tomorrow’ Set Leaks Reveal Intense Lex Luthor Battle",
+    "description": "\"Superman: Man of Tomorrow\" set leaks reveal the special Lex Luthor Warsuit and effects of the battle between him and Superman.",
+    "link": "https://www.newsweek.com/entertainment/movies/superman-man-of-tomorrow-set-leaks-reveal-intense-lex-luthor-battle-12042652",
+    "pubDate": "Mon, 08 Jun 2026 01:19:07 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-08T05:30:01.439Z"
+  },
+  {
+    "title": "Scientists reveal surprising brain benefit of laughter: ‘It’s a mental workout’",
+    "description": "Spontaneous, joyful play is an antidote to stress, boosting endorphins and dopamine, expert says.",
+    "link": "https://nypost.com/2026/06/08/health/scientists-reveal-surprising-brain-benefit-of-laughter-its-a-mental-workout/",
+    "pubDate": "Mon, 08 Jun 2026 01:24:02 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-08T05:30:01.439Z"
+  },
+  {
+    "title": "Political activists file federal lawsuit to stop UFC Freedom 250 bout at White House",
+    "description": "A political activist and military veteran from Virginia filed a lawsuit in hopes of halting the upcoming Ultimate Fighting Championship match at the White House. The event, part of the celebratory festivities for the 250th anniversary of the United States, is scheduled for June 14, 2026, Flag Day, and will take place on the South […]",
+    "link": "https://www.washingtonexaminer.com/news/4598617/federal-lawsuit-to-stop-ufc-freedom-250-bout-at-white-house/",
+    "pubDate": "Mon, 08 Jun 2026 05:15:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "america 250",
+      "dana white",
+      "donald trump",
+      "lawsuits",
+      "president donald trump",
+      "ufc",
+      "white house"
+    ],
+    "collectedAt": "2026-06-08T05:30:01.439Z"
   }
 ]
