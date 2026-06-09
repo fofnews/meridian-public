@@ -746,6 +746,11 @@
           "date": "2026-06-09",
           "edition": "morning",
           "update": "The EU is planning to expand its sanctions against Russia, with new proposed listings targeting individuals and entities linked to Russia's military industrial complex, human rights violators, and propagandists. Ukraine has intensified strikes on Russian-occupied territories, making it increasingly difficult for Moscow to supply both military and civilian needs in those areas."
+        },
+        {
+          "date": "2026-06-09",
+          "edition": "morning",
+          "update": "Russian attacks on Ukraine killed four people, while President Zelenskiy gained support for ceasefire talks, according to Reuters."
         }
       ],
       "parentId": null
@@ -1151,6 +1156,11 @@
           "date": "2026-06-09",
           "edition": "morning",
           "update": "Trump told the BBC that Netanyahu did not defy him, while separately warning Netanyahu that Israel would be 'on its own' if strikes on Iran continued, as indirect peace talks proceeded during the pause in hostilities. Lebanon's Health Ministry reported that Israeli strikes have killed 3,637 people and wounded 11,188 in Lebanon since March. Oil prices rose slightly as markets awaited further clarity following the halt in exchanges between Iran and Israel."
+        },
+        {
+          "date": "2026-06-09",
+          "edition": "morning",
+          "update": "Iran's World Cup ticket allocation was withdrawn days before the tournament was set to begin, according to Reuters. Trump claimed a Middle East peace deal is days away, according to Newsmax, as indirect talks continued during the pause in hostilities."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1636,6 +1646,11 @@
           "date": "2026-06-09",
           "edition": "morning",
           "update": "Netanyahu confirmed that while fighting with Iran has halted, Israeli military operations against Hezbollah in Lebanon will continue. Israel killed 14 people in southern Lebanon and issued an evacuation order for the coastal city of Tyre, including its Christian quarter. A UN spokesman stated that Israeli forced evacuation orders across southern and eastern Lebanon are nearly impossible to follow, raising questions about their legality under international law. Italian prosecutors opened an investigation into Israeli Minister Itamar Ben-Gvir over alleged abuse of activists detained aboard a Gaza-bound flotilla, making Rome the second European city to launch such a probe."
+        },
+        {
+          "date": "2026-06-09",
+          "edition": "morning",
+          "update": "Survivors and witnesses recounted the June 2024 Israeli military raid on Nuseirat refugee camp in Gaza, which killed 274 Palestinians and resulted in the rescue of four Israeli captives, according to Al Jazeera. Iran warned of 'crushing blows' if Israeli attacks in Lebanon continued, even as fighting between Iran and Israel halted."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1644,7 +1659,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-07",
+      "lastSeen": "2026-06-09",
       "active": true,
       "entries": [
         {
@@ -2251,6 +2266,11 @@
           "date": "2026-06-07",
           "edition": "evening",
           "update": "At the 100-day mark, U.S. households have spent an average of $750 more in expenses, with middle- and lower-income Americans bearing the greatest burden, according to Al Jazeera. Global airlines slashed their 2026 profit forecasts due to the fuel price shock caused by the conflict. The United States circulated a draft IAEA resolution demanding Iran provide greater transparency about its nuclear sites and uranium stockpiles. Trump, in his NBC Meet the Press interview, defended a compensation fund and reiterated that gas prices would fall when the war ends. The NY Times reported widespread despair among Iranians across the political spectrum amid a collapsing economy and skyrocketing inflation."
+        },
+        {
+          "date": "2026-06-09",
+          "edition": "morning",
+          "update": "Trump faces mounting challenges in managing the Iran crisis, according to the NY Times, echoing difficulties experienced by previous administrations despite his campaign promises."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4006,5 +4026,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-09T18:31:53.894Z"
+  "updatedAt": "2026-06-09T18:39:08.165Z"
 }
