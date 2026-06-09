@@ -523,5 +523,34 @@
     "source": "NPR",
     "categories": [],
     "collectedAt": "2026-06-09T06:15:01.407Z"
+  },
+  {
+    "title": "Legal equality duty for public services should be scrapped, says Badenoch",
+    "description": "The Conservative leader will argue that the rules have become a \"minefield that exposes almost every significant public decision to legal challenge\".",
+    "link": "https://www.bbc.com/news/articles/cy5vyqykpx5o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 09 Jun 2026 06:27:04 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-09T06:30:01.465Z"
+  },
+  {
+    "title": "San Antonio Spurs win 115-111 victory over New York Knicks in Game 3",
+    "description": "Victor Wembanyama leads San Antonio Spurs to 115-111 victory over New York Knicks in Game 3 of NBA Finals",
+    "link": "https://abcnews.com/Sports/wireStory/victor-wembanyama-leads-san-antonio-spurs-115-111-133701133",
+    "pubDate": "Tue, 09 Jun 2026 00:02:22 -0400",
+    "source": "ABC News",
+    "categories": [
+      "sports"
+    ],
+    "collectedAt": "2026-06-09T06:30:01.465Z"
+  },
+  {
+    "title": "U.S. pilots rescued after helicopter goes down near Strait of Hormuz",
+    "description": "A two-person U.S. military crew was rescued after their helicopter went down near the Strait of Hormuz. The cause of the incident remains unknown. President Trump told reporters that “the pilots are fine,” and that no one was injured in the incident.",
+    "link": "https://www.nbcnews.com/now/video/u-s-pilots-rescued-after-helicopter-goes-down-near-strait-of-hormuz-264789061740",
+    "pubDate": "Tue, 09 Jun 2026 05:58:24 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-06-09T06:30:01.465Z"
   }
 ]
