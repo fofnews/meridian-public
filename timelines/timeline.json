@@ -429,7 +429,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-08",
+      "lastSeen": "2026-06-09",
       "active": true,
       "entries": [
         {
@@ -741,6 +741,11 @@
           "date": "2026-06-08",
           "edition": "evening",
           "update": "Ukrainian forces struck multiple oil facilities inside Russia and Russian-occupied Crimea, targeting energy infrastructure to impose economic costs on Moscow. Polish Prime Minister Donald Tusk called for calm and dialogue with Ukraine amid a dispute over an army unit."
+        },
+        {
+          "date": "2026-06-09",
+          "edition": "morning",
+          "update": "The EU is planning to expand its sanctions against Russia, with new proposed listings targeting individuals and entities linked to Russia's military industrial complex, human rights violators, and propagandists. Ukraine has intensified strikes on Russian-occupied territories, making it increasingly difficult for Moscow to supply both military and civilian needs in those areas."
         }
       ],
       "parentId": null
@@ -884,7 +889,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-08",
+      "lastSeen": "2026-06-09",
       "active": true,
       "entries": [
         {
@@ -1141,6 +1146,11 @@
           "date": "2026-06-08",
           "edition": "evening",
           "update": "Both Israel and Iran announced a halt to attacks following the weekend flare-up. Israel conducted further strikes Monday morning, including a confirmed strike on the Mahshahr Petrochemical Complex in Iran's Khuzestan Province, which Israel stated produces materials used in ballistic missile development. Iran's IRGC declared its latest ballistic missile campaign a 'complete success' and warned attacks would resume if Israel restarts strikes on Lebanon. Iran's Deputy Foreign Minister Kazem Gharibabadi rejected U.S. plans to use frozen Iranian assets to compensate Gulf allies, stating Iran's neighbors were 'not in a position to demand reparations.' Iran framed its strikes as reflecting a strategic doctrine of 'taking initiative and offensive power,' with analysts noting a shift from projecting power through proxies to direct use of Iranian firepower. Netanyahu faces mounting domestic and international pressure following the exchanges, while gold prices fell during the escalation, challenging its status as a safe-haven asset."
+        },
+        {
+          "date": "2026-06-09",
+          "edition": "morning",
+          "update": "Trump told the BBC that Netanyahu did not defy him, while separately warning Netanyahu that Israel would be 'on its own' if strikes on Iran continued, as indirect peace talks proceeded during the pause in hostilities. Lebanon's Health Ministry reported that Israeli strikes have killed 3,637 people and wounded 11,188 in Lebanon since March. Oil prices rose slightly as markets awaited further clarity following the halt in exchanges between Iran and Israel."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1259,7 +1269,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-08",
+      "lastSeen": "2026-06-09",
       "active": true,
       "entries": [
         {
@@ -1621,6 +1631,11 @@
           "date": "2026-06-08",
           "edition": "evening",
           "update": "Israeli forces pushed deeper into southern Lebanon as conflict escalated. Analysts told Al Jazeera that Iran has formally shifted its military strategy from projecting power through proxy forces to directly deploying its own firepower to protect those proxies, with Lebanon identified as a key flashpoint in this transition. Experts warned that children in Lebanon are facing lasting physical and psychological trauma from the ongoing conflict."
+        },
+        {
+          "date": "2026-06-09",
+          "edition": "morning",
+          "update": "Netanyahu confirmed that while fighting with Iran has halted, Israeli military operations against Hezbollah in Lebanon will continue. Israel killed 14 people in southern Lebanon and issued an evacuation order for the coastal city of Tyre, including its Christian quarter. A UN spokesman stated that Israeli forced evacuation orders across southern and eastern Lebanon are nearly impossible to follow, raising questions about their legality under international law. Italian prosecutors opened an investigation into Israeli Minister Itamar Ben-Gvir over alleged abuse of activists detained aboard a Gaza-bound flotilla, making Rome the second European city to launch such a probe."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3080,7 +3095,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-08",
+      "lastSeen": "2026-06-09",
       "active": true,
       "entries": [
         {
@@ -3480,7 +3495,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-06-08",
+      "lastSeen": "2026-06-09",
       "active": true,
       "entries": [
         {
@@ -3522,6 +3537,11 @@
           "date": "2026-06-08",
           "edition": "morning",
           "update": "European leaders expressed readiness to support ceasefire talks between Ukraine and Russia, according to Reuters."
+        },
+        {
+          "date": "2026-06-09",
+          "edition": "morning",
+          "update": "Russian attacks on Ukraine killed four people, while President Zelenskyy gained support for ceasefire talks, according to Reuters."
         }
       ]
     },
@@ -3530,7 +3550,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-06-08",
+      "lastSeen": "2026-06-09",
       "active": true,
       "entries": [
         {
@@ -3652,6 +3672,11 @@
           "date": "2026-06-08",
           "edition": "evening",
           "update": "The EU imposed sanctions on Iranian individuals over their role in restricting naval traffic in the Strait of Hormuz. Yemen's Houthi movement threatened Israeli shipping in the Red Sea, with a Houthi source stating the group has imposed a blockade on a global trade chokepoint as part of 'unity of the arenas' with Iran-aligned forces."
+        },
+        {
+          "date": "2026-06-09",
+          "edition": "morning",
+          "update": "A U.S. Army Apache attack helicopter went down near the Strait of Hormuz on Monday; both crew members were rescued. President Trump confirmed the pilots are fine, and the cause of the incident was not immediately clear."
         }
       ]
     },
@@ -3981,5 +4006,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-08T21:08:44.727Z"
+  "updatedAt": "2026-06-09T18:31:53.894Z"
 }
