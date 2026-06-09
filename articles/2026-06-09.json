@@ -531,7 +531,7 @@
     "pubDate": "Tue, 09 Jun 2026 06:27:04 GMT",
     "source": "BBC News",
     "categories": [],
-    "collectedAt": "2026-06-09T06:30:01.465Z"
+    "collectedAt": "2026-06-09T06:30:01.431Z"
   },
   {
     "title": "San Antonio Spurs win 115-111 victory over New York Knicks in Game 3",
@@ -542,7 +542,7 @@
     "categories": [
       "sports"
     ],
-    "collectedAt": "2026-06-09T06:30:01.465Z"
+    "collectedAt": "2026-06-09T06:30:01.431Z"
   },
   {
     "title": "U.S. pilots rescued after helicopter goes down near Strait of Hormuz",
@@ -551,6 +551,66 @@
     "pubDate": "Tue, 09 Jun 2026 05:58:24 GMT",
     "source": "NBC News",
     "categories": [],
-    "collectedAt": "2026-06-09T06:30:01.465Z"
+    "collectedAt": "2026-06-09T06:30:01.431Z"
+  },
+  {
+    "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
+    "description": "The catcalls came after ticketholders faced airport-style security to enter the venue at Madison Square Garden.",
+    "link": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 09 Jun 2026 06:33:11 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-09T06:45:01.254Z"
+  },
+  {
+    "title": "Raman tops Pratt in LA mayor contest; California governor's race unsettled",
+    "description": "Los Angeles City Council member Nithya Raman surged past Spencer Pratt on Sunday in the race for LA mayor. The California governor's race remains undecided.",
+    "link": "https://www.cbsnews.com/news/california-governor-la-mayor-election-results-hilton-steyer-pratt-raman/",
+    "pubDate": "Tue, 09 Jun 2026 02:31:08 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-06-09T06:45:01.254Z"
+  },
+  {
+    "title": "Nuclear weapons spending surges to record high of $119bn, report says",
+    "description": "International Campaign to Abolish Nuclear Weapons says states spent an extra $16.8bn on their nuclear arsenals in 2025.",
+    "link": "https://www.aljazeera.com/economy/2026/6/9/nuclear-weapons-spending-surges-to-record-high-of-119bn-report-says?traffic_source=rss",
+    "pubDate": "Tue, 09 Jun 2026 06:20:33 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-06-09T06:45:01.254Z"
+  },
+  {
+    "title": "‘As close as lips and teeth’: The highs and lows of China-North Korea ties",
+    "description": "Chinese President Xi has been welcomed in Pyongyang for his first visit since 2019.",
+    "link": "https://www.aljazeera.com/news/2026/6/9/as-close-as-lips-and-teeth-the-highs-and-lows-of-china-north-korea-ties?traffic_source=rss",
+    "pubDate": "Tue, 09 Jun 2026 06:18:33 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-06-09T06:45:01.254Z"
+  },
+  {
+    "title": "Two years after Israel’s Nuseirat ‘rescue’ success, we are still bleeding",
+    "description": "My family survived the massacre that freed four captives. Its wounds and nightmares have not left us.",
+    "link": "https://www.aljazeera.com/features/2026/6/9/two-years-after-israels-nuseirat-rescue-success-we-are-still-bleeding?traffic_source=rss",
+    "pubDate": "Tue, 09 Jun 2026 06:12:57 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "features"
+    ],
+    "collectedAt": "2026-06-09T06:45:01.254Z"
+  },
+  {
+    "title": "Qatar’s Influence-Buying in America Is Even Worse Than We Thought - The Free Press",
+    "description": "Qatar’s Influence-Buying in America Is Even Worse Than We Thought  The Free Press",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MZzFTSS1vbERsZkdkeDY0M0tWWEVJQlNiaU5MMXhyeU5vYm80RU16dVFHS0NxS0s1aGZJaEk5UXpMaFhhbVhZMkZYd1JTNGswdF8wZVBoeHVFM25nMGJrdGpJUlNZMHd0WWc?oc=5",
+    "pubDate": "Tue, 09 Jun 2026 06:38:28 GMT",
+    "source": "The Free Press",
+    "categories": [],
+    "collectedAt": "2026-06-09T06:45:01.254Z"
   }
 ]
