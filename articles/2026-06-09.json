@@ -758,5 +758,67 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-09T07:30:01.508Z"
+  },
+  {
+    "title": "US pilots killed in fiery crash in Dominican Republic",
+    "description": "The two pilots on their way to pick up former MLB star Yadier Molina and his family when they reported an emergency and were trying to return to the airport.",
+    "link": "https://abcnews.com/video/133695448/",
+    "pubDate": "Tue, 09 Jun 2026 00:28:50 -0400",
+    "source": "ABC News",
+    "categories": [
+      "wnt"
+    ],
+    "collectedAt": "2026-06-09T07:45:01.219Z"
+  },
+  {
+    "title": "Who Is Omar Abdulkadir Artan? Somali Referee Denied Entry To US",
+    "description": "Artan was set to become the first Somalian to referee at a World Cup, but he was turned away in Miami on Saturday.",
+    "link": "https://www.newsweek.com/who-is-omar-abdulkadir-artan-somali-referee-denied-entry-us-world-cup-fifa-12047307",
+    "pubDate": "Tue, 09 Jun 2026 03:30:22 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-09T07:45:01.219Z"
+  },
+  {
+    "title": "Iran war day 102: Trump warns Israel against new strikes as ceasefire holds",
+    "description": "Iran warns fighting could restart as tensions remain high and Trump urges Israel to protect the fragile ceasefire.",
+    "link": "https://www.aljazeera.com/news/2026/6/9/iran-war-day-102-trump-warns-israel-against-new-strikes-as-ceasefire-holds?traffic_source=rss",
+    "pubDate": "Tue, 09 Jun 2026 07:25:06 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-06-09T07:45:01.219Z"
+  },
+  {
+    "title": "Wembanyama scores 32 as Spurs power past Knicks in Game 3 of NBA Finals",
+    "description": "San Antonio Spurs net first win in Game 3 of best-of-seven NBA Finals with crucial 115-111 victory at New York Knicks.",
+    "link": "https://www.aljazeera.com/sports/2026/6/9/wembanyama-scores-32-as-spurs-power-past-knicks-in-game-3-of-nba-finals?traffic_source=rss",
+    "pubDate": "Tue, 09 Jun 2026 07:23:17 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-06-09T07:45:01.219Z"
+  },
+  {
+    "title": "Palestine weekly wrap: Israel presses deeper into Gaza as Cairo talks begin",
+    "description": "Israel pushes deeper into Gaza, killing Palestinians across the enclave.",
+    "link": "https://www.aljazeera.com/news/2026/6/9/palestine-weekly-wrap-israel-presses-deeper-into-gaza-as-cairo-talks-begin?traffic_source=rss",
+    "pubDate": "Tue, 09 Jun 2026 07:19:22 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-06-09T07:45:01.219Z"
+  },
+  {
+    "title": "GSK just announced its biggest purchase in eight years to rev up cancer portfolio it had previously wound down",
+    "description": "U.K. pharmaceutical giant GSK on Tuesday struck a $10.6 billion deal to buy U.S.-listed biotech company Nuvalent, its biggest acquisition in eight years as it seeks to bolster the cancer portfolio it had previously trimmed.",
+    "link": "https://www.marketwatch.com/story/gsk-just-announced-its-biggest-purchase-in-eight-years-to-rev-up-cancer-portfolio-it-had-previously-wound-down-a95e6065?mod=mw_rss_topstories",
+    "pubDate": "Tue, 09 Jun 2026 07:37:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-06-09T07:45:01.219Z"
   }
 ]
