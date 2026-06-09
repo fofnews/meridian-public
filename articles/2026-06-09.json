@@ -693,5 +693,52 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-09T07:00:01.234Z"
+  },
+  {
+    "title": "Man taken to hospital with 'serious injuries' after stabbing in Belfast",
+    "description": "Police attended an incident Kinnaird Avenue following a report made shortly after 22:30 GMT on Monday 8 June.",
+    "link": "https://www.bbc.com/news/articles/cdejnjdg08eo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 09 Jun 2026 07:04:43 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-09T07:15:02.173Z"
+  },
+  {
+    "title": "Conflicts on rise globally, highest level since WWII, data shows",
+    "description": "Global conflicts surged to the highest number tallied by Sweden's Uppsala security research group.",
+    "link": "https://www.npr.org/2026/06/09/nx-s1-5850355/data-highest-conflicts-iran-israel-ukraine-russia-world-war-ii",
+    "pubDate": "Tue, 09 Jun 2026 03:00:00 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-06-09T07:15:02.173Z"
+  },
+  {
+    "title": "New York hosts San Antonio with 2-1 series lead",
+    "description": "The New York Knicks host the San Antonio Spurs in the NBA Finals with a 2-1 lead in the series",
+    "link": "https://abcnews.com/Sports/wireStory/new-york-hosts-san-antonio-2-1-series-133703399",
+    "pubDate": "Tue, 09 Jun 2026 02:59:35 -0400",
+    "source": "ABC News",
+    "categories": [
+      "sports"
+    ],
+    "collectedAt": "2026-06-09T07:15:02.173Z"
+  },
+  {
+    "title": "Stellantis recalling more than 1.3 million Jeep vehicles over fire concerns - Reuters",
+    "description": "Stellantis recalling more than 1.3 million Jeep vehicles over fire concerns  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc1F3V2N4U3cyUTBOVHVoWkxCZEpZMFp3bTBVaHR5MHhpX2RDNXhzZnZoWDV0Sm1wVVY2WXhHZVY4eTl2UE1wN3YyNm9ERTJEOUlSVkI3MWZkeTJITnA3SjhkZS1wY1loRmEyaUE0LWp5bUZ3bV9XMzkwZElseHJjT0xYcDlfei04cUZ6RFd3SlFHSGZZRktSalFuMzlJZWpfZ18xVm92dVpHM1ZENDFBc2VadHpOWTg?oc=5",
+    "pubDate": "Tue, 09 Jun 2026 05:00:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-06-09T07:15:02.173Z"
+  },
+  {
+    "title": "Dear Abby: I’m embarrassed that my son, daughter-in-law continue to ignore my texts",
+    "description": "Dear Abby advises a parent who can't get their son and daughter-in-law off the phone during family events.",
+    "link": "https://nypost.com/2026/06/09/lifestyle/dear-abby-im-embarrassed-that-my-son-daughter-in-law-continue-to-ignore-my-texts/",
+    "pubDate": "Tue, 09 Jun 2026 03:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-09T07:15:02.173Z"
   }
 ]
