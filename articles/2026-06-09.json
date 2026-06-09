@@ -349,5 +349,32 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-09T05:15:01.320Z"
+  },
+  {
+    "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
+    "description": "Israel's PM says his country is holding fire \"at the moment\", after Iran's armed forces said they had stopped military action.",
+    "link": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 09 Jun 2026 05:27:42 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-09T05:30:01.315Z"
+  },
+  {
+    "title": "Pentagon labels tech giant Alibaba and car maker BYD as aiding Chinese military",
+    "description": "The Pentagon has added several prominent Chinese businesses to its list of Chinese military companies. The move prevents them from securing U.S. defense contracts.",
+    "link": "https://www.npr.org/2026/06/09/g-s1-126961/pentagon-labels-alibaba-and-byd-as-aiding-chinese-military",
+    "pubDate": "Tue, 09 Jun 2026 01:18:46 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-06-09T05:30:01.315Z"
+  },
+  {
+    "title": "20,000 people displaced by Philippine earthquake that killed at least 37",
+    "description": "Rescuers searched ruined buildings in the southern Philippines on Tuesday to ensure no one was still trapped a day after one of the strongest earthquakes to hit the country in a half-century killed at least 37 people and displaced more than 20,000.",
+    "link": "https://nypost.com/2026/06/09/world-news/20000-people-displaced-by-the-philippine-earthquake-that-killed-at-least-37/",
+    "pubDate": "Tue, 09 Jun 2026 01:21:34 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-09T05:30:01.315Z"
   }
 ]
