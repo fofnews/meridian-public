@@ -207,5 +207,48 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-10T04:45:01.218Z"
+  },
+  {
+    "title": "Steve Hilton Wins Second Spot in California Governor Race, Beating Tom Steyer",
+    "description": "Steve Hilton, a Republican endorsed by President Trump, will face Xavier Becerra, a Democrat, in the general election. Tom Steyer, another Democrat, will not advance.",
+    "link": "https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html",
+    "pubDate": "Wed, 10 Jun 2026 04:49:06 +0000",
+    "source": "NY Times",
+    "categories": [
+      "becerra, xavier",
+      "hilton, steve (1969- )",
+      "elections",
+      "midterm elections (2026)"
+    ],
+    "collectedAt": "2026-06-10T05:00:01.327Z"
+  },
+  {
+    "title": "Lionel Messi Is Still the GOAT: World Cup Group J Best Player Rankings",
+    "description": "Lionel Messi might be 38, but even at his age, the legendary Argentine can still do things on the field that no one else can.",
+    "link": "https://www.newsweek.com/sports/lionel-messi-is-still-the-goat-world-cup-group-j-best-player-rankings-12052218",
+    "pubDate": "Wed, 10 Jun 2026 00:51:16 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-10T05:00:01.327Z"
+  },
+  {
+    "title": "UN report: Israeli forces shield settlers during attacks on Palestinians",
+    "description": "The UN says Israeli security forces routinely accompany settlers and act as a shield for their violence.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/un-report-israeli-forces-shield-settlers-during-attacks-on-palestinians?traffic_source=rss",
+    "pubDate": "Wed, 10 Jun 2026 04:33:46 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-06-10T05:00:01.327Z"
+  },
+  {
+    "title": "The Democratic establishment begrudgingly moves to embrace Graham Platner",
+    "description": "Democrats largely lined up behind their new Maine Senate nominee on Tuesday, while Republicans were quick to launch their attacks.",
+    "link": "https://www.politico.com/news/2026/06/10/democrats-line-up-graham-platner-maine-00955581",
+    "pubDate": "Tue, 09 Jun 2026 23:53:10 EST",
+    "source": "Politico",
+    "categories": [],
+    "collectedAt": "2026-06-10T05:00:01.327Z"
   }
 ]
