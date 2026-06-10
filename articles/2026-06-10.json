@@ -69,5 +69,94 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-10T04:15:01.199Z"
+  },
+  {
+    "title": "Residents flee as cars and houses burn in Belfast",
+    "description": "Police and firefighters help families leave their homes amid disorder following a knife attack.",
+    "link": "https://www.bbc.com/news/videos/c5yzpg514v0o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 10 Jun 2026 04:17:20 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-10T04:30:01.240Z"
+  },
+  {
+    "title": "Illegal mini-marts to shut for up to 12 months under law change prompted by BBC",
+    "description": "Under current rules, shops breaking the law can only be closed for up to six months in England and Wales.",
+    "link": "https://www.bbc.com/news/articles/cqj1rkqqrgro?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 10 Jun 2026 04:17:02 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-10T04:30:01.240Z"
+  },
+  {
+    "title": "US and Iran exchange fire after American patrol helicopter downed in Hormuz",
+    "description": "President Donald Trump earlier accused Iran of shooting down the US helicopter over the Strait of Hormuz and vowed to respond.",
+    "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 10 Jun 2026 04:28:35 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-10T04:30:01.240Z"
+  },
+  {
+    "title": "Nevada Attorney General Wins Democratic Nomination for Governor",
+    "description": "Aaron Ford easily outpaced a Washoe County commissioner, Alexis Hill, for the nod to take on Gov. Joe Lombardo in November.",
+    "link": "https://www.nytimes.com/2026/06/09/us/politics/nevada-governor-primary.html",
+    "pubDate": "Wed, 10 Jun 2026 04:25:53 +0000",
+    "source": "NY Times",
+    "categories": [
+      "ford, aaron (1972- )",
+      "nevada",
+      "hill, alexis (1983- )",
+      "elections",
+      "midterm elections (2026)"
+    ],
+    "collectedAt": "2026-06-10T04:30:01.240Z"
+  },
+  {
+    "title": "Falcons QB Battle Takes Curious Pause",
+    "description": "The Atlanta Falcons are passing their quarterback battle. Will the delay hurt the eventual starting quarterback?",
+    "link": "https://www.newsweek.com/sports/nfl/falcons-qb-battle-takes-curious-pause-12052186",
+    "pubDate": "Wed, 10 Jun 2026 00:19:21 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-10T04:30:01.240Z"
+  },
+  {
+    "title": "Aaron Ford’s Chances of Beating GOP Governor Joe Lombardo to Flip Nevada",
+    "description": "Nevada's gubernatorial race is heating up after Democrats picked Ford as their nominee, setting up a race against Lombardo.",
+    "link": "https://www.newsweek.com/hold-aaron-fords-chances-of-beating-gop-governor-joe-lombardo-to-flip-nevada-12049334",
+    "pubDate": "Wed, 10 Jun 2026 00:15:55 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-10T04:30:01.240Z"
+  },
+  {
+    "title": "Teresa Benitez-Thompson wins crowded Dem primary for Nevada House seat",
+    "description": "Her victory has Democrats hopeful about flipping the district this cycle.",
+    "link": "https://www.politico.com/news/2026/06/10/benitez-thompson-wins-nevada-house-primary-00955586",
+    "pubDate": "Tue, 09 Jun 2026 23:19:54 EST",
+    "source": "Politico",
+    "categories": [],
+    "collectedAt": "2026-06-10T04:30:01.240Z"
+  },
+  {
+    "title": "Trump-endorsed candidate will face top GOP target in Nevada House district",
+    "description": "Michael Boris scores upset victory in Nevada's 1st Congressional District Republican primary, defeating Trump-backed state Sen. Carrie Buck. OR Trump-endorsed state Sen. Carrie Buck wins Republican primary to take on Rep. Dina Titus, D-Nev., in Nevada's first congressional district.",
+    "link": "https://www.foxnews.com/politics/trump-endorsed-candidate-will-face-top-gop-target-nevada-house-district",
+    "pubDate": "Wed, 10 Jun 2026 00:05:51 -0400",
+    "source": "Fox News",
+    "categories": [
+      "aff5c023-c219-5410-971d-bebe53bcb415",
+      "fnc",
+      "fox news",
+      "fox-news/politics/senate/republicans",
+      "fox-news/democrats",
+      "fox-news/person/donald-trump",
+      "fox-news/us/us-regions/west/nevada",
+      "fox-news/politics",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-06-10T04:30:01.240Z"
   }
 ]
