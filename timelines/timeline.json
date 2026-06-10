@@ -286,6 +286,11 @@
           "date": "2026-06-10",
           "edition": "morning",
           "update": "Epstein's personal assistant testified before Congress that she arranged calls between Epstein and President Trump, and reportedly provided lawmakers with 'a lot of names' during her testimony."
+        },
+        {
+          "date": "2026-06-10",
+          "edition": "evening",
+          "update": "Bill Gates appeared voluntarily before the House Oversight Committee on Wednesday for a closed-door interview about his ties to Jeffrey Epstein, providing prepared opening remarks and stating he had no knowledge of Epstein's criminal conduct. Committee Chairman James Comer announced he wants to interview Acting Attorney General Todd Blanche as part of the probe and said he is in communication with the DOJ about scheduling. Epstein's longtime executive secretary Lesley Groff also testified before the panel, describing Epstein as a 'master manipulator' and saying she was unaware of his crimes."
         }
       ],
       "parentId": null
@@ -294,7 +299,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-08",
+      "lastSeen": "2026-06-10",
       "active": true,
       "entries": [
         {
@@ -431,6 +436,11 @@
           "date": "2026-06-08",
           "edition": "evening",
           "update": "IAEA chief described Iran-U.S. nuclear talks as being in a 'complicated phase.' Trump stated in a Financial Times interview that Israel 'won't have any choice' but to accept any potential deal with Iran, repeating that he 'calls all the shots' regarding U.S.-Israel decisions."
+        },
+        {
+          "date": "2026-06-10",
+          "edition": "evening",
+          "update": "The IAEA Board of Governors passed a resolution demanding that Iran report its uranium stockpiles, according to Reuters."
         }
       ],
       "parentId": null
@@ -771,6 +781,11 @@
           "date": "2026-06-10",
           "edition": "morning",
           "update": "Ukrainian drones struck Sevastopol's historic museum and key Russian oil refineries in a multiday campaign that killed a rail worker, forced closure of the Chongar road bridge, and caused a fuel crisis in Russian-occupied Crimea, according to Al Jazeera. Officials altered the train schedule in the region following the strikes."
+        },
+        {
+          "date": "2026-06-10",
+          "edition": "evening",
+          "update": "Ukraine's military announced strikes on a military plant deep inside Russia, a Russian oil refinery, and a 'shadow fleet' oil tanker in the Black Sea. Video footage showed a Ukrainian-made FP-5 Flamingo cruise missile striking a target approximately 900 kilometers inside Russian territory."
         }
       ],
       "parentId": null
@@ -1191,6 +1206,11 @@
           "date": "2026-06-10",
           "edition": "morning",
           "update": "Jordan intercepted Iranian missiles that passed through its airspace, according to Al Jazeera."
+        },
+        {
+          "date": "2026-06-10",
+          "edition": "evening",
+          "update": "Al Jazeera reported that Netanyahu faces competing pressures from the U.S., ongoing Lebanon operations, and Iran ceasefire negotiations as he balances demands from voters, allies, and political opponents ahead of elections."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1696,6 +1716,11 @@
           "date": "2026-06-10",
           "edition": "morning",
           "update": "Israeli forces killed nine people in Tyre within 24 hours of issuing forced displacement orders for the city. Former Israeli Prime Minister Ehud Barak warned against Israel becoming entangled in a prolonged occupation of Lebanon similar to the nearly two-decade engagement that ended with his withdrawal of forces in 2000. A UN report separately found that Israeli security forces routinely accompany and shield settlers during attacks on Palestinians."
+        },
+        {
+          "date": "2026-06-10",
+          "edition": "evening",
+          "update": "Satellite imagery analyzed by Al Jazeera revealed widespread destruction from Israeli strikes in Tyre, including damage to residential areas, UNESCO World Heritage buffer zones, and Palestinian camps. Turkish President Erdogan declared that Israeli military operations in Syria and Lebanon constitute a threat to Turkey as well."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2326,6 +2351,11 @@
           "date": "2026-06-10",
           "edition": "morning",
           "update": "The U.S. military launched retaliatory strikes against Iran on Tuesday, which CENTCOM described as a 'proportional response' and 'self-defense' following the helicopter downing. Iran responded by targeting U.S. bases in Jordan and the Gulf. Analyst Trita Parsi told Al Jazeera that Iran has abandoned strategic patience in favor of a new doctrine of swift, severe retaliation in response to any U.S. attack."
+        },
+        {
+          "date": "2026-06-10",
+          "edition": "evening",
+          "update": "On Wednesday, Trump told reporters the U.S. would continue striking Iran 'very hard' and that Iran 'will have to pay the price' for slow negotiations, also warning of attacks on civilian infrastructure including power plants and bridges. Trump posted on Truth Social that Iran's military is 'a complete and total mess' and separately claimed it is 'completely defeated,' while also asserting that the U.S. naval blockade is crushing Iran's economy. U.S. strikes hit several sites in Iran including water facilities, with Al Jazeera reporting Iran's counter-strikes targeted U.S. military assets in Kuwait and Bahrain. Al Jazeera analysts reported Iran's strategic goal is to deter American patrols in the Strait of Hormuz as the exchange of strikes continued to escalate. The U.S. also imposed new sanctions on China- and Hong Kong-based entities for weapons dealings with Iran, and a Reuters survey found OPEC oil output fell to its lowest level since at least 2000 amid continued pressure on Iranian production."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3535,7 +3565,7 @@
       "title": "US Military Intervention in Cuba",
       "parentId": null,
       "firstSeen": "2026-05-02",
-      "lastSeen": "2026-05-28",
+      "lastSeen": "2026-06-10",
       "active": true,
       "entries": [
         {
@@ -3567,6 +3597,11 @@
           "date": "2026-05-28",
           "edition": "evening",
           "update": "The Trump administration is reportedly accelerating plans aimed at engineering the collapse of the Cuban government, according to Newsmax, though specific details of the strategy were not disclosed."
+        },
+        {
+          "date": "2026-06-10",
+          "edition": "evening",
+          "update": "U.S. Defense Secretary Pete Hegseth traveled to the U.S. military base at Guantanamo Bay, Cuba, amid escalating pressure on the Havana government."
         }
       ]
     },
@@ -4111,5 +4146,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-10T11:07:54.767Z"
+  "updatedAt": "2026-06-10T21:10:13.946Z"
 }
