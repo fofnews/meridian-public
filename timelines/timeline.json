@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-09",
+      "lastSeen": "2026-06-10",
       "active": true,
       "entries": [
         {
@@ -281,6 +281,11 @@
           "date": "2026-06-09",
           "edition": "evening",
           "update": "Bill Gates has retained Jake Greenberg, former top investigative counsel to the House Oversight Committee, to advise him on testimony related to Jeffrey Epstein, according to the NY Times."
+        },
+        {
+          "date": "2026-06-10",
+          "edition": "morning",
+          "update": "Epstein's personal assistant testified before Congress that she arranged calls between Epstein and President Trump, and reportedly provided lawmakers with 'a lot of names' during her testimony."
         }
       ],
       "parentId": null
@@ -434,7 +439,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-09",
+      "lastSeen": "2026-06-10",
       "active": true,
       "entries": [
         {
@@ -761,6 +766,11 @@
           "date": "2026-06-09",
           "edition": "evening",
           "update": "The EU proposed its 21st package of sanctions against Russia, with measures targeting banks. Russia conducted naval drills in the Baltic Sea concurrent with major NATO exercises in the region. Several retired U.S. generals and a former U.S. intelligence agency director told CBS News they believe Ukraine currently has the upper hand in the war."
+        },
+        {
+          "date": "2026-06-10",
+          "edition": "morning",
+          "update": "Ukrainian drones struck Sevastopol's historic museum and key Russian oil refineries in a multiday campaign that killed a rail worker, forced closure of the Chongar road bridge, and caused a fuel crisis in Russian-occupied Crimea, according to Al Jazeera. Officials altered the train schedule in the region following the strikes."
         }
       ],
       "parentId": null
@@ -904,7 +914,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-09",
+      "lastSeen": "2026-06-10",
       "active": true,
       "entries": [
         {
@@ -1176,6 +1186,11 @@
           "date": "2026-06-09",
           "edition": "evening",
           "update": "Israeli opposition figures accused Netanyahu of ceding Israeli decision-making to the U.S. after he halted planned strikes against Iran following a phone call with Trump. Experts cited by Al Jazeera stated that recent Trump-Netanyahu confrontations have revealed growing divisions between the two leaders, raising questions about U.S. leverage over Israel. Emirates airline announced plans to offer incentives and safety assurances to passengers following reduced travel demand caused by the conflict."
+        },
+        {
+          "date": "2026-06-10",
+          "edition": "morning",
+          "update": "Jordan intercepted Iranian missiles that passed through its airspace, according to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1299,7 +1314,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-09",
+      "lastSeen": "2026-06-10",
       "active": true,
       "entries": [
         {
@@ -1676,6 +1691,11 @@
           "date": "2026-06-09",
           "edition": "evening",
           "update": "Trump stated that a peace deal is in its 'final throes' but warned Netanyahu that Israel would be on its own if strikes continued following the pause in Iran-Israel fighting, as at least 8 people were reported killed in Lebanon. Iran reiterated its warning that it could resume hostilities if Israeli attacks on Hezbollah do not stop, as Israeli airstrikes hit Tyre. Israeli forces issued evacuation orders compelling residents of Tyre to flee or risk death from the strikes."
+        },
+        {
+          "date": "2026-06-10",
+          "edition": "morning",
+          "update": "Israeli forces killed nine people in Tyre within 24 hours of issuing forced displacement orders for the city. Former Israeli Prime Minister Ehud Barak warned against Israel becoming entangled in a prolonged occupation of Lebanon similar to the nearly two-decade engagement that ended with his withdrawal of forces in 2000. A UN report separately found that Israeli security forces routinely accompany and shield settlers during attacks on Palestinians."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1684,7 +1704,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-09",
+      "lastSeen": "2026-06-10",
       "active": true,
       "entries": [
         {
@@ -2301,6 +2321,11 @@
           "date": "2026-06-09",
           "edition": "evening",
           "update": "Iran shot down a U.S. Army AH-64 Apache helicopter near the Strait of Hormuz late Monday night, with both crew members rescued uninjured by the U.S. Navy unmanned surface vessel Saronic Corsair. Trump announced the incident and a forthcoming U.S. response via social media on Tuesday. Separately, the crew of a sanctioned oil tanker sent a distress call and were rescued off the coast of Oman after the vessel was struck by a missile fired from a U.S. fighter jet. U.S. forces also fired on a tanker that was reportedly attempting to evade a blockade."
+        },
+        {
+          "date": "2026-06-10",
+          "edition": "morning",
+          "update": "The U.S. military launched retaliatory strikes against Iran on Tuesday, which CENTCOM described as a 'proportional response' and 'self-defense' following the helicopter downing. Iran responded by targeting U.S. bases in Jordan and the Gulf. Analyst Trita Parsi told Al Jazeera that Iran has abandoned strategic patience in favor of a new doctrine of swift, severe retaliation in response to any U.S. attack."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2854,7 +2879,7 @@
       "id": "artemis-moon-mission",
       "title": "Artemis Moon Mission",
       "firstSeen": "2026-03-23",
-      "lastSeen": "2026-06-09",
+      "lastSeen": "2026-06-10",
       "active": true,
       "entries": [
         {
@@ -3051,6 +3076,11 @@
           "date": "2026-06-09",
           "edition": "evening",
           "update": "NASA announced the four-member crew for the Artemis III mission: Randy Bresnik, Luca Parmitano, Frank Rubio, and Andre Douglas. The mission is scheduled to launch in 2027, with the crew testing commercially developed lunar landers in Earth orbit rather than landing on or traveling close to the Moon at this stage. A lunar surface landing is now targeted for 2028. Experts have expressed cautious optimism about the 2028 lunar landing goal, while noting the mission's heavy dependence on the involvement of Elon Musk and Jeff Bezos, with questions remaining over whether the recent Blue Origin New Glenn rocket explosion could affect the timeline."
+        },
+        {
+          "date": "2026-06-10",
+          "edition": "morning",
+          "update": "NASA administrator Jared Isaacman discussed the complexity of the Artemis III mission and NASA's plans for an eventual Moon base in an interview with CBS News. The four named crew members also spoke with CBS News following the announcement of their selection."
         }
       ],
       "parentId": null
@@ -3150,7 +3180,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-09",
+      "lastSeen": "2026-06-10",
       "active": true,
       "entries": [
         {
@@ -3172,6 +3202,11 @@
           "date": "2026-06-03",
           "edition": "evening",
           "update": "Trump confirmed he called Israeli Prime Minister Netanyahu 'crazy' during a phone call, saying he was 'perturbed' by Israel's ongoing military operations in Lebanon, which he said were complicating U.S. efforts to secure a peace agreement with Iran."
+        },
+        {
+          "date": "2026-06-10",
+          "edition": "morning",
+          "update": "Asian stocks fell and oil prices rose as Middle East tensions escalated. May inflation is expected to have increased, driven in part by rising prices linked to the Iran war, with wage growth continuing to lag inflation, according to NBC News."
         }
       ]
     },
@@ -4076,5 +4111,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-09T21:07:25.175Z"
+  "updatedAt": "2026-06-10T11:07:54.767Z"
 }
