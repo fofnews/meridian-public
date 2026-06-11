@@ -880,5 +880,52 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-11T07:30:01.314Z"
+  },
+  {
+    "title": "Iran live updates: CENTCOM says latest round of strikes completed",
+    "description": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.",
+    "link": "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243",
+    "pubDate": "Thu, 11 Jun 2026 03:30:26 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-06-11T07:45:01.233Z"
+  },
+  {
+    "title": "Oil Prices Rise as U.S. Launches New Attack on Iran",
+    "description": "Oil prices jumped after the United States and Iran exchanged fire for a second day, heightening fears that the two countries could slide back into open conflict.",
+    "link": "https://www.nytimes.com/2026/06/10/business/oil-gas-price-iran.html",
+    "pubDate": "Thu, 11 Jun 2026 07:40:07 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "oil (petroleum) and gasoline",
+      "prices (fares, fees and rates)",
+      "stocks and bonds",
+      "standard & poor's 500-stock index",
+      "iran"
+    ],
+    "collectedAt": "2026-06-11T07:45:01.233Z"
+  },
+  {
+    "title": "Popular Supplement Linked to Faster Alzheimer’s Progression",
+    "description": "Popular joint supplement glucosamine may speed Alzheimer's progression, raising urgent questions for millions.",
+    "link": "https://www.newsweek.com/popular-supplement-linked-to-faster-alzheimers-progression-12054752",
+    "pubDate": "Thu, 11 Jun 2026 03:33:45 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-11T07:45:01.233Z"
+  },
+  {
+    "title": "US releases video of warship firing missiles in strikes on Iran",
+    "description": "Video released by US Central Command shows what the military says are ‘self-defence’ strikes on Iranian targets.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/us-releases-video-of-warship-firing-missiles-in-strikes-on-iran?traffic_source=rss",
+    "pubDate": "Thu, 11 Jun 2026 07:10:23 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-06-11T07:45:01.233Z"
   }
 ]
