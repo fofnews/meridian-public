@@ -296,6 +296,11 @@
           "date": "2026-06-11",
           "edition": "morning",
           "update": "During his closed-door testimony before the House Oversight Committee, Bill Gates revealed that Epstein attempted to use Gates's extramarital affairs as leverage to pressure him into maintaining their relationship. Rep. Robert Garcia (D-Calif.) publicly condemned Gates's ties to Epstein as 'really troubling,' noting the association began after Epstein's 2008 guilty plea to sex crimes."
+        },
+        {
+          "date": "2026-06-11",
+          "edition": "evening",
+          "update": "Four House Republicans who pushed for the release of Epstein files, identifying themselves as 'The Bravehearts,' are facing political consequences for acting against Trump's fierce opposition to the move, according to NBC News."
         }
       ],
       "parentId": null
@@ -796,6 +801,11 @@
           "date": "2026-06-11",
           "edition": "morning",
           "update": "The Russia-Ukraine war has surpassed the duration of World War I, which lasted approximately four years and three months. The NY Times noted parallels between the two conflicts, including the grinding nature of the fighting and the role of new technologies in reshaping warfare."
+        },
+        {
+          "date": "2026-06-11",
+          "edition": "evening",
+          "update": "A Russian diplomat held discussions about the Ukraine war with French, German, and British ambassadors, according to Reuters. Ukraine's drone commander stated in an exclusive Reuters interview that a strategic goal is cutting Crimea off from Russia. Former U.S. special envoy Keith Kellogg publicly stated Ukraine should not be forced to surrender any territory not already captured by Russian forces in a peace deal, breaking from Trump's position."
         }
       ],
       "parentId": null
@@ -1344,7 +1354,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-10",
+      "lastSeen": "2026-06-11",
       "active": true,
       "entries": [
         {
@@ -1731,6 +1741,11 @@
           "date": "2026-06-10",
           "edition": "evening",
           "update": "Satellite imagery analyzed by Al Jazeera revealed widespread destruction from Israeli strikes in Tyre, including damage to residential areas, UNESCO World Heritage buffer zones, and Palestinian camps. Turkish President Erdogan declared that Israeli military operations in Syria and Lebanon constitute a threat to Turkey as well."
+        },
+        {
+          "date": "2026-06-11",
+          "edition": "evening",
+          "update": "Al Jazeera reported that 117.8 million people have been displaced worldwide, with Lebanon's shelter crisis continuing to worsen. Residents of Tripoli are navigating growing hardship as over a million people displaced by the conflict seek assistance."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2371,6 +2386,11 @@
           "date": "2026-06-11",
           "edition": "morning",
           "update": "Iran announced the closure of the Strait of Hormuz to all vessels following a second consecutive day of U.S. military strikes on Wednesday evening, causing oil prices to rise. U.S. strikes hit targets on Qeshm Island and ports along the Strait of Hormuz, and a Palau-flagged oil tanker was struck off the coast of Oman, killing three Indian sailors. Defense Secretary Pete Hegseth pledged further strikes on 'key facilities' and warned of 'strong and clear' action on Wednesday and Thursday nights if needed, with CENTCOM citing Iran's 'unwarranted and continued aggression' as justification. Reuters sources reported Iran is seeking funds as nuclear talks move toward a potential interim deal, while the escalating exchanges threatened to collapse ceasefire efforts and created political complications for Trump ahead of midterm elections. Nikki Haley called on Trump to threaten Russia and China with force over their military aid to Iran."
+        },
+        {
+          "date": "2026-06-11",
+          "edition": "evening",
+          "update": "Trump posted a threat on Truth Social on June 11 to seize Iran's Kharg Island, its major oil export hub, and stated the U.S. would take 'total control' of Iran's oil and gas markets, while also expressing doubt that American voters have the 'stomach' for the operation. Trump subsequently canceled planned Thursday strikes citing progress toward a peace deal, indicating an announcement could come 'shortly,' though he also stated the U.S. would hit Iran 'very hard' that night. CENTCOM launched strikes on Thursday targeting Iranian military surveillance, communication systems, and air defense sites, marking a second consecutive day of U.S. strikes, while Iran's IRGC claimed it struck 18 targets at U.S. bases in Kuwait, Bahrain, and Jordan. The U.S. denied Iran had successfully closed the Strait of Hormuz, and Al Jazeera reported that Trump's claim of smuggling 100 million barrels of oil through the strait did not add up mathematically. India lodged a formal protest after three Indian mariners were killed in U.S. strikes on tankers off Oman, with a third tanker crewed by Indians struck in a suspected separate incident; Oman's military rescued dozens of Indian seafarers from struck vessels. The Pentagon released video of missile launches describing strikes as self-defense, while Trump and Hegseth publicly pre-announced strike plans, departing from standard military practice, and Hegseth dismissed questions about civilian infrastructure strikes as war crimes as 'disingenuous.'"
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3910,7 +3930,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-06-09",
+      "lastSeen": "2026-06-11",
       "active": true,
       "entries": [
         {
@@ -4057,6 +4077,11 @@
           "date": "2026-06-09",
           "edition": "evening",
           "update": "Kenyan police clashed with protesters marching against the U.S.-run Ebola quarantine centre near Nanyuki, as doctors with experience from previous outbreaks also voiced criticism of the facility while the U.S. government defended it. The WHO and Africa CDC jointly launched a $518 million emergency response program to combat the outbreak."
+        },
+        {
+          "date": "2026-06-11",
+          "edition": "evening",
+          "update": "CDC Acting Director Dr. Jay Bhattacharya stated there is 'no evidence' that Trump administration USAID cuts negatively impacted the Ebola outbreak response. The WHO announced the risk of Ebola transmission in Europe and World Cup host countries is low. The White House announced it would block Americans who contract Ebola abroad from returning home for treatment, and issued mandatory quarantine orders for two cruise ship passengers exposed to hantavirus. The DRC expanded Ebola testing with two facilities near the epicenter, though health officials warned testing capacity remains insufficient to keep pace with the outbreak."
         }
       ]
     },
@@ -4166,5 +4191,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-11T11:07:47.272Z"
+  "updatedAt": "2026-06-11T21:11:18.379Z"
 }
