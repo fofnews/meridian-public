@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-10",
+      "lastSeen": "2026-06-11",
       "active": true,
       "entries": [
         {
@@ -291,6 +291,11 @@
           "date": "2026-06-10",
           "edition": "evening",
           "update": "Bill Gates appeared voluntarily before the House Oversight Committee on Wednesday for a closed-door interview about his ties to Jeffrey Epstein, providing prepared opening remarks and stating he had no knowledge of Epstein's criminal conduct. Committee Chairman James Comer announced he wants to interview Acting Attorney General Todd Blanche as part of the probe and said he is in communication with the DOJ about scheduling. Epstein's longtime executive secretary Lesley Groff also testified before the panel, describing Epstein as a 'master manipulator' and saying she was unaware of his crimes."
+        },
+        {
+          "date": "2026-06-11",
+          "edition": "morning",
+          "update": "During his closed-door testimony before the House Oversight Committee, Bill Gates revealed that Epstein attempted to use Gates's extramarital affairs as leverage to pressure him into maintaining their relationship. Rep. Robert Garcia (D-Calif.) publicly condemned Gates's ties to Epstein as 'really troubling,' noting the association began after Epstein's 2008 guilty plea to sex crimes."
         }
       ],
       "parentId": null
@@ -449,7 +454,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-10",
+      "lastSeen": "2026-06-11",
       "active": true,
       "entries": [
         {
@@ -786,6 +791,11 @@
           "date": "2026-06-10",
           "edition": "evening",
           "update": "Ukraine's military announced strikes on a military plant deep inside Russia, a Russian oil refinery, and a 'shadow fleet' oil tanker in the Black Sea. Video footage showed a Ukrainian-made FP-5 Flamingo cruise missile striking a target approximately 900 kilometers inside Russian territory."
+        },
+        {
+          "date": "2026-06-11",
+          "edition": "morning",
+          "update": "The Russia-Ukraine war has surpassed the duration of World War I, which lasted approximately four years and three months. The NY Times noted parallels between the two conflicts, including the grinding nature of the fighting and the role of new technologies in reshaping warfare."
         }
       ],
       "parentId": null
@@ -1729,7 +1739,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-10",
+      "lastSeen": "2026-06-11",
       "active": true,
       "entries": [
         {
@@ -2356,6 +2366,11 @@
           "date": "2026-06-10",
           "edition": "evening",
           "update": "On Wednesday, Trump told reporters the U.S. would continue striking Iran 'very hard' and that Iran 'will have to pay the price' for slow negotiations, also warning of attacks on civilian infrastructure including power plants and bridges. Trump posted on Truth Social that Iran's military is 'a complete and total mess' and separately claimed it is 'completely defeated,' while also asserting that the U.S. naval blockade is crushing Iran's economy. U.S. strikes hit several sites in Iran including water facilities, with Al Jazeera reporting Iran's counter-strikes targeted U.S. military assets in Kuwait and Bahrain. Al Jazeera analysts reported Iran's strategic goal is to deter American patrols in the Strait of Hormuz as the exchange of strikes continued to escalate. The U.S. also imposed new sanctions on China- and Hong Kong-based entities for weapons dealings with Iran, and a Reuters survey found OPEC oil output fell to its lowest level since at least 2000 amid continued pressure on Iranian production."
+        },
+        {
+          "date": "2026-06-11",
+          "edition": "morning",
+          "update": "Iran announced the closure of the Strait of Hormuz to all vessels following a second consecutive day of U.S. military strikes on Wednesday evening, causing oil prices to rise. U.S. strikes hit targets on Qeshm Island and ports along the Strait of Hormuz, and a Palau-flagged oil tanker was struck off the coast of Oman, killing three Indian sailors. Defense Secretary Pete Hegseth pledged further strikes on 'key facilities' and warned of 'strong and clear' action on Wednesday and Thursday nights if needed, with CENTCOM citing Iran's 'unwarranted and continued aggression' as justification. Reuters sources reported Iran is seeking funds as nuclear talks move toward a potential interim deal, while the escalating exchanges threatened to collapse ceasefire efforts and created political complications for Trump ahead of midterm elections. Nikki Haley called on Trump to threaten Russia and China with force over their military aid to Iran."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2909,7 +2924,7 @@
       "id": "artemis-moon-mission",
       "title": "Artemis Moon Mission",
       "firstSeen": "2026-03-23",
-      "lastSeen": "2026-06-10",
+      "lastSeen": "2026-06-11",
       "active": true,
       "entries": [
         {
@@ -3111,6 +3126,11 @@
           "date": "2026-06-10",
           "edition": "morning",
           "update": "NASA administrator Jared Isaacman discussed the complexity of the Artemis III mission and NASA's plans for an eventual Moon base in an interview with CBS News. The four named crew members also spoke with CBS News following the announcement of their selection."
+        },
+        {
+          "date": "2026-06-11",
+          "edition": "morning",
+          "update": "NASA Administrator Jared Isaacman publicly defended the all-male Artemis III crew selection, acknowledging public reactions ranging from 'disappointment to outrage' over the absence of female astronauts from a mission named after the Greek goddess Artemis."
         }
       ],
       "parentId": null
@@ -3210,7 +3230,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-10",
+      "lastSeen": "2026-06-11",
       "active": true,
       "entries": [
         {
@@ -4146,5 +4166,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-10T21:10:13.946Z"
+  "updatedAt": "2026-06-11T11:07:47.272Z"
 }
