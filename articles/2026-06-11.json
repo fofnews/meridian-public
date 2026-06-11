@@ -1032,5 +1032,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-11T08:15:01.360Z"
+  },
+  {
+    "title": "Pope visiting 'dock of shame' in Canary Islands where migrants slept in squalor",
+    "description": "Pope Leo XIV is travelling to the Canary Islands to draw attention to the plight of migrants who risk their lives every year trying to reach Europe",
+    "link": "https://abcnews.com/International/wireStory/pope-visiting-dock-shame-canary-islands-migrants-slept-133773977",
+    "pubDate": "Thu, 11 Jun 2026 03:33:29 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-06-11T08:30:01.540Z"
+  },
+  {
+    "title": "Why Social Security Is Moving More Americans to Electronic Payments",
+    "description": "The shift is part of a broader federal effort to modernize government payment systems and reduce reliance on paper checks.",
+    "link": "https://www.newsweek.com/why-social-security-moving-more-americans-electronic-payments-12058234",
+    "pubDate": "Thu, 11 Jun 2026 04:13:10 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-11T08:30:01.540Z"
   }
 ]
