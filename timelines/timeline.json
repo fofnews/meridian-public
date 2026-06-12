@@ -459,7 +459,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-11",
+      "lastSeen": "2026-06-12",
       "active": true,
       "entries": [
         {
@@ -806,6 +806,11 @@
           "date": "2026-06-11",
           "edition": "evening",
           "update": "A Russian diplomat held discussions about the Ukraine war with French, German, and British ambassadors, according to Reuters. Ukraine's drone commander stated in an exclusive Reuters interview that a strategic goal is cutting Crimea off from Russia. Former U.S. special envoy Keith Kellogg publicly stated Ukraine should not be forced to surrender any territory not already captured by Russian forces in a peace deal, breaking from Trump's position."
+        },
+        {
+          "date": "2026-06-12",
+          "edition": "morning",
+          "update": "Ukraine plans to ask its allies for $20 billion to sustain its military momentum against Russia, according to a source cited by Reuters."
         }
       ],
       "parentId": null
@@ -1754,7 +1759,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-11",
+      "lastSeen": "2026-06-12",
       "active": true,
       "entries": [
         {
@@ -2391,6 +2396,11 @@
           "date": "2026-06-11",
           "edition": "evening",
           "update": "Trump posted a threat on Truth Social on June 11 to seize Iran's Kharg Island, its major oil export hub, and stated the U.S. would take 'total control' of Iran's oil and gas markets, while also expressing doubt that American voters have the 'stomach' for the operation. Trump subsequently canceled planned Thursday strikes citing progress toward a peace deal, indicating an announcement could come 'shortly,' though he also stated the U.S. would hit Iran 'very hard' that night. CENTCOM launched strikes on Thursday targeting Iranian military surveillance, communication systems, and air defense sites, marking a second consecutive day of U.S. strikes, while Iran's IRGC claimed it struck 18 targets at U.S. bases in Kuwait, Bahrain, and Jordan. The U.S. denied Iran had successfully closed the Strait of Hormuz, and Al Jazeera reported that Trump's claim of smuggling 100 million barrels of oil through the strait did not add up mathematically. India lodged a formal protest after three Indian mariners were killed in U.S. strikes on tankers off Oman, with a third tanker crewed by Indians struck in a suspected separate incident; Oman's military rescued dozens of Indian seafarers from struck vessels. The Pentagon released video of missile launches describing strikes as self-defense, while Trump and Hegseth publicly pre-announced strike plans, departing from standard military practice, and Hegseth dismissed questions about civilian infrastructure strikes as war crimes as 'disingenuous.'"
+        },
+        {
+          "date": "2026-06-12",
+          "edition": "morning",
+          "update": "Trump announced the cancellation of planned military strikes on Iran, citing proximity to a negotiated deal, with oil prices falling in response. Rep. Kevin Kiley called for congressional involvement in any final agreement following the cancellation. Iranians expressed mixed emotions of fear and relief over the ongoing uncertainty, per the NY Times, while UK economic data from April showed the Iran war beginning to affect its economy. The NY Times noted that two months after a nominal ceasefire, Iran, Israel, and the U.S. remain engaged in low-intensity conflict with no clear resolution."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2894,8 +2904,8 @@
       "id": "cesar-chavez-sexual-abuse-investigation",
       "title": "Cesar Chavez Sexual Abuse Investigation",
       "firstSeen": "2026-03-18",
-      "lastSeen": "2026-03-31",
-      "active": false,
+      "lastSeen": "2026-06-12",
+      "active": true,
       "entries": [
         {
           "date": "2026-03-18",
@@ -2936,6 +2946,11 @@
           "date": "2026-03-31",
           "edition": "morning",
           "update": "Sexual assault allegations have been made against Cesar Chavez; residents in Delano farming town are conflicted about how to remember him as March 31 marks his birthday and longtime holiday."
+        },
+        {
+          "date": "2026-06-12",
+          "edition": "morning",
+          "update": "Women who helped lead the United Farm Workers union reported experiencing a culture of sexual harassment, misogyny, and sexual assault within the organization, even as they worked alongside Cesar Chavez in the fight for Latino civil rights, according to the NY Times."
         }
       ],
       "parentId": null
@@ -3250,7 +3265,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-11",
+      "lastSeen": "2026-06-12",
       "active": true,
       "entries": [
         {
@@ -3300,7 +3315,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-06-09",
+      "lastSeen": "2026-06-12",
       "active": true,
       "entries": [
         {
@@ -3432,6 +3447,11 @@
           "date": "2026-06-09",
           "edition": "evening",
           "update": "U.S. and Iran nuclear talks have advanced to outline potential paths forward on four key difficult issues, though negotiations remain in flux amid the tenuous ceasefire, according to the NY Times. Trump stated the U.S. is in the 'final throes' of a deal with Iran and that the Strait of Hormuz could reopen within days. Iran is reportedly open to a 15-year freeze on its uranium enrichment activities as part of potential negotiations."
+        },
+        {
+          "date": "2026-06-12",
+          "edition": "morning",
+          "update": "Trump announced a peace agreement with Iran could be signed as soon as this weekend, describing it as a 'great settlement of the war with Iran' and stating documents are in 'pretty final shape,' with Vice President JD Vance expected to sign or attend on behalf of the administration, possibly in Europe. Wall Street markets surged in response. Iran's foreign ministry cautioned that reports of a final agreement were 'speculative' and that 'nothing has been finalised,' though Iran separately confirmed the proposed deal is under review by its highest leadership, with Al Jazeera reporting a deal could be closer than ever. According to CBS News, the likelier near-term outcome is a memorandum of understanding or letter of intent next week, initiating a 60-day detailed negotiation period."
         }
       ]
     },
@@ -3720,7 +3740,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-06-09",
+      "lastSeen": "2026-06-12",
       "active": true,
       "entries": [
         {
@@ -3852,6 +3872,11 @@
           "date": "2026-06-09",
           "edition": "evening",
           "update": "Energy Secretary Chris Wright predicted at an Atlantic Council event that oil traffic through the Strait of Hormuz will continue to rise, describing current movement as already increasing meaningfully. The Wall Street Journal reported that oil prices have remained relatively stable despite energy crisis fears, with experts identifying three main factors behind the stability while warning it may not hold long-term. Kuwait's oil stocks declined as two tankers departed the Gulf, according to Kpler."
+        },
+        {
+          "date": "2026-06-12",
+          "edition": "morning",
+          "update": "Trump stated that any agreement with Iran would include the opening of the Strait of Hormuz, with deal documents described as in 'pretty final shape.' The NY Times reported that global oil and fuel reserves held by businesses and governments have fallen sharply since the start of the conflict, increasing pressure for a deal. More than 500 ships remain stranded in the Persian Gulf as shipping companies weigh the risks of transiting the strait."
         }
       ]
     },
@@ -3930,7 +3955,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-06-11",
+      "lastSeen": "2026-06-12",
       "active": true,
       "entries": [
         {
@@ -4082,6 +4107,11 @@
           "date": "2026-06-11",
           "edition": "evening",
           "update": "CDC Acting Director Dr. Jay Bhattacharya stated there is 'no evidence' that Trump administration USAID cuts negatively impacted the Ebola outbreak response. The WHO announced the risk of Ebola transmission in Europe and World Cup host countries is low. The White House announced it would block Americans who contract Ebola abroad from returning home for treatment, and issued mandatory quarantine orders for two cruise ship passengers exposed to hantavirus. The DRC expanded Ebola testing with two facilities near the epicenter, though health officials warned testing capacity remains insufficient to keep pace with the outbreak."
+        },
+        {
+          "date": "2026-06-12",
+          "edition": "morning",
+          "update": "The Democratic Republic of Congo's World Cup squad arrived in the United States after completing a mandatory 21-day Ebola quarantine period, flying in via Paris following entry requirements imposed by U.S. authorities."
         }
       ]
     },
@@ -4191,5 +4221,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-11T21:11:18.379Z"
+  "updatedAt": "2026-06-12T11:07:46.447Z"
 }
