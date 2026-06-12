@@ -806,5 +806,39 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-12T08:30:01.673Z"
+  },
+  {
+    "title": "Morning news brief",
+    "description": "Trump says a deal with Iran will be announced \"soon,\" White House readies for UFC event as Trump navigates rocky political ground, Trump names new nominee for national intelligence director.",
+    "link": "https://www.npr.org/2026/06/12/nx-s1-5846833/morning-news-brief",
+    "pubDate": "Fri, 12 Jun 2026 04:41:54 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-06-12T08:45:01.663Z"
+  },
+  {
+    "title": "Oil Falls, Stocks Rise as Trump Signals Iran Peace Deal Takes Shape",
+    "description": "Oil prices retreated and stocks rallied after President Trump called off plans for another day of strikes on Iran, saying that a peace deal could be within reach.",
+    "link": "https://www.nytimes.com/2026/06/11/business/oil-gas-price-iran.html",
+    "pubDate": "Fri, 12 Jun 2026 08:31:16 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "oil (petroleum) and gasoline",
+      "prices (fares, fees and rates)",
+      "stocks and bonds",
+      "standard & poor's 500-stock index",
+      "iran"
+    ],
+    "collectedAt": "2026-06-12T08:45:01.663Z"
+  },
+  {
+    "title": "TSMC boss frets about shortages of talent, water in Taiwan - Reuters",
+    "description": "TSMC boss frets about shortages of talent, water in Taiwan  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbHFpTkI0bFF1ZHF0Q1kxR3VHYXlySG1BTkJFMEdfNkRZb011eFhuLWhCRlI0aGpoNmNmTDd6M29wYnY0cFhVcWJNRk9LOE8zbGsybm1tV29Qb3pGZFFVRVhQMEs5b3ZSN2pKekg1ZDBPUl9JOFRjeEg5WGdsTTR1Tk5oYW9VNlJGN21LV2V6Z01CME41NVpQNVRWS0RRTkIzNGRNeERLRUF1UQ?oc=5",
+    "pubDate": "Fri, 12 Jun 2026 05:01:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-06-12T08:45:01.663Z"
   }
 ]
