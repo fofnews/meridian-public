@@ -136,8 +136,11 @@ function sourceCounts(story) {
   return counts;
 }
 
-// Builds the viz block for a story shot: choropleth when many sources cover it,
-// compare (SourceCompareBar data) when fewer sources, null for globe shots.
+// Builds the viz block for a story shot. Includes:
+//   kind     — 'choropleth' when ≥4 sources cover the story, null otherwise.
+//   counts   — per-source article counts (used by SourceCompareBar in Broadcast.jsx).
+//              Stored here rather than in shot.overlays because synthesize-narration.js
+//              overwrites shot.overlays after TTS. viz.data is never touched post-build.
 function buildStoryViz(story, isoCode) {
   if (!story) return null;
   const counts = sourceCounts(story);
@@ -146,23 +149,8 @@ function buildStoryViz(story, isoCode) {
   const ratio = numSources / KNOWN_SOURCES_COUNT;
   return {
     kind: numSources >= 4 ? 'choropleth' : null,
-    data: { isoCode, ratio },
+    data: { isoCode, ratio, counts },
   };
-}
-
-// Builds the overlays array for a story shot (source compare bar).
-function buildStoryOverlays(story, hold) {
-  if (!story) return [];
-  const counts = sourceCounts(story);
-  const numSources = Object.keys(counts).length;
-  if (numSources < 2) return [];
-  const durationMs = Math.round(hold * 1000);
-  return [{
-    type: 'source-compare-bar',
-    tOffset: 0,
-    durationMs,
-    counts,
-  }];
 }
 
 // Builds the heatmap viz for intro/outro globe shots from all story locations.
@@ -452,7 +440,6 @@ if (timingsPath) {
       narration: beat,
       hold: durationSecs,
       viz: buildStoryViz(story, isoCode),
-      overlays: buildStoryOverlays(story, durationSecs),
     });
 
     elapsed += durationSecs;
@@ -509,7 +496,6 @@ if (timingsPath) {
       narration,
       hold,
       viz: buildStoryViz(story, isoCode),
-      overlays: buildStoryOverlays(story, hold),
     });
 
     elapsed += hold;
@@ -560,7 +546,6 @@ if (timingsPath) {
       narration,
       hold,
       viz: buildStoryViz(story, isoCode),
-      overlays: buildStoryOverlays(story, hold),
     });
 
     elapsed += hold;

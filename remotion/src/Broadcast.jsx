@@ -58,6 +58,16 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
   const t = frame / fps;
 
   const { mapContainer, mapRef, markerRef, mapReady } = useRemotionMap({ mapboxToken, port });
+
+  // Active shot derived in render for SourceCompareBar (viz.data survives synthesize-narration).
+  let renderShotIdx = 0;
+  for (let si = 0; si < (shotlist?.shots?.length ?? 0); si++) {
+    if (shotlist.shots[si].t + PRE_ROLL_S <= t) renderShotIdx = si;
+  }
+  const renderShot      = shotlist?.shots?.[renderShotIdx] ?? null;
+  const renderShotStart = renderShot ? Math.round((PRE_ROLL_S + renderShot.t) * fps) : 0;
+  const renderShotDur   = renderShot ? Math.round(renderShot.hold * fps) : 0;
+  const barCounts       = renderShot?.viz?.data?.counts ?? null;
   // Track active shot index so story-path source is only updated on shot changes.
   const activeShotIdxRef = useRef(-1);
   // Track active waypoint so highlight polygon is only swapped on waypoint changes.
@@ -192,9 +202,7 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
           {ov.type === 'quote-callout' && (
             <QuoteCallout text={ov.text} fromFrame={fromFrame} durationFrames={durFrames} aspect={aspect} />
           )}
-          {ov.type === 'source-compare-bar' && (
-            <SourceCompareBar counts={ov.counts} fromFrame={fromFrame} durationFrames={durFrames} aspect={aspect} />
-          )}
+          {/* source-compare-bar is rendered via viz.data.counts below, not via overlays */}
           {ov.type === 'arc-tokens' && (
             <ArcTokens arcs={ov.arcs} fromFrame={fromFrame} durationFrames={durFrames} mapRef={mapRef} />
           )}
@@ -235,6 +243,9 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
         <MapAttribution aspect={aspect} />
         <RemotionFilmGrain opacity={0.055} />
         <SubtitleBar shots={shotlist.shots} timestamps={timestamps} t={t} preRollS={PRE_ROLL_S} aspect={aspect} />
+        {barCounts && (
+          <SourceCompareBar counts={barCounts} fromFrame={renderShotStart} durationFrames={renderShotDur} aspect={aspect} />
+        )}
         <div style={{ position: 'absolute', bottom: 0, left: 0, right: 0 }}>
           <Ticker shots={shotlist.shots} />
           <Chyron
@@ -251,7 +262,7 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
     );
   }
 
-  // ── 16:9 layout (unchanged) ───────────────────────────────────────────────
+  // ── 16:9 layout ───────────────────────────────────────────────────────────
   return (
     <AbsoluteFill style={{ background: '#000', display: 'flex', flexDirection: 'column' }}>
       <div style={{ position: 'relative', width: '100%', flex: 1, overflow: 'hidden' }}>
@@ -263,6 +274,9 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
         <MapAttribution aspect={aspect} />
         <RemotionFilmGrain opacity={0.055} />
         <SubtitleBar shots={shotlist.shots} timestamps={timestamps} t={t} preRollS={PRE_ROLL_S} aspect={aspect} />
+        {barCounts && (
+          <SourceCompareBar counts={barCounts} fromFrame={renderShotStart} durationFrames={renderShotDur} aspect={aspect} />
+        )}
       </div>
       <div style={{ flexShrink: 0 }}>
         <Ticker shots={shotlist.shots} />

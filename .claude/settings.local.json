@@ -22,7 +22,8 @@
       "Bash(npm test *)",
       "Bash(npm run *)",
       "Bash(Get-Content *)",
-      "PowerShell(Get-Content *)"
+      "PowerShell(Get-Content *)",
+      "Bash(C:\\\\Users\\\\Daniel\\\\.claude\\\\plugins\\\\cache\\\\claude-plugins-official\\\\superpowers\\\\5.1.0\\\\scripts\\\\start-server.sh *)"
     ]
   }
 }
