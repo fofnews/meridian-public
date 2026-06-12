@@ -811,6 +811,11 @@
           "date": "2026-06-12",
           "edition": "morning",
           "update": "Ukraine plans to ask its allies for $20 billion to sustain its military momentum against Russia, according to a source cited by Reuters."
+        },
+        {
+          "date": "2026-06-12",
+          "edition": "evening",
+          "update": "Ukraine reported progress in reclaiming territory, attributing gains to a 'lockdown' strategy focused on doubling attacks against Russian supply lines and logistics networks."
         }
       ],
       "parentId": null
@@ -954,7 +959,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-10",
+      "lastSeen": "2026-06-12",
       "active": true,
       "entries": [
         {
@@ -1236,6 +1241,11 @@
           "date": "2026-06-10",
           "edition": "evening",
           "update": "Al Jazeera reported that Netanyahu faces competing pressures from the U.S., ongoing Lebanon operations, and Iran ceasefire negotiations as he balances demands from voters, allies, and political opponents ahead of elections."
+        },
+        {
+          "date": "2026-06-12",
+          "edition": "evening",
+          "update": "According to the Financial Times, Iran retains access to missiles despite having suffered attacks, suggesting its missile capabilities have not been fully degraded. Israel is constructing an army base in Jenin, which critics say violates a 1990s agreement with Palestinians and would facilitate increased settlement activity near Palestinian population centers in the West Bank."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1359,7 +1369,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-11",
+      "lastSeen": "2026-06-12",
       "active": true,
       "entries": [
         {
@@ -1751,6 +1761,11 @@
           "date": "2026-06-11",
           "edition": "evening",
           "update": "Al Jazeera reported that 117.8 million people have been displaced worldwide, with Lebanon's shelter crisis continuing to worsen. Residents of Tripoli are navigating growing hardship as over a million people displaced by the conflict seek assistance."
+        },
+        {
+          "date": "2026-06-12",
+          "edition": "evening",
+          "update": "Israel carried out air raids and artillery strikes on southern Lebanon on Friday, injuring at least one person, even as cautious optimism about a potential Iran peace deal was reported elsewhere in the region. Iranian media reported that a draft peace deal with the US would include a provision to end the war in Lebanon. Separately, violence escalated inside Israel amid protests over the military draft of ultra-Orthodox Jewish men, with the dispute threatening Netanyahu's coalition government."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2401,6 +2416,11 @@
           "date": "2026-06-12",
           "edition": "morning",
           "update": "Trump announced the cancellation of planned military strikes on Iran, citing proximity to a negotiated deal, with oil prices falling in response. Rep. Kevin Kiley called for congressional involvement in any final agreement following the cancellation. Iranians expressed mixed emotions of fear and relief over the ongoing uncertainty, per the NY Times, while UK economic data from April showed the Iran war beginning to affect its economy. The NY Times noted that two months after a nominal ceasefire, Iran, Israel, and the U.S. remain engaged in low-intensity conflict with no clear resolution."
+        },
+        {
+          "date": "2026-06-12",
+          "edition": "evening",
+          "update": "Newsweek documented a pattern of Trump repeatedly threatening military strikes against Iran only to cancel them with hours or minutes to spare. Tucker Carlson criticized Trump on his show for 'overselling' the military operation and asserted that Iran now controls the Strait of Hormuz. Sen. Adam Schiff accused Trump of 'telling falsehood after falsehood' about the state of negotiations. Republican strategists and county chairs are privately pressuring the Trump administration to exit the Iran conflict by Labor Day, warning continued involvement could damage the party in midterm elections, according to Politico."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2659,7 +2679,7 @@
       "id": "hezbollah-us-operations",
       "title": "Hezbollah US Operations",
       "firstSeen": "2026-03-15",
-      "lastSeen": "2026-06-04",
+      "lastSeen": "2026-06-12",
       "active": true,
       "entries": [
         {
@@ -2701,6 +2721,11 @@
           "date": "2026-06-04",
           "edition": "evening",
           "update": "Federal agents arrested tech CEO Jamshid Ghomi, a dual U.S.-Iranian citizen, on charges of selling sensitive U.S. computer equipment to Iran in violation of U.S. sanctions, according to CBS News."
+        },
+        {
+          "date": "2026-06-12",
+          "edition": "evening",
+          "update": "An Iran-linked hacker group claimed to have breached FBI drones and threatened to target the World Cup, according to a monitoring group, which disputed some of the group's other claims."
         }
       ],
       "parentId": null
@@ -3452,6 +3477,11 @@
           "date": "2026-06-12",
           "edition": "morning",
           "update": "Trump announced a peace agreement with Iran could be signed as soon as this weekend, describing it as a 'great settlement of the war with Iran' and stating documents are in 'pretty final shape,' with Vice President JD Vance expected to sign or attend on behalf of the administration, possibly in Europe. Wall Street markets surged in response. Iran's foreign ministry cautioned that reports of a final agreement were 'speculative' and that 'nothing has been finalised,' though Iran separately confirmed the proposed deal is under review by its highest leadership, with Al Jazeera reporting a deal could be closer than ever. According to CBS News, the likelier near-term outcome is a memorandum of understanding or letter of intent next week, initiating a 60-day detailed negotiation period."
+        },
+        {
+          "date": "2026-06-12",
+          "edition": "evening",
+          "update": "Pakistan's Prime Minister Shehbaz Sharif announced that a 'final, agreed upon text' of a US-Iran peace deal had been reached, with next steps being worked on, confirming Pakistan's role as lead mediator with a goal of reopening the Strait of Hormuz. Tehran shared details of the alleged deal with multiple news organizations, prompting Trump to deny the leaked terms' authenticity and call those responsible 'dishonorable,' stating the leaked text bore no relation to the agreed-upon written terms. The UAE is set to unlock billions of dollars in frozen funds for Iran, per Reuters sources. White House aides identified Iran's weakened control of the Strait of Hormuz and securing language shutting down Iran's nuclear weapons program as the two key factors that shifted Trump toward pursuing a deal, while Bank of America analysts noted Trump's low approval ratings and rising inflation as additional pressures."
         }
       ]
     },
@@ -3877,6 +3907,11 @@
           "date": "2026-06-12",
           "edition": "morning",
           "update": "Trump stated that any agreement with Iran would include the opening of the Strait of Hormuz, with deal documents described as in 'pretty final shape.' The NY Times reported that global oil and fuel reserves held by businesses and governments have fallen sharply since the start of the conflict, increasing pressure for a deal. More than 500 ships remain stranded in the Persian Gulf as shipping companies weigh the risks of transiting the strait."
+        },
+        {
+          "date": "2026-06-12",
+          "edition": "evening",
+          "update": "Oil prices extended declines on Friday, with WTI and Brent crude falling further on reports that a potential US-Iran deal could lift oil sanctions and reopen the strait. Interior Secretary Doug Burgum disclosed that the U.S. Navy is escorting more than 20 crude oil tankers per night through the Strait of Hormuz, including ultra-large tankers carrying up to 2 million barrels each. The U.S. State Department declared the Houthi Red Sea shipping ban unacceptable as experts warned of potential broader escalation following Israeli and U.S. strikes on Yemen."
         }
       ]
     },
@@ -4112,6 +4147,11 @@
           "date": "2026-06-12",
           "edition": "morning",
           "update": "The Democratic Republic of Congo's World Cup squad arrived in the United States after completing a mandatory 21-day Ebola quarantine period, flying in via Paris following entry requirements imposed by U.S. authorities."
+        },
+        {
+          "date": "2026-06-12",
+          "edition": "evening",
+          "update": "The Ebola outbreak in the DRC spread to a crowded displacement camp, according to Reuters. The WHO's head of epidemiology warned that new cases are being identified in previously unaffected health zones on a near-daily basis. Scientists have begun clinical trials on several drugs showing preliminary promise against the virus as the outbreak continues to widen."
         }
       ]
     },
@@ -4221,5 +4261,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-12T11:07:46.447Z"
+  "updatedAt": "2026-06-12T21:08:33.503Z"
 }
