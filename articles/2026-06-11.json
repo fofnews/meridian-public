@@ -15722,5 +15722,50 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-12T03:15:01.465Z"
+  },
+  {
+    "title": "Do not use my music, Ariana Grande tells White House",
+    "description": "Grande called a White House video using her song Bye \"heinous nonsense\", joining multiple artists demanding Trump's team not use their music.",
+    "link": "https://www.bbc.com/news/articles/c9328k7j2n4o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 12 Jun 2026 01:53:30 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-12T03:30:02.092Z"
+  },
+  {
+    "title": "Carolina Hurricanes fend off late Golden Knights charge to come within one win of a Stanley Cup",
+    "description": "Carolina Hurricanes defeat Vegas Golden Knights 4-2 in Game 5 to take a 3-2 Stanley Cup Final series lead heading back to T-Mobile Arena on Sunday.",
+    "link": "https://www.foxnews.com/sports/scf-game-5",
+    "pubDate": "Thu, 11 Jun 2026 23:15:12 -0400",
+    "source": "Fox News",
+    "categories": [
+      "5dde87b2-1830-59ae-8739-c5cf557fa5cb",
+      "fnc",
+      "fox news",
+      "fox-news/sports/stanley-cup-playoffs",
+      "fox-news/sports/nhl/carolina-hurricanes",
+      "fox-news/sports/nhl/vegas-golden-knights",
+      "fox-news/sports/nhl",
+      "fox-news/sports",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-06-12T03:30:02.092Z"
+  },
+  {
+    "title": "Supreme Court blocks Alabama from executing inmate with nitrogen gas",
+    "description": "The Supreme Court on Thursday declined to overrule a federal judge’s order that blocked Alabama from executing an inmate accused of murder with nitrogen gas. Jeffery Lee was set to be executed at 6 p.m. Thursday local time under Alabama’s nitrogen hypoxia protocol, but the state chose not to proceed with the execution until the […]",
+    "link": "https://www.washingtonexaminer.com/news/supreme-court/4605996/supreme-court-alabama-execution-nitrogen-gas/",
+    "pubDate": "Fri, 12 Jun 2026 03:03:56 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "supreme court",
+      "alabama",
+      "courts",
+      "crime",
+      "death penalty",
+      "justice"
+    ],
+    "collectedAt": "2026-06-12T03:30:02.092Z"
   }
 ]
