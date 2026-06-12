@@ -1162,5 +1162,52 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-12T09:45:01.846Z"
+  },
+  {
+    "title": "Nineteen now arrested over disorder with house targeted in arson",
+    "description": "Incidents included an arson attack on a house in the Shore Road area of north Belfast on Thursday night",
+    "link": "https://www.bbc.com/news/articles/cwy03rneqxzo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 12 Jun 2026 09:53:46 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-12T10:00:01.327Z"
+  },
+  {
+    "title": "David Hockney: Bradford's artistic genius who painted the things he loved",
+    "description": "The flamboyant Yorkshireman, routinely described as Britain's greatest artist, has died aged 88.",
+    "link": "https://www.bbc.com/news/articles/ck77rg88gd9o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 12 Jun 2026 09:52:22 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-12T10:00:01.327Z"
+  },
+  {
+    "title": "The Iran War Critic Under Investigation by the Trump Administration - The Free Press",
+    "description": "EXCLUSIVE: The Iran War Critic Under Investigation by the Trump Administration  The Free Press",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tQnpfVDFLcWlfM045OTUtZnhxT3NobzEtUGN0VWd3TVBENXRCaXVuLXRqZVV1LWFWMHNpYk9ZRmgzekFONjNESUZETUkxNUNpYWlCY3M4dUdUSmNNamc0YjZMN1d6aGxuOTQ4MFc1RmU?oc=5",
+    "pubDate": "Fri, 12 Jun 2026 09:48:27 GMT",
+    "source": "The Free Press",
+    "categories": [],
+    "collectedAt": "2026-06-12T10:00:01.327Z"
+  },
+  {
+    "title": "Archaeological dig at Battle of Bunker Hill site uncovers Revolutionary War artifacts",
+    "description": "Archaeologists are finding gun flints, musket balls, and ceramics in their search for the redoubt colonial soldiers built by hand at the Battle of Bunker Hill.",
+    "link": "https://www.foxnews.com/science/archaeological-dig-battle-bunker-hill-site-uncovers-revolutionary-war-artifacts",
+    "pubDate": "Fri, 12 Jun 2026 05:48:23 -0400",
+    "source": "Fox News",
+    "categories": [
+      "5fee7bef-c693-5f37-813b-ee3b09097f81",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/northeast/massachusetts",
+      "fox-news/topic/fox-news-multimedia-reporters",
+      "fox-news/science/archaeology/history",
+      "fox-news/us/boston",
+      "fox-news/science/archaeology",
+      "fox-news/science",
+      "article"
+    ],
+    "collectedAt": "2026-06-12T10:00:01.327Z"
   }
 ]
