@@ -23,11 +23,17 @@
 //   ELEVENLABS_API_KEY
 //   OPENAI_API_KEY
 
-import { existsSync, mkdirSync, writeFileSync, unlinkSync } from 'fs';
+import { existsSync, mkdirSync, mkdtempSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
+import { createRequire } from 'module';
 import { execFileSync, spawn } from 'child_process';
+import os from 'os';
+import { bundle } from '@remotion/bundler';
+import { selectComposition, renderMedia } from '@remotion/renderer';
 import { startRenderServer } from './render-server.js';
+
+const _require = createRequire(import.meta.url);
 
 const ROOT    = join(dirname(fileURLToPath(import.meta.url)), '..');
 const SCRIPTS = join(ROOT, 'scripts');
@@ -144,7 +150,16 @@ run('synthesize-narration', 'node', [
   ...anchorFlags,
 ]);
 
-// ── Stage 3: remotion render(s) ──────────────────────────────────────────────
+// ── Stage 3: remotion render(s) — programmatic API ───────────────────────────
+//
+// Switched from the CLI (`npx remotion render`) to the programmatic API so we
+// can pass --disable-direct-composition to Chrome. The CLI only accepts an
+// allowlisted subset of Chromium flags via ChromiumOptions; arbitrary flags
+// require launching HeadlessBrowser directly and supplying the instance as
+// puppeteerInstance. --disable-direct-composition prevents the D3D11
+// DirectComposition GPU-process crash on the AMD Radeon 6950 (driver 2015),
+// which was forcing headless Chrome to fall back to SwiftShader software WebGL
+// and causing ~30-minute renders.
 
 banner('3 / 4', `remotion render  edition=${edition}`);
 
@@ -156,51 +171,192 @@ mkdirSync(join(ROOT, 'out', 'raw'), { recursive: true });
 const rawPath     = join(ROOT, 'out', 'raw', `${edition}.mp4`);
 const raw9x16Path = join(ROOT, 'out', 'raw', `${edition}-9x16.mp4`);
 
-const remotionBin = process.platform === 'win32'
-  ? join(ROOT, 'node_modules', '.bin', 'remotion.cmd')
-  : join(ROOT, 'node_modules', '.bin', 'remotion');
+// Replicate the webpack override from remotion.config.js so bundle() injects
+// VITE_MAPBOX_TOKEN into the webpack bundle the same way the CLI does.
+const webpackOverride = (config) => {
+  const webpack = _require('webpack');
+  const mapboxToken = process.env.MAPBOX_TOKEN_RENDER ?? process.env.VITE_MAPBOX_TOKEN ?? '';
+  return {
+    ...config,
+    plugins: [
+      ...(config.plugins ?? []),
+      new webpack.DefinePlugin({
+        'process.env.VITE_MAPBOX_TOKEN': JSON.stringify(mapboxToken),
+      }),
+    ],
+  };
+};
 
-const propsFiles = [];
+console.log('\n  Bundling Remotion composition...');
+let lastBundleProgress = -1;
+const serveUrl = await bundle({
+  entryPoint:      join(ROOT, 'remotion', 'src', 'Root.jsx'),
+  publicDir:       join(ROOT, 'public'),
+  webpackOverride,
+  onProgress: (p) => {
+    const pct = Math.floor(p);
+    if (pct > lastBundleProgress) {
+      lastBundleProgress = pct;
+      process.stdout.write(`\r  [bundle] ${pct}%   `);
+    }
+  },
+});
+console.log(`\n  Bundle ready.`);
+
+// Internal Remotion modules loaded via _require (absolute path) to bypass the
+// package exports map, which does not expose dist/browser/Browser.js as a
+// public subpath. createRequire-based CJS require ignores exports restrictions.
+const { HeadlessBrowser }         = _require(join(ROOT, 'node_modules/@remotion/renderer/dist/browser/Browser.js'));
+const { getLocalBrowserExecutable } = _require(join(ROOT, 'node_modules/@remotion/renderer/dist/get-local-browser-executable.js'));
+
+// Build Chrome launch args — mirrors open-browser.js + --disable-direct-composition.
+const executablePath = getLocalBrowserExecutable({
+  preferredBrowserExecutable: null,
+  logLevel: 'verbose',
+  indent: false,
+  chromeMode: 'headless-shell',
+});
+const userDataDir = mkdtempSync(join(os.tmpdir(), 'remotion-chrome-'));
+const chromeArgs = [
+  'about:blank',
+  '--allow-pre-commit-input',
+  '--disable-background-networking',
+  '--enable-features=NetworkService,NetworkServiceInProcess,CanvasDrawElement',
+  '--disable-background-timer-throttling',
+  '--disable-backgrounding-occluded-windows',
+  '--disable-breakpad',
+  '--disable-client-side-phishing-detection',
+  '--disable-component-extensions-with-background-pages',
+  '--disable-default-apps',
+  '--disable-dev-shm-usage',
+  '--no-proxy-server',
+  "--proxy-server='direct://'",
+  '--proxy-bypass-list=*',
+  '--force-gpu-mem-available-mb=4096',
+  '--disable-hang-monitor',
+  '--disable-extensions',
+  '--allow-chrome-scheme-url',
+  '--disable-ipc-flooding-protection',
+  '--disable-popup-blocking',
+  '--disable-prompt-on-repost',
+  '--disable-renderer-backgrounding',
+  '--disable-sync',
+  '--force-color-profile=srgb',
+  '--metrics-recording-only',
+  '--mute-audio',
+  '--no-first-run',
+  '--video-threads=4',
+  '--enable-automation',
+  '--password-store=basic',
+  '--use-mock-keychain',
+  '--enable-blink-features=IdleDetection',
+  '--export-tagged-pdf',
+  '--intensive-wake-up-throttling-policy=0',
+  '--headless=old',
+  '--disable-direct-composition', // prevents D3D11 DirectComposition GPU-process crash
+  '--no-sandbox',
+  '--disable-setuid-sandbox',
+  '--use-gl=angle',               // matches Config.setChromiumOpenGlRenderer('angle')
+  '--disable-background-media-suspend',
+  '--allow-running-insecure-content',
+  '--disable-component-update',
+  '--disable-domain-reliability',
+  '--disable-features=AudioServiceOutOfProcess,IsolateOrigins,site-per-process,Translate,BackForwardCache,AvoidUnnecessaryBeforeUnloadCheckSync,IntensiveWakeUpThrottling,LocalNetworkAccessChecks,BlockInsecurePrivateNetworkRequests,PrivateNetworkAccessSendPreflights,PrivateNetworkAccessRespectPreflightResults',
+  '--disable-print-preview',
+  '--disable-site-isolation-trials',
+  '--disk-cache-size=268435456',
+  '--hide-scrollbars',
+  '--no-default-browser-check',
+  '--no-pings',
+  '--font-render-hinting=none',
+  '--no-zygote',
+  '--ignore-gpu-blocklist',
+  '--enable-unsafe-webgpu',
+  '--remote-debugging-port=0',
+  `--user-data-dir=${userDataDir}`,
+];
+
+console.log(`  Chrome: ${executablePath}`);
+const browser = await HeadlessBrowser.create({
+  executablePath,
+  args: chromeArgs,
+  userDataDir,
+  defaultViewport: { width: 1280, height: 720, deviceScaleFactor: 1 },
+  timeout: 25000,
+  logLevel: 'verbose',
+  indent: false,
+});
+
+const mapboxToken = process.env.MAPBOX_TOKEN_RENDER ?? process.env.VITE_MAPBOX_TOKEN ?? '';
+
 let renderError = null;
 try {
   // 3a: 16:9 render — skipped only when tiktok is the sole platform.
   if (nonTiktokPlatforms.length > 0) {
-    const propsPath = join(ROOT, 'out', `remotion-props-${edition}.json`);
-    propsFiles.push(propsPath);
-    writeFileSync(propsPath, JSON.stringify({
-      edition, aspect: '16:9', port: renderPort,
-      mapboxToken: process.env.MAPBOX_TOKEN_RENDER ?? process.env.VITE_MAPBOX_TOKEN ?? '',
-    }));
-    await runAsync('record-16x9', remotionBin, [
-      'render', 'Broadcast',
-      `--props=${propsPath}`,
-      '--output', rawPath,
-      '--concurrency', '1', '--log', 'verbose',
-    ], { shell: process.platform === 'win32' });
+    console.log('\n  Selecting composition Broadcast (16:9)...');
+    const inputProps169 = { edition, aspect: '16:9', port: renderPort, mapboxToken };
+    const composition169 = await selectComposition({
+      serveUrl, id: 'Broadcast', inputProps: inputProps169,
+      puppeteerInstance: browser, logLevel: 'verbose',
+    });
+    console.log(`  Rendering ${composition169.durationInFrames} frames → ${rawPath}`);
+    await renderMedia({
+      composition: composition169,
+      serveUrl,
+      inputProps: inputProps169,
+      codec: 'h264',
+      imageFormat: 'jpeg',
+      jpegQuality: 95,
+      outputLocation: rawPath,
+      puppeteerInstance: browser,
+      concurrency: 1,
+      logLevel: 'verbose',
+      onProgress: ({ renderedFrames, encodedFrames, progress }) => {
+        process.stdout.write(
+          `\r  [16:9] rendered=${String(renderedFrames).padStart(4)} encoded=${String(encodedFrames).padStart(4)} ${String(Math.round(progress * 100)).padStart(3)}%`
+        );
+      },
+    });
+    console.log('');
   }
 
   // 3b: 9:16 render — only when tiktok is in platforms.
   if (hasTiktok) {
-    const props9x16Path = join(ROOT, 'out', `remotion-props-${edition}-9x16.json`);
-    propsFiles.push(props9x16Path);
-    writeFileSync(props9x16Path, JSON.stringify({
-      edition, aspect: '9:16', port: renderPort,
-      mapboxToken: process.env.MAPBOX_TOKEN_RENDER ?? process.env.VITE_MAPBOX_TOKEN ?? '',
-    }));
-    await runAsync('record-9x16', remotionBin, [
-      'render', 'Broadcast916',
-      `--props=${props9x16Path}`,
-      '--output', raw9x16Path,
-      '--concurrency', '1', '--log', 'verbose',
-    ], { shell: process.platform === 'win32' });
+    console.log('\n  Selecting composition Broadcast916 (9:16)...');
+    const inputProps916 = { edition, aspect: '9:16', port: renderPort, mapboxToken };
+    const composition916 = await selectComposition({
+      serveUrl, id: 'Broadcast916', inputProps: inputProps916,
+      puppeteerInstance: browser, logLevel: 'verbose',
+    });
+    console.log(`  Rendering ${composition916.durationInFrames} frames → ${raw9x16Path}`);
+    await renderMedia({
+      composition: composition916,
+      serveUrl,
+      inputProps: inputProps916,
+      codec: 'h264',
+      imageFormat: 'jpeg',
+      jpegQuality: 95,
+      outputLocation: raw9x16Path,
+      puppeteerInstance: browser,
+      concurrency: 1,
+      logLevel: 'verbose',
+      onProgress: ({ renderedFrames, encodedFrames, progress }) => {
+        process.stdout.write(
+          `\r  [9:16] rendered=${String(renderedFrames).padStart(4)} encoded=${String(encodedFrames).padStart(4)} ${String(Math.round(progress * 100)).padStart(3)}%`
+        );
+      },
+    });
+    console.log('');
   }
 } catch (err) {
   renderError = err;
+} finally {
+  // BrowserRunner.close() also deletes userDataDir.
+  await browser.close({ silent: false }).catch(() => {});
 }
 
 await closeRenderServer();
 console.log('  Render server closed.');
-for (const f of propsFiles) { try { unlinkSync(f); } catch {} }
 
 if (renderError) {
   console.error(`\n✗ ${renderError.message}`);
