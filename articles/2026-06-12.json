@@ -61,5 +61,52 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-12T04:15:01.430Z"
+  },
+  {
+    "title": "'There's a World Cup happening?' Are Americans excited about the tournament?",
+    "description": "With the World Cup under way, how excited are people across the United States - and do they even know it's on?",
+    "link": "https://www.bbc.com/sport/football/articles/cg74rzx582ko?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 12 Jun 2026 04:11:21 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-12T04:30:01.340Z"
+  },
+  {
+    "title": "Iran live updates: Trump says agreement with Iran could be signed this weekend",
+    "description": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.",
+    "link": "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243",
+    "pubDate": "Fri, 12 Jun 2026 00:18:47 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-06-12T04:30:01.340Z"
+  },
+  {
+    "title": "The moments you might’ve overlooked from Knicks’ historic Game 4 comeback",
+    "description": "The Post takes a look back at how it all went down.",
+    "link": "https://nypost.com/2026/06/12/sports/the-moments-you-mightve-overlooked-from-knicks-nba-finals-game-4/",
+    "pubDate": "Fri, 12 Jun 2026 00:24:39 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-12T04:30:01.340Z"
+  },
+  {
+    "title": "Mauricio Pochettino only has one measure of success for USMNT at World Cup",
+    "description": "The United States is not hosting the 2026 World Cup to get out of their group.",
+    "link": "https://nypost.com/2026/06/12/sports/mauricio-pochettino-only-has-one-measure-of-success-for-usmnt-at-world-cup/",
+    "pubDate": "Fri, 12 Jun 2026 00:21:51 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-12T04:30:01.340Z"
+  },
+  {
+    "title": "De’Aaron Fox’s egregious play on biggest stage might ultimately sink Spurs in NBA Finals",
+    "description": "What he did will surely haunt him.",
+    "link": "https://nypost.com/2026/06/12/sports/deaaron-foxs-egregious-play-might-ultimately-sink-spurs-in-nba-finals/",
+    "pubDate": "Fri, 12 Jun 2026 00:17:30 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-12T04:30:01.340Z"
   }
 ]
