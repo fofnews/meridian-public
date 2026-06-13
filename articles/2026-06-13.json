@@ -782,5 +782,19 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-13T09:15:01.154Z"
+  },
+  {
+    "title": "Kennedy Center Begins Removing Trump’s Name From Facade",
+    "description": "The arts institution followed a judge’s order to take down President Trump’s name after seeking a 12-hour extension, attributing the delay to thunderstorms.",
+    "link": "https://www.nytimes.com/2026/06/12/arts/music/kennedy-center-trump-name.html",
+    "pubDate": "Sat, 13 Jun 2026 08:48:25 +0000",
+    "source": "NY Times",
+    "categories": [
+      "names, organizational",
+      "kennedy, john f, center for the performing arts",
+      "trump, donald j",
+      "washington (dc)"
+    ],
+    "collectedAt": "2026-06-13T09:30:01.340Z"
   }
 ]
