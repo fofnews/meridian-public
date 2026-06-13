@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-11",
+      "lastSeen": "2026-06-13",
       "active": true,
       "entries": [
         {
@@ -301,6 +301,11 @@
           "date": "2026-06-11",
           "edition": "evening",
           "update": "Four House Republicans who pushed for the release of Epstein files, identifying themselves as 'The Bravehearts,' are facing political consequences for acting against Trump's fierce opposition to the move, according to NBC News."
+        },
+        {
+          "date": "2026-06-13",
+          "edition": "morning",
+          "update": "Real estate heiress Tanya Dick-Stock and her husband filed a $15 billion lawsuit against Barclays and HSBC, alleging the banks enabled her late father to launder money through trusts, including one valued at $350 million, with a reported link to Ghislaine Maxwell. Rep. Robert Garcia sent a letter to House Oversight Committee Chair James Comer urging him to call JD Vance and White House officials to testify following reports of Trump administration efforts to contain the Epstein scandal."
         }
       ],
       "parentId": null
@@ -309,7 +314,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-10",
+      "lastSeen": "2026-06-13",
       "active": true,
       "entries": [
         {
@@ -451,6 +456,11 @@
           "date": "2026-06-10",
           "edition": "evening",
           "update": "The IAEA Board of Governors passed a resolution demanding that Iran report its uranium stockpiles, according to Reuters."
+        },
+        {
+          "date": "2026-06-13",
+          "edition": "morning",
+          "update": "The U.S. and Iran announced they are closing in on a final agreement potentially signable as soon as Sunday or Monday, which could launch further talks to wind down Iran's nuclear program, reopen the Strait of Hormuz, and end military hostilities. Pakistan's Prime Minister stated the two sides have agreed on the wording of a deal, per AP News. Trump expressed anger after Iranian state media leaked purported deal details, even as he publicly praised the agreement. The UAE reportedly agreed to release $10–$20 billion in frozen Iranian assets as a goodwill gesture, with $3 billion said to already be transferred, though the UAE foreign ministry denied the transfer. A senior U.S. official confirmed a potential deal would include economic rewards for Iran if it meets its obligations. Iran's new leadership is assessed by U.S. analysts as more willing to withstand pressure, believing it has already absorbed the worst military and economic pressure America and Israel can inflict."
         }
       ],
       "parentId": null
@@ -1369,7 +1379,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-12",
+      "lastSeen": "2026-06-13",
       "active": true,
       "entries": [
         {
@@ -1766,6 +1776,11 @@
           "date": "2026-06-12",
           "edition": "evening",
           "update": "Israel carried out air raids and artillery strikes on southern Lebanon on Friday, injuring at least one person, even as cautious optimism about a potential Iran peace deal was reported elsewhere in the region. Iranian media reported that a draft peace deal with the US would include a provision to end the war in Lebanon. Separately, violence escalated inside Israel amid protests over the military draft of ultra-Orthodox Jewish men, with the dispute threatening Netanyahu's coalition government."
+        },
+        {
+          "date": "2026-06-13",
+          "edition": "morning",
+          "update": "The Israeli military issued forced displacement orders to residents of 20 Lebanese towns and villages and carried out strikes on south Lebanon that killed at least one person, according to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1774,7 +1789,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-12",
+      "lastSeen": "2026-06-13",
       "active": true,
       "entries": [
         {
@@ -2421,6 +2436,11 @@
           "date": "2026-06-12",
           "edition": "evening",
           "update": "Newsweek documented a pattern of Trump repeatedly threatening military strikes against Iran only to cancel them with hours or minutes to spare. Tucker Carlson criticized Trump on his show for 'overselling' the military operation and asserted that Iran now controls the Strait of Hormuz. Sen. Adam Schiff accused Trump of 'telling falsehood after falsehood' about the state of negotiations. Republican strategists and county chairs are privately pressuring the Trump administration to exit the Iran conflict by Labor Day, warning continued involvement could damage the party in midterm elections, according to Politico."
+        },
+        {
+          "date": "2026-06-13",
+          "edition": "morning",
+          "update": "U.S. forces shot down Iranian attack drones in an undisclosed engagement, according to a Reuters source."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3290,7 +3310,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-12",
+      "lastSeen": "2026-06-13",
       "active": true,
       "entries": [
         {
@@ -3700,13 +3720,18 @@
       "title": "US-Mexico Political Relations",
       "parentId": null,
       "firstSeen": "2026-05-07",
-      "lastSeen": "2026-05-07",
-      "active": false,
+      "lastSeen": "2026-06-13",
+      "active": true,
       "entries": [
         {
           "date": "2026-05-07",
           "edition": "morning",
           "update": "Rep. Pramila Jayapal admitted to working with Mexico on facilitating oil transfers to Cuba despite U.S. sanctions, and faced backlash following the admission."
+        },
+        {
+          "date": "2026-06-13",
+          "edition": "morning",
+          "update": "As the 2026 World Cup begins, disputes over trade, cartels, and a potential extradition standoff are generating tensions between the Trump and Sheinbaum administrations, according to Politico."
         }
       ]
     },
@@ -3770,7 +3795,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-06-12",
+      "lastSeen": "2026-06-13",
       "active": true,
       "entries": [
         {
@@ -3912,6 +3937,11 @@
           "date": "2026-06-12",
           "edition": "evening",
           "update": "Oil prices extended declines on Friday, with WTI and Brent crude falling further on reports that a potential US-Iran deal could lift oil sanctions and reopen the strait. Interior Secretary Doug Burgum disclosed that the U.S. Navy is escorting more than 20 crude oil tankers per night through the Strait of Hormuz, including ultra-large tankers carrying up to 2 million barrels each. The U.S. State Department declared the Houthi Red Sea shipping ban unacceptable as experts warned of potential broader escalation following Israeli and U.S. strikes on Yemen."
+        },
+        {
+          "date": "2026-06-13",
+          "edition": "morning",
+          "update": "U.S. Central Command confirmed that U.S. forces shot down multiple Iranian one-way attack drones in the Strait of Hormuz that were targeting commercial ships. Despite U.S. military escorts, commercial shipping through the strait remains significantly below pre-war levels, even as Trump claimed more than 200 vessels have safely transited."
         }
       ]
     },
@@ -3990,7 +4020,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-06-12",
+      "lastSeen": "2026-06-13",
       "active": true,
       "entries": [
         {
@@ -4152,6 +4182,11 @@
           "date": "2026-06-12",
           "edition": "evening",
           "update": "The Ebola outbreak in the DRC spread to a crowded displacement camp, according to Reuters. The WHO's head of epidemiology warned that new cases are being identified in previously unaffected health zones on a near-daily basis. Scientists have begun clinical trials on several drugs showing preliminary promise against the virus as the outbreak continues to widen."
+        },
+        {
+          "date": "2026-06-13",
+          "edition": "morning",
+          "update": "The Ebola outbreak in the DRC has killed at least 140 confirmed people, with aid agencies deploying to support health workers and the true death toll believed to be higher than official figures."
         }
       ]
     },
@@ -4261,5 +4296,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-12T21:08:33.503Z"
+  "updatedAt": "2026-06-13T11:06:00.074Z"
 }
