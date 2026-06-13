@@ -338,5 +338,34 @@
       "sport"
     ],
     "collectedAt": "2026-06-13T06:30:01.289Z"
+  },
+  {
+    "title": "Kennedy Center misses deadline to remove Trump's name as government seeks short delay",
+    "description": "The Trump administration still faces a deadline of Friday to remove Trump’s name from the building.",
+    "link": "https://abcnews.com/Politics/judge-denies-request-stay-kennedy-center-renaming-order/story?id=133818900",
+    "pubDate": "Sat, 13 Jun 2026 02:14:21 -0400",
+    "source": "ABC News",
+    "categories": [
+      "politics"
+    ],
+    "collectedAt": "2026-06-13T06:45:01.586Z"
+  },
+  {
+    "title": "Ohio police chief arrested in Florida after grand jury hands down 70-count child sex indictment",
+    "description": "If convicted of all charges, Essert faces a maximum penalty of 280 years in prison.",
+    "link": "https://nypost.com/2026/06/13/us-news/ohio-police-chief-chad-essert-arrested-in-florida-on-70-count-child-sex-indictment/",
+    "pubDate": "Sat, 13 Jun 2026 02:30:23 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-13T06:45:01.586Z"
+  },
+  {
+    "title": "Giants fall to Cubs as Javier Assad beats San Francisco for second time in a week",
+    "description": "SAN FRANCISCO — With a full week, instead of just a few minutes, to prepare this time around, the Giants didn’t find any more success against Javier Assad. Assad, who blanked San Francisco when called into emergency duty last week at Wrigley Field, was just as effective as the Cubs’ scheduled starter in a rematch...",
+    "link": "https://nypost.com/2026/06/13/sports/giants-fall-to-cubs-as-javier-assad-beats-san-francisco-for-second-time-in-a-week/",
+    "pubDate": "Sat, 13 Jun 2026 02:29:58 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-13T06:45:01.586Z"
   }
 ]
