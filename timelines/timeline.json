@@ -1264,7 +1264,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-06-09",
+      "lastSeen": "2026-06-13",
       "active": true,
       "entries": [
         {
@@ -1371,6 +1371,11 @@
           "date": "2026-06-09",
           "edition": "evening",
           "update": "Iran has accelerated executions of dissidents and protesters while increasing internet censorship, with Fox News reporting that actual execution numbers are likely higher than documented figures. The UK government is introducing the National Security (State Threats) Bill, which could allow Iranian groups to be labelled a national threat and may become law within weeks."
+        },
+        {
+          "date": "2026-06-13",
+          "edition": "evening",
+          "update": "Iran announced that funeral ceremonies for Supreme Leader Khamenei will be held in Tehran and Qom, with burial to take place in his hometown of Mashhad."
         }
       ],
       "parentId": null
@@ -1781,6 +1786,11 @@
           "date": "2026-06-13",
           "edition": "morning",
           "update": "The Israeli military issued forced displacement orders to residents of 20 Lebanese towns and villages and carried out strikes on south Lebanon that killed at least one person, according to Al Jazeera."
+        },
+        {
+          "date": "2026-06-13",
+          "edition": "evening",
+          "update": "The Lebanese army withdrew its troops from a base in a southern Lebanese village on Saturday after Israeli forces advanced in a nearby area, according to a Lebanese military official."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3360,7 +3370,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-06-12",
+      "lastSeen": "2026-06-13",
       "active": true,
       "entries": [
         {
@@ -3502,6 +3512,11 @@
           "date": "2026-06-12",
           "edition": "evening",
           "update": "Pakistan's Prime Minister Shehbaz Sharif announced that a 'final, agreed upon text' of a US-Iran peace deal had been reached, with next steps being worked on, confirming Pakistan's role as lead mediator with a goal of reopening the Strait of Hormuz. Tehran shared details of the alleged deal with multiple news organizations, prompting Trump to deny the leaked terms' authenticity and call those responsible 'dishonorable,' stating the leaked text bore no relation to the agreed-upon written terms. The UAE is set to unlock billions of dollars in frozen funds for Iran, per Reuters sources. White House aides identified Iran's weakened control of the Strait of Hormuz and securing language shutting down Iran's nuclear weapons program as the two key factors that shifted Trump toward pursuing a deal, while Bank of America analysts noted Trump's low approval ratings and rising inflation as additional pressures."
+        },
+        {
+          "date": "2026-06-13",
+          "edition": "evening",
+          "update": "Trump announced on Truth Social Saturday that a US-Iran deal would be signed on Sunday, June 14, with Pakistan's Prime Minister Sharif separately stating a deal could be finalized within 24 hours. Iran subsequently announced the signing of the Islamabad memorandum would not take place on Sunday, citing no specific reason for the delay or new date. Iran and the US nonetheless described themselves as close to reaching an interim agreement, with US officials confirming any deal would involve the destruction of Iran's enriched uranium and key details still to be finalized. At the G7, Trump is set to discuss demining efforts in the Strait of Hormuz amid growing confidence around a deal. Democratic Rep. Seth Moulton criticized the reported framework as 'basically a surrender document from Donald Trump to the supreme leader of Iran.' Iran's ambassador to Mexico stated Iran and the U.S. 'can be very good friends,' conditionally linking improved relations to the Trump administration sidelining Israeli interests from its foreign policy."
         }
       ]
     },
@@ -3942,6 +3957,11 @@
           "date": "2026-06-13",
           "edition": "morning",
           "update": "U.S. Central Command confirmed that U.S. forces shot down multiple Iranian one-way attack drones in the Strait of Hormuz that were targeting commercial ships. Despite U.S. military escorts, commercial shipping through the strait remains significantly below pre-war levels, even as Trump claimed more than 200 vessels have safely transited."
+        },
+        {
+          "date": "2026-06-13",
+          "edition": "evening",
+          "update": "Interior Secretary Doug Burgum attributed rising gas prices to Democratic state policies and taxes rather than Strait of Hormuz turmoil, telling Fox News that price variations are driven 'largely right now by state policy and state taxes, not by the underlying fundamentals.'"
         }
       ]
     },
@@ -4296,5 +4316,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-13T11:06:00.074Z"
+  "updatedAt": "2026-06-13T21:05:27.113Z"
 }
