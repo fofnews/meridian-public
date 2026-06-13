@@ -666,5 +666,16 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-13T08:45:01.108Z"
+  },
+  {
+    "title": "Doctors Without Borders investigation finds exploitation by staff in Chad",
+    "description": "The organisation employs tens of thousands of workers, local and foreign, to respond to crises across several countries.",
+    "link": "https://www.aljazeera.com/news/2026/6/13/doctors-without-borders-investigation-finds-exploitation-by-staff-in-chad?traffic_source=rss",
+    "pubDate": "Sat, 13 Jun 2026 08:44:43 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-06-13T09:00:01.212Z"
   }
 ]
