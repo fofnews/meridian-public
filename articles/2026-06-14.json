@@ -255,5 +255,44 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-14T05:30:01.300Z"
+  },
+  {
+    "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+    "description": "The US president's comments come as Iran says an exact date has not been decided, but it \"will not be tomorrow\".",
+    "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 14 Jun 2026 05:41:07 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-14T05:45:01.717Z"
+  },
+  {
+    "title": "Trump backs MAGA champion Mike Collins in Georgia's Republican Senate runoff",
+    "description": "Trump endorses Rep. Mike Collins in Georgia's Republican Senate runoff against Derek Dooley, who is backed by Gov. Kemp, ahead of Tuesday's key vote.",
+    "link": "https://www.foxnews.com/politics/trump-backs-maga-champion-mike-collins-georgias-republican-senate-runoff",
+    "pubDate": "Sun, 14 Jun 2026 01:27:28 -0400",
+    "source": "Fox News",
+    "categories": [
+      "e3744ded-92e5-5ca3-b892-b9b6f3acdea7",
+      "fnc",
+      "fox news",
+      "fox-news/politics/elections/midterm-elections",
+      "fox-news/person/brian-kemp",
+      "fox-news/person/donald-trump",
+      "fox-news/politics/senate/republicans",
+      "fox-news/politics/elections/senate",
+      "fox-news/us/us-regions/southeast/georgia",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-06-14T05:45:01.717Z"
+  },
+  {
+    "title": "Walt Frazier tells The Post Jalen Brunson’s fate is clear: ‘One of the greatest Knicks ever’",
+    "description": "Walt Frazier figured Jalen Brunson could be a solid Knick, but nothing like this.",
+    "link": "https://nypost.com/2026/06/14/sports/walt-frazier-jalen-brunson-is-one-of-the-greatest-knicks-ever/",
+    "pubDate": "Sun, 14 Jun 2026 01:44:30 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-14T05:45:01.717Z"
   }
 ]
