@@ -2085,5 +2085,67 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-14T12:15:01.183Z"
+  },
+  {
+    "title": "Millions In California Told To Stay Inside Over ‘Lethal Temperatures'",
+    "description": "Heat warnings issued as soaring temperatures raise health risks, including heat exhaustion, heat stroke and cold water shock.",
+    "link": "https://www.newsweek.com/millions-in-california-told-to-stay-inside-over-lethal-temperatures-12070904",
+    "pubDate": "Sun, 14 Jun 2026 08:20:52 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-14T12:30:01.030Z"
+  },
+  {
+    "title": "My husband won’t sell his home so we can live together full time. Is this a red flag after a decade of marriage?",
+    "description": "“Our homes are 20 miles apart, and he still drives back and forth almost daily.”",
+    "link": "https://www.marketwatch.com/story/hes-very-short-tempered-my-husband-wont-sell-his-home-so-we-can-combine-our-finances-and-live-in-comfort-am-i-unreasonable-f261176a?mod=mw_rss_topstories",
+    "pubDate": "Sun, 14 Jun 2026 12:25:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-06-14T12:30:01.030Z"
+  },
+  {
+    "title": "Biden-appointed judge orders Trump to restore slavery, climate change ideology at national parks",
+    "description": "A Biden-appointed judge ordered Trump's administration to restore national park exhibits on slavery and climate change removed under an executive order.",
+    "link": "https://www.foxnews.com/politics/biden-appointed-judge-orders-trump-restore-slavery-climate-change-ideology-national-parks",
+    "pubDate": "Sun, 14 Jun 2026 08:24:20 -0400",
+    "source": "Fox News",
+    "categories": [
+      "6ce6d220-d10a-5460-b7d0-9e8443d927f8",
+      "fnc",
+      "fox news",
+      "fox-news/travel/general/national-parks",
+      "fox-news/politics/federal-judges",
+      "fox-news/science/planet-earth/climate",
+      "fox-news/us/us-protests",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-06-14T12:30:01.030Z"
+  },
+  {
+    "title": "Seth Rogen Says He Hasn’t Spoken to James Franco in ‘a Long Time’ and Has ‘No Plans’ to Work With Him Again",
+    "description": "Rogen says nothing has changed since his previous comments about Franco.",
+    "link": "https://decider.com/2026/06/14/seth-rogen-hasnt-spoken-to-james-franco-has-no-plans-to-work-with-him-again/",
+    "pubDate": "Sun, 14 Jun 2026 08:27:35 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-14T12:30:01.030Z"
+  },
+  {
+    "title": "How Turkey came to position itself as a dominant power in the Middle East and beyond",
+    "description": "The outbreak of war across the Middle East following Oct. 7, 2023, has drawn in the three major power blocs of the region — Israel, the Gulf countries, and Iran — but the fourth, Turkey, has stood back and bided its time. Though the country has received less attention as it has largely stayed out […]",
+    "link": "https://www.washingtonexaminer.com/news/world/4607678/turkey-dominant-power-middle-east-beyond/",
+    "pubDate": "Sun, 14 Jun 2026 12:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "world",
+      "iran",
+      "israel",
+      "middle east",
+      "recep tayyip erdogan",
+      "turkey"
+    ],
+    "collectedAt": "2026-06-14T12:30:01.030Z"
   }
 ]
