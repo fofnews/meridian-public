@@ -4055,7 +4055,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-06-13",
+      "lastSeen": "2026-06-14",
       "active": true,
       "entries": [
         {
@@ -4222,6 +4222,11 @@
           "date": "2026-06-13",
           "edition": "morning",
           "update": "The Ebola outbreak in the DRC has killed at least 140 confirmed people, with aid agencies deploying to support health workers and the true death toll believed to be higher than official figures."
+        },
+        {
+          "date": "2026-06-14",
+          "edition": "evening",
+          "update": "Health workers are facing growing distrust among local populations in Congo displacement camps, hampering Ebola containment efforts, according to Reuters."
         }
       ]
     },
@@ -4300,7 +4305,7 @@
       "title": "Iran Nuclear Deal Negotiations and Regional Tensions",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-05-20",
-      "lastSeen": "2026-06-01",
+      "lastSeen": "2026-06-14",
       "active": true,
       "entries": [
         {
@@ -4327,9 +4332,14 @@
           "date": "2026-06-01",
           "edition": "evening",
           "update": "Iran suspended peace talks with the United States specifically to protest Israel's expanding offensive in Lebanon, with Iranian officials demanding a ceasefire on all fronts before negotiations could resume. President Trump told NBC News he had not been informed of the suspension."
+        },
+        {
+          "date": "2026-06-14",
+          "edition": "evening",
+          "update": "Israel struck the southern suburbs of Beirut, with the Israeli military stating it targeted a Hezbollah command center or infrastructure. Trump publicly condemned the strikes on Truth Social and privately messaged Netanyahu to express disapproval, reportedly telling him he had 'no f***ing judgment,' according to Channel 12 and Axios reporter Barak Ravid. Despite Iran's earlier suspension of talks and the Israeli strikes, Defense Secretary Hegseth stated the U.S.-Iran deal remains 'on track,' and U.S. Ambassador to the UN Mike Waltz said the administration was 'confident' a final agreement would be signed Sunday. Trump declared the deal imminent and had previously stated it could be signed on his 80th birthday Sunday, though Iran's state-run Fars News Agency disputed this timeline, stating Tehran had 'neither finalized nor officially declared its position.' According to Tehran, the framework includes Iran agreeing not to build a nuclear weapon and to reopen the Strait of Hormuz in exchange for approximately $25 billion in frozen assets being released. Congressional reaction was mixed, with Sen. Lankford calling for ratification, Sen. Reed calling it a costly 'birthday gift,' and former Obama Deputy Secretary of State Wendy Sherman describing the deal's proposed 60-day timeframe as 'pretty short.' The U.S.-Iran war is expected to dominate Trump's upcoming G7 trip to France, overshadowing the summit's originally planned agenda."
         }
       ]
     }
   ],
-  "updatedAt": "2026-06-14T11:04:55.975Z"
+  "updatedAt": "2026-06-14T21:06:28.337Z"
 }
