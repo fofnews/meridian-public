@@ -469,7 +469,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-12",
+      "lastSeen": "2026-06-14",
       "active": true,
       "entries": [
         {
@@ -826,6 +826,11 @@
           "date": "2026-06-12",
           "edition": "evening",
           "update": "Ukraine reported progress in reclaiming territory, attributing gains to a 'lockdown' strategy focused on doubling attacks against Russian supply lines and logistics networks."
+        },
+        {
+          "date": "2026-06-14",
+          "edition": "morning",
+          "update": "Ukraine's top official overseeing the return of children abducted by Russia urged the Trump administration to provide greater assistance in delivering justice for over a million affected families, as the international war crimes case against Putin over child abductions remains ongoing."
         }
       ],
       "parentId": null
@@ -1384,7 +1389,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-13",
+      "lastSeen": "2026-06-14",
       "active": true,
       "entries": [
         {
@@ -1791,6 +1796,11 @@
           "date": "2026-06-13",
           "edition": "evening",
           "update": "The Lebanese army withdrew its troops from a base in a southern Lebanese village on Saturday after Israeli forces advanced in a nearby area, according to a Lebanese military official."
+        },
+        {
+          "date": "2026-06-14",
+          "edition": "morning",
+          "update": "An Israeli airstrike on a village in southern Lebanon killed 14 people, including 10 women and children, pushing the overall death toll from the Israel-Hezbollah conflict past 3,700 in Lebanon. Israel also struck dozens of Hezbollah targets as the U.S. and Iran moved closer to a potential nuclear agreement."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3229,7 +3239,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-06-08",
+      "lastSeen": "2026-06-14",
       "active": true,
       "entries": [
         {
@@ -3291,6 +3301,11 @@
           "date": "2026-06-08",
           "edition": "morning",
           "update": "Xi Jinping arrived in Pyongyang for a state visit and received a lavish welcome ahead of talks with Kim Jong Un, with the visit framed by BBC News as Beijing's effort to reassert influence over North Korea amid Pyongyang's deepened alliance with Russia. Kim Jong Un was separately photographed inspecting munitions at a weapons factory during Xi's visit."
+        },
+        {
+          "date": "2026-06-14",
+          "edition": "morning",
+          "update": "North Korea formally declared that denuclearization is a matter that has been terminated irreversibly, explicitly rejecting any negotiations over its nuclear weapons program."
         }
       ],
       "parentId": null
@@ -3320,7 +3335,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-13",
+      "lastSeen": "2026-06-14",
       "active": true,
       "entries": [
         {
@@ -4011,7 +4026,7 @@
       "parentId": null,
       "firstSeen": "2026-05-15",
       "lastSeen": "2026-05-15",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-05-15",
@@ -4026,7 +4041,7 @@
       "parentId": null,
       "firstSeen": "2026-05-15",
       "lastSeen": "2026-05-15",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-05-15",
@@ -4316,5 +4331,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-13T21:05:27.113Z"
+  "updatedAt": "2026-06-14T11:04:55.975Z"
 }
