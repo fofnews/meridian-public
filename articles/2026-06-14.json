@@ -61,5 +61,62 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-14T04:15:01.327Z"
+  },
+  {
+    "title": "Knicks beat Spurs to win 1st NBA championship in more than 50 years",
+    "description": "The New York Knicks beat San Antonio Spurs Saturday in Game 5 of the NBA Finals, winning their first NBA Championship in 53 years.",
+    "link": "https://abcnews.com/Sports/knicks-make-history-face-spurs-pivotal-game-5/story?id=133792388",
+    "pubDate": "Sun, 14 Jun 2026 00:17:36 -0400",
+    "source": "ABC News",
+    "categories": [
+      "sports"
+    ],
+    "collectedAt": "2026-06-14T04:30:01.327Z"
+  },
+  {
+    "title": "Germany and Japan Are Rearming Again, 80 Years After World War II",
+    "description": "After becoming allies to disastrous effect in the 1940s, Berlin and Tokyo are finding new reasons to team up — including rebuilding their militaries.",
+    "link": "https://www.nytimes.com/2026/06/14/world/europe/germany-japan-rearmament-military.html",
+    "pubDate": "Sun, 14 Jun 2026 04:01:15 +0000",
+    "source": "NY Times",
+    "categories": [
+      "germany",
+      "japan",
+      "defense and military forces",
+      "international relations",
+      "world war ii (1939-45)",
+      "arms control and limitation and disarmament",
+      "united states defense and military forces",
+      "merz, friedrich",
+      "takaichi, sanae"
+    ],
+    "collectedAt": "2026-06-14T04:30:01.327Z"
+  },
+  {
+    "title": "Mayor Mamdani announces Knicks parade date moments after team’s first title in 53 years",
+    "description": "New York City Mayor Zohran Mamdani declared the day there would be a parade Thursday to celebrate the Knicks championship victory.",
+    "link": "https://nypost.com/2026/06/14/us-news/mayor-zohran-mamdani-announces-knicks-parade-date-moments-after-teams-first-title-in-53-years/",
+    "pubDate": "Sun, 14 Jun 2026 00:28:36 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-14T04:30:01.327Z"
+  },
+  {
+    "title": "Knicks’ NBA Finals Game 5 report card: There are no words for Jalen Brunson",
+    "description": "Report card from the Knicks’ title-winning 94-90 victory over the Spurs in Game 5 of the NBA Finals on Saturday night in San Antonio.",
+    "link": "https://nypost.com/2026/06/14/sports/knicks-nba-finals-game-5-report-card-no-words-for-jalen-brunson/",
+    "pubDate": "Sun, 14 Jun 2026 00:21:31 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-14T04:30:01.327Z"
+  },
+  {
+    "title": "Victor Wembanyama, Spurs choke again in catastrophic NBA Finals Game 5 collapse",
+    "description": "The Spurs kept following the same recipe.",
+    "link": "https://nypost.com/2026/06/14/sports/victor-wembanyama-spurs-choke-again-in-nba-finals-game-5-collapse/",
+    "pubDate": "Sun, 14 Jun 2026 00:16:10 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-14T04:30:01.327Z"
   }
 ]
