@@ -2276,5 +2276,184 @@
     "source": "Newsmax",
     "categories": [],
     "collectedAt": "2026-06-14T13:00:01.766Z"
+  },
+  {
+    "title": "NYC erupts with joy as Knicks win NBA championship",
+    "description": "The New York Knicks defeated the San Antonio Spurs Saturday night in Game 5 of the NBA Finals – and are world champions for the first time in 53 years. Lilia Luciano reports from New York, where the City That Never Sleeps is still celebrating.",
+    "link": "https://www.cbsnews.com/video/new-york-knicks-win-nba-championship/",
+    "pubDate": "Sun, 14 Jun 2026 09:10:10 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-06-14T13:15:01.454Z"
+  },
+  {
+    "title": "Poll: 57% of Americans Disapprove of Trump’s Job Performance",
+    "description": "Meet the Press Moderator Kristen Welker joins Sunday TODAY’s Willie Geist to discuss new NBC News polling that shows how Americans feel about President Donald Trump’s job performance amid the war in Iran and ahead of the country’s 250 birthday. “That’s a new low for his second term and of course it does come, as we know, as this war is deeply unpopular, that President Trump has been underwater in his handling of the economy,” Kirsten says.",
+    "link": "https://www.today.com/video/nbc-news-poll-shows-trump-s-declining-job-approval-265067589619",
+    "pubDate": "Sun, 14 Jun 2026 12:32:38 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-06-14T13:15:01.454Z"
+  },
+  {
+    "title": "Democrats maintain an edge in the fight for Congress as Trump gets poor marks",
+    "description": "President Donald Trump’s poor approval rating continues to weigh down his party ahead of the midterms — though the GOP has a slim measure of separation from the president, with Democrats holding a 5-point lead in the battle for control of Congress, according to a new national NBC News poll",
+    "link": "https://www.nbcnews.com/politics/2026-election/poll-democrats-maintain-edge-fight-congress-trump-gets-poor-marks-rcna348913",
+    "pubDate": "Sun, 14 Jun 2026 13:00:00 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-06-14T13:15:01.454Z"
+  },
+  {
+    "title": "Amid war, inflation and sinking approval ratings, Trump takes comfort in giving D.C. a face-lift",
+    "description": "Facing one of the roughest patches of his second term, Trump is devoting outsize energy to giving Washington its biggest facelift in living memory.",
+    "link": "https://www.nbcnews.com/politics/donald-trump/war-inflation-sinking-approval-ratings-trump-washington-rcna349603",
+    "pubDate": "Sun, 14 Jun 2026 13:05:00 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-06-14T13:15:01.454Z"
+  },
+  {
+    "title": "SpaceX shows investors still want moonshots. The Fed may test that theory this week.",
+    "description": "Higher interest rates could make the AI growth story that’s been powering the bull market harder to justify.",
+    "link": "https://www.marketwatch.com/story/spacex-shows-investors-still-want-moonshots-the-fed-may-test-that-theory-this-week-d7771f3a?mod=mw_rss_topstories",
+    "pubDate": "Sun, 14 Jun 2026 13:00:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-06-14T13:15:01.454Z"
+  },
+  {
+    "title": "These 11 upcoming Supreme Court decisions could make or break Trump's second term agenda",
+    "description": "The Supreme Court faces 23 unresolved cases this term, including challenges to Trump's immigration orders, presidential firing power, and gun rights.",
+    "link": "https://www.foxnews.com/politics/11-upcoming-supreme-court-decisions-could-make-break-trumps-second-term-agenda",
+    "pubDate": "Sun, 14 Jun 2026 09:07:08 -0400",
+    "source": "Fox News",
+    "categories": [
+      "2351ff45-2d7c-5b6f-bc37-e8de4ba1203c",
+      "fnc",
+      "fox news",
+      "fox-news/politics/judiciary/supreme-court",
+      "fox-news/politics/elections/presidential",
+      "fox-news/us/immigration",
+      "fox-news/politics/executive-policy",
+      "fox-news/politics/executive",
+      "fox-news/politics",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-06-14T13:15:01.454Z"
+  },
+  {
+    "title": "Vice President JD Vance opens up about his Catholic faith and relationship with God: 'I felt at home'",
+    "description": "Vice President JD Vance spoke about what drew him into the Catholic church on his journey to rediscover faith on \"Jesse Watters Primetime.\"",
+    "link": "https://www.foxnews.com/media/vice-president-jd-vance-opens-catholic-faith-relationship-god-felt-home",
+    "pubDate": "Sun, 14 Jun 2026 09:00:51 -0400",
+    "source": "Fox News",
+    "categories": [
+      "aca65a5f-32f2-5e39-ac0d-8d3379bc2a75",
+      "fnc",
+      "fox news",
+      "fox-news/us/religion/roman-catholic",
+      "fox-news/topic/fox-news-flash",
+      "fox-news/christianity",
+      "fox-news/person/usha-vance",
+      "fox-news/person/jd-vance",
+      "fox-news/politics/executive/white-house",
+      "fox-news/media",
+      "article"
+    ],
+    "collectedAt": "2026-06-14T13:15:01.454Z"
+  },
+  {
+    "title": "Weekly weightlifting sweet spot may be linked to longer life, study finds",
+    "description": "Research suggests 90 to 119 minutes per week of resistance training is linked to a 13% lower risk of all-cause death and 19% lower heart disease risk.",
+    "link": "https://www.foxnews.com/health/weekly-weightlifting-sweet-spot-may-linked-longer-life-study-finds",
+    "pubDate": "Sun, 14 Jun 2026 09:00:27 -0400",
+    "source": "Fox News",
+    "categories": [
+      "7ecda5ea-95b3-508c-8f79-68944028f7a5",
+      "fnc",
+      "fox news",
+      "fox-news/health/healthy-living/longevity",
+      "fox-news/health/nutrition-and-fitness/fitness",
+      "fox-news/health/medical-research",
+      "fox-news/health",
+      "fox-news/lifestyle",
+      "fox-news/fitness-and-wellbeing",
+      "fox-news/health/healthy-living",
+      "fox-news/health",
+      "article"
+    ],
+    "collectedAt": "2026-06-14T13:15:01.454Z"
+  },
+  {
+    "title": "50,000 G7 protesters shut down major city ahead of Trump visit to French-Swiss border",
+    "description": "GENEVA – President Trump is hosting UFC fighters on the White House lawn Sunday night but the real battle may be on the streets of Geneva, where 50,000 people are expected to take to the streets of Switzerland’s second largest city to protest the G7 summit. Geneva essentially shut down on Sunday. Businesses closed and...",
+    "link": "https://nypost.com/2026/06/14/us-news/50000-g7-protesters-shut-down-major-city-ahead-of-trump-visit-to-french-swiss-border/",
+    "pubDate": "Sun, 14 Jun 2026 09:10:08 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-14T13:15:01.454Z"
+  },
+  {
+    "title": "Bungee jumper plummets to her death as she’s thrown off bridge with no cord after making grim joke",
+    "description": "A bungee jumper horrifically plunged to her death after she was thrown off a bridge without a bungee cord — and the entire thing was captured in a shocking video. Maria Eduarda Rodrigues de Freitas, 21, fell 130 feet to her death during Saturday’s sickening incident in Limeira, São Paulo, reported Brazilian outlet Globo. Maria...",
+    "link": "https://nypost.com/2026/06/14/us-news/bungee-jumper-plummets-to-her-death-as-shes-thrown-off-bridge-with-no-secured-cord/",
+    "pubDate": "Sun, 14 Jun 2026 09:05:33 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-14T13:15:01.454Z"
+  },
+  {
+    "title": "Golf tournaments blighted by rise in drunken fans and heckling, making it worse for everyone",
+    "description": "As Rory McIlroy stood on the tee at Bethpage Black last September, trying to focus on the biggest team event in golf, thousands of fans packed around him.  Some cheered. Many more jeered.  Earlier, the first tee MC, Heather McMahan, had led a chant of ‘F—k Off, Rory’ on the public address system. Later, a cup...",
+    "link": "https://nypost.com/2026/06/14/sports/golf-tournaments-blighted-by-rise-in-drunken-fans-and-heckling-making-it-worse-for-everyone/",
+    "pubDate": "Sun, 14 Jun 2026 09:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-14T13:15:01.454Z"
+  },
+  {
+    "title": "UFC White House predictions: Freedom 250 odds, picks, best bets Sunday",
+    "description": "This should be one of the most bizarre, intriguing and fun events in UFC history.",
+    "link": "https://nypost.com/2026/06/14/betting/ufc-white-house-predictions-freedom-250-odds-picks-best-bets-sunday/",
+    "pubDate": "Sun, 14 Jun 2026 09:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-14T13:15:01.454Z"
+  },
+  {
+    "title": "bet365 bonus code: Bet $10, get $365 in bonus bets for Sweden vs. Tunisia",
+    "description": "Join bet365 sportsbook with the bonus code to unlock an exclusive welcome offer of Bet $10, get $365 in bonus bets for the World Cup.",
+    "link": "https://nypost.com/2026/06/14/betting/bet365-bonus-code-bet-10-get-365-in-bonus-bets-for-sweden-vs-tunisia/",
+    "pubDate": "Sun, 14 Jun 2026 09:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-14T13:15:01.454Z"
+  },
+  {
+    "title": "‘Mission: Impossible’ star Simon Pegg, 56, credits franchise for trim figure",
+    "description": "The British actor joined the Tom Cruise action movies in 2006 as IMF technician Benji Dunn.",
+    "link": "https://pagesix.com/2026/06/14/celebrity-news/mission-impossible-star-simon-pegg-credits-franchise-for-trim-figure/",
+    "pubDate": "Sun, 14 Jun 2026 09:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-14T13:15:01.454Z"
+  },
+  {
+    "title": "July Social Security direct payment worth $994 goes out in 17 days",
+    "description": "The July 2026 Supplemental Security Income payments, worth up to $994, will be sent to recipients in 17 days. SSI payments are typically issued on the first day of each month. The program supports people with limited income who are blind, age 65 and older, or have a qualifying disability. The amount beneficiaries receive varies […]",
+    "link": "https://www.washingtonexaminer.com/news/4589280/july-social-security-payment-17-days/",
+    "pubDate": "Sun, 14 Jun 2026 13:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "finance",
+      "money",
+      "retirement",
+      "social security",
+      "supplemental security income"
+    ],
+    "collectedAt": "2026-06-14T13:15:01.454Z"
   }
 ]
