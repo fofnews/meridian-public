@@ -836,6 +836,11 @@
           "date": "2026-06-15",
           "edition": "morning",
           "update": "A large-scale Russian attack struck Kyiv and Kharkiv using drones and missiles, killing nine people across Ukraine and wounding at least 20 in Kyiv. Apartment buildings were set ablaze in Kyiv and a centuries-old religious site in the city was set on fire, while rescuers were killed in Kharkiv. Separately, two bridges connecting the Russian-held part of Ukraine's Kherson region with Crimea were struck in an attack."
+        },
+        {
+          "date": "2026-06-15",
+          "edition": "evening",
+          "update": "The historic site damaged in the Russian strike on Kyiv was confirmed as the Kyiv-Pechersk Lavra, a UNESCO World Heritage site. Zelenskyy visited the damaged cathedral and condemned the attack as an assault on Christianity, while Russia denied striking the monastery, calling Ukrainian allegations a 'crude fake.' Ukraine is also reported to be running critically low on American-made Patriot air-defense interceptors, with Kyiv pleading for additional supplies as Russia exploits the shortage. Fuel shortages and rising panic are reported in Crimea as Ukrainian attacks on the Russian-annexed peninsula intensify."
         }
       ],
       "parentId": null
@@ -3557,6 +3562,11 @@
           "date": "2026-06-15",
           "edition": "morning",
           "update": "President Trump announced on Sunday that the US and Iran have reached a deal to end their conflict, posting on Truth Social: 'The Deal with the Islamic Republic of Iran is now complete. Congratulations to all!' Pakistan's Prime Minister Sharif made the joint announcement alongside Trump on Sunday night, confirming Pakistan's mediating role. The agreement is structured as a Memorandum of Understanding, includes a 60-day ceasefire period for finalizing terms, addresses Iran's nuclear program with Iran promising to suspend uranium enrichment, and calls for removal of the US naval blockade and full reopening of the Strait of Hormuz, with Trump declaring it will be 'permanently toll free.' A formal signing ceremony is scheduled for Friday in Switzerland, while the UK, France, Germany, and Italy indicated readiness to lift sanctions on Iran. Markets reacted broadly: oil prices and crude futures fell sharply, stock markets rose, gold climbed over 1%, and Asian shares gained. Trump described Netanyahu as 'a very difficult guy' and said Israel should be 'very thankful' the US struck the deal, while Republican Sen. Lindsey Graham expressed concern over differing US-Iranian interpretations of the MOU, and experts warned the war's economic impact on global markets will persist for months."
+        },
+        {
+          "date": "2026-06-15",
+          "edition": "evening",
+          "update": "US officials confirmed the MOU was signed electronically by both sides, with Vice President Vance announcing the full text will be released publicly this week and stating Iran receives no funds unless it performs its obligations. Trump told Axios he was 'pissed off' at Netanyahu for striking Lebanon during active US-Iran negotiations, saying 'Why did Bibi have to do a f—ing attack?' At the G7 in Evian, France, Trump met bilaterally with President Macron and reported that oil ships are already moving through the Strait of Hormuz. Iran's foreign ministry declared that ending the war in Lebanon and the release of frozen assets are 'inseparable' parts of any final deal, while Israel's Defense Minister Katz stated the IDF will remain in Lebanon security zones as Israeli leaders debate the deal's impact. Former President Obama told ABC News he finds it 'doubtful' any new Trump-brokered Iran deal will differ significantly from the JCPOA, and Hezbollah confirmed it has carried out no operations since the agreement was reached. Gulf states are recalibrating their regional positions as Iran emerges from the war largely intact, and gas prices stood just above $4 per gallon following the announcement."
         }
       ]
     },
@@ -3795,7 +3805,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-06-09",
+      "lastSeen": "2026-06-15",
       "active": true,
       "entries": [
         {
@@ -3842,6 +3852,11 @@
           "date": "2026-06-09",
           "edition": "morning",
           "update": "Russian attacks on Ukraine killed four people, while President Zelenskyy gained support for ceasefire talks, according to Reuters."
+        },
+        {
+          "date": "2026-06-15",
+          "edition": "evening",
+          "update": "Ukrainian President Zelenskyy announced he offered to meet Putin at the G7 summit, according to Reuters. Both Putin and Zelenskyy separately called President Trump by phone on Sunday, his 80th birthday, amid ongoing stalled peace negotiations."
         }
       ]
     },
@@ -4376,5 +4391,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-15T11:07:27.851Z"
+  "updatedAt": "2026-06-15T21:11:16.527Z"
 }
