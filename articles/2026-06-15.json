@@ -293,5 +293,59 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-15T05:30:01.247Z"
+  },
+  {
+    "title": "Trump hosts UFC cage fight on the White House lawn",
+    "description": "Thousands were expected to attend the mixed martial arts fight, which coincides with Trump's 80th birthday.",
+    "link": "https://www.bbc.com/news/articles/c892xnwg5vlo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 15 Jun 2026 05:43:54 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-15T05:45:01.293Z"
+  },
+  {
+    "title": "Russian attack sets fire to religious site in Kyiv, kills 5 in Kharkiv",
+    "description": "A large-scale Russian attack killed 5 rescuers in Kharkiv, wounded 20 in the capital Kyiv, set apartment buildings ablaze and sparked a fire at one of Ukraine's most significant religious landmarks.",
+    "link": "https://www.npr.org/2026/06/15/g-s1-128118/russia-ukraine-war",
+    "pubDate": "Mon, 15 Jun 2026 01:33:51 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-06-15T05:45:01.293Z"
+  },
+  {
+    "title": "Trump’s U.F.C. Event Comes as Backing of Young Men, Once a Strength, Wanes",
+    "description": "Some Republicans saw a political opening in Sunday’s fights at the White House. Democrats said they saw a distraction from more pressing matters.",
+    "link": "https://www.nytimes.com/2026/06/14/us/politics/trump-ufc-politics-midterms.html",
+    "pubDate": "Mon, 15 Jun 2026 05:36:08 +0000",
+    "source": "NY Times",
+    "categories": [
+      "mixed martial arts",
+      "united states politics and government",
+      "trump, donald j",
+      "midterm elections (2026)"
+    ],
+    "collectedAt": "2026-06-15T05:45:01.293Z"
+  },
+  {
+    "title": "Who is Sweden’s Yasin Ayari, and why didn’t he celebrate against Tunisia?",
+    "description": "The 22-year-old scored two goals against Tunisia but had muted celebrations against the country of his father's birth.",
+    "link": "https://www.aljazeera.com/sports/2026/6/15/who-is-swedens-yasin-ayari-and-why-didnt-he-celebrate-against-tunisia?traffic_source=rss",
+    "pubDate": "Mon, 15 Jun 2026 05:31:38 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-06-15T05:45:01.293Z"
+  },
+  {
+    "title": "‘Looked so real’: How AI is being weaponised against India’s Muslim women",
+    "description": "Experts say a trend is reshaping online harassment: the use of AI to generate sexualised imagery of Muslim women.",
+    "link": "https://www.aljazeera.com/features/2026/6/15/looked-so-real-how-ai-is-being-weaponised-against-indias-muslim-women?traffic_source=rss",
+    "pubDate": "Mon, 15 Jun 2026 05:30:23 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "features"
+    ],
+    "collectedAt": "2026-06-15T05:45:01.293Z"
   }
 ]
