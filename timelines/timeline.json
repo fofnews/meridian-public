@@ -469,7 +469,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-14",
+      "lastSeen": "2026-06-15",
       "active": true,
       "entries": [
         {
@@ -831,6 +831,11 @@
           "date": "2026-06-14",
           "edition": "morning",
           "update": "Ukraine's top official overseeing the return of children abducted by Russia urged the Trump administration to provide greater assistance in delivering justice for over a million affected families, as the international war crimes case against Putin over child abductions remains ongoing."
+        },
+        {
+          "date": "2026-06-15",
+          "edition": "morning",
+          "update": "A large-scale Russian attack struck Kyiv and Kharkiv using drones and missiles, killing nine people across Ukraine and wounding at least 20 in Kyiv. Apartment buildings were set ablaze in Kyiv and a centuries-old religious site in the city was set on fire, while rescuers were killed in Kharkiv. Separately, two bridges connecting the Russian-held part of Ukraine's Kherson region with Crimea were struck in an attack."
         }
       ],
       "parentId": null
@@ -974,7 +979,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-12",
+      "lastSeen": "2026-06-15",
       "active": true,
       "entries": [
         {
@@ -1261,6 +1266,11 @@
           "date": "2026-06-12",
           "edition": "evening",
           "update": "According to the Financial Times, Iran retains access to missiles despite having suffered attacks, suggesting its missile capabilities have not been fully degraded. Israel is constructing an army base in Jenin, which critics say violates a 1990s agreement with Palestinians and would facilitate increased settlement activity near Palestinian population centers in the West Bank."
+        },
+        {
+          "date": "2026-06-15",
+          "edition": "morning",
+          "update": "US diplomat Alan Eyre stated that despite the ceasefire announcement, no formal deal exists until it has been officially formalised. Al Jazeera also reported that Israel's Beirut strike influenced Trump's decision to make the Iran announcement."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1269,7 +1279,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-06-13",
+      "lastSeen": "2026-06-15",
       "active": true,
       "entries": [
         {
@@ -1381,6 +1391,11 @@
           "date": "2026-06-13",
           "edition": "evening",
           "update": "Iran announced that funeral ceremonies for Supreme Leader Khamenei will be held in Tehran and Qom, with burial to take place in his hometown of Mashhad."
+        },
+        {
+          "date": "2026-06-15",
+          "edition": "morning",
+          "update": "An expert cited by Fox News described Iran's planned July funeral for Supreme Leader Khamenei as a 'target-rich' security gamble, warning the large-scale event represents a high-stakes bet that the US-Iran peace deal will hold."
         }
       ],
       "parentId": null
@@ -1389,7 +1404,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-14",
+      "lastSeen": "2026-06-15",
       "active": true,
       "entries": [
         {
@@ -1801,6 +1816,11 @@
           "date": "2026-06-14",
           "edition": "morning",
           "update": "An Israeli airstrike on a village in southern Lebanon killed 14 people, including 10 women and children, pushing the overall death toll from the Israel-Hezbollah conflict past 3,700 in Lebanon. Israel also struck dozens of Hezbollah targets as the U.S. and Iran moved closer to a potential nuclear agreement."
+        },
+        {
+          "date": "2026-06-15",
+          "edition": "morning",
+          "update": "Lebanese citizens remain sceptical about the implications of the US-Iran ceasefire announcement for their country, according to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3335,7 +3355,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-14",
+      "lastSeen": "2026-06-15",
       "active": true,
       "entries": [
         {
@@ -3385,7 +3405,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-06-13",
+      "lastSeen": "2026-06-15",
       "active": true,
       "entries": [
         {
@@ -3532,6 +3552,11 @@
           "date": "2026-06-13",
           "edition": "evening",
           "update": "Trump announced on Truth Social Saturday that a US-Iran deal would be signed on Sunday, June 14, with Pakistan's Prime Minister Sharif separately stating a deal could be finalized within 24 hours. Iran subsequently announced the signing of the Islamabad memorandum would not take place on Sunday, citing no specific reason for the delay or new date. Iran and the US nonetheless described themselves as close to reaching an interim agreement, with US officials confirming any deal would involve the destruction of Iran's enriched uranium and key details still to be finalized. At the G7, Trump is set to discuss demining efforts in the Strait of Hormuz amid growing confidence around a deal. Democratic Rep. Seth Moulton criticized the reported framework as 'basically a surrender document from Donald Trump to the supreme leader of Iran.' Iran's ambassador to Mexico stated Iran and the U.S. 'can be very good friends,' conditionally linking improved relations to the Trump administration sidelining Israeli interests from its foreign policy."
+        },
+        {
+          "date": "2026-06-15",
+          "edition": "morning",
+          "update": "President Trump announced on Sunday that the US and Iran have reached a deal to end their conflict, posting on Truth Social: 'The Deal with the Islamic Republic of Iran is now complete. Congratulations to all!' Pakistan's Prime Minister Sharif made the joint announcement alongside Trump on Sunday night, confirming Pakistan's mediating role. The agreement is structured as a Memorandum of Understanding, includes a 60-day ceasefire period for finalizing terms, addresses Iran's nuclear program with Iran promising to suspend uranium enrichment, and calls for removal of the US naval blockade and full reopening of the Strait of Hormuz, with Trump declaring it will be 'permanently toll free.' A formal signing ceremony is scheduled for Friday in Switzerland, while the UK, France, Germany, and Italy indicated readiness to lift sanctions on Iran. Markets reacted broadly: oil prices and crude futures fell sharply, stock markets rose, gold climbed over 1%, and Asian shares gained. Trump described Netanyahu as 'a very difficult guy' and said Israel should be 'very thankful' the US struck the deal, while Republican Sen. Lindsey Graham expressed concern over differing US-Iranian interpretations of the MOU, and experts warned the war's economic impact on global markets will persist for months."
         }
       ]
     },
@@ -3825,7 +3850,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-06-13",
+      "lastSeen": "2026-06-15",
       "active": true,
       "entries": [
         {
@@ -3977,6 +4002,11 @@
           "date": "2026-06-13",
           "edition": "evening",
           "update": "Interior Secretary Doug Burgum attributed rising gas prices to Democratic state policies and taxes rather than Strait of Hormuz turmoil, telling Fox News that price variations are driven 'largely right now by state policy and state taxes, not by the underlying fundamentals.'"
+        },
+        {
+          "date": "2026-06-15",
+          "edition": "morning",
+          "update": "Middle Eastern nations are developing alternative oil shipping infrastructure to reduce dependence on the Strait of Hormuz, which previously handled approximately 20 percent of global daily oil consumption before Iran's blockade disrupted markets."
         }
       ]
     },
@@ -4055,7 +4085,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-06-14",
+      "lastSeen": "2026-06-15",
       "active": true,
       "entries": [
         {
@@ -4227,6 +4257,11 @@
           "date": "2026-06-14",
           "edition": "evening",
           "update": "Health workers are facing growing distrust among local populations in Congo displacement camps, hampering Ebola containment efforts, according to Reuters."
+        },
+        {
+          "date": "2026-06-15",
+          "edition": "morning",
+          "update": "Congolese authorities reported 72 new Ebola cases in a single day, marking a record one-day increase approximately one month after the outbreak was first revealed. NPR reports that fear is spreading faster than information in eastern DRC, with hospitals operating in urgent containment mode as the outbreak continues to reshape daily life."
         }
       ]
     },
@@ -4341,5 +4376,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-14T21:06:28.337Z"
+  "updatedAt": "2026-06-15T11:07:27.851Z"
 }
