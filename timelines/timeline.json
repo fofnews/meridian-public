@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-13",
+      "lastSeen": "2026-06-16",
       "active": true,
       "entries": [
         {
@@ -306,6 +306,11 @@
           "date": "2026-06-13",
           "edition": "morning",
           "update": "Real estate heiress Tanya Dick-Stock and her husband filed a $15 billion lawsuit against Barclays and HSBC, alleging the banks enabled her late father to launder money through trusts, including one valued at $350 million, with a reported link to Ghislaine Maxwell. Rep. Robert Garcia sent a letter to House Oversight Committee Chair James Comer urging him to call JD Vance and White House officials to testify following reports of Trump administration efforts to contain the Epstein scandal."
+        },
+        {
+          "date": "2026-06-16",
+          "edition": "evening",
+          "update": "The New York Times published an investigative piece in which four of its journalists discussed unanswered questions surrounding Epstein's death during his final weeks in jail, alongside a separate summary of key findings about Epstein's case and his associates. Questions have also emerged about whether a White House official recorded and leaked sensitive Epstein-related discussions held in the Situation Room, according to the Washington Examiner."
         }
       ],
       "parentId": null
@@ -469,7 +474,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-15",
+      "lastSeen": "2026-06-16",
       "active": true,
       "entries": [
         {
@@ -841,6 +846,11 @@
           "date": "2026-06-15",
           "edition": "evening",
           "update": "The historic site damaged in the Russian strike on Kyiv was confirmed as the Kyiv-Pechersk Lavra, a UNESCO World Heritage site. Zelenskyy visited the damaged cathedral and condemned the attack as an assault on Christianity, while Russia denied striking the monastery, calling Ukrainian allegations a 'crude fake.' Ukraine is also reported to be running critically low on American-made Patriot air-defense interceptors, with Kyiv pleading for additional supplies as Russia exploits the shortage. Fuel shortages and rising panic are reported in Crimea as Ukrainian attacks on the Russian-annexed peninsula intensify."
+        },
+        {
+          "date": "2026-06-16",
+          "edition": "evening",
+          "update": "China denied EU claims that it has trained Russian troops to fight in Ukraine, as the EU simultaneously announced new sanctions targeting Chinese companies accused of supplying goods that support Russia's war effort."
         }
       ],
       "parentId": null
@@ -1281,6 +1291,11 @@
           "date": "2026-06-16",
           "edition": "morning",
           "update": "Tensions between Trump and Netanyahu have reached a new high following the US-Iran MOU, with disagreements over the agreement threatening its viability. Israel, which was excluded from the US-Iran negotiations, is being identified as a potential complication to the ongoing peace process."
+        },
+        {
+          "date": "2026-06-16",
+          "edition": "evening",
+          "update": "Al Jazeera reported a noted divergence between US and Israeli strategic objectives in the region, characterizing a growing gap in the two allies' priorities and approaches to regional policy."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1836,6 +1851,11 @@
           "date": "2026-06-16",
           "edition": "morning",
           "update": "Netanyahu declared 'the struggle has not ended' and announced Israeli forces will maintain a 'security zone' in occupied Lebanon, stating Israel's intention to remain in Lebanon, Syria, and Gaza despite the US-Iran deal. Iran declared that any continued Israeli occupation in Lebanon would constitute a breach of the MOU reached with the United States. A Press TV journalist was struck by shrapnel while filming a report on Israeli strikes in southern Lebanon. Iranian leaders are also insisting that any agreement with the US must include a ceasefire between Israel and Hezbollah, with ongoing hostilities threatening to derail the broader peace process."
+        },
+        {
+          "date": "2026-06-16",
+          "edition": "evening",
+          "update": "Trump stated at the G7 that Israel's Lebanon attack was 'too much,' saying he did not like that Israel struck Lebanon two hours before the US-Iran agreement was signed, and separately urged Netanyahu to be 'more responsible.' Thousands of displaced Lebanese residents rushed back to southern towns following the US-Iran deal announcement, encountering widespread destruction, even as Israel maintained it would not end its occupation of the region."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1844,7 +1864,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-13",
+      "lastSeen": "2026-06-16",
       "active": true,
       "entries": [
         {
@@ -2496,6 +2516,11 @@
           "date": "2026-06-13",
           "edition": "morning",
           "update": "U.S. forces shot down Iranian attack drones in an undisclosed engagement, according to a Reuters source."
+        },
+        {
+          "date": "2026-06-16",
+          "edition": "evening",
+          "update": "Trump warned that 'all hell will rain down' on Iran if it attempts to acquire a nuclear weapon. The NY Times reported that US officials have neither publicly acknowledged responsibility for a February 28 strike that hit an Iranian school nor released findings from an investigation into the resulting deaths."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3587,6 +3612,11 @@
           "date": "2026-06-16",
           "edition": "morning",
           "update": "Trump-Netanyahu tensions escalated further, with Israeli exclusion from the US-Iran negotiations drawing concern that Israel could disrupt the diplomatic process. Iranian leaders reiterated that any final agreement must include a cessation of hostilities between Israel and Hezbollah, with ongoing fighting threatening to derail the broader peace process. Stock markets posted significant gains following the MOU announcement, with the S&P 500 rising 1.7% and the Nasdaq jumping 3.1%. The NY Times reported that the US-Israeli bombing campaign has permanently altered the global economic order, with conditions unlikely to return to pre-war levels, and that fuel prices could take months to normalize as producers ramp up output and port bottlenecks persist. Vice President Vance was announced by Trump to front the formal signing of the agreement, with Vance reiterating that the full text may be released before Friday's Geneva ceremony."
+        },
+        {
+          "date": "2026-06-16",
+          "edition": "evening",
+          "update": "Trump stated at the G7 that the US-Iran deal can survive even if Israel continues attacks in Lebanon, and separately announced he would send the deal's text to Congress for review before the signing ceremony, responding to Republican criticism. Tanker traffic through the Strait of Hormuz has not yet resumed despite the signed MOU, and experts and officials noted gas prices will remain elevated due to damaged infrastructure, mines, and port bottlenecks. Contradictions emerged between Trump and Vance on the proposed $300 billion reconstruction fund: Trump flatly denied the US would invest money in Iran, while Vance had appeared to confirm the fund's existence; the administration framed any such fund as contingent on Iran's performance. Vance told Fox News that Iran is 'agreeing right now to eliminate the enriched stockpile,' that nuclear inspectors will 'absolutely' return to Iran, and described the 60-day framework as a test of whether Tehran will trade isolation for sanctions relief. Iran's factional divisions surfaced publicly, with hardliners expressing fears of capitulation, while Iranian authorities framed the deal domestically as a victory. A US official confirmed Iran would be permitted to immediately sell oil upon signing, and Republican senators continued demanding full briefings, with most stating they still lack details about the agreement."
         }
       ]
     },
@@ -4052,6 +4082,11 @@
           "date": "2026-06-16",
           "edition": "morning",
           "update": "Reuters reported that the US is employing an Iranian smuggling tactic to covertly move oil out of the Gulf, though specific operational details were not disclosed."
+        },
+        {
+          "date": "2026-06-16",
+          "edition": "evening",
+          "update": "BBC News identified three key obstacles preventing shipping traffic from returning to pre-conflict levels in the Strait of Hormuz: security concerns, mines, and the possibility of tolls."
         }
       ]
     },
@@ -4312,6 +4347,11 @@
           "date": "2026-06-16",
           "edition": "morning",
           "update": "The confirmed Ebola death toll in the DRC has risen to more than 170, according to BBC News reporting from the outbreak's epicentre."
+        },
+        {
+          "date": "2026-06-16",
+          "edition": "evening",
+          "update": "The Red Cross warned the DRC Ebola outbreak has not yet peaked and could last up to a year. Total confirmed cases surpassed 800, an increase of roughly 300 from the previous week, and the Africa CDC chief warned the outbreak could become the worst on record if infection rates do not flatten. An American doctor who contracted Ebola while working in the DRC has returned to the United States. Ugandan health officials described containing cross-border spread as 'like stopping wind from blowing,' and a WHO official stated 'we are missing cases' as the outbreak continues to spread after more than a month."
         }
       ]
     },
@@ -4426,5 +4466,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-16T13:06:00.731Z"
+  "updatedAt": "2026-06-16T21:10:32.613Z"
 }
