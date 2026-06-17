@@ -474,7 +474,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-16",
+      "lastSeen": "2026-06-17",
       "active": true,
       "entries": [
         {
@@ -851,6 +851,11 @@
           "date": "2026-06-16",
           "edition": "evening",
           "update": "China denied EU claims that it has trained Russian troops to fight in Ukraine, as the EU simultaneously announced new sanctions targeting Chinese companies accused of supplying goods that support Russia's war effort."
+        },
+        {
+          "date": "2026-06-17",
+          "edition": "morning",
+          "update": "A suspected Russian drone strike hit a residential building in Ukraine, injuring at least seven people, according to Al Jazeera."
         }
       ],
       "parentId": null
@@ -994,7 +999,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-16",
+      "lastSeen": "2026-06-17",
       "active": true,
       "entries": [
         {
@@ -1296,6 +1301,11 @@
           "date": "2026-06-16",
           "edition": "evening",
           "update": "Al Jazeera reported a noted divergence between US and Israeli strategic objectives in the region, characterizing a growing gap in the two allies' priorities and approaches to regional policy."
+        },
+        {
+          "date": "2026-06-17",
+          "edition": "morning",
+          "update": "Israel killed four people in Lebanon as Trump publicly stated Israel is killing civilians and described Israeli strikes as 'vicious,' escalating his criticism of Netanyahu beyond prior statements. Israeli Finance Minister Bezalel Smotrich separately announced that Israel has transferred authority over Hebron to the Israeli army. Netanyahu announced plans to stand for reelection, with his relationship with Trump expected to be a major campaign factor."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1429,7 +1439,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-16",
+      "lastSeen": "2026-06-17",
       "active": true,
       "entries": [
         {
@@ -1856,6 +1866,11 @@
           "date": "2026-06-16",
           "edition": "evening",
           "update": "Trump stated at the G7 that Israel's Lebanon attack was 'too much,' saying he did not like that Israel struck Lebanon two hours before the US-Iran agreement was signed, and separately urged Netanyahu to be 'more responsible.' Thousands of displaced Lebanese residents rushed back to southern towns following the US-Iran deal announcement, encountering widespread destruction, even as Israel maintained it would not end its occupation of the region."
+        },
+        {
+          "date": "2026-06-17",
+          "edition": "morning",
+          "update": "The United Nations reported a decline in cross-border fire in southern Lebanon. Israel launched fresh strikes in Lebanon despite Trump's public rebuke, and Democratic Sen. Richard Blumenthal rejected Trump's suggestion that Syria could more effectively combat Hezbollah than Israel, calling the idea 'absolutely absurd.'"
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1864,7 +1879,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-16",
+      "lastSeen": "2026-06-17",
       "active": true,
       "entries": [
         {
@@ -2521,6 +2536,11 @@
           "date": "2026-06-16",
           "edition": "evening",
           "update": "Trump warned that 'all hell will rain down' on Iran if it attempts to acquire a nuclear weapon. The NY Times reported that US officials have neither publicly acknowledged responsibility for a February 28 strike that hit an Iranian school nor released findings from an investigation into the resulting deaths."
+        },
+        {
+          "date": "2026-06-17",
+          "edition": "morning",
+          "update": "The US Senate narrowly voted to block a new measure that would have reined in Trump's war powers, according to Reuters. Sen. Raphael Warnock called on Congress to assert itself on matters related to the Iran war in a CBS News interview."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3395,7 +3415,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-16",
+      "lastSeen": "2026-06-17",
       "active": true,
       "entries": [
         {
@@ -3445,7 +3465,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-06-16",
+      "lastSeen": "2026-06-17",
       "active": true,
       "entries": [
         {
@@ -3617,6 +3637,11 @@
           "date": "2026-06-16",
           "edition": "evening",
           "update": "Trump stated at the G7 that the US-Iran deal can survive even if Israel continues attacks in Lebanon, and separately announced he would send the deal's text to Congress for review before the signing ceremony, responding to Republican criticism. Tanker traffic through the Strait of Hormuz has not yet resumed despite the signed MOU, and experts and officials noted gas prices will remain elevated due to damaged infrastructure, mines, and port bottlenecks. Contradictions emerged between Trump and Vance on the proposed $300 billion reconstruction fund: Trump flatly denied the US would invest money in Iran, while Vance had appeared to confirm the fund's existence; the administration framed any such fund as contingent on Iran's performance. Vance told Fox News that Iran is 'agreeing right now to eliminate the enriched stockpile,' that nuclear inspectors will 'absolutely' return to Iran, and described the 60-day framework as a test of whether Tehran will trade isolation for sanctions relief. Iran's factional divisions surfaced publicly, with hardliners expressing fears of capitulation, while Iranian authorities framed the deal domestically as a victory. A US official confirmed Iran would be permitted to immediately sell oil upon signing, and Republican senators continued demanding full briefings, with most stating they still lack details about the agreement."
+        },
+        {
+          "date": "2026-06-17",
+          "edition": "morning",
+          "update": "Bloomberg confirmed the MOU is a 14-point document that would halt regional hostilities for 60 days, end Iran's nuclear program, and conditionally lift sanctions on Tehran, though no official text had been publicly released as of the G7. Conservative commentators and hawkish Iran policy experts described as Trump allies publicly opposed the reported terms, warning the deal concedes key leverage over Tehran, while Megyn Kelly characterized the intra-party dispute as a Republican 'civil war.' G7 leaders expressed collective support for Trump's plan to end the war with Iran, and Trump publicly credited Qatar's Emir for his role as a key broker in reaching the MOU. The US Senate narrowly voted to block a measure that would have curtailed Trump's war powers. Vance emerged as the White House's top public messenger on the deal, appearing on Fox News's 'The Five' and anchoring administration communications in the lead-up to the Friday Geneva signing ceremony. Obama's reemergence ahead of his presidential library opening intensified public comparisons between his Iran diplomacy and Trump's, while the NY Times noted Trump faces pressure to demonstrate the deal represents a clear improvement over the 2015 JCPOA."
         }
       ]
     },
@@ -3660,7 +3685,7 @@
       "title": "Correspondents' Dinner Shooting Investigation",
       "parentId": null,
       "firstSeen": "2026-04-28",
-      "lastSeen": "2026-06-06",
+      "lastSeen": "2026-06-17",
       "active": true,
       "entries": [
         {
@@ -3702,6 +3727,11 @@
           "date": "2026-06-06",
           "edition": "morning",
           "update": "Two men wounded during the assassination attempt at Donald Trump's Butler, Pennsylvania rally have filed a lawsuit against the federal government, alleging gross negligence by the Secret Service and describing the security failures as preventable."
+        },
+        {
+          "date": "2026-06-17",
+          "edition": "morning",
+          "update": "New charges were filed against the man accused of fatally shooting a D.C. National Guard member at the Correspondents' Dinner, with the DOJ now able to seek the death penalty upon conviction. The FBI also revealed in newly unsealed court filings that a separate group allegedly planned to attack a UFC event at the White House using snipers and drones, citing grievances about corruption, the Epstein files, and data centres."
         }
       ]
     },
@@ -4165,7 +4195,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-06-16",
+      "lastSeen": "2026-06-17",
       "active": true,
       "entries": [
         {
@@ -4352,6 +4382,11 @@
           "date": "2026-06-16",
           "edition": "evening",
           "update": "The Red Cross warned the DRC Ebola outbreak has not yet peaked and could last up to a year. Total confirmed cases surpassed 800, an increase of roughly 300 from the previous week, and the Africa CDC chief warned the outbreak could become the worst on record if infection rates do not flatten. An American doctor who contracted Ebola while working in the DRC has returned to the United States. Ugandan health officials described containing cross-border spread as 'like stopping wind from blowing,' and a WHO official stated 'we are missing cases' as the outbreak continues to spread after more than a month."
+        },
+        {
+          "date": "2026-06-17",
+          "edition": "morning",
+          "update": "Seven Ebola patients have recovered and been discharged from a treatment centre in the DRC, even as authorities contend with circulating claims that the outbreak is a hoax."
         }
       ]
     },
@@ -4466,5 +4501,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-16T21:10:32.613Z"
+  "updatedAt": "2026-06-17T11:09:22.081Z"
 }
