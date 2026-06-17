@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-16",
+      "lastSeen": "2026-06-17",
       "active": true,
       "entries": [
         {
@@ -311,6 +311,11 @@
           "date": "2026-06-16",
           "edition": "evening",
           "update": "The New York Times published an investigative piece in which four of its journalists discussed unanswered questions surrounding Epstein's death during his final weeks in jail, alongside a separate summary of key findings about Epstein's case and his associates. Questions have also emerged about whether a White House official recorded and leaked sensitive Epstein-related discussions held in the Situation Room, according to the Washington Examiner."
+        },
+        {
+          "date": "2026-06-17",
+          "edition": "evening",
+          "update": "Congressional staffers from the House Judiciary and House Oversight Committees toured the minimum-security prison camp in Texas where Ghislaine Maxwell is incarcerated, with Reps. Jamie Raskin and Robert Garcia releasing a joint statement describing the facility as a 'park-like campus.'"
         }
       ],
       "parentId": null
@@ -319,7 +324,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-13",
+      "lastSeen": "2026-06-17",
       "active": true,
       "entries": [
         {
@@ -466,6 +471,11 @@
           "date": "2026-06-13",
           "edition": "morning",
           "update": "The U.S. and Iran announced they are closing in on a final agreement potentially signable as soon as Sunday or Monday, which could launch further talks to wind down Iran's nuclear program, reopen the Strait of Hormuz, and end military hostilities. Pakistan's Prime Minister stated the two sides have agreed on the wording of a deal, per AP News. Trump expressed anger after Iranian state media leaked purported deal details, even as he publicly praised the agreement. The UAE reportedly agreed to release $10–$20 billion in frozen Iranian assets as a goodwill gesture, with $3 billion said to already be transferred, though the UAE foreign ministry denied the transfer. A senior U.S. official confirmed a potential deal would include economic rewards for Iran if it meets its obligations. Iran's new leadership is assessed by U.S. analysts as more willing to withstand pressure, believing it has already absorbed the worst military and economic pressure America and Israel can inflict."
+        },
+        {
+          "date": "2026-06-17",
+          "edition": "evening",
+          "update": "Senior Trump administration officials briefed reporters on a 14-point memorandum of understanding between the U.S. and Iran, with Vice President Vance signing the MOU on behalf of the United States in Switzerland on Friday. The deal includes sanctions relief on Iranian oil and reopening of the Strait of Hormuz. Trump simultaneously described the MOU as 'not final' and threatened to resume airstrikes if Iran does not comply, while at the G7 summit in France he called it 'a very strong deal' even while acknowledging 'nobody knows what it is.' Trump dismissed reports of a $300 billion rebuilding fund for Iran as false, and the White House disputed leaked draft versions of the agreement. G7 leaders issued a joint declaration supporting the agreement, with Canadian PM Carney calling it 'a game changer,' though Republican lawmakers expressed significant skepticism and the full text had not yet been publicly released. Trump thanked Chinese President Xi and Russian President Putin for remaining neutral during the U.S.-Iran conflict, and the NY Times published what a senior U.S. official described as the full text of the deal."
         }
       ],
       "parentId": null
@@ -1871,6 +1881,11 @@
           "date": "2026-06-17",
           "edition": "morning",
           "update": "The United Nations reported a decline in cross-border fire in southern Lebanon. Israel launched fresh strikes in Lebanon despite Trump's public rebuke, and Democratic Sen. Richard Blumenthal rejected Trump's suggestion that Syria could more effectively combat Hezbollah than Israel, calling the idea 'absolutely absurd.'"
+        },
+        {
+          "date": "2026-06-17",
+          "edition": "evening",
+          "update": "Israeli air strikes on Lebanon continued following the U.S.-Iran MOU announcement, though the UN reported violence in southern Lebanon has 'significantly reduced.' Rene Mouawad Airport in northern Lebanon announced plans to launch flights to Istanbul, Dubai, and Mersin as part of regional economic recovery efforts. In the occupied West Bank, Israeli settlers vandalized and burned a mosque in Jaljulia north of Ramallah, and a 92-year-old Palestinian recounted being attacked by settlers, as settler violence against mosques and homes continued to escalate. Israel also took control of Hebron's Ibrahimi Mosque, affecting arrangements established under the 1997 Hebron Agreement."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3650,7 +3665,7 @@
       "title": "US Military Operations Eastern Pacific",
       "parentId": null,
       "firstSeen": "2026-04-27",
-      "lastSeen": "2026-05-31",
+      "lastSeen": "2026-06-17",
       "active": true,
       "entries": [
         {
@@ -3677,6 +3692,11 @@
           "date": "2026-05-31",
           "edition": "evening",
           "update": "A U.S. military strike in the eastern Pacific Ocean killed three people aboard an alleged drug-trafficking boat, the fourth such strike this week. The total death toll from the administration's campaign against alleged drug boats has now surpassed 200."
+        },
+        {
+          "date": "2026-06-17",
+          "edition": "evening",
+          "update": "The U.S. military struck a vessel in the eastern Pacific Ocean it claimed was engaged in drug trafficking, killing one person and leaving two survivors, with U.S. Southern Command stating the boat was traveling along known narco-trafficking routes."
         }
       ]
     },
@@ -3945,7 +3965,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-06-16",
+      "lastSeen": "2026-06-17",
       "active": true,
       "entries": [
         {
@@ -4117,6 +4137,11 @@
           "date": "2026-06-16",
           "edition": "evening",
           "update": "BBC News identified three key obstacles preventing shipping traffic from returning to pre-conflict levels in the Strait of Hormuz: security concerns, mines, and the possibility of tolls."
+        },
+        {
+          "date": "2026-06-17",
+          "edition": "evening",
+          "update": "The Strait of Hormuz has reopened to shipping traffic, though shipping companies and insurers remain cautious about returning, according to Al Jazeera. Three Iranian oil tankers loaded with crude passed the U.S. blockade line in the Gulf of Oman, according to ship-tracking data. The UAE announced it is aiming to reduce its reliance on the Strait of Hormuz to 'zero,' citing vulnerabilities exposed by Iran's closure of the waterway. Maersk's CEO warned that allowing Iran to charge transit fees would set a 'dangerous precedent.'"
         }
       ]
     },
@@ -4501,5 +4526,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-17T11:09:22.081Z"
+  "updatedAt": "2026-06-17T21:09:24.394Z"
 }
