@@ -15424,5 +15424,45 @@
     "source": "Newsmax",
     "categories": [],
     "collectedAt": "2026-06-18T03:30:01.274Z"
+  },
+  {
+    "title": "Serena Williams Names Coco Gauff as Target Doubles Partner — Say Yes, Coco",
+    "description": "Earlier this month, Serena Williams made her return to professional tennis, and it sounds like she'll be around for a while.",
+    "link": "https://www.newsweek.com/sports/serena-williams-names-coco-gauff-as-target-doubles-partner-say-yes-coco-12088392",
+    "pubDate": "Wed, 17 Jun 2026 23:36:17 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-18T03:45:02.319Z"
+  },
+  {
+    "title": "Trump’s MoU with Iran draws backlash from some Republicans",
+    "description": "Louisiana Senator Bill Cassidy blasts US-Iran MoU as 'worst foreign policy blunder in decades'.",
+    "link": "https://www.aljazeera.com/news/2026/6/18/trumps-iran-framework-draws-backlash-from-some-republicans?traffic_source=rss",
+    "pubDate": "Thu, 18 Jun 2026 03:11:41 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-06-18T03:45:02.319Z"
+  },
+  {
+    "title": "Florida court says 18-year-olds have same gun rights as other adults",
+    "description": "Florida appeals court rules the state's ban on concealed carry for adults ages 18 to 20 violates the Second Amendment in a unanimous decision.",
+    "link": "https://www.foxnews.com/politics/florida-court-says-18-year-olds-have-same-gun-rights-other-adults",
+    "pubDate": "Wed, 17 Jun 2026 23:35:29 -0400",
+    "source": "Fox News",
+    "categories": [
+      "ed5af143-9990-53de-a0a8-063250863812",
+      "fnc",
+      "fox news",
+      "fox-news/us/personal-freedoms/second-amendment",
+      "fox-news/us/us-regions/southeast/florida",
+      "fox-news/entertainment/events/in-court",
+      "fox-news/us/constitution",
+      "fox-news/us/military",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-06-18T03:45:02.319Z"
   }
 ]
