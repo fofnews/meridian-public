@@ -484,7 +484,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-17",
+      "lastSeen": "2026-06-18",
       "active": true,
       "entries": [
         {
@@ -866,6 +866,11 @@
           "date": "2026-06-17",
           "edition": "morning",
           "update": "A suspected Russian drone strike hit a residential building in Ukraine, injuring at least seven people, according to Al Jazeera."
+        },
+        {
+          "date": "2026-06-18",
+          "edition": "morning",
+          "update": "Ukraine launched one of its largest drone strikes on Moscow since the invasion began on Thursday, deploying nearly 200 drones. A Moscow oil refinery was struck and caught fire, and commercial flights at Moscow airports were disrupted during the attack."
         }
       ],
       "parentId": null
@@ -1894,7 +1899,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-17",
+      "lastSeen": "2026-06-18",
       "active": true,
       "entries": [
         {
@@ -2556,6 +2561,11 @@
           "date": "2026-06-17",
           "edition": "morning",
           "update": "The US Senate narrowly voted to block a new measure that would have reined in Trump's war powers, according to Reuters. Sen. Raphael Warnock called on Congress to assert itself on matters related to the Iran war in a CBS News interview."
+        },
+        {
+          "date": "2026-06-18",
+          "edition": "morning",
+          "update": "President Trump signed a 14-point memorandum of understanding with Iran at Versailles during a visit with French President Macron, with Iranian President Pezeshkian also signing remotely; the White House announced the MOU came into effect immediately, with a planned in-person signing in Switzerland on Friday. The deal includes a ceasefire in Lebanon, reopening of the Strait of Hormuz, a $300 billion reconstruction plan for Iran, and future sanctions relief, with U.S. officials describing it as 'performance-based,' meaning Iran receives benefits as it demonstrates compliance. Trump defended the deal at the G7, threatened to resume bombing if Iran violates its terms, and stated it was 'unfair' for Iran not to retain ballistic missiles if neighboring countries possess them. The agreement drew criticism from conservative allies who called it one of the most humiliating in U.S. diplomatic history, while former Biden Iran envoy Robert Malley called it 'far preferable to any of the alternatives,' and Pope Leo XIV welcomed the deal. Asian stock markets hit record highs and oil prices fell following the signing, with average U.S. gasoline prices dropping below $4 for the first time in months after Pakistan confirmed the Strait of Hormuz reopening would take effect immediately. BBC News reported the deal's text falls short of Trump's claim that it prevents Iran from ever acquiring nuclear weapons, with core sticking points including Iran's nuclear program deferred to later negotiations."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3430,7 +3440,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-17",
+      "lastSeen": "2026-06-18",
       "active": true,
       "entries": [
         {
@@ -4220,7 +4230,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-06-17",
+      "lastSeen": "2026-06-18",
       "active": true,
       "entries": [
         {
@@ -4412,6 +4422,11 @@
           "date": "2026-06-17",
           "edition": "morning",
           "update": "Seven Ebola patients have recovered and been discharged from a treatment centre in the DRC, even as authorities contend with circulating claims that the outbreak is a hoax."
+        },
+        {
+          "date": "2026-06-18",
+          "edition": "morning",
+          "update": "Efforts to contain the outbreak are being hampered by widespread mistrust among local populations and porous borders in an active war zone, according to CBS News. At the epicentre, a cemetery is rapidly filling as authorities have banned large traditional funerals to prevent disease spread, forcing communities to adopt new grieving practices."
         }
       ]
     },
@@ -4421,7 +4436,7 @@
       "parentId": null,
       "firstSeen": "2026-05-19",
       "lastSeen": "2026-05-19",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-05-19",
@@ -4526,5 +4541,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-17T21:09:24.394Z"
+  "updatedAt": "2026-06-18T11:07:52.211Z"
 }
