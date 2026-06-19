@@ -324,7 +324,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-17",
+      "lastSeen": "2026-06-19",
       "active": true,
       "entries": [
         {
@@ -476,6 +476,11 @@
           "date": "2026-06-17",
           "edition": "evening",
           "update": "Senior Trump administration officials briefed reporters on a 14-point memorandum of understanding between the U.S. and Iran, with Vice President Vance signing the MOU on behalf of the United States in Switzerland on Friday. The deal includes sanctions relief on Iranian oil and reopening of the Strait of Hormuz. Trump simultaneously described the MOU as 'not final' and threatened to resume airstrikes if Iran does not comply, while at the G7 summit in France he called it 'a very strong deal' even while acknowledging 'nobody knows what it is.' Trump dismissed reports of a $300 billion rebuilding fund for Iran as false, and the White House disputed leaked draft versions of the agreement. G7 leaders issued a joint declaration supporting the agreement, with Canadian PM Carney calling it 'a game changer,' though Republican lawmakers expressed significant skepticism and the full text had not yet been publicly released. Trump thanked Chinese President Xi and Russian President Putin for remaining neutral during the U.S.-Iran conflict, and the NY Times published what a senior U.S. official described as the full text of the deal."
+        },
+        {
+          "date": "2026-06-19",
+          "edition": "morning",
+          "update": "The EU announced it will not lift key sanctions on Iran until a formal nuclear deal is officially reached, maintaining economic pressure during the 60-day negotiating period that began following Trump's signing of the 14-point MOU."
         }
       ],
       "parentId": null
@@ -484,7 +489,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-18",
+      "lastSeen": "2026-06-19",
       "active": true,
       "entries": [
         {
@@ -876,6 +881,11 @@
           "date": "2026-06-18",
           "edition": "evening",
           "update": "The UK announced a $996 million aid package for Ukraine that includes 150,000 drones. Russian attacks on Ukraine's infrastructure are projected to reduce the country's grain exports by up to one third, according to Reuters. The Moscow oil refinery strike reported on June 18 was confirmed as the second Ukrainian drone strike on that facility within a single week, with thick black smoke visible over parts of the Russian capital."
+        },
+        {
+          "date": "2026-06-19",
+          "edition": "morning",
+          "update": "Zelenskyy described Ukraine's drone assault on Moscow as retaliatory, stating 'If Ukraine burns, then your Moscow will burn as well.' NATO Secretary-General Mark Rutte urged member countries to increase defense contributions for Ukraine during a meeting of NATO defense ministers in Brussels, calling the moment a 'window of opportunity,' followed by a session of the Ukraine Defense Contact Group."
         }
       ],
       "parentId": null
@@ -3500,7 +3510,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-06-18",
+      "lastSeen": "2026-06-19",
       "active": true,
       "entries": [
         {
@@ -3682,6 +3692,11 @@
           "date": "2026-06-18",
           "edition": "evening",
           "update": "Trump and Iranian President Masoud Pezeshkian, with Pakistan's Prime Minister Shehbaz Sharif serving as top mediator, signed the 14-point MOU on Wednesday; Pakistani officials confirmed it took 'immediate effect.' The full text of the MOU was subsequently made public, drawing bipartisan congressional criticism, with opponents arguing the deal grants Tehran major concessions including retention of its ballistic missile arsenal and immediate oil export rights; European leaders, by contrast, praised the agreement. VP Vance held a White House press briefing and warned Israeli officials who criticized the deal, while Trump called opponents 'fools.' The Bank of England held interest rates steady, warning that economic impacts from the Iran war and inflation would persist despite the deal, and Federal Reserve Chair Kevin Warsh similarly held rates steady at his first meeting, citing 'elevated uncertainty' from the conflict. A Fox News poll conducted June 12–15 found a wide majority of US voters believe launching military action against Iran was a mistake, and Trump's approval rating hit a record low per an NPR poll. Iran claimed to have secured favorable language changes to the MOU draft before publication, framing the result as a victory, while BBC correspondent Jeremy Bowen assessed that the Iranian regime had not only survived the war but emerged empowered by it."
+        },
+        {
+          "date": "2026-06-19",
+          "edition": "morning",
+          "update": "The planned Friday signing ceremony in Geneva was called off, with Switzerland announcing the talks with Iran are off for now and the White House confirming Vance would not travel to Switzerland. The deal was instead signed by Trump at the Palace of Versailles in France on Wednesday, with a 60-day negotiating period formally beginning thereafter. The US lifted its naval blockade of Iranian ports and coastal areas as part of the agreement's immediate implementation. Iran's Supreme Leader publicly stated his disagreement with the deal, claiming Trump signed it 'out of desperation,' while CBS News reported many of Trump's original stated war aims remain unmet. Senate Republicans described a 'somber' mood, with many colleagues said to be 'in dismay,' and Sen. Ted Cruz broke publicly with the administration over the deal's terms. Vance emerged as the administration's chief defender, though the NY Times reported his claims in defense of the deal were vague and misleading, including an incorrect assertion about Iran receiving no new benefit from oil sanctions relief."
         }
       ]
     },
@@ -3690,7 +3705,7 @@
       "title": "US Military Operations Eastern Pacific",
       "parentId": null,
       "firstSeen": "2026-04-27",
-      "lastSeen": "2026-06-17",
+      "lastSeen": "2026-06-19",
       "active": true,
       "entries": [
         {
@@ -3722,6 +3737,11 @@
           "date": "2026-06-17",
           "edition": "evening",
           "update": "The U.S. military struck a vessel in the eastern Pacific Ocean it claimed was engaged in drug trafficking, killing one person and leaving two survivors, with U.S. Southern Command stating the boat was traveling along known narco-trafficking routes."
+        },
+        {
+          "date": "2026-06-19",
+          "edition": "morning",
+          "update": "US Southern Command conducted a lethal strike on a vessel in the eastern Pacific Ocean, killing three people, with SOUTHCOM describing those killed as 'narco-terrorists.'"
         }
       ]
     },
@@ -3990,7 +4010,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-06-18",
+      "lastSeen": "2026-06-19",
       "active": true,
       "entries": [
         {
@@ -4172,6 +4192,11 @@
           "date": "2026-06-18",
           "edition": "evening",
           "update": "Three Saudi Arabian-flagged supertankers managed by Bahri, carrying approximately 6 million barrels of oil, transited the Strait of Hormuz following the deal, with a total of 19 vessels passing through on Tuesday and Wednesday per Reuters. Iran formally announced it will charge a 'payment for services' fee for passage through the strait. The Wall Street Journal reported that additional practical steps beyond the ceasefire framework are still required before shipping traffic returns to prewar levels, and the IAEA chief stated 'now the technical work starts' regarding Iran's nuclear programme."
+        },
+        {
+          "date": "2026-06-19",
+          "edition": "morning",
+          "update": "Oil prices fell as crude supply began moving again through the Strait of Hormuz following the US-Iran agreement, though CBS News noted traffic may not return to normal immediately."
         }
       ]
     },
@@ -4561,5 +4586,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-19T00:42:28.894Z"
+  "updatedAt": "2026-06-19T11:06:46.802Z"
 }
