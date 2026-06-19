@@ -886,6 +886,11 @@
           "date": "2026-06-19",
           "edition": "morning",
           "update": "Zelenskyy described Ukraine's drone assault on Moscow as retaliatory, stating 'If Ukraine burns, then your Moscow will burn as well.' NATO Secretary-General Mark Rutte urged member countries to increase defense contributions for Ukraine during a meeting of NATO defense ministers in Brussels, calling the moment a 'window of opportunity,' followed by a session of the Ukraine Defense Contact Group."
+        },
+        {
+          "date": "2026-06-19",
+          "edition": "evening",
+          "update": "Video footage analyzed by the NY Times suggests a blast at a Moscow refinery may have been caused by a Russian air defense missile rather than a Ukrainian drone. Military experts told the NY Times that while drone attacks have achieved breakthroughs, only ballistic missiles carry potential to pressure Russia into reconsidering its war objectives. Ukrainian President Zelenskyy issued a one-week ultimatum to Belarus to remove military equipment being used in attacks on Ukraine, according to Reuters."
         }
       ],
       "parentId": null
@@ -1029,7 +1034,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-17",
+      "lastSeen": "2026-06-19",
       "active": true,
       "entries": [
         {
@@ -1336,6 +1341,11 @@
           "date": "2026-06-17",
           "edition": "morning",
           "update": "Israel killed four people in Lebanon as Trump publicly stated Israel is killing civilians and described Israeli strikes as 'vicious,' escalating his criticism of Netanyahu beyond prior statements. Israeli Finance Minister Bezalel Smotrich separately announced that Israel has transferred authority over Hebron to the Israeli army. Netanyahu announced plans to stand for reelection, with his relationship with Trump expected to be a major campaign factor."
+        },
+        {
+          "date": "2026-06-19",
+          "edition": "evening",
+          "update": "Trump declined to formally endorse Netanyahu ahead of Israel's upcoming elections, saying he likes him but urged him to be 'more rational.' U.S. intelligence warned that Israel is likely to take actions to undermine a potential Iran peace deal, according to officials cited by The Washington Post. Israel condemned EU foreign policy chief Kaja Kallas after leaked reports quoted her likening Israel to South Africa's apartheid regime. Iran labeled Israel a 'genocidal death cult' as ultranationalist Israeli statements complicated ceasefire negotiations."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1469,7 +1479,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-18",
+      "lastSeen": "2026-06-19",
       "active": true,
       "entries": [
         {
@@ -1911,6 +1921,11 @@
           "date": "2026-06-18",
           "edition": "evening",
           "update": "Israeli strikes in southern Lebanon killed three people, according to Al Jazeera, continuing despite the US-Iran MOU. Israel released a new map showing a slight expansion of its declared 'security zone' in Lebanon and announced it would maintain military operations there. Israeli Foreign Minister Gideon Sa'ar announced he is severing contact with EU Foreign Policy Chief, marking a significant diplomatic rupture with the EU. The Trump administration and Israel were reported by Newsmax to be at odds over both the Iran nuclear deal terms and Israeli troop deployments in Lebanon."
+        },
+        {
+          "date": "2026-06-19",
+          "edition": "evening",
+          "update": "Israel and Hezbollah agreed to a new ceasefire, though Israeli National Security Minister Ben-Gvir posted 'All of Lebanon must burn,' rejecting calls for a truce. More than a dozen people were killed in Lebanon following Israeli strikes launched in retaliation for a Hezbollah attack that killed four Israeli soldiers, putting the U.S.-Iran MOU at risk. Iran made a Lebanon ceasefire a priority condition for continuing nuclear talks, according to The Hill. Trump expressed confidence he can prevent Israel from attacking Hezbollah, stating 'They do as I say,' while analysts including Trita Parsi warned Israel's actions represent the greatest threat to U.S.-Iran diplomacy."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1919,7 +1934,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-18",
+      "lastSeen": "2026-06-19",
       "active": true,
       "entries": [
         {
@@ -2586,6 +2601,11 @@
           "date": "2026-06-18",
           "edition": "morning",
           "update": "President Trump signed a 14-point memorandum of understanding with Iran at Versailles during a visit with French President Macron, with Iranian President Pezeshkian also signing remotely; the White House announced the MOU came into effect immediately, with a planned in-person signing in Switzerland on Friday. The deal includes a ceasefire in Lebanon, reopening of the Strait of Hormuz, a $300 billion reconstruction plan for Iran, and future sanctions relief, with U.S. officials describing it as 'performance-based,' meaning Iran receives benefits as it demonstrates compliance. Trump defended the deal at the G7, threatened to resume bombing if Iran violates its terms, and stated it was 'unfair' for Iran not to retain ballistic missiles if neighboring countries possess them. The agreement drew criticism from conservative allies who called it one of the most humiliating in U.S. diplomatic history, while former Biden Iran envoy Robert Malley called it 'far preferable to any of the alternatives,' and Pope Leo XIV welcomed the deal. Asian stock markets hit record highs and oil prices fell following the signing, with average U.S. gasoline prices dropping below $4 for the first time in months after Pakistan confirmed the Strait of Hormuz reopening would take effect immediately. BBC News reported the deal's text falls short of Trump's claim that it prevents Iran from ever acquiring nuclear weapons, with core sticking points including Iran's nuclear program deferred to later negotiations."
+        },
+        {
+          "date": "2026-06-19",
+          "edition": "evening",
+          "update": "Obama publicly criticized the Trump administration's handling of the Iran war, stating the U.S. may be 'worse off' than before and has spent billions of dollars while putting enormous strain on its military. An AP-NORC poll found a majority of Americans disapprove of Trump's Iran handling, with 37% approving and 62% disapproving of his presidency overall. Planned nuclear talks in Switzerland were canceled after Vice President Vance scrapped his planned trip, with the White House acknowledging logistical unpredictability; delays were also linked to renewed Israel-Hezbollah hostilities. Republican critics directed blame for the Iran MOU at Vance rather than Trump directly, while Senate Democratic Leader Schumer called the deal 'the art of the surrender' and Sen. Ted Cruz criticized plans to give 'billions' to Iran. Iran's Supreme Leader Khamenei publicly distanced himself from the framework, stating he dislikes it but allowed it to proceed, placing responsibility on Iran's president. Wikipedia listed the conflict's outcome as an 'Iranian Victory,' a characterization experts told Newsweek makes a U.S. triumph difficult to claim, and the Pentagon was reported by Newsmax to be seeking $80 billion to cover war-related costs."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3364,7 +3384,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-06-14",
+      "lastSeen": "2026-06-19",
       "active": true,
       "entries": [
         {
@@ -3431,6 +3451,11 @@
           "date": "2026-06-14",
           "edition": "morning",
           "update": "North Korea formally declared that denuclearization is a matter that has been terminated irreversibly, explicitly rejecting any negotiations over its nuclear weapons program."
+        },
+        {
+          "date": "2026-06-19",
+          "edition": "evening",
+          "update": "At the G7 summit, Trump told South Korean President that 'the time had come' to focus on North Korea's nuclear issue, signaling a potential new diplomatic approach, according to Al Jazeera."
         }
       ],
       "parentId": null
@@ -3439,8 +3464,8 @@
       "id": "journalist-abductions-and-releases",
       "title": "Journalist Abductions and Releases",
       "firstSeen": "2026-04-07",
-      "lastSeen": "2026-04-08",
-      "active": false,
+      "lastSeen": "2026-06-19",
+      "active": true,
       "entries": [
         {
           "date": "2026-04-07",
@@ -3451,6 +3476,11 @@
           "date": "2026-04-08",
           "edition": "evening",
           "update": "Secretary of State Marco Rubio announced the release of American journalist Shelly Kittleson, who had been kidnapped and held hostage in Iraq for just over a week by an Iran-backed militia. Efforts are underway to facilitate her safe departure from Iraq."
+        },
+        {
+          "date": "2026-06-19",
+          "edition": "evening",
+          "update": "Search efforts continue for kidnapped Mexican journalist Roxana Guzman, according to Al Jazeera, with no details yet reported on her whereabouts or the circumstances of her abduction."
         }
       ],
       "parentId": null
@@ -3460,7 +3490,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-18",
+      "lastSeen": "2026-06-19",
       "active": true,
       "entries": [
         {
@@ -3830,7 +3860,7 @@
       "title": "Cuba Military Intervention",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-04-29",
-      "lastSeen": "2026-06-02",
+      "lastSeen": "2026-06-19",
       "active": true,
       "entries": [
         {
@@ -3877,6 +3907,11 @@
           "date": "2026-06-02",
           "edition": "evening",
           "update": "A key European airline has stopped direct flights to Cuba, with nearly a dozen airlines having cancelled or restricted flights to the country since the start of the year, according to Newsweek."
+        },
+        {
+          "date": "2026-06-19",
+          "edition": "evening",
+          "update": "Cuba approved sweeping economic reforms opening key sectors to private investment, according to Al Jazeera. Millions of Cubans have adapted to prolonged electricity outages by resorting to alternatives ranging from charcoal to solar panels, according to Al Jazeera."
         }
       ]
     },
@@ -3950,7 +3985,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-06-15",
+      "lastSeen": "2026-06-19",
       "active": true,
       "entries": [
         {
@@ -4002,6 +4037,11 @@
           "date": "2026-06-15",
           "edition": "evening",
           "update": "Ukrainian President Zelenskyy announced he offered to meet Putin at the G7 summit, according to Reuters. Both Putin and Zelenskyy separately called President Trump by phone on Sunday, his 80th birthday, amid ongoing stalled peace negotiations."
+        },
+        {
+          "date": "2026-06-19",
+          "edition": "evening",
+          "update": "Russia signaled openness to talks with Europe while rejecting what it characterized as ultimatums, according to Reuters."
         }
       ]
     },
@@ -4197,6 +4237,11 @@
           "date": "2026-06-19",
           "edition": "morning",
           "update": "Oil prices fell as crude supply began moving again through the Strait of Hormuz following the US-Iran agreement, though CBS News noted traffic may not return to normal immediately."
+        },
+        {
+          "date": "2026-06-19",
+          "edition": "evening",
+          "update": "Iran announced it will waive transit fees through the Strait of Hormuz during the 60-day negotiation period, according to Reuters, reversing its earlier announcement of a 'payment for services' fee. Stranded vessels remained unable to depart amid renewed regional violence, according to the NY Times. The Netherlands redirected a frigate to the strait for a possible mission, according to Reuters. Oil prices came under renewed pressure as fresh doubts emerged about the stability of the U.S.-Iran deal, according to the Wall Street Journal."
         }
       ]
     },
@@ -4275,7 +4320,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-06-18",
+      "lastSeen": "2026-06-19",
       "active": true,
       "entries": [
         {
@@ -4472,6 +4517,11 @@
           "date": "2026-06-18",
           "edition": "morning",
           "update": "Efforts to contain the outbreak are being hampered by widespread mistrust among local populations and porous borders in an active war zone, according to CBS News. At the epicentre, a cemetery is rapidly filling as authorities have banned large traditional funerals to prevent disease spread, forcing communities to adopt new grieving practices."
+        },
+        {
+          "date": "2026-06-19",
+          "edition": "evening",
+          "update": "A six-year-old Ebola patient who went missing from a DRC hospital has been found and is reported to be doing well, according to BBC News. The WHO reported more than 70 healthcare workers in Congo have been infected since the outbreak began. At least 30 deaths were recorded at a single camp in Congo, with Reuters reporting the toll suggests rapid spread in that area. CBS News correspondent Ramy Inocencio reported from Uganda on rising cases and growing global health concerns."
         }
       ]
     },
@@ -4586,5 +4636,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-19T11:06:46.802Z"
+  "updatedAt": "2026-06-19T21:08:34.188Z"
 }
