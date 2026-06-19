@@ -875,7 +875,7 @@
         {
           "date": "2026-06-18",
           "edition": "evening",
-          "update": "The Moscow oil refinery strike was confirmed as the second Ukrainian drone attack on the same facility within a week, with thick black smoke visible over the city and large explosions reported. The UK announced a $996 million military aid package for Ukraine that includes 150,000 drones. A Russian-flagged shadow fleet vessel named Forwarder entered the English Channel, marking the first such ship to do so since the boarding of the Smyrtos. Russian attacks on Ukrainian infrastructure could reduce the country's grain exports by up to one third, according to Reuters."
+          "update": "The UK announced a $996 million aid package for Ukraine that includes 150,000 drones. Russian attacks on Ukraine's infrastructure are projected to reduce the country's grain exports by up to one third, according to Reuters. The Moscow oil refinery strike reported on June 18 was confirmed as the second Ukrainian drone strike on that facility within a single week, with thick black smoke visible over parts of the Russian capital."
         }
       ],
       "parentId": null
@@ -1900,7 +1900,7 @@
         {
           "date": "2026-06-18",
           "edition": "evening",
-          "update": "Israeli attacks in southern Lebanon killed three people, continuing despite the signed US-Iran MOU. Israel released a new map showing a slightly expanded 'security zone' in Lebanon and declared it would maintain military operations there in defiance of the agreement's terms."
+          "update": "Israeli strikes in southern Lebanon killed three people, according to Al Jazeera, continuing despite the US-Iran MOU. Israel released a new map showing a slight expansion of its declared 'security zone' in Lebanon and announced it would maintain military operations there. Israeli Foreign Minister Gideon Sa'ar announced he is severing contact with EU Foreign Policy Chief, marking a significant diplomatic rupture with the EU. The Trump administration and Israel were reported by Newsmax to be at odds over both the Iran nuclear deal terms and Israeli troop deployments in Lebanon."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3477,11 +3477,6 @@
           "date": "2026-06-10",
           "edition": "morning",
           "update": "Asian stocks fell and oil prices rose as Middle East tensions escalated. May inflation is expected to have increased, driven in part by rising prices linked to the Iran war, with wage growth continuing to lag inflation, according to NBC News."
-        },
-        {
-          "date": "2026-06-18",
-          "edition": "evening",
-          "update": "Al Jazeera published a historical analysis noting that while US-Israeli leadership rifts have been repeatedly documented, they have not historically resulted in changes to US policy toward Israel. Newsmax identified the US-Iran deal and Israeli troop deployment in Lebanon as the two central points of conflict between Israel and the Trump administration."
         }
       ]
     },
@@ -3686,7 +3681,7 @@
         {
           "date": "2026-06-18",
           "edition": "evening",
-          "update": "Trump signed the 14-point MOU with Iran and Pakistani Prime Minister Shehbaz Sharif at the Palace of Versailles on Wednesday, with Sharif confirmed as the lead mediator; the agreement took immediate effect upon signing. The first tankers transited the Strait of Hormuz following the deal, including three Saudi supertankers carrying approximately 6 million barrels of oil managed by Bahri, with 19 vessels total crossing the strait across Tuesday and Wednesday. Iran announced it will charge a 'payment for services' fee for vessels passing through the strait. The national average gas price fell to approximately $3.99 per gallon on Thursday, the first drop below $4 since March, according to AAA. The MOU's full text was released publicly, drawing bipartisan congressional criticism, with opponents warning it grants Tehran major concessions including retention of its ballistic missile arsenal; a Fox News poll found a wide majority of U.S. voters believe the original military action against Iran was a mistake. The Bank of England held interest rates steady citing persistent inflation and uncertainty from the Iran war, while Federal Reserve Chair Kevin Warsh also held rates steady at his first meeting citing 'elevated uncertainty.' A Pentagon investigation into a strike on an Iranian school is being finalized, with growing concern it may be classified."
+          "update": "Trump and Iranian President Masoud Pezeshkian, with Pakistan's Prime Minister Shehbaz Sharif serving as top mediator, signed the 14-point MOU on Wednesday; Pakistani officials confirmed it took 'immediate effect.' The full text of the MOU was subsequently made public, drawing bipartisan congressional criticism, with opponents arguing the deal grants Tehran major concessions including retention of its ballistic missile arsenal and immediate oil export rights; European leaders, by contrast, praised the agreement. VP Vance held a White House press briefing and warned Israeli officials who criticized the deal, while Trump called opponents 'fools.' The Bank of England held interest rates steady, warning that economic impacts from the Iran war and inflation would persist despite the deal, and Federal Reserve Chair Kevin Warsh similarly held rates steady at his first meeting, citing 'elevated uncertainty' from the conflict. A Fox News poll conducted June 12–15 found a wide majority of US voters believe launching military action against Iran was a mistake, and Trump's approval rating hit a record low per an NPR poll. Iran claimed to have secured favorable language changes to the MOU draft before publication, framing the result as a victory, while BBC correspondent Jeremy Bowen assessed that the Iranian regime had not only survived the war but emerged empowered by it."
         }
       ]
     },
@@ -3995,7 +3990,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-06-17",
+      "lastSeen": "2026-06-18",
       "active": true,
       "entries": [
         {
@@ -4172,6 +4167,11 @@
           "date": "2026-06-17",
           "edition": "evening",
           "update": "The Strait of Hormuz has reopened to shipping traffic, though shipping companies and insurers remain cautious about returning, according to Al Jazeera. Three Iranian oil tankers loaded with crude passed the U.S. blockade line in the Gulf of Oman, according to ship-tracking data. The UAE announced it is aiming to reduce its reliance on the Strait of Hormuz to 'zero,' citing vulnerabilities exposed by Iran's closure of the waterway. Maersk's CEO warned that allowing Iran to charge transit fees would set a 'dangerous precedent.'"
+        },
+        {
+          "date": "2026-06-18",
+          "edition": "evening",
+          "update": "Three Saudi Arabian-flagged supertankers managed by Bahri, carrying approximately 6 million barrels of oil, transited the Strait of Hormuz following the deal, with a total of 19 vessels passing through on Tuesday and Wednesday per Reuters. Iran formally announced it will charge a 'payment for services' fee for passage through the strait. The Wall Street Journal reported that additional practical steps beyond the ceasefire framework are still required before shipping traffic returns to prewar levels, and the IAEA chief stated 'now the technical work starts' regarding Iran's nuclear programme."
         }
       ]
     },
@@ -4561,5 +4561,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-19T00:42:20.479Z"
+  "updatedAt": "2026-06-19T00:42:28.894Z"
 }
