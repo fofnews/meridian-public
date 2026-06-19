@@ -871,6 +871,11 @@
           "date": "2026-06-18",
           "edition": "morning",
           "update": "Ukraine launched one of its largest drone strikes on Moscow since the invasion began on Thursday, deploying nearly 200 drones. A Moscow oil refinery was struck and caught fire, and commercial flights at Moscow airports were disrupted during the attack."
+        },
+        {
+          "date": "2026-06-18",
+          "edition": "evening",
+          "update": "The Moscow oil refinery strike was confirmed as the second Ukrainian drone attack on the same facility within a week, with thick black smoke visible over the city and large explosions reported. The UK announced a $996 million military aid package for Ukraine that includes 150,000 drones. A Russian-flagged shadow fleet vessel named Forwarder entered the English Channel, marking the first such ship to do so since the boarding of the Smyrtos. Russian attacks on Ukrainian infrastructure could reduce the country's grain exports by up to one third, according to Reuters."
         }
       ],
       "parentId": null
@@ -1454,7 +1459,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-17",
+      "lastSeen": "2026-06-18",
       "active": true,
       "entries": [
         {
@@ -1891,6 +1896,11 @@
           "date": "2026-06-17",
           "edition": "evening",
           "update": "Israeli air strikes on Lebanon continued following the U.S.-Iran MOU announcement, though the UN reported violence in southern Lebanon has 'significantly reduced.' Rene Mouawad Airport in northern Lebanon announced plans to launch flights to Istanbul, Dubai, and Mersin as part of regional economic recovery efforts. In the occupied West Bank, Israeli settlers vandalized and burned a mosque in Jaljulia north of Ramallah, and a 92-year-old Palestinian recounted being attacked by settlers, as settler violence against mosques and homes continued to escalate. Israel also took control of Hebron's Ibrahimi Mosque, affecting arrangements established under the 1997 Hebron Agreement."
+        },
+        {
+          "date": "2026-06-18",
+          "edition": "evening",
+          "update": "Israeli attacks in southern Lebanon killed three people, continuing despite the signed US-Iran MOU. Israel released a new map showing a slightly expanded 'security zone' in Lebanon and declared it would maintain military operations there in defiance of the agreement's terms."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3467,6 +3477,11 @@
           "date": "2026-06-10",
           "edition": "morning",
           "update": "Asian stocks fell and oil prices rose as Middle East tensions escalated. May inflation is expected to have increased, driven in part by rising prices linked to the Iran war, with wage growth continuing to lag inflation, according to NBC News."
+        },
+        {
+          "date": "2026-06-18",
+          "edition": "evening",
+          "update": "Al Jazeera published a historical analysis noting that while US-Israeli leadership rifts have been repeatedly documented, they have not historically resulted in changes to US policy toward Israel. Newsmax identified the US-Iran deal and Israeli troop deployment in Lebanon as the two central points of conflict between Israel and the Trump administration."
         }
       ]
     },
@@ -3490,7 +3505,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-06-17",
+      "lastSeen": "2026-06-18",
       "active": true,
       "entries": [
         {
@@ -3667,6 +3682,11 @@
           "date": "2026-06-17",
           "edition": "morning",
           "update": "Bloomberg confirmed the MOU is a 14-point document that would halt regional hostilities for 60 days, end Iran's nuclear program, and conditionally lift sanctions on Tehran, though no official text had been publicly released as of the G7. Conservative commentators and hawkish Iran policy experts described as Trump allies publicly opposed the reported terms, warning the deal concedes key leverage over Tehran, while Megyn Kelly characterized the intra-party dispute as a Republican 'civil war.' G7 leaders expressed collective support for Trump's plan to end the war with Iran, and Trump publicly credited Qatar's Emir for his role as a key broker in reaching the MOU. The US Senate narrowly voted to block a measure that would have curtailed Trump's war powers. Vance emerged as the White House's top public messenger on the deal, appearing on Fox News's 'The Five' and anchoring administration communications in the lead-up to the Friday Geneva signing ceremony. Obama's reemergence ahead of his presidential library opening intensified public comparisons between his Iran diplomacy and Trump's, while the NY Times noted Trump faces pressure to demonstrate the deal represents a clear improvement over the 2015 JCPOA."
+        },
+        {
+          "date": "2026-06-18",
+          "edition": "evening",
+          "update": "Trump signed the 14-point MOU with Iran and Pakistani Prime Minister Shehbaz Sharif at the Palace of Versailles on Wednesday, with Sharif confirmed as the lead mediator; the agreement took immediate effect upon signing. The first tankers transited the Strait of Hormuz following the deal, including three Saudi supertankers carrying approximately 6 million barrels of oil managed by Bahri, with 19 vessels total crossing the strait across Tuesday and Wednesday. Iran announced it will charge a 'payment for services' fee for vessels passing through the strait. The national average gas price fell to approximately $3.99 per gallon on Thursday, the first drop below $4 since March, according to AAA. The MOU's full text was released publicly, drawing bipartisan congressional criticism, with opponents warning it grants Tehran major concessions including retention of its ballistic missile arsenal; a Fox News poll found a wide majority of U.S. voters believe the original military action against Iran was a mistake. The Bank of England held interest rates steady citing persistent inflation and uncertainty from the Iran war, while Federal Reserve Chair Kevin Warsh also held rates steady at his first meeting citing 'elevated uncertainty.' A Pentagon investigation into a strike on an Iranian school is being finalized, with growing concern it may be classified."
         }
       ]
     },
@@ -4541,5 +4561,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-18T11:07:52.211Z"
+  "updatedAt": "2026-06-19T00:42:20.479Z"
 }
