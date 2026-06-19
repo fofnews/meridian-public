@@ -273,5 +273,34 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-19T05:30:01.381Z"
+  },
+  {
+    "title": "Amber heat health alerts in place as temperatures set to soar above 30C",
+    "description": "Very warm weather is set to return to parts of the UK, with a potential heatwave set to develop this weekend.",
+    "link": "https://www.bbc.com/weather/articles/c79y35nl719o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 19 Jun 2026 05:36:34 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-19T05:45:01.693Z"
+  },
+  {
+    "title": "Thousand-year-old ancient oak tree tied to 'Robin Hood' has died, charity says",
+    "description": "A giant, ancient oak tree located in the Sherwood Forest -- the iconic setting of the \"Robin Hood\" legend -- has died, a UK wildlife charity says.",
+    "link": "https://abcnews.com/International/thousand-year-ancient-oak-tree-tied-robin-hood/story?id=134021818",
+    "pubDate": "Fri, 19 Jun 2026 00:12:59 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-06-19T05:45:01.693Z"
+  },
+  {
+    "title": "TV host quits after she falsely reported Lionel Messi’s dad died during World Cup",
+    "description": "The Messi family called out the irresponsible reporting, sharing that Jorge Messi had been battling an undisclosed health issue but hadn't died.",
+    "link": "https://nypost.com/2026/06/19/sports/argentina-tv-host-florencia-pena-quits-after-falsley-reporting-death-of-lionel-messi-father/",
+    "pubDate": "Fri, 19 Jun 2026 01:32:39 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-19T05:45:01.693Z"
   }
 ]
