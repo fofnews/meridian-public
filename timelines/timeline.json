@@ -1034,7 +1034,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-19",
+      "lastSeen": "2026-06-20",
       "active": true,
       "entries": [
         {
@@ -1346,6 +1346,11 @@
           "date": "2026-06-19",
           "edition": "evening",
           "update": "Trump declined to formally endorse Netanyahu ahead of Israel's upcoming elections, saying he likes him but urged him to be 'more rational.' U.S. intelligence warned that Israel is likely to take actions to undermine a potential Iran peace deal, according to officials cited by The Washington Post. Israel condemned EU foreign policy chief Kaja Kallas after leaked reports quoted her likening Israel to South Africa's apartheid regime. Iran labeled Israel a 'genocidal death cult' as ultranationalist Israeli statements complicated ceasefire negotiations."
+        },
+        {
+          "date": "2026-06-20",
+          "edition": "morning",
+          "update": "A ceasefire between Israel and Hezbollah appeared to hold on Friday despite overnight exchanges of strikes between the two sides, according to CBS News."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1479,7 +1484,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-19",
+      "lastSeen": "2026-06-20",
       "active": true,
       "entries": [
         {
@@ -1926,6 +1931,11 @@
           "date": "2026-06-19",
           "edition": "evening",
           "update": "Israel and Hezbollah agreed to a new ceasefire, though Israeli National Security Minister Ben-Gvir posted 'All of Lebanon must burn,' rejecting calls for a truce. More than a dozen people were killed in Lebanon following Israeli strikes launched in retaliation for a Hezbollah attack that killed four Israeli soldiers, putting the U.S.-Iran MOU at risk. Iran made a Lebanon ceasefire a priority condition for continuing nuclear talks, according to The Hill. Trump expressed confidence he can prevent Israel from attacking Hezbollah, stating 'They do as I say,' while analysts including Trita Parsi warned Israel's actions represent the greatest threat to U.S.-Iran diplomacy."
+        },
+        {
+          "date": "2026-06-20",
+          "edition": "morning",
+          "update": "A new Israel-Hezbollah ceasefire was brokered by the United States and Qatar, with Israeli Ambassador Yechiel Leiter confirming Israel halted offensive operations against Hezbollah while maintaining a security presence in southern Lebanon. Despite the ceasefire agreement, Israeli strikes on southern Lebanon killed at least seven people, including two children, on Saturday. The US announced a new round of Israel-Lebanon talks to be held in Washington the following week. Hundreds of people gathered in Rmeileh near Sidon for a World Cup viewing event organized by a Lebanese influencer amid the ongoing conflict."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1934,7 +1944,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-19",
+      "lastSeen": "2026-06-20",
       "active": true,
       "entries": [
         {
@@ -2606,6 +2616,11 @@
           "date": "2026-06-19",
           "edition": "evening",
           "update": "Obama publicly criticized the Trump administration's handling of the Iran war, stating the U.S. may be 'worse off' than before and has spent billions of dollars while putting enormous strain on its military. An AP-NORC poll found a majority of Americans disapprove of Trump's Iran handling, with 37% approving and 62% disapproving of his presidency overall. Planned nuclear talks in Switzerland were canceled after Vice President Vance scrapped his planned trip, with the White House acknowledging logistical unpredictability; delays were also linked to renewed Israel-Hezbollah hostilities. Republican critics directed blame for the Iran MOU at Vance rather than Trump directly, while Senate Democratic Leader Schumer called the deal 'the art of the surrender' and Sen. Ted Cruz criticized plans to give 'billions' to Iran. Iran's Supreme Leader Khamenei publicly distanced himself from the framework, stating he dislikes it but allowed it to proceed, placing responsibility on Iran's president. Wikipedia listed the conflict's outcome as an 'Iranian Victory,' a characterization experts told Newsweek makes a U.S. triumph difficult to claim, and the Pentagon was reported by Newsmax to be seeking $80 billion to cover war-related costs."
+        },
+        {
+          "date": "2026-06-20",
+          "edition": "morning",
+          "update": "Trump told Axios in a post-G7 interview that he sees 'no limits' to his power amid the war with Iran and claimed Israel does what he says. Iran's deputy foreign minister stated Iran is 'ready to move forward' on diplomacy but conditioned engagement on the US ensuring Israel ends its attacks on Lebanon. National Review published commentary framing Trump's Iran policy as a 'capitulation,' while Senator Tuberville expressed support for the deal's nuclear progress and at least one Democratic lawmaker criticized it as 'surrender.'"
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3490,7 +3505,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-19",
+      "lastSeen": "2026-06-20",
       "active": true,
       "entries": [
         {
@@ -3540,7 +3555,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-06-19",
+      "lastSeen": "2026-06-20",
       "active": true,
       "entries": [
         {
@@ -3727,6 +3742,11 @@
           "date": "2026-06-19",
           "edition": "morning",
           "update": "The planned Friday signing ceremony in Geneva was called off, with Switzerland announcing the talks with Iran are off for now and the White House confirming Vance would not travel to Switzerland. The deal was instead signed by Trump at the Palace of Versailles in France on Wednesday, with a 60-day negotiating period formally beginning thereafter. The US lifted its naval blockade of Iranian ports and coastal areas as part of the agreement's immediate implementation. Iran's Supreme Leader publicly stated his disagreement with the deal, claiming Trump signed it 'out of desperation,' while CBS News reported many of Trump's original stated war aims remain unmet. Senate Republicans described a 'somber' mood, with many colleagues said to be 'in dismay,' and Sen. Ted Cruz broke publicly with the administration over the deal's terms. Vance emerged as the administration's chief defender, though the NY Times reported his claims in defense of the deal were vague and misleading, including an incorrect assertion about Iran receiving no new benefit from oil sanctions relief."
+        },
+        {
+          "date": "2026-06-20",
+          "edition": "morning",
+          "update": "A 2015 law requiring congressional approval for any Iran nuclear deal has come under scrutiny following the signing of the MOU. The next round of U.S.-Iran talks scheduled for Switzerland was postponed, though Trump's envoy and Iran's Foreign Minister subsequently headed to Switzerland for negotiations per Reuters. Republican operatives expressed optimism about the deal's midterm political benefits, citing falling oil prices and positive market reactions."
         }
       ]
     },
@@ -4050,7 +4070,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-06-19",
+      "lastSeen": "2026-06-20",
       "active": true,
       "entries": [
         {
@@ -4242,6 +4262,11 @@
           "date": "2026-06-19",
           "edition": "evening",
           "update": "Iran announced it will waive transit fees through the Strait of Hormuz during the 60-day negotiation period, according to Reuters, reversing its earlier announcement of a 'payment for services' fee. Stranded vessels remained unable to depart amid renewed regional violence, according to the NY Times. The Netherlands redirected a frigate to the strait for a possible mission, according to Reuters. Oil prices came under renewed pressure as fresh doubts emerged about the stability of the U.S.-Iran deal, according to the Wall Street Journal."
+        },
+        {
+          "date": "2026-06-20",
+          "edition": "morning",
+          "update": "Despite the formal peace deal, the Strait of Hormuz remains largely avoided by shipping traffic, with captains reporting steep consequences from the IRGC for attempting to cross. Regional oil producers are seeking safety assurances and exploring alternative export routes amid ongoing threats from mines and deep uncertainty. Italy's refusal to back a U.S.-proposed military blockade on the strait continued to generate friction, with Trump reiterating his claim that Italian PM Meloni 'begged' to take a picture with him at the G7."
         }
       ]
     },
@@ -4320,7 +4345,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-06-19",
+      "lastSeen": "2026-06-20",
       "active": true,
       "entries": [
         {
@@ -4522,6 +4547,11 @@
           "date": "2026-06-19",
           "edition": "evening",
           "update": "A six-year-old Ebola patient who went missing from a DRC hospital has been found and is reported to be doing well, according to BBC News. The WHO reported more than 70 healthcare workers in Congo have been infected since the outbreak began. At least 30 deaths were recorded at a single camp in Congo, with Reuters reporting the toll suggests rapid spread in that area. CBS News correspondent Ramy Inocencio reported from Uganda on rising cases and growing global health concerns."
+        },
+        {
+          "date": "2026-06-20",
+          "edition": "morning",
+          "update": "Both new facts describe developments already recorded in prior entries: the Africa CDC director's warning about the outbreak becoming the worst on record was noted on June 16, and the 30 deaths at the Kigonze camp were reported on June 19. No genuinely new information is present."
         }
       ]
     },
@@ -4600,7 +4630,7 @@
       "title": "Iran Nuclear Deal Negotiations and Regional Tensions",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-05-20",
-      "lastSeen": "2026-06-14",
+      "lastSeen": "2026-06-20",
       "active": true,
       "entries": [
         {
@@ -4632,9 +4662,14 @@
           "date": "2026-06-14",
           "edition": "evening",
           "update": "Israel struck the southern suburbs of Beirut, with the Israeli military stating it targeted a Hezbollah command center or infrastructure. Trump publicly condemned the strikes on Truth Social and privately messaged Netanyahu to express disapproval, reportedly telling him he had 'no f***ing judgment,' according to Channel 12 and Axios reporter Barak Ravid. Despite Iran's earlier suspension of talks and the Israeli strikes, Defense Secretary Hegseth stated the U.S.-Iran deal remains 'on track,' and U.S. Ambassador to the UN Mike Waltz said the administration was 'confident' a final agreement would be signed Sunday. Trump declared the deal imminent and had previously stated it could be signed on his 80th birthday Sunday, though Iran's state-run Fars News Agency disputed this timeline, stating Tehran had 'neither finalized nor officially declared its position.' According to Tehran, the framework includes Iran agreeing not to build a nuclear weapon and to reopen the Strait of Hormuz in exchange for approximately $25 billion in frozen assets being released. Congressional reaction was mixed, with Sen. Lankford calling for ratification, Sen. Reed calling it a costly 'birthday gift,' and former Obama Deputy Secretary of State Wendy Sherman describing the deal's proposed 60-day timeframe as 'pretty short.' The U.S.-Iran war is expected to dominate Trump's upcoming G7 trip to France, overshadowing the summit's originally planned agenda."
+        },
+        {
+          "date": "2026-06-20",
+          "edition": "morning",
+          "update": "Lebanon and the Israel-Hezbollah conflict have emerged as a primary obstacle to the broader U.S.-Iran deal, having shifted from a secondary front to a central sticking point, according to the New York Times. The Iran deal's oil sanctions waivers drew criticism from Iran hawks, including some Trump allies, who argued the move surrenders key economic leverage over Tehran."
         }
       ]
     }
   ],
-  "updatedAt": "2026-06-19T21:08:34.188Z"
+  "updatedAt": "2026-06-20T11:06:30.450Z"
 }
