@@ -524,5 +524,63 @@
     "source": "BBC News",
     "categories": [],
     "collectedAt": "2026-06-20T08:30:01.230Z"
+  },
+  {
+    "title": "'People flew from their seats': Passengers describe how collision unfolded",
+    "description": "The East of England Ambulance Service says nearly 90 people were injured, over 30 of them seriously.",
+    "link": "https://www.bbc.com/news/articles/cx2j700l5jlo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 20 Jun 2026 08:36:41 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-20T08:45:01.362Z"
+  },
+  {
+    "title": "Cooler Saturday gives brief relief before heat returns",
+    "description": "After a slightly cooler Saturday, temperatures will rise again, possibly touching 35C by Tuesday with a Met Office amber extreme heat warning set to come into force.",
+    "link": "https://www.bbc.com/weather/articles/cp8lye61jk6o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 20 Jun 2026 08:35:17 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-20T08:45:01.362Z"
+  },
+  {
+    "title": "What We Get Wrong About 'Only Child' Families, According to a Psychologist",
+    "description": "\"Parenting intensity isn’t purely a function of headcount,\" a psychotherapist told Newsweek.",
+    "link": "https://www.newsweek.com/what-we-get-wrong-about-only-child-families-according-to-a-psychologist-12077701",
+    "pubDate": "Sat, 20 Jun 2026 04:30:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-20T08:45:01.362Z"
+  },
+  {
+    "title": "Family, including two daughters, killed in Israeli strikes on Gaza",
+    "description": "Israel has repeatedly violated the October ceasefire brokered by the US.",
+    "link": "https://www.aljazeera.com/news/2026/6/20/family-including-two-daughters-killed-in-israeli-strikes-on-gaza?traffic_source=rss",
+    "pubDate": "Sat, 20 Jun 2026 08:18:01 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-06-20T08:45:01.362Z"
+  },
+  {
+    "title": "World Cup 2026: Netherlands vs Sweden prediction, schedules, key highlights",
+    "description": "World Cup day 10 features Netherlands-Sweden as the USA reach the knockout stage and Brazil move closer to qualification",
+    "link": "https://www.aljazeera.com/sports/2026/6/20/world-cup-2026-netherlands-vs-sweden-prediction-schedules-key-highlights?traffic_source=rss",
+    "pubDate": "Sat, 20 Jun 2026 08:08:52 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-06-20T08:45:01.362Z"
+  },
+  {
+    "title": "Viral German World Cup fan Freddy invited for White House visit as fairy-tale trip across America continues",
+    "description": "\"No one puts on a spectacle like America, and no one is as friendly and as welcoming and as hospitable as the American people.\"",
+    "link": "https://nypost.com/2026/06/20/sports/german-world-cup-soccer-fan-freddy-invited-for-white-house-visit/",
+    "pubDate": "Sat, 20 Jun 2026 04:35:37 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-20T08:45:01.362Z"
   }
 ]
