@@ -494,7 +494,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-20",
+      "lastSeen": "2026-06-21",
       "active": true,
       "entries": [
         {
@@ -901,6 +901,11 @@
           "date": "2026-06-20",
           "edition": "evening",
           "update": "Russia announced it repelled a Ukrainian drone strike targeting an oil refinery in the Tyumen region, which Ukrainian President Zelenskyy separately confirmed as a deliberate strike on energy infrastructure deep inside Russian territory. Russian guided bombs struck an apartment block in Kharkiv, killing at least one person and injuring nine others including a child. Poland revoked its highest state honor from Zelenskyy after he named a military unit after the Ukrainian Insurgent Army, which Poland holds responsible for wartime atrocities against Polish civilians in World War II; Zelenskyy subsequently announced he had returned a state decoration to the Polish president."
+        },
+        {
+          "date": "2026-06-21",
+          "edition": "morning",
+          "update": "Zelenskyy warned of an impending massive Russian attack on Ukraine. A Ukrainian strike killed five people in Crimea, prompting authorities to halt public fuel sales on the peninsula. Zelenskyy renewed his call for Belarus to dismantle relay stations used in attacks on Ukraine."
         }
       ],
       "parentId": null
@@ -1374,7 +1379,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-06-15",
+      "lastSeen": "2026-06-21",
       "active": true,
       "entries": [
         {
@@ -1491,6 +1496,11 @@
           "date": "2026-06-15",
           "edition": "morning",
           "update": "An expert cited by Fox News described Iran's planned July funeral for Supreme Leader Khamenei as a 'target-rich' security gamble, warning the large-scale event represents a high-stakes bet that the US-Iran peace deal will hold."
+        },
+        {
+          "date": "2026-06-21",
+          "edition": "morning",
+          "update": "Following the MOU signing, Iran's leadership publicly claimed victory in its conflict with the United States and Israel, though the Washington Examiner reported that the damage sustained during the war may have fundamentally weakened and transformed the regime."
         }
       ],
       "parentId": null
@@ -1964,7 +1974,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-20",
+      "lastSeen": "2026-06-21",
       "active": true,
       "entries": [
         {
@@ -2641,6 +2651,11 @@
           "date": "2026-06-20",
           "edition": "morning",
           "update": "Trump told Axios in a post-G7 interview that he sees 'no limits' to his power amid the war with Iran and claimed Israel does what he says. Iran's deputy foreign minister stated Iran is 'ready to move forward' on diplomacy but conditioned engagement on the US ensuring Israel ends its attacks on Lebanon. National Review published commentary framing Trump's Iran policy as a 'capitulation,' while Senator Tuberville expressed support for the deal's nuclear progress and at least one Democratic lawmaker criticized it as 'surrender.'"
+        },
+        {
+          "date": "2026-06-21",
+          "edition": "morning",
+          "update": "U.S. and Iranian delegations convened at Burgenstock, Switzerland, for talks mediated by Qatar and Pakistan, with Lebanon atop the agenda on day 114 of the Iran war. Analysts cited by the NY Times assessed that neither the war nor Trump's deal succeeded in eliminating the main threats posed by Iran. Democrats framed the conflict as economically painful with no positive results, while Republicans remained divided, with some expressing relief at falling gas prices."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3530,7 +3545,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-20",
+      "lastSeen": "2026-06-21",
       "active": true,
       "entries": [
         {
@@ -3580,7 +3595,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-06-20",
+      "lastSeen": "2026-06-21",
       "active": true,
       "entries": [
         {
@@ -3772,6 +3787,11 @@
           "date": "2026-06-20",
           "edition": "morning",
           "update": "A 2015 law requiring congressional approval for any Iran nuclear deal has come under scrutiny following the signing of the MOU. The next round of U.S.-Iran talks scheduled for Switzerland was postponed, though Trump's envoy and Iran's Foreign Minister subsequently headed to Switzerland for negotiations per Reuters. Republican operatives expressed optimism about the deal's midterm political benefits, citing falling oil prices and positive market reactions."
+        },
+        {
+          "date": "2026-06-21",
+          "edition": "morning",
+          "update": "Iran announced the closure of the Strait of Hormuz, citing Israeli strikes on Lebanon as justification, though the U.S. military disputed that the closure had actually taken effect, counting 55 merchant ships transiting the strait. Vice President Vance departed for and arrived in Switzerland for resumed peace talks, joined by Steve Witkoff and Jared Kushner, with Switzerland's Burgenstock serving as the venue. The U.S. refused to ease travel restrictions on Iranian World Cup fans and players, with Andrew Giuliani stating Iranian players would not be permitted to extend their stay in the U.S. for group-stage matches including their fixture against Belgium, while the head of the White House World Cup task force described Iran's visa approval as 'pretty amazing.'"
         }
       ]
     },
@@ -4100,7 +4120,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-06-20",
+      "lastSeen": "2026-06-21",
       "active": true,
       "entries": [
         {
@@ -4302,6 +4322,11 @@
           "date": "2026-06-20",
           "edition": "evening",
           "update": "Iran's Revolutionary Guard Corps announced the closure of the Strait of Hormuz on Saturday morning, citing ceasefire violations linked to Israeli strikes on Hezbollah in Lebanon. Vice President JD Vance stated there was no evidence Iran had actually blocked the strait, and U.S. military reports counted 55 merchant ships transiting on Saturday. President Trump posted on Truth Social declaring 'there will be NO TOLLS' in the Strait of Hormuz during or after the 60-day ceasefire period, responding to concerns about whether the MOU would permit Iran to impose fees after negotiations concluded."
+        },
+        {
+          "date": "2026-06-21",
+          "edition": "morning",
+          "update": "Trump stated Iran will not be permitted to charge tolls in the Strait of Hormuz but suggested the U.S. itself might impose such fees, according to Al Jazeera; the MOU reportedly leaves open the possibility of tolls after the initial 60-day period."
         }
       ]
     },
@@ -4711,5 +4736,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-20T21:05:34.911Z"
+  "updatedAt": "2026-06-21T11:05:42.054Z"
 }
