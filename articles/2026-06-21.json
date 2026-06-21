@@ -175,5 +175,56 @@
     "source": "NBC News",
     "categories": [],
     "collectedAt": "2026-06-21T05:45:01.233Z"
+  },
+  {
+    "title": "Meet the record-equalling keeper who helped Curacao make history",
+    "description": "Curacao's Eloy Room makes a record-equalling 15 saves to help his tiny island nation to a first World Cup point against Ecuador.",
+    "link": "https://www.bbc.com/sport/football/articles/cvg58z9gl34o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 21 Jun 2026 04:29:28 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-21T06:00:03.839Z"
+  },
+  {
+    "title": "FAA investigates incident that forced Delta flight to abort landing",
+    "description": "The Federal Aviation Administration is investigating a close call between two commercial flights that forced one to abort landing in order to avoid collision",
+    "link": "https://abcnews.com/US/wireStory/faa-investigates-incident-forced-delta-flight-abort-landing-134068903",
+    "pubDate": "Sun, 21 Jun 2026 01:04:34 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-06-21T06:00:03.839Z"
+  },
+  {
+    "title": "South Africa’s immigration crackdown divides Johannesburg’s inner city",
+    "description": "A government push to curb undocumented employment is exposing the dependence of many small businesses on migrant labour.",
+    "link": "https://www.aljazeera.com/economy/2026/6/21/south-africas-immigration-crackdown-divides-johannesburgs-inner-city?traffic_source=rss",
+    "pubDate": "Sun, 21 Jun 2026 05:42:08 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "gallery"
+    ],
+    "collectedAt": "2026-06-21T06:00:03.839Z"
+  },
+  {
+    "title": "Al Jazeera cameraman Ahmed Wishah killed in targeted Israeli strike",
+    "description": "Al Jazeera cameraman Ahmed Wishah killed in targeted Israeli strike",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/al-jazeera-cameraman-ahmed-wishah-killed-in-targeted-israeli-strike?traffic_source=rss",
+    "pubDate": "Sun, 21 Jun 2026 05:35:36 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-06-21T06:00:03.839Z"
+  },
+  {
+    "title": "FAA investigates close call between 2 aircraft that forced Delta flight to abort landing",
+    "description": "The Federal Aviation Administration is investigating a close call between two commercial flights that were in danger of colliding Saturday morning at Boston Logan International Airport.",
+    "link": "https://nypost.com/2026/06/21/us-news/delta-flight-forced-to-abort-landing-at-boston-logan-international-airport-after-near-miss/",
+    "pubDate": "Sun, 21 Jun 2026 01:52:34 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-21T06:00:03.839Z"
   }
 ]
