@@ -1792,5 +1792,44 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-21T12:15:01.457Z"
+  },
+  {
+    "title": "Keir Starmer Reflects on ‘Political Challenges’ as Pressure to Resign Mounts",
+    "description": "An ally of Keir Starmer’s told the BBC on Sunday that Mr. Starmer was “taking the time to think through what the political realities are today compared to last week.”",
+    "link": "https://www.nytimes.com/2026/06/21/world/europe/keir-starmer-andy-burnham-uk.html",
+    "pubDate": "Sun, 21 Jun 2026 12:13:24 +0000",
+    "source": "NY Times",
+    "categories": [
+      "starmer, keir",
+      "appointments and executive changes",
+      "legislatures and parliaments",
+      "burnham, andrew m (1970- )",
+      "politics and government",
+      "labour party (great britain)",
+      "great britain",
+      "makerfield (england)",
+      "elections"
+    ],
+    "collectedAt": "2026-06-21T12:30:01.407Z"
+  },
+  {
+    "title": "Minnesota bans crypto ATMs after scam surge",
+    "description": "Minnesota is banning crypto ATMs effective Aug. 1, 2026, after scammers reportedly used the machines to drain nearly $1 million from residents.",
+    "link": "https://www.foxnews.com/tech/minnesota-bans-crypto-atms-scam-surge",
+    "pubDate": "Sun, 21 Jun 2026 08:19:19 -0400",
+    "source": "Fox News",
+    "categories": [
+      "9b7af435-316f-59bd-9c0c-c49de877e2b7",
+      "fnc",
+      "fox news",
+      "fox-news/tech/topics/fbi",
+      "fox-news/tech/topics/cybercrime",
+      "fox-news/us/us-regions/midwest/minnesota",
+      "fox-news/us/crime/robbery-theft",
+      "fox-news/us/true-crime",
+      "fox-news/tech",
+      "article"
+    ],
+    "collectedAt": "2026-06-21T12:30:01.407Z"
   }
 ]
