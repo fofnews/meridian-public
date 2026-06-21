@@ -1431,5 +1431,72 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-06-21T11:00:01.180Z"
+  },
+  {
+    "title": "Signs grow that Starmer will set out timetable to resign as mood in government shifts",
+    "description": "The BBC's Henry Zeffman and Nick Eardley on the mood in government as speculation grows about the prime minister's departure.",
+    "link": "https://www.bbc.com/news/articles/cql10wwy69zo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 21 Jun 2026 10:57:56 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-21T11:15:02.290Z"
+  },
+  {
+    "title": "Classic McDonald's Items Americans Want Back",
+    "description": "Whole online communities exist dedicated to bringing back lost McDonald's menu items.",
+    "link": "https://www.newsweek.com/classic-mcdonalds-items-americans-want-back-12089165",
+    "pubDate": "Sun, 21 Jun 2026 07:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-21T11:15:02.290Z"
+  },
+  {
+    "title": "MMA fighter helps nab Florida university student leader in suspected child predator sting",
+    "description": "MMA fighter Dustin Lampros and 561 Predator Catchers allegedly caught a Florida college student who is accused of planning to meet a 13-year-old boy at Home Depot.",
+    "link": "https://www.foxnews.com/us/mma-fighter-helps-nab-florida-university-student-leader-suspected-child-predator-sting",
+    "pubDate": "Sun, 21 Jun 2026 07:00:57 -0400",
+    "source": "Fox News",
+    "categories": [
+      "b3b30d0c-60d5-56a1-be20-8fe8dfefcd82",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/southeast/florida",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/us/crime/sex-crimes",
+      "fox-news/us",
+      "fox-news/crime",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-06-21T11:15:02.290Z"
+  },
+  {
+    "title": "Obama Center visitors say project symbolic of 'Black excellence,' claim scandal-free legacy while Trump ripped",
+    "description": "Visitors at the Barack Obama Presidential Center opening praised his legacy as \"black excellence\" while lamenting divisions under President Trump.",
+    "link": "https://www.foxnews.com/politics/obama-center-visitors-say-project-symbolic-black-excellence-claim-scandal-free-legacy-trump-ripped",
+    "pubDate": "Sun, 21 Jun 2026 07:00:57 -0400",
+    "source": "Fox News",
+    "categories": [
+      "f8f8fa1a-d8a1-537b-b5ba-88ee60e38ca9",
+      "fnc",
+      "fox news",
+      "fox-news/person/barack-obama",
+      "fox-news/us/chicago",
+      "fox-news/person/donald-trump",
+      "fox-news/us/us-regions/midwest/illinois",
+      "fox-news/politics",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-06-21T11:15:02.290Z"
+  },
+  {
+    "title": "Hasbro SVP ‘came from dirt’ but saw American dream magic as his family took in more than 250 foster children over the years",
+    "description": "\"I always say we never had two nickels to rub together, but we figured it out and the house was always full of love,\" Matt Proulx said.",
+    "link": "https://nypost.com/2026/06/21/us-news/hasbro-svp-saw-american-dream-as-family-took-in-250-foster-kids/",
+    "pubDate": "Sun, 21 Jun 2026 07:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-21T11:15:02.290Z"
   }
 ]
