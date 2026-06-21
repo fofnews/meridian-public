@@ -1885,5 +1885,61 @@
     "source": "Newsmax",
     "categories": [],
     "collectedAt": "2026-06-21T12:45:01.230Z"
+  },
+  {
+    "title": "Extreme heat warning extended to four days as 38C forecast in UK",
+    "description": "A Met Office amber weather warning for heat comes into force on Monday and will now last through to Thursday.",
+    "link": "https://www.bbc.com/weather/articles/c932k0lewygo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 21 Jun 2026 12:48:45 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-21T13:00:01.314Z"
+  },
+  {
+    "title": "Henry stars as New Zealand wrap up victory against England in second Test",
+    "description": "New Zealand quick Matt Henry demolishes the England batting attack in the second innings to level the series.",
+    "link": "https://www.aljazeera.com/sports/2026/6/21/henry-stars-as-new-zealand-wrap-up-victory-against-england-in-second-test?traffic_source=rss",
+    "pubDate": "Sun, 21 Jun 2026 12:16:45 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-06-21T13:00:01.314Z"
+  },
+  {
+    "title": "‘We are habitually frugal’: My wife and I have money. How do we help our children without ruining their independence?",
+    "description": "“Partly due to some mental-health issues, they may continue to go through life living paycheck to paycheck, or worse.”",
+    "link": "https://www.marketwatch.com/story/we-are-habitually-frugal-my-wife-and-i-have-money-how-do-we-help-our-children-without-ruining-their-independence-a1e30cec?mod=mw_rss_topstories",
+    "pubDate": "Sun, 21 Jun 2026 12:45:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-06-21T13:00:01.314Z"
+  },
+  {
+    "title": "4 wounded, including 2 teens, in wild shootout at NYC park",
+    "description": "Police said there is currently no known motive and no suspect has been identified.",
+    "link": "https://nypost.com/2026/06/21/us-news/4-wounded-including-2-teens-in-wild-shootout-at-nyc-park/",
+    "pubDate": "Sun, 21 Jun 2026 08:52:22 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-21T13:00:01.314Z"
+  },
+  {
+    "title": "Convicted killer charged in death of girl, 14, after Kristi Noem freed him from prison",
+    "description": "South Dakota Attorney General Marty Jackley said the decision to grant Milk clemency was entirely Noem's call.",
+    "link": "https://nypost.com/2026/06/21/us-news/south-dakota-killer-charged-in-death-of-girl-14-after-kristi-noem-freed-him/",
+    "pubDate": "Sun, 21 Jun 2026 08:51:59 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-21T13:00:01.314Z"
+  },
+  {
+    "title": "Jimmy Kimmel Announces Two-Month ‘Jimmy Kimmel Live!’ Hiatus, Taps Rosie O’Donnell As Guest Host",
+    "description": "The ABC host's summer hiatus comes with a familiar Trump foe.",
+    "link": "https://decider.com/2026/06/21/jimmy-kimmel-live-hiatus-rosie-odonnell-guest-host/",
+    "pubDate": "Sun, 21 Jun 2026 08:47:12 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-21T13:00:01.314Z"
   }
 ]
