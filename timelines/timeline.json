@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-17",
+      "lastSeen": "2026-06-22",
       "active": true,
       "entries": [
         {
@@ -316,6 +316,11 @@
           "date": "2026-06-17",
           "edition": "evening",
           "update": "Congressional staffers from the House Judiciary and House Oversight Committees toured the minimum-security prison camp in Texas where Ghislaine Maxwell is incarcerated, with Reps. Jamie Raskin and Robert Garcia releasing a joint statement describing the facility as a 'park-like campus.'"
+        },
+        {
+          "date": "2026-06-22",
+          "edition": "evening",
+          "update": "Alan Dershowitz is scheduled to appear before the House Oversight Committee on July 20 for a closed-door, transcribed interview about his ties to Jeffrey Epstein, according to sources familiar with the planning."
         }
       ],
       "parentId": null
@@ -324,7 +329,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-20",
+      "lastSeen": "2026-06-22",
       "active": true,
       "entries": [
         {
@@ -486,6 +491,11 @@
           "date": "2026-06-20",
           "edition": "evening",
           "update": "Nuclear talks resumed as U.S. special envoy Steve Witkoff traveled to Switzerland, with Switzerland confirming negotiations are continuing at the Bürgenstock resort while declining to identify participants. Iran's delegation departed for Switzerland after a delay caused by fighting in Lebanon, though Iranian officials publicly downplayed progress toward a deal. Iran warned it would take 'reciprocal action' if the U.S. fails to honor MOU commitments, while Iran's rival political factions entered open conflict over the agreement domestically. Trump defended the MOU on Saturday, attacking critics as 'Radical Left fools and Dumocrats' and slamming Obama after the former president and several lawmakers spoke out against the deal's terms. Nuclear experts warned the framework could leave Tehran with excessive control over its uranium stockpile due to insufficient IAEA inspection requirements. Reuters reported that Iran's Revolutionary Guards stand to gain significantly from their extensive business empire if U.S. sanctions are lifted."
+        },
+        {
+          "date": "2026-06-22",
+          "edition": "evening",
+          "update": "Following two days of talks in Switzerland, Vice President Vance announced on Monday that Iran agreed to allow IAEA nuclear inspectors back into the country and that both sides agreed on a roadmap toward a final deal within 60 days, describing the talks as laying a 'good foundation.' The U.S. Treasury Department issued a 60-day general license temporarily allowing the sale of Iranian oil, with U.S. oil prices falling below $74 a barrel as markets anticipated increased Iranian crude supply. Qatar and Pakistan are serving as mediators in the negotiations."
         }
       ],
       "parentId": null
@@ -916,6 +926,11 @@
           "date": "2026-06-22",
           "edition": "morning",
           "update": "Russian forces have been building up troops around Kostyantynivka, a city considered strategically key to seizing control of the Donbas, with BBC News reporting its fall would position Russian forces to advance on Ukraine's last eastern strongholds. Russian forces are also intensifying bombardment of Sloviansk and Kramatorsk, prompting thousands of civilians to flee those cities."
+        },
+        {
+          "date": "2026-06-22",
+          "edition": "evening",
+          "update": "Ukraine's military struck a Russian satellite communications site in the Moscow region. A Russian drone strike killed three members of the same family, including a 13-year-old boy. Ukraine has also escalated an air campaign targeting Crimea, aiming to isolate the peninsula by disrupting gas supplies, summer camps, and power infrastructure."
         }
       ],
       "parentId": null
@@ -1059,7 +1074,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-20",
+      "lastSeen": "2026-06-22",
       "active": true,
       "entries": [
         {
@@ -1381,6 +1396,11 @@
           "date": "2026-06-20",
           "edition": "evening",
           "update": "CBS News reported that the Iran conflict has strained relations between President Trump and Israeli Prime Minister Benjamin Netanyahu, with Trump appearing to lose patience with Netanyahu during the war."
+        },
+        {
+          "date": "2026-06-22",
+          "edition": "evening",
+          "update": "Despite a ceasefire agreement announced by U.S. officials, Israeli strikes killed at least 20 people in Lebanon the following day, with Israel stating the strikes were in response to over 50 Hezbollah rockets that killed one Israeli soldier. The Washington Post reported Trump faces multiple obstacles including Iran retaining leverage, ongoing Israeli attacks, and backlash from MAGA supporters."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1986,6 +2006,11 @@
           "date": "2026-06-22",
           "edition": "morning",
           "update": "Lebanese conservationist Mona Khalil, credited with creating a sea turtle conservation movement in southern Lebanon, died after an Israeli airstrike struck her beachside home two weeks prior, according to NPR."
+        },
+        {
+          "date": "2026-06-22",
+          "edition": "evening",
+          "update": "Israel and Hezbollah maintained a tense ceasefire for a second consecutive day, with the Israeli military issuing new orders restricting troops to defensive actions only. Turtle conservationist Mona Khalil's death following an Israeli airstrike on her home near Tyre was also reported by Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2934,7 +2959,7 @@
       "id": "hezbollah-us-operations",
       "title": "Hezbollah US Operations",
       "firstSeen": "2026-03-15",
-      "lastSeen": "2026-06-20",
+      "lastSeen": "2026-06-22",
       "active": true,
       "entries": [
         {
@@ -2986,6 +3011,11 @@
           "date": "2026-06-20",
           "edition": "evening",
           "update": "A Newsweek opinion piece argued that a potential U.S.-Iran deal could shield Hezbollah from pressure, warning that Iran may use diplomatic negotiations with the U.S. to protect the Lebanese militant group from further military action."
+        },
+        {
+          "date": "2026-06-22",
+          "edition": "evening",
+          "update": "DHS chief Markwayne Mullin stated that a man connected to Iran's Islamic Revolutionary Guard Corps was stopped attempting to enter the U.S. while posing as the president of Iran's soccer federation, as the Iranian national soccer team was preparing to participate in World Cup activities."
         }
       ],
       "parentId": null
@@ -3827,6 +3857,11 @@
           "date": "2026-06-22",
           "edition": "morning",
           "update": "The first round of US-Iran talks in Switzerland concluded with both sides agreeing on a roadmap toward a final deal within the 60-day negotiating window, with technical negotiations set to continue at Burgenstock. Discussions on day one covered Lebanon, the Strait of Hormuz, and frozen assets, while Iranian negotiators demanded an end to the war in Lebanon as a condition for progress. Qatari and Pakistani mediators described the talks as showing 'encouraging progress,' though negotiators entered a second day after what AP described as a rough start, with the sessions characterized as both 'tense' and 'constructive.' Iranian Foreign Minister Araqchi was filmed briefly embracing Pakistani PM Sharif before leaving a room where Vance and the US delegation were present, with Iran describing the move as a deliberate snub. Former Vice President Mike Pence criticized the deal in a Wall Street Journal op-ed, calling it 'a plan to make a plan.' A CBS/YouGov poll found 37 percent of Americans believe the MOU is better for Tehran, while a separate poll reported by the Washington Examiner found 78 percent support ending the conflict now and 79 percent doubt the deal will produce pro-US leadership in Iran."
+        },
+        {
+          "date": "2026-06-22",
+          "edition": "evening",
+          "update": "Secretary of State Marco Rubio is set to visit the UAE, Kuwait, and Bahrain from June 23–25 for talks focused on Iran and the Strait of Hormuz. Qatar's Prime Minister told Al Jazeera that the Switzerland talks spanned 18 hours and made progress toward a final deal. A CBS News/YouGov poll found 57 percent of Americans believe the U.S.-Iran conflict caused more problems than it solved, and most doubt the U.S. secured a good deal or effectively halted Iran's nuclear program. Fox News host Mark Levin publicly criticized the Trump administration in a 17-minute monologue over its tentative agreement with Iran, while Rep. Nicole Malliotakis stated any deal must include provisions blocking terror funding and Sen. Tim Sheehy called for Rubio to step in if Vance fails to secure a long-term agreement."
         }
       ]
     },
@@ -3835,7 +3870,7 @@
       "title": "US Military Operations Eastern Pacific",
       "parentId": null,
       "firstSeen": "2026-04-27",
-      "lastSeen": "2026-06-20",
+      "lastSeen": "2026-06-22",
       "active": true,
       "entries": [
         {
@@ -3877,6 +3912,11 @@
           "date": "2026-06-20",
           "edition": "evening",
           "update": "The NY Times reported that U.S. military border patrols with Mexico have pushed cartels and smugglers into more remote areas, while analysts raised concerns that the ongoing missions are draining resources, distracting from training, and undermining military readiness, with no end to the mission currently in sight."
+        },
+        {
+          "date": "2026-06-22",
+          "edition": "evening",
+          "update": "U.S. Southern Command carried out a strike on Sunday under 'Operation Southern Spear,' killing two men described as 'narco-terrorists' aboard a vessel in the eastern Pacific Ocean."
         }
       ]
     },
@@ -3885,7 +3925,7 @@
       "title": "Correspondents' Dinner Shooting Investigation",
       "parentId": null,
       "firstSeen": "2026-04-28",
-      "lastSeen": "2026-06-17",
+      "lastSeen": "2026-06-22",
       "active": true,
       "entries": [
         {
@@ -3932,6 +3972,11 @@
           "date": "2026-06-17",
           "edition": "morning",
           "update": "New charges were filed against the man accused of fatally shooting a D.C. National Guard member at the Correspondents' Dinner, with the DOJ now able to seek the death penalty upon conviction. The FBI also revealed in newly unsealed court filings that a separate group allegedly planned to attack a UFC event at the White House using snipers and drones, citing grievances about corruption, the Epstein files, and data centres."
+        },
+        {
+          "date": "2026-06-22",
+          "edition": "evening",
+          "update": "U.S. District Judge Trevor McFadden on Monday denied suspect Cole Allen's motion to disqualify Acting Attorney General Todd Blanche and U.S. Attorney Jeanine Pirro from his criminal case, finding no conflict of interest with the prosecutors' continuation."
         }
       ]
     },
@@ -4372,6 +4417,11 @@
           "date": "2026-06-22",
           "edition": "morning",
           "update": "Iran again shut the Strait of Hormuz, prompting oil prices to rise and Trump to threaten new attacks, according to Reuters. Ship tracking data showed a sharp fall in transits following the closure announcement, with shipping traffic slowing significantly. Two South Korean-operated vessels did pass through the strait following the signing of the MOU, according to Reuters."
+        },
+        {
+          "date": "2026-06-22",
+          "edition": "evening",
+          "update": "Oil tanker traffic through the Strait of Hormuz has picked up, according to Reuters, signaling increased shipping activity through the waterway following recent closures and diplomatic activity."
         }
       ]
     },
@@ -4667,6 +4717,11 @@
           "date": "2026-06-22",
           "edition": "morning",
           "update": "Response efforts to the DRC Ebola outbreak are being further hampered by cuts to USAID under the Trump administration, with no approved medicine or vaccine currently available for the strain, according to CBS News. Border restrictions linked to the outbreak have disrupted trade between Goma and Rwanda, with traders reporting significant losses, according to Al Jazeera."
+        },
+        {
+          "date": "2026-06-22",
+          "edition": "evening",
+          "update": "Ebola cases in the Democratic Republic of Congo have surpassed 1,000, according to Al Jazeera, with overcrowded displacement camps and ongoing violence continuing to complicate containment efforts."
         }
       ]
     },
@@ -4786,5 +4841,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-22T11:07:19.299Z"
+  "updatedAt": "2026-06-22T21:12:12.103Z"
 }
