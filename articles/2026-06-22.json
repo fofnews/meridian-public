@@ -154,5 +154,48 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-22T04:30:01.667Z"
+  },
+  {
+    "title": "Oil Prices Fall as U.S.-Iran Talks Show Signs of Progress",
+    "description": "Oil prices retreated after Iran’s foreign minister said there had been “major progress” toward ending the fighting in Lebanon during the first session of high-level talks.",
+    "link": "https://www.nytimes.com/2026/06/22/business/oil-gas-price-iran.html",
+    "pubDate": "Mon, 22 Jun 2026 04:34:11 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "oil (petroleum) and gasoline",
+      "prices (fares, fees and rates)",
+      "stocks and bonds",
+      "standard & poor's 500-stock index",
+      "iran"
+    ],
+    "collectedAt": "2026-06-22T04:45:01.559Z"
+  },
+  {
+    "title": "Australian Player Goes Viral for Opinion on Controversial Rule at World Cup",
+    "description": "Paraguay's Miguel Almiron became the first player shown a red card for breaking a newly implemented rule. Jackson Irvine reacted.",
+    "link": "https://www.newsweek.com/sports/australian-player-goes-viral-for-opinion-on-controversial-rule-at-world-cup-12101544",
+    "pubDate": "Mon, 22 Jun 2026 00:30:19 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-22T04:45:01.559Z"
+  },
+  {
+    "title": "Cape Verde’s Cinderella run at World Cup stays alive with stunning draw versus Uruguay",
+    "description": "One of the World Cup’s best stories continues to march on after Cape Verde scored its first two goals of the tournament, came from behind in order to draw against Uruguay and gave the small nation a legitimate chance at advancing to the knockout stage.",
+    "link": "https://nypost.com/2026/06/22/sports/cape-verdes-cinderella-run-at-world-cup-stay-alive-with-stunning-draw-versus-uruguay/",
+    "pubDate": "Mon, 22 Jun 2026 00:41:46 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-22T04:45:01.559Z"
+  },
+  {
+    "title": "Francisco Lindor’s possible next step towards Mets return emerges",
+    "description": "Francisco Lindor’s next stop could be Citi Field but perhaps not to rejoin the Mets roster just yet.",
+    "link": "https://nypost.com/2026/06/22/sports/francisco-lindors-possible-next-step-towards-mets-return-emerges/",
+    "pubDate": "Mon, 22 Jun 2026 00:33:49 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-22T04:45:01.559Z"
   }
 ]
