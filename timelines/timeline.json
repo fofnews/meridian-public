@@ -494,7 +494,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-21",
+      "lastSeen": "2026-06-22",
       "active": true,
       "entries": [
         {
@@ -911,6 +911,11 @@
           "date": "2026-06-21",
           "edition": "evening",
           "update": "Russian-occupied Crimea suspended civilian gasoline sales following Ukrainian attacks targeting fuel supplies on the peninsula, extending a halt already reported after a Ukrainian strike killed five people there."
+        },
+        {
+          "date": "2026-06-22",
+          "edition": "morning",
+          "update": "Russian forces have been building up troops around Kostyantynivka, a city considered strategically key to seizing control of the Donbas, with BBC News reporting its fall would position Russian forces to advance on Ukraine's last eastern strongholds. Russian forces are also intensifying bombardment of Sloviansk and Kramatorsk, prompting thousands of civilians to flee those cities."
         }
       ],
       "parentId": null
@@ -1514,7 +1519,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-21",
+      "lastSeen": "2026-06-22",
       "active": true,
       "entries": [
         {
@@ -1976,6 +1981,11 @@
           "date": "2026-06-21",
           "edition": "evening",
           "update": "Israel directed its military to limit its actions in Lebanon following deadly clashes on Friday and Saturday, though Israeli Defense Minister Israel Katz stated soldiers in Lebanon remain authorized to act if threatened. Conservative podcaster Mark Levin publicly criticized the Trump administration over its treatment of Israel, arguing that its openness to diplomacy with Iran was inconsistent with its pressure on a US ally."
+        },
+        {
+          "date": "2026-06-22",
+          "edition": "morning",
+          "update": "Lebanese conservationist Mona Khalil, credited with creating a sea turtle conservation movement in southern Lebanon, died after an Israeli airstrike struck her beachside home two weeks prior, according to NPR."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2984,7 +2994,7 @@
       "id": "cuba-energy-crisis",
       "title": "Cuba Energy Crisis",
       "firstSeen": "2026-03-16",
-      "lastSeen": "2026-06-02",
+      "lastSeen": "2026-06-22",
       "active": true,
       "entries": [
         {
@@ -3171,6 +3181,11 @@
           "date": "2026-06-02",
           "edition": "evening",
           "update": "Nearly a dozen airlines have cancelled or restricted flights to Cuba since the start of the year, with a key European airline stopping direct flights to the island, compounding the country's ongoing economic crisis."
+        },
+        {
+          "date": "2026-06-22",
+          "edition": "morning",
+          "update": "Cuba announced it is ending the academic year early due to a severe fuel shortage, which the government attributes to a U.S. oil blockade, bringing schools across the country to a standstill."
         }
       ],
       "parentId": null
@@ -3555,7 +3570,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-21",
+      "lastSeen": "2026-06-22",
       "active": true,
       "entries": [
         {
@@ -3605,7 +3620,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-06-21",
+      "lastSeen": "2026-06-22",
       "active": true,
       "entries": [
         {
@@ -3807,6 +3822,11 @@
           "date": "2026-06-21",
           "edition": "evening",
           "update": "US-Iran face-to-face talks formally opened in Lucerne, Switzerland, with Vice President Vance meeting with Iranian, Pakistani, and Qatari officials, including Pakistani PM Shehbaz Sharif and Qatari PM Sheikh Mohammed bin Abdulrahman Al-Thani; Qatar and Pakistan described the talks as a 'historic' opportunity for stability. Vance stated the US is willing to 'fundamentally transform' its relationship with Iran as the first round of negotiations under the MOU began. A no-fly zone established for the talks disrupted flights at Zurich airport. Trump simultaneously threatened on Truth Social to 'hit Iran very hard again' if Iran does not restrain its Hezbollah allies in Lebanon, while Sen. Lindsey Graham predicted the diplomacy will fail and that Trump will seize the Strait of Hormuz by force if it does. Democratic critics including Sen. Cory Booker and former Obama NSA Susan Rice publicly condemned the deal, with Booker calling it a capitulation and Rice labeling the MOU 'flimsy' and 'egregious.' Rep. Jason Crow called for answers about the bombing of an Iranian elementary school that occurred on the same day as US and Israeli airstrikes."
+        },
+        {
+          "date": "2026-06-22",
+          "edition": "morning",
+          "update": "The first round of US-Iran talks in Switzerland concluded with both sides agreeing on a roadmap toward a final deal within the 60-day negotiating window, with technical negotiations set to continue at Burgenstock. Discussions on day one covered Lebanon, the Strait of Hormuz, and frozen assets, while Iranian negotiators demanded an end to the war in Lebanon as a condition for progress. Qatari and Pakistani mediators described the talks as showing 'encouraging progress,' though negotiators entered a second day after what AP described as a rough start, with the sessions characterized as both 'tense' and 'constructive.' Iranian Foreign Minister Araqchi was filmed briefly embracing Pakistani PM Sharif before leaving a room where Vance and the US delegation were present, with Iran describing the move as a deliberate snub. Former Vice President Mike Pence criticized the deal in a Wall Street Journal op-ed, calling it 'a plan to make a plan.' A CBS/YouGov poll found 37 percent of Americans believe the MOU is better for Tehran, while a separate poll reported by the Washington Examiner found 78 percent support ending the conflict now and 79 percent doubt the deal will produce pro-US leadership in Iran."
         }
       ]
     },
@@ -4135,7 +4155,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-06-21",
+      "lastSeen": "2026-06-22",
       "active": true,
       "entries": [
         {
@@ -4347,6 +4367,11 @@
           "date": "2026-06-21",
           "edition": "evening",
           "update": "Iran's Tasnim news agency reported the Strait of Hormuz will not reopen until a ceasefire in Lebanon holds and oil waivers are issued. Energy Secretary Chris Wright stated oil flow through the strait is returning 'back towards normal,' citing 67 ship transits on Saturday, while the NY Times reported that the US and Iranian militaries continue to offer conflicting accounts of whether the waterway remains open."
+        },
+        {
+          "date": "2026-06-22",
+          "edition": "morning",
+          "update": "Iran again shut the Strait of Hormuz, prompting oil prices to rise and Trump to threaten new attacks, according to Reuters. Ship tracking data showed a sharp fall in transits following the closure announcement, with shipping traffic slowing significantly. Two South Korean-operated vessels did pass through the strait following the signing of the MOU, according to Reuters."
         }
       ]
     },
@@ -4425,7 +4450,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-06-20",
+      "lastSeen": "2026-06-22",
       "active": true,
       "entries": [
         {
@@ -4637,6 +4662,11 @@
           "date": "2026-06-20",
           "edition": "evening",
           "update": "A 6-month-old girl died from Ebola at an orphanage in eastern Congo as infections rose 38 percent over the past week, with the outbreak now spreading across 32 health zones in the region, according to Newsweek. Health officials continue to battle misinformation about the disease as the crisis worsens."
+        },
+        {
+          "date": "2026-06-22",
+          "edition": "morning",
+          "update": "Response efforts to the DRC Ebola outbreak are being further hampered by cuts to USAID under the Trump administration, with no approved medicine or vaccine currently available for the strain, according to CBS News. Border restrictions linked to the outbreak have disrupted trade between Goma and Rwanda, with traders reporting significant losses, according to Al Jazeera."
         }
       ]
     },
@@ -4756,5 +4786,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-21T21:05:51.258Z"
+  "updatedAt": "2026-06-22T11:07:19.299Z"
 }
