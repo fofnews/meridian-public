@@ -356,5 +356,34 @@
     "source": "Newsweek",
     "categories": [],
     "collectedAt": "2026-06-22T05:30:01.584Z"
+  },
+  {
+    "title": "China targets US rare earth and other firms with export controls - Reuters",
+    "description": "China targets US rare earth and other firms with export controls  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaTFRNGkzaENWU2dUd0hseGlKUjVhT0NlVVAwRUVlcFRPQW5BdEZhWVdwSFQ0ZGJaaTlYcXFScEdkUGFRcWdyUFpyZHhVU1dCdzE0bUk3RHQwdU5TVnZGa25IUGN1X01qRXo4SU9Nd2hKT0pEYVJNM1VLdXdaaHdrSHh6R2MySFp1RTdwc3YxUC1mN2ZrbVBLYkg2LUg1N3BOZk84TGRDX2NQcWM3M1BOSlc0eFZZZw?oc=5",
+    "pubDate": "Mon, 22 Jun 2026 04:33:09 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-06-22T05:45:01.568Z"
+  },
+  {
+    "title": "NYPD cop shoots suspect attempting to flee in stolen vehicle, officials say",
+    "description": "An NYPD officer shot a driver who allegedly struck multiple cops while trying to flee in a stolen Kia Sportage in the Bronx, authorities say.",
+    "link": "https://www.foxnews.com/us/nypd-shoots-stolen-car-driver-bronx",
+    "pubDate": "Mon, 22 Jun 2026 01:24:02 -0400",
+    "source": "Fox News",
+    "categories": [
+      "b38721ca-20b1-530d-be36-539bff52b0d9",
+      "fnc",
+      "fox news",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/us/us-regions/northeast/new-york",
+      "fox-news/auto/make/kia",
+      "fox-news/fox-nation/caught-on-camera",
+      "fox-news/entertainment/genres/crime",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-06-22T05:45:01.568Z"
   }
 ]
