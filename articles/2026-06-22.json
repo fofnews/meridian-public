@@ -566,5 +566,62 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-22T07:15:01.332Z"
+  },
+  {
+    "title": "Confirmed Ebola cases in Congo outbreak top 1,000 with 254 deaths, authorities say",
+    "description": "Authorities say confirmed cases of the Ebola outbreak in eastern Congo have reached 1,003, including 254 deaths",
+    "link": "https://abcnews.com/International/wireStory/confirmed-ebola-cases-congo-outbreak-top-1000-254-134087186",
+    "pubDate": "Mon, 22 Jun 2026 03:22:11 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-06-22T07:30:01.313Z"
+  },
+  {
+    "title": "LAUSD Superintendent Alberto Carvalho resigns amid FBI investigation",
+    "description": "Nearly four months after federal agents raided his home and district headquarters, Superintendent Alberto Carvalho announced his resignation as the head of the Los Angeles Unified School District on Sunday.",
+    "link": "https://www.cbsnews.com/news/lausd-superintendent-alberto-carvalho-resigns-amid-fbi-investigation/",
+    "pubDate": "Mon, 22 Jun 2026 02:42:00 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-06-22T07:30:01.313Z"
+  },
+  {
+    "title": "Up To $5,181 in Social Security Payments Arriving This Week—Who Gets Paid?",
+    "description": "Social Security payments up to $5,181 are set to arrive this week, with delivery staggered across the month by birth date.",
+    "link": "https://www.newsweek.com/5181-social-security-payments-arriving-this-week-who-gets-paid-12101873",
+    "pubDate": "Mon, 22 Jun 2026 03:25:28 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-22T07:30:01.313Z"
+  },
+  {
+    "title": "Asian stocks rise on AI-driven gains, currencies slip on peace deal concerns - Reuters",
+    "description": "Asian stocks rise on AI-driven gains, currencies slip on peace deal concerns  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX1JVSDdiYUdaUVJjOTl5VTI2Nm9SM3ZKTDhtQlVQUHZESFNLcmNJdUN0dWZmSDU1dlktbmx3b2lxb21hNC1EVTc4WTVZSFVtX3MtRDB4bE96VzVaTEpBbWFQNnYySGxwRUt1S2ZMMWxKY3ppMDU1MjVFRzhVdkFzYkI4V2tEenhYYzdVZ0FkcnpOYWhENjlTZHp1SWgxUTl4S2xwQzU4OTBGaGFHZ2Vxb1MzYnpOeFlx?oc=5",
+    "pubDate": "Mon, 22 Jun 2026 05:46:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-06-22T07:30:01.313Z"
+  },
+  {
+    "title": "US military conducts strike on another vessel carrying alleged narco-traffickers, killing 2",
+    "description": "The U.S. military announced a lethal strike on a vessel in the Caribbean allegedly carrying narco-traffickers, killing two people and leaving six survivors.",
+    "link": "https://www.foxnews.com/world/us-military-caribbean-drug-boat-strike",
+    "pubDate": "Mon, 22 Jun 2026 03:19:50 -0400",
+    "source": "Fox News",
+    "categories": [
+      "d4b0ac41-85c5-59bf-a347-5ba48f0198fb",
+      "fnc",
+      "fox news",
+      "fox-news/us/military/marines",
+      "fox-news/us/military/coast-guard",
+      "fox-news/us/crime/drugs",
+      "fox-news/us/terror/counter-terrorism",
+      "fox-news/world",
+      "article"
+    ],
+    "collectedAt": "2026-06-22T07:30:01.313Z"
   }
 ]
