@@ -485,5 +485,50 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-06-22T06:45:01.189Z"
+  },
+  {
+    "title": "Australian police uncover 3 tons of cocaine",
+    "description": "The drug was found on June 19 in plastic tubs buried in bunkers hidden beneath three shipping containers. Two Sydney residents were arrested. They face potential sentences of life in prison.",
+    "link": "https://www.npr.org/2026/06/22/nx-s1-5866207/australian-police-uncover-3-tons-cocaine",
+    "pubDate": "Mon, 22 Jun 2026 02:50:27 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-06-22T07:00:01.203Z"
+  },
+  {
+    "title": "Two Boys Arrested After Deadly School Shooting in the Philippines",
+    "description": "Three people were killed and seven wounded after two ninth graders opened fire on Monday morning in Tacloban City, the police said.",
+    "link": "https://www.nytimes.com/2026/06/22/world/asia/philippines-school-shooting-tacloban.html",
+    "pubDate": "Mon, 22 Jun 2026 06:41:59 +0000",
+    "source": "NY Times",
+    "categories": [
+      "murders, attempted murders and homicides",
+      "mass shootings",
+      "education (k-12)",
+      "assaults",
+      "school shootings and armed attacks",
+      "police",
+      "tacloban (philippines)",
+      "philippines"
+    ],
+    "collectedAt": "2026-06-22T07:00:01.203Z"
+  },
+  {
+    "title": "Trump Calls New York Times Story ‘Treasonous,’ Vows to Add to Lawsuit",
+    "description": "The president called the paper's reporting \"ridiculous.\" The Times called the suit \"an attempt to stifle independent reporting.\"",
+    "link": "https://www.newsweek.com/trump-calls-new-york-times-iran-story-treasonous-vows-add-lawsuit-12101843",
+    "pubDate": "Mon, 22 Jun 2026 02:57:11 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-22T07:00:01.203Z"
+  },
+  {
+    "title": "Israel kills terrorist commander who infiltrated Nir Oz and snatched Yagil Yaakov during Oct. 7 massacre",
+    "description": "Israeli forces on Friday killed a Palestinian Islamic Jihad terrorist who infiltrated Kibbutz Nir Oz during the Oct. 7, 2023 assault and took part in the abduction of Yagil Yaakov.",
+    "link": "https://nypost.com/2026/06/22/world-news/israel-kills-terrorist-commander-who-infiltrated-nir-oz-and-snatched-yagil-yaakov-during-oct-7-massacre/",
+    "pubDate": "Mon, 22 Jun 2026 02:46:44 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-22T07:00:01.203Z"
   }
 ]
