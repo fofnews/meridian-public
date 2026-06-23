@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-22",
+      "lastSeen": "2026-06-23",
       "active": true,
       "entries": [
         {
@@ -321,6 +321,11 @@
           "date": "2026-06-22",
           "edition": "evening",
           "update": "Alan Dershowitz is scheduled to appear before the House Oversight Committee on July 20 for a closed-door, transcribed interview about his ties to Jeffrey Epstein, according to sources familiar with the planning."
+        },
+        {
+          "date": "2026-06-23",
+          "edition": "evening",
+          "update": "Bill Gates testified before a House panel that Jeffrey Epstein attempted to blackmail him by threatening to expose information about Gates' extramarital affairs to compel his continued association with Epstein. The New York Times published a separate investigative piece examining Epstein's childhood and early life, exploring behavioral patterns from his boyhood years."
         }
       ],
       "parentId": null
@@ -501,6 +506,11 @@
           "date": "2026-06-23",
           "edition": "morning",
           "update": "Iran released a contradictory statement through its foreign ministry claiming it made 'no new commitments' on nuclear inspections, directly undercutting Vance's announcement that Iran had agreed to allow IAEA inspectors back into the country. The U.S. announced it will release $12 billion in frozen Iranian funds alongside the oil sanctions waiver, with Al Jazeera citing Iran's commitment to inspections as the stated justification. Iranian President Masoud Pezeshkian traveled to Pakistan following the Switzerland talks. A CBS News poll found most Americans want the war with Iran to end but relatively few believe the U.S. secured the better terms in the agreement. Senate Republicans are scheduled for a tense Wednesday meeting with Trump on Capitol Hill to discuss the emerging Iran deal alongside the SAVE America Act, as Republican lawmakers who opposed the Obama-era deal voice parallel concerns about Trump's framework."
+        },
+        {
+          "date": "2026-06-23",
+          "edition": "evening",
+          "update": "The Senate approved a House-passed war powers resolution directing Trump to halt U.S. armed forces from hostilities against Iran, marking the first time such a measure has passed both chambers since the conflict began; the resolution is characterized as largely symbolic and non-binding, with some Republicans joining Democrats in support. Iran's foreign ministry issued a further denial of IAEA inspection commitments, contradicting both Vance's earlier announcement and Trump's public statement that Iran had agreed to nuclear inspections. Secretary of State Rubio began a three-day Gulf tour covering the UAE, Kuwait, and Bahrain to brief allies on the preliminary U.S.-Iran agreement. Trump posted on Truth Social announcing he had agreed to allow the Strait of Hormuz to remain open with no further naval blockade, though Newsweek reported confusion surrounding the statement; Iran separately insisted on maintaining control of the strait following the Switzerland talks. Traffic through the Strait of Hormuz increased following the U.S.-Iran deal, with 42 ships passing through on Saturday alone, and the UN announced an evacuation plan to move stranded ships through the waterway."
         }
       ],
       "parentId": null
@@ -509,7 +519,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-22",
+      "lastSeen": "2026-06-23",
       "active": true,
       "entries": [
         {
@@ -936,6 +946,11 @@
           "date": "2026-06-22",
           "edition": "evening",
           "update": "Ukraine's military struck a Russian satellite communications site in the Moscow region. A Russian drone strike killed three members of the same family, including a 13-year-old boy. Ukraine has also escalated an air campaign targeting Crimea, aiming to isolate the peninsula by disrupting gas supplies, summer camps, and power infrastructure."
+        },
+        {
+          "date": "2026-06-23",
+          "edition": "evening",
+          "update": "NATO fighter jets intercepted Russian Tu-160 nuclear-capable heavy bombers operating off the coast of Europe. Putin stated that Ukrainian strikes on Russian infrastructure are an attempt to destabilize Russia. Zelenskyy announced he will skip a reconstruction forum in Poland amid an ongoing dispute between the two countries."
         }
       ],
       "parentId": null
@@ -1079,7 +1094,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-22",
+      "lastSeen": "2026-06-23",
       "active": true,
       "entries": [
         {
@@ -1406,6 +1421,11 @@
           "date": "2026-06-22",
           "edition": "evening",
           "update": "Despite a ceasefire agreement announced by U.S. officials, Israeli strikes killed at least 20 people in Lebanon the following day, with Israel stating the strikes were in response to over 50 Hezbollah rockets that killed one Israeli soldier. The Washington Post reported Trump faces multiple obstacles including Iran retaining leverage, ongoing Israeli attacks, and backlash from MAGA supporters."
+        },
+        {
+          "date": "2026-06-23",
+          "edition": "evening",
+          "update": "Former Israeli Prime Minister Naftali Bennett publicly admitted that Israel smuggled Starlink internet systems into Iran."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1544,7 +1564,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-22",
+      "lastSeen": "2026-06-23",
       "active": true,
       "entries": [
         {
@@ -2016,6 +2036,11 @@
           "date": "2026-06-22",
           "edition": "evening",
           "update": "Israel and Hezbollah maintained a tense ceasefire for a second consecutive day, with the Israeli military issuing new orders restricting troops to defensive actions only. Turtle conservationist Mona Khalil's death following an Israeli airstrike on her home near Tyre was also reported by Al Jazeera."
+        },
+        {
+          "date": "2026-06-23",
+          "edition": "evening",
+          "update": "Israeli fire killed two people in Lebanon, prompting Hezbollah to denounce the killings as a ceasefire violation. Israel's military claimed the men were Hezbollah operatives; Hezbollah denied this."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3284,7 +3309,7 @@
       "id": "artemis-moon-mission",
       "title": "Artemis Moon Mission",
       "firstSeen": "2026-03-23",
-      "lastSeen": "2026-06-11",
+      "lastSeen": "2026-06-23",
       "active": true,
       "entries": [
         {
@@ -3491,6 +3516,11 @@
           "date": "2026-06-11",
           "edition": "morning",
           "update": "NASA Administrator Jared Isaacman publicly defended the all-male Artemis III crew selection, acknowledging public reactions ranging from 'disappointment to outrage' over the absence of female astronauts from a mission named after the Greek goddess Artemis."
+        },
+        {
+          "date": "2026-06-23",
+          "edition": "evening",
+          "update": "NASA astronaut and ER doctor Dr. Anil Menon is set to begin an 8-month mission to the International Space Station, during which he will conduct medical and health studies."
         }
       ],
       "parentId": null
@@ -3605,7 +3635,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-22",
+      "lastSeen": "2026-06-23",
       "active": true,
       "entries": [
         {
@@ -4515,7 +4545,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-06-22",
+      "lastSeen": "2026-06-23",
       "active": true,
       "entries": [
         {
@@ -4737,6 +4767,11 @@
           "date": "2026-06-22",
           "edition": "evening",
           "update": "Ebola cases in the Democratic Republic of Congo have surpassed 1,000, according to Al Jazeera, with overcrowded displacement camps and ongoing violence continuing to complicate containment efforts."
+        },
+        {
+          "date": "2026-06-23",
+          "edition": "evening",
+          "update": "Kenya halted construction of a U.S.-backed Ebola quarantine facility at Laikipia Air Base following a court order, amid public outcry over the $13.5 million project. The WHO reported that the Congo Ebola outbreak has recorded the highest number of cases in the first month of any Ebola outbreak on record."
         }
       ]
     },
@@ -4856,5 +4891,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-23T11:09:20.609Z"
+  "updatedAt": "2026-06-23T21:08:12.133Z"
 }
