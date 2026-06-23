@@ -404,5 +404,60 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-23T06:00:01.203Z"
+  },
+  {
+    "title": "What to know about a cold storage warehouse fire in Los Angeles",
+    "description": "Firefighters are still battling a blaze at a massive frozen-food storage facility near downtown Los Angeles six days after the fire started.",
+    "link": "https://www.npr.org/2026/06/23/g-s1-129578/la-warehouse-fire",
+    "pubDate": "Tue, 23 Jun 2026 01:53:46 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-06-23T06:15:01.159Z"
+  },
+  {
+    "title": "Authorities arrest 2 more suspects in planned attack on Trump's UFC show",
+    "description": "Two more people in Missouri and Washington state have been arrested in connection with the planned attack. Law enforcement officials learned about the possible threat on June 10, four days before the event on the White House's South Lawn.",
+    "link": "https://www.npr.org/2026/06/23/nx-s1-5867278/authorities-arrest-suspects-attack-ufc-show",
+    "pubDate": "Tue, 23 Jun 2026 01:53:42 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-06-23T06:15:01.159Z"
+  },
+  {
+    "title": "Late Night Dunks on Trump for Hiring Greenwater Services",
+    "description": "Jimmy Fallon poked fun at the name of the business under fire for turning the Lincoln Memorial Reflecting Pool bright green: “Nailed it.”",
+    "link": "https://www.nytimes.com/2026/06/23/arts/television/late-night-trump-greenwater.html",
+    "pubDate": "Tue, 23 Jun 2026 06:05:35 +0000",
+    "source": "NY Times",
+    "categories": [
+      "television",
+      "fallon, jimmy",
+      "the tonight show (tv program)",
+      "maher, bill",
+      "real time with bill maher (tv program)",
+      "oliver, john",
+      "last week tonight with john oliver (tv program)",
+      "the daily show with jon stewart (tv program)",
+      "stewart, jon"
+    ],
+    "collectedAt": "2026-06-23T06:15:01.159Z"
+  },
+  {
+    "title": "If Ronaldo Doesn't Score Against Uzbekistan, Things Could Get Ugly",
+    "description": "Tomorrow might be one of the biggest games in the career of Portugal's Cristiano Ronaldo. Will he rise to the occasion?",
+    "link": "https://www.newsweek.com/sports/if-ronaldo-doesnt-score-against-uzbekistan-things-could-get-ugly-12107302",
+    "pubDate": "Tue, 23 Jun 2026 02:08:50 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-23T06:15:01.159Z"
+  },
+  {
+    "title": "US waives Iran sanctions, Trump says he will 'do what I have to' if Tehran misbehaves - Reuters",
+    "description": "US waives Iran sanctions, Trump says he will 'do what I have to' if Tehran misbehaves  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcS1OdmpfbHlfTkxhM2xVM0cwWHVDeWhRUTNiY284YkViREtCTWpoSmRJVGpVdFBVWnpaS1BpZEFHcjd1Y2s0VDZ1Z25oOUQzY1FtQ1ZTOGlKRE1JRm1Ma3k0RUZoN0RCTlBjTV84eUtfZ05Cdk1lSzd3aXV3QkJtVklEa3FIYk92MkUzTW5YMm82Wmd0TmpYMEF5dnBnUmU2M0RKamprTjRJcnd1Z292dE1nM1A0ekFiS1M3YVhGZUQ3T0pQ?oc=5",
+    "pubDate": "Tue, 23 Jun 2026 05:02:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-06-23T06:15:01.159Z"
   }
 ]
