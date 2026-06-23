@@ -894,5 +894,41 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-23T08:45:01.099Z"
+  },
+  {
+    "title": "Morning news brief",
+    "description": "U.S. lifts oil sanctions on Iran, Trump visits Pennsylvania to tout economic wins, judge blocks DOJ subpoenas targeting Minnesota officials.",
+    "link": "https://www.npr.org/2026/06/23/nx-s1-5863512/morning-news-brief",
+    "pubDate": "Tue, 23 Jun 2026 04:43:39 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-06-23T09:00:01.300Z"
+  },
+  {
+    "title": "Donald Trump's Approval Rating Sinks to 30% in Worst Poll Yet",
+    "description": "The president’s polling numbers have slipped through 2026, tracking weaker economic confidence and echoing past midterm trends.",
+    "link": "https://www.newsweek.com/donald-trump-approval-rating-worst-poll-12107794",
+    "pubDate": "Tue, 23 Jun 2026 04:53:26 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-23T09:00:01.300Z"
+  },
+  {
+    "title": "One Protein May Prevent Brain Process Linked to Alzheimer's and Parkinson's",
+    "description": "What matters isn’t the condensate—it’s whether tubulin is present, an associate professor told Newsweek.",
+    "link": "https://www.newsweek.com/one-protein-may-prevent-brain-process-linked-to-alzheimers-and-parkinsons-12107557",
+    "pubDate": "Tue, 23 Jun 2026 04:45:49 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-23T09:00:01.300Z"
+  },
+  {
+    "title": "I’m a tech writer—these 21+ Prime Day headphone deals are a sound investment",
+    "description": "We hear these are some of the best deals around.",
+    "link": "https://nypost.com/shopping/best-amazon-prime-day-headphone-deals-2026/",
+    "pubDate": "Tue, 23 Jun 2026 04:45:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-23T09:00:01.300Z"
   }
 ]
