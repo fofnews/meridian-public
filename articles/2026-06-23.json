@@ -504,5 +504,45 @@
     "source": "Newsweek",
     "categories": [],
     "collectedAt": "2026-06-23T06:30:01.033Z"
+  },
+  {
+    "title": "Ticket reseller StubHub ordered to refund customers over hidden fees",
+    "description": "The Competition and Markets Authority said StubHub must refund 50,000 customers and pay a fine.",
+    "link": "https://www.bbc.com/news/articles/cd6enx152jlo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 23 Jun 2026 06:35:10 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-23T06:45:01.354Z"
+  },
+  {
+    "title": "Norway Emerges as a Legit Contender in the Latest World Cup Power Rankings",
+    "description": "The Vikings have converged on North America for the World Cup and are putting on an offensive showcase. Can they go all the way?",
+    "link": "https://www.newsweek.com/sports/norway-emerges-as-a-legit-contender-in-the-latest-world-cup-power-rankings-12107407",
+    "pubDate": "Tue, 23 Jun 2026 02:29:29 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-23T06:45:01.354Z"
+  },
+  {
+    "title": "Ronaldo, Portugal play Uzbekistan in World Cup: prediction and team news",
+    "description": "Cristiano Ronaldo's Portugal face Uzbekistan in a must-win group match, as race for the knockouts intensifies.",
+    "link": "https://www.aljazeera.com/sports/2026/6/23/portugal-vs-uzbekistan-world-cup-ronaldo-prediction-kickoff-team-news?traffic_source=rss",
+    "pubDate": "Tue, 23 Jun 2026 06:30:49 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-06-23T06:45:01.354Z"
+  },
+  {
+    "title": "Algeria rally late to knock Jordan out of World Cup 2026",
+    "description": "Goals from Nadhir Benbouali and Amine Gouiri steer Algeria to a dramatic second-half comeback in Group J.",
+    "link": "https://www.aljazeera.com/sports/2026/6/23/algeria-jordan-score-fifa-world-cup-2026?traffic_source=rss",
+    "pubDate": "Tue, 23 Jun 2026 05:35:18 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-06-23T06:45:01.354Z"
   }
 ]
