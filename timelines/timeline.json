@@ -329,7 +329,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-22",
+      "lastSeen": "2026-06-23",
       "active": true,
       "entries": [
         {
@@ -496,6 +496,11 @@
           "date": "2026-06-22",
           "edition": "evening",
           "update": "Following two days of talks in Switzerland, Vice President Vance announced on Monday that Iran agreed to allow IAEA nuclear inspectors back into the country and that both sides agreed on a roadmap toward a final deal within 60 days, describing the talks as laying a 'good foundation.' The U.S. Treasury Department issued a 60-day general license temporarily allowing the sale of Iranian oil, with U.S. oil prices falling below $74 a barrel as markets anticipated increased Iranian crude supply. Qatar and Pakistan are serving as mediators in the negotiations."
+        },
+        {
+          "date": "2026-06-23",
+          "edition": "morning",
+          "update": "Iran released a contradictory statement through its foreign ministry claiming it made 'no new commitments' on nuclear inspections, directly undercutting Vance's announcement that Iran had agreed to allow IAEA inspectors back into the country. The U.S. announced it will release $12 billion in frozen Iranian funds alongside the oil sanctions waiver, with Al Jazeera citing Iran's commitment to inspections as the stated justification. Iranian President Masoud Pezeshkian traveled to Pakistan following the Switzerland talks. A CBS News poll found most Americans want the war with Iran to end but relatively few believe the U.S. secured the better terms in the agreement. Senate Republicans are scheduled for a tense Wednesday meeting with Trump on Capitol Hill to discuss the emerging Iran deal alongside the SAVE America Act, as Republican lawmakers who opposed the Obama-era deal voice parallel concerns about Trump's framework."
         }
       ],
       "parentId": null
@@ -3650,7 +3655,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-06-22",
+      "lastSeen": "2026-06-23",
       "active": true,
       "entries": [
         {
@@ -3862,6 +3867,11 @@
           "date": "2026-06-22",
           "edition": "evening",
           "update": "Secretary of State Marco Rubio is set to visit the UAE, Kuwait, and Bahrain from June 23–25 for talks focused on Iran and the Strait of Hormuz. Qatar's Prime Minister told Al Jazeera that the Switzerland talks spanned 18 hours and made progress toward a final deal. A CBS News/YouGov poll found 57 percent of Americans believe the U.S.-Iran conflict caused more problems than it solved, and most doubt the U.S. secured a good deal or effectively halted Iran's nuclear program. Fox News host Mark Levin publicly criticized the Trump administration in a 17-minute monologue over its tentative agreement with Iran, while Rep. Nicole Malliotakis stated any deal must include provisions blocking terror funding and Sen. Tim Sheehy called for Rubio to step in if Vance fails to secure a long-term agreement."
+        },
+        {
+          "date": "2026-06-23",
+          "edition": "morning",
+          "update": "Secretary of State Rubio faces the challenge of reassuring Gulf allies who remain wary of the U.S. diplomatic reset with Iran as he begins his visits to the UAE, Kuwait, and Bahrain."
         }
       ]
     },
@@ -4200,7 +4210,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-06-22",
+      "lastSeen": "2026-06-23",
       "active": true,
       "entries": [
         {
@@ -4422,6 +4432,11 @@
           "date": "2026-06-22",
           "edition": "evening",
           "update": "Oil tanker traffic through the Strait of Hormuz has picked up, according to Reuters, signaling increased shipping activity through the waterway following recent closures and diplomatic activity."
+        },
+        {
+          "date": "2026-06-23",
+          "edition": "morning",
+          "update": "Iran's chief negotiator Mohammad Bagher Ghalibaf stated that the U.S. and Iran can work together to reopen the Strait of Hormuz but warned the waterway will never return to its pre-war status. The maritime industry formally urged the White House not to allow Iran to formalize a tolling scheme over the strait, while the NY Times reported Iran is moving to assert control by potentially charging transit fees. Oil prices recovered gains from a recent selloff as markets awaited developments on Hormuz oil flows."
         }
       ]
     },
@@ -4841,5 +4856,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-22T21:12:12.103Z"
+  "updatedAt": "2026-06-23T11:09:20.609Z"
 }
