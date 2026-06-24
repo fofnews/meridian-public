@@ -863,5 +863,46 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-24T07:15:01.276Z"
+  },
+  {
+    "title": "Iran war day 117: Nuclear inspections dispute as US Senate curbs war powers",
+    "description": "Iran and the US clash over nuclear inspections and Hormuz as negotiators push for a final deal within 60 days.",
+    "link": "https://www.aljazeera.com/news/2026/6/24/iran-war-day-117-nuclear-inspections-dispute-as-us-senate-curbs-war-powers?traffic_source=rss",
+    "pubDate": "Wed, 24 Jun 2026 07:04:05 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-06-24T07:30:01.311Z"
+  },
+  {
+    "title": "Paroled felon charged in deadly fire at New York homeless hotel that killed 6",
+    "description": "A parolee faces manslaughter and arson charges over accusations of setting a New York homeless hotel on fire, killing six people, according to police.",
+    "link": "https://www.foxnews.com/us/parolee-charged-deadly-new-york-homeless-hotel-fire",
+    "pubDate": "Wed, 24 Jun 2026 03:20:23 -0400",
+    "source": "Fox News",
+    "categories": [
+      "ec4d95af-8c33-5f22-8f57-74c1f667a7c6",
+      "fnc",
+      "fox news",
+      "fox-news/fires",
+      "fox-news/us/us-regions/northeast/new-york",
+      "fox-news/topic/homeless-crisis",
+      "fox-news/us/crime/homicide",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/crime",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-06-24T07:30:01.311Z"
+  },
+  {
+    "title": "Beloved White Castle location in NYC closes after 85 years",
+    "description": "\"The end of an era.\"",
+    "link": "https://nypost.com/2026/06/24/us-news/beloved-queens-white-castle-closes-after-85-years/",
+    "pubDate": "Wed, 24 Jun 2026 03:16:11 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-24T07:30:01.311Z"
   }
 ]
