@@ -1083,5 +1083,71 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-24T08:30:01.415Z"
+  },
+  {
+    "title": "How hot will it get today?",
+    "description": "Chris Fawkes has the latest forecast, with a rare red weather warning from the Met Office in place for extreme heat for parts of southern England and south Wales.",
+    "link": "https://www.bbc.co.uk/weather/videos/c24yrgqp95mo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 24 Jun 2026 08:26:31 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-24T08:45:01.377Z"
+  },
+  {
+    "title": "The Heat Wave in Europe Is Hitting Records. Here’s What to Know.",
+    "description": "France had its hottest June day ever, with forecasters in Britain predicting that the record for the highest temperature for this time of year was also likely to be broken.",
+    "link": "https://www.nytimes.com/2026/06/24/weather/europe-extreme-heat-wave-warning.html",
+    "pubDate": "Wed, 24 Jun 2026 08:10:53 +0000",
+    "source": "NY Times",
+    "categories": [
+      "heat and heat waves",
+      "weather",
+      "heatstroke",
+      "content type: service",
+      "london (england)",
+      "great britain",
+      "europe"
+    ],
+    "collectedAt": "2026-06-24T08:45:01.377Z"
+  },
+  {
+    "title": "Map Shows States Where Housing Affordability Bill Will Have Biggest Impact",
+    "description": "The bill would seek to increase housing availability and reduce competition from investors in the single-family market.",
+    "link": "https://www.newsweek.com/map-shows-states-where-housing-affordability-bill-will-have-biggest-impact-12108923",
+    "pubDate": "Wed, 24 Jun 2026 04:34:49 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-24T08:45:01.377Z"
+  },
+  {
+    "title": "Ukraine strikes strategic Russian bridge in Crimea",
+    "description": "Ukraine strikes strategic Russian bridge in Crimea",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/ukraine-strikes-strategic-russian-bridge-in-crimea?traffic_source=rss",
+    "pubDate": "Wed, 24 Jun 2026 08:32:05 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-06-24T08:45:01.377Z"
+  },
+  {
+    "title": "Ukraine’s recovery to be deliberated in Poland amid Kyiv-Warsaw spat",
+    "description": "Amid a brewing row that tests Poland's alliance with Ukraine, President Zelenskyy will skip a key conference.",
+    "link": "https://www.aljazeera.com/news/2026/6/24/ukraines-recovery-to-be-deliberated-in-poland-amid-kyiv-warsaw-spat?traffic_source=rss",
+    "pubDate": "Wed, 24 Jun 2026 08:27:43 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-06-24T08:45:01.377Z"
+  },
+  {
+    "title": "China says it has a right to target people overseas with new ethnic unity law - Reuters",
+    "description": "China says it has a right to target people overseas with new ethnic unity law  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQmNUWnFjQnYyeTFsUTdyWjY5VjBlWF9zZXVrRUtKU0pjcnFocVdUcnJrWU1sRTZxTldCSWl0b3d5alBoRzhwMWpvdTBVWWpwNzhtY2dNWFdzTnZadm9CVS1td243SmJSNzdveFdUcVRJcVI2OHVZazNsZTJBVWR2NnlSckxacTBqU2dBOTZmX3FXX0V4bDk3b2Jxdi1YVXlKdGpfMFd0SEgwOGZPa1pzaG10NWlLSnpPaVVtUg?oc=5",
+    "pubDate": "Wed, 24 Jun 2026 06:19:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-06-24T08:45:01.377Z"
   }
 ]
