@@ -334,7 +334,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-23",
+      "lastSeen": "2026-06-24",
       "active": true,
       "entries": [
         {
@@ -511,6 +511,11 @@
           "date": "2026-06-23",
           "edition": "evening",
           "update": "The Senate approved a House-passed war powers resolution directing Trump to halt U.S. armed forces from hostilities against Iran, marking the first time such a measure has passed both chambers since the conflict began; the resolution is characterized as largely symbolic and non-binding, with some Republicans joining Democrats in support. Iran's foreign ministry issued a further denial of IAEA inspection commitments, contradicting both Vance's earlier announcement and Trump's public statement that Iran had agreed to nuclear inspections. Secretary of State Rubio began a three-day Gulf tour covering the UAE, Kuwait, and Bahrain to brief allies on the preliminary U.S.-Iran agreement. Trump posted on Truth Social announcing he had agreed to allow the Strait of Hormuz to remain open with no further naval blockade, though Newsweek reported confusion surrounding the statement; Iran separately insisted on maintaining control of the strait following the Switzerland talks. Traffic through the Strait of Hormuz increased following the U.S.-Iran deal, with 42 ships passing through on Saturday alone, and the UN announced an evacuation plan to move stranded ships through the waterway."
+        },
+        {
+          "date": "2026-06-24",
+          "edition": "morning",
+          "update": "The IAEA head signaled that nuclear inspectors would visit Iranian enrichment sites, describing it as a key component of the interim deal, even as Iran's government continued to deny making new commitments on inspections. Secretary of State Rubio arrived in Abu Dhabi to brief Gulf allies on the U.S.-Iran memorandum of understanding, describing efforts to secure allied support as 'a work in progress.' The White House accused mainstream media of 'parroting' Iranian regime propaganda amid ongoing public disputes over the deal's terms. An Economist/YouGov poll found 48 percent of Republicans oppose the $300 billion reconstruction fund for Iran included in Trump's plan, with only 23 percent in support. Trump allies separately moved to reassure Israeli officials over rising tensions linked to the nuclear negotiations, according to Al Jazeera."
         }
       ],
       "parentId": null
@@ -2049,7 +2054,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-21",
+      "lastSeen": "2026-06-24",
       "active": true,
       "entries": [
         {
@@ -2731,6 +2736,11 @@
           "date": "2026-06-21",
           "edition": "morning",
           "update": "U.S. and Iranian delegations convened at Burgenstock, Switzerland, for talks mediated by Qatar and Pakistan, with Lebanon atop the agenda on day 114 of the Iran war. Analysts cited by the NY Times assessed that neither the war nor Trump's deal succeeded in eliminating the main threats posed by Iran. Democrats framed the conflict as economically painful with no positive results, while Republicans remained divided, with some expressing relief at falling gas prices."
+        },
+        {
+          "date": "2026-06-24",
+          "edition": "morning",
+          "update": "The Senate passed a war powers resolution directing Trump to end U.S. military involvement in the Iran conflict, marking the first time the Senate has approved such a measure; four Republican senators voted in favor of the largely symbolic, non-binding resolution. A Reuters/Ipsos poll of 1,262 U.S. adults found only 24 percent of Americans believe the war with Iran was worth its costs. The U.S. and Iran issued conflicting public statements over nuclear inspections and the status of the Strait of Hormuz as negotiators continued pushing toward a final comprehensive deal. Trump promoted falling oil and gas prices tied to the preliminary peace agreement during a campaign swing in Pennsylvania."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3309,7 +3319,7 @@
       "id": "artemis-moon-mission",
       "title": "Artemis Moon Mission",
       "firstSeen": "2026-03-23",
-      "lastSeen": "2026-06-23",
+      "lastSeen": "2026-06-24",
       "active": true,
       "entries": [
         {
@@ -3521,6 +3531,11 @@
           "date": "2026-06-23",
           "edition": "evening",
           "update": "NASA astronaut and ER doctor Dr. Anil Menon is set to begin an 8-month mission to the International Space Station, during which he will conduct medical and health studies."
+        },
+        {
+          "date": "2026-06-24",
+          "edition": "morning",
+          "update": "NASA announced that astronauts preparing for the 2028 lunar landing will wear new spacesuits co-designed with Italian fashion house Prada, featuring improved safety systems and enhanced mobility."
         }
       ],
       "parentId": null
@@ -3635,7 +3650,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-23",
+      "lastSeen": "2026-06-24",
       "active": true,
       "entries": [
         {
@@ -4545,7 +4560,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-06-23",
+      "lastSeen": "2026-06-24",
       "active": true,
       "entries": [
         {
@@ -4772,6 +4787,11 @@
           "date": "2026-06-23",
           "edition": "evening",
           "update": "Kenya halted construction of a U.S.-backed Ebola quarantine facility at Laikipia Air Base following a court order, amid public outcry over the $13.5 million project. The WHO reported that the Congo Ebola outbreak has recorded the highest number of cases in the first month of any Ebola outbreak on record."
+        },
+        {
+          "date": "2026-06-24",
+          "edition": "morning",
+          "update": "France confirmed its first-ever Ebola case in a doctor who had returned from the Democratic Republic of Congo, directly linking the infection to the ongoing DRC outbreak. In the DRC, the gold-mining town of Mongbwalu, identified as an Ebola epicenter, is facing containment obstacles including a shortage of supplies and widespread resident skepticism about the virus's existence, according to NPR."
         }
       ]
     },
@@ -4796,7 +4816,7 @@
       "parentId": null,
       "firstSeen": "2026-05-19",
       "lastSeen": "2026-05-25",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-05-19",
@@ -4891,5 +4911,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-23T21:08:12.133Z"
+  "updatedAt": "2026-06-24T11:08:52.032Z"
 }
