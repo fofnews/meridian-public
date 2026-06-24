@@ -516,6 +516,11 @@
           "date": "2026-06-24",
           "edition": "morning",
           "update": "The IAEA head signaled that nuclear inspectors would visit Iranian enrichment sites, describing it as a key component of the interim deal, even as Iran's government continued to deny making new commitments on inspections. Secretary of State Rubio arrived in Abu Dhabi to brief Gulf allies on the U.S.-Iran memorandum of understanding, describing efforts to secure allied support as 'a work in progress.' The White House accused mainstream media of 'parroting' Iranian regime propaganda amid ongoing public disputes over the deal's terms. An Economist/YouGov poll found 48 percent of Republicans oppose the $300 billion reconstruction fund for Iran included in Trump's plan, with only 23 percent in support. Trump allies separately moved to reassure Israeli officials over rising tensions linked to the nuclear negotiations, according to Al Jazeera."
+        },
+        {
+          "date": "2026-06-24",
+          "edition": "evening",
+          "update": "Trump and Sen. Bill Cassidy (R-La.) had a loud, intense confrontation during a closed-door Capitol meeting on Wednesday. The U.S. Department of Homeland Security announced it is easing travel restrictions for Iran's World Cup team, allowing the squad to enter the country two days before their next match."
         }
       ],
       "parentId": null
@@ -524,7 +529,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-23",
+      "lastSeen": "2026-06-24",
       "active": true,
       "entries": [
         {
@@ -956,6 +961,11 @@
           "date": "2026-06-23",
           "edition": "evening",
           "update": "NATO fighter jets intercepted Russian Tu-160 nuclear-capable heavy bombers operating off the coast of Europe. Putin stated that Ukrainian strikes on Russian infrastructure are an attempt to destabilize Russia. Zelenskyy announced he will skip a reconstruction forum in Poland amid an ongoing dispute between the two countries."
+        },
+        {
+          "date": "2026-06-24",
+          "edition": "evening",
+          "update": "Russian Foreign Minister Lavrov stated that Russia wants to determine whether Trump has shifted his position on the Ukraine war following the G7 summit, signaling Moscow's uncertainty about the current U.S. stance."
         }
       ],
       "parentId": null
@@ -1099,7 +1109,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-23",
+      "lastSeen": "2026-06-24",
       "active": true,
       "entries": [
         {
@@ -1431,6 +1441,11 @@
           "date": "2026-06-23",
           "edition": "evening",
           "update": "Former Israeli Prime Minister Naftali Bennett publicly admitted that Israel smuggled Starlink internet systems into Iran."
+        },
+        {
+          "date": "2026-06-24",
+          "edition": "evening",
+          "update": "Israeli attacks on Gaza and the occupied West Bank killed at least two people, including a 12-year-old child killed in al-Mawasi, according to health officials at Nasser Medical Complex."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1569,7 +1584,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-23",
+      "lastSeen": "2026-06-24",
       "active": true,
       "entries": [
         {
@@ -2046,6 +2061,11 @@
           "date": "2026-06-23",
           "edition": "evening",
           "update": "Israeli fire killed two people in Lebanon, prompting Hezbollah to denounce the killings as a ceasefire violation. Israel's military claimed the men were Hezbollah operatives; Hezbollah denied this."
+        },
+        {
+          "date": "2026-06-24",
+          "edition": "evening",
+          "update": "Israeli Defense Minister Israel Katz publicly stated that the IDF will not withdraw from southern Lebanon even if the United States demands it, marking the first time a top Israeli official has openly declared defiance of U.S. directives on Lebanon withdrawal."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2741,6 +2761,11 @@
           "date": "2026-06-24",
           "edition": "morning",
           "update": "The Senate passed a war powers resolution directing Trump to end U.S. military involvement in the Iran conflict, marking the first time the Senate has approved such a measure; four Republican senators voted in favor of the largely symbolic, non-binding resolution. A Reuters/Ipsos poll of 1,262 U.S. adults found only 24 percent of Americans believe the war with Iran was worth its costs. The U.S. and Iran issued conflicting public statements over nuclear inspections and the status of the Strait of Hormuz as negotiators continued pushing toward a final comprehensive deal. Trump promoted falling oil and gas prices tied to the preliminary peace agreement during a campaign swing in Pennsylvania."
+        },
+        {
+          "date": "2026-06-24",
+          "edition": "evening",
+          "update": "Survivors and families of the Iranian drone strike in Kuwait on March 1 accused the Pentagon of downplaying injuries from the attack, with one wounded soldier telling CBS News he 'absolutely' believes the Army and Pentagon have minimized the incident."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3544,7 +3569,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-06-19",
+      "lastSeen": "2026-06-24",
       "active": true,
       "entries": [
         {
@@ -3616,6 +3641,11 @@
           "date": "2026-06-19",
           "edition": "evening",
           "update": "At the G7 summit, Trump told South Korean President that 'the time had come' to focus on North Korea's nuclear issue, signaling a potential new diplomatic approach, according to Al Jazeera."
+        },
+        {
+          "date": "2026-06-24",
+          "edition": "evening",
+          "update": "Kim Jong Un commissioned a new warship and vowed to equip North Korea's navy with nuclear weapons, signaling a strategic shift in the country's military posture, according to Al Jazeera."
         }
       ],
       "parentId": null
@@ -3700,7 +3730,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-06-23",
+      "lastSeen": "2026-06-24",
       "active": true,
       "entries": [
         {
@@ -3917,6 +3947,11 @@
           "date": "2026-06-23",
           "edition": "morning",
           "update": "Secretary of State Rubio faces the challenge of reassuring Gulf allies who remain wary of the U.S. diplomatic reset with Iran as he begins his visits to the UAE, Kuwait, and Bahrain."
+        },
+        {
+          "date": "2026-06-24",
+          "edition": "evening",
+          "update": "A top Iranian official declared the interim nuclear agreement constitutes a 'declaration of U.S. defeat,' prompting President Trump to publicly accuse Iranian negotiators of lying about the deal. The NY Times reported that Trump's recasting of the Iranian government in more favorable terms appears to reflect a broader shift within the Republican Party, not just Trump himself. Pakistan is positioning itself to gain strategic benefits from facilitating the negotiations, including expanded trade, energy access, and increased regional influence, according to Al Jazeera."
         }
       ]
     },
@@ -4255,7 +4290,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-06-23",
+      "lastSeen": "2026-06-24",
       "active": true,
       "entries": [
         {
@@ -4482,6 +4517,11 @@
           "date": "2026-06-23",
           "edition": "morning",
           "update": "Iran's chief negotiator Mohammad Bagher Ghalibaf stated that the U.S. and Iran can work together to reopen the Strait of Hormuz but warned the waterway will never return to its pre-war status. The maritime industry formally urged the White House not to allow Iran to formalize a tolling scheme over the strait, while the NY Times reported Iran is moving to assert control by potentially charging transit fees. Oil prices recovered gains from a recent selloff as markets awaited developments on Hormuz oil flows."
+        },
+        {
+          "date": "2026-06-24",
+          "edition": "evening",
+          "update": "Japan is considering deploying its navy to assist with demining the Strait of Hormuz following the U.S.-Iran ceasefire, according to Al Jazeera. Oil tankers are commanding up to $280,000 per day to transit the strait and enter the Persian Gulf, reflecting the elevated risk premium for the route, according to the Wall Street Journal. Ships have begun sailing through the waterway under the UN-organized evacuation scheme, according to a UN agency."
         }
       ]
     },
@@ -4911,5 +4951,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-24T11:08:52.032Z"
+  "updatedAt": "2026-06-24T21:08:56.200Z"
 }
