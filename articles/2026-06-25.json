@@ -266,5 +266,61 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-25T05:00:01.649Z"
+  },
+  {
+    "title": "Reeves backs Burnham to become next prime minister",
+    "description": "The chancellor throws her support behind the MP for Makerfield despite reports he could demote her if he becomes PM.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgm9mj262qo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 25 Jun 2026 05:00:07 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-25T05:15:01.172Z"
+  },
+  {
+    "title": "South Africa's World Cup Group Stage Report Card: A Comeback for the Ages",
+    "description": "South Africa just pulled off one of the most miraculous group stage comebacks in World Cup history in Monterrey, Mexico.",
+    "link": "https://www.newsweek.com/sports/south-africas-world-cup-group-stage-report-card-a-comeback-for-the-ages-12117883",
+    "pubDate": "Thu, 25 Jun 2026 01:13:13 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-25T05:15:01.172Z"
+  },
+  {
+    "title": "Texas A&M: 3 Games That Will Define 2026 Season",
+    "description": "Texas A&M has three challenging SEC games that will determine if head coach Mike Elko takes the program back to the CFP.",
+    "link": "https://www.newsweek.com/sports/ncaa/texas-am-3-games-that-will-define-2026-season-12117678",
+    "pubDate": "Thu, 25 Jun 2026 01:07:30 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-25T05:15:01.172Z"
+  },
+  {
+    "title": "Lions’ Terrion Arnold arrested, faces possibility of life in prison in armed robbery case",
+    "description": "Lions' Terrion Arnold was arrested and booked on four counts of kidnapping and four counts of armed robbery, and is facing up to life in prison if convicted.",
+    "link": "https://nypost.com/2026/06/25/sports/lions-terrion-arnold-faces-possibility-of-life-in-prison/",
+    "pubDate": "Thu, 25 Jun 2026 01:11:06 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-25T05:15:01.172Z"
+  },
+  {
+    "title": "GOP senators switch votes to reject measure curbing Trump’s war powers",
+    "description": "The Senate reversed course late Wednesday night from a day earlier on a resolution aimed at limiting President Donald Trump’s war powers in the Iran conflict, giving the president a legislative victory over congressional dissenters on how his administration is handling the military conflict with Iran. The measure was initially introduced by Sen. Tim Kaine […]",
+    "link": "https://www.washingtonexaminer.com/news/4624383/gop-senators-switch-votes-to-reject-measure-curbing-trumps-war-powers/",
+    "pubDate": "Thu, 25 Jun 2026 05:00:02 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "senate",
+      "bill cassidy",
+      "congress",
+      "donald trump",
+      "iran",
+      "president donald trump",
+      "rand paul",
+      "republicans",
+      "tim kaine"
+    ],
+    "collectedAt": "2026-06-25T05:15:01.172Z"
   }
 ]
