@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-23",
+      "lastSeen": "2026-06-25",
       "active": true,
       "entries": [
         {
@@ -326,6 +326,11 @@
           "date": "2026-06-23",
           "edition": "evening",
           "update": "Bill Gates testified before a House panel that Jeffrey Epstein attempted to blackmail him by threatening to expose information about Gates' extramarital affairs to compel his continued association with Epstein. The New York Times published a separate investigative piece examining Epstein's childhood and early life, exploring behavioral patterns from his boyhood years."
+        },
+        {
+          "date": "2026-06-25",
+          "edition": "morning",
+          "update": "A transcript of Bill Gates' closed-door House Oversight Committee testimony was released publicly, confirming his account that Epstein 'contemplated blackmailing' him using information about his extramarital affairs. Ghislaine Maxwell filed new legal challenges to her 2021 sex-trafficking conviction, arguing that recently released Epstein files expose violations that invalidate her conviction."
         }
       ],
       "parentId": null
@@ -2074,7 +2079,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-24",
+      "lastSeen": "2026-06-25",
       "active": true,
       "entries": [
         {
@@ -2766,6 +2771,11 @@
           "date": "2026-06-24",
           "edition": "evening",
           "update": "Survivors and families of the Iranian drone strike in Kuwait on March 1 accused the Pentagon of downplaying injuries from the attack, with one wounded soldier telling CBS News he 'absolutely' believes the Army and Pentagon have minimized the incident."
+        },
+        {
+          "date": "2026-06-25",
+          "edition": "morning",
+          "update": "The Senate voted late Wednesday night to reject the war powers resolution it had passed the prior day, after key Republican senators switched their votes following a heated closed-door meeting with President Trump at the Capitol. Trump engaged in a lengthy and angry exchange with Sen. Bill Cassidy of Louisiana and other Republicans who had voted to limit his war powers, with Cassidy acknowledging he lost his temper and Trump raising his voice; Trump afterward publicly characterized the party as 'really well unified.' The White House formally requested $87.6 billion in supplemental funding from Congress in a letter from OMB Director Russ Vought to House Speaker Mike Johnson, with approximately $67 billion designated for the Pentagon to cover Iran war costs, alongside farm aid and Ebola response funding, though the package faces significant congressional opposition. Trump stated he does not believe the U.S. is liable for a missile strike on an Iranian girls' school that reportedly killed hundreds of children, adding that it may never be known who was responsible. Trump also criticized NATO for insufficient participation in the Iran war during a conversation with Secretary General Mark Rutte, who cited Alliance use of U.S. bases in Europe as evidence of support; Rutte visited the White House ahead of the upcoming NATO summit with Iran among the key topics. Iran's football team trip to Seattle was delayed after player Mehdi Taremi and an assistant coach were held up by U.S. officials at the airport, and fertilizer prices declined following the Strait of Hormuz reopening, though farmers are not expected to see meaningful relief for several months."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3680,7 +3690,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-24",
+      "lastSeen": "2026-06-25",
       "active": true,
       "entries": [
         {
@@ -3707,6 +3717,11 @@
           "date": "2026-06-10",
           "edition": "morning",
           "update": "Asian stocks fell and oil prices rose as Middle East tensions escalated. May inflation is expected to have increased, driven in part by rising prices linked to the Iran war, with wage growth continuing to lag inflation, according to NBC News."
+        },
+        {
+          "date": "2026-06-25",
+          "edition": "morning",
+          "update": "A Syrian diplomat stated that President Ahmad al-Sharaa is seeking a 'balance' between U.S. demands and what Damascus can offer, as Syria navigates pressures from Washington and its regional allies. National Review published an analysis warning that recurring Lebanon crises driven by Iranian provocations are increasing the likelihood of a return to armed conflict."
         }
       ]
     },
@@ -3730,7 +3745,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-06-24",
+      "lastSeen": "2026-06-25",
       "active": true,
       "entries": [
         {
@@ -3952,6 +3967,11 @@
           "date": "2026-06-24",
           "edition": "evening",
           "update": "A top Iranian official declared the interim nuclear agreement constitutes a 'declaration of U.S. defeat,' prompting President Trump to publicly accuse Iranian negotiators of lying about the deal. The NY Times reported that Trump's recasting of the Iranian government in more favorable terms appears to reflect a broader shift within the Republican Party, not just Trump himself. Pakistan is positioning itself to gain strategic benefits from facilitating the negotiations, including expanded trade, energy access, and increased regional influence, according to Al Jazeera."
+        },
+        {
+          "date": "2026-06-25",
+          "edition": "morning",
+          "update": "Secretary of State Marco Rubio visited Bahrain to seek Gulf state backing for a potential deal with Iran."
         }
       ]
     },
@@ -4290,7 +4310,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-06-24",
+      "lastSeen": "2026-06-25",
       "active": true,
       "entries": [
         {
@@ -4522,6 +4542,11 @@
           "date": "2026-06-24",
           "edition": "evening",
           "update": "Japan is considering deploying its navy to assist with demining the Strait of Hormuz following the U.S.-Iran ceasefire, according to Al Jazeera. Oil tankers are commanding up to $280,000 per day to transit the strait and enter the Persian Gulf, reflecting the elevated risk premium for the route, according to the Wall Street Journal. Ships have begun sailing through the waterway under the UN-organized evacuation scheme, according to a UN agency."
+        },
+        {
+          "date": "2026-06-25",
+          "edition": "morning",
+          "update": "Oil prices fell toward pre-war levels as tankers resumed movement through the Strait of Hormuz, reversing gains recorded since the conflict with Iran began in February. Analysts and policymakers are identifying strategies to reduce global economic dependence on the strait, including expanded oil stockpiles, additional pipeline infrastructure, and other supply diversification measures."
         }
       ]
     },
@@ -4951,5 +4976,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-24T21:08:56.200Z"
+  "updatedAt": "2026-06-25T11:07:08.931Z"
 }
