@@ -988,5 +988,73 @@
     "source": "Wall Street Journal",
     "categories": [],
     "collectedAt": "2026-06-25T08:45:01.251Z"
+  },
+  {
+    "title": "Find out which university degrees could earn you most across your lifetime",
+    "description": "New data suggests which university degrees have the highest and lowest financial returns over a lifetime.",
+    "link": "https://www.bbc.co.uk/news/articles/c892dv0qy2jo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 25 Jun 2026 08:32:12 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-25T09:00:01.425Z"
+  },
+  {
+    "title": "How hot will it be today?",
+    "description": "Today's weather forecast will be sunny and hot for many, with June temperature records set to be broken again.",
+    "link": "https://www.bbc.co.uk/news/videos/cn947g4g11no?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 25 Jun 2026 08:36:31 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-25T09:00:01.425Z"
+  },
+  {
+    "title": "Morning news brief",
+    "description": "At least 32 killed and 700 injured after two earthquakes hit Venezuela, Trump and Senate GOP face off in tense meeting, a top general is expected to retire, joining a number of Pentagon shakeups.",
+    "link": "https://www.npr.org/2026/06/25/nx-s1-5869201/morning-news-brief",
+    "pubDate": "Thu, 25 Jun 2026 04:46:16 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-06-25T09:00:01.425Z"
+  },
+  {
+    "title": "Earthquakes Strike Venezuela",
+    "description": "Two powerful quakes shook the South American country, causing death and destruction.",
+    "link": "https://www.nytimes.com/2026/06/24/world/americas/earthquakes-venezuela-photos.html",
+    "pubDate": "Thu, 25 Jun 2026 08:57:07 +0000",
+    "source": "NY Times",
+    "categories": [
+      "earthquakes",
+      "united states geological survey",
+      "caracas (venezuela)",
+      "venezuela"
+    ],
+    "collectedAt": "2026-06-25T09:00:01.425Z"
+  },
+  {
+    "title": "Memo Ochoa se lleva la noche en triunfo de México | El Pelotazo",
+    "description": "La Selección de México goleó a Chequia y termina perfecto la fase de grupos, sin embargo, fue el portero quien vivió una jornada más que emocionante cuando el estadio Ciudad de México le entregó su corazón",
+    "link": "https://www.telemundo.com/deportes/el-pelotazo/video/memo-ochoa-se-lleva-la-noche-en-triunfo-de-mexico-el-pelotazo-tmvo13197268",
+    "pubDate": "Thu, 25 Jun 2026 06:20:58 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-06-25T09:00:01.425Z"
+  },
+  {
+    "title": "Younger Generations May Be Aging Faster—It Could Be Driving Cancer Surge",
+    "description": "New research suggests millennials and Gen Z may face higher cancer risks than previous generations.",
+    "link": "https://www.newsweek.com/younger-generations-may-be-aging-faster-it-could-be-driving-cancer-surge-12118303",
+    "pubDate": "Thu, 25 Jun 2026 04:49:57 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-25T09:00:01.425Z"
+  },
+  {
+    "title": "Donald Trump's Approval Rating Hits New Low With Gen Z Voters",
+    "description": "The president's net approval among voters aged 18–29 has seen a 50-point collapse since the start of his second term.",
+    "link": "https://www.newsweek.com/donald-trump-approval-rating-gen-z-voters-poll-12118099",
+    "pubDate": "Thu, 25 Jun 2026 04:48:24 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-25T09:00:01.425Z"
   }
 ]
