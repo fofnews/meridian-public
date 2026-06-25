@@ -534,7 +534,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-24",
+      "lastSeen": "2026-06-25",
       "active": true,
       "entries": [
         {
@@ -971,6 +971,11 @@
           "date": "2026-06-24",
           "edition": "evening",
           "update": "Russian Foreign Minister Lavrov stated that Russia wants to determine whether Trump has shifted his position on the Ukraine war following the G7 summit, signaling Moscow's uncertainty about the current U.S. stance."
+        },
+        {
+          "date": "2026-06-25",
+          "edition": "evening",
+          "update": "Ukrainian defense company Fire Point announced plans to produce a ballistic missile interceptor by the end of 2026, according to Reuters."
         }
       ],
       "parentId": null
@@ -1114,7 +1119,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-24",
+      "lastSeen": "2026-06-25",
       "active": true,
       "entries": [
         {
@@ -1451,6 +1456,11 @@
           "date": "2026-06-24",
           "edition": "evening",
           "update": "Israeli attacks on Gaza and the occupied West Bank killed at least two people, including a 12-year-old child killed in al-Mawasi, according to health officials at Nasser Medical Complex."
+        },
+        {
+          "date": "2026-06-25",
+          "edition": "evening",
+          "update": "NATO Secretary General Mark Rutte visited the White House and backed Trump's Iran operation, while Trump criticized European allies for not providing sufficient support for the U.S.-Israeli military campaign against Iran. Al Jazeera published an analysis tracing how decades of nuclear sabotage and brinkmanship culminated in the 2026 U.S.-Israeli war on Iran."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1589,7 +1599,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-24",
+      "lastSeen": "2026-06-25",
       "active": true,
       "entries": [
         {
@@ -2071,6 +2081,11 @@
           "date": "2026-06-24",
           "edition": "evening",
           "update": "Israeli Defense Minister Israel Katz publicly stated that the IDF will not withdraw from southern Lebanon even if the United States demands it, marking the first time a top Israeli official has openly declared defiance of U.S. directives on Lebanon withdrawal."
+        },
+        {
+          "date": "2026-06-25",
+          "edition": "evening",
+          "update": "Israel carried out an attack on a car in Nabatieh, Lebanon, killing three people, according to Lebanon's state-run National News Agency. A new deconfliction mechanism has been established in Lebanon aimed at preventing a return to full-scale war in the country and the broader region."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2776,6 +2791,11 @@
           "date": "2026-06-25",
           "edition": "morning",
           "update": "The Senate voted late Wednesday night to reject the war powers resolution it had passed the prior day, after key Republican senators switched their votes following a heated closed-door meeting with President Trump at the Capitol. Trump engaged in a lengthy and angry exchange with Sen. Bill Cassidy of Louisiana and other Republicans who had voted to limit his war powers, with Cassidy acknowledging he lost his temper and Trump raising his voice; Trump afterward publicly characterized the party as 'really well unified.' The White House formally requested $87.6 billion in supplemental funding from Congress in a letter from OMB Director Russ Vought to House Speaker Mike Johnson, with approximately $67 billion designated for the Pentagon to cover Iran war costs, alongside farm aid and Ebola response funding, though the package faces significant congressional opposition. Trump stated he does not believe the U.S. is liable for a missile strike on an Iranian girls' school that reportedly killed hundreds of children, adding that it may never be known who was responsible. Trump also criticized NATO for insufficient participation in the Iran war during a conversation with Secretary General Mark Rutte, who cited Alliance use of U.S. bases in Europe as evidence of support; Rutte visited the White House ahead of the upcoming NATO summit with Iran among the key topics. Iran's football team trip to Seattle was delayed after player Mehdi Taremi and an assistant coach were held up by U.S. officials at the airport, and fertilizer prices declined following the Strait of Hormuz reopening, though farmers are not expected to see meaningful relief for several months."
+        },
+        {
+          "date": "2026-06-25",
+          "edition": "evening",
+          "update": "Trump visited Capitol Hill and chastised Republican senators who had voted to limit his war powers, after which the Senate reversed its earlier war powers resolution vote from 50-48 against to 50-47 in favor. Trump stated the reversal 'puts Iran on notice' as U.S.-Iran negotiations over a long-term deal continue. Trump also canceled the signing of a bipartisan housing bill during the same visit, reiterating demands for Congress to pass the SAVE America Act."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3972,6 +3992,11 @@
           "date": "2026-06-25",
           "edition": "morning",
           "update": "Secretary of State Marco Rubio visited Bahrain to seek Gulf state backing for a potential deal with Iran."
+        },
+        {
+          "date": "2026-06-25",
+          "edition": "evening",
+          "update": "Iranian negotiator Mohammad Bagher Ghalibaf rejected U.S. claims that $6 billion in unfrozen Iranian funds would be used to purchase American agricultural goods, directly contradicting the Trump administration's assertion."
         }
       ]
     },
@@ -4547,6 +4572,11 @@
           "date": "2026-06-25",
           "edition": "morning",
           "update": "Oil prices fell toward pre-war levels as tankers resumed movement through the Strait of Hormuz, reversing gains recorded since the conflict with Iran began in February. Analysts and policymakers are identifying strategies to reduce global economic dependence on the strait, including expanded oil stockpiles, additional pipeline infrastructure, and other supply diversification measures."
+        },
+        {
+          "date": "2026-06-25",
+          "edition": "evening",
+          "update": "A cargo ship was struck by an unknown projectile near Oman while transiting the Strait of Hormuz, prompting a UN agency to pause its evacuation of ships from the Persian Gulf. Iran's IRGC warned against use of an alternative shipping route bypassing the strait, with experts noting that disputes over routes and transit fees could complicate permanent agreement efforts. Secretary of State Rubio met with Gulf leaders to seek regional support for a peace framework, but Iran issued new threats against ships in the strait, complicating diplomatic efforts. Al Jazeera published a visual guide describing minesweeping operations in the strait as slow and high-risk."
         }
       ]
     },
@@ -4625,7 +4655,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-06-24",
+      "lastSeen": "2026-06-25",
       "active": true,
       "entries": [
         {
@@ -4857,6 +4887,11 @@
           "date": "2026-06-24",
           "edition": "morning",
           "update": "France confirmed its first-ever Ebola case in a doctor who had returned from the Democratic Republic of Congo, directly linking the infection to the ongoing DRC outbreak. In the DRC, the gold-mining town of Mongbwalu, identified as an Ebola epicenter, is facing containment obstacles including a shortage of supplies and widespread resident skepticism about the virus's existence, according to NPR."
+        },
+        {
+          "date": "2026-06-25",
+          "edition": "evening",
+          "update": "The White House submitted a request to Congress for $1.4 billion to fight the Ebola outbreak, included as part of a larger $87.6 billion supplemental funding bill."
         }
       ]
     },
@@ -4976,5 +5011,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-25T11:07:08.931Z"
+  "updatedAt": "2026-06-25T21:09:34.224Z"
 }
