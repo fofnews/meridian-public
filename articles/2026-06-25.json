@@ -439,5 +439,92 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-25T05:30:01.295Z"
+  },
+  {
+    "title": "Bodies found in 'advanced deterioration' at under-fire trust",
+    "description": "An inspection of NUH mortuaries found 10 shortfalls, the Human Tissue Authority said.",
+    "link": "https://www.bbc.co.uk/news/articles/ce95r7gvm5go?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 25 Jun 2026 05:23:53 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-25T05:45:02.268Z"
+  },
+  {
+    "title": "June's temperature record set to be broken again",
+    "description": "Thursday is expected to be a hotter day for parts of England and Wales with June's record temperature set to be broken for a second day in a row as Simon King explains.",
+    "link": "https://www.bbc.co.uk/weather/articles/cqj1ek2zpyxo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 25 Jun 2026 05:27:59 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-25T05:45:02.268Z"
+  },
+  {
+    "title": "Oil Prices Fall Toward Prewar Levels as Gulf Shipping Resumes",
+    "description": "Oil prices fell, moving closer to levels not seen since the war in Iran began in February.",
+    "link": "https://www.nytimes.com/2026/06/25/business/oil-prices-gas-iran.html",
+    "pubDate": "Thu, 25 Jun 2026 05:26:18 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "oil (petroleum) and gasoline",
+      "prices (fares, fees and rates)",
+      "stocks and bonds",
+      "standard & poor's 500-stock index",
+      "iran"
+    ],
+    "collectedAt": "2026-06-25T05:45:02.268Z"
+  },
+  {
+    "title": "Mexico Soars Into the Top 10 of the World Cup Power Rankings",
+    "description": "Mexico is officially in the Top 10 of the World Cup Power Rankings after a flawless group stage where they didn't concede a goal.",
+    "link": "https://www.newsweek.com/sports/mexico-soars-into-the-top-10-of-the-world-cup-power-rankings-12117922",
+    "pubDate": "Thu, 25 Jun 2026 01:40:07 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-25T05:45:02.268Z"
+  },
+  {
+    "title": "Venezuela rocked by 7.5, 7.2 earthquakes: What happened and what we know",
+    "description": "Venezuela declared a state of emergency after twin 7.2 and 7.5 earthquakes caused widespread damage and rescue efforts.",
+    "link": "https://www.aljazeera.com/news/2026/6/25/venezuela-rocked-by-7-5-7-2-earthquakes-what-happened-and-what-we-know?traffic_source=rss",
+    "pubDate": "Thu, 25 Jun 2026 05:27:10 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-06-25T05:45:02.268Z"
+  },
+  {
+    "title": "Venezuela grapples with deadly twin quakes, over 700 injured so far",
+    "description": "Caracas airport closed, metro suspended, and power outages reported after deadly quakes rock Venezuela.",
+    "link": "https://www.aljazeera.com/gallery/2026/6/25/venezuela-grapples-with-deadly-twin-quakes-over-700-injured-so-far?traffic_source=rss",
+    "pubDate": "Thu, 25 Jun 2026 05:23:27 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-06-25T05:45:02.268Z"
+  },
+  {
+    "title": "Three sisters with combined age of 316 discuss the secrets to life",
+    "description": "Three Brazilians with a combined age of 316 have been recognised as the world’s longest-living trio of sisters.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/three-sisters-with-combined-age-of-316-discuss-the-secrets-to-life?traffic_source=rss",
+    "pubDate": "Thu, 25 Jun 2026 05:08:17 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "newsfeed"
+    ],
+    "collectedAt": "2026-06-25T05:45:02.268Z"
+  },
+  {
+    "title": "Trump says UK’s likely next leader Andy Burnham is ‘extremely liberal’",
+    "description": "Trump has made his first comment on the UK’s likely next leader describing Andy Burnham as ‘extremely liberal’.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/trump-says-uks-likely-next-leader-andy-burnham-is-extremely?traffic_source=rss",
+    "pubDate": "Thu, 25 Jun 2026 05:03:49 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-06-25T05:45:02.268Z"
   }
 ]
