@@ -555,5 +555,30 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-26T06:30:01.806Z"
+  },
+  {
+    "title": "Stocks in Asia Tumble as A.I. Uncertainty Jolts Tech Shares",
+    "description": "Stock markets across Asia tumbled, as investors continue to wrestle with whether the boom in artificial intelligence spending is overdone or just beginning.",
+    "link": "https://www.nytimes.com/2026/06/26/business/oil-price-gas-iran.html",
+    "pubDate": "Fri, 26 Jun 2026 06:02:49 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "oil (petroleum) and gasoline",
+      "prices (fares, fees and rates)",
+      "stocks and bonds",
+      "standard & poor's 500-stock index",
+      "iran"
+    ],
+    "collectedAt": "2026-06-26T06:45:01.536Z"
+  },
+  {
+    "title": "White House, RFK Jr. tried to push third-party candidates out of tight House races - The Washington Post",
+    "description": "White House, RFK Jr. tried to push third-party candidates out of tight House races  The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWE1NenUwUEVrVngzQktVRUZ4S3M2cF9BZTQ5RG5fa3lWQS10aS0ydTE5ZzJiLTEzSUZOMjZ0ekxDcEFGTEtTSm85M3hyMXk5X1BhM2t4TnZzSnVuNEtsNWktYzlIZGFjeGYydDNGMmx4UzUwc3pSTVROSjdVWnJPakp5VlZoQTVraDVTeFFaeVV2VDhMdjNVcFRHM1owZS1qQmtld2xuMWx5RC0wcUVWMVdTQQ?oc=5",
+    "pubDate": "Fri, 26 Jun 2026 05:19:34 GMT",
+    "source": "Washington Post",
+    "categories": [],
+    "collectedAt": "2026-06-26T06:45:01.536Z"
   }
 ]
