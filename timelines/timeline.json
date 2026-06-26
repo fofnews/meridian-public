@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-25",
+      "lastSeen": "2026-06-26",
       "active": true,
       "entries": [
         {
@@ -331,6 +331,11 @@
           "date": "2026-06-25",
           "edition": "morning",
           "update": "A transcript of Bill Gates' closed-door House Oversight Committee testimony was released publicly, confirming his account that Epstein 'contemplated blackmailing' him using information about his extramarital affairs. Ghislaine Maxwell filed new legal challenges to her 2021 sex-trafficking conviction, arguing that recently released Epstein files expose violations that invalidate her conviction."
+        },
+        {
+          "date": "2026-06-26",
+          "edition": "morning",
+          "update": "A federal judge in Washington, D.C. issued a preliminary injunction ordering the Department of Justice to unredact additional pages of Epstein files or explain why it cannot do so."
         }
       ],
       "parentId": null
@@ -534,7 +539,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-25",
+      "lastSeen": "2026-06-26",
       "active": true,
       "entries": [
         {
@@ -976,6 +981,11 @@
           "date": "2026-06-25",
           "edition": "evening",
           "update": "Ukrainian defense company Fire Point announced plans to produce a ballistic missile interceptor by the end of 2026, according to Reuters."
+        },
+        {
+          "date": "2026-06-26",
+          "edition": "morning",
+          "update": "France seized a fifth Russian shadow fleet tanker, according to Al Jazeera, as part of continued efforts to disrupt vessels linked to funding Russia's war in Ukraine."
         }
       ],
       "parentId": null
@@ -1119,7 +1129,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-25",
+      "lastSeen": "2026-06-26",
       "active": true,
       "entries": [
         {
@@ -1461,6 +1471,11 @@
           "date": "2026-06-25",
           "edition": "evening",
           "update": "NATO Secretary General Mark Rutte visited the White House and backed Trump's Iran operation, while Trump criticized European allies for not providing sufficient support for the U.S.-Israeli military campaign against Iran. Al Jazeera published an analysis tracing how decades of nuclear sabotage and brinkmanship culminated in the 2026 U.S.-Israeli war on Iran."
+        },
+        {
+          "date": "2026-06-26",
+          "edition": "morning",
+          "update": "Israeli Prime Minister Netanyahu declared that Israeli troops will remain in occupied areas of southern Lebanon 'as long as necessary,' even as a US-Iran deal is in place and Israeli attacks on Lebanon continued."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2094,7 +2109,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-25",
+      "lastSeen": "2026-06-26",
       "active": true,
       "entries": [
         {
@@ -2796,6 +2811,11 @@
           "date": "2026-06-25",
           "edition": "evening",
           "update": "Trump visited Capitol Hill and chastised Republican senators who had voted to limit his war powers, after which the Senate reversed its earlier war powers resolution vote from 50-48 against to 50-47 in favor. Trump stated the reversal 'puts Iran on notice' as U.S.-Iran negotiations over a long-term deal continue. Trump also canceled the signing of a bipartisan housing bill during the same visit, reiterating demands for Congress to pass the SAVE America Act."
+        },
+        {
+          "date": "2026-06-26",
+          "edition": "morning",
+          "update": "The Senate's reversal of the war powers resolution was confirmed as final after Sens. Bill Cassidy and another key Republican switched their votes following Trump's Capitol Hill visit. Iran's men's national football team is set to play Friday at the 2026 FIFA World Cup after securing two draws against New Zealand. The PCE index rose 4.1% year-over-year in May, its highest level in three years, according to CBS News."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3710,7 +3730,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-25",
+      "lastSeen": "2026-06-26",
       "active": true,
       "entries": [
         {
@@ -4335,7 +4355,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-06-25",
+      "lastSeen": "2026-06-26",
       "active": true,
       "entries": [
         {
@@ -4577,6 +4597,11 @@
           "date": "2026-06-25",
           "edition": "evening",
           "update": "A cargo ship was struck by an unknown projectile near Oman while transiting the Strait of Hormuz, prompting a UN agency to pause its evacuation of ships from the Persian Gulf. Iran's IRGC warned against use of an alternative shipping route bypassing the strait, with experts noting that disputes over routes and transit fees could complicate permanent agreement efforts. Secretary of State Rubio met with Gulf leaders to seek regional support for a peace framework, but Iran issued new threats against ships in the strait, complicating diplomatic efforts. Al Jazeera published a visual guide describing minesweeping operations in the strait as slow and high-risk."
+        },
+        {
+          "date": "2026-06-26",
+          "edition": "morning",
+          "update": "Iran struck a cargo ship traveling on a UN-backed evacuation route in the Strait of Hormuz, confirmed by CBS News and the Washington Post, prompting a UN agency to again pause ship evacuations through the waterway. Oil prices rose on the news before edging lower as some shipments through the strait resumed."
         }
       ]
     },
@@ -4655,7 +4680,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-06-25",
+      "lastSeen": "2026-06-26",
       "active": true,
       "entries": [
         {
@@ -4892,6 +4917,11 @@
           "date": "2026-06-25",
           "edition": "evening",
           "update": "The White House submitted a request to Congress for $1.4 billion to fight the Ebola outbreak, included as part of a larger $87.6 billion supplemental funding bill."
+        },
+        {
+          "date": "2026-06-26",
+          "edition": "morning",
+          "update": "The DRC's confirmed Ebola case count rose to 1,155, according to Reuters."
         }
       ]
     },
@@ -5011,5 +5041,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-25T21:09:34.224Z"
+  "updatedAt": "2026-06-26T11:06:28.620Z"
 }
