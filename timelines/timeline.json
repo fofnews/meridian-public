@@ -336,6 +336,11 @@
           "date": "2026-06-26",
           "edition": "morning",
           "update": "A federal judge in Washington, D.C. issued a preliminary injunction ordering the Department of Justice to unredact additional pages of Epstein files or explain why it cannot do so."
+        },
+        {
+          "date": "2026-06-26",
+          "edition": "evening",
+          "update": "The federal judge's July 2 deadline was newly confirmed as the compliance window for the DOJ's unredaction order. Leon Black testified before the House Oversight Committee, telling Congress that Jeffrey Epstein 'duped and deceived' him, according to Reuters. House Oversight Committee Chairman James Comer issued two subpoenas to Black, who had previously refused to answer questions before the committee."
         }
       ],
       "parentId": null
@@ -986,6 +991,11 @@
           "date": "2026-06-26",
           "edition": "morning",
           "update": "France seized a fifth Russian shadow fleet tanker, according to Al Jazeera, as part of continued efforts to disrupt vessels linked to funding Russia's war in Ukraine."
+        },
+        {
+          "date": "2026-06-26",
+          "edition": "evening",
+          "update": "Ukrainian forces launched one of their heaviest drone bombardments on record overnight, targeting a dozen Russian regions, Russian-held Crimea, and surrounding seas. Russian-installed authorities in Crimea declared a state of emergency following multiple days of Ukrainian strikes. Russian hardliners are urging Putin to escalate the war and abandon talks with the U.S., amid ongoing Ukrainian strikes deep into Russian territory. Putin and Belarusian President Lukashenko are scheduled to hold talks on Friday."
         }
       ],
       "parentId": null
@@ -1614,7 +1624,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-25",
+      "lastSeen": "2026-06-26",
       "active": true,
       "entries": [
         {
@@ -2101,6 +2111,11 @@
           "date": "2026-06-25",
           "edition": "evening",
           "update": "Israel carried out an attack on a car in Nabatieh, Lebanon, killing three people, according to Lebanon's state-run National News Agency. A new deconfliction mechanism has been established in Lebanon aimed at preventing a return to full-scale war in the country and the broader region."
+        },
+        {
+          "date": "2026-06-26",
+          "edition": "evening",
+          "update": "U.S. Secretary of State Marco Rubio announced a framework peace agreement between Israel and Lebanon, signed on Friday following talks in Washington, D.C. Separately, Hezbollah chief Naim Qassem demanded Israel withdraw from Lebanon unconditionally, stating he would accept 'no normalisation' and 'no gains for Israel.'"
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3619,7 +3634,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-06-24",
+      "lastSeen": "2026-06-26",
       "active": true,
       "entries": [
         {
@@ -3696,6 +3711,11 @@
           "date": "2026-06-24",
           "edition": "evening",
           "update": "Kim Jong Un commissioned a new warship and vowed to equip North Korea's navy with nuclear weapons, signaling a strategic shift in the country's military posture, according to Al Jazeera."
+        },
+        {
+          "date": "2026-06-26",
+          "edition": "evening",
+          "update": "Kim Jong Un called on his military to strengthen its 'deadly and destructive offensive posture,' while South Korea announced plans to expand its drone warfare capabilities in response to regional tensions."
         }
       ],
       "parentId": null
@@ -4602,6 +4622,11 @@
           "date": "2026-06-26",
           "edition": "morning",
           "update": "Iran struck a cargo ship traveling on a UN-backed evacuation route in the Strait of Hormuz, confirmed by CBS News and the Washington Post, prompting a UN agency to again pause ship evacuations through the waterway. Oil prices rose on the news before edging lower as some shipments through the strait resumed."
+        },
+        {
+          "date": "2026-06-26",
+          "edition": "evening",
+          "update": "Trump accused Iran on Friday via Truth Social of committing a 'foolish violation' of their ceasefire or memorandum of understanding by attacking ships in the Strait of Hormuz. Iran issued a statement asserting its right to control traffic in the strait and warned that vessels not following approved routes would be dealt with 'accordingly.' Traffic through the strait slowed following the attack, and the UN again paused ship-evacuation efforts in response."
         }
       ]
     },
@@ -5041,5 +5066,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-26T11:06:28.620Z"
+  "updatedAt": "2026-06-26T21:07:55.209Z"
 }
