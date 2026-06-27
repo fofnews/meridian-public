@@ -1001,6 +1001,11 @@
           "date": "2026-06-27",
           "edition": "morning",
           "update": "NPR gained access to a secretive Ukrainian strike team conducting long-range drone operations against targets inside Russia, with drones capable of reaching up to 1,200 miles to strike oil refineries and fuel depots."
+        },
+        {
+          "date": "2026-06-27",
+          "edition": "evening",
+          "update": "In overnight exchanges, Russian attacks on Ukraine killed two people while Ukrainian attacks on Russia killed one, according to Al Jazeera."
         }
       ],
       "parentId": null
@@ -2126,6 +2131,11 @@
           "date": "2026-06-27",
           "edition": "morning",
           "update": "Hezbollah told Newsweek it would conditionally observe the new U.S.-brokered Israel-Lebanon framework agreement but warned 'our hands are on our weapons' and asserted its right to 'liberate our land and homes' if Israel fails to uphold the deal. Israel agreed to withdraw from two areas in Lebanon as part of the agreement, which Secretary of State Rubio described as only 'the beginning of the beginning' of negotiations, while Israel continues to occupy other Lebanese territory. Experts warned Iran would attempt to sabotage the agreement."
+        },
+        {
+          "date": "2026-06-27",
+          "edition": "evening",
+          "update": "Hezbollah's chief declared the Israel-Lebanon ceasefire deal 'null and void,' calling it a crossing of 'all red lines' and rejecting its reported linkage to Hezbollah's disarmament. An Israeli drone strike hit southern Lebanon one day after the security deal was reached, according to Reuters. The agreement has divided Lebanese public opinion, with some welcoming it as a curb on Iranian influence while others protested in Beirut, characterizing it as a surrender of sovereignty."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3820,7 +3830,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-06-25",
+      "lastSeen": "2026-06-27",
       "active": true,
       "entries": [
         {
@@ -4052,6 +4062,11 @@
           "date": "2026-06-25",
           "edition": "evening",
           "update": "Iranian negotiator Mohammad Bagher Ghalibaf rejected U.S. claims that $6 billion in unfrozen Iranian funds would be used to purchase American agricultural goods, directly contradicting the Trump administration's assertion."
+        },
+        {
+          "date": "2026-06-27",
+          "edition": "evening",
+          "update": "Vague language in the U.S.-Iran deal requiring Iran to 'make arrangements' for ship passage through the Strait of Hormuz has generated conflict, with Iran interpreting the clause as authority to designate which routes ships must take, according to the NY Times. Vice President Vance defended the administration's Iran strategy, stating the U.S. benefits regardless of negotiation outcomes, claiming Iran's nuclear program would be destroyed and the country weakened even without a deal."
         }
       ]
     },
@@ -4390,7 +4405,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-06-26",
+      "lastSeen": "2026-06-27",
       "active": true,
       "entries": [
         {
@@ -4642,6 +4657,11 @@
           "date": "2026-06-26",
           "edition": "evening",
           "update": "Trump accused Iran on Friday via Truth Social of committing a 'foolish violation' of their ceasefire or memorandum of understanding by attacking ships in the Strait of Hormuz. Iran issued a statement asserting its right to control traffic in the strait and warned that vessels not following approved routes would be dealt with 'accordingly.' Traffic through the strait slowed following the attack, and the UN again paused ship-evacuation efforts in response."
+        },
+        {
+          "date": "2026-06-27",
+          "edition": "evening",
+          "update": "The renewed strikes in the Persian Gulf threatened to set back shipping recovery after traffic through the Strait of Hormuz had reached its highest levels since the start of the U.S.-Iran war, according to the NY Times. Iran's IRGC appeared to rebuff U.S. claims of a military hotline operating between the two countries in the strait, according to Al Jazeera."
         }
       ]
     },
@@ -4705,13 +4725,18 @@
       "title": "Harvey Weinstein Trials",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-05-15",
-      "active": false,
+      "lastSeen": "2026-06-27",
+      "active": true,
       "entries": [
         {
           "date": "2026-05-15",
           "edition": "evening",
           "update": "A judge declared a mistrial in Harvey Weinstein's third Manhattan sex crimes rape retrial after the jury deadlocked and was unable to reach a verdict. The charges were brought by accuser Jessica Mann."
+        },
+        {
+          "date": "2026-06-27",
+          "edition": "evening",
+          "update": "A unanimous three-judge panel from California's 2nd District Court of Appeals upheld Harvey Weinstein's 2022 rape and sexual assault conviction, rejecting his bid to overturn the guilty verdicts. The court ordered the trial judge to resentence him, however, following his original 16-year prison term."
         }
       ]
     },
@@ -5086,5 +5111,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-27T11:06:18.612Z"
+  "updatedAt": "2026-06-27T21:04:21.488Z"
 }
