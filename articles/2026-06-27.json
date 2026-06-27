@@ -87,5 +87,43 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-27T04:30:01.260Z"
+  },
+  {
+    "title": "Home Office to introduce new asylum routes to UK",
+    "description": "The home secretary said \"capped safe and legal\" routes would help to restore confidence in the asylum system.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 27 Jun 2026 04:37:32 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-27T04:45:01.460Z"
+  },
+  {
+    "title": "New Mexico AG launches criminal investigation into DEA over allegations agents let fentanyl flood state",
+    "description": "New Mexico Attorney General Raúl Torrez announced a criminal investigation into allegations that the DEA allowed fentanyl pills to reach communities.",
+    "link": "https://www.foxnews.com/us/new-mexico-dea-fentanyl-investigation",
+    "pubDate": "Sat, 27 Jun 2026 00:32:12 -0400",
+    "source": "Fox News",
+    "categories": [
+      "9e5b576d-6b43-5b3c-aab8-ba3ed270a95b",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/southwest/new-mexico",
+      "fox-news/topic/opioid-crisis",
+      "fox-news/us/immigration/enforcement",
+      "fox-news/politics/justice-department",
+      "fox-news/health/mental-health/drug-and-substance-abuse",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-06-27T04:45:01.460Z"
+  },
+  {
+    "title": "Isaiah Hartenstein signing new three-year, $75 million Thunder contract",
+    "description": "The Thunder had a big decision to make in settling their frontcourt, and they've locked down their man in the middle, which wasn't always a guarantee heading into the season.",
+    "link": "https://nypost.com/2026/06/27/sports/isaiah-hartenstein-signing-new-75-million-thunder-contract/",
+    "pubDate": "Sat, 27 Jun 2026 00:34:06 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-27T04:45:01.460Z"
   }
 ]
