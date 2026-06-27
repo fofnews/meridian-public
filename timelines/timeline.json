@@ -544,7 +544,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-26",
+      "lastSeen": "2026-06-27",
       "active": true,
       "entries": [
         {
@@ -996,6 +996,11 @@
           "date": "2026-06-26",
           "edition": "evening",
           "update": "Ukrainian forces launched one of their heaviest drone bombardments on record overnight, targeting a dozen Russian regions, Russian-held Crimea, and surrounding seas. Russian-installed authorities in Crimea declared a state of emergency following multiple days of Ukrainian strikes. Russian hardliners are urging Putin to escalate the war and abandon talks with the U.S., amid ongoing Ukrainian strikes deep into Russian territory. Putin and Belarusian President Lukashenko are scheduled to hold talks on Friday."
+        },
+        {
+          "date": "2026-06-27",
+          "edition": "morning",
+          "update": "NPR gained access to a secretive Ukrainian strike team conducting long-range drone operations against targets inside Russia, with drones capable of reaching up to 1,200 miles to strike oil refineries and fuel depots."
         }
       ],
       "parentId": null
@@ -1624,7 +1629,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-26",
+      "lastSeen": "2026-06-27",
       "active": true,
       "entries": [
         {
@@ -2116,6 +2121,11 @@
           "date": "2026-06-26",
           "edition": "evening",
           "update": "U.S. Secretary of State Marco Rubio announced a framework peace agreement between Israel and Lebanon, signed on Friday following talks in Washington, D.C. Separately, Hezbollah chief Naim Qassem demanded Israel withdraw from Lebanon unconditionally, stating he would accept 'no normalisation' and 'no gains for Israel.'"
+        },
+        {
+          "date": "2026-06-27",
+          "edition": "morning",
+          "update": "Hezbollah told Newsweek it would conditionally observe the new U.S.-brokered Israel-Lebanon framework agreement but warned 'our hands are on our weapons' and asserted its right to 'liberate our land and homes' if Israel fails to uphold the deal. Israel agreed to withdraw from two areas in Lebanon as part of the agreement, which Secretary of State Rubio described as only 'the beginning of the beginning' of negotiations, while Israel continues to occupy other Lebanese territory. Experts warned Iran would attempt to sabotage the agreement."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2124,7 +2134,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-26",
+      "lastSeen": "2026-06-27",
       "active": true,
       "entries": [
         {
@@ -2831,6 +2841,11 @@
           "date": "2026-06-26",
           "edition": "morning",
           "update": "The Senate's reversal of the war powers resolution was confirmed as final after Sens. Bill Cassidy and another key Republican switched their votes following Trump's Capitol Hill visit. Iran's men's national football team is set to play Friday at the 2026 FIFA World Cup after securing two draws against New Zealand. The PCE index rose 4.1% year-over-year in May, its highest level in three years, according to CBS News."
+        },
+        {
+          "date": "2026-06-27",
+          "edition": "morning",
+          "update": "U.S. Central Command conducted retaliatory strikes on Friday targeting missile and drone storage locations and coastal radar positions inside Iran — the first U.S. strikes since the two countries reached a Memorandum of Understanding on June 17. The strikes came one day after Iran's Revolutionary Guard Corps attacked a Singapore-flagged cargo ship in the Strait of Hormuz with a drone. Iran's IRGC then struck U.S.-linked targets on Saturday, characterizing the action as a defensive response, while both sides accused the other of violating the ceasefire agreement. Bahrain also reported a drone attack amid the escalating exchanges."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3750,7 +3765,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-26",
+      "lastSeen": "2026-06-27",
       "active": true,
       "entries": [
         {
@@ -4161,7 +4176,7 @@
       "parentId": null,
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-05-28",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-04-28",
@@ -4636,7 +4651,7 @@
       "parentId": null,
       "firstSeen": "2026-05-15",
       "lastSeen": "2026-05-28",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-05-15",
@@ -4705,7 +4720,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-06-26",
+      "lastSeen": "2026-06-27",
       "active": true,
       "entries": [
         {
@@ -4947,6 +4962,11 @@
           "date": "2026-06-26",
           "edition": "morning",
           "update": "The DRC's confirmed Ebola case count rose to 1,155, according to Reuters."
+        },
+        {
+          "date": "2026-06-27",
+          "edition": "morning",
+          "update": "Frontline Congolese volunteers conducting safe burials in the DRC are facing hostility from frightened local communities on top of the risk of Ebola infection, as experts warn the current outbreak could become the worst ever recorded."
         }
       ]
     },
@@ -5066,5 +5086,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-26T21:07:55.209Z"
+  "updatedAt": "2026-06-27T11:06:18.612Z"
 }
