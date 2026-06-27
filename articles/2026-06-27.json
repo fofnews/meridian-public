@@ -355,5 +355,34 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-27T06:30:01.170Z"
+  },
+  {
+    "title": "Minnesota man captured in Somalia after allegedly helping orchestrate $250M child nutrition fraud scheme",
+    "description": "Abdikerm Abdelahi Eidleh was captured in Mogadishu after allegedly helping orchestrate the $250 million \"Feeding Our Future\" fraud scheme in Minnesota.",
+    "link": "https://www.foxnews.com/us/minnesota-feeding-our-future-fugitive-captured-somalia",
+    "pubDate": "Sat, 27 Jun 2026 02:37:49 -0400",
+    "source": "Fox News",
+    "categories": [
+      "b22fd55e-47f4-56f3-9649-49b67c703044",
+      "fnc",
+      "fox news",
+      "fox-news/corruption",
+      "fox-news/us/somali-immigrant-community",
+      "fox-news/tech/topics/fbi",
+      "fox-news/us/us-regions/midwest/minnesota",
+      "fox-news/politics/minnesota-fraud-exposed",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-06-27T07:00:01.881Z"
+  },
+  {
+    "title": "Yankees’ Ben Rice gets breather after rough night",
+    "description": "After a rare rough night at the plate, Ben Rice got a rarer day off.",
+    "link": "https://nypost.com/2026/06/27/sports/yankees-ben-rice-gets-breather-after-rough-night/",
+    "pubDate": "Sat, 27 Jun 2026 02:55:05 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-27T07:00:01.881Z"
   }
 ]
