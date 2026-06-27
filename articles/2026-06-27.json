@@ -275,5 +275,27 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-27T06:00:01.443Z"
+  },
+  {
+    "title": "Archaeologists in Israel uncover 1,700-year-old Roman-era statues buried face down",
+    "description": "Two marble statues dating back 1,700 years were discovered near Binyamina, Israel, in a Roman-Byzantine winepress during a railway construction dig.",
+    "link": "https://www.foxnews.com/travel/archaeologists-israel-uncover-1700-year-old-roman-era-statues-buried-face-down",
+    "pubDate": "Sat, 27 Jun 2026 02:00:04 -0400",
+    "source": "Fox News",
+    "categories": [
+      "563f92f4-db6a-5e2b-8cae-2210b1f86c1b",
+      "fnc",
+      "fox news",
+      "fox-news/science/archaeology",
+      "fox-news/world/world-regions/middle-east",
+      "fox-news/science/archaeology/ancient-rome",
+      "fox-news/travel/general/historic-sites",
+      "fox-news/world/world-regions/israel",
+      "fox-news/science/archaeology/history",
+      "fox-news/travel",
+      "fox-news/travel",
+      "article"
+    ],
+    "collectedAt": "2026-06-27T06:15:01.248Z"
   }
 ]
