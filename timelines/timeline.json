@@ -544,7 +544,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-27",
+      "lastSeen": "2026-06-28",
       "active": true,
       "entries": [
         {
@@ -1006,6 +1006,11 @@
           "date": "2026-06-27",
           "edition": "evening",
           "update": "In overnight exchanges, Russian attacks on Ukraine killed two people while Ukrainian attacks on Russia killed one, according to Al Jazeera."
+        },
+        {
+          "date": "2026-06-28",
+          "edition": "morning",
+          "update": "Ukraine struck a strategic oil pumping station 143 miles east of Moscow for the second time in June, part of a 40-day pressure campaign approved by President Zelensky aimed at forcing Russia to end the war. Ukrainian forces also carried out overnight strikes on two Russian oil refineries, according to Reuters."
         }
       ],
       "parentId": null
@@ -1634,7 +1639,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-27",
+      "lastSeen": "2026-06-28",
       "active": true,
       "entries": [
         {
@@ -2136,6 +2141,11 @@
           "date": "2026-06-27",
           "edition": "evening",
           "update": "Hezbollah's chief declared the Israel-Lebanon ceasefire deal 'null and void,' calling it a crossing of 'all red lines' and rejecting its reported linkage to Hezbollah's disarmament. An Israeli drone strike hit southern Lebanon one day after the security deal was reached, according to Reuters. The agreement has divided Lebanese public opinion, with some welcoming it as a curb on Iranian influence while others protested in Beirut, characterizing it as a surrender of sovereignty."
+        },
+        {
+          "date": "2026-06-28",
+          "edition": "morning",
+          "update": "The Israeli military reported killing Hezbollah militants and attacking a launcher in the Nabatieh area of southern Lebanon. Residents of Dahiya, a Hezbollah stronghold, began returning to the area as a tense truce took hold, with locals describing significant losses from the conflict. Lebanon's heritage minister stated that Israel damaged heritage sites across south Lebanon during its military operations."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2144,7 +2154,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-27",
+      "lastSeen": "2026-06-28",
       "active": true,
       "entries": [
         {
@@ -2856,6 +2866,11 @@
           "date": "2026-06-27",
           "edition": "morning",
           "update": "U.S. Central Command conducted retaliatory strikes on Friday targeting missile and drone storage locations and coastal radar positions inside Iran — the first U.S. strikes since the two countries reached a Memorandum of Understanding on June 17. The strikes came one day after Iran's Revolutionary Guard Corps attacked a Singapore-flagged cargo ship in the Strait of Hormuz with a drone. Iran's IRGC then struck U.S.-linked targets on Saturday, characterizing the action as a defensive response, while both sides accused the other of violating the ceasefire agreement. Bahrain also reported a drone attack amid the escalating exchanges."
+        },
+        {
+          "date": "2026-06-28",
+          "edition": "morning",
+          "update": "CENTCOM conducted a second consecutive day of strikes on Saturday, targeting sites at Sirik and Qeshm Island, Iran, in response to continued Iranian attacks on commercial shipping near the Strait of Hormuz. Iran struck U.S.-linked military assets in Kuwait and Bahrain with drones and missiles, stating the attacks were retaliation for U.S. strikes; both Kuwait and Bahrain condemned the attacks on their territory. President Trump issued a stark warning on Truth Social that 'the Islamic Republic of Iran will no longer exist' if the U.S. is 'forced to militarily complete the job,' as the conflict expanded beyond Iranian territory to Gulf states."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3775,7 +3790,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-27",
+      "lastSeen": "2026-06-28",
       "active": true,
       "entries": [
         {
@@ -5051,7 +5066,7 @@
       "parentId": null,
       "firstSeen": "2026-05-19",
       "lastSeen": "2026-05-29",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-05-19",
@@ -5111,5 +5126,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-27T21:04:21.488Z"
+  "updatedAt": "2026-06-28T11:05:26.714Z"
 }
