@@ -349,7 +349,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-24",
+      "lastSeen": "2026-06-28",
       "active": true,
       "entries": [
         {
@@ -536,6 +536,11 @@
           "date": "2026-06-24",
           "edition": "evening",
           "update": "Trump and Sen. Bill Cassidy (R-La.) had a loud, intense confrontation during a closed-door Capitol meeting on Wednesday. The U.S. Department of Homeland Security announced it is easing travel restrictions for Iran's World Cup team, allowing the squad to enter the country two days before their next match."
+        },
+        {
+          "date": "2026-06-28",
+          "edition": "evening",
+          "update": "A media outlet linked to Iran's IRGC declared that Iran has 'no choice' but to develop a nuclear bomb to protect 'peace and calm,' directly contradicting Iran's pledge to the Trump administration as part of the ongoing nuclear negotiations."
         }
       ],
       "parentId": null
@@ -1011,6 +1016,11 @@
           "date": "2026-06-28",
           "edition": "morning",
           "update": "Ukraine struck a strategic oil pumping station 143 miles east of Moscow for the second time in June, part of a 40-day pressure campaign approved by President Zelensky aimed at forcing Russia to end the war. Ukrainian forces also carried out overnight strikes on two Russian oil refineries, according to Reuters."
+        },
+        {
+          "date": "2026-06-28",
+          "edition": "evening",
+          "update": "A drone strike on a major Russian oil refinery killed at least two people and set the facility on fire, according to Russian authorities and the New York Post. Ukraine confirmed the strikes as part of its ongoing energy infrastructure campaign, though the Washington Examiner reported that Russian resilience and adaptation have limited the campaign's overall strategic impact."
         }
       ],
       "parentId": null
@@ -2871,6 +2881,11 @@
           "date": "2026-06-28",
           "edition": "morning",
           "update": "CENTCOM conducted a second consecutive day of strikes on Saturday, targeting sites at Sirik and Qeshm Island, Iran, in response to continued Iranian attacks on commercial shipping near the Strait of Hormuz. Iran struck U.S.-linked military assets in Kuwait and Bahrain with drones and missiles, stating the attacks were retaliation for U.S. strikes; both Kuwait and Bahrain condemned the attacks on their territory. President Trump issued a stark warning on Truth Social that 'the Islamic Republic of Iran will no longer exist' if the U.S. is 'forced to militarily complete the job,' as the conflict expanded beyond Iranian territory to Gulf states."
+        },
+        {
+          "date": "2026-06-28",
+          "edition": "evening",
+          "update": "Iran launched drone and missile strikes targeting U.S. allies Kuwait and Bahrain, with Kuwait's military reporting it intercepted Iranian drones and two ballistic missiles. Iran also threatened a complete halt to all negotiations with the U.S. following the continued exchange of attacks. Republican Sen. Roger Marshall stated on Meet the Press that he does not believe the conflict is over, though he described any further U.S. strikes as a 'mop-up operation.' Political scientist Robert Pape argued on Al Jazeera that the U.S. is attempting to 'squeak out of strategic defeat,' contending the fallout challenges Trump's self-image and curbs U.S. hubris."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4420,7 +4435,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-06-27",
+      "lastSeen": "2026-06-28",
       "active": true,
       "entries": [
         {
@@ -4677,6 +4692,11 @@
           "date": "2026-06-27",
           "edition": "evening",
           "update": "The renewed strikes in the Persian Gulf threatened to set back shipping recovery after traffic through the Strait of Hormuz had reached its highest levels since the start of the U.S.-Iran war, according to the NY Times. Iran's IRGC appeared to rebuff U.S. claims of a military hotline operating between the two countries in the strait, according to Al Jazeera."
+        },
+        {
+          "date": "2026-06-28",
+          "edition": "evening",
+          "update": "Iranian Foreign Minister Araghchi declared that Iran retains control of the Strait of Hormuz for 30 days and urged all parties not to interfere in its management. Article 5 of the U.S.-Iran Memorandum of Understanding emerged as a specific point of contention between the two countries over navigation rights. Following two nights of military confrontations in the strait, the IRGC maintained its position, markets in Iran reacted negatively, and the MOU was reported to be in jeopardy. The NY Times reported that Iran views its control of the strait as critical leverage in peace talks and appears willing to risk the ceasefire agreement to preserve that position."
         }
       ]
     },
@@ -5126,5 +5146,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-28T11:05:26.714Z"
+  "updatedAt": "2026-06-28T21:05:21.973Z"
 }
