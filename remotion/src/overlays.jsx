@@ -3,15 +3,7 @@ import { useEffect, useRef } from 'react';
 import { useCurrentFrame, useVideoConfig, interpolate, AbsoluteFill } from 'remotion';
 import { tokenizeWords, getActiveWord, tokenizeSentences, getActiveSentence } from './subtitles.js';
 import { arcTokenPosition } from './broadcast-map.js';
-
-// ── Color constants (dark theme) ──────────────────────────────────────────────
-const ACCENT         = '#e8c547';
-const ACCENT_TEXT    = '#0a0d14';
-const TEXT_60        = 'rgba(240,235,224,0.60)';
-const TEXT_55        = 'rgba(240,235,224,0.55)';
-const CHYRON_UPPER   = 'rgba(10,13,20,0.92)';
-const CHYRON_LOWER   = 'rgba(18,22,36,0.96)';
-const BORDER_ACTIVE  = 'rgba(232,197,71,0.70)';
+import { ACCENT, ACCENT_TEXT, TEXT_60, TEXT_55, CHYRON_UPPER, CHYRON_LOWER, BORDER_ACTIVE } from './tokens.js';
 
 // ── Helpers ───────────────────────────────────────────────────────────────────
 
