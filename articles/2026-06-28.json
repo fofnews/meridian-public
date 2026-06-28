@@ -115,5 +115,72 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-28T04:30:03.583Z"
+  },
+  {
+    "title": "Victory over Panama delights England fans",
+    "description": "Fans in New Jersey and back at home cheered on as England won against Panama to finish top of Group L.",
+    "link": "https://www.bbc.co.uk/news/videos/c0ry9ddg99qo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 28 Jun 2026 04:36:41 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-28T04:45:01.231Z"
+  },
+  {
+    "title": "Trump-endorsed Louisiana Rep. Letlow wins competitive GOP Senate runoff, AP projects",
+    "description": "Letlow largely campaigned on the president's endorsement.",
+    "link": "https://abcnews.com/Politics/trump-endorsed-louisiana-rep-letlow-defeats-fleming-competitive/story?id=134273932",
+    "pubDate": "Sun, 28 Jun 2026 00:30:54 -0400",
+    "source": "ABC News",
+    "categories": [
+      "politics"
+    ],
+    "collectedAt": "2026-06-28T04:45:01.231Z"
+  },
+  {
+    "title": "How the World Cup became a victory lap for Trump ally El Tigre",
+    "description": "Colombia's World Cup run has become a celebration of more than just its national team.",
+    "link": "https://www.politico.com/live-updates/2026/06/27/world-cup-2026/el-tigre-colombia-abelardo-de-la-espriella-00979212",
+    "pubDate": "Sat, 27 Jun 2026 23:42:30 EST",
+    "source": "Politico",
+    "categories": [],
+    "collectedAt": "2026-06-28T04:45:01.231Z"
+  },
+  {
+    "title": "Trump gets the complete domination he wanted in Louisiana",
+    "description": "Rep. Julia Letlow, his preferred candidate, won the GOP runoff for his longtime rival Bill Cassidy’s Senate seat.",
+    "link": "https://www.politico.com/news/2026/06/28/trump-maga-louisiana-senate-victory-00979205",
+    "pubDate": "Sat, 27 Jun 2026 23:34:34 EST",
+    "source": "Politico",
+    "categories": [],
+    "collectedAt": "2026-06-28T04:45:01.231Z"
+  },
+  {
+    "title": "Lionel Messi makes more history with goal in seventh straight World Cup game as Argentina sweeps group",
+    "description": "Lionel Messi, the leader in this tournament with six goals, was among nine Argentina starters changed from the previous game.",
+    "link": "https://nypost.com/2026/06/28/sports/lionel-messi-makes-more-history-with-goal-in-seventh-straight-world-cup-game/",
+    "pubDate": "Sun, 28 Jun 2026 00:40:57 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-28T04:45:01.231Z"
+  },
+  {
+    "title": "Joe Biden attacks Trump and defends his record at Maryland Democratic Party gala",
+    "description": "Former President Joe Biden was briefly heckled while delivering the keynote address at a Maryland Democratic Party gala Saturday night, during which he attacked President Donald Trump and defended his record in office. Barely a few minutes into his speech, as he discussed how the story of America features a “constant push and pull between […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/presidential/4627906/joe-biden-attacks-trump-defends-record-maryland-democratic-party-gala/",
+    "pubDate": "Sun, 28 Jun 2026 04:37:14 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "presidential",
+      "democratic party",
+      "donald trump",
+      "hunter biden",
+      "jill biden",
+      "joe biden",
+      "maryland",
+      "trump administration",
+      "washington dc",
+      "wes moore"
+    ],
+    "collectedAt": "2026-06-28T04:45:01.231Z"
   }
 ]
