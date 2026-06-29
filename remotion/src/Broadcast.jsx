@@ -6,6 +6,7 @@ import { useRemotionMap } from './useRemotionMap.js';
 import { interpolateCameraOnPath, getActiveLocation, getActiveWaypoint } from './camera.js';
 import { RemotionFilmGrain, Chyron, Ticker, TopBar, MapAttribution, FadeOverlay, DataCallout, SubtitleBar, QuoteCallout, SourceCompareBar, ArcTokens, ComparisonOverlay, EscalationOverlay, ContextLabelOverlay } from './overlays.jsx';
 import { applyBroadcastChoropleth, addBroadcastHeatmap } from './broadcast-map.js';
+import { SceneRenderer } from './scene-plan/SceneRenderer.jsx';
 
 const PRE_ROLL_S  = 1;
 const POST_ROLL_S = 1;
@@ -256,6 +257,9 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
           />
         </div>
         {overlaySequences}
+        {shotlist.scenePlan && (
+          <SceneRenderer plan={shotlist.scenePlan} mapRef={mapRef} />
+        )}
         {fadeOverlay}
         {audioSequences}
       </AbsoluteFill>
@@ -288,6 +292,9 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
         />
       </div>
       {overlaySequences}
+      {shotlist.scenePlan && (
+        <SceneRenderer plan={shotlist.scenePlan} mapRef={mapRef} />
+      )}
       {fadeOverlay}
       {audioSequences}
     </AbsoluteFill>
