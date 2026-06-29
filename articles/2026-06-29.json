@@ -658,5 +658,89 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-29T08:45:01.566Z"
+  },
+  {
+    "title": "Morning news brief",
+    "description": "U.S. and Iran exchange strikes over the weekend, the search for survivors continues after the devastating earthquakes in Venezuela, Trump's immigration agenda gets boost from SCOTUS.",
+    "link": "https://www.npr.org/2026/06/29/nx-s1-5870662/morning-news-brief",
+    "pubDate": "Mon, 29 Jun 2026 04:45:13 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-06-29T09:00:01.175Z"
+  },
+  {
+    "title": "Winter Weather Warnings Issued in Montana as Other States Face ‘Heat Dome’",
+    "description": "A heat dome traps extreme heat in one region while a jet stream pulls cold air south, creating heat waves and snow across the U.S.",
+    "link": "https://www.newsweek.com/winter-weather-warnings-issued-montana-other-states-face-heat-dome-12133982",
+    "pubDate": "Mon, 29 Jun 2026 04:48:43 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-29T09:00:01.175Z"
+  },
+  {
+    "title": "Venezuela rescuers race against the clock to find more survivors",
+    "description": "Venezuela rescuers race against the clock to find more survivors.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/venezuela-rescuers-race-against-the-clock-to-find-more-survivors?traffic_source=rss",
+    "pubDate": "Mon, 29 Jun 2026 08:46:30 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-06-29T09:00:01.175Z"
+  },
+  {
+    "title": "Will Andy Burnham mark a shift in the UK’s Gaza policy?",
+    "description": "The Labour Party has the chance to review its policy on Israel, but observers say it will opt for continuity.",
+    "link": "https://www.aljazeera.com/news/2026/6/29/will-andy-burnham-mark-a-shift-in-the-uks-gaza-policy?traffic_source=rss",
+    "pubDate": "Mon, 29 Jun 2026 08:37:59 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-06-29T09:00:01.175Z"
+  },
+  {
+    "title": "UK’s likely next leader Andy Burnham to unveil economic, devolution plans",
+    "description": "Frontrunner to be next PM expected to announce a 10-year mission to raise living standards.",
+    "link": "https://www.aljazeera.com/news/2026/6/29/uks-likely-next-leader-andy-burnham-to-unveil-economic-devolution-agenda?traffic_source=rss",
+    "pubDate": "Mon, 29 Jun 2026 08:35:54 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-06-29T09:00:01.175Z"
+  },
+  {
+    "title": "Israel triggers huge explosion in southern Lebanon",
+    "description": "A massive explosion triggered by the Israeli military shook the southern Lebanese village of Majdal Zoun.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israel-triggers-huge-explosion-in-southern-lebanon?traffic_source=rss",
+    "pubDate": "Mon, 29 Jun 2026 08:32:26 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-06-29T09:00:01.175Z"
+  },
+  {
+    "title": "Watch World Cup Day 18: Canada beats South Africa, through to last 16",
+    "description": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+    "link": "https://www.aljazeera.com/video/2026/6/29/video-world-cup-2026-highlights?traffic_source=rss",
+    "pubDate": "Mon, 29 Jun 2026 08:30:41 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-06-29T09:00:01.175Z"
+  },
+  {
+    "title": "South Korea announces more than $1 trillion AI, chip investment drive",
+    "description": "South Korean president frames the push as a race against time to secure the country's domination in AI boom.",
+    "link": "https://www.aljazeera.com/news/2026/6/29/south-korea-announces-more-than-1-trillion-ai-chip-investment-drive?traffic_source=rss",
+    "pubDate": "Mon, 29 Jun 2026 08:29:37 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-06-29T09:00:01.175Z"
   }
 ]
