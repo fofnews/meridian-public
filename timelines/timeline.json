@@ -1026,6 +1026,11 @@
           "date": "2026-06-29",
           "edition": "morning",
           "update": "Russian President Vladimir Putin stated that Ukraine has proposed a mutual halt to long-range strikes, according to Al Jazeera. Russian forces are intensifying attacks along Ukraine's 'fortress belt' defensive line, according to Reuters. Russian recruits deployed on the front lines have an average life expectancy of just 20 to 35 minutes once on the battlefield, according to the New York Post."
+        },
+        {
+          "date": "2026-06-29",
+          "edition": "evening",
+          "update": "Russian missile and drone attacks killed at least eight people in Ukraine, prompting President Zelenskyy to condemn the strikes and call on allies to strengthen Ukraine's air defenses. Fuel shortages expanded to additional regions of Russia as Ukrainian strikes on energy infrastructure continued to impact fuel supplies nationwide, according to Reuters."
         }
       ],
       "parentId": null
@@ -2901,6 +2906,11 @@
           "date": "2026-06-29",
           "edition": "morning",
           "update": "The U.S. and Iran agreed to 'stand down' and allow commercial ships to pass through the Strait of Hormuz following a weekend of intermittent fighting, with a U.S. official confirming the arrangement to The Hill. U.S. and Iranian officials are scheduled to meet in Doha, Qatar on Tuesday to discuss the strait and broader MOU terms, according to the Washington Examiner. Oil prices rose and U.S. stock-index futures advanced on Sunday amid the renewed fighting before edging higher again once the stand-down agreement was announced, according to the Wall Street Journal, Reuters, and the NY Times. Global stocks drifted as markets absorbed news of the halt to attacks, according to Reuters."
+        },
+        {
+          "date": "2026-06-29",
+          "edition": "evening",
+          "update": "President Trump announced that U.S. envoys Jared Kushner and Steve Witkoff will travel to Doha, Qatar on Tuesday for talks with Iran, stating that Iran requested the meeting following the weekend clashes. Iran had not confirmed its participation as of the announcement, according to Al Jazeera and CBS News. Iran's president separately announced that Qatar will release $6 billion of $12 billion in frozen Iranian assets held in the country. Mediators have established de-escalation channels ahead of the planned talks, according to a source familiar with the matter cited by Reuters."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3479,7 +3489,7 @@
       "id": "artemis-moon-mission",
       "title": "Artemis Moon Mission",
       "firstSeen": "2026-03-23",
-      "lastSeen": "2026-06-24",
+      "lastSeen": "2026-06-29",
       "active": true,
       "entries": [
         {
@@ -3696,6 +3706,11 @@
           "date": "2026-06-24",
           "edition": "morning",
           "update": "NASA announced that astronauts preparing for the 2028 lunar landing will wear new spacesuits co-designed with Italian fashion house Prada, featuring improved safety systems and enhanced mobility."
+        },
+        {
+          "date": "2026-06-29",
+          "edition": "evening",
+          "update": "NASA announced a rescue mission for its Swift space telescope, which has been falling out of orbit and will be boosted to a higher altitude."
         }
       ],
       "parentId": null
@@ -4175,7 +4190,7 @@
       "title": "Correspondents' Dinner Shooting Investigation",
       "parentId": null,
       "firstSeen": "2026-04-28",
-      "lastSeen": "2026-06-22",
+      "lastSeen": "2026-06-29",
       "active": true,
       "entries": [
         {
@@ -4227,6 +4242,11 @@
           "date": "2026-06-22",
           "edition": "evening",
           "update": "U.S. District Judge Trevor McFadden on Monday denied suspect Cole Allen's motion to disqualify Acting Attorney General Todd Blanche and U.S. Attorney Jeanine Pirro from his criminal case, finding no conflict of interest with the prosecutors' continuation."
+        },
+        {
+          "date": "2026-06-29",
+          "edition": "evening",
+          "update": "A federal judge delayed the trial of Correspondents' Dinner shooting suspect Cole Allen after both parties and the court agreed to pause the speedy trial clock for 45 days."
         }
       ]
     },
@@ -4800,7 +4820,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-06-27",
+      "lastSeen": "2026-06-29",
       "active": true,
       "entries": [
         {
@@ -5047,6 +5067,11 @@
           "date": "2026-06-27",
           "edition": "morning",
           "update": "Frontline Congolese volunteers conducting safe burials in the DRC are facing hostility from frightened local communities on top of the risk of Ebola infection, as experts warn the current outbreak could become the worst ever recorded."
+        },
+        {
+          "date": "2026-06-29",
+          "edition": "evening",
+          "update": "DR Congo banned mass gatherings in the capital as a measure to curb Ebola's spread. Opposition politicians accused the government of exploiting the outbreak as a pretext to suppress a planned protest."
         }
       ]
     },
@@ -5166,5 +5191,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-29T11:05:25.786Z"
+  "updatedAt": "2026-06-29T21:10:20.868Z"
 }
