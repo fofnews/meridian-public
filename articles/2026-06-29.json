@@ -832,5 +832,102 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-29T09:15:01.671Z"
+  },
+  {
+    "title": "Murder charge after man dies at summer solstice event",
+    "description": "Isaac Clare-Watts was pronounced dead after police were called to reports of a body being found in the Nine Ladies Stone Circle area.",
+    "link": "https://www.bbc.co.uk/news/articles/c7vymvm1qpgo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 29 Jun 2026 08:40:07 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-29T09:30:02.291Z"
+  },
+  {
+    "title": "What to know about birthright citizenship ahead of Supreme Court's ruling",
+    "description": "The ruling is one of the most highly anticipated of the year.",
+    "link": "https://abcnews.com/Politics/faq-birthright-citizenship-ahead-supreme-courts-ruling/story?id=134215675",
+    "pubDate": "Mon, 29 Jun 2026 05:22:00 -0400",
+    "source": "ABC News",
+    "categories": [
+      "politics"
+    ],
+    "collectedAt": "2026-06-29T09:30:02.291Z"
+  },
+  {
+    "title": "Iran Risks Peace Talks With U.S. to Maintain Leverage Over Strait",
+    "description": "Iran sees its control over the Strait of Hormuz as critical leverage in peace talks with the United States. It seems willing to risk the cease-fire to maintain that power.",
+    "link": "https://www.nytimes.com/2026/06/28/world/europe/iran-us-strait-of-hormuz-peace-talks.html",
+    "pubDate": "Mon, 29 Jun 2026 09:23:04 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "iran-israel war (2025- )",
+      "united states international relations",
+      "international maritime organization",
+      "iran",
+      "strait of hormuz",
+      "israel",
+      "oman",
+      "araghchi, abbas",
+      "khamenei, mojtaba (1969- )",
+      "vaez, ali"
+    ],
+    "collectedAt": "2026-06-29T09:30:02.291Z"
+  },
+  {
+    "title": "In Venezuela, a Community Comes Together to Search for Earthquake Survivors",
+    "description": "Volunteers in a middle-class neighborhood in Caracas used drills, picks and hammers to break through concrete, trying to find anyone in need of rescue.",
+    "link": "https://www.nytimes.com/2026/06/28/world/americas/caracas-venezuela-earthquake-rescue.html",
+    "pubDate": "Mon, 29 Jun 2026 09:21:06 +0000",
+    "source": "NY Times",
+    "categories": [
+      "venezuela earthquakes (june 24, 2026)",
+      "rescues",
+      "earthquakes",
+      "caracas (venezuela)",
+      "venezuela"
+    ],
+    "collectedAt": "2026-06-29T09:30:02.291Z"
+  },
+  {
+    "title": "FIFA World Cup: Round of 32 schedule, predictions and latest news",
+    "description": "World Cup round of 32 continues with Brazil, Germany and the Netherlands in action as Canada celebrates history.",
+    "link": "https://www.aljazeera.com/sports/2026/6/29/fifa-world-cup-round-of-32-schedule-predictions-and-latest-news?traffic_source=rss",
+    "pubDate": "Mon, 29 Jun 2026 09:03:17 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-06-29T09:30:02.291Z"
+  },
+  {
+    "title": "The central bank of central  banks warns AI frenzy could trigger stock-market slump and jeopardize economy",
+    "description": "Rich stock market valuations, investor complacency, circular financing, and the potential knock-on effects in credit markets are a clear warning in the BIS annual report",
+    "link": "https://www.marketwatch.com/story/the-central-bank-of-central-banks-warns-ai-frenzy-could-trigger-stock-market-slump-and-jeopardize-economy-4d24b0a1?mod=mw_rss_topstories",
+    "pubDate": "Mon, 29 Jun 2026 09:13:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-06-29T09:30:02.291Z"
+  },
+  {
+    "title": "Mamdani-backed socialists look to take New York playbook nationwide after primary victories",
+    "description": "Democratic Socialists of America target Colorado, Michigan, and Wisconsin primaries after DSA-backed candidates ousted incumbents in New York City.",
+    "link": "https://www.foxnews.com/politics/mamdani-backed-socialists-look-take-new-york-playbook-nationwide-after-primary-victories",
+    "pubDate": "Mon, 29 Jun 2026 05:00:13 -0400",
+    "source": "Fox News",
+    "categories": [
+      "ebc7b1d7-039d-5bb0-be1a-9eae842f923e",
+      "fnc",
+      "fox news",
+      "fox-news/politics/elections/midterm-elections",
+      "fox-news/person/zohran-mamdani",
+      "fox-news/us/democratic-party",
+      "fox-news/politics/socialism",
+      "fox-news/politics/elections",
+      "fox-news/politics",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-06-29T09:30:02.291Z"
   }
 ]
