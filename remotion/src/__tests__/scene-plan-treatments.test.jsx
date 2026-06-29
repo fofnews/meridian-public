@@ -17,6 +17,7 @@ vi.mock('remotion', () => ({
 
 import { useCurrentFrame } from 'remotion';
 import { LowerThird } from '../scene-plan/treatments/LowerThird.jsx';
+import { StatCard } from '../scene-plan/treatments/StatCard.jsx';
 
 const LOWER_TREATMENT = { type: 'lower-third', tStart: 1.0, tEnd: 4.0, headline: 'Trade tensions rise', label: 'Context' };
 
@@ -28,6 +29,20 @@ describe('LowerThird', () => {
   it('renders null when fully faded out (frame 0)', () => {
     useCurrentFrame.mockReturnValue(0);
     const result = LowerThird({ treatment: LOWER_TREATMENT });
+    expect(result).toBeNull();
+  });
+});
+
+const STAT_TREATMENT = { type: 'stat-card', tStart: 2.0, tEnd: 5.0, value: '47%', label: 'DATA' };
+
+describe('StatCard', () => {
+  it('exports a function', () => {
+    expect(typeof StatCard).toBe('function');
+  });
+
+  it('renders null when fully faded out (frame 0)', () => {
+    useCurrentFrame.mockReturnValue(0);
+    const result = StatCard({ treatment: STAT_TREATMENT });
     expect(result).toBeNull();
   });
 });
