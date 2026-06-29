@@ -549,7 +549,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-28",
+      "lastSeen": "2026-06-29",
       "active": true,
       "entries": [
         {
@@ -1021,6 +1021,11 @@
           "date": "2026-06-28",
           "edition": "evening",
           "update": "A drone strike on a major Russian oil refinery killed at least two people and set the facility on fire, according to Russian authorities and the New York Post. Ukraine confirmed the strikes as part of its ongoing energy infrastructure campaign, though the Washington Examiner reported that Russian resilience and adaptation have limited the campaign's overall strategic impact."
+        },
+        {
+          "date": "2026-06-29",
+          "edition": "morning",
+          "update": "Russian President Vladimir Putin stated that Ukraine has proposed a mutual halt to long-range strikes, according to Al Jazeera. Russian forces are intensifying attacks along Ukraine's 'fortress belt' defensive line, according to Reuters. Russian recruits deployed on the front lines have an average life expectancy of just 20 to 35 minutes once on the battlefield, according to the New York Post."
         }
       ],
       "parentId": null
@@ -1649,7 +1654,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-28",
+      "lastSeen": "2026-06-29",
       "active": true,
       "entries": [
         {
@@ -2156,6 +2161,11 @@
           "date": "2026-06-28",
           "edition": "morning",
           "update": "The Israeli military reported killing Hezbollah militants and attacking a launcher in the Nabatieh area of southern Lebanon. Residents of Dahiya, a Hezbollah stronghold, began returning to the area as a tense truce took hold, with locals describing significant losses from the conflict. Lebanon's heritage minister stated that Israel damaged heritage sites across south Lebanon during its military operations."
+        },
+        {
+          "date": "2026-06-29",
+          "edition": "morning",
+          "update": "Israeli military operations targeting Hezbollah in southern Lebanon continued as the U.S. and Iran separately agreed to suspend attacks on Sunday, according to a U.S. official."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2164,7 +2174,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-28",
+      "lastSeen": "2026-06-29",
       "active": true,
       "entries": [
         {
@@ -2886,6 +2896,11 @@
           "date": "2026-06-28",
           "edition": "evening",
           "update": "Iran launched drone and missile strikes targeting U.S. allies Kuwait and Bahrain, with Kuwait's military reporting it intercepted Iranian drones and two ballistic missiles. Iran also threatened a complete halt to all negotiations with the U.S. following the continued exchange of attacks. Republican Sen. Roger Marshall stated on Meet the Press that he does not believe the conflict is over, though he described any further U.S. strikes as a 'mop-up operation.' Political scientist Robert Pape argued on Al Jazeera that the U.S. is attempting to 'squeak out of strategic defeat,' contending the fallout challenges Trump's self-image and curbs U.S. hubris."
+        },
+        {
+          "date": "2026-06-29",
+          "edition": "morning",
+          "update": "The U.S. and Iran agreed to 'stand down' and allow commercial ships to pass through the Strait of Hormuz following a weekend of intermittent fighting, with a U.S. official confirming the arrangement to The Hill. U.S. and Iranian officials are scheduled to meet in Doha, Qatar on Tuesday to discuss the strait and broader MOU terms, according to the Washington Examiner. Oil prices rose and U.S. stock-index futures advanced on Sunday amid the renewed fighting before edging higher again once the stand-down agreement was announced, according to the Wall Street Journal, Reuters, and the NY Times. Global stocks drifted as markets absorbed news of the halt to attacks, according to Reuters."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3805,7 +3820,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-28",
+      "lastSeen": "2026-06-29",
       "active": true,
       "entries": [
         {
@@ -4435,7 +4450,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-06-28",
+      "lastSeen": "2026-06-29",
       "active": true,
       "entries": [
         {
@@ -4697,6 +4712,11 @@
           "date": "2026-06-28",
           "edition": "evening",
           "update": "Iranian Foreign Minister Araghchi declared that Iran retains control of the Strait of Hormuz for 30 days and urged all parties not to interfere in its management. Article 5 of the U.S.-Iran Memorandum of Understanding emerged as a specific point of contention between the two countries over navigation rights. Following two nights of military confrontations in the strait, the IRGC maintained its position, markets in Iran reacted negatively, and the MOU was reported to be in jeopardy. The NY Times reported that Iran views its control of the strait as critical leverage in peace talks and appears willing to risk the ceasefire agreement to preserve that position."
+        },
+        {
+          "date": "2026-06-29",
+          "edition": "morning",
+          "update": "Shipping giant Hapag-Lloyd warned that chaos in the Strait of Hormuz has become a 'new normal,' citing conflicting routing directives and ongoing U.S.-Iranian strikes as Iran moves approximately 4 million barrels of oil through the waterway daily. The U.S. and Iran agreed to halt attacks and resume talks in Doha, Qatar, according to Axios, even as Iran continued to insist on maintaining control of the strait. A report cited by the NY Times found that while the Strait of Hormuz crisis has broadly weighed on Asian economies, China has emerged in a relatively more advantageous position compared to other nations in the region."
         }
       ]
     },
@@ -5146,5 +5166,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-28T21:05:21.973Z"
+  "updatedAt": "2026-06-29T11:05:25.786Z"
 }
