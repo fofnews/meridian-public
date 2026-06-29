@@ -25,6 +25,7 @@ import { fileURLToPath } from 'url';
 import { execFileSync } from 'child_process';
 
 import { findAnchors, filterAnchors, buildAnchoredCameraPath, ANCHOR_DEFAULTS, findQuoteOverlays } from './anchor-finder.js';
+import { ScenePlan } from '../remotion/src/scene-plan/schema.js';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 
@@ -366,5 +367,46 @@ if (!noAnchored) {
   }
 }
 
+// ── Build and validate ScenePlan from finalized shot overlays ─────────────────
+// Converts shot.overlays[] entries into typed ScenePlan treatments.
+// Overlay types not in ScenePlan v1 (arc-tokens, comparison, escalation) are
+// silently skipped — they continue to render via the existing overlaySequences path.
+
+function buildScenePlan(shotlist) {
+  const isWide = (shotlist.aspect ?? '16:9') !== '9:16';
+  const width  = isWide ? 1920 : 1080;
+  const height = isWide ? 1080 : 1920;
+
+  const scenes = shotlist.shots.map((shot, i) => {
+    const tStart = shot.t;
+    const tEnd   = shot.t + shot.hold;
+    const treatments = [];
+
+    for (const ov of (shot.overlays ?? [])) {
+      const ovTStart = shot.t + (ov.tOffset ?? 0);
+      const ovTEnd   = ovTStart + (ov.durationMs ?? 0) / 1000;
+      if (ovTEnd <= ovTStart) continue;
+
+      if (ov.type === 'data-callout') {
+        treatments.push({ type: 'stat-card', tStart: ovTStart, tEnd: ovTEnd, value: ov.text ?? '', label: 'DATA' });
+      } else if (ov.type === 'context-label') {
+        treatments.push({ type: 'lower-third', tStart: ovTStart, tEnd: ovTEnd, headline: ov.text ?? '', label: 'Context' });
+      } else if (ov.type === 'quote-callout') {
+        treatments.push({ type: 'lower-third', tStart: ovTStart, tEnd: ovTEnd, headline: ov.text ?? '', label: 'Quote' });
+      }
+    }
+
+    return { shotIndex: i, tStart, tEnd, treatments };
+  });
+
+  return { version: '1', edition: shotlist.edition, fps: 30, width, height, scenes };
+}
+
 console.log(`\nSaved ${wavPaths.length} per-shot WAVs to ${outDir}`);
+// Emit ScenePlan — validate at generation so a bad plan fails before render.
+const scenePlan = buildScenePlan(shotlist);
+ScenePlan.parse(scenePlan); // throws if schema is violated
+shotlist.scenePlan = scenePlan;
+writeFileSync(shotlistPath, JSON.stringify(shotlist, null, 2));
+console.log(`ScenePlan emitted (${scenePlan.scenes.length} scenes) → ${shotlistPath}`);
 console.log(`Total shots: ${shotlist.shots.length}  |  Clip duration: ${shotlist.duration}s`);
