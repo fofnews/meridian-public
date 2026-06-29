@@ -615,5 +615,48 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-06-29T08:30:01.150Z"
+  },
+  {
+    "title": "Oil Prices Rise on Possible Deal to Suspend Attacks in Gulf",
+    "description": "Oil prices edged higher after an American official said the U.S. and Iran had agreed to halt attacks in a key shipping lane, raising hopes that hostilities would not escalate.",
+    "link": "https://www.nytimes.com/2026/06/29/business/oil-gas-price-iran.html",
+    "pubDate": "Mon, 29 Jun 2026 08:28:48 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "oil (petroleum) and gasoline",
+      "prices (fares, fees and rates)",
+      "stocks and bonds",
+      "standard & poor's 500-stock index",
+      "iran"
+    ],
+    "collectedAt": "2026-06-29T08:45:01.566Z"
+  },
+  {
+    "title": "British American Tobacco to cut 5,500 jobs globally in restructuring push - Reuters",
+    "description": "British American Tobacco to cut 5,500 jobs globally in restructuring push  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT3Vwc2JXeTRDNDdRU3hiNTJuZVpVQUpHSy12a3dYZDc3Wm56QklwUklWckcwenpoMVJOQXIxWk1TbXQ5SVNtcmhfOG1SS3g0TVBzT2RvMWFseWJvdm9RZW5pQjhIVWZoVkJsZ0NsR1haMW9scnM5bjUxeXV4MTVvRldUSzl0Ui1tM3RWM0ZKOE9ITGpaV01kTGF0V0ZlUlM2R0Z4RkdFWHFoTGs?oc=5",
+    "pubDate": "Mon, 29 Jun 2026 07:46:46 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-06-29T08:45:01.566Z"
+  },
+  {
+    "title": "Lebanon says US-brokered Israel deal ‘will not be implemented’",
+    "description": "Lebanese Parliament Speaker Nabih Berri on Monday said that the framework agreement with Israel “will not pass” and “will not be implemented.”",
+    "link": "https://nypost.com/2026/06/29/world-news/lebanon-says-us-brokered-israel-deal-will-not-be-implemented/",
+    "pubDate": "Mon, 29 Jun 2026 04:43:39 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-29T08:45:01.566Z"
+  },
+  {
+    "title": "American Airlines plane forced to abort takeoff after another jet veers onto same runway at Miami airport",
+    "description": "An American Airlines plane bound for Bermuda was forced to abort its take-off at Miami airport after another jet veered onto the same runway.",
+    "link": "https://nypost.com/2026/06/29/us-news/american-airlines-plane-forced-to-abort-takeoff-after-another-jet-veers-onto-same-runway-at-miami-airport/",
+    "pubDate": "Mon, 29 Jun 2026 04:29:53 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-29T08:45:01.566Z"
   }
 ]
