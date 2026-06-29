@@ -1,5 +1,10 @@
 import { describe, it, expect, vi } from 'vitest';
 
+vi.mock('../scene-plan/projection.jsx', () => ({
+  useProject: vi.fn(() => null),
+  ProjectFnContext: { _currentValue: null },
+}));
+
 vi.mock('remotion', () => ({
   useCurrentFrame: vi.fn(() => 5),
   useVideoConfig: vi.fn(() => ({ fps: 30 })),
@@ -18,6 +23,7 @@ vi.mock('remotion', () => ({
 import { useCurrentFrame } from 'remotion';
 import { LowerThird } from '../scene-plan/treatments/LowerThird.jsx';
 import { StatCard } from '../scene-plan/treatments/StatCard.jsx';
+import { MapAnnotation } from '../scene-plan/treatments/MapAnnotation.jsx';
 
 const LOWER_TREATMENT = { type: 'lower-third', tStart: 1.0, tEnd: 4.0, headline: 'Trade tensions rise', label: 'Context' };
 
@@ -43,6 +49,21 @@ describe('StatCard', () => {
   it('renders null when fully faded out (frame 0)', () => {
     useCurrentFrame.mockReturnValue(0);
     const result = StatCard({ treatment: STAT_TREATMENT });
+    expect(result).toBeNull();
+  });
+});
+
+const MAP_TREATMENT = { type: 'map-annotation', tStart: 0, tEnd: 3, lat: 48.8, lng: 2.3, text: 'Paris' };
+
+describe('MapAnnotation', () => {
+  it('exports a function', () => {
+    expect(typeof MapAnnotation).toBe('function');
+  });
+
+  it('renders null when no ProjectFn is in context (deferred)', () => {
+    // ProjectFnContext defaults to null → useProject() returns null → component returns null
+    useCurrentFrame.mockReturnValue(15); // mid-duration, opacity > 0
+    const result = MapAnnotation({ treatment: MAP_TREATMENT });
     expect(result).toBeNull();
   });
 });
