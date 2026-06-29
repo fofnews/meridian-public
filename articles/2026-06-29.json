@@ -1218,5 +1218,336 @@
     "source": "AP News",
     "categories": [],
     "collectedAt": "2026-06-29T10:00:02.475Z"
+  },
+  {
+    "title": "Michael Jackson movie becomes highest-grossing biopic of all time",
+    "description": "The Michael Jackson movie was questioned by critics but has been a hit with fans around the world.",
+    "link": "https://www.bbc.co.uk/news/articles/cy49gpygn2vo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 29 Jun 2026 09:55:37 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-06-29T10:15:03.807Z"
+  },
+  {
+    "title": "A Frantic Search for Survivors in Venezuela, and Fires Scorch Western U.S.",
+    "description": "Plus, microdramas are trying to go mainstream.",
+    "link": "https://www.nytimes.com/2026/06/29/podcasts/the-headlines/survivors-venezuela-fires-us.html",
+    "pubDate": "Mon, 29 Jun 2026 10:00:10 +0000",
+    "source": "NY Times",
+    "categories": [
+      "fires and firefighters",
+      "rescues",
+      "venezuela",
+      "utah",
+      "colorado"
+    ],
+    "collectedAt": "2026-06-29T10:15:03.807Z"
+  },
+  {
+    "title": "As nation turns 250, many Americans say the Stars and Stripes is now a red flag",
+    "description": "The American flag can have many meanings, whether hung on front porches or waved in parades and protests. To some, it’s also tied up with President Trump.",
+    "link": "https://www.nbcnews.com/politics/donald-trump/america-turns-250-say-stars-stripes-now-red-flag-rcna345939",
+    "pubDate": "Mon, 29 Jun 2026 10:01:00 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-06-29T10:15:03.807Z"
+  },
+  {
+    "title": "Helping Americans Has Become Corporate Business as Usual",
+    "description": "As disasters grow more frequent, Americans increasingly expect businesses to lead with relief, recovery and community support.",
+    "link": "https://www.newsweek.com/helping-americans-has-become-corporate-business-as-usual-12124135",
+    "pubDate": "Mon, 29 Jun 2026 06:09:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-29T10:15:03.807Z"
+  },
+  {
+    "title": "NY Wants to Replace 'Mother' and 'Father'—Who Gets Left Behind? | Opinion",
+    "description": "Removing the titles of mom and dad and replacing them with \"gestating\" and \"non-gestating\" does not allow real parents to be seen.",
+    "link": "https://www.newsweek.com/ny-wants-to-replace-mother-and-fatherwho-gets-left-behind-opinion-12125776",
+    "pubDate": "Mon, 29 Jun 2026 06:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-29T10:15:03.807Z"
+  },
+  {
+    "title": "‘Tit-for-tat US-Iran attacks appear to be over’",
+    "description": "Former US Ambassador to Oman Richard Schmierer says recent US-Iran military exchanges appear to have run their course.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/tit-for-tat-us-iran-attacks-appear-to-be?traffic_source=rss",
+    "pubDate": "Mon, 29 Jun 2026 09:58:26 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-06-29T10:15:03.807Z"
+  },
+  {
+    "title": "Russia-Ukraine war: Why has Putin rejected limits on long-range strikes?",
+    "description": "Russian president claims Ukraine, which has ramped up attacks on Russia's energy sector, proposed the limits.",
+    "link": "https://www.aljazeera.com/news/2026/6/29/russia-ukraine-war-why-has-putin-rejected-limits-on-long-range-strikes?traffic_source=rss",
+    "pubDate": "Mon, 29 Jun 2026 09:58:08 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-06-29T10:15:03.807Z"
+  },
+  {
+    "title": "GOP lawmakers fear Trump is out of sync with voters on the economy",
+    "description": "GOP lawmakers fear that President Trump is out of sync with them and many American voters on the economy, the biggest issue of the 2024 midterm elections. Trump’s refusal to sign the 21st Century ROAD to Housing Act is the latest troubling sign for GOP senators, who have pressed Trump for weeks to pay more…",
+    "link": "https://thehill.com/homenews/senate/5943260-gop-lawmakers-trump-economy/",
+    "pubDate": "Mon, 29 Jun 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "news",
+      "senate"
+    ],
+    "collectedAt": "2026-06-29T10:15:03.807Z"
+  },
+  {
+    "title": "The Memo: Trump, GOP race the clock to bring inflation down before midterms",
+    "description": "President Trump and his Republican colleagues are in a race against time, hoping that inflation can be bent downward in time to revive their chances in November’s midterm elections. Seen through one lens, the picture is bleak.  New data released late last week on personal consumption expenditures (PCE) showed inflation above 4 percent. Even excluding food…",
+    "link": "https://thehill.com/homenews/administration/5943334-trump-republicans-inflation-gas-prices-midterms/",
+    "pubDate": "Mon, 29 Jun 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "business",
+      "campaign",
+      "news"
+    ],
+    "collectedAt": "2026-06-29T10:15:03.807Z"
+  },
+  {
+    "title": "This week on The Hill: House aims to move priorities after conservative SAVE America Act rebellion",
+    "description": "Speaker Mike Johnson (R-La.) has an ambitious legislative agenda this week, but it’s unclear whether he can move those priorities forward as a group of conservative hard-liners demand action on the Safeguard American Voter Eligibility (SAVE America) Act. President Trump urged House Republicans last week to fall in line after conservative rebels brought most House…",
+    "link": "https://thehill.com/homenews/house/5943234-house-ndaa-appropriations-save-america-act-reconciliation/",
+    "pubDate": "Mon, 29 Jun 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "house",
+      "news"
+    ],
+    "collectedAt": "2026-06-29T10:15:03.807Z"
+  },
+  {
+    "title": "Magnificent Seven slump sent momentum stocks to their fourth worst performance in 22 years. Here’s what happens 70% of the time.",
+    "description": "The S&P 500 underperformed its equally weighted counterpart by 350 basis points last week",
+    "link": "https://www.marketwatch.com/story/magnificent-seven-slump-sent-momentum-stocks-to-their-fourth-worst-performance-in-22-years-heres-what-happens-70-of-the-time-720fd2e9?mod=mw_rss_topstories",
+    "pubDate": "Mon, 29 Jun 2026 10:05:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-06-29T10:15:03.807Z"
+  },
+  {
+    "title": "Tom Brady gives Raiders harsh 'reality' check after the team won only three games in 2025",
+    "description": "Tom Brady said on a podcast that every player and staff member underperformed, demanding a massive improvement from the Raiders after a dismal 3-14 season in 2025.",
+    "link": "https://www.foxnews.com/sports/tom-brady-gives-raiders-harsh-reality-check-team-won-three-games-2025",
+    "pubDate": "Mon, 29 Jun 2026 06:04:22 -0400",
+    "source": "Fox News",
+    "categories": [
+      "0c3bf751-ac35-53f4-9e9d-5a07df74ccbb",
+      "fnc",
+      "fox news",
+      "fox-news/sports/nfl/las-vegas-raiders",
+      "fox-news/person/fernando-mendoza",
+      "fox-news/person/kirk-cousins",
+      "fox-news/sports/nfl",
+      "fox-news/person/tom-brady",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-06-29T10:15:03.807Z"
+  },
+  {
+    "title": "Archaeologists uncover freeze-dried potatoes older than the US in 'excellent' condition",
+    "description": "Archaeologists in Peru discovered freeze-dried potatoes dating back 500 years to the Inca Empire at the Tambo Viejo site in the Acarí Valley.",
+    "link": "https://www.foxnews.com/food-drink/archaeologists-uncover-freeze-dried-potatoes-older-us-excellent-condition",
+    "pubDate": "Mon, 29 Jun 2026 06:00:10 -0400",
+    "source": "Fox News",
+    "categories": [
+      "c3d6d0fe-8722-59de-a070-679eba490f4f",
+      "fnc",
+      "fox news",
+      "fox-news/food-drink",
+      "fox-news/lifestyle/food",
+      "fox-news/cuisines",
+      "fox-news/food-drink/food/studies",
+      "fox-news/science/archaeology",
+      "fox-news/science/archaeology/history",
+      "fox-news/lifestyle",
+      "fox-news/food-drink",
+      "article"
+    ],
+    "collectedAt": "2026-06-29T10:15:03.807Z"
+  },
+  {
+    "title": "Alex Murdaugh returns to court as defense argues for retrial move after clerk scandal poisoned jury pool",
+    "description": "Alex Murdaugh returns to court Monday for a status conference as his murder retrial takes shape, with change of venue and scheduling as key issues.",
+    "link": "https://www.foxnews.com/us/alex-murdaugh-returns-court-defense-argues-retrial-move-clerk-scandal-poisoned-jury-pool",
+    "pubDate": "Mon, 29 Jun 2026 06:00:10 -0400",
+    "source": "Fox News",
+    "categories": [
+      "53231d89-ceda-5ca0-b355-d582e3b2d10f",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/southeast/south-carolina",
+      "fox-news/entertainment/events/in-court",
+      "fox-news/us/true-crime",
+      "fox-news/us/crime/homicide",
+      "fox-news/crime",
+      "fox-news/us",
+      "fox-news/us/crime/trials",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-06-29T10:15:03.807Z"
+  },
+  {
+    "title": "Melania Trump’s former top aide is campaigning her new TV show",
+    "description": "MELANIA Trump's former top aide, Stephanie Winston Wolkoff, is determined to not be defined by her unceremonious White House departure.",
+    "link": "https://pagesix.com/2026/06/29/celebrity-news/melania-trumps-former-top-aide-is-campaigning-her-new-tv-show/",
+    "pubDate": "Mon, 29 Jun 2026 06:04:50 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-29T10:15:03.807Z"
+  },
+  {
+    "title": "How digital price tags are spreading at retailers like Walmart — and sparking ‘surveillance’ fears",
+    "description": "Union officials have suggested that the digital tags could eventually be used to exploit so-called biometric data that identifies shoppers who enter stores -- in particular facial recognition data -- to charge customers different prices.",
+    "link": "https://nypost.com/2026/06/29/business/digital-price-tags-are-spreading-at-retailers-like-walmart-and-sparking-surveillance-fears/",
+    "pubDate": "Mon, 29 Jun 2026 06:01:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-29T10:15:03.807Z"
+  },
+  {
+    "title": "Dem leader, experts admit what fueled NYC’s socialist surge — and it wasn’t ‘affordability’ pledge",
+    "description": "State Democratic Party Jay Jacobs admitted that anti-Israel fervor helped socialist insurgents topple establishment Democratic incumbents Adriano Espaillat and Dan Goldman, who've backed the Jewish state.",
+    "link": "https://nypost.com/2026/06/29/us-news/dem-leader-experts-admit-what-fueled-nys-socialist-surge-and-it-wasnt-affordability-pledge/",
+    "pubDate": "Mon, 29 Jun 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-29T10:15:03.807Z"
+  },
+  {
+    "title": "Polymarket promo code NYPMAX: Deposit $20, get $50 for Wimbledon",
+    "description": "Deposit $20, get a $50 trading bonus with the Polymarket promo code NYPMAX for Wimbledon.",
+    "link": "https://nypost.com/2026/06/29/betting/polymarket-promo-code-nypmax-deposit-20-get-50-for-wimbledon/",
+    "pubDate": "Mon, 29 Jun 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-29T10:15:03.807Z"
+  },
+  {
+    "title": "Luigi Mangione set to return to court for alleged murder of UnitedHealthcare CEO with defense strategy a mystery",
+    "description": "The 28-year-old accused assassin will appear in Manhattan federal court to hash out the schedule of his federal trial, which is currently set for October but may be moved to early 2027.",
+    "link": "https://nypost.com/2026/06/29/us-news/luigi-mangione-set-to-return-to-court-for-alleged-murder-of-unitedhealthcare-ceo/",
+    "pubDate": "Mon, 29 Jun 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-29T10:15:03.807Z"
+  },
+  {
+    "title": "How to celebrate America’s 250th birthday on July 4 in NYC",
+    "description": "Local parties ranging from the largest naval parade ever to a spectacular performance by the Blue Angels are slated for America's big bash, with countless other events scheduled across all five boroughs, too.",
+    "link": "https://nypost.com/2026/06/29/us-news/how-to-celebrate-americas-250th-birthday-on-july-4-in-nyc/",
+    "pubDate": "Mon, 29 Jun 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-29T10:15:03.807Z"
+  },
+  {
+    "title": "Inspired by the World Cup? Here’s how to avoid an injury that could sideline you",
+    "description": "The World Cup has millions of fans itching to lace up their cleats — but could your comeback game land you on the sidelines? New York Post Wellness Editor Carly Stern sits down with NYU Langone sports medicine specialist Dr. Julia Iafrate to break down the biggest mistakes weekend warriors make when they jump back...",
+    "link": "https://nypost.com/video/inspired-by-the-world-cup-heres-how-to-avoid-an-injury-that-could-sideline-you/",
+    "pubDate": "Mon, 29 Jun 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-29T10:15:03.807Z"
+  },
+  {
+    "title": "Dave Portnoy reveals what could end his feud with Roger Goodell — and the Barstool figure he blames for nearly getting him canceled",
+    "description": "\"I came to learn the Patriots appreciated what we did,\" Dave Portnoy writes of one of his infamous stunts.",
+    "link": "https://nypost.com/2026/06/29/sports/dave-portnoy-reveals-what-could-end-his-feud-with-roger-goodell/",
+    "pubDate": "Mon, 29 Jun 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-29T10:15:03.807Z"
+  },
+  {
+    "title": "Gas prices drop to $3.86 per gallon, the lowest national average price since March",
+    "description": "The national average price for a gallon of regular gas continued to drop on Monday, even after the tit-for-tat military strikes between Iran and the United States occurred in recent days. Gas prices dropped nearly seven cents from a week ago to $3.86 per gallon on Monday, according to AAA. It is the lowest price […]",
+    "link": "https://www.washingtonexaminer.com/news/4628259/gas-prices-drop-to-lowest-national-average-price-since-march/",
+    "pubDate": "Mon, 29 Jun 2026 10:06:04 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "economy",
+      "energy",
+      "news",
+      "donald trump",
+      "fossil fuels",
+      "gas",
+      "gas prices",
+      "iran",
+      "president donald trump",
+      "strait of hormuz"
+    ],
+    "collectedAt": "2026-06-29T10:15:03.807Z"
+  },
+  {
+    "title": "Trump changed his tune on Ukraine, but don’t expect the cash spigot to turn back on soon",
+    "description": "President Donald Trump has been impressed by Ukraine’s military prowess, but that doesn’t mean he’ll start cutting blank checks to President Volodymyr Zelensky. Both at the G7 last week and upon his return to Washington, Trump voiced approval of Ukraine’s stacking battlefield wins, a departure from his frequent claims that Ukraine had slim to no […]",
+    "link": "https://www.washingtonexaminer.com/news/white-house/4626426/trump-changed-his-tune-on-ukraine/",
+    "pubDate": "Mon, 29 Jun 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "white house",
+      "donald trump",
+      "drones",
+      "russia",
+      "ukraine",
+      "volodymyr zelensky",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-06-29T10:15:03.807Z"
+  },
+  {
+    "title": "Races to watch in Colorado’s 2026 primary elections",
+    "description": "Colorado voters will hit the polls on Tuesday to make their voices heard in the state’s 2026 primary elections.  There are several statewide and federal races that pundits have their eye on in the Centennial State, from primaries in toss-up House districts to the race to replace term-limited Gov. Jared Polis (D-CO).  Colorado has not […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4628089/races-to-watch-colorado-primary/",
+    "pubDate": "Mon, 29 Jun 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "congressional",
+      "state",
+      "2026 elections",
+      "colorado",
+      "denver",
+      "governor",
+      "john hickenlooper",
+      "michael bennet",
+      "midterm elections"
+    ],
+    "collectedAt": "2026-06-29T10:15:03.807Z"
+  },
+  {
+    "title": "Socialists see success by abandoning anti-Trump messaging for anti-establishment strategy",
+    "description": "The Democratic Socialists of America secured a slate of candidates who notched high-profile victories in New York, fueling new questions about whether the organization’s brand of progressive politics is finding a broader audience within the Democratic Party. While many national Democratic leaders have focused the party’s midterm messaging on taking back control of Congress and […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/4626775/socialists-success-anti-establishment-strategy/",
+    "pubDate": "Mon, 29 Jun 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "campaigns",
+      "congressional",
+      "2026 elections",
+      "congress",
+      "democratic party",
+      "democratic primary",
+      "donald trump",
+      "establishment",
+      "socialism"
+    ],
+    "collectedAt": "2026-06-29T10:15:03.807Z"
   }
 ]
