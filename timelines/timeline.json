@@ -1036,6 +1036,11 @@
           "date": "2026-06-30",
           "edition": "morning",
           "update": "Moscow Mayor Sergei Sobyanin reported that Russian air defenses shot down more than 60 drones during an overnight attack on Moscow, with no injuries reported. Ukrainian drones also struck a Russian space communications center in the Moscow region, part of a broader series of strikes targeting Russian communication networks and infrastructure."
+        },
+        {
+          "date": "2026-06-30",
+          "edition": "evening",
+          "update": "Rheinmetall received an order from Ukraine for artillery shells and propellant charges, according to Reuters. Analysts assessed that Ukrainian strikes have created a fuel crisis in Russia with potential domestic economic consequences, while noting Russia will continue to prioritize its war effort over resolving domestic energy shortages. Newsweek published a five-scenario analysis framing Crimea as a strategic pressure point where Ukraine is actively testing Russian command structures and supply lines."
         }
       ],
       "parentId": null
@@ -4147,6 +4152,11 @@
           "date": "2026-06-30",
           "edition": "morning",
           "update": "President Trump announced that U.S. negotiators are en route to Doha, Qatar, for what he described as a 'perhaps important' meeting on Iran, though the U.S. and Iran are sending conflicting signals about the meeting's prospects, leaving the next step in negotiations uncertain. Oil prices fell as the planned Doha talks raised investor expectations of increased Iranian oil supply returning to markets. Republican senators view the Iran deal and Strait of Hormuz negotiations led by Vice President Vance as potentially defining issues for the 2028 presidential primary, where Vance and Secretary of State Rubio are considered early front-runners, according to The Hill."
+        },
+        {
+          "date": "2026-06-30",
+          "edition": "evening",
+          "update": "Iran sent an expert-level delegation to Doha focused specifically on implementing the Memorandum of Understanding and resolving frozen asset issues, not broader nuclear or diplomatic negotiations. Qatar's foreign ministry publicly stated that no high-level meetings or direct U.S.-Iran talks are scheduled, directly contradicting White House framing of the Doha meeting as significant diplomatic engagement. U.S. Special Envoy Steve Witkoff and Jared Kushner met with Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani in Doha for indirect talks, with no direct U.S.-Iran session taking place. The contradicting accounts from Washington, Tehran, and Doha over the nature and scope of the talks have further complicated prospects for a formal deal, with Reuters reporting that uncertainty over Qatar's diplomatic role is a key complicating factor."
         }
       ]
     },
@@ -4762,6 +4772,11 @@
           "date": "2026-06-30",
           "edition": "morning",
           "update": "Morgan Stanley cut its oil-price targets for 2025 and 2026, citing the Strait of Hormuz reopening faster than expected, according to the Wall Street Journal. Shipping traffic in the strait had begun recovering but pulled back again over the weekend following the exchange of U.S.-Iranian strikes, according to the NY Times."
+        },
+        {
+          "date": "2026-06-30",
+          "edition": "evening",
+          "update": "Oman has proposed a plan in which Iran and Oman would jointly collect fees from ships transiting the Strait of Hormuz, according to officials and diplomats cited by the NY Times, emerging as a potential framework following the recent U.S.-Iran conflict. A Reuters poll found analysts have lowered their oil price forecasts following the strait's reopening, which has reduced concerns about sustained global crude supply disruptions."
         }
       ]
     },
@@ -5216,5 +5231,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-30T11:06:15.200Z"
+  "updatedAt": "2026-06-30T21:10:23.586Z"
 }
