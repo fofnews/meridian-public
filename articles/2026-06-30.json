@@ -752,5 +752,23 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-06-30T08:00:01.099Z"
+  },
+  {
+    "title": "Aspen Acres Fire Tracker: Blaze Explodes To 23,000 Acres With No Air Support",
+    "description": "The fire was at zero percent containment early Tuesday morning, and strong winds have hampered all efforts to deploy air support.",
+    "link": "https://www.newsweek.com/aspen-acres-fire-tracker-blaze-explodes-23000-acres-no-air-support-colorado-fire-12138992",
+    "pubDate": "Tue, 30 Jun 2026 03:57:58 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-06-30T08:15:01.529Z"
+  },
+  {
+    "title": "Rare tick-borne virus turns deadly fast as US cases reach record high, experts warn",
+    "description": "The disease, known as Powassan virus, was named for the Ontario town where it was discovered.",
+    "link": "https://nypost.com/2026/06/30/health/rare-tick-borne-virus-turns-deadly-fast-as-us-cases-reach-record-high-experts-warn/",
+    "pubDate": "Tue, 30 Jun 2026 04:05:42 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-06-30T08:15:01.529Z"
   }
 ]
