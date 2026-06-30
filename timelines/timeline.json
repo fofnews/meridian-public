@@ -549,7 +549,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-29",
+      "lastSeen": "2026-06-30",
       "active": true,
       "entries": [
         {
@@ -1031,6 +1031,11 @@
           "date": "2026-06-29",
           "edition": "evening",
           "update": "Russian missile and drone attacks killed at least eight people in Ukraine, prompting President Zelenskyy to condemn the strikes and call on allies to strengthen Ukraine's air defenses. Fuel shortages expanded to additional regions of Russia as Ukrainian strikes on energy infrastructure continued to impact fuel supplies nationwide, according to Reuters."
+        },
+        {
+          "date": "2026-06-30",
+          "edition": "morning",
+          "update": "Moscow Mayor Sergei Sobyanin reported that Russian air defenses shot down more than 60 drones during an overnight attack on Moscow, with no injuries reported. Ukrainian drones also struck a Russian space communications center in the Moscow region, part of a broader series of strikes targeting Russian communication networks and infrastructure."
         }
       ],
       "parentId": null
@@ -1174,7 +1179,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-26",
+      "lastSeen": "2026-06-30",
       "active": true,
       "entries": [
         {
@@ -1521,6 +1526,11 @@
           "date": "2026-06-26",
           "edition": "morning",
           "update": "Israeli Prime Minister Netanyahu declared that Israeli troops will remain in occupied areas of southern Lebanon 'as long as necessary,' even as a US-Iran deal is in place and Israeli attacks on Lebanon continued."
+        },
+        {
+          "date": "2026-06-30",
+          "edition": "morning",
+          "update": "Israeli Finance Minister Bezalel Smotrich called for the immediate establishment of Jewish settlements in Gaza and its 'conquest,' according to Al Jazeera. An Israeli strike on the Mawasi area of Khan Younis, within Gaza's designated humanitarian zone, killed two people and injured several others while setting tents ablaze. Separately, the House is preparing to vote on legislation sponsored by Rep. Thomas Massie (R-KY) that would eliminate most U.S. military aid to Israel, with a vote expected as soon as this week."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2179,7 +2189,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-29",
+      "lastSeen": "2026-06-30",
       "active": true,
       "entries": [
         {
@@ -2911,6 +2921,11 @@
           "date": "2026-06-29",
           "edition": "evening",
           "update": "President Trump announced that U.S. envoys Jared Kushner and Steve Witkoff will travel to Doha, Qatar on Tuesday for talks with Iran, stating that Iran requested the meeting following the weekend clashes. Iran had not confirmed its participation as of the announcement, according to Al Jazeera and CBS News. Iran's president separately announced that Qatar will release $6 billion of $12 billion in frozen Iranian assets held in the country. Mediators have established de-escalation channels ahead of the planned talks, according to a source familiar with the matter cited by Reuters."
+        },
+        {
+          "date": "2026-06-30",
+          "edition": "morning",
+          "update": "Stock market data from Monday trading sessions in Q2 showed above-average gains, a pattern analysts have linked to weekend Iran-related news developments; the Wall Street Journal dubbed the phenomenon the 'Axios put.'"
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3835,7 +3850,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-29",
+      "lastSeen": "2026-06-30",
       "active": true,
       "entries": [
         {
@@ -3890,7 +3905,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-06-27",
+      "lastSeen": "2026-06-30",
       "active": true,
       "entries": [
         {
@@ -4127,6 +4142,11 @@
           "date": "2026-06-27",
           "edition": "evening",
           "update": "Vague language in the U.S.-Iran deal requiring Iran to 'make arrangements' for ship passage through the Strait of Hormuz has generated conflict, with Iran interpreting the clause as authority to designate which routes ships must take, according to the NY Times. Vice President Vance defended the administration's Iran strategy, stating the U.S. benefits regardless of negotiation outcomes, claiming Iran's nuclear program would be destroyed and the country weakened even without a deal."
+        },
+        {
+          "date": "2026-06-30",
+          "edition": "morning",
+          "update": "President Trump announced that U.S. negotiators are en route to Doha, Qatar, for what he described as a 'perhaps important' meeting on Iran, though the U.S. and Iran are sending conflicting signals about the meeting's prospects, leaving the next step in negotiations uncertain. Oil prices fell as the planned Doha talks raised investor expectations of increased Iranian oil supply returning to markets. Republican senators view the Iran deal and Strait of Hormuz negotiations led by Vice President Vance as potentially defining issues for the 2028 presidential primary, where Vance and Secretary of State Rubio are considered early front-runners, according to The Hill."
         }
       ]
     },
@@ -4470,7 +4490,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-06-29",
+      "lastSeen": "2026-06-30",
       "active": true,
       "entries": [
         {
@@ -4737,6 +4757,11 @@
           "date": "2026-06-29",
           "edition": "morning",
           "update": "Shipping giant Hapag-Lloyd warned that chaos in the Strait of Hormuz has become a 'new normal,' citing conflicting routing directives and ongoing U.S.-Iranian strikes as Iran moves approximately 4 million barrels of oil through the waterway daily. The U.S. and Iran agreed to halt attacks and resume talks in Doha, Qatar, according to Axios, even as Iran continued to insist on maintaining control of the strait. A report cited by the NY Times found that while the Strait of Hormuz crisis has broadly weighed on Asian economies, China has emerged in a relatively more advantageous position compared to other nations in the region."
+        },
+        {
+          "date": "2026-06-30",
+          "edition": "morning",
+          "update": "Morgan Stanley cut its oil-price targets for 2025 and 2026, citing the Strait of Hormuz reopening faster than expected, according to the Wall Street Journal. Shipping traffic in the strait had begun recovering but pulled back again over the weekend following the exchange of U.S.-Iranian strikes, according to the NY Times."
         }
       ]
     },
@@ -5191,5 +5216,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-29T21:10:20.868Z"
+  "updatedAt": "2026-06-30T11:06:15.200Z"
 }
