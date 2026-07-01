@@ -738,5 +738,35 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-01T07:15:01.685Z"
+  },
+  {
+    "title": "Trump administration threatens Kansas school district funding over transgender student policy",
+    "description": "The Trump administration threatened on Tuesday to withhold federal funding from the Kansas City Public School District over its transgender policies.",
+    "link": "https://www.foxnews.com/politics/trump-administration-threatens-kansas-school-district-funding-over-transgender-student-policy",
+    "pubDate": "Wed, 01 Jul 2026 03:18:09 -0400",
+    "source": "Fox News",
+    "categories": [
+      "ebe0d78d-b8ce-5912-a8e9-5c54e6a76758",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/us/education/dept-of-education",
+      "fox-news/us/education",
+      "fox-news/politics/justice-department",
+      "fox-news/us/us-regions/midwest/kansas",
+      "fox-news/person/donald-trump",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-07-01T07:30:01.875Z"
+  },
+  {
+    "title": "Italy puts ancient Etruscan tomb paintings worth millions on display in latest cultural acquisition",
+    "description": "Italy on Tuesday put on display one of the best known examples of Etruscan painting, panels from a tomb that it acquired for $17 million.",
+    "link": "https://nypost.com/2026/07/01/lifestyle/italy-puts-ancient-etruscan-tomb-paintings-worth-millions-on-display-in-latest-cultural-acquisition/",
+    "pubDate": "Wed, 01 Jul 2026 03:19:53 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-01T07:30:01.875Z"
   }
 ]
