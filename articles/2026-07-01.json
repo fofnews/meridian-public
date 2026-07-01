@@ -430,5 +430,55 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-01T05:45:01.524Z"
+  },
+  {
+    "title": "Thousands of beer cans spill across Connecticut highway after tractor-trailer overturns",
+    "description": "A tractor-trailer carrying Bud Light and Michelob Ultra overturned on Route 44 in Salisbury, Connecticut, spilling thousands of beer cans across the road.",
+    "link": "https://www.foxnews.com/us/thousands-beer-cans-spill-across-connecticut-highway-tractor-trailer-overturns",
+    "pubDate": "Wed, 01 Jul 2026 01:50:07 -0400",
+    "source": "Fox News",
+    "categories": [
+      "5dc54691-ce43-547f-afad-dc01aabd60d5",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/northeast/connecticut",
+      "fox-news/lifestyle/drinks/beer",
+      "fox-news/beer",
+      "fox-news/auto/attributes/safety",
+      "fox-news/auto/style/trucks",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-07-01T06:00:01.831Z"
+  },
+  {
+    "title": "Another New Yorker says officers confronted him after he criticized ICE",
+    "description": "A New York man says federal officers warned him over an email criticizing ICE, sparking a first amendment debate over free speech and government criticism.",
+    "link": "https://www.foxnews.com/us/another-new-yorker-says-officers-confronted-him-after-he-criticized-ice",
+    "pubDate": "Wed, 01 Jul 2026 01:43:50 -0400",
+    "source": "Fox News",
+    "categories": [
+      "4d912d97-5ad9-5af8-b542-619fa104d113",
+      "fnc",
+      "fox news",
+      "fox-news/us/immigration",
+      "fox-news/us/personal-freedoms/first-amendment",
+      "fox-news/politics/executive/homeland-security",
+      "fox-news/person/donald-trump",
+      "fox-news/politics",
+      "fox-news/us/personal-freedoms",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-07-01T06:00:01.831Z"
+  },
+  {
+    "title": "Colombian election loser threatens ‘civil disobedience’ if winner does not ditch US citizenship",
+    "description": "De la Espriella, a conservative lawyer who ran on a tough-on-crime platform and was endorsed by US President Donald Trump, won Colombia’s presidential runoff on June 21, defeating Cepeda by 250,000 votes.",
+    "link": "https://nypost.com/2026/07/01/world-news/colombian-election-loser-threatens-civil-disobedience-if-winner-doesnt-ditch-us-citizenship/",
+    "pubDate": "Wed, 01 Jul 2026 01:46:44 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-01T06:00:01.831Z"
   }
 ]
