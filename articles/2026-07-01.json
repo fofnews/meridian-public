@@ -5200,5 +5200,355 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-01T15:00:01.751Z"
+  },
+  {
+    "title": "Americans are showing up for the World Cup in record-breaking numbers",
+    "description": "While the U.S. isn't a bona fide soccer nation yet, the past three weeks have perhaps shown what it would feel like if it were.",
+    "link": "https://www.npr.org/2026/07/01/nx-s1-5876297/world-cup-viewership-fox-telemundo",
+    "pubDate": "Wed, 01 Jul 2026 11:06:18 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-07-01T15:15:01.660Z"
+  },
+  {
+    "title": "Funerals held for 14 Pakistani children killed in tutoring center collapse",
+    "description": "Police are investigating whether negligence during construction work caused the collapse in the eastern city of Lahore on Tuesday.",
+    "link": "https://www.npr.org/2026/07/01/g-s1-131537/funerals-held-for-14-pakistani-children-killed-in-tutoring-center-collapse",
+    "pubDate": "Wed, 01 Jul 2026 10:57:00 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-07-01T15:15:01.660Z"
+  },
+  {
+    "title": "Dog pulled from rubble 5 days after Venezuela quakes, video shows",
+    "description": "Dramatic video showed the moment a rescue team pulled a small dog from the rubble nearly a week after twin earthquakes​ devastated Venezuela.",
+    "link": "https://www.cbsnews.com/news/venezuela-earthquakes-dog-rescued-video/",
+    "pubDate": "Wed, 01 Jul 2026 11:14:33 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-07-01T15:15:01.660Z"
+  },
+  {
+    "title": "Map Shows Where Home Prices Have Soared the Most And Least Since COVID",
+    "description": "Some of the states that have seen the biggest increases during the pandemic are likely to see prices continue rising, experts say.",
+    "link": "https://www.newsweek.com/map-shows-where-home-prices-have-soared-the-most-and-least-since-covid-12139847",
+    "pubDate": "Wed, 01 Jul 2026 11:09:15 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-01T15:15:01.660Z"
+  },
+  {
+    "title": "Everything We Know About Nancy Guthrie Ransom Notes As Veracity Scrutinized",
+    "description": "Five months on, the disappearance of Nancy Guthrie, the elderly mother of \"Today\" co-host Savannah Guthrie, remains unsolved.",
+    "link": "https://www.newsweek.com/everything-know-nancy-guthrie-ransom-notes-veracity-scrutinized-12146196",
+    "pubDate": "Wed, 01 Jul 2026 11:04:58 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-01T15:15:01.660Z"
+  },
+  {
+    "title": "Democrats’ Chances of Flipping Senate, According to Polls",
+    "description": "Democrats and Republicans are locked in a tight race for Senate control, according to new polling data.",
+    "link": "https://www.newsweek.com/democrats-chances-flipping-senate-polls-12146375",
+    "pubDate": "Wed, 01 Jul 2026 11:04:11 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-01T15:15:01.660Z"
+  },
+  {
+    "title": "Kroger is Buying Giant Eagle: What Shoppers Need to Know",
+    "description": "Kroger is buying Giant Eagle in a massive $1.65B deal. Where stores could close and how your local grocery run will change.",
+    "link": "https://www.newsweek.com/kroger-buying-giant-eagle-will-grocery-stores-close-12146204",
+    "pubDate": "Wed, 01 Jul 2026 11:03:42 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-01T15:15:01.660Z"
+  },
+  {
+    "title": "Trump says he told Pulte to ‘declassify almost everything’ while at DNI",
+    "description": "President Trump said Wednesday he told acting Director of National Intelligence Bill Pulte to “declassify almost everything” while he’s in the position. “Bill is there just for a fairly short period of time. But while he’s there, I said you can declassify whatever you want,” Trump told reporters before heading to North Dakota. “I think…",
+    "link": "https://thehill.com/homenews/administration/5949532-pulte-lacks-intelligence-experience/",
+    "pubDate": "Wed, 01 Jul 2026 15:10:41 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "news"
+    ],
+    "collectedAt": "2026-07-01T15:15:01.660Z"
+  },
+  {
+    "title": "Panetta: Putin ‘not quite sure what to do’ after Ukraine drones strike Moscow",
+    "description": "Former Obama Defense Secretary Leon Panetta on Tuesday said Russian President Vladimir Putin is “not quite sure what to do” after a Ukrainian drone strike hit Moscow earlier in the day. The drone strike hit Dubna Satellite Communications Centre, used by Russian officials to gather intelligence and coordinate military operations in Ukraine, Ukrainian President Volodymyr…",
+    "link": "https://thehill.com/policy/international/5949361-panetta-putin-negotiate-ceasefire/",
+    "pubDate": "Wed, 01 Jul 2026 15:01:34 +0000",
+    "source": "The Hill",
+    "categories": [
+      "defense",
+      "international",
+      "news"
+    ],
+    "collectedAt": "2026-07-01T15:15:01.660Z"
+  },
+  {
+    "title": "Securing America’s future in the age of AI",
+    "description": "Artificial Intelligence is already improving everyday life and has the potential to further strengthen America, but it must be harnessed to reflect American values of freedom and human rights, and to ensure that the American workforce is prepared for the challenges ahead.",
+    "link": "https://thehill.com/homenews/5947976-ai-leadership-america-future/",
+    "pubDate": "Wed, 01 Jul 2026 15:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "news",
+      "artificial intelligence",
+      "china",
+      "nasa"
+    ],
+    "collectedAt": "2026-07-01T15:15:01.660Z"
+  },
+  {
+    "title": "GOP rep, asked about ‘affordability,’ says he will eat lobster tail, rib-eye steak for July 4",
+    "description": "Despite a sizeable number of Americans expressing financial concerns, Rep. Troy Nehls (R-Texas) boasted Tuesday of his plans to eat lobster tails and rib-eye steak this Fourth of July weekend.  “Affordability — what are you talking about?” Nehls told reporter Pablo Manríquez on the Capitol steps, when the latter asked him how House Republicans can…",
+    "link": "https://thehill.com/homenews/house/5949468-troy-nehls-july-4-weekend-affordability-concerns/",
+    "pubDate": "Wed, 01 Jul 2026 14:57:37 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "business",
+      "energy & environment",
+      "house",
+      "news",
+      "personal finance",
+      "policy",
+      "aaa",
+      "affordability",
+      "house gop",
+      "inflation",
+      "iran war",
+      "july 4 weekend",
+      "u.s. economy"
+    ],
+    "collectedAt": "2026-07-01T15:15:01.660Z"
+  },
+  {
+    "title": "Trump will skip US match",
+    "description": "",
+    "link": "https://www.politico.com/live-updates/2026/07/01/world-cup-2026/trump-skip-us-match-lutnick-giuliani-00983720",
+    "pubDate": "Wed, 01 Jul 2026 10:02:24 EST",
+    "source": "Politico",
+    "categories": [
+      "politics, world cup"
+    ],
+    "collectedAt": "2026-07-01T15:15:01.660Z"
+  },
+  {
+    "title": "Here’s what’s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more",
+    "description": "Why it’s a good month to save on streaming, despite the return of ‘Enola Holmes’ to Netflix and ‘Silo’ to Apple",
+    "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-july-2026-on-netflix-hulu-hbo-max-and-more-58d07528?mod=mw_rss_topstories",
+    "pubDate": "Wed, 01 Jul 2026 15:00:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-07-01T15:15:01.660Z"
+  },
+  {
+    "title": "Taylor Swift's wedding secrecy went so far some guests still didn't know location days before ceremony: source",
+    "description": "Taylor Swift and Travis Kelce's wedding at Madison Square Garden prompts massive NYPD security preparations amid World Cup and July 4 events.",
+    "link": "https://www.foxnews.com/us/taylor-swift-wedding-secrecy-guests-didnt-know-location-days-before-ceremony",
+    "pubDate": "Wed, 01 Jul 2026 11:07:36 -0400",
+    "source": "Fox News",
+    "categories": [
+      "09fbb5f8-8a61-5b52-b410-6dd7ed4cdb7a",
+      "fnc",
+      "fox news",
+      "fox-news/person/taylor-swift",
+      "fox-news/person/travis-kelce",
+      "fox-news/entertainment",
+      "fox-news/entertainment/events/marriage",
+      "fox-news/entertainment/events/couples",
+      "fox-news/us",
+      "fox-news/us/new-york-city",
+      "fox-news/us/us-regions/northeast/new-york",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-07-01T15:15:01.660Z"
+  },
+  {
+    "title": "How 'Obsession' went from a sub-$1M horror film to a $371.2M box office phenomenon that dethroned 'Sinners'",
+    "description": "\"Obsession\" movie starring Michael Johnston and Inde Navarrette breaks box office record as the highest-grossing live-action original film of the 2020s.",
+    "link": "https://www.foxnews.com/outkick-culture/obsession-went-sub-1m-horror-film-371-2m-box-office-phenomenon-dethroned-sinners",
+    "pubDate": "Wed, 01 Jul 2026 11:03:13 -0400",
+    "source": "Fox News",
+    "categories": [
+      "a3117163-edf2-5847-aca6-f3e576b2561d",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-culture",
+      "fox-news/entertainment/movies",
+      "fox-news/entertainment",
+      "fox-news/outkick-culture",
+      "article"
+    ],
+    "collectedAt": "2026-07-01T15:15:01.660Z"
+  },
+  {
+    "title": "Harris reaches out to socialist mayor Mamdani in latest sign she's shoring up support for possible 2028 bid",
+    "description": "Kamala Harris spoke with New York City Mayor Zohran Mamdani and met with Alexandria Ocasio-Cortez, signaling a possible 2028 presidential run.",
+    "link": "https://www.foxnews.com/politics/harris-reaches-out-socialist-mayor-mamdani-latest-sign-shes-shoring-up-support-possible-2028-bid",
+    "pubDate": "Wed, 01 Jul 2026 11:02:57 -0400",
+    "source": "Fox News",
+    "categories": [
+      "8f6edafa-e32b-5bc4-b8fb-d87c539af2ee",
+      "fnc",
+      "fox news",
+      "fox-news/person/kamala-harris",
+      "fox-news/person/alexandria-ocasio-cortez",
+      "fox-news/person/zohran-mamdani",
+      "fox-news/politics/the-squad",
+      "fox-news/politics",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-07-01T15:15:01.660Z"
+  },
+  {
+    "title": "Vanilla Ice explains why he will always 'raise the flag' at his shows after doubling down on Freedom 250 show",
+    "description": "Vanilla Ice defended his decision to perform at the Great American State Fair, adding that he has the American Flag waving at all his concerts.",
+    "link": "https://www.foxnews.com/entertainment/vanilla-ice-explains-why-he-will-always-raise-flag-his-shows-after-doubling-down-freedom-250-show",
+    "pubDate": "Wed, 01 Jul 2026 11:00:08 -0400",
+    "source": "Fox News",
+    "categories": [
+      "b59f54eb-244e-5a05-b4c3-a7e4abfb6d87",
+      "fnc",
+      "fox news",
+      "fox-news/entertainment",
+      "fox-news/us/america-250",
+      "fox-news/entertainment/music",
+      "fox-news/entertainment/genres/hip-hop-rap",
+      "fox-news/entertainment",
+      "article"
+    ],
+    "collectedAt": "2026-07-01T15:15:01.660Z"
+  },
+  {
+    "title": "NY grandma suspected of poisoning daughter and 4 grandkids remembered in stone-cold two-line obituary",
+    "description": "The 64-year-old grandmother is suspected of poisoning her family before taking her own life.",
+    "link": "https://nypost.com/2026/07/01/us-news/stone-cold-two-line-obituary-for-ny-grandma-suspected-of-poisoning-daughter-grandkids/",
+    "pubDate": "Wed, 01 Jul 2026 11:14:39 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-01T15:15:01.660Z"
+  },
+  {
+    "title": "America turns 250: Shop the best patriotic deals before the holiday weekend",
+    "description": "Star-spangled deals that will ship before July 4.",
+    "link": "https://nypost.com/2026/07/01/shopping/we-found-the-best-americana-250-deals-for-the-fourth-of-july/",
+    "pubDate": "Wed, 01 Jul 2026 11:14:25 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-01T15:15:01.660Z"
+  },
+  {
+    "title": "Colorado socialist Melat Kiros refused to call firebombing of Jewish rally antisemitic, blasted Israel as apartheid",
+    "description": "Democratic socialist congressional hopeful Melat Kiros repeatedly downplayed concerns about a firebombing at a Jewish community rally in Boulder last year being antisemitic and has contended that the Oct. 7, 2023, Hamas attacks were \"inevitable.\"",
+    "link": "https://nypost.com/2026/07/01/us-news/melat-kiros-refused-to-call-firebombing-of-jewish-rally-antisemitic-blasted-israel-as-apartheid/",
+    "pubDate": "Wed, 01 Jul 2026 11:12:52 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-01T15:15:01.660Z"
+  },
+  {
+    "title": "Microsoft to slash thousands of jobs as AI spending concerns fuel third major layoff round in a year: report",
+    "description": "Microsoft is reportedly planning yet another round of layoffs for next week that will slash thousands of roles in an effort to cut costs as concerns mount over out-of-control AI spending.",
+    "link": "https://nypost.com/2026/07/01/business/microsoft-to-slash-thousands-of-jobs-as-ai-spending-concerns-fuel-third-major-layoff-round-in-a-year-report/",
+    "pubDate": "Wed, 01 Jul 2026 11:12:32 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-01T15:15:01.660Z"
+  },
+  {
+    "title": "When it comes to LeBron James’ Lakers legacy, Angelenos have no one to blame but themselves",
+    "description": "To understand LeBron James’ legacy with the Lakers, you have to rewind to the beginning.  You know, the period Lakers fans may have blocked out.  It was dismal. It was ugly. It was dark.  One of the greatest Lakers of all-time, LeBron James will enter unrestricted free agency this summer. The 17-time NBA champions had...",
+    "link": "https://nypost.com/2026/07/01/sports/lebron-james-lakers-legacy-was-a-success-with-an-nba-title/",
+    "pubDate": "Wed, 01 Jul 2026 11:11:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-01T15:15:01.660Z"
+  },
+  {
+    "title": "Dan Le Batard rips Michael Strahan over Chris Johnson ALS interview",
+    "description": "Michael Strahan is coming under fire over his interview with former NFL star Chris Johnson, who revealed Monday on \"Good Morning America\" that he has ALS.",
+    "link": "https://nypost.com/2026/07/01/sports/dan-le-batard-rips-michael-strahan-over-chris-johnson-als-interview/",
+    "pubDate": "Wed, 01 Jul 2026 11:08:52 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-01T15:15:01.660Z"
+  },
+  {
+    "title": "American vaccines that transformed public health, prevented millions of illnesses over 250 years",
+    "description": "17 vaccines that dramatically reduced infections and death rates from diseases",
+    "link": "https://nypost.com/2026/07/01/health/american-vaccines-that-transformed-public-health-over-250-years/",
+    "pubDate": "Wed, 01 Jul 2026 11:08:39 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-01T15:15:01.660Z"
+  },
+  {
+    "title": "Fitness influencer banned from flight for attempting to board ‘naked’ amid record-breaking heatwave",
+    "description": "This sexy sightseer was in for a nude awakening.",
+    "link": "https://nypost.com/2026/07/01/lifestyle/edda-elisa-pilz-claims-lufthansa-banned-her-from-flight-for-trying-to-board-naked/",
+    "pubDate": "Wed, 01 Jul 2026 11:01:11 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-01T15:15:01.660Z"
+  },
+  {
+    "title": "Heartbreaking final moments of teen girl found dead in suitcase revealed",
+    "description": "A heartbreaking video of Tunchanok Donhomla’s final moments with her parents has been released before an Australian man allegedly murdered her.",
+    "link": "https://nypost.com/2026/07/01/world-news/final-heartbreaking-moments-of-teen-girl-found-dead-in-suitcase-revealed/",
+    "pubDate": "Wed, 01 Jul 2026 11:00:13 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-01T15:15:01.660Z"
+  },
+  {
+    "title": "What Time Is ‘Brilliant’ Minds’ On Tonight? How To Watch ‘Brilliant Minds’ Season 2 Finale Live On NBC And Online",
+    "description": "Are you ready to say goodbye to Brilliant Minds?",
+    "link": "https://decider.com/2026/07/01/what-time-brilliant-minds-tonight-how-to-watch-brilliant-minds-season-2-finale-nbc-peacock/",
+    "pubDate": "Wed, 01 Jul 2026 11:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-01T15:15:01.660Z"
+  },
+  {
+    "title": "Mets vs. Blue Jays prediction: MLB picks, best bets for Wednesday",
+    "description": "Target the total in Wednesday's clash between the Mets and Blue Jays.",
+    "link": "https://nypost.com/2026/07/01/betting/mets-vs-blue-jays-prediction-mlb-picks-best-bets-for-wednesday/",
+    "pubDate": "Wed, 01 Jul 2026 11:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-01T15:15:01.660Z"
+  },
+  {
+    "title": "Erewhon launches smoothie collab with surprising household goods company — and it’s anything but trashy",
+    "description": "The newest addition to the tonic bar just launched, and this one isn't tied to an influencer or Hollywood star.",
+    "link": "https://nypost.com/2026/07/01/lifestyle/swanky-california-grocer-erewhon-announces-new-limited-edition-smoothie/",
+    "pubDate": "Wed, 01 Jul 2026 11:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-01T15:15:01.660Z"
+  },
+  {
+    "title": "Jay Clayton confirmation hearing rescheduled for mid-July",
+    "description": "EXCLUSIVE — The Senate intelligence committee is tentatively planning a rescheduled confirmation hearing for Jay Clayton, the stalled nominee for director of national intelligence, for July 15, according to two sources familiar with the matter. President Donald Trump teased on Wednesday morning that a new date had been chosen, telling reporters that his interim director, […]",
+    "link": "https://www.washingtonexaminer.com/news/senate/4632343/senate-intelligence-jay-clayton-hearing-july-pulte/",
+    "pubDate": "Wed, 01 Jul 2026 15:11:56 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "senate",
+      "bill pulte",
+      "congress",
+      "donald trump",
+      "intelligence community",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-07-01T15:15:01.660Z"
   }
 ]
