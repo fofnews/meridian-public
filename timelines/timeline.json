@@ -549,7 +549,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-30",
+      "lastSeen": "2026-07-01",
       "active": true,
       "entries": [
         {
@@ -1041,6 +1041,11 @@
           "date": "2026-06-30",
           "edition": "evening",
           "update": "Rheinmetall received an order from Ukraine for artillery shells and propellant charges, according to Reuters. Analysts assessed that Ukrainian strikes have created a fuel crisis in Russia with potential domestic economic consequences, while noting Russia will continue to prioritize its war effort over resolving domestic energy shortages. Newsweek published a five-scenario analysis framing Crimea as a strategic pressure point where Ukraine is actively testing Russian command structures and supply lines."
+        },
+        {
+          "date": "2026-07-01",
+          "edition": "morning",
+          "update": "Ukraine launched long-range strikes hitting Russia's Ufa oil refinery and an aerospace and defense facility used to manufacture missile components, both located hundreds of miles inside Russian territory, as President Zelensky publicly called for peace. Ukraine separately requested €6.6 billion from the EU's European Peace Facility fund to cover military aid provided to the country, according to Reuters. The NY Times reported that pregnant women in Ukraine face compounded health and psychological challenges due to ongoing bombings, blackouts, and displacement."
         }
       ],
       "parentId": null
@@ -1184,7 +1189,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-30",
+      "lastSeen": "2026-07-01",
       "active": true,
       "entries": [
         {
@@ -1536,6 +1541,11 @@
           "date": "2026-06-30",
           "edition": "morning",
           "update": "Israeli Finance Minister Bezalel Smotrich called for the immediate establishment of Jewish settlements in Gaza and its 'conquest,' according to Al Jazeera. An Israeli strike on the Mawasi area of Khan Younis, within Gaza's designated humanitarian zone, killed two people and injured several others while setting tents ablaze. Separately, the House is preparing to vote on legislation sponsored by Rep. Thomas Massie (R-KY) that would eliminate most U.S. military aid to Israel, with a vote expected as soon as this week."
+        },
+        {
+          "date": "2026-07-01",
+          "edition": "morning",
+          "update": "A public rift emerged between President Trump and Israeli Prime Minister Netanyahu following a U.S.-Iran memorandum of understanding. Iran stated it will not begin final deal talks until hostilities in Lebanon cease and the U.S. releases frozen Iranian funds, as Qatar's Prime Minister met with U.S. envoys. Netanyahu declared in a Tuesday night interview on Israel's Channel 14 his commitment to total victory against Iran and its proxies, vowing to 'take care of what is left of the Iranian axis.' Oil prices rose after Iran refused to meet with U.S. envoys, raising concerns about potential regional supply disruptions."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3189,7 +3199,7 @@
       "id": "hezbollah-us-operations",
       "title": "Hezbollah US Operations",
       "firstSeen": "2026-03-15",
-      "lastSeen": "2026-06-22",
+      "lastSeen": "2026-07-01",
       "active": true,
       "entries": [
         {
@@ -3246,6 +3256,11 @@
           "date": "2026-06-22",
           "edition": "evening",
           "update": "DHS chief Markwayne Mullin stated that a man connected to Iran's Islamic Revolutionary Guard Corps was stopped attempting to enter the U.S. while posing as the president of Iran's soccer federation, as the Iranian national soccer team was preparing to participate in World Cup activities."
+        },
+        {
+          "date": "2026-07-01",
+          "edition": "morning",
+          "update": "During peace talks, President Trump repeatedly suggested that Syria could help subdue Hezbollah in Lebanon, a proposal that, according to the NY Times, confounded many in the Middle East and revived bitter regional memories."
         }
       ],
       "parentId": null
@@ -3509,7 +3524,7 @@
       "id": "artemis-moon-mission",
       "title": "Artemis Moon Mission",
       "firstSeen": "2026-03-23",
-      "lastSeen": "2026-06-29",
+      "lastSeen": "2026-07-01",
       "active": true,
       "entries": [
         {
@@ -3731,6 +3746,11 @@
           "date": "2026-06-29",
           "edition": "evening",
           "update": "NASA announced a rescue mission for its Swift space telescope, which has been falling out of orbit and will be boosted to a higher altitude."
+        },
+        {
+          "date": "2026-07-01",
+          "edition": "morning",
+          "update": "NASA awarded contracts to three companies to deliver payloads to the lunar surface as part of the agency's broader effort to establish a moon base, according to CBS News."
         }
       ],
       "parentId": null
@@ -3855,7 +3875,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-06-30",
+      "lastSeen": "2026-07-01",
       "active": true,
       "entries": [
         {
@@ -4860,7 +4880,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-06-29",
+      "lastSeen": "2026-07-01",
       "active": true,
       "entries": [
         {
@@ -5112,6 +5132,11 @@
           "date": "2026-06-29",
           "edition": "evening",
           "update": "DR Congo banned mass gatherings in the capital as a measure to curb Ebola's spread. Opposition politicians accused the government of exploiting the outbreak as a pretext to suppress a planned protest."
+        },
+        {
+          "date": "2026-07-01",
+          "edition": "morning",
+          "update": "A patient admitted to Queen Elizabeth University Hospital in Glasgow triggered an Ebola alert but subsequently tested negative; precautionary measures had been taken upon the patient's admission, according to BBC News."
         }
       ]
     },
@@ -5231,5 +5256,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-06-30T21:10:23.586Z"
+  "updatedAt": "2026-07-01T11:10:02.701Z"
 }
