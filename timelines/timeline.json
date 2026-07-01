@@ -1046,6 +1046,11 @@
           "date": "2026-07-01",
           "edition": "morning",
           "update": "Ukraine launched long-range strikes hitting Russia's Ufa oil refinery and an aerospace and defense facility used to manufacture missile components, both located hundreds of miles inside Russian territory, as President Zelensky publicly called for peace. Ukraine separately requested €6.6 billion from the EU's European Peace Facility fund to cover military aid provided to the country, according to Reuters. The NY Times reported that pregnant women in Ukraine face compounded health and psychological challenges due to ongoing bombings, blackouts, and displacement."
+        },
+        {
+          "date": "2026-07-01",
+          "edition": "evening",
+          "update": "Ukraine struck Russian oil facilities at more than 800 miles beyond the front lines, further deepening Russia's fuel crisis, according to Newsweek. Former Defense Secretary Leon Panetta stated Putin is 'not quite sure what to do' following the Ukrainian drone strike on Moscow's Dubna Satellite Communications Centre. A study cited by the NY Times found total troop casualties in the war have surpassed 2 million, with Russia accounting for approximately 1.4 million killed or wounded since February 2022."
         }
       ],
       "parentId": null
@@ -1684,7 +1689,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-29",
+      "lastSeen": "2026-07-01",
       "active": true,
       "entries": [
         {
@@ -2196,6 +2201,11 @@
           "date": "2026-06-29",
           "edition": "morning",
           "update": "Israeli military operations targeting Hezbollah in southern Lebanon continued as the U.S. and Iran separately agreed to suspend attacks on Sunday, according to a U.S. official."
+        },
+        {
+          "date": "2026-07-01",
+          "edition": "evening",
+          "update": "Analysts told Al Jazeera that Israel's continued military presence in Lebanon poses a significant obstacle to the U.S.-Iran MOU, despite both sides reportedly wanting the agreement to succeed."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2204,7 +2214,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-06-30",
+      "lastSeen": "2026-07-01",
       "active": true,
       "entries": [
         {
@@ -2941,6 +2951,11 @@
           "date": "2026-06-30",
           "edition": "morning",
           "update": "Stock market data from Monday trading sessions in Q2 showed above-average gains, a pattern analysts have linked to weekend Iran-related news developments; the Wall Street Journal dubbed the phenomenon the 'Axios put.'"
+        },
+        {
+          "date": "2026-07-01",
+          "edition": "evening",
+          "update": "Powerful Iranian clerics publicly called for the assassination of President Trump and Israeli Prime Minister Netanyahu, declaring it of 'paramount' importance to avenge Supreme Leader Khamenei's death, according to the New York Post. Trump has discussed the option of resuming full-scale war with Iran but is continuing with diplomatic negotiations for now. Saudi Crown Prince Mohammed bin Salman reversed his earlier position urging a harder U.S. line against Iran and instead called for a ceasefire as Iran asserted its power, while pursuing separate security priorities that have sparked a clash with Trump, per the NY Times. Iran warned it would respond immediately to any threat while citing a U.S. commitment to restrain Israel, and Vice President Vance defended the Iran war in a speech to military members, accusing critics of trying to prolong a conflict the administration was seeking to end. Wall Street futures pointed to a lower open at the start of the second half of the year, with U.S.-Iran tensions cited as weighing on investor sentiment."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3930,7 +3945,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-06-30",
+      "lastSeen": "2026-07-01",
       "active": true,
       "entries": [
         {
@@ -4177,6 +4192,11 @@
           "date": "2026-06-30",
           "edition": "evening",
           "update": "Iran sent an expert-level delegation to Doha focused specifically on implementing the Memorandum of Understanding and resolving frozen asset issues, not broader nuclear or diplomatic negotiations. Qatar's foreign ministry publicly stated that no high-level meetings or direct U.S.-Iran talks are scheduled, directly contradicting White House framing of the Doha meeting as significant diplomatic engagement. U.S. Special Envoy Steve Witkoff and Jared Kushner met with Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani in Doha for indirect talks, with no direct U.S.-Iran session taking place. The contradicting accounts from Washington, Tehran, and Doha over the nature and scope of the talks have further complicated prospects for a formal deal, with Reuters reporting that uncertainty over Qatar's diplomatic role is a key complicating factor."
+        },
+        {
+          "date": "2026-07-01",
+          "edition": "evening",
+          "update": "Trump characterized U.S.-Iran relations as going 'very well,' per Reuters, even as no direct meetings between U.S. and Iranian officials took place during the Doha talks. Vice President Vance declared the U.S. has achieved its 'core mission' regarding Iran."
         }
       ]
     },
@@ -4520,7 +4540,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-06-30",
+      "lastSeen": "2026-07-01",
       "active": true,
       "entries": [
         {
@@ -4797,6 +4817,11 @@
           "date": "2026-06-30",
           "edition": "evening",
           "update": "Oman has proposed a plan in which Iran and Oman would jointly collect fees from ships transiting the Strait of Hormuz, according to officials and diplomats cited by the NY Times, emerging as a potential framework following the recent U.S.-Iran conflict. A Reuters poll found analysts have lowered their oil price forecasts following the strait's reopening, which has reduced concerns about sustained global crude supply disruptions."
+        },
+        {
+          "date": "2026-07-01",
+          "edition": "evening",
+          "update": "A foreign container ship ran aground in the Strait of Hormuz after reportedly using a route not approved by Iran, according to Iranian state television, with 42 vessels in the waterway and 11 actively transiting as of Wednesday morning. Experts told CBS News the strait may not return to its pre-war state, raising questions about Iran's potential long-term control over and profiting from the shipping lane."
         }
       ]
     },
@@ -5256,5 +5281,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-01T11:10:02.701Z"
+  "updatedAt": "2026-07-01T21:08:47.022Z"
 }
