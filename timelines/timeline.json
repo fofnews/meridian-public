@@ -549,7 +549,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-01",
+      "lastSeen": "2026-07-02",
       "active": true,
       "entries": [
         {
@@ -1051,6 +1051,11 @@
           "date": "2026-07-01",
           "edition": "evening",
           "update": "Ukraine struck Russian oil facilities at more than 800 miles beyond the front lines, further deepening Russia's fuel crisis, according to Newsweek. Former Defense Secretary Leon Panetta stated Putin is 'not quite sure what to do' following the Ukrainian drone strike on Moscow's Dubna Satellite Communications Centre. A study cited by the NY Times found total troop casualties in the war have surpassed 2 million, with Russia accounting for approximately 1.4 million killed or wounded since February 2022."
+        },
+        {
+          "date": "2026-07-02",
+          "edition": "morning",
+          "update": "Russia launched a large-scale overnight attack on Kyiv using ballistic missiles and drones, killing at least 8 people and injuring scores more, with loud blasts shaking the city for hours and causing damage to buildings and civilian infrastructure. President Zelensky had warned hours before the attack that Russia was preparing a 'massive strike.' Zelensky also announced a 40-day campaign targeting Russian military and energy infrastructure deeper inland, with long-range missiles and drones deployed in strikes ongoing for over a week."
         }
       ],
       "parentId": null
@@ -1060,7 +1065,7 @@
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
       "lastSeen": "2026-06-02",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-02-26",
@@ -1559,7 +1564,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-06-21",
+      "lastSeen": "2026-07-02",
       "active": true,
       "entries": [
         {
@@ -1681,6 +1686,11 @@
           "date": "2026-06-21",
           "edition": "morning",
           "update": "Following the MOU signing, Iran's leadership publicly claimed victory in its conflict with the United States and Israel, though the Washington Examiner reported that the damage sustained during the war may have fundamentally weakened and transformed the regime."
+        },
+        {
+          "date": "2026-07-02",
+          "edition": "morning",
+          "update": "Funeral ceremonies for Supreme Leader Ayatollah Ali Khamenei are set to begin Friday, with mourning events planned across six days and two countries, according to the NY Times."
         }
       ],
       "parentId": null
@@ -2965,7 +2975,7 @@
       "title": "Iran Strait of Hormuz Crisis",
       "firstSeen": "2026-03-10",
       "lastSeen": "2026-06-02",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-03-10",
@@ -3890,7 +3900,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-01",
+      "lastSeen": "2026-07-02",
       "active": true,
       "entries": [
         {
@@ -3922,6 +3932,11 @@
           "date": "2026-06-25",
           "edition": "morning",
           "update": "A Syrian diplomat stated that President Ahmad al-Sharaa is seeking a 'balance' between U.S. demands and what Damascus can offer, as Syria navigates pressures from Washington and its regional allies. National Review published an analysis warning that recurring Lebanon crises driven by Iranian provocations are increasing the likelihood of a return to armed conflict."
+        },
+        {
+          "date": "2026-07-02",
+          "edition": "morning",
+          "update": "President Trump announced 'Project Freedom,' a full military effort to shield oil tankers and cargo ships transiting the Strait of Hormuz, amid growing U.S.-Saudi tensions over the Iran war."
         }
       ]
     },
@@ -3945,7 +3960,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-07-01",
+      "lastSeen": "2026-07-02",
       "active": true,
       "entries": [
         {
@@ -4197,6 +4212,11 @@
           "date": "2026-07-01",
           "edition": "evening",
           "update": "Trump characterized U.S.-Iran relations as going 'very well,' per Reuters, even as no direct meetings between U.S. and Iranian officials took place during the Doha talks. Vice President Vance declared the U.S. has achieved its 'core mission' regarding Iran."
+        },
+        {
+          "date": "2026-07-02",
+          "edition": "morning",
+          "update": "Iran and the U.S. concluded indirect talks in Qatar, with Tehran announcing a 'communication channel' will be established with Washington to report and discuss breaches of the MOU, while host Qatar reported 'positive progress.' U.S. and Iranian negotiators held separate meetings with Qatari and Pakistani mediators, with both sides agreeing to continue discussions. Brent crude fell below $71 a barrel following the talks, reaching levels not seen since before the U.S.-Israel strikes on Iran. Former Trump national security adviser H.R. McMaster publicly stated Iran is 'getting everything that they wanted' in the negotiations."
         }
       ]
     },
@@ -5281,5 +5301,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-01T21:08:47.022Z"
+  "updatedAt": "2026-07-02T11:08:06.362Z"
 }
