@@ -616,5 +616,45 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-02T07:15:01.166Z"
+  },
+  {
+    "title": "Starmer to formally apologise to victims of forced adoptions",
+    "description": "The practice saw thousands of babies taken from their mothers between 1949 and 1976.",
+    "link": "https://www.bbc.co.uk/news/articles/c20yq332018o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 02 Jul 2026 07:22:56 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-02T07:30:01.345Z"
+  },
+  {
+    "title": "Who Is Jason Watson? Air Force Major Arrested After Protesting Trump",
+    "description": "Major Jason Watson held a sign calling for President Donald Trump's impeachment on the steps of the U.S. Capitol on Wednesday.",
+    "link": "https://www.newsweek.com/who-is-jason-watson-air-force-major-arrested-after-protesting-trump-impeachment-12149604",
+    "pubDate": "Thu, 02 Jul 2026 03:19:20 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-02T07:30:01.345Z"
+  },
+  {
+    "title": "More than 900 arrested during South Africa’s antimigrant protests",
+    "description": "Wave of arrests made across South Africa as xenophobic tensions erupt into nationwide marches.",
+    "link": "https://www.aljazeera.com/news/2026/7/2/more-than-900-arrested-during-south-africas-antimigrant-protests?traffic_source=rss",
+    "pubDate": "Thu, 02 Jul 2026 06:52:42 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-02T07:30:01.345Z"
+  },
+  {
+    "title": "Maradona to Messi: Why Bangladesh loves Argentina’s footballers",
+    "description": "Diego Maradona turned a nation 17,000km from Argentina into die-hard fans. Lionel Messi has enthralled a new generation.",
+    "link": "https://www.aljazeera.com/news/2026/7/2/maradona-to-messi-why-bangladesh-loves-argentinas-footballers?traffic_source=rss",
+    "pubDate": "Thu, 02 Jul 2026 06:48:10 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-07-02T07:30:01.345Z"
   }
 ]
