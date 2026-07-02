@@ -1056,6 +1056,11 @@
           "date": "2026-07-02",
           "edition": "morning",
           "update": "Russia launched a large-scale overnight attack on Kyiv using ballistic missiles and drones, killing at least 8 people and injuring scores more, with loud blasts shaking the city for hours and causing damage to buildings and civilian infrastructure. President Zelensky had warned hours before the attack that Russia was preparing a 'massive strike.' Zelensky also announced a 40-day campaign targeting Russian military and energy infrastructure deeper inland, with long-range missiles and drones deployed in strikes ongoing for over a week."
+        },
+        {
+          "date": "2026-07-02",
+          "edition": "evening",
+          "update": "A major Russian missile and drone attack on Kyiv killed at least 21 people and injured more than 90, destroying a nine-storey residential building and damaging several others across the capital. Ukrainian Foreign Minister characterized the strikes as revenge attacks and called for immediate delivery of additional air defense systems. Putin ordered the attacks following Ukraine's cross-border strikes into Russian territory. Separately, German prosecutors charged a suspect alleged to have carried out the Nord Stream pipeline sabotage on behalf of Ukraine, classifying the act as a war crime and accusing a former Ukrainian soldier of leading the operation. A Ukrainian drone struck a Belarusian tourist bus travelling through Russia, injuring two passengers. Newsweek reported Russian battlefield deaths have reached approximately 450,000, described as four times higher than all U.S. combat losses since World War II."
         }
       ],
       "parentId": null
@@ -1199,7 +1204,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-01",
+      "lastSeen": "2026-07-02",
       "active": true,
       "entries": [
         {
@@ -1556,6 +1561,11 @@
           "date": "2026-07-01",
           "edition": "morning",
           "update": "A public rift emerged between President Trump and Israeli Prime Minister Netanyahu following a U.S.-Iran memorandum of understanding. Iran stated it will not begin final deal talks until hostilities in Lebanon cease and the U.S. releases frozen Iranian funds, as Qatar's Prime Minister met with U.S. envoys. Netanyahu declared in a Tuesday night interview on Israel's Channel 14 his commitment to total victory against Iran and its proxies, vowing to 'take care of what is left of the Iranian axis.' Oil prices rose after Iran refused to meet with U.S. envoys, raising concerns about potential regional supply disruptions."
+        },
+        {
+          "date": "2026-07-02",
+          "edition": "evening",
+          "update": "Iran held a state funeral for former Supreme Leader Ali Khamenei, with Iranian officials issuing warnings to Israel and the U.S. against conducting attacks during the proceedings. U.S. officials feared Israel was plotting to assassinate Iranian Foreign Minister Abbas Araghchi and Parliament Speaker Mohammad Ghalibaf, with American officials warning such strikes would have derailed ongoing nuclear negotiations, according to the NY Times."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1691,6 +1701,11 @@
           "date": "2026-07-02",
           "edition": "morning",
           "update": "Funeral ceremonies for Supreme Leader Ayatollah Ali Khamenei are set to begin Friday, with mourning events planned across six days and two countries, according to the NY Times."
+        },
+        {
+          "date": "2026-07-02",
+          "edition": "evening",
+          "update": "Iran is set to bury former Supreme Leader Ali Khamenei on July 9 following week-long funeral ceremonies, with millions of mourners expected to attend. Khamenei, who led the Islamic Republic for 37 years, was reportedly killed in U.S. and Israeli airstrikes on February 28."
         }
       ],
       "parentId": null
@@ -4217,6 +4232,11 @@
           "date": "2026-07-02",
           "edition": "morning",
           "update": "Iran and the U.S. concluded indirect talks in Qatar, with Tehran announcing a 'communication channel' will be established with Washington to report and discuss breaches of the MOU, while host Qatar reported 'positive progress.' U.S. and Iranian negotiators held separate meetings with Qatari and Pakistani mediators, with both sides agreeing to continue discussions. Brent crude fell below $71 a barrel following the talks, reaching levels not seen since before the U.S.-Israel strikes on Iran. Former Trump national security adviser H.R. McMaster publicly stated Iran is 'getting everything that they wanted' in the negotiations."
+        },
+        {
+          "date": "2026-07-02",
+          "edition": "evening",
+          "update": "U.S.-Iran nuclear negotiations have been paused for approximately one week to allow for the funeral of Iran's slain Supreme Leader, with President Trump and mediators stating progress had been made in talks prior to the pause."
         }
       ]
     },
@@ -4560,7 +4580,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-07-01",
+      "lastSeen": "2026-07-02",
       "active": true,
       "entries": [
         {
@@ -4842,6 +4862,11 @@
           "date": "2026-07-01",
           "edition": "evening",
           "update": "A foreign container ship ran aground in the Strait of Hormuz after reportedly using a route not approved by Iran, according to Iranian state television, with 42 vessels in the waterway and 11 actively transiting as of Wednesday morning. Experts told CBS News the strait may not return to its pre-war state, raising questions about Iran's potential long-term control over and profiting from the shipping lane."
+        },
+        {
+          "date": "2026-07-02",
+          "edition": "evening",
+          "update": "Iran's joint military command issued a warning of a 'forceful response' against oil tankers that fail to follow approved routes through the Strait of Hormuz. Analysts warned that resuming full oil flow through the reopened strait may shift global energy markets from shortage to surplus, potentially destabilizing prices. An oil tanker linked to sanctioned Iranian shipping magnate Mohammad Hossein Shamkhani was reported stranded in the waterway."
         }
       ]
     },
@@ -5301,5 +5326,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-02T11:08:06.362Z"
+  "updatedAt": "2026-07-02T21:07:37.329Z"
 }
