@@ -483,5 +483,24 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-02T06:30:01.233Z"
+  },
+  {
+    "title": "Mexican national sentenced in border child smuggling case involving THC-laced candy",
+    "description": "A Mexican national was sentenced to five years in federal prison for a human smuggling scheme that used THC candy to sedate children as young as 5 years old.",
+    "link": "https://www.foxnews.com/us/mexican-national-sentenced-border-child-smuggling-case-involving-thc-laced-candy",
+    "pubDate": "Thu, 02 Jul 2026 02:30:01 -0400",
+    "source": "Fox News",
+    "categories": [
+      "45dc3d84-d340-519e-9615-cb0dd33d66d0",
+      "fnc",
+      "fox news",
+      "fox-news/entertainment/genres/crime",
+      "fox-news/us/immigration/illegal-immigrants",
+      "fox-news/world/world-regions/location-mexico",
+      "fox-news/us/immigration/border-security",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-07-02T06:45:01.302Z"
   }
 ]
