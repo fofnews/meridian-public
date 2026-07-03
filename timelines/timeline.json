@@ -549,7 +549,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-02",
+      "lastSeen": "2026-07-03",
       "active": true,
       "entries": [
         {
@@ -1061,6 +1061,11 @@
           "date": "2026-07-02",
           "edition": "evening",
           "update": "A major Russian missile and drone attack on Kyiv killed at least 21 people and injured more than 90, destroying a nine-storey residential building and damaging several others across the capital. Ukrainian Foreign Minister characterized the strikes as revenge attacks and called for immediate delivery of additional air defense systems. Putin ordered the attacks following Ukraine's cross-border strikes into Russian territory. Separately, German prosecutors charged a suspect alleged to have carried out the Nord Stream pipeline sabotage on behalf of Ukraine, classifying the act as a war crime and accusing a former Ukrainian soldier of leading the operation. A Ukrainian drone struck a Belarusian tourist bus travelling through Russia, injuring two passengers. Newsweek reported Russian battlefield deaths have reached approximately 450,000, described as four times higher than all U.S. combat losses since World War II."
+        },
+        {
+          "date": "2026-07-03",
+          "edition": "morning",
+          "update": "Updated death toll from the Russian attack on Kyiv stands at 30, with Ukrainian rescuers clearing rubble as the city entered a period of mourning. Ukraine has also escalated drone strikes on Crimea, causing fuel shortages and power cuts in the Russian-annexed region as part of a broader strategy to pressure Putin toward ending the war."
         }
       ],
       "parentId": null
@@ -1574,7 +1579,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-07-02",
+      "lastSeen": "2026-07-03",
       "active": true,
       "entries": [
         {
@@ -1706,6 +1711,11 @@
           "date": "2026-07-02",
           "edition": "evening",
           "update": "Iran is set to bury former Supreme Leader Ali Khamenei on July 9 following week-long funeral ceremonies, with millions of mourners expected to attend. Khamenei, who led the Islamic Republic for 37 years, was reportedly killed in U.S. and Israeli airstrikes on February 28."
+        },
+        {
+          "date": "2026-07-03",
+          "edition": "morning",
+          "update": "Khamenei has been laid in state in Tehran as Iran carries out approximately seven days of funeral ceremonies. Lebanon's Health Ministry separately reported that Israeli attacks have killed at least 4,298 people and injured 12,196 others since March."
         }
       ],
       "parentId": null
@@ -2989,8 +2999,8 @@
       "id": "iran-strait-of-hormuz-crisis",
       "title": "Iran Strait of Hormuz Crisis",
       "firstSeen": "2026-03-10",
-      "lastSeen": "2026-06-02",
-      "active": false,
+      "lastSeen": "2026-07-03",
+      "active": true,
       "entries": [
         {
           "date": "2026-03-10",
@@ -3231,6 +3241,11 @@
           "date": "2026-06-02",
           "edition": "evening",
           "update": "U.S. and Israeli attacks on Iranian desalination plants and other water infrastructure have worsened Iran's existing water crisis, according to Al Jazeera."
+        },
+        {
+          "date": "2026-07-03",
+          "edition": "morning",
+          "update": "The Strait of Hormuz closure, linked to the Iran war, has disrupted shipments of fertilizer and natural gas used in fertilizer manufacturing, though NPR reported that major price hikes for U.S. grocery shoppers are considered unlikely."
         }
       ],
       "parentId": null
@@ -3564,7 +3579,7 @@
       "id": "artemis-moon-mission",
       "title": "Artemis Moon Mission",
       "firstSeen": "2026-03-23",
-      "lastSeen": "2026-07-01",
+      "lastSeen": "2026-07-03",
       "active": true,
       "entries": [
         {
@@ -3791,6 +3806,11 @@
           "date": "2026-07-01",
           "edition": "morning",
           "update": "NASA awarded contracts to three companies to deliver payloads to the lunar surface as part of the agency's broader effort to establish a moon base, according to CBS News."
+        },
+        {
+          "date": "2026-07-03",
+          "edition": "morning",
+          "update": "A NASA-funded robot spacecraft has launched to intercept the falling Swift space telescope in mid-orbit and boost it to a higher altitude before it re-enters Earth's atmosphere."
         }
       ],
       "parentId": null
@@ -4580,7 +4600,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-07-02",
+      "lastSeen": "2026-07-03",
       "active": true,
       "entries": [
         {
@@ -4867,6 +4887,11 @@
           "date": "2026-07-02",
           "edition": "evening",
           "update": "Iran's joint military command issued a warning of a 'forceful response' against oil tankers that fail to follow approved routes through the Strait of Hormuz. Analysts warned that resuming full oil flow through the reopened strait may shift global energy markets from shortage to surplus, potentially destabilizing prices. An oil tanker linked to sanctioned Iranian shipping magnate Mohammad Hossein Shamkhani was reported stranded in the waterway."
+        },
+        {
+          "date": "2026-07-03",
+          "edition": "morning",
+          "update": "The BBC reported an uneasy calm at Bandar Abbas following the US-Israeli conflict with Iran, with seized ships and local fishing vessels observed in the port."
         }
       ]
     },
@@ -5326,5 +5351,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-02T21:07:37.329Z"
+  "updatedAt": "2026-07-03T11:06:30.352Z"
 }
