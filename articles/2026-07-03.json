@@ -1135,5 +1135,80 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-03T09:30:01.815Z"
+  },
+  {
+    "title": "Iran begins public mourning for Ayatollah killed in February",
+    "description": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 03 Jul 2026 08:50:21 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-03T09:45:01.435Z"
+  },
+  {
+    "title": "But first, coffee: The drink that energized the American Revolution",
+    "description": "Colonial Americans were drinking coffee long before they dumped tea into Boston Harbor or fought a war for independence. The establishments that served it were already brewing revolutionary ideas.",
+    "link": "https://www.npr.org/2026/07/03/nx-s1-5845436/coffee-july-4-colonies-america-250-1776-boston-tea-party",
+    "pubDate": "Fri, 03 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-07-03T09:45:01.435Z"
+  },
+  {
+    "title": "Oregon ER doctors win a 'David and Goliath' battle against a national company",
+    "description": "In a test of a new state law, doctors in Eugene went up against a national physician staffing firm seeking to replace them. Their success is getting attention across the U.S. as other states consider similar laws.",
+    "link": "https://www.npr.org/2026/07/03/nx-s1-5875435/eugene-oregon-corporate-medicine-emergency-doctors",
+    "pubDate": "Fri, 03 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-07-03T09:45:01.435Z"
+  },
+  {
+    "title": "How a fertilizer shortage caused by the Iran war could affect U.S. food prices",
+    "description": "The closure of the Strait of Hormuz disrupted shipments of fertilizer and natural gas, a key component in fertilizer manufacturing. It's unlikely to cause major price hikes for U.S. grocery shoppers.",
+    "link": "https://www.npr.org/2026/07/03/nx-s1-5877344/fertilizer-shortage-food-prices",
+    "pubDate": "Fri, 03 Jul 2026 05:00:00 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-07-03T09:45:01.435Z"
+  },
+  {
+    "title": "Coast Guard surges resources to DC and elsewhere to protect July 4 celebrations",
+    "description": "U.S. Coast Guard surging resources to protect July 4 celebrations",
+    "link": "https://abcnews.com/Politics/coast-guard-surges-resources-dc-protect-july-4/story?id=134412875",
+    "pubDate": "Fri, 03 Jul 2026 05:15:35 -0400",
+    "source": "ABC News",
+    "categories": [
+      "politics"
+    ],
+    "collectedAt": "2026-07-03T09:45:01.435Z"
+  },
+  {
+    "title": "July 4 Weather Forecast As Hundreds of Records Could Fall",
+    "description": "Record-breaking heat could grip much of the U.S. this July 4 weekend, with storms also threatening some celebrations.",
+    "link": "https://www.newsweek.com/july-4-weather-forecast-hundreds-records-12154095",
+    "pubDate": "Fri, 03 Jul 2026 05:37:21 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-03T09:45:01.435Z"
+  },
+  {
+    "title": "Louisiana attorney general accused of threatening local officials in criminal indictment",
+    "description": "A New Orleans grand jury indicted Liz Murrill on 16 counts including intimidation, while Gov. Jeff Landry vowed to pardon her \"as fast as the law allows.\"",
+    "link": "https://www.foxnews.com/politics/louisiana-attorney-general-accused-threatening-local-officials-criminal-indictment",
+    "pubDate": "Fri, 03 Jul 2026 05:29:21 -0400",
+    "source": "Fox News",
+    "categories": [
+      "88775cd6-b421-5faa-aea0-917148d3ee4f",
+      "fnc",
+      "fox news",
+      "fox-news/politics/attorney-general",
+      "fox-news/us/us-regions/southeast/louisiana",
+      "fox-news/us/new-orleans",
+      "fox-news/controversies",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-07-03T09:45:01.435Z"
   }
 ]
