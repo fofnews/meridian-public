@@ -541,5 +541,62 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-04T08:00:01.651Z"
+  },
+  {
+    "title": "Map Shows Donald Trump's Approval Rating in Every State on July 4",
+    "description": "At the national level, President Donald Trump's approval rating remains significantly underwater.",
+    "link": "https://www.newsweek.com/map-shows-donald-trumps-approval-rating-in-every-state-on-july-4-12154005",
+    "pubDate": "Sat, 04 Jul 2026 04:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-04T08:15:01.141Z"
+  },
+  {
+    "title": "Thousands protest in Germany against far-right AfD - Reuters",
+    "description": "Thousands protest in Germany against far-right AfD  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSDF2ZkFFUHEyZnpvN3FqZ2QxbV83T1h2RUxZc3p2Um5YeG1GMlBKOXlhUEZ6VzNtc1BqekVGVzVESFhNRk1zcVRmdDV1UDRRVDMtT2lOWEp6T2czM1VpUEVwSUFCdFhwLWtsMmlIT3hxZzNLZGtrazlrRXVGVVQtY0tiT1hsc3dvZUVod1k2NVdmY2c?oc=5",
+    "pubDate": "Sat, 04 Jul 2026 07:18:54 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-07-04T08:15:01.141Z"
+  },
+  {
+    "title": "House Dems dodge questions on SCOTUS trans athlete ruling, shift blame to 'culture wars'",
+    "description": "House Democrats mostly sidestepped questions on the Supreme Court transgender athletes ruling, pivoting to the economy and Washington dysfunction.",
+    "link": "https://www.foxnews.com/politics/house-dems-dodge-questions-scotus-trans-athlete-ruling-shift-blame-culture-wars",
+    "pubDate": "Sat, 04 Jul 2026 04:00:42 -0400",
+    "source": "Fox News",
+    "categories": [
+      "ac867e29-0a62-588d-8a7a-f21aac9a2dd9",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/democrats",
+      "fox-news/us/congress",
+      "fox-news/controversies",
+      "fox-news/us/democratic-party",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-07-04T08:15:01.141Z"
+  },
+  {
+    "title": "Al Green responds to July 4 question with renewed call to impeach Trump",
+    "description": "Democratic lawmakers affirm pride in American democracy and freedoms while voicing concerns about the administration ahead of the 250th Independence Day.",
+    "link": "https://www.foxnews.com/politics/al-green-responds-july-4-question-renewed-call-impeach-trump",
+    "pubDate": "Sat, 04 Jul 2026 04:00:23 -0400",
+    "source": "Fox News",
+    "categories": [
+      "d6ee3430-b20c-5485-b5db-06f0af22b72b",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/us/education/patriotism",
+      "fox-news/us/america-250",
+      "fox-news/us/democratic-party",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-07-04T08:15:01.141Z"
   }
 ]
