@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-03",
+      "lastSeen": "2026-07-04",
       "active": true,
       "entries": [
         {
@@ -346,6 +346,11 @@
           "date": "2026-07-03",
           "edition": "evening",
           "update": "The Justice Department told a federal judge it had already adequately complied with the law and declined to release additional unredacted Epstein records, pushing back against the court-ordered deadline to remove redactions from at least a dozen documents."
+        },
+        {
+          "date": "2026-07-04",
+          "edition": "morning",
+          "update": "The DOJ filed a 17-page brief urging the federal judge to reject demands for additional unredacted Epstein records, arguing it has already met federal transparency requirements, and simultaneously requested a 60-day extension to consider a potential appeal if ordered to release more material."
         }
       ],
       "parentId": null
@@ -559,7 +564,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-03",
+      "lastSeen": "2026-07-04",
       "active": true,
       "entries": [
         {
@@ -1081,6 +1086,11 @@
           "date": "2026-07-03",
           "edition": "evening",
           "update": "Russia's advance in Ukraine has collapsed with approximately 40,000 troops reported killed in June alone, according to Al Jazeera, as Ukraine's long-range strikes continue hitting targets inside Russian territory."
+        },
+        {
+          "date": "2026-07-04",
+          "edition": "morning",
+          "update": "Russia's Defence Ministry claimed its forces captured Kostiantynivka in eastern Ukraine. Putin visited the battlefield and vowed to seize more Ukrainian territory, dismissing Ukraine's recent battlefield gains as 'imaginary achievements' and calling its leaders 'play actors.' Ukrainian drones struck a port and oil terminal in Russia's St. Petersburg region, in what local authorities described as a major drone attack."
         }
       ],
       "parentId": null
@@ -1599,7 +1609,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-07-03",
+      "lastSeen": "2026-07-04",
       "active": true,
       "entries": [
         {
@@ -1736,6 +1746,11 @@
           "date": "2026-07-03",
           "edition": "morning",
           "update": "Khamenei has been laid in state in Tehran as Iran carries out approximately seven days of funeral ceremonies. Lebanon's Health Ministry separately reported that Israeli attacks have killed at least 4,298 people and injured 12,196 others since March."
+        },
+        {
+          "date": "2026-07-04",
+          "edition": "morning",
+          "update": "Following the lying-in-state ceremony in Tehran, a four-day funeral procession for Khamenei is planned to visit five cities across Iran and Iraq, including some of Shiite Islam's holiest sites, with millions of mourners expected to attend."
         }
       ],
       "parentId": null
@@ -5386,5 +5401,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-03T21:07:08.210Z"
+  "updatedAt": "2026-07-04T11:06:16.051Z"
 }
