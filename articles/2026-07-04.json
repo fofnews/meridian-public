@@ -1331,5 +1331,72 @@
     "source": "National Review",
     "categories": [],
     "collectedAt": "2026-07-04T10:45:01.155Z"
+  },
+  {
+    "title": "Iran Projects Unity to the World While Pursuing a Crackdown at Home",
+    "description": "The country’s security service has continued to target civil society and dissidents, including thousands of arrests since the launch of the U.S.-Israeli war in February.",
+    "link": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-dissidents-crackdown.html",
+    "pubDate": "Sat, 04 Jul 2026 10:33:34 +0000",
+    "source": "NY Times",
+    "categories": [],
+    "collectedAt": "2026-07-04T11:00:01.160Z"
+  },
+  {
+    "title": "Donald Trump Posts Gold Replica of Himself On Mount Rushmore",
+    "description": "“I will be the greatest president for many, many years to come,\" President Donald Trump said in the video.",
+    "link": "https://www.newsweek.com/donald-trump-posts-gold-replica-of-himself-on-mount-rushmore-12157408",
+    "pubDate": "Sat, 04 Jul 2026 06:47:12 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-04T11:00:01.160Z"
+  },
+  {
+    "title": "Ukraine hits oil and military facilities near Russia’s St Petersburg",
+    "description": "Kyiv's drones disrupt St Petersburg internet and flights as Russian strikes halt a gas facility in central Ukraine.",
+    "link": "https://www.aljazeera.com/news/2026/7/4/ukraine-hits-oil-and-military-facilities-near-russias-st-petersburg?traffic_source=rss",
+    "pubDate": "Sat, 04 Jul 2026 10:29:19 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-04T11:00:01.160Z"
+  },
+  {
+    "title": "Millions mourn Iran’s Ali Khamenei amid historic funeral procession",
+    "description": "Mourners pack Tehran streets for Khamenei’s funeral, with ceremonies spanning cities and ending in Mashhad burial.",
+    "link": "https://www.aljazeera.com/gallery/2026/7/4/millions-mourn-irans-ali-khamenei-amid-historic-funeral-procession?traffic_source=rss",
+    "pubDate": "Sat, 04 Jul 2026 10:16:31 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-04T11:00:01.160Z"
+  },
+  {
+    "title": "Kean’s depression disclosure prompts questions about mental health stigma",
+    "description": "When Rep. Tom Kean Jr. (R-N.J.) disclosed that his monthslong disappearance from the House was due to depression, he opened a delicate but difficult conversation: How much information about their personal health are politicians expected to share?   After vanishing from public life for more than 100 days and offering almost no details, Kean returned…",
+    "link": "https://thehill.com/policy/healthcare/5950576-rep-tom-kean-jr-depression-disclosure/",
+    "pubDate": "Sat, 04 Jul 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "healthcare",
+      "house",
+      "news",
+      "policy"
+    ],
+    "collectedAt": "2026-07-04T11:00:01.160Z"
+  },
+  {
+    "title": "‘It is a crisis’: Putin under increasing pressure from Ukraine war",
+    "description": "Russian President Vladimir Putin is coming under rare public criticism at home, a significant signal of how the pressures from the more than four-year war in Ukraine are hurting the country.  Fuel shortages and rising inflation, high-profile attacks against Russian energy infrastructure and cities, and mounting military casualties are prompting prominent figures to start pinning the blame…",
+    "link": "https://thehill.com/policy/international/5953000-putin-russia-ukraine-war-pressure/",
+    "pubDate": "Sat, 04 Jul 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "defense",
+      "international",
+      "policy"
+    ],
+    "collectedAt": "2026-07-04T11:00:01.160Z"
   }
 ]
