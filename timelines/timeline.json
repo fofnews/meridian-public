@@ -1091,6 +1091,11 @@
           "date": "2026-07-04",
           "edition": "morning",
           "update": "Russia's Defence Ministry claimed its forces captured Kostiantynivka in eastern Ukraine. Putin visited the battlefield and vowed to seize more Ukrainian territory, dismissing Ukraine's recent battlefield gains as 'imaginary achievements' and calling its leaders 'play actors.' Ukrainian drones struck a port and oil terminal in Russia's St. Petersburg region, in what local authorities described as a major drone attack."
+        },
+        {
+          "date": "2026-07-04",
+          "edition": "evening",
+          "update": "Zelensky confirmed Ukraine struck a major oil terminal near St. Petersburg, describing it as key infrastructure generating revenue for Russia's war effort. Zelensky also denied Russian claims of capturing Kostiantynivka in eastern Ukraine. Ukraine launched a major drone attack on Russia involving approximately 400 drones, according to Russia's Defence Ministry. Ukraine reported that Russia has damaged more than 200 railway locomotives in 2026, disrupting Ukrainian rail infrastructure."
         }
       ],
       "parentId": null
@@ -1751,6 +1756,11 @@
           "date": "2026-07-04",
           "edition": "morning",
           "update": "Following the lying-in-state ceremony in Tehran, a four-day funeral procession for Khamenei is planned to visit five cities across Iran and Iraq, including some of Shiite Islam's holiest sites, with millions of mourners expected to attend."
+        },
+        {
+          "date": "2026-07-04",
+          "edition": "evening",
+          "update": "Ayatollah Mojtaba Khamenei was notably absent from public funeral ceremonies for his father, according to The Hill. Iran declared Sunday and Monday public holidays to encourage attendance at the funeral procession, with the government promoting messages of continuity and revenge at the ceremonies."
         }
       ],
       "parentId": null
@@ -1759,7 +1769,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-01",
+      "lastSeen": "2026-07-04",
       "active": true,
       "entries": [
         {
@@ -2276,6 +2286,11 @@
           "date": "2026-07-01",
           "edition": "evening",
           "update": "Analysts told Al Jazeera that Israel's continued military presence in Lebanon poses a significant obstacle to the U.S.-Iran MOU, despite both sides reportedly wanting the agreement to succeed."
+        },
+        {
+          "date": "2026-07-04",
+          "edition": "evening",
+          "update": "Recovery efforts have begun in Nabatieh, southern Lebanon, as the area continues to face tensions following recent Israeli military operations."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3975,7 +3990,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-03",
+      "lastSeen": "2026-07-04",
       "active": true,
       "entries": [
         {
@@ -4575,7 +4590,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-07-03",
+      "lastSeen": "2026-07-04",
       "active": true,
       "entries": [
         {
@@ -4637,6 +4652,11 @@
           "date": "2026-07-03",
           "edition": "evening",
           "update": "Polish Prime Minister Donald Tusk stated that Ukraine wants to lower tensions with Poland but should confront its history, signaling ongoing friction between the two countries over historical disputes."
+        },
+        {
+          "date": "2026-07-04",
+          "edition": "evening",
+          "update": "Ukrainian strikes on Russian refineries have caused a fuel crisis in Russia, according to Al Jazeera, raising questions about whether economic pressure could move the Kremlin toward peace negotiations."
         }
       ]
     },
@@ -5401,5 +5421,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-04T11:06:16.051Z"
+  "updatedAt": "2026-07-04T21:04:39.834Z"
 }
