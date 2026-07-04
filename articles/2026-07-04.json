@@ -437,5 +437,44 @@
     "source": "AP News",
     "categories": [],
     "collectedAt": "2026-07-04T06:30:01.186Z"
+  },
+  {
+    "title": "Storms Cause Power Outages for 1 Million in Midwest, Northeast and Ontario",
+    "description": "Strong winds from thunderstorms caused widespread cuts as the region sweltered in a heat wave.",
+    "link": "https://www.nytimes.com/2026/07/04/us/storms-power-outages-midwest-northeast-ontario.html",
+    "pubDate": "Sat, 04 Jul 2026 06:06:53 +0000",
+    "source": "NY Times",
+    "categories": [
+      "power failures and blackouts",
+      "heat and heat waves",
+      "michigan",
+      "new jersey",
+      "new york state",
+      "pennsylvania",
+      "ohio",
+      "ontario (canada)",
+      "new york city"
+    ],
+    "collectedAt": "2026-07-04T06:45:01.351Z"
+  },
+  {
+    "title": "France vs Paraguay: World Cup Round of 16 – Mbappe, prediction, kickoff",
+    "description": "France have been the best team so far at the World Cup, although Paraguay are confident after upsetting Germany.",
+    "link": "https://www.aljazeera.com/sports/2026/7/4/france-vs-paraguay-world-cup-round-of-16-mbappe-prediction-kickoff?traffic_source=rss",
+    "pubDate": "Sat, 04 Jul 2026 06:21:44 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-07-04T06:45:01.351Z"
+  },
+  {
+    "title": "Yankees’ Yovanny Cruz sent back to Triple-A despite solid outings",
+    "description": "Despite some solid outings, the Yankees sent reliever Yovanny Cruz right back to Triple-A Scranton/Wilkes-Barre.",
+    "link": "https://nypost.com/2026/07/04/sports/yankees-yovanny-cruz-sent-back-to-triple-a-despite-solid-outings/",
+    "pubDate": "Sat, 04 Jul 2026 02:40:04 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-04T06:45:01.351Z"
   }
 ]
