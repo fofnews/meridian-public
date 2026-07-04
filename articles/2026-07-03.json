@@ -10085,5 +10085,54 @@
     "source": "Epoch Times",
     "categories": [],
     "collectedAt": "2026-07-04T02:00:01.495Z"
+  },
+  {
+    "title": "America 250: David Muir climbs up to the Statue of Liberty's torch",
+    "description": "\"World News Tonight\" anchor David Muir climbed up to the torch of the Statue of Liberty as part of ABC News' coverage of America's 250th birthday.",
+    "link": "https://abcnews.com/US/america-250-david-muir-climbs-statue-libertys-torch/story?id=134390363",
+    "pubDate": "Fri, 03 Jul 2026 22:05:00 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-07-04T02:15:01.853Z"
+  },
+  {
+    "title": "CBS to host \"The Great American Block Party 250\" special on July 4",
+    "description": "CBS will host a primetime special celebrating America's 250th birthday on Saturday, July 4, with exclusive performances and the largest fireworks show in history.",
+    "link": "https://www.cbsnews.com/news/cbs-america-250-special-july-4-zac-brown-band-jon-batiste-goo-goo-dolls/",
+    "pubDate": "Fri, 03 Jul 2026 22:03:55 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-07-04T02:15:01.853Z"
+  },
+  {
+    "title": "Sports world turns out for Travis Kelce and Taylor Swift's Madison Square Garden wedding festivities",
+    "description": "Adam Sandler officiated the ceremony as athletes like George Kittle, Kareem Hunt and Matthew Stafford celebrated at Madison Square Garden.",
+    "link": "https://www.foxnews.com/outkick-sports/sports-world-turns-travis-kelce-taylor-swift-madison-square-garden-wedding-festivities",
+    "pubDate": "Fri, 03 Jul 2026 22:00:02 -0400",
+    "source": "Fox News",
+    "categories": [
+      "6de19faf-d8a6-5c70-baca-9b764ec08a4c",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/person/travis-kelce",
+      "fox-news/person/taylor-swift",
+      "fox-news/entertainment/events/couples",
+      "fox-news/entertainment/events/marriage",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-07-04T02:15:01.853Z"
+  },
+  {
+    "title": "England hotel in Mexico protected by security ahead of World Cup clash",
+    "description": "England and Mexico square off in the Round of 16 Sunday, but the highly-anticipated match has already resulted in quite the theatrics. According to several reports, England’s hotel in Mexico City is under heavy security with police, riot shields and road blocks in place amid concerns over local fans attempting to disturb the squad. There...",
+    "link": "https://nypost.com/2026/07/03/sports/englands-hotel-in-mexico-protected-by-security-before-match/",
+    "pubDate": "Fri, 03 Jul 2026 22:08:28 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-04T02:15:01.853Z"
   }
 ]
