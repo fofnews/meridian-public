@@ -7968,5 +7968,68 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-05T03:00:01.298Z"
+  },
+  {
+    "title": "This California Town Banned Fireworks. Then Came the Dogs.",
+    "description": "People flock to the coastal town of Cambria, which has become known for its fireworks ban, to give their dogs some respite on the Fourth of July.",
+    "link": "https://www.nytimes.com/2026/07/04/us/politics/this-california-town-banned-fireworks-then-came-the-dogs.html",
+    "pubDate": "Sun, 05 Jul 2026 02:17:00 +0000",
+    "source": "NY Times",
+    "categories": [
+      "fireworks",
+      "pets",
+      "independence day (us) (july 4)",
+      "dogs",
+      "noise",
+      "california",
+      "cambria (calif)"
+    ],
+    "collectedAt": "2026-07-05T03:15:01.247Z"
+  },
+  {
+    "title": "Fireworks light up New York City to mark 250 years of US independence",
+    "description": "Fireworks lit up the New York City skyline as America marked its 250th anniversary.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_fireworks-light-up-new-york-city-to-mark-250-years-040726?traffic_source=rss",
+    "pubDate": "Sun, 05 Jul 2026 02:55:06 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-07-05T03:15:01.247Z"
+  },
+  {
+    "title": "Severe weather disrupts US’s 250th celebrations",
+    "description": "Trump says he will still speak in Washington, DC, after a thunderstorm delayed celebrations in the US capital.",
+    "link": "https://www.aljazeera.com/news/2026/7/5/severe-weather-disrupts-uss-250th-celebrations?traffic_source=rss",
+    "pubDate": "Sun, 05 Jul 2026 02:54:05 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-05T03:15:01.247Z"
+  },
+  {
+    "title": "Max Fried encouraged by recovery ahead of latest step toward return Yankees desperately need",
+    "description": "Max Fried is set to throw another simulated game Sunday in his comeback from a left elbow bone bruise that’s sidelined him since mid-May.",
+    "link": "https://nypost.com/2026/07/04/sports/yankees-max-fried-encouraged-by-recovery-ahead-of-latest-step/",
+    "pubDate": "Sat, 04 Jul 2026 23:14:25 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-05T03:15:01.247Z"
+  },
+  {
+    "title": "Paul Pelosi facing hit-and-run charge: Napa County sheriff’s office",
+    "description": "Paul Pelosi, the husband of Rep. Nancy Pelosi (D-CA), is facing a hit-and-run charge in Napa County, California, after he allegedly crashed into a legally parked car on Friday and subsequently left the scene. The Napa County Sheriff’s office said on Saturday he was not arrested and did not have alcohol in his system, but […]",
+    "link": "https://www.washingtonexaminer.com/news/crime/4636426/paul-pelosi-hit-and-run-charge-napa-county/",
+    "pubDate": "Sun, 05 Jul 2026 03:05:46 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "crime",
+      "california",
+      "house of representatives",
+      "nancy pelosi",
+      "san francisco"
+    ],
+    "collectedAt": "2026-07-05T03:15:01.247Z"
   }
 ]
