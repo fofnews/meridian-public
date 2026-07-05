@@ -604,5 +604,72 @@
     "source": "BBC News",
     "categories": [],
     "collectedAt": "2026-07-05T09:00:03.197Z"
+  },
+  {
+    "title": "8 people, including 4 children, injured in July 4th shooting",
+    "description": "A 21-year-old female is in critical condition, and 4 of the injured are juveniles between the ages of 6 and 14, according to he police.",
+    "link": "https://www.cbsnews.com/news/shooting-coney-island-july-4/",
+    "pubDate": "Sun, 05 Jul 2026 04:59:43 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-07-05T09:15:02.154Z"
+  },
+  {
+    "title": "In 250 Years of U.S. Housing, We Are Now Living in Unprecedented Times",
+    "description": "Over the past few decades, the dynamics that kept the U.S. housing market “broke,” experts say. Now the country is “stuck.”",
+    "link": "https://www.newsweek.com/in-250-years-of-u-s-housing-we-are-now-living-in-unprecedented-times-12144555",
+    "pubDate": "Sun, 05 Jul 2026 05:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-05T09:15:02.154Z"
+  },
+  {
+    "title": "Grieving Pet Owners Are Turning to AI",
+    "description": "A veterinarian and co-founder of CodaPet told Newsweek that the rise of AI grief tools does not come as a surprise.",
+    "link": "https://www.newsweek.com/grieving-pet-owners-turning-ai-loss-technology-12035038",
+    "pubDate": "Sun, 05 Jul 2026 05:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-05T09:15:02.154Z"
+  },
+  {
+    "title": "9/11 Museum CEO reflects on lasting impact of terror attacks as America marks 250th birthday",
+    "description": "The 9/11 Memorial Museum marks America's 250th anniversary alongside the 25th anniversary of the attacks, highlighting recovery and resilience.",
+    "link": "https://www.foxnews.com/politics/9-11-museum-ceo-reflects-lasting-impact-terror-attacks-america-marks-250th-birthday",
+    "pubDate": "Sun, 05 Jul 2026 05:00:56 -0400",
+    "source": "Fox News",
+    "categories": [
+      "448e996b-325e-52cb-807c-90469ad3605a",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/us/america-250",
+      "fox-news/us/terror/september-11",
+      "fox-news/us/us-regions/northeast/new-york",
+      "fox-news/us/personal-freedoms/america-together",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-07-05T09:15:02.154Z"
+  },
+  {
+    "title": "Before the Boston Tea Party, there were New Hampshire's Pine Tree Riots",
+    "description": "Gov. Kelly Ayotte says the Pine Tree Riot in New Hampshire predated the Boston Tea Party and may have inspired the famous colonial protest.",
+    "link": "https://www.foxnews.com/politics/before-boston-tea-party-new-hampshires-pine-tree-riots",
+    "pubDate": "Sun, 05 Jul 2026 05:00:51 -0400",
+    "source": "Fox News",
+    "categories": [
+      "7e279d8e-571c-585f-888d-5d8b19ff2a9d",
+      "fnc",
+      "fox news",
+      "fox-news/politics/elections/state",
+      "fox-news/us/washington-dc",
+      "fox-news/us/us-regions/northeast/new-hampshire",
+      "fox-news/politics",
+      "fox-news/us/america-250",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-07-05T09:15:02.154Z"
   }
 ]
