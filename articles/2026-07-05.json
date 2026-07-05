@@ -223,5 +223,44 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-05T06:30:01.418Z"
+  },
+  {
+    "title": "Huge Crowds Mass in Tehran for Ayatollah’s State Funeral",
+    "description": "As days of public mourning ceremonies began, Iranians viewed the casket of Ayatollah Ali Khamenei, who was killed at the start of the U.S.-Israeli attacks.",
+    "link": "https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html",
+    "pubDate": "Sun, 05 Jul 2026 06:37:32 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "funerals and memorials",
+      "assassinations and attempted assassinations",
+      "international relations",
+      "iran-israel proxy conflict",
+      "khamenei, ali",
+      "khamenei, mojtaba (1969- )",
+      "iran",
+      "tehran (iran)"
+    ],
+    "collectedAt": "2026-07-05T06:45:01.634Z"
+  },
+  {
+    "title": "Brazil vs Norway: FIFA World Cup last 16 – Vinicius, Haaland and prediction",
+    "description": "Norway are one of only three countries Brazil have faced at a World Cup without registering at least one victory.",
+    "link": "https://www.aljazeera.com/sports/2026/7/5/brazil-vs-norway-fifa-world-cup-last-16-vinicius-haaland-and-prediction?traffic_source=rss",
+    "pubDate": "Sun, 05 Jul 2026 06:22:26 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-07-05T06:45:01.634Z"
+  },
+  {
+    "title": "News of the World: What you missed this week internationally",
+    "description": "Seoul cafés throw birthday parties for celebrities who never show up, close to 100 brazen monkeys escape from their enclosure in Thailand, and more news from around the world.",
+    "link": "https://nypost.com/2026/07/05/world-news/news-of-the-world-july-4-2026/",
+    "pubDate": "Sun, 05 Jul 2026 02:34:03 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-05T06:45:01.634Z"
   }
 ]
