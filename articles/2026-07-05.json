@@ -400,5 +400,24 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-05T07:30:01.351Z"
+  },
+  {
+    "title": "Revolutionary War cannons debut at Savannah History Museum for America 250",
+    "description": "Nineteen cannons and a dozen or so small artifacts recovered from Savannah River find a new home inside the Savannah History Museum.",
+    "link": "https://www.foxnews.com/lifestyle/revolutionary-war-cannons-debut-savannah-history-museum-america-250",
+    "pubDate": "Sun, 05 Jul 2026 03:28:29 -0400",
+    "source": "Fox News",
+    "categories": [
+      "e9e1042e-e8b8-5e84-97b3-1f0cd4f811cb",
+      "fnc",
+      "fox news",
+      "fox-news/us/america-250",
+      "fox-news/us/us-regions/southeast/georgia",
+      "fox-news/science/archaeology/history",
+      "fox-news/lifestyle",
+      "fox-news/lifestyle",
+      "article"
+    ],
+    "collectedAt": "2026-07-05T07:45:01.183Z"
   }
 ]
