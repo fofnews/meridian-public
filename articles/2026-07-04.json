@@ -7933,5 +7933,40 @@
     "source": "Newsmax",
     "categories": [],
     "collectedAt": "2026-07-05T02:45:01.199Z"
+  },
+  {
+    "title": "The Brooklyn Bridge Briefly Catches Fire During a Fireworks Display",
+    "description": "The fire appeared to have been extinguished by shortly after 10 p.m., the police said. No injuries were reported.",
+    "link": "https://www.nytimes.com/2026/07/04/us/politics/fire-brooklyn-bridge-fireworks.html",
+    "pubDate": "Sun, 05 Jul 2026 02:44:28 +0000",
+    "source": "NY Times",
+    "categories": [
+      "fires and firefighters",
+      "fireworks",
+      "bridges and tunnels",
+      "independence day (us) (july 4)",
+      "brooklyn bridge (nyc)",
+      "new york city",
+      "macy's inc"
+    ],
+    "collectedAt": "2026-07-05T03:00:01.298Z"
+  },
+  {
+    "title": "Historic Activist Ship Ejected From NYC July 4 Parade Over Climate Banners",
+    "description": "The Clearwater, known for its ties to activism, was escorted from the parade route in New York Harbor by the U.S. Coast Guard.",
+    "link": "https://www.newsweek.com/historic-activist-ship-ejected-nyc-july-4-parade-over-climate-banners-12158749",
+    "pubDate": "Sat, 04 Jul 2026 22:56:10 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-05T03:00:01.298Z"
+  },
+  {
+    "title": "Kim Jong Un seen observing weapons tests from new North Korean naval destroyer",
+    "description": "After observing the tests from shore, Kim ordered officials to complete the destroyer’s trials and place the vessel in active duty within two months.",
+    "link": "https://nypost.com/2026/07/04/world-news/kim-jong-un-seen-observing-weapons-tests-from-new-north-korean-naval-destroyer/",
+    "pubDate": "Sat, 04 Jul 2026 22:59:38 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-05T03:00:01.298Z"
   }
 ]
