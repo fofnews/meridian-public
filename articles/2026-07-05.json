@@ -419,5 +419,36 @@
       "article"
     ],
     "collectedAt": "2026-07-05T07:45:01.183Z"
+  },
+  {
+    "title": "ABC News Live",
+    "description": "24/7 coverage of breaking news and live events",
+    "link": "https://abcnews.com/video/41463246/",
+    "pubDate": "Sun, 05 Jul 2026 03:51:02 -0400",
+    "source": "ABC News",
+    "categories": [
+      "live"
+    ],
+    "collectedAt": "2026-07-05T08:00:01.246Z"
+  },
+  {
+    "title": "8 shot, including 4 children, in Coney Island, NYPD says",
+    "description": "A firearm was recovered at the scened, the New York Police Department said.",
+    "link": "https://abcnews.com/US/8-shot-including-4-children-coney-island-nypd/story?id=134493580",
+    "pubDate": "Sun, 05 Jul 2026 03:58:51 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-07-05T08:00:01.246Z"
+  },
+  {
+    "title": "Three sons of Iran’s late Ayatollah Khamenei appear at funeral — but Supreme Leader Mojtaba Khamenei is still absent",
+    "description": "Khamenei's coffin was displayed outdoors on Saturday under glass, along with those ​of his daughter, son-in-law, daughter-in-law and 14-month-old granddaughter.",
+    "link": "https://nypost.com/2026/07/05/world-news/ayatollah-khamenei-funeral-attended-by-sons-but-iran-supreme-leader-mojtaba-khamenei-is-absent/",
+    "pubDate": "Sun, 05 Jul 2026 03:48:59 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-05T08:00:01.246Z"
   }
 ]
