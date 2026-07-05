@@ -194,5 +194,34 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-05T06:00:01.360Z"
+  },
+  {
+    "title": "Trump touts American \"golden age\", attacks communism in July 4th speech",
+    "description": "In a speech delayed by a two-hour evacuation of the National Mall due to severe weather, President Trump mixed politics with history.",
+    "link": "https://www.cbsnews.com/news/trump-july-4-speech-washington-dc/",
+    "pubDate": "Sun, 05 Jul 2026 02:13:42 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-07-05T06:30:01.418Z"
+  },
+  {
+    "title": "Native Americans Resisting ICE",
+    "description": "A Native American lawyer confronts ICE as he channels generational resistance into a fight for justice in the US.",
+    "link": "https://www.aljazeera.com/video/witness/2026/7/5/native-americans-resisting-ice?traffic_source=rss",
+    "pubDate": "Sun, 05 Jul 2026 06:02:12 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "documentary"
+    ],
+    "collectedAt": "2026-07-05T06:30:01.418Z"
+  },
+  {
+    "title": "How an appreciative USMNT spent their Fourth of July",
+    "description": "USMNT members were slated to gather with family and friends atop a Seattle downtown rooftop to watch the fireworks from barges over Lake Union.",
+    "link": "https://nypost.com/2026/07/05/sports/how-an-appreciative-usmnt-spent-their-fourth-of-july/",
+    "pubDate": "Sun, 05 Jul 2026 02:22:20 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-05T06:30:01.418Z"
   }
 ]
