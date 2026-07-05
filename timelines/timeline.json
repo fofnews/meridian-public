@@ -1101,6 +1101,11 @@
           "date": "2026-07-05",
           "edition": "morning",
           "update": "Ukraine's military denied Russia's claim to have captured Kostiantynivka, stating its troops are holding defensive positions against Russian infiltration attempts. The St. Petersburg drone strike is part of a 40-day 'pressure campaign' authorized by Zelensky, targeting deep Russian territory with long-range drones."
+        },
+        {
+          "date": "2026-07-05",
+          "edition": "evening",
+          "update": "Russia is facing an emergency situation in its energy sector following Ukrainian strikes targeting energy infrastructure, according to Newsmax."
         }
       ],
       "parentId": null
@@ -1771,6 +1776,11 @@
           "date": "2026-07-05",
           "edition": "morning",
           "update": "Funeral processions for Khamenei entered their second day, with large crowds gathering despite heatwave conditions. Three of Khamenei's sons appeared at the ceremonies, while Mojtaba Khamenei — identified as his designated successor — remained absent for a second time. Mourners in Tehran were heard chanting 'death to America' at the mosque, and Trump pledged calm during the proceedings. U.S.-Iran negotiations remain paused, with the mourning period described as a diplomatic flashpoint."
+        },
+        {
+          "date": "2026-07-05",
+          "edition": "evening",
+          "update": "Mourners at Khamenei's funeral gathered at a burial complex that has remained unfinished for nearly 40 years, with critics citing it as symbolic of unfulfilled promises during his rule. Crowds at the ceremonies continued calls for revenge against the United States and Israel."
         }
       ],
       "parentId": null
@@ -4060,7 +4070,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-07-02",
+      "lastSeen": "2026-07-05",
       "active": true,
       "entries": [
         {
@@ -4322,6 +4332,11 @@
           "date": "2026-07-02",
           "edition": "evening",
           "update": "U.S.-Iran nuclear negotiations have been paused for approximately one week to allow for the funeral of Iran's slain Supreme Leader, with President Trump and mediators stating progress had been made in talks prior to the pause."
+        },
+        {
+          "date": "2026-07-05",
+          "edition": "evening",
+          "update": "Defense Secretary Pete Hegseth has gone notably silent following Trump's signing of the memorandum of understanding with Iran, a deal that did not secure significant concessions on Iran's missile or nuclear stockpiles, according to The Hill."
         }
       ]
     },
@@ -4672,6 +4687,11 @@
           "date": "2026-07-05",
           "edition": "morning",
           "update": "Trump held a nearly 90-minute phone call with Putin, offering to help broker a deal to end the war, according to Kremlin aide Yury Ushakov. Zelensky separately confirmed he also spoke with Trump, calling for 'American resolve' to bring the conflict to a close."
+        },
+        {
+          "date": "2026-07-05",
+          "edition": "evening",
+          "update": "Ukraine rejected a Russian proposal for a local ceasefire that would have allowed for the handover of soldiers' bodies, according to Russia."
         }
       ]
     },
@@ -5441,5 +5461,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-05T11:04:48.687Z"
+  "updatedAt": "2026-07-05T21:04:42.874Z"
 }
