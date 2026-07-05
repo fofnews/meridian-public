@@ -116,5 +116,37 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-05T05:00:01.311Z"
+  },
+  {
+    "title": "Trump celebrates July 4th in National Mall address, repeatedly touches on politics",
+    "description": "Weather delayed Trump's address celebrating America's 250th birthday.",
+    "link": "https://abcnews.com/Politics/trump-hold-rally-celebrate-july-fourth-washington/story?id=134374334",
+    "pubDate": "Sun, 05 Jul 2026 01:19:45 -0400",
+    "source": "ABC News",
+    "categories": [
+      "politics"
+    ],
+    "collectedAt": "2026-07-05T05:30:01.423Z"
+  },
+  {
+    "title": "Romário confía en Ancelotti y compara al Brasil actual con su generación",
+    "description": "El legendario Romário habló sobre el momento que vive la Selección de Brasil, respaldó el proyecto encabezado por Carlo Ancelotti y comparó al equipo actual con la generación campeona de la que formó parte, destacando varias similitudes.",
+    "link": "https://www.telemundo.com/deportes/copa-mundial-de-la-fifa-2026/video/romario-confia-en-ancelotti-y-compara-al-brasil-actual-con-su-generacion-tmvo13200632",
+    "pubDate": "Sun, 05 Jul 2026 05:04:56 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-07-05T05:30:01.423Z"
+  },
+  {
+    "title": "Trump celebrates America’s 250th anniversary in weather-delayed, sometimes partisan speech",
+    "description": "President Trump capped off the 250th anniversary of the nation’s founding with a late-night speech delayed by inclement weather that blended the championing of American achievements and resilience with deeply partisan rhetoric about the perceived ideological threats facing the country. “Tonight we come together for one of the most joyous and glorious milestones of all time,”…",
+    "link": "https://thehill.com/homenews/administration/5953811-trump-celebrates-americas-250th-birthday/",
+    "pubDate": "Sun, 05 Jul 2026 05:03:01 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "president trump"
+    ],
+    "collectedAt": "2026-07-05T05:30:01.423Z"
   }
 ]
