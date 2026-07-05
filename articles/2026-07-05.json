@@ -1405,5 +1405,64 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-05T11:45:01.212Z"
+  },
+  {
+    "title": "The Most American Thing",
+    "description": "What best represents America?",
+    "link": "https://www.nytimes.com/2026/07/05/briefing/the-most-american-thing.html",
+    "pubDate": "Sun, 05 Jul 2026 11:34:41 +0000",
+    "source": "NY Times",
+    "categories": [
+      "internal-storyline-no",
+      "united states",
+      "united states politics and government",
+      "united states semiquincentennial (2026)",
+      "independence day (us) (july 4)"
+    ],
+    "collectedAt": "2026-07-05T12:00:01.560Z"
+  },
+  {
+    "title": "Trump Compared Chicago Shootings to Iran War. Here's What the Data Shows",
+    "description": "523 people have been shot in Chicago, above the 273 figure that was shared online and later amplified by President Trump.",
+    "link": "https://www.newsweek.com/trump-compared-chicago-shootings-to-iran-war-heres-what-the-data-shows-12159030",
+    "pubDate": "Sun, 05 Jul 2026 07:53:05 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-05T12:00:01.560Z"
+  },
+  {
+    "title": "Manchin blames Democratic divisions on ‘void of leadership’",
+    "description": "Former independent Sen. Joe Manchin (W.V.) blamed the Democratic Party’s “void in leadership” on internal splits over the rise of democratic socialist candidates in a new radio interview on Sunday morning.  In a conversation with radio host John Catsimatidis on his show “Cats Roundtable,” Manchin cited democratic socialist candidates’ recent wins in states like New…",
+    "link": "https://thehill.com/homenews/campaign/5953621-manchin-blames-democratic-splits/",
+    "pubDate": "Sun, 05 Jul 2026 11:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "news",
+      "democratic party",
+      "dsa",
+      "joe manchin",
+      "john catsimatidis",
+      "lauren boebert"
+    ],
+    "collectedAt": "2026-07-05T12:00:01.560Z"
+  },
+  {
+    "title": "Paraguay goalie tosses ball at France's Kylian Mbappé after World Cup showdown",
+    "description": "Kylian Mbappé was targeted with rough fouls throughout the match before Orlando Gill threw a ball at him during a tense post-match confrontation.",
+    "link": "https://www.foxnews.com/sports/paraguay-goalie-tosses-ball-france-kylian-mbappe-world-cup-showdown",
+    "pubDate": "Sun, 05 Jul 2026 07:41:09 -0400",
+    "source": "Fox News",
+    "categories": [
+      "36b7b7f8-9b15-57cb-9caf-6093f9224d14",
+      "fnc",
+      "fox news",
+      "fox-news/sports/soccer/the-world-cup",
+      "fox-news/sports/soccer",
+      "fox-news/sports",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-07-05T12:00:01.560Z"
   }
 ]
