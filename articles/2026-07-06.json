@@ -502,5 +502,66 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-06T06:45:01.136Z"
+  },
+  {
+    "title": "China test-launches ballistic missile from sub in South Pacific, draws protests",
+    "description": "China's military test-launched a long-range ballistic missile from one a nuclear-powered submarine in the South Pacific, drawing protest and concern from countries in the region.",
+    "link": "https://www.cbsnews.com/news/china-ballistic-missile-test-launch-submarine-south-pacific/",
+    "pubDate": "Mon, 06 Jul 2026 02:55:11 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-07-06T07:00:01.132Z"
+  },
+  {
+    "title": "Russian attacks on Ukraine kill 11 on eve of NATO summit, authorities say",
+    "description": "Ukrainian President Volodymyr Zelenskyy had warned of a likely attack ahead of meeting with US President Donald Trump.",
+    "link": "https://www.aljazeera.com/news/2026/7/6/russian-attacks-on-ukraine-kill-11-on-eve-of-nato-summit-authorities-say?traffic_source=rss",
+    "pubDate": "Mon, 06 Jul 2026 06:35:50 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-06T07:00:01.132Z"
+  },
+  {
+    "title": "Sudan’s maternity wards reopen, bringing hope amid post-war struggles",
+    "description": "Sudan’s maternity wards reopen, bringing hope and safe deliveries to mothers navigating post-war economic hardships.",
+    "link": "https://www.aljazeera.com/features/2026/7/6/sudans-maternity-wards-reopen-bringing-hope-amid-post-war-struggles?traffic_source=rss",
+    "pubDate": "Mon, 06 Jul 2026 06:18:48 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "features"
+    ],
+    "collectedAt": "2026-07-06T07:00:01.132Z"
+  },
+  {
+    "title": "Oil drifts down after OPEC+ agrees to raise output targets - Reuters",
+    "description": "Oil drifts down after OPEC+ agrees to raise output targets  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZkI2QThocHlWRUVKSHgtb2N1WmlUX2hDQ3MxZloycVItY3d4N2Nub2FTbWYzd1hPTlZXa2VPdEhfTGgxU2g3UlBrS0VvemRZTnI2SU9HZklMOEt4d2h1U1U2ZkpZT3dscE5SRzMtTHNqVXRGcy0yaWdXU3JxemdJRWNITEhVSkFSQnV0dnhKWlJWcF8xVWhNb0k4M1FaMDNtaHc?oc=5",
+    "pubDate": "Mon, 06 Jul 2026 04:29:21 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-07-06T07:00:01.132Z"
+  },
+  {
+    "title": "Idaho mom who claimed vaccines killed her twin babies charged with murdering her kids",
+    "description": "An Idaho woman who claimed her twins suffered vaccine-related deaths is now accused of killing them by suffocation and charged with first-degree murder.",
+    "link": "https://www.foxnews.com/us/idaho-mom-claimed-vaccines-killed-twin-babies-charged-murdering-kids",
+    "pubDate": "Mon, 06 Jul 2026 02:44:36 -0400",
+    "source": "Fox News",
+    "categories": [
+      "b867ca21-2b23-55f8-87b9-531578844223",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/west/idaho",
+      "fox-news/health",
+      "fox-news/health/healthy-living/childrens-health",
+      "fox-news/crime",
+      "fox-news/us",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-07-06T07:00:01.132Z"
   }
 ]
