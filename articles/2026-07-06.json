@@ -677,5 +677,72 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-06T07:45:01.241Z"
+  },
+  {
+    "title": "Prince Harry to stay at Buckingham Palace for part of UK trip",
+    "description": "The prince has formally accepted an invitation to stay at the palace for part of his visit to the UK this week.",
+    "link": "https://www.bbc.co.uk/news/articles/c77yykl87yno?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 06 Jul 2026 07:57:54 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-06T08:00:01.148Z"
+  },
+  {
+    "title": "England's Henderson injures wrist tripping over during match celebration",
+    "description": "England midfielder Jordan Henderson suffers a wrist injury while celebrating his side's dramatic World Cup last-16 win over Mexico.",
+    "link": "https://www.bbc.co.uk/sport/football/videos/c8x221q8zp2o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 06 Jul 2026 04:38:23 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-06T08:00:01.148Z"
+  },
+  {
+    "title": "Russian missile and drone attack on Ukraine's capital kills at least 10",
+    "description": "Russia launched waves of missiles and drones targeting Kyiv early Monday that killed at least 10 people, authorities said.",
+    "link": "https://www.npr.org/2026/07/06/g-s1-132088/russian-missile-drone-attack-kyiv-kills-at-least-10",
+    "pubDate": "Mon, 06 Jul 2026 03:41:08 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-07-06T08:00:01.148Z"
+  },
+  {
+    "title": "Trump asked FIFA to review US World Cup star Folarin Balogun's red card ban: Sources",
+    "description": "Balogun was given a red card and automatically suspended for one game last week after clashing with an opposing player's foot.",
+    "link": "https://abcnews.com/GMA/Culture/us-world-cup-star-folarin-baloguns-red-card/story?id=134500486",
+    "pubDate": "Mon, 06 Jul 2026 03:54:46 -0400",
+    "source": "ABC News",
+    "categories": [
+      "gma"
+    ],
+    "collectedAt": "2026-07-06T08:00:01.148Z"
+  },
+  {
+    "title": "A new ICE facility could speed up deportations for families and kids",
+    "description": "The Trump administration plans to open a 528-bed holding center for migrant families and unaccompanied children awaiting removal from the U.S., putting it next to a Louisiana airfield that has become the nation’s largest hub of deportation flights",
+    "link": "https://abcnews.com/US/wireStory/new-ice-facility-speed-deportations-families-kids-134507955",
+    "pubDate": "Mon, 06 Jul 2026 03:44:04 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-07-06T08:00:01.148Z"
+  },
+  {
+    "title": "China test fires missile into Pacific, alarming regional powers - Reuters",
+    "description": "China test fires missile into Pacific, alarming regional powers  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONHN3R1NZdmtSRi0yZWF1cGt2a3FyVG9qVkJBMkpZUktxZXNYV0tSTXFrdkplR3RsSDdyekFCZGsxODgzR3pjRGxzS2lZVkI4Q1Vvb1VuVm5fb2JXSDdlTEZqZzlxNlJpdHNxQUZNdmJXRzVZdjhPSTRtelE3LXdpZ0h6d0cxRlB3aUh5N1BOS2sxeHFOMUhrMzBTd1hfVS1OZEtHNXY2S01qd3RyOFZF?oc=5",
+    "pubDate": "Mon, 06 Jul 2026 06:19:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-07-06T08:00:01.148Z"
+  },
+  {
+    "title": "Trump intervention sparks World Cup storm as FIFA clears Balogun to face Belgium - Reuters",
+    "description": "Trump intervention sparks World Cup storm as FIFA clears Balogun to face Belgium  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSDZpdVMzaWc5LVM4cEp5V0dFWlZCeUlhMEFLUDJxaE1rTmFkdGM1TVNUdDNsSXBPVlUwNDdqM3VMLXY2RDR2aUdIcG9DNlpBRm03LXc2WGdZemtqRWVPSDhUWGNEZ0F6Z2NLYzF2UEphU1I2SUtKaWIwT2lGMEY2V1N4czExb3VBVWxObThYQktFMU0xeWxvaWp3Vm5MSmU2Yk42czk4Z0k1MXVVSGpYNnJ5cWdJRUg0T1BhYnBjZGJaUQ?oc=5",
+    "pubDate": "Mon, 06 Jul 2026 05:16:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-07-06T08:00:01.148Z"
   }
 ]
