@@ -564,7 +564,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-05",
+      "lastSeen": "2026-07-06",
       "active": true,
       "entries": [
         {
@@ -1106,6 +1106,11 @@
           "date": "2026-07-05",
           "edition": "evening",
           "update": "Russia is facing an emergency situation in its energy sector following Ukrainian strikes targeting energy infrastructure, according to Newsmax."
+        },
+        {
+          "date": "2026-07-06",
+          "edition": "morning",
+          "update": "Russia launched waves of missiles and drones targeting Kyiv on Monday, killing at least seven people in the second major strike on the capital within a week. The attack occurred on the eve of a NATO summit. Separately, a Center for Strategic and International Studies report released Wednesday estimated total casualties in the Russia-Ukraine war have surpassed 2 million, including up to 600,000 deaths, as the conflict enters its fifth year."
         }
       ],
       "parentId": null
@@ -1624,7 +1629,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-07-05",
+      "lastSeen": "2026-07-06",
       "active": true,
       "entries": [
         {
@@ -1781,6 +1786,11 @@
           "date": "2026-07-05",
           "edition": "evening",
           "update": "Mourners at Khamenei's funeral gathered at a burial complex that has remained unfinished for nearly 40 years, with critics citing it as symbolic of unfulfilled promises during his rule. Crowds at the ceremonies continued calls for revenge against the United States and Israel."
+        },
+        {
+          "date": "2026-07-06",
+          "edition": "morning",
+          "update": "China conducted a test launch of a long-range ballistic missile from a nuclear-powered submarine in the South Pacific during the period of Khamenei's funeral processions, as reported by the NY Times."
         }
       ],
       "parentId": null
@@ -1789,7 +1799,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-04",
+      "lastSeen": "2026-07-06",
       "active": true,
       "entries": [
         {
@@ -2311,6 +2321,11 @@
           "date": "2026-07-04",
           "edition": "evening",
           "update": "Recovery efforts have begun in Nabatieh, southern Lebanon, as the area continues to face tensions following recent Israeli military operations."
+        },
+        {
+          "date": "2026-07-06",
+          "edition": "morning",
+          "update": "A Palestinian baby died in the West Bank after Israeli forces blocked access to urgent medical care, and Israeli forces also shot and killed a 16-year-old boy in the occupied West Bank and killed two Palestinians in Gaza, according to Al Jazeera. Security camera footage reviewed by Al Jazeera appears to show an Israeli soldier throwing a stun grenade into a car carrying young Palestinians."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3894,7 +3909,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-06-26",
+      "lastSeen": "2026-07-06",
       "active": true,
       "entries": [
         {
@@ -3976,6 +3991,11 @@
           "date": "2026-06-26",
           "edition": "evening",
           "update": "Kim Jong Un called on his military to strengthen its 'deadly and destructive offensive posture,' while South Korea announced plans to expand its drone warfare capabilities in response to regional tensions."
+        },
+        {
+          "date": "2026-07-06",
+          "edition": "morning",
+          "update": "China test-launched a long-range ballistic missile from a nuclear-powered submarine in the South Pacific, its first such test since 2024. The missile carried a dummy warhead according to Xinhua News Agency, and the test drew protests from Australia and New Zealand."
         }
       ],
       "parentId": null
@@ -3984,7 +4004,7 @@
       "id": "journalist-abductions-and-releases",
       "title": "Journalist Abductions and Releases",
       "firstSeen": "2026-04-07",
-      "lastSeen": "2026-06-19",
+      "lastSeen": "2026-07-06",
       "active": true,
       "entries": [
         {
@@ -4001,6 +4021,11 @@
           "date": "2026-06-19",
           "edition": "evening",
           "update": "Search efforts continue for kidnapped Mexican journalist Roxana Guzman, according to Al Jazeera, with no details yet reported on her whereabouts or the circumstances of her abduction."
+        },
+        {
+          "date": "2026-07-06",
+          "edition": "morning",
+          "update": "Sara Canning, former partner of journalist Lyra McKee, who was killed in 2019, described McKee's killer as 'pathetic' and stated she believes justice will never be served for the killing."
         }
       ],
       "parentId": null
@@ -4010,7 +4035,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-04",
+      "lastSeen": "2026-07-06",
       "active": true,
       "entries": [
         {
@@ -5461,5 +5486,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-05T21:04:42.874Z"
+  "updatedAt": "2026-07-06T11:06:48.427Z"
 }
