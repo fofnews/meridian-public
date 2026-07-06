@@ -590,5 +590,56 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-06T07:15:01.279Z"
+  },
+  {
+    "title": "Fourth of July fireworks lit up the skies",
+    "description": "Americans across the country celebrated the 250th anniversary of the Declaration of Independence with a treasured tradition: fireworks!",
+    "link": "https://abcnews.com/video/134503570/",
+    "pubDate": "Mon, 06 Jul 2026 01:41:04 -0400",
+    "source": "ABC News",
+    "categories": [
+      "wnt"
+    ],
+    "collectedAt": "2026-07-06T07:30:01.104Z"
+  },
+  {
+    "title": "Funeral procession for Iran’s slain Supreme Leader Ali Khamenei under way",
+    "description": "Iranians mourn along procession route before burial in Mashhad during weeklong ceremonies.",
+    "link": "https://www.aljazeera.com/gallery/2026/7/6/funeral-procession-for-irans-slain-supreme-leader-ali-khamenei-under-way?traffic_source=rss",
+    "pubDate": "Mon, 06 Jul 2026 07:11:33 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-06T07:30:01.104Z"
+  },
+  {
+    "title": "Khamenei’s funeral procession moves through Tehran",
+    "description": "Crowds filled the streets of Tehran as the funeral procession for Iran’s Supreme Leader, Ayatollah Ali Khamenei, began.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/khameneis-funeral-procession-moves-through-tehran?traffic_source=rss",
+    "pubDate": "Mon, 06 Jul 2026 07:05:35 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-07-06T07:30:01.104Z"
+  },
+  {
+    "title": "Wildfires rage in Portugal, Greece and Spain while Greek authorities warn of toxic smoke - AP News",
+    "description": "Wildfires rage in Portugal, Greece and Spain while Greek authorities warn of toxic smoke  AP News",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0Q0S2Z4bFgtWUxEZWYyN0htZWEzOU5Vb01WdkNSMWZfb0lUQU5neW5KY25qSmQ1OXdYNWhXR2tITXQtRzBnbUE3b3FBQjFzblFQU0l5YlhHcW5ZZXpHLUlUNXhGN21pVm9oWkpGVm91ZXRudzBiYjhBMjdNLXhBU2F3bU9FaS1mM05CWENIdXhzcEFvZ0ExcHFkek0yb0VIQW45UEl0TVY?oc=5",
+    "pubDate": "Mon, 06 Jul 2026 04:59:00 GMT",
+    "source": "AP News",
+    "categories": [],
+    "collectedAt": "2026-07-06T07:30:01.104Z"
+  },
+  {
+    "title": "Just a week after spin-off plan, Comcast says it will buy British broadcaster",
+    "description": "Just a week after Comcast announced a plan to spin off NBCUniversal, the Philadelphia media-and-broadband conglomerate said it’s buying a British broadcaster.",
+    "link": "https://www.marketwatch.com/story/just-a-week-after-spin-off-plan-comcast-says-it-will-buy-british-broadcaster-6178a2be?mod=mw_rss_topstories",
+    "pubDate": "Mon, 06 Jul 2026 07:21:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-07-06T07:30:01.104Z"
   }
 ]
