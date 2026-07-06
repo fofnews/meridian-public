@@ -819,5 +819,36 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-07-06T08:15:01.191Z"
+  },
+  {
+    "title": "How Mexico's World Cup run brought joy after a year of fear",
+    "description": "For Mexico's football-loving community, the World Cup has been a triumph, despite their last-16 exit. The joy has spread to Southern California, home to one of the largest Mexican communities outside Mexico.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cx2wwdn6n15o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 06 Jul 2026 05:29:00 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-06T08:30:02.272Z"
+  },
+  {
+    "title": "Moment Israeli soldier hurls stun grenade into Palestinians’ car",
+    "description": "Security camera video appears to show an Israeli soldier throwing a stun grenade into a car carrying young Palestinians.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/6/moment-israeli-soldier-hurls-stun-grenade-into-palestinians-car?traffic_source=rss",
+    "pubDate": "Mon, 06 Jul 2026 08:19:20 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-06T08:30:02.272Z"
+  },
+  {
+    "title": "Super Typhoon Bavi makes landfall on US Pacific islands",
+    "description": "Local authorities on Rota, part of the Northern Mariana Islands, say they have received reports of 'major damages'.",
+    "link": "https://www.aljazeera.com/news/2026/7/6/super-typhoon-bavi-makes-landfall-on-us-pacific-islands?traffic_source=rss",
+    "pubDate": "Mon, 06 Jul 2026 07:59:55 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-06T08:30:02.272Z"
   }
 ]
