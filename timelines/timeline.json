@@ -1111,6 +1111,11 @@
           "date": "2026-07-06",
           "edition": "morning",
           "update": "Russia launched waves of missiles and drones targeting Kyiv on Monday, killing at least seven people in the second major strike on the capital within a week. The attack occurred on the eve of a NATO summit. Separately, a Center for Strategic and International Studies report released Wednesday estimated total casualties in the Russia-Ukraine war have surpassed 2 million, including up to 600,000 deaths, as the conflict enters its fifth year."
+        },
+        {
+          "date": "2026-07-06",
+          "edition": "evening",
+          "update": "Ukrainian drones struck Russia's largest refinery in one of the deepest long-range strikes into Russian territory yet, according to Reuters. Ukraine's Defence Intelligence accused Russia of dumping anthrax-infected cattle carcasses in Ukrainian-occupied territories, labeling it biological terrorism against civilians. Zelenskyy called on the U.S. and Europe to supply additional air defense missiles. A European intelligence report cited by Reuters warned the ongoing war risks triggering a banking crisis in Russia."
         }
       ],
       "parentId": null
@@ -1791,6 +1796,11 @@
           "date": "2026-07-06",
           "edition": "morning",
           "update": "China conducted a test launch of a long-range ballistic missile from a nuclear-powered submarine in the South Pacific during the period of Khamenei's funeral processions, as reported by the NY Times."
+        },
+        {
+          "date": "2026-07-06",
+          "edition": "evening",
+          "update": "CBS News reports that Mojtaba Khamenei has not been seen publicly amid rumors of potentially grave injuries, marking a third consecutive absence from his father's funeral ceremonies. His three brothers attended prayers at the procession, while his whereabouts and condition remain unconfirmed."
         }
       ],
       "parentId": null
@@ -2326,6 +2336,11 @@
           "date": "2026-07-06",
           "edition": "morning",
           "update": "A Palestinian baby died in the West Bank after Israeli forces blocked access to urgent medical care, and Israeli forces also shot and killed a 16-year-old boy in the occupied West Bank and killed two Palestinians in Gaza, according to Al Jazeera. Security camera footage reviewed by Al Jazeera appears to show an Israeli soldier throwing a stun grenade into a car carrying young Palestinians."
+        },
+        {
+          "date": "2026-07-06",
+          "edition": "evening",
+          "update": "An Israeli strike on a vehicle in southern Lebanon killed at least four people, according to Al Jazeera, as Israeli attacks on the region continued despite a U.S.-brokered ceasefire agreement."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3414,7 +3429,7 @@
       "id": "cuba-energy-crisis",
       "title": "Cuba Energy Crisis",
       "firstSeen": "2026-03-16",
-      "lastSeen": "2026-06-22",
+      "lastSeen": "2026-07-06",
       "active": true,
       "entries": [
         {
@@ -3606,6 +3621,11 @@
           "date": "2026-06-22",
           "edition": "morning",
           "update": "Cuba announced it is ending the academic year early due to a severe fuel shortage, which the government attributes to a U.S. oil blockade, bringing schools across the country to a standstill."
+        },
+        {
+          "date": "2026-07-06",
+          "edition": "evening",
+          "update": "Cuba's national electric grid collapsed, according to Reuters, with the cause of the outage unknown at the time of reporting."
         }
       ],
       "parentId": null
@@ -5486,5 +5506,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-06T11:06:48.427Z"
+  "updatedAt": "2026-07-06T21:09:34.457Z"
 }
