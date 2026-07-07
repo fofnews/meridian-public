@@ -1121,6 +1121,11 @@
           "date": "2026-07-07",
           "edition": "morning",
           "update": "Zelensky condemned the global failure to scale up interceptor missile production following the Kyiv strikes, calling the shortage 'simply absurd' in his nightly address. Trump is traveling to the NATO summit in Turkey and is scheduled to meet with Zelensky on Wednesday to discuss the war. BBC News exposed the identities of jailers and officials allegedly responsible for torture at Russian-run detention centres in Ukraine, with former prisoners calling for prosecutions. Zelensky is also using the NATO gathering to press member states for additional air defence systems and interceptor missiles."
+        },
+        {
+          "date": "2026-07-07",
+          "edition": "evening",
+          "update": "Ukraine conducted a military operation striking eight Russian 'shadow fleet' tankers, targeting vessels allegedly used to circumvent sanctions, according to Kyiv."
         }
       ],
       "parentId": null
@@ -3641,6 +3646,11 @@
           "date": "2026-07-07",
           "edition": "morning",
           "update": "Monday's islandwide blackout was the third such total grid collapse Cuba has suffered in six months, underscoring the continued deterioration of the country's national electric infrastructure."
+        },
+        {
+          "date": "2026-07-07",
+          "edition": "evening",
+          "update": "Cuba began gradually restoring power following the blackout, with officials attributing the energy collapse to a U.S. fuel blockade."
         }
       ],
       "parentId": null
@@ -3704,7 +3714,7 @@
       "id": "artemis-moon-mission",
       "title": "Artemis Moon Mission",
       "firstSeen": "2026-03-23",
-      "lastSeen": "2026-07-03",
+      "lastSeen": "2026-07-07",
       "active": true,
       "entries": [
         {
@@ -3936,6 +3946,11 @@
           "date": "2026-07-03",
           "edition": "morning",
           "update": "A NASA-funded robot spacecraft has launched to intercept the falling Swift space telescope in mid-orbit and boost it to a higher altitude before it re-enters Earth's atmosphere."
+        },
+        {
+          "date": "2026-07-07",
+          "edition": "evening",
+          "update": "Canadian astronaut Jeremy Hansen announced he is stepping down from his full-time astronaut role, months after participating in the Artemis II lunar flyby mission."
         }
       ],
       "parentId": null
@@ -4113,7 +4128,8 @@
           "edition": "morning",
           "update": "President Trump announced 'Project Freedom,' a full military effort to shield oil tankers and cargo ships transiting the Strait of Hormuz, amid growing U.S.-Saudi tensions over the Iran war."
         }
-      ]
+      ],
+      "pendingSubThread": "Syria Security Crisis"
     },
     {
       "id": "nato-iran-diplomatic-crisis",
@@ -4135,7 +4151,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-07-05",
+      "lastSeen": "2026-07-07",
       "active": true,
       "entries": [
         {
@@ -4402,6 +4418,11 @@
           "date": "2026-07-05",
           "edition": "evening",
           "update": "Defense Secretary Pete Hegseth has gone notably silent following Trump's signing of the memorandum of understanding with Iran, a deal that did not secure significant concessions on Iran's missile or nuclear stockpiles, according to The Hill."
+        },
+        {
+          "date": "2026-07-07",
+          "edition": "evening",
+          "update": "The U.S. is revoking a license that had authorized Iranian oil sales, according to a U.S. official, tightening restrictions on Iranian petroleum exports."
         }
       ]
     },
@@ -5077,6 +5098,11 @@
           "date": "2026-07-07",
           "edition": "morning",
           "update": "Iranian missiles struck two commercial ships in the Strait of Hormuz, according to a U.S. official, in what was described as a test of the U.S.-Iran ceasefire. Iranian officials offered no immediate comment on the reported attacks."
+        },
+        {
+          "date": "2026-07-07",
+          "edition": "evening",
+          "update": "Marine traffic in the Strait of Hormuz has continued to rise despite ongoing attacks, with provisions regarding the strait remaining a contentious issue in peace talks. A commercial tanker caught fire after being struck by a projectile off the coast of Limah, Oman, according to the U.K. Maritime Trade Operations. The attacks coincided with large crowds gathering in Iran to mourn Supreme Leader Khamenei."
         }
       ]
     },
@@ -5160,7 +5186,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-07-01",
+      "lastSeen": "2026-07-07",
       "active": true,
       "entries": [
         {
@@ -5417,6 +5443,11 @@
           "date": "2026-07-01",
           "edition": "morning",
           "update": "A patient admitted to Queen Elizabeth University Hospital in Glasgow triggered an Ebola alert but subsequently tested negative; precautionary measures had been taken upon the patient's admission, according to BBC News."
+        },
+        {
+          "date": "2026-07-07",
+          "edition": "evening",
+          "update": "Three new clinical trials have been launched offering potential treatments and preventive measures for the Ebola strain circulating in the DRC, which previously had no specific therapeutic options."
         }
       ]
     },
@@ -5536,5 +5567,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-07T11:08:18.252Z"
+  "updatedAt": "2026-07-07T21:09:32.938Z"
 }
