@@ -10248,5 +10248,355 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-07T20:30:01.524Z"
+  },
+  {
+    "title": "Unstable building in Midtown Manhattan forces multiple evacuations, street closures",
+    "description": "The unstable building is the former Pfizer headquarters in Midtown Manhattan that is being converted into apartments.",
+    "link": "https://www.cbsnews.com/news/bricks-fall-midtown-east-building/",
+    "pubDate": "Tue, 07 Jul 2026 16:42:12 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-07-07T20:45:01.721Z"
+  },
+  {
+    "title": "Yale Law School Fights to Stop Trump Deal",
+    "description": "The university has been in talks to resolve investigations into its admissions practices. The law school’s dean and some faculty have argued a deal could compromise its independence.",
+    "link": "https://www.nytimes.com/2026/07/07/us/yale-law-school-dean-trump-deal.html",
+    "pubDate": "Tue, 07 Jul 2026 18:08:40 +0000",
+    "source": "NY Times",
+    "categories": [
+      "colleges and universities",
+      "academic freedom",
+      "law schools",
+      "justice department",
+      "yale university",
+      "trump, donald j",
+      "mcinnis, maurie"
+    ],
+    "collectedAt": "2026-07-07T20:45:01.721Z"
+  },
+  {
+    "title": "30 Million Watched USMNT's World Cup Exit — A US Soccer Viewership Record",
+    "description": "The USMNT's 4-1 World Cup loss to Belgium drew 30 million viewers on Fox, the most-watched soccer broadcast in U.S. history.",
+    "link": "https://www.newsweek.com/sports/30-million-watched-usmnts-world-cup-exit-a-u-s-soccer-viewership-record-12168273",
+    "pubDate": "Tue, 07 Jul 2026 16:42:32 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-07T20:45:01.721Z"
+  },
+  {
+    "title": "Venezuela buries earthquake victims as death toll reaches 3,535",
+    "description": "Mass burials have begun at La Esperanza Cemetery in Venezuela's La Guaira",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/venezuela-buries-earthquake-victims-as-death-toll-reaches-3535?traffic_source=rss",
+    "pubDate": "Tue, 07 Jul 2026 20:30:06 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-07-07T20:45:01.721Z"
+  },
+  {
+    "title": "Pro-Palestine MEP Rima Hassan arrives at trial for ‘glorifying terrorism’",
+    "description": "‘No one is safe anymore.’ This is what French MEP Rima Hassan told a crowd as she arrived at her trial in Paris.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/pro-palestine-mep-rima-hassan-arrives-at-trial-for-glorifying?traffic_source=rss",
+    "pubDate": "Tue, 07 Jul 2026 20:27:41 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-07-07T20:45:01.721Z"
+  },
+  {
+    "title": "Prolonged hospitalisation of US Republican Mitch McConnell raises questions",
+    "description": "The senator has been hospitalised since June 14 with few details released, raising questions over his return to work.",
+    "link": "https://www.aljazeera.com/news/2026/7/7/prolonged-hospitalisation-of-us-republican-mitch-mcconnell-raises-questions?traffic_source=rss",
+    "pubDate": "Tue, 07 Jul 2026 20:26:16 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-07T20:45:01.721Z"
+  },
+  {
+    "title": "Canadian province sues OpenAI over alleged ChatGPT-linked shooting warnings",
+    "description": "Lawsuit claims OpenAI ignored calls to alert authorities about violent ChatGPT prompts tied to mass shooting suspect.",
+    "link": "https://www.aljazeera.com/news/2026/7/7/canadian-province-sues-openai-over-alleged-chatgpt-linked-shooting-warnings?traffic_source=rss",
+    "pubDate": "Tue, 07 Jul 2026 20:14:53 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-07T20:45:01.721Z"
+  },
+  {
+    "title": "Perplexity says it plans to use Nvidia's new CPU - Reuters",
+    "description": "Perplexity says it plans to use Nvidia's new CPU  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ1NRWHc3VE5aczU0bkFTbFFGM0lyM1ZDX2psdXludkMxbTNGamdCdE8zWUc4WVpVbXlnZGNXa3p0ZUZ5alNDZUpUbElGenFDWlhTQmpYWGg5OE9XR3Naa2x6blFreUZETmRXZW5pblIxeE8wTVpnenN4RWV2Y3hidlZIZWRXeUE0MGl1d1NtTVExcG8?oc=5",
+    "pubDate": "Tue, 07 Jul 2026 19:04:02 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-07-07T20:45:01.721Z"
+  },
+  {
+    "title": "US condemns China’s ICBM test launch",
+    "description": "The Trump administration has condemned China’s test launch of an unarmed intercontinental-range ballistic missile (ICBM) from a submarine in the Pacific Ocean on Monday, calling the incident “of great concern.” “At a time when the United States is working harder than ever to prevent nuclear proliferation, China is doing the opposite,” according to a statement…",
+    "link": "https://thehill.com/policy/defense/5957727-china-icbm-missile-test/",
+    "pubDate": "Tue, 07 Jul 2026 20:35:37 +0000",
+    "source": "The Hill",
+    "categories": [
+      "defense",
+      "international",
+      "australia",
+      "beijing",
+      "china",
+      "japan",
+      "missile test",
+      "missile tests",
+      "new zealand",
+      "south pacific nuclear free zone",
+      "state department",
+      "trump administration"
+    ],
+    "collectedAt": "2026-07-07T20:45:01.721Z"
+  },
+  {
+    "title": "Researchers easily obtain GLP-1 prescriptions online, clinician interaction lower than expected",
+    "description": "Yale University researchers were able to easily obtain GLP-1 prescriptions online using fake patient profiles, in some instances receiving prescriptions in less than five minutes and with minimal interaction with clinicians. In a small study published on July 6 in the JAMA medical journal, researchers sought to obtain GLP-1 prescriptions through 49 websites using a…",
+    "link": "https://thehill.com/policy/healthcare/5957632-yale-researchers-obtain-glp1-prescriptions/",
+    "pubDate": "Tue, 07 Jul 2026 20:31:16 +0000",
+    "source": "The Hill",
+    "categories": [
+      "healthcare",
+      "news",
+      "compounding pharmacies",
+      "fda",
+      "glp-1",
+      "glp-1 prescriptions",
+      "jama medical journal",
+      "yale university"
+    ],
+    "collectedAt": "2026-07-07T20:45:01.721Z"
+  },
+  {
+    "title": "Apple is closing in on Nvidia as it looks to reclaim title of largest U.S. company",
+    "description": "Once the face of the AI trade, Nvidia’s valuation has compressed to levels not seen since 2013 while Apple shares continue to power higher",
+    "link": "https://www.marketwatch.com/story/apple-is-closing-in-on-nvidia-as-it-looks-to-reclaim-title-of-largest-u-s-company-04f41546?mod=mw_rss_topstories",
+    "pubDate": "Tue, 07 Jul 2026 20:36:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-07-07T20:45:01.721Z"
+  },
+  {
+    "title": "ICE says officer shot and killed illegal immigrant who tried to ram him with car in Houston",
+    "description": "ICE says Lorenzo Salgado Araujo weaponized his vehicle during a Houston traffic stop, prompting an officer to fire in self-defense. FBI investigating.",
+    "link": "https://www.foxnews.com/us/ice-officer-shot-killed-illegal-immigrant-tried-ram-car-houston",
+    "pubDate": "Tue, 07 Jul 2026 16:40:22 -0400",
+    "source": "Fox News",
+    "categories": [
+      "db8d33cc-e979-5d8b-a657-e686292fbbe0",
+      "fnc",
+      "fox news",
+      "fox-news/us/immigration/illegal-immigrants",
+      "fox-news/crime",
+      "fox-news/us/immigration/migrant-crime",
+      "fox-news/tech/topics/fbi",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-07-07T20:45:01.721Z"
+  },
+  {
+    "title": "Tattooed arm in Illinois lake leads police to freezer with slain man’s head, neck and torso",
+    "description": "An Illinois man fatally stabbed his half-brother and worked with the victim's wife to dismember and hide the remains, according to authorities.",
+    "link": "https://www.foxnews.com/us/tattooed-arm-illinois-lake-leads-police-freezer-slain-mans-head-neck-torso",
+    "pubDate": "Tue, 07 Jul 2026 16:28:46 -0400",
+    "source": "Fox News",
+    "categories": [
+      "83222131-86d7-5aca-9f7b-a96bef5d4611",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/midwest/illinois",
+      "fox-news/us",
+      "fox-news/entertainment/genres/crime",
+      "fox-news/us/crime/homicide",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-07-07T20:45:01.721Z"
+  },
+  {
+    "title": "Vegas Little League president accused of spending league money on strip clubs and erectile dysfunction meds",
+    "description": "A former Las Vegas Little League board president allegedly spent $65,000 of league funds on casinos, strip clubs and erectile dysfunction meds.",
+    "link": "https://www.foxnews.com/outkick-sports/vegas-little-league-president-accused-spending-league-money-strip-clubs-erectile-dysfunction-meds",
+    "pubDate": "Tue, 07 Jul 2026 16:22:11 -0400",
+    "source": "Fox News",
+    "categories": [
+      "7093fde1-2a98-5021-afc3-6c9d836e13de",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/us/las-vegas",
+      "fox-news/entertainment/genres/crime",
+      "fox-news/us/us-regions/west/nevada",
+      "fox-news/sports/mlb",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-07-07T20:45:01.721Z"
+  },
+  {
+    "title": "Ohio cold case reportedly solved as man is charged in 1985 hotel murder linked to Georgia Cracker Barrel clue",
+    "description": "Forensic evidence from items found behind a Cracker Barrel in Georgia led to an indictment in the 1985 Holiday Inn hotel murder of a salesman.",
+    "link": "https://www.foxnews.com/us/ohio-cold-case-reportedly-solved-man-charged-1985-hotel-murder-linked-georgia-cracker-barrel-clue",
+    "pubDate": "Tue, 07 Jul 2026 16:21:48 -0400",
+    "source": "Fox News",
+    "categories": [
+      "2cde3306-8d60-52a6-8d46-6fc5b79287c7",
+      "fnc",
+      "fox news",
+      "fox-news/entertainment/genres/crime",
+      "fox-news/us/crime/cold-case",
+      "fox-news/politics/finance/investigations",
+      "fox-news/us/crime/homicide",
+      "fox-news/us/us-regions/midwest/ohio",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-07-07T20:45:01.721Z"
+  },
+  {
+    "title": "Gavin Newsom’s return to office mandate mystery as multiple remote and hybrid roles emerge",
+    "description": "The order generally requires agencies under the governor's authority to have employees in the office at least four days each week beginning July 1.",
+    "link": "https://nypost.com/2026/07/07/us-news/gavin-newsoms-return-to-office-mandate-mystery-as-multiple-remote-and-hybrid-roles-emerge/",
+    "pubDate": "Tue, 07 Jul 2026 16:44:08 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-07T20:45:01.721Z"
+  },
+  {
+    "title": "The ‘game-changer’ peel pads stars like Sydney Sweeney and Emily Ratajkowski swear by are 25% off",
+    "description": "Ratajkowski said they they made \"a huge improvement in the texture and tonal quality\" of her skin.",
+    "link": "https://pagesix.com/2026/07/07/style/the-dr-dennis-gross-peel-pads-sydney-sweeney-and-emily-ratajkowski-use-are-25-off/",
+    "pubDate": "Tue, 07 Jul 2026 16:43:19 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-07T20:45:01.721Z"
+  },
+  {
+    "title": "The disorder that makes people feel sadder in the summer",
+    "description": "While warmer days are a welcome relief after brutal arctic temperatures of winter, not everyone looks forward to the dog days of summer.",
+    "link": "https://nypost.com/2026/07/07/health/the-disorder-that-makes-people-feel-sadder-in-the-summer/",
+    "pubDate": "Tue, 07 Jul 2026 16:40:52 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-07T20:45:01.721Z"
+  },
+  {
+    "title": "Argentina players toss Lionel Messi in the air after stunning comeback win",
+    "description": "Instead of jumping for joy, Argentina opted to throw their best player in the air.",
+    "link": "https://nypost.com/2026/07/07/sports/argentina-players-toss-lionel-messi-in-air-after-world-cup-comeback/",
+    "pubDate": "Tue, 07 Jul 2026 16:39:43 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-07T20:45:01.721Z"
+  },
+  {
+    "title": "Taylor Strecker was auditioning for major ‘Housewives’ franchise at start of ‘House of Stassi’ gig",
+    "description": "The podcast host nearly followed in her longtime pal's Bravo footsteps, she told \"Virtual Reali-Tea.\"",
+    "link": "https://pagesix.com/2026/07/07/entertainment/taylor-strecker-was-auditioning-for-rhonj-at-beginning-of-house-of-stassi/",
+    "pubDate": "Tue, 07 Jul 2026 16:38:17 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-07T20:45:01.721Z"
+  },
+  {
+    "title": "‘Jeopardy!’ is hiring a new clue writer — one lucky nerd will get paid up to $178K for their know-how",
+    "description": "What is, “total dream job?” For the first time in eons, the legendary game show “Jeopardy!” is hiring a new clue writer. The ideal candidate should “demonstrate wit and clarity” — and must also be able to pass the show’s infamous contestant quiz, where topics range from U.S. geography to opera, science, and superhero sidekicks....",
+    "link": "https://nypost.com/2026/07/07/lifestyle/jeopardy-posts-rare-clue-writer-job-paying-up-to-178k/",
+    "pubDate": "Tue, 07 Jul 2026 16:38:07 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-07T20:45:01.721Z"
+  },
+  {
+    "title": "California could give Indigenous tribes ‘stewardship’ of 7.5M acres of land, coastal waters under sweeping policy",
+    "description": "The state has a goal of expanding tribal stewardship over at least 7.5 million acres of lands and coastal waters in California.",
+    "link": "https://nypost.com/2026/07/07/science/california-to-give-indigenous-tribes-stewardship-of-7-5m-acres/",
+    "pubDate": "Tue, 07 Jul 2026 16:36:55 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-07T20:45:01.721Z"
+  },
+  {
+    "title": "US soccer needs to stop fooling itself after World Cup disaster— and answer these hard questions",
+    "description": "Don’t tell me this wasn’t a failure.",
+    "link": "https://nypost.com/2026/07/07/sports/us-soccer-needs-to-stop-fooling-itself-after-world-cup-disaster/",
+    "pubDate": "Tue, 07 Jul 2026 16:34:01 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-07T20:45:01.721Z"
+  },
+  {
+    "title": "Stream It Or Skip It: ‘Jeff Arcuri: Nice To Meet You’ On Netflix, The Bachelorette’s Husband Proves Crowd Work Doesn’t Have To Be Combative",
+    "description": "“I’m not a threat to you at all. I’m very effeminate. I’m not a threat, OK? I’ll make her laugh, and then you finish the job.”",
+    "link": "https://decider.com/2026/07/07/jeff-arcuri-nice-to-meet-you-netflix-review-stream-it-or-skip-it/",
+    "pubDate": "Tue, 07 Jul 2026 16:30:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-07T20:45:01.721Z"
+  },
+  {
+    "title": "Maine socialists distance themselves from Platner: ‘We never endorsed’",
+    "description": "The Maine Democratic Socialists of America is washing its hands of Democratic Senate nominee Graham Platner, stressing it never supported his candidacy. “To set the record straight: we never endorsed Platner,” the Maine DSA wrote in a Tuesday statement on X. “He is not a DSA candidate. We only endorsed Troy Jackson for the Primary.” […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/state/4639577/maine-dsa-graham-platner-never-endorsed/",
+    "pubDate": "Tue, 07 Jul 2026 20:34:53 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "state",
+      "2026 elections",
+      "campaign",
+      "graham platner",
+      "maine",
+      "senate",
+      "socialism"
+    ],
+    "collectedAt": "2026-07-07T20:45:01.721Z"
+  },
+  {
+    "title": "US rescinds oil waivers for Iran after ships attacked in Strait of Hormuz",
+    "description": "The United States Treasury Department on Tuesday rescinded temporary sanctions waivers that permitted Iran to export oil after Tehran attacked three ships in the Strait of Hormuz, raising new concerns about maritime security and threatening a fragile peace agreement with Washington. The Treasury Department’s Office of Foreign Asset Control’s decision ends a 60-day general license […]",
+    "link": "https://www.washingtonexaminer.com/news/world/4639510/us-rescind-oil-waiver-iran/",
+    "pubDate": "Tue, 07 Jul 2026 20:14:45 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "world",
+      "iran",
+      "oil",
+      "sanctions",
+      "strait of hormuz",
+      "treasury department",
+      "trump administration"
+    ],
+    "collectedAt": "2026-07-07T20:45:01.721Z"
+  },
+  {
+    "title": "Florida appeals court strikes down DeSantis’s anti-woke law",
+    "description": "A federal appeals court on Tuesday dealt a blow to Florida’s Stop WOKE Act, ruling that the state cannot restrict what professors at public colleges and universities teach about race and gender. In a 2-1 decision, the U.S. Court of Appeals for the Eleventh Circuit upheld a lower court’s preliminary injunction blocking enforcement of the […]",
+    "link": "https://www.washingtonexaminer.com/news/justice/4639394/florida-appeals-court-desantis-woke-law/",
+    "pubDate": "Tue, 07 Jul 2026 20:13:55 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "education",
+      "justice",
+      "fire",
+      "first amendment",
+      "flordia",
+      "freedom of speech",
+      "ron desantis",
+      "woke"
+    ],
+    "collectedAt": "2026-07-07T20:45:01.721Z"
   }
 ]
