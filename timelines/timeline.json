@@ -564,7 +564,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-06",
+      "lastSeen": "2026-07-07",
       "active": true,
       "entries": [
         {
@@ -1116,6 +1116,11 @@
           "date": "2026-07-06",
           "edition": "evening",
           "update": "Ukrainian drones struck Russia's largest refinery in one of the deepest long-range strikes into Russian territory yet, according to Reuters. Ukraine's Defence Intelligence accused Russia of dumping anthrax-infected cattle carcasses in Ukrainian-occupied territories, labeling it biological terrorism against civilians. Zelenskyy called on the U.S. and Europe to supply additional air defense missiles. A European intelligence report cited by Reuters warned the ongoing war risks triggering a banking crisis in Russia."
+        },
+        {
+          "date": "2026-07-07",
+          "edition": "morning",
+          "update": "Zelensky condemned the global failure to scale up interceptor missile production following the Kyiv strikes, calling the shortage 'simply absurd' in his nightly address. Trump is traveling to the NATO summit in Turkey and is scheduled to meet with Zelensky on Wednesday to discuss the war. BBC News exposed the identities of jailers and officials allegedly responsible for torture at Russian-run detention centres in Ukraine, with former prisoners calling for prosecutions. Zelensky is also using the NATO gathering to press member states for additional air defence systems and interceptor missiles."
         }
       ],
       "parentId": null
@@ -1634,7 +1639,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-07-06",
+      "lastSeen": "2026-07-07",
       "active": true,
       "entries": [
         {
@@ -1801,6 +1806,11 @@
           "date": "2026-07-06",
           "edition": "evening",
           "update": "CBS News reports that Mojtaba Khamenei has not been seen publicly amid rumors of potentially grave injuries, marking a third consecutive absence from his father's funeral ceremonies. His three brothers attended prayers at the procession, while his whereabouts and condition remain unconfirmed."
+        },
+        {
+          "date": "2026-07-07",
+          "edition": "morning",
+          "update": "Several social media influencers traveled to Iran and publicly expressed honor at attending Khamenei's state funeral, according to Al Jazeera."
         }
       ],
       "parentId": null
@@ -3429,7 +3439,7 @@
       "id": "cuba-energy-crisis",
       "title": "Cuba Energy Crisis",
       "firstSeen": "2026-03-16",
-      "lastSeen": "2026-07-06",
+      "lastSeen": "2026-07-07",
       "active": true,
       "entries": [
         {
@@ -3626,6 +3636,11 @@
           "date": "2026-07-06",
           "edition": "evening",
           "update": "Cuba's national electric grid collapsed, according to Reuters, with the cause of the outage unknown at the time of reporting."
+        },
+        {
+          "date": "2026-07-07",
+          "edition": "morning",
+          "update": "Monday's islandwide blackout was the third such total grid collapse Cuba has suffered in six months, underscoring the continued deterioration of the country's national electric infrastructure."
         }
       ],
       "parentId": null
@@ -3929,7 +3944,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-07-06",
+      "lastSeen": "2026-07-07",
       "active": true,
       "entries": [
         {
@@ -4016,6 +4031,11 @@
           "date": "2026-07-06",
           "edition": "morning",
           "update": "China test-launched a long-range ballistic missile from a nuclear-powered submarine in the South Pacific, its first such test since 2024. The missile carried a dummy warhead according to Xinhua News Agency, and the test drew protests from Australia and New Zealand."
+        },
+        {
+          "date": "2026-07-07",
+          "edition": "morning",
+          "update": "Australia and Fiji signed a mutual defense treaty aimed at countering Chinese influence in the Pacific on the same day China conducted its ballistic missile test into the South Pacific."
         }
       ],
       "parentId": null
@@ -4660,7 +4680,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-07-05",
+      "lastSeen": "2026-07-07",
       "active": true,
       "entries": [
         {
@@ -4737,6 +4757,11 @@
           "date": "2026-07-05",
           "edition": "evening",
           "update": "Ukraine rejected a Russian proposal for a local ceasefire that would have allowed for the handover of soldiers' bodies, according to Russia."
+        },
+        {
+          "date": "2026-07-07",
+          "edition": "morning",
+          "update": "Trump stated that a resolution to the Ukraine war is 'getting closer' following separate phone calls he held with Putin and Zelensky."
         }
       ]
     },
@@ -4745,7 +4770,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-07-05",
+      "lastSeen": "2026-07-07",
       "active": true,
       "entries": [
         {
@@ -5047,6 +5072,11 @@
           "date": "2026-07-05",
           "edition": "morning",
           "update": "Iran's ambassador to China vowed to proceed with new transit fees on vessels passing through the Strait of Hormuz despite U.S. objections, and promised preferential treatment for countries Iran considers friendly."
+        },
+        {
+          "date": "2026-07-07",
+          "edition": "morning",
+          "update": "Iranian missiles struck two commercial ships in the Strait of Hormuz, according to a U.S. official, in what was described as a test of the U.S.-Iran ceasefire. Iranian officials offered no immediate comment on the reported attacks."
         }
       ]
     },
@@ -5506,5 +5536,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-06T21:09:34.457Z"
+  "updatedAt": "2026-07-07T11:08:18.252Z"
 }
