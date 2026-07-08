@@ -84,5 +84,36 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-08T04:30:01.800Z"
+  },
+  {
+    "title": "Tyler Robinson's and Lance Twiggs' DNA both allegedly found on key evidence in Charlie Kirk's assassination",
+    "description": "DNA on a towel concealing the suspected murder weapon and a screwdriver found at the sniper's perch matched both Tyler Robinson and Lance Twiggs.",
+    "link": "https://www.foxnews.com/us/tyler-robinson-lance-twiggs-dna-allegedly-found-key-evidence-charlie-kirks-assassination",
+    "pubDate": "Wed, 08 Jul 2026 00:30:22 -0400",
+    "source": "Fox News",
+    "categories": [
+      "2be1f7c0-9cf0-5485-8368-ada37508c84f",
+      "fnc",
+      "fox news",
+      "fox-news/person/tyler-robinson",
+      "fox-news/us/crime/homicide",
+      "fox-news/media/charlie-kirk",
+      "fox-news/us/terror/assassinations-murders",
+      "fox-news/us/us-regions/west/utah",
+      "fox-news/us",
+      "fox-news/entertainment/genres/crime",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-07-08T04:45:01.356Z"
+  },
+  {
+    "title": "Lions star Amon-Ra St. Brown gets engaged to longtime girlfriend Brooklyn Adams: ‘Hard launch’",
+    "description": "The star wideout is adding a ring to his hand in 2026.",
+    "link": "https://nypost.com/2026/07/08/sports/lions-amon-ra-st-brown-brooklyn-adams-get-engaged/",
+    "pubDate": "Wed, 08 Jul 2026 00:44:33 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-08T04:45:01.356Z"
   }
 ]
