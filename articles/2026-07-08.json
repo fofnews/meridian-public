@@ -370,5 +370,34 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-08T05:45:01.443Z"
+  },
+  {
+    "title": "Nato allies announce £37bn for new missile project",
+    "description": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 08 Jul 2026 05:57:53 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-08T06:00:01.588Z"
+  },
+  {
+    "title": "Iran live updates: Iran launches attacks on Kuwait, Bahrain after latest US strikes",
+    "description": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.",
+    "link": "https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610",
+    "pubDate": "Wed, 08 Jul 2026 01:48:56 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-07-08T06:00:01.588Z"
+  },
+  {
+    "title": "Dodgers defensive meltdown wastes Shohei Ohtani’s 300th home run in loss to Rockies",
+    "description": "Shohei Ohtani hit his 300th career home run, but the Dodgers lost to the Rockies after two eighth-inning errors led to three unearned runs.",
+    "link": "https://nypost.com/2026/07/08/sports/dodgers-defense-wastes-shohei-ohtanis-300th-home-run-in-loss/",
+    "pubDate": "Wed, 08 Jul 2026 01:48:51 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-08T06:00:01.588Z"
   }
 ]
