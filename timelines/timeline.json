@@ -1131,6 +1131,11 @@
           "date": "2026-07-08",
           "edition": "morning",
           "update": "Russian missiles struck Kyiv for the third time in a single week, igniting fires in two districts of the Ukrainian capital, according to the city's mayor."
+        },
+        {
+          "date": "2026-07-08",
+          "edition": "evening",
+          "update": "At the NATO summit, Zelenskyy urged European allies to build more missiles and pressed member states for increased military support as Russian attacks on Ukraine continued."
         }
       ],
       "parentId": null
@@ -1826,6 +1831,11 @@
           "date": "2026-07-08",
           "edition": "morning",
           "update": "The coffin of Iran's late Supreme Leader Ali Khamenei arrived in Najaf, one of Shia Islam's holiest cities, in Iraq, according to Al Jazeera."
+        },
+        {
+          "date": "2026-07-08",
+          "edition": "evening",
+          "update": "Thousands of mourners gathered in Najaf, Iraq as Khamenei's coffin moved through the streets of the city. U.S. influencer Jackson Hinkle attended the funeral, with Al Jazeera reporting that chants of 'Down with the USA' were heard at the procession."
         }
       ],
       "parentId": null
@@ -3121,6 +3131,11 @@
           "date": "2026-07-08",
           "edition": "morning",
           "update": "The IRGC attacked at least three commercial vessels transiting the Strait of Hormuz, after which U.S. Central Command launched strikes on Sirik, Bandar Abbas, and Qeshm in Iran, with explosions reported across all three locations. President Trump declared the ceasefire 'over' at the NATO summit in Ankara, telling reporters he no longer wants to deal with Iran and calling Iranian leaders 'liars.' The IRGC then conducted a joint missile and drone operation targeting U.S. military sites in Bahrain and Kuwait. The Trump administration also revoked a waiver permitting Iranian oil sales hours after the tanker attacks, and oil prices surged with international Brent crude rising above $76 per barrel, while the U.S. dollar reached a week-high. African governments began reassessing security and economic strategies in response to the escalating conflict, and U.S. satellite imagery restrictions were reported to be hampering journalists covering the war."
+        },
+        {
+          "date": "2026-07-08",
+          "edition": "evening",
+          "update": "The U.S. military launched a second night of strikes against Iran, hitting over 80 targets including defense systems, command and control networks, coastal radar sites, and anti-ship missile capabilities, with CENTCOM citing Iranian attacks on commercial vessels in the Strait of Hormuz as justification. Trump announced that Kharg Island was struck overnight and threatened a potential U.S. takeover of the island. Speaking in Ankara, Trump called Iranian leadership 'scum' and 'sick people,' said dealing with Iran is 'a waste of time,' and stated the U.S. would 'probably' hit Iran hard again, while also ruling out a ground invasion. Iranian officials signaled defiance over the Strait of Hormuz, insisting Tehran will not relinquish control of the waterway. The IMF projected the conflict will cause lasting high inflation in the U.S. persisting through 2027, though overall economic damage has been less severe than initially anticipated. U.S. stock futures fell following Trump's ceasefire declaration, and oil markets remained highly volatile with prices expected to stay unstable."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4171,7 +4186,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-07-07",
+      "lastSeen": "2026-07-08",
       "active": true,
       "entries": [
         {
@@ -4443,6 +4458,11 @@
           "date": "2026-07-07",
           "edition": "evening",
           "update": "The U.S. is revoking a license that had authorized Iranian oil sales, according to a U.S. official, tightening restrictions on Iranian petroleum exports."
+        },
+        {
+          "date": "2026-07-08",
+          "edition": "evening",
+          "update": "BBC International Editor Jeremy Bowen assessed that despite U.S. strikes complicating prospects, the Trump administration has no better alternative than pursuing negotiations with Iran, describing the process as fragile."
         }
       ]
     },
@@ -4811,7 +4831,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-07-07",
+      "lastSeen": "2026-07-08",
       "active": true,
       "entries": [
         {
@@ -5123,6 +5143,11 @@
           "date": "2026-07-07",
           "edition": "evening",
           "update": "Marine traffic in the Strait of Hormuz has continued to rise despite ongoing attacks, with provisions regarding the strait remaining a contentious issue in peace talks. A commercial tanker caught fire after being struck by a projectile off the coast of Limah, Oman, according to the U.K. Maritime Trade Operations. The attacks coincided with large crowds gathering in Iran to mourn Supreme Leader Khamenei."
+        },
+        {
+          "date": "2026-07-08",
+          "edition": "evening",
+          "update": "The Joint Maritime Information Center raised the threat level in the Strait of Hormuz to 'Severe' following Iranian drone strikes on three commercial shipping vessels, as the U.S.-Iran memorandum of understanding continued to deteriorate."
         }
       ]
     },
@@ -5587,5 +5612,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-08T11:06:51.577Z"
+  "updatedAt": "2026-07-08T21:10:02.339Z"
 }
