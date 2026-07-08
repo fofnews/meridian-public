@@ -564,7 +564,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-07",
+      "lastSeen": "2026-07-08",
       "active": true,
       "entries": [
         {
@@ -1126,6 +1126,11 @@
           "date": "2026-07-07",
           "edition": "evening",
           "update": "Ukraine conducted a military operation striking eight Russian 'shadow fleet' tankers, targeting vessels allegedly used to circumvent sanctions, according to Kyiv."
+        },
+        {
+          "date": "2026-07-08",
+          "edition": "morning",
+          "update": "Russian missiles struck Kyiv for the third time in a single week, igniting fires in two districts of the Ukrainian capital, according to the city's mayor."
         }
       ],
       "parentId": null
@@ -1644,7 +1649,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-07-07",
+      "lastSeen": "2026-07-08",
       "active": true,
       "entries": [
         {
@@ -1816,6 +1821,11 @@
           "date": "2026-07-07",
           "edition": "morning",
           "update": "Several social media influencers traveled to Iran and publicly expressed honor at attending Khamenei's state funeral, according to Al Jazeera."
+        },
+        {
+          "date": "2026-07-08",
+          "edition": "morning",
+          "update": "The coffin of Iran's late Supreme Leader Ali Khamenei arrived in Najaf, one of Shia Islam's holiest cities, in Iraq, according to Al Jazeera."
         }
       ],
       "parentId": null
@@ -2364,7 +2374,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-01",
+      "lastSeen": "2026-07-08",
       "active": true,
       "entries": [
         {
@@ -3106,6 +3116,11 @@
           "date": "2026-07-01",
           "edition": "evening",
           "update": "Powerful Iranian clerics publicly called for the assassination of President Trump and Israeli Prime Minister Netanyahu, declaring it of 'paramount' importance to avenge Supreme Leader Khamenei's death, according to the New York Post. Trump has discussed the option of resuming full-scale war with Iran but is continuing with diplomatic negotiations for now. Saudi Crown Prince Mohammed bin Salman reversed his earlier position urging a harder U.S. line against Iran and instead called for a ceasefire as Iran asserted its power, while pursuing separate security priorities that have sparked a clash with Trump, per the NY Times. Iran warned it would respond immediately to any threat while citing a U.S. commitment to restrain Israel, and Vice President Vance defended the Iran war in a speech to military members, accusing critics of trying to prolong a conflict the administration was seeking to end. Wall Street futures pointed to a lower open at the start of the second half of the year, with U.S.-Iran tensions cited as weighing on investor sentiment."
+        },
+        {
+          "date": "2026-07-08",
+          "edition": "morning",
+          "update": "The IRGC attacked at least three commercial vessels transiting the Strait of Hormuz, after which U.S. Central Command launched strikes on Sirik, Bandar Abbas, and Qeshm in Iran, with explosions reported across all three locations. President Trump declared the ceasefire 'over' at the NATO summit in Ankara, telling reporters he no longer wants to deal with Iran and calling Iranian leaders 'liars.' The IRGC then conducted a joint missile and drone operation targeting U.S. military sites in Bahrain and Kuwait. The Trump administration also revoked a waiver permitting Iranian oil sales hours after the tanker attacks, and oil prices surged with international Brent crude rising above $76 per barrel, while the U.S. dollar reached a week-high. African governments began reassessing security and economic strategies in response to the escalating conflict, and U.S. satellite imagery restrictions were reported to be hampering journalists covering the war."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3959,7 +3974,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-07-07",
+      "lastSeen": "2026-07-08",
       "active": true,
       "entries": [
         {
@@ -4051,6 +4066,11 @@
           "date": "2026-07-07",
           "edition": "morning",
           "update": "Australia and Fiji signed a mutual defense treaty aimed at countering Chinese influence in the Pacific on the same day China conducted its ballistic missile test into the South Pacific."
+        },
+        {
+          "date": "2026-07-08",
+          "edition": "morning",
+          "update": "A podcast hosted by Nicole Perlroth, 'To Catch a Thief,' is releasing new reporting on North Korean IT workers allegedly infiltrating U.S. companies by posing as remote developers."
         }
       ],
       "parentId": null
@@ -4090,7 +4110,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-06",
+      "lastSeen": "2026-07-08",
       "active": true,
       "entries": [
         {
@@ -5567,5 +5587,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-07T21:09:32.938Z"
+  "updatedAt": "2026-07-08T11:06:51.577Z"
 }
