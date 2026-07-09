@@ -331,5 +331,48 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-09T06:00:01.314Z"
+  },
+  {
+    "title": "Trump wraps NATO summit on a positive note,  after meeting Zelenskyy",
+    "description": "President Trump capped a NATO summit in Turkey meeting Ukrainian President Volodymyr Zelenskyy, and saying that the U.S. will give Ukraine a license to make Patriot air defense systems.",
+    "link": "https://www.npr.org/2026/07/09/nx-s1-5887053/trump-nato-zelenskyy",
+    "pubDate": "Thu, 09 Jul 2026 02:11:11 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-07-09T06:15:01.132Z"
+  },
+  {
+    "title": "Security Precaution Led Trump to Use Old Air Force One in Leaving Turkey",
+    "description": "The Secret Service is said to have asked that the president not use the Qatari-donated jet when he left Ankara. The swap deepens questions about the retrofitting of the new plane.",
+    "link": "https://www.nytimes.com/2026/07/08/us/politics/trump-air-force-one-security.html",
+    "pubDate": "Thu, 09 Jul 2026 06:07:46 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "united states defense and military forces",
+      "us and israeli attack on iran (2026)",
+      "air force one (jet)",
+      "classified information and state secrets",
+      "secret service",
+      "boeing company",
+      "defense department",
+      "united states air force",
+      "trump, donald j",
+      "hegseth, pete",
+      "ankara (turkey)",
+      "england",
+      "qatar",
+      "internal-open-access-from-nl"
+    ],
+    "collectedAt": "2026-07-09T06:15:01.132Z"
+  },
+  {
+    "title": "NY mom beaten to death inside Ireland home as police search for person of interest she knew: report",
+    "description": "A New York mother, who moved to Ireland with her teen daughter, was beaten to death inside her home as police launched a search for a \"person of significant interest\" whom she knew.",
+    "link": "https://nypost.com/2026/07/09/world-news/ny-mom-jamey-carney-beaten-to-death-inside-ireland-home-as-police-search-for-person-of-interest-she-knew/",
+    "pubDate": "Thu, 09 Jul 2026 02:13:45 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-09T06:15:01.132Z"
   }
 ]
