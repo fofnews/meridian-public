@@ -564,7 +564,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-08",
+      "lastSeen": "2026-07-09",
       "active": true,
       "entries": [
         {
@@ -1136,6 +1136,11 @@
           "date": "2026-07-08",
           "edition": "evening",
           "update": "At the NATO summit, Zelenskyy urged European allies to build more missiles and pressed member states for increased military support as Russian attacks on Ukraine continued."
+        },
+        {
+          "date": "2026-07-09",
+          "edition": "morning",
+          "update": "Trump announced the U.S. will license Patriot missile defense systems to Ukraine for domestic production. At least three people were killed in Ukraine during a new overnight wave of Russian missile and drone strikes. Russia formally denounced NATO summit decisions regarding military aid for Ukraine and alliance defence measures."
         }
       ],
       "parentId": null
@@ -1654,7 +1659,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-07-08",
+      "lastSeen": "2026-07-09",
       "active": true,
       "entries": [
         {
@@ -1836,6 +1841,11 @@
           "date": "2026-07-08",
           "edition": "evening",
           "update": "Thousands of mourners gathered in Najaf, Iraq as Khamenei's coffin moved through the streets of the city. U.S. influencer Jackson Hinkle attended the funeral, with Al Jazeera reporting that chants of 'Down with the USA' were heard at the procession."
+        },
+        {
+          "date": "2026-07-09",
+          "edition": "morning",
+          "update": "Iranian state media released footage purportedly showing damage to the compound of the late Supreme Leader Khamenei. Millions gathered in Karbala, Iraq, for a funeral procession carrying Khamenei's coffin in what marked the final stop before his burial in Mashhad."
         }
       ],
       "parentId": null
@@ -1844,7 +1854,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-06",
+      "lastSeen": "2026-07-09",
       "active": true,
       "entries": [
         {
@@ -2376,6 +2386,11 @@
           "date": "2026-07-06",
           "edition": "evening",
           "update": "An Israeli strike on a vehicle in southern Lebanon killed at least four people, according to Al Jazeera, as Israeli attacks on the region continued despite a U.S.-brokered ceasefire agreement."
+        },
+        {
+          "date": "2026-07-09",
+          "edition": "morning",
+          "update": "Israeli Ambassador to the U.N. Danny Danon stated Israel has 'no intention to stay in Lebanon in the long run,' while President Trump expressed belief that Israeli forces could soon withdraw from southern Lebanon."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2384,7 +2399,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-08",
+      "lastSeen": "2026-07-09",
       "active": true,
       "entries": [
         {
@@ -3136,6 +3151,11 @@
           "date": "2026-07-08",
           "edition": "evening",
           "update": "The U.S. military launched a second night of strikes against Iran, hitting over 80 targets including defense systems, command and control networks, coastal radar sites, and anti-ship missile capabilities, with CENTCOM citing Iranian attacks on commercial vessels in the Strait of Hormuz as justification. Trump announced that Kharg Island was struck overnight and threatened a potential U.S. takeover of the island. Speaking in Ankara, Trump called Iranian leadership 'scum' and 'sick people,' said dealing with Iran is 'a waste of time,' and stated the U.S. would 'probably' hit Iran hard again, while also ruling out a ground invasion. Iranian officials signaled defiance over the Strait of Hormuz, insisting Tehran will not relinquish control of the waterway. The IMF projected the conflict will cause lasting high inflation in the U.S. persisting through 2027, though overall economic damage has been less severe than initially anticipated. U.S. stock futures fell following Trump's ceasefire declaration, and oil markets remained highly volatile with prices expected to stay unstable."
+        },
+        {
+          "date": "2026-07-09",
+          "edition": "morning",
+          "update": "Trump threatened to eliminate a third 'level' of Iranian officials while acknowledging at the NATO summit that he appears on Iran's kill list. U.S. airstrikes struck Bushehr, Chabahar, Bandar Abbas, and Jask, killing at least one person in Iranshahr and causing widespread power outages in Chabahar. Iran's president and foreign minister were physically attacked by supporters of a hard-line faction opposed to nuclear talks with the U.S., exposing deep internal divisions over negotiations. Oil prices rose more than 7% to a two-week high following Trump's ceasefire declaration, with stock and bond markets showing choppy trading amid inflation concerns. Two U.S. warships exited the Middle East region as strikes continued, and Republican congressional leaders face new obstacles passing a defense authorization bill and emergency defense spending package. An alleged Iranian assassination plot has reshaped Trump's stance on preventing Tehran from obtaining a nuclear weapon, according to allies, while Trump's approval rating has fluctuated in direct correlation with the ceasefire's status throughout 2026."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4125,7 +4145,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-08",
+      "lastSeen": "2026-07-09",
       "active": true,
       "entries": [
         {
@@ -4831,7 +4851,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-07-08",
+      "lastSeen": "2026-07-09",
       "active": true,
       "entries": [
         {
@@ -5148,6 +5168,11 @@
           "date": "2026-07-08",
           "edition": "evening",
           "update": "The Joint Maritime Information Center raised the threat level in the Strait of Hormuz to 'Severe' following Iranian drone strikes on three commercial shipping vessels, as the U.S.-Iran memorandum of understanding continued to deteriorate."
+        },
+        {
+          "date": "2026-07-09",
+          "edition": "morning",
+          "update": "Analysts warn that Iran's tanker attacks risk overplaying its hand, though Iran's history suggests it is willing to sustain significant losses to maintain its position, according to the NY Times. National Review published an analysis warning that the Houthis could leverage lessons from the Iran conflict to threaten critical global shipping straits."
         }
       ]
     },
@@ -5231,7 +5256,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-07-07",
+      "lastSeen": "2026-07-09",
       "active": true,
       "entries": [
         {
@@ -5493,6 +5518,11 @@
           "date": "2026-07-07",
           "edition": "evening",
           "update": "Three new clinical trials have been launched offering potential treatments and preventive measures for the Ebola strain circulating in the DRC, which previously had no specific therapeutic options."
+        },
+        {
+          "date": "2026-07-09",
+          "edition": "morning",
+          "update": "Confirmed Ebola deaths in the Democratic Republic of Congo have reached 600, as healthcare workers threaten to strike over delayed payments. BBC News reports that misinformation about Ebola is being linked to violent attacks on treatment facilities, assaults on health workers, and disruptions to burials."
         }
       ]
     },
@@ -5612,5 +5642,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-08T21:10:02.339Z"
+  "updatedAt": "2026-07-09T11:07:24.205Z"
 }
