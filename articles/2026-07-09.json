@@ -516,5 +516,36 @@
     "source": "Newsweek",
     "categories": [],
     "collectedAt": "2026-07-09T07:30:01.278Z"
+  },
+  {
+    "title": "Iran live updates: Tehran targets Bahrain, Kuwait after US strikes on Iran",
+    "description": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.",
+    "link": "https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610",
+    "pubDate": "Thu, 09 Jul 2026 03:41:42 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-07-09T07:45:01.570Z"
+  },
+  {
+    "title": "Flooding from Tropical Storm Maysak kills 39 in southern China",
+    "description": "About 130,000 people have been evacuated from the Guangxi region while thousands of rescuers have been deployed.",
+    "link": "https://www.aljazeera.com/news/2026/7/9/flooding-from-tropical-storm-maysak-kills-39-in-southern-china?traffic_source=rss",
+    "pubDate": "Thu, 09 Jul 2026 07:11:37 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-09T07:45:01.570Z"
+  },
+  {
+    "title": "Gulf companies are set to reveal the unequal toll of Iran war - Reuters",
+    "description": "Gulf companies are set to reveal the unequal toll of Iran war  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeUlETmVrbERuN1NFblIwZmpYZmYzaUtwN0o3Y3huQ0pqNmNncHhqb1RPbUJqb1dtUDhWQ2JFemNYYjczQWVlak0zT0VqM3k3MC1qdWxoYVE1U3Q1QWJZVFBsa0NUNWdCNThGNVExVGFQbHlLSy1haGMzTnp1YTM3cGF0UTl4ems3UUthY29tUmF0UUNhY2RvZi1FU0lIdGVUMUs2M2hSSEs?oc=5",
+    "pubDate": "Thu, 09 Jul 2026 04:06:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-07-09T07:45:01.570Z"
   }
 ]
