@@ -124,5 +124,103 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-10T05:00:01.300Z"
+  },
+  {
+    "title": "Bayeux Tapestry delivered to British Museum in dead of night",
+    "description": "The famous artefact depicting events leading up to the Norman Conquest of England will go on display in September.",
+    "link": "https://www.bbc.co.uk/news/articles/cly9r54e5r4o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 10 Jul 2026 05:00:04 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-10T05:15:02.369Z"
+  },
+  {
+    "title": "How Democrats could pick a new Maine Senate nominee to replace Graham Platner",
+    "description": "Maine Democrats are facing a ticking clock to find a new candidate to go up against GOP Sen. Susan Collins this fall, after Graham Platner dropped out of the race following a sexual assault allegation.",
+    "link": "https://www.cbsnews.com/news/graham-platner-replacement-maine-democrats/",
+    "pubDate": "Fri, 10 Jul 2026 00:57:28 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-07-10T05:15:02.369Z"
+  },
+  {
+    "title": "Tense standoff at an anti-migrant protest in a South African town",
+    "description": "Locals at an anti-migrant protest wielded sticks in an attempt to evict suspected undocumented residents of Alexandra.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/tense-standoff-at-an-anti-migrant-protest-in-a-south-african-town?traffic_source=rss",
+    "pubDate": "Fri, 10 Jul 2026 04:51:45 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-07-10T05:15:02.369Z"
+  },
+  {
+    "title": "Norway change World Cup team hotel in Miami days before England showdown",
+    "description": "The team spent just one night at their hotel before deciding to leave due to excessive construction noise.",
+    "link": "https://www.aljazeera.com/sports/2026/7/10/norway-change-world-cup-team-hotel-in-miami-days-before-england-showdown?traffic_source=rss",
+    "pubDate": "Fri, 10 Jul 2026 04:32:25 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-07-10T05:15:02.369Z"
+  },
+  {
+    "title": "Tyler Robinson hearing: Top moments from explosive Lance Twiggs interview played in court",
+    "description": "Lance Twiggs told investigators Tyler Robinson \"wishes he hadn't done it\" and shared text messages allegedly confessing to the Charlie Kirk shooting.",
+    "link": "https://www.foxnews.com/us/tyler-robinson-hearing-top-moments-explosive-lance-twiggs-interview-played-court",
+    "pubDate": "Fri, 10 Jul 2026 00:55:45 -0400",
+    "source": "Fox News",
+    "categories": [
+      "2cd22ac4-ce90-5db2-9b92-412712503371",
+      "fnc",
+      "fox news",
+      "fox-news/person/tyler-robinson",
+      "fox-news/media/charlie-kirk",
+      "fox-news/us/crime/homicide",
+      "fox-news/us",
+      "fox-news/us/us-regions/west/utah",
+      "fox-news/us/terror/assassinations-murders",
+      "fox-news/entertainment/genres/crime",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-07-10T05:15:02.369Z"
+  },
+  {
+    "title": "Museum spreads 800 pounds of peanut butter on floor in honor of late artist",
+    "description": "The exhibit used enough nut butter for a whopping 15,000 sandwiches.",
+    "link": "https://nypost.com/2026/07/10/world-news/museum-spreads-800-pounds-of-peanut-butter-on-floor-in-honor-of-late-artist/",
+    "pubDate": "Fri, 10 Jul 2026 01:11:19 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-10T05:15:02.369Z"
+  },
+  {
+    "title": "Trump terminates remaining members of Election Assistance ‌Commission after landmark Supreme Court ruling expanded his powers",
+    "description": "The terminations leave the bipartisan EAC with no commissioners and an uncertain future. It’s unclear if Trump will move to appoint new members to the commission.",
+    "link": "https://nypost.com/2026/07/10/us-news/trump-terminates-remaining-members-of-election-assistance-commission-after-landmark-supreme-court-ruling/",
+    "pubDate": "Fri, 10 Jul 2026 01:09:46 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-10T05:15:02.369Z"
+  },
+  {
+    "title": "Skeletal remains discovered in vacant NYC brownstone",
+    "description": "A representative for the owner first found the bones while checking on the three-story, vacant row house.",
+    "link": "https://nypost.com/2026/07/10/us-news/skeletal-remains-discovered-in-vacant-nyc-brownstone/",
+    "pubDate": "Fri, 10 Jul 2026 01:03:42 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-10T05:15:02.369Z"
+  },
+  {
+    "title": "Popular influencer and Muslim convert used AI to create fakes of supposed charity work overseas: probe",
+    "description": "The influencer shared photos of herslef recieivng a humanitarian award but the images were created ny ChatGBT and the award doesn't exist.",
+    "link": "https://nypost.com/2026/07/10/world-news/popular-influencer-and-muslim-convert-used-ai-to-create-fakes-of-supposed-charity-work-overseas-probe/",
+    "pubDate": "Fri, 10 Jul 2026 01:00:57 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-10T05:15:02.369Z"
   }
 ]
