@@ -356,6 +356,11 @@
           "date": "2026-07-10",
           "edition": "morning",
           "update": "New Mexico Attorney General Raul Torrez accused the Trump administration's Justice Department of withholding records and impeding the state's investigation into Jeffrey Epstein, according to Al Jazeera."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "evening",
+          "update": "Thames Valley Police officers investigating former Prince Andrew for potential sexual offenses are set to travel to the United States in the coming weeks to interview the family of Virginia Giuffre, Andrew's now-deceased accuser."
         }
       ],
       "parentId": null
@@ -364,7 +369,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-03",
+      "lastSeen": "2026-07-10",
       "active": true,
       "entries": [
         {
@@ -561,6 +566,11 @@
           "date": "2026-07-03",
           "edition": "evening",
           "update": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf warned that Iran will respond if the U.S. and Israel fail to fully implement their interim peace deal commitments, issuing the statement as Iran conducted burial proceedings for former Supreme Leader Khamenei."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "evening",
+          "update": "Former Trump aide Caroline Sunshine claimed that Vice President JD Vance was deliberately set up as a 'fall guy' to sell the failed U.S.-Iran memorandum of understanding, according to The Hill."
         }
       ],
       "parentId": null
@@ -1156,6 +1166,11 @@
           "date": "2026-07-10",
           "edition": "morning",
           "update": "Experts told ABC News that Trump's plan to license Patriot missile systems to Ukraine for domestic production could take years to implement. Russia's Ilsky oil refinery caught fire and the city of Taganrog began evacuations following Ukrainian drone attacks, adding to the Saratov refinery outage. American-made drone technology is being used to help guide Ukrainian strikes deeper into Russian territory, according to CBS News. Al Jazeera reported on the human cost borne by African recruits serving in Russia's war in Ukraine, with families facing significant losses."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "evening",
+          "update": "Shield AI, an American defense firm, has played an increasingly important role in guiding Ukraine's campaign of drone strikes into Russian territory, according to CBS News. Russia's domestic gasoline production is now covering only 65% of national demand following Ukrainian strikes on oil refining infrastructure, according to Reuters sources. Ukraine has also deployed unmanned systems to cut overland fuel supply routes to Crimea and begun targeting Russian shadow tankers to disrupt military fuel supply chains."
         }
       ],
       "parentId": null
@@ -1299,7 +1314,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-03",
+      "lastSeen": "2026-07-10",
       "active": true,
       "entries": [
         {
@@ -1666,6 +1681,11 @@
           "date": "2026-07-03",
           "edition": "evening",
           "update": "Iran held additional multi-day state funeral activities for Supreme Leader Khamenei, with public street processions in Tehran expected to begin Saturday following Friday's initial proceedings. The funeral gathered foreign dignitaries and world leaders in the capital to pay tribute."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "evening",
+          "update": "Iranian official Mohammad Bagher Zolghadr, Secretary of the Supreme National Council, warned via state media that Iran will target Israel if the United States continues military strikes following the collapse of the recent ceasefire agreement."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1874,7 +1894,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-09",
+      "lastSeen": "2026-07-10",
       "active": true,
       "entries": [
         {
@@ -2411,6 +2431,11 @@
           "date": "2026-07-09",
           "edition": "morning",
           "update": "Israeli Ambassador to the U.N. Danny Danon stated Israel has 'no intention to stay in Lebanon in the long run,' while President Trump expressed belief that Israeli forces could soon withdraw from southern Lebanon."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "evening",
+          "update": "Israeli drones struck Lebanon despite the U.S.-brokered framework deal being in place, with the latest strikes injuring two people. Separately, Amnesty International urged a probe into earlier Israeli attacks that killed 24 civilians."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3186,6 +3211,11 @@
           "date": "2026-07-10",
           "edition": "morning",
           "update": "Explosions were reported at several locations in Iran, with the U.S. military denying involvement and a Washington official confirming that technical talks with Iran are continuing. Thursday's U.S. strikes against Iran were described by CBS News as the most extensive since the ceasefire collapsed, marking a significant escalation. Iran responded by firing at U.S. bases in Qatar, Bahrain, and Kuwait, expanding the set of targeted countries beyond Bahrain and Kuwait. Israel shared intelligence with the United States regarding an Iranian plot to assassinate President Trump, with the original report published by the Wall Street Journal. The New York Times reported that the Trump administration appears to be reverting to an all-pressure approach toward Iran, combining renewed economic warfare and military strikes, though the administration has not explained why this strategy would produce different results than prior efforts."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "evening",
+          "update": "U.S. forces conducted strikes on more than 170 targets in Iran over two days, hitting air defense systems, drone and missile storage sites, and military speedboats, according to the NY Times. Fighting between the two sides has since appeared to pause amid backroom diplomacy, with sources suggesting a ceasefire could be revived. The Secret Service advised Trump to use the older Air Force One rather than the Qatari-donated aircraft when departing Turkey, with a Newsmax report noting the newer plane lacks key defense systems."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3449,7 +3479,7 @@
       "id": "hezbollah-us-operations",
       "title": "Hezbollah US Operations",
       "firstSeen": "2026-03-15",
-      "lastSeen": "2026-07-03",
+      "lastSeen": "2026-07-10",
       "active": true,
       "entries": [
         {
@@ -3516,6 +3546,11 @@
           "date": "2026-07-03",
           "edition": "evening",
           "update": "Two Romanian men were sentenced to 12 and 8 years in prison respectively for a knife attack on a journalist in Wimbledon, London in 2024, which was carried out on behalf of the Iranian regime."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "evening",
+          "update": "Israel warned the United States about an Iranian plot to assassinate President Trump, first reported by the Wall Street Journal. Trump told the New York Post he has left instructions for a bombing campaign against Iran if he is assassinated, and stated at the NATO summit that he is Iran's 'No. 1' assassination target. An unexpected Air Force One aircraft switch during Trump's departure from Turkey raised additional security concerns among officials."
         }
       ],
       "parentId": null
@@ -4523,6 +4558,11 @@
           "date": "2026-07-10",
           "edition": "morning",
           "update": "The United States confirmed it is continuing technical talks with Iran despite President Trump declaring the ceasefire 'over' at the NATO summit, according to multiple media reports."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "evening",
+          "update": "Qatari mediators are working to salvage the U.S.-Iran truce following days of renewed strikes by both sides, with the situation described as an uneasy pause. Trump called Iranian negotiators 'scum' at the NATO summit in Ankara and told reporters he did not want to deal with Iran, while former deputy national security adviser Victoria Coates publicly agreed with his pessimism, calling further talks 'probably a waste of time.' Despite Trump's ceasefire declaration and hardened rhetoric, the U.S. confirmed it is continuing technical talks with Iran following an Iranian request to do so."
         }
       ]
     },
@@ -4586,7 +4626,7 @@
       "title": "Correspondents' Dinner Shooting Investigation",
       "parentId": null,
       "firstSeen": "2026-04-28",
-      "lastSeen": "2026-06-29",
+      "lastSeen": "2026-07-10",
       "active": true,
       "entries": [
         {
@@ -4643,6 +4683,11 @@
           "date": "2026-06-29",
           "edition": "evening",
           "update": "A federal judge delayed the trial of Correspondents' Dinner shooting suspect Cole Allen after both parties and the court agreed to pause the speedy trial clock for 45 days."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "evening",
+          "update": "Eight men were federally indicted on conspiracy and terrorism-related charges in connection with an alleged plot to kill President Trump and Vice President Vance during the UFC Freedom 250 event at the White House on June 14, with the indictment returned in Ohio. The DOJ announced the charges, with the alleged plot involving the use of drones."
         }
       ]
     },
@@ -5223,6 +5268,11 @@
           "date": "2026-07-10",
           "edition": "morning",
           "update": "Analysts told Al Jazeera that clashing interpretations of vague memorandum of understanding language regarding the Strait of Hormuz are at the core of the latest escalation. Despite the near-total halt in shipping traffic, Brent crude prices held steady, while Reuters separately reported an increase in LNG and Japan-linked vessels transiting the strait, indicating uneven disruption across vessel types."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "evening",
+          "update": "Shipping company executives warned that navigating the Strait of Hormuz is becoming increasingly dangerous, with one executive stating 'things are becoming uglier by the minute,' according to the NY Times. Sources cited by Al Jazeera suggest a ceasefire between the U.S. and Iran could be revived amid a lull in fighting and ongoing backroom diplomacy."
         }
       ]
     },
@@ -5697,5 +5747,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-10T11:07:26.724Z"
+  "updatedAt": "2026-07-10T21:08:43.653Z"
 }
