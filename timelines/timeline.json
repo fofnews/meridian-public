@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-04",
+      "lastSeen": "2026-07-10",
       "active": true,
       "entries": [
         {
@@ -351,6 +351,11 @@
           "date": "2026-07-04",
           "edition": "morning",
           "update": "The DOJ filed a 17-page brief urging the federal judge to reject demands for additional unredacted Epstein records, arguing it has already met federal transparency requirements, and simultaneously requested a 60-day extension to consider a potential appeal if ordered to release more material."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "morning",
+          "update": "New Mexico Attorney General Raul Torrez accused the Trump administration's Justice Department of withholding records and impeding the state's investigation into Jeffrey Epstein, according to Al Jazeera."
         }
       ],
       "parentId": null
@@ -564,7 +569,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-09",
+      "lastSeen": "2026-07-10",
       "active": true,
       "entries": [
         {
@@ -1146,6 +1151,11 @@
           "date": "2026-07-09",
           "edition": "evening",
           "update": "Ukraine launched drone attacks targeting two oil tankers in the Sea of Azov and multiple oil facilities across Russia. Russia's Saratov oil refinery has been halted since a drone attack on Wednesday, according to Reuters sources."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "morning",
+          "update": "Experts told ABC News that Trump's plan to license Patriot missile systems to Ukraine for domestic production could take years to implement. Russia's Ilsky oil refinery caught fire and the city of Taganrog began evacuations following Ukrainian drone attacks, adding to the Saratov refinery outage. American-made drone technology is being used to help guide Ukrainian strikes deeper into Russian territory, according to CBS News. Al Jazeera reported on the human cost borne by African recruits serving in Russia's war in Ukraine, with families facing significant losses."
         }
       ],
       "parentId": null
@@ -1664,7 +1674,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-07-09",
+      "lastSeen": "2026-07-10",
       "active": true,
       "entries": [
         {
@@ -1851,6 +1861,11 @@
           "date": "2026-07-09",
           "edition": "morning",
           "update": "Iranian state media released footage purportedly showing damage to the compound of the late Supreme Leader Khamenei. Millions gathered in Karbala, Iraq, for a funeral procession carrying Khamenei's coffin in what marked the final stop before his burial in Mashhad."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "morning",
+          "update": "The New York Times reported that Iran's Supreme Leader Ayatollah Khamenei was absent from a high-profile public event and that his son Mojtaba Khamenei also failed to appear at the funeral, fueling speculation about the Supreme Leader's physical condition and raising concerns about a potential power vacuum in Iran."
         }
       ],
       "parentId": null
@@ -2404,7 +2419,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-09",
+      "lastSeen": "2026-07-10",
       "active": true,
       "entries": [
         {
@@ -3166,6 +3181,11 @@
           "date": "2026-07-09",
           "edition": "evening",
           "update": "Khamenei's burial took place in Mashhad, with Iranians gathering in sweltering heat; banners threatening Trump were displayed at the ceremony. Iran fired ten ballistic missiles at Jordan's Azraq military base, with sirens blaring and interceptions filmed over several Jordanian cities. U.S. Central Command reported striking approximately 90 Iranian targets along Iran's coastline, including air defense systems, missile and drone storage sites, and naval capabilities, while Iran's health ministry stated 14 people had been killed since Tuesday. A senior Qatari official stated the renewed fighting has put key elements of the regional memorandum of understanding in question, and Pakistan urged both sides to honor the agreement, warning renewed conflict is 'in no one's interest.' Iranian officials threatened a 'hard slap' in response to U.S. strikes, while former Defense Secretary Esper predicted Trump will 'unleash' military power on Iran after the midterm elections. Trump told a reporter aboard Air Force One that if Iran struck the plane she would be killed too, and renewed calls for a third reconciliation bill focused on new defense spending, with urgency tied to the ceasefire's collapse."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "morning",
+          "update": "Explosions were reported at several locations in Iran, with the U.S. military denying involvement and a Washington official confirming that technical talks with Iran are continuing. Thursday's U.S. strikes against Iran were described by CBS News as the most extensive since the ceasefire collapsed, marking a significant escalation. Iran responded by firing at U.S. bases in Qatar, Bahrain, and Kuwait, expanding the set of targeted countries beyond Bahrain and Kuwait. Israel shared intelligence with the United States regarding an Iranian plot to assassinate President Trump, with the original report published by the Wall Street Journal. The New York Times reported that the Trump administration appears to be reverting to an all-pressure approach toward Iran, combining renewed economic warfare and military strikes, though the administration has not explained why this strategy would produce different results than prior efforts."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4160,7 +4180,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-09",
+      "lastSeen": "2026-07-10",
       "active": true,
       "entries": [
         {
@@ -4221,7 +4241,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-07-08",
+      "lastSeen": "2026-07-10",
       "active": true,
       "entries": [
         {
@@ -4498,6 +4518,11 @@
           "date": "2026-07-08",
           "edition": "evening",
           "update": "BBC International Editor Jeremy Bowen assessed that despite U.S. strikes complicating prospects, the Trump administration has no better alternative than pursuing negotiations with Iran, describing the process as fragile."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "morning",
+          "update": "The United States confirmed it is continuing technical talks with Iran despite President Trump declaring the ceasefire 'over' at the NATO summit, according to multiple media reports."
         }
       ]
     },
@@ -4712,7 +4737,7 @@
       "parentId": null,
       "firstSeen": "2026-05-02",
       "lastSeen": "2026-06-10",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-05-02",
@@ -4866,7 +4891,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-07-09",
+      "lastSeen": "2026-07-10",
       "active": true,
       "entries": [
         {
@@ -5193,6 +5218,11 @@
           "date": "2026-07-09",
           "edition": "evening",
           "update": "Oil tanker traffic through the Strait of Hormuz came to a near standstill following Trump's declaration that the ceasefire is over and the continuation of U.S.-Iran strikes, significantly disrupting the critical shipping corridor between the Persian Gulf and Gulf of Oman, according to Reuters and the Washington Examiner."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "morning",
+          "update": "Analysts told Al Jazeera that clashing interpretations of vague memorandum of understanding language regarding the Strait of Hormuz are at the core of the latest escalation. Despite the near-total halt in shipping traffic, Brent crude prices held steady, while Reuters separately reported an increase in LNG and Japan-linked vessels transiting the strait, indicating uneven disruption across vessel types."
         }
       ]
     },
@@ -5276,7 +5306,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-07-09",
+      "lastSeen": "2026-07-10",
       "active": true,
       "entries": [
         {
@@ -5543,6 +5573,11 @@
           "date": "2026-07-09",
           "edition": "morning",
           "update": "Confirmed Ebola deaths in the Democratic Republic of Congo have reached 600, as healthcare workers threaten to strike over delayed payments. BBC News reports that misinformation about Ebola is being linked to violent attacks on treatment facilities, assaults on health workers, and disruptions to burials."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "morning",
+          "update": "The Congolese government reported new suspected Ebola cases in previously unaffected parts of the country, indicating spread beyond the epicenter in Ituri. Separately, an outbreak of a diarrhea-causing parasite has grown to more than 1,000 cases, according to AP News."
         }
       ]
     },
@@ -5662,5 +5697,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-09T21:08:05.151Z"
+  "updatedAt": "2026-07-10T11:07:26.724Z"
 }
