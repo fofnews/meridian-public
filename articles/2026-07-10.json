@@ -356,5 +356,25 @@
     "source": "Wall Street Journal",
     "categories": [],
     "collectedAt": "2026-07-10T06:45:01.143Z"
+  },
+  {
+    "title": "12 die in wildfire in Spain amid soaring temperatures",
+    "description": "Spanish authorities say a wildfire has killed 12 people in Almeria in southern Spain as soaring temperatures gripped much of the country",
+    "link": "https://abcnews.com/International/wireStory/12-die-wildfire-spain-amid-soaring-temperatures-134641592",
+    "pubDate": "Fri, 10 Jul 2026 02:48:29 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-07-10T07:00:01.315Z"
+  },
+  {
+    "title": "Canada National Parks Created Using ‘Colonial Injustices’—Government Report",
+    "description": "A Parks Canada report says national parks were created through colonial policies that displaced and excluded Indigenous peoples.",
+    "link": "https://www.newsweek.com/canada-national-parks-created-using-colonial-injustices-government-report-12180042",
+    "pubDate": "Fri, 10 Jul 2026 02:47:44 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-10T07:00:01.315Z"
   }
 ]
