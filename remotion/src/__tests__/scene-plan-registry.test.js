@@ -21,6 +21,11 @@ describe('getComponent', () => {
   it('returns a function for stat-card',   () => expect(typeof getComponent('stat-card')).toBe('function'));
   it('returns a function for map-annotation', () => expect(typeof getComponent('map-annotation')).toBe('function'));
   it('returns a function for connection-arc', () => expect(typeof getComponent('connection-arc')).toBe('function'));
+  it('returns a function for flow-arrow',     () => expect(typeof getComponent('flow-arrow')).toBe('function'));
   it('returns null for camera-move (not rendered)', () => expect(getComponent('camera-move')).toBeNull());
   it('returns null for unknown type',               () => expect(getComponent('unknown')).toBeNull());
+});
+
+describe('isOverlay flow-arrow', () => {
+  it('returns true for flow-arrow', () => expect(isOverlay('flow-arrow')).toBe(true));
 });

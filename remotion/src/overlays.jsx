@@ -2,7 +2,6 @@
 import { useEffect, useRef } from 'react';
 import { useCurrentFrame, useVideoConfig, interpolate, AbsoluteFill } from 'remotion';
 import { tokenizeWords, getActiveWord, tokenizeSentences, getActiveSentence } from './subtitles.js';
-import { arcTokenPosition } from './broadcast-map.js';
 import { ACCENT, ACCENT_TEXT, TEXT_60, TEXT_55, CHYRON_UPPER, CHYRON_LOWER, BORDER_ACTIVE } from './tokens.js';
 
 // ── Helpers ───────────────────────────────────────────────────────────────────
@@ -180,8 +179,15 @@ export function Ticker({ shots }) {
 
 // ── TopBar (wordmark + date) ──────────────────────────────────────────────────
 
-export function TopBar({ edition, t }) {
+export function TopBar({ edition, t, barCounts = null, fromFrame = 0, durationFrames = 0, sourceLeans = {} }) {
+  const frame = useCurrentFrame();
   const [dateStr] = formatBroadcastTime(edition, t);
+
+  const barOpacity = barCounts ? dataCalloutOpacity(frame, fromFrame, durationFrames) : 0;
+  const barEntries = barCounts
+    ? sortByLean(Object.entries(barCounts).filter(([, n]) => n > 0), sourceLeans).slice(0, 10)
+    : [];
+
   return (
     <div style={{
       position: 'absolute', top: 0, left: 0, right: 0,
@@ -192,10 +198,44 @@ export function TopBar({ edition, t }) {
         fontFamily: 'Playfair Display, serif', fontWeight: 900,
         color: 'var(--text-primary)', fontSize: 26,
         letterSpacing: 3, textTransform: 'uppercase',
+        flexShrink: 0,
       }}>
         The Meridian
       </div>
-      <div style={{ color: TEXT_55, fontSize: 11, letterSpacing: 1, fontFamily: 'Source Serif 4, serif' }}>
+      {barOpacity > 0 && barEntries.length > 0 && (
+        <div style={{
+          flex: 1, margin: '0 4%', opacity: barOpacity, pointerEvents: 'none',
+        }}>
+          <div style={{
+            color: TEXT_60, fontFamily: 'Source Serif 4, serif',
+            fontSize: 10, letterSpacing: 1.5, textTransform: 'uppercase', marginBottom: 4,
+          }}>Source Coverage</div>
+          <div style={{ display: 'flex', height: 4, borderRadius: 2, overflow: 'hidden', gap: 1 }}>
+            {barEntries.map(([name, count], i) => {
+              const total = barEntries.reduce((s, [, n]) => s + n, 0);
+              return (
+                <div key={name} style={{
+                  flexBasis: `${(count / total) * 100}%`,
+                  background: sourceBarColor(name, i, sourceLeans),
+                  flexShrink: 0, flexGrow: 0,
+                }} />
+              );
+            })}
+          </div>
+          <div style={{ display: 'flex', flexWrap: 'wrap', gap: '3px 10px', marginTop: 5 }}>
+            {barEntries.slice(0, 5).map(([name], i) => (
+              <div key={name} style={{ display: 'flex', alignItems: 'center', gap: 4 }}>
+                <div style={{ width: 5, height: 5, borderRadius: '50%', background: sourceBarColor(name, i, sourceLeans), flexShrink: 0 }} />
+                <span style={{
+                  color: TEXT_60, fontFamily: 'Source Serif 4, serif',
+                  fontSize: 11, letterSpacing: 0.5, textTransform: 'uppercase', whiteSpace: 'nowrap',
+                }}>{name}</span>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
+      <div style={{ color: TEXT_55, fontSize: 11, letterSpacing: 1, fontFamily: 'Source Serif 4, serif', flexShrink: 0 }}>
         {dateStr}
       </div>
     </div>
@@ -287,7 +327,22 @@ export function SubtitleBar({ shots, timestamps, t, preRollS = 1, aspect = '16:9
 
   const ts    = timestamps?.[activeShotIdx] ?? null;
   const words = tokenizeWords(ts);
-  if (words.length === 0) return null;
+  if (words.length === 0) {
+    return (
+      <div style={{
+        position: 'absolute', bottom: 110, left: '50%', transform: 'translateX(-50%)',
+        zIndex: 12, pointerEvents: 'none',
+        background: 'rgba(10,13,20,0.45)', borderRadius: 4, padding: '10px 28px',
+        maxWidth: '80%', border: '1px dashed rgba(240,235,224,0.25)',
+      }}>
+        <span style={{
+          fontFamily: 'Source Serif 4, serif',
+          fontSize: subtitleFontSize(aspect),
+          color: 'rgba(240,235,224,0.30)',
+        }}>Subtitle text appears here</span>
+      </div>
+    );
+  }
 
   const tInShot   = t - (activeShot.t + preRollS);
   const activeIdx = getActiveWord(words, tInShot);
@@ -439,48 +494,38 @@ export function QuoteCallout({ text, fromFrame, durationFrames, fadeFrames = 9, 
 
 // ── SourceCompareBar ──────────────────────────────────────────────────────────
 
-// Deterministic per-source accent colors — ordered by rough political/geographic
-// grouping so adjacent segments are visually distinct.
-const SOURCE_BAR_COLORS = {
-  'AP News':             '#4a9fd4',
-  'Reuters':             '#62c4a0',
-  'BBC News':            '#c44f4f',
-  'Al Jazeera':          '#d4944a',
-  'NY Times':            '#8fa8d8',
-  'Washington Post':     '#7a9ec0',
-  'Wall Street Journal': '#c8a44a',
-  'Fox News':            '#d46b4a',
-  'New York Post':       '#d48a4a',
-  'NBC News':            '#7ab8e8',
-  'ABC News':            '#5a9cc8',
-  'CBS News':            '#4a8ab8',
-  'NPR':                 '#a0c880',
-  'The Hill':            '#9090c0',
-  'Washington Examiner': '#c08060',
-  'Newsweek':            '#a870a0',
-  'Newsmax':             '#e07050',
-  'National Review':     '#d08050',
-  'Politico':            '#8080c0',
-  'Epoch Times':         '#c0a060',
-  'The Free Press':      '#90b890',
+// One flat color per political lean — all sources of the same lean share the same color.
+const LEAN_COLORS = {
+  left:    '#2a72c8',
+  center:  '#1fa882',
+  right:   '#d44a2a',
+  unknown: '#7a7a8a',
 };
+// Display order: left → center → right
+const LEAN_ORDER = { left: 0, center: 1, right: 2, unknown: 3 };
 
-const FALLBACK_PALETTE = ['#4a9fd4','#62c4a0','#c44f4f','#d4944a','#8fa8d8','#7a9ec0','#a0c880','#9090c0'];
+function sourceBarColor(name, _idx, sourceLeans = {}) {
+  return LEAN_COLORS[sourceLeans[name] ?? 'unknown'];
+}
 
-function sourceBarColor(name, idx) {
-  return SOURCE_BAR_COLORS[name] ?? FALLBACK_PALETTE[idx % FALLBACK_PALETTE.length];
+function sortByLean(entries, sourceLeans) {
+  return [...entries].sort((a, b) => {
+    const la = LEAN_ORDER[sourceLeans[a[0]] ?? 'unknown'] ?? 3;
+    const lb = LEAN_ORDER[sourceLeans[b[0]] ?? 'unknown'] ?? 3;
+    return la !== lb ? la - lb : b[1] - a[1]; // group by lean, then count desc within group
+  });
 }
 
 // counts  — object mapping source name → article count, e.g. { 'AP News': 4, 'Reuters': 2 }
-export function SourceCompareBar({ counts, fromFrame, durationFrames, fadeFrames = 9, aspect = '16:9' }) {
+export function SourceCompareBar({ counts, fromFrame, durationFrames, fadeFrames = 9, aspect = '16:9', sourceLeans = {} }) {
   const frame   = useCurrentFrame();
   const opacity = dataCalloutOpacity(frame, fromFrame, durationFrames, fadeFrames);
   if (opacity === 0 || !counts) return null;
 
-  const entries = Object.entries(counts)
-    .filter(([, n]) => n > 0)
-    .sort(([, a], [, b]) => b - a)
-    .slice(0, 10);  // cap at 10 sources for legibility
+  const entries = sortByLean(
+    Object.entries(counts).filter(([, n]) => n > 0),
+    sourceLeans,
+  ).slice(0, 10);
 
   if (entries.length === 0) return null;
 
@@ -519,7 +564,7 @@ export function SourceCompareBar({ counts, fromFrame, durationFrames, fadeFrames
           {entries.map(([name, count], i) => (
             <div key={name} style={{
               flexBasis: `${(count / total) * 100}%`,
-              background: sourceBarColor(name, i),
+              background: sourceBarColor(name, i, sourceLeans),
               flexShrink: 0,
               flexGrow: 0,
             }} title={name} />
@@ -529,7 +574,7 @@ export function SourceCompareBar({ counts, fromFrame, durationFrames, fadeFrames
         <div style={{ display: 'flex', flexWrap: 'wrap', gap: '4px 10px', marginTop: 6 }}>
           {entries.slice(0, 5).map(([name, count], i) => (
             <div key={name} style={{ display: 'flex', alignItems: 'center', gap: 4 }}>
-              <div style={{ width: 6, height: 6, borderRadius: '50%', background: sourceBarColor(name, i), flexShrink: 0 }} />
+              <div style={{ width: 6, height: 6, borderRadius: '50%', background: sourceBarColor(name, i, sourceLeans), flexShrink: 0 }} />
               <span style={{
                 color: 'rgba(240,235,224,0.60)',
                 fontFamily: 'Source Serif 4, serif',
@@ -546,179 +591,3 @@ export function SourceCompareBar({ counts, fromFrame, durationFrames, fadeFrames
   );
 }
 
-// ── ArcTokens ────────────────────────────────────────────────────────────────
-
-// Renders animated dots along great-circle arcs in screen space by calling
-// mapRef.current.project([lng, lat]) each frame. mapRef must be a React ref
-// holding the Mapbox map instance.
-//
-// arcs          — GeoJSON FeatureCollection of LineString arcs (from buildArcsGeoJSON)
-// fromFrame     — absolute frame offset this overlay is active
-// durationFrames— how long to show (matches the shot hold duration)
-// mapRef        — React ref to the Mapbox map instance (passed from Broadcast.jsx)
-export function ArcTokens({ arcs, fromFrame, durationFrames, mapRef }) {
-  const frame   = useCurrentFrame();
-  const { fps } = useVideoConfig();
-
-  const relFrame = frame - fromFrame;
-  if (relFrame < 0 || relFrame >= durationFrames) return null;
-  if (!arcs?.features?.length || !mapRef?.current) return null;
-
-  const PERIOD_S    = 2.5;
-  const periodFrames = Math.round(PERIOD_S * fps);
-
-  const tokens = arcs.features.map((feat, fi) => {
-    const t = (relFrame % periodFrames) / periodFrames;
-    const [lng, lat] = arcTokenPosition(feat, t);
-    try {
-      const pt = mapRef.current.project([lng, lat]);
-      return { key: fi, x: pt.x, y: pt.y, valid: true };
-    } catch {
-      return { key: fi, x: 0, y: 0, valid: false };
-    }
-  }).filter(tok => tok.valid);
-
-  return (
-    <AbsoluteFill style={{ pointerEvents: 'none', zIndex: 13 }}>
-      {tokens.map(({ key, x, y }) => (
-        <div key={key} style={{
-          position: 'absolute',
-          left: x - 4,
-          top:  y - 4,
-          width:  8,
-          height: 8,
-          borderRadius: '50%',
-          background: ACCENT,
-          boxShadow: `0 0 6px rgba(232,197,71,0.8)`,
-        }} />
-      ))}
-    </AbsoluteFill>
-  );
-}
-
-// ── Simple intent-category overlays ──────────────────────────────────────────
-// Used when the intent classifier emits 'comparison', 'escalation', or 'context'.
-
-export function ComparisonOverlay({ textA, textB, labelA, labelB, fromFrame, durationFrames, fadeFrames = 9 }) {
-  const frame   = useCurrentFrame();
-  const opacity = dataCalloutOpacity(frame, fromFrame, durationFrames, fadeFrames);
-  if (opacity === 0) return null;
-
-  return (
-    <div style={{
-      position: 'absolute',
-      bottom: 160,
-      left: '50%',
-      transform: 'translateX(-50%)',
-      opacity,
-      zIndex: 14,
-      pointerEvents: 'none',
-      display: 'flex',
-      gap: 12,
-    }}>
-      {[{ label: labelA, text: textA }, { label: labelB, text: textB }].map(({ label, text }) => (
-        <div key={label} style={{
-          background: 'rgba(10,13,20,0.82)',
-          borderRadius: 4,
-          padding: '10px 20px',
-          borderTop: `2px solid ${BORDER_ACTIVE}`,
-          textAlign: 'center',
-          minWidth: 160,
-        }}>
-          <div style={{
-            color: 'rgba(240,235,224,0.45)',
-            fontFamily: 'Source Serif 4, serif',
-            fontSize: 8,
-            letterSpacing: 1.5,
-            textTransform: 'uppercase',
-            marginBottom: 4,
-          }}>{label}</div>
-          <div style={{
-            color: ACCENT,
-            fontFamily: 'Playfair Display, serif',
-            fontSize: 32,
-            fontWeight: 700,
-            lineHeight: 1,
-          }}>{text}</div>
-        </div>
-      ))}
-    </div>
-  );
-}
-
-export function EscalationOverlay({ text, fromFrame, durationFrames, fadeFrames = 9 }) {
-  const frame   = useCurrentFrame();
-  const opacity = dataCalloutOpacity(frame, fromFrame, durationFrames, fadeFrames);
-  if (opacity === 0) return null;
-
-  return (
-    <div style={{
-      position: 'absolute',
-      bottom: 160,
-      left: '50%',
-      transform: 'translateX(-50%)',
-      opacity,
-      zIndex: 14,
-      pointerEvents: 'none',
-    }}>
-      <div style={{
-        background: 'rgba(10,13,20,0.82)',
-        borderRadius: 4,
-        padding: '10px 24px',
-        borderTop: `2px solid rgba(196,79,79,0.70)`,
-        display: 'flex',
-        alignItems: 'center',
-        gap: 10,
-      }}>
-        {/* Upward arrow indicator */}
-        <div style={{ color: '#c44f4f', fontSize: 20, lineHeight: 1 }}>▲</div>
-        <div style={{
-          color: 'rgba(240,235,224,0.85)',
-          fontFamily: 'Source Serif 4, serif',
-          fontSize: 13,
-          letterSpacing: 0.3,
-        }}>{text}</div>
-      </div>
-    </div>
-  );
-}
-
-export function ContextLabelOverlay({ text, fromFrame, durationFrames, fadeFrames = 9 }) {
-  const frame   = useCurrentFrame();
-  const opacity = dataCalloutOpacity(frame, fromFrame, durationFrames, fadeFrames);
-  if (opacity === 0) return null;
-
-  return (
-    <div style={{
-      position: 'absolute',
-      bottom: 160,
-      left: '4%',
-      opacity,
-      zIndex: 14,
-      pointerEvents: 'none',
-      maxWidth: '40%',
-    }}>
-      <div style={{
-        background: 'rgba(10,13,20,0.82)',
-        borderRadius: 4,
-        padding: '10px 20px',
-        borderLeft: `2px solid rgba(232,197,71,0.45)`,
-      }}>
-        <div style={{
-          color: 'rgba(240,235,224,0.45)',
-          fontFamily: 'Source Serif 4, serif',
-          fontSize: 8,
-          letterSpacing: 1.5,
-          textTransform: 'uppercase',
-          marginBottom: 4,
-        }}>Context</div>
-        <div style={{
-          color: 'rgba(240,235,224,0.80)',
-          fontFamily: 'Source Serif 4, serif',
-          fontSize: 12,
-          lineHeight: 1.5,
-        }}>{text}</div>
-      </div>
-    </div>
-  );
-}

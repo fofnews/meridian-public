@@ -284,6 +284,8 @@ export function buildAnchoredCameraPath(existingCameraPath, anchors, locations, 
 
   const anchorsSorted = [...anchors].sort((a, b) => a.secondsStart - b.secondsStart);
 
+  const intentCounts = {};
+
   for (const anchor of anchorsSorted) {
     const tOffset = Math.max(0, anchor.secondsStart - opts.LEAD_TIME_S);
     const loc = locations[anchor.locationIdx];
@@ -301,6 +303,8 @@ export function buildAnchoredCameraPath(existingCameraPath, anchors, locations, 
       _previousSentence: previousSentence,
       isFirstOccurrenceInShot: isFirst,
     });
+
+    intentCounts[intent] = (intentCounts[intent] ?? 0) + 1;
 
     if (intent === 'data') {
       const overlay = { type: 'data-callout', text: anchor.matchedText, tOffset: anchor.secondsStart, durationMs: 2200 };
@@ -365,7 +369,12 @@ export function buildAnchoredCameraPath(existingCameraPath, anchors, locations, 
     waypoints.unshift({ ...waypoints[0], tOffset: 0 });
   }
 
-  return { cameraPath: waypoints, overlays };
+  // Dominant intent: most frequent non-'hold' intent across all anchors.
+  const dominantIntent = Object.entries(intentCounts)
+    .filter(([k]) => k !== 'hold')
+    .sort(([, a], [, b]) => b - a)[0]?.[0] ?? null;
+
+  return { cameraPath: waypoints, overlays, dominantIntent };
 }
 
 // ── findQuoteOverlays ─────────────────────────────────────────────────────────

@@ -86,4 +86,196 @@ describe('Treatment discriminated union', () => {
     expect(t.type).toBe('stat-card');
     expect(t.value).toBe('42%');
   });
+
+  it('parses a flow-arrow treatment with minimal fields', () => {
+    const t = Treatment.parse({
+      type: 'flow-arrow',
+      tStart: 0,
+      tEnd: 8,
+      flows: [{ path: [{ lng: 10, lat: 50 }, { lng: 20, lat: 55 }] }],
+    });
+    expect(t.type).toBe('flow-arrow');
+    expect(t.flows).toHaveLength(1);
+  });
+
+  it('parses a flow-arrow with all optional fields', () => {
+    const t = Treatment.parse({
+      type: 'flow-arrow',
+      tStart: 0,
+      tEnd: 10,
+      style: 'arrow',
+      flows: [{
+        path: [{ lng: 10, lat: 50 }, { lng: 15, lat: 52 }, { lng: 20, lat: 55 }],
+        label: 'Supply route',
+        color: '#ff0000',
+        weight: 2,
+        revealDuration: 2.5,
+        revealDelay: 0.5,
+      }],
+    });
+    expect(t.style).toBe('arrow');
+    expect(t.flows[0].color).toBe('#ff0000');
+    expect(t.flows[0].weight).toBe(2);
+  });
+
+  it('throws when flow-arrow has a path with fewer than 2 points', () => {
+    expect(() => Treatment.parse({
+      type: 'flow-arrow',
+      tStart: 0,
+      tEnd: 5,
+      flows: [{ path: [{ lng: 10, lat: 50 }] }],
+    })).toThrow();
+  });
+
+  it('throws when flow-arrow has no flows', () => {
+    expect(() => Treatment.parse({
+      type: 'flow-arrow',
+      tStart: 0,
+      tEnd: 5,
+      flows: [],
+    })).toThrow();
+  });
+
+  it('parses a ripple-expand treatment', () => {
+    const t = Treatment.parse({ type: 'ripple-expand', tStart: 0, tEnd: 3, lat: 40.73, lng: -73.99 });
+    expect(t.type).toBe('ripple-expand');
+    expect(t.lat).toBeCloseTo(40.73, 2);
+    expect(t.lng).toBeCloseTo(-73.99, 2);
+  });
+
+  it('throws when ripple-expand is missing lat', () => {
+    expect(() => Treatment.parse({ type: 'ripple-expand', tStart: 0, tEnd: 3, lng: -73.99 })).toThrow();
+  });
+
+  it('parses a label-bloom treatment', () => {
+    const t = Treatment.parse({ type: 'label-bloom', tStart: 0, tEnd: 4, lat: 48.86, lng: 2.35, text: 'Paris' });
+    expect(t.type).toBe('label-bloom');
+    expect(t.text).toBe('Paris');
+  });
+
+  it('throws when label-bloom is missing text', () => {
+    expect(() => Treatment.parse({ type: 'label-bloom', tStart: 0, tEnd: 4, lat: 48.86, lng: 2.35 })).toThrow();
+  });
+
+  it('parses a particle-trail treatment with minimal fields', () => {
+    const t = Treatment.parse({
+      type: 'particle-trail', tStart: 0, tEnd: 8,
+      path: [{ lat: 40, lng: -74 }, { lat: 48, lng: 2 }],
+    });
+    expect(t.type).toBe('particle-trail');
+    expect(t.path).toHaveLength(2);
+  });
+
+  it('throws when particle-trail path has fewer than 2 points', () => {
+    expect(() => Treatment.parse({
+      type: 'particle-trail', tStart: 0, tEnd: 5,
+      path: [{ lat: 40, lng: -74 }],
+    })).toThrow();
+  });
+
+  it('parses a route-reveal treatment', () => {
+    const t = Treatment.parse({
+      type: 'route-reveal', tStart: 0, tEnd: 6,
+      from: { lat: 40, lng: -74 }, to: { lat: 48, lng: 2 },
+    });
+    expect(t.type).toBe('route-reveal');
+    expect(t.from.lat).toBe(40);
+  });
+
+  it('throws when route-reveal is missing to', () => {
+    expect(() => Treatment.parse({
+      type: 'route-reveal', tStart: 0, tEnd: 6,
+      from: { lat: 40, lng: -74 },
+    })).toThrow();
+  });
+
+  it('parses an impact-radius treatment', () => {
+    const t = Treatment.parse({ type: 'impact-radius', tStart: 0, tEnd: 5, lat: 48.86, lng: 2.35, radiusKm: 150 });
+    expect(t.type).toBe('impact-radius');
+    expect(t.radiusKm).toBe(150);
+  });
+
+  it('throws when impact-radius is missing radiusKm', () => {
+    expect(() => Treatment.parse({ type: 'impact-radius', tStart: 0, tEnd: 5, lat: 48.86, lng: 2.35 })).toThrow();
+  });
+
+  it('parses a spotlight-mask treatment', () => {
+    const t = Treatment.parse({ type: 'spotlight-mask', tStart: 0, tEnd: 5, lat: 48.86, lng: 2.35 });
+    expect(t.type).toBe('spotlight-mask');
+  });
+
+  it('throws when spotlight-mask is missing lat', () => {
+    expect(() => Treatment.parse({ type: 'spotlight-mask', tStart: 0, tEnd: 5, lng: 2.35 })).toThrow();
+  });
+
+  it('parses a hatched-zone treatment', () => {
+    const polygon = { type: 'Polygon', coordinates: [[[2, 48], [3, 48], [3, 49], [2, 48]]] };
+    const t = Treatment.parse({ type: 'hatched-zone', tStart: 0, tEnd: 6, polygon, pattern: 'contested' });
+    expect(t.type).toBe('hatched-zone');
+    expect(t.pattern).toBe('contested');
+  });
+
+  it('throws when hatched-zone has invalid pattern', () => {
+    const polygon = { type: 'Polygon', coordinates: [[[2, 48], [3, 48], [3, 49], [2, 48]]] };
+    expect(() => Treatment.parse({ type: 'hatched-zone', tStart: 0, tEnd: 6, polygon, pattern: 'unknown' })).toThrow();
+  });
+
+  it('parses a magnitude-bubble treatment', () => {
+    const t = Treatment.parse({ type: 'magnitude-bubble', tStart: 0, tEnd: 5, lat: 48.86, lng: 2.35, value: 42 });
+    expect(t.type).toBe('magnitude-bubble');
+    expect(t.value).toBe(42);
+  });
+
+  it('throws when magnitude-bubble is missing value', () => {
+    expect(() => Treatment.parse({ type: 'magnitude-bubble', tStart: 0, tEnd: 5, lat: 48.86, lng: 2.35 })).toThrow();
+  });
+
+  it('parses an arc-token treatment', () => {
+    const t = Treatment.parse({
+      type: 'arc-token', tStart: 0, tEnd: 8,
+      arcs: [{ from: { lat: 40, lng: -74 }, to: { lat: 51, lng: -0.1 } }],
+    });
+    expect(t.type).toBe('arc-token');
+    expect(t.arcs).toHaveLength(1);
+  });
+
+  it('throws when arc-token has empty arcs array', () => {
+    expect(() => Treatment.parse({ type: 'arc-token', tStart: 0, tEnd: 8, arcs: [] })).toThrow();
+  });
+
+  it('parses a side-by-side-callout treatment', () => {
+    const t = Treatment.parse({
+      type: 'side-by-side-callout', tStart: 0, tEnd: 5,
+      labelA: 'US', valueA: '$21T', labelB: 'China', valueB: '$18T',
+    });
+    expect(t.type).toBe('side-by-side-callout');
+    expect(t.valueA).toBe('$21T');
+  });
+
+  it('throws when side-by-side-callout is missing labelB', () => {
+    expect(() => Treatment.parse({
+      type: 'side-by-side-callout', tStart: 0, tEnd: 5,
+      labelA: 'US', valueA: '$21T', valueB: '$18T',
+    })).toThrow();
+  });
+
+  it('parses an escalation-warning treatment', () => {
+    const t = Treatment.parse({ type: 'escalation-warning', tStart: 0, tEnd: 4, text: 'Tensions escalating' });
+    expect(t.type).toBe('escalation-warning');
+    expect(t.text).toBe('Tensions escalating');
+  });
+
+  it('throws when escalation-warning is missing text', () => {
+    expect(() => Treatment.parse({ type: 'escalation-warning', tStart: 0, tEnd: 4 })).toThrow();
+  });
+
+  it('parses a context-strip treatment', () => {
+    const t = Treatment.parse({ type: 'context-strip', tStart: 0, tEnd: 6, text: 'Background context here.' });
+    expect(t.type).toBe('context-strip');
+    expect(t.text).toBe('Background context here.');
+  });
+
+  it('throws when context-strip is missing text', () => {
+    expect(() => Treatment.parse({ type: 'context-strip', tStart: 0, tEnd: 6 })).toThrow();
+  });
 });

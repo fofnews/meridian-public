@@ -16,6 +16,8 @@ import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { buildArcsGeoJSON } from '../src/map/arcs.js';
 import { SOURCE_COORDS } from '../src/map/sources.js';
+import { SOURCE_LEANS } from '../remotion/src/source-leans.js';
+import { buildCameraPath as buildRecipeCameraPath, buildGlobeSpinPath } from './shot-recipes.js';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 
@@ -299,6 +301,15 @@ function estimateHold(narration) {
   return Math.min(MAX_HOLD, Math.max(MIN_HOLD, raw));
 }
 
+// Normalized impact score 0–1 from story-level signal count.
+function storyImpact(story) {
+  if (!story) return 0;
+  const analysis = story.analysis ?? {};
+  const claims       = Array.isArray(analysis.claims)       ? analysis.claims.length       : 0;
+  const disagreements = Array.isArray(analysis.disagreements) ? analysis.disagreements.length : 0;
+  return Math.min(1, (claims + disagreements) / 10);
+}
+
 // Quick camera cut duration between locations within a multi-location shot.
 const FLY_BETWEEN_S = 2.5;
 
@@ -311,65 +322,11 @@ function waypointHighlight(loc, polygonMap) {
   return { type, name: loc.name, iso: loc.iso ?? null, polygon };
 }
 
-// Build a camera waypoint array for a story shot.
-// Single-location → one static waypoint zoomed to the location's geographic scale.
-// Multi-location  → "hold → quick 2.5 s fly → hold" pairs per location so the
-//                   cut is decisive rather than a slow continuous pan.
-// polygonMap: Map<`${name}|${iso}`, GeoJSON Feature | null> pre-fetched by fetchAllPolygons.
+// Delegate camera path building to the recipe module.
+// buildCameraPath: establish (1-loc) or sweepBetween (multi-loc) or globeSpin (no-loc).
+// buildGlobeSpinPath: intro/outro globe spin.
 function buildCameraPath(locations, estimatedHold, polygonMap) {
-  const validLocs = (locations ?? []).filter(l => l?.lat != null && l?.lng != null);
-
-  if (validLocs.length === 0) {
-    return [{ tOffset: 0, lng: 0, lat: 20, zoom: 1.5, pitch: 0, bearing: 0 }];
-  }
-
-  const waypointCamera = (loc) => {
-    const isSpecial = loc.iso === 'XX' || (Math.abs(loc.lat) < 0.5 && Math.abs(loc.lng) < 0.5);
-    return {
-      lng:     loc.lng,
-      lat:     loc.lat,
-      zoom:    isSpecial ? 1.5 : locationZoom(loc),
-      pitch:   isSpecial ? 0   : PITCH,
-      bearing: BEARING,
-    };
-  };
-
-  if (validLocs.length === 1) {
-    const cam = waypointCamera(validLocs[0]);
-    const highlight = waypointHighlight(validLocs[0], polygonMap);
-    return [{ tOffset: 0, ...cam, ...(highlight ? { highlight } : {}) }];
-  }
-
-  const N = validLocs.length;
-  const totalFlyTime = (N - 1) * FLY_BETWEEN_S;
-  const holdPerLoc = Math.max(2, (estimatedHold - totalFlyTime) / N);
-
-  const waypoints = [];
-  let t = 0;
-  for (let i = 0; i < N; i++) {
-    const cam = waypointCamera(validLocs[i]);
-    const highlight = waypointHighlight(validLocs[i], polygonMap);
-    const hlField = highlight ? { highlight } : {};
-    // Arrival at this location.
-    waypoints.push({ tOffset: Math.round(t * 10) / 10, ...cam, ...hlField });
-    t += holdPerLoc;
-    if (i < N - 1) {
-      // Hold waypoint — same position, marks the start of the outgoing transition.
-      waypoints.push({ tOffset: Math.round(t * 10) / 10, ...cam, ...hlField });
-      t += FLY_BETWEEN_S;
-    }
-  }
-
-  return waypoints;
-}
-
-// Slow globe spin used for intro and outro shots.
-// The bearing drifts at 1.5°/s to give the "earth rotating" look.
-function globeSpinPath(hold) {
-  return [
-    { tOffset: 0,    lng: 0, lat: 20, zoom: 1.5, pitch: 0, bearing: 0 },
-    { tOffset: hold, lng: 0, lat: 20, zoom: 1.5, pitch: 0, bearing: -(hold * 1.5) },
-  ];
+  return buildRecipeCameraPath(locations, estimatedHold, polygonMap, { locationZoom, waypointHighlight });
 }
 
 // ── Collect unique locations and pre-fetch polygons ───────────────────────────
@@ -440,6 +397,7 @@ if (timingsPath) {
       narration: beat,
       hold: durationSecs,
       viz: buildStoryViz(story, isoCode),
+      impact: storyImpact(story),
     });
 
     elapsed += durationSecs;
@@ -460,7 +418,7 @@ if (timingsPath) {
       t: elapsed,
       storyIndex: null,
       isoCode: null,
-      cameraPath: globeSpinPath(hold),
+      cameraPath: buildGlobeSpinPath(hold),
       chyron: { label: 'LIVE', headline: edLabel },
       narration: introNarration,
       hold,
@@ -496,6 +454,7 @@ if (timingsPath) {
       narration,
       hold,
       viz: buildStoryViz(story, isoCode),
+      impact: storyImpact(story),
     });
 
     elapsed += hold;
@@ -508,7 +467,7 @@ if (timingsPath) {
       t: elapsed,
       storyIndex: null,
       isoCode: null,
-      cameraPath: globeSpinPath(hold),
+      cameraPath: buildGlobeSpinPath(hold),
       chyron: { label: 'LIVE', headline: edLabel },
       narration: outroNarration,
       hold,
@@ -546,6 +505,7 @@ if (timingsPath) {
       narration,
       hold,
       viz: buildStoryViz(story, isoCode),
+      impact: storyImpact(story),
     });
 
     elapsed += hold;
@@ -562,6 +522,7 @@ const shotlist = {
   aspect,
   duration: elapsed,
   shots,
+  sourceLeans: SOURCE_LEANS,
   anchorOpts: {
     noAnchored,
     leadTime,

@@ -26,6 +26,7 @@ import { execFileSync } from 'child_process';
 
 import { findAnchors, filterAnchors, buildAnchoredCameraPath, ANCHOR_DEFAULTS, findQuoteOverlays } from './anchor-finder.js';
 import { ScenePlan } from '../remotion/src/scene-plan/schema.js';
+import { pickOverlayRecipes } from './shot-recipes.js';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 
@@ -328,10 +329,11 @@ if (!noAnchored) {
               shot.hold,
             );
 
-            shot.cameraPath   = result.cameraPath;
-            shot.overlays     = result.overlays;
-            shot.cameraSource = 'anchored';
-            shot.anchors      = anchors; // diagnostic only
+            shot.cameraPath      = result.cameraPath;
+            shot.overlays        = result.overlays;
+            shot.cameraSource    = 'anchored';
+            shot.anchors         = anchors; // diagnostic only
+            if (result.dominantIntent) shot.dominantIntent = result.dominantIntent;
 
             anyReAnchored = true;
 
@@ -394,6 +396,25 @@ function buildScenePlan(shotlist) {
       } else if (ov.type === 'quote-callout') {
         treatments.push({ type: 'lower-third', tStart: ovTStart, tEnd: ovTEnd, headline: ov.text ?? '', label: 'Quote' });
       }
+    }
+
+    // Location bug — emit for any shot with at least one named waypoint.
+    const namedWaypoints = (shot.cameraPath ?? []).filter(wp => wp.highlight?.name);
+    if (namedWaypoints.length > 0) {
+      const seen = new Set();
+      const locations = [];
+      for (const wp of namedWaypoints) {
+        if (!seen.has(wp.highlight.name)) {
+          seen.add(wp.highlight.name);
+          locations.push({ name: wp.highlight.name, tActive: shot.t + (wp.tOffset ?? 0) });
+        }
+      }
+      treatments.push({ type: 'location-bug', tStart, tEnd, locations });
+    }
+
+    // Recipe overlays — label-bloom + ripple-expand based on shot shape.
+    for (const t of pickOverlayRecipes(shot, tStart)) {
+      treatments.push(t);
     }
 
     return { shotIndex: i, tStart, tEnd, treatments };

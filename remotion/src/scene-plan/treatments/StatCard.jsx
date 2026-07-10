@@ -13,7 +13,7 @@ export function StatCard({ treatment }) {
   return (
     <div style={{
       position: 'absolute',
-      bottom: 110,
+      bottom: 270,
       left: '50%',
       transform: 'translateX(-50%)',
       opacity,

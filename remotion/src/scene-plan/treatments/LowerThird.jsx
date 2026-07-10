@@ -13,7 +13,7 @@ export function LowerThird({ treatment }) {
   return (
     <div style={{
       position: 'absolute',
-      bottom: 160,
+      bottom: 195,
       left: '4%',
       maxWidth: '45%',
       opacity,

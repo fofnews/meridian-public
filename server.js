@@ -67,6 +67,11 @@ app.post('/api/suggestions/:id/vote', (req, res) => {
 // so no CORS headers are needed here.
 app.use(express.static(path.join(__dirname, 'public')));
 app.use(express.static(path.join(__dirname, 'dist')));
+// Serve Remotion Studio assets (shotlists + audio) so Studio can load editions.
+// CORS required: Studio runs in the browser on a different port than this server.
+const allowAllOrigins = (_req, res, next) => { res.setHeader('Access-Control-Allow-Origin', '*'); next(); };
+app.use('/out/shotlists', allowAllOrigins, express.static(path.join(__dirname, 'out', 'shotlists')));
+app.use('/out/audio',     allowAllOrigins, express.static(path.join(__dirname, 'out', 'audio')));
 
 // List available dates
 app.get('/api/dates', (_req, res) => {

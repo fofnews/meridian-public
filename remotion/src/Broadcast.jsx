@@ -4,7 +4,7 @@ import { useEffect, useRef } from 'react';
 import { useCurrentFrame, useVideoConfig, AbsoluteFill, Audio, Sequence, delayRender, continueRender } from 'remotion';
 import { useRemotionMap } from './useRemotionMap.js';
 import { interpolateCameraOnPath, getActiveLocation, getActiveWaypoint } from './camera.js';
-import { RemotionFilmGrain, Chyron, Ticker, TopBar, MapAttribution, FadeOverlay, DataCallout, SubtitleBar, QuoteCallout, SourceCompareBar, ArcTokens, ComparisonOverlay, EscalationOverlay, ContextLabelOverlay } from './overlays.jsx';
+import { RemotionFilmGrain, Chyron, Ticker, TopBar, MapAttribution, FadeOverlay, DataCallout, SubtitleBar, QuoteCallout } from './overlays.jsx';
 import { applyBroadcastChoropleth, addBroadcastHeatmap } from './broadcast-map.js';
 import { SceneRenderer } from './scene-plan/SceneRenderer.jsx';
 
@@ -185,7 +185,8 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
 
   if (!shotlist) return <AbsoluteFill style={{ background: '#000' }} />;
 
-  // Overlay sequences shared between both layouts.
+  // Legacy data-callout and quote-callout overlays — still rendered via shot.overlays[].
+  // arc-tokens, comparison, escalation, context-label have been migrated to ScenePlan treatments.
   const overlaySequences = shotlist.shots.flatMap((shot, i) =>
     (shot.overlays ?? []).map((ov, j) => {
       const fromFrame    = Math.round((PRE_ROLL_S + shot.t + ov.tOffset) * fps);
@@ -195,34 +196,30 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
         shotEndFrame - fromFrame,
       );
       if (durFrames <= 0) return null;
-      return (
-        <Sequence key={`${i}-${j}`} from={fromFrame} durationInFrames={durFrames}>
-          {ov.type === 'data-callout' && (
+      if (ov.type === 'data-callout') {
+        return (
+          <Sequence key={`${i}-${j}`} from={fromFrame} durationInFrames={durFrames}>
             <DataCallout text={ov.text} fromFrame={fromFrame} durationFrames={durFrames} />
-          )}
-          {ov.type === 'quote-callout' && (
+          </Sequence>
+        );
+      }
+      if (ov.type === 'quote-callout') {
+        return (
+          <Sequence key={`${i}-${j}`} from={fromFrame} durationInFrames={durFrames}>
             <QuoteCallout text={ov.text} fromFrame={fromFrame} durationFrames={durFrames} aspect={aspect} />
-          )}
-          {/* source-compare-bar is rendered via viz.data.counts below, not via overlays */}
-          {ov.type === 'arc-tokens' && (
-            <ArcTokens arcs={ov.arcs} fromFrame={fromFrame} durationFrames={durFrames} mapRef={mapRef} />
-          )}
-          {ov.type === 'comparison' && (
-            <ComparisonOverlay textA={ov.textA} textB={ov.textB} labelA={ov.labelA} labelB={ov.labelB} fromFrame={fromFrame} durationFrames={durFrames} />
-          )}
-          {ov.type === 'escalation' && (
-            <EscalationOverlay text={ov.text} fromFrame={fromFrame} durationFrames={durFrames} />
-          )}
-          {ov.type === 'context-label' && (
-            <ContextLabelOverlay text={ov.text} fromFrame={fromFrame} durationFrames={durFrames} />
-          )}
-        </Sequence>
-      );
+          </Sequence>
+        );
+      }
+      return null;
     })
   );
 
   const audioSequences = shotlist.shots.map((shot, i) => (
-    <Sequence key={i} from={Math.round((PRE_ROLL_S + shot.t) * fps)} durationInFrames={Math.round(shot.hold * fps)}>
+    <Sequence
+      key={i}
+      from={Math.round((PRE_ROLL_S + shot.t) * fps)}
+      durationInFrames={Math.round(shot.hold * fps)}
+      hidden>
       <Audio src={`http://localhost:${port}/out/audio/${edition}/shot-${i}.wav`} />
     </Sequence>
   ));
@@ -240,13 +237,10 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
     return (
       <AbsoluteFill style={{ background: '#000' }}>
         <div ref={mapContainer} style={{ position: 'absolute', inset: 0, width: '100%', height: '100%' }} />
-        <TopBar edition={edition} t={t} />
+        <TopBar edition={edition} t={t} barCounts={barCounts} fromFrame={renderShotStart} durationFrames={renderShotDur} sourceLeans={shotlist.sourceLeans ?? {}} />
         <MapAttribution aspect={aspect} />
         <RemotionFilmGrain opacity={0.055} />
         <SubtitleBar shots={shotlist.shots} timestamps={timestamps} t={t} preRollS={PRE_ROLL_S} aspect={aspect} />
-        {barCounts && (
-          <SourceCompareBar counts={barCounts} fromFrame={renderShotStart} durationFrames={renderShotDur} aspect={aspect} />
-        )}
         <div style={{ position: 'absolute', bottom: 0, left: 0, right: 0 }}>
           <Ticker shots={shotlist.shots} />
           <Chyron
@@ -274,13 +268,10 @@ export function Broadcast({ edition, aspect = '16:9', port = 3002, shotlist, fps
           ref={mapContainer}
           style={{ position: 'absolute', inset: 0, width: '100%', height: '100%' }}
         />
-        <TopBar edition={edition} t={t} />
+        <TopBar edition={edition} t={t} barCounts={barCounts} fromFrame={renderShotStart} durationFrames={renderShotDur} sourceLeans={shotlist.sourceLeans ?? {}} />
         <MapAttribution aspect={aspect} />
         <RemotionFilmGrain opacity={0.055} />
         <SubtitleBar shots={shotlist.shots} timestamps={timestamps} t={t} preRollS={PRE_ROLL_S} aspect={aspect} />
-        {barCounts && (
-          <SourceCompareBar counts={barCounts} fromFrame={renderShotStart} durationFrames={renderShotDur} aspect={aspect} />
-        )}
       </div>
       <div style={{ flexShrink: 0 }}>
         <Ticker shots={shotlist.shots} />

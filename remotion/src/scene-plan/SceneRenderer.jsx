@@ -34,8 +34,11 @@ export function SceneRenderer({ plan, mapRef }) {
       if (durFrames <= 0) continue;
 
       sequences.push(
-        <Sequence key={`${scene.shotIndex}-${ti}`} from={fromFrame} durationInFrames={durFrames}>
-          <Component treatment={t} />
+        <Sequence
+          key={`${scene.shotIndex}-${ti}`}
+          from={fromFrame}
+          durationInFrames={durFrames}>
+          <Component treatment={t} mapRef={mapRef} />
         </Sequence>
       );
     }
