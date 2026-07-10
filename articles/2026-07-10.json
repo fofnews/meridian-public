@@ -54,5 +54,24 @@
       "news"
     ],
     "collectedAt": "2026-07-10T04:30:01.152Z"
+  },
+  {
+    "title": "12 People Die in Southern Spain Wildfire",
+    "description": "The blaze broke out in Almería province in Andalusia and prompted a major operation to contain it. Heat waves across Europe this summer have raised the risk of wildfires, forecasters say.",
+    "link": "https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html",
+    "pubDate": "Fri, 10 Jul 2026 04:23:42 +0000",
+    "source": "NY Times",
+    "categories": [
+      "wildfires",
+      "fires and firefighters",
+      "heat and heat waves",
+      "deaths (fatalities)",
+      "evacuations and evacuees",
+      "global warming",
+      "spain",
+      "europe",
+      "almeria (spain)"
+    ],
+    "collectedAt": "2026-07-10T04:45:01.748Z"
   }
 ]
