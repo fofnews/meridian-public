@@ -285,5 +285,31 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-07-10T06:15:02.287Z"
+  },
+  {
+    "title": "Mexican Man Fatally Shot by ICE Wasn’t the Intended Target",
+    "description": "Officials say agents believed a passenger resembled one suspect, but the encounter quickly escalated into a fatal shooting.",
+    "link": "https://www.nytimes.com/2026/07/09/us/witnesses-houston-ice-shooting.html",
+    "pubDate": "Fri, 10 Jul 2026 06:18:27 +0000",
+    "source": "NY Times",
+    "categories": [
+      "illegal immigration",
+      "immigration and emigration",
+      "homeland security department",
+      "immigration and customs enforcement (us)",
+      "houston (tex)"
+    ],
+    "collectedAt": "2026-07-10T06:30:01.591Z"
+  },
+  {
+    "title": "Spain vs Belgium: World Cup quarterfinal – prediction, start time, lineups",
+    "description": "Spain, aiming to reach the semifinals for the first time since 2010, face Belgium in Friday's contest in Los Angeles.",
+    "link": "https://www.aljazeera.com/sports/2026/7/10/spain-vs-belgium-world-cup-quarterfinal-prediction-start-time-lineups?traffic_source=rss",
+    "pubDate": "Fri, 10 Jul 2026 06:12:59 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-07-10T06:30:01.591Z"
   }
 ]
