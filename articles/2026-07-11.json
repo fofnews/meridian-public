@@ -320,5 +320,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-11T06:45:01.393Z"
+  },
+  {
+    "title": "California men accused of $100K burglary allegedly took selfies while committing crime",
+    "description": "Selfie photos allegedly taken during the crime helped police identify two Hayward men accused of stealing $100,000 in tools and copper wire.",
+    "link": "https://www.foxnews.com/us/california-men-accused-100k-burglary-allegedly-took-selfies-committing-crime",
+    "pubDate": "Sat, 11 Jul 2026 02:42:47 -0400",
+    "source": "Fox News",
+    "categories": [
+      "bdbde698-242d-5bde-8cf9-98c3bf39c11a",
+      "fnc",
+      "fox news",
+      "fox-news/shows/cops",
+      "fox-news/us/us-regions/west/california",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/us/crime/robbery-theft",
+      "fox-news/crime",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-07-11T07:00:01.167Z"
   }
 ]
