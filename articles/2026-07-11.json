@@ -1298,5 +1298,68 @@
     "source": "Newsweek",
     "categories": [],
     "collectedAt": "2026-07-11T11:30:01.787Z"
+  },
+  {
+    "title": "Judge vacates convictions of 4 Proud Boys in Jan. 6 Capitol insurrection",
+    "description": "A federal judge on Friday agreed to dismiss the convictions of four members of the far-right Proud Boys group for their actions in the Jan. 6 Capitol riot.",
+    "link": "https://www.cbsnews.com/news/judge-vacates-convictions-of-4-proud-boys-jan-6-capitol-insurrection/",
+    "pubDate": "Sat, 11 Jul 2026 07:43:12 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-07-11T11:45:01.279Z"
+  },
+  {
+    "title": "How Trump's Approval Rating Stands After US 250th Birthday Across 6 Polls",
+    "description": "An average of the surveys shows the president near 40 percent approval, 55–57 percent disapproval, with deep partisan divides.",
+    "link": "https://www.newsweek.com/donald-trump-approval-rating-us-250-birthday-polls-12184653",
+    "pubDate": "Sat, 11 Jul 2026 07:42:41 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-11T11:45:01.279Z"
+  },
+  {
+    "title": "The U.S. stock market is becoming ‘too big to fail’",
+    "description": "Why protracted bear markets may be a thing of the past.",
+    "link": "https://www.marketwatch.com/story/the-u-s-stock-market-is-becoming-too-big-to-fail-b3473e40?mod=mw_rss_topstories",
+    "pubDate": "Sat, 11 Jul 2026 11:30:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-07-11T11:45:01.279Z"
+  },
+  {
+    "title": "Robotaxi pit stops could pop up near you",
+    "description": "Aseon Labs is building robotic pods that clean, charge and inspect robotaxis closer to riders, but cities face tough questions about placement.",
+    "link": "https://www.foxnews.com/tech/robotaxi-pit-stops-could-pop-up-near-you",
+    "pubDate": "Sat, 11 Jul 2026 07:32:00 -0400",
+    "source": "Fox News",
+    "categories": [
+      "7b0f76f3-6ea0-5ae0-8899-70a4872fe6cc",
+      "fnc",
+      "fox news",
+      "fox-news/world/disasters/transportation",
+      "fox-news/auto/attributes/electric",
+      "fox-news/tech/technologies/robots",
+      "fox-news/tech",
+      "article"
+    ],
+    "collectedAt": "2026-07-11T11:45:01.279Z"
+  },
+  {
+    "title": "Number of NYC kid gunslingers shoots up 133%: NYPD data",
+    "description": "Teen shooting arrests skyrocketed 133% in the nine-year span since a lefty Albany law gave young offenders carte blanche to run amok, NYPD data obtained by The Post show.",
+    "link": "https://nypost.com/2026/07/11/us-news/young-guns-on-the-rise-in-nyc/",
+    "pubDate": "Sat, 11 Jul 2026 07:30:34 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-11T11:45:01.279Z"
+  },
+  {
+    "title": "R.I.P. Randolph Mantooth: ‘Emergency!’ Star Dies at 80 After Decades-Long TV Career",
+    "description": "Mantooth's portrayal of John Gage helped put paramedics in the national spotlight.",
+    "link": "https://decider.com/2026/07/11/rip-randolph-mantooth-emergency-star-dies-at-80-tv-career/",
+    "pubDate": "Sat, 11 Jul 2026 07:30:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-11T11:45:01.279Z"
   }
 ]
