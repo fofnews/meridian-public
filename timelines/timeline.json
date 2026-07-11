@@ -1176,6 +1176,11 @@
           "date": "2026-07-11",
           "edition": "morning",
           "update": "Russian forces have advanced to the outskirts of Zaporizhzhia, according to the city's mayor, as Russia intensified strikes on civilian infrastructure including schools, offices, and buses in the densely populated front-line city, with emergency crews searching for survivors following an air strike. Trump threatened to 'decimate and destroy' Iran following assassination threats made against him at Khamenei's funeral, posting on Truth Social that '1,000 missiles are locked and loaded.'"
+        },
+        {
+          "date": "2026-07-11",
+          "edition": "evening",
+          "update": "At least 11 people, including a child, were wounded in Russian missile and drone strikes on Kyiv early Saturday, according to Ukraine's State Emergency Service. Retired Gen. Philip Breedlove stated that Ukraine's strikes on Russian energy infrastructure are forcing Putin to divert military assets, as fuel shortages continue to spread across Russia."
         }
       ],
       "parentId": null
@@ -1184,8 +1189,8 @@
       "id": "sinaloa-cartel-violence",
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-02",
-      "active": false,
+      "lastSeen": "2026-07-11",
+      "active": true,
       "entries": [
         {
           "date": "2026-02-26",
@@ -1261,6 +1266,11 @@
           "date": "2026-06-02",
           "edition": "evening",
           "update": "U.S. authorities uncovered a cross-border smuggling tunnel running between San Diego and Tijuana, concealed beneath a fake store on the U.S. side, which was used to transport illegal drugs and weapons. Four people were arrested and charged in connection with the tunnel operation."
+        },
+        {
+          "date": "2026-07-11",
+          "edition": "evening",
+          "update": "California-born Juan Carlos Valencia has been identified as the new leader of Mexico's Jalisco New Generation Cartel, according to the New York Post, raising legal questions about how the Trump administration can pursue him given his U.S. citizenship."
         }
       ],
       "parentId": null
@@ -1319,7 +1329,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-10",
+      "lastSeen": "2026-07-11",
       "active": true,
       "entries": [
         {
@@ -1691,6 +1701,11 @@
           "date": "2026-07-10",
           "edition": "evening",
           "update": "Iranian official Mohammad Bagher Zolghadr, Secretary of the Supreme National Council, warned via state media that Iran will target Israel if the United States continues military strikes following the collapse of the recent ceasefire agreement."
+        },
+        {
+          "date": "2026-07-11",
+          "edition": "evening",
+          "update": "Mojtaba Khamenei, son of the late Supreme Leader, vowed retaliation against the United States for his father's killing. Trump posted on Truth Social that '1,000 Missiles are Locked and Loaded' aimed at Iran following reports of an alleged Iranian assassination plot against him, and directed the U.S. military to be prepared to respond to any such attempt. U.S. Ambassador Mike Huckabee warned Tehran not to 'test' the U.S. military, stating Trump was giving Iran 'one more chance.' Israel also struck Iranian steel facilities during the conflict, asserting the plants provided revenue and weapons-making capabilities to Iranian forces."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1904,7 +1919,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-10",
+      "lastSeen": "2026-07-11",
       "active": true,
       "entries": [
         {
@@ -2446,6 +2461,11 @@
           "date": "2026-07-10",
           "edition": "evening",
           "update": "Israeli drones struck Lebanon despite the U.S.-brokered framework deal being in place, with the latest strikes injuring two people. Separately, Amnesty International urged a probe into earlier Israeli attacks that killed 24 civilians."
+        },
+        {
+          "date": "2026-07-11",
+          "edition": "evening",
+          "update": "U.S. and Lebanese delegations held talks focused on establishing a mechanism for Israeli withdrawal from the first of two so-called 'pilot zones' in Lebanon, according to sources speaking to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2454,7 +2474,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-10",
+      "lastSeen": "2026-07-11",
       "active": true,
       "entries": [
         {
@@ -3226,6 +3246,11 @@
           "date": "2026-07-10",
           "edition": "evening",
           "update": "U.S. forces conducted strikes on more than 170 targets in Iran over two days, hitting air defense systems, drone and missile storage sites, and military speedboats, according to the NY Times. Fighting between the two sides has since appeared to pause amid backroom diplomacy, with sources suggesting a ceasefire could be revived. The Secret Service advised Trump to use the older Air Force One rather than the Qatari-donated aircraft when departing Turkey, with a Newsmax report noting the newer plane lacks key defense systems."
+        },
+        {
+          "date": "2026-07-11",
+          "edition": "evening",
+          "update": "The financial cost of U.S. military operations against Iran is projected to run into the tens of billions of dollars amid continued escalations, according to The Hill."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4230,46 +4255,8 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-10",
-      "active": true,
-      "entries": [
-        {
-          "date": "2026-05-22",
-          "edition": "morning",
-          "update": "Acting Navy Secretary Hung Cao told a Senate Appropriations Defense Subcommittee hearing on Thursday that the U.S. has paused a $14 billion arms sale to Taiwan to ensure sufficient munitions for American military operations against Iran."
-        },
-        {
-          "date": "2026-05-24",
-          "edition": "evening",
-          "update": "An Israeli attack on Nuseirat refugee camp in Gaza killed Mohammad Abu Mallouh, Alaa Zaqlan, and their infant child, Osama, according to medics. France banned Israeli far-right minister Itamar Ben-Gvir from entering the country after French officials described his behavior toward arrested Gaza flotilla activists as 'unspeakable.' Israel blocked Muslims in Gaza from traveling to perform Hajj for the third consecutive year, with the border remaining shut as millions of other Muslims gathered for the pilgrimage. An Israeli source cited by Reuters said Prime Minister Netanyahu told President Trump that Israel will retain the freedom to act independently against threats."
-        },
-        {
-          "date": "2026-05-31",
-          "edition": "evening",
-          "update": "According to the NY Times, Trump's diplomatic efforts in Ukraine, Gaza, and Iran have reached a stalemate, with early declarations of easy wins giving way to more complex realities across all three conflicts."
-        },
-        {
-          "date": "2026-06-03",
-          "edition": "evening",
-          "update": "Trump confirmed he called Israeli Prime Minister Netanyahu 'crazy' during a phone call, saying he was 'perturbed' by Israel's ongoing military operations in Lebanon, which he said were complicating U.S. efforts to secure a peace agreement with Iran."
-        },
-        {
-          "date": "2026-06-10",
-          "edition": "morning",
-          "update": "Asian stocks fell and oil prices rose as Middle East tensions escalated. May inflation is expected to have increased, driven in part by rising prices linked to the Iran war, with wage growth continuing to lag inflation, according to NBC News."
-        },
-        {
-          "date": "2026-06-25",
-          "edition": "morning",
-          "update": "A Syrian diplomat stated that President Ahmad al-Sharaa is seeking a 'balance' between U.S. demands and what Damascus can offer, as Syria navigates pressures from Washington and its regional allies. National Review published an analysis warning that recurring Lebanon crises driven by Iranian provocations are increasing the likelihood of a return to armed conflict."
-        },
-        {
-          "date": "2026-07-02",
-          "edition": "morning",
-          "update": "President Trump announced 'Project Freedom,' a full military effort to shield oil tankers and cargo ships transiting the Strait of Hormuz, amid growing U.S.-Saudi tensions over the Iran war."
-        }
-      ],
-      "pendingSubThread": "Syria Security Crisis"
+      "lastSeen": "2026-07-11",
+      "active": true
     },
     {
       "id": "nato-iran-diplomatic-crisis",
@@ -5298,6 +5285,11 @@
           "date": "2026-07-11",
           "edition": "morning",
           "update": "The U.S. formally demanded that Iran publicly declare the Strait of Hormuz open to international shipping and cease all attacks on commercial vessels transiting the waterway, with a senior U.S. official disclosing the demand to reporters on Friday. Despite the ceasefire being declared over, the U.S. and Iran agreed to continue diplomatic talks."
+        },
+        {
+          "date": "2026-07-11",
+          "edition": "evening",
+          "update": "Iran's top diplomat traveled to Oman for talks related to the Strait of Hormuz amid escalating mutual threats between Iran and the United States. Analysts noted that despite ongoing hostilities, the door to diplomacy between the two sides remains open."
         }
       ]
     },
@@ -5381,7 +5373,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-07-10",
+      "lastSeen": "2026-07-11",
       "active": true,
       "entries": [
         {
@@ -5653,6 +5645,11 @@
           "date": "2026-07-10",
           "edition": "morning",
           "update": "The Congolese government reported new suspected Ebola cases in previously unaffected parts of the country, indicating spread beyond the epicenter in Ituri. Separately, an outbreak of a diarrhea-causing parasite has grown to more than 1,000 cases, according to AP News."
+        },
+        {
+          "date": "2026-07-11",
+          "edition": "evening",
+          "update": "A U.S. citizen working in the Democratic Republic of Congo has tested positive for Ebola, according to the CDC. The Africa CDC has described the outbreak as the fastest-growing Ebola outbreak ever recorded on the continent, and the WHO warned the true scale of the outbreak may be two to four times larger than confirmed case counts suggest."
         }
       ]
     },
@@ -5770,7 +5767,67 @@
           "update": "Lebanon and the Israel-Hezbollah conflict have emerged as a primary obstacle to the broader U.S.-Iran deal, having shifted from a secondary front to a central sticking point, according to the New York Times. The Iran deal's oil sanctions waivers drew criticism from Iran hawks, including some Trump allies, who argued the move surrenders key economic leverage over Tehran."
         }
       ]
+    },
+    {
+      "id": "middle-east-military-conflicts-2026-general",
+      "title": "Middle East Military Conflicts (2026)",
+      "parentId": "middle-east-military-conflicts-2026",
+      "firstSeen": "2026-02-28",
+      "lastSeen": "2026-07-10",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-05-22",
+          "edition": "morning",
+          "update": "Acting Navy Secretary Hung Cao told a Senate Appropriations Defense Subcommittee hearing on Thursday that the U.S. has paused a $14 billion arms sale to Taiwan to ensure sufficient munitions for American military operations against Iran."
+        },
+        {
+          "date": "2026-05-24",
+          "edition": "evening",
+          "update": "An Israeli attack on Nuseirat refugee camp in Gaza killed Mohammad Abu Mallouh, Alaa Zaqlan, and their infant child, Osama, according to medics. France banned Israeli far-right minister Itamar Ben-Gvir from entering the country after French officials described his behavior toward arrested Gaza flotilla activists as 'unspeakable.' Israel blocked Muslims in Gaza from traveling to perform Hajj for the third consecutive year, with the border remaining shut as millions of other Muslims gathered for the pilgrimage. An Israeli source cited by Reuters said Prime Minister Netanyahu told President Trump that Israel will retain the freedom to act independently against threats."
+        },
+        {
+          "date": "2026-05-31",
+          "edition": "evening",
+          "update": "According to the NY Times, Trump's diplomatic efforts in Ukraine, Gaza, and Iran have reached a stalemate, with early declarations of easy wins giving way to more complex realities across all three conflicts."
+        },
+        {
+          "date": "2026-06-03",
+          "edition": "evening",
+          "update": "Trump confirmed he called Israeli Prime Minister Netanyahu 'crazy' during a phone call, saying he was 'perturbed' by Israel's ongoing military operations in Lebanon, which he said were complicating U.S. efforts to secure a peace agreement with Iran."
+        },
+        {
+          "date": "2026-06-10",
+          "edition": "morning",
+          "update": "Asian stocks fell and oil prices rose as Middle East tensions escalated. May inflation is expected to have increased, driven in part by rising prices linked to the Iran war, with wage growth continuing to lag inflation, according to NBC News."
+        },
+        {
+          "date": "2026-06-25",
+          "edition": "morning",
+          "update": "A Syrian diplomat stated that President Ahmad al-Sharaa is seeking a 'balance' between U.S. demands and what Damascus can offer, as Syria navigates pressures from Washington and its regional allies. National Review published an analysis warning that recurring Lebanon crises driven by Iranian provocations are increasing the likelihood of a return to armed conflict."
+        },
+        {
+          "date": "2026-07-02",
+          "edition": "morning",
+          "update": "President Trump announced 'Project Freedom,' a full military effort to shield oil tankers and cargo ships transiting the Strait of Hormuz, amid growing U.S.-Saudi tensions over the Iran war."
+        }
+      ]
+    },
+    {
+      "id": "israeli-palestinian-violence-and-west-bank-tensions",
+      "title": "Israeli-Palestinian Violence and West Bank Tensions",
+      "parentId": "middle-east-military-conflicts-2026",
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-07-11",
+          "edition": "evening",
+          "update": "Rep. Ro Khanna (D-Calif.) stated he was detained by armed Israeli settlers in the West Bank for over an hour, with IDF soldiers arriving on the scene whom he accused of supporting the settlers. Khanna noted the settlers carried American-made M4 rifles and said Israeli forces had made a 'huge mistake,' posting about the incident on X."
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-07-11T11:09:10.628Z"
+  "updatedAt": "2026-07-11T21:05:29.566Z"
 }
