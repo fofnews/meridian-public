@@ -579,7 +579,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-10",
+      "lastSeen": "2026-07-11",
       "active": true,
       "entries": [
         {
@@ -1171,6 +1171,11 @@
           "date": "2026-07-10",
           "edition": "evening",
           "update": "Shield AI, an American defense firm, has played an increasingly important role in guiding Ukraine's campaign of drone strikes into Russian territory, according to CBS News. Russia's domestic gasoline production is now covering only 65% of national demand following Ukrainian strikes on oil refining infrastructure, according to Reuters sources. Ukraine has also deployed unmanned systems to cut overland fuel supply routes to Crimea and begun targeting Russian shadow tankers to disrupt military fuel supply chains."
+        },
+        {
+          "date": "2026-07-11",
+          "edition": "morning",
+          "update": "Russian forces have advanced to the outskirts of Zaporizhzhia, according to the city's mayor, as Russia intensified strikes on civilian infrastructure including schools, offices, and buses in the densely populated front-line city, with emergency crews searching for survivors following an air strike. Trump threatened to 'decimate and destroy' Iran following assassination threats made against him at Khamenei's funeral, posting on Truth Social that '1,000 missiles are locked and loaded.'"
         }
       ],
       "parentId": null
@@ -1694,7 +1699,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-07-10",
+      "lastSeen": "2026-07-11",
       "active": true,
       "entries": [
         {
@@ -1886,6 +1891,11 @@
           "date": "2026-07-10",
           "edition": "morning",
           "update": "The New York Times reported that Iran's Supreme Leader Ayatollah Khamenei was absent from a high-profile public event and that his son Mojtaba Khamenei also failed to appear at the funeral, fueling speculation about the Supreme Leader's physical condition and raising concerns about a potential power vacuum in Iran."
+        },
+        {
+          "date": "2026-07-11",
+          "edition": "morning",
+          "update": "Treasury Secretary Scott Bessent imposed sanctions on Ali Ansari, identified as Dubai-based financial backer of Mojtaba Khamenei, along with three Iranian currency exchanges and alleged front companies in Hong Kong and the UAE used to connect Iranian banks to global financial networks."
         }
       ],
       "parentId": null
@@ -3559,7 +3569,7 @@
       "id": "cuba-energy-crisis",
       "title": "Cuba Energy Crisis",
       "firstSeen": "2026-03-16",
-      "lastSeen": "2026-07-07",
+      "lastSeen": "2026-07-11",
       "active": true,
       "entries": [
         {
@@ -3766,6 +3776,11 @@
           "date": "2026-07-07",
           "edition": "evening",
           "update": "Cuba began gradually restoring power following the blackout, with officials attributing the energy collapse to a U.S. fuel blockade."
+        },
+        {
+          "date": "2026-07-11",
+          "edition": "morning",
+          "update": "Cuba suffered its second island-wide blackout within a week, with Al Jazeera attributing the outage to a de facto oil blockade imposed by the Trump administration that has continued to strain the country's power grid."
         }
       ],
       "parentId": null
@@ -4846,7 +4861,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-07-07",
+      "lastSeen": "2026-07-11",
       "active": true,
       "entries": [
         {
@@ -4928,6 +4943,11 @@
           "date": "2026-07-07",
           "edition": "morning",
           "update": "Trump stated that a resolution to the Ukraine war is 'getting closer' following separate phone calls he held with Putin and Zelensky."
+        },
+        {
+          "date": "2026-07-11",
+          "edition": "morning",
+          "update": "The Trump administration has signaled support for bipartisan Senate legislation that would impose heavy tariffs on Russian oil as part of an effort to pressure Moscow toward ending the war in Ukraine, according to CBS News sources."
         }
       ]
     },
@@ -4936,7 +4956,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-07-10",
+      "lastSeen": "2026-07-11",
       "active": true,
       "entries": [
         {
@@ -5273,6 +5293,11 @@
           "date": "2026-07-10",
           "edition": "evening",
           "update": "Shipping company executives warned that navigating the Strait of Hormuz is becoming increasingly dangerous, with one executive stating 'things are becoming uglier by the minute,' according to the NY Times. Sources cited by Al Jazeera suggest a ceasefire between the U.S. and Iran could be revived amid a lull in fighting and ongoing backroom diplomacy."
+        },
+        {
+          "date": "2026-07-11",
+          "edition": "morning",
+          "update": "The U.S. formally demanded that Iran publicly declare the Strait of Hormuz open to international shipping and cease all attacks on commercial vessels transiting the waterway, with a senior U.S. official disclosing the demand to reporters on Friday. Despite the ceasefire being declared over, the U.S. and Iran agreed to continue diplomatic talks."
         }
       ]
     },
@@ -5747,5 +5772,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-10T21:08:43.653Z"
+  "updatedAt": "2026-07-11T11:09:10.628Z"
 }
