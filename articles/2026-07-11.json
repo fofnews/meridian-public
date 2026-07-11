@@ -128,5 +128,16 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-11T05:00:01.205Z"
+  },
+  {
+    "title": "Iran live updates: US officials say negotiations with Iran to resume",
+    "description": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.",
+    "link": "https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610",
+    "pubDate": "Sat, 11 Jul 2026 00:11:31 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-07-11T05:15:01.255Z"
   }
 ]
