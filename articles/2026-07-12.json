@@ -118,5 +118,34 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-12T04:15:02.773Z"
+  },
+  {
+    "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+    "description": "The strikes follow an attack on a Cyrpus-flagged vessel travelling through the critical waterway.",
+    "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 12 Jul 2026 04:17:07 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-12T04:30:01.815Z"
+  },
+  {
+    "title": "Argentina beats Switzerland 3-1 in extra time, advancing to World Cup semifinals",
+    "description": "Julian Alvarez has sent Argentina into the World Cup semifinals with a stunning long-range strike in extra time against Switzerland",
+    "link": "https://abcnews.com/Sports/wireStory/argentina-lineup-unchanged-messi-alongside-alvarez-world-cup-134686135",
+    "pubDate": "Sun, 12 Jul 2026 00:02:51 -0400",
+    "source": "ABC News",
+    "categories": [
+      "sports"
+    ],
+    "collectedAt": "2026-07-12T04:30:01.815Z"
+  },
+  {
+    "title": "Conor McGregor surprises with new haircut before UFC disaster",
+    "description": "The return of the Mac also meant the return of the mohawk.",
+    "link": "https://nypost.com/2026/07/12/sports/conor-mcgregor-surprises-at-ufc-329-with-new-haircut/",
+    "pubDate": "Sun, 12 Jul 2026 00:22:17 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-12T04:30:01.815Z"
   }
 ]
