@@ -579,7 +579,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-11",
+      "lastSeen": "2026-07-12",
       "active": true,
       "entries": [
         {
@@ -1181,6 +1181,11 @@
           "date": "2026-07-11",
           "edition": "evening",
           "update": "At least 11 people, including a child, were wounded in Russian missile and drone strikes on Kyiv early Saturday, according to Ukraine's State Emergency Service. Retired Gen. Philip Breedlove stated that Ukraine's strikes on Russian energy infrastructure are forcing Putin to divert military assets, as fuel shortages continue to spread across Russia."
+        },
+        {
+          "date": "2026-07-12",
+          "edition": "morning",
+          "update": "Ukrainian President Zelenskyy announced that officials will be held accountable in connection with a weapons storage issue, according to Reuters. Russia reported that Ukraine struck a tanker in the Sea of Azov, according to Reuters."
         }
       ],
       "parentId": null
@@ -1329,7 +1334,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-11",
+      "lastSeen": "2026-07-12",
       "active": true,
       "entries": [
         {
@@ -1706,6 +1711,11 @@
           "date": "2026-07-11",
           "edition": "evening",
           "update": "Mojtaba Khamenei, son of the late Supreme Leader, vowed retaliation against the United States for his father's killing. Trump posted on Truth Social that '1,000 Missiles are Locked and Loaded' aimed at Iran following reports of an alleged Iranian assassination plot against him, and directed the U.S. military to be prepared to respond to any such attempt. U.S. Ambassador Mike Huckabee warned Tehran not to 'test' the U.S. military, stating Trump was giving Iran 'one more chance.' Israel also struck Iranian steel facilities during the conflict, asserting the plants provided revenue and weapons-making capabilities to Iranian forces."
+        },
+        {
+          "date": "2026-07-12",
+          "edition": "morning",
+          "update": "Iran announced missile attacks on U.S. military sites in Bahrain, Kuwait, Jordan, and Qatar following additional U.S. strikes, with missiles and drones also targeting the UAE and Oman; three people were injured by falling shrapnel in Qatar, according to Al Jazeera. The IRGC vowed a 'crushing response' to any further U.S. attacks. Iranian hard-liners are seeking to fill leadership voids created by wartime losses and push to escalate the conflict, according to the NY Times. Farmers in Louisiana are facing major energy cost hikes linked to the Iran war, with some expressing uncertainty about their businesses' survival, according to CBS News."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2474,7 +2484,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-11",
+      "lastSeen": "2026-07-12",
       "active": true,
       "entries": [
         {
@@ -3251,6 +3261,11 @@
           "date": "2026-07-11",
           "edition": "evening",
           "update": "The financial cost of U.S. military operations against Iran is projected to run into the tens of billions of dollars amid continued escalations, according to The Hill."
+        },
+        {
+          "date": "2026-07-12",
+          "edition": "morning",
+          "update": "U.S. CENTCOM completed a third round of strikes on Iran, hitting 140 Iranian military targets according to Reuters, in a joint U.S.-Israeli operation following Iran's attack on a Cyprus-flagged container ship in the Strait of Hormuz. Iran declared the Strait of Hormuz closed in response and lashed out at Gulf Arab states following the U.S. military action. Trump suggested he has a standing order to strike Iran in the event of an assassination attempt against him. The Washington Post reported that Iran has taken emboldened steps following the funeral of a key leader, raising concerns about the risk of renewed conflict."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3815,7 +3830,7 @@
       "title": "Cesar Chavez Sexual Abuse Investigation",
       "firstSeen": "2026-03-18",
       "lastSeen": "2026-06-12",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-03-18",
@@ -4255,7 +4270,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-11",
+      "lastSeen": "2026-07-12",
       "active": true
     },
     {
@@ -4278,7 +4293,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-07-10",
+      "lastSeen": "2026-07-12",
       "active": true,
       "entries": [
         {
@@ -4565,6 +4580,11 @@
           "date": "2026-07-10",
           "edition": "evening",
           "update": "Qatari mediators are working to salvage the U.S.-Iran truce following days of renewed strikes by both sides, with the situation described as an uneasy pause. Trump called Iranian negotiators 'scum' at the NATO summit in Ankara and told reporters he did not want to deal with Iran, while former deputy national security adviser Victoria Coates publicly agreed with his pessimism, calling further talks 'probably a waste of time.' Despite Trump's ceasefire declaration and hardened rhetoric, the U.S. confirmed it is continuing technical talks with Iran following an Iranian request to do so."
+        },
+        {
+          "date": "2026-07-12",
+          "edition": "morning",
+          "update": "Regional mediators are intensifying efforts to facilitate U.S.-Iran talks in Qatar and Oman, according to Al Jazeera, aimed at averting further escalation between the two countries."
         }
       ]
     },
@@ -4943,7 +4963,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-07-11",
+      "lastSeen": "2026-07-12",
       "active": true,
       "entries": [
         {
@@ -5290,6 +5310,11 @@
           "date": "2026-07-11",
           "edition": "evening",
           "update": "Iran's top diplomat traveled to Oman for talks related to the Strait of Hormuz amid escalating mutual threats between Iran and the United States. Analysts noted that despite ongoing hostilities, the door to diplomacy between the two sides remains open."
+        },
+        {
+          "date": "2026-07-12",
+          "edition": "morning",
+          "update": "Iran's IRGC declared the Strait of Hormuz closed until further notice, and Iranian forces struck a Cyprus-flagged commercial container ship transiting the waterway."
         }
       ]
     },
@@ -5373,7 +5398,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-07-11",
+      "lastSeen": "2026-07-12",
       "active": true,
       "entries": [
         {
@@ -5650,6 +5675,11 @@
           "date": "2026-07-11",
           "edition": "evening",
           "update": "A U.S. citizen working in the Democratic Republic of Congo has tested positive for Ebola, according to the CDC. The Africa CDC has described the outbreak as the fastest-growing Ebola outbreak ever recorded on the continent, and the WHO warned the true scale of the outbreak may be two to four times larger than confirmed case counts suggest."
+        },
+        {
+          "date": "2026-07-12",
+          "edition": "morning",
+          "update": "A second U.S. citizen tested positive for Ebola while working for a humanitarian organization in the Democratic Republic of Congo, according to Fox News."
         }
       ]
     },
@@ -5818,16 +5848,21 @@
       "title": "Israeli-Palestinian Violence and West Bank Tensions",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-07-11",
-      "lastSeen": "2026-07-11",
+      "lastSeen": "2026-07-12",
       "active": true,
       "entries": [
         {
           "date": "2026-07-11",
           "edition": "evening",
           "update": "Rep. Ro Khanna (D-Calif.) stated he was detained by armed Israeli settlers in the West Bank for over an hour, with IDF soldiers arriving on the scene whom he accused of supporting the settlers. Khanna noted the settlers carried American-made M4 rifles and said Israeli forces had made a 'huge mistake,' posting about the incident on X."
+        },
+        {
+          "date": "2026-07-12",
+          "edition": "morning",
+          "update": "Mohammed al-Wahidi, a Palestinian aid worker known for organizing World Cup screenings in Gaza, was killed in an Israeli airstrike while traveling to one of the events he had organized, according to NPR. The New York Post reported that Khanna had declined an offer to meet with former Israeli hostages and October 7 Hamas attack survivors before his visit to the region, citing a source familiar with the matter."
         }
       ]
     }
   ],
-  "updatedAt": "2026-07-11T21:05:29.566Z"
+  "updatedAt": "2026-07-12T11:06:18.973Z"
 }
