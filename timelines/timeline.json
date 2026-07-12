@@ -1186,6 +1186,11 @@
           "date": "2026-07-12",
           "edition": "morning",
           "update": "Ukrainian President Zelenskyy announced that officials will be held accountable in connection with a weapons storage issue, according to Reuters. Russia reported that Ukraine struck a tanker in the Sea of Azov, according to Reuters."
+        },
+        {
+          "date": "2026-07-12",
+          "edition": "evening",
+          "update": "Ukrainian Prime Minister Yuliia Svyrydenko resigned as part of a broader government shake-up announced by President Zelenskyy, with several other senior government roles also reshuffled. Germany has funded 50,000 strike drones for Ukraine, according to a Reuters source. Russian authorities reported that a Ukrainian drone strike on Russian-controlled Enerhodar killed four people."
         }
       ],
       "parentId": null
@@ -3266,6 +3271,11 @@
           "date": "2026-07-12",
           "edition": "morning",
           "update": "U.S. CENTCOM completed a third round of strikes on Iran, hitting 140 Iranian military targets according to Reuters, in a joint U.S.-Israeli operation following Iran's attack on a Cyprus-flagged container ship in the Strait of Hormuz. Iran declared the Strait of Hormuz closed in response and lashed out at Gulf Arab states following the U.S. military action. Trump suggested he has a standing order to strike Iran in the event of an assassination attempt against him. The Washington Post reported that Iran has taken emboldened steps following the funeral of a key leader, raising concerns about the risk of renewed conflict."
+        },
+        {
+          "date": "2026-07-12",
+          "edition": "evening",
+          "update": "Trump declared the Strait of Hormuz open to commercial traffic following U.S. strikes on Iran. The IRGC released video footage of its retaliatory missile strikes, according to Al Jazeera, and Iran's state news agency IRNA reported that an unspecified 'enemy' launched missiles toward Qeshm Island. Iranian parliamentary Speaker Mohammad Bagher Ghalibaf warned the U.S. on Sunday to uphold its end of an interim peace deal 'or pay the price.' National Security Advisor Mike Waltz stated Iran is 'not living up to' a memorandum of understanding, citing Iran's strike on a vessel in the Strait of Hormuz as the trigger for the latest U.S. retaliation. An Iranian newspaper named Trump and 12 others as targets for revenge, according to Newsmax. Israeli Prime Minister Netanyahu told NBC News that Israel had 'removed this immediate and present danger of Iran with nuclear weapons.'"
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4743,7 +4753,7 @@
       "title": "Cuba Military Intervention",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-04-29",
-      "lastSeen": "2026-06-19",
+      "lastSeen": "2026-07-12",
       "active": true,
       "entries": [
         {
@@ -4795,6 +4805,11 @@
           "date": "2026-06-19",
           "edition": "evening",
           "update": "Cuba approved sweeping economic reforms opening key sectors to private investment, according to Al Jazeera. Millions of Cubans have adapted to prolonged electricity outages by resorting to alternatives ranging from charcoal to solar panels, according to Al Jazeera."
+        },
+        {
+          "date": "2026-07-12",
+          "edition": "evening",
+          "update": "UN Ambassador Mike Waltz declared Cuba's regime 'a national security threat' on Fox News, accusing China and Russia of conducting intelligence collection around U.S. military bases in Cuba."
         }
       ]
     },
@@ -5315,6 +5330,11 @@
           "date": "2026-07-12",
           "edition": "morning",
           "update": "Iran's IRGC declared the Strait of Hormuz closed until further notice, and Iranian forces struck a Cyprus-flagged commercial container ship transiting the waterway."
+        },
+        {
+          "date": "2026-07-12",
+          "edition": "evening",
+          "update": "The NY Times reported that President Trump signed an agreement that Iran interpreted as granting it control over the Strait of Hormuz, with Iran's military subsequently asserting violent authority over the waterway. Retired General Frank McKenzie, former CENTCOM commander, proposed that the U.S. consider seizing Iran's Kharg Island as a leverage mechanism, according to Newsweek."
         }
       ]
     },
@@ -5860,9 +5880,14 @@
           "date": "2026-07-12",
           "edition": "morning",
           "update": "Mohammed al-Wahidi, a Palestinian aid worker known for organizing World Cup screenings in Gaza, was killed in an Israeli airstrike while traveling to one of the events he had organized, according to NPR. The New York Post reported that Khanna had declined an offer to meet with former Israeli hostages and October 7 Hamas attack survivors before his visit to the region, citing a source familiar with the matter."
+        },
+        {
+          "date": "2026-07-12",
+          "edition": "evening",
+          "update": "Rep. Ro Khanna appeared on NBC News's 'Meet the Press' and accused the IDF of lying about the West Bank detention incident. Israeli Prime Minister Netanyahu publicly condemned those responsible for stopping and harassing Khanna's congressional delegation, calling them 'juvenile delinquents.' Israeli attacks in Gaza killed six people, including a girl, according to medics cited by Reuters, with Al Jazeera reporting at least 1,098 Palestinians killed in Gaza since the October ceasefire, including five in the latest strikes."
         }
       ]
     }
   ],
-  "updatedAt": "2026-07-12T11:06:18.973Z"
+  "updatedAt": "2026-07-12T21:05:29.693Z"
 }
