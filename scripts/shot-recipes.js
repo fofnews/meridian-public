@@ -66,6 +66,7 @@ const CAUSAL_RE       = /because|result|led to|causing|trigger|due to|response|f
 const MAGNITUDE_RE    = /(\d[\d,.]*)\s*(percent|%|billion|million|thousand|hundred|casualties|dead|wounded|injured|killed)/i;
 const TRADE_RE        = /trade|export|import|shipment|supply|flow|transfer|remittance/i;
 const DIPLOMATIC_RE   = /talks|negotiat|diplomat|meet|summit|agreement|deal|backchannel|ally|alliance|treaty/i;
+const EXCLUSION_RE    = /no.fly|exclusion zone|naval blockade|maritime exclusion|blockade|no.sail|airspace ban|flight ban/i;
 
 function clamp(val, min, max) { return Math.max(min, Math.min(max, val)); }
 
@@ -222,7 +223,8 @@ export function pickOverlayRecipes(shot, tStart) {
         const hzStart = tStart + 0.5;
         const hzEnd   = clamp(tStart + 8, hzStart + 1, tEnd - 0.5);
         if (hzEnd > hzStart) {
-          extra.push({ type: 'hatched-zone', tStart: hzStart, tEnd: hzEnd, polygon: poly, pattern: 'contested' });
+          const hzPattern = EXCLUSION_RE.test(narration) ? 'exclusion' : 'contested';
+          extra.push({ type: 'hatched-zone', tStart: hzStart, tEnd: hzEnd, polygon: poly, pattern: hzPattern });
         }
       }
     }

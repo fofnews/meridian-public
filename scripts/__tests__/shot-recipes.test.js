@@ -249,6 +249,24 @@ describe('pickOverlayRecipes — intent-driven rules', () => {
     expect(extra.find(t => t.type === 'hatched-zone')).toBeUndefined();
   });
 
+  it('contrast + polygon + exclusion narration → hatched-zone pattern:exclusion', () => {
+    const polygon = { type: 'Polygon', coordinates: [[[2, 48], [3, 48], [3, 49], [2, 48]]] };
+    const shot = makeShot('contrast', 'A no-fly zone has been declared over the region');
+    shot.cameraPath[1].highlight.polygon = polygon;
+    const hz = pickOverlayRecipes(shot, 0).find(t => t.type === 'hatched-zone');
+    expect(hz).toBeDefined();
+    expect(hz.pattern).toBe('exclusion');
+  });
+
+  it('contrast + polygon without exclusion narration → hatched-zone pattern:contested', () => {
+    const polygon = { type: 'Polygon', coordinates: [[[2, 48], [3, 48], [3, 49], [2, 48]]] };
+    const shot = makeShot('contrast', 'Forces have clashed along the border');
+    shot.cameraPath[1].highlight.polygon = polygon;
+    const hz = pickOverlayRecipes(shot, 0).find(t => t.type === 'hatched-zone');
+    expect(hz).toBeDefined();
+    expect(hz.pattern).toBe('contested');
+  });
+
   it('first story establish shot + high impact → emits spotlight-mask', () => {
     const shot = makeShot('reveal', '', { storyIndex: 0, impact: 0.7, isEstablish: true });
     const extra = pickOverlayRecipes(shot, 0);
