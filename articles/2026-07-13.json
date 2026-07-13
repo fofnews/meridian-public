@@ -154,5 +154,34 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-13T04:45:01.076Z"
+  },
+  {
+    "title": "At least 27 people killed in fire at a Bangkok pub",
+    "description": "A huge fire engulfed a pub in Bangkok overnight.",
+    "link": "https://abcnews.com/International/wireStory/fire-breaks-pub-bangkok-killing-27-people-134698550",
+    "pubDate": "Mon, 13 Jul 2026 00:41:56 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-07-13T05:00:01.076Z"
+  },
+  {
+    "title": "Tim Walz mobilizes National Guard to battle wildfires in Minnesota",
+    "description": "Minnesota Governor Tim Walz mobilized state National Guard troops on Sunday ​to battle wildfires on the state's ‌northern border with Canada.",
+    "link": "https://nypost.com/2026/07/13/us-news/tim-walz-mobilizes-national-guard-to-battle-wildfires-in-minnesota/",
+    "pubDate": "Mon, 13 Jul 2026 00:50:22 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-13T05:00:01.076Z"
+  },
+  {
+    "title": "Ryan Clifford remains Mets’ best — but flawed — hope to salvage 2023 sell-off",
+    "description": "The first baseman and outfielder arrived with Gilbert as the return for Verlander and was one of the many newcomers who brought hope for an organization that had given up on the season, just as the Mets are expected to soon give up on this year.",
+    "link": "https://nypost.com/2026/07/13/sports/ryan-clifford-remains-mets-best-but-flawed-hope-to-salvage-2023-sell-off/",
+    "pubDate": "Mon, 13 Jul 2026 00:45:08 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-13T05:00:01.076Z"
   }
 ]
