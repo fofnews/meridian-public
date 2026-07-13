@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-04",
+      "lastSeen": "2026-07-10",
       "active": true,
       "entries": [
         {
@@ -351,6 +351,16 @@
           "date": "2026-07-04",
           "edition": "morning",
           "update": "The DOJ filed a 17-page brief urging the federal judge to reject demands for additional unredacted Epstein records, arguing it has already met federal transparency requirements, and simultaneously requested a 60-day extension to consider a potential appeal if ordered to release more material."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "morning",
+          "update": "New Mexico Attorney General Raul Torrez accused the Trump administration's Justice Department of withholding records and impeding the state's investigation into Jeffrey Epstein, according to Al Jazeera."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "evening",
+          "update": "Thames Valley Police officers investigating former Prince Andrew for potential sexual offenses are set to travel to the United States in the coming weeks to interview the family of Virginia Giuffre, Andrew's now-deceased accuser."
         }
       ],
       "parentId": null
@@ -359,7 +369,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-03",
+      "lastSeen": "2026-07-10",
       "active": true,
       "entries": [
         {
@@ -556,6 +566,11 @@
           "date": "2026-07-03",
           "edition": "evening",
           "update": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf warned that Iran will respond if the U.S. and Israel fail to fully implement their interim peace deal commitments, issuing the statement as Iran conducted burial proceedings for former Supreme Leader Khamenei."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "evening",
+          "update": "Former Trump aide Caroline Sunshine claimed that Vice President JD Vance was deliberately set up as a 'fall guy' to sell the failed U.S.-Iran memorandum of understanding, according to The Hill."
         }
       ],
       "parentId": null
@@ -564,7 +579,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-09",
+      "lastSeen": "2026-07-12",
       "active": true,
       "entries": [
         {
@@ -1146,6 +1161,36 @@
           "date": "2026-07-09",
           "edition": "evening",
           "update": "Ukraine launched drone attacks targeting two oil tankers in the Sea of Azov and multiple oil facilities across Russia. Russia's Saratov oil refinery has been halted since a drone attack on Wednesday, according to Reuters sources."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "morning",
+          "update": "Experts told ABC News that Trump's plan to license Patriot missile systems to Ukraine for domestic production could take years to implement. Russia's Ilsky oil refinery caught fire and the city of Taganrog began evacuations following Ukrainian drone attacks, adding to the Saratov refinery outage. American-made drone technology is being used to help guide Ukrainian strikes deeper into Russian territory, according to CBS News. Al Jazeera reported on the human cost borne by African recruits serving in Russia's war in Ukraine, with families facing significant losses."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "evening",
+          "update": "Shield AI, an American defense firm, has played an increasingly important role in guiding Ukraine's campaign of drone strikes into Russian territory, according to CBS News. Russia's domestic gasoline production is now covering only 65% of national demand following Ukrainian strikes on oil refining infrastructure, according to Reuters sources. Ukraine has also deployed unmanned systems to cut overland fuel supply routes to Crimea and begun targeting Russian shadow tankers to disrupt military fuel supply chains."
+        },
+        {
+          "date": "2026-07-11",
+          "edition": "morning",
+          "update": "Russian forces have advanced to the outskirts of Zaporizhzhia, according to the city's mayor, as Russia intensified strikes on civilian infrastructure including schools, offices, and buses in the densely populated front-line city, with emergency crews searching for survivors following an air strike. Trump threatened to 'decimate and destroy' Iran following assassination threats made against him at Khamenei's funeral, posting on Truth Social that '1,000 missiles are locked and loaded.'"
+        },
+        {
+          "date": "2026-07-11",
+          "edition": "evening",
+          "update": "At least 11 people, including a child, were wounded in Russian missile and drone strikes on Kyiv early Saturday, according to Ukraine's State Emergency Service. Retired Gen. Philip Breedlove stated that Ukraine's strikes on Russian energy infrastructure are forcing Putin to divert military assets, as fuel shortages continue to spread across Russia."
+        },
+        {
+          "date": "2026-07-12",
+          "edition": "morning",
+          "update": "Ukrainian President Zelenskyy announced that officials will be held accountable in connection with a weapons storage issue, according to Reuters. Russia reported that Ukraine struck a tanker in the Sea of Azov, according to Reuters."
+        },
+        {
+          "date": "2026-07-12",
+          "edition": "evening",
+          "update": "Ukrainian Prime Minister Yuliia Svyrydenko resigned as part of a broader government shake-up announced by President Zelenskyy, with several other senior government roles also reshuffled. Germany has funded 50,000 strike drones for Ukraine, according to a Reuters source. Russian authorities reported that a Ukrainian drone strike on Russian-controlled Enerhodar killed four people."
         }
       ],
       "parentId": null
@@ -1154,8 +1199,8 @@
       "id": "sinaloa-cartel-violence",
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-06-02",
-      "active": false,
+      "lastSeen": "2026-07-11",
+      "active": true,
       "entries": [
         {
           "date": "2026-02-26",
@@ -1231,6 +1276,11 @@
           "date": "2026-06-02",
           "edition": "evening",
           "update": "U.S. authorities uncovered a cross-border smuggling tunnel running between San Diego and Tijuana, concealed beneath a fake store on the U.S. side, which was used to transport illegal drugs and weapons. Four people were arrested and charged in connection with the tunnel operation."
+        },
+        {
+          "date": "2026-07-11",
+          "edition": "evening",
+          "update": "California-born Juan Carlos Valencia has been identified as the new leader of Mexico's Jalisco New Generation Cartel, according to the New York Post, raising legal questions about how the Trump administration can pursue him given his U.S. citizenship."
         }
       ],
       "parentId": null
@@ -1289,7 +1339,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-03",
+      "lastSeen": "2026-07-12",
       "active": true,
       "entries": [
         {
@@ -1656,6 +1706,21 @@
           "date": "2026-07-03",
           "edition": "evening",
           "update": "Iran held additional multi-day state funeral activities for Supreme Leader Khamenei, with public street processions in Tehran expected to begin Saturday following Friday's initial proceedings. The funeral gathered foreign dignitaries and world leaders in the capital to pay tribute."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "evening",
+          "update": "Iranian official Mohammad Bagher Zolghadr, Secretary of the Supreme National Council, warned via state media that Iran will target Israel if the United States continues military strikes following the collapse of the recent ceasefire agreement."
+        },
+        {
+          "date": "2026-07-11",
+          "edition": "evening",
+          "update": "Mojtaba Khamenei, son of the late Supreme Leader, vowed retaliation against the United States for his father's killing. Trump posted on Truth Social that '1,000 Missiles are Locked and Loaded' aimed at Iran following reports of an alleged Iranian assassination plot against him, and directed the U.S. military to be prepared to respond to any such attempt. U.S. Ambassador Mike Huckabee warned Tehran not to 'test' the U.S. military, stating Trump was giving Iran 'one more chance.' Israel also struck Iranian steel facilities during the conflict, asserting the plants provided revenue and weapons-making capabilities to Iranian forces."
+        },
+        {
+          "date": "2026-07-12",
+          "edition": "morning",
+          "update": "Iran announced missile attacks on U.S. military sites in Bahrain, Kuwait, Jordan, and Qatar following additional U.S. strikes, with missiles and drones also targeting the UAE and Oman; three people were injured by falling shrapnel in Qatar, according to Al Jazeera. The IRGC vowed a 'crushing response' to any further U.S. attacks. Iranian hard-liners are seeking to fill leadership voids created by wartime losses and push to escalate the conflict, according to the NY Times. Farmers in Louisiana are facing major energy cost hikes linked to the Iran war, with some expressing uncertainty about their businesses' survival, according to CBS News."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1664,7 +1729,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-07-09",
+      "lastSeen": "2026-07-11",
       "active": true,
       "entries": [
         {
@@ -1851,6 +1916,16 @@
           "date": "2026-07-09",
           "edition": "morning",
           "update": "Iranian state media released footage purportedly showing damage to the compound of the late Supreme Leader Khamenei. Millions gathered in Karbala, Iraq, for a funeral procession carrying Khamenei's coffin in what marked the final stop before his burial in Mashhad."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "morning",
+          "update": "The New York Times reported that Iran's Supreme Leader Ayatollah Khamenei was absent from a high-profile public event and that his son Mojtaba Khamenei also failed to appear at the funeral, fueling speculation about the Supreme Leader's physical condition and raising concerns about a potential power vacuum in Iran."
+        },
+        {
+          "date": "2026-07-11",
+          "edition": "morning",
+          "update": "Treasury Secretary Scott Bessent imposed sanctions on Ali Ansari, identified as Dubai-based financial backer of Mojtaba Khamenei, along with three Iranian currency exchanges and alleged front companies in Hong Kong and the UAE used to connect Iranian banks to global financial networks."
         }
       ],
       "parentId": null
@@ -1859,7 +1934,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-09",
+      "lastSeen": "2026-07-11",
       "active": true,
       "entries": [
         {
@@ -2396,6 +2471,16 @@
           "date": "2026-07-09",
           "edition": "morning",
           "update": "Israeli Ambassador to the U.N. Danny Danon stated Israel has 'no intention to stay in Lebanon in the long run,' while President Trump expressed belief that Israeli forces could soon withdraw from southern Lebanon."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "evening",
+          "update": "Israeli drones struck Lebanon despite the U.S.-brokered framework deal being in place, with the latest strikes injuring two people. Separately, Amnesty International urged a probe into earlier Israeli attacks that killed 24 civilians."
+        },
+        {
+          "date": "2026-07-11",
+          "edition": "evening",
+          "update": "U.S. and Lebanese delegations held talks focused on establishing a mechanism for Israeli withdrawal from the first of two so-called 'pilot zones' in Lebanon, according to sources speaking to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2404,7 +2489,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-09",
+      "lastSeen": "2026-07-12",
       "active": true,
       "entries": [
         {
@@ -3166,6 +3251,31 @@
           "date": "2026-07-09",
           "edition": "evening",
           "update": "Khamenei's burial took place in Mashhad, with Iranians gathering in sweltering heat; banners threatening Trump were displayed at the ceremony. Iran fired ten ballistic missiles at Jordan's Azraq military base, with sirens blaring and interceptions filmed over several Jordanian cities. U.S. Central Command reported striking approximately 90 Iranian targets along Iran's coastline, including air defense systems, missile and drone storage sites, and naval capabilities, while Iran's health ministry stated 14 people had been killed since Tuesday. A senior Qatari official stated the renewed fighting has put key elements of the regional memorandum of understanding in question, and Pakistan urged both sides to honor the agreement, warning renewed conflict is 'in no one's interest.' Iranian officials threatened a 'hard slap' in response to U.S. strikes, while former Defense Secretary Esper predicted Trump will 'unleash' military power on Iran after the midterm elections. Trump told a reporter aboard Air Force One that if Iran struck the plane she would be killed too, and renewed calls for a third reconciliation bill focused on new defense spending, with urgency tied to the ceasefire's collapse."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "morning",
+          "update": "Explosions were reported at several locations in Iran, with the U.S. military denying involvement and a Washington official confirming that technical talks with Iran are continuing. Thursday's U.S. strikes against Iran were described by CBS News as the most extensive since the ceasefire collapsed, marking a significant escalation. Iran responded by firing at U.S. bases in Qatar, Bahrain, and Kuwait, expanding the set of targeted countries beyond Bahrain and Kuwait. Israel shared intelligence with the United States regarding an Iranian plot to assassinate President Trump, with the original report published by the Wall Street Journal. The New York Times reported that the Trump administration appears to be reverting to an all-pressure approach toward Iran, combining renewed economic warfare and military strikes, though the administration has not explained why this strategy would produce different results than prior efforts."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "evening",
+          "update": "U.S. forces conducted strikes on more than 170 targets in Iran over two days, hitting air defense systems, drone and missile storage sites, and military speedboats, according to the NY Times. Fighting between the two sides has since appeared to pause amid backroom diplomacy, with sources suggesting a ceasefire could be revived. The Secret Service advised Trump to use the older Air Force One rather than the Qatari-donated aircraft when departing Turkey, with a Newsmax report noting the newer plane lacks key defense systems."
+        },
+        {
+          "date": "2026-07-11",
+          "edition": "evening",
+          "update": "The financial cost of U.S. military operations against Iran is projected to run into the tens of billions of dollars amid continued escalations, according to The Hill."
+        },
+        {
+          "date": "2026-07-12",
+          "edition": "morning",
+          "update": "U.S. CENTCOM completed a third round of strikes on Iran, hitting 140 Iranian military targets according to Reuters, in a joint U.S.-Israeli operation following Iran's attack on a Cyprus-flagged container ship in the Strait of Hormuz. Iran declared the Strait of Hormuz closed in response and lashed out at Gulf Arab states following the U.S. military action. Trump suggested he has a standing order to strike Iran in the event of an assassination attempt against him. The Washington Post reported that Iran has taken emboldened steps following the funeral of a key leader, raising concerns about the risk of renewed conflict."
+        },
+        {
+          "date": "2026-07-12",
+          "edition": "evening",
+          "update": "Trump declared the Strait of Hormuz open to commercial traffic following U.S. strikes on Iran. The IRGC released video footage of its retaliatory missile strikes, according to Al Jazeera, and Iran's state news agency IRNA reported that an unspecified 'enemy' launched missiles toward Qeshm Island. Iranian parliamentary Speaker Mohammad Bagher Ghalibaf warned the U.S. on Sunday to uphold its end of an interim peace deal 'or pay the price.' National Security Advisor Mike Waltz stated Iran is 'not living up to' a memorandum of understanding, citing Iran's strike on a vessel in the Strait of Hormuz as the trigger for the latest U.S. retaliation. An Iranian newspaper named Trump and 12 others as targets for revenge, according to Newsmax. Israeli Prime Minister Netanyahu told NBC News that Israel had 'removed this immediate and present danger of Iran with nuclear weapons.'"
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3429,7 +3539,7 @@
       "id": "hezbollah-us-operations",
       "title": "Hezbollah US Operations",
       "firstSeen": "2026-03-15",
-      "lastSeen": "2026-07-03",
+      "lastSeen": "2026-07-10",
       "active": true,
       "entries": [
         {
@@ -3496,6 +3606,11 @@
           "date": "2026-07-03",
           "edition": "evening",
           "update": "Two Romanian men were sentenced to 12 and 8 years in prison respectively for a knife attack on a journalist in Wimbledon, London in 2024, which was carried out on behalf of the Iranian regime."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "evening",
+          "update": "Israel warned the United States about an Iranian plot to assassinate President Trump, first reported by the Wall Street Journal. Trump told the New York Post he has left instructions for a bombing campaign against Iran if he is assassinated, and stated at the NATO summit that he is Iran's 'No. 1' assassination target. An unexpected Air Force One aircraft switch during Trump's departure from Turkey raised additional security concerns among officials."
         }
       ],
       "parentId": null
@@ -3504,7 +3619,7 @@
       "id": "cuba-energy-crisis",
       "title": "Cuba Energy Crisis",
       "firstSeen": "2026-03-16",
-      "lastSeen": "2026-07-07",
+      "lastSeen": "2026-07-11",
       "active": true,
       "entries": [
         {
@@ -3711,6 +3826,11 @@
           "date": "2026-07-07",
           "edition": "evening",
           "update": "Cuba began gradually restoring power following the blackout, with officials attributing the energy collapse to a U.S. fuel blockade."
+        },
+        {
+          "date": "2026-07-11",
+          "edition": "morning",
+          "update": "Cuba suffered its second island-wide blackout within a week, with Al Jazeera attributing the outage to a de facto oil blockade imposed by the Trump administration that has continued to strain the country's power grid."
         }
       ],
       "parentId": null
@@ -3720,7 +3840,7 @@
       "title": "Cesar Chavez Sexual Abuse Investigation",
       "firstSeen": "2026-03-18",
       "lastSeen": "2026-06-12",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-03-18",
@@ -4160,46 +4280,8 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-09",
-      "active": true,
-      "entries": [
-        {
-          "date": "2026-05-22",
-          "edition": "morning",
-          "update": "Acting Navy Secretary Hung Cao told a Senate Appropriations Defense Subcommittee hearing on Thursday that the U.S. has paused a $14 billion arms sale to Taiwan to ensure sufficient munitions for American military operations against Iran."
-        },
-        {
-          "date": "2026-05-24",
-          "edition": "evening",
-          "update": "An Israeli attack on Nuseirat refugee camp in Gaza killed Mohammad Abu Mallouh, Alaa Zaqlan, and their infant child, Osama, according to medics. France banned Israeli far-right minister Itamar Ben-Gvir from entering the country after French officials described his behavior toward arrested Gaza flotilla activists as 'unspeakable.' Israel blocked Muslims in Gaza from traveling to perform Hajj for the third consecutive year, with the border remaining shut as millions of other Muslims gathered for the pilgrimage. An Israeli source cited by Reuters said Prime Minister Netanyahu told President Trump that Israel will retain the freedom to act independently against threats."
-        },
-        {
-          "date": "2026-05-31",
-          "edition": "evening",
-          "update": "According to the NY Times, Trump's diplomatic efforts in Ukraine, Gaza, and Iran have reached a stalemate, with early declarations of easy wins giving way to more complex realities across all three conflicts."
-        },
-        {
-          "date": "2026-06-03",
-          "edition": "evening",
-          "update": "Trump confirmed he called Israeli Prime Minister Netanyahu 'crazy' during a phone call, saying he was 'perturbed' by Israel's ongoing military operations in Lebanon, which he said were complicating U.S. efforts to secure a peace agreement with Iran."
-        },
-        {
-          "date": "2026-06-10",
-          "edition": "morning",
-          "update": "Asian stocks fell and oil prices rose as Middle East tensions escalated. May inflation is expected to have increased, driven in part by rising prices linked to the Iran war, with wage growth continuing to lag inflation, according to NBC News."
-        },
-        {
-          "date": "2026-06-25",
-          "edition": "morning",
-          "update": "A Syrian diplomat stated that President Ahmad al-Sharaa is seeking a 'balance' between U.S. demands and what Damascus can offer, as Syria navigates pressures from Washington and its regional allies. National Review published an analysis warning that recurring Lebanon crises driven by Iranian provocations are increasing the likelihood of a return to armed conflict."
-        },
-        {
-          "date": "2026-07-02",
-          "edition": "morning",
-          "update": "President Trump announced 'Project Freedom,' a full military effort to shield oil tankers and cargo ships transiting the Strait of Hormuz, amid growing U.S.-Saudi tensions over the Iran war."
-        }
-      ],
-      "pendingSubThread": "Syria Security Crisis"
+      "lastSeen": "2026-07-12",
+      "active": true
     },
     {
       "id": "nato-iran-diplomatic-crisis",
@@ -4221,7 +4303,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-07-08",
+      "lastSeen": "2026-07-12",
       "active": true,
       "entries": [
         {
@@ -4498,6 +4580,21 @@
           "date": "2026-07-08",
           "edition": "evening",
           "update": "BBC International Editor Jeremy Bowen assessed that despite U.S. strikes complicating prospects, the Trump administration has no better alternative than pursuing negotiations with Iran, describing the process as fragile."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "morning",
+          "update": "The United States confirmed it is continuing technical talks with Iran despite President Trump declaring the ceasefire 'over' at the NATO summit, according to multiple media reports."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "evening",
+          "update": "Qatari mediators are working to salvage the U.S.-Iran truce following days of renewed strikes by both sides, with the situation described as an uneasy pause. Trump called Iranian negotiators 'scum' at the NATO summit in Ankara and told reporters he did not want to deal with Iran, while former deputy national security adviser Victoria Coates publicly agreed with his pessimism, calling further talks 'probably a waste of time.' Despite Trump's ceasefire declaration and hardened rhetoric, the U.S. confirmed it is continuing technical talks with Iran following an Iranian request to do so."
+        },
+        {
+          "date": "2026-07-12",
+          "edition": "morning",
+          "update": "Regional mediators are intensifying efforts to facilitate U.S.-Iran talks in Qatar and Oman, according to Al Jazeera, aimed at averting further escalation between the two countries."
         }
       ]
     },
@@ -4561,7 +4658,7 @@
       "title": "Correspondents' Dinner Shooting Investigation",
       "parentId": null,
       "firstSeen": "2026-04-28",
-      "lastSeen": "2026-06-29",
+      "lastSeen": "2026-07-10",
       "active": true,
       "entries": [
         {
@@ -4618,6 +4715,11 @@
           "date": "2026-06-29",
           "edition": "evening",
           "update": "A federal judge delayed the trial of Correspondents' Dinner shooting suspect Cole Allen after both parties and the court agreed to pause the speedy trial clock for 45 days."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "evening",
+          "update": "Eight men were federally indicted on conspiracy and terrorism-related charges in connection with an alleged plot to kill President Trump and Vice President Vance during the UFC Freedom 250 event at the White House on June 14, with the indictment returned in Ohio. The DOJ announced the charges, with the alleged plot involving the use of drones."
         }
       ]
     },
@@ -4651,7 +4753,7 @@
       "title": "Cuba Military Intervention",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-04-29",
-      "lastSeen": "2026-06-19",
+      "lastSeen": "2026-07-12",
       "active": true,
       "entries": [
         {
@@ -4703,6 +4805,11 @@
           "date": "2026-06-19",
           "edition": "evening",
           "update": "Cuba approved sweeping economic reforms opening key sectors to private investment, according to Al Jazeera. Millions of Cubans have adapted to prolonged electricity outages by resorting to alternatives ranging from charcoal to solar panels, according to Al Jazeera."
+        },
+        {
+          "date": "2026-07-12",
+          "edition": "evening",
+          "update": "UN Ambassador Mike Waltz declared Cuba's regime 'a national security threat' on Fox News, accusing China and Russia of conducting intelligence collection around U.S. military bases in Cuba."
         }
       ]
     },
@@ -4712,7 +4819,7 @@
       "parentId": null,
       "firstSeen": "2026-05-02",
       "lastSeen": "2026-06-10",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-05-02",
@@ -4776,7 +4883,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-07-07",
+      "lastSeen": "2026-07-11",
       "active": true,
       "entries": [
         {
@@ -4858,6 +4965,11 @@
           "date": "2026-07-07",
           "edition": "morning",
           "update": "Trump stated that a resolution to the Ukraine war is 'getting closer' following separate phone calls he held with Putin and Zelensky."
+        },
+        {
+          "date": "2026-07-11",
+          "edition": "morning",
+          "update": "The Trump administration has signaled support for bipartisan Senate legislation that would impose heavy tariffs on Russian oil as part of an effort to pressure Moscow toward ending the war in Ukraine, according to CBS News sources."
         }
       ]
     },
@@ -4866,7 +4978,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-07-09",
+      "lastSeen": "2026-07-12",
       "active": true,
       "entries": [
         {
@@ -5193,6 +5305,36 @@
           "date": "2026-07-09",
           "edition": "evening",
           "update": "Oil tanker traffic through the Strait of Hormuz came to a near standstill following Trump's declaration that the ceasefire is over and the continuation of U.S.-Iran strikes, significantly disrupting the critical shipping corridor between the Persian Gulf and Gulf of Oman, according to Reuters and the Washington Examiner."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "morning",
+          "update": "Analysts told Al Jazeera that clashing interpretations of vague memorandum of understanding language regarding the Strait of Hormuz are at the core of the latest escalation. Despite the near-total halt in shipping traffic, Brent crude prices held steady, while Reuters separately reported an increase in LNG and Japan-linked vessels transiting the strait, indicating uneven disruption across vessel types."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "evening",
+          "update": "Shipping company executives warned that navigating the Strait of Hormuz is becoming increasingly dangerous, with one executive stating 'things are becoming uglier by the minute,' according to the NY Times. Sources cited by Al Jazeera suggest a ceasefire between the U.S. and Iran could be revived amid a lull in fighting and ongoing backroom diplomacy."
+        },
+        {
+          "date": "2026-07-11",
+          "edition": "morning",
+          "update": "The U.S. formally demanded that Iran publicly declare the Strait of Hormuz open to international shipping and cease all attacks on commercial vessels transiting the waterway, with a senior U.S. official disclosing the demand to reporters on Friday. Despite the ceasefire being declared over, the U.S. and Iran agreed to continue diplomatic talks."
+        },
+        {
+          "date": "2026-07-11",
+          "edition": "evening",
+          "update": "Iran's top diplomat traveled to Oman for talks related to the Strait of Hormuz amid escalating mutual threats between Iran and the United States. Analysts noted that despite ongoing hostilities, the door to diplomacy between the two sides remains open."
+        },
+        {
+          "date": "2026-07-12",
+          "edition": "morning",
+          "update": "Iran's IRGC declared the Strait of Hormuz closed until further notice, and Iranian forces struck a Cyprus-flagged commercial container ship transiting the waterway."
+        },
+        {
+          "date": "2026-07-12",
+          "edition": "evening",
+          "update": "The NY Times reported that President Trump signed an agreement that Iran interpreted as granting it control over the Strait of Hormuz, with Iran's military subsequently asserting violent authority over the waterway. Retired General Frank McKenzie, former CENTCOM commander, proposed that the U.S. consider seizing Iran's Kharg Island as a leverage mechanism, according to Newsweek."
         }
       ]
     },
@@ -5276,7 +5418,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-07-09",
+      "lastSeen": "2026-07-12",
       "active": true,
       "entries": [
         {
@@ -5543,6 +5685,21 @@
           "date": "2026-07-09",
           "edition": "morning",
           "update": "Confirmed Ebola deaths in the Democratic Republic of Congo have reached 600, as healthcare workers threaten to strike over delayed payments. BBC News reports that misinformation about Ebola is being linked to violent attacks on treatment facilities, assaults on health workers, and disruptions to burials."
+        },
+        {
+          "date": "2026-07-10",
+          "edition": "morning",
+          "update": "The Congolese government reported new suspected Ebola cases in previously unaffected parts of the country, indicating spread beyond the epicenter in Ituri. Separately, an outbreak of a diarrhea-causing parasite has grown to more than 1,000 cases, according to AP News."
+        },
+        {
+          "date": "2026-07-11",
+          "edition": "evening",
+          "update": "A U.S. citizen working in the Democratic Republic of Congo has tested positive for Ebola, according to the CDC. The Africa CDC has described the outbreak as the fastest-growing Ebola outbreak ever recorded on the continent, and the WHO warned the true scale of the outbreak may be two to four times larger than confirmed case counts suggest."
+        },
+        {
+          "date": "2026-07-12",
+          "edition": "morning",
+          "update": "A second U.S. citizen tested positive for Ebola while working for a humanitarian organization in the Democratic Republic of Congo, according to Fox News."
         }
       ]
     },
@@ -5660,7 +5817,77 @@
           "update": "Lebanon and the Israel-Hezbollah conflict have emerged as a primary obstacle to the broader U.S.-Iran deal, having shifted from a secondary front to a central sticking point, according to the New York Times. The Iran deal's oil sanctions waivers drew criticism from Iran hawks, including some Trump allies, who argued the move surrenders key economic leverage over Tehran."
         }
       ]
+    },
+    {
+      "id": "middle-east-military-conflicts-2026-general",
+      "title": "Middle East Military Conflicts (2026)",
+      "parentId": "middle-east-military-conflicts-2026",
+      "firstSeen": "2026-02-28",
+      "lastSeen": "2026-07-10",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-05-22",
+          "edition": "morning",
+          "update": "Acting Navy Secretary Hung Cao told a Senate Appropriations Defense Subcommittee hearing on Thursday that the U.S. has paused a $14 billion arms sale to Taiwan to ensure sufficient munitions for American military operations against Iran."
+        },
+        {
+          "date": "2026-05-24",
+          "edition": "evening",
+          "update": "An Israeli attack on Nuseirat refugee camp in Gaza killed Mohammad Abu Mallouh, Alaa Zaqlan, and their infant child, Osama, according to medics. France banned Israeli far-right minister Itamar Ben-Gvir from entering the country after French officials described his behavior toward arrested Gaza flotilla activists as 'unspeakable.' Israel blocked Muslims in Gaza from traveling to perform Hajj for the third consecutive year, with the border remaining shut as millions of other Muslims gathered for the pilgrimage. An Israeli source cited by Reuters said Prime Minister Netanyahu told President Trump that Israel will retain the freedom to act independently against threats."
+        },
+        {
+          "date": "2026-05-31",
+          "edition": "evening",
+          "update": "According to the NY Times, Trump's diplomatic efforts in Ukraine, Gaza, and Iran have reached a stalemate, with early declarations of easy wins giving way to more complex realities across all three conflicts."
+        },
+        {
+          "date": "2026-06-03",
+          "edition": "evening",
+          "update": "Trump confirmed he called Israeli Prime Minister Netanyahu 'crazy' during a phone call, saying he was 'perturbed' by Israel's ongoing military operations in Lebanon, which he said were complicating U.S. efforts to secure a peace agreement with Iran."
+        },
+        {
+          "date": "2026-06-10",
+          "edition": "morning",
+          "update": "Asian stocks fell and oil prices rose as Middle East tensions escalated. May inflation is expected to have increased, driven in part by rising prices linked to the Iran war, with wage growth continuing to lag inflation, according to NBC News."
+        },
+        {
+          "date": "2026-06-25",
+          "edition": "morning",
+          "update": "A Syrian diplomat stated that President Ahmad al-Sharaa is seeking a 'balance' between U.S. demands and what Damascus can offer, as Syria navigates pressures from Washington and its regional allies. National Review published an analysis warning that recurring Lebanon crises driven by Iranian provocations are increasing the likelihood of a return to armed conflict."
+        },
+        {
+          "date": "2026-07-02",
+          "edition": "morning",
+          "update": "President Trump announced 'Project Freedom,' a full military effort to shield oil tankers and cargo ships transiting the Strait of Hormuz, amid growing U.S.-Saudi tensions over the Iran war."
+        }
+      ]
+    },
+    {
+      "id": "israeli-palestinian-violence-and-west-bank-tensions",
+      "title": "Israeli-Palestinian Violence and West Bank Tensions",
+      "parentId": "middle-east-military-conflicts-2026",
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-07-11",
+          "edition": "evening",
+          "update": "Rep. Ro Khanna (D-Calif.) stated he was detained by armed Israeli settlers in the West Bank for over an hour, with IDF soldiers arriving on the scene whom he accused of supporting the settlers. Khanna noted the settlers carried American-made M4 rifles and said Israeli forces had made a 'huge mistake,' posting about the incident on X."
+        },
+        {
+          "date": "2026-07-12",
+          "edition": "morning",
+          "update": "Mohammed al-Wahidi, a Palestinian aid worker known for organizing World Cup screenings in Gaza, was killed in an Israeli airstrike while traveling to one of the events he had organized, according to NPR. The New York Post reported that Khanna had declined an offer to meet with former Israeli hostages and October 7 Hamas attack survivors before his visit to the region, citing a source familiar with the matter."
+        },
+        {
+          "date": "2026-07-12",
+          "edition": "evening",
+          "update": "Rep. Ro Khanna appeared on NBC News's 'Meet the Press' and accused the IDF of lying about the West Bank detention incident. Israeli Prime Minister Netanyahu publicly condemned those responsible for stopping and harassing Khanna's congressional delegation, calling them 'juvenile delinquents.' Israeli attacks in Gaza killed six people, including a girl, according to medics cited by Reuters, with Al Jazeera reporting at least 1,098 Palestinians killed in Gaza since the October ceasefire, including five in the latest strikes."
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-07-09T21:08:05.151Z"
+  "updatedAt": "2026-07-12T21:05:29.693Z"
 }
