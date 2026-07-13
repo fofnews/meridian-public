@@ -571,6 +571,11 @@
           "date": "2026-07-13",
           "edition": "morning",
           "update": "Ukrainian Prime Minister Yulia Svyrydenko resigned on Sunday as President Zelensky reshuffled his cabinet, citing the need for 'personnel changes' to implement an 'updated political strategy.' Allied nations are mobilizing additional air defense assistance for Ukraine amid shifting battlefield momentum, according to Reuters. Ground robots in Ukraine have transitioned from logistical roles to active combat functions including trench holding, casualty evacuation, and offensive operations, marking a significant shift in modern ground warfare, according to the NY Times."
+        },
+        {
+          "date": "2026-07-13",
+          "edition": "evening",
+          "update": "Western leaders reached an agreement to form an anti-ballistic missile coalition with Ukraine, according to Reuters. President Zelensky stated that outgoing Prime Minister Svyrydenko was offered a new role focused on relations with a key international partner as part of the government reshuffle."
         }
       ],
       "parentId": null
@@ -709,8 +714,8 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-05-27",
-      "active": false,
+      "lastSeen": "2026-07-13",
+      "active": true,
       "entries": [
         {
           "date": "2026-02-28",
@@ -896,6 +901,11 @@
           "date": "2026-05-27",
           "edition": "morning",
           "update": "Lebanon's Health Ministry reported that Israeli attacks have killed 3,213 people and injured 9,737 in Lebanon since March 2, according to Al Jazeera."
+        },
+        {
+          "date": "2026-07-13",
+          "edition": "evening",
+          "update": "The UK government designated Iran's Islamic Revolutionary Guard Corps (IRGC) as a terrorist organisation on Monday, July 13, 2026, invoking new national security powers targeting state proxies. Justice Secretary Shabana Mahmood announced the proscription, linking the IRGC to death threats, intimidation, arson, and vandalism attacks on Jewish sites in Britain."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1821,6 +1831,11 @@
           "date": "2026-07-13",
           "edition": "morning",
           "update": "The U.S. launched a new wave of strikes against Iran on Sunday at 5 p.m. ET, with CENTCOM stating the operation was aimed at degrading Iran's ability to attack civilian mariners after Tehran struck multiple Gulf states and fired on vessels transiting the Strait of Hormuz. Explosions were reported across the Iranian port cities of Bandar Abbas, Sirik, and Jask, as well as Qeshm Island, according to Iranian state media. Iran launched retaliatory attacks targeting U.S. military bases in Bahrain, Kuwait, and Jordan and warned of further 'incidents' in the strait. Oil prices jumped approximately 3%, Asian shares declined, the U.S. dollar surged, and shipping traffic through the Strait of Hormuz slowed to a multi-week low amid fears of a full closure of the waterway. Europe's jet fuel stocks have fallen to less than a month's supply, according to Reuters. President Trump suggested he has a standing order to attack Iran in the event of his assassination, though under the Constitution any such decision would fall to Vice President Vance, according to AP News."
+        },
+        {
+          "date": "2026-07-13",
+          "edition": "evening",
+          "update": "President Trump declared on Monday that the U.S. will become 'the Guardian Angel of the Strait of Hormuz' and announced a 20% charge on all cargo transiting the waterway, along with a reinstated naval blockade on Iran. Both sides have claimed control of the strait following a weekend of intensified exchanges, with Iran declaring the strait closed while Trump contradicted that claim on NBC's Meet the Press. Ship traffic through the Strait of Hormuz fell to a five-week low of just six vessels on Sunday, per trade intelligence firm Kpler, as Iran announced missile and drone strikes on U.S. military sites following a fourth consecutive night of U.S. strikes. Sen. Adam Schiff announced plans for a war powers resolution to force a congressional vote on ending the conflict, China called for the strait to be reopened given its reliance on the route for approximately 40% of its oil imports, and Wall Street futures declined amid the escalating hostilities. CENTCOM denied Iranian claims that three U.S. service members were killed in strikes in Kuwait, labeling the allegation propaganda. Iranian hard-liners have called for revenge against Trump and Netanyahu following the reported killing of Iran's supreme leader."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3127,6 +3142,11 @@
           "date": "2026-07-13",
           "edition": "morning",
           "update": "The UK medicines regulator approved an experimental Ebola vaccine, developed in eight weeks, to begin trials on healthy adults, according to BBC News."
+        },
+        {
+          "date": "2026-07-13",
+          "edition": "evening",
+          "update": "Dozens of workers at an Ebola treatment center in northeast Congo went on strike over unpaid salaries and bonuses, according to ABC News. A second U.S. citizen diagnosed with Ebola, identified as a humanitarian worker, was transferred to Frankfurt University Hospital in Germany for treatment, according to the WHO."
         }
       ]
     },
@@ -3221,5 +3241,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-13T11:07:42.019Z"
+  "updatedAt": "2026-07-13T21:08:25.140Z"
 }
