@@ -249,17 +249,48 @@ describe('pickOverlayRecipes — intent-driven rules', () => {
     expect(extra.find(t => t.type === 'hatched-zone')).toBeUndefined();
   });
 
-  it('first story + high impact → emits spotlight-mask', () => {
-    const shot = makeShot('reveal', '', { storyIndex: 0, impact: 0.7 });
+  it('first story establish shot + high impact → emits spotlight-mask', () => {
+    const shot = makeShot('reveal', '', { storyIndex: 0, impact: 0.7, isEstablish: true });
     const extra = pickOverlayRecipes(shot, 0);
     const sm = extra.find(t => t.type === 'spotlight-mask');
     expect(sm).toBeDefined();
+  });
+
+  it('first story without isEstablish flag → no spotlight-mask', () => {
+    const shot = makeShot('reveal', '', { storyIndex: 0, impact: 0.7 });
+    const extra = pickOverlayRecipes(shot, 0);
+    expect(extra.find(t => t.type === 'spotlight-mask')).toBeUndefined();
   });
 
   it('non-first story + high impact → no spotlight-mask', () => {
     const shot = makeShot('reveal', '', { storyIndex: 2, impact: 0.8 });
     const extra = pickOverlayRecipes(shot, 0);
     expect(extra.find(t => t.type === 'spotlight-mask')).toBeUndefined();
+  });
+
+  it('stakes + spatial magnitude narration → emits impact-radius', () => {
+    const extra = pickOverlayRecipes(makeShot('stakes', 'Over 50 percent of the region affected'), 0);
+    expect(extra.find(t => t.type === 'impact-radius')).toBeDefined();
+  });
+
+  it('stakes + monetary magnitude narration → no impact-radius', () => {
+    const extra = pickOverlayRecipes(makeShot('stakes', 'The country lost 78 billion in trade'), 0);
+    expect(extra.find(t => t.type === 'impact-radius')).toBeUndefined();
+  });
+
+  it('reveal without headline or label → no context-strip', () => {
+    const shot = makeShot('reveal', '');
+    shot.chyron = {};
+    const extra = pickOverlayRecipes(shot, 0);
+    expect(extra.find(t => t.type === 'context-strip')).toBeUndefined();
+  });
+
+  it('label-bloom shortened when quote-callout present', () => {
+    const shot = makeShot('reveal', '');
+    shot.overlays = [{ type: 'quote-callout', text: 'Something said', tOffset: 1, durationMs: 3000 }];
+    const bloom = pickOverlayRecipes(shot, 5).find(t => t.type === 'label-bloom');
+    expect(bloom).toBeDefined();
+    expect(bloom.tEnd).toBeLessThanOrEqual(7); // capped at tStart+2 = 5+2 = 7
   });
 });
 
@@ -284,12 +315,19 @@ describe('pickOverlayRecipes — multi-location rules', () => {
     };
   }
 
-  it('multi-loc + reveal → emits route-reveal', () => {
+  it('multi-loc + reveal → emits route-reveal with mode:geodesic', () => {
     const extra = pickOverlayRecipes(makeMultiShot('reveal'), 0);
     const rr = extra.find(t => t.type === 'route-reveal');
     expect(rr).toBeDefined();
     expect(rr.from).toBeDefined();
     expect(rr.to).toBeDefined();
+    expect(rr.mode).toBe('geodesic');
+  });
+
+  it('2-loc reveal → route-reveal, no flow-arrow', () => {
+    const extra = pickOverlayRecipes(makeMultiShot('reveal'), 0);
+    expect(extra.find(t => t.type === 'route-reveal')).toBeDefined();
+    expect(extra.find(t => t.type === 'flow-arrow')).toBeUndefined();
   });
 
   it('multi-loc + stakes + causal narration → emits particle-trail', () => {
@@ -318,5 +356,85 @@ describe('pickOverlayRecipes — multi-location rules', () => {
     for (const t of extra) {
       expect(t.tStart).toBeLessThan(t.tEnd);
     }
+  });
+
+  it('multi-loc + data + trade narration → emits arc-token', () => {
+    const extra = pickOverlayRecipes(makeMultiShot('data', 'Oil export flow from Russia to China surged'), 0);
+    const at = extra.find(t => t.type === 'arc-token');
+    expect(at).toBeDefined();
+    expect(at.arcs.length).toBeGreaterThanOrEqual(1);
+  });
+
+  it('multi-loc + data without trade narration → no arc-token', () => {
+    const extra = pickOverlayRecipes(makeMultiShot('data', 'Economic output fell sharply'), 0);
+    expect(extra.find(t => t.type === 'arc-token')).toBeUndefined();
+  });
+
+  it('multi-loc + contrast + diplomatic narration → emits connection-arc', () => {
+    const extra = pickOverlayRecipes(makeMultiShot('contrast', 'Diplomatic talks between the US and France began in Brussels'), 0);
+    expect(extra.find(t => t.type === 'connection-arc')).toBeDefined();
+  });
+
+  it('multi-loc + contrast without diplomatic narration → no connection-arc', () => {
+    const extra = pickOverlayRecipes(makeMultiShot('contrast', 'Both sides hardened their positions'), 0);
+    expect(extra.find(t => t.type === 'connection-arc')).toBeUndefined();
+  });
+
+  it('any shot with 2+ named locations → map-annotation on secondary location', () => {
+    const extra = pickOverlayRecipes(makeMultiShot('reveal'), 0);
+    const ma = extra.find(t => t.type === 'map-annotation');
+    expect(ma).toBeDefined();
+    expect(ma.text).toBe('France'); // secondary unique location
+  });
+
+  it('particle-trail particleCount scales with path length', () => {
+    // New York to France ≈ 5800 km → particleCount = clamp(round(5800/500), 3, 10) = 10
+    const extra = pickOverlayRecipes(makeMultiShot('stakes', 'Sanctions led to economic collapse'), 0);
+    const pt = extra.find(t => t.type === 'particle-trail');
+    expect(pt).toBeDefined();
+    expect(pt.particleCount).toBeGreaterThanOrEqual(3);
+    expect(pt.particleCount).toBeLessThanOrEqual(10);
+    expect(pt.speed).toBeGreaterThanOrEqual(0.15);
+    expect(pt.speed).toBeLessThanOrEqual(0.45);
+  });
+});
+
+describe('pickOverlayRecipes — 3-location flow-arrow', () => {
+  function makeThreeLocShot(intent) {
+    return {
+      t: 0, hold: 18, storyIndex: 1, impact: 0.4,
+      cameraPath: [
+        { tOffset: 0,  lng: -73.99, lat: 40.73, zoom: 9, pitch: 50, bearing: -10,
+          highlight: { type: 'city', name: 'New York', iso: 'US', polygon: null } },
+        { tOffset: 6,  lng: 2.35,   lat: 48.86, zoom: 7, pitch: 50, bearing: -10,
+          highlight: { type: 'country', name: 'France', iso: 'FR', polygon: null } },
+        { tOffset: 12, lng: 30.52,  lat: 50.45, zoom: 9, pitch: 50, bearing: -10,
+          highlight: { type: 'city', name: 'Kyiv', iso: 'UA', polygon: null } },
+        { tOffset: 18, lng: 30.52,  lat: 50.45, zoom: 9, pitch: 50, bearing: -10,
+          highlight: { type: 'city', name: 'Kyiv', iso: 'UA', polygon: null } },
+      ],
+      overlays: [],
+      narration: '',
+      dominantIntent: intent,
+      chyron: { headline: 'Supply route revealed', label: 'REVEAL' },
+    };
+  }
+
+  it('3-loc reveal → emits flow-arrow, no route-reveal', () => {
+    const extra = pickOverlayRecipes(makeThreeLocShot('reveal'), 0);
+    expect(extra.find(t => t.type === 'flow-arrow')).toBeDefined();
+    expect(extra.find(t => t.type === 'route-reveal')).toBeUndefined();
+  });
+
+  it('flow-arrow has path with 3 unique points', () => {
+    const extra = pickOverlayRecipes(makeThreeLocShot('reveal'), 0);
+    const fa = extra.find(t => t.type === 'flow-arrow');
+    expect(fa.flows[0].path.length).toBe(3);
+  });
+
+  it('flow-arrow label is the last location name', () => {
+    const extra = pickOverlayRecipes(makeThreeLocShot('reveal'), 0);
+    const fa = extra.find(t => t.type === 'flow-arrow');
+    expect(fa.flows[0].label).toBe('Kyiv');
   });
 });

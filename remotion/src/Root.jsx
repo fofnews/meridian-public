@@ -2,6 +2,7 @@
 import { Composition, registerRoot } from 'remotion';
 import { z } from 'zod';
 import { Broadcast, calculateMetadata } from './Broadcast.jsx';
+import { OverlayGallery, galleryDurationInFrames } from './OverlayGallery.jsx';
 
 const broadcastSchema = z.object({
   edition: z.string().nullable(),
@@ -23,6 +24,14 @@ export function RemotionRoot() {
         height={1080}
         fps={30}
         durationInFrames={1}
+      />
+      <Composition
+        id="OverlayGallery"
+        component={OverlayGallery}
+        width={1920}
+        height={1080}
+        fps={30}
+        durationInFrames={galleryDurationInFrames}
       />
       <Composition
         id="Broadcast916"

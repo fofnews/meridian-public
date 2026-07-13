@@ -189,6 +189,29 @@ describe('Treatment discriminated union', () => {
     })).toThrow();
   });
 
+  it('parses route-reveal with explicit mode:geodesic', () => {
+    const t = Treatment.parse({
+      type: 'route-reveal', tStart: 0, tEnd: 6,
+      from: { lat: 40, lng: -74 }, to: { lat: 48, lng: 2 }, mode: 'geodesic',
+    });
+    expect(t.mode).toBe('geodesic');
+  });
+
+  it('route-reveal mode defaults to geodesic when omitted', () => {
+    const t = Treatment.parse({
+      type: 'route-reveal', tStart: 0, tEnd: 6,
+      from: { lat: 40, lng: -74 }, to: { lat: 48, lng: 2 },
+    });
+    expect(t.mode).toBe('geodesic');
+  });
+
+  it('throws when route-reveal mode is invalid', () => {
+    expect(() => Treatment.parse({
+      type: 'route-reveal', tStart: 0, tEnd: 6,
+      from: { lat: 40, lng: -74 }, to: { lat: 48, lng: 2 }, mode: 'curved',
+    })).toThrow();
+  });
+
   it('parses an impact-radius treatment', () => {
     const t = Treatment.parse({ type: 'impact-radius', tStart: 0, tEnd: 5, lat: 48.86, lng: 2.35, radiusKm: 150 });
     expect(t.type).toBe('impact-radius');

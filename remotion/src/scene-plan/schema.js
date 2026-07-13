@@ -111,6 +111,7 @@ const RouteRevealTreatment = z.object({
   to:             z.object({ lat: z.number(), lng: z.number() }),
   revealDuration: z.number().positive().optional(),
   style:          z.enum(['dashed', 'solid']).optional(),
+  mode:           z.enum(['straight', 'geodesic']).default('geodesic'),
 });
 
 const ImpactRadiusTreatment = z.object({
