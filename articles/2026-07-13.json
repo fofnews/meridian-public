@@ -817,5 +817,63 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-13T08:15:01.137Z"
+  },
+  {
+    "title": "Fire near Paris forces evacuations, disrupts trains and highway",
+    "description": "A fire is raging in the historic Fontainebleau forest south of Paris, prompting evacuations and disrupting train traffic",
+    "link": "https://abcnews.com/International/wireStory/fire-fontainebleau-forest-paris-forces-evacuations-disrupts-trains-134704788",
+    "pubDate": "Mon, 13 Jul 2026 04:18:15 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-07-13T08:30:01.521Z"
+  },
+  {
+    "title": "Yellowstone’s Bison Warning for Tourists as Man Thrown in Air by Animal",
+    "description": "A video shows a tourist being tossed into the air by a charging bison at Yellowstone National Park.",
+    "link": "https://www.newsweek.com/yellowstone-bison-warning-tourists-man-thrown-air-12188020",
+    "pubDate": "Mon, 13 Jul 2026 04:20:19 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-13T08:30:01.521Z"
+  },
+  {
+    "title": "More than 2,700 deaths in UK linked to May, June heatwaves",
+    "description": "The UK has experienced two record heatwaves this year, with temperatures reaching 35.1C in May and 37.7C in June.",
+    "link": "https://www.aljazeera.com/news/2026/7/13/more-than-2700-deaths-in-uk-linked-to-may-june-heatwaves?traffic_source=rss",
+    "pubDate": "Mon, 13 Jul 2026 08:01:19 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-13T08:30:01.521Z"
+  },
+  {
+    "title": "Sam Neill, Jurassic Park star, dies at 78 - Reuters",
+    "description": "Sam Neill, Jurassic Park star, dies at 78  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcE03QUlhM0JXeU1TMXZ5S0VwaW5yYjhYbTVieFNzV3B0SFZENEVhMlJPMF9JWGhkNmE1Z3JDRW1xMFNqVV9lckwtaXVZNDJpX3k2SDlVa3h4Q1ZEUEtvd1duVmZvSHZYNXlXRWNRczBZQlItbHpReWhtZmxYajlvYzBtYTEwcmNZYUpJamlVaFQtQl9kWlE?oc=5",
+    "pubDate": "Mon, 13 Jul 2026 06:54:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-07-13T08:30:01.521Z"
+  },
+  {
+    "title": "There’s good and bad news if you want to copy JPMorgan’s new AI agent that outperforms the 60/40 portfolio",
+    "description": "JPMorgan says it’s designed an artificial-intelligent agent to evaluate markets and economic data and use it to outperform the standard 60/40 investing model, with less risk to boot.",
+    "link": "https://www.marketwatch.com/story/theres-good-and-bad-news-if-you-want-to-copy-jpmorgans-new-ai-agent-that-outperforms-the-60-40-portfolio-46920f9e?mod=mw_rss_topstories",
+    "pubDate": "Mon, 13 Jul 2026 08:17:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-07-13T08:30:01.521Z"
+  },
+  {
+    "title": "Jay-Z’s final Yankee Stadium concert marred by hours-long delays amid security breach: reports",
+    "description": "Jay-Z’s final concert as part of his three-day Yankee Stadium residency was marred by hours-long delays – after hordes of fans broke through security, forcing the Bronx venue into lockdown, reports say. Thousands of fans were seen waiting outside the home of the New York Yankees Sunday night  – as the stadium was shut for...",
+    "link": "https://pagesix.com/2026/07/13/entertainment/jay-zs-final-yankee-stadium-concert-marred-by-hours-long-delays-amid-security-breach-reports/",
+    "pubDate": "Mon, 13 Jul 2026 04:18:43 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-13T08:30:01.521Z"
   }
 ]
