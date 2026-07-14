@@ -18,6 +18,7 @@ import { buildArcsGeoJSON } from '../src/map/arcs.js';
 import { SOURCE_COORDS } from '../src/map/sources.js';
 import { SOURCE_LEANS } from '../remotion/src/source-leans.js';
 import { buildCameraPath as buildRecipeCameraPath, buildGlobeSpinPath } from './shot-recipes.js';
+import { classifyShotIntent } from './intent-classifier.js';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 
@@ -441,12 +442,15 @@ if (timingsPath) {
     const analysis = story?.analysis ?? {};
     const validLocs = (analysis.locations ?? []).filter(l => l?.lat != null && l?.lng != null);
     const isoCode = validLocs.find(l => l.iso && l.iso !== 'XX')?.iso ?? null;
+    const cameraPath = buildCameraPath(analysis.locations, hold, polygonMap);
+    const namedWps = cameraPath.filter(wp => wp.highlight?.name);
+    const si = classifyShotIntent(narration);
 
     shots.push({
       t: elapsed,
       storyIndex: storyIdx,
       isoCode,
-      cameraPath: buildCameraPath(analysis.locations, hold, polygonMap),
+      cameraPath,
       chyron: {
         label:    CHYRON_LABELS[i % CHYRON_LABELS.length].toUpperCase(),
         headline: story?.headline ?? beats[i].beat ?? '',
@@ -455,6 +459,7 @@ if (timingsPath) {
       hold,
       viz: buildStoryViz(story, isoCode),
       impact: storyImpact(story),
+      shotIntent: si ?? (namedWps.length > 0 ? 'reveal' : null),
     });
 
     elapsed += hold;
@@ -492,12 +497,15 @@ if (timingsPath) {
     const validLocs = (analysis.locations ?? []).filter(l => l?.lat != null && l?.lng != null);
     const isoCode = validLocs.find(l => l.iso && l.iso !== 'XX')?.iso ?? null;
     const actualIdx = (report.stories ?? []).indexOf(story);
+    const cameraPath = buildCameraPath(analysis.locations, hold, polygonMap);
+    const namedWps = cameraPath.filter(wp => wp.highlight?.name);
+    const si = classifyShotIntent(narration);
 
     shots.push({
       t: elapsed,
       storyIndex: actualIdx,
       isoCode,
-      cameraPath: buildCameraPath(analysis.locations, hold, polygonMap),
+      cameraPath,
       chyron: {
         label:    CHYRON_LABELS[i % CHYRON_LABELS.length].toUpperCase(),
         headline: story.headline,
@@ -506,6 +514,7 @@ if (timingsPath) {
       hold,
       viz: buildStoryViz(story, isoCode),
       impact: storyImpact(story),
+      shotIntent: si ?? (namedWps.length > 0 ? 'reveal' : null),
     });
 
     elapsed += hold;
