@@ -62,7 +62,7 @@ export function splitIntoSentences(text) {
   return result;
 }
 
-const UNIT_RE = /\b(percent|%|billion|million|thousand|trillion|dollars?|deaths?|casualties|killed|injured|wounded)\b/i;
+const UNIT_RE = /\b(percent|%|billion|million|thousand|trillion|dollars?|deaths?|dead|fatalities|casualties|killed|injured|wounded)\b/i;
 
 export function classifyShotIntent(narration) {
   const sentences = splitIntoSentences(narration);

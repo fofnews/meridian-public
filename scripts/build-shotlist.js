@@ -385,12 +385,15 @@ if (timingsPath) {
     const analysis = story.analysis ?? {};
     const validLocs = (analysis.locations ?? []).filter(l => l?.lat != null && l?.lng != null);
     const isoCode = validLocs.find(l => l.iso && l.iso !== 'XX')?.iso ?? null;
+    const cameraPath = buildCameraPath(analysis.locations, durationSecs, polygonMap);
+    const namedWps = cameraPath.filter(wp => wp.highlight?.name);
+    const si = classifyShotIntent(beat);
 
     shots.push({
       t: elapsed,
       storyIndex,
       isoCode,
-      cameraPath: buildCameraPath(analysis.locations, durationSecs, polygonMap),
+      cameraPath,
       chyron: {
         label: CHYRON_LABELS[i % CHYRON_LABELS.length].toUpperCase(),
         headline: story.headline,
@@ -399,6 +402,7 @@ if (timingsPath) {
       hold: durationSecs,
       viz: buildStoryViz(story, isoCode),
       impact: storyImpact(story),
+      shotIntent: si ?? (namedWps.length > 0 ? 'reveal' : null),
     });
 
     elapsed += durationSecs;
