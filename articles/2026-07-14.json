@@ -32,5 +32,47 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-14T04:15:01.242Z"
+  },
+  {
+    "title": "GOP Senator Shares Details of Lindsey Graham's Final Moments",
+    "description": "Tommy Tuberville shared details about Lindsey Graham's final moments before his death on Saturday at the age of 71.",
+    "link": "https://www.newsweek.com/gop-senator-shares-details-of-lindsey-grahams-final-moments-12192264",
+    "pubDate": "Tue, 14 Jul 2026 00:24:04 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-14T04:30:03.100Z"
+  },
+  {
+    "title": "Mexico’s Sheinbaum announces criminal charges request in US over ICE deaths",
+    "description": "Mexico to formally ask prosecutors to file cases in US courts over its citizens' deaths in immigration operations.",
+    "link": "https://www.aljazeera.com/news/2026/7/14/mexicos-sheinbaum-announces-criminal-charges-request-in-us-over-ice-deaths?traffic_source=rss",
+    "pubDate": "Tue, 14 Jul 2026 04:15:28 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-14T04:30:03.100Z"
+  },
+  {
+    "title": "Houthis: Saudi airport targeted in retaliation for strikes on Sanaa airport",
+    "description": "Yemen's Houthis say they struck Saudi Arabia's Abha airport in retaliation for a strike on Sanaa’s international airport",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/aje-onl-nf_houthis-target-saudi-for-strikes-on-sanaa-130726?traffic_source=rss",
+    "pubDate": "Tue, 14 Jul 2026 04:10:13 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-07-14T04:30:03.100Z"
+  },
+  {
+    "title": "Brazil court bars Bolsonaro’s son from visiting ex-president for 90 days",
+    "description": "Top court bars former President Jair Bolsonaro's son from visiting his father under house arrest over social media post.",
+    "link": "https://www.aljazeera.com/news/2026/7/14/brazil-court-bars-bolsonaros-son-from-visiting-ex-president-for-90-days?traffic_source=rss",
+    "pubDate": "Tue, 14 Jul 2026 04:09:33 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-14T04:30:03.100Z"
   }
 ]
