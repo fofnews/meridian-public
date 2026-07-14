@@ -92,7 +92,7 @@ export function pickOverlayRecipes(shot, tStart) {
   const shotDuration = shot.hold ?? 5;
   const tEnd         = tStart + shotDuration;
   const narration    = shot.narration ?? '';
-  const intent       = shot.dominantIntent ?? null;
+  const intent       = shot.shotIntent ?? shot.dominantIntent ?? null;
   const impact       = shot.impact ?? 0;
 
   // Count unique geo-locations in this shot (deduplicate by rounded lng/lat).

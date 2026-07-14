@@ -310,6 +310,23 @@ describe('pickOverlayRecipes — intent-driven rules', () => {
     expect(bloom).toBeDefined();
     expect(bloom.tEnd).toBeLessThanOrEqual(7); // capped at tStart+2 = 5+2 = 7
   });
+
+  it('shotIntent takes precedence over dominantIntent', () => {
+    // shotIntent=stakes, dominantIntent=reveal → should emit ripple-expand (stakes), not context-strip (reveal)
+    const shot = makeShot('reveal', '');
+    shot.shotIntent = 'stakes';
+    const extra = pickOverlayRecipes(shot, 0);
+    expect(extra.find(t => t.type === 'ripple-expand')).toBeDefined();
+    expect(extra.find(t => t.type === 'context-strip')).toBeUndefined();
+  });
+
+  it('falls back to dominantIntent when shotIntent is absent', () => {
+    // no shotIntent, dominantIntent=reveal → context-strip fires
+    const shot = makeShot('reveal', '');
+    // shot has no shotIntent property
+    const extra = pickOverlayRecipes(shot, 0);
+    expect(extra.find(t => t.type === 'context-strip')).toBeDefined();
+  });
 });
 
 describe('pickOverlayRecipes — multi-location rules', () => {
