@@ -9459,7 +9459,7 @@
     "pubDate": "Tue, 14 Jul 2026 14:58:07 -0400",
     "source": "CBS News",
     "categories": [],
-    "collectedAt": "2026-07-14T19:00:01.811Z"
+    "collectedAt": "2026-07-14T19:00:04.227Z"
   },
   {
     "title": "Darline Graham, Lindsey Graham's sister, sworn in as senator",
@@ -9468,7 +9468,7 @@
     "pubDate": "Tue, 14 Jul 2026 14:48:45 -0400",
     "source": "CBS News",
     "categories": [],
-    "collectedAt": "2026-07-14T19:00:01.811Z"
+    "collectedAt": "2026-07-14T19:00:04.227Z"
   },
   {
     "title": "Trump Flip-Flops on Strait of Hormuz, Creating New Risks for Global Economy",
@@ -9494,7 +9494,7 @@
       "trump, donald j",
       "araghchi, abbas"
     ],
-    "collectedAt": "2026-07-14T19:00:01.811Z"
+    "collectedAt": "2026-07-14T19:00:04.227Z"
   },
   {
     "title": "Iran’s Former Leader Denies Times Report",
@@ -9513,7 +9513,7 @@
       "iran",
       "israel"
     ],
-    "collectedAt": "2026-07-14T19:00:01.811Z"
+    "collectedAt": "2026-07-14T19:00:04.227Z"
   },
   {
     "title": "Aurélien Tchouaméni se refiere a Lamine Yamal como uno de los mejores del mundo",
@@ -9522,7 +9522,7 @@
     "pubDate": "Tue, 14 Jul 2026 18:32:53 GMT",
     "source": "NBC News",
     "categories": [],
-    "collectedAt": "2026-07-14T19:00:01.811Z"
+    "collectedAt": "2026-07-14T19:00:04.227Z"
   },
   {
     "title": "¿Qué pasará cuando Messi se retire? AFA cuenta sus planes para el futuro sin su 10",
@@ -9531,7 +9531,18 @@
     "pubDate": "Tue, 14 Jul 2026 18:22:58 GMT",
     "source": "NBC News",
     "categories": [],
-    "collectedAt": "2026-07-14T19:00:01.811Z"
+    "collectedAt": "2026-07-14T19:00:04.227Z"
+  },
+  {
+    "title": "The drama spoiling a city’s World Cup moment",
+    "description": "Even as it hosts a World Cup semifinal, the city of Dallas is fighting over the future of its sports franchises' homes.",
+    "link": "https://www.politico.com/live-updates/2026/07/14/world-cup-2026/dallas-world-cup-stadiums-00997105",
+    "pubDate": "Tue, 14 Jul 2026 13:50:22 EST",
+    "source": "Politico",
+    "categories": [
+      "politics, world cup, dallas, texas"
+    ],
+    "collectedAt": "2026-07-14T19:00:04.227Z"
   },
   {
     "title": "Supreme Court justices tell Congress their safety is at risk and more must be spent on security - AP News",
@@ -9540,7 +9551,7 @@
     "pubDate": "Tue, 14 Jul 2026 17:27:00 GMT",
     "source": "AP News",
     "categories": [],
-    "collectedAt": "2026-07-14T19:00:01.811Z"
+    "collectedAt": "2026-07-14T19:00:04.227Z"
   },
   {
     "title": "‘OC’ actor Ben McKenzie urges Senate to vote down crypto bill",
@@ -9560,7 +9571,7 @@
       "senate democrats",
       "the clarity act"
     ],
-    "collectedAt": "2026-07-14T19:00:01.811Z"
+    "collectedAt": "2026-07-14T19:00:04.227Z"
   },
   {
     "title": "Senate Democrats demand Pentagon release findings on Iran school strike investigation",
@@ -9572,7 +9583,7 @@
       "defense",
       "senate"
     ],
-    "collectedAt": "2026-07-14T19:00:01.811Z"
+    "collectedAt": "2026-07-14T19:00:04.227Z"
   },
   {
     "title": "Why cyclosporiasis cases are likely way underreported",
@@ -9584,7 +9595,7 @@
       "healthcare",
       "nexstar media wire news"
     ],
-    "collectedAt": "2026-07-14T19:00:01.811Z"
+    "collectedAt": "2026-07-14T19:00:04.227Z"
   },
   {
     "title": "House GOP breaks weeks-long standoff between Republican leaders and hardliners",
@@ -9596,18 +9607,7 @@
       "house",
       "news"
     ],
-    "collectedAt": "2026-07-14T19:00:01.811Z"
-  },
-  {
-    "title": "The drama spoiling a city’s World Cup moment",
-    "description": "Even as it hosts a World Cup semifinal, the city of Dallas is fighting over the future of its sports franchises' homes.",
-    "link": "https://www.politico.com/live-updates/2026/07/14/world-cup-2026/dallas-world-cup-stadiums-00997105",
-    "pubDate": "Tue, 14 Jul 2026 13:50:22 EST",
-    "source": "Politico",
-    "categories": [
-      "politics, world cup, dallas, texas"
-    ],
-    "collectedAt": "2026-07-14T19:00:01.811Z"
+    "collectedAt": "2026-07-14T19:00:04.227Z"
   },
   {
     "title": "DOJ charges 3 Russians in alleged $63M cybercrime scheme targeting Americans",
@@ -9627,7 +9627,7 @@
       "fox-news/politics",
       "article"
     ],
-    "collectedAt": "2026-07-14T19:00:01.811Z"
+    "collectedAt": "2026-07-14T19:00:04.227Z"
   },
   {
     "title": "'Miracle on the Hudson' hero Captain 'Sully' Sullenberger reveals Alzheimer's diagnosis",
@@ -9649,7 +9649,7 @@
       "fox-news/health",
       "article"
     ],
-    "collectedAt": "2026-07-14T19:00:01.811Z"
+    "collectedAt": "2026-07-14T19:00:04.227Z"
   },
   {
     "title": "MS NOW's Nicolle Wallace reveals she stopped airing Trump pressers in first term, lamenting they 'hurt' her",
@@ -9668,7 +9668,7 @@
       "fox-news/media",
       "article"
     ],
-    "collectedAt": "2026-07-14T19:00:01.811Z"
+    "collectedAt": "2026-07-14T19:00:04.227Z"
   },
   {
     "title": "Search underway for Australian woman who vanished after sending message about going for a hike near Las Vegas",
@@ -9688,7 +9688,7 @@
       "fox-news/us",
       "article"
     ],
-    "collectedAt": "2026-07-14T19:00:01.811Z"
+    "collectedAt": "2026-07-14T19:00:04.227Z"
   },
   {
     "title": "Johnson scores win as conservative rebels end House floor blockade over voter ID bill",
@@ -9708,7 +9708,7 @@
       "fox-news/politics",
       "article"
     ],
-    "collectedAt": "2026-07-14T19:00:01.811Z"
+    "collectedAt": "2026-07-14T19:00:04.227Z"
   },
   {
     "title": "Med school deans come up empty in tense hearing when asked point blank if men can have babies: 'Ridiculous'",
@@ -9730,7 +9730,7 @@
       "fox-news/politics",
       "article"
     ],
-    "collectedAt": "2026-07-14T19:00:01.811Z"
+    "collectedAt": "2026-07-14T19:00:04.227Z"
   },
   {
     "title": "Cardinals star Jordan Walker earned more money from Home Run Derby win than 2026 salary",
@@ -9748,7 +9748,7 @@
       "fox-news/sports",
       "article"
     ],
-    "collectedAt": "2026-07-14T19:00:01.811Z"
+    "collectedAt": "2026-07-14T19:00:04.227Z"
   },
   {
     "title": "Kylian Mbappe’s girlfriend torn between Spain-France World Cup semifinal",
@@ -9757,7 +9757,7 @@
     "pubDate": "Tue, 14 Jul 2026 14:56:47 -0400",
     "source": "New York Post",
     "categories": [],
-    "collectedAt": "2026-07-14T19:00:01.811Z"
+    "collectedAt": "2026-07-14T19:00:04.227Z"
   },
   {
     "title": "Canadian wildfire smoke to spread thick haze in US again — creating extremely poor air quality",
@@ -9766,7 +9766,7 @@
     "pubDate": "Tue, 14 Jul 2026 14:50:59 -0400",
     "source": "New York Post",
     "categories": [],
-    "collectedAt": "2026-07-14T19:00:01.811Z"
+    "collectedAt": "2026-07-14T19:00:04.227Z"
   },
   {
     "title": "Bikini-clad Aryna Sabalenka, fiancé brush off shock Wimbledon upset with Greece getaway",
@@ -9775,7 +9775,7 @@
     "pubDate": "Tue, 14 Jul 2026 14:48:45 -0400",
     "source": "New York Post",
     "categories": [],
-    "collectedAt": "2026-07-14T19:00:01.811Z"
+    "collectedAt": "2026-07-14T19:00:04.227Z"
   },
   {
     "title": "Map reveals where renters can score up to 77% savings over homeowners in string of US locations",
@@ -9784,7 +9784,7 @@
     "pubDate": "Tue, 14 Jul 2026 14:47:56 -0400",
     "source": "New York Post",
     "categories": [],
-    "collectedAt": "2026-07-14T19:00:01.811Z"
+    "collectedAt": "2026-07-14T19:00:04.227Z"
   },
   {
     "title": "Mike Johnson breaks through GOP blockade to reopen House floor",
@@ -9800,6 +9800,6 @@
       "republicans",
       "washington d.c."
     ],
-    "collectedAt": "2026-07-14T19:00:01.811Z"
+    "collectedAt": "2026-07-14T19:00:04.227Z"
   }
 ]
