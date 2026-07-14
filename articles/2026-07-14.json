@@ -2738,5 +2738,131 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-14T12:00:01.146Z"
+  },
+  {
+    "title": "1000 evacuated from fire near Paris; Spanish authorities identify fire victims",
+    "description": "Hundreds of firefighters are battling two blazes in the Fontainebleau forest south of Paris",
+    "link": "https://abcnews.com/International/wireStory/1000-evacuated-fontainebleau-fire-paris-spanish-authorities-identify-134739773",
+    "pubDate": "Tue, 14 Jul 2026 07:54:30 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-07-14T12:15:01.249Z"
+  },
+  {
+    "title": "US Escalates Attacks on Iran; Trump to Restart Naval Blockade",
+    "description": "The United States and Iran traded strikes for the third straight night, putting the fragile peace deal in jeopardy. It comes as President Donald Trump is ordering the U.S. military to take control of the Strait of Hormuz and threatening a larger fee for ships that want safe passage. NBC’s Keir Simmons reports for TODAY from Qatar.",
+    "link": "https://www.today.com/video/us-escalates-attacks-on-iran-trump-to-restart-naval-blockade-266634309728",
+    "pubDate": "Tue, 14 Jul 2026 11:16:25 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-07-14T12:15:01.249Z"
+  },
+  {
+    "title": "Lindsey Graham's Sister to Serve the Rest of His Senate Term",
+    "description": "New details are emerging about the final moments of the late Sen. Lindsey Graham and what may have been his final phone call. It comes as his sister, Darline Graham Nordone, prepares to take the oath of office to serve the rest of her brother’s term, which ends in January. NBC’s Ryan Nobles reports for TODAY.",
+    "link": "https://www.today.com/video/new-details-emerge-about-lindsey-graham-s-final-moments-266634309734",
+    "pubDate": "Tue, 14 Jul 2026 11:18:37 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-07-14T12:15:01.249Z"
+  },
+  {
+    "title": "Officials Investigate Fatal ICE Shooting in Maine as Fallout Grows",
+    "description": "There is a growing demand for answers after a fatal ICE-involved shooting in Maine. According to an ICE spokesperson, the shooting happened when agents tried to conduct a traffic stop and, they say, the vehicle tried to get away. That’s when ICE says an agent opened fire “fearing for public safety.” The incident, which was partly captured on video, is the second fatal shooting involving ICE agents in the past week. NBC’s Erin McLaughlin reports for TODAY. Warning: Some of the video may b",
+    "link": "https://www.today.com/video/officials-investigate-fatal-ice-shooting-in-maine-as-fallout-grows-266634821667",
+    "pubDate": "Tue, 14 Jul 2026 11:27:17 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-07-14T12:15:01.249Z"
+  },
+  {
+    "title": "Scientists Expected One Thing From Alzheimer’s Protein—They Found Another",
+    "description": "It turns out that tau is not just Alzheimer's foe, as new study finds it also builds lasting memories.",
+    "link": "https://www.newsweek.com/scientists-expected-one-thing-from-alzheimers-proteinthey-found-another-12189950",
+    "pubDate": "Tue, 14 Jul 2026 08:05:10 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-14T12:15:01.249Z"
+  },
+  {
+    "title": "Democrats Must Reject Extremism on the Left as Firm as the Right | Opinion",
+    "description": "Democrats have spent years condemning Republicans; we must now hold ourselves to our own standard.",
+    "link": "https://www.newsweek.com/democrats-must-reject-extremism-on-the-left-as-firm-as-the-right-opinion-12182742",
+    "pubDate": "Tue, 14 Jul 2026 08:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-14T12:15:01.249Z"
+  },
+  {
+    "title": "Map Shows Where Tropical Storms To Ramp Up In Days",
+    "description": "Tropical activity is set to ramp up in the eastern Pacific, while forecasters monitor possible Gulf Coast development.",
+    "link": "https://www.newsweek.com/map-shows-where-tropical-storms-to-ramp-up-in-days-12192755",
+    "pubDate": "Tue, 14 Jul 2026 07:58:42 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-14T12:15:01.249Z"
+  },
+  {
+    "title": "US, Iran trade strikes after Trump blockade threat",
+    "description": "The U.S. and Iranian militaries exchanged fire early Tuesday following fresh threats from President Trump to take over the Strait of Hormuz. The president said Monday that the U.S military would reimpose its naval blockade in the channel and begin charging a 20 percent toll on vessels transiting the strait “immediately.” This critical trading passage,…",
+    "link": "https://thehill.com/policy/defense/5967055-trump-us-iran-trade-strikes-naval-blockade-threat/",
+    "pubDate": "Tue, 14 Jul 2026 11:44:37 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "defense",
+      "international",
+      "news",
+      "policy",
+      "defense department",
+      "naval blockade",
+      "oil prices",
+      "strait of hormuz",
+      "tehran",
+      "trump administration",
+      "u.s.-iran war"
+    ],
+    "collectedAt": "2026-07-14T12:15:01.249Z"
+  },
+  {
+    "title": "AI vs. robo advisers: How they stack up against each other —and human financial advisers",
+    "description": "Robo advisers are getting smarter as AI capabilities increase — but how much control are investors willing to hand over?",
+    "link": "https://www.marketwatch.com/story/ai-vs-robo-advisers-how-they-stack-up-against-each-other-and-human-financial-advisers-3132bb3d?mod=mw_rss_topstories",
+    "pubDate": "Tue, 14 Jul 2026 12:00:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-07-14T12:15:01.249Z"
+  },
+  {
+    "title": "Confidence in higher education slips after brief recovery, Gallup poll finds",
+    "description": "A new Gallup poll shows just 38% of Americans have confidence in higher education, with campus bias, college costs, and workforce readiness cited.",
+    "link": "https://www.foxnews.com/media/confidence-higher-education-slips-brief-recovery-gallup-poll-finds",
+    "pubDate": "Tue, 14 Jul 2026 08:00:30 -0400",
+    "source": "Fox News",
+    "categories": [
+      "b5a9a7cb-1dac-520c-b330-7fd86bef4145",
+      "fnc",
+      "fox news",
+      "fox-news/media",
+      "fox-news/culture-trends",
+      "fox-news/us/education",
+      "fox-news/us/education/college",
+      "fox-news/us",
+      "fox-news/person/donald-trump",
+      "fox-news/media",
+      "article"
+    ],
+    "collectedAt": "2026-07-14T12:15:01.249Z"
+  },
+  {
+    "title": "Best Harlan Coben Shows To Watch on Netflix: ‘I Will Find You,’ ‘Run Away,’ and More",
+    "description": "The prolific author currently has 13 series on the streaming service.",
+    "link": "https://decider.com/2026/07/14/best-harlan-coben-shows-to-watch-on-netflix-i-will-find-you-run-away/",
+    "pubDate": "Tue, 14 Jul 2026 08:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-14T12:15:01.249Z"
   }
 ]
