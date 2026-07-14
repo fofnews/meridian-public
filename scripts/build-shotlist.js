@@ -517,7 +517,7 @@ if (shots.length === 0) {
   process.exit(1);
 }
 
-// Mark the first shot of story 0 for the spotlight-mask cinematic gate.
+// Mark the first story shot (broadcast order) for the spotlight-mask cinematic gate.
 const firstStoryShot = shots.find(s => s.storyIndex != null);
 if (firstStoryShot) firstStoryShot.isEstablish = true;
 
