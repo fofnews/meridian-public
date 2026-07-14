@@ -344,7 +344,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-13",
+      "lastSeen": "2026-07-14",
       "active": true,
       "entries": [
         {
@@ -576,6 +576,11 @@
           "date": "2026-07-13",
           "edition": "evening",
           "update": "Western leaders reached an agreement to form an anti-ballistic missile coalition with Ukraine, according to Reuters. President Zelensky stated that outgoing Prime Minister Svyrydenko was offered a new role focused on relations with a key international partner as part of the government reshuffle."
+        },
+        {
+          "date": "2026-07-14",
+          "edition": "evening",
+          "update": "Nine European countries and Ukraine launched a coalition to build a shared ballistic missile defence shield for Europe. European defence groups also unveiled a separate plan to develop a homegrown missile shield interceptor, marking a step toward European strategic autonomy in air defence. France showcased 500 pro-Ukraine troops during its Bastille Day parade."
         }
       ],
       "parentId": null
@@ -714,7 +719,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-13",
+      "lastSeen": "2026-07-14",
       "active": true,
       "entries": [
         {
@@ -906,6 +911,11 @@
           "date": "2026-07-13",
           "edition": "evening",
           "update": "The UK government designated Iran's Islamic Revolutionary Guard Corps (IRGC) as a terrorist organisation on Monday, July 13, 2026, invoking new national security powers targeting state proxies. Justice Secretary Shabana Mahmood announced the proscription, linking the IRGC to death threats, intimidation, arson, and vandalism attacks on Jewish sites in Britain."
+        },
+        {
+          "date": "2026-07-14",
+          "edition": "evening",
+          "update": "An Israeli strike on a police post in northern Gaza killed seven people, including a senior Hamas-run police force officer. The Israeli Knesset passed a bill temporarily banning the arrest of ultra-orthodox Jews who refuse mandatory military service, providing legal protection to tens of thousands of conscription objectors despite IDF objections. Israel launched a new settlement expansion plan in occupied territory. Israel also conducted a full-scale terror attack drill near the Gaza border simulating an October 7-style infiltration to train civilian civil defense squads."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -914,7 +924,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-07-13",
+      "lastSeen": "2026-07-14",
       "active": true,
       "entries": [
         {
@@ -1011,6 +1021,11 @@
           "date": "2026-07-13",
           "edition": "morning",
           "update": "Israel conducted a secret, yearslong operation to cultivate former Iranian President Mahmoud Ahmadinejad as an intelligence asset, culminating in a failed attempt to bring him to an Israeli safe house in the early days of the war, according to the NY Times."
+        },
+        {
+          "date": "2026-07-14",
+          "edition": "evening",
+          "update": "Former Iranian leader Mahmoud Ahmadinejad publicly denied the New York Times report claiming Israel had planned to reinstall him as Iran's leader following the war."
         }
       ],
       "parentId": null
@@ -1019,7 +1034,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-13",
+      "lastSeen": "2026-07-14",
       "active": true,
       "entries": [
         {
@@ -1286,6 +1301,11 @@
           "date": "2026-07-13",
           "edition": "morning",
           "update": "The Israeli military released video footage showing large explosions in villages across southern Lebanon and separately claimed to have uncovered hidden tunnels beneath Lebanon's historic Beaufort Castle. Israeli strikes also hit multiple locations across Gaza, resulting in casualties. Entire towns in southern Lebanon have been hollowed out, with some residents refusing to leave despite the threat of prolonged Israeli occupation and fears of permanent displacement."
+        },
+        {
+          "date": "2026-07-14",
+          "edition": "evening",
+          "update": "Lebanon and Israel held talks in Rome focused on implementing a framework deal, with Beirut seeking progress toward securing an Israeli withdrawal from southern Lebanon."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1841,6 +1861,11 @@
           "date": "2026-07-14",
           "edition": "morning",
           "update": "The U.S. military carried out a third consecutive night of strikes against Iran on Monday at 4:45 p.m. EDT, with Iranian media reporting explosions in Kish, Qeshm, and Bandar Abbas. President Trump reinstated a naval blockade on Iranian ports, announced a 20% charge on commercial ships transiting the Strait of Hormuz, and threatened to strike Pickaxe Mountain, a nuclear facility in Iran. Trump also declared the preliminary memorandum of understanding with Iran void and sent a formal notice to Congress that the conflict has resumed. Iran claimed it struck a U.S. air base in Jordan, while the UAE condemned Iran's attack on tankers in the region. According to ABC News, Trump's blockade reinstatement and shipping levy eliminated the last remaining concession to Iran in the preliminary peace deal. A Reuters/Ipsos poll found Americans expect a prolonged conflict as ceasefire efforts falter, and CBS News analyst Aaron MacLean noted the campaign has already extended beyond the weeks Trump initially projected."
+        },
+        {
+          "date": "2026-07-14",
+          "edition": "evening",
+          "update": "Senate Democrats blocked the National Defense Authorization Act on Tuesday in opposition to the Iran war, with the Senate voting 50–46 to prevent the bill from advancing to debate — a significant break from the NDAA's traditionally strong bipartisan support. President Trump formally notified Congress in a letter that military action against Iran restarted last week, marking the official end of the ceasefire. The U.S. military released video of its first-ever combat use of sea drones, which targeted an Iranian submarine and ship maintenance facility. The U.S. military's death toll in the conflict rose to 14 following the death of Navy pilot Cmdr. Gabriel Edwards, lost over the Arabian Sea."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2992,6 +3017,11 @@
           "date": "2026-07-14",
           "edition": "morning",
           "update": "Iran launched cruise missiles at two UAE tankers — the Mombasa and Al Bahiyah — in the Strait of Hormuz, killing one crew member, with the UAE Ministry of Defence confirming the attack. President Trump announced a 20% toll on all cargo transiting the Strait of Hormuz, a proposal the NY Times notes contradicts his administration's own position that such fees violate international law, while the New York Post reported the scheme could generate nearly $200 billion annually. Trump also demanded that wealthy Gulf oil-producing nations reimburse the U.S. for protecting ships in the strait. Oil prices surged to a one-month high, with Brent crude rising above $85 per barrel and WTI and Brent recording their largest two-day percentage gain in four months; Asian markets turned volatile in response to the proposed levy. A government report revealed the U.S. Strategic Petroleum Reserve is at precariously low stockpile levels and has suffered major equipment failures, leaks, and spills, raising energy security concerns."
+        },
+        {
+          "date": "2026-07-14",
+          "edition": "evening",
+          "update": "Trump dropped his previously announced 20% fee on cargo transiting the Strait of Hormuz, reversing course during a White House meeting with Iraq's prime minister. In place of the toll, Trump agreed to waive fees on Gulf shipping in exchange for commitments of large-scale investment in the United States by regional nations. The U.S. separately announced plans to reinstate a naval blockade on Iranian-controlled shipping. The U.S. and Iran exchanged strikes for a third consecutive night, with the U.S. deploying an explosive sea drone in combat for the first time to strike an Iranian port facility. Iranian hardline lawmakers tabled a bill to formalize Iran's control over the Strait of Hormuz, while India summoned Iran's deputy ambassador following the killing of an Indian crew member in the waterway. Al Jazeera warned that potential Houthi efforts to block the Bab al-Mandeb strait amid escalating Yemen fighting could trigger a significant new global energy supply shock."
         }
       ]
     },
@@ -3070,7 +3100,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-07-13",
+      "lastSeen": "2026-07-14",
       "active": true,
       "entries": [
         {
@@ -3157,6 +3187,11 @@
           "date": "2026-07-13",
           "edition": "evening",
           "update": "Dozens of workers at an Ebola treatment center in northeast Congo went on strike over unpaid salaries and bonuses, according to ABC News. A second U.S. citizen diagnosed with Ebola, identified as a humanitarian worker, was transferred to Frankfurt University Hospital in Germany for treatment, according to the WHO."
+        },
+        {
+          "date": "2026-07-14",
+          "edition": "evening",
+          "update": "The World Health Organization warned that the Ebola outbreak in the Democratic Republic of Congo may be twice the size of the official case count due to underreporting, while doctors at the outbreak's epicenter threatened to go on strike."
         }
       ]
     },
@@ -3251,5 +3286,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-14T11:06:28.524Z"
+  "updatedAt": "2026-07-14T21:11:11.510Z"
 }
