@@ -74,5 +74,59 @@
       "news"
     ],
     "collectedAt": "2026-07-14T04:30:03.100Z"
+  },
+  {
+    "title": "ICE Agent Kills Person in Vehicle in Biddeford, Maine, State Officials Say",
+    "description": "The fatal shooting in Biddeford, Maine, was the second in a week involving an Immigration and Customs Enforcement agent firing into a vehicle.",
+    "link": "https://www.nytimes.com/2026/07/13/us/biddeford-maine-ice-shooting.html",
+    "pubDate": "Tue, 14 Jul 2026 04:32:14 +0000",
+    "source": "NY Times",
+    "categories": [
+      "maine",
+      "immigration and customs enforcement (us)",
+      "police brutality, misconduct and shootings",
+      "biddeford (me)"
+    ],
+    "collectedAt": "2026-07-14T04:45:03.812Z"
+  },
+  {
+    "title": "‘Lettuce or Salad Greens’ Identified as Potential Source of Cyclospora Outbreak",
+    "description": "Michigan health officials announced the preliminary findings, but they cautioned that other foods could not be ruled out. The illness has sickened thousands across the United States.",
+    "link": "https://www.nytimes.com/2026/07/13/well/eat/michigan-cyclospora-outbreak-lettuce-salad-greens.html",
+    "pubDate": "Tue, 14 Jul 2026 04:30:59 +0000",
+    "source": "NY Times",
+    "categories": [
+      "food contamination and poisoning",
+      "lettuce",
+      "disease rates"
+    ],
+    "collectedAt": "2026-07-14T04:45:03.812Z"
+  },
+  {
+    "title": "Yankees drafting Andy Pettitte’s son, Luke, far from nepotism: ‘Ability we saw’",
+    "description": "In the case of the Yankees’ eighth-round pick Luke Pettitte, Damon Oppenheimer promised it had nothing to do with his dad.",
+    "link": "https://nypost.com/2026/07/14/sports/yankees-drafting-andy-pettittes-son-luke-far-from-nepotism/",
+    "pubDate": "Tue, 14 Jul 2026 00:44:23 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-14T04:45:03.812Z"
+  },
+  {
+    "title": "CJ McCullum reveal prescient chat with OG Anunoby as Knicks were finishing off Hawks",
+    "description": "CJ McCollum \"wasn't surprised\" by the Knicks' first championship in 53 years.",
+    "link": "https://nypost.com/2026/07/14/sports/cj-mccullum-reveals-prescient-chat-with-knicks-og-anunoby/",
+    "pubDate": "Tue, 14 Jul 2026 00:39:17 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-14T04:45:03.812Z"
+  },
+  {
+    "title": "Deputy US Marshal gunned down while serving arrest warrant in Louisiana",
+    "description": "The deadly shooting unfolded while federal and local authorities served an arrest on a wanted fugitive in Alexandria on Monday afternoon.",
+    "link": "https://nypost.com/2026/07/14/us-news/deputy-us-marshal-fatally-shot-while-serving-arrest-warrant-in-louisiana/",
+    "pubDate": "Tue, 14 Jul 2026 00:37:56 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-14T04:45:03.812Z"
   }
 ]
