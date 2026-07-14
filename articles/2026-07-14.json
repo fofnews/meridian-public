@@ -439,5 +439,43 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-14T06:45:01.397Z"
+  },
+  {
+    "title": "Death toll from a Bangkok music bar fire rises to 30, dozens remain in hospital",
+    "description": "More than 70 people were injured, with 24 of them still in critical condition, according to a statement by the Bangkok Metropolitan Administration.",
+    "link": "https://www.npr.org/2026/07/14/g-s1-133425/death-toll-bangkok-fire",
+    "pubDate": "Tue, 14 Jul 2026 02:43:57 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-07-14T07:00:01.457Z"
+  },
+  {
+    "title": "Man fatally shot by ICE in Maine was not intended target of warrant, lawmakers say",
+    "description": "Maine Sen. Angus King said he told Homeland Security Secretary Markwayne Mullin that he wanted a transparent investigation into the shooting in Biddeford.",
+    "link": "https://www.cbsnews.com/news/maine-shooting-ice-biddeford/",
+    "pubDate": "Tue, 14 Jul 2026 02:53:00 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-07-14T07:00:01.457Z"
+  },
+  {
+    "title": "Deputy US Marshal Shot and Killed Serving Arrest Warrant in Louisiana",
+    "description": "A suspect is in custody after the Deputy U.S. Marshal was fatally shot serving an arrest warrant in Alexandria",
+    "link": "https://www.newsweek.com/deputy-us-marshal-shot-and-killed-serving-arrest-warrant-in-louisiana-12192326",
+    "pubDate": "Tue, 14 Jul 2026 02:44:39 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-14T07:00:01.457Z"
+  },
+  {
+    "title": "With US-Iran trust broken again, can Pakistan bring them back to talks?",
+    "description": "Islamabad is still urging dialogue, but analysts say it has few tools to halt the latest round of US-Iran escalation.",
+    "link": "https://www.aljazeera.com/news/2026/7/14/with-us-iran-trust-broken-again-can-pakistan-bring-them-back-to-talks?traffic_source=rss",
+    "pubDate": "Tue, 14 Jul 2026 06:41:51 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-14T07:00:01.457Z"
   }
 ]
