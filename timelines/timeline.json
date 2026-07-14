@@ -1294,7 +1294,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-13",
+      "lastSeen": "2026-07-14",
       "active": true,
       "entries": [
         {
@@ -1836,6 +1836,11 @@
           "date": "2026-07-13",
           "edition": "evening",
           "update": "President Trump declared on Monday that the U.S. will become 'the Guardian Angel of the Strait of Hormuz' and announced a 20% charge on all cargo transiting the waterway, along with a reinstated naval blockade on Iran. Both sides have claimed control of the strait following a weekend of intensified exchanges, with Iran declaring the strait closed while Trump contradicted that claim on NBC's Meet the Press. Ship traffic through the Strait of Hormuz fell to a five-week low of just six vessels on Sunday, per trade intelligence firm Kpler, as Iran announced missile and drone strikes on U.S. military sites following a fourth consecutive night of U.S. strikes. Sen. Adam Schiff announced plans for a war powers resolution to force a congressional vote on ending the conflict, China called for the strait to be reopened given its reliance on the route for approximately 40% of its oil imports, and Wall Street futures declined amid the escalating hostilities. CENTCOM denied Iranian claims that three U.S. service members were killed in strikes in Kuwait, labeling the allegation propaganda. Iranian hard-liners have called for revenge against Trump and Netanyahu following the reported killing of Iran's supreme leader."
+        },
+        {
+          "date": "2026-07-14",
+          "edition": "morning",
+          "update": "Iran struck two UAE tankers — the Mombasa and Al Bahiyah — in the Strait of Hormuz with cruise missiles, setting both vessels ablaze and killing one crew member; the UAE Ministry of Defence confirmed the strikes. The U.S. launched a third consecutive night of strikes against Iran on Monday at 4:45 p.m. EDT, with CENTCOM confirming the operation, while Iran claimed it struck a U.S. air base in Jordan in attacks that lasted approximately five hours. Trump declared the previously negotiated memorandum of understanding with Iran void, formally ending the agreement, and notified Congress that military hostilities had resumed, fulfilling a legal requirement. Trump also threatened strikes on Pickaxe Mountain, a heavily fortified underground Iranian nuclear facility. A Reuters/Ipsos poll found Americans expect a prolonged war, and CBS News analyst Aaron MacLean noted the campaign has already exceeded Trump's original projected timeline."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2600,7 +2605,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-13",
+      "lastSeen": "2026-07-14",
       "active": true,
       "entries": [
         {
@@ -2915,8 +2920,8 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-05-28",
-      "active": false,
+      "lastSeen": "2026-07-14",
+      "active": true,
       "entries": [
         {
           "date": "2026-05-15",
@@ -2982,6 +2987,11 @@
           "date": "2026-05-28",
           "edition": "evening",
           "update": "The U.S. Treasury Department sanctioned Iran's Persian Gulf Strait Authority (PGSA), a newly formed Iranian government agency, describing it as an IRGC attempt to control and monetize passage through the Strait of Hormuz."
+        },
+        {
+          "date": "2026-07-14",
+          "edition": "morning",
+          "update": "Iran struck two UAE tankers in the Strait of Hormuz with cruise missiles, setting them ablaze and killing one crew member, as oil prices climbed to a one-month high and Brent crude rose above $85 per barrel for the first time in a month. Trump reimposed a naval blockade on Iranian ports and announced a 20% toll on all cargo transiting the strait — a fee his own administration had previously characterized as a violation of international law — a move that eliminated the last remaining concession to Iran in the preliminary peace deal and collapsed the ceasefire. The proposed toll, which the New York Post estimated could generate nearly $200 billion annually, stirred concern among shippers and caused Asian markets to turn choppy. Trump also stated that wealthy Gulf nations should reimburse the U.S. for protecting ships through the strait, while former Defense Secretary Mark Esper publicly endorsed the blockade reinstatement. A government report cited by the Wall Street Journal revealed U.S. Strategic Petroleum Reserve stockpiles are at precariously low levels due to major equipment failures, leaks, and spills."
         }
       ]
     },
@@ -3241,5 +3251,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-13T21:08:25.140Z"
+  "updatedAt": "2026-07-14T11:06:15.202Z"
 }
