@@ -383,5 +383,43 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-14T06:15:02.825Z"
+  },
+  {
+    "title": "Death toll from a Bangkok music bar fire rises to 30, dozens remain in hospital",
+    "description": "Officials say the death toll from a huge fire in a Bangkok music bar has increased to 30",
+    "link": "https://abcnews.com/International/wireStory/death-toll-bangkok-music-bar-fire-rises-30-134735599",
+    "pubDate": "Tue, 14 Jul 2026 01:35:36 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-07-14T06:30:01.468Z"
+  },
+  {
+    "title": "Who could replace Lindsey Graham in the Senate after his sudden death?",
+    "description": "South Carolina Sen. Lindsey Graham's sudden death late Saturday has set off a scramble for who will succeed him in the Senate.",
+    "link": "https://www.cbsnews.com/news/lindsey-graham-replacement/",
+    "pubDate": "Tue, 14 Jul 2026 02:26:51 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-07-14T06:30:01.468Z"
+  },
+  {
+    "title": "NCAA’s updated eligibility rules face class action lawsuit from 11 college athletes",
+    "description": "The NCAA is up against a federal class action lawsuit over its new eligibility rules, once again forcing college sports’ governing body to duke it out.",
+    "link": "https://nypost.com/2026/07/14/sports/ncaas-updated-eligibility-rules-face-class-action-lawsuit/",
+    "pubDate": "Tue, 14 Jul 2026 02:20:43 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-14T06:30:01.468Z"
+  },
+  {
+    "title": "Lamine Yamal’s fingerprints are everywhere during World Cup run as Spain’s 19-year-old phenom",
+    "description": "Lamine Yamal spent his speaking to hundreds of reporters from all over the world less than 24 hours before the biggest game of his life.",
+    "link": "https://nypost.com/2026/07/14/sports/lamine-yamals-fingerprints-are-everywhere-during-spains-world-cup-run/",
+    "pubDate": "Tue, 14 Jul 2026 02:17:25 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-14T06:30:01.468Z"
   }
 ]
