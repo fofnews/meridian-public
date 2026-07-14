@@ -62,6 +62,36 @@ export function splitIntoSentences(text) {
   return result;
 }
 
+const UNIT_RE = /\b(percent|%|billion|million|thousand|trillion|dollars?|deaths?|casualties|killed|injured|wounded)\b/i;
+
+export function classifyShotIntent(narration) {
+  const sentences = splitIntoSentences(narration);
+  const counts = { data: 0, stakes: 0, contrast: 0 };
+
+  for (const s of sentences) {
+    const raw = classifyIntent({ sentenceContainingAnchor: s, isFirstOccurrenceInShot: false });
+    if (raw === 'data') {
+      // Only count as data if the sentence also contains a unit word.
+      // Prevents standalone written numbers (ages, years) from triggering
+      // data intent — e.g. "at the age of seventy-one" or "in nineteen eighty".
+      if (UNIT_RE.test(s)) counts.data++;
+    } else if (raw === 'stakes' || raw === 'contrast') {
+      counts[raw]++;
+    }
+  }
+
+  // Most frequent by count; tiebreak order: data > stakes > contrast.
+  let best = null;
+  let bestCount = 0;
+  for (const intent of ['data', 'stakes', 'contrast']) {
+    if (counts[intent] > bestCount) {
+      best = intent;
+      bestCount = counts[intent];
+    }
+  }
+  return best; // null = no signal detected; caller decides the fallback
+}
+
 export function classifyIntent({ _anchor, sentenceContainingAnchor, _previousSentence, isFirstOccurrenceInShot }) {
   const sentence = sentenceContainingAnchor ?? '';
 
