@@ -590,7 +590,7 @@
         {
           "date": "2026-07-15",
           "edition": "evening",
-          "update": "Ukrainian drones struck 20 vessels in the Sea of Azov as part of Kyiv's expanded naval campaign against Russian shipping. Ukraine's farmers' union reported that the country's Black Sea ports have lost a third of their grain export capacity. Russia declared that any foreign troops deployed to Ukraine following a peace deal would be considered legitimate military targets. EU envoys failed to reach agreement on a 21st package of sanctions against Russia."
+          "update": "Ukrainian drones struck 20 vessels in the Sea of Azov as part of a new naval campaign targeting Russian shipping. Ukraine's farmers' union reported that the country's Black Sea ports have lost a third of their grain export capacity. Russia declared that any foreign troops deployed to Ukraine following a peace deal would be considered legitimate military targets. EU envoys failed to reach agreement on a 21st package of sanctions against Russia."
         }
       ],
       "parentId": null
@@ -1320,7 +1320,7 @@
         {
           "date": "2026-07-15",
           "edition": "evening",
-          "update": "Lebanon and Israel concluded US-brokered talks in Rome on the establishment of designated 'pilot zones' as part of Israel's withdrawal process in southern Lebanon, with specific details about the locations and terms of the zones still under discussion."
+          "update": "Israel and Lebanon concluded U.S.-brokered talks in Rome on the establishment of designated 'pilot zones' as part of Israel's withdrawal process from southern Lebanon, though details on the zones' locations, scope, and outcomes were not immediately disclosed."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1890,7 +1890,7 @@
         {
           "date": "2026-07-15",
           "edition": "evening",
-          "update": "The U.S. military launched two separate waves of daytime strikes on Wednesday targeting Iran's coastal defense systems, missile and drone sites, cruise missile storage and launch facilities on Greater Tunb Island, and a marine control tower. President Trump threatened to strike Iran's bridges and power plants the following week unless Iran returns to nuclear talks, while separately stating he does not currently want to negotiate with Iran, calling the regime 'evil.' Iran threatened to block additional trade routes in response, and analysts began assessing the feasibility of a U.S. operation to seize Iran's southern islands. Trump pressed defense industry executives to increase weapons production amid reports that U.S. munitions stockpiles have been significantly drawn down since the war began in February, and a Pentagon watchdog revealed a $469 million Army-funded artillery shell plant in Texas has produced no metal projectile parts despite being built two years ago. House Republicans unveiled a $90–95 billion reconciliation bill targeting military funding related to the Iran conflict, a new Economist/YouGov poll placed Trump's approval rating at 37%, and the Wall Street Journal reported that Strait of Hormuz tensions are threatening to push U.S. gasoline prices back toward $4 per gallon."
+          "update": "The U.S. military conducted two waves of daytime strikes on Wednesday targeting Iran's coastal defense systems, including a marine control tower and cruise missile storage and launch sites on Greater Tunb Island in the Strait of Hormuz. President Trump threatened to strike Iranian bridges and power plants the following week unless Iran returns to nuclear talks, while Iran threatened to block additional trade routes in response to the ongoing campaign. Trump stated in a Fox News interview that he does not want to negotiate with Iran 'right now,' calling the Iranian regime 'evil' and blaming the newest Iranian delegation for blocking a deal. Analysts began assessing the possibility of a U.S. military operation to seize Iran's southern islands, and questions arose about U.S. munitions stockpiles after a significant number of weapons were expended since the conflict began in February. Trump met with defense industry executives to pressure them to increase weapons production, and House Republicans released a budget plan seeking approximately $90–95 billion in new funding, including for Iran war spending. A new Economist/YouGov poll showed Trump's approval rating at 37%, and the Wall Street Journal warned that Strait of Hormuz tensions risk reversing recent declines in gasoline prices."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2355,7 +2355,7 @@
         {
           "date": "2026-07-15",
           "edition": "evening",
-          "update": "Cuba suffered its third island-wide blackout in just over a week, as the country's energy crisis continues amid U.S. warnings of tariffs on nations supplying fuel to Havana."
+          "update": "Cuba suffered its third island-wide blackout in just over a week amid ongoing energy struggles, following U.S. warnings of tariffs on countries supplying fuel to Havana."
         }
       ],
       "parentId": null
@@ -3062,6 +3062,11 @@
           "date": "2026-07-15",
           "edition": "morning",
           "update": "Iran threatened to block all oil export routes in the region in response to the U.S. reimposition of a naval blockade on Iranian ports in the Strait of Hormuz, intensifying the standoff between the two countries."
+        },
+        {
+          "date": "2026-07-15",
+          "edition": "evening",
+          "update": "President Trump suggested that pipelines in Texas and Alaska could serve as alternatives to the Strait of Hormuz, stating the strait is 'open if people want to go through it' despite Iranian officials continuing to impede maritime shipping through the waterway."
         }
       ]
     },
@@ -3331,5 +3336,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-15T21:13:15.939Z"
+  "updatedAt": "2026-07-15T21:13:17.793Z"
 }
