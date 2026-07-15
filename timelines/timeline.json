@@ -344,7 +344,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-14",
+      "lastSeen": "2026-07-15",
       "active": true,
       "entries": [
         {
@@ -581,6 +581,11 @@
           "date": "2026-07-14",
           "edition": "evening",
           "update": "Nine European countries and Ukraine launched a coalition to develop Europe's own ballistic missile defence shield, according to Al Jazeera. France displayed 500 pro-Ukraine troops during its Bastille Day celebrations."
+        },
+        {
+          "date": "2026-07-15",
+          "edition": "morning",
+          "update": "Ukraine has expanded its campaign to isolate Crimea by targeting Russian ships via sea routes, following earlier strikes on roads and railways, with the aim of disrupting fuel supplies and increasing pressure on Russia, according to the NY Times."
         }
       ],
       "parentId": null
@@ -719,7 +724,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-14",
+      "lastSeen": "2026-07-15",
       "active": true,
       "entries": [
         {
@@ -916,6 +921,11 @@
           "date": "2026-07-14",
           "edition": "evening",
           "update": "An Israeli airstrike on a police post in northern Gaza killed seven people, including a senior Hamas-run police force officer. The Israeli Knesset passed a bill temporarily banning the arrest of ultra-orthodox Jews who refuse mandatory military service, shielding tens of thousands of conscription objectors despite IDF objections. Israel also announced a new plan to expand illegal settlements, according to Al Jazeera."
+        },
+        {
+          "date": "2026-07-15",
+          "edition": "morning",
+          "update": "Iran launched a barrage of missiles and drones targeting a U.S. naval support base in Bahrain's capital, Manama, prompting air raid sirens across the country, according to Iranian state media. Israeli forces continued military operations in Gaza near hospitals and in the occupied West Bank through outposts, demolitions, and army-backed settler raids. Israeli officials have privately expressed a preference for a full-blown U.S.-Iran war over a diplomatic agreement deemed insufficient to curb Iranian threats to Israel, according to the NY Times."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1314,7 +1324,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-14",
+      "lastSeen": "2026-07-15",
       "active": true,
       "entries": [
         {
@@ -1866,6 +1876,11 @@
           "date": "2026-07-14",
           "edition": "evening",
           "update": "The U.S. military deployed explosive-laden sea drones in combat for the first time, releasing video of strikes on an Iranian submarine and ship maintenance facility at an Iranian port. The U.S. military's death toll in the conflict rose to 14 after the Pentagon confirmed the death of Navy Cmdr. Gabriel Edwards, lost in a crash over the Arabian Sea. President Trump formally notified Congress in a letter that military action against Iran restarted last week, marking the end of the ceasefire."
+        },
+        {
+          "date": "2026-07-15",
+          "edition": "morning",
+          "update": "The U.S. carried out a fourth consecutive night of airstrikes against Iran, targeting the regime's capacity to attack oil and cargo ships, with CENTCOM announcing an additional round of strikes on dozens of military targets near the Strait of Hormuz and Iran's coastal region at 10 p.m. EDT, following resumption of a naval blockade involving over 20 warships at 4 p.m. EDT. President Trump reversed his earlier 20% Strait of Hormuz transit fee proposal and abandoned his 'Guardian Angel' framing, replacing it with a strategy of expanded investment deals with Gulf nations. Trump warned in a Fox News interview that strikes would gradually expand across Iranian infrastructure, naming bridges, power plants, and civilian targets, and threatened to bomb civilian infrastructure if no deal is reached within a week. Trump is also working to strengthen ties with Iraqi and Gulf state leaders to weaken Iran's regional influence following the collapse of the U.S.-Iran MOU, while Democrats stalled a defense bill over Iran-related provisions and oil prices rose as hostilities expanded to energy targets."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2630,7 +2645,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-14",
+      "lastSeen": "2026-07-15",
       "active": true,
       "entries": [
         {
@@ -2945,7 +2960,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-07-14",
+      "lastSeen": "2026-07-15",
       "active": true,
       "entries": [
         {
@@ -3022,6 +3037,11 @@
           "date": "2026-07-14",
           "edition": "evening",
           "update": "Trump abandoned the proposed 20% Strait of Hormuz transit fee approximately 24 hours after announcing it on Tuesday, stating during a White House meeting with Iraq's prime minister that it would be replaced by investment deals with Gulf nations. The U.S. separately announced plans to reinstate a naval blockade over Iranian-controlled shipping in the strait. Iranian hardline lawmakers introduced a bill to formalize Iran's control over the Strait of Hormuz, aimed at undermining ongoing negotiations. Tensions in Yemen escalated following an Israeli strike on Sanaa Airport after an Iranian plane was diverted, prompting Houthi threats of retaliation and raising concerns that Houthi forces could attempt to block the Bab al-Mandeb strait. Iran also shifted focus to the Red Sea gateway as a new pressure point, according to Reuters. WTI crude rose to approximately $80 per barrel on Tuesday, its highest level in about a month."
+        },
+        {
+          "date": "2026-07-15",
+          "edition": "morning",
+          "update": "The US reimposed its naval blockade on Iran following Tehran's attacks on ships in the Strait of Hormuz. Iran responded by threatening to block all oil exporting routes in the region, intensifying the standoff. A Washington Examiner report noted that Iran's earlier March blockade inflicted economic damage on the U.S. and Israel despite significant Iranian military losses, though analysts assess the strategy has limited long-term viability."
         }
       ]
     },
@@ -3100,7 +3120,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-07-14",
+      "lastSeen": "2026-07-15",
       "active": true,
       "entries": [
         {
@@ -3192,6 +3212,11 @@
           "date": "2026-07-14",
           "edition": "evening",
           "update": "The World Health Organization warned that the Ebola outbreak in the Democratic Republic of Congo may be twice the size of the official case count, citing underreporting."
+        },
+        {
+          "date": "2026-07-15",
+          "edition": "morning",
+          "update": "Confirmed Ebola cases in the Democratic Republic of Congo have surpassed 2,000, reaching 2,011 with 754 deaths, making it the fastest-growing Ebola outbreak on record. The WHO reported that 80% of new cases are emerging from unknown transmission chains, indicating the outbreak is spreading faster than health officials can track."
         }
       ]
     },
@@ -3286,5 +3311,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-14T21:12:01.237Z"
+  "updatedAt": "2026-07-15T11:07:38.759Z"
 }
