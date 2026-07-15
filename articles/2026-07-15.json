@@ -1149,5 +1149,72 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-15T09:30:01.938Z"
+  },
+  {
+    "title": "Harley-Davidson, the Motorcycle That Defined America, Fights for Survival",
+    "description": "Harley-Davidson’s buyers are aging and its sales are falling. Can the motorcycle company survive its next generation of riders?",
+    "link": "https://www.newsweek.com/harley-davidson-motorcycle-defined-america-fights-for-survival-12195652",
+    "pubDate": "Wed, 15 Jul 2026 05:30:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-15T09:45:01.879Z"
+  },
+  {
+    "title": "Why the huge premium on SK Hynix’s U.S. listing may prove short-lived.",
+    "description": "If the Korean depository allows conversion, then the ADR premium on SK Hynix may contract.",
+    "link": "https://www.marketwatch.com/story/why-the-huge-premium-on-sk-hynixs-u-s-listing-may-prove-short-lived-582045f2?mod=mw_rss_topstories",
+    "pubDate": "Wed, 15 Jul 2026 09:36:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-07-15T09:45:01.879Z"
+  },
+  {
+    "title": "Docs expose horrific strangling, kidnapping charges against anti-ICE lawyer championed by Dems",
+    "description": "Hugo Balderas-Ibarra, the immigration lawyer accusing ICE of racial profiling in the Houston shooting, faces felony assault and kidnapping charges.",
+    "link": "https://www.foxnews.com/politics/docs-expose-horrific-strangling-kidnapping-charges-anti-ice-lawyer-championed-dems",
+    "pubDate": "Wed, 15 Jul 2026 05:30:40 -0400",
+    "source": "Fox News",
+    "categories": [
+      "ee01be71-458e-5304-bae1-7639f17eac5f",
+      "fnc",
+      "fox news",
+      "fox-news/us/immigration/illegal-immigrants",
+      "fox-news/us/democratic-party",
+      "fox-news/topic/woke",
+      "fox-news/us/us-regions/southwest/texas",
+      "fox-news/us/immigration",
+      "fox-news/us/immigration/enforcement",
+      "fox-news/politics/executive/homeland-security",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-07-15T09:45:01.879Z"
+  },
+  {
+    "title": "Learning another language may keep your brain younger, study suggests",
+    "description": "Months of language study improve attention, working memory and executive function in older adults, experts say.",
+    "link": "https://nypost.com/2026/07/15/health/learning-another-language-may-keep-your-brain-younger-study-suggests/",
+    "pubDate": "Wed, 15 Jul 2026 05:43:17 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-15T09:45:01.879Z"
+  },
+  {
+    "title": "Disabled NYC residents claim Upper West Side bike lane plan will make them ‘virtual shut-ins,’ lawsuit says",
+    "description": "The complaint, filed Friday in Manhattan federal court, names seven plaintiffs -- including a blind woman -- who live on the popular main thoroughfare and use wheelchairs, scooters, canes and walkers to get around.",
+    "link": "https://nypost.com/2026/07/15/us-news/disabled-residents-sue-nyc-to-stop-upper-west-side-bike-lane-plan/",
+    "pubDate": "Wed, 15 Jul 2026 05:30:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-15T09:45:01.879Z"
+  },
+  {
+    "title": "Thune predicts Todd Blanche and Jay Clayton are ‘in pretty good shape’ ahead of fiery confirmation hearings",
+    "description": "Blanche was at the center of a GOP revolt last month over the since-scrapped DOJ $1.776 billion weaponization fund.",
+    "link": "https://nypost.com/2026/07/15/us-news/thune-predicts-todd-blanche-and-jay-clayton-are-in-pretty-good-shape-ahead-of-fiery-confirmation-hearings/",
+    "pubDate": "Wed, 15 Jul 2026 05:30:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-15T09:45:01.879Z"
   }
 ]
