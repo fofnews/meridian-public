@@ -586,6 +586,11 @@
           "date": "2026-07-15",
           "edition": "morning",
           "update": "Ukraine has shifted its military campaign to target Russian ships in order to disrupt sea routes to Crimea, following earlier strikes on roads and railways, with the effort aimed at cutting off fuel supplies to Russian forces and increasing pressure on Moscow to end the war."
+        },
+        {
+          "date": "2026-07-15",
+          "edition": "evening",
+          "update": "Ukrainian drones struck 20 vessels in the Sea of Azov as part of Kyiv's expanded naval campaign against Russian shipping. Ukraine's farmers' union reported that the country's Black Sea ports have lost a third of their grain export capacity. Russia declared that any foreign troops deployed to Ukraine following a peace deal would be considered legitimate military targets. EU envoys failed to reach agreement on a 21st package of sanctions against Russia."
         }
       ],
       "parentId": null
@@ -1039,7 +1044,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-14",
+      "lastSeen": "2026-07-15",
       "active": true,
       "entries": [
         {
@@ -1311,6 +1316,11 @@
           "date": "2026-07-14",
           "edition": "evening",
           "update": "Lebanon and Israel held talks in Rome to discuss implementing a framework deal, with Beirut seeking progress on securing an Israeli withdrawal from southern Lebanon."
+        },
+        {
+          "date": "2026-07-15",
+          "edition": "evening",
+          "update": "Lebanon and Israel concluded US-brokered talks in Rome on the establishment of designated 'pilot zones' as part of Israel's withdrawal process in southern Lebanon, with specific details about the locations and terms of the zones still under discussion."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1876,6 +1886,11 @@
           "date": "2026-07-15",
           "edition": "morning",
           "update": "Iran launched a barrage of missiles and drones targeting a U.S. naval support base in Bahrain's capital Manama, with air raid sirens sounding across the country. The U.S. conducted a fifth round of strikes on 'dozens' of military targets near the Strait of Hormuz and Iran's coastal region, with CENTCOM announcing completion of the operation at 10 p.m. EDT following reinstatement of a naval blockade involving over 20 warships. President Trump stated strikes would continue 'until I say enough,' identifying bridges and power plants as potential future targets, and warned in a Fox News interview that strikes would gradually expand across Iran's infrastructure. Trump reversed his announced 20% Strait of Hormuz transit fee within 24 hours of the policy's announcement. The NY Times reported Trump is struggling to develop a strategy to extract concessions from Iran as the ceasefire collapses, while Israeli officials view a return to full-blown war as preferable to a diplomatic agreement deemed inadequate for Israel's security. Senate Democrats stalled the annual defense authorization bill over Iran-related provisions, and oil prices rose as hostilities expanded to energy targets."
+        },
+        {
+          "date": "2026-07-15",
+          "edition": "evening",
+          "update": "The U.S. military launched two separate waves of daytime strikes on Wednesday targeting Iran's coastal defense systems, missile and drone sites, cruise missile storage and launch facilities on Greater Tunb Island, and a marine control tower. President Trump threatened to strike Iran's bridges and power plants the following week unless Iran returns to nuclear talks, while separately stating he does not currently want to negotiate with Iran, calling the regime 'evil.' Iran threatened to block additional trade routes in response, and analysts began assessing the feasibility of a U.S. operation to seize Iran's southern islands. Trump pressed defense industry executives to increase weapons production amid reports that U.S. munitions stockpiles have been significantly drawn down since the war began in February, and a Pentagon watchdog revealed a $469 million Army-funded artillery shell plant in Texas has produced no metal projectile parts despite being built two years ago. House Republicans unveiled a $90–95 billion reconciliation bill targeting military funding related to the Iran conflict, a new Economist/YouGov poll placed Trump's approval rating at 37%, and the Wall Street Journal reported that Strait of Hormuz tensions are threatening to push U.S. gasoline prices back toward $4 per gallon."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2164,8 +2179,8 @@
       "id": "cuba-energy-crisis",
       "title": "Cuba Energy Crisis",
       "firstSeen": "2026-03-16",
-      "lastSeen": "2026-05-28",
-      "active": false,
+      "lastSeen": "2026-07-15",
+      "active": true,
       "entries": [
         {
           "date": "2026-03-16",
@@ -2336,6 +2351,11 @@
           "date": "2026-05-28",
           "edition": "evening",
           "update": "A Russian tanker that appeared to be heading to Cuba with fuel supplies changed course, denying the island a critical energy shipment as it continues to face a U.S. oil blockade, according to the NY Times."
+        },
+        {
+          "date": "2026-07-15",
+          "edition": "evening",
+          "update": "Cuba suffered its third island-wide blackout in just over a week, as the country's energy crisis continues amid U.S. warnings of tariffs on nations supplying fuel to Havana."
         }
       ],
       "parentId": null
@@ -3311,5 +3331,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-15T11:07:47.290Z"
+  "updatedAt": "2026-07-15T21:13:15.939Z"
 }
