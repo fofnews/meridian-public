@@ -37,5 +37,52 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-15T04:15:01.707Z"
+  },
+  {
+    "title": "1 dead, 3 missing after boat sinks near Alcatraz Island in San Francisco Bay",
+    "description": "One person is dead and three others are missing after a boat with more than a dozen passengers sank in San Francisco Bay, according to local authorities.",
+    "link": "https://abcnews.com/US/1-missing-17-rescued-after-boat-sinks-alcatraz/story?id=134768432",
+    "pubDate": "Wed, 15 Jul 2026 00:22:55 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-07-15T04:30:01.602Z"
+  },
+  {
+    "title": "Flights grounded at D.C.-area airport due to security concerns for Iraqi leader",
+    "description": "The Iraqi leader was in Washington to meet with President Trump.",
+    "link": "https://www.cbsnews.com/news/washington-dca-flight-delays-iraq-pm-trump-security/",
+    "pubDate": "Wed, 15 Jul 2026 00:23:07 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-07-15T04:30:01.602Z"
+  },
+  {
+    "title": "Every ICE arrest team will now have an agent with a body camera, DHS says",
+    "description": "Every ICE arrest team will have at least one law enforcement officer equipped with a body-worn camera going forward, DHS said Tuesday, after two fatal shootings by agents who didn't have cameras.",
+    "link": "https://www.cbsnews.com/news/ice-arrest-team-body-camera-dhs-says/",
+    "pubDate": "Wed, 15 Jul 2026 00:13:36 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-07-15T04:30:01.602Z"
+  },
+  {
+    "title": "Marine Corps Rebukes Florida Candidate Who Said Trump 'Must Be Killed'",
+    "description": "The incident comes amid continued concerns over increasingly heated political rhetoric in the United States.",
+    "link": "https://www.newsweek.com/marine-corps-rebukes-florida-candidate-who-said-trump-must-be-killed-12196842",
+    "pubDate": "Wed, 15 Jul 2026 00:18:30 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-15T04:30:01.602Z"
+  },
+  {
+    "title": "SoCal poker pro hogtied and robbed of winnings as he speaks out about inside job",
+    "description": "A Southern California poker pro's hot streak ended in a nightmare when masked robbers allegedly ambushed him inside his Las Vegas Airbnb and stole his entire bankroll.",
+    "link": "https://nypost.com/2026/07/15/us-news/socal-poker-pro-allegedly-hogtied-and-robbed-in-las-vegas/",
+    "pubDate": "Wed, 15 Jul 2026 00:23:27 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-15T04:30:01.602Z"
   }
 ]
