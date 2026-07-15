@@ -84,5 +84,33 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-15T04:30:01.602Z"
+  },
+  {
+    "title": "Oil prices rise as hostilities worsen in the Middle East - Reuters",
+    "description": "Oil prices rise as hostilities worsen in the Middle East  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUFh4aWhsMnJmRnlKQkFsZXUxTWd4cjVvU0pKZG1TemNJTzZHWF9qZUFMZkFCR1Vic05WN2dqVk03RU1JWkxfOG1nQ3lzT3hmeVF6SDZkcVpiZFpTNGtBaUZyRUFxNmg0b0ZqMFJXSlRobGFqRmZwSE1ycy1TaEF2UTdQZU1WbGctVkNtTm8xaUdyMkpvZGlvMm4wOTBRVXZjVWhtYURYSHU5alBWREx6ZGF0YkYyalFkb0ZBLUd0LTVGdXdWZGc?oc=5",
+    "pubDate": "Wed, 15 Jul 2026 04:16:15 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-07-15T04:45:01.317Z"
+  },
+  {
+    "title": "American League stars outshine National League in 96th MLB All-Star game",
+    "description": "The American League shut out the National League 4-0 at Citizens Bank Park as 10 AL relievers combined to limit the NL to just three singles.",
+    "link": "https://www.foxnews.com/sports/american-league-stars-outshine-national-league-96th-mlb-all-star-game",
+    "pubDate": "Wed, 15 Jul 2026 00:25:03 -0400",
+    "source": "Fox News",
+    "categories": [
+      "ce8f56ec-ea2e-5f9c-bee0-946111fe8d7d",
+      "fnc",
+      "fox news",
+      "fox-news/sports/mlb",
+      "fox-news/sports/mlb/philadelphia-phillies",
+      "fox-news/topic/trending-news",
+      "fox-news/sports",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-07-15T04:45:01.317Z"
   }
 ]
