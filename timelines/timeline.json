@@ -4,8 +4,8 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-05-25",
-      "active": false,
+      "lastSeen": "2026-07-16",
+      "active": true,
       "entries": [
         {
           "date": "2026-02-26",
@@ -231,6 +231,11 @@
           "date": "2026-05-25",
           "edition": "evening",
           "update": "Rep. Thomas Massie, despite losing his primary race after being targeted by President Trump, promised to expose additional names from the Epstein files before his term ends in approximately seven months."
+        },
+        {
+          "date": "2026-07-16",
+          "edition": "morning",
+          "update": "Vice President JD Vance admitted on The Joe Rogan Experience that the Trump administration 'absolutely screwed up the comms of the Epstein files,' placing blame on former Attorney General Pam Bondi. Acting Attorney General Todd Blanche acknowledged during his Senate confirmation hearing that 'mistakes' were made in the redaction of the Epstein files. Former Obama White House counsel Kathryn Ruemmler was questioned by the House Oversight Committee in a bipartisan hearing over emails revealing a longstanding friendly relationship with Epstein. The U.S. Justice Department refused New Mexico's request for Epstein-related files that the state says are critical to its ongoing criminal investigation into alleged abuse at the Zorro Ranch property."
         }
       ],
       "parentId": null
@@ -344,7 +349,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-15",
+      "lastSeen": "2026-07-16",
       "active": true,
       "entries": [
         {
@@ -591,6 +596,11 @@
           "date": "2026-07-15",
           "edition": "evening",
           "update": "Ukrainian drones struck 20 vessels in the Sea of Azov as part of a new naval campaign targeting Russian shipping. Ukraine's farmers' union reported that the country's Black Sea ports have lost a third of their grain export capacity. Russia declared that any foreign troops deployed to Ukraine following a peace deal would be considered legitimate military targets. EU envoys failed to reach agreement on a 21st package of sanctions against Russia."
+        },
+        {
+          "date": "2026-07-16",
+          "edition": "morning",
+          "update": "Mykhailo Fedorov, associated with Ukraine's drone warfare program, departed from the Ministry of Defense, triggering mass protests across Ukrainian cities. Russian missiles struck Kyiv, with Mayor Vitali Klitschko reporting fires across the capital following the signing of an EU-Ukraine drone deal. Ukraine launched at least 200 drones toward Moscow overnight into Thursday, according to Moscow Mayor Sergey Sobyanin, marking a large-scale attack on the Russian capital. UK Prime Minister Keir Starmer travelled to Kyiv and pledged the UK's 'cast-iron' support for Ukraine in a meeting with President Zelensky."
         }
       ],
       "parentId": null
@@ -1329,7 +1339,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-15",
+      "lastSeen": "2026-07-16",
       "active": true,
       "entries": [
         {
@@ -1891,6 +1901,11 @@
           "date": "2026-07-15",
           "edition": "evening",
           "update": "The U.S. military conducted two waves of daytime strikes on Wednesday targeting Iran's coastal defense systems, including a marine control tower and cruise missile storage and launch sites on Greater Tunb Island in the Strait of Hormuz. President Trump threatened to strike Iranian bridges and power plants the following week unless Iran returns to nuclear talks, while Iran threatened to block additional trade routes in response to the ongoing campaign. Trump stated in a Fox News interview that he does not want to negotiate with Iran 'right now,' calling the Iranian regime 'evil' and blaming the newest Iranian delegation for blocking a deal. Analysts began assessing the possibility of a U.S. military operation to seize Iran's southern islands, and questions arose about U.S. munitions stockpiles after a significant number of weapons were expended since the conflict began in February. Trump met with defense industry executives to pressure them to increase weapons production, and House Republicans released a budget plan seeking approximately $90–95 billion in new funding, including for Iran war spending. A new Economist/YouGov poll showed Trump's approval rating at 37%, and the Wall Street Journal warned that Strait of Hormuz tensions risk reversing recent declines in gasoline prices."
+        },
+        {
+          "date": "2026-07-16",
+          "edition": "morning",
+          "update": "The U.S. launched a new wave of strikes Wednesday night, with explosions reported in Bandar Abbas, Chabahar, and Ahvaz; Iran declared any peace deal voided and stated it is fighting an 'existential war.' U.S. strikes expanded into northern Iran, and the U.S. separately disabled an Iranian oil tanker attempting to run the blockade. An Iranian doctor reported that a U.S. strike damaged a children's cancer hospital, as Iranians inspected damage across the country's south and west. President Trump warned Iran it 'better behave' while stating he has not yet decided whether to 'finish off' Iran, and threatened to begin targeting civilian infrastructure. Oil prices rose for a fourth consecutive day on fears of wider regional conflict, U.S. diesel prices reached $5 a gallon — up 33% since the start of the conflict — and lawmakers introduced a proposal for a windfall profits tax on oil companies."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2660,7 +2675,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-15",
+      "lastSeen": "2026-07-16",
       "active": true,
       "entries": [
         {
@@ -2700,8 +2715,8 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-05-27",
-      "active": false,
+      "lastSeen": "2026-07-16",
+      "active": true,
       "entries": [
         {
           "date": "2026-04-24",
@@ -2762,6 +2777,11 @@
           "date": "2026-05-27",
           "edition": "evening",
           "update": "Trump publicly declared Iran is 'negotiating on fumes,' stated the U.S. is not satisfied with Iran's current offers, and warned Iran cannot out-wait him. Trump also announced there will be no sanctions relief for Iran in any uranium deal. Iran is separately demanding the unfreezing of billions of dollars in Iranian funds as a precondition for substantive nuclear negotiations, according to the NY Times, marking a key financial sticking point. An unofficial draft deal has emerged that would reopen Strait of Hormuz shipping to pre-war levels within one month, with Iranian state TV confirming a draft agreement would end the naval blockade; however, Newsweek reported Iran continues to effectively control the strait, raising questions about whether any deal meets stated U.S. war aims. University of Chicago professor Robert Pape described the Strait of Hormuz and Iran's nuclear capabilities as 'zero-sum' issues blocking progress, while Vice President Vance stated he is 'extremely hopeful' Tehran will disavow nuclear weapons."
+        },
+        {
+          "date": "2026-07-16",
+          "edition": "morning",
+          "update": "Iran released Dena Karari, a dual Iranian-American citizen whose passport had been seized in December 2024 and who faced espionage charges in Iran. President Trump announced the release Wednesday evening, describing it as a 'gesture of goodwill' from Tehran."
         }
       ]
     },
@@ -2980,7 +3000,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-07-15",
+      "lastSeen": "2026-07-16",
       "active": true,
       "entries": [
         {
@@ -3067,6 +3087,11 @@
           "date": "2026-07-15",
           "edition": "evening",
           "update": "President Trump suggested that pipelines in Texas and Alaska could serve as alternatives to the Strait of Hormuz, stating the strait is 'open if people want to go through it' despite Iranian officials continuing to impede maritime shipping through the waterway."
+        },
+        {
+          "date": "2026-07-16",
+          "edition": "morning",
+          "update": "The U.S. military disabled the M/T Belma, a Curacao-flagged oil tanker, in the Arabian Sea after it attempted to sail to an Iranian port, marking the first vessel crippled since President Trump reimposed the naval blockade."
         }
       ]
     },
@@ -3336,5 +3361,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-15T21:13:17.793Z"
+  "updatedAt": "2026-07-16T11:07:03.773Z"
 }
