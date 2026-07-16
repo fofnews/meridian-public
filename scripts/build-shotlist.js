@@ -388,7 +388,7 @@ if (timingsPath) {
   }
 
   for (let i = 0; i < timings.length; i++) {
-    const { storyIndex, beat, durationSecs } = timings[i];
+    const { storyIndex, beat, narration: timingNarration, durationSecs } = timings[i];
     if (elapsed + durationSecs > maxDuration) break;
 
     const story = (report.stories ?? [])[storyIndex];
@@ -403,8 +403,11 @@ if (timingsPath) {
     const cameraPath = buildCameraPath(analysis.locations, durationSecs, polygonMap);
     const namedWps = cameraPath.filter(wp => wp.highlight?.name);
 
+    // Narration priority: timings.json field → broadcast file → 48-char beat title
     const bcIdx = bcIndices.indexOf(storyIndex);
-    const resolvedNarration = (bcIdx >= 0 && bcBeats[bcIdx]?.narration) ? bcBeats[bcIdx].narration : beat;
+    const resolvedNarration = timingNarration
+      || (bcIdx >= 0 && bcBeats[bcIdx]?.narration)
+      || beat;
     const si = classifyShotIntent(resolvedNarration);
 
     shots.push({
