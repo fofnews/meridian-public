@@ -46,10 +46,11 @@ const args = Object.fromEntries(
     .map(a => { const [k, ...rest] = a.slice(2).split('='); return [k, rest.join('=') || 'true']; })
 );
 
-const edition       = args['edition'];
-const dryRun        = args['dry-run']       === 'true';
-const noAnchored    = args['no-anchored']   === 'true';
-const debugAnchors  = args['debug-anchors'] === 'true';
+const edition        = args['edition'];
+const dryRun         = args['dry-run']        === 'true';
+const prebuiltAudio  = args['prebuilt-audio'] === 'true'; // skip TTS; use WAVs pre-populated by produce-clip
+const noAnchored     = args['no-anchored']    === 'true';
+const debugAnchors   = args['debug-anchors']  === 'true';
 
 // ANCHOR_OPTS: start with defaults and apply CLI overrides.
 const ANCHOR_OPTS = { ...ANCHOR_DEFAULTS };
@@ -187,6 +188,13 @@ for (let i = 0; i < shotlist.shots.length; i++) {
 
   const narration = (shot.narration ?? '').trim();
   const label     = `Shot ${i} (t=${shot.t}s, hold=${shot.hold}s)`;
+
+  if (prebuiltAudio && existsSync(wavPath)) {
+    // Pipeline pre-generated audio is already in place — skip TTS.
+    console.log(`${label}: using prebuilt audio`);
+    if (!existsSync(tsPath)) writeFileSync(tsPath, JSON.stringify({ source: null }));
+    continue;
+  }
 
   if (!narration || dryRun) {
     // Empty narration or dry-run → silent gap of the shot's hold duration.

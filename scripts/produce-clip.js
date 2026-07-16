@@ -23,7 +23,7 @@
 //   ELEVENLABS_API_KEY
 //   OPENAI_API_KEY
 
-import { existsSync, mkdirSync, mkdtempSync } from 'fs';
+import { existsSync, mkdirSync, mkdtempSync, readFileSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { createRequire } from 'module';
@@ -59,6 +59,7 @@ const platformList        = platforms.split(',').map(s => s.trim());
 const hasTiktok           = platformList.includes('tiktok');
 const nonTiktokPlatforms  = platformList.filter(p => p !== 'tiktok');
 const bed          = args['bed']          ?? null;
+const audio        = args['audio']        ?? null;  // pipeline pre-generated narration audio
 const timings      = args['timings']      ?? null;
 const noAnchored   = args['no-anchored']   ?? null;
 const debugAnchors = args['debug-anchors'] ?? null;
@@ -132,13 +133,46 @@ if (!existsSync(shotlistPath)) {
   process.exit(1);
 }
 
+// ── Pre-stage 2: populate per-shot WAVs from pipeline pre-generated audio ────
+// When the pipeline passes --audio and --timings, beat-N.mp3 files in the
+// audio directory already contain the proper narration. Convert them to
+// shot-N.wav so synthesize-narration.js can skip TTS and use the real audio.
+
+let prebuiltAudio = false;
+if (audio && timings && existsSync(audio)) {
+  const beatAudioDir = dirname(audio);
+  const audioOutDir  = join(ROOT, 'out', 'audio', edition);
+  mkdirSync(audioOutDir, { recursive: true });
+
+  let timingsData;
+  try { timingsData = JSON.parse(readFileSync(timings, 'utf8')); } catch { timingsData = []; }
+
+  let converted = 0;
+  for (let i = 0; i < timingsData.length; i++) {
+    const beatMp3 = join(beatAudioDir, `beat-${i}.mp3`);
+    const shotWav  = join(audioOutDir, `shot-${i}.wav`);
+    if (existsSync(beatMp3)) {
+      try {
+        execFileSync('ffmpeg', ['-y', '-i', beatMp3, shotWav], { stdio: 'pipe' });
+        converted++;
+      } catch (e) {
+        console.warn(`  ⚠  ffmpeg convert failed for beat-${i}.mp3: ${e.message}`);
+      }
+    }
+  }
+  if (converted > 0) {
+    console.log(`  ✓ Pre-populated ${converted} shot WAV(s) from pipeline audio.`);
+    prebuiltAudio = true;
+  }
+}
+
 // ── Stage 2: synthesize-narration ────────────────────────────────────────────
 // Must run BEFORE remotion render — Remotion fetches the per-shot WAVs during rendering.
 
 banner('2 / 4', `synthesize-narration  edition=${edition}`);
 
 const hasTTS = !!(process.env.ELEVENLABS_API_KEY || process.env.OPENAI_API_KEY);
-if (!hasTTS) {
+if (!hasTTS && !prebuiltAudio) {
   console.warn('  ⚠  No TTS API key found (ELEVENLABS_API_KEY / OPENAI_API_KEY).');
   console.warn('     Falling back to --dry-run (silence for all shots).');
 }
@@ -146,7 +180,7 @@ if (!hasTTS) {
 run('synthesize-narration', 'node', [
   join(SCRIPTS, 'synthesize-narration.js'),
   `--edition=${edition}`,
-  ...(hasTTS ? [] : ['--dry-run']),
+  ...(prebuiltAudio ? ['--prebuilt-audio'] : hasTTS ? [] : ['--dry-run']),
   ...anchorFlags,
 ]);
 
