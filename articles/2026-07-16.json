@@ -746,5 +746,66 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-16T08:00:01.251Z"
+  },
+  {
+    "title": "Australia to Put Environmental Brakes on A.I. Data Centers",
+    "description": "The country will also seek to protect the rights of creators of work used to train artificial intelligence models, as it aims to impose parameters on the growing industry.",
+    "link": "https://www.nytimes.com/2026/07/15/world/australia/albanese-artificial-intelligence-guardrails.html",
+    "pubDate": "Thu, 16 Jul 2026 08:08:31 +0000",
+    "source": "NY Times",
+    "categories": [
+      "artificial intelligence",
+      "regulation and deregulation of industry",
+      "politics and government",
+      "data centers",
+      "conservation of resources",
+      "water",
+      "copyrights and copyright violations",
+      "microsoft corp",
+      "openai labs",
+      "anthropic ai llc",
+      "australia",
+      "albanese, anthony (1963- )",
+      "internal-open-access-from-nl"
+    ],
+    "collectedAt": "2026-07-16T08:15:01.142Z"
+  },
+  {
+    "title": "Gen Z Suffering Worst Inflation, New Data Shows",
+    "description": "Gen Z consumers are experiencing higher levels of inflation than other generations, new data from the company Numerator revealed.",
+    "link": "https://www.newsweek.com/gen-z-suffering-worst-inflation-new-data-shows-12197418",
+    "pubDate": "Thu, 16 Jul 2026 04:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-16T08:15:01.142Z"
+  },
+  {
+    "title": "Pete Hegseth says US military to start testosterone screening for over 30s",
+    "description": "US Defense Secretary says plan is 'about restoring and optimising ... natural capabilities' of troops.",
+    "link": "https://www.aljazeera.com/news/2026/7/16/pete-hegseth-says-us-military-to-start-testosterone-screening-for-over-30s?traffic_source=rss",
+    "pubDate": "Thu, 16 Jul 2026 07:57:55 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-16T08:15:01.142Z"
+  },
+  {
+    "title": "Two North Dakota families sue hospital over allegations babies were switched at birth",
+    "description": "The two men were raised by each other’s biological families, allegedly without anyone's knowledge.",
+    "link": "https://nypost.com/2026/07/16/us-news/two-north-dakota-families-sue-hospital-over-allegations-babies-were-switched-at-birth/",
+    "pubDate": "Thu, 16 Jul 2026 04:03:55 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-16T08:15:01.142Z"
+  },
+  {
+    "title": "ICE arrests record 238 illegal immigrants in one day during South Texas enforcement operation",
+    "description": "ICE's Rio Grande Valley field office in Harlingen arrested 238 illegal immigrants in a single day, including convicted gang members and violent offenders.",
+    "link": "https://nypost.com/2026/07/16/us-news/ice-arrests-record-238-illegal-immigrants-in-one-day-during-south-texas-enforcement-operation/",
+    "pubDate": "Thu, 16 Jul 2026 04:01:25 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-16T08:15:01.142Z"
   }
 ]
