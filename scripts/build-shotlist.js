@@ -81,7 +81,8 @@ const args = Object.fromEntries(
 const edition      = args['edition'];
 const maxDuration  = Number(args['max-duration'] ?? 360);
 const aspect       = args['aspect'] ?? '16:9';
-const timingsPath  = args['timings'] ?? null;
+const timingsPath    = args['timings']         ?? null;
+const broadcastFilePath = args['broadcast-file'] ?? null;
 const noAnchored   = args['no-anchored'] === 'true';
 const debugAnchors = args['debug-anchors'] === 'true';
 const leadTime     = args['lead-time'] != null ? parseFloat(args['lead-time']) : null;
@@ -372,6 +373,20 @@ if (timingsPath) {
     process.exit(1);
   }
 
+  // Load full narration text from the pipeline broadcast file when available.
+  // Falls back to the 48-char beat title when the broadcast file is absent.
+  let bcBeats = [], bcIndices = [];
+  if (broadcastFilePath) {
+    try {
+      const bc = JSON.parse(readFileSync(broadcastFilePath, 'utf8'));
+      bcBeats   = bc.beats         ?? [];
+      bcIndices = bc.storyIndices  ?? [];
+      console.log(`  Using broadcast narrations: ${broadcastFilePath}`);
+    } catch (e) {
+      console.warn(`  Could not read broadcast file (${e.message}), falling back to beat titles`);
+    }
+  }
+
   for (let i = 0; i < timings.length; i++) {
     const { storyIndex, beat, durationSecs } = timings[i];
     if (elapsed + durationSecs > maxDuration) break;
@@ -387,7 +402,10 @@ if (timingsPath) {
     const isoCode = validLocs.find(l => l.iso && l.iso !== 'XX')?.iso ?? null;
     const cameraPath = buildCameraPath(analysis.locations, durationSecs, polygonMap);
     const namedWps = cameraPath.filter(wp => wp.highlight?.name);
-    const si = classifyShotIntent(beat);
+
+    const bcIdx = bcIndices.indexOf(storyIndex);
+    const resolvedNarration = (bcIdx >= 0 && bcBeats[bcIdx]?.narration) ? bcBeats[bcIdx].narration : beat;
+    const si = classifyShotIntent(resolvedNarration);
 
     shots.push({
       t: elapsed,
@@ -398,7 +416,7 @@ if (timingsPath) {
         label: CHYRON_LABELS[i % CHYRON_LABELS.length].toUpperCase(),
         headline: story.headline,
       },
-      narration: beat,
+      narration: resolvedNarration,
       hold: durationSecs,
       viz: buildStoryViz(story, isoCode),
       impact: storyImpact(story),

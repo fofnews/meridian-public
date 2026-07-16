@@ -60,8 +60,9 @@ const args = Object.fromEntries(
 );
 
 const edition   = args['edition'];
-const bedMusic  = args['bed']  ?? null;
-const postMode  = args['post'] ?? null;   // 'resolve' → use graded master from DaVinci Resolve
+const bedMusic  = args['bed']      ?? null;
+const narration = args['narration'] ?? null;  // pre-generated narration WAV (full.wav from pipeline)
+const postMode  = args['post']     ?? null;   // 'resolve' → use graded master from DaVinci Resolve
 const platforms = (args['platforms'] ?? 'youtube,tiktok').split(',').map(s => s.trim());
 
 if (!edition) {
@@ -103,6 +104,9 @@ mkdirSync(outDir, { recursive: true });
 
 // Build the audio filter chain (mixing + placeholder for loudnorm pass 2).
 // Returns an array of [-i, path, ...] input args plus a filter_complex string.
+//
+// When --narration is provided the raw Remotion video is muted and narration
+// audio is mixed in directly (with PRE_ROLL_S offset) instead of [0:a].
 function buildAudioFilter(lufs, measuredStats) {
   // Silence (dry-run) produces -inf measured_I, which loudnorm linear mode rejects.
   // Fall back to single-pass loudnorm (no measured_ params) in that case.
@@ -115,6 +119,28 @@ function buildAudioFilter(lufs, measuredStats) {
       `:measured_TP=${measuredStats.input_tp}` +
       `:measured_thresh=${measuredStats.input_thresh}` +
       `:offset=${measuredStats.target_offset}`;
+
+  const delayMs = Math.round(PRE_ROLL_S * 1000);
+
+  if (narration && !bedMusic) {
+    return {
+      extraInputs: ['-i', narration],
+      audioFilter: `[1:a]adelay=${delayMs}:all=1[narr];[narr]${loudnormLinear}[aout]`,
+      audioMap:    '[aout]',
+    };
+  }
+
+  if (narration && bedMusic) {
+    return {
+      extraInputs: ['-i', narration, '-i', bedMusic],
+      audioFilter:
+        `[1:a]adelay=${delayMs}:all=1,aformat=sample_fmts=fltp[narr];` +
+        `[2:a]volume=0.12,aformat=sample_fmts=fltp[bed];` +
+        `[narr][bed]amix=inputs=2:duration=first:normalize=0[mix];` +
+        `[mix]${loudnormLinear}[aout]`,
+      audioMap: '[aout]',
+    };
+  }
 
   if (!bedMusic) {
     return {
@@ -141,13 +167,27 @@ function buildAudioFilter(lufs, measuredStats) {
 function analyzeLoudness(lufs) {
   console.log(`  Analysing loudness (target ${lufs} LUFS)…`);
 
-  const analyseFilter = bedMusic
-    ? `[0:a]aformat=sample_fmts=fltp[n];[1:a]volume=0.12,aformat=sample_fmts=fltp[b];` +
-      `[n][b]amix=inputs=2:duration=longest:normalize=0[mix];` +
-      `[mix]loudnorm=I=${lufs}:TP=-1:LRA=11:print_format=json[out]`
-    : `[0:a]loudnorm=I=${lufs}:TP=-1:LRA=11:print_format=json[out]`;
+  const delayMs = Math.round(PRE_ROLL_S * 1000);
+  let analyseFilter, analysisInputs;
 
-  const analysisInputs = bedMusic ? ['-i', videoIn, '-i', bedMusic] : ['-i', videoIn];
+  if (narration && !bedMusic) {
+    analysisInputs = ['-i', videoIn, '-i', narration];
+    analyseFilter  = `[1:a]adelay=${delayMs}:all=1[narr];[narr]loudnorm=I=${lufs}:TP=-1:LRA=11:print_format=json[out]`;
+  } else if (narration && bedMusic) {
+    analysisInputs = ['-i', videoIn, '-i', narration, '-i', bedMusic];
+    analyseFilter  =
+      `[1:a]adelay=${delayMs}:all=1,aformat=sample_fmts=fltp[narr];` +
+      `[2:a]volume=0.12,aformat=sample_fmts=fltp[bed];` +
+      `[narr][bed]amix=inputs=2:duration=first:normalize=0[mix];` +
+      `[mix]loudnorm=I=${lufs}:TP=-1:LRA=11:print_format=json[out]`;
+  } else {
+    analyseFilter  = bedMusic
+      ? `[0:a]aformat=sample_fmts=fltp[n];[1:a]volume=0.12,aformat=sample_fmts=fltp[b];` +
+        `[n][b]amix=inputs=2:duration=longest:normalize=0[mix];` +
+        `[mix]loudnorm=I=${lufs}:TP=-1:LRA=11:print_format=json[out]`
+      : `[0:a]loudnorm=I=${lufs}:TP=-1:LRA=11:print_format=json[out]`;
+    analysisInputs = bedMusic ? ['-i', videoIn, '-i', bedMusic] : ['-i', videoIn];
+  }
 
   const { stderr } = spawnSync('ffmpeg', [
     '-y',

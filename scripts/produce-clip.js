@@ -118,12 +118,20 @@ const anchorFlags = [
 
 banner('1 / 4', `build-shotlist  edition=${edition}`);
 
+// Derive broadcast narration file from the pipeline audio path so timings mode
+// can substitute full narration text for the 48-char beat titles.
+// audio = .../pipeline/audio/<edition>/full.wav → .../pipeline/broadcasts/<edition>.json
+const broadcastFile = (audio && existsSync(audio))
+  ? join(dirname(audio), '..', '..', 'broadcasts', `${edition}.json`)
+  : null;
+
 run('build-shotlist', 'node', [
   join(SCRIPTS, 'build-shotlist.js'),
   `--edition=${edition}`,
   `--max-duration=${maxDuration}`,
   `--aspect=${aspect}`,
   ...(timings ? [`--timings=${timings}`] : []),
+  ...(broadcastFile && existsSync(broadcastFile) ? [`--broadcast-file=${broadcastFile}`] : []),
   ...anchorFlags,
 ]);
 
@@ -345,6 +353,7 @@ try {
       puppeteerInstance: browser,
       concurrency: 1,
       logLevel: 'verbose',
+      muted: !!audio,  // narration audio will be mixed by finalize-clip; mute Remotion render
       onProgress: ({ renderedFrames, encodedFrames, progress }) => {
         process.stdout.write(
           `\r  [16:9] rendered=${String(renderedFrames).padStart(4)} encoded=${String(encodedFrames).padStart(4)} ${String(Math.round(progress * 100)).padStart(3)}%`
@@ -374,6 +383,7 @@ try {
       puppeteerInstance: browser,
       concurrency: 1,
       logLevel: 'verbose',
+      muted: !!audio,  // narration audio will be mixed by finalize-clip; mute Remotion render
       onProgress: ({ renderedFrames, encodedFrames, progress }) => {
         process.stdout.write(
           `\r  [9:16] rendered=${String(renderedFrames).padStart(4)} encoded=${String(encodedFrames).padStart(4)} ${String(Math.round(progress * 100)).padStart(3)}%`
@@ -416,6 +426,7 @@ if (nonTiktokPlatforms.length > 0) {
     join(SCRIPTS, 'finalize-clip.js'),
     `--edition=${edition}`,
     `--platforms=${nonTiktokPlatforms.join(',')}`,
+    ...(audio ? [`--narration=${audio}`] : []),
     ...(bed ? [`--bed=${bed}`] : []),
   ]);
 }
@@ -427,6 +438,7 @@ if (hasTiktok) {
     `--edition=${edition}`,
     `--platforms=tiktok`,
     `--video=${raw9x16Path}`,
+    ...(audio ? [`--narration=${audio}`] : []),
     ...(bed ? [`--bed=${bed}`] : []),
   ]);
 }
