@@ -601,6 +601,11 @@
           "date": "2026-07-16",
           "edition": "morning",
           "update": "Mykhailo Fedorov departed from his role as Ukraine's Defense Minister, triggering mass protests across Ukrainian cities. Russian missiles struck Kyiv, with Mayor Vitali Klitschko reporting emergency services battling fires across the capital following the EU and Ukraine signing a drone deal. Ukraine launched at least 200 drones toward Moscow overnight into Thursday, according to Moscow Mayor Sergey Sobyanin. UK Prime Minister Keir Starmer traveled to Kyiv to meet President Zelensky, pledging the UK's 'cast-iron' support for Ukraine."
+        },
+        {
+          "date": "2026-07-16",
+          "edition": "evening",
+          "update": "UK Prime Minister Starmer announced that the UK will help fund 16 Gripen fighter jets for Ukraine. Zelensky formally dismissed Defense Minister Fedorov, who is credited with boosting Ukraine's drone forces and driving battlefield innovation, in what was described as a surprise government reshuffle; rare protests erupted in Kyiv in response."
         }
       ],
       "parentId": null
@@ -739,7 +744,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-14",
+      "lastSeen": "2026-07-16",
       "active": true,
       "entries": [
         {
@@ -936,6 +941,11 @@
           "date": "2026-07-14",
           "edition": "evening",
           "update": "An Israeli airstrike on a police post in northern Gaza killed seven people, including a senior Hamas-run police force officer. The Israeli Knesset passed a bill temporarily banning the arrest of ultra-orthodox Jews who refuse mandatory military service, shielding tens of thousands of conscription objectors despite IDF objections. Israel also announced a new plan to expand illegal settlements, according to Al Jazeera."
+        },
+        {
+          "date": "2026-07-16",
+          "edition": "evening",
+          "update": "Palestinians in Nuseirat, Gaza are searching through rubble of residential buildings destroyed by Israeli airstrikes, according to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1054,7 +1064,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-15",
+      "lastSeen": "2026-07-16",
       "active": true,
       "entries": [
         {
@@ -1331,6 +1341,11 @@
           "date": "2026-07-15",
           "edition": "evening",
           "update": "Israel and Lebanon concluded U.S.-brokered talks in Rome on the establishment of designated 'pilot zones' as part of Israel's withdrawal process from southern Lebanon, though details on the zones' locations, scope, and outcomes were not immediately disclosed."
+        },
+        {
+          "date": "2026-07-16",
+          "edition": "evening",
+          "update": "An Israeli air attack in Tyre, Lebanon killed one man's wife and only child, according to Al Jazeera. Israeli settlers attacked Palestinian communities in the occupied West Bank overnight, setting farmlands ablaze in Masafer Yatta and burning vehicles near Tulkarem."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1906,6 +1921,11 @@
           "date": "2026-07-16",
           "edition": "morning",
           "update": "The U.S. launched a new wave of strikes Wednesday night with reported explosions in Bandar Abbas, Chabahar, and Ahvaz, and separately expanded strikes into northern Iran. Iran declared the peace deal voided and stated it is fighting an 'existential war.' An Iranian doctor reported that a U.S. strike damaged a children's cancer hospital in Iran's south. Oil prices rose for a fourth consecutive day on fears of wider regional conflict, while gold prices fell amid inflation concerns tied to the escalating conflict. A new Economist/YouGov poll found 46% of Americans believe the war with Iran will last a year or more. Iranian Foreign Minister Araghchi traveled to Qatar to pay respects following the death of Sheikh Hamad bin al Thani even as hostilities continued across the Gulf region."
+        },
+        {
+          "date": "2026-07-16",
+          "edition": "evening",
+          "update": "The U.S. military struck an unladen oil tanker with missiles as part of a new blockade enforcement operation targeting a vessel headed for Iran's Kharg Island oil terminal. CENTCOM conducted a sixth consecutive day of strikes against Iranian command centers and air defense sites, concluding at 9 p.m. EST Thursday. Iran asked Yemen's Houthi movement to be ready to close the Red Sea oil route if the U.S. strikes Iranian power infrastructure, a plan discussed within Iranian leadership before being conveyed to the Houthis. A billboard in Tehran displayed an image of a dead President Trump as Iran escalated death threats against the U.S. president. Trump stated he is open to ordering the military to eliminate Iran's Revolutionary Guard Corps, and separately threatened to hit Iran harder over the Strait of Hormuz. Trump announced a primetime address Thursday covering voting machines and election integrity, delivered as the sixth consecutive day of strikes against Iran concluded."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3170,7 +3190,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-07-15",
+      "lastSeen": "2026-07-16",
       "active": true,
       "entries": [
         {
@@ -3267,6 +3287,11 @@
           "date": "2026-07-15",
           "edition": "morning",
           "update": "Confirmed Ebola cases in the Democratic Republic of Congo have surpassed 2,000, reaching 2,011 infections and 754 deaths, with authorities describing the outbreak as the fastest-growing on record. The WHO reports that 80% of new cases are emerging from unknown transmission chains, indicating the virus is spreading faster than health officials can track."
+        },
+        {
+          "date": "2026-07-16",
+          "edition": "evening",
+          "update": "Ebola patients and health responders fled a hospital in Congo following an attack on the facility, disrupting outbreak response efforts, according to Reuters."
         }
       ]
     },
@@ -3361,5 +3386,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-16T11:07:57.152Z"
+  "updatedAt": "2026-07-16T21:07:10.775Z"
 }
