@@ -394,5 +394,67 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-16T05:30:01.162Z"
+  },
+  {
+    "title": "Actor Sam Neill died from pneumonia, agent confirms",
+    "description": "Neill died in Sydney on Monday, with his family saying his death was 'sudden and unexpected'.",
+    "link": "https://www.bbc.co.uk/news/articles/cddj7e8v767o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 16 Jul 2026 04:28:22 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-16T05:45:01.248Z"
+  },
+  {
+    "title": "India Is Moving Fast to Build A.I. Data Centers. A Coastal City May Pay the Price.",
+    "description": "With India lagging in the technology, officials are embracing giant data centers. But critics say the megaprojects will use up energy and water, without providing long-term jobs.",
+    "link": "https://www.nytimes.com/2026/07/16/world/asia/india-ai-data-centers-google.html",
+    "pubDate": "Thu, 16 Jul 2026 05:24:49 +0000",
+    "source": "NY Times",
+    "categories": [
+      "artificial intelligence",
+      "data centers",
+      "politics and government",
+      "water",
+      "andhra pradesh (india)",
+      "india",
+      "google inc",
+      "labor and jobs",
+      "taxation",
+      "tax credits, deductions and exemptions",
+      "foreign investments",
+      "adani group",
+      "modi, narendra",
+      "adani, gautam s",
+      "naidu, n chandrababu",
+      "internal-open-access-from-nl"
+    ],
+    "collectedAt": "2026-07-16T05:45:01.248Z"
+  },
+  {
+    "title": "Europe Wants to Break Free From American and Chinese Technology. But How?",
+    "description": "France and Germany want to quit relying on America and China for key technology like artificial intelligence, but they’re having to choose where to do it.",
+    "link": "https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html",
+    "pubDate": "Thu, 16 Jul 2026 04:01:08 +0000",
+    "source": "NY Times",
+    "categories": [
+      "europe",
+      "germany",
+      "france",
+      "politics and government",
+      "artificial intelligence",
+      "start-ups",
+      "venture capital",
+      "internal-open-access-from-nl"
+    ],
+    "collectedAt": "2026-07-16T05:45:01.248Z"
+  },
+  {
+    "title": "Sam Kerr starts second tenure with Gotham FC on winning note",
+    "description": "The last time Sam Kerr donned a Gotham jersey, it was known as Sky Blue FC.",
+    "link": "https://nypost.com/2026/07/16/sports/sam-kerr-starts-second-tenure-with-gotham-fc-on-winning-note/",
+    "pubDate": "Thu, 16 Jul 2026 01:41:40 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-16T05:45:01.248Z"
   }
 ]
