@@ -605,7 +605,7 @@
         {
           "date": "2026-07-16",
           "edition": "evening",
-          "update": "UK Prime Minister Starmer announced that the UK will help fund 16 Gripen fighter jets for Ukraine. Zelensky formally dismissed Defense Minister Fedorov, who is credited with boosting Ukraine's drone forces and driving battlefield innovation, in what was described as a surprise government reshuffle; rare protests erupted in Kyiv in response."
+          "update": "UK Prime Minister Starmer announced that the UK will help fund 16 Gripen fighter jets for Ukraine. Zelensky's dismissal of Defense Minister Fedorov was confirmed as part of a surprise government reshuffle, with Fedorov having been a popular figure known for championing drone innovation in battlefield tactics; rare protests erupted in Kyiv in response."
         }
       ],
       "parentId": null
@@ -744,7 +744,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-16",
+      "lastSeen": "2026-07-14",
       "active": true,
       "entries": [
         {
@@ -941,11 +941,6 @@
           "date": "2026-07-14",
           "edition": "evening",
           "update": "An Israeli airstrike on a police post in northern Gaza killed seven people, including a senior Hamas-run police force officer. The Israeli Knesset passed a bill temporarily banning the arrest of ultra-orthodox Jews who refuse mandatory military service, shielding tens of thousands of conscription objectors despite IDF objections. Israel also announced a new plan to expand illegal settlements, according to Al Jazeera."
-        },
-        {
-          "date": "2026-07-16",
-          "edition": "evening",
-          "update": "Palestinians in Nuseirat, Gaza are searching through rubble of residential buildings destroyed by Israeli airstrikes, according to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -954,7 +949,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-07-14",
+      "lastSeen": "2026-07-16",
       "active": true,
       "entries": [
         {
@@ -1056,6 +1051,11 @@
           "date": "2026-07-14",
           "edition": "evening",
           "update": "Former Iranian President Mahmoud Ahmadinejad publicly denied a New York Times report that Israel had planned to reinstall him as Iran's leader following a potential war."
+        },
+        {
+          "date": "2026-07-16",
+          "edition": "evening",
+          "update": "A New York Times correspondent reported on the difficulties of covering Supreme Leader Khamenei's funeral in Iran while under surveillance and contending with unreliable internet access."
         }
       ],
       "parentId": null
@@ -1345,7 +1345,7 @@
         {
           "date": "2026-07-16",
           "edition": "evening",
-          "update": "An Israeli air attack in Tyre, Lebanon killed one man's wife and only child, according to Al Jazeera. Israeli settlers attacked Palestinian communities in the occupied West Bank overnight, setting farmlands ablaze in Masafer Yatta and burning vehicles near Tulkarem."
+          "update": "An Israeli air attack in Tyre killed the wife and only child of Hussein Saleh, according to Al Jazeera, as Israeli strikes continued in Lebanon. Israeli settlers attacked Palestinian farmlands in Masafer Yatta and burned vehicles near Tulkarem in the occupied West Bank overnight. Palestinians in Nuseirat, Gaza, searched through rubble after Israeli strikes destroyed residential buildings in the area."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1925,7 +1925,7 @@
         {
           "date": "2026-07-16",
           "edition": "evening",
-          "update": "The U.S. military struck an unladen oil tanker with missiles as part of a new blockade enforcement operation targeting a vessel headed for Iran's Kharg Island oil terminal. CENTCOM conducted a sixth consecutive day of strikes against Iranian command centers and air defense sites, concluding at 9 p.m. EST Thursday. Iran asked Yemen's Houthi movement to be ready to close the Red Sea oil route if the U.S. strikes Iranian power infrastructure, a plan discussed within Iranian leadership before being conveyed to the Houthis. A billboard in Tehran displayed an image of a dead President Trump as Iran escalated death threats against the U.S. president. Trump stated he is open to ordering the military to eliminate Iran's Revolutionary Guard Corps, and separately threatened to hit Iran harder over the Strait of Hormuz. Trump announced a primetime address Thursday covering voting machines and election integrity, delivered as the sixth consecutive day of strikes against Iran concluded."
+          "update": "CENTCOM announced a new wave of strikes against Iranian command centers and air defense sites, concluding at 9 p.m. EST. The U.S. military struck an unladen oil tanker with missiles as it headed toward Iran's Kharg Island oil terminal as part of the enforced blockade. Iran claimed it carried out retaliatory strikes on U.S. bases and issued warnings of wider regional attacks. A billboard in Tehran displayed an image of a dead President Trump as Iran escalated threats against the U.S. president. Trump stated he is open to ordering the military to eliminate Iran's Revolutionary Guard Corps, drawing a comparison to the campaign against ISIS."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2214,7 +2214,7 @@
       "id": "cuba-energy-crisis",
       "title": "Cuba Energy Crisis",
       "firstSeen": "2026-03-16",
-      "lastSeen": "2026-07-15",
+      "lastSeen": "2026-07-16",
       "active": true,
       "entries": [
         {
@@ -2391,6 +2391,11 @@
           "date": "2026-07-15",
           "edition": "evening",
           "update": "Cuba suffered its third island-wide blackout in just over a week amid ongoing energy struggles, following U.S. warnings of tariffs on countries supplying fuel to Havana."
+        },
+        {
+          "date": "2026-07-16",
+          "edition": "evening",
+          "update": "President Trump and senior U.S. defense officials are weighing military options in Cuba, though no official decision on an operation has been made, according to CBS News."
         }
       ],
       "parentId": null
@@ -3112,6 +3117,11 @@
           "date": "2026-07-16",
           "edition": "morning",
           "update": "The U.S. military disabled the M/T Belma, a Curacao-flagged oil tanker, in the Arabian Sea on Wednesday after it attempted to sail to an Iranian port, marking the first vessel disabled since President Trump reimposed the naval blockade."
+        },
+        {
+          "date": "2026-07-16",
+          "edition": "evening",
+          "update": "Iran has asked Yemen's Houthi movement to stand ready to close the Red Sea oil route if the United States strikes Iranian power infrastructure, according to Reuters, citing two senior Iranian sources and a regional source familiar with the matter. The request was discussed within Iranian leadership before being communicated to the Houthis. Pakistan separately expressed concern about being drawn into the U.S.-Iran conflict following Houthi attacks on Saudi Arabia."
         }
       ]
     },
@@ -3291,7 +3301,7 @@
         {
           "date": "2026-07-16",
           "edition": "evening",
-          "update": "Ebola patients and health responders fled a hospital in Congo following an attack on the facility, disrupting outbreak response efforts, according to Reuters."
+          "update": "Ebola patients and healthcare workers fled an attack on a hospital in Congo, disrupting treatment and outbreak response efforts, according to Reuters."
         }
       ]
     },
@@ -3386,5 +3396,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-16T21:07:10.775Z"
+  "updatedAt": "2026-07-16T21:07:24.350Z"
 }
