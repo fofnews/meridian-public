@@ -420,5 +420,52 @@
     "source": "BBC News",
     "categories": [],
     "collectedAt": "2026-07-17T06:15:01.320Z"
+  },
+  {
+    "title": "Rubio convenes countries on left-wing political violence",
+    "description": "Secretary of State Marco Rubio on Thursday convened leaders from more than 60 countries to take part in the Trump administration's latest effort to quell what it calls \"left wing\" political terrorism.",
+    "link": "https://www.npr.org/2026/07/17/g-s1-134148/rubio-convene-countries-on-left-wing-political-violence",
+    "pubDate": "Fri, 17 Jul 2026 02:15:11 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-07-17T06:30:01.144Z"
+  },
+  {
+    "title": "Trump says documents show voting vulnerabilities, China meddling and fraud",
+    "description": "Trump said the White House released documents that he said expose vulnerabilities in electronic voting.",
+    "link": "https://abcnews.com/Politics/trump-give-primetime-speech-2020-election-sources/story?id=134791893",
+    "pubDate": "Fri, 17 Jul 2026 02:16:48 -0400",
+    "source": "ABC News",
+    "categories": [
+      "politics"
+    ],
+    "collectedAt": "2026-07-17T06:30:01.144Z"
+  },
+  {
+    "title": "Catfished teen gets £10k after photos used for fake dating profiles",
+    "description": "Elha Mai Weston posed as the teenager to strike up romantic conversations on social media.",
+    "link": "https://www.bbc.co.uk/news/articles/cp8xn9exg8yo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 17 Jul 2026 05:17:23 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-17T06:30:01.144Z"
+  },
+  {
+    "title": "Olympic cyclist admits to driving despite ban after crash that killed wife",
+    "description": "Rohan Dennis pleaded guilty to driving while disqualified after police pulled him over last month.",
+    "link": "https://www.bbc.co.uk/news/articles/c62q3ywep1ro?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 17 Jul 2026 05:09:14 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-17T06:30:01.144Z"
+  },
+  {
+    "title": "US hits bridges and collapses tower at key Iranian port as it expands airstrike campaign",
+    "description": "The United States expanded its airstrike campaign against Iran early Friday by hitting more bridges and collapsing a tower at a key Iranian port, part of US President Donald Trump’s threats to start striking infrastructure to pressure Tehran to ease its chokehold on the Strait of Hormuz.",
+    "link": "https://nypost.com/2026/07/17/world-news/us-hits-bridges-and-collapses-tower-at-key-iranian-port-as-it-expands-airstrike-campaign/",
+    "pubDate": "Fri, 17 Jul 2026 02:23:41 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-17T06:30:01.144Z"
   }
 ]
