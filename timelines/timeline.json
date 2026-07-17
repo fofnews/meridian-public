@@ -241,6 +241,11 @@
           "date": "2026-07-17",
           "edition": "morning",
           "update": "New Mexico Attorney General Raúl Torrez accused acting U.S. Attorney General Todd Blanche of stonewalling the state's active Epstein investigation, directly contradicting Blanche's Senate confirmation hearing pledge to pursue new leads. Blanche separately agreed to meet with Epstein survivors following a demand from Senator Thom Tillis."
+        },
+        {
+          "date": "2026-07-17",
+          "edition": "evening",
+          "update": "Epstein victims met with acting Attorney General Todd Blanche on Thursday; reactions were divided, with some describing it as a meaningful step and others characterizing it as a political move tied to Blanche's Senate confirmation process."
         }
       ],
       "parentId": null
@@ -249,8 +254,8 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-05-28",
-      "active": false,
+      "lastSeen": "2026-07-17",
+      "active": true,
       "entries": [
         {
           "date": "2026-02-26",
@@ -346,6 +351,11 @@
           "date": "2026-05-28",
           "edition": "morning",
           "update": "The White House dismissed an outline of an 'unofficial' Iran deal, according to the NY Times."
+        },
+        {
+          "date": "2026-07-17",
+          "edition": "evening",
+          "update": "Satellite imagery shows strikes between July 7 and 12 struck Iran's Bushehr nuclear power plant, the country's largest."
         }
       ],
       "parentId": null
@@ -616,6 +626,11 @@
           "date": "2026-07-17",
           "edition": "morning",
           "update": "Ukrainian President Zelensky also dismissed Defense Minister Rustem Umerov, credited as a key architect of Ukraine's drone program, as part of the broader government reshuffle."
+        },
+        {
+          "date": "2026-07-17",
+          "edition": "evening",
+          "update": "Ukraine cut off Crimea from Russia, triggering an energy crisis on the peninsula. Russian attacks on Ukrainian ports killed two Ukrainians aboard a foreign vessel in Mykolaiv, with two additional deaths reported in Kherson and Odesa. Russian farmers faced compounding pressure from a domestic fuel crisis alongside disruptions caused by Ukrainian attacks in the Azov Sea."
         }
       ],
       "parentId": null
@@ -1946,6 +1961,11 @@
           "date": "2026-07-17",
           "edition": "morning",
           "update": "U.S. strikes entered a sixth consecutive night, with new attacks targeting bridges and a tower in southern Iran near a key port, explicitly aimed at pressuring Tehran over control of the Strait of Hormuz. Iran threatened to target regional infrastructure in retaliation. White House Press Secretary Karoline Leavitt stated that 'President Trump is not going to sit by' as the campaign continues. A House panel approved a $95 billion budget plan covering Iran war funding and the SAVE Act, though the measure faces significant Republican opposition over its size, cost, policy provisions, and election timing concerns."
+        },
+        {
+          "date": "2026-07-17",
+          "edition": "evening",
+          "update": "The IRGC retaliated against U.S. bases in Kuwait, Bahrain, and Jordan following U.S. strikes on Iranian bridges and energy sites in a seventh consecutive night of airstrikes. Iran also announced retaliatory strikes against U.S. allies more broadly across the Middle East. Iranian media reported that the latest U.S. strikes targeted a train station in addition to bridges and other infrastructure. Analysts characterized U.S. attacks on southern Iran's civilian infrastructure as aimed at disrupting Iran's supply lines and limiting its influence over the Strait of Hormuz."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2832,6 +2852,11 @@
           "date": "2026-07-17",
           "edition": "morning",
           "update": "A disputed paragraph concerning the Strait of Hormuz is placing strain on a U.S.-Iran deal, according to the Washington Post. The release of a U.S. citizen by Iran, previously reported as announced by Trump, was separately confirmed by the Washington Post as a goodwill gesture."
+        },
+        {
+          "date": "2026-07-17",
+          "edition": "evening",
+          "update": "The New York Times profiled four key negotiators in the Iran-U.S. talks, identifying agreement on a shared goal as the critical first step in the diplomatic process."
         }
       ]
     },
@@ -3152,6 +3177,11 @@
           "date": "2026-07-17",
           "edition": "morning",
           "update": "U.S. military forces boarded a sanctioned oil tanker in the Gulf of Oman. Chevron is set to sign oil deals with Iraq and back a pipeline project designed to bypass the Strait of Hormuz. IEA Executive Director Fatih Birol warned that a crisis in the strait threatens global energy security, calling on the world to be 'worried' if the situation does not improve."
+        },
+        {
+          "date": "2026-07-17",
+          "edition": "evening",
+          "update": "Analysts warned that recognizing Iranian control over the Strait of Hormuz could set a dangerous precedent, potentially encouraging other states to assert claims over critical global waterways."
         }
       ]
     },
@@ -3426,5 +3456,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-17T11:06:33.394Z"
+  "updatedAt": "2026-07-17T21:07:46.774Z"
 }
