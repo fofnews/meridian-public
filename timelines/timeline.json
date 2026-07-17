@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-16",
+      "lastSeen": "2026-07-17",
       "active": true,
       "entries": [
         {
@@ -236,6 +236,11 @@
           "date": "2026-07-16",
           "edition": "morning",
           "update": "Vice President JD Vance admitted on The Joe Rogan Experience that the Trump administration 'absolutely screwed up the comms of the Epstein files,' publicly blaming former Attorney General Pam Bondi. Acting Attorney General Todd Blanche acknowledged during his Senate confirmation hearing that 'mistakes' were made in the redaction of the Epstein files. Former Obama White House counsel Kathryn Ruemmler was questioned by the House Oversight Committee in a bipartisan hearing over emails revealing her friendly relationship with Epstein. The U.S. Justice Department refused New Mexico's request for Epstein-related files, with New Mexico stating the withheld records are critical to its ongoing criminal investigation into alleged abuse at Epstein's ranch."
+        },
+        {
+          "date": "2026-07-17",
+          "edition": "morning",
+          "update": "New Mexico Attorney General Raúl Torrez accused acting U.S. Attorney General Todd Blanche of stonewalling the state's active Epstein investigation, directly contradicting Blanche's Senate confirmation hearing pledge to pursue new leads. Blanche separately agreed to meet with Epstein survivors following a demand from Senator Thom Tillis."
         }
       ],
       "parentId": null
@@ -349,7 +354,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-16",
+      "lastSeen": "2026-07-17",
       "active": true,
       "entries": [
         {
@@ -606,6 +611,11 @@
           "date": "2026-07-16",
           "edition": "evening",
           "update": "UK Prime Minister Starmer announced that the UK will help fund 16 Gripen fighter jets for Ukraine. Zelensky's dismissal of Defense Minister Fedorov was confirmed as part of a surprise government reshuffle, with Fedorov having been a popular figure known for championing drone innovation in battlefield tactics; rare protests erupted in Kyiv in response."
+        },
+        {
+          "date": "2026-07-17",
+          "edition": "morning",
+          "update": "Ukrainian President Zelensky also dismissed Defense Minister Rustem Umerov, credited as a key architect of Ukraine's drone program, as part of the broader government reshuffle."
         }
       ],
       "parentId": null
@@ -744,7 +754,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-14",
+      "lastSeen": "2026-07-17",
       "active": true,
       "entries": [
         {
@@ -941,6 +951,11 @@
           "date": "2026-07-14",
           "edition": "evening",
           "update": "An Israeli airstrike on a police post in northern Gaza killed seven people, including a senior Hamas-run police force officer. The Israeli Knesset passed a bill temporarily banning the arrest of ultra-orthodox Jews who refuse mandatory military service, shielding tens of thousands of conscription objectors despite IDF objections. Israel also announced a new plan to expand illegal settlements, according to Al Jazeera."
+        },
+        {
+          "date": "2026-07-17",
+          "edition": "morning",
+          "update": "Qatar rejected Israeli media reports claiming it had agreed to participate in military action against Iran. Falling debris from intercepted Iranian strikes sparked fires in a border area between Kuwait and Iraq. Iran's IRGC claimed to have targeted a U.S. command center in Syria, according to Iranian state media."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1354,7 +1369,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-16",
+      "lastSeen": "2026-07-17",
       "active": true,
       "entries": [
         {
@@ -1926,6 +1941,11 @@
           "date": "2026-07-16",
           "edition": "evening",
           "update": "CENTCOM announced a new wave of strikes against Iranian command centers and air defense sites, concluding at 9 p.m. EST. The U.S. military struck an unladen oil tanker with missiles as it headed toward Iran's Kharg Island oil terminal as part of the enforced blockade. Iran claimed it carried out retaliatory strikes on U.S. bases and issued warnings of wider regional attacks. A billboard in Tehran displayed an image of a dead President Trump as Iran escalated threats against the U.S. president. Trump stated he is open to ordering the military to eliminate Iran's Revolutionary Guard Corps, drawing a comparison to the campaign against ISIS."
+        },
+        {
+          "date": "2026-07-17",
+          "edition": "morning",
+          "update": "U.S. strikes entered a sixth consecutive night, with new attacks targeting bridges and a tower in southern Iran near a key port, explicitly aimed at pressuring Tehran over control of the Strait of Hormuz. Iran threatened to target regional infrastructure in retaliation. White House Press Secretary Karoline Leavitt stated that 'President Trump is not going to sit by' as the campaign continues. A House panel approved a $95 billion budget plan covering Iran war funding and the SAVE Act, though the measure faces significant Republican opposition over its size, cost, policy provisions, and election timing concerns."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2700,7 +2720,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-16",
+      "lastSeen": "2026-07-17",
       "active": true,
       "entries": [
         {
@@ -2740,7 +2760,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-07-16",
+      "lastSeen": "2026-07-17",
       "active": true,
       "entries": [
         {
@@ -2807,6 +2827,11 @@
           "date": "2026-07-16",
           "edition": "morning",
           "update": "Iran released Dena Karari, a dual Iranian-American citizen who had been held on espionage charges since December 2024 when her passport was seized. President Trump announced the release Wednesday evening, describing it as a 'gesture of goodwill' from Iran."
+        },
+        {
+          "date": "2026-07-17",
+          "edition": "morning",
+          "update": "A disputed paragraph concerning the Strait of Hormuz is placing strain on a U.S.-Iran deal, according to the Washington Post. The release of a U.S. citizen by Iran, previously reported as announced by Trump, was separately confirmed by the Washington Post as a goodwill gesture."
         }
       ]
     },
@@ -3025,7 +3050,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-07-16",
+      "lastSeen": "2026-07-17",
       "active": true,
       "entries": [
         {
@@ -3122,6 +3147,11 @@
           "date": "2026-07-16",
           "edition": "evening",
           "update": "Iran has asked Yemen's Houthi movement to stand ready to close the Red Sea oil route if the United States strikes Iranian power infrastructure, according to Reuters, citing two senior Iranian sources and a regional source familiar with the matter. The request was discussed within Iranian leadership before being communicated to the Houthis. Pakistan separately expressed concern about being drawn into the U.S.-Iran conflict following Houthi attacks on Saudi Arabia."
+        },
+        {
+          "date": "2026-07-17",
+          "edition": "morning",
+          "update": "U.S. military forces boarded a sanctioned oil tanker in the Gulf of Oman. Chevron is set to sign oil deals with Iraq and back a pipeline project designed to bypass the Strait of Hormuz. IEA Executive Director Fatih Birol warned that a crisis in the strait threatens global energy security, calling on the world to be 'worried' if the situation does not improve."
         }
       ]
     },
@@ -3396,5 +3426,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-16T21:07:24.350Z"
+  "updatedAt": "2026-07-17T11:06:33.394Z"
 }
