@@ -23,7 +23,7 @@
 //   ELEVENLABS_API_KEY
 //   OPENAI_API_KEY
 
-import { existsSync, mkdirSync, mkdtempSync, readFileSync } from 'fs';
+import { existsSync, mkdirSync, mkdtempSync, readFileSync, copyFileSync, writeFileSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { createRequire } from 'module';
@@ -158,13 +158,21 @@ if (audio && timings && existsSync(audio)) {
   let converted = 0;
   for (let i = 0; i < timingsData.length; i++) {
     const beatMp3 = join(beatAudioDir, `beat-${i}.mp3`);
-    const shotWav  = join(audioOutDir, `shot-${i}.wav`);
+    const beatTs  = join(beatAudioDir, `beat-${i}.timestamps.json`);
+    const shotWav = join(audioOutDir,  `shot-${i}.wav`);
+    const shotTs  = join(audioOutDir,  `shot-${i}.timestamps.json`);
     if (existsSync(beatMp3)) {
       try {
         execFileSync('ffmpeg', ['-y', '-i', beatMp3, shotWav], { stdio: 'pipe' });
         converted++;
       } catch (e) {
         console.warn(`  ⚠  ffmpeg convert failed for beat-${i}.mp3: ${e.message}`);
+      }
+      // Reset stale timestamps from previous runs; overwrite with pipeline data if available.
+      if (existsSync(beatTs)) {
+        copyFileSync(beatTs, shotTs);
+      } else {
+        writeFileSync(shotTs, JSON.stringify({ source: null }));
       }
     }
   }
