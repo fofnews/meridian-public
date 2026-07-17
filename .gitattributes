@@ -1,0 +1,5 @@
+# Normalize line endings: pipeline writes LF, keep it that way on all platforms
+articles/*.json text eol=lf
+reports/*.json text eol=lf
+topics/*.json text eol=lf
+timelines/*.json text eol=lf
