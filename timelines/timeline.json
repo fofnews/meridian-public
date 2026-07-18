@@ -255,7 +255,7 @@
         {
           "date": "2026-07-18",
           "edition": "evening",
-          "update": "Epstein survivor Jess Michaels publicly stated she left the meeting with acting Attorney General Todd Blanche feeling 'disappointed, disturbed and undaunted.'"
+          "update": "Epstein survivor Jess Michaels described leaving her meeting with acting Attorney General Todd Blanche as 'disappointed, disturbed and undaunted.'"
         }
       ],
       "parentId": null
@@ -645,7 +645,7 @@
         {
           "date": "2026-07-18",
           "edition": "evening",
-          "update": "Ukrainian drone strikes on Russia have now killed at least eight people, with newly reported strikes also targeting energy infrastructure and military sites inside Russia in addition to the previously confirmed Wildberries warehouse attacks near Moscow and in Tambov."
+          "update": "Ukrainian drone attacks killed at least eight people inside Russia and wounded dozens more, with strikes targeting energy infrastructure and military sites in addition to the logistics facilities previously reported. Al Jazeera separately reported a Ukrainian strike on a Russian logistics center, with no additional details on location or scale provided."
         }
       ],
       "parentId": null
@@ -2000,7 +2000,7 @@
         {
           "date": "2026-07-18",
           "edition": "evening",
-          "update": "Two U.S. service members were killed and one is missing following an Iranian ballistic missile and drone attack on U.S. forces in Jordan on Friday; CENTCOM confirmed the casualties on Saturday. The attack occurred despite a ceasefire or Memorandum of Understanding that had been signed between the U.S. and Iran prior to the strike. Iranian Supreme Leader Khamenei declared Trump's signature 'worthless' in response to U.S. breaches of agreements, while Senior IRGC adviser Mohsen Rezaei warned Iran will no longer limit itself to like-for-like responses and threatened that 'no political border will be safe.' Shipping traffic through the Strait of Hormuz has effectively frozen, with industry analysts reporting nobody is willing to move vessels through the waterway. Iran renewed strikes on Gulf states, with smoke plumes rising over Kuwait's Mangaf area, and U.S. overnight strikes damaged a tunnel and three bridges in Hormozgan Province according to the provincial governor."
+          "update": "Two U.S. service members were killed and one is missing following an Iranian ballistic missile and drone attack on a U.S. base in Jordan on July 17; CENTCOM confirmed the casualties on Saturday. Iranian strikes hit multiple locations in Mangaf, Kuwait, sending large plumes of smoke over the area, as Iran renewed attacks on Gulf states following another night of U.S. airstrikes. Senior Iranian adviser Major-General Mohsen Rezaei warned that Iran would launch 'full-scale offensive operations' and would 'no longer limit itself to retaliatory, like-for-like responses' if U.S. strikes do not cease, stating 'no political border will be safe.' Iranian Supreme Leader Khamenei stated that U.S. breaches of agreements demonstrate that President Trump's signature is 'worthless.' U.S. overnight strikes damaged a tunnel and three bridges in Iran's Hormozgan Province, leaving residents isolated, while critical water and power infrastructure damage is being compounded by temperatures exceeding 100 degrees across the region."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2896,7 +2896,7 @@
         {
           "date": "2026-07-18",
           "edition": "evening",
-          "update": "Iran announced it is suspending its commitments to an interim deal with the United States, according to Newsmax."
+          "update": "Iran announced it is suspending its commitments to an interim deal with the United States."
         }
       ]
     },
@@ -3231,7 +3231,7 @@
         {
           "date": "2026-07-18",
           "edition": "evening",
-          "update": "The U.S. has reimposed a naval blockade on Iran's ports, with Al Jazeera reporting pressure is expected to build on the Iranian public and global energy markets as a result."
+          "update": "Shipping through the Strait of Hormuz has effectively frozen following the seventh consecutive night of U.S. strikes on Iran, with an industry analyst telling CBS News that 'nobody is willing to move' through the waterway. The U.S. has reimposed a naval blockade on Iran's ports, with pressure expected to build on the Iranian public and global energy markets."
         }
       ]
     },
@@ -3511,5 +3511,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-18T21:05:00.121Z"
+  "updatedAt": "2026-07-18T21:05:03.595Z"
 }
