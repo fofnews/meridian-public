@@ -1517,5 +1517,53 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-18T11:45:01.383Z"
+  },
+  {
+    "title": "Life after Kane - are England facing a false nine future?",
+    "description": "Are England facing the prospect of using a false nine up front once record scorer Harry Kane calls time on his international career?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cp87llz7539o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 18 Jul 2026 10:42:07 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-18T12:00:01.064Z"
+  },
+  {
+    "title": "Argentina's controversial World Cup banner got into the stadium by way of some dude's underwear",
+    "description": "An Argentine fan named Santiago smuggled the Malvinas banner into Mercedes-Benz Stadium by hiding it in his pants to get past security checks.",
+    "link": "https://www.foxnews.com/outkick-sports/argentinas-controversial-world-cup-banner-got-stadium-way-dudes-underwear",
+    "pubDate": "Sat, 18 Jul 2026 07:39:32 -0400",
+    "source": "Fox News",
+    "categories": [
+      "1e871bed-32f6-53ea-bf74-d4144baa9207",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/sports/soccer/the-world-cup",
+      "fox-news/sports/soccer",
+      "fox-news/travel/regions/south-america",
+      "fox-news/world/world-regions/united-kingdom",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-07-18T12:00:01.064Z"
+  },
+  {
+    "title": "Incoming UK PM Andy Burnham rejects Thatcher-era policies, signals leftward shift",
+    "description": "Andy Burnham condemned Margaret Thatcher's legacy and promised public ownership of utilities, housing and transport in his first Labour leader speech.",
+    "link": "https://www.foxnews.com/world/incoming-uk-pm-andy-burnham-rejects-thatcher-era-policies-signals-leftward-shift",
+    "pubDate": "Sat, 18 Jul 2026 07:38:36 -0400",
+    "source": "Fox News",
+    "categories": [
+      "f615bf7c-9a3e-5856-af16-69ee9ff23e00",
+      "fnc",
+      "fox news",
+      "fox-news/person/andy-burnham",
+      "fox-news/world/world-regions/united-kingdom",
+      "fox-news/politics/executive/economic-policy",
+      "fox-news/politics",
+      "fox-news/world",
+      "article"
+    ],
+    "collectedAt": "2026-07-18T12:00:01.064Z"
   }
 ]
