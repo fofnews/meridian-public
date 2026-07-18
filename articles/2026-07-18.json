@@ -3616,5 +3616,193 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-18T16:00:01.191Z"
+  },
+  {
+    "title": "Saturday Sessions: Midland performs \"Vaquero\"",
+    "description": "Grammy-nominated trio Midland hail from the Texas country scene. Their new album \"Stages\" has been praised as one of the best traditional country albums of the year. Here's Midland with \"Vaquero.\"",
+    "link": "https://www.cbsnews.com/video/saturday-sessions-midland-performs-vaquero/",
+    "pubDate": "Sat, 18 Jul 2026 11:53:00 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-07-18T16:15:01.215Z"
+  },
+  {
+    "title": "Idaho pushed anti-trans laws for years. Then a teen died.",
+    "description": "The life and death of May Pollard, 16, provides a window into the tragic effect that legislation and political rhetoric have had on trans people in America.",
+    "link": "https://www.nbcnews.com/news/us-news/idaho-pushed-anti-trans-laws-transition-care-bathroom-trump-rcna350199",
+    "pubDate": "Sat, 18 Jul 2026 16:02:00 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-07-18T16:15:01.215Z"
+  },
+  {
+    "title": "Insane Stat Puts Historic Red Sox Win Streak In Context",
+    "description": "The Boston Red Sox are back from the dead, surging back to .500 and suddenly a threat in the American League.",
+    "link": "https://www.newsweek.com/sports/mlb/insane-stat-puts-historic-red-sox-win-streak-in-context-12213936",
+    "pubDate": "Sat, 18 Jul 2026 12:13:45 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-18T16:15:01.215Z"
+  },
+  {
+    "title": "America's Worst Foodborne Illness Outbreaks as Cyclospora Cases Surge",
+    "description": "The CDC and FDA have not determined whether all recent infections stem from a single contamination source.",
+    "link": "https://www.newsweek.com/americas-worst-foodborne-illness-outbreaks-as-cyclospora-cases-surge-12214247",
+    "pubDate": "Sat, 18 Jul 2026 12:08:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-18T16:15:01.215Z"
+  },
+  {
+    "title": "Tennessee Titans Player Facing the Most Pressure in 2026",
+    "description": "The Titans rebuilt everything around their most important player. Now it's on him to show it paid off.",
+    "link": "https://www.newsweek.com/sports/nfl/tennessee-titans-player-facing-the-most-pressure-in-2026-12213445",
+    "pubDate": "Sat, 18 Jul 2026 12:05:31 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-18T16:15:01.215Z"
+  },
+  {
+    "title": "More people are reaching their 60s than ever before — and it’s an incredible investing opportunity",
+    "description": "The world is getting older. Here’s how that’s going to change things.",
+    "link": "https://www.marketwatch.com/story/more-people-are-reaching-their-60s-than-ever-before-and-its-an-incredible-investing-opportunity-367cc8b8?mod=mw_rss_topstories",
+    "pubDate": "Sat, 18 Jul 2026 16:10:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-07-18T16:15:01.215Z"
+  },
+  {
+    "title": "Fraud expert warns AI is helping criminals outpace the government: 'Don't have the right tools'",
+    "description": "David Maimon warned lawmakers that criminals use AI-generated deepfake video and fake documents to defeat identity verification and steal taxpayer money.",
+    "link": "https://www.foxnews.com/politics/fraud-expert-warns-ai-helping-criminals-outpace-government-dont-have-right-tools",
+    "pubDate": "Sat, 18 Jul 2026 12:00:39 -0400",
+    "source": "Fox News",
+    "categories": [
+      "87cded1a-d42c-526c-bfe9-ce343214ca47",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/tech/topics/security",
+      "fox-news/tech/topics/cybercrime",
+      "fox-news/politics/finance/investigations",
+      "fox-news/tech/artificial-intelligence",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-07-18T16:15:01.215Z"
+  },
+  {
+    "title": "Dolly Parton's California retreat with wig room and Dollywood birdhouse lists for $1.95M",
+    "description": "Dolly Parton's former Solvang hideaway hits the market at $1.95 million, featuring a wig room, stained glass and three distinct homes on the property.",
+    "link": "https://www.foxnews.com/entertainment/dolly-partons-california-retreat-wig-room-dollywood-birdhouse-lists-1-95m",
+    "pubDate": "Sat, 18 Jul 2026 12:00:37 -0400",
+    "source": "Fox News",
+    "categories": [
+      "a03173cc-2309-5ea9-a48d-fb7f373a270f",
+      "fnc",
+      "fox news",
+      "fox-news/person/dolly-parton",
+      "fox-news/entertainment",
+      "fox-news/entertainment/events/celebrity-homes",
+      "fox-news/celeb-homes",
+      "fox-news/entertainment/genres/country",
+      "fox-news/entertainment",
+      "article"
+    ],
+    "collectedAt": "2026-07-18T16:15:01.215Z"
+  },
+  {
+    "title": "HalluSquatting AI attack could hijack your computer",
+    "description": "HalluSquatting exploits AI coding assistants that hallucinate fake repository names, letting attackers register those names and deliver malware.",
+    "link": "https://www.foxnews.com/tech/hallusquatting-ai-attack-could-hijack-your-computer",
+    "pubDate": "Sat, 18 Jul 2026 12:00:22 -0400",
+    "source": "Fox News",
+    "categories": [
+      "7e2f3946-fd16-57a3-9a24-51587f44970f",
+      "fnc",
+      "fox news",
+      "fox-news/tech/topics/cybercrime",
+      "fox-news/tech/topics/hackers",
+      "fox-news/tech/topics/virus",
+      "fox-news/tech/topics/security",
+      "fox-news/tech/topics/privacy",
+      "fox-news/tech",
+      "article"
+    ],
+    "collectedAt": "2026-07-18T16:15:01.215Z"
+  },
+  {
+    "title": "READ THE DOCUMENTS: White House releases election integrity files after Trump speech",
+    "description": "The White House released four batches of election-integrity documents, including files on voting-system vulnerabilities, China’s alleged acquisition of voter data, and more.",
+    "link": "https://www.foxnews.com/politics/read-documents-white-house-releases-election-integrity-files-after-trump-speech",
+    "pubDate": "Sat, 18 Jul 2026 11:56:46 -0400",
+    "source": "Fox News",
+    "categories": [
+      "6a2c595c-7f14-5efb-b75b-4858f97a391d",
+      "fnc",
+      "fox news",
+      "fox-news/person/donald-trump",
+      "fox-news/politics/elections",
+      "fox-news/politics/executive/white-house",
+      "fox-news/tech/topics/cia",
+      "fox-news/world/world-regions/china",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-07-18T16:15:01.215Z"
+  },
+  {
+    "title": "Bryson DeChambeau’s peers react to shocking British Open penalty-stroke saga: ‘Tough spot to be’",
+    "description": "There was still a buzz around Birkdale on Saturday about the Bryson DeChambeau saga that played out late into the night Friday.",
+    "link": "https://nypost.com/2026/07/18/sports/bryson-dechambeaus-peers-react-to-british-open-penalty-stroke-saga/",
+    "pubDate": "Sat, 18 Jul 2026 12:11:04 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-18T16:15:01.215Z"
+  },
+  {
+    "title": "R.I.P. Chef Dom Taylor: Star and Winner of Netflix’s ‘Five Star Chef,’ Dead at 44",
+    "description": "The British chef and restaurant owner was known for his creative celebrations of Caribbean cuisine.",
+    "link": "https://decider.com/2026/07/18/r-i-p-chef-dom-taylor-star-and-winner-of-netflixs-five-star-chef-dead-at-44/",
+    "pubDate": "Sat, 18 Jul 2026 12:05:17 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-18T16:15:01.215Z"
+  },
+  {
+    "title": "Tom Segura’s estranged wife, Christina Pazsitzky, breaks silence on their ‘really difficult’ split",
+    "description": "\"Thank you for all the kind messages,\" the comedian wrote on Instagram Saturday. \"This is a really difficult time for our family.\"",
+    "link": "https://pagesix.com/2026/07/18/celebrity-news/tom-seguras-estranged-wife-christina-pazsitzky-breaks-silence-on-split/",
+    "pubDate": "Sat, 18 Jul 2026 12:04:02 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-18T16:15:01.215Z"
+  },
+  {
+    "title": "We found a MacBook Air deal for less than the price of an iPad — just $200 while supplies last (MSRP $1,199)",
+    "description": "Apple laptop steal.",
+    "link": "https://nypost.com/2026/07/18/shopping/score-a-refurbished-apple-macbook-air-for-just-199-97/",
+    "pubDate": "Sat, 18 Jul 2026 12:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-18T16:15:01.215Z"
+  },
+  {
+    "title": "UFC Oklahoma City predictions: Full fight card picks, best bets Saturday",
+    "description": "It’s been a roaring summer in mixed martial arts, and there’s another strong card on tap this weekend.",
+    "link": "https://nypost.com/2026/07/18/betting/ufc-oklahoma-city-predictions-full-fight-card-picks-best-bets/",
+    "pubDate": "Sat, 18 Jul 2026 12:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-18T16:15:01.215Z"
+  },
+  {
+    "title": "World Cup Young Player of the Tournament odds, picks: Is it Lamine Yamal’s award to lose?",
+    "description": "Two Spaniards top the odds to win Young Player of the Tournament at the World Cup.",
+    "link": "https://nypost.com/2026/07/18/betting/world-cup-young-player-of-the-tournament-odds-picks-is-it-lamine-yamals-award-to-lose/",
+    "pubDate": "Sat, 18 Jul 2026 12:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-18T16:15:01.215Z"
   }
 ]
