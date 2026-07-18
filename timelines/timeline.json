@@ -251,6 +251,11 @@
           "date": "2026-07-18",
           "edition": "morning",
           "update": "The House Oversight Committee subpoenaed billionaire Leon Black for a second interview scheduled in September, focusing on his friendship with Epstein and a birthday book; Black had previously paid Epstein $158 million for tax advice. A woman identified only as 'Anya' gave the BBC a first-hand account describing Epstein's methods of luring and controlling young women he called 'assistants,' including accounts of threats and disfiguring surgery within what she characterized as a cult-like environment."
+        },
+        {
+          "date": "2026-07-18",
+          "edition": "evening",
+          "update": "Epstein survivor Jess Michaels publicly stated she left the meeting with acting Attorney General Todd Blanche feeling 'disappointed, disturbed and undaunted.'"
         }
       ],
       "parentId": null
@@ -636,6 +641,11 @@
           "date": "2026-07-18",
           "edition": "morning",
           "update": "Ukrainian drone strikes hit Wildberries online retail warehouses near Moscow and in Tambov, Russia, killing seven warehouse workers and igniting a fire at an oil depot in the Moscow region. President Zelensky described the targets as major logistics facilities supplying sanctioned components to Russia."
+        },
+        {
+          "date": "2026-07-18",
+          "edition": "evening",
+          "update": "Ukrainian drone strikes on Russia have now killed at least eight people, with newly reported strikes also targeting energy infrastructure and military sites inside Russia in addition to the previously confirmed Wildberries warehouse attacks near Moscow and in Tambov."
         }
       ],
       "parentId": null
@@ -1986,6 +1996,11 @@
           "date": "2026-07-18",
           "edition": "morning",
           "update": "U.S. strikes entered a seventh consecutive day, with attacks shifting further into Iran's interior and targeting bridges, water plants, and additional infrastructure, with Iranian state media reporting hits on sites serving civilian purposes. Several U.S. troops were injured in Iranian retaliatory strikes on at least two military bases in Jordan, with no fatalities reported. Oil prices spiked more than 4% and U.S. gas prices approached $4 per gallon as traffic through the Strait of Hormuz declined. Iran retaliated by striking power and desalination plants in the region, while the U.S. military announced an additional round of attacks in the afternoon, with analysts describing the broadened campaign as a strategic shift."
+        },
+        {
+          "date": "2026-07-18",
+          "edition": "evening",
+          "update": "Two U.S. service members were killed and one is missing following an Iranian ballistic missile and drone attack on U.S. forces in Jordan on Friday; CENTCOM confirmed the casualties on Saturday. The attack occurred despite a ceasefire or Memorandum of Understanding that had been signed between the U.S. and Iran prior to the strike. Iranian Supreme Leader Khamenei declared Trump's signature 'worthless' in response to U.S. breaches of agreements, while Senior IRGC adviser Mohsen Rezaei warned Iran will no longer limit itself to like-for-like responses and threatened that 'no political border will be safe.' Shipping traffic through the Strait of Hormuz has effectively frozen, with industry analysts reporting nobody is willing to move vessels through the waterway. Iran renewed strikes on Gulf states, with smoke plumes rising over Kuwait's Mangaf area, and U.S. overnight strikes damaged a tunnel and three bridges in Hormozgan Province according to the provincial governor."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2800,7 +2815,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-07-17",
+      "lastSeen": "2026-07-18",
       "active": true,
       "entries": [
         {
@@ -2877,6 +2892,11 @@
           "date": "2026-07-17",
           "edition": "evening",
           "update": "The New York Times profiled four key negotiators involved in potential U.S.-Iran diplomatic talks, noting that agreeing on a shared goal would be the critical first step in any future negotiations."
+        },
+        {
+          "date": "2026-07-18",
+          "edition": "evening",
+          "update": "Iran announced it is suspending its commitments to an interim deal with the United States, according to Newsmax."
         }
       ]
     },
@@ -3207,6 +3227,11 @@
           "date": "2026-07-18",
           "edition": "morning",
           "update": "The U.S. formally announced support for an Iraq-Syria pipeline rehabilitation agreement that would route crude exports from the Kirkuk oil fields to Syria's Baniyas port, with a U.S.-led international consortium to manage technical and financial aspects of the project. Chevron and ConocoPhillips were among U.S. firms signing oil-related agreements with Iraq at a U.S. Chamber of Commerce event, part of broader deal-making signaled by President Trump in the days prior."
+        },
+        {
+          "date": "2026-07-18",
+          "edition": "evening",
+          "update": "The U.S. has reimposed a naval blockade on Iran's ports, with Al Jazeera reporting pressure is expected to build on the Iranian public and global energy markets as a result."
         }
       ]
     },
@@ -3486,5 +3511,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-18T11:05:04.358Z"
+  "updatedAt": "2026-07-18T21:05:00.121Z"
 }
