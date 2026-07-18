@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-17",
+      "lastSeen": "2026-07-18",
       "active": true,
       "entries": [
         {
@@ -246,6 +246,11 @@
           "date": "2026-07-17",
           "edition": "evening",
           "update": "Epstein victims met with acting Attorney General Todd Blanche on Thursday; reactions were divided, with some describing the meeting as a meaningful first step and others dismissing it as a political exercise tied to Blanche's Senate confirmation process."
+        },
+        {
+          "date": "2026-07-18",
+          "edition": "morning",
+          "update": "The House Oversight Committee subpoenaed billionaire Leon Black for a second interview scheduled for September, focusing on his friendship with Epstein and a birthday book; Black had previously paid Epstein $158 million for purported tax advice. A woman identified as 'Anya' gave the BBC a firsthand account describing Epstein's recruitment and abuse of young women he called 'assistants,' detailing a cult-like environment involving control, threats, and disfiguring surgery."
         }
       ],
       "parentId": null
@@ -359,7 +364,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-17",
+      "lastSeen": "2026-07-18",
       "active": true,
       "entries": [
         {
@@ -626,6 +631,11 @@
           "date": "2026-07-17",
           "edition": "evening",
           "update": "Ukraine cut off Crimea from Russia, triggering an energy crisis on the peninsula. Russian attacks on Ukrainian ports killed two Ukrainians aboard a foreign vessel in Mykolaiv, with two additional deaths reported in Kherson and Odesa."
+        },
+        {
+          "date": "2026-07-18",
+          "edition": "morning",
+          "update": "Ukrainian drone strikes hit Wildberries online retail warehouses near Moscow and in Tambov, Russia, killing seven warehouse workers and igniting a fire at an oil depot in the Moscow region. President Zelensky described the targeted facilities as major logistics hubs supplying sanctioned components to Russia."
         }
       ],
       "parentId": null
@@ -1389,7 +1399,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-17",
+      "lastSeen": "2026-07-18",
       "active": true,
       "entries": [
         {
@@ -1971,6 +1981,11 @@
           "date": "2026-07-17",
           "edition": "evening",
           "update": "Satellite imagery revealed that Iran's Bushehr nuclear power plant sustained strike damage between July 7 and 12. On the seventh consecutive night of U.S. airstrikes, the U.S. military struck bridges and energy sites in southern Iran, with Iranian media also reporting a train station was hit. The IRGC retaliated with strikes on U.S. bases in Kuwait, Bahrain, and Jordan, and Iran claimed additional retaliatory attacks targeting multiple U.S. allies across the Middle East. Analysts assessed that U.S. strikes on southern Iran's civilian infrastructure are aimed at targeting Iran's supply lines and curbing its influence in the Strait of Hormuz."
+        },
+        {
+          "date": "2026-07-18",
+          "edition": "morning",
+          "update": "U.S. strikes entered a seventh consecutive day, with the military conducting both overnight and afternoon attack waves targeting bridges, water plants, a port facility, and energy infrastructure deeper into Iran's interior, marking a strategic broadening of the campaign. Iranian state media confirmed damage to bridges, railways, and water infrastructure. Oil prices spiked more than 4% and gas prices approached $4 per gallon as Strait of Hormuz traffic declined. Iranian attacks on at least two U.S. military bases in Jordan injured several American service members, with both the U.S. and Jordan reporting no fatalities."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2745,7 +2760,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-17",
+      "lastSeen": "2026-07-18",
       "active": true,
       "entries": [
         {
@@ -3080,7 +3095,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-07-17",
+      "lastSeen": "2026-07-18",
       "active": true,
       "entries": [
         {
@@ -3187,6 +3202,11 @@
           "date": "2026-07-17",
           "edition": "evening",
           "update": "Analysts warned that recognizing Iran's control over the Strait of Hormuz could set a dangerous precedent for other countries seeking to claim key global waterways."
+        },
+        {
+          "date": "2026-07-18",
+          "edition": "morning",
+          "update": "The U.S. announced formal support for an Iraq-Syria pipeline rehabilitation agreement, with a U.S.-led international consortium designated to manage the technical and financial aspects of the project. At a U.S. Chamber of Commerce event, Chevron and ConocoPhillips signed energy deals with Iraq, including an agreement to rebuild the Kirkuk-to-Baniyas crude pipeline running through Syria to the Mediterranean coast."
         }
       ]
     },
@@ -3265,7 +3285,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-07-16",
+      "lastSeen": "2026-07-18",
       "active": true,
       "entries": [
         {
@@ -3367,6 +3387,11 @@
           "date": "2026-07-16",
           "edition": "evening",
           "update": "Ebola patients and healthcare workers fled an attack on a hospital in Congo, disrupting treatment and outbreak response efforts, according to Reuters."
+        },
+        {
+          "date": "2026-07-18",
+          "edition": "morning",
+          "update": "Seven American aid workers from the Samaritan's Purse charity are being quarantined at a U.S.-backed Ebola isolation facility in Kenya."
         }
       ]
     },
@@ -3461,5 +3486,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-17T21:08:30.335Z"
+  "updatedAt": "2026-07-18T11:05:00.725Z"
 }
