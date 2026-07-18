@@ -1174,5 +1174,53 @@
     "source": "National Review",
     "categories": [],
     "collectedAt": "2026-07-18T10:45:01.362Z"
+  },
+  {
+    "title": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
+    "description": "Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort.",
+    "link": "https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions",
+    "pubDate": "Sat, 18 Jul 2026 06:45:43 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-07-18T11:00:01.395Z"
+  },
+  {
+    "title": "Dangerous wildfire smoke impacting more than a dozen states",
+    "description": "Dangerous wildfire smoke is impacting over a dozen states Saturday as air quality alerts span from the Upper Midwest and Great Lakes to the Northeast and Mid-Atlantic.",
+    "link": "https://abcnews.com/US/dangerous-wildfire-smoke-impacting-dozen-states/story?id=134870818",
+    "pubDate": "Sat, 18 Jul 2026 06:54:34 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-07-18T11:00:01.395Z"
+  },
+  {
+    "title": "What the US and Canada Can Expect from the Wildfire Smoke This Weekend",
+    "description": "The smoke isn’t going away, but where it affects air quality will shift over the next few days.",
+    "link": "https://www.nytimes.com/2026/07/18/weather/canada-wildfires-smoke-updates-today.html",
+    "pubDate": "Sat, 18 Jul 2026 09:03:30 +0000",
+    "source": "NY Times",
+    "categories": [
+      "wildfires",
+      "air pollution",
+      "global warming",
+      "trump, donald j",
+      "canada",
+      "northeastern states (us)",
+      "ontario (canada)",
+      "new york city",
+      "weather"
+    ],
+    "collectedAt": "2026-07-18T11:00:01.395Z"
+  },
+  {
+    "title": "Map Shows Cyclosporiasis Hotspots, Taylor Farms Pulls Lettuce: 'Do Not Eat'",
+    "description": "Federal officials confirmed lettuce served at Taco Bell locations across five states is the source of a cyclosporiasis outbreak.",
+    "link": "https://www.newsweek.com/map-shows-cyclosporiasis-hotspots-taylor-farms-pulls-lettuce-do-not-eat-12213684",
+    "pubDate": "Sat, 18 Jul 2026 06:52:51 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-18T11:00:01.395Z"
   }
 ]
