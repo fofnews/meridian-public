@@ -651,6 +651,11 @@
           "date": "2026-07-19",
           "edition": "morning",
           "update": "Russia launched a large-scale overnight attack on Ukraine on Sunday, firing 41 ballistic missiles and 125 drones, with strikes hitting Kyiv and the surrounding region. At least one person was killed and nine wounded in the Kyiv attack. Separately, the New York Times reported that Ukraine's overnight strikes on two warehouses inside Russia killed at least eight people and injured 62. BBC News reported that Russians are increasingly turning to cash transactions amid mobile internet shutdowns, with businesses seeking to avoid taxes as Russia's wartime economy shows signs of slowing after more than four years of conflict."
+        },
+        {
+          "date": "2026-07-19",
+          "edition": "evening",
+          "update": "Kyiv was struck in what the Washington Examiner described as the largest ballistic missile attack of the war, with over 50 missiles fired including 38 Iskander ballistic missiles and six Zircon hypersonic cruise missiles, with few intercepted due to Ukraine's depleted interceptor stockpiles."
         }
       ],
       "parentId": null
@@ -789,7 +794,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-17",
+      "lastSeen": "2026-07-19",
       "active": true,
       "entries": [
         {
@@ -996,6 +1001,11 @@
           "date": "2026-07-17",
           "edition": "evening",
           "update": "The Israeli Knesset voted to dissolve itself early Friday following an overnight marathon legislative session, with elections set for October, as Prime Minister Netanyahu's governing coalition passed a series of last-minute bills before the dissolution."
+        },
+        {
+          "date": "2026-07-19",
+          "edition": "evening",
+          "update": "Israel is set to receive additional U.S. aerial refueling planes as Iranian attacks on the region intensify, according to Israeli officials cited by Reuters."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2011,6 +2021,11 @@
           "date": "2026-07-19",
           "edition": "morning",
           "update": "The U.S. launched its eighth consecutive night of airstrikes on Iran, with targets shifting to include Iranian military infrastructure such as missile depots and air defense systems. CENTCOM formally confirmed that two U.S. service members were killed and a third remains missing following the Iranian ballistic missile and drone attack on a base in Jordan on July 17, with President Trump directing retaliatory strikes in response. The U.S. State Department issued a Worldwide Caution security alert citing heightened tensions and the potential for unforeseen escalation following the ongoing U.S.-Iran exchange of fire over the Strait of Hormuz. Iran released a video that Newsmax reported reveals travel routes of former President Trump, framed in the context of a prior Iranian threat against his life."
+        },
+        {
+          "date": "2026-07-19",
+          "edition": "evening",
+          "update": "A U.S. service member was killed and another injured in northern Iraq during a controlled detonation of unexploded ordnance from a downed Iranian one-way attack drone, according to CENTCOM. Iran launched missile and drone attacks against U.S. Gulf allies Kuwait and Bahrain, causing a fire at a Kuwaiti power plant, with air raid sirens also sounding in Jordan. Retired Admiral James Stavridis warned that Iran is making signals about attempting to close the Suez Canal using Houthi forces, noting the canal carries more traffic than the Strait of Hormuz. Jordan has taken on an increased role in U.S. operations as other regional allies have restricted Washington's use of their bases and airspace, making it a more prominent Iranian target. U.S. Energy Secretary Chris Wright stated the 'mission' in Iran will continue following days of strikes."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2825,7 +2840,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-07-18",
+      "lastSeen": "2026-07-19",
       "active": true,
       "entries": [
         {
@@ -2907,6 +2922,11 @@
           "date": "2026-07-18",
           "edition": "evening",
           "update": "Iran announced it is suspending its commitments to an interim deal with the United States."
+        },
+        {
+          "date": "2026-07-19",
+          "edition": "evening",
+          "update": "President Trump called on Congress to add Iran to a bipartisan Russia sanctions bill — originally introduced in April 2025 by the late Sen. Lindsey Graham — in a Sunday morning post on Truth Social, invoking Graham's memory in support of the measure. Separately, a U.S.-Iranian dual citizen held in Iran for a year on espionage charges her attorney called 'bogus' has departed the country and returned home, according to her lawyer."
         }
       ]
     },
@@ -3247,6 +3267,11 @@
           "date": "2026-07-19",
           "edition": "morning",
           "update": "A London-based research group proposed forming a coalition of Gulf states to jointly share control of the Strait of Hormuz, using the now-defunct European Coal and Steel Community as a governance framework for the arrangement."
+        },
+        {
+          "date": "2026-07-19",
+          "edition": "evening",
+          "update": "Gulf crude exports rose in July but shipments began slowing as renewed hostilities in the region disrupted activity, according to Reuters data."
         }
       ]
     },
@@ -3325,7 +3350,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-07-18",
+      "lastSeen": "2026-07-19",
       "active": true,
       "entries": [
         {
@@ -3432,6 +3457,11 @@
           "date": "2026-07-18",
           "edition": "morning",
           "update": "Seven American aid workers from the Samaritan's Purse charity are being quarantined at a U.S.-backed Ebola isolation facility in Kenya, according to the organization."
+        },
+        {
+          "date": "2026-07-19",
+          "edition": "evening",
+          "update": "Canada announced it will temporarily bar entry to foreigners who have recently visited the Democratic Republic of Congo, a measure taken against the advice of the United Nations."
         }
       ]
     },
@@ -3526,5 +3556,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-19T11:06:11.613Z"
+  "updatedAt": "2026-07-19T21:05:27.025Z"
 }
