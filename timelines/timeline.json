@@ -369,7 +369,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-18",
+      "lastSeen": "2026-07-19",
       "active": true,
       "entries": [
         {
@@ -646,6 +646,11 @@
           "date": "2026-07-18",
           "edition": "evening",
           "update": "Ukrainian drone attacks killed at least eight people inside Russia and wounded dozens more, with strikes targeting energy infrastructure and military sites in addition to the logistics facilities previously reported. Al Jazeera separately reported a Ukrainian strike on a Russian logistics center, with no additional details on location or scale provided."
+        },
+        {
+          "date": "2026-07-19",
+          "edition": "morning",
+          "update": "Russia launched 41 missiles and 125 attack drones in a widespread overnight attack targeting Ukraine, including what President Zelensky described as one of the most massive ballistic missile strikes on Kyiv, killing at least one person in the capital. Separately, the New York Times reported Ukraine's overnight strikes on two Russian warehouses killed at least eight people and injured 62. BBC News reported that Russians are increasingly turning to cash transactions amid mobile internet shutdowns, with businesses seeking to avoid tax payments, adding further strain to Russia's slowing wartime economy."
         }
       ],
       "parentId": null
@@ -1409,7 +1414,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-18",
+      "lastSeen": "2026-07-19",
       "active": true,
       "entries": [
         {
@@ -2001,6 +2006,11 @@
           "date": "2026-07-18",
           "edition": "evening",
           "update": "Two U.S. service members were killed and one is missing following an Iranian ballistic missile and drone attack on a U.S. base in Jordan on July 17; CENTCOM confirmed the casualties on Saturday. Iranian strikes hit multiple locations in Mangaf, Kuwait, sending large plumes of smoke over the area, as Iran renewed attacks on Gulf states following another night of U.S. airstrikes. Senior Iranian adviser Major-General Mohsen Rezaei warned that Iran would launch 'full-scale offensive operations' and would 'no longer limit itself to retaliatory, like-for-like responses' if U.S. strikes do not cease, stating 'no political border will be safe.' Iranian Supreme Leader Khamenei stated that U.S. breaches of agreements demonstrate that President Trump's signature is 'worthless.' U.S. overnight strikes damaged a tunnel and three bridges in Iran's Hormozgan Province, leaving residents isolated, while critical water and power infrastructure damage is being compounded by temperatures exceeding 100 degrees across the region."
+        },
+        {
+          "date": "2026-07-19",
+          "edition": "morning",
+          "update": "U.S. forces launched strikes on Iran for an eighth consecutive night on Saturday evening, as confirmed by U.S. Central Command, which also officially confirmed the deaths of two U.S. service members and one missing soldier following the Iranian ballistic missile and drone attack on a base in Jordan on July 17. Iran continued strikes on U.S. military positions in Kuwait, firing drones and missiles at the installations. The U.S. State Department issued a Worldwide Caution security alert citing heightened tensions in the Middle East stemming from the ongoing U.S.-Iran exchanges over the Strait of Hormuz. Iran released a video referencing the killing of President Trump that reportedly reveals his travel routes, according to Newsmax."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2775,7 +2785,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-18",
+      "lastSeen": "2026-07-19",
       "active": true,
       "entries": [
         {
@@ -3115,7 +3125,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-07-18",
+      "lastSeen": "2026-07-19",
       "active": true,
       "entries": [
         {
@@ -3232,6 +3242,11 @@
           "date": "2026-07-18",
           "edition": "evening",
           "update": "Shipping through the Strait of Hormuz has effectively frozen following the seventh consecutive night of U.S. strikes on Iran, with an industry analyst telling CBS News that 'nobody is willing to move' through the waterway. The U.S. has reimposed a naval blockade on Iran's ports, with pressure expected to build on the Iranian public and global energy markets."
+        },
+        {
+          "date": "2026-07-19",
+          "edition": "morning",
+          "update": "A London-based research group proposed forming a coalition of Gulf states to share control of the Strait of Hormuz, modeled on the framework of Europe's now-defunct coal and steel pact."
         }
       ]
     },
@@ -3511,5 +3526,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-18T21:05:03.595Z"
+  "updatedAt": "2026-07-19T11:06:10.012Z"
 }
