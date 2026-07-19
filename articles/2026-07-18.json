@@ -8120,5 +8120,57 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-19T02:00:02.655Z"
+  },
+  {
+    "title": "Colorado ICE center employee arrested after allegedly shooting protester",
+    "description": "An employee of a group that operates an ICE detainment center in Aurora, Colorado, was arrested after police said he shot and wounded a woman who was taking part in a protest.",
+    "link": "https://www.cbsnews.com/news/employee-who-works-at-aurora-ice-processing-center-arrested-accused-of-shooting-and-injuring-colorado-protester/",
+    "pubDate": "Sat, 18 Jul 2026 22:07:36 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-07-19T02:15:01.370Z"
+  },
+  {
+    "title": "Power Ranking the Quarterbacks in the AFC East",
+    "description": "Who is the top quarterback in the AFC East? We ranked the four starting QBs from best to worst.",
+    "link": "https://www.newsweek.com/sports/nfl/power-ranking-the-quarterbacks-in-the-afc-east-12215131",
+    "pubDate": "Sat, 18 Jul 2026 22:08:01 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-19T02:15:01.370Z"
+  },
+  {
+    "title": "New EU border system tripling time at passport control, airport boss says",
+    "description": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 19 Jul 2026 01:47:59 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-19T02:15:01.370Z"
+  },
+  {
+    "title": "The honours system used to be too posh but I'm proof change is happening",
+    "description": "Record numbers of people from poorer backgrounds are now receiving awards.",
+    "link": "https://www.bbc.co.uk/news/articles/cpd3dd3vv65o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 19 Jul 2026 01:56:10 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-19T02:15:01.370Z"
+  },
+  {
+    "title": "Taylor Farms expands lettuce recall to 27 states",
+    "description": "Taylor Farms has expanded a voluntary recall of iceberg lettuce that was distributed to 27 states after federal health officials linked the lettuce from its supplier in central Mexico to the spread of an “explosive diarrhea” parasite. Earlier this week, the Centers for Disease Control and Prevention (CDC) linked shredded iceberg lettuce from a single…",
+    "link": "https://thehill.com/policy/healthcare/5976484-taylor-farms-lettuce-recall/",
+    "pubDate": "Sun, 19 Jul 2026 00:47:11 +0000",
+    "source": "The Hill",
+    "categories": [
+      "healthcare",
+      "news",
+      "cdc",
+      "central mexico",
+      "fda",
+      "taylor farms"
+    ],
+    "collectedAt": "2026-07-19T02:15:01.370Z"
   }
 ]
