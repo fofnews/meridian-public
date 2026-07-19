@@ -557,5 +557,36 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-19T08:30:01.322Z"
+  },
+  {
+    "title": "Bruno Mars has an unexpected opening before Wembley party starts",
+    "description": "After an eight-year absence from UK stages, Bruno Mars returned to Wembley Stadium with a polished, hit-filled show.",
+    "link": "https://www.bbc.co.uk/news/articles/cyv0vvg1pqdo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 19 Jul 2026 08:26:02 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-19T08:45:01.313Z"
+  },
+  {
+    "title": "Spain vs Argentina: World Cup final predictions, schedule, Messi news",
+    "description": "Spain face Argentina in the World Cup final as Lionel Messi, Lamine Yamal and history dominate the build-up.",
+    "link": "https://www.aljazeera.com/news/2026/7/19/world-cup-final-2026-spain-argentina-predictions-schedule-messi?traffic_source=rss",
+    "pubDate": "Sun, 19 Jul 2026 08:24:19 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-07-19T08:45:01.313Z"
+  },
+  {
+    "title": "Spain vs Argentina: Key factors that could decide World Cup 2026 final",
+    "description": "Matchups, a style clash, Messi magic, a midfield battle and a passing of the torch could be key narratives in the final.",
+    "link": "https://www.aljazeera.com/sports/2026/7/19/spain-vs-argentina-five-key-factors-2026-world-cup-final?traffic_source=rss",
+    "pubDate": "Sun, 19 Jul 2026 08:12:54 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-07-19T08:45:01.313Z"
   }
 ]
