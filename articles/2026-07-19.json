@@ -1473,5 +1473,34 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-19T11:45:01.287Z"
+  },
+  {
+    "title": "Spanish World Cup Winner Who Begged Trump For Visa Appears Headed For US",
+    "description": "Joan Capdevila said he was denied U.S. travel authorization before reports emerged that officials had reversed the decision.",
+    "link": "https://www.newsweek.com/world-cup-winner-begged-trump-visa-appears-headed-us-12215325",
+    "pubDate": "Sun, 19 Jul 2026 07:50:23 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-19T12:00:01.265Z"
+  },
+  {
+    "title": "Would this survival pod make you feel safer?",
+    "description": "LifePods survival capsules from Momentum Technologies offer flood, ballistic and earthquake protection starting around $27,000 before shipping costs.",
+    "link": "https://www.foxnews.com/tech/survival-pod-make-feel-safer",
+    "pubDate": "Sun, 19 Jul 2026 07:48:42 -0400",
+    "source": "Fox News",
+    "categories": [
+      "16551577-d9fa-5c5d-b571-f9b15e5097a0",
+      "fnc",
+      "fox news",
+      "fox-news/tech/topics/innovation",
+      "fox-news/special/sponsored/smart-and-safe-tech",
+      "fox-news/tech/topics/security",
+      "fox-news/world/disasters",
+      "fox-news/science/planet-earth/natural-disasters",
+      "fox-news/tech",
+      "article"
+    ],
+    "collectedAt": "2026-07-19T12:00:01.265Z"
   }
 ]
