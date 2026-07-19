@@ -655,7 +655,7 @@
         {
           "date": "2026-07-19",
           "edition": "evening",
-          "update": "Kyiv was struck in what the Washington Examiner described as the largest ballistic missile attack of the war, with over 50 missiles fired including 38 Iskander ballistic missiles and six Zircon hypersonic cruise missiles, with few intercepted due to Ukraine's depleted interceptor stockpiles."
+          "update": "Kyiv was struck in the largest ballistic missile attack of the war, with over 50 missiles fired including 38 Iskander ballistic missiles and six Zircon hypersonic cruise missiles; few were intercepted due to Ukraine's depleted interceptor stockpiles."
         }
       ],
       "parentId": null
@@ -1005,7 +1005,7 @@
         {
           "date": "2026-07-19",
           "edition": "evening",
-          "update": "Israel is set to receive additional U.S. aerial refueling planes as Iranian attacks on the region intensify, according to Israeli officials cited by Reuters."
+          "update": "Israel is set to receive additional U.S. aerial refueling planes as Iranian attacks intensify, according to Israeli officials cited by Reuters."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2025,7 +2025,7 @@
         {
           "date": "2026-07-19",
           "edition": "evening",
-          "update": "A U.S. service member was killed and another injured in northern Iraq during a controlled detonation of unexploded ordnance from a downed Iranian one-way attack drone, according to CENTCOM. Iran launched missile and drone attacks against U.S. Gulf allies Kuwait and Bahrain, causing a fire at a Kuwaiti power plant, with air raid sirens also sounding in Jordan. Retired Admiral James Stavridis warned that Iran is making signals about attempting to close the Suez Canal using Houthi forces, noting the canal carries more traffic than the Strait of Hormuz. Jordan has taken on an increased role in U.S. operations as other regional allies have restricted Washington's use of their bases and airspace, making it a more prominent Iranian target. U.S. Energy Secretary Chris Wright stated the 'mission' in Iran will continue following days of strikes."
+          "update": "Iran launched missile and drone attacks on U.S. Gulf allies Kuwait and Bahrain, causing a fire at a Kuwait power plant, with air raid sirens also reported in Jordan. A U.S. service member was killed and another injured in northern Iraq during a controlled detonation of unexploded ordnance from a downed Iranian drone, according to CENTCOM. Retired Admiral James Stavridis warned the U.S. to monitor the Suez Canal, saying Iran is making noise about attempting to close it using Houthi forces. Energy Secretary Chris Wright stated the mission in Iran will continue, while Jordan emerged as a more prominent U.S. basing partner as other regional allies restricted Washington's use of their airspace and facilities."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2926,7 +2926,7 @@
         {
           "date": "2026-07-19",
           "edition": "evening",
-          "update": "President Trump called on Congress to add Iran to a bipartisan Russia sanctions bill — originally introduced in April 2025 by the late Sen. Lindsey Graham — in a Sunday morning post on Truth Social, invoking Graham's memory in support of the measure. Separately, a U.S.-Iranian dual citizen held in Iran for a year on espionage charges her attorney called 'bogus' has departed the country and returned home, according to her lawyer."
+          "update": "Trump called on Congress to add Iran to a bipartisan Russia sanctions bill, invoking the memory of its late author, former Sen. Lindsey Graham of South Carolina, in support of the measure. CBS News separately confirmed that the dual Iranian-American citizen previously reported as released has departed Iran and returned home."
         }
       ]
     },
@@ -3267,11 +3267,6 @@
           "date": "2026-07-19",
           "edition": "morning",
           "update": "A London-based research group proposed forming a coalition of Gulf states to jointly share control of the Strait of Hormuz, using the now-defunct European Coal and Steel Community as a governance framework for the arrangement."
-        },
-        {
-          "date": "2026-07-19",
-          "edition": "evening",
-          "update": "Gulf crude exports rose in July but shipments began slowing as renewed hostilities in the region disrupted activity, according to Reuters data."
         }
       ]
     },
@@ -3461,7 +3456,7 @@
         {
           "date": "2026-07-19",
           "edition": "evening",
-          "update": "Canada announced it will temporarily bar entry to foreigners who have recently visited the Democratic Republic of Congo, a measure taken against the advice of the United Nations."
+          "update": "Canada announced it will temporarily bar entry to foreigners who have recently traveled to the Democratic Republic of Congo, a measure taken against the advice of the United Nations."
         }
       ]
     },
@@ -3556,5 +3551,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-19T21:05:27.025Z"
+  "updatedAt": "2026-07-19T21:05:40.332Z"
 }
