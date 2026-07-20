@@ -455,5 +455,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-20T07:30:01.892Z"
+  },
+  {
+    "title": "Broadcaster and journalist Edward Stourton dies aged 68",
+    "description": "Stourton hosted Radio 4's Today programme for a decade and was a founding member of Channel 4 News.",
+    "link": "https://www.bbc.co.uk/news/articles/c20d4j4v9g9o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 20 Jul 2026 07:30:13 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-20T07:45:01.349Z"
+  },
+  {
+    "title": "Singapore minister resigns over ‘interactions with a woman’, PM says",
+    "description": "The People's Action Party, which prides itself on ​a clean reputation, has been rocked by a series of scandals recently.",
+    "link": "https://www.aljazeera.com/news/2026/7/20/singapore-minister-resigns-over-interactions-with-a-woman-pm-says?traffic_source=rss",
+    "pubDate": "Mon, 20 Jul 2026 07:32:47 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-20T07:45:01.349Z"
   }
 ]
