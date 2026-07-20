@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-18",
+      "lastSeen": "2026-07-20",
       "active": true,
       "entries": [
         {
@@ -256,6 +256,11 @@
           "date": "2026-07-18",
           "edition": "evening",
           "update": "Epstein survivor Jess Michaels described leaving her meeting with acting Attorney General Todd Blanche as 'disappointed, disturbed and undaunted.'"
+        },
+        {
+          "date": "2026-07-20",
+          "edition": "morning",
+          "update": "Epstein survivor Jess Michaels told MSNBC that she and other survivors felt 'gaslit' during their meeting with acting Attorney General Todd Blanche, alleging that Blanche repeatedly denied DOJ involvement in matters related to the Epstein case."
         }
       ],
       "parentId": null
@@ -369,7 +374,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-19",
+      "lastSeen": "2026-07-20",
       "active": true,
       "entries": [
         {
@@ -656,6 +661,11 @@
           "date": "2026-07-19",
           "edition": "evening",
           "update": "Kyiv was struck in the largest ballistic missile attack of the war, with over 50 missiles fired including 38 Iskander ballistic missiles and six Zircon hypersonic cruise missiles; few were intercepted due to Ukraine's depleted interceptor stockpiles."
+        },
+        {
+          "date": "2026-07-20",
+          "edition": "morning",
+          "update": "Russia reported that Ukraine launched approximately 400 drones targeting the Moscow region, wounding two people and setting several buildings ablaze. Inside Ukraine, police reported a rise in violent incidents targeting military recruitment officers as the country continues to struggle with soldier recruitment."
         }
       ],
       "parentId": null
@@ -1424,7 +1434,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-19",
+      "lastSeen": "2026-07-20",
       "active": true,
       "entries": [
         {
@@ -2026,6 +2036,11 @@
           "date": "2026-07-19",
           "edition": "evening",
           "update": "Iran launched missile and drone attacks on U.S. Gulf allies Kuwait and Bahrain, causing a fire at a Kuwait power plant, with air raid sirens also reported in Jordan. A U.S. service member was killed and another injured in northern Iraq during a controlled detonation of unexploded ordnance from a downed Iranian drone, according to CENTCOM. Retired Admiral James Stavridis warned the U.S. to monitor the Suez Canal, saying Iran is making noise about attempting to close it using Houthi forces. Energy Secretary Chris Wright stated the mission in Iran will continue, while Jordan emerged as a more prominent U.S. basing partner as other regional allies restricted Washington's use of their airspace and facilities."
+        },
+        {
+          "date": "2026-07-20",
+          "edition": "morning",
+          "update": "The U.S. military carried out its ninth consecutive night of airstrikes on Iran, with Iranian media reporting blasts in cities including Tabriz in the far north and Chabahar in the far south. Brent crude surpassed $90 per barrel, the average U.S. gas price returned to $4 per gallon, and Ryanair reported a drop in profits citing rising fuel costs. The total U.S. service member death toll in the conflict reached at least 17, according to AP News, with Trump stating the latest strikes were carried out 'in honour' of killed personnel. Iran's IRGC claimed to have conducted an attack on Jordan, and Israel warned that attacks from Tehran are imminent."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2800,7 +2815,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-19",
+      "lastSeen": "2026-07-20",
       "active": true,
       "entries": [
         {
@@ -2840,7 +2855,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-07-19",
+      "lastSeen": "2026-07-20",
       "active": true,
       "entries": [
         {
@@ -2927,6 +2942,11 @@
           "date": "2026-07-19",
           "edition": "evening",
           "update": "Trump called on Congress to add Iran to a bipartisan Russia sanctions bill, invoking the memory of its late author, former Sen. Lindsey Graham of South Carolina, in support of the measure. CBS News separately confirmed that the dual Iranian-American citizen previously reported as released has departed Iran and returned home."
+        },
+        {
+          "date": "2026-07-20",
+          "edition": "morning",
+          "update": "Secretary of State Marco Rubio stated the U.S. remains open to diplomacy with Iran and noted that Iran has signaled it wants to negotiate, even as both sides continued to carry out attacks following the ninth consecutive night of U.S. bombing operations."
         }
       ]
     },
@@ -3551,5 +3571,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-19T21:05:40.332Z"
+  "updatedAt": "2026-07-20T11:06:34.287Z"
 }
