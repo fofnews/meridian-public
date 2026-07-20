@@ -260,7 +260,7 @@
         {
           "date": "2026-07-20",
           "edition": "morning",
-          "update": "Epstein survivor Jess Michaels told MSNBC that she and other survivors felt 'gaslit' during their meeting with acting Attorney General Todd Blanche, alleging that Blanche repeatedly denied DOJ involvement in matters related to the Epstein case."
+          "update": "Epstein survivor Jess Michaels stated on MSNBC that she and other survivors were 'gaslit' during their meeting with acting Attorney General Todd Blanche, saying Blanche repeatedly denied claims about the Department of Justice's handling of the case."
         }
       ],
       "parentId": null
@@ -665,7 +665,7 @@
         {
           "date": "2026-07-20",
           "edition": "morning",
-          "update": "Russia reported that Ukraine launched approximately 400 drones targeting the Moscow region, wounding two people and setting several buildings ablaze. Inside Ukraine, police reported a rise in violent incidents targeting military recruitment officers as the country continues to struggle with soldier recruitment."
+          "update": "Ukraine launched approximately 400 drones targeting the Moscow region, according to Russian authorities cited by Reuters, resulting in two people wounded and several buildings set ablaze. Separately, BBC News reported that aggression against military recruitment officers in Ukraine has become increasingly threatening as the country's struggle to recruit soldiers intensifies."
         }
       ],
       "parentId": null
@@ -2040,7 +2040,7 @@
         {
           "date": "2026-07-20",
           "edition": "morning",
-          "update": "The U.S. military carried out its ninth consecutive night of airstrikes on Iran, with Iranian media reporting blasts in cities including Tabriz in the far north and Chabahar in the far south. Brent crude surpassed $90 per barrel, the average U.S. gas price returned to $4 per gallon, and Ryanair reported a drop in profits citing rising fuel costs. The total U.S. service member death toll in the conflict reached at least 17, according to AP News, with Trump stating the latest strikes were carried out 'in honour' of killed personnel. Iran's IRGC claimed to have conducted an attack on Jordan, and Israel warned that attacks from Tehran are imminent."
+          "update": "The U.S. conducted strikes on Iran for a ninth consecutive night, with Iranian media reporting blasts in cities including Tabriz in the far north and Chabahar in the far south — the widest geographic spread of the campaign to date. President Trump stated the latest strikes were carried out in honor of killed U.S. military personnel. The total U.S. death toll in the conflict has reached at least 17 service members, according to AP News, with at least three killed across Iraq and Jordan in the most recent escalation. Brent crude surpassed $90 per barrel and the average U.S. gasoline price returned to $4 per gallon, reversing relief that had followed a prior deal to reopen the Strait of Hormuz. Israel warned that attacks from Tehran are coming close as the conflict broadened. Analysts warned that escalating strikes risk spiraling into a wider conflict neither side can contain, urging a swift return to negotiations."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2946,7 +2946,7 @@
         {
           "date": "2026-07-20",
           "edition": "morning",
-          "update": "Secretary of State Marco Rubio stated the U.S. remains open to diplomacy with Iran and noted that Iran has signaled it wants to negotiate, even as both sides continued to carry out attacks following the ninth consecutive night of U.S. bombing operations."
+          "update": "Secretary of State Marco Rubio stated the U.S. remains open to diplomacy with Iran following the ninth consecutive night of U.S. bombing campaigns, adding that Iran has signaled it wants to negotiate even as both sides continue to escalate attacks."
         }
       ]
     },
@@ -3165,7 +3165,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-07-19",
+      "lastSeen": "2026-07-20",
       "active": true,
       "entries": [
         {
@@ -3287,6 +3287,11 @@
           "date": "2026-07-19",
           "edition": "morning",
           "update": "A London-based research group proposed forming a coalition of Gulf states to jointly share control of the Strait of Hormuz, using the now-defunct European Coal and Steel Community as a governance framework for the arrangement."
+        },
+        {
+          "date": "2026-07-20",
+          "edition": "morning",
+          "update": "Al Jazeera reported on Iran attacking Kuwait infrastructure amid the ongoing conflict, raising concerns about broader Gulf security implications as regional tensions continue to escalate."
         }
       ]
     },
@@ -3571,5 +3576,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-20T11:06:34.287Z"
+  "updatedAt": "2026-07-20T11:07:30.051Z"
 }
