@@ -520,5 +520,29 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-07-20T08:00:01.709Z"
+  },
+  {
+    "title": "U.S. Average Gas Price Returns to $4 a Gallon as Iran Crisis Escalates",
+    "description": "A month ago, drivers were enjoying some relief at the pump after the U.S. and Iran signed a deal intended to reopen the Strait of Hormuz. Now, prices are rising again.",
+    "link": "https://www.nytimes.com/2026/07/20/business/four-dollar-gas-iran-war.html",
+    "pubDate": "Mon, 20 Jul 2026 07:57:35 +0000",
+    "source": "NY Times",
+    "categories": [
+      "oil (petroleum) and gasoline",
+      "prices (fares, fees and rates)",
+      "us and israeli attack on iran (2026)",
+      "trump, donald j",
+      "strait of hormuz"
+    ],
+    "collectedAt": "2026-07-20T08:15:01.257Z"
+  },
+  {
+    "title": "Oil prices climb as U.S. and Iran continue to fight",
+    "description": "Oil prices rose while U.S stock-index futures were little changed on Sunday, amid an escalation of fighting in the Middle East and as investors await key tech earnings this week.",
+    "link": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
+    "pubDate": "Mon, 20 Jul 2026 08:07:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-07-20T08:15:01.257Z"
   }
 ]
