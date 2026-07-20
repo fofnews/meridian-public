@@ -882,5 +882,221 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-20T09:45:01.456Z"
+  },
+  {
+    "title": "3rd person dies from Legionnaires' disease in New York City",
+    "description": "A third person has died in New York City amid an ongoing cluster of Legionnaires' disease cases in the Upper East Side, according to health officials.",
+    "link": "https://abcnews.com/US/3rd-person-dies-legionnaires-disease-new-york-city/story?id=134904478",
+    "pubDate": "Mon, 20 Jul 2026 05:57:15 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-07-20T10:00:01.211Z"
+  },
+  {
+    "title": "Why Silicon Valley Can’t Stop Looking Over Its Shoulder at China",
+    "description": "Chinese companies are offering artificial intelligence that is nearly as good as the leading U.S. technologies, but it’s still America’s race to lose.",
+    "link": "https://www.nytimes.com/2026/07/20/technology/china-us-ai-race.html",
+    "pubDate": "Mon, 20 Jul 2026 09:02:12 +0000",
+    "source": "NY Times",
+    "categories": [
+      "artificial intelligence",
+      "computers and the internet",
+      "anthropic ai llc",
+      "openai labs",
+      "openrouter inc",
+      "xi jinping",
+      "china"
+    ],
+    "collectedAt": "2026-07-20T10:00:01.211Z"
+  },
+  {
+    "title": "Can Arizona Republicans Stop Feuding Long Enough to Win Back the State?",
+    "description": "Some Republicans fear the party is poised to repeat past mistakes by nominating candidates in Tuesday’s primaries who are viewed as too extreme to sway moderate voters.",
+    "link": "https://www.nytimes.com/2026/07/20/us/politics/arizona-republicans-fighting.html",
+    "pubDate": "Mon, 20 Jul 2026 09:01:44 +0000",
+    "source": "NY Times",
+    "categories": [
+      "midterm elections (2026)",
+      "united states politics and government",
+      "conservatism (us politics)",
+      "debates (political)",
+      "politics and government",
+      "primaries and caucuses",
+      "elections, governors",
+      "republican party",
+      "turning point usa",
+      "biggs, andy (1958- )",
+      "hobbs, kathleen m",
+      "jayapal, pramila",
+      "jeffries, hakeem",
+      "lake, kari a",
+      "schweikert, david (1962- )",
+      "taylor robson, karrin",
+      "trump, donald j",
+      "arizona"
+    ],
+    "collectedAt": "2026-07-20T10:00:01.211Z"
+  },
+  {
+    "title": "In Maine Senate Race, Democrats Go From Chaos to Coronation",
+    "description": "Troy Jackson’s emergence as the clear front-runner to replace Graham Platner spares the party some challenges but points to some new ones.",
+    "link": "https://www.nytimes.com/2026/07/20/us/politics/maine-democrats-senate-jackson-platner.html",
+    "pubDate": "Mon, 20 Jul 2026 09:02:24 +0000",
+    "source": "NY Times",
+    "categories": [
+      "midterm elections (2026)",
+      "democratic party",
+      "jackson, troy d (1968- )",
+      "maine"
+    ],
+    "collectedAt": "2026-07-20T10:00:01.211Z"
+  },
+  {
+    "title": "Micah Lasher, Congressman in Waiting, Has a Few Tricks Up His Sleeve",
+    "description": "Mr. Lasher, the likely successor to Representative Jerry Nadler, has an unusual back story: As a teenager, he was a prodigy who performed magic tricks on national television.",
+    "link": "https://www.nytimes.com/2026/07/20/nyregion/micah-lasher-magic.html",
+    "pubDate": "Mon, 20 Jul 2026 07:00:12 +0000",
+    "source": "NY Times",
+    "categories": [
+      "lasher, micah c",
+      "new york city",
+      "magic and magicians",
+      "united states politics and government",
+      "midterm elections (2026)",
+      "elections, house of representatives",
+      "content type: personal profile",
+      "house of representatives"
+    ],
+    "collectedAt": "2026-07-20T10:00:01.211Z"
+  },
+  {
+    "title": "Why Epidemics Breed Rage at Health Workers",
+    "description": "Some people have fought Ebola containment measures in the Democratic Republic of Congo. Scholars have seen similar responses across societies and throughout history.",
+    "link": "https://www.nytimes.com/2026/07/20/magazine/ebola-health-workers.html",
+    "pubDate": "Mon, 20 Jul 2026 09:00:33 +0000",
+    "source": "NY Times",
+    "categories": [
+      "ebola virus",
+      "coronavirus (2019-ncov)",
+      "vaccination and immunization",
+      "medicine and health",
+      "epidemics"
+    ],
+    "collectedAt": "2026-07-20T10:00:01.211Z"
+  },
+  {
+    "title": "Ukraine War Momentum Helps Spur Interest in Postwar Investment",
+    "description": "At a conference on reconstruction, the focus shifted to private investment, not donor assistance.",
+    "link": "https://www.nytimes.com/2026/07/20/world/europe/ukraine-post-war-reconstruction.html",
+    "pubDate": "Mon, 20 Jul 2026 08:55:02 +0000",
+    "source": "NY Times",
+    "categories": [
+      "russian invasion of ukraine (2022)",
+      "economic conditions and trends",
+      "foreign investments",
+      "ukraine",
+      "politics and government",
+      "defense and military forces",
+      "russia",
+      "gdansk (poland)"
+    ],
+    "collectedAt": "2026-07-20T10:00:01.211Z"
+  },
+  {
+    "title": "Texas Book List: See What Students Will Be Required to Read",
+    "description": "What is essential reading? Texas has an answer: Classics, including the Bible.",
+    "link": "https://www.nytimes.com/2026/07/20/us/texas-schools-required-reading-books.html",
+    "pubDate": "Mon, 20 Jul 2026 09:00:08 +0000",
+    "source": "NY Times",
+    "categories": [
+      "books and literature",
+      "education (k-12)",
+      "charter schools",
+      "bible",
+      "writing and writers",
+      "conservatism (us politics)",
+      "republican party",
+      "texas"
+    ],
+    "collectedAt": "2026-07-20T10:00:01.211Z"
+  },
+  {
+    "title": "‘National Treasure,’ the Over-Engineered, Delightfully Dumb U.S. History Lesson",
+    "description": "Nicolas Cage, Diane Kruger and Justin Bartha raced from conspiracy theory to conspiracy theory in this 2004 blockbuster about stealing the Declaration of Independence.",
+    "link": "https://www.nytimes.com/2026/07/20/movies/national-treasure-nicolas-cage.html",
+    "pubDate": "Mon, 20 Jul 2026 09:00:57 +0000",
+    "source": "NY Times",
+    "categories": [
+      "movies",
+      "bartha, justin",
+      "bean, sean",
+      "cage, nicolas",
+      "kruger, diane",
+      "national treasure (movie)"
+    ],
+    "collectedAt": "2026-07-20T10:00:01.211Z"
+  },
+  {
+    "title": "Trial Begins for Lindsay Clancy, Charged With Murdering Her 3 Children",
+    "description": "A Massachusetts mother charged in the killing of her children goes on trial on Monday. The small coastal town of Duxbury is preparing to relive a case focused on postpartum mental health.",
+    "link": "https://www.nytimes.com/2026/07/20/us/lindsey-clancy-murder-trial-duxbury-ma.html",
+    "pubDate": "Mon, 20 Jul 2026 09:01:55 +0000",
+    "source": "NY Times",
+    "categories": [
+      "depression (mental)",
+      "children and childhood",
+      "murders, attempted murders and homicides",
+      "mental health and disorders",
+      "pregnancy and childbirth",
+      "psychiatry and psychiatrists",
+      "deaths (fatalities)",
+      "yates, andrea",
+      "duxbury (mass)",
+      "clancy, lindsay (1990- )"
+    ],
+    "collectedAt": "2026-07-20T10:00:01.211Z"
+  },
+  {
+    "title": "West's Energy Trade With Russian Ally Must Address Rights: Jailed Dissident",
+    "description": "Ali Karimli told Newsweek of worsening jail conditions in Azerbaijan as he faces charges of attempting a coup.",
+    "link": "https://www.newsweek.com/west-azerbaijan-energy-trade-rights-jailed-dissident-12203681",
+    "pubDate": "Mon, 20 Jul 2026 05:51:50 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-20T10:00:01.211Z"
+  },
+  {
+    "title": "Indian police beat ‘Cockroach’ march protesters",
+    "description": "Indian police beat ‘Cockroach’ march protesters",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/indian-police-beat-cockroach-march-protesters?traffic_source=rss",
+    "pubDate": "Mon, 20 Jul 2026 09:34:19 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-20T10:00:01.211Z"
+  },
+  {
+    "title": "RNC trolls DNC, Maine Democratic Party in letter offering to help restore trust, 'defend democracy’",
+    "description": "The RNC sent a tongue-in-cheek letter offering election lawyers and trained observers to Democrats as Maine scrambles to replace Graham Platner.",
+    "link": "https://www.foxnews.com/politics/rnc-trolls-dnc-maine-democratic-party-letter-offering-help-restore-trust-defend-democracy",
+    "pubDate": "Mon, 20 Jul 2026 05:49:22 -0400",
+    "source": "Fox News",
+    "categories": [
+      "24e50bcd-a816-5913-a601-27e497285ce0",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/person/graham-platner",
+      "fox-news/politics/state-and-local/elections-disputes",
+      "fox-news/us/us-regions/northeast/maine",
+      "fox-news/politics/house-of-representatives/republicans",
+      "fox-news/democrats",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-07-20T10:00:01.211Z"
   }
 ]
