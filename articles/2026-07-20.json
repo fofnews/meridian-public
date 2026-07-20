@@ -252,5 +252,34 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-20T05:30:01.573Z"
+  },
+  {
+    "title": "Fire crews battling blaze on Arthur’s Seat in Edinburgh",
+    "description": "A huge plume of smoke could be seen from as far away as Fife on Sunday evening.",
+    "link": "https://www.bbc.co.uk/news/articles/cr59mqnm081o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 20 Jul 2026 05:38:58 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-20T05:45:01.643Z"
+  },
+  {
+    "title": "Protests in Houston continue over ICE killing of Lorenzo Salgado Araujo",
+    "description": "Hundreds gather in Texas city, demanding justice for the fatal shooting of 52-year-old Mexican man",
+    "link": "https://www.aljazeera.com/news/2026/7/20/protests-in-houston-continue-after-ice-killing-of-lorenzo-salgado-araujo?traffic_source=rss",
+    "pubDate": "Mon, 20 Jul 2026 05:01:07 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-20T05:45:01.643Z"
+  },
+  {
+    "title": "Morning Bid: Rising oil, yields rain on AI party - Reuters",
+    "description": "Morning Bid: Rising oil, yields rain on AI party  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53OUo4WnVpOHludUQ5TjJVSGhJaHoxUjRNVURHTnJOQmc2TlRaeTVlWnIycnBJY3JBem1HWVpqQjhCSDNYVkh4Tlo3aS1HM294cmREOXNxOHZFVDBsVm1lYmQ4dXRrWUhGZEtmQ2QxTWtIMGI2ZzJGX1k4WVdPVTg?oc=5",
+    "pubDate": "Mon, 20 Jul 2026 04:32:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-07-20T05:45:01.643Z"
   }
 ]
