@@ -670,7 +670,7 @@
         {
           "date": "2026-07-20",
           "edition": "evening",
-          "update": "A Russian strike near Odesa killed 10 people, including four Indian nationals confirmed by the Indian government. Zelensky faces mounting pressure from protesters and soldiers to remove the country's top general, with demonstrators calling for reaffirmation of a drone warfare strategy associated with the recently dismissed defense minister."
+          "update": "A Russian strike on a ship near Odesa killed 10 people, with India's government confirming four of the dead were Indian nationals. Zelensky faces mounting pressure from protesters and soldiers to remove Ukraine's top general, with demonstrators also calling for reaffirmation of a drone warfare strategy associated with the recently dismissed defense minister."
         }
       ],
       "parentId": null
@@ -755,7 +755,7 @@
         {
           "date": "2026-07-20",
           "edition": "evening",
-          "update": "Ismael 'El Mayo' Zambada, co-founder of the Sinaloa cartel alongside Joaquín 'El Chapo' Guzmán, was sentenced to life in federal prison in Brooklyn, New York, and ordered to forfeit $15 billion."
+          "update": "Ismael 'El Mayo' Zambada, co-founder of the Sinaloa cartel, was sentenced to life in prison by a federal court in Brooklyn, New York, and ordered to forfeit $15 billion."
         }
       ],
       "parentId": null
@@ -814,7 +814,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-20",
+      "lastSeen": "2026-07-19",
       "active": true,
       "entries": [
         {
@@ -1026,11 +1026,6 @@
           "date": "2026-07-19",
           "edition": "evening",
           "update": "Israel is set to receive additional U.S. aerial refueling planes as Iranian attacks intensify, according to Israeli officials cited by Reuters."
-        },
-        {
-          "date": "2026-07-20",
-          "edition": "evening",
-          "update": "Israeli ministers and settlers have called for the return of Jewish settlements to Gaza, with some declaring 'Gaza is ours,' according to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1154,7 +1149,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-17",
+      "lastSeen": "2026-07-20",
       "active": true,
       "entries": [
         {
@@ -1441,6 +1436,11 @@
           "date": "2026-07-17",
           "edition": "evening",
           "update": "Israeli strikes on Gaza killed 14 people, including mourners attending a funeral procession for a Palestinian killed earlier the same day, with 20 others injured in the attack."
+        },
+        {
+          "date": "2026-07-20",
+          "edition": "evening",
+          "update": "Israeli ministers and settlers have publicly called for the return of Jewish settlements to Gaza, with some declaring 'Gaza is ours,' according to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2060,7 +2060,7 @@
         {
           "date": "2026-07-20",
           "edition": "evening",
-          "update": "The Pentagon confirmed the two U.S. service members killed in the Iranian drone attack on a base in Jordan were Pvt. Isabella Gonzales, 19, of Carrollton, Texas, and 1st Lt. Tyler James Feehan, 25, of Ewa Beach, Hawaii; President Trump vowed Iran would 'pay' and White House press secretary Karoline Leavitt confirmed he will attend the dignified transfer at Dover Air Force Base. A military official stated that CENTCOM is not required to release injury data, after reports emerged that the Pentagon had withheld information about dozens of additional U.S. military injuries sustained in the conflict. A shadow fleet tanker struck by a U.S. airstrike in the Gulf of Oman was reportedly stationary at the time of the attack, with three Indian sailors killed aboard the vessel, which had been involved in offshore oil transfers. A coalition of terrorism victims demanded Iran pay restitution before any frozen funds are released as part of a potential peace deal, while former Rep. Marjorie Taylor Greene publicly accused Defense Secretary Pete Hegseth of 'bloodlust for a senseless war' over his posts about fallen service members."
+          "update": "The Pentagon identified the two U.S. soldiers killed at Muwaffaq Salti Air Base in Jordan as 1st Lt. Tyler James Feehan, 25, of Hawaii, and Pvt. Isabella Gonzales, 19, of Texas. Trump vowed strong retaliation and confirmed he would attend their dignified transfer ceremony at Dover Air Force Base. The Pentagon separately withheld information about dozens of additional U.S. military injuries sustained during Iranian missile strikes, with a military official stating CENTCOM is not required to release injury data when troops quickly return to duty. A U.S. airstrike on a tanker in the Gulf of Oman killed three Indian sailors; evidence suggests the vessel was stationary at the time and had been linked to a sanctions-evading shadow fleet. Houthi forces declared a blockade of Red Sea oil routes amid the ongoing U.S.-Iran exchange of strikes, while analysts assessed that Iran is targeting Gulf states to pressure Washington while avoiding direct confrontation with U.S. naval assets."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2535,7 +2535,7 @@
         {
           "date": "2026-07-20",
           "edition": "evening",
-          "update": "A rapid-response activist plan has been revealed calling for protests at U.S. military bases, ICE facilities, and federal buildings within 24 hours of any American attack on Cuba, according to Fox News."
+          "update": "A rapid-response plan has emerged calling for protests at U.S. military bases, ICE facilities, and federal buildings within 24 hours of any U.S. attack on Cuba, according to Fox News."
         }
       ],
       "parentId": null
@@ -2858,7 +2858,8 @@
           "edition": "morning",
           "update": "Israel intensified its military campaign in Gaza with attacks on children and hospitals while tightening control in the occupied West Bank through settlement outposts, demolitions, and army-backed settler raids."
         }
-      ]
+      ],
+      "pendingSubThread": "Houthi Naval Blockade and Red Sea Operations"
     },
     {
       "id": "nato-iran-diplomatic-crisis",
@@ -2976,7 +2977,7 @@
         {
           "date": "2026-07-20",
           "edition": "evening",
-          "update": "A senior Iranian official told Reuters that mediators have proposed a 10-day ceasefire aimed at reviving an interim deal between Iran and the United States."
+          "update": "Mediators have proposed a 10-day ceasefire to revive an interim deal between Iran and the United States, according to a senior Iranian official speaking to Reuters. A coalition of terrorism victims is demanding Iran pay restitution to victims of Iranian-sponsored terror before any funds are unfrozen as part of a potential peace deal."
         }
       ]
     },
@@ -3326,7 +3327,7 @@
         {
           "date": "2026-07-20",
           "edition": "evening",
-          "update": "Yemen's Houthi forces announced a naval blockade targeting Saudi Arabia, focusing on the Bab el-Mandeb gateway to the Red Sea. Separately, Iran's IRGC reported that two oil tankers exploded in the Strait of Hormuz after allegedly taking an 'unsafe route' through the waterway, according to state-run Fars News Agency."
+          "update": "Iran's IRGC reported that two oil tankers exploded in the Strait of Hormuz after allegedly attempting to pass through what it described as an 'unsafe route,' according to state-run Fars News Agency."
         }
       ]
     },
@@ -3521,7 +3522,7 @@
         {
           "date": "2026-07-20",
           "edition": "evening",
-          "update": "The Ebola death toll in the Democratic Republic of Congo has surged to at least 930, with 37 new deaths recorded in a single 24-hour period over the weekend, according to Al Jazeera."
+          "update": "The Ebola death toll in the Democratic Republic of Congo surged to at least 930, with 37 new deaths recorded in a single 24-hour period, according to Al Jazeera."
         }
       ]
     },
@@ -3616,5 +3617,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-20T21:08:54.163Z"
+  "updatedAt": "2026-07-20T21:09:07.818Z"
 }
