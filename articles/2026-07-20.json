@@ -9411,5 +9411,333 @@
       "fines"
     ],
     "collectedAt": "2026-07-20T21:00:01.268Z"
+  },
+  {
+    "title": "Trump slaps additional 50% tariff on certain Canadian goods",
+    "description": "The Trump administration is slapping an additional 50% tariffs on certain Canadian goods imported into the U.S.",
+    "link": "https://abcnews.com/Politics/trump-slaps-additional-50-tariff-canadian-goods/story?id=134929955",
+    "pubDate": "Mon, 20 Jul 2026 17:12:03 -0400",
+    "source": "ABC News",
+    "categories": [
+      "politics"
+    ],
+    "collectedAt": "2026-07-20T21:15:01.438Z"
+  },
+  {
+    "title": "What to know about Taylor Farms amid the cyclospora outbreak",
+    "description": "The nation's largest recent cyclospora outbreak has put one of America's biggest produce suppliers under renewed scrutiny.",
+    "link": "https://www.cbsnews.com/news/taylor-farms-cyclospora-outbreak/",
+    "pubDate": "Mon, 20 Jul 2026 17:08:06 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-07-20T21:15:01.438Z"
+  },
+  {
+    "title": "Trump to Impose 50% Tariff on Many Canadian Goods",
+    "description": "The administration will use an untested legal provision to put significant duties on Canadian exports, reigniting a clash with one of America’s biggest trading partners.",
+    "link": "https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html",
+    "pubDate": "Mon, 20 Jul 2026 21:09:47 +0000",
+    "source": "NY Times",
+    "categories": [
+      "customs (tariff)",
+      "international trade and world market",
+      "sales and excise taxes",
+      "united states-mexico-canada agreement",
+      "steel and iron",
+      "fish and other marine life",
+      "canada",
+      "united states",
+      "united states politics and government"
+    ],
+    "collectedAt": "2026-07-20T21:15:01.438Z"
+  },
+  {
+    "title": "Trump Attacks National Academies Over Climate Chapter in Judges’ Manual",
+    "description": "The president joined Republican officials who slammed the National Academies of Sciences for a chapter about climate science in an educational guide for judges.",
+    "link": "https://www.nytimes.com/2026/07/20/climate/climate-change-manual-national-academy-science.html",
+    "pubDate": "Mon, 20 Jul 2026 21:01:10 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "global warming",
+      "courts and the judiciary",
+      "greenhouse gas emissions",
+      "national academy of sciences",
+      "national science foundation",
+      "trump, donald j"
+    ],
+    "collectedAt": "2026-07-20T21:15:01.438Z"
+  },
+  {
+    "title": "Democrats avoid a messy fight in Maine, but uncertainty lingers: From the Politics Desk",
+    "description": "Welcome to From the Politics Desk, a daily newsletter that brings you the NBC News Politics team’s latest reporting and analysis from the White House, Capitol Hill and the campaign trail.",
+    "link": "https://www.nbcnews.com/politics/politics-news/democrats-avoid-messy-fight-maine-uncertainty-lingers-politics-desk-rcna588434",
+    "pubDate": "Mon, 20 Jul 2026 21:00:00 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-07-20T21:15:01.438Z"
+  },
+  {
+    "title": "Jazz Have Another Reason to Be Jazzed About Darryn Peterson",
+    "description": "Darryn Peterson is already looking fantastic with the Jazz.",
+    "link": "https://www.newsweek.com/sports/nba/jazz-have-another-reason-to-be-jazzed-about-darryn-peterson-12219934",
+    "pubDate": "Mon, 20 Jul 2026 17:07:13 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-20T21:15:01.438Z"
+  },
+  {
+    "title": "Mavericks' Morez Johnson Jr Had an Intriguing Vegas Performance",
+    "description": "Mavericks' Morez Johnson Jr. gave an impressive performance in Las Vegas.",
+    "link": "https://www.newsweek.com/sports/nba/mavericks-morez-johnson-jr-had-an-intriguing-vegas-performance-12220039",
+    "pubDate": "Mon, 20 Jul 2026 17:04:39 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-20T21:15:01.438Z"
+  },
+  {
+    "title": "Khaman Maluach of the Suns Is Finally Having His Moment",
+    "description": "Khaman Maluach of the Suns looked solid in Summer League.",
+    "link": "https://www.newsweek.com/sports/nba/khaman-maluach-of-the-suns-is-finally-having-his-moment-12220043",
+    "pubDate": "Mon, 20 Jul 2026 17:02:40 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-20T21:15:01.438Z"
+  },
+  {
+    "title": "LeBron James Hints at Possibly Playing Three More Seasons",
+    "description": "Many are operating under the assumption that the upcoming NBA season could be the last for NBA superstar LeBron James.",
+    "link": "https://www.newsweek.com/sports/nba/lebron-james-hints-at-possibly-playing-three-more-seasons-12220430",
+    "pubDate": "Mon, 20 Jul 2026 17:00:48 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-20T21:15:01.438Z"
+  },
+  {
+    "title": "VA Benefits: Thousands of Veterans to See Expanded Care Under Proposed Bill",
+    "description": "The bill would permanently authorize and expand the Department of Veterans Affairs' precision oncology program.",
+    "link": "https://www.newsweek.com/va-benefits-thousands-of-veterans-to-see-expanded-care-under-proposed-bill-12220218",
+    "pubDate": "Mon, 20 Jul 2026 17:00:03 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-20T21:15:01.438Z"
+  },
+  {
+    "title": "Dodgers Acquire Rockies Reliever in Exchange for Former Top Prospect",
+    "description": "The Los Angeles Dodgers reportedly acquired right-handed reliever Seth Halvorsen in a trade with the Colorado Rockies.",
+    "link": "https://www.newsweek.com/sports/mlb/dodgers-acquire-rockies-reliever-in-exchange-for-former-top-prospect-12220249",
+    "pubDate": "Mon, 20 Jul 2026 16:59:05 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-20T21:15:01.438Z"
+  },
+  {
+    "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for death of soldiers",
+    "description": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
+    "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 20 Jul 2026 21:09:31 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-20T21:15:01.438Z"
+  },
+  {
+    "title": "Houthis announce blockade on Saudi Arabia, ramping up Red Sea tensions",
+    "description": "The Houthis, the Iran-backed militant group based in Yemen, on Monday announced that they have set up a blockade on Saudi Arabia, ramping up the potential for tensions in the Red Sea. The Yemeni militia has not offered any specifics on what the blockade will entail, only that it declared a “maritime embargo against the…",
+    "link": "https://thehill.com/policy/international/5979139-houthi-saudi-arabia-red-sea-blockade/",
+    "pubDate": "Mon, 20 Jul 2026 20:56:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "defense",
+      "international",
+      "news"
+    ],
+    "collectedAt": "2026-07-20T21:15:01.438Z"
+  },
+  {
+    "title": "Lumentum’s stock just got a lot more interesting — and Barclays has turned bullish",
+    "description": "A Barclays analyst now recommends Lumentum’s stock after a period of substantial underperformance relative to the broader chip sector.",
+    "link": "https://www.marketwatch.com/story/lumentums-stock-just-got-a-lot-more-interesting-and-barclays-has-turned-bullish-e00e3395?mod=mw_rss_topstories",
+    "pubDate": "Mon, 20 Jul 2026 21:05:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-07-20T21:15:01.438Z"
+  },
+  {
+    "title": "Ella Langley suffers wardrobe malfunction while opening for Morgan Wallen in Baltimore",
+    "description": "Videos show Ella Langley's dress unzipping on stage during Morgan Wallen's tour before she grabbed a Baltimore Ravens jersey and kept performing.",
+    "link": "https://www.foxnews.com/entertainment/ella-langley-suffers-wardrobe-malfunction-opening-morgan-wallen-baltimore",
+    "pubDate": "Mon, 20 Jul 2026 17:04:52 -0400",
+    "source": "Fox News",
+    "categories": [
+      "3a7c71fb-084a-586d-a4f2-e9b39cee4361",
+      "fnc",
+      "fox news",
+      "fox-news/entertainment",
+      "fox-news/entertainment/genres/country",
+      "fox-news/person/morgan-wallen",
+      "fox-news/entertainment/music",
+      "fox-news/entertainment",
+      "article"
+    ],
+    "collectedAt": "2026-07-20T21:15:01.438Z"
+  },
+  {
+    "title": "ESPN planning to lay off NFL analyst Ryan Clark ahead of network's first Super Bowl broadcast",
+    "description": "Ryan Clark is among the latest ESPN layoffs, as the sports analyst departs the network in a move that signals continued shifts in sports media.",
+    "link": "https://www.foxnews.com/outkick-sports/espn-planning-lay-off-nfl-analyst-ryan-clark-ahead-network-first-super-bowl-broadcast",
+    "pubDate": "Mon, 20 Jul 2026 17:04:40 -0400",
+    "source": "Fox News",
+    "categories": [
+      "4a6bf96d-3cfb-5827-8b76-f0e23a371b40",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/sports",
+      "fox-news/media",
+      "fox-news/sports/nfl",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-07-20T21:15:01.438Z"
+  },
+  {
+    "title": "World Cup hands US economy $20B boost — with host cities like Kansas City, Philly cashing in big,  BofA says",
+    "description": "According to the New York/New Jersey Host Committee, fans spent $1.2 billion in June in alone, generating a total economic impact of $2.1 billion.",
+    "link": "https://nypost.com/2026/07/20/business/world-cup-hands-us-economy-20b-boost-with-host-cities-like-kansas-city-philly-cashing-in-big-bofa-says/",
+    "pubDate": "Mon, 20 Jul 2026 17:11:33 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-20T21:15:01.438Z"
+  },
+  {
+    "title": "Mia Khalifa’s viral World Cup ends with epic $1 million gamble",
+    "description": "While there were countless celebrity appearances throughout the 2026 World Cup, few might be more globally recognized than Mia Khalifa. Khalifa (real name Sarah Joe Chamoun) is a former porn star turned media personality that has been an unabashed sports fan throughout her adult life. She has been supporting Spain throughout the 2026 World Cup,...",
+    "link": "https://nypost.com/2026/07/20/sports/mia-khalifa-shows-1-65-million-spain-world-cup-betting-win/",
+    "pubDate": "Mon, 20 Jul 2026 17:10:42 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-20T21:15:01.438Z"
+  },
+  {
+    "title": "LeBron James’ free agency decision timeline gets frustrating update",
+    "description": "The ball is in LeBron James’ court, and he intends to keep it there longer than anyone would like. The entire basketball world is waiting with decreasing patience for James to announce which team he’ll join in free agency. While there were some rumors that LeBron’s decision could arrive as soon as Monday, an update...",
+    "link": "https://nypost.com/2026/07/20/sports/lebron-james-frustrating-free-agency-timeline-update/",
+    "pubDate": "Mon, 20 Jul 2026 17:10:18 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-20T21:15:01.438Z"
+  },
+  {
+    "title": "NYC Greek Orthodox church to honor Ukraine’s Zelensky: ‘Illuminated the path forward’",
+    "description": "Zelensky will attend the Sept. 26 dinner at Cipriani South Street -- near where the church was raised from the ashes after being destroyed on 9/11, sources said.",
+    "link": "https://nypost.com/2026/07/20/us-news/nyc-greek-orthodox-church-to-honor-ukraines-zelensky-illuminated-the-path-forward/",
+    "pubDate": "Mon, 20 Jul 2026 17:09:59 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-20T21:15:01.438Z"
+  },
+  {
+    "title": "Bijou Phillips steps out for lunch date just 2 weeks after receiving life-saving kidney transplant",
+    "description": "The socialite begged her social media followers for help finding a kidney donor back in February.",
+    "link": "https://pagesix.com/2026/07/20/celebrity-news/bijou-phillips-steps-out-for-lunch-date-just-2-weeks-after-receiving-life-saving-kidney-transplant/",
+    "pubDate": "Mon, 20 Jul 2026 17:05:51 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-20T21:15:01.438Z"
+  },
+  {
+    "title": "Chilling details in kidnapping of Forest Service workers — as father and son suspects appear in court",
+    "description": "Newly released federal court documents are shedding light on the terrifying hostage crisis involving two U.S. Forest Service workers after they were allegedly kidnapped at gunpoint by a father and son in a remote Northern California forest Friday. The criminal affidavit, filed in the U.S. District Court for the Eastern District of California, outlines minute-by-minute...",
+    "link": "https://nypost.com/2026/07/20/us-news/california-forest-worker-hostage-ordeal-revealed-in-court-docs/",
+    "pubDate": "Mon, 20 Jul 2026 17:03:33 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-20T21:15:01.438Z"
+  },
+  {
+    "title": "Inside the 2026 World Cup Final: Shakira’s ex, halftime show controversy, and the viral celebrity moments you may have missed",
+    "description": "The FIFA World Cup has come to an end and tons of celebrities stepped out to celebrate! Even though the pros were playing soccer in the field, there was a ton of action in the stands with Shakira’s ex-husband Gerard Piqué’s surprise appearance, Timothée Chalamet and Kylie Jenner packing on the PDA, and more. Justin...",
+    "link": "https://pagesix.com/video/inside-the-2026-world-cup-final-shakiras-ex-halftime-show-controversy-and-the-viral-celebrity-moments-you-may-have-missed/",
+    "pubDate": "Mon, 20 Jul 2026 17:00:11 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-20T21:15:01.438Z"
+  },
+  {
+    "title": "Certified Fresh Thriller ‘Exit 8’ Finally Hits Streaming — Here’s Where To Watch The Hit Japanese Film For Free",
+    "description": "Here's where to watch this critically acclaimed adaptation of the 2023 video game.",
+    "link": "https://decider.com/2026/07/20/exit-8-movie-where-to-watch-free-at-home-streaming-shudder-amc/",
+    "pubDate": "Mon, 20 Jul 2026 17:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-20T21:15:01.438Z"
+  },
+  {
+    "title": "Polymarket promo code NYPMAX: Deposit $20, get $50 for NFL markets",
+    "description": "Deposit $20, get a $50 trading bonus with",
+    "link": "https://nypost.com/2026/07/20/betting/polymarket-promo-code-nypmax-deposit-20-get-50-for-nfl-markets-2/",
+    "pubDate": "Mon, 20 Jul 2026 17:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-20T21:15:01.438Z"
+  },
+  {
+    "title": "James Talarico accused of not doing enough for black voters during heated town hall",
+    "description": "Texas state Rep. James Talarico was confronted by a voter at a Houston town hall on Sunday who accused the Democrat of not doing enough for black voters.  The Democratic nominee running for the U.S. Senate in Texas against Republican Attorney General Ken Paxton held the town hall to address concerns and build trust with […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4655868/james-talarico-black-voters-town-hall-houston-texas-senate-race/",
+    "pubDate": "Mon, 20 Jul 2026 21:14:26 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "congressional",
+      "2026 elections",
+      "democrats",
+      "houston",
+      "james talarico",
+      "texas",
+      "town hall"
+    ],
+    "collectedAt": "2026-07-20T21:15:01.438Z"
+  },
+  {
+    "title": "Trump to impose 50% tariffs on Canada in response to retaliatory duties",
+    "description": "The United States is slapping 50% tariffs on Canadian products from wine to hockey sticks and even cement, in response to Canada’s retaliatory duties on American cars, alcohol, and cheese as part of the two countries’ trade war. President Donald Trump signed three executive orders on Monday evening to impose the levies on Canada using Section 338 […]",
+    "link": "https://www.washingtonexaminer.com/policy/economy/4656073/trump-impose-50-tariffs-on-canada/",
+    "pubDate": "Mon, 20 Jul 2026 21:14:21 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "economy",
+      "white house",
+      "canada",
+      "donald trump",
+      "tariffs",
+      "trade war",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-07-20T21:15:01.438Z"
+  },
+  {
+    "title": "Five dead after group attempts to save struggling swimmer in Ohio",
+    "description": "Five people drowned in Ohio after attempting to rescue a struggling swimmer during a fishing trip along the Scioto River, authorities said. The incident occurred Sunday evening near the suburb of Powell, just outside Columbus. Two women were pulled from the river Sunday night and later pronounced dead at local hospitals. The bodies of the […]",
+    "link": "https://www.washingtonexaminer.com/news/4656033/ohio-scioto-river-drowning-language-barrier-delaware-county-sheriff-office/",
+    "pubDate": "Mon, 20 Jul 2026 21:04:30 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "death",
+      "fishing",
+      "ohio",
+      "police and law enforcement",
+      "swimming"
+    ],
+    "collectedAt": "2026-07-20T21:15:01.438Z"
+  },
+  {
+    "title": "Gas Prices Top $4 Per Gallon as US-Iran Conflict Disrupts Hormuz Shipping - theepochtimes.com",
+    "description": "Gas Prices Top $4 Per Gallon as US-Iran Conflict Disrupts Hormuz Shipping  theepochtimes.com",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYi14dGNEVWlCZnlEN2JWaDVrQkJBOXd4NHppcG4zYTdManJXSUJtcjJlOGc0eFpqOEtGbUotVXVjcFREMk9OWTlacjNrdU9WbEZ0RUJ4d0tHdUw0cUI1RzNKR1Jkakxtd1MxS2R1MDVGOS00TUdZQ3NzTlhnbFJ0UnVQT28yLW05cEd1UTllV1Y4Q3FWM3ZPeTVjMHBSR2thMzI5QmxsaTh0d0RIV1pyaGdxR0RWempLZ3RuSGozQQ?oc=5",
+    "pubDate": "Mon, 20 Jul 2026 10:51:21 GMT",
+    "source": "Epoch Times",
+    "categories": [],
+    "collectedAt": "2026-07-20T21:15:01.438Z"
   }
 ]
