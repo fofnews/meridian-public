@@ -666,6 +666,11 @@
           "date": "2026-07-20",
           "edition": "morning",
           "update": "Ukraine launched approximately 400 drones targeting the Moscow region, according to Russian authorities cited by Reuters, resulting in two people wounded and several buildings set ablaze. Separately, BBC News reported that aggression against military recruitment officers in Ukraine has become increasingly threatening as the country's struggle to recruit soldiers intensifies."
+        },
+        {
+          "date": "2026-07-20",
+          "edition": "evening",
+          "update": "A Russian strike near Odesa killed 10 people, including four Indian nationals confirmed by the Indian government. Zelensky faces mounting pressure from protesters and soldiers to remove the country's top general, with demonstrators calling for reaffirmation of a drone warfare strategy associated with the recently dismissed defense minister."
         }
       ],
       "parentId": null
@@ -674,8 +679,8 @@
       "id": "sinaloa-cartel-violence",
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-05-27",
-      "active": false,
+      "lastSeen": "2026-07-20",
+      "active": true,
       "entries": [
         {
           "date": "2026-02-26",
@@ -746,6 +751,11 @@
           "date": "2026-05-27",
           "edition": "evening",
           "update": "Reuters reported on a paper trail linking a U.S. fuel trader to a notorious Mexican cartel, though specific individuals and the cartel involved were not identified in available reporting."
+        },
+        {
+          "date": "2026-07-20",
+          "edition": "evening",
+          "update": "Ismael 'El Mayo' Zambada, co-founder of the Sinaloa cartel alongside Joaquín 'El Chapo' Guzmán, was sentenced to life in federal prison in Brooklyn, New York, and ordered to forfeit $15 billion."
         }
       ],
       "parentId": null
@@ -804,7 +814,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-19",
+      "lastSeen": "2026-07-20",
       "active": true,
       "entries": [
         {
@@ -1016,6 +1026,11 @@
           "date": "2026-07-19",
           "edition": "evening",
           "update": "Israel is set to receive additional U.S. aerial refueling planes as Iranian attacks intensify, according to Israeli officials cited by Reuters."
+        },
+        {
+          "date": "2026-07-20",
+          "edition": "evening",
+          "update": "Israeli ministers and settlers have called for the return of Jewish settlements to Gaza, with some declaring 'Gaza is ours,' according to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2041,6 +2056,11 @@
           "date": "2026-07-20",
           "edition": "morning",
           "update": "The U.S. conducted strikes on Iran for a ninth consecutive night, with Iranian media reporting blasts in cities including Tabriz in the far north and Chabahar in the far south — the widest geographic spread of the campaign to date. President Trump stated the latest strikes were carried out in honor of killed U.S. military personnel. The total U.S. death toll in the conflict has reached at least 17 service members, according to AP News, with at least three killed across Iraq and Jordan in the most recent escalation. Brent crude surpassed $90 per barrel and the average U.S. gasoline price returned to $4 per gallon, reversing relief that had followed a prior deal to reopen the Strait of Hormuz. Israel warned that attacks from Tehran are coming close as the conflict broadened. Analysts warned that escalating strikes risk spiraling into a wider conflict neither side can contain, urging a swift return to negotiations."
+        },
+        {
+          "date": "2026-07-20",
+          "edition": "evening",
+          "update": "The Pentagon confirmed the two U.S. service members killed in the Iranian drone attack on a base in Jordan were Pvt. Isabella Gonzales, 19, of Carrollton, Texas, and 1st Lt. Tyler James Feehan, 25, of Ewa Beach, Hawaii; President Trump vowed Iran would 'pay' and White House press secretary Karoline Leavitt confirmed he will attend the dignified transfer at Dover Air Force Base. A military official stated that CENTCOM is not required to release injury data, after reports emerged that the Pentagon had withheld information about dozens of additional U.S. military injuries sustained in the conflict. A shadow fleet tanker struck by a U.S. airstrike in the Gulf of Oman was reportedly stationary at the time of the attack, with three Indian sailors killed aboard the vessel, which had been involved in offshore oil transfers. A coalition of terrorism victims demanded Iran pay restitution before any frozen funds are released as part of a potential peace deal, while former Rep. Marjorie Taylor Greene publicly accused Defense Secretary Pete Hegseth of 'bloodlust for a senseless war' over his posts about fallen service members."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2329,7 +2349,7 @@
       "id": "cuba-energy-crisis",
       "title": "Cuba Energy Crisis",
       "firstSeen": "2026-03-16",
-      "lastSeen": "2026-07-16",
+      "lastSeen": "2026-07-20",
       "active": true,
       "entries": [
         {
@@ -2511,6 +2531,11 @@
           "date": "2026-07-16",
           "edition": "evening",
           "update": "President Trump and senior U.S. defense officials are weighing military options in Cuba, though no official decision on an operation has been made, according to CBS News."
+        },
+        {
+          "date": "2026-07-20",
+          "edition": "evening",
+          "update": "A rapid-response activist plan has been revealed calling for protests at U.S. military bases, ICE facilities, and federal buildings within 24 hours of any American attack on Cuba, according to Fox News."
         }
       ],
       "parentId": null
@@ -2947,6 +2972,11 @@
           "date": "2026-07-20",
           "edition": "morning",
           "update": "Secretary of State Marco Rubio stated the U.S. remains open to diplomacy with Iran following the ninth consecutive night of U.S. bombing campaigns, adding that Iran has signaled it wants to negotiate even as both sides continue to escalate attacks."
+        },
+        {
+          "date": "2026-07-20",
+          "edition": "evening",
+          "update": "A senior Iranian official told Reuters that mediators have proposed a 10-day ceasefire aimed at reviving an interim deal between Iran and the United States."
         }
       ]
     },
@@ -3292,6 +3322,11 @@
           "date": "2026-07-20",
           "edition": "morning",
           "update": "Al Jazeera reported on Iran attacking Kuwait infrastructure amid the ongoing conflict, raising concerns about broader Gulf security implications as regional tensions continue to escalate."
+        },
+        {
+          "date": "2026-07-20",
+          "edition": "evening",
+          "update": "Yemen's Houthi forces announced a naval blockade targeting Saudi Arabia, focusing on the Bab el-Mandeb gateway to the Red Sea. Separately, Iran's IRGC reported that two oil tankers exploded in the Strait of Hormuz after allegedly taking an 'unsafe route' through the waterway, according to state-run Fars News Agency."
         }
       ]
     },
@@ -3370,7 +3405,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-07-19",
+      "lastSeen": "2026-07-20",
       "active": true,
       "entries": [
         {
@@ -3482,6 +3517,11 @@
           "date": "2026-07-19",
           "edition": "evening",
           "update": "Canada announced it will temporarily bar entry to foreigners who have recently traveled to the Democratic Republic of Congo, a measure taken against the advice of the United Nations."
+        },
+        {
+          "date": "2026-07-20",
+          "edition": "evening",
+          "update": "The Ebola death toll in the Democratic Republic of Congo has surged to at least 930, with 37 new deaths recorded in a single 24-hour period over the weekend, according to Al Jazeera."
         }
       ]
     },
@@ -3576,5 +3616,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-20T11:07:30.051Z"
+  "updatedAt": "2026-07-20T21:08:54.163Z"
 }
