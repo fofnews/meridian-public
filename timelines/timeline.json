@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-20",
+      "lastSeen": "2026-07-21",
       "active": true,
       "entries": [
         {
@@ -261,6 +261,11 @@
           "date": "2026-07-20",
           "edition": "morning",
           "update": "Epstein survivor Jess Michaels stated on MSNBC that she and other survivors were 'gaslit' during their meeting with acting Attorney General Todd Blanche, saying Blanche repeatedly denied claims about the Department of Justice's handling of the case."
+        },
+        {
+          "date": "2026-07-21",
+          "edition": "morning",
+          "update": "Rep. Jamie Raskin and House Judiciary Democrats sent a letter to top Trump administration officials arguing that emails from Jeffrey Epstein to world leaders indicate he should have registered as a foreign agent, citing messages purportedly showing Epstein sought to leverage his relationship with President Trump."
         }
       ],
       "parentId": null
@@ -675,7 +680,7 @@
         {
           "date": "2026-07-21",
           "edition": "morning",
-          "update": "Ukraine carried out bombing strikes targeting warehouses belonging to Wildberries, Russia's largest online retailer, according to the Washington Post. Three Chinese nationals were injured in a drone attack on Moscow, according to Reuters. Protests are growing in Ukraine over Zelensky's dismissal of the defense minister, and his office signaled openness to compromise in response to public pressure, according to the NY Times. Defense companies are developing faster interceptor drones to counter Russia's newly deployed jet-powered Shahed variants, according to Reuters."
+          "update": "Ukraine conducted bombing strikes targeting Wildberries warehouses, the large Russian e-commerce platform. Protests are growing in Ukraine over President Zelensky's decision to fire the country's defense minister, with Zelensky's office signaling openness to compromise in response to public pressure. Defense companies are developing faster jet-powered interceptor drones to counter Russia's deployment of higher-speed Shahed drones in Ukraine."
         }
       ],
       "parentId": null
@@ -1154,7 +1159,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-21",
+      "lastSeen": "2026-07-20",
       "active": true,
       "entries": [
         {
@@ -1446,11 +1451,6 @@
           "date": "2026-07-20",
           "edition": "evening",
           "update": "Israeli ministers and settlers have publicly called for the return of Jewish settlements to Gaza, with some declaring 'Gaza is ours,' according to Al Jazeera."
-        },
-        {
-          "date": "2026-07-21",
-          "edition": "morning",
-          "update": "Lebanese President Joseph Aoun is scheduled to meet President Trump at the White House, with Aoun seeking to reduce Hezbollah's influence while demonstrating he can stand up to Israel."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2075,7 +2075,7 @@
         {
           "date": "2026-07-21",
           "edition": "morning",
-          "update": "The U.S. launched its 10th consecutive night of strikes on Iran, with explosions reported in Bandar Abbas, Qeshm Island, Chabahar, and Konarak. CENTCOM stated the strikes are designed to degrade Iranian military capabilities used to attack commercial shipping in the Strait of Hormuz. The Pentagon confirmed nearly 100 U.S. service members have sustained injuries since the campaign began, while Defense Secretary Hegseth and Joint Chiefs Chairman Gen. Dan Caine are scheduled to testify before the Senate on the White House's Iran supplemental funding request. U.S. intelligence assessments, reported by the Washington Post, indicate that American military strikes are unlikely to compel Iran to change its behavior or policies. Retired Lt. Gen. Keith Kellogg called for the deployment of U.S. ground troops in Iran and the replacement of the American negotiating team. Democrats are resisting Trump's push to add Iran to a bipartisan Russia sanctions bill, complicating its passage before the summer recess, while GOP lawmakers separately urged Trump to reopen the Strait of Hormuz as gas prices surged again. The Houthis declared a Red Sea blockade on Saudi Arabia, potentially opening a new front in the conflict, and Al Jazeera reported that 30 days after the U.S.-Iran Memorandum of Understanding was signed, the worst fighting in months has erupted, threatening to unravel the ceasefire agreement."
+          "update": "The U.S. launched its 10th consecutive night of strikes on Iran, with explosions reported in Bandar Abbas, Qeshm Island, Chabahar, and Konarak. CENTCOM stated the strikes are designed to degrade Iranian military capabilities used to attack commercial shipping in the Strait of Hormuz. Nearly 100 U.S. service members have sustained injuries since the campaign began, while GOP lawmakers are pressing Trump to reopen the Strait of Hormuz as quickly as possible, citing rising oil prices and potential voter backlash. Defense Secretary Pete Hegseth and Joint Chiefs Chairman Gen. Dan Caine are scheduled to testify before the Senate on the White House's Iran supplemental funding request. U.S. intelligence assessments concluded that American military strikes are unlikely to compel Iran to change its behavior. Democrats are resisting Trump's push to add Iran to a bipartisan Russia sanctions bill, complicating its passage ahead of the summer recess. Retired Lt. Gen. Keith Kellogg called for the deployment of U.S. ground troops in Iran and replacement of the current American negotiating team. Al Jazeera separately reported that some of the worst fighting in months has erupted thirty days after the signing of a U.S.-Iran Memorandum of Understanding, threatening to unravel the ceasefire agreement."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2997,7 +2997,7 @@
         {
           "date": "2026-07-21",
           "edition": "morning",
-          "update": "A delegation of victims of Iranian-sponsored terrorism and their families traveled to Washington, D.C., to personally demand that President Trump include restitution from Tehran as a condition of any peace deal with Iran."
+          "update": "A delegation of survivors of Iranian-sponsored terrorism and their families traveled to Washington, D.C., to demand that President Trump include restitution from Tehran as a condition of any peace deal with Iran."
         }
       ]
     },
@@ -3352,7 +3352,7 @@
         {
           "date": "2026-07-21",
           "edition": "morning",
-          "update": "Goldman Sachs analysts warned that oil prices could exceed $120 per barrel if disruptions in the Strait of Hormuz do not ease, with prices potentially averaging $100 per barrel next year if traffic through the waterway remains affected. Yemen's Houthi rebels announced a naval blockade of the Bab Al-Mandeb Strait, adding a second critical chokepoint to the maritime crisis."
+          "update": "Goldman Sachs analysts warned that oil prices could surpass $120 per barrel if disruptions in the Strait of Hormuz do not ease, projecting an average of $100 per barrel in the following year if traffic through the waterway remains affected. Yemen's Houthi rebels separately announced a naval blockade of the Bab Al-Mandeb Strait amid escalating U.S.-Iran tensions."
         }
       ]
     },
@@ -3642,5 +3642,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-21T11:07:07.904Z"
+  "updatedAt": "2026-07-21T11:07:15.068Z"
 }
