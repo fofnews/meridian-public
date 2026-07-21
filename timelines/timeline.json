@@ -266,6 +266,11 @@
           "date": "2026-07-21",
           "edition": "morning",
           "update": "Rep. Jamie Raskin and House Judiciary Democrats sent a letter to top Trump administration officials arguing that emails from Jeffrey Epstein to world leaders indicate he should have registered as a foreign agent, citing messages purportedly showing Epstein sought to leverage his relationship with President Trump."
+        },
+        {
+          "date": "2026-07-21",
+          "edition": "evening",
+          "update": "Democratic candidates James Talarico and Jon Ossoff are facing scrutiny over major donations received from billionaire Reid Hoffman, who has previously been linked to Jeffrey Epstein, according to Fox News."
         }
       ],
       "parentId": null
@@ -274,8 +279,8 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-05-28",
-      "active": false,
+      "lastSeen": "2026-07-21",
+      "active": true,
       "entries": [
         {
           "date": "2026-02-26",
@@ -371,6 +376,11 @@
           "date": "2026-05-28",
           "edition": "morning",
           "update": "The White House dismissed an outline of an 'unofficial' Iran deal, according to the NY Times."
+        },
+        {
+          "date": "2026-07-21",
+          "edition": "evening",
+          "update": "Israel believes Iran moved nuclear material and centrifuges into the heavily fortified underground site known as Pickaxe Mountain, located near the Natanz nuclear facility, in an apparent effort to protect or conceal nuclear enrichment equipment from further strikes."
         }
       ],
       "parentId": null
@@ -681,6 +691,11 @@
           "date": "2026-07-21",
           "edition": "morning",
           "update": "Ukraine conducted bombing strikes targeting Wildberries warehouses, the large Russian e-commerce platform. Protests are growing in Ukraine over President Zelensky's decision to fire the country's defense minister, with Zelensky's office signaling openness to compromise in response to public pressure. Defense companies are developing faster jet-powered interceptor drones to counter Russia's deployment of higher-speed Shahed drones in Ukraine."
+        },
+        {
+          "date": "2026-07-21",
+          "edition": "evening",
+          "update": "Zelensky dismissed Ukraine's top army commander, Gen. Oleksandr Syrskyi, following protests demanding his removal and the reinstatement of former Defense Minister Mykhailo Fedorov, with demonstrators having set a Friday deadline for their demands."
         }
       ],
       "parentId": null
@@ -1044,7 +1059,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-07-16",
+      "lastSeen": "2026-07-21",
       "active": true,
       "entries": [
         {
@@ -1151,6 +1166,11 @@
           "date": "2026-07-16",
           "edition": "evening",
           "update": "A New York Times correspondent reported on the difficulties of covering Supreme Leader Khamenei's funeral in Iran while under surveillance and contending with unreliable internet access."
+        },
+        {
+          "date": "2026-07-21",
+          "edition": "evening",
+          "update": "Iran executed two young men, Erfan Esfandiari and Gol-Mohammad Mohammadi, for helping protesters escape security forces during earlier anti-regime demonstrations. Trump, during a press conference with Lebanese President Aoun, accused the Iranian government of killing 'over 52,000' protesters, calling Iranian leaders 'very evil people.'"
         }
       ],
       "parentId": null
@@ -1159,7 +1179,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-20",
+      "lastSeen": "2026-07-21",
       "active": true,
       "entries": [
         {
@@ -1451,6 +1471,11 @@
           "date": "2026-07-20",
           "edition": "evening",
           "update": "Israeli ministers and settlers have publicly called for the return of Jewish settlements to Gaza, with some declaring 'Gaza is ours,' according to Al Jazeera."
+        },
+        {
+          "date": "2026-07-21",
+          "edition": "evening",
+          "update": "Trump commented during the Oval Office meeting with Lebanese President Aoun that a potential Syrian military invasion of southern Lebanon to disarm Hezbollah could be 'very effective,' responding to a suggestion raised by Syrian President Ahmed al-Sharaa."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2076,6 +2101,11 @@
           "date": "2026-07-21",
           "edition": "morning",
           "update": "The U.S. launched its 10th consecutive night of strikes on Iran, with explosions reported in Bandar Abbas, Qeshm Island, Chabahar, and Konarak. CENTCOM stated the strikes are designed to degrade Iranian military capabilities used to attack commercial shipping in the Strait of Hormuz. Nearly 100 U.S. service members have sustained injuries since the campaign began, while GOP lawmakers are pressing Trump to reopen the Strait of Hormuz as quickly as possible, citing rising oil prices and potential voter backlash. Defense Secretary Pete Hegseth and Joint Chiefs Chairman Gen. Dan Caine are scheduled to testify before the Senate on the White House's Iran supplemental funding request. U.S. intelligence assessments concluded that American military strikes are unlikely to compel Iran to change its behavior. Democrats are resisting Trump's push to add Iran to a bipartisan Russia sanctions bill, complicating its passage ahead of the summer recess. Retired Lt. Gen. Keith Kellogg called for the deployment of U.S. ground troops in Iran and replacement of the current American negotiating team. Al Jazeera separately reported that some of the worst fighting in months has erupted thirty days after the signing of a U.S.-Iran Memorandum of Understanding, threatening to unravel the ceasefire agreement."
+        },
+        {
+          "date": "2026-07-21",
+          "edition": "evening",
+          "update": "The Pentagon identified Sgt. Michael Emmanuel Swinton, 30, of Fayetteville, N.C., as the U.S. service member killed at Erbil Air Base, Iraq, during a controlled detonation of unexploded ordnance from a downed Iranian drone, raising the confirmed U.S. death toll to 17. Defense Secretary Hegseth and Gen. Dan Caine testified before the Senate Appropriations Committee on Tuesday regarding an $87.6 billion supplemental funding request for the Iran war. The State Department issued a rare global travel warning to Americans abroad following Iran's missile barrage into Jordan. Yields on 10-year U.S. Treasury bills rose 60 basis points since the start of the conflict, signaling inflationary pressure, while ASEAN diplomats voiced serious concern over the war's energy crisis, and Asian nations including the Philippines began moving to establish strategic petroleum reserves. Rep. Adam Smith (D-WA) stated that Trump has not shared Iran war casualty statistics with Congress. Trump, during an Oval Office meeting with Lebanese President Aoun, stated the U.S. could strike Pickaxe Mountain in Iran 'very soon and very heavily,' while several Fox News pundits urged de-escalation, warning the conflict could become a political liability with midterm elections approximately 100 days away."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2364,7 +2394,7 @@
       "id": "cuba-energy-crisis",
       "title": "Cuba Energy Crisis",
       "firstSeen": "2026-03-16",
-      "lastSeen": "2026-07-20",
+      "lastSeen": "2026-07-21",
       "active": true,
       "entries": [
         {
@@ -2551,6 +2581,11 @@
           "date": "2026-07-20",
           "edition": "evening",
           "update": "A rapid-response plan has emerged calling for protests at U.S. military bases, ICE facilities, and federal buildings within 24 hours of any U.S. attack on Cuba, according to Fox News."
+        },
+        {
+          "date": "2026-07-21",
+          "edition": "evening",
+          "update": "The U.S. State Department released a 100-page report alleging that Cuba built a covert network inside America over nearly seven decades, infiltrating the State Department, National Security Council, and Pentagon through spies, activists, and universities."
         }
       ],
       "parentId": null
@@ -2872,6 +2907,11 @@
           "date": "2026-07-15",
           "edition": "morning",
           "update": "Israel intensified its military campaign in Gaza with attacks on children and hospitals while tightening control in the occupied West Bank through settlement outposts, demolitions, and army-backed settler raids."
+        },
+        {
+          "date": "2026-07-21",
+          "edition": "evening",
+          "update": "Trump met with Lebanese President Joseph Aoun at the White House on Tuesday, vowing to help Lebanon and expressing openness to direct talks with Hezbollah. Aoun is seeking a U.S.-backed Israeli withdrawal from southern Lebanon, and the discussions covered Hezbollah, Israel, and Iran."
         }
       ],
       "pendingSubThread": "Houthi Naval Blockade and Red Sea Operations"
@@ -3353,6 +3393,11 @@
           "date": "2026-07-21",
           "edition": "morning",
           "update": "Goldman Sachs analysts warned that oil prices could surpass $120 per barrel if disruptions in the Strait of Hormuz do not ease, projecting an average of $100 per barrel in the following year if traffic through the waterway remains affected. Yemen's Houthi rebels separately announced a naval blockade of the Bab Al-Mandeb Strait amid escalating U.S.-Iran tensions."
+        },
+        {
+          "date": "2026-07-21",
+          "edition": "evening",
+          "update": "The Houthi movement warned shipping companies to avoid Saudi ports, prompting Saudi Arabia to condemn the blockade and warn of impacts on oil flows to importers worldwide. Two tankers carrying Saudi crude made U-turns in the Red Sea after receiving Houthi warnings. The Caspian Pipeline Consortium halted acceptance of Kazakh oil for export following tanker attacks."
         }
       ]
     },
@@ -3642,5 +3687,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-21T11:07:15.068Z"
+  "updatedAt": "2026-07-21T21:12:09.975Z"
 }
