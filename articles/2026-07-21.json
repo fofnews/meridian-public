@@ -473,5 +473,21 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-21T07:15:01.605Z"
+  },
+  {
+    "title": "Evacuees of Ontario’s Wildfires Wait and Worry",
+    "description": "Flames crept, and then sprinted, toward unsuspecting residents who fled remote parts of northwestern Ontario. Now they want to know why officials weren’t prepared.",
+    "link": "https://www.nytimes.com/2026/07/20/world/canada/ontario-wildfire-evacuations-thunder-bay.html",
+    "pubDate": "Tue, 21 Jul 2026 07:15:58 +0000",
+    "source": "NY Times",
+    "categories": [
+      "wildfires",
+      "canada",
+      "evacuations and evacuees",
+      "fires and firefighters",
+      "thunder bay (ontario)",
+      "ontario (canada)"
+    ],
+    "collectedAt": "2026-07-21T07:30:01.404Z"
   }
 ]
