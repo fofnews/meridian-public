@@ -72,5 +72,43 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-21T05:00:01.335Z"
+  },
+  {
+    "title": "Nicaragua's Ortega says country will 'never again' hold elections, shutting out opposition",
+    "description": "Nicaragua's President Daniel Ortega said the country will hold no more elections, eliminating any path for opposition to challenge his rule when his term ends.",
+    "link": "https://www.foxnews.com/world/nicaragua-ortega-ends-elections",
+    "pubDate": "Tue, 21 Jul 2026 00:56:27 -0400",
+    "source": "Fox News",
+    "categories": [
+      "34c0af2d-afcf-5226-87f5-d7f836620f7e",
+      "fnc",
+      "fox news",
+      "fox-news/world",
+      "fox-news/travel/regions/central-america",
+      "fox-news/politics/elections",
+      "fox-news/politics",
+      "fox-news/world/world-protests",
+      "fox-news/world",
+      "article"
+    ],
+    "collectedAt": "2026-07-21T05:15:01.593Z"
+  },
+  {
+    "title": "Gotham FC coach Juan Carlos Amoros stepping away for seven-week parental leave with team in middle of season",
+    "description": "Gotham FC has a lot of good things going. But just as it is hitting its stride, the club will temporarily lose its head coach.",
+    "link": "https://nypost.com/2026/07/21/sports/gotham-fc-coach-juan-carlos-amoros-stepping-away-for-seven-week-parental-leave/",
+    "pubDate": "Tue, 21 Jul 2026 01:12:03 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-21T05:15:01.593Z"
+  },
+  {
+    "title": "World Cup’s success will pay off for soccer in US — but real growth is a slow burn",
+    "description": "Growing a sport is not like winning an election. Everything doesn’t suddenly change within months.",
+    "link": "https://nypost.com/2026/07/21/sports/world-cup-will-pay-off-for-soccer-in-us-but-real-growth-is-a-slow-burn/",
+    "pubDate": "Tue, 21 Jul 2026 01:04:03 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-21T05:15:01.593Z"
   }
 ]
