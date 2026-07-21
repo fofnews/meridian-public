@@ -915,6 +915,46 @@
     "pubDate": "Tue, 21 Jul 2026 04:11:00 GMT",
     "source": "Reuters",
     "categories": [],
-    "collectedAt": "2026-07-21T09:45:01.194Z"
+    "collectedAt": "2026-07-21T09:45:01.208Z"
+  },
+  {
+    "title": "Northeast braces for flash flooding threat",
+    "description": "The Northeast and Mid-Atlantic are bracing for a new round of severe storms and possible flash flooding on Tuesday after getting hammered by heavy rain on Saturday.",
+    "link": "https://abcnews.com/US/northeast-braces-flash-flooding-threat/story?id=134927985",
+    "pubDate": "Tue, 21 Jul 2026 05:57:05 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-07-21T10:00:01.697Z"
+  },
+  {
+    "title": "Thames Water lenders offer 'golden share' to head off nationalisation",
+    "description": "The water supplier's lenders are trying to prevent the company from being taken over by the Burnham government",
+    "link": "https://www.bbc.co.uk/news/articles/clyv43x372wo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 21 Jul 2026 09:47:21 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-21T10:00:01.697Z"
+  },
+  {
+    "title": "What does an Andy Burnham-led government mean for your money?",
+    "description": "The new PM says he will look at how much people can earn before paying tax but admitted changing it would be difficult.",
+    "link": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 21 Jul 2026 09:45:21 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-21T10:00:01.697Z"
+  },
+  {
+    "title": "Philippine Foreign Secretary says ASEAN must work together",
+    "description": "Philippine Foreign Secretary says ASEAN must work together",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/philippine-foreign-secretary-says-asean-must-work-together-2?traffic_source=rss",
+    "pubDate": "Tue, 21 Jul 2026 09:18:50 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-21T10:00:01.697Z"
   }
 ]
