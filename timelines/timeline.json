@@ -839,7 +839,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-19",
+      "lastSeen": "2026-07-21",
       "active": true,
       "entries": [
         {
@@ -1051,6 +1051,11 @@
           "date": "2026-07-19",
           "edition": "evening",
           "update": "Israel is set to receive additional U.S. aerial refueling planes as Iranian attacks intensify, according to Israeli officials cited by Reuters."
+        },
+        {
+          "date": "2026-07-21",
+          "edition": "evening",
+          "update": "Israeli intelligence assessed that Iran moved nuclear material and centrifuges into the deeply buried 'Pickaxe Mountain' underground site near Natanz last year, according to reporting by the New York Post, suggesting Iran is working to protect or advance its nuclear enrichment capabilities at the installation."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1476,6 +1481,11 @@
           "date": "2026-07-21",
           "edition": "evening",
           "update": "Trump commented during the Oval Office meeting with Lebanese President Aoun that a potential Syrian military invasion of southern Lebanon to disarm Hezbollah could be 'very effective,' responding to a suggestion raised by Syrian President Ahmed al-Sharaa."
+        },
+        {
+          "date": "2026-07-21",
+          "edition": "evening",
+          "update": "Lebanese President Aoun used the White House meeting to seek Israeli withdrawal from southern Lebanon, while Trump vowed to help Lebanon as part of the bilateral discussion."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2106,6 +2116,11 @@
           "date": "2026-07-21",
           "edition": "evening",
           "update": "The Pentagon identified Sgt. Michael Emmanuel Swinton, 30, of Fayetteville, N.C., as the U.S. service member killed at Erbil Air Base, Iraq, during a controlled detonation of unexploded ordnance from a downed Iranian drone, raising the confirmed U.S. death toll to 17. Defense Secretary Hegseth and Gen. Dan Caine testified before the Senate Appropriations Committee on Tuesday regarding an $87.6 billion supplemental funding request for the Iran war. The State Department issued a rare global travel warning to Americans abroad following Iran's missile barrage into Jordan. Yields on 10-year U.S. Treasury bills rose 60 basis points since the start of the conflict, signaling inflationary pressure, while ASEAN diplomats voiced serious concern over the war's energy crisis, and Asian nations including the Philippines began moving to establish strategic petroleum reserves. Rep. Adam Smith (D-WA) stated that Trump has not shared Iran war casualty statistics with Congress. Trump, during an Oval Office meeting with Lebanese President Aoun, stated the U.S. could strike Pickaxe Mountain in Iran 'very soon and very heavily,' while several Fox News pundits urged de-escalation, warning the conflict could become a political liability with midterm elections approximately 100 days away."
+        },
+        {
+          "date": "2026-07-21",
+          "edition": "evening",
+          "update": "Tehran claimed it retaliated for U.S. strikes by targeting American assets in Kuwait, Bahrain, and Jordan. During his press conference with Lebanese President Aoun, Trump accused the Iranian government of killing over 52,000 protesters and described Iranian leadership as 'very evil people,' while also implying the Iranian missile attack in Jordan that killed two U.S. soldiers could have been prevented due to personnel failures. A CIA assessment concluded Iran would not capitulate or abandon its nuclear program in response to U.S. military strikes. Rep. Rich McCormick (R-Ga.) criticized the administration's prior memorandum of understanding with Iran, saying the U.S. should have 'finished the job' earlier, while Sen. Bill Hagerty (R-TN) compared the current situation to Truman's firing of Gen. MacArthur during the Korean War."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3687,5 +3702,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-21T21:12:09.975Z"
+  "updatedAt": "2026-07-21T21:19:42.101Z"
 }
