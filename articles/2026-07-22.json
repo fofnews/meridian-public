@@ -137,5 +137,38 @@
     "source": "BBC News",
     "categories": [],
     "collectedAt": "2026-07-22T05:15:01.251Z"
+  },
+  {
+    "title": "The top of Arizona’s GOP ticket is littered with 2020 election deniers",
+    "description": "The three top Republican candidates in the Grand Canyon State all played a key role in casting doubt on Joe Biden’s win over Donald Trump six years ago.",
+    "link": "https://www.politico.com/news/2026/07/22/arizona-republicans-elect-2020-deniers-trump-01007511",
+    "pubDate": "Wed, 22 Jul 2026 00:15:06 EST",
+    "source": "Politico",
+    "categories": [
+      "politics, arizona, 2026 elections, andy biggs"
+    ],
+    "collectedAt": "2026-07-22T05:30:01.314Z"
+  },
+  {
+    "title": "US expands strikes on 11th straight night of attacks",
+    "description": "The US military’s 11th consecutive night of strikes extended to Iranian provinces not previously hit.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/us-expands-strikes-on-11th-straight-night-of-attacks?traffic_source=rss",
+    "pubDate": "Wed, 22 Jul 2026 05:05:25 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-07-22T05:30:01.314Z"
+  },
+  {
+    "title": "Hegseth called a ‘failure’ over Iran as he reveals $37b cost of war",
+    "description": "US Defense Secretary Pete Hegseth gets into a heated exchange after being called a failed leader by Michigan Senator.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hegseth-called-a-failure-over-iran-as-he-reveals-37b-cost-of-war?traffic_source=rss",
+    "pubDate": "Wed, 22 Jul 2026 05:02:51 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-07-22T05:30:01.314Z"
   }
 ]
