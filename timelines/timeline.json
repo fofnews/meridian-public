@@ -700,7 +700,7 @@
         {
           "date": "2026-07-22",
           "edition": "morning",
-          "update": "Zelensky appointed Maj. Gen. Mykhailo Drapatyi as Ukraine's new commander-in-chief, described as a decorated commander with popularity domestically and internationally. Outgoing commander Syrskyi stated that Ukraine recaptured 700 square kilometers of territory in the current year. The House voted 76-350 to reject an amendment by Rep. Eli Crane (R-Ariz.) that would have blocked Pentagon funding for Ukraine security assistance. EU envoys convened to negotiate a 21st sanctions package against Russia."
+          "update": "Maj. Gen. Mykhailo Drapatyi was appointed as Ukraine's new commander-in-chief, replacing Syrskyi; the NY Times described him as a decorated commander with popularity both domestically and internationally. The Wildberries strikes targeted logistics hubs specifically in the Krasnodar and Stavropol regions, and Ukraine had previously struck the company's facilities in an earlier attack. Outgoing Gen. Syrskyi stated that Ukraine recaptured 700 square kilometers of territory in the current year. The House of Representatives voted 76-350 to reject an amendment to the NDAA that would have blocked Pentagon funding for Ukraine security assistance. A Reuters report highlighted the account of a Ukrainian soldier who survived approximately one year living in a foxhole beneath the front lines."
         }
       ],
       "parentId": null
@@ -1495,7 +1495,7 @@
         {
           "date": "2026-07-22",
           "edition": "morning",
-          "update": "The Lebanese army has begun deploying in three southern towns as part of a U.S.-backed framework agreement with Israel, marking the start of operations in designated pilot zones. A former Biden administration official expressed doubt the pilot zones scheme would lead to a full Israeli withdrawal, stating Israel would likely continue pushing limits."
+          "update": "The Lebanese army has begun deploying in three southern towns as part of a U.S.-backed framework agreement with Israel, establishing what officials are calling 'pilot zones' in the south. A former Biden administration official expressed doubt the scheme would lead to a full Israeli withdrawal, citing concerns that Israel would continue pushing its limits."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2135,7 +2135,7 @@
         {
           "date": "2026-07-22",
           "edition": "morning",
-          "update": "Defense Secretary Hegseth stated the Iran war has cost the U.S. $37.5 billion so far, while he and Gen. Caine also sought a $1.5 trillion total defense budget with a portion allocated for Iran operations. During the Senate Appropriations Committee hearing, Sen. Gary Peters (D-MI) called Hegseth a 'failure,' and Sen. Jon Ossoff (D-Ga.) challenged Hegseth over his earlier claims that Iran's military had been rendered 'combat ineffective for years to come.' Democrats questioned why U.S. taxpayers should continue funding the war, and Rep. Thomas Massie (R-Ky.) described the inclusion of over $11 billion in USDA funding in the Iran supplemental package as 'ironic,' noting the farmer bailout was itself caused by the war. The U.S. conducted strikes on Iran for an eleventh consecutive night, with explosions reported; oil prices rose slightly following the announcement and gold reached a two-week high amid ongoing Middle East tensions. Secretary of State Rubio stated the U.S. remains open to negotiations with Iran but that Iran is not currently serious, warned of consequences for Iranian actions, and said Iranian control over the Strait of Hormuz sets a dangerous precedent. Jordan's air defense system intercepted three Iranian missiles on Tuesday, though Trump appeared to blame Jordan's air defense for the earlier deaths of two U.S. soldiers. Iran held funerals for 32 children killed in a U.S. strike on a school in Minab on February 28, and Iran issued a threat of retaliation if the U.S. strikes its nuclear sites. House Speaker Mike Johnson urged Trump to 'wrap up' the conflict, while Trump rejected the notion that midterms would influence his strategy; the U.S. military identified Sgt. Angel S. Rampersad as a third service member killed in the Iranian drone attack in Jordan."
+          "update": "The U.S. military conducted its 11th consecutive night of strikes on Iran, with new explosions reported; oil prices rose slightly following the announcement. Defense Secretary Hegseth confirmed the Iran war has cost the U.S. $37.5 billion so far, while the broader defense budget request under discussion totals $1.5 trillion, with approximately $70 billion allocated for Iran war operations. During Senate Appropriations Committee testimony, Sen. Gary Peters called Hegseth a 'failure' and characterized the war as 'an utter and complete failure,' while Democrats broadly expressed skepticism about additional funding. Secretary of State Rubio stated the U.S. is open to negotiations with Iran but said Iran 'is not serious about talks,' and warned of consequences for violating commitments. Iran threatened retaliation if the U.S. strikes its nuclear sites. A senior military official revealed Jordan's air defense intercepted three Iranian missiles on Tuesday, though the same base had sustained two direct hits in the prior 48 hours. House Speaker Mike Johnson urged Trump to 'wrap it up' in Iran, while Trump rejected that midterm considerations would influence his strategy. The U.S. military identified Sgt. Angel S. Rampersad as the third American service member believed killed in the Iranian drone attack on a U.S. base in Jordan, and Iran claimed a new attack on a U.S. base in Kuwait."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2424,7 +2424,7 @@
       "id": "cuba-energy-crisis",
       "title": "Cuba Energy Crisis",
       "firstSeen": "2026-03-16",
-      "lastSeen": "2026-07-22",
+      "lastSeen": "2026-07-21",
       "active": true,
       "entries": [
         {
@@ -2616,11 +2616,6 @@
           "date": "2026-07-21",
           "edition": "evening",
           "update": "The U.S. State Department released a 100-page report alleging that Cuba built a covert network inside America over nearly seven decades, infiltrating the State Department, National Security Council, and Pentagon through spies, activists, and universities."
-        },
-        {
-          "date": "2026-07-22",
-          "edition": "morning",
-          "update": "The Trump administration released a report alleging that Cuba serves as the 'connective tissue' of a global anti-American coalition, claiming ties between the Cuban government and the U.S. left."
         }
       ],
       "parentId": null
@@ -3171,8 +3166,8 @@
       "title": "Cuba Military Intervention",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-04-29",
-      "lastSeen": "2026-05-24",
-      "active": false,
+      "lastSeen": "2026-07-22",
+      "active": true,
       "entries": [
         {
           "date": "2026-04-29",
@@ -3213,6 +3208,11 @@
           "date": "2026-05-24",
           "edition": "morning",
           "update": "Cuba issued a formal warning to the United States on Saturday, asserting its 'full and exclusive sovereignty over the airspace above its territory,' in an apparent response to the federal indictment of Raúl Castro. The U.S. Treasury Department issued subpoenas to Twitch streamer Hasan Piker and CodePink cofounder Medea Benjamin as part of a federal probe into whether the two violated U.S. sanctions by traveling to Cuba, according to Fox News."
+        },
+        {
+          "date": "2026-07-22",
+          "edition": "morning",
+          "update": "The Trump administration released a report alleging that Cuba serves as the 'connective tissue' of a global 'anti-American coalition,' and claimed ties between the Cuban government and the American left."
         }
       ]
     },
@@ -3437,7 +3437,7 @@
         {
           "date": "2026-07-22",
           "edition": "morning",
-          "update": "Reuters reported that Houthi threats in the Red Sea pose a significant challenge to a U.S. military already stretched by existing global commitments."
+          "update": "Reuters reported that potential Houthi threats in the Red Sea would pose a significant challenge to an already stretched U.S. military. The Houthi declaration to block Red Sea oil routes threatens a key alternative shipping corridor Saudi Arabia has relied on heavily for exports since the Iran war began."
         }
       ]
     },
@@ -3637,7 +3637,7 @@
         {
           "date": "2026-07-22",
           "edition": "morning",
-          "update": "A UK humanitarian worker potentially exposed to Ebola in the Democratic Republic of Congo has been evacuated to a London hospital and is being monitored for the virus."
+          "update": "A UK humanitarian worker potentially exposed to Ebola in the Democratic Republic of Congo has been evacuated to a London hospital and is being monitored for the virus, according to BBC News."
         }
       ]
     },
@@ -3732,5 +3732,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-22T11:08:39.007Z"
+  "updatedAt": "2026-07-22T11:08:50.145Z"
 }
