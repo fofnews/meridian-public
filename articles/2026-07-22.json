@@ -618,5 +618,43 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-22T07:45:01.294Z"
+  },
+  {
+    "title": "Iran live updates: Iran live updates: Iran claims new attack on US base in Kuwait",
+    "description": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.",
+    "link": "https://abcnews.com/International/live-updates/iran-live-updates-kuwait-attacked-bahrain-sounds-sirens/?id=134907987",
+    "pubDate": "Wed, 22 Jul 2026 03:55:44 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-07-22T08:00:01.426Z"
+  },
+  {
+    "title": "Nottingham attacks NHS trust faces manslaughter probe",
+    "description": "The hospital trust treated Valdo Calocane before he killed three people in the city in 2023.",
+    "link": "https://www.bbc.co.uk/news/articles/cp8engx2xyeo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 22 Jul 2026 07:56:35 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-22T08:00:01.426Z"
+  },
+  {
+    "title": "Here’s the surprising twist to the news OpenAI products went rogue and tried to steal an exam",
+    "description": "It took a Chinese artificial-intelligence tool to protect an American company from an American AI attack.",
+    "link": "https://www.marketwatch.com/story/heres-the-surprising-twist-to-the-news-openai-products-went-rogue-and-tried-to-steal-an-exam-660e0128?mod=mw_rss_topstories",
+    "pubDate": "Wed, 22 Jul 2026 07:55:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-07-22T08:00:01.426Z"
+  },
+  {
+    "title": "DHS issues $84B in fines to illegal immigrants under Trump administration",
+    "description": "DHS has issued 103,000 fines since Trump returned to office, charging $998 per day to those who refuse to self-deport.",
+    "link": "https://nypost.com/2026/07/22/us-news/dhs-issues-84b-in-fines-to-illegal-immigrants-under-trump-administration/",
+    "pubDate": "Wed, 22 Jul 2026 03:46:11 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-22T08:00:01.426Z"
   }
 ]
