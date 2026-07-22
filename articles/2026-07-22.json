@@ -452,7 +452,7 @@
     "pubDate": "Wed, 22 Jul 2026 03:13:01 -0400",
     "source": "Newsweek",
     "categories": [],
-    "collectedAt": "2026-07-22T07:15:01.332Z"
+    "collectedAt": "2026-07-22T07:15:01.312Z"
   },
   {
     "title": "Prince George Turns 13 Ahead of Major Move to Eton",
@@ -461,7 +461,7 @@
     "pubDate": "Wed, 22 Jul 2026 03:00:00 -0400",
     "source": "Newsweek",
     "categories": [],
-    "collectedAt": "2026-07-22T07:15:01.332Z"
+    "collectedAt": "2026-07-22T07:15:01.312Z"
   },
   {
     "title": "Biggest bombshells from Netflix’s ‘A Toxic Love Story,’ the true story of Ian and Angela Diaz",
@@ -470,7 +470,7 @@
     "pubDate": "Wed, 22 Jul 2026 03:01:00 -0400",
     "source": "New York Post",
     "categories": [],
-    "collectedAt": "2026-07-22T07:15:01.332Z"
+    "collectedAt": "2026-07-22T07:15:01.312Z"
   },
   {
     "title": "Steve Hilton makes provocative plea to anti-Trump Californians: ‘You have a choice’",
@@ -479,7 +479,7 @@
     "pubDate": "Wed, 22 Jul 2026 03:00:00 -0400",
     "source": "New York Post",
     "categories": [],
-    "collectedAt": "2026-07-22T07:15:01.332Z"
+    "collectedAt": "2026-07-22T07:15:01.312Z"
   },
   {
     "title": "Dear Abby: My boyfriend is friends with 500 women on TikTok, but none of them are me",
@@ -488,6 +488,44 @@
     "pubDate": "Wed, 22 Jul 2026 03:00:00 -0400",
     "source": "New York Post",
     "categories": [],
-    "collectedAt": "2026-07-22T07:15:01.332Z"
+    "collectedAt": "2026-07-22T07:15:01.312Z"
+  },
+  {
+    "title": "3 soldiers killed in Iran strike on base in Jordan were from Texas, Hawaii, N.Y.",
+    "description": "U.S. forces launched a new round of airstrikes against Iran at the direction of President Trump following the deaths of three U.S. soldiers in an Iranian strike in Jordan.",
+    "link": "https://www.cbsnews.com/news/iran-strike-jordan-us-troops-killed/",
+    "pubDate": "Wed, 22 Jul 2026 03:22:32 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-07-22T07:30:01.276Z"
+  },
+  {
+    "title": "Rubio says US remains open to Iran talks but warns there 'will be consequences'",
+    "description": "Secretary of State Marco Rubio warned Iran faces consequences for violating commitments, saying Tehran demands illegal control over the Strait of Hormuz.",
+    "link": "https://www.foxnews.com/politics/rubio-says-us-remains-open-iran-talks-warns-will-be-consequences",
+    "pubDate": "Wed, 22 Jul 2026 03:11:15 -0400",
+    "source": "Fox News",
+    "categories": [
+      "60f94e3d-8924-5ad2-8a00-88f7aa6ed48b",
+      "fnc",
+      "fox news",
+      "fox-news/person/marco-rubio",
+      "fox-news/politics/defense/wars/war-with-iran",
+      "fox-news/world/world-regions/middle-east",
+      "fox-news/world",
+      "fox-news/politics/foreign-policy",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-07-22T07:30:01.276Z"
+  },
+  {
+    "title": "Ella Langley joins music royalty with ‘insane’ milestone for ‘Choosin’ Texas’",
+    "description": "Ella Langley's \"Choosin' Texas\" tied a Billboard Hot 100 record with 14 weeks at No. 1, matching Mariah Carey and Whitney Houston among non-holiday titles by women.",
+    "link": "https://pagesix.com/2026/07/22/entertainment/ella-langley-joins-music-royalty-with-insane-milestone-for-choosin-texas/",
+    "pubDate": "Wed, 22 Jul 2026 03:16:17 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-22T07:30:01.276Z"
   }
 ]
