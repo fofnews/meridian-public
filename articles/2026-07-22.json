@@ -65,5 +65,57 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-22T04:45:01.111Z"
+  },
+  {
+    "title": "Milwaukee garbage truck blast injures sanitation worker",
+    "description": "Improperly disposed oxygen tanks exploded in the back of the garbage truck as it was compacting trash, knocking the sanitation worker off his feet and leaving him with a concussion and eye injury.",
+    "link": "https://abcnews.com/video/134966479/",
+    "pubDate": "Wed, 22 Jul 2026 00:45:23 -0400",
+    "source": "ABC News",
+    "categories": [
+      "wnt"
+    ],
+    "collectedAt": "2026-07-22T05:00:01.433Z"
+  },
+  {
+    "title": "Guyana ferry capsize death toll rises to 53 as survivors describe terror",
+    "description": "A ferry capsized in Guyana over the weekend, killing at least 53 people.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/guyana-ferry-capsize-death-toll-rises-to-53-as-survivors-describe-terror?traffic_source=rss",
+    "pubDate": "Wed, 22 Jul 2026 04:47:35 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-07-22T05:00:01.433Z"
+  },
+  {
+    "title": "Long-lost Pan Am crash wreckage found decades after deadly disaster that reshaped airline safety",
+    "description": "Wreckage was found from a Pan Am flight that crashed into the water off Puerto Rico in 1952, killing 52 people and leading to passenger safety briefing requirements.",
+    "link": "https://www.foxnews.com/travel/long-lost-pan-am-crash-wreckage-found-decades-deadly-disaster-reshaped-airline-safety",
+    "pubDate": "Wed, 22 Jul 2026 00:44:47 -0400",
+    "source": "Fox News",
+    "categories": [
+      "829e5eba-3945-5f98-b154-c8c5f7028043",
+      "fnc",
+      "fox news",
+      "fox-news/travel",
+      "fox-news/travel/general/airlines",
+      "fox-news/science/air-and-space",
+      "fox-news/travel/vacation-destinations/puerto-rico",
+      "fox-news/travel/general/airports",
+      "fox-news/world/disasters/transportation",
+      "fox-news/travel",
+      "article"
+    ],
+    "collectedAt": "2026-07-22T05:00:01.433Z"
+  },
+  {
+    "title": "Ryanair passenger recounts horror of getting sucked halfway out airplane window",
+    "description": "“It’s the noise before the chaos, the noise that is always there when I close my eyes to sleep.\"",
+    "link": "https://nypost.com/2026/07/22/world-news/ryanair-passenger-recounts-horror-of-getting-sucked-halfway-out-airplane-window/",
+    "pubDate": "Wed, 22 Jul 2026 00:49:34 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-22T05:00:01.433Z"
   }
 ]
