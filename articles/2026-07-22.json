@@ -117,5 +117,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-22T05:00:01.433Z"
+  },
+  {
+    "title": "Andy Biggs wins GOP nomination to challenge Democrat Katie Hobbs for Arizona governor",
+    "description": "U.S. Rep. Andy Biggs has won the Republican nomination for Arizona governor",
+    "link": "https://abcnews.com/US/wireStory/andy-biggs-wins-republican-nomination-challenge-democrat-katie-134938616",
+    "pubDate": "Wed, 22 Jul 2026 01:03:37 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-07-22T05:15:01.251Z"
+  },
+  {
+    "title": "I've got a motorway in my garden - it's my shelter in hot weather",
+    "description": "It was built over people's homes 60 years ago, but what's it like to live in the shadow of the M4?",
+    "link": "https://www.bbc.co.uk/news/articles/c99l28kndr8o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 22 Jul 2026 05:13:07 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-22T05:15:01.251Z"
   }
 ]
