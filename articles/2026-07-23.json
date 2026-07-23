@@ -254,5 +254,86 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-23T05:15:01.726Z"
+  },
+  {
+    "title": "OpenAI blamed a hacking event on its AI models gone rogue. Here is what to know",
+    "description": "The incident is stirring debates over the need for stronger AI guardrails and the extent to which AI agents are capable of acting on their own.",
+    "link": "https://www.npr.org/2026/07/23/g-s1-135085/openai-hacking-ai-models",
+    "pubDate": "Thu, 23 Jul 2026 01:23:42 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-07-23T05:30:01.264Z"
+  },
+  {
+    "title": "How to Eat a 2,000-Pound Fish? These Orcas Choose to Pulverize It.",
+    "description": "Marine biologists in Mexico captured video of a strange maneuver that killer whales used to shred their meal.",
+    "link": "https://www.nytimes.com/2026/07/23/science/orcas-sunfish-ramming.html",
+    "pubDate": "Thu, 23 Jul 2026 04:00:06 +0000",
+    "source": "NY Times",
+    "categories": [
+      "oceans and seas",
+      "fish and other marine life",
+      "video recordings, downloads and streaming",
+      "biology and biochemistry",
+      "marine biology",
+      "hunting and trapping"
+    ],
+    "collectedAt": "2026-07-23T05:30:01.264Z"
+  },
+  {
+    "title": "Rep. Jim Jordan formally asks DOJ to prosecute Jack Smith over congressional testimony",
+    "description": "Jordan, chair of the House Judiciary Committee, accused Smith of lying in his testimony before the committee in December. Smith’s lawyers denied he made any false statements.",
+    "link": "https://www.nbcnews.com/politics/congress/rep-jim-jordan-formally-asks-doj-prosecute-jack-smith-congressional-te-rcna588834",
+    "pubDate": "Thu, 23 Jul 2026 05:20:42 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-07-23T05:30:01.264Z"
+  },
+  {
+    "title": "Police officer was violent rapist who attacked women over 14 years",
+    "description": "The BBC can reveal that detectives have so far uncovered nine victims of PC Alan Greer but many more are anticipated.",
+    "link": "https://www.bbc.co.uk/news/articles/c3v0rq66q3no?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 23 Jul 2026 05:12:30 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-23T05:30:01.264Z"
+  },
+  {
+    "title": "Firm hacked by rogue OpenAI models says it is 'a wake up call'",
+    "description": "A co-founder of start-up Hugging Face told the BBC that most firms are not aware that the \"game has changed\".",
+    "link": "https://www.bbc.co.uk/news/articles/cdrvy3pn3r0o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 23 Jul 2026 05:07:46 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-23T05:30:01.264Z"
+  },
+  {
+    "title": "Israel building earthen barrier in Gaza to entrench division of the enclave",
+    "description": "The construction of the barrier has fuelled Palestinian fears that most of Gaza will never be relinquished by Israel.",
+    "link": "https://www.aljazeera.com/news/2026/7/23/israel-building-earthen-barrier-in-gaza-to-entrench-division-of-the-enclave?traffic_source=rss",
+    "pubDate": "Thu, 23 Jul 2026 05:15:27 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-23T05:30:01.264Z"
+  },
+  {
+    "title": "Iconic California restaurant chain offers brutal takedown of home state",
+    "description": "His criticism echoes a broader corporate exodus from California.",
+    "link": "https://nypost.com/2026/07/23/us-news/california-pizza-kitchen-co-founder-says-he-wouldnt-launch-chain-in-state-today/",
+    "pubDate": "Thu, 23 Jul 2026 01:22:23 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-23T05:30:01.264Z"
+  },
+  {
+    "title": "Hasan Piker tells Mamdani to ‘shut the f— up’ over cautious messaging, claims mayor needs to be more ‘bold’",
+    "description": "Hasan Piker said politicians, like Rep. Alexandria Ocasio-Cortez, D-N.Y., risk appearing uncommitted to their positions when they sound hesitant or defensive",
+    "link": "https://nypost.com/2026/07/23/media/hasan-piker-tells-mamdani-to-shut-the-f-up-over-cautious-messaging-claims-mayor-needs-to-be-more-bold/",
+    "pubDate": "Thu, 23 Jul 2026 01:21:27 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-23T05:30:01.264Z"
   }
 ]
