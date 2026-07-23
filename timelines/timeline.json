@@ -725,7 +725,7 @@
         {
           "date": "2026-07-23",
           "edition": "evening",
-          "update": "Ukraine shot down a Russian Su-35 fighter jet using an F-16, marking a historic first for Ukrainian air combat operations, according to Newsweek. Russia and Ukraine exchanged deep strikes behind the front line, killing four people in Ukraine and four in Russia and Crimea. Secretary of State Rubio held discussions with Russian Foreign Minister Lavrov regarding the war in Ukraine."
+          "update": "Ukraine shot down a Russian Su-35 fighter jet using an F-16, marking the first recorded air-to-air kill by a Western-supplied fighter in the conflict. At least four people were killed in Russian strikes on Ukraine, while four others died in Russia and Crimea as both sides exchanged deep strikes. Secretary of State Marco Rubio held discussions with Russian Foreign Minister Sergey Lavrov regarding the war."
         }
       ],
       "parentId": null
@@ -874,7 +874,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-22",
+      "lastSeen": "2026-07-23",
       "active": true,
       "entries": [
         {
@@ -1096,6 +1096,11 @@
           "date": "2026-07-22",
           "edition": "evening",
           "update": "An expected U.S.-Saudi nuclear deal has raised Israeli concerns about a potential regional arms race, with critics warning it could encourage other Middle Eastern countries to pursue nuclear programs, even as an Israeli minister sought to downplay the deal's significance."
+        },
+        {
+          "date": "2026-07-23",
+          "edition": "evening",
+          "update": "An Iranian military group warned the United Kingdom that British bases used by U.S. forces for strikes on Iran would be considered 'legitimate targets,' prompting the UK government to state it is 'ready to defend itself.'"
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1229,7 +1234,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-22",
+      "lastSeen": "2026-07-23",
       "active": true,
       "entries": [
         {
@@ -1541,6 +1546,11 @@
           "date": "2026-07-22",
           "edition": "evening",
           "update": "The Lebanese army deployed into Zawtar al-Gharbiya in southern Lebanon as implementation of the U.S.-brokered pilot zone framework began, with displaced residents awaiting return. An Israeli strike on a civilian vehicle in central Gaza killed two Palestinians. Israeli settlers attacked Palestinian towns in the occupied West Bank, according to Al Jazeera. Two Israeli financial firms that serve as critical partners to Palestinian banks have threatened to cut off the Palestinian economy, per the NY Times. Analysts and locals are drawing comparisons between Israel's 'Yellow Line' buffer zone policy in Gaza and post-1967 West Bank occupation tactics, with critics describing it as incremental annexation."
+        },
+        {
+          "date": "2026-07-23",
+          "edition": "evening",
+          "update": "The U.S. National Defense Authorization Act includes provisions addressing military integration between the United States and Israel, according to Newsweek, amid existing close cooperation on military technology and the ongoing joint campaign against Iran."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2195,7 +2205,7 @@
         {
           "date": "2026-07-23",
           "edition": "evening",
-          "update": "The House passed a war powers resolution 214-208 on Thursday directing Trump to end military operations in Iran, with four Republicans joining all Democrats — the second such House vote, and the first since fighting resumed and U.S. troops were killed this month. The Senate voted to block a companion resolution, backing Trump's military authority. The U.S. conducted its 12th consecutive night of strikes on Iran, while the Pentagon deployed additional aerial refuelers to the region, including to Israel, with B-1 bombers tracked departing UK bases. Secretary of State Rubio described U.S. policy as 'a head for an eye,' signaling a more aggressive retaliatory posture than traditional deterrence doctrine. An Iranian military group warned the UK that British bases used for U.S. strikes on Iran are 'legitimate targets,' prompting London to state it is 'ready to defend itself.' Sen. Rand Paul stated Wednesday the U.S. is 'worse off' than before the conflict began in late February, calling the war 'not a success.'"
+          "update": "The U.S. conducted its 12th consecutive night of strikes against Iran, with Secretary of State Rubio warning that 'every night the price gets higher' and characterizing U.S. policy as a 'head for an eye' in response to Iran's stated 'eye for an eye' stance. President Trump warned Thursday that the U.S. will hold Iran accountable for any Houthi attacks on commercial shipping following the strikes on two Saudi tankers. Reuters sources reported that Iran transferred IRGC commanders and missile equipment to Houthi forces in Yemen. The U.S. is expanding its military footprint in the region, deploying additional aerial refuelers to locations including Israel, with flight trackers showing B-1 bombers departing UK bases. Sen. Rand Paul stated the U.S. is 'worse off' than before the conflict began and called the war 'not a success.'"
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2484,7 +2494,7 @@
       "id": "cuba-energy-crisis",
       "title": "Cuba Energy Crisis",
       "firstSeen": "2026-03-16",
-      "lastSeen": "2026-07-21",
+      "lastSeen": "2026-07-23",
       "active": true,
       "entries": [
         {
@@ -2676,6 +2686,11 @@
           "date": "2026-07-21",
           "edition": "evening",
           "update": "The U.S. State Department released a 100-page report alleging that Cuba built a covert network inside America over nearly seven decades, infiltrating the State Department, National Security Council, and Pentagon through spies, activists, and universities."
+        },
+        {
+          "date": "2026-07-23",
+          "edition": "evening",
+          "update": "Rep. Mike Waltz confronted Rep. Mark Pocan during a congressional exchange after Pocan questioned Secretary Rubio's credibility on Cuba policy, with Waltz defending Rubio by noting that 'his entire family is from Cuba.'"
         }
       ],
       "parentId": null
@@ -3109,7 +3124,7 @@
         {
           "date": "2026-07-23",
           "edition": "evening",
-          "update": "Iraqi Prime Minister Ali al-Zaid traveled to Tehran for talks with Iranian officials following a high-profile meeting with President Trump, according to Al Jazeera."
+          "update": "Iraqi Prime Minister Ali al-Zaid traveled to Tehran following a high-profile meeting with President Trump, according to Al Jazeera. Analysts describe the U.S. as having returned to a pressure campaign against Iran following the collapse of the temporary ceasefire period."
         }
       ]
     },
@@ -3494,7 +3509,7 @@
         {
           "date": "2026-07-23",
           "edition": "evening",
-          "update": "Brent crude oil prices hit $100 per barrel for the first time since May following Thursday's Houthi attacks on two Saudi Arabian oil tankers in the Red Sea. Trump warned he will hold Iran responsible for any future Houthi strikes on commercial shipping. Reuters reported that Iran flew IRGC commanders and missile equipment to Houthi forces in Yemen, representing direct Iranian military support to the group."
+          "update": "Brent crude oil surpassed $100 per barrel following the confirmed strikes on two Saudi oil tankers in the Red Sea, the first time the benchmark has crossed that threshold during the current crisis. Chinese refiners responded to mounting regional supply risks by securing increased volumes of Russian crude for September delivery and seeking additional Iranian oil supplies. Reuters sources reported that Iran flew IRGC commanders and missile equipment to Houthi forces in Yemen, representing a significant transfer of military personnel and materiel to the group responsible for the tanker attacks."
         }
       ]
     },
@@ -3709,7 +3724,7 @@
         {
           "date": "2026-07-23",
           "edition": "evening",
-          "update": "Contact tracing efforts in the Democratic Republic of Congo are being hampered by difficulties quickly identifying people at risk, complicating containment of the outbreak. The death toll has now surpassed 1,000 according to official government data, confirming the milestone in official figures."
+          "update": "Contact tracing efforts in the Democratic Republic of Congo remain severely hindered by conditions on the ground, complicating attempts to identify and monitor individuals at risk of infection. Official Congolese government data confirmed the outbreak has surpassed 1,000 deaths, consistent with the threshold previously reported by international health organizations."
         }
       ]
     },
@@ -3834,8 +3849,8 @@
       ]
     },
     {
-      "id": "us-saudi-nuclear-deal-and-regional-diplomacy",
-      "title": "US-Saudi Nuclear Deal and Regional Diplomacy",
+      "id": "us-saudi-nuclear-deal-and-israel-normalization",
+      "title": "US-Saudi Nuclear Deal and Israel Normalization",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-07-23",
       "lastSeen": "2026-07-23",
@@ -3844,10 +3859,10 @@
         {
           "date": "2026-07-23",
           "edition": "evening",
-          "update": "Trump stated via social media on Thursday that the U.S.-Saudi nuclear cooperation agreement, signed Wednesday, is contingent on Saudi Arabia joining the Abraham Accords and normalizing relations with Israel, and explicitly includes no enrichment of nuclear material."
+          "update": "The U.S.-Saudi nuclear cooperation agreement was signed by the U.S. Department of Energy and Saudi Arabia on Wednesday, with Trump stating the deal is contingent on Saudi Arabia normalizing relations with Israel through the Abraham Accords and prohibits uranium enrichment. The House passed a non-binding war powers resolution to limit Trump's military authority over Iran, with four Republicans joining Democrats in support — the second such House vote, matching a prior outcome from June — but the Senate rejected a similar measure."
         }
       ]
     }
   ],
-  "updatedAt": "2026-07-23T21:09:33.607Z"
+  "updatedAt": "2026-07-23T21:09:35.318Z"
 }
