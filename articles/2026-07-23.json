@@ -160,5 +160,63 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-23T04:45:01.547Z"
+  },
+  {
+    "title": "Caitlin Clark Nears Suspension After Earning 7th Technical Foul for Taunting",
+    "description": "Indiana Fever guard Caitlin Clark said she's 'never gonna back down' despite inching closer to a suspension. Here's the latest.",
+    "link": "https://www.newsweek.com/sports/caitlin-clark-nears-suspension-after-earning-7th-technical-foul-for-taunting-12232151",
+    "pubDate": "Thu, 23 Jul 2026 00:51:05 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-23T05:00:01.254Z"
+  },
+  {
+    "title": "Top Two NFL Draft QB Holding Out Before Signing Rookie Deals",
+    "description": "Neither Fernando Mendoza nor Ty Simpson has signed their rookie contracts despite NFL training camp starting soon.",
+    "link": "https://www.newsweek.com/sports/nfl/top-two-nfl-draft-qb-holding-out-before-signing-rookie-deals-12232011",
+    "pubDate": "Thu, 23 Jul 2026 00:46:57 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-23T05:00:01.254Z"
+  },
+  {
+    "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
+    "description": "Nearly five months on, grief is still raw as a teacher and a mother recall the horror of the attack in Minab.",
+    "link": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 23 Jul 2026 04:49:24 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-23T05:00:01.254Z"
+  },
+  {
+    "title": "Guyana ferry disaster: families demand answers as around 100 feared dead",
+    "description": "Officials say 76 of the roughly 179 people believed to have been aboard survived, and 53 bodies have been found so far.",
+    "link": "https://www.aljazeera.com/news/2026/7/23/guyana-ferry-disaster-families-demand-answers-as-around-100-feared-dead?traffic_source=rss",
+    "pubDate": "Thu, 23 Jul 2026 04:17:22 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-23T05:00:01.254Z"
+  },
+  {
+    "title": "Nicaragua's parliament plans to eliminate elections to codify President Ortega's declaration",
+    "description": "Nicaragua's congress moves to abolish elections after President Daniel Ortega declared no more elections, drawing condemnation from the international community.",
+    "link": "https://www.foxnews.com/world/nicaraguas-parliament-plans-eliminate-elections-codify-president-ortegas-declaration",
+    "pubDate": "Thu, 23 Jul 2026 00:39:53 -0400",
+    "source": "Fox News",
+    "categories": [
+      "9138e434-316d-5d70-9350-846481e5bed4",
+      "fnc",
+      "fox news",
+      "fox-news/travel/regions/central-america",
+      "fox-news/world/world-regions/latin-america",
+      "fox-news/politics/elections",
+      "fox-news/world",
+      "fox-news/politics",
+      "fox-news/world",
+      "article"
+    ],
+    "collectedAt": "2026-07-23T05:00:01.254Z"
   }
 ]
