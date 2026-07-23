@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-22",
+      "lastSeen": "2026-07-23",
       "active": true,
       "entries": [
         {
@@ -276,6 +276,11 @@
           "date": "2026-07-22",
           "edition": "evening",
           "update": "Daniel Siad, a French model scout linked to Jeffrey Epstein and under investigation in France for allegedly helping Epstein traffic and abuse women, was found dead at his home in a north-west suburb of Paris on Monday. French prosecutors confirmed his death."
+        },
+        {
+          "date": "2026-07-23",
+          "edition": "morning",
+          "update": "The new facts describe Jean-Luc Brunel, a modeling agent linked to Epstein, as found dead in France — this appears to duplicate the previously recorded death of Daniel Siad and may refer to an earlier, already-documented case; no genuinely new information is present beyond what was already recorded."
         }
       ],
       "parentId": null
@@ -394,7 +399,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-22",
+      "lastSeen": "2026-07-23",
       "active": true,
       "entries": [
         {
@@ -711,6 +716,11 @@
           "date": "2026-07-22",
           "edition": "evening",
           "update": "Greece is resisting proposed sanctions on Russian LNG shipping, warning of significant impacts on its shipping industry, while simultaneously expressing concern over Russian hybrid warfare threats. Ukraine agreed to export drones to the United States as part of a Pentagon plan, according to a Reuters source. Mykhailo Drapatyi, now Ukraine's third commander-in-chief since Russia's full-scale invasion began in February 2022, faces the challenge of transitioning from battlefield command to broader bureaucratic leadership responsibilities. Zelenskyy stated that the Wildberries warehouses struck by Ukrainian drones were 'involved in supplying the Russian army' with military equipment including body armor and drone parts."
+        },
+        {
+          "date": "2026-07-23",
+          "edition": "morning",
+          "update": "A Ukrainian attack on Crimea killed one person and injured four others, according to Russian-installed authorities."
         }
       ],
       "parentId": null
@@ -719,7 +729,7 @@
       "id": "sinaloa-cartel-violence",
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-20",
+      "lastSeen": "2026-07-23",
       "active": true,
       "entries": [
         {
@@ -796,6 +806,11 @@
           "date": "2026-07-20",
           "edition": "evening",
           "update": "Ismael 'El Mayo' Zambada, co-founder of the Sinaloa cartel, was sentenced to life in prison by a federal court in Brooklyn, New York, and ordered to forfeit $15 billion."
+        },
+        {
+          "date": "2026-07-23",
+          "edition": "morning",
+          "update": "National Review published analysis suggesting Zambada's capture may be the beginning of broader revelations about corruption within Mexico's political class, and that leniency in his sentencing could signal a cooperation agreement with U.S. authorities."
         }
       ],
       "parentId": null
@@ -1084,7 +1099,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-07-21",
+      "lastSeen": "2026-07-23",
       "active": true,
       "entries": [
         {
@@ -1196,6 +1211,11 @@
           "date": "2026-07-21",
           "edition": "evening",
           "update": "Iran executed two young men, Erfan Esfandiari and Gol-Mohammad Mohammadi, for helping protesters escape security forces during earlier anti-regime demonstrations. Trump, during a press conference with Lebanese President Aoun, accused the Iranian government of killing 'over 52,000' protesters, calling Iranian leaders 'very evil people.'"
+        },
+        {
+          "date": "2026-07-23",
+          "edition": "morning",
+          "update": "The BBC visited a school in Minab, Iran, where a strike killed 120 children, with a teacher and mother describing the attack nearly five months after it occurred."
         }
       ],
       "parentId": null
@@ -1524,7 +1544,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-22",
+      "lastSeen": "2026-07-23",
       "active": true,
       "entries": [
         {
@@ -2161,6 +2181,11 @@
           "date": "2026-07-22",
           "edition": "evening",
           "update": "President Trump attended a dignified transfer ceremony at Dover Air Force Base on Wednesday for four U.S. service members killed in the war with Iran — 1st Lt. Tyler J. Feehan, Sgt. Michael E. Swinton, Sgt. Angel S. Rampersad, and Pvt. Isabella Gonzales — with Defense Secretary Hegseth also in attendance. The deaths occurred in Jordan and Iraq after the temporary ceasefire with Iran collapsed. Trump warned Iran would 'pay the price' for the deaths, and separately threatened to strike one Iranian bridge or power plant for every Iranian attack on ships in the Strait of Hormuz, framing the threat as a new red line and an escalation of strategy. Oil prices surged nearly 5%, rising past $95 per barrel, as prospects for new peace talks dimmed following the 11th consecutive night of strikes; the national average gas price rose to just over $4 per gallon, up 91 cents from a year ago according to AAA. Secretary of State Rubio warned that Iran's military control of the Strait of Hormuz sets a 'dangerous precedent' and said Iran is in 'a lot of trouble.' CBS News sources indicated the true cost of the war is likely higher than the $37.5 billion figure Hegseth provided to Congress, while the Pentagon has requested an additional $67–70 billion to replenish depleted weapons stockpiles."
+        },
+        {
+          "date": "2026-07-23",
+          "edition": "morning",
+          "update": "Iran's chief nuclear negotiator warned that regional infrastructure would not be safe if Iran's security is not ensured. The Senate is set to vote Thursday on a measure to end U.S. involvement in the conflict, with Sen. Bill Cassidy (R-LA) potentially providing a key vote. The U.S. House passed a $1 trillion defense bill despite Iran-related concerns, and the Pentagon separately briefed a bipartisan group of House lawmakers on the war. NYT analysis of video footage and satellite imagery revealed new details about damage at U.S. military sites following Iranian strikes. Oil prices rose to a six-week high amid the escalating tensions. Jordan is assessed as unlikely to restrict American military presence on its soil despite Iranian strikes targeting the region. A U.S.-Saudi nuclear deal has prompted multiple countries in Europe, Asia, and the Middle East to reportedly seek their own nuclear capabilities."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2945,7 +2970,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-22",
+      "lastSeen": "2026-07-23",
       "active": true,
       "entries": [
         {
@@ -3316,7 +3341,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-07-22",
+      "lastSeen": "2026-07-23",
       "active": true,
       "entries": [
         {
@@ -3468,6 +3493,11 @@
           "date": "2026-07-22",
           "edition": "evening",
           "update": "A Dubai-based logistics company announced a deal with the UAE on Wednesday to develop a new port system designed to bypass the Strait of Hormuz, according to the NY Times. Shipping tracking data showed an increasing number of vessels rerouting away from the Red Sea following Houthi threats, with multiple tankers making sharp U-turns; all had been traveling to or from Saudi ports before changing course. Approximately 6 million barrels of crude oil per day previously transiting the Bab al-Mandeb Strait to Asia are now at risk, raising questions about whether the Suez Canal can serve as an adequate alternative route for Asian oil consumers."
+        },
+        {
+          "date": "2026-07-23",
+          "edition": "morning",
+          "update": "Yemen's Houthis claimed they attacked two Saudi oil tankers in the Red Sea — the first confirmed attacks since the group announced its maritime embargo against Saudi Arabia."
         }
       ]
     },
@@ -3546,7 +3576,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-07-22",
+      "lastSeen": "2026-07-23",
       "active": true,
       "entries": [
         {
@@ -3673,6 +3703,11 @@
           "date": "2026-07-22",
           "edition": "evening",
           "update": "The Ebola death toll in the Democratic Republic of Congo has reached 999, according to WHO figures reported by Al Jazeera, with an additional two deaths recorded in Uganda, all attributed to the Bundibugyo strain."
+        },
+        {
+          "date": "2026-07-23",
+          "edition": "morning",
+          "update": "The Ebola death toll in the Democratic Republic of Congo has surpassed 1,000, according to AP News."
         }
       ]
     },
@@ -3767,5 +3802,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-22T21:10:10.533Z"
+  "updatedAt": "2026-07-23T11:07:09.983Z"
 }
