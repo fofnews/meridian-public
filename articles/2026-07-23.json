@@ -111,5 +111,54 @@
     "source": "Newsweek",
     "categories": [],
     "collectedAt": "2026-07-23T04:30:01.502Z"
+  },
+  {
+    "title": "Diesel Crisis Puts Poor Farmers Around the World at Risk",
+    "description": "The closure of the Strait of Hormuz has limited the shipment of diesel, depriving farmers of fuel for irrigation pumps and threatening the food supply.",
+    "link": "https://www.nytimes.com/2026/07/23/business/bangladesh-farmers-diesel-water-iran.html",
+    "pubDate": "Thu, 23 Jul 2026 04:01:17 +0000",
+    "source": "NY Times",
+    "categories": [
+      "bangladesh",
+      "agriculture and farming",
+      "food",
+      "us and israeli attack on iran (2026)",
+      "diesel power",
+      "oil (petroleum) and gasoline",
+      "dhaka (bangladesh)",
+      "rajshahi (bangladesh)",
+      "rice",
+      "water",
+      "trump, donald j",
+      "wazed, hasina"
+    ],
+    "collectedAt": "2026-07-23T04:45:01.547Z"
+  },
+  {
+    "title": "The fight for the future of foldable phones is here",
+    "description": "Samsung has owned the market for foldable phones. Now Apple is getting in on it. NBC News chief tech analyst Joanna Stern breaks it down.",
+    "link": "https://www.nbcnews.com/tech/gadgets/samsung-vs-apple-fight-foldable-phones-rcna588802",
+    "pubDate": "Thu, 23 Jul 2026 04:30:00 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-07-23T04:45:01.547Z"
+  },
+  {
+    "title": "Former Cowboys Star Getting Interest From Four Teams",
+    "description": "Pro Bowl defender Jadeveon Clowney is still a free agent, but there are four teams in the hunt for the pass rusher.",
+    "link": "https://www.newsweek.com/sports/nfl/former-cowboys-star-getting-interest-from-four-teams-12232107",
+    "pubDate": "Thu, 23 Jul 2026 00:33:52 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-23T04:45:01.547Z"
+  },
+  {
+    "title": "Jack Smith hit with criminal referral for allegedly making false statements to Congress about Trump probe: ‘Strong evidence’",
+    "description": "“The Committee on the Judiciary writes to refer strong evidence that appears to show Jack Smith, former Special Counsel, knowingly made false statements during his December 17, 2025, deposition.”",
+    "link": "https://nypost.com/2026/07/23/us-news/jack-smith-hit-with-criminal-referral-for-allegedly-making-false-statements-to-congress/",
+    "pubDate": "Thu, 23 Jul 2026 00:39:41 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-23T04:45:01.547Z"
   }
 ]
