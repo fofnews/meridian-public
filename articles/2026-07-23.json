@@ -519,5 +519,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-23T06:45:01.127Z"
+  },
+  {
+    "title": "Arkansas cop tragically dies saving fiancée's life just hours after proposing",
+    "description": "An Arkansas police officer proposed to his fiancée hours before drowning in Elk River while rescuing her from the current during a canoeing trip with friends.",
+    "link": "https://www.foxnews.com/us/arkansas-cop-tragically-dies-saving-fiancees-life-hours-after-proposing",
+    "pubDate": "Thu, 23 Jul 2026 02:48:45 -0400",
+    "source": "Fox News",
+    "categories": [
+      "c8d2db38-1aef-50f3-9393-865a617ca74f",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/midwest/arkansas",
+      "fox-news/us/blue-lives-lost",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/us",
+      "fox-news/us/us-regions/southeast",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-07-23T07:00:01.167Z"
   }
 ]
