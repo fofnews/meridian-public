@@ -721,6 +721,11 @@
           "date": "2026-07-23",
           "edition": "morning",
           "update": "A Ukrainian attack on Crimea killed one person and injured four others, according to Russian authorities."
+        },
+        {
+          "date": "2026-07-23",
+          "edition": "evening",
+          "update": "Ukraine shot down a Russian Su-35 fighter jet using an F-16, marking a historic first for Ukrainian air combat operations, according to Newsweek. Russia and Ukraine exchanged deep strikes behind the front line, killing four people in Ukraine and four in Russia and Crimea. Secretary of State Rubio held discussions with Russian Foreign Minister Lavrov regarding the war in Ukraine."
         }
       ],
       "parentId": null
@@ -2186,6 +2191,11 @@
           "date": "2026-07-23",
           "edition": "morning",
           "update": "Iran's chief nuclear negotiator warned that if Iran's security is not guaranteed, 'no infrastructure will be safe.' The U.S. launched new strikes hitting multiple Iranian cities including Sirik, Ahvaz, and Bushehr, while the Pentagon briefed a bipartisan group of House lawmakers on the conflict. The House passed a $1 trillion defense bill, and the Senate is set to vote Thursday on a measure to end U.S. involvement in the Iran conflict, with Republican Sen. Bill Cassidy identified as a potential decisive vote. The NY Times published analysis of video footage and satellite imagery revealing new damage details from Iranian strikes on U.S. military sites, while Jordan is assessed as unlikely to restrict American military presence despite ongoing Iranian airstrikes."
+        },
+        {
+          "date": "2026-07-23",
+          "edition": "evening",
+          "update": "The House passed a war powers resolution 214-208 on Thursday directing Trump to end military operations in Iran, with four Republicans joining all Democrats — the second such House vote, and the first since fighting resumed and U.S. troops were killed this month. The Senate voted to block a companion resolution, backing Trump's military authority. The U.S. conducted its 12th consecutive night of strikes on Iran, while the Pentagon deployed additional aerial refuelers to the region, including to Israel, with B-1 bombers tracked departing UK bases. Secretary of State Rubio described U.S. policy as 'a head for an eye,' signaling a more aggressive retaliatory posture than traditional deterrence doctrine. An Iranian military group warned the UK that British bases used for U.S. strikes on Iran are 'legitimate targets,' prompting London to state it is 'ready to defend itself.' Sen. Rand Paul stated Wednesday the U.S. is 'worse off' than before the conflict began in late February, calling the war 'not a success.'"
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2971,30 +2981,7 @@
       "parentId": null,
       "firstSeen": "2026-02-28",
       "lastSeen": "2026-07-23",
-      "active": true,
-      "entries": [
-        {
-          "date": "2026-05-22",
-          "edition": "morning",
-          "update": "Acting Navy Secretary Hung Cao told a Senate Appropriations Defense Subcommittee hearing on Thursday that the U.S. has paused a $14 billion arms sale to Taiwan to ensure sufficient munitions for American military operations against Iran."
-        },
-        {
-          "date": "2026-05-24",
-          "edition": "evening",
-          "update": "An Israeli attack on Nuseirat refugee camp in Gaza killed Mohammad Abu Mallouh, Alaa Zaqlan, and their infant child, Osama, according to medics. France banned Israeli far-right minister Itamar Ben-Gvir from entering the country after French officials described his behavior toward arrested Gaza flotilla activists as 'unspeakable.' Israel blocked Muslims in Gaza from traveling to perform Hajj for the third consecutive year, with the border remaining shut as millions of other Muslims gathered for the pilgrimage. An Israeli source cited by Reuters said Prime Minister Netanyahu told President Trump that Israel will retain the freedom to act independently against threats."
-        },
-        {
-          "date": "2026-07-15",
-          "edition": "morning",
-          "update": "Israel intensified its military campaign in Gaza with attacks on children and hospitals while tightening control in the occupied West Bank through settlement outposts, demolitions, and army-backed settler raids."
-        },
-        {
-          "date": "2026-07-21",
-          "edition": "evening",
-          "update": "Trump met with Lebanese President Joseph Aoun at the White House on Tuesday, vowing to help Lebanon and expressing openness to direct talks with Hezbollah. Aoun is seeking a U.S.-backed Israeli withdrawal from southern Lebanon, and the discussions covered Hezbollah, Israel, and Iran."
-        }
-      ],
-      "pendingSubThread": "Houthi Naval Blockade and Red Sea Operations"
+      "active": true
     },
     {
       "id": "nato-iran-diplomatic-crisis",
@@ -3016,7 +3003,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-07-21",
+      "lastSeen": "2026-07-23",
       "active": true,
       "entries": [
         {
@@ -3118,6 +3105,11 @@
           "date": "2026-07-21",
           "edition": "morning",
           "update": "A delegation of survivors of Iranian-sponsored terrorism and their families traveled to Washington, D.C., to demand that President Trump include restitution from Tehran as a condition of any peace deal with Iran."
+        },
+        {
+          "date": "2026-07-23",
+          "edition": "evening",
+          "update": "Iraqi Prime Minister Ali al-Zaid traveled to Tehran for talks with Iranian officials following a high-profile meeting with President Trump, according to Al Jazeera."
         }
       ]
     },
@@ -3498,6 +3490,11 @@
           "date": "2026-07-23",
           "edition": "morning",
           "update": "Yemen's Houthis claimed they carried out attacks on two Saudi oil tankers in the Red Sea — the first strikes since the group announced its maritime embargo against Saudi Arabia. Oil prices climbed to a six-week high amid the escalating U.S.-Iran tensions."
+        },
+        {
+          "date": "2026-07-23",
+          "edition": "evening",
+          "update": "Brent crude oil prices hit $100 per barrel for the first time since May following Thursday's Houthi attacks on two Saudi Arabian oil tankers in the Red Sea. Trump warned he will hold Iran responsible for any future Houthi strikes on commercial shipping. Reuters reported that Iran flew IRGC commanders and missile equipment to Houthi forces in Yemen, representing direct Iranian military support to the group."
         }
       ]
     },
@@ -3708,6 +3705,11 @@
           "date": "2026-07-23",
           "edition": "morning",
           "update": "The Ebola death toll in the Democratic Republic of Congo has surpassed 1,000, according to AP News, crossing the threshold previously approaching in WHO figures."
+        },
+        {
+          "date": "2026-07-23",
+          "edition": "evening",
+          "update": "Contact tracing efforts in the Democratic Republic of Congo are being hampered by difficulties quickly identifying people at risk, complicating containment of the outbreak. The death toll has now surpassed 1,000 according to official government data, confirming the milestone in official figures."
         }
       ]
     },
@@ -3800,7 +3802,52 @@
           "update": "President Trump called for more countries to recognize Israel as a condition for ending the war with Iran, proposing an expansion of the Abraham Accords. Analysts cited by the NY Times described the likelihood of such an expansion as close to zero, with the proposal being met with bewilderment across the Middle East."
         }
       ]
+    },
+    {
+      "id": "middle-east-military-conflicts-2026-general",
+      "title": "Middle East Military Conflicts (2026)",
+      "parentId": "middle-east-military-conflicts-2026",
+      "firstSeen": "2026-02-28",
+      "lastSeen": "2026-07-23",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-05-22",
+          "edition": "morning",
+          "update": "Acting Navy Secretary Hung Cao told a Senate Appropriations Defense Subcommittee hearing on Thursday that the U.S. has paused a $14 billion arms sale to Taiwan to ensure sufficient munitions for American military operations against Iran."
+        },
+        {
+          "date": "2026-05-24",
+          "edition": "evening",
+          "update": "An Israeli attack on Nuseirat refugee camp in Gaza killed Mohammad Abu Mallouh, Alaa Zaqlan, and their infant child, Osama, according to medics. France banned Israeli far-right minister Itamar Ben-Gvir from entering the country after French officials described his behavior toward arrested Gaza flotilla activists as 'unspeakable.' Israel blocked Muslims in Gaza from traveling to perform Hajj for the third consecutive year, with the border remaining shut as millions of other Muslims gathered for the pilgrimage. An Israeli source cited by Reuters said Prime Minister Netanyahu told President Trump that Israel will retain the freedom to act independently against threats."
+        },
+        {
+          "date": "2026-07-15",
+          "edition": "morning",
+          "update": "Israel intensified its military campaign in Gaza with attacks on children and hospitals while tightening control in the occupied West Bank through settlement outposts, demolitions, and army-backed settler raids."
+        },
+        {
+          "date": "2026-07-21",
+          "edition": "evening",
+          "update": "Trump met with Lebanese President Joseph Aoun at the White House on Tuesday, vowing to help Lebanon and expressing openness to direct talks with Hezbollah. Aoun is seeking a U.S.-backed Israeli withdrawal from southern Lebanon, and the discussions covered Hezbollah, Israel, and Iran."
+        }
+      ]
+    },
+    {
+      "id": "us-saudi-nuclear-deal-and-regional-diplomacy",
+      "title": "US-Saudi Nuclear Deal and Regional Diplomacy",
+      "parentId": "middle-east-military-conflicts-2026",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-07-23",
+          "edition": "evening",
+          "update": "Trump stated via social media on Thursday that the U.S.-Saudi nuclear cooperation agreement, signed Wednesday, is contingent on Saudi Arabia joining the Abraham Accords and normalizing relations with Israel, and explicitly includes no enrichment of nuclear material."
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-07-23T11:07:18.157Z"
+  "updatedAt": "2026-07-23T21:09:33.607Z"
 }
