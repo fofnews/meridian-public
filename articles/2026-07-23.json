@@ -2202,5 +2202,151 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-23T11:45:01.532Z"
+  },
+  {
+    "title": "Alert on AI fake influencers selling supplements and cloths",
+    "description": "ABC News' Chief Investigative Correspondent Aaron Katersky reports on the AI generated ads allegedly promising miracle cures, using fake doctors and wellness influencers.",
+    "link": "https://abcnews.com/video/135012797/",
+    "pubDate": "Thu, 23 Jul 2026 07:54:32 -0400",
+    "source": "ABC News",
+    "categories": [
+      "gma"
+    ],
+    "collectedAt": "2026-07-23T12:00:01.379Z"
+  },
+  {
+    "title": "Navy withholding sailors' service history, in another curb on press access",
+    "description": "The U.S. Navy is taking a major step to restrict press access to information about service members by no longer releasing information about any sailor's service history.",
+    "link": "https://www.cbsnews.com/news/navy-withholding-sailors-service-history-pentagon-press-access-another-curb/",
+    "pubDate": "Thu, 23 Jul 2026 07:57:01 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-07-23T12:00:01.379Z"
+  },
+  {
+    "title": "Oil prices surge toward triple digits after Red Sea attacks",
+    "description": "Oil prices rose Thursday to their highest level since early June after the latest Iran war escalation threatened severe new disruption to global supplies.",
+    "link": "https://www.nbcnews.com/business/markets/oil-prices-rise-red-sea-attacks-houthis-saudi-trump-iran-war-rcna588851",
+    "pubDate": "Thu, 23 Jul 2026 11:39:33 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-07-23T12:00:01.379Z"
+  },
+  {
+    "title": "Mamdani’s Netanyahu Video Turns Failure Into Moral Grandstanding | Opinion",
+    "description": "The mayor of New York City admits he cannot enforce the arrest of Israel’s prime minister, so he’s made impotence a powerplay.",
+    "link": "https://www.newsweek.com/mamdani-netanyahu-video-new-york-arrest-12232875",
+    "pubDate": "Thu, 23 Jul 2026 07:49:02 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-23T12:00:01.379Z"
+  },
+  {
+    "title": "Donald Trump's Approval Rating Stuck at Record Low for Third Straight Month",
+    "description": "President Donald Trump’s approval rating is stuck at 39 percent for a third month, near his Fox News polling low.",
+    "link": "https://www.newsweek.com/donald-trumps-approval-rating-stuck-at-record-low-for-third-straight-month-12233182",
+    "pubDate": "Thu, 23 Jul 2026 07:47:25 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-23T12:00:01.379Z"
+  },
+  {
+    "title": "Police missed chance to look at synagogue attacker's phone",
+    "description": "Greater Manchester Police apologises because Jihad Al-Shamie's devices were not reviewed before the attack.",
+    "link": "https://www.bbc.co.uk/news/articles/c3d3507ng37o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 23 Jul 2026 11:55:04 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-23T12:00:01.379Z"
+  },
+  {
+    "title": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
+    "description": "Past US presidents insisted that Saudi Arabia normalise relations with Israel in exchange for nuclear technology.",
+    "link": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 23 Jul 2026 11:13:13 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-23T12:00:01.379Z"
+  },
+  {
+    "title": "Several killed as Ukraine, Russia trade attacks deep behind the front line",
+    "description": "Four have been killed by Russian strikes in Ukraine, while four others died in Russia and Crimea, according to reports.",
+    "link": "https://www.aljazeera.com/news/2026/7/23/several-killed-as-ukraine-russia-trade-attacks-deep-behind-the-front-line?traffic_source=rss",
+    "pubDate": "Thu, 23 Jul 2026 11:36:31 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-23T12:00:01.379Z"
+  },
+  {
+    "title": "Israel releases 35 detainees from Gaza",
+    "description": "Israel releases 35 detainees from Gaza",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/israel-releases-35-detainees-from-gaza?traffic_source=rss",
+    "pubDate": "Thu, 23 Jul 2026 11:36:28 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-23T12:00:01.379Z"
+  },
+  {
+    "title": "Why a North Sea oilfield is emerging as British PM Burnham’s big test",
+    "description": "Reports suggesting the new British PM might allow drilling in the North Sea have excited Donald Trump, divided locals.",
+    "link": "https://www.aljazeera.com/news/2026/7/23/why-a-north-sea-oilfield-is-emerging-as-british-pm-burnhams-big-test?traffic_source=rss",
+    "pubDate": "Thu, 23 Jul 2026 11:33:24 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-23T12:00:01.379Z"
+  },
+  {
+    "title": "Women’s Africa Cup of Nations 2026: What to know about the tournament",
+    "description": "Tournament format, venues, title favourites, groups, prize money and players to watch at the 2026 WAFCON in Morocco.",
+    "link": "https://www.aljazeera.com/sports/2026/7/23/womens-africa-cup-of-nations-2026-wafcon-what-to-know-about-the-tournament?traffic_source=rss",
+    "pubDate": "Thu, 23 Jul 2026 11:30:43 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-07-23T12:00:01.379Z"
+  },
+  {
+    "title": "AMD expected to launch next generation of AI infrastructure to challenge Nvidia - Reuters",
+    "description": "AMD expected to launch next generation of AI infrastructure to challenge Nvidia  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3Q1OHN6OGRxUENDanFhdDRSLUUwSWFJWFlsQS1RckM3VU1UTjE0VHlVYXJTRFJPS2NrNEpTMWxZNGFCVFVKbzhUMnpRWlo4OENqekdUTGd2Umh4dG9XaTVONVh0S0ZRSVFGUGV0RVNiWGlDYmRmc1VseTdwRUxqcEtHYmlVYnNENHgxcE9kUkdZTnVkN19NU1IwSFlPdUxVdWs2TXM4LWd4YlJSc2ZXSlJkR0pGUQ?oc=5",
+    "pubDate": "Thu, 23 Jul 2026 10:46:08 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-07-23T12:00:01.379Z"
+  },
+  {
+    "title": "Lockheed Martin’s stock leaps as push to build more missiles faster pays off",
+    "description": "Lockheed Martin’s stock jumps as a ramp up in missile production helped lead to an earnings beat and raise.",
+    "link": "https://www.marketwatch.com/story/lockheed-martins-stock-leaps-as-push-to-build-more-missiles-faster-pays-off-9d7e2091?mod=mw_rss_topstories",
+    "pubDate": "Thu, 23 Jul 2026 11:56:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-07-23T12:00:01.379Z"
+  },
+  {
+    "title": "Caitlin Clark picks up technical foul over 'scoreboard' taunt, nears one-game suspension",
+    "description": "Caitlin Clark said she told Saniya Rivers 'scoreboard' before both received technical fouls during Indiana Fever's blowout win over the Connecticut Sun.",
+    "link": "https://www.foxnews.com/sports/caitlin-clark-technical-foul-scoreboard-taunt-nears-one-game-suspension",
+    "pubDate": "Thu, 23 Jul 2026 07:45:10 -0400",
+    "source": "Fox News",
+    "categories": [
+      "28a8bab1-cc19-51a0-8c19-08d2cb22a772",
+      "fnc",
+      "fox news",
+      "fox-news/sports/wnba/indiana-fever",
+      "fox-news/sports/wnba/connecticut-sun",
+      "fox-news/person/caitlin-clark",
+      "fox-news/sports/wnba",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-07-23T12:00:01.379Z"
   }
 ]
