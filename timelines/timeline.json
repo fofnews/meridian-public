@@ -400,7 +400,7 @@
         {
           "date": "2026-07-24",
           "edition": "evening",
-          "update": "U.S. intelligence agencies have assessed that Iran's new supreme leader is more open to pursuing a nuclear weapon than his predecessor, who had renounced nuclear weapons before being killed early in the war."
+          "update": "U.S. intelligence agencies assess that Iran's new supreme leader is more open to pursuing a nuclear weapon than his predecessor, who had renounced such weapons before being killed early in the war."
         }
       ],
       "parentId": null
@@ -740,7 +740,7 @@
         {
           "date": "2026-07-24",
           "edition": "evening",
-          "update": "A Russian ballistic missile strike on a drone exhibition near Kyiv killed ten people, with the attack occurring midday and targeting a venue attended by prominent Ukrainian defence industry figures. Russia has withdrawn all warships from the Mediterranean Sea, attributed to strain on its naval forces from Ukrainian drone strikes against the Black Sea Fleet. Satellite imagery confirmed the destruction of a Russian Tu-95MS strategic bomber, one of Russia's primary long-range missile strike aircraft, in a Ukrainian drone attack. At least six additional people were killed in a Ukrainian strike on Russia's Kirov region. Ukrainian President Zelensky met with Raytheon to discuss co-producing Patriot missile interceptors following U.S. approval for joint production."
+          "update": "A Russian ballistic missile strike on a drone exhibition near Kyiv killed ten people, with the event attended by prominent members of Ukraine's defense industry. Separately, a Ukrainian drone strike destroyed a Russian Tu-95MS strategic bomber, according to satellite imagery reported by Newsweek, and at least six people were killed in a Ukrainian strike on Russia's Kirov region. Russia has withdrawn all warships from the Mediterranean Sea, a move attributed to losses and sustained pressure on its Black Sea Fleet from Ukrainian drone strikes. Ukrainian President Zelensky met with Raytheon to discuss co-production of Patriot missile interceptors following Trump's approval for Ukraine-U.S. cooperation on their manufacturing."
         }
       ],
       "parentId": null
@@ -835,7 +835,7 @@
         {
           "date": "2026-07-24",
           "edition": "evening",
-          "update": "U.S. forces targeted Juan Carlos Gonzalez, known as 'Pelon,' a California-born leader of the Jalisco New Generation Cartel and stepson of cartel founder 'El Mencho,' who was reported injured and subsequently died following a military operation."
+          "update": "U.S. forces targeted Juan Carlos Gonzalez, known as 'Pelon,' a California-born leader of the Jalisco New Generation Cartel (CJNG) and stepson of cartel founder 'El Mencho,' who was reportedly injured in a military operation and later died."
         }
       ],
       "parentId": null
@@ -1126,6 +1126,11 @@
           "date": "2026-07-24",
           "edition": "morning",
           "update": "Israeli airstrikes on Gaza City killed two Palestinians and wounded several others, with a UN official describing the humanitarian situation as 'desperate' amid intensifying Israeli military activity."
+        },
+        {
+          "date": "2026-07-24",
+          "edition": "evening",
+          "update": "At least six people were killed — four Palestinians and two Israelis — after approximately 20 Israeli settlers raided the village of Tell near Nablus in the occupied West Bank, with conflicting accounts from Palestinian witnesses and the Israeli military. Satellite images reveal Israel is constructing a large earthen barrier dividing Gaza, as Israeli politicians push discussions around establishing settlements in the territory. The State Department demanded that UN humanitarian agency OCHA fully investigate and protect Gaza aid programs from suspected Hamas involvement."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2245,7 +2250,7 @@
         {
           "date": "2026-07-24",
           "edition": "evening",
-          "update": "Oil prices surpassed $100 per barrel for the first time since May after Houthi rebels struck two Saudi oil tankers in the Red Sea, with Trump vowing retaliation. Iran claimed responsibility for drone strikes on U.S. assets in Bahrain, Jordan, and Kuwait, including Bahrain's Sheikh Isa Air Base, while denying it received and rejected a new U.S. peace proposal. Drones also targeted a U.S. military base at Erbil International Airport in northern Iraq, with Kurdish security officials reporting five drones were shot down. As the U.S. and Iran entered a 13th consecutive day of strikes, Sen. Shelley Moore Capito stated the American public is 'growing weary' of the conflict, which has lasted nearly five months. Rep. Thomas Massie accused Defense Secretary Hegseth of 'breaking the law' by framing the conflict as two separate wars to circumvent congressional authorization requirements. Trump warned Xi Jinping and Putin it would be 'very bad' if they were found supplying weapons to Iran, but subsequently stated on Truth Social he believes neither country is doing so."
+          "update": "Netanyahu is scheduled to travel to Washington on Monday and meet with Trump at the White House on Tuesday, coinciding with his attendance at memorial services for the late Sen. Lindsey Graham. The U.S. and Iran entered their 13th consecutive day of exchanging strikes, with Iran claiming responsibility for drone attacks on U.S. assets at Bahrain's Sheikh Isa Air Base, Jordan, and Kuwait, while coalition forces shot down five drones targeting Erbil International Airport in northern Iraq. Oil prices crossed $100 per barrel for the first time since May after Houthi rebels struck two Saudi oil tankers in the Red Sea, prompting Trump to vow retaliation and reiterate consideration of a 'massive attack' described as 'bigger than ever before.' Trump warned Chinese President Xi Jinping and Russian President Vladimir Putin it would be 'very bad' if either country is found supplying weapons to Iran, though he subsequently stated on Truth Social that he takes both leaders at face value that they are not doing so. Rep. Thomas Massie accused Defense Secretary Hegseth of 'breaking the law' by allegedly framing the conflict as two separate wars to avoid seeking congressional authorization. Senate Republican Policy Committee Chair Shelley Moore Capito stated the American public is 'growing weary' of the conflict, which Trump initially said would last four to five weeks but has now continued for nearly five months, while S&P surveys indicate the U.S. economy had been accelerating before failed peace talks disrupted momentum by triggering an oil price surge and renewed inflation concerns."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3208,8 +3213,8 @@
       "title": "Correspondents' Dinner Shooting Investigation",
       "parentId": null,
       "firstSeen": "2026-04-28",
-      "lastSeen": "2026-07-24",
-      "active": true,
+      "lastSeen": "2026-05-25",
+      "active": false,
       "entries": [
         {
           "date": "2026-04-28",
@@ -3235,11 +3240,6 @@
           "date": "2026-05-25",
           "edition": "morning",
           "update": "A separate incident from the Correspondents' Dinner case: U.S. Secret Service officers shot and killed a man identified as Nasire Best, 21, of Dundalk, Maryland, who opened fire at a White House security checkpoint on Saturday. CBS News reported Best had previously blocked a White House entry lane in June 2025 and had attempted to gain access to the White House the year before. A bystander was left in serious condition during the exchange of gunfire. Secret Service Director Sean Curran praised officers for their 'quick and decisive response,' and five senior law enforcement officials told NBC News that Best had a history of mental health concerns."
-        },
-        {
-          "date": "2026-07-24",
-          "edition": "evening",
-          "update": "The rescheduled White House Correspondents' Dinner took place Friday night, with President Trump in attendance. Enhanced security measures were implemented for the event, and the Secret Service reported a significant rise in threats ahead of the dinner. The White House described Trump's planned remarks as 'unifying yet vicious.'"
         }
       ]
     },
@@ -3399,7 +3399,7 @@
         {
           "date": "2026-07-24",
           "edition": "evening",
-          "update": "The White House announced that President Trump will host Ukrainian President Zelensky at the White House on Tuesday, with Zelensky's Washington visit also tied to funeral services for the late Sen. Lindsey Graham. Far-right influencer Laura Loomer met with Zelensky in Kyiv, marking a reversal of her previous opposition to U.S. backing of Ukraine."
+          "update": "President Trump is scheduled to host Ukrainian President Zelensky at the White House on Tuesday, coinciding with Zelensky's attendance at memorial services for the late Sen. Lindsey Graham. Far-right influencer Laura Loomer met with Zelensky in Kyiv, reversing her longstanding public opposition to U.S. backing of Ukraine."
         }
       ]
     },
@@ -3575,6 +3575,11 @@
           "date": "2026-07-24",
           "edition": "morning",
           "update": "Houthi forces formally imposed a blockade on the Bab al-Mandeb strait, and UN Yemen envoy Hans Grundberg expressed alarm, warning further confrontation risks deepening Yemeni suffering and calling for de-escalation talks. Tankers rerouting to avoid both the Strait of Hormuz and Bab al-Mandeb now face approximately one additional month of transit time and costs of around $2.5 million per voyage. Oil prices were on track for a weekly gain driven by the Red Sea shipping disruptions and output cuts in Kazakhstan, with Brent above $100 per barrel triggering a sell-off in U.S. markets and subsequent declines in Asian stocks amid concerns over rising borrowing costs."
+        },
+        {
+          "date": "2026-07-24",
+          "edition": "evening",
+          "update": "A tanker switched its Asia voyage to route via the Suez Canal amid continued Houthi militant warnings, according to the vessel's owner, underscoring the ongoing disruption to Red Sea shipping routes."
         }
       ]
     },
@@ -3934,5 +3939,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-24T21:09:41.800Z"
+  "updatedAt": "2026-07-24T21:10:14.804Z"
 }
