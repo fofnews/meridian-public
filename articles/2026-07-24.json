@@ -360,5 +360,45 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-24T06:15:01.304Z"
+  },
+  {
+    "title": "‘Collapsed’: Roadblocks, internet blackout leave Pakistani Kashmir in limbo",
+    "description": "Residents describe mounting hardship, as internet restrictions and road closures stretch into second month before polls.",
+    "link": "https://www.aljazeera.com/features/2026/7/24/collapsed-roadblocks-internet-blackout-leave-pakistani-kashmir-in-limbo?traffic_source=rss",
+    "pubDate": "Fri, 24 Jul 2026 06:01:39 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "features"
+    ],
+    "collectedAt": "2026-07-24T06:30:01.111Z"
+  },
+  {
+    "title": "Multiple injured after floatplane makes emergency landing, catches fire off Washington coast",
+    "description": "A Kenmore Air seaplane carrying 11 people made an emergency landing near Sucia Island on the Washington coast before catching fire, with one person in critical condition.",
+    "link": "https://www.foxnews.com/us/multiple-injured-floatplane-emergency-landing-catches-fire-off-washington-coast",
+    "pubDate": "Fri, 24 Jul 2026 02:22:35 -0400",
+    "source": "Fox News",
+    "categories": [
+      "3342c1ea-f8d6-5abf-8e77-b2514b349a40",
+      "fnc",
+      "fox news",
+      "fox-news/us/seattle",
+      "fox-news/world/disasters",
+      "fox-news/us/military/coast-guard",
+      "fox-news/travel/general/airlines",
+      "fox-news/politics/elections/local",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-07-24T06:30:01.111Z"
+  },
+  {
+    "title": "Final victim of 5 killed in Ohio river drowning tragedy ID’d as teen who dreamt of becoming firefighter",
+    "description": "Then teen's heartbroken mother spent her birthday on Wednesday in the Delaware County Sheriff's Office identifying her son's body.",
+    "link": "https://nypost.com/2026/07/24/us-news/final-victim-of-5-killed-in-ohio-river-drownings-idd-as-18-year-old-who-had-dreamt-of-becoming-firefighter/",
+    "pubDate": "Fri, 24 Jul 2026 02:20:54 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-24T06:30:01.111Z"
   }
 ]
