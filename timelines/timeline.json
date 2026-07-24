@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-23",
+      "lastSeen": "2026-07-24",
       "active": true,
       "entries": [
         {
@@ -281,6 +281,11 @@
           "date": "2026-07-23",
           "edition": "morning",
           "update": "Jean-Luc Brunel, a modeling agent described as having introduced women to Jeffrey Epstein, was also found dead in France, according to the Washington Post. This follows the earlier reported death of Daniel Siad, another Epstein-linked figure found dead in Paris."
+        },
+        {
+          "date": "2026-07-24",
+          "edition": "morning",
+          "update": "Additional details on Daniel Siad's death confirmed that his name appeared roughly 2,000 times in the Epstein files and that he was linked to a sex trafficking probe involving at least 24 alleged victims or witnesses."
         }
       ],
       "parentId": null
@@ -1105,7 +1110,7 @@
         {
           "date": "2026-07-24",
           "edition": "morning",
-          "update": "Israel carried out new airstrikes on Gaza following displacement orders, killing two Palestinians, as a UN official described the humanitarian situation as 'desperate' amid intensifying Israeli violations of the ceasefire. Arab and Muslim countries issued a joint statement condemning Israeli settlers' storming of Al-Aqsa Mosque, calling it a fuel for 'hatred' and an obstruction to lasting peace."
+          "update": "Israeli airstrikes on Gaza City killed two Palestinians and wounded several others, with a UN official describing the humanitarian situation as 'desperate' amid intensifying Israeli military activity."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1239,7 +1244,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-23",
+      "lastSeen": "2026-07-24",
       "active": true,
       "entries": [
         {
@@ -1556,6 +1561,11 @@
           "date": "2026-07-23",
           "edition": "evening",
           "update": "The U.S. National Defense Authorization Act includes provisions addressing military integration between the United States and Israel, according to Newsweek, amid existing close cooperation on military technology and the ongoing joint campaign against Iran."
+        },
+        {
+          "date": "2026-07-24",
+          "edition": "morning",
+          "update": "Arab and Muslim countries issued a joint statement condemning Israeli settlers' storming of Al-Aqsa Mosque, calling the action a fuel for 'hatred' and an obstruction to lasting peace."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2215,7 +2225,7 @@
         {
           "date": "2026-07-24",
           "edition": "morning",
-          "update": "Trump stated he is nearing a decision on whether to launch a 'massive attack' on Iran described as 'bigger than ever before,' while Iranian Foreign Minister Araghchi warned that 'mindless aggression' would not help reach a deal. Iran carried out attacks on Bahrain, Kuwait, and Jordan, prompting Trump to vow punishment for Iran and the Houthis for Red Sea shipping attacks. An Iranian military group warned the UK that British bases used by U.S. forces are 'legitimate targets,' with the UK stating it is 'ready to defend itself.' The total war cost figure has been reported as nearly $110 billion by some outlets, with the Trump administration also concerned the U.S. defense industrial base cannot produce missiles fast enough to replenish depleted interceptor and precision-guided munitions stockpiles. The Pentagon's listed U.S. troop death count appeared to change, with three military officials and a Pentagon spokesman offering conflicting explanations for the discrepancy. Trump announced that Iranian-controlled funds held by the U.S. will be used to compensate for damages to ships and cargo resulting from the conflict."
+          "update": "Trump warned of the largest strikes on Iran yet following Iranian attacks targeting Bahrain, Kuwait, and Jordan, and told Axios he is nearing a decision on launching a 'massive attack' described as 'bigger than ever before.' Iranian Foreign Minister Araghchi warned that 'mindless aggression' would not help reach a deal. The total U.S. war cost is now reported at nearly $110 billion, with the Trump administration seeking an additional $67 billion; analysts noted voting against war funding remains politically difficult for members of Congress. The Pentagon's website showed a lower U.S. troop death count than publicly acknowledged, with three military officials and a Pentagon spokesman giving conflicting explanations for the discrepancy; the NY Times separately reported the death of Sgt. Michael Emmanuel Swinton brings confirmed U.S. fatalities to 18. An Iranian military group warned the UK that British bases used by U.S. forces are 'legitimate targets,' prompting the UK to declare it is 'ready to defend itself.' Trump announced that Iranian funds under U.S. control will be used to compensate damages to ships and cargo resulting from the war, and the Trump administration expressed concern that the U.S. defense industrial base cannot produce missiles fast enough to replenish interceptor and precision-guided munitions being expended. Iranians report that months of war, ongoing strikes, and economic crisis have brought daily life to a standstill, with many residents abandoning work and future plans."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3343,13 +3353,18 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-05-08",
-      "active": false,
+      "lastSeen": "2026-07-24",
+      "active": true,
       "entries": [
         {
           "date": "2026-05-08",
           "edition": "evening",
           "update": "Trump announced a three-day ceasefire between Russia and Ukraine running from May 9 to May 11, timed to coincide with Russia's Victory Day celebrations, along with a prisoner swap agreement."
+        },
+        {
+          "date": "2026-07-24",
+          "edition": "morning",
+          "update": "Secretary of State Marco Rubio met with Russian Foreign Minister Sergey Lavrov and stated the U.S. is ready to help end the war in Ukraine, while cautioning that no quick deal is imminent and that progress depends on whether 'conditions and factors have changed.'"
         }
       ]
     },
@@ -3524,7 +3539,7 @@
         {
           "date": "2026-07-24",
           "edition": "morning",
-          "update": "Oil tankers rerouting away from the Strait of Hormuz and Bab al-Mandeb face an additional month of sailing time and approximately $2.5 million in extra costs per voyage, according to Reuters. Brent crude surpassing $100 per barrel triggered a U.S. stock market sell-off and subsequent declines in Asian markets amid concerns over rising borrowing costs and the technology sector. UN Special Envoy for Yemen Hans Grundberg expressed alarm over the Houthi Red Sea attacks, warning of deepened suffering for Yemeni people and calling for diplomatic talks. Oil prices were on track for a weekly rise driven by the shipping disruptions and output cuts in Kazakhstan."
+          "update": "Houthi forces formally imposed a blockade on the Bab al-Mandeb strait, and UN Yemen envoy Hans Grundberg expressed alarm, warning further confrontation risks deepening Yemeni suffering and calling for de-escalation talks. Tankers rerouting to avoid both the Strait of Hormuz and Bab al-Mandeb now face approximately one additional month of transit time and costs of around $2.5 million per voyage. Oil prices were on track for a weekly gain driven by the Red Sea shipping disruptions and output cuts in Kazakhstan, with Brent above $100 per barrel triggering a sell-off in U.S. markets and subsequent declines in Asian stocks amid concerns over rising borrowing costs."
         }
       ]
     },
@@ -3838,7 +3853,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-23",
+      "lastSeen": "2026-07-24",
       "active": true,
       "entries": [
         {
@@ -3860,6 +3875,11 @@
           "date": "2026-07-21",
           "edition": "evening",
           "update": "Trump met with Lebanese President Joseph Aoun at the White House on Tuesday, vowing to help Lebanon and expressing openness to direct talks with Hezbollah. Aoun is seeking a U.S.-backed Israeli withdrawal from southern Lebanon, and the discussions covered Hezbollah, Israel, and Iran."
+        },
+        {
+          "date": "2026-07-24",
+          "edition": "morning",
+          "update": "The U.S. military is building up forces in the Middle East as Trump warns Iran will be held accountable for Houthi attacks, while Saudi Arabia has not yet responded to Trump's condition that it join the Abraham Accords to finalize a U.S.-Saudi nuclear deal."
         }
       ]
     },
@@ -3868,21 +3888,16 @@
       "title": "US-Saudi Nuclear Deal and Israel Normalization",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-07-23",
-      "lastSeen": "2026-07-24",
+      "lastSeen": "2026-07-23",
       "active": true,
       "entries": [
         {
           "date": "2026-07-23",
           "edition": "evening",
           "update": "The U.S.-Saudi nuclear cooperation agreement was signed by the U.S. Department of Energy and Saudi Arabia on Wednesday, with Trump stating the deal is contingent on Saudi Arabia normalizing relations with Israel through the Abraham Accords and prohibits uranium enrichment. The House passed a non-binding war powers resolution to limit Trump's military authority over Iran, with four Republicans joining Democrats in support — the second such House vote, matching a prior outcome from June — but the Senate rejected a similar measure."
-        },
-        {
-          "date": "2026-07-24",
-          "edition": "morning",
-          "update": "Saudi Arabia has not yet responded to Trump's condition that it join the Abraham Accords to finalize the nuclear deal, and the U.S. military is building up forces in the Middle East as Trump warns Iran will be held accountable for Houthi attacks on commercial shipping."
         }
       ]
     }
   ],
-  "updatedAt": "2026-07-24T11:06:28.764Z"
+  "updatedAt": "2026-07-24T11:06:40.589Z"
 }
