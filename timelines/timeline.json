@@ -874,7 +874,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-23",
+      "lastSeen": "2026-07-24",
       "active": true,
       "entries": [
         {
@@ -1101,6 +1101,11 @@
           "date": "2026-07-23",
           "edition": "evening",
           "update": "An Iranian military group warned the United Kingdom that British bases used by U.S. forces for strikes on Iran would be considered 'legitimate targets,' prompting the UK government to state it is 'ready to defend itself.'"
+        },
+        {
+          "date": "2026-07-24",
+          "edition": "morning",
+          "update": "Israel carried out new airstrikes on Gaza following displacement orders, killing two Palestinians, as a UN official described the humanitarian situation as 'desperate' amid intensifying Israeli violations of the ceasefire. Arab and Muslim countries issued a joint statement condemning Israeli settlers' storming of Al-Aqsa Mosque, calling it a fuel for 'hatred' and an obstruction to lasting peace."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1559,7 +1564,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-23",
+      "lastSeen": "2026-07-24",
       "active": true,
       "entries": [
         {
@@ -2206,6 +2211,11 @@
           "date": "2026-07-23",
           "edition": "evening",
           "update": "The U.S. conducted its 12th consecutive night of strikes against Iran, with Secretary of State Rubio warning that 'every night the price gets higher' and characterizing U.S. policy as a 'head for an eye' in response to Iran's stated 'eye for an eye' stance. President Trump warned Thursday that the U.S. will hold Iran accountable for any Houthi attacks on commercial shipping following the strikes on two Saudi tankers. Reuters sources reported that Iran transferred IRGC commanders and missile equipment to Houthi forces in Yemen. The U.S. is expanding its military footprint in the region, deploying additional aerial refuelers to locations including Israel, with flight trackers showing B-1 bombers departing UK bases. Sen. Rand Paul stated the U.S. is 'worse off' than before the conflict began and called the war 'not a success.'"
+        },
+        {
+          "date": "2026-07-24",
+          "edition": "morning",
+          "update": "Trump stated he is nearing a decision on whether to launch a 'massive attack' on Iran described as 'bigger than ever before,' while Iranian Foreign Minister Araghchi warned that 'mindless aggression' would not help reach a deal. Iran carried out attacks on Bahrain, Kuwait, and Jordan, prompting Trump to vow punishment for Iran and the Houthis for Red Sea shipping attacks. An Iranian military group warned the UK that British bases used by U.S. forces are 'legitimate targets,' with the UK stating it is 'ready to defend itself.' The total war cost figure has been reported as nearly $110 billion by some outlets, with the Trump administration also concerned the U.S. defense industrial base cannot produce missiles fast enough to replenish depleted interceptor and precision-guided munitions stockpiles. The Pentagon's listed U.S. troop death count appeared to change, with three military officials and a Pentagon spokesman offering conflicting explanations for the discrepancy. Trump announced that Iranian-controlled funds held by the U.S. will be used to compensate for damages to ships and cargo resulting from the conflict."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2995,7 +3005,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-23",
+      "lastSeen": "2026-07-24",
       "active": true
     },
     {
@@ -3348,7 +3358,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-07-23",
+      "lastSeen": "2026-07-24",
       "active": true,
       "entries": [
         {
@@ -3510,6 +3520,11 @@
           "date": "2026-07-23",
           "edition": "evening",
           "update": "Brent crude oil surpassed $100 per barrel following the confirmed strikes on two Saudi oil tankers in the Red Sea, the first time the benchmark has crossed that threshold during the current crisis. Chinese refiners responded to mounting regional supply risks by securing increased volumes of Russian crude for September delivery and seeking additional Iranian oil supplies. Reuters sources reported that Iran flew IRGC commanders and missile equipment to Houthi forces in Yemen, representing a significant transfer of military personnel and materiel to the group responsible for the tanker attacks."
+        },
+        {
+          "date": "2026-07-24",
+          "edition": "morning",
+          "update": "Oil tankers rerouting away from the Strait of Hormuz and Bab al-Mandeb face an additional month of sailing time and approximately $2.5 million in extra costs per voyage, according to Reuters. Brent crude surpassing $100 per barrel triggered a U.S. stock market sell-off and subsequent declines in Asian markets amid concerns over rising borrowing costs and the technology sector. UN Special Envoy for Yemen Hans Grundberg expressed alarm over the Houthi Red Sea attacks, warning of deepened suffering for Yemeni people and calling for diplomatic talks. Oil prices were on track for a weekly rise driven by the shipping disruptions and output cuts in Kazakhstan."
         }
       ]
     },
@@ -3853,16 +3868,21 @@
       "title": "US-Saudi Nuclear Deal and Israel Normalization",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-07-23",
-      "lastSeen": "2026-07-23",
+      "lastSeen": "2026-07-24",
       "active": true,
       "entries": [
         {
           "date": "2026-07-23",
           "edition": "evening",
           "update": "The U.S.-Saudi nuclear cooperation agreement was signed by the U.S. Department of Energy and Saudi Arabia on Wednesday, with Trump stating the deal is contingent on Saudi Arabia normalizing relations with Israel through the Abraham Accords and prohibits uranium enrichment. The House passed a non-binding war powers resolution to limit Trump's military authority over Iran, with four Republicans joining Democrats in support — the second such House vote, matching a prior outcome from June — but the Senate rejected a similar measure."
+        },
+        {
+          "date": "2026-07-24",
+          "edition": "morning",
+          "update": "Saudi Arabia has not yet responded to Trump's condition that it join the Abraham Accords to finalize the nuclear deal, and the U.S. military is building up forces in the Middle East as Trump warns Iran will be held accountable for Houthi attacks on commercial shipping."
         }
       ]
     }
   ],
-  "updatedAt": "2026-07-23T21:09:35.318Z"
+  "updatedAt": "2026-07-24T11:06:28.764Z"
 }
