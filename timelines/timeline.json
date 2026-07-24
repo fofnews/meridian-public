@@ -294,7 +294,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-21",
+      "lastSeen": "2026-07-24",
       "active": true,
       "entries": [
         {
@@ -396,6 +396,11 @@
           "date": "2026-07-21",
           "edition": "evening",
           "update": "Israel believes Iran moved nuclear material and centrifuges into the heavily fortified underground site known as Pickaxe Mountain, located near the Natanz nuclear facility, in an apparent effort to protect or conceal nuclear enrichment equipment from further strikes."
+        },
+        {
+          "date": "2026-07-24",
+          "edition": "evening",
+          "update": "U.S. intelligence agencies have assessed that Iran's new supreme leader is more open to pursuing a nuclear weapon than his predecessor, who had renounced nuclear weapons before being killed early in the war."
         }
       ],
       "parentId": null
@@ -404,7 +409,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-23",
+      "lastSeen": "2026-07-24",
       "active": true,
       "entries": [
         {
@@ -731,6 +736,11 @@
           "date": "2026-07-23",
           "edition": "evening",
           "update": "Ukraine shot down a Russian Su-35 fighter jet using an F-16, marking the first recorded air-to-air kill by a Western-supplied fighter in the conflict. At least four people were killed in Russian strikes on Ukraine, while four others died in Russia and Crimea as both sides exchanged deep strikes. Secretary of State Marco Rubio held discussions with Russian Foreign Minister Sergey Lavrov regarding the war."
+        },
+        {
+          "date": "2026-07-24",
+          "edition": "evening",
+          "update": "A Russian ballistic missile strike on a drone exhibition near Kyiv killed ten people, with the attack occurring midday and targeting a venue attended by prominent Ukrainian defence industry figures. Russia has withdrawn all warships from the Mediterranean Sea, attributed to strain on its naval forces from Ukrainian drone strikes against the Black Sea Fleet. Satellite imagery confirmed the destruction of a Russian Tu-95MS strategic bomber, one of Russia's primary long-range missile strike aircraft, in a Ukrainian drone attack. At least six additional people were killed in a Ukrainian strike on Russia's Kirov region. Ukrainian President Zelensky met with Raytheon to discuss co-producing Patriot missile interceptors following U.S. approval for joint production."
         }
       ],
       "parentId": null
@@ -739,7 +749,7 @@
       "id": "sinaloa-cartel-violence",
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-23",
+      "lastSeen": "2026-07-24",
       "active": true,
       "entries": [
         {
@@ -821,6 +831,11 @@
           "date": "2026-07-23",
           "edition": "morning",
           "update": "National Review published an analysis questioning whether a leniency arrangement in Ismael 'El Mayo' Zambada's case could indicate he is cooperating with U.S. authorities and providing information on corruption within Mexico's political class."
+        },
+        {
+          "date": "2026-07-24",
+          "edition": "evening",
+          "update": "U.S. forces targeted Juan Carlos Gonzalez, known as 'Pelon,' a California-born leader of the Jalisco New Generation Cartel and stepson of cartel founder 'El Mencho,' who was reported injured and subsequently died following a military operation."
         }
       ],
       "parentId": null
@@ -2226,6 +2241,11 @@
           "date": "2026-07-24",
           "edition": "morning",
           "update": "Trump warned of the largest strikes on Iran yet following Iranian attacks targeting Bahrain, Kuwait, and Jordan, and told Axios he is nearing a decision on launching a 'massive attack' described as 'bigger than ever before.' Iranian Foreign Minister Araghchi warned that 'mindless aggression' would not help reach a deal. The total U.S. war cost is now reported at nearly $110 billion, with the Trump administration seeking an additional $67 billion; analysts noted voting against war funding remains politically difficult for members of Congress. The Pentagon's website showed a lower U.S. troop death count than publicly acknowledged, with three military officials and a Pentagon spokesman giving conflicting explanations for the discrepancy; the NY Times separately reported the death of Sgt. Michael Emmanuel Swinton brings confirmed U.S. fatalities to 18. An Iranian military group warned the UK that British bases used by U.S. forces are 'legitimate targets,' prompting the UK to declare it is 'ready to defend itself.' Trump announced that Iranian funds under U.S. control will be used to compensate damages to ships and cargo resulting from the war, and the Trump administration expressed concern that the U.S. defense industrial base cannot produce missiles fast enough to replenish interceptor and precision-guided munitions being expended. Iranians report that months of war, ongoing strikes, and economic crisis have brought daily life to a standstill, with many residents abandoning work and future plans."
+        },
+        {
+          "date": "2026-07-24",
+          "edition": "evening",
+          "update": "Oil prices surpassed $100 per barrel for the first time since May after Houthi rebels struck two Saudi oil tankers in the Red Sea, with Trump vowing retaliation. Iran claimed responsibility for drone strikes on U.S. assets in Bahrain, Jordan, and Kuwait, including Bahrain's Sheikh Isa Air Base, while denying it received and rejected a new U.S. peace proposal. Drones also targeted a U.S. military base at Erbil International Airport in northern Iraq, with Kurdish security officials reporting five drones were shot down. As the U.S. and Iran entered a 13th consecutive day of strikes, Sen. Shelley Moore Capito stated the American public is 'growing weary' of the conflict, which has lasted nearly five months. Rep. Thomas Massie accused Defense Secretary Hegseth of 'breaking the law' by framing the conflict as two separate wars to circumvent congressional authorization requirements. Trump warned Xi Jinping and Putin it would be 'very bad' if they were found supplying weapons to Iran, but subsequently stated on Truth Social he believes neither country is doing so."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3038,7 +3058,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-07-23",
+      "lastSeen": "2026-07-24",
       "active": true,
       "entries": [
         {
@@ -3145,6 +3165,11 @@
           "date": "2026-07-23",
           "edition": "evening",
           "update": "Iraqi Prime Minister Ali al-Zaid traveled to Tehran following a high-profile meeting with President Trump, according to Al Jazeera. Analysts describe the U.S. as having returned to a pressure campaign against Iran following the collapse of the temporary ceasefire period."
+        },
+        {
+          "date": "2026-07-24",
+          "edition": "evening",
+          "update": "China has initiated a push for Pakistan and Iran to explore pathways toward new talks with the United States, according to Reuters sources."
         }
       ]
     },
@@ -3183,8 +3208,8 @@
       "title": "Correspondents' Dinner Shooting Investigation",
       "parentId": null,
       "firstSeen": "2026-04-28",
-      "lastSeen": "2026-05-25",
-      "active": false,
+      "lastSeen": "2026-07-24",
+      "active": true,
       "entries": [
         {
           "date": "2026-04-28",
@@ -3210,6 +3235,11 @@
           "date": "2026-05-25",
           "edition": "morning",
           "update": "A separate incident from the Correspondents' Dinner case: U.S. Secret Service officers shot and killed a man identified as Nasire Best, 21, of Dundalk, Maryland, who opened fire at a White House security checkpoint on Saturday. CBS News reported Best had previously blocked a White House entry lane in June 2025 and had attempted to gain access to the White House the year before. A bystander was left in serious condition during the exchange of gunfire. Secret Service Director Sean Curran praised officers for their 'quick and decisive response,' and five senior law enforcement officials told NBC News that Best had a history of mental health concerns."
+        },
+        {
+          "date": "2026-07-24",
+          "edition": "evening",
+          "update": "The rescheduled White House Correspondents' Dinner took place Friday night, with President Trump in attendance. Enhanced security measures were implemented for the event, and the Secret Service reported a significant rise in threats ahead of the dinner. The White House described Trump's planned remarks as 'unifying yet vicious.'"
         }
       ]
     },
@@ -3365,6 +3395,11 @@
           "date": "2026-07-24",
           "edition": "morning",
           "update": "Secretary of State Marco Rubio met with Russian Foreign Minister Sergey Lavrov and stated the U.S. is ready to help end the war in Ukraine, while cautioning that no quick deal is imminent and that progress depends on whether 'conditions and factors have changed.'"
+        },
+        {
+          "date": "2026-07-24",
+          "edition": "evening",
+          "update": "The White House announced that President Trump will host Ukrainian President Zelensky at the White House on Tuesday, with Zelensky's Washington visit also tied to funeral services for the late Sen. Lindsey Graham. Far-right influencer Laura Loomer met with Zelensky in Kyiv, marking a reversal of her previous opposition to U.S. backing of Ukraine."
         }
       ]
     },
@@ -3899,5 +3934,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-24T11:06:40.589Z"
+  "updatedAt": "2026-07-24T21:09:41.800Z"
 }
