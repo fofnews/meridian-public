@@ -14198,5 +14198,100 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-24T01:00:02.359Z"
+  },
+  {
+    "title": "A Fallen Soldier’s Angst, Love and Longing to Return Home From the Iran War",
+    "description": "Sgt. Michael Emmanuel Swinton was killed in recent days, one of 18 U.S. soldiers who have lost their lives since the beginning of the war in Iran.",
+    "link": "https://www.nytimes.com/2026/07/23/us/michael-emmanuel-swinton-iran-soldier.html",
+    "pubDate": "Fri, 24 Jul 2026 00:04:57 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "united states defense and military forces",
+      "war and armed conflicts",
+      "military bases and installations",
+      "drones (pilotless planes)",
+      "defense and military forces",
+      "deaths (fatalities)",
+      "defense department",
+      "swinton, michael emmanuel",
+      "iraq"
+    ],
+    "collectedAt": "2026-07-24T01:15:01.338Z"
+  },
+  {
+    "title": "2 Men Stabbed on Upper West Side in Possible Hate Crimes, Police Say",
+    "description": "A man was arrested after the daylight attacks in a Manhattan neighborhood bordering Central Park. The police were investigating whether the stabbings were hate crimes.",
+    "link": "https://www.nytimes.com/2026/07/23/nyregion/nyc-central-park-west-stabbing.html",
+    "pubDate": "Fri, 24 Jul 2026 01:10:02 +0000",
+    "source": "NY Times",
+    "categories": [
+      "assaults",
+      "police department (nyc)",
+      "mount sinai medical center",
+      "central park (manhattan, ny)",
+      "manhattan (nyc)",
+      "upper west side (manhattan, ny)",
+      "morales, raul",
+      "hate crimes",
+      "jews and judaism"
+    ],
+    "collectedAt": "2026-07-24T01:15:01.338Z"
+  },
+  {
+    "title": "Cardinals Add 4 to PUP List",
+    "description": "The Arizona Cardinals placed four players on the PUP list before training camp, and their absences will have a significant impact.",
+    "link": "https://www.newsweek.com/sports/nfl/cardinals-add-4-to-pup-list-12237783",
+    "pubDate": "Thu, 23 Jul 2026 21:11:50 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-24T01:15:01.338Z"
+  },
+  {
+    "title": "Jason Garrett Throws Thinly-Veiled Shade to Dak Prescott",
+    "description": "Former Dallas Cowboys head coach Jason Garrett had some interesting words for Dak Prescott's production in big moments.",
+    "link": "https://www.newsweek.com/sports/nfl/jason-garrett-throws-thinly-veiled-shade-to-dak-prescott-12236733",
+    "pubDate": "Thu, 23 Jul 2026 21:07:10 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-24T01:15:01.338Z"
+  },
+  {
+    "title": "UK mortgage rates rise to highest level for a month",
+    "description": "Renewed tensions in the Middle East feed through to the costs faced by lenders, pushing up borrowing costs.",
+    "link": "https://www.bbc.co.uk/news/articles/c70gknr7z1eo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 23 Jul 2026 23:02:10 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-24T01:15:01.338Z"
+  },
+  {
+    "title": "US Education Department removes key rules against discrimination - Reuters",
+    "description": "US Education Department removes key rules against discrimination  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdUNjREU3Njh3SmhQaHVEaTFac3U5UEJneDlRQWZkRl93OGRQWnN2LUNVOGxaakw5WHBJNkhBaGpDQ0RrSjFxcGZLOThWcVJFU3N1Ynd0b1lsVTV2TkttY0xaNUtDNTR4YndFMXlBWFFqTENEeDFyY3NMRzFZMTFVaVJuUm5DX0JPMTFGVDJ1T20yZ0ZTYnV3dk9jV2c4ZVEwZENUaUJJQmw4d2ROTWJTajlHbnl5ZUJf?oc=5",
+    "pubDate": "Thu, 23 Jul 2026 23:05:23 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-07-24T01:15:01.338Z"
+  },
+  {
+    "title": "Trump DOJ withdraws subpoenas targeting New York Times journalists amid leak probe",
+    "description": "The Department of Justice withdrew its subpoenas of New York Times journalists involved in the report about President Donald Trump's use of the Qatar jet.",
+    "link": "https://www.foxnews.com/media/trump-doj-withdraws-subpoenas-targeting-new-york-times-journalists-amid-leak-probe",
+    "pubDate": "Thu, 23 Jul 2026 21:01:24 -0400",
+    "source": "Fox News",
+    "categories": [
+      "e7209be2-d42c-5473-87e9-80818b372209",
+      "fnc",
+      "fox news",
+      "fox-news/politics/justice-department",
+      "fox-news/person/donald-trump",
+      "fox-news/organization/the-new-york-times",
+      "fox-news/media",
+      "fox-news/politics/executive/national-security",
+      "fox-news/media",
+      "article"
+    ],
+    "collectedAt": "2026-07-24T01:15:01.338Z"
   }
 ]
