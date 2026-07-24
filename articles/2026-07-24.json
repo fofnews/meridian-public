@@ -463,5 +463,52 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-07-24T07:00:01.391Z"
+  },
+  {
+    "title": "France orders evacuation of peninsula as hundreds flee wildfires by boat",
+    "description": "The fire has raged in the region for several days with officials on Friday morning saying it had continued to progress overnight.",
+    "link": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 24 Jul 2026 07:07:24 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-24T07:15:01.850Z"
+  },
+  {
+    "title": "Tehran slams Trump’s threat to use frozen Iranian assets as ‘incendiary’",
+    "description": "President Trump says damages will be paid for by Iranian money that the US has 'in its possession, and controls'.",
+    "link": "https://www.aljazeera.com/news/2026/7/24/tehran-slams-trumps-threat-to-use-frozen-iranian-assets-as-incendiary?traffic_source=rss",
+    "pubDate": "Fri, 24 Jul 2026 06:48:07 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-24T07:15:01.850Z"
+  },
+  {
+    "title": "University of Chicago campus shooting leaves two dead inside car: report",
+    "description": "Both victims had a gunshot wound to the head, according to police.",
+    "link": "https://nypost.com/2026/07/24/us-news/university-of-chicago-campus-shooting-leaves-two-dead-inside-car-report/",
+    "pubDate": "Fri, 24 Jul 2026 03:11:11 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-24T07:15:01.850Z"
+  },
+  {
+    "title": "‘Silo’ Season 3, Episode 4 Ending Explained: Tim Robbins Breaks Down That Jaw-Dropping Bernard Twist",
+    "description": "If you rewound the end of Silo Season 3, Episode 4, you're not alone. 👀",
+    "link": "https://decider.com/2026/07/24/silo-season-3-episode-4-ending-explained-bernard-alive-tim-robbins-recap/",
+    "pubDate": "Fri, 24 Jul 2026 03:01:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-24T07:15:01.850Z"
+  },
+  {
+    "title": "Dear Abby: I’m overworked, overwhelmed and have lost faith in my husband",
+    "description": "Dear Abby advises a wife whose husband won't contribute to their household income, and another whose husband won't clean himself or help around the house.",
+    "link": "https://nypost.com/2026/07/24/lifestyle/dear-abby-im-overworked-overwhelmed-and-have-lost-faith-in-my-husband/",
+    "pubDate": "Fri, 24 Jul 2026 03:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-24T07:15:01.850Z"
   }
 ]
