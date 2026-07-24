@@ -181,5 +181,39 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-24T05:00:01.332Z"
+  },
+  {
+    "title": "Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On",
+    "description": "Stocks in Asia were down following a sell-off in the U.S. markets over soaring oil prices, rising borrowing costs and worries about the technology industry.",
+    "link": "https://www.nytimes.com/2026/07/24/technology/oil-prices-global-stocks-shipping.html",
+    "pubDate": "Fri, 24 Jul 2026 05:12:38 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "oil (petroleum) and gasoline",
+      "prices (fares, fees and rates)",
+      "stocks and bonds",
+      "standard & poor's 500-stock index",
+      "iran"
+    ],
+    "collectedAt": "2026-07-24T05:15:01.483Z"
+  },
+  {
+    "title": "Fifty women come forward saying they were pressured into swinging",
+    "description": "Women told the BBC their partners had pushed or coerced them into having sex with other men.",
+    "link": "https://www.bbc.co.uk/news/articles/cly5vvw77pzo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 24 Jul 2026 05:01:19 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-24T05:15:01.483Z"
+  },
+  {
+    "title": "Plane with 11 on board bursts into flames after crash-landing off Washington island",
+    "description": "Photos of the crash show the single-engine plane completely engulfed in flames and torn to pieces, resting on top of the water just feet away from the rocky shore of Sucia Island.",
+    "link": "https://nypost.com/2026/07/24/us-news/plane-carrying-10-passengers-and-pilot-catches-fire-after-crash-landing-in-washington-island-waters/",
+    "pubDate": "Fri, 24 Jul 2026 01:02:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-24T05:15:01.483Z"
   }
 ]
