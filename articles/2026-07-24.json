@@ -528,5 +528,45 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-24T07:30:01.791Z"
+  },
+  {
+    "title": "Indian activist Wangchuk ends 26-day hunger strike",
+    "description": "Indian activist Sonam Wangchuk has ended a 26-day hunger strike over leaked medical entrance exams",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/indian-activist-wangchuk-ends-26-day-hunger-strike?traffic_source=rss",
+    "pubDate": "Fri, 24 Jul 2026 07:08:21 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-07-24T07:45:01.766Z"
+  },
+  {
+    "title": "Witnesses recount 'scary' NYC stabbing after suspect allegedly yelled 'Allahu Akbar' during attacks",
+    "description": "A suspect allegedly yelled \"Allahu Akbar\" before stabbing two men on Manhattan's Upper West Side, with NYPD investigating mental health as a factor.",
+    "link": "https://www.foxnews.com/us/nyc-upper-west-side-stabbing-hate-crime",
+    "pubDate": "Fri, 24 Jul 2026 03:35:03 -0400",
+    "source": "Fox News",
+    "categories": [
+      "771e93be-df67-539b-811e-d4fdaf332c35",
+      "fnc",
+      "fox news",
+      "fox-news/us/new-york-city",
+      "fox-news/us/crime/hate-crime",
+      "fox-news/topic/anti-semitism",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/entertainment/genres/crime",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-07-24T07:45:01.766Z"
+  },
+  {
+    "title": "Obama Presidential Center subcontractor shuts down, lays off 25 after claiming it’s owed $4M",
+    "description": "The company is one of several subcontractors to report financial trouble after working on the center.",
+    "link": "https://nypost.com/2026/07/24/us-news/obama-presidential-center-subcontractor-shuts-down-lays-off-25-after-claiming-its-owed-4m/",
+    "pubDate": "Fri, 24 Jul 2026 03:39:43 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-24T07:45:01.766Z"
   }
 ]
