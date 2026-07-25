@@ -755,7 +755,7 @@
         {
           "date": "2026-07-25",
           "edition": "evening",
-          "update": "At least 11 people were killed in Ukrainian strikes on a tourist camp in the partly Russian-occupied Zaporizhzhia region, according to Russian and ABC News reports, while Ukraine also struck a Russian oil refinery. Iran announced a Ukrainian attack on a vessel in the Caspian Sea killed a sailor. Ukrainian President Zelensky claimed Russia intends to deploy 30,000 North Korean troops to the conflict. Zelensky also announced that the U.S. and Ukraine plan to build a joint drone factory in the United States, combining American manufacturing with Ukrainian drone technology."
+          "update": "Ukrainian attacks on holiday camps in the partly Russian-occupied Zaporizhzhia region killed at least 11 people, with Russia claiming responsibility for the civilian death toll framing, according to multiple outlets. A drone threat in Yekaterinburg disrupted operations at online retailer Wildberries and caused interruptions to an athletics championships event. President Zelensky stated Russia intends to deploy 30,000 additional North Korean troops to the conflict, and announced a joint U.S.-Ukraine drone factory will be built in the United States. Iran announced that a Ukrainian attack on a vessel in the Caspian Sea killed a sailor, according to Reuters."
         }
       ],
       "parentId": null
@@ -909,7 +909,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-25",
+      "lastSeen": "2026-07-24",
       "active": true,
       "entries": [
         {
@@ -1146,11 +1146,6 @@
           "date": "2026-07-24",
           "edition": "evening",
           "update": "At least six people were killed — four Palestinians and two Israelis — after approximately 20 Israeli settlers raided the village of Tell near Nablus in the occupied West Bank, with conflicting accounts from Palestinian witnesses and the Israeli military. Satellite images reveal Israel is constructing a large earthen barrier dividing Gaza, as Israeli politicians push discussions around establishing settlements in the territory. The State Department demanded that UN humanitarian agency OCHA fully investigate and protect Gaza aid programs from suspected Hamas involvement."
-        },
-        {
-          "date": "2026-07-25",
-          "edition": "evening",
-          "update": "The U.S. Treasury Department announced sanctions against nine firms and four individuals linked to sanctioned Iranian billionaire financier Babak Zanjani, targeting his network for attempting to evade existing sanctions."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1615,7 +1610,7 @@
         {
           "date": "2026-07-25",
           "edition": "evening",
-          "update": "A baby was rescued by her family after Israeli settlers set fire to her home during raids in the occupied West Bank, according to Al Jazeera. Israeli troops rounded up Palestinians in a West Bank village following a shootout involving settlers, according to Reuters. Thousands of Israelis entered the Al-Aqsa Mosque compound under Israeli police protection, escalating tensions at the contested holy site. Syrian Foreign Minister Asaad al-Shaibani met with UN Secretary-General António Guterres and called for Israel's immediate and unconditional withdrawal from Syrian territory. Israeli forces killed a senior Hamas-led police official in Gaza, according to Reuters."
+          "update": "A baby was rescued by family members after Israeli settlers set their home on fire in the occupied West Bank, according to Al Jazeera. Israeli troops rounded up Palestinians in a West Bank village following a shootout involving settlers, according to Reuters. Israel killed a senior Hamas-led police official in Gaza, according to medics cited by Reuters. Syrian Foreign Minister Asaad al-Shaibani called for an immediate and unconditional Israeli withdrawal from Syria during a meeting with UN Secretary-General António Guterres."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2290,7 +2285,7 @@
         {
           "date": "2026-07-25",
           "edition": "evening",
-          "update": "The U.S. paused its strikes on Iran overnight Friday into Saturday, marking the first night without American bombing after 13 consecutive nights of attacks, with Iran's health ministry confirming no strikes occurred. The Pentagon's revision of the U.S. troop death toll from 18 to 14 drew outrage from military families and renewed scrutiny of Defense Department reporting practices. New polling indicated the escalating conflict is threatening to suppress Republican voter turnout ahead of the midterms, with surveys showing growing opposition among Trump's MAGA base. The New York Post reported that U.S. Special Operations Forces are positioned near Iran and prepared for what sources describe as the 'most sophisticated operation in military history,' potentially involving thousands of troops targeting Iranian nuclear facilities to recover enriched uranium. Rep. Holt told Newsmax the U.S. will take steps to weaken the IRGC."
+          "update": "For the first time in 13 consecutive nights, the U.S. and Iran did not exchange military strikes overnight Saturday, with Iran's health ministry confirming no new attacks had occurred. U.S. Special Operations Forces are reportedly positioned near Iran and prepared to launch what sources describe as the 'most sophisticated operation in military history,' potentially involving thousands of troops storming Iranian nuclear facilities to recover enriched uranium, according to the New York Post. New polling indicates the escalating war is threatening to depress Republican voter turnout in midterm battlegrounds, with Trump's MAGA base showing increasing opposition to the conflict. The U.S. Treasury Department announced sanctions against nine firms and four individuals connected to sanctioned Iranian billionaire financier Babak Zanjani for attempting to evade existing sanctions."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3224,7 +3219,7 @@
         {
           "date": "2026-07-25",
           "edition": "evening",
-          "update": "Iran's government accused state broadcaster IRIB of censorship after portions of President Pezeshkian's speech were not aired, with IRIB rejecting the characterization."
+          "update": "Iran's government publicly accused state broadcaster IRIB of censorship after portions of President Pezeshkian's speech were not aired, with IRIB rejecting what it called 'improper attributions,' as mediators continued pushing for Iran-U.S. talks."
         }
       ]
     },
@@ -3459,7 +3454,7 @@
         {
           "date": "2026-07-25",
           "edition": "evening",
-          "update": "Kazakh President Tokayev, speaking alongside Russian President Putin, called for a freeze of the war in Ukraine."
+          "update": "Kazakh President Kassym-Jomart Tokayev, speaking alongside Russian President Vladimir Putin, called for a freeze of the war in Ukraine, according to Reuters."
         }
       ]
     },
@@ -3649,7 +3644,7 @@
         {
           "date": "2026-07-25",
           "edition": "evening",
-          "update": "Houthi military spokesperson Brig. Gen. Yahya Saree announced via social media that the group fired missiles and drones at Saudi Arabia, framing the attacks as retaliation for Saudi airstrikes on Hodeida. Scientists separately warned that ships stalled near the Strait of Hormuz due to the conflict risk triggering an invasive species catastrophe through ballast water discharge and hull fouling."
+          "update": "Scientists warned that ships stalled near the Strait of Hormuz due to conflict-related traffic blockages could trigger an invasive species ecological catastrophe. Houthi military spokesperson Brig. Gen. Yahya Saree announced the group had fired missiles and drones at Saudi Arabia, claiming the strikes were retaliation for Saudi airstrikes on Hodeida."
         }
       ]
     },
@@ -4014,5 +4009,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-25T21:05:30.341Z"
+  "updatedAt": "2026-07-25T21:05:59.032Z"
 }
