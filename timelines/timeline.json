@@ -751,6 +751,11 @@
           "date": "2026-07-25",
           "edition": "morning",
           "update": "Protests continued in Ukraine over President Zelensky's dismissal of Defence Minister Rustem Fedorov, with commentators suggesting Zelensky has been politically damaged by the decision. Italy's Defence Minister offered Fedorov an adviser role, according to Reuters."
+        },
+        {
+          "date": "2026-07-25",
+          "edition": "evening",
+          "update": "At least 11 people were killed in Ukrainian strikes on a tourist camp in the partly Russian-occupied Zaporizhzhia region, according to Russian and ABC News reports, while Ukraine also struck a Russian oil refinery. Iran announced a Ukrainian attack on a vessel in the Caspian Sea killed a sailor. Ukrainian President Zelensky claimed Russia intends to deploy 30,000 North Korean troops to the conflict. Zelensky also announced that the U.S. and Ukraine plan to build a joint drone factory in the United States, combining American manufacturing with Ukrainian drone technology."
         }
       ],
       "parentId": null
@@ -904,7 +909,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-24",
+      "lastSeen": "2026-07-25",
       "active": true,
       "entries": [
         {
@@ -1141,6 +1146,11 @@
           "date": "2026-07-24",
           "edition": "evening",
           "update": "At least six people were killed — four Palestinians and two Israelis — after approximately 20 Israeli settlers raided the village of Tell near Nablus in the occupied West Bank, with conflicting accounts from Palestinian witnesses and the Israeli military. Satellite images reveal Israel is constructing a large earthen barrier dividing Gaza, as Israeli politicians push discussions around establishing settlements in the territory. The State Department demanded that UN humanitarian agency OCHA fully investigate and protect Gaza aid programs from suspected Hamas involvement."
+        },
+        {
+          "date": "2026-07-25",
+          "edition": "evening",
+          "update": "The U.S. Treasury Department announced sanctions against nine firms and four individuals linked to sanctioned Iranian billionaire financier Babak Zanjani, targeting his network for attempting to evade existing sanctions."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1279,7 +1289,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-24",
+      "lastSeen": "2026-07-25",
       "active": true,
       "entries": [
         {
@@ -1601,6 +1611,11 @@
           "date": "2026-07-24",
           "edition": "morning",
           "update": "Arab and Muslim countries issued a joint statement condemning Israeli settlers' storming of Al-Aqsa Mosque, calling the action a fuel for 'hatred' and an obstruction to lasting peace."
+        },
+        {
+          "date": "2026-07-25",
+          "edition": "evening",
+          "update": "A baby was rescued by her family after Israeli settlers set fire to her home during raids in the occupied West Bank, according to Al Jazeera. Israeli troops rounded up Palestinians in a West Bank village following a shootout involving settlers, according to Reuters. Thousands of Israelis entered the Al-Aqsa Mosque compound under Israeli police protection, escalating tensions at the contested holy site. Syrian Foreign Minister Asaad al-Shaibani met with UN Secretary-General António Guterres and called for Israel's immediate and unconditional withdrawal from Syrian territory. Israeli forces killed a senior Hamas-led police official in Gaza, according to Reuters."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2271,6 +2286,11 @@
           "date": "2026-07-25",
           "edition": "morning",
           "update": "U.S. military commanders are intentionally allowing some Iranian missiles and drones to bypass air defenses to preserve dwindling interceptor stockpiles, according to two senior U.S. officials cited by NBC News. President Trump departed the NATO summit in Turkey aboard an older Air Force One aircraft after U.S. officials received a credible threat from Iran and allied proxy groups, with the New York Times separately reporting the last-minute aircraft swap; a Times investigation also found Trump's push to accelerate delivery of a new Air Force One led to ballooning costs and safety trade-offs. The Pentagon faced renewed criticism after its official count of U.S. troops killed in the conflict dropped from 18 to 14, deepening questions about discrepancies in the official death toll. Former Defense Secretary Leon Panetta warned the U.S. is in 'deep trouble,' comparing the conflict to Vietnam, while Sen. Tim Sheehy delivered an emotional floor speech opposing the Iran War Powers Resolution. Rising gas prices driven by the conflict and Trump tariffs are fueling renewed inflation concerns, and experts expressed skepticism that an intensified strike campaign targeting infrastructure would force Tehran to capitulate."
+        },
+        {
+          "date": "2026-07-25",
+          "edition": "evening",
+          "update": "The U.S. paused its strikes on Iran overnight Friday into Saturday, marking the first night without American bombing after 13 consecutive nights of attacks, with Iran's health ministry confirming no strikes occurred. The Pentagon's revision of the U.S. troop death toll from 18 to 14 drew outrage from military families and renewed scrutiny of Defense Department reporting practices. New polling indicated the escalating conflict is threatening to suppress Republican voter turnout ahead of the midterms, with surveys showing growing opposition among Trump's MAGA base. The New York Post reported that U.S. Special Operations Forces are positioned near Iran and prepared for what sources describe as the 'most sophisticated operation in military history,' potentially involving thousands of troops targeting Iranian nuclear facilities to recover enriched uranium. Rep. Holt told Newsmax the U.S. will take steps to weaken the IRGC."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3200,6 +3220,11 @@
           "date": "2026-07-25",
           "edition": "morning",
           "update": "President Trump stated on Friday that while the U.S. is engaged in ongoing talks with Iran following nearly two weeks of strikes, he does not believe Tehran is ready to make a deal yet."
+        },
+        {
+          "date": "2026-07-25",
+          "edition": "evening",
+          "update": "Iran's government accused state broadcaster IRIB of censorship after portions of President Pezeshkian's speech were not aired, with IRIB rejecting the characterization."
         }
       ]
     },
@@ -3413,7 +3438,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-07-24",
+      "lastSeen": "2026-07-25",
       "active": true,
       "entries": [
         {
@@ -3430,6 +3455,11 @@
           "date": "2026-07-24",
           "edition": "evening",
           "update": "President Trump is scheduled to host Ukrainian President Zelensky at the White House on Tuesday, coinciding with Zelensky's attendance at memorial services for the late Sen. Lindsey Graham. Far-right influencer Laura Loomer met with Zelensky in Kyiv, reversing her longstanding public opposition to U.S. backing of Ukraine."
+        },
+        {
+          "date": "2026-07-25",
+          "edition": "evening",
+          "update": "Kazakh President Tokayev, speaking alongside Russian President Putin, called for a freeze of the war in Ukraine."
         }
       ]
     },
@@ -3615,6 +3645,11 @@
           "date": "2026-07-25",
           "edition": "morning",
           "update": "The U.S. military reported disabling a tanker attempting to evade the American blockade on Iranian ports. A Greek-operated air defense system shot down missiles over Saudi Arabia, according to Reuters. The U.S. and UK are reportedly planning a summit focused on shipping security in the Strait of Hormuz, according to Newsmax. Dozens of ships continued to traverse the Red Sea despite the Houthi blockade, though scattered disruptions and uncertainty about safe passage persisted, according to the New York Times."
+        },
+        {
+          "date": "2026-07-25",
+          "edition": "evening",
+          "update": "Houthi military spokesperson Brig. Gen. Yahya Saree announced via social media that the group fired missiles and drones at Saudi Arabia, framing the attacks as retaliation for Saudi airstrikes on Hodeida. Scientists separately warned that ships stalled near the Strait of Hormuz due to the conflict risk triggering an invasive species catastrophe through ballast water discharge and hull fouling."
         }
       ]
     },
@@ -3693,7 +3728,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-07-23",
+      "lastSeen": "2026-07-25",
       "active": true,
       "entries": [
         {
@@ -3830,6 +3865,11 @@
           "date": "2026-07-23",
           "edition": "evening",
           "update": "Contact tracing efforts in the Democratic Republic of Congo remain severely hindered by conditions on the ground, complicating attempts to identify and monitor individuals at risk of infection. Official Congolese government data confirmed the outbreak has surpassed 1,000 deaths, consistent with the threshold previously reported by international health organizations."
+        },
+        {
+          "date": "2026-07-25",
+          "edition": "evening",
+          "update": "Health workers at an Ebola treatment center in eastern Congo went on strike over payment disputes, disrupting patient care as the outbreak approaches 3,000 cases and has surpassed 1,300 deaths."
         }
       ]
     },
@@ -3974,5 +4014,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-25T11:08:37.319Z"
+  "updatedAt": "2026-07-25T21:05:30.341Z"
 }
