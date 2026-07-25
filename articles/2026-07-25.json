@@ -166,5 +166,27 @@
     "source": "BBC News",
     "categories": [],
     "collectedAt": "2026-07-25T05:45:01.251Z"
+  },
+  {
+    "title": "Venezuelans hold vigil one month after devastating earthquakes",
+    "description": "One month after Venezuela’s earthquakes, families are still searching collapsed buildings for missing loved ones.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/venezuelans-hold-vigil-one-month-after-devastating-earthquakes?traffic_source=rss",
+    "pubDate": "Sat, 25 Jul 2026 05:50:04 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-07-25T06:00:01.421Z"
+  },
+  {
+    "title": "South Africa’s le Clos breaks Commonwealth Games record with 19th medal",
+    "description": "A record 19th medal took South Africa's Chad le Clos past shooters Phil Adams of Australia and Mick Gault of England.",
+    "link": "https://www.aljazeera.com/sports/2026/7/25/south-africas-le-clos-breaks-commonwealth-games-record-with-19th-medal?traffic_source=rss",
+    "pubDate": "Sat, 25 Jul 2026 05:48:52 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-07-25T06:00:01.421Z"
   }
 ]
