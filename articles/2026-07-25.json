@@ -224,5 +224,36 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-25T06:45:01.375Z"
+  },
+  {
+    "title": "Trump: ‘I’m running for a fourth term as President of the United States’",
+    "description": "During the White House Correspondents' Association dinner, Trump joked about running for a fourth presidential term.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/trump-im-running-for-a-fourth-term-as-president-of-the-united?traffic_source=rss",
+    "pubDate": "Sat, 25 Jul 2026 06:40:26 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-07-25T07:00:01.209Z"
+  },
+  {
+    "title": "Commonwealth Games: Gymnast Langton’s headfirst crash leads to concussion",
+    "description": "Gabriel Langton suffers concussion after headfirst crash off horizontal bar in the ⁠final rotation of the competition.",
+    "link": "https://www.aljazeera.com/sports/2026/7/25/commonwealth-games-gymnast-langtons-headfirst-crash-leads-to-concussion?traffic_source=rss",
+    "pubDate": "Sat, 25 Jul 2026 06:36:22 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-07-25T07:00:01.209Z"
+  },
+  {
+    "title": "Elon Musk fires back at reporter, claims more people ‘hate you and the media than you realize’",
+    "description": "\"The shoe is on the other foot. They hate you. They hate you far more than they hate me,\" Musk said.",
+    "link": "https://nypost.com/2026/07/25/media/elon-musk-fires-back-at-economist-reporter-claims-people-hate-you-and-the-media/",
+    "pubDate": "Sat, 25 Jul 2026 02:55:50 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-25T07:00:01.209Z"
   }
 ]
