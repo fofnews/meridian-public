@@ -272,7 +272,7 @@
     "pubDate": "Sat, 25 Jul 2026 03:21:30 -0400",
     "source": "Newsweek",
     "categories": [],
-    "collectedAt": "2026-07-25T07:30:01.237Z"
+    "collectedAt": "2026-07-25T07:30:01.252Z"
   },
   {
     "title": "Comic Con cosplayers brave heat, mishaps and months of work to showcase fandom",
@@ -281,7 +281,7 @@
     "pubDate": "Sat, 25 Jul 2026 03:28:11 -0400",
     "source": "New York Post",
     "categories": [],
-    "collectedAt": "2026-07-25T07:30:01.237Z"
+    "collectedAt": "2026-07-25T07:30:01.252Z"
   },
   {
     "title": "Dear Abby: My late husband’s death reunited me with my first love, but I’m scared",
@@ -290,6 +290,48 @@
     "pubDate": "Sat, 25 Jul 2026 03:20:04 -0400",
     "source": "New York Post",
     "categories": [],
-    "collectedAt": "2026-07-25T07:30:01.237Z"
+    "collectedAt": "2026-07-25T07:30:01.252Z"
+  },
+  {
+    "title": "Wildfires in Spain and France force evacuation of 200,000 people",
+    "description": "France has appealed for international help, while Spain has declared a national emergency.",
+    "link": "https://www.aljazeera.com/news/2026/7/25/wildfires-in-spain-and-france-force-evacuation-of-200000-people?traffic_source=rss",
+    "pubDate": "Sat, 25 Jul 2026 07:41:43 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-25T08:00:01.304Z"
+  },
+  {
+    "title": "Born too soon: Premature babies fight for survival in Gaza",
+    "description": "Israel's genocidal war on Gaza is causing a surge in premature births and endangering mothers' health.",
+    "link": "https://www.aljazeera.com/features/2026/7/25/born-too-soon-premature-babies-fighting-for-survival-in-gaza?traffic_source=rss",
+    "pubDate": "Sat, 25 Jul 2026 07:25:35 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-25T08:00:01.304Z"
+  },
+  {
+    "title": "Guterres arrives in Syria in first official visit by a UN chief in 17 years",
+    "description": "The UN chief will meet Syrian President Ahmed al-Sharaa, who was under UN Security Council sanctions until last year.",
+    "link": "https://www.aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss",
+    "pubDate": "Sat, 25 Jul 2026 07:22:47 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-25T08:00:01.304Z"
+  },
+  {
+    "title": "Kuwait's KPC signs $16 billion lease and leaseback deal for oil pipeline network - Reuters",
+    "description": "Kuwait's KPC signs $16 billion lease and leaseback deal for oil pipeline network  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZ0JQQTg4MlNFY2RMbUw2Y1F6ZDdiLVBZNDUwbDBVYU0yZDVfVEVPSjM1NWVSdFM0SkRRdURmY2RvMXRJbXlJSDJwZXA3TGw1UllzRGFyU0lJLWZFOW9mbG5RcmdzNlAzeEJJT18xcUdRdWV3dUtzTi1Xc0sxX2ROZzhCcXpkdGxnek5QZXNzeVJ1azhQbFRVZloyQzFZZmVoQ2ZiRGdiRnJtaEZmZVVIaGhpZ283UXFnX3Y3MkpLOUx3RjFLSENSSXozUXE?oc=5",
+    "pubDate": "Sat, 25 Jul 2026 06:14:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-07-25T08:00:01.304Z"
   }
 ]
