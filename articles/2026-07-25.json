@@ -1497,7 +1497,7 @@
     "pubDate": "Sat, 25 Jul 2026 07:38:11 -0400",
     "source": "CBS News",
     "categories": [],
-    "collectedAt": "2026-07-25T11:45:01.387Z"
+    "collectedAt": "2026-07-25T11:45:01.269Z"
   },
   {
     "title": "Latest updates.",
@@ -1517,7 +1517,7 @@
       "europe",
       "sanchez perez-castejon, pedro (1972- )"
     ],
-    "collectedAt": "2026-07-25T11:45:01.387Z"
+    "collectedAt": "2026-07-25T11:45:01.269Z"
   },
   {
     "title": "Tuberculosis: How drones are transforming care in the Philippines",
@@ -1528,7 +1528,7 @@
     "categories": [
       "show types"
     ],
-    "collectedAt": "2026-07-25T11:45:01.387Z"
+    "collectedAt": "2026-07-25T11:45:01.269Z"
   },
   {
     "title": "Two buses collide in Syria, killing at least 35 people",
@@ -1539,7 +1539,7 @@
     "categories": [
       "news"
     ],
-    "collectedAt": "2026-07-25T11:45:01.387Z"
+    "collectedAt": "2026-07-25T11:45:01.269Z"
   },
   {
     "title": "India’s youth protesters are fighting Modi with irreverent humour and memes",
@@ -1550,7 +1550,7 @@
     "categories": [
       "news"
     ],
-    "collectedAt": "2026-07-25T11:45:01.387Z"
+    "collectedAt": "2026-07-25T11:45:01.269Z"
   },
   {
     "title": "Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push - Reuters",
@@ -1559,7 +1559,7 @@
     "pubDate": "Sat, 25 Jul 2026 09:42:11 GMT",
     "source": "Reuters",
     "categories": [],
-    "collectedAt": "2026-07-25T11:45:01.387Z"
+    "collectedAt": "2026-07-25T11:45:01.269Z"
   },
   {
     "title": "Bridges and infrastructure hit as US struck deeper inside Iran - AP News",
@@ -1568,7 +1568,7 @@
     "pubDate": "Sat, 25 Jul 2026 10:30:00 GMT",
     "source": "AP News",
     "categories": [],
-    "collectedAt": "2026-07-25T11:45:01.387Z"
+    "collectedAt": "2026-07-25T11:45:01.269Z"
   },
   {
     "title": "We have $8 million in traditional IRAs. Should we tap them to buy a house — and take the tax hit?",
@@ -1577,7 +1577,7 @@
     "pubDate": "Sat, 25 Jul 2026 11:30:00 GMT",
     "source": "Wall Street Journal",
     "categories": [],
-    "collectedAt": "2026-07-25T11:45:01.387Z"
+    "collectedAt": "2026-07-25T11:45:01.269Z"
   },
   {
     "title": "US mulls plan to snatch enriched uranium from Iran’s nuclear facilities: ‘most sophisticated op in history’",
@@ -1586,7 +1586,7 @@
     "pubDate": "Sat, 25 Jul 2026 07:33:00 -0400",
     "source": "New York Post",
     "categories": [],
-    "collectedAt": "2026-07-25T11:45:01.387Z"
+    "collectedAt": "2026-07-25T11:45:01.269Z"
   },
   {
     "title": "Aiden Ruiz tells The Post he hopes to follow a Francisco Lindor path after accomplishing draft dream",
@@ -1595,6 +1595,44 @@
     "pubDate": "Sat, 25 Jul 2026 07:30:00 -0400",
     "source": "New York Post",
     "categories": [],
-    "collectedAt": "2026-07-25T11:45:01.387Z"
+    "collectedAt": "2026-07-25T11:45:01.269Z"
+  },
+  {
+    "title": "Why these cancer patients face a lonely fight",
+    "description": "As Nigeria grapples with a rapid rise in cancer cases, patients say they often feel as if they are on their own.",
+    "link": "https://www.npr.org/2026/07/25/g-s1-135365/cancer-breast-chemotherapy-nigeria",
+    "pubDate": "Sat, 25 Jul 2026 07:51:44 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-07-25T12:00:02.236Z"
+  },
+  {
+    "title": "Paramount delays closing Warner buyout while judge considers states' challenge",
+    "description": "Skydance-owned Paramount has agreed to delay closing its $81 billion buyout of Warner Bros",
+    "link": "https://abcnews.com/Entertainment/wireStory/paramount-agrees-delay-closing-warner-bros-buyout-months-135065269",
+    "pubDate": "Sat, 25 Jul 2026 07:52:35 -0400",
+    "source": "ABC News",
+    "categories": [
+      "entertainment"
+    ],
+    "collectedAt": "2026-07-25T12:00:02.236Z"
+  },
+  {
+    "title": "Fleeing a wall of flames: Tourists describe France wildfires escape",
+    "description": "Families visiting France from the UK and elsewhere have told the BBC how their holidays have become evacuation missions.",
+    "link": "https://www.bbc.co.uk/news/articles/c80ny93xlrvo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 25 Jul 2026 11:39:27 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-25T12:00:02.236Z"
+  },
+  {
+    "title": "Poached eggheads: China lures away 105 top American minds in bid to dominate med, tech fields",
+    "description": "Nearly half of the recent wave of defectors over the last year is in biotechnology and medicine, suggesting China is investing heavily to surpass the United States in medical innovation.",
+    "link": "https://nypost.com/2026/07/25/world-news/china-lures-away-at-least-105-american-scientific-minds/",
+    "pubDate": "Sat, 25 Jul 2026 07:57:40 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-25T12:00:02.236Z"
   }
 ]
