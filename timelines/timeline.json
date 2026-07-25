@@ -409,7 +409,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-24",
+      "lastSeen": "2026-07-25",
       "active": true,
       "entries": [
         {
@@ -741,6 +741,11 @@
           "date": "2026-07-24",
           "edition": "evening",
           "update": "A Russian ballistic missile strike on a drone exhibition near Kyiv killed ten people, with the event attended by prominent members of Ukraine's defense industry. Separately, a Ukrainian drone strike destroyed a Russian Tu-95MS strategic bomber, according to satellite imagery reported by Newsweek, and at least six people were killed in a Ukrainian strike on Russia's Kirov region. Russia has withdrawn all warships from the Mediterranean Sea, a move attributed to losses and sustained pressure on its Black Sea Fleet from Ukrainian drone strikes. Ukrainian President Zelensky met with Raytheon to discuss co-production of Patriot missile interceptors following Trump's approval for Ukraine-U.S. cooperation on their manufacturing."
+        },
+        {
+          "date": "2026-07-25",
+          "edition": "morning",
+          "update": "Protests continued in Ukraine over President Zelensky's dismissal of Defence Minister Rustem Fedorov, with commentators suggesting the move has damaged Zelensky politically. Italy's Defence Minister offered Fedorov an adviser role, according to Reuters. Note: The second new fact about the Russian missile strike killing 10 people duplicates what was already recorded on 2026-07-24."
         }
       ],
       "parentId": null
@@ -1139,7 +1144,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-07-23",
+      "lastSeen": "2026-07-25",
       "active": true,
       "entries": [
         {
@@ -1256,6 +1261,11 @@
           "date": "2026-07-23",
           "edition": "morning",
           "update": "The BBC visited a school in Minab, Iran, where a strike killed 120 children, speaking with a teacher and a mother about the attack nearly five months after it occurred."
+        },
+        {
+          "date": "2026-07-25",
+          "edition": "morning",
+          "update": "Iranian Foreign Minister Abbas Araghchi declared that Iran 'fears no one' and will not 'succumb to pressures,' vowing defiance against threats. A New York Times journalist traveling from Tehran to Mashhad reported observing a society marked by simultaneous defiance, weariness, despair, and hope amid wartime conditions."
         }
       ],
       "parentId": null
@@ -1594,7 +1604,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-24",
+      "lastSeen": "2026-07-25",
       "active": true,
       "entries": [
         {
@@ -2251,6 +2261,11 @@
           "date": "2026-07-24",
           "edition": "evening",
           "update": "Netanyahu is scheduled to travel to Washington on Monday and meet with Trump at the White House on Tuesday, coinciding with his attendance at memorial services for the late Sen. Lindsey Graham. The U.S. and Iran entered their 13th consecutive day of exchanging strikes, with Iran claiming responsibility for drone attacks on U.S. assets at Bahrain's Sheikh Isa Air Base, Jordan, and Kuwait, while coalition forces shot down five drones targeting Erbil International Airport in northern Iraq. Oil prices crossed $100 per barrel for the first time since May after Houthi rebels struck two Saudi oil tankers in the Red Sea, prompting Trump to vow retaliation and reiterate consideration of a 'massive attack' described as 'bigger than ever before.' Trump warned Chinese President Xi Jinping and Russian President Vladimir Putin it would be 'very bad' if either country is found supplying weapons to Iran, though he subsequently stated on Truth Social that he takes both leaders at face value that they are not doing so. Rep. Thomas Massie accused Defense Secretary Hegseth of 'breaking the law' by allegedly framing the conflict as two separate wars to avoid seeking congressional authorization. Senate Republican Policy Committee Chair Shelley Moore Capito stated the American public is 'growing weary' of the conflict, which Trump initially said would last four to five weeks but has now continued for nearly five months, while S&P surveys indicate the U.S. economy had been accelerating before failed peace talks disrupted momentum by triggering an oil price surge and renewed inflation concerns."
+        },
+        {
+          "date": "2026-07-25",
+          "edition": "morning",
+          "update": "U.S. military commanders are intentionally allowing some Iranian missiles and drones to pass through air defenses in order to preserve dwindling interceptor missile stockpiles, according to two senior U.S. officials cited by NBC News. A credible Iranian threat prompted a last-minute swap of the Air Force One aircraft used to transport President Trump from the NATO summit in Turkey, with a separate NY Times investigation finding that Trump's push to expedite a new Air Force One led to ballooning costs and safety trade-offs. The Pentagon's troop death count dropped from 18 to 14, according to CBS News, drawing fresh criticism over the conflicting figures previously offered by military officials and a Pentagon spokesman. Former Defense Secretary Leon Panetta warned the U.S. is in 'deep trouble,' comparing the Iran conflict to Vietnam and stating that 'forever wars do not end well,' while Sen. Tim Sheehy delivered an emotional floor speech opposing the Iran War Powers Resolution. Rising gas prices tied to the Iran conflict and Trump tariffs are fueling renewed inflation concerns, and experts cited by The Hill expressed doubt that an intensified air campaign targeting infrastructure would force Tehran to capitulate."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3040,7 +3055,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-24",
+      "lastSeen": "2026-07-25",
       "active": true
     },
     {
@@ -3063,7 +3078,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-07-24",
+      "lastSeen": "2026-07-25",
       "active": true,
       "entries": [
         {
@@ -3175,6 +3190,11 @@
           "date": "2026-07-24",
           "edition": "evening",
           "update": "China has initiated a push for Pakistan and Iran to explore pathways toward new talks with the United States, according to Reuters sources."
+        },
+        {
+          "date": "2026-07-25",
+          "edition": "morning",
+          "update": "President Trump told reporters that the U.S. is engaged in ongoing talks with Iran following nearly two weeks of strikes, but said he does not believe Tehran is 'ready yet' to make a deal."
         }
       ]
     },
@@ -3408,7 +3428,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-07-24",
+      "lastSeen": "2026-07-25",
       "active": true,
       "entries": [
         {
@@ -3580,6 +3600,11 @@
           "date": "2026-07-24",
           "edition": "evening",
           "update": "A tanker switched its Asia voyage to route via the Suez Canal amid continued Houthi militant warnings, according to the vessel's owner, underscoring the ongoing disruption to Red Sea shipping routes."
+        },
+        {
+          "date": "2026-07-25",
+          "edition": "morning",
+          "update": "The U.S. military reported disabling a tanker attempting to evade the American blockade on Iranian ports, while Iran-backed Houthi forces claimed responsibility for a missile attack on Saudi Arabia. A Greek-operated air defense system shot down missiles over Saudi Arabia, according to Reuters. The U.S. and UK are planning a summit focused on shipping security in the Strait of Hormuz, according to Newsmax. Dozens of ships continued to traverse the Red Sea despite the Houthi blockade, though scattered disruptions were reported and uncertainty over safe passage continued to grow."
         }
       ]
     },
@@ -3939,5 +3964,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-24T21:10:14.804Z"
+  "updatedAt": "2026-07-25T11:07:48.129Z"
 }
