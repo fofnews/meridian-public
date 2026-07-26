@@ -50,7 +50,8 @@ const edition        = args['edition'];
 const dryRun         = args['dry-run']        === 'true';
 const prebuiltAudio  = args['prebuilt-audio'] === 'true'; // skip TTS; use WAVs pre-populated by produce-clip
 const noAnchored     = args['no-anchored']    === 'true';
-const debugAnchors   = args['debug-anchors']  === 'true';
+const debugAnchors     = args['debug-anchors']  === 'true';
+const preserveOverlays = args['preserve-overlays'] === 'true';
 
 // ANCHOR_OPTS: start with defaults and apply CLI overrides.
 const ANCHOR_OPTS = { ...ANCHOR_DEFAULTS };
@@ -281,7 +282,7 @@ if (anyUpdated) {
 // mentions in the narration text and rewrite cameraPath waypoints so the map
 // flies to each location as it is spoken.
 
-if (!noAnchored) {
+if (!preserveOverlays && !noAnchored) {
   // Determine which shots have real timestamps before loading the report.
   const shotTimestamps = [];
   let hasAnyElevenLabs = false;

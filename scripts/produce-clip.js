@@ -65,6 +65,7 @@ const noAnchored   = args['no-anchored']   ?? null;
 const debugAnchors = args['debug-anchors'] ?? null;
 const leadTime     = args['lead-time']     ?? null;
 const minDwell     = args['min-dwell']     ?? null;
+const skipShotlist = args['skip-shotlist'] === 'true';
 
 if (!edition) {
   console.error('Usage: node scripts/produce-clip.js --edition=YYYY-MM-DD-{morning|evening}');
@@ -116,29 +117,37 @@ const anchorFlags = [
 
 // ── Stage 1: build-shotlist ───────────────────────────────────────────────────
 
-banner('1 / 4', `build-shotlist  edition=${edition}`);
-
-// Derive broadcast narration file from the pipeline audio path so timings mode
-// can substitute full narration text for the 48-char beat titles.
-// audio = .../pipeline/audio/<edition>/full.wav → .../pipeline/broadcasts/<edition>.json
-const broadcastFile = (audio && existsSync(audio))
-  ? join(dirname(audio), '..', '..', 'broadcasts', `${edition}.json`)
-  : null;
-
-run('build-shotlist', 'node', [
-  join(SCRIPTS, 'build-shotlist.js'),
-  `--edition=${edition}`,
-  `--max-duration=${maxDuration}`,
-  `--aspect=${aspect}`,
-  ...(timings ? [`--timings=${timings}`] : []),
-  ...(broadcastFile && existsSync(broadcastFile) ? [`--broadcast-file=${broadcastFile}`] : []),
-  ...anchorFlags,
-]);
-
 const shotlistPath = join(ROOT, 'out', 'shotlists', `${edition}.json`);
-if (!existsSync(shotlistPath)) {
-  console.error(`✗ build-shotlist did not produce ${shotlistPath}`);
-  process.exit(1);
+
+if (skipShotlist) {
+  banner('1 / 4', `build-shotlist  SKIPPED — using existing shotlist`);
+  if (!existsSync(shotlistPath)) {
+    console.error(`✗ --skip-shotlist set but no shotlist found at ${shotlistPath}`);
+    console.error(`  Run "Build Cues" in BroadcastStudio first.`);
+    process.exit(1);
+  }
+  console.log(`  ✓ Using ${shotlistPath}`);
+} else {
+  banner('1 / 4', `build-shotlist  edition=${edition}`);
+  // Derive broadcast narration file from the pipeline audio path so timings mode
+  // can substitute full narration text for the 48-char beat titles.
+  // audio = .../pipeline/audio/<edition>/full.wav → .../pipeline/broadcasts/<edition>.json
+  const broadcastFile = (audio && existsSync(audio))
+    ? join(dirname(audio), '..', '..', 'broadcasts', `${edition}.json`)
+    : null;
+  run('build-shotlist', 'node', [
+    join(SCRIPTS, 'build-shotlist.js'),
+    `--edition=${edition}`,
+    `--max-duration=${maxDuration}`,
+    `--aspect=${aspect}`,
+    ...(timings ? [`--timings=${timings}`] : []),
+    ...(broadcastFile && existsSync(broadcastFile) ? [`--broadcast-file=${broadcastFile}`] : []),
+    ...anchorFlags,
+  ]);
+  if (!existsSync(shotlistPath)) {
+    console.error(`✗ build-shotlist did not produce ${shotlistPath}`);
+    process.exit(1);
+  }
 }
 
 // ── Pre-stage 2: populate per-shot WAVs from pipeline pre-generated audio ────
@@ -197,6 +206,7 @@ run('synthesize-narration', 'node', [
   join(SCRIPTS, 'synthesize-narration.js'),
   `--edition=${edition}`,
   ...(prebuiltAudio ? ['--prebuilt-audio'] : hasTTS ? [] : ['--dry-run']),
+  ...(skipShotlist ? ['--preserve-overlays=true'] : []),
   ...anchorFlags,
 ]);
 
