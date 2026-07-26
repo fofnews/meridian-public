@@ -1237,5 +1237,89 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-07-26T10:30:01.470Z"
+  },
+  {
+    "title": "Berlin Police seek 21-year-old after vehicle crashes into crowd during LGBTQ+ parade",
+    "description": "Police asked for information about the whereabouts of a 21-year-old man.",
+    "link": "https://abcnews.com/International/berlin-police-seek-21-year-after-vehicle-crashes/story?id=135095525",
+    "pubDate": "Sun, 26 Jul 2026 06:32:34 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-07-26T10:45:01.549Z"
+  },
+  {
+    "title": "Woman Paralyzed After Snowboarding Accident—Months Later Comes Surprise",
+    "description": "\"I thought I'd never stand on my own two feet again, and here I was exceeding every medical expectation,\" Lucy Martinez, 29, said.",
+    "link": "https://www.newsweek.com/woman-paralyzed-after-snowboarding-accident-months-later-surprise-12227513",
+    "pubDate": "Sun, 26 Jul 2026 06:30:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-26T10:45:01.549Z"
+  },
+  {
+    "title": "Man in critical condition after sea rescue",
+    "description": "A man in his 50s is in critical condition, and a man in his 20s and a teenage girl remain in hospital.",
+    "link": "https://www.bbc.co.uk/news/articles/c7vgnnyye90o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 26 Jul 2026 10:21:47 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-26T10:45:01.549Z"
+  },
+  {
+    "title": "Japanese football legend ‘King Kazu’, 59, scores first goal in four years",
+    "description": "The world's oldest professional footballer, Kazuyoshi Miura, scores as Fukushima United thrash Iwaki Furukawa 7-0.",
+    "link": "https://www.aljazeera.com/sports/2026/7/26/japanese-football-legend-king-kazu-59-scores-first-goal-in-four-years?traffic_source=rss",
+    "pubDate": "Sun, 26 Jul 2026 10:18:29 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-07-26T10:45:01.549Z"
+  },
+  {
+    "title": "Lettuce explain: Cyclospora outbreaks test Trump administration messaging",
+    "description": "The Trump administration is facing a key messaging test as it tries to stop potentially multiple outbreaks of cyclosporiasis, a parasitic illness.  Two months in and thousands of cases later, the outbreak has become a communications nightmare.    Experts say confusing messages and a lack of central leadership have left the public in the dark about…",
+    "link": "https://thehill.com/policy/healthcare/5989534-trump-administration-cyclosporiasis-outbreak-messaging/",
+    "pubDate": "Sun, 26 Jul 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "healthcare",
+      "news",
+      "policy"
+    ],
+    "collectedAt": "2026-07-26T10:45:01.549Z"
+  },
+  {
+    "title": "Democrats favored to win House, underdogs in Senate 100 days out",
+    "description": "Democrats are favored to win the House but are slight underdogs in the fight for the Senate with 100 days to go before the midterms, according to the latest forecast from Decision Desk HQ (DDHQ).  Both parties are dealing with headwinds as they head into the home stretch of the high-stakes election. Republicans are worried…",
+    "link": "https://thehill.com/homenews/campaign/5987178-midterm-forecast-house-senate/",
+    "pubDate": "Sun, 26 Jul 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "news"
+    ],
+    "collectedAt": "2026-07-26T10:45:01.549Z"
+  },
+  {
+    "title": "Fulton Sheen and the Conscience of the West",
+    "description": "The soon-to-be-beatified archbishop’s insights remind us of the importance of defending human dignity in the face of communism and materialism.",
+    "link": "https://www.nationalreview.com/2026/07/fulton-sheen-and-the-conscience-of-the-west/",
+    "pubDate": "Sun, 26 Jul 2026 10:30:13 +0000",
+    "source": "National Review",
+    "categories": [],
+    "collectedAt": "2026-07-26T10:45:01.549Z"
+  },
+  {
+    "title": "The EU’s Stealth Censorship Playbook",
+    "description": "Controlling which media outlets go to the top of your social media feed is a brilliant way to silence views the government doesn’t like.",
+    "link": "https://www.nationalreview.com/2026/07/the-eus-stealth-censorship-playbook/",
+    "pubDate": "Sun, 26 Jul 2026 10:30:11 +0000",
+    "source": "National Review",
+    "categories": [],
+    "collectedAt": "2026-07-26T10:45:01.549Z"
   }
 ]
