@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-24",
+      "lastSeen": "2026-07-26",
       "active": true,
       "entries": [
         {
@@ -286,6 +286,11 @@
           "date": "2026-07-24",
           "edition": "morning",
           "update": "Additional details on Daniel Siad's death confirmed that his name appeared roughly 2,000 times in the Epstein files and that he was linked to a sex trafficking probe involving at least 24 alleged victims or witnesses."
+        },
+        {
+          "date": "2026-07-26",
+          "edition": "morning",
+          "update": "The NY Times identified Karyna Shuliak, 37, as Jeffrey Epstein's girlfriend and a likely major inheritor of his estate, noting she has sought to avoid public attention since his death. The Times also published a summary of key findings characterizing Epstein as a sexual predator whose secrets triggered an international reckoning involving money, power, and complicity."
         }
       ],
       "parentId": null
@@ -414,7 +419,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-25",
+      "lastSeen": "2026-07-26",
       "active": true,
       "entries": [
         {
@@ -756,6 +761,11 @@
           "date": "2026-07-25",
           "edition": "evening",
           "update": "Ukrainian attacks on holiday camps in the partly Russian-occupied Zaporizhzhia region killed at least 11 people, with Russia claiming responsibility for the civilian death toll framing, according to multiple outlets. A drone threat in Yekaterinburg disrupted operations at online retailer Wildberries and caused interruptions to an athletics championships event. President Zelensky stated Russia intends to deploy 30,000 additional North Korean troops to the conflict, and announced a joint U.S.-Ukraine drone factory will be built in the United States. Iran announced that a Ukrainian attack on a vessel in the Caspian Sea killed a sailor, according to Reuters."
+        },
+        {
+          "date": "2026-07-26",
+          "edition": "morning",
+          "update": "Ukraine struck a logistics hub belonging to Wildberries, described as 'Russia's Amazon,' in what is reported as the 7th attack on the chain suspected of supplying Moscow's military; videos showed employees fleeing and vehicles catching fire in the parking lot."
         }
       ],
       "parentId": null
@@ -1284,7 +1294,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-25",
+      "lastSeen": "2026-07-26",
       "active": true,
       "entries": [
         {
@@ -1611,6 +1621,11 @@
           "date": "2026-07-25",
           "edition": "evening",
           "update": "A baby was rescued by family members after Israeli settlers set their home on fire in the occupied West Bank, according to Al Jazeera. Israeli troops rounded up Palestinians in a West Bank village following a shootout involving settlers, according to Reuters. Israel killed a senior Hamas-led police official in Gaza, according to medics cited by Reuters. Syrian Foreign Minister Asaad al-Shaibani called for an immediate and unconditional Israeli withdrawal from Syria during a meeting with UN Secretary-General António Guterres."
+        },
+        {
+          "date": "2026-07-26",
+          "edition": "morning",
+          "update": "Israeli forces fired tear gas at Palestinians and journalists in Tal, near Nablus, the day after a deadly shootout there. Israeli settlers set fire to Al-Rahma Mosque in Qusra, near Nablus, while Israeli forces simultaneously arrested dozens of Palestinians in the area. An Israeli drone strike near Al-Aqsa hospital in Gaza killed at least one Palestinian and injured several others. The EU remains divided over whether to bar imports from Israeli settlements, reflecting broader disagreement among member states on how to confront Israel. Some Lebanese civilians displaced by Israel's invasion have begun purchasing satellite imagery to remotely check whether their homes survived, as they remain unable to return."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1619,7 +1634,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-25",
+      "lastSeen": "2026-07-26",
       "active": true,
       "entries": [
         {
@@ -2286,6 +2301,11 @@
           "date": "2026-07-25",
           "edition": "evening",
           "update": "For the first time in 13 consecutive nights, the U.S. and Iran did not exchange military strikes overnight Saturday, with Iran's health ministry confirming no new attacks had occurred. U.S. Special Operations Forces are reportedly positioned near Iran and prepared to launch what sources describe as the 'most sophisticated operation in military history,' potentially involving thousands of troops storming Iranian nuclear facilities to recover enriched uranium, according to the New York Post. New polling indicates the escalating war is threatening to depress Republican voter turnout in midterm battlegrounds, with Trump's MAGA base showing increasing opposition to the conflict. The U.S. Treasury Department announced sanctions against nine firms and four individuals connected to sanctioned Iranian billionaire financier Babak Zanjani for attempting to evade existing sanctions."
+        },
+        {
+          "date": "2026-07-26",
+          "edition": "morning",
+          "update": "U.S.-Iran hostilities paused for a second consecutive night, with Trump holding off on a major escalation after advisers warned that expanded strikes could dangerously drain already diminished air defense interceptor stockpiles in the region. Houthi rebels launched missile and drone attacks on Saudi Arabia, reportedly in retaliation for Saudi strikes on a Yemeni coastal city, opening what NBC News describes as a new warfront. UK Defence Secretary Wes Streeting warned Britain stands ready to respond to any Iranian attacks, dismissing Tehran's threats as 'sabre-rattling.' The NY Times reported Trump appears increasingly frustrated and constrained in his options despite U.S. military capabilities."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3075,7 +3095,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-25",
+      "lastSeen": "2026-07-26",
       "active": true
     },
     {
@@ -3463,7 +3483,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-07-25",
+      "lastSeen": "2026-07-26",
       "active": true,
       "entries": [
         {
@@ -3645,6 +3665,11 @@
           "date": "2026-07-25",
           "edition": "evening",
           "update": "Scientists warned that ships stalled near the Strait of Hormuz due to conflict-related traffic blockages could trigger an invasive species ecological catastrophe. Houthi military spokesperson Brig. Gen. Yahya Saree announced the group had fired missiles and drones at Saudi Arabia, claiming the strikes were retaliation for Saudi airstrikes on Hodeida."
+        },
+        {
+          "date": "2026-07-26",
+          "edition": "morning",
+          "update": "Houthi forces claimed responsibility for targeting Saudi Aramco oil facilities along the Red Sea coast, according to Al Jazeera. The U.S. military released footage it says shows forces boarding and disabling a tanker accused of breaking the Iran blockade."
         }
       ]
     },
@@ -3723,7 +3748,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-07-25",
+      "lastSeen": "2026-07-26",
       "active": true,
       "entries": [
         {
@@ -3865,6 +3890,11 @@
           "date": "2026-07-25",
           "edition": "evening",
           "update": "Health workers at an Ebola treatment center in eastern Congo went on strike over payment disputes, disrupting patient care as the outbreak approaches 3,000 cases and has surpassed 1,300 deaths."
+        },
+        {
+          "date": "2026-07-26",
+          "edition": "morning",
+          "update": "Officials described the Bundibugyo strain Ebola outbreak in eastern Congo as disrupting activity along a busy border crossing, with the virus first identified in Bundibugyo, Uganda in 2007."
         }
       ]
     },
@@ -3963,7 +3993,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-24",
+      "lastSeen": "2026-07-26",
       "active": true,
       "entries": [
         {
@@ -3990,6 +4020,11 @@
           "date": "2026-07-24",
           "edition": "morning",
           "update": "The U.S. military is building up forces in the Middle East as Trump warns Iran will be held accountable for Houthi attacks, while Saudi Arabia has not yet responded to Trump's condition that it join the Abraham Accords to finalize a U.S.-Saudi nuclear deal."
+        },
+        {
+          "date": "2026-07-26",
+          "edition": "morning",
+          "update": "Saudi Arabia and Iran-backed Houthi rebels exchanged fire, with NBC News describing the development as a new warfront in the Middle East, emerging on a night when no new U.S.-Iran strikes were reported."
         }
       ]
     },
@@ -3998,16 +4033,21 @@
       "title": "US-Saudi Nuclear Deal and Israel Normalization",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-07-23",
-      "lastSeen": "2026-07-23",
+      "lastSeen": "2026-07-26",
       "active": true,
       "entries": [
         {
           "date": "2026-07-23",
           "edition": "evening",
           "update": "The U.S.-Saudi nuclear cooperation agreement was signed by the U.S. Department of Energy and Saudi Arabia on Wednesday, with Trump stating the deal is contingent on Saudi Arabia normalizing relations with Israel through the Abraham Accords and prohibits uranium enrichment. The House passed a non-binding war powers resolution to limit Trump's military authority over Iran, with four Republicans joining Democrats in support — the second such House vote, matching a prior outcome from June — but the Senate rejected a similar measure."
+        },
+        {
+          "date": "2026-07-26",
+          "edition": "morning",
+          "update": "Democrats warned the U.S.-Saudi nuclear deal risks triggering a Middle East arms race, while Republicans defended it as necessary for building a regional alliance. The NY Times reported that Trump family members and political supporters have overlapping business ties that could position them for financial gains from Trump's broader nuclear energy agenda, which includes the Saudi deal."
         }
       ]
     }
   ],
-  "updatedAt": "2026-07-25T21:05:59.032Z"
+  "updatedAt": "2026-07-26T11:05:40.524Z"
 }
