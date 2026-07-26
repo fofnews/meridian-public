@@ -766,6 +766,11 @@
           "date": "2026-07-26",
           "edition": "morning",
           "update": "Ukraine struck a Wildberries logistics hub in Russia, described as the seventh attack on the e-commerce chain suspected of supplying Moscow's military, setting vehicles ablaze and prompting employee evacuations."
+        },
+        {
+          "date": "2026-07-26",
+          "edition": "evening",
+          "update": "Laura Loomer publicly reversed her position on Ukraine after visiting the country, stating she had been wrong to oppose U.S. military aid, according to the Washington Examiner. The Kremlin said it was too early to comment on reported U.S.-Ukraine talks regarding an air ceasefire. A vessel sank approximately one week after being struck by Russian fire, according to Ukrainian officials cited by Reuters."
         }
       ],
       "parentId": null
@@ -1626,6 +1631,11 @@
           "date": "2026-07-26",
           "edition": "morning",
           "update": "Israeli forces fired tear gas at Palestinians and journalists in Tal following a deadly shootout in Nablus, and Israeli settlers set fire to Al-Rahma Mosque in Qusra, near Nablus, while Israeli forces simultaneously arrested dozens of Palestinians in the area. An Israeli drone strike killed at least one Palestinian and injured several others near Al-Aqsa hospital in Gaza. The EU remains divided over whether to bar imports from Israeli settlements in occupied territories, reflecting a broader split among member states. Some Lebanese displaced by Israel's invasion of southern Lebanon have begun purchasing satellite images to remotely assess whether their homes are still standing."
+        },
+        {
+          "date": "2026-07-26",
+          "edition": "evening",
+          "update": "Violence in the occupied West Bank intensified following a Friday gunfight that left four Palestinians and two Israeli soldiers dead, with Israeli crackdown operations and settler activity escalating in its aftermath. Israeli settlers torched two mosques in the occupied West Bank as Netanyahu threatened 'more broad action' in the territory. An Israeli airstrike on a vehicle in Gaza killed two Hamas security officials, including the head of internal security for Hamas in central Gaza, according to Al Jazeera. Netanyahu accused ICC prosecutor Karim Khan of using the arrest warrant issued against Netanyahu as a 'political shield' to deflect attention from misconduct allegations against Khan. According to an Israeli official cited by Reuters, Israel has agreed to allow an international force into Gaza."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2306,6 +2316,11 @@
           "date": "2026-07-26",
           "edition": "morning",
           "update": "U.S.-Iran fighting paused for a second consecutive day, with Trump delaying escalation plans partly due to dwindling interceptor missile stockpiles, according to American officials cited by the NY Times, which also described Trump as 'frustrated and erratic' and constrained in his options despite commanding significant military power. The U.S. military released footage showing forces boarding and disabling a tanker accused of breaking the Iran blockade. UK Defence Secretary Wes Streeting warned Britain stands ready to respond to any Iranian attacks, dismissing Iranian actions as 'sabre-rattling.' Houthi rebels launched missiles and drone attacks on Saudi Arabia in apparent retaliation for Saudi strikes on a Yemeni coastal city, opening a new front in the conflict."
+        },
+        {
+          "date": "2026-07-26",
+          "edition": "evening",
+          "update": "U.S. Ambassador to the UN Mike Waltz appeared on NBC's 'Meet the Press' to deny that weapons depletion is negatively affecting the war effort, asserting the military has 'everything that it needs' and blaming the Biden administration for depleted Pentagon munitions stockpiles. The NY Times reported Trump has held off on authorizing major military escalation, with advisers warning that expanded hostilities could dangerously drain already diminished air defense munitions stockpiles in the Middle East. Both the U.S. and Iran paused strikes for a second consecutive day Sunday, with an Iranian source telling Reuters that Iran will halt attacks as long as the U.S. maintains its pause, and Waltz confirming Trump paused attacks to create diplomatic space for ceasefire negotiations. Iran's army warned the war could expand if U.S. strikes resume, while separately vowing retaliation after Ukraine struck an Iranian commercial vessel in the Caspian Sea, killing at least one sailor — an attack Ukrainian President Zelensky confirmed, claiming 'very strong results.' The conflict broadened further as Houthi rebels attacked Saudi oil installations along the Red Sea coast, and Iran accused Ukraine of the Caspian vessel strike. Sen. Bill Cassidy called for a fuller national discussion and urged Trump to go to Congress for a path toward peace, while a CBS News poll found most Americans believe the conflict has proven harder than Trump anticipated and expect it to last months or years longer."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3343,7 +3358,7 @@
       "title": "Cuba Military Intervention",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-04-29",
-      "lastSeen": "2026-07-22",
+      "lastSeen": "2026-07-26",
       "active": true,
       "entries": [
         {
@@ -3390,6 +3405,11 @@
           "date": "2026-07-22",
           "edition": "morning",
           "update": "The Trump administration released a report alleging that Cuba serves as the 'connective tissue' of a global 'anti-American coalition,' and claimed ties between the Cuban government and the American left."
+        },
+        {
+          "date": "2026-07-26",
+          "edition": "evening",
+          "update": "Cuban President Miguel Díaz-Canel accused the United States of committing 'political genocide' against Cuba in remarks delivered on the anniversary of the Cuban revolution, according to Reuters."
         }
       ]
     },
@@ -3670,6 +3690,11 @@
           "date": "2026-07-26",
           "edition": "morning",
           "update": "Houthi forces claimed to have targeted Saudi Aramco oil facilities along the Red Sea, with Saudi Arabia and Houthi rebels exchanging fire in what NBC News describes as a new warfront in the Middle East."
+        },
+        {
+          "date": "2026-07-26",
+          "edition": "evening",
+          "update": "Talks between Oman and Iran on reopening the Strait of Hormuz and their respective territorial waterways have made progress, according to two sources cited by CBS News."
         }
       ]
     },
@@ -4040,9 +4065,14 @@
           "date": "2026-07-26",
           "edition": "morning",
           "update": "Democrats raised concerns that the U.S.-Saudi nuclear deal could trigger a Middle East arms race, while Republican lawmakers defended the agreement as a necessary regional alliance. The NY Times reported that Trump's family and close supporters may be positioned to benefit from his broader nuclear energy agenda through overlapping business ties."
+        },
+        {
+          "date": "2026-07-26",
+          "edition": "evening",
+          "update": "Sen. Chris Van Hollen accused Trump of a 'bait and switch' with Saudi Arabia, claiming Trump changed the terms of the nuclear deal to link it to normalization of Saudi-Israeli relations. Netanyahu stated a Saudi nuclear bomb is 'the last thing we want,' while praising Trump for conditioning any Saudi nuclear program on Riyadh normalizing relations with Israel."
         }
       ]
     }
   ],
-  "updatedAt": "2026-07-26T11:05:47.712Z"
+  "updatedAt": "2026-07-26T21:05:38.618Z"
 }
