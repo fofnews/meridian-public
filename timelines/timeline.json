@@ -770,7 +770,7 @@
         {
           "date": "2026-07-26",
           "edition": "evening",
-          "update": "Laura Loomer publicly reversed her position on Ukraine after visiting the country, stating she had been wrong to oppose U.S. military aid, according to the Washington Examiner. The Kremlin said it was too early to comment on reported U.S.-Ukraine talks regarding an air ceasefire. A vessel sank approximately one week after being struck by Russian fire, according to Ukrainian officials cited by Reuters."
+          "update": "Laura Loomer publicly reversed her position on the Ukraine war after visiting the country, stating she had been wrong about U.S. military aid to Ukraine. Iran vowed revenge following the Ukrainian drone attack on an Iranian commercial vessel in the Caspian Sea that killed at least one sailor, with Iran's Foreign Minister warning the attack 'cannot go unanswered'; Ukrainian President Zelensky confirmed the strikes, saying Ukraine had achieved 'very strong results.'"
         }
       ],
       "parentId": null
@@ -924,7 +924,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-24",
+      "lastSeen": "2026-07-26",
       "active": true,
       "entries": [
         {
@@ -1161,6 +1161,11 @@
           "date": "2026-07-24",
           "edition": "evening",
           "update": "At least six people were killed — four Palestinians and two Israelis — after approximately 20 Israeli settlers raided the village of Tell near Nablus in the occupied West Bank, with conflicting accounts from Palestinian witnesses and the Israeli military. Satellite images reveal Israel is constructing a large earthen barrier dividing Gaza, as Israeli politicians push discussions around establishing settlements in the territory. The State Department demanded that UN humanitarian agency OCHA fully investigate and protect Gaza aid programs from suspected Hamas involvement."
+        },
+        {
+          "date": "2026-07-26",
+          "edition": "evening",
+          "update": "Iran's army warned the war could expand if U.S. strikes continue, while stating it has halted retaliatory operations in the Gulf ahead of Netanyahu's visit to Washington. Netanyahu warned in a Fox News interview that any direct or proxy Iranian attack on Israel would be a 'terrible mistake,' vowing a 'very, very forceful' response. Netanyahu also accused ICC prosecutor Karim Khan of using the arrest warrant against him as a 'political shield' to deflect from misconduct allegations against Khan."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1635,7 +1640,7 @@
         {
           "date": "2026-07-26",
           "edition": "evening",
-          "update": "Violence in the occupied West Bank intensified following a Friday gunfight that left four Palestinians and two Israeli soldiers dead, with Israeli crackdown operations and settler activity escalating in its aftermath. Israeli settlers torched two mosques in the occupied West Bank as Netanyahu threatened 'more broad action' in the territory. An Israeli airstrike on a vehicle in Gaza killed two Hamas security officials, including the head of internal security for Hamas in central Gaza, according to Al Jazeera. Netanyahu accused ICC prosecutor Karim Khan of using the arrest warrant issued against Netanyahu as a 'political shield' to deflect attention from misconduct allegations against Khan. According to an Israeli official cited by Reuters, Israel has agreed to allow an international force into Gaza."
+          "update": "Al Jazeera reported on Sumaya Yaghi returning to her destroyed home in southern Lebanon, describing the area as having gone from paradise to a 'pilot zone' disaster amid the conflict's destruction."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2320,7 +2325,7 @@
         {
           "date": "2026-07-26",
           "edition": "evening",
-          "update": "U.S. Ambassador to the UN Mike Waltz appeared on NBC's 'Meet the Press' to deny that weapons depletion is negatively affecting the war effort, asserting the military has 'everything that it needs' and blaming the Biden administration for depleted Pentagon munitions stockpiles. The NY Times reported Trump has held off on authorizing major military escalation, with advisers warning that expanded hostilities could dangerously drain already diminished air defense munitions stockpiles in the Middle East. Both the U.S. and Iran paused strikes for a second consecutive day Sunday, with an Iranian source telling Reuters that Iran will halt attacks as long as the U.S. maintains its pause, and Waltz confirming Trump paused attacks to create diplomatic space for ceasefire negotiations. Iran's army warned the war could expand if U.S. strikes resume, while separately vowing retaliation after Ukraine struck an Iranian commercial vessel in the Caspian Sea, killing at least one sailor — an attack Ukrainian President Zelensky confirmed, claiming 'very strong results.' The conflict broadened further as Houthi rebels attacked Saudi oil installations along the Red Sea coast, and Iran accused Ukraine of the Caspian vessel strike. Sen. Bill Cassidy called for a fuller national discussion and urged Trump to go to Congress for a path toward peace, while a CBS News poll found most Americans believe the conflict has proven harder than Trump anticipated and expect it to last months or years longer."
+          "update": "UN Ambassador Mike Waltz appeared on NBC's Meet the Press, asserting the U.S. military has 'everything that it needs' for operations against Iran and attributing depleted munitions stockpiles to the Biden administration. The NY Times reported Trump held off on authorizing a major escalation partly due to adviser concerns over dangerously diminished air defense stockpiles. Both the U.S. and Iran confirmed a pause in direct strikes for a second consecutive day on Sunday, with negotiations on an interim ceasefire continuing, according to NPR. Sen. Bill Cassidy called for a national discussion and urged Trump to go to Congress to find a path to peace, saying an early end to the war 'seems unlikely,' while Sen. John Kennedy stated on CBS he supports continuing the blockade. A CBS News poll found most Americans believe the conflict has proven harder than Trump anticipated, with respondents expecting it to last months or years longer. Anti-war protesters gathered outside a UK airbase demanding an end to U.S. use of the facility for strikes on Iran, while the conflict broadened as Iran accused Ukraine of targeting one of its vessels in the Caspian Sea."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3133,7 +3138,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-07-25",
+      "lastSeen": "2026-07-26",
       "active": true,
       "entries": [
         {
@@ -3255,6 +3260,11 @@
           "date": "2026-07-25",
           "edition": "evening",
           "update": "Iran's government publicly accused state broadcaster IRIB of censorship after portions of President Pezeshkian's speech were not aired, with IRIB rejecting what it called 'improper attributions,' as mediators continued pushing for Iran-U.S. talks."
+        },
+        {
+          "date": "2026-07-26",
+          "edition": "evening",
+          "update": "U.S. Ambassador to the UN Waltz stated Trump is giving Iran nuclear talks 'a little bit of room,' signaling a continued diplomatic window, according to Reuters. An Iranian source told Reuters that Iran will halt attacks as long as the U.S. maintains its pause, following reports that Trump called off planned strikes."
         }
       ]
     },
@@ -3409,7 +3419,7 @@
         {
           "date": "2026-07-26",
           "edition": "evening",
-          "update": "Cuban President Miguel Díaz-Canel accused the United States of committing 'political genocide' against Cuba in remarks delivered on the anniversary of the Cuban revolution, according to Reuters."
+          "update": "Cuban President Miguel Díaz-Canel accused the United States of committing 'political genocide' against Cuba in remarks made on the anniversary of the Cuban revolution, according to Reuters."
         }
       ]
     },
@@ -3473,7 +3483,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-07-25",
+      "lastSeen": "2026-07-26",
       "active": true,
       "entries": [
         {
@@ -3495,6 +3505,11 @@
           "date": "2026-07-25",
           "edition": "evening",
           "update": "Kazakh President Kassym-Jomart Tokayev, speaking alongside Russian President Vladimir Putin, called for a freeze of the war in Ukraine, according to Reuters."
+        },
+        {
+          "date": "2026-07-26",
+          "edition": "evening",
+          "update": "The Kremlin stated it is too early to comment on reported U.S.-Ukraine negotiations regarding an air ceasefire, according to Reuters."
         }
       ]
     },
@@ -4018,7 +4033,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-24",
+      "lastSeen": "2026-07-26",
       "active": true,
       "entries": [
         {
@@ -4045,6 +4060,11 @@
           "date": "2026-07-24",
           "edition": "morning",
           "update": "The U.S. military is building up forces in the Middle East as Trump warns Iran will be held accountable for Houthi attacks, while Saudi Arabia has not yet responded to Trump's condition that it join the Abraham Accords to finalize a U.S.-Saudi nuclear deal."
+        },
+        {
+          "date": "2026-07-26",
+          "edition": "evening",
+          "update": "Israeli settlers torched two mosques in the occupied West Bank as Netanyahu threatened 'more broad action' in the territory. Violence in the West Bank intensified following a gunfight that left four Palestinians and two Israeli soldiers dead, with Israeli forces conducting a subsequent crackdown. An Israeli airstrike on a vehicle in Gaza killed two Hamas security officials, including the head of internal security for Hamas in central Gaza. Syrian President Ahmed al-Sharaa told Al Jazeera that Damascus is seeking a security deal with Israel, while also warning of potential chaos in Lebanon. An Israeli official stated that Israel will allow an international force into Gaza, according to Reuters."
         }
       ]
     },
@@ -4069,10 +4089,10 @@
         {
           "date": "2026-07-26",
           "edition": "evening",
-          "update": "Sen. Chris Van Hollen accused Trump of a 'bait and switch' with Saudi Arabia, claiming Trump changed the terms of the nuclear deal to link it to normalization of Saudi-Israeli relations. Netanyahu stated a Saudi nuclear bomb is 'the last thing we want,' while praising Trump for conditioning any Saudi nuclear program on Riyadh normalizing relations with Israel."
+          "update": "Sen. Chris Van Hollen accused Trump of a 'bait and switch' with Saudi Arabia, claiming Trump retroactively linked the nuclear deal to Saudi normalization with Israel. Netanyahu stated a Saudi nuclear bomb is the 'last thing we want,' while praising Trump for conditioning any Saudi nuclear program on Riyadh normalizing relations with Israel."
         }
       ]
     }
   ],
-  "updatedAt": "2026-07-26T21:05:38.618Z"
+  "updatedAt": "2026-07-26T21:06:14.927Z"
 }
