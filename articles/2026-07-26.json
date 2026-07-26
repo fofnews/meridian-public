@@ -635,5 +635,58 @@
       "trump administration"
     ],
     "collectedAt": "2026-07-26T09:15:01.595Z"
+  },
+  {
+    "title": "Romania Says F-16 Downed Drone in NATO Airspace",
+    "description": "NATO members along the eastern flank, close to Ukraine or Russia, have repeatedly reported drone incursions into their airspace.",
+    "link": "https://www.newsweek.com/romania-says-f-16-downed-drone-in-nato-airspace-12245584",
+    "pubDate": "Sun, 26 Jul 2026 05:28:12 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-26T09:30:01.360Z"
+  },
+  {
+    "title": "The Cockroach Effect: Modi vs India’s Gen Z",
+    "description": "Protests by India's Cockroach Janta Party suggest the young generation is becoming harder to intimidate and to silence.",
+    "link": "https://www.aljazeera.com/video/the-listening-post/2026/7/26/the-cockroach-effect-modi-vs-indias-gen-z?traffic_source=rss",
+    "pubDate": "Sun, 26 Jul 2026 09:08:52 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "tv shows"
+    ],
+    "collectedAt": "2026-07-26T09:30:01.360Z"
+  },
+  {
+    "title": "Thousands rally against Tunisia’s president five years after power grab",
+    "description": "Thousands marched in Tunisia’s capital to demand the resignation of President Kais Saied.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/thousands-rally-against-tunisias-president-five-years-after-power-grab?traffic_source=rss",
+    "pubDate": "Sun, 26 Jul 2026 08:55:46 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-26T09:30:01.360Z"
+  },
+  {
+    "title": "Becoming the story: Injured journalists battle to leave Gaza for treatment",
+    "description": "Gaza journalists injured or battling illness during the war are demanding urgent medical evacuation abroad.",
+    "link": "https://www.aljazeera.com/features/2026/7/26/becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatment?traffic_source=rss",
+    "pubDate": "Sun, 26 Jul 2026 08:55:10 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-26T09:30:01.360Z"
+  },
+  {
+    "title": "Israel debate boils over in the United States",
+    "description": "How far have US politics - and media - really shifted on the topic of Israel?",
+    "link": "https://www.aljazeera.com/video/the-listening-post/2026/7/26/israel-debate-boils-over-in-the-united-states?traffic_source=rss",
+    "pubDate": "Sun, 26 Jul 2026 08:53:39 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "tv shows"
+    ],
+    "collectedAt": "2026-07-26T09:30:01.360Z"
   }
 ]
