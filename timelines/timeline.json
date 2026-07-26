@@ -290,7 +290,7 @@
         {
           "date": "2026-07-26",
           "edition": "morning",
-          "update": "The NY Times identified Karyna Shuliak, 37, as Jeffrey Epstein's girlfriend and a likely major inheritor of his estate, noting she has sought to avoid public attention since his death. The Times also published a summary of key findings characterizing Epstein as a sexual predator whose secrets triggered an international reckoning involving money, power, and complicity."
+          "update": "The NY Times identified Karyna Shuliak, 37, as Jeffrey Epstein's girlfriend and likely primary heir to his estate, noting she has sought to avoid public attention since his death. The Times also published a summary of key findings on Epstein's case and its international dimensions involving money, power, and complicity among prominent figures."
         }
       ],
       "parentId": null
@@ -765,7 +765,7 @@
         {
           "date": "2026-07-26",
           "edition": "morning",
-          "update": "Ukraine struck a logistics hub belonging to Wildberries, described as 'Russia's Amazon,' in what is reported as the 7th attack on the chain suspected of supplying Moscow's military; videos showed employees fleeing and vehicles catching fire in the parking lot."
+          "update": "Ukraine struck a Wildberries logistics hub in Russia, described as the seventh attack on the e-commerce chain suspected of supplying Moscow's military, setting vehicles ablaze and prompting employee evacuations."
         }
       ],
       "parentId": null
@@ -1625,7 +1625,7 @@
         {
           "date": "2026-07-26",
           "edition": "morning",
-          "update": "Israeli forces fired tear gas at Palestinians and journalists in Tal, near Nablus, the day after a deadly shootout there. Israeli settlers set fire to Al-Rahma Mosque in Qusra, near Nablus, while Israeli forces simultaneously arrested dozens of Palestinians in the area. An Israeli drone strike near Al-Aqsa hospital in Gaza killed at least one Palestinian and injured several others. The EU remains divided over whether to bar imports from Israeli settlements, reflecting broader disagreement among member states on how to confront Israel. Some Lebanese civilians displaced by Israel's invasion have begun purchasing satellite imagery to remotely check whether their homes survived, as they remain unable to return."
+          "update": "Israeli forces fired tear gas at Palestinians and journalists in Tal following a deadly shootout in Nablus, and Israeli settlers set fire to Al-Rahma Mosque in Qusra, near Nablus, while Israeli forces simultaneously arrested dozens of Palestinians in the area. An Israeli drone strike killed at least one Palestinian and injured several others near Al-Aqsa hospital in Gaza. The EU remains divided over whether to bar imports from Israeli settlements in occupied territories, reflecting a broader split among member states. Some Lebanese displaced by Israel's invasion of southern Lebanon have begun purchasing satellite images to remotely assess whether their homes are still standing."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2305,7 +2305,7 @@
         {
           "date": "2026-07-26",
           "edition": "morning",
-          "update": "U.S.-Iran hostilities paused for a second consecutive night, with Trump holding off on a major escalation after advisers warned that expanded strikes could dangerously drain already diminished air defense interceptor stockpiles in the region. Houthi rebels launched missile and drone attacks on Saudi Arabia, reportedly in retaliation for Saudi strikes on a Yemeni coastal city, opening what NBC News describes as a new warfront. UK Defence Secretary Wes Streeting warned Britain stands ready to respond to any Iranian attacks, dismissing Tehran's threats as 'sabre-rattling.' The NY Times reported Trump appears increasingly frustrated and constrained in his options despite U.S. military capabilities."
+          "update": "U.S.-Iran fighting paused for a second consecutive day, with Trump delaying escalation plans partly due to dwindling interceptor missile stockpiles, according to American officials cited by the NY Times, which also described Trump as 'frustrated and erratic' and constrained in his options despite commanding significant military power. The U.S. military released footage showing forces boarding and disabling a tanker accused of breaking the Iran blockade. UK Defence Secretary Wes Streeting warned Britain stands ready to respond to any Iranian attacks, dismissing Iranian actions as 'sabre-rattling.' Houthi rebels launched missiles and drone attacks on Saudi Arabia in apparent retaliation for Saudi strikes on a Yemeni coastal city, opening a new front in the conflict."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3669,7 +3669,7 @@
         {
           "date": "2026-07-26",
           "edition": "morning",
-          "update": "Houthi forces claimed responsibility for targeting Saudi Aramco oil facilities along the Red Sea coast, according to Al Jazeera. The U.S. military released footage it says shows forces boarding and disabling a tanker accused of breaking the Iran blockade."
+          "update": "Houthi forces claimed to have targeted Saudi Aramco oil facilities along the Red Sea, with Saudi Arabia and Houthi rebels exchanging fire in what NBC News describes as a new warfront in the Middle East."
         }
       ]
     },
@@ -3894,7 +3894,7 @@
         {
           "date": "2026-07-26",
           "edition": "morning",
-          "update": "Officials described the Bundibugyo strain Ebola outbreak in eastern Congo as disrupting activity along a busy border crossing, with the virus first identified in Bundibugyo, Uganda in 2007."
+          "update": "A report highlighted that the Bundibugyo Ebola strain now driving the eastern Congo outbreak is disrupting life along a busy border crossing roughly 20 years after the species was first identified in Bundibugyo, Uganda in 2007."
         }
       ]
     },
@@ -3993,7 +3993,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-26",
+      "lastSeen": "2026-07-24",
       "active": true,
       "entries": [
         {
@@ -4020,11 +4020,6 @@
           "date": "2026-07-24",
           "edition": "morning",
           "update": "The U.S. military is building up forces in the Middle East as Trump warns Iran will be held accountable for Houthi attacks, while Saudi Arabia has not yet responded to Trump's condition that it join the Abraham Accords to finalize a U.S.-Saudi nuclear deal."
-        },
-        {
-          "date": "2026-07-26",
-          "edition": "morning",
-          "update": "Saudi Arabia and Iran-backed Houthi rebels exchanged fire, with NBC News describing the development as a new warfront in the Middle East, emerging on a night when no new U.S.-Iran strikes were reported."
         }
       ]
     },
@@ -4044,10 +4039,10 @@
         {
           "date": "2026-07-26",
           "edition": "morning",
-          "update": "Democrats warned the U.S.-Saudi nuclear deal risks triggering a Middle East arms race, while Republicans defended it as necessary for building a regional alliance. The NY Times reported that Trump family members and political supporters have overlapping business ties that could position them for financial gains from Trump's broader nuclear energy agenda, which includes the Saudi deal."
+          "update": "Democrats raised concerns that the U.S.-Saudi nuclear deal could trigger a Middle East arms race, while Republican lawmakers defended the agreement as a necessary regional alliance. The NY Times reported that Trump's family and close supporters may be positioned to benefit from his broader nuclear energy agenda through overlapping business ties."
         }
       ]
     }
   ],
-  "updatedAt": "2026-07-26T11:05:40.524Z"
+  "updatedAt": "2026-07-26T11:05:47.712Z"
 }
