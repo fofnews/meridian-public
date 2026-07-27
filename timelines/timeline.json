@@ -776,6 +776,11 @@
           "date": "2026-07-27",
           "edition": "morning",
           "update": "A Ukrainian drone strike on the Russian border city of Belgorod wounded 12 people, according to local authorities. Russia and Ukraine exchanged strikes, with Kyiv reporting six killed — including a child at a supermarket in Chernihiv — while Moscow reported four killed in Ukrainian strikes. Ukraine is also seeking a prototype of a European missile defence system by mid-2027, according to a Ukrainian official cited by Reuters."
+        },
+        {
+          "date": "2026-07-27",
+          "edition": "evening",
+          "update": "Trump told reporters aboard Air Force One he would ask Putin about Zelensky's claim that Russia is sharing satellite imagery of U.S. military bases in the Middle East with Iran. Newsmax reported Russia is moving toward broader mobilization and escalation following Russian State Duma elections."
         }
       ],
       "parentId": null
@@ -2341,6 +2346,11 @@
           "date": "2026-07-27",
           "edition": "morning",
           "update": "Oil prices fell sharply and U.S. stock-index futures rallied on Monday as the two-day pause in U.S.-Iran strikes raised hopes of a diplomatic resolution. Oman-mediated talks on reopening the Strait of Hormuz made progress, with the U.S. halting strikes for a second consecutive night as a result, per CBS News sources. The Pentagon further revised its casualty reporting, separating figures across two web pages in a move the NY Times noted could make it harder to tally the full toll, while ABC News reported 18 service members killed and more than 600 wounded since the war began — figures at odds with earlier official counts. Iranian Supreme Leader Khamenei conditioned any potential U.S.-Iran peace deal on an end to Israeli military operations in Lebanon. Republican senators warned that confidence in Defense Secretary Pete Hegseth is eroding, and Sen. John Kennedy stated Trump favors resuming daily strikes rather than pausing for negotiations. A CBS News/YouGov poll found 63% of Americans believe the war is going badly for the U.S., 65% disapprove of Trump's handling of the economy, and nearly 80% say the administration has faced more difficulty than expected — as the conflict approaches the five-month mark. Asian nations accelerated efforts to reduce reliance on imported fuels amid supply disruptions caused by the war, and CENTCOM's chief reportedly urged a halt to strikes, according to Newsmax."
+        },
+        {
+          "date": "2026-07-27",
+          "edition": "evening",
+          "update": "The U.S.-Iran conflict entered its sixth month amid the ongoing pause in strikes, with a CBS News poll finding more than two-thirds of Americans believe the Trump administration should end the war and a majority disapproving of the conflict. Oil prices fell nearly 10% on Monday, with Brent Crude dropping below $91 per barrel and WTI falling to around $84, after prices had surpassed $100 per barrel on Friday. The Wall Street Journal reported analysts attributed the weekend ceasefire in part to pressure from rising bond yields and falling stock prices. Israeli Prime Minister Netanyahu stated Iran was the top agenda item in his upcoming meeting with Trump. Rep. Tom Barrett (R-MI) broke with Trump's position on Iran, and the U.S. and Iran began directly exchanging diplomatic messages."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3285,6 +3295,11 @@
           "date": "2026-07-27",
           "edition": "morning",
           "update": "A new diplomatic push launched Sunday following the weekend pause in fighting, with NBC News reporting active efforts to potentially end the war. The U.S. Ambassador confirmed Trump paused strikes specifically to create space for diplomatic talks, with neither side launching attacks over two consecutive nights. The two-day halt was directly linked to progress in Oman-mediated negotiations, according to CBS News sources, amid growing U.S. concerns over depleted munitions stockpiles."
+        },
+        {
+          "date": "2026-07-27",
+          "edition": "evening",
+          "update": "Iranian Foreign Ministry Spokesperson Esmaeil Baghaei stated that Iran is not currently seeking negotiations with the United States, contradicting signals from the ongoing Oman-mediated diplomatic process."
         }
       ]
     },
@@ -3735,6 +3750,11 @@
           "date": "2026-07-27",
           "edition": "morning",
           "update": "Iran-backed Houthi forces exploited a period of Saudi reluctance toward military engagement to pressure Riyadh for political concessions in Yemen, according to the NY Times."
+        },
+        {
+          "date": "2026-07-27",
+          "edition": "evening",
+          "update": "Iran claimed Monday it controls the Strait of Hormuz and forced back six ships attempting to pass without clearance, according to Iranian state media. Saudi Arabia announced it destroyed drones launched by Iran-backed militias in Iraq, which Riyadh blamed for escalating strikes on the kingdom from both Iraq and Yemen."
         }
       ]
     },
@@ -4129,5 +4149,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-27T11:06:15.918Z"
+  "updatedAt": "2026-07-27T21:08:29.407Z"
 }
