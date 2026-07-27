@@ -419,7 +419,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-26",
+      "lastSeen": "2026-07-27",
       "active": true,
       "entries": [
         {
@@ -771,6 +771,11 @@
           "date": "2026-07-26",
           "edition": "evening",
           "update": "Laura Loomer publicly reversed her position on the Ukraine war after visiting the country, stating she had been wrong about U.S. military aid to Ukraine. Iran vowed revenge following the Ukrainian drone attack on an Iranian commercial vessel in the Caspian Sea that killed at least one sailor, with Iran's Foreign Minister warning the attack 'cannot go unanswered'; Ukrainian President Zelensky confirmed the strikes, saying Ukraine had achieved 'very strong results.'"
+        },
+        {
+          "date": "2026-07-27",
+          "edition": "morning",
+          "update": "A Ukrainian drone attack wounded 12 people in the Russian border city of Belgorod. In a broader exchange of strikes, Kyiv reported six killed including a child at a supermarket in Chernihiv, while Moscow reported four killed in Ukrainian strikes, for a combined toll of at least 10."
         }
       ],
       "parentId": null
@@ -1304,7 +1309,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-26",
+      "lastSeen": "2026-07-27",
       "active": true,
       "entries": [
         {
@@ -1641,6 +1646,11 @@
           "date": "2026-07-26",
           "edition": "evening",
           "update": "Al Jazeera reported on Sumaya Yaghi returning to her destroyed home in southern Lebanon, describing the area as having gone from paradise to a 'pilot zone' disaster amid the conflict's destruction."
+        },
+        {
+          "date": "2026-07-27",
+          "edition": "morning",
+          "update": "Lebanon's army accused Israel of bulldozing homes and blocking its efforts to escort displaced residents back to designated pilot zones, as civilians returned to find widespread destruction."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1649,7 +1659,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-26",
+      "lastSeen": "2026-07-27",
       "active": true,
       "entries": [
         {
@@ -2326,6 +2336,11 @@
           "date": "2026-07-26",
           "edition": "evening",
           "update": "UN Ambassador Mike Waltz appeared on NBC's Meet the Press, asserting the U.S. military has 'everything that it needs' for operations against Iran and attributing depleted munitions stockpiles to the Biden administration. The NY Times reported Trump held off on authorizing a major escalation partly due to adviser concerns over dangerously diminished air defense stockpiles. Both the U.S. and Iran confirmed a pause in direct strikes for a second consecutive day on Sunday, with negotiations on an interim ceasefire continuing, according to NPR. Sen. Bill Cassidy called for a national discussion and urged Trump to go to Congress to find a path to peace, saying an early end to the war 'seems unlikely,' while Sen. John Kennedy stated on CBS he supports continuing the blockade. A CBS News poll found most Americans believe the conflict has proven harder than Trump anticipated, with respondents expecting it to last months or years longer. Anti-war protesters gathered outside a UK airbase demanding an end to U.S. use of the facility for strikes on Iran, while the conflict broadened as Iran accused Ukraine of targeting one of its vessels in the Caspian Sea."
+        },
+        {
+          "date": "2026-07-27",
+          "edition": "morning",
+          "update": "Oil prices fell and Wall Street futures rose Monday as markets responded to the second consecutive day of no U.S.-Iran strikes. The U.S. Ambassador confirmed Trump paused attacks to create diplomatic space, with CBS News sources linking the pause directly to progress in Oman-mediated talks on reopening the Strait of Hormuz. Iran halted its retaliatory strikes in parallel, according to Al Jazeera. The Pentagon further revised its casualty reporting by splitting figures across two separate web pages, with ABC News citing 18 killed and over 600 wounded — a move the NY Times said could obscure the conflict's full toll; four deaths were recategorized under 'Overseas Operations Casualties.' Iranian Supreme Leader Khamenei conditioned any U.S.-Iran peace deal on an end to Israeli military operations in Lebanon. Republican senators warned confidence in Defense Secretary Hegseth is eroding, while Sen. John Kennedy publicly stated Trump favors conducting daily strikes and urged against pausing to allow negotiations. CENTCOM's chief reportedly urged a halt to strikes, and a CBS News poll found 63% of Americans believe the war is going badly, with 65% disapproving of Trump's handling of the economy."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3115,7 +3130,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-26",
+      "lastSeen": "2026-07-27",
       "active": true
     },
     {
@@ -3138,7 +3153,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-07-26",
+      "lastSeen": "2026-07-27",
       "active": true,
       "entries": [
         {
@@ -3265,6 +3280,11 @@
           "date": "2026-07-26",
           "edition": "evening",
           "update": "U.S. Ambassador to the UN Waltz stated Trump is giving Iran nuclear talks 'a little bit of room,' signaling a continued diplomatic window, according to Reuters. An Iranian source told Reuters that Iran will halt attacks as long as the U.S. maintains its pause, following reports that Trump called off planned strikes."
+        },
+        {
+          "date": "2026-07-27",
+          "edition": "morning",
+          "update": "A new diplomatic push began Sunday to potentially end the war with Iran, following the weekend pause in fighting, according to NBC News."
         }
       ]
     },
@@ -3518,7 +3538,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-07-26",
+      "lastSeen": "2026-07-27",
       "active": true,
       "entries": [
         {
@@ -3710,6 +3730,11 @@
           "date": "2026-07-26",
           "edition": "evening",
           "update": "Talks between Oman and Iran on reopening the Strait of Hormuz and their respective territorial waterways have made progress, according to two sources cited by CBS News."
+        },
+        {
+          "date": "2026-07-27",
+          "edition": "morning",
+          "update": "The NY Times reported that Iran-backed Houthi forces exploited a period of Saudi vulnerability to pressure the kingdom into a new conflict in Yemen, seeking to extract political concessions."
         }
       ]
     },
@@ -3788,7 +3813,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-07-26",
+      "lastSeen": "2026-07-27",
       "active": true,
       "entries": [
         {
@@ -3935,6 +3960,11 @@
           "date": "2026-07-26",
           "edition": "morning",
           "update": "A report highlighted that the Bundibugyo Ebola strain now driving the eastern Congo outbreak is disrupting life along a busy border crossing roughly 20 years after the species was first identified in Bundibugyo, Uganda in 2007."
+        },
+        {
+          "date": "2026-07-27",
+          "edition": "morning",
+          "update": "Ebola infections in the Democratic Republic of Congo surged to approximately 3,200 cases with 1,405 deaths — an increase of roughly 1,000 cases in just 10 days — with the outbreak now spanning five provinces, according to Al Jazeera."
         }
       ]
     },
@@ -4033,7 +4063,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-26",
+      "lastSeen": "2026-07-27",
       "active": true,
       "entries": [
         {
@@ -4065,6 +4095,11 @@
           "date": "2026-07-26",
           "edition": "evening",
           "update": "Israeli settlers torched two mosques in the occupied West Bank as Netanyahu threatened 'more broad action' in the territory. Violence in the West Bank intensified following a gunfight that left four Palestinians and two Israeli soldiers dead, with Israeli forces conducting a subsequent crackdown. An Israeli airstrike on a vehicle in Gaza killed two Hamas security officials, including the head of internal security for Hamas in central Gaza. Syrian President Ahmed al-Sharaa told Al Jazeera that Damascus is seeking a security deal with Israel, while also warning of potential chaos in Lebanon. An Israeli official stated that Israel will allow an international force into Gaza, according to Reuters."
+        },
+        {
+          "date": "2026-07-27",
+          "edition": "morning",
+          "update": "Israel's government formally approved the concept of an international stabilisation force for Gaza, to be staffed by friendly countries and operating outside Israeli military control; Palestinians cautiously welcomed the development. Hamas named Khalil al-Hayya as its new political chief, with analysts describing the appointment as signaling institutional continuity. Netanyahu accused New York City Mayor Zohran Mamdani of fomenting hate after Mamdani threatened to arrest him on an ICC warrant, a threat Mamdani later walked back. Netanyahu is scheduled to meet President Trump in Washington on Tuesday, with Iran expected to be the central topic ahead of upcoming Israeli elections."
         }
       ]
     },
@@ -4094,5 +4129,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-26T21:06:14.927Z"
+  "updatedAt": "2026-07-27T11:06:13.102Z"
 }
