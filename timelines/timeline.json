@@ -786,6 +786,11 @@
           "date": "2026-07-28",
           "edition": "morning",
           "update": "Ukrainian President Zelensky is set to meet President Trump at the White House, according to the NY Times, and will also attend the funeral of Senator Lindsey Graham in Washington. Zelensky is additionally scheduled to meet with U.S. senators as the Senate prepares to vote on Russian sanctions. Separately, Zelensky met with Britain's new leader to discuss drone projects and missile defense systems for Kyiv."
+        },
+        {
+          "date": "2026-07-28",
+          "edition": "evening",
+          "update": "Moscow issued a threat after Romania intercepted a series of Russian drones, following repeated drone incursions near the Danube River as Russia bombards Ukrainian ports in the area. NATO's top transformation commander warned that the West cannot produce enough Patriot missiles to meet demand and stated the alliance's entire weapons industrial base needs to be redesigned, saying 'the math is not in favor of the West.' South Africa's army chief visited Moscow and agreed to strengthen military ties between the two countries. Ukraine granted extensive access to Laura Loomer, a former critic of Ukraine, according to BBC News."
         }
       ],
       "parentId": null
@@ -1186,6 +1191,11 @@
           "date": "2026-07-28",
           "edition": "morning",
           "update": "Netanyahu's meeting with Trump marks their first encounter since the Iran war began, with both leaders facing domestic political pressures over the conflict."
+        },
+        {
+          "date": "2026-07-28",
+          "edition": "evening",
+          "update": "Netanyahu met with Trump at the White House and reportedly presented intelligence alleging Iran is expanding nuclear activity at its Pickaxe Mountain site; Trump also criticized Netanyahu over Israeli intelligence related to the site. A Reuters/Ipsos survey found only 33 percent of Americans approve of U.S. attacks on Iran, while 62 percent disapprove. Iran's Tasnim News Agency released a propaganda video titled 'Where to Kill Melania?!' targeting Melania Trump and Barron Trump, prompting the U.S. Secret Service to open a probe into the Iran-linked threat. Americans' confidence in the U.S. economy declined as gas prices rose again following escalation in the conflict."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1194,7 +1204,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-07-25",
+      "lastSeen": "2026-07-28",
       "active": true,
       "entries": [
         {
@@ -1316,6 +1326,11 @@
           "date": "2026-07-25",
           "edition": "morning",
           "update": "Iranian Foreign Minister Abbas Araghchi declared that Iran 'fears no one' and will not 'succumb to pressures,' in remarks reported by Al Jazeera signaling defiance against external threats."
+        },
+        {
+          "date": "2026-07-28",
+          "edition": "evening",
+          "update": "Reuters reports that Reza Pahlavi's bid to position himself as leader of Iran's opposition movement is faltering, with internal divisions and organizational challenges undermining his campaign for regime change."
         }
       ],
       "parentId": null
@@ -1324,7 +1339,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-27",
+      "lastSeen": "2026-07-28",
       "active": true,
       "entries": [
         {
@@ -1666,6 +1681,11 @@
           "date": "2026-07-27",
           "edition": "morning",
           "update": "Lebanon's army accused Israeli forces of bulldozing homes and obstructing military efforts to escort residents back to designated pilot zones, as Lebanese citizens returning to southern Lebanon found widespread destruction left by Israeli forces."
+        },
+        {
+          "date": "2026-07-28",
+          "edition": "evening",
+          "update": "Settler attacks in the occupied West Bank have reached record highs, according to Al Jazeera, with Israeli settlers burning homes and a mosque in at-Tuwani; Palestinian residents stated the attacks are part of a broader campaign to displace them. A pregnant Palestinian woman lost her baby after being stopped at an Israeli checkpoint, adding to documented cases of checkpoint-related medical emergencies. An Israeli soldier filmed himself running a marathon around a military outpost in Gaza, with the footage reported by Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1674,7 +1694,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-27",
+      "lastSeen": "2026-07-28",
       "active": true,
       "entries": [
         {
@@ -2361,6 +2381,11 @@
           "date": "2026-07-27",
           "edition": "evening",
           "update": "The U.S.-Iran conflict entered its sixth month, with both sides assessing their next moves amid continued uncertainty over the diplomatic pause, according to the NY Times."
+        },
+        {
+          "date": "2026-07-28",
+          "edition": "evening",
+          "update": "Sen. Elizabeth Warren condemned the Pentagon's revision of the U.S. service member death toll as 'an act of cruelty,' arguing the move attempts to 'control reality' and harms affected families. Trump described talks with Iran as 'good' while reiterating threats to strike Iranian targets, and separately threatened to 'take out' Pickaxe Mountain if Iran does not reach a deal. Trump administration officials stated Iran is increasingly desperate for cash as U.S. sanctions continue to take effect. Ukraine struck an Iranian ship in the Caspian Sea, marking an unusually direct military encounter between the two countries."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3315,6 +3340,11 @@
           "date": "2026-07-28",
           "edition": "morning",
           "update": "For a third consecutive day, the U.S. and Iran held fire as Qatari and Pakistani mediators worked to restart ceasefire talks. Trump publicly confirmed talks with Iran are taking place during the strike pause, while Iran denied that direct talks are occurring, with CBS News reporting indirect conversations are ongoing. Trump threatened to resume military strikes if diplomatic talks fail. Iranian leaders showed no urgency to resume ceasefire talks, with analysts noting Iran is betting it can outlast U.S. pressure and leverage its control over the Strait of Hormuz. Netanyahu arrived in Washington for talks with Trump, as Iran described the U.S. as 'struggling' to end the five-month-old war. Oil prices fell a further approximately 1% as investors assessed the ongoing strike pause."
+        },
+        {
+          "date": "2026-07-28",
+          "edition": "evening",
+          "update": "Trump stated there is a 'good chance' of progress in talks with Iran, as negotiators work to resolve a deadlock over transit fees and management of the Strait of Hormuz. Oil prices fell further as Brent crude and WTI front-month contracts declined after Trump claimed 'deep talks' are underway with Iran. Analysts cited by Al Jazeera said Iran's economy has continued to absorb economic shockwaves despite ongoing U.S. sanctions pressure."
         }
       ]
     },
@@ -3533,7 +3563,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-07-26",
+      "lastSeen": "2026-07-28",
       "active": true,
       "entries": [
         {
@@ -3560,6 +3590,11 @@
           "date": "2026-07-26",
           "edition": "evening",
           "update": "The Kremlin stated it is too early to comment on reported U.S.-Ukraine negotiations regarding an air ceasefire, according to Reuters."
+        },
+        {
+          "date": "2026-07-28",
+          "edition": "evening",
+          "update": "Ukrainian negotiator Sergiy Kyslytsya told NPR that Ukraine believes it has the leverage to force Russia into serious negotiations, stating 'we have the upper hand.'"
         }
       ]
     },
@@ -3775,6 +3810,11 @@
           "date": "2026-07-28",
           "edition": "morning",
           "update": "Iran's Foreign Minister held discussions with his Saudi Arabian and Omani counterparts regarding security in the Strait of Hormuz, according to Reuters."
+        },
+        {
+          "date": "2026-07-28",
+          "edition": "evening",
+          "update": "Houthi forces in Yemen are now threatening Saudi Arabia's alternative oil export route, which the kingdom turned to after attacks in the Strait of Hormuz disrupted its primary shipping lane, according to the NY Times."
         }
       ]
     },
@@ -4179,5 +4219,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-28T11:07:38.516Z"
+  "updatedAt": "2026-07-28T21:08:57.053Z"
 }
