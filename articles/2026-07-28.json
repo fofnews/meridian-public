@@ -7664,5 +7664,421 @@
     "source": "Newsmax",
     "categories": [],
     "collectedAt": "2026-07-28T17:30:02.484Z"
+  },
+  {
+    "title": "'Spider-Man: Brand New Day' swings into Hollywood for world premiere",
+    "description": "ABC News' Hanna Battah reports the buzziest stories of the day in \"GMA\" Pop News.",
+    "link": "https://abcnews.com/video/135156080/",
+    "pubDate": "Tue, 28 Jul 2026 13:10:52 -0400",
+    "source": "ABC News",
+    "categories": [
+      "gma"
+    ],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "The Texas Yogurt Shop Exonerations | Case by Case",
+    "description": "For decades, Maurice Pierce, Robert Springsteen, Michael Scott and Forrest Welborn lived under the shadow of the yogurt shop murders, a crime that left an indelible mark on Austin and forever changed the lives of the the families of the victims: Eliza Thomas, Amy Ayers, and sisters Jennifer and Sarah Harbison. All four men were ultimately declared innocent and later exonerated after investigators linked another man to the killings. After reporting on this case for more 30 years, \"48 Hours\" corre",
+    "link": "https://www.cbsnews.com/video/the-texas-yogurt-shop-exonerations-case-by-case/",
+    "pubDate": "Tue, 28 Jul 2026 13:37:06 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "What is the 52-week money challenge for savers?",
+    "description": "Want to grow your money in a safe and fun way? Here's how the 52-week money challenge can help you reach your goals.",
+    "link": "https://www.cbsnews.com/news/52-week-money-challenge-for-savers/",
+    "pubDate": "Tue, 28 Jul 2026 13:36:39 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "Funeral held for Sen. Lindsey Graham, with Trump giving eulogy",
+    "description": "President Trump is delivering the eulogy for friend and ally Sen. Lindsey Graham, who died unexpectedly just a short time after visiting Ukraine earlier this month.",
+    "link": "https://www.cbsnews.com/live-updates/lindsey-graham-funeral-trump-washington-dc/",
+    "pubDate": "Tue, 28 Jul 2026 13:31:40 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "Cyclospora Outbreak: What to Know About Symptoms and Food Safety",
+    "description": "The parasitic infections have reached unprecedented levels in the United States. Experts have tips on how to stay safe.",
+    "link": "https://www.nytimes.com/2026/07/15/well/eat/cyclospora-stomach-bug-what-to-know.html",
+    "pubDate": "Tue, 28 Jul 2026 17:28:01 +0000",
+    "source": "NY Times",
+    "categories": [
+      "food contamination and poisoning",
+      "cyclospora (parasite)",
+      "parasites",
+      "disease rates",
+      "content type: service",
+      "dehydration",
+      "diarrhea",
+      "united states",
+      "lettuce"
+    ],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "There’s a Way to Prevent Ovarian Cancer. Few Know About It.",
+    "description": "The vast majority of cases begin in the fallopian tubes — and removing them can reduce the risk by nearly 80 percent.",
+    "link": "https://www.nytimes.com/2026/07/28/health/ovarian-cancer-fallopian-tubes.html",
+    "pubDate": "Tue, 28 Jul 2026 13:13:29 +0000",
+    "source": "NY Times",
+    "categories": [
+      "ovarian cancer",
+      "johns hopkins hospital (baltimore, md)",
+      "cancer",
+      "surgery and surgeons"
+    ],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "Map Shows States Signing On to Trump Admin Plan to Host Nuclear Waste",
+    "description": "Five states would host nuclear waste as part of \"Nuclear Lifecycle Innovation Campuses\" under a new Trump administration plan.",
+    "link": "https://www.newsweek.com/map-shows-states-signing-on-to-trump-admin-plan-to-host-nuclear-waste-12254981",
+    "pubDate": "Tue, 28 Jul 2026 13:28:59 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "Tributes paid to Lindsey Graham at US Capitol ceremony",
+    "description": "Hundreds of officials gathered in the Capitol Rotunda to honour late Republican Senator Lindsey Graham.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/tributes-paid-to-lindsey-graham-at-us-capitol-ceremony?traffic_source=rss",
+    "pubDate": "Tue, 28 Jul 2026 17:24:04 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "War on Iran: Phase II: Day 17",
+    "description": "Political déjà vu as US President Donald Trump says negotiations with Iran are back on.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/war-on-iran-phase-ii-day-17?traffic_source=rss",
+    "pubDate": "Tue, 28 Jul 2026 17:15:20 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "tv news"
+    ],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "Ukraine’s Zelenskyy hails ‘good meeting’ with Trump at White House",
+    "description": "Discussions included joint production of Patriot missiles in Ukraine to bolster defence against Russian aerial attacks.",
+    "link": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-hails-good-meeting-with-trump-at-white-house?traffic_source=rss",
+    "pubDate": "Tue, 28 Jul 2026 17:12:56 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "Online scam centres fuelling human trafficking worldwide, warns UN agency",
+    "description": "IOM chief says victims from more than 80 countries are lured into scam centres through fake job offers on social media.",
+    "link": "https://www.aljazeera.com/news/2026/7/28/un-agency-warns-online-scam-centres-fuel-global-trafficking?traffic_source=rss",
+    "pubDate": "Tue, 28 Jul 2026 17:03:50 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "Rogers holds double-digit lead over El-Sayed, tied with Stevens in Michigan Senate poll",
+    "description": "Presumptive Republican nominee, former Rep. Mike Rogers (Mich.), comfortably leads progressive Abdul El-Sayed and is neck-in-neck with Rep. Haley Stevens (D-Mich.) in new polling just one week out from the Michigan Senate primary. A Michigan Education survey, which was conducted by The Glengariff Group and commissioned for Michigan Education Association and Business Leaders for Michigan, shows Rogers beating El-Sayed…",
+    "link": "https://thehill.com/homenews/campaign/5994700-rogers-el-sayed-stevens-michigan-senate-poll/",
+    "pubDate": "Tue, 28 Jul 2026 17:36:44 +0000",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "news",
+      "senate"
+    ],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "Study finds alarming level of microplastics in heart attack patients’ blood",
+    "description": "Researchers found plastic particles in many heart attack patients' blood, raising new questions about health risks.",
+    "link": "https://thehill.com/policy/healthcare/5994113-study-alarming-level-microplastics-heart-attack-patients/",
+    "pubDate": "Tue, 28 Jul 2026 17:34:12 +0000",
+    "source": "The Hill",
+    "categories": [
+      "energy & environment",
+      "healthcare",
+      "policy"
+    ],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "Former Olympian charged with Reflecting Pool vandalism sees grand jury ‘irregularities’",
+    "description": "A former Olympian who was charged for allegedly damaging the Lincoln Memorial Reflecting Pool is asking a judge to turn over the full grand jury record that led to his indictment, arguing there were “irregularities” during the closed-door proceedings. David Hearn, 67, pleaded not guilty after he was indicted earlier this month by a grand…",
+    "link": "https://thehill.com/regulation/court-battles/5994582-former-olympian-challenges-reflecting-pool-indictment/",
+    "pubDate": "Tue, 28 Jul 2026 17:24:38 +0000",
+    "source": "The Hill",
+    "categories": [
+      "court battles",
+      "news"
+    ],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "Trump administration threatens to cut funding over school districts’ transgender policies",
+    "description": "The U.S. Education Department is threatening to cut funding to two school districts in Maryland and Michigan over its policies surrounding protected information about students’ gender identity not being disclosed to parents. In a partnership with the U.S. Department of Justice (DOJ), the Education Department’s Student Privacy Policy Office (SPPO) announced it will be taking…",
+    "link": "https://thehill.com/homenews/5994576-ed-doj-threaten-funding-cuts/",
+    "pubDate": "Tue, 28 Jul 2026 17:23:24 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "news"
+    ],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "Five states could take nuclear waste under Trump administration initiative",
+    "description": "The Trump administration is eyeing five states that could accept nuclear waste, which has been a longtime issue with nuclear power.  The Energy Department said Tuesday that it signed memorandums of agreement with Utah, Tennessee, Oklahoma, Louisiana and Idaho to explore possible nuclear waste storage in these states.  Earlier this year, the Trump administration indicated that it…",
+    "link": "https://thehill.com/policy/energy-environment/5994672-doe-selects-five-nuclear-waste-states/",
+    "pubDate": "Tue, 28 Jul 2026 17:21:37 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "energy & environment",
+      "news",
+      "policy"
+    ],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "Tick Tock: SEC and Big Ten receive revised Protect College Sports Act as Senate vote timeline looms",
+    "description": "Revised Protect College Sports Act language was sent to SEC and Big Ten for opinion after weeks of work from Ted Cruz, Maria Cantwell and other leaders.",
+    "link": "https://www.foxnews.com/outkick-sports/tick-tock-sec-big-ten-receive-revised-protect-college-sports-act-senate-vote-timeline-looms",
+    "pubDate": "Tue, 28 Jul 2026 13:36:41 -0400",
+    "source": "Fox News",
+    "categories": [
+      "b124a4a3-0201-57d9-ac80-aa7935d9ee44",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/person/ted-cruz",
+      "fox-news/sports/ncaa",
+      "fox-news/sports/ncaa-fb",
+      "fox-news/politics/finance/sec",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "Millions could gain easier access to popular peptides after FDA panel vote",
+    "description": "An FDA panel voted to recommend six peptides including BPC-157, TB-500, and KPV for compounding by licensed pharmacies instead of grey market vendors.",
+    "link": "https://www.foxnews.com/health/millions-gain-easier-access-popular-peptides-after-fda-panel-vote",
+    "pubDate": "Tue, 28 Jul 2026 13:28:25 -0400",
+    "source": "Fox News",
+    "categories": [
+      "ed75663a-5eab-5c00-a8e8-aad691959294",
+      "fnc",
+      "fox news",
+      "fox-news/health",
+      "fox-news/us/crime/drugs",
+      "fox-news/health/healthy-living/medications",
+      "fox-news/politics/regulation/health-care",
+      "fox-news/health/medical-research",
+      "fox-news/lifestyle",
+      "fox-news/health",
+      "article"
+    ],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "IndyCar unveils new car coming in 2028 to replace current generation after 15-year-run",
+    "description": "The IR-28 chassis brings a lighter design, twin-turbo V6 engines, and enhanced hybrid powertrain to IndyCar after 15 years with the same car.",
+    "link": "https://www.foxnews.com/outkick-sports/indycar-unveils-new-car-coming-2028-replace-current-generation-after-15-year-run",
+    "pubDate": "Tue, 28 Jul 2026 13:28:00 -0400",
+    "source": "Fox News",
+    "categories": [
+      "ef1f9355-5bc4-538f-a202-5e922c794a2b",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/auto/attributes/racing",
+      "fox-news/auto/indycar",
+      "fox-news/auto/news",
+      "fox-news/sports",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "Steve Smith set for major ESPN role after Ryan Clark firing",
+    "description": "Ryan Clark's firing as part of ESPN's layoffs has created an opportunity for someone else to get more airtime.",
+    "link": "https://nypost.com/2026/07/28/sports/steve-smith-set-for-major-espn-role-after-ryan-clark-firing/",
+    "pubDate": "Tue, 28 Jul 2026 13:43:37 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "LIV Golf canceling $40 million team championship in latest blow to reeling league",
+    "description": "If you have tickets for an LIV Golf event anytime in the future, you may want to check the refund policy.",
+    "link": "https://nypost.com/2026/07/28/sports/liv-golf-canceling-40-million-team-championship-in-latest-blow-to-reeling-league/",
+    "pubDate": "Tue, 28 Jul 2026 13:43:01 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "Mets Triple-A manager Dick Scott takes leave after cancer surgery",
+    "description": "Now on a leave of absence, he will attempt to return to the team before the end of the season.",
+    "link": "https://nypost.com/2026/07/28/sports/mets-triple-a-manager-dick-scott-takes-leave-after-cancer-surgery/",
+    "pubDate": "Tue, 28 Jul 2026 13:41:26 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "We found Clinique’s cult-classic Black Honey lipstick for the lowest price of the year",
+    "description": "The iconic shade is a favorite for editors and A-listers alike.",
+    "link": "https://pagesix.com/2026/07/28/style/clinique-black-honey-lipstick-is-40-off-on-amazon-right-now/",
+    "pubDate": "Tue, 28 Jul 2026 13:40:48 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "Man accused of murdering suicidal woman in fetish killing sent pal chilling package before his arrest",
+    "description": "\"Dorkworfy point end goes into the other guy,\" reads a message on the blade of the 7-inch customized steel knife, an apparent reference to one of Hall's online usernames, \"Darkwolf,\" according to authorities.",
+    "link": "https://nypost.com/2026/07/28/us-news/man-accused-of-murdering-suicidal-woman-sent-pal-chilling-package-before-his-arrest/",
+    "pubDate": "Tue, 28 Jul 2026 13:40:47 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "Sarah Michelle Gellar doubles up on chic bikinis in the South of France",
+    "description": "She’s mixing and matching her swimwear in style.",
+    "link": "https://pagesix.com/2026/07/28/style/sarah-michelle-gellar-doubles-up-on-chic-bikinis-in-the-south-of-france/",
+    "pubDate": "Tue, 28 Jul 2026 13:40:42 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "Californians warned of deadly beach conditions with sneaker waves and rip currents",
+    "description": "NWS put out a warning of worsening conditions through the week with rising tides, sneaker waves and rip currents. Comes on the heels of Santa Cruz rescue.",
+    "link": "https://nypost.com/2026/07/28/us-news/californians-warned-of-deadly-beach-conditions-with-sneaker-waves-and-rip-currents/",
+    "pubDate": "Tue, 28 Jul 2026 13:38:33 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "Devin Booker, Irina Shayk spotted together as dating rumors swirl",
+    "description": "Phoenix Suns guard Devin Booker and Russian supermodel Irina Shayk are at the center of dating rumors after multiple sightings together in the Hamptons.",
+    "link": "https://nypost.com/2026/07/28/sports/devin-booker-irina-shayk-spotted-together-as-dating-rumors-swirl/",
+    "pubDate": "Tue, 28 Jul 2026 13:37:28 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "Long Island teen who killed ex in botched murder-suicide hired inmate to rob victim’s family",
+    "description": "“The court is now in an untenable position — I now have contradictory findings,” Judge Anthony Senft Jr. said.",
+    "link": "https://nypost.com/2026/07/28/us-news/long-island-teen-who-killed-ex-in-botched-murder-suicide-hired-inmate-to-rob-victims-family/",
+    "pubDate": "Tue, 28 Jul 2026 13:36:32 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "Secret advice Kamala Harris gave Gavin Newsom’s ex-lover after affair scandal broke",
+    "description": "Gov. Gavin Newsom’s former mistress revealed how another California political player, Kamala Harris, played a role.",
+    "link": "https://nypost.com/2026/07/28/us-news/advice-kamala-harris-gave-gavin-newsoms-ex-lover-amid-affair-scandal/",
+    "pubDate": "Tue, 28 Jul 2026 13:34:43 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "‘Broad Strokes’ review: A scary stroke at 30 becomes a hilarious off-Broadway show",
+    "description": "Catherine Cohen's new downtown solo show “Broad Strokes” at the Lucille Lortel theater is about the surrealness of a 30-year-old enduring a medical emergency most commonly afflicting people four decades her senior.",
+    "link": "https://nypost.com/2026/07/28/entertainment/broad-strokes-review-a-scary-stroke-at-30-becomes-a-hilarious-off-broadway-show/",
+    "pubDate": "Tue, 28 Jul 2026 13:34:31 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "Trump weighs in on miracle Santa Cruz beach rescue by ‘heroic’ lifeguard — and teases huge reward",
+    "description": "A 16-year-old lifeguard dove into the water and fought the powerful tide to reach the child and bring him back to shore at Seabright Beach.",
+    "link": "https://nypost.com/2026/07/28/us-news/trump-invites-lifeguard-boy-rescued-to-white-house/",
+    "pubDate": "Tue, 28 Jul 2026 13:34:14 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "FIFA boss Gianni Infantino’s $20 billion World Cup investor plan sparks UEFA furor",
+    "description": "FIFA President Gianni Infantino’s plan to create a $20 billion company running the World Cup with private investors including the Kushner family was announced Tuesday — and immediately attacked by European soccer body UEFA.",
+    "link": "https://nypost.com/2026/07/28/sports/gianni-infantinos-20-billion-world-cup-investor-plan-sparks-uefa-furor/",
+    "pubDate": "Tue, 28 Jul 2026 13:34:13 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "French navy fires live shots as Conservative MP crosses English Channel",
+    "description": "The French navy fired over a dozen shots near a vessel containing a conservative member of the United Kingdom‘s Parliament on Tuesday as he was being interviewed about small boat migrant crossings in the English Channel, the MP claimed. Chris Philp, the MP for the south London district of Croydon South and the U.K.’s shadow […]",
+    "link": "https://www.washingtonexaminer.com/news/world/4665919/french-navy-fires-live-shots-conservative-mp-chris-philp-english-channel/",
+    "pubDate": "Tue, 28 Jul 2026 17:41:48 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "world",
+      "france",
+      "immigration",
+      "navy",
+      "tories",
+      "united kingdom"
+    ],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "Anna Paulina Luna and Tim Burchett call for protection Jimothy, internet’s favorite raccoon",
+    "description": "Reps. Anna Paulina Luna (R-FL) and Tim Burchett (R-TN) are calling for the city of Seattle to protect Jimothy, an internet-famous raccoon. “We are requesting that your office ensure that Jimothy be enrolled in any and all relevant community carnivore monitoring initiatives,” the letter obtained by TMZ reads. The raccoon, named Jimothy, went viral this […]",
+    "link": "https://www.washingtonexaminer.com/news/entertainment/4666040/anna-paulina-luna-tim-burchett-jimothy-protection/",
+    "pubDate": "Tue, 28 Jul 2026 17:41:48 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "entertainment",
+      "animals",
+      "anna paulina luna",
+      "fish and wildlife",
+      "nature",
+      "seattle"
+    ],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
+  },
+  {
+    "title": "Trump DOJ settles with anti-abortion father Paul Vaughn over FBI raid",
+    "description": "The Justice Department has settled with Paul Vaughn, a Tennessee-based anti-abortion activist and father of 11, whose prosecution and FBI arrest under the Biden administration became a rallying point for conservatives who accused the federal government of weaponizing the Freedom of Access to Clinic Entrances Act. The Thomas More Society, which represented Vaughn, announced the […]",
+    "link": "https://www.washingtonexaminer.com/news/justice/4665869/trump-doj-settlement-anti-abortion-paul-vaughn-fbi-raid/",
+    "pubDate": "Tue, 28 Jul 2026 17:38:41 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "justice",
+      "abortion",
+      "biden administration",
+      "department of justice",
+      "fbi",
+      "religion",
+      "tennessee",
+      "trump administration"
+    ],
+    "collectedAt": "2026-07-28T17:45:01.505Z"
   }
 ]
