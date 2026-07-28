@@ -325,5 +325,54 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-07-28T06:45:01.873Z"
+  },
+  {
+    "title": "Who is Kristopher Karolkiewicz? Michigan Man Tied to Family Murder-Suicide",
+    "description": "Kristopher Karolkiewicz fatally shot his wife and their six children before taking his own life, authorities said.",
+    "link": "https://www.newsweek.com/who-is-kristopher-karolkiewicz-michigan-man-tied-to-family-murder-suicide-12252448",
+    "pubDate": "Tue, 28 Jul 2026 03:03:48 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-28T07:15:01.451Z"
+  },
+  {
+    "title": "Gunman fired at US consulate in Toronto, second time building was shot at this year",
+    "description": "The second shooting at the U.S. Consulate in Toronto this year triggered an hour-long police chase, although no arrest was made as officials continue to investigate.",
+    "link": "https://www.foxnews.com/world/gunman-fired-us-consulate-toronto-second-time-building-shot-year",
+    "pubDate": "Tue, 28 Jul 2026 02:53:37 -0400",
+    "source": "Fox News",
+    "categories": [
+      "739079a6-7402-5276-824d-1c562a764698",
+      "fnc",
+      "fox news",
+      "fox-news/travel/vacation-destinations/toronto",
+      "fox-news/world",
+      "fox-news/politics/house-of-representatives/foreign-affairs",
+      "fox-news/politics/executive/national-security",
+      "fox-news/us",
+      "fox-news/entertainment/genres/crime",
+      "fox-news/world/world-regions/canada",
+      "fox-news/world",
+      "article"
+    ],
+    "collectedAt": "2026-07-28T07:15:01.451Z"
+  },
+  {
+    "title": "Sherrill knew voter-roll bombshell was coming when she called Trump a liar, DOJ official says: ‘Shame on you’",
+    "description": "Harmeet Dhillon says Gov. Mikie Sherrill knew about New Jersey's voter roll bombshell before she accused Trump of lying about noncitizen voting.",
+    "link": "https://nypost.com/2026/07/28/us-news/new-jersey-gov-mikie-sherrill-knew-voter-roll-bombshell-was-coming-when-she-called-trump-a-liar-doj-official-says/",
+    "pubDate": "Tue, 28 Jul 2026 03:03:22 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-28T07:15:01.451Z"
+  },
+  {
+    "title": "Dear Abby: I don’t think my marriage will survive my dream road trip",
+    "description": "Dear Abby advises a retiree whose husband is making her dream road trip seem impossible and someone who feels like their family isn't acknowledging that they have cancer.",
+    "link": "https://nypost.com/2026/07/28/lifestyle/dear-abby-i-dont-think-my-marriage-will-survive-my-dream-road-trip/",
+    "pubDate": "Tue, 28 Jul 2026 03:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-28T07:15:01.451Z"
   }
 ]
