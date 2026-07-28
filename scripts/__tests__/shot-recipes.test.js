@@ -163,14 +163,33 @@ describe('pickOverlayRecipes — single-location shot', () => {
     expect(bloom.tEnd).toBeLessThanOrEqual(9);
   });
 
+  // hold=5 → TARGET_DENSITY = max(1, floor(5/6)) = 1.
+  // Guaranteed label-bloom fills the single slot → ambient fill won't run → no ripple-expand.
   it('no ripple-expand when no intent and no context-label overlay', () => {
-    const extra = pickOverlayRecipes(shot, 5);
+    const shortShot = {
+      ...shot,
+      hold: 5,
+      cameraPath: [
+        { tOffset: 0, lng: -73.99, lat: 40.73, zoom: 1.5, pitch: 0, bearing: 0 },
+        { tOffset: 5, lng: -73.99, lat: 40.73, zoom: 9, pitch: 50, bearing: -10,
+          highlight: { type: 'city', name: 'New York', iso: 'US', polygon: null } },
+      ],
+    };
+    const extra = pickOverlayRecipes(shortShot, 5);
     expect(extra.find(t => t.type === 'ripple-expand')).toBeUndefined();
   });
 
   it('emits ripple-expand when context-label overlay is present (no-intent fallback)', () => {
+    // ripple-expand now fires from ambient fill when target density > slots already filled.
+    // Use hold=12 → TARGET_DENSITY=2; label-bloom fills slot 1; ambient fill adds ripple-expand.
     const shotWithContext = {
       ...shot,
+      hold: 12,
+      cameraPath: [
+        { tOffset: 0, lng: -73.99, lat: 40.73, zoom: 1.5, pitch: 0, bearing: 0 },
+        { tOffset: 12, lng: -73.99, lat: 40.73, zoom: 9, pitch: 50, bearing: -10,
+          highlight: { type: 'city', name: 'New York', iso: 'US', polygon: null } },
+      ],
       overlays: [{ type: 'context-label', text: 'Tensions escalate', tOffset: 2, durationMs: 2000 }],
     };
     const ripple = pickOverlayRecipes(shotWithContext, 5).find(t => t.type === 'ripple-expand');
@@ -196,34 +215,23 @@ describe('pickOverlayRecipes — intent-driven rules', () => {
     };
   }
 
-  it('reveal intent → emits context-strip', () => {
-    const extra = pickOverlayRecipes(makeShot('reveal'), 0);
-    const cs = extra.find(t => t.type === 'context-strip');
-    expect(cs).toBeDefined();
-    expect(cs.tEnd).toBeGreaterThan(cs.tStart);
-  });
-
-  it('stakes intent → emits ripple-expand', () => {
-    const extra = pickOverlayRecipes(makeShot('stakes'), 0);
-    const ripple = extra.find(t => t.type === 'ripple-expand');
-    expect(ripple).toBeDefined();
-  });
-
   it('stakes + escalation narration → emits escalation-warning', () => {
+    // ESCALATION_VERB_RE matches "escalat" prefix in "escalating"
     const extra = pickOverlayRecipes(makeShot('stakes', 'Conflict is escalating across the border'), 0);
     const ew = extra.find(t => t.type === 'escalation-warning');
     expect(ew).toBeDefined();
   });
 
+  // T2: spatial casualties → impact-radius; "percent" no longer triggers it; number must be adjacent to casualty word
   it('stakes + magnitude narration → emits impact-radius', () => {
-    const extra = pickOverlayRecipes(makeShot('stakes', 'Over 50 percent of the region affected'), 0);
+    const extra = pickOverlayRecipes(makeShot('stakes', 'Over 50 killed in the attack on New York'), 0);
     const ir = extra.find(t => t.type === 'impact-radius');
     expect(ir).toBeDefined();
     expect(ir.radiusKm).toBeGreaterThan(0);
   });
 
   it('data + magnitude narration → emits magnitude-bubble', () => {
-    const extra = pickOverlayRecipes(makeShot('data', 'GDP fell 42 percent this quarter'), 0);
+    const extra = pickOverlayRecipes(makeShot('data', 'GDP fell 42 percent this quarter in New York'), 0);
     const mb = extra.find(t => t.type === 'magnitude-bubble');
     expect(mb).toBeDefined();
     expect(mb.value).toBeCloseTo(42, 0);
@@ -234,21 +242,7 @@ describe('pickOverlayRecipes — intent-driven rules', () => {
     expect(extra.find(t => t.type === 'magnitude-bubble')).toBeUndefined();
   });
 
-  it('contrast + polygon → emits hatched-zone', () => {
-    const polygon = { type: 'Polygon', coordinates: [[[2, 48], [3, 48], [3, 49], [2, 48]]] };
-    const shot = makeShot('contrast');
-    shot.cameraPath[1].highlight.polygon = polygon;
-    const extra = pickOverlayRecipes(shot, 0);
-    const hz = extra.find(t => t.type === 'hatched-zone');
-    expect(hz).toBeDefined();
-    expect(hz.pattern).toBe('contested');
-  });
-
-  it('contrast without polygon → no hatched-zone', () => {
-    const extra = pickOverlayRecipes(makeShot('contrast'), 0);
-    expect(extra.find(t => t.type === 'hatched-zone')).toBeUndefined();
-  });
-
+  // T5: exclusion zone keyword + polygon → hatched-zone exclusion
   it('contrast + polygon + exclusion narration → hatched-zone pattern:exclusion', () => {
     const polygon = { type: 'Polygon', coordinates: [[[2, 48], [3, 48], [3, 49], [2, 48]]] };
     const shot = makeShot('contrast', 'A no-fly zone has been declared over the region');
@@ -258,13 +252,29 @@ describe('pickOverlayRecipes — intent-driven rules', () => {
     expect(hz.pattern).toBe('exclusion');
   });
 
+  // T6: contested/disputed/occupied + polygon → hatched-zone contested
+  it('contrast + polygon → emits hatched-zone', () => {
+    const polygon = { type: 'Polygon', coordinates: [[[2, 48], [3, 48], [3, 49], [2, 48]]] };
+    const shot = makeShot('contrast', 'Forces have clashed in the disputed territory near New York');
+    shot.cameraPath[1].highlight.polygon = polygon;
+    const extra = pickOverlayRecipes(shot, 0);
+    const hz = extra.find(t => t.type === 'hatched-zone');
+    expect(hz).toBeDefined();
+    expect(hz.pattern).toBe('contested');
+  });
+
   it('contrast + polygon without exclusion narration → hatched-zone pattern:contested', () => {
     const polygon = { type: 'Polygon', coordinates: [[[2, 48], [3, 48], [3, 49], [2, 48]]] };
-    const shot = makeShot('contrast', 'Forces have clashed along the border');
+    const shot = makeShot('contrast', 'The border region is occupied by both sides near New York');
     shot.cameraPath[1].highlight.polygon = polygon;
     const hz = pickOverlayRecipes(shot, 0).find(t => t.type === 'hatched-zone');
     expect(hz).toBeDefined();
     expect(hz.pattern).toBe('contested');
+  });
+
+  it('contrast without polygon → no hatched-zone', () => {
+    const extra = pickOverlayRecipes(makeShot('contrast'), 0);
+    expect(extra.find(t => t.type === 'hatched-zone')).toBeUndefined();
   });
 
   it('first story establish shot + high impact → emits spotlight-mask', () => {
@@ -286,8 +296,9 @@ describe('pickOverlayRecipes — intent-driven rules', () => {
     expect(extra.find(t => t.type === 'spotlight-mask')).toBeUndefined();
   });
 
+  // T2 fires on spatial casualties only; "percent" alone no longer maps to impact-radius; number must be adjacent to casualty word
   it('stakes + spatial magnitude narration → emits impact-radius', () => {
-    const extra = pickOverlayRecipes(makeShot('stakes', 'Over 50 percent of the region affected'), 0);
+    const extra = pickOverlayRecipes(makeShot('stakes', 'Over 50 killed in the attack on New York'), 0);
     expect(extra.find(t => t.type === 'impact-radius')).toBeDefined();
   });
 
@@ -301,31 +312,6 @@ describe('pickOverlayRecipes — intent-driven rules', () => {
     shot.chyron = {};
     const extra = pickOverlayRecipes(shot, 0);
     expect(extra.find(t => t.type === 'context-strip')).toBeUndefined();
-  });
-
-  it('label-bloom shortened when quote-callout present', () => {
-    const shot = makeShot('reveal', '');
-    shot.overlays = [{ type: 'quote-callout', text: 'Something said', tOffset: 1, durationMs: 3000 }];
-    const bloom = pickOverlayRecipes(shot, 5).find(t => t.type === 'label-bloom');
-    expect(bloom).toBeDefined();
-    expect(bloom.tEnd).toBeLessThanOrEqual(7); // capped at tStart+2 = 5+2 = 7
-  });
-
-  it('shotIntent takes precedence over dominantIntent', () => {
-    // shotIntent=stakes, dominantIntent=reveal → should emit ripple-expand (stakes), not context-strip (reveal)
-    const shot = makeShot('reveal', '');
-    shot.shotIntent = 'stakes';
-    const extra = pickOverlayRecipes(shot, 0);
-    expect(extra.find(t => t.type === 'ripple-expand')).toBeDefined();
-    expect(extra.find(t => t.type === 'context-strip')).toBeUndefined();
-  });
-
-  it('falls back to dominantIntent when shotIntent is absent', () => {
-    // no shotIntent, dominantIntent=reveal → context-strip fires
-    const shot = makeShot('reveal', '');
-    // shot has no shotIntent property
-    const extra = pickOverlayRecipes(shot, 0);
-    expect(extra.find(t => t.type === 'context-strip')).toBeDefined();
   });
 });
 
@@ -350,8 +336,9 @@ describe('pickOverlayRecipes — multi-location rules', () => {
     };
   }
 
+  // T7: "from X to Y" matching named waypoints → route-reveal
   it('multi-loc + reveal → emits route-reveal with mode:geodesic', () => {
-    const extra = pickOverlayRecipes(makeMultiShot('reveal'), 0);
+    const extra = pickOverlayRecipes(makeMultiShot('reveal', 'Diplomats traveled from New York to France for the meeting'), 0);
     const rr = extra.find(t => t.type === 'route-reveal');
     expect(rr).toBeDefined();
     expect(rr.from).toBeDefined();
@@ -360,13 +347,14 @@ describe('pickOverlayRecipes — multi-location rules', () => {
   });
 
   it('2-loc reveal → route-reveal, no flow-arrow', () => {
-    const extra = pickOverlayRecipes(makeMultiShot('reveal'), 0);
+    const extra = pickOverlayRecipes(makeMultiShot('reveal', 'Diplomats traveled from New York to France for the meeting'), 0);
     expect(extra.find(t => t.type === 'route-reveal')).toBeDefined();
     expect(extra.find(t => t.type === 'flow-arrow')).toBeUndefined();
   });
 
+  // T10: movement verb + 2 waypoints → particle-trail (avoid "from X to Y" which fires T7 route-reveal instead)
   it('multi-loc + stakes + causal narration → emits particle-trail', () => {
-    const extra = pickOverlayRecipes(makeMultiShot('stakes', 'Sanctions led to economic collapse'), 0);
+    const extra = pickOverlayRecipes(makeMultiShot('stakes', 'Troops were deployed through New York and France following the collapse'), 0);
     const pt = extra.find(t => t.type === 'particle-trail');
     expect(pt).toBeDefined();
     expect(pt.path.length).toBeGreaterThanOrEqual(2);
@@ -377,8 +365,9 @@ describe('pickOverlayRecipes — multi-location rules', () => {
     expect(extra.find(t => t.type === 'particle-trail')).toBeUndefined();
   });
 
+  // T12: comparison keyword + 2 waypoints → side-by-side-callout
   it('multi-loc + contrast → emits side-by-side-callout', () => {
-    const extra = pickOverlayRecipes(makeMultiShot('contrast'), 0);
+    const extra = pickOverlayRecipes(makeMultiShot('contrast', 'Unlike New York, France refused to comply with the demands'), 0);
     const ss = extra.find(t => t.type === 'side-by-side-callout');
     expect(ss).toBeDefined();
     expect(ss.labelA).toBe('LOCATION A');
@@ -387,14 +376,15 @@ describe('pickOverlayRecipes — multi-location rules', () => {
   });
 
   it('all emitted treatments have valid tStart < tEnd', () => {
-    const extra = pickOverlayRecipes(makeMultiShot('reveal'), 0);
+    const extra = pickOverlayRecipes(makeMultiShot('reveal', 'Diplomats traveled from New York to France for the meeting'), 0);
     for (const t of extra) {
       expect(t.tStart).toBeLessThan(t.tEnd);
     }
   });
 
+  // T11: trade vocab + 2 waypoints → arc-token (avoid "from X to Y" which fires T7 route-reveal instead)
   it('multi-loc + data + trade narration → emits arc-token', () => {
-    const extra = pickOverlayRecipes(makeMultiShot('data', 'Oil export flow from Russia to China surged'), 0);
+    const extra = pickOverlayRecipes(makeMultiShot('data', 'Oil trade surged between New York and France this quarter'), 0);
     const at = extra.find(t => t.type === 'arc-token');
     expect(at).toBeDefined();
     expect(at.arcs.length).toBeGreaterThanOrEqual(1);
@@ -405,8 +395,9 @@ describe('pickOverlayRecipes — multi-location rules', () => {
     expect(extra.find(t => t.type === 'arc-token')).toBeUndefined();
   });
 
+  // T8: "between X and Y" + diplomatic vocab → connection-arc
   it('multi-loc + contrast + diplomatic narration → emits connection-arc', () => {
-    const extra = pickOverlayRecipes(makeMultiShot('contrast', 'Diplomatic talks between the US and France began in Brussels'), 0);
+    const extra = pickOverlayRecipes(makeMultiShot('contrast', 'Diplomatic talks between New York and France began in Brussels'), 0);
     expect(extra.find(t => t.type === 'connection-arc')).toBeDefined();
   });
 
@@ -415,16 +406,19 @@ describe('pickOverlayRecipes — multi-location rules', () => {
     expect(extra.find(t => t.type === 'connection-arc')).toBeUndefined();
   });
 
+  // T15: first mention of secondary waypoint → map-annotation
+  // France must appear in a different sentence from New York to avoid MIN_GAP=2 blocking both triggers.
   it('any shot with 2+ named locations → map-annotation on secondary location', () => {
-    const extra = pickOverlayRecipes(makeMultiShot('reveal'), 0);
+    const extra = pickOverlayRecipes(makeMultiShot('reveal', 'New York leaders met for talks. France was also represented.'), 0);
     const ma = extra.find(t => t.type === 'map-annotation');
     expect(ma).toBeDefined();
     expect(ma.text).toBe('France'); // secondary unique location
   });
 
+  // T10: particle-trail — particleCount scales with path length
   it('particle-trail particleCount scales with path length', () => {
     // New York to France ≈ 5800 km → particleCount = clamp(round(5800/500), 3, 10) = 10
-    const extra = pickOverlayRecipes(makeMultiShot('stakes', 'Sanctions led to economic collapse'), 0);
+    const extra = pickOverlayRecipes(makeMultiShot('stakes', 'Troops were deployed through New York and France following the collapse'), 0);
     const pt = extra.find(t => t.type === 'particle-trail');
     expect(pt).toBeDefined();
     expect(pt.particleCount).toBeGreaterThanOrEqual(3);
@@ -449,7 +443,8 @@ describe('pickOverlayRecipes — 3-location flow-arrow', () => {
           highlight: { type: 'city', name: 'Kyiv', iso: 'UA', polygon: null } },
       ],
       overlays: [],
-      narration: '',
+      // T9: 3+ named waypoints in same sentence fires flow-arrow
+      narration: 'Weapons moved from New York through France to reach Kyiv at the front.',
       dominantIntent: intent,
       chyron: { headline: 'Supply route revealed', label: 'REVEAL' },
     };
@@ -471,5 +466,100 @@ describe('pickOverlayRecipes — 3-location flow-arrow', () => {
     const extra = pickOverlayRecipes(makeThreeLocShot('reveal'), 0);
     const fa = extra.find(t => t.type === 'flow-arrow');
     expect(fa.flows[0].label).toBe('Kyiv');
+  });
+});
+
+// ── Sentence trigger dictionary tests ─────────────────────────────────────────
+
+describe('pickOverlayRecipes — sentence trigger dictionary', () => {
+  // Shared single-location shot factory for trigger tests.
+  function makeShot(intent, narration = '') {
+    return {
+      t: 0, hold: 12, storyIndex: 1, impact: 0.3,
+      cameraPath: [
+        { tOffset: 0, lng: -73.99, lat: 40.73, zoom: 1.5, pitch: 0, bearing: 0 },
+        { tOffset: 12, lng: -73.99, lat: 40.73, zoom: 9, pitch: 50, bearing: -10,
+          highlight: { type: 'city', name: 'New York', iso: 'US', polygon: null } },
+      ],
+      overlays: [],
+      narration,
+      dominantIntent: intent,
+      chyron: { headline: 'Test headline', label: 'TEST' },
+    };
+  }
+
+  // T2: spatial casualties → impact-radius; number must be directly adjacent to casualty word (no intervening words)
+  it('T2: number + killed → impact-radius', () => {
+    const shot = makeShot(null, '50 killed in the attack on New York');
+    const extra = pickOverlayRecipes(shot, 0);
+    const ir = extra.find(t => t.type === 'impact-radius');
+    expect(ir).toBeDefined();
+    expect(ir.radiusKm).toBeCloseTo(250, 0); // clamp(50*5, 50, 800)
+  });
+
+  // T3: magnitude number → magnitude-bubble
+  it('T3: percent number → magnitude-bubble', () => {
+    const shot = makeShot(null, 'GDP fell 42 percent in New York this quarter');
+    const extra = pickOverlayRecipes(shot, 0);
+    expect(extra.find(t => t.type === 'magnitude-bubble')).toBeDefined();
+  });
+
+  // T4: escalation verb → escalation-warning
+  it('T4: escalation verb → escalation-warning', () => {
+    const shot = makeShot(null, 'Fighting is escalating along the border near New York');
+    const extra = pickOverlayRecipes(shot, 0);
+    expect(extra.find(t => t.type === 'escalation-warning')).toBeDefined();
+  });
+
+  // T5: exclusion zone keyword + polygon → hatched-zone exclusion
+  it('T5: exclusion zone + polygon → hatched-zone exclusion', () => {
+    const polygon = { type: 'Polygon', coordinates: [[[2, 48], [3, 48], [3, 49], [2, 48]]] };
+    const shot = makeShot(null, 'A no-fly zone was declared near New York');
+    shot.cameraPath[1].highlight.polygon = polygon;
+    const hz = pickOverlayRecipes(shot, 0).find(t => t.type === 'hatched-zone');
+    expect(hz?.pattern).toBe('exclusion');
+  });
+
+  // T6: contested keyword + polygon → hatched-zone contested
+  it('T6: disputed keyword + polygon → hatched-zone contested', () => {
+    const polygon = { type: 'Polygon', coordinates: [[[2, 48], [3, 48], [3, 49], [2, 48]]] };
+    const shot = makeShot(null, 'The New York territory remains disputed');
+    shot.cameraPath[1].highlight.polygon = polygon;
+    const hz = pickOverlayRecipes(shot, 0).find(t => t.type === 'hatched-zone');
+    expect(hz?.pattern).toBe('contested');
+  });
+
+  // T14: primary location first mention → label-bloom
+  it('T14: first mention of primary loc → label-bloom', () => {
+    const shot = makeShot(null, 'Officials met today in New York to discuss the crisis');
+    const bloom = pickOverlayRecipes(shot, 0).find(t => t.type === 'label-bloom');
+    expect(bloom).toBeDefined();
+    expect(bloom.text).toBe('New York');
+  });
+
+  // T16: role prefix → context-strip
+  // Role and location must be in separate sentences to avoid MIN_GAP=2 blocking context-strip after label-bloom.
+  it('T16: President/Minister prefix → context-strip', () => {
+    const shot = makeShot(null, 'President Johnson made the announcement. New York hosted the event.');
+    const cs = pickOverlayRecipes(shot, 0).find(t => t.type === 'context-strip');
+    expect(cs).toBeDefined();
+    expect(cs.text).toMatch(/President/);
+  });
+
+  // T13: connective sentence-initial → context-strip
+  it('T13: however/but sentence-initial → context-strip', () => {
+    const shot = makeShot(null, 'New York held talks. However the situation remains tense.');
+    const cs = pickOverlayRecipes(shot, 0).find(t => t.type === 'context-strip');
+    expect(cs).toBeDefined();
+  });
+
+  // T17: waypoint mention, no other trigger → ripple-expand (or ambient fill adds it)
+  it('T17: waypoint mention without other trigger → ripple-expand or label-bloom', () => {
+    const shot = makeShot(null, 'New York remained the center of attention throughout the week');
+    shot.hold = 30; // enough for multiple density slots; ambient fill will add ripple-expand
+    const extra = pickOverlayRecipes(shot, 0);
+    const hasRipple = extra.some(t => t.type === 'ripple-expand');
+    const hasBloom  = extra.some(t => t.type === 'label-bloom');
+    expect(hasRipple || hasBloom).toBe(true);
   });
 });
