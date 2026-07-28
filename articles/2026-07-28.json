@@ -410,5 +410,52 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-07-28T07:30:01.456Z"
+  },
+  {
+    "title": "Some people's chats with Claude AI found to be publicly available online",
+    "description": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
+    "link": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 28 Jul 2026 07:10:37 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-28T07:45:01.332Z"
+  },
+  {
+    "title": "Ukraine’s ‘volunteer army’ helps rebuild what Russia destroys",
+    "description": "Made up of mostly locals and some foreign visitors, a large group of volunteers step in to fix war damage.",
+    "link": "https://www.aljazeera.com/news/2026/7/28/ukraines-volunteer-army-helps-rebuild-what-russia-destroys?traffic_source=rss",
+    "pubDate": "Tue, 28 Jul 2026 07:34:38 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-28T07:45:01.332Z"
+  },
+  {
+    "title": "Finland closes southern airspace near Russia over drone risk - Reuters",
+    "description": "Finland closes southern airspace near Russia over drone risk  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOExKdlZiNkltclhvaVFlRjlmUE5mUnJWSWZ2REJ5ZnNGNWJSSWs0X05JVkhxMkNhcElKZFFHQnFSc2xxMHVoTGtBaXM3Q3ZvSXM1ZWQ1QmdwOFNYdlN1ZUdRbjUtenpkeDNpU3VKSjNrRWViTU1LQmFOelR0V2l2cDN2R1h6YkFUbUV2OE1xQTYtdTk3YmZ0N0xyeXhTTTFjQzV2RQ?oc=5",
+    "pubDate": "Tue, 28 Jul 2026 06:40:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-07-28T07:45:01.332Z"
+  },
+  {
+    "title": "Major Hurricane Genevieve roars in the Pacific as Fausto weakens to a tropical storm near Hawaii",
+    "description": "Major Hurricane Genevieve was roaring in the Pacific Ocean far from land Monday evening at the same time that the weakening Tropical Storm Fausto was bringing large surf to Hawaii.",
+    "link": "https://nypost.com/2026/07/28/us-news/hurricane-genevieve-roars-in-the-pacific-as-fausto-weakens-to-a-tropical-storm-near-hawaii/",
+    "pubDate": "Tue, 28 Jul 2026 03:37:41 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-28T07:45:01.332Z"
+  },
+  {
+    "title": "Nolan Wells drank heavily, chose to stay on remote island before vanishing on July 4 trip: report",
+    "description": "Tragic Mississippi teenager Nolan Wells had been drinking heavily before vanishing on what became an ill-fated Fourth of July trip with friends – and chose to remain on the island with an \"unknown female\" when his pals left, according to witnesses.",
+    "link": "https://nypost.com/2026/07/28/us-news/nolan-wells-had-been-drinking-heavily-with-pals-before-vanishing-on-fourth-of-july-trip-chose-to-stay-on-horn-island-when-they-left-report/",
+    "pubDate": "Tue, 28 Jul 2026 03:33:05 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-28T07:45:01.332Z"
   }
 ]
