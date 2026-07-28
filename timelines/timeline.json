@@ -419,7 +419,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-27",
+      "lastSeen": "2026-07-28",
       "active": true,
       "entries": [
         {
@@ -781,6 +781,11 @@
           "date": "2026-07-27",
           "edition": "evening",
           "update": "Ukraine dismissed Iranian threats following Tehran's vow that the Caspian Sea vessel strike 'cannot go unanswered.' According to Newsmax, Russia is moving toward a 'real war' footing with plans for mobilization and escalation expected to follow the Duma elections."
+        },
+        {
+          "date": "2026-07-28",
+          "edition": "morning",
+          "update": "Ukrainian President Zelensky is set to meet President Trump at the White House, according to the NY Times, and will also attend the funeral of Senator Lindsey Graham in Washington. Zelensky is additionally scheduled to meet with U.S. senators as the Senate prepares to vote on Russian sanctions. Separately, Zelensky met with Britain's new leader to discuss drone projects and missile defense systems for Kyiv."
         }
       ],
       "parentId": null
@@ -934,7 +939,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-26",
+      "lastSeen": "2026-07-28",
       "active": true,
       "entries": [
         {
@@ -1176,6 +1181,11 @@
           "date": "2026-07-26",
           "edition": "evening",
           "update": "Iran's army warned the war could expand if U.S. strikes continue, while stating it has halted retaliatory operations in the Gulf ahead of Netanyahu's visit to Washington. Netanyahu warned in a Fox News interview that any direct or proxy Iranian attack on Israel would be a 'terrible mistake,' vowing a 'very, very forceful' response. Netanyahu also accused ICC prosecutor Karim Khan of using the arrest warrant against him as a 'political shield' to deflect from misconduct allegations against Khan."
+        },
+        {
+          "date": "2026-07-28",
+          "edition": "morning",
+          "update": "Netanyahu's meeting with Trump marks their first encounter since the Iran war began, with both leaders facing domestic political pressures over the conflict."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3140,7 +3150,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-27",
+      "lastSeen": "2026-07-28",
       "active": true
     },
     {
@@ -3163,7 +3173,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-07-27",
+      "lastSeen": "2026-07-28",
       "active": true,
       "entries": [
         {
@@ -3300,6 +3310,11 @@
           "date": "2026-07-27",
           "edition": "evening",
           "update": "The U.S. and Iran began formally exchanging diplomatic messages following nearly two weeks of intense fighting, while Iranian Foreign Ministry Spokesperson Esmaeil Baghaei publicly stated Iran is not currently seeking negotiations with the United States. A CBS News poll found more than two-thirds of Americans think the Trump administration should end the war, with a majority disapproving of the conflict and over half expressing uncertainty and frustration. Oil prices fell nearly 10 percent on Monday, with Brent Crude dropping below $91 per barrel and WTI falling to approximately $84 per barrel, after prices had surpassed $100 per barrel on Friday. Israeli Prime Minister Netanyahu stated Iran is the top agenda item in his meeting with Trump, while Trump told reporters aboard Air Force One he would ask Vladimir Putin whether Russia is sharing satellite imagery of U.S. bases in the Middle East with Iran. Rep. Tom Barrett (R-MI) broke with Trump on Iran policy, marking a notable departure from the Republican mainstream."
+        },
+        {
+          "date": "2026-07-28",
+          "edition": "morning",
+          "update": "For a third consecutive day, the U.S. and Iran held fire as Qatari and Pakistani mediators worked to restart ceasefire talks. Trump publicly confirmed talks with Iran are taking place during the strike pause, while Iran denied that direct talks are occurring, with CBS News reporting indirect conversations are ongoing. Trump threatened to resume military strikes if diplomatic talks fail. Iranian leaders showed no urgency to resume ceasefire talks, with analysts noting Iran is betting it can outlast U.S. pressure and leverage its control over the Strait of Hormuz. Netanyahu arrived in Washington for talks with Trump, as Iran described the U.S. as 'struggling' to end the five-month-old war. Oil prices fell a further approximately 1% as investors assessed the ongoing strike pause."
         }
       ]
     },
@@ -3553,7 +3568,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-07-27",
+      "lastSeen": "2026-07-28",
       "active": true,
       "entries": [
         {
@@ -3755,6 +3770,11 @@
           "date": "2026-07-27",
           "edition": "evening",
           "update": "Iran claimed Monday that it controls the Strait of Hormuz and forced back six ships attempting to transit without clearance, according to Iranian state media citing an unidentified source. Ship traffic through the Bab el-Mandeb Strait dropped to just 11 cargo vessels — the lowest in months — following Houthi attacks on Saudi oil depots along the Red Sea, according to analytics platform Kpler. Saudi Arabia announced it destroyed drones launched by Iran-backed groups in Iraq, and separately blamed Iran-backed militias based in Iraq for additional drone attacks, drawing the kingdom deeper into the wider regional conflict as it faces simultaneous pressure from both Iraq and Yemen."
+        },
+        {
+          "date": "2026-07-28",
+          "edition": "morning",
+          "update": "Iran's Foreign Minister held discussions with his Saudi Arabian and Omani counterparts regarding security in the Strait of Hormuz, according to Reuters."
         }
       ]
     },
@@ -3833,7 +3853,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-07-27",
+      "lastSeen": "2026-07-28",
       "active": true,
       "entries": [
         {
@@ -3985,6 +4005,11 @@
           "date": "2026-07-27",
           "edition": "morning",
           "update": "Ebola infections in the Democratic Republic of Congo surged to approximately 3,200 cases with 1,405 deaths — an increase of roughly 1,000 cases in just ten days — with the outbreak now spreading across five provinces, according to Al Jazeera."
+        },
+        {
+          "date": "2026-07-28",
+          "edition": "morning",
+          "update": "Healthcare workers at an Ebola treatment centre in Bunia, Democratic Republic of Congo, have gone on strike amid a reported spike in the Ebola death toll, according to Al Jazeera."
         }
       ]
     },
@@ -4128,7 +4153,7 @@
       "title": "US-Saudi Nuclear Deal and Israel Normalization",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-07-23",
-      "lastSeen": "2026-07-26",
+      "lastSeen": "2026-07-28",
       "active": true,
       "entries": [
         {
@@ -4145,9 +4170,14 @@
           "date": "2026-07-26",
           "edition": "evening",
           "update": "Sen. Chris Van Hollen accused Trump of a 'bait and switch' with Saudi Arabia, claiming Trump retroactively linked the nuclear deal to Saudi normalization with Israel. Netanyahu stated a Saudi nuclear bomb is the 'last thing we want,' while praising Trump for conditioning any Saudi nuclear program on Riyadh normalizing relations with Israel."
+        },
+        {
+          "date": "2026-07-28",
+          "edition": "morning",
+          "update": "Former Defense Department official Matthew Kroenig published a Wall Street Journal op-ed warning that the U.S.-Saudi nuclear deal 'invites disaster' and appeared on CBS News to elaborate on his concerns about the agreement's potential consequences."
         }
       ]
     }
   ],
-  "updatedAt": "2026-07-27T21:08:32.452Z"
+  "updatedAt": "2026-07-28T11:07:38.516Z"
 }
