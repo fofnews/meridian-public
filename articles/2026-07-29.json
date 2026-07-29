@@ -697,5 +697,70 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-29T07:15:04.190Z"
+  },
+  {
+    "title": "France evacuates thousands as fires displace a third of a million in southwest Europe",
+    "description": "French authorities ordered 4,000 more people evacuated from tourist sites along its Atlantic coast, widening what may be France's largest peacetime evacuation.",
+    "link": "https://www.npr.org/2026/07/29/g-s1-136057/france-wildfires",
+    "pubDate": "Wed, 29 Jul 2026 03:22:44 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-07-29T07:30:01.404Z"
+  },
+  {
+    "title": "1 dead after small plane crashes near Chandler Airport in Arizona, fire officials say",
+    "description": "One person was killed after a small aircraft crashed near Chandler Airport in Arizona, according to the Chandler Fire Department.",
+    "link": "https://abcnews.com/US/1-dead-after-small-plane-crashes-chandler-airport/story?id=135179784",
+    "pubDate": "Wed, 29 Jul 2026 03:06:32 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-07-29T07:30:01.404Z"
+  },
+  {
+    "title": "Japan quake kills at least 13; more trapped in collapsed mall, factory",
+    "description": "A major earthquake in Japan's southwest killed at least 13 people and left several injured or missing after a shopping center and a paper mill were heavily damaged.",
+    "link": "https://www.cbsnews.com/news/strong-earthquake-with-7-1-magnitude-strikes-southern-japan-tsunami-alert-issued/",
+    "pubDate": "Wed, 29 Jul 2026 03:25:14 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-07-29T07:30:01.404Z"
+  },
+  {
+    "title": "Jared Leto Sexual Misconduct Allegations: Multiple Women Speak Out",
+    "description": "The singer and actor Jared Leto has been accused of criminal sexual misconduct by four women in a new BBC documentary.",
+    "link": "https://www.newsweek.com/jared-leto-sexual-misconduct-allegations-multiple-women-speak-out-12257783",
+    "pubDate": "Wed, 29 Jul 2026 03:25:12 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-29T07:30:01.404Z"
+  },
+  {
+    "title": "South Korea's Kospi share index falls 6% and other Asian shares are mixed as oil prices surge - AP News",
+    "description": "South Korea's Kospi share index falls 6% and other Asian shares are mixed as oil prices surge  AP News",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVhqMlRBNU0taHdVcUdHUUE3eDFsZEFQbTZ6dElnTEtMOGVSb1ktYlhpbmJHMm9NY2xRc1lQRWRXcGZ2N0NUNm9FSWV1ZkQ2MjAtaE5WWkwxeHFDMmxxX3I4MHNDNmduRnZ4ODNzNUtSZ2hyZEh3NVBtMmthTHA5UDRzcTBXOWJYNS0yVHlUM0loVXE5VThkeg?oc=5",
+    "pubDate": "Wed, 29 Jul 2026 07:07:00 GMT",
+    "source": "AP News",
+    "categories": [],
+    "collectedAt": "2026-07-29T07:30:01.404Z"
+  },
+  {
+    "title": "Yankees top prospect Carlos Lagrange may return from IL sooner than expected",
+    "description": "Carlos Lagrange may still be a long shot to impact the Yankees this season, but his progress from a shoulder injury has at least kept the door open.",
+    "link": "https://nypost.com/2026/07/29/sports/yankees-carlos-lagrange-may-return-from-il-sooner-than-expected/",
+    "pubDate": "Wed, 29 Jul 2026 03:20:37 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-29T07:30:01.404Z"
+  },
+  {
+    "title": "Russia charges Telegram founder Pavel Durov with aiding terrorism, puts him on wanted list",
+    "description": "Russia’s main domestic security agency said Wednesday that Pavel Durov, founder of the messaging app Telegram, has been charged with “aiding terrorism” and put on an international wanted list.",
+    "link": "https://nypost.com/2026/07/29/world-news/telegram-founder-pavel-durov-charged-with-aiding-terrorism-russia-puts-him-on-wanted-list/",
+    "pubDate": "Wed, 29 Jul 2026 03:20:21 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-29T07:30:01.404Z"
   }
 ]
