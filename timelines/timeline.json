@@ -796,6 +796,11 @@
           "date": "2026-07-29",
           "edition": "morning",
           "update": "The U.S. Senate advanced a bipartisan sanctions bill targeting Russian oil and gas exports, which also includes penalties against Iran and tariffs of up to 500% on Russian energy, with 100% tariffs applicable to buyers such as China."
+        },
+        {
+          "date": "2026-07-29",
+          "edition": "evening",
+          "update": "Ukrainian President Zelensky warned of an impending Russian military draft that could mobilize up to 500,000 new soldiers, cautioning that such a mobilization could significantly impact the course of the war."
         }
       ],
       "parentId": null
@@ -2401,6 +2406,11 @@
           "date": "2026-07-29",
           "edition": "morning",
           "update": "Iran launched multiple ballistic missiles at U.S. forces in the Middle East on Tuesday evening, which the U.S. military intercepted. CENTCOM described the attack as an 'attempted surprise attack' and accused the IRGC of conducting it, while Saudi Arabia separately intercepted Iranian-linked drones. Simultaneously, Iran struck three ships in the Strait of Hormuz and rejected Oman's proposal for managing the waterway, with the attacks occurring as Trump was meeting with Netanyahu. The NY Times also reported that Iran had considered a retaliatory strike on a Ukrainian seaport, though diplomatic intervention eased those tensions before action was taken."
+        },
+        {
+          "date": "2026-07-29",
+          "edition": "evening",
+          "update": "Iran launched a surprise ballistic missile attack targeting U.S. forces in Jordan on Wednesday, which CENTCOM described as a second 'surprise attack' by the IRGC; the U.S. and Saudi Arabia simultaneously conducted strikes on Iran-backed militias in Iraq. Trump vowed in a Fox News interview to 'beat the f—ing s—' out of Iran in response, and global oil prices surged 7%, with WTI and Brent crude crossing above $90 a barrel. Al Jazeera reported the Iranian strikes were intended to send a message amid a reported buildup of U.S. military assets in Israel, while new details emerged indicating U.S. and Israeli officials had expected a swift and straightforward outcome to their military campaign. Trump also told reporters he wants tariffs on Iran included in the Russia sanctions bill, and families of deployed service members described heightened anxiety and stress to the NY Times as the conflict continues."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3620,6 +3630,11 @@
           "date": "2026-07-29",
           "edition": "morning",
           "update": "Zelenskyy met with President Trump at the White House and subsequently held meetings with U.S. senators on Capitol Hill. Trump is reported to have been impressed by Ukraine's military successes, contributing to an improved personal relationship between the two leaders, even as Ukraine continues to face sustained attacks."
+        },
+        {
+          "date": "2026-07-29",
+          "edition": "evening",
+          "update": "Trump and Zelensky described their White House meeting as productive, with discussions including licenses for Patriot interceptor missiles and diplomacy with Russia."
         }
       ]
     },
@@ -3840,6 +3855,11 @@
           "date": "2026-07-29",
           "edition": "morning",
           "update": "Iran and Oman exchanged formal proposals on managing the Strait of Hormuz, with the Omani proposal modeled on the Strait of Malacca system under which transiting ships would pay voluntary fees; Iran subsequently rejected the proposal. The Houthi group claimed responsibility for a missile strike on a Saudi oil tanker in the Red Sea, escalating their declared naval blockade of Saudi shipping, as fighting between Saudi Arabia and Houthi forces intensified in a new wave of attacks."
+        },
+        {
+          "date": "2026-07-29",
+          "edition": "evening",
+          "update": "Yemen's Houthi group is reportedly considering imposing fees on commercial ships sailing through the southern Red Sea, according to sources cited by the New York Post, one week after declaring a naval blockade on Saudi Arabia. The NY Times reported that attacks on vessels in both the Strait of Hormuz and the Bab al-Mandab Strait are spreading shipping risks across multiple critical Middle East oil routes."
         }
       ]
     },
@@ -4173,7 +4193,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-27",
+      "lastSeen": "2026-07-29",
       "active": true,
       "entries": [
         {
@@ -4210,6 +4230,11 @@
           "date": "2026-07-27",
           "edition": "morning",
           "update": "Israel formally approved the concept of an international stabilisation force (ISF) for Gaza, to be staffed by friendly countries and operating in areas outside Israeli military control, with Palestinians cautiously welcoming the move. Hamas appointed Khalil al-Hayya — whose four sons were killed in Israeli strikes — as its new political chief, a selection analysts say signals organizational continuity. Israeli Prime Minister Netanyahu is scheduled to meet President Trump in Washington on Tuesday, with Iran expected to be the central topic amid approaching Israeli elections."
+        },
+        {
+          "date": "2026-07-29",
+          "edition": "evening",
+          "update": "A fringe Israeli settler group has been covertly entering Syria in an attempt to claim land for a Jewish outpost, according to AP News."
         }
       ]
     },
@@ -4244,5 +4269,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-29T11:07:56.563Z"
+  "updatedAt": "2026-07-29T21:08:51.457Z"
 }
