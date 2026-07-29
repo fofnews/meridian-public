@@ -795,7 +795,7 @@
         {
           "date": "2026-07-29",
           "edition": "morning",
-          "update": "The U.S. Senate advanced a bipartisan sanctions bill targeting Russian oil and gas exports, with proposed tariffs of up to 500% and 100% levies on buyers such as China, along with additional penalties targeting Iran."
+          "update": "The U.S. Senate advanced a bipartisan sanctions bill targeting Russian oil and gas exports, which also includes penalties against Iran and tariffs of up to 500% on Russian energy, with 100% tariffs applicable to buyers such as China."
         }
       ],
       "parentId": null
@@ -895,7 +895,7 @@
         {
           "date": "2026-07-29",
           "edition": "morning",
-          "update": "Mexican drug cartels have begun outsourcing methamphetamine production to Nigeria, with West Africa emerging as an increasingly significant hub for illicit drug manufacturing and export, according to BBC News."
+          "update": "Mexican drug cartels have begun outsourcing methamphetamine production to Nigeria, with West Africa emerging as a growing hub for illicit drug manufacturing and export, according to BBC News."
         }
       ],
       "parentId": null
@@ -2400,7 +2400,7 @@
         {
           "date": "2026-07-29",
           "edition": "morning",
-          "update": "Iran broke the diplomatic pause on Tuesday evening by launching multiple ballistic missiles in what U.S. Central Command described as an 'attempted surprise attack' on U.S. forces in the Middle East, including a barrage targeting U.S. forces in Jordan. The U.S. military intercepted the missiles, and Jordan also intercepted Iranian missiles during the assault. Iran simultaneously struck three ships in the Strait of Hormuz and rejected Oman's proposal for managing the waterway, according to Al Jazeera — with the attacks occurring as Trump met with Israeli Prime Minister Netanyahu. The U.S. and Saudi Arabia conducted joint airstrikes on Iran-backed groups in Iraq in response, while Saudi Arabia separately intercepted Iranian drones. The NY Times reported Iran had also considered a retaliatory strike on a Ukrainian seaport, though diplomacy defused the situation, which officials said risked triggering a wider war."
+          "update": "Iran launched multiple ballistic missiles at U.S. forces in the Middle East on Tuesday evening, which the U.S. military intercepted. CENTCOM described the attack as an 'attempted surprise attack' and accused the IRGC of conducting it, while Saudi Arabia separately intercepted Iranian-linked drones. Simultaneously, Iran struck three ships in the Strait of Hormuz and rejected Oman's proposal for managing the waterway, with the attacks occurring as Trump was meeting with Netanyahu. The NY Times also reported that Iran had considered a retaliatory strike on a Ukrainian seaport, though diplomatic intervention eased those tensions before action was taken."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3213,7 +3213,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-07-28",
+      "lastSeen": "2026-07-29",
       "active": true,
       "entries": [
         {
@@ -3360,6 +3360,11 @@
           "date": "2026-07-28",
           "edition": "evening",
           "update": "Trump stated there is a 'good chance' of progress in talks with Iran, with negotiators working to resolve a deadlock over transit fees and management of the Strait of Hormuz, according to Al Jazeera. Oil prices fell further as Brent crude and WTI contracts declined after Trump claimed 'deep talks' are underway, per the Wall Street Journal. Al Jazeera reports analysts assess Iran's economy has continued to withstand prolonged U.S. sanctions pressure, with the population expected to absorb further economic shockwaves."
+        },
+        {
+          "date": "2026-07-29",
+          "edition": "morning",
+          "update": "Hundreds of Jordanian political, legal, and other public figures signed an open letter warning that Jordan's close alliance with the United States poses a risk to the kingdom, demanding the withdrawal of American troops."
         }
       ]
     },
@@ -3578,7 +3583,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-07-28",
+      "lastSeen": "2026-07-29",
       "active": true,
       "entries": [
         {
@@ -3610,6 +3615,11 @@
           "date": "2026-07-28",
           "edition": "evening",
           "update": "Ukrainian negotiator Sergiy Kyslytsya told NPR that Ukraine believes it has gained the leverage necessary to push Russia into serious negotiations, stating 'we have the upper hand.'"
+        },
+        {
+          "date": "2026-07-29",
+          "edition": "morning",
+          "update": "Zelenskyy met with President Trump at the White House and subsequently held meetings with U.S. senators on Capitol Hill. Trump is reported to have been impressed by Ukraine's military successes, contributing to an improved personal relationship between the two leaders, even as Ukraine continues to face sustained attacks."
         }
       ]
     },
@@ -3829,7 +3839,7 @@
         {
           "date": "2026-07-29",
           "edition": "morning",
-          "update": "Iran rejected Oman's proposal for managing the Strait of Hormuz — a model based on the Strait of Malacca voluntary fee system — according to Al Jazeera. Houthi forces claimed responsibility for a missile strike on a Saudi oil tanker in the Red Sea, further escalating their declared naval blockade on Saudi shipping, while CBS News reported a new wave of attacks has intensified the broader Saudi-Houthi conflict."
+          "update": "Iran and Oman exchanged formal proposals on managing the Strait of Hormuz, with the Omani proposal modeled on the Strait of Malacca system under which transiting ships would pay voluntary fees; Iran subsequently rejected the proposal. The Houthi group claimed responsibility for a missile strike on a Saudi oil tanker in the Red Sea, escalating their declared naval blockade of Saudi shipping, as fighting between Saudi Arabia and Houthi forces intensified in a new wave of attacks."
         }
       ]
     },
@@ -4163,7 +4173,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-29",
+      "lastSeen": "2026-07-27",
       "active": true,
       "entries": [
         {
@@ -4200,11 +4210,6 @@
           "date": "2026-07-27",
           "edition": "morning",
           "update": "Israel formally approved the concept of an international stabilisation force (ISF) for Gaza, to be staffed by friendly countries and operating in areas outside Israeli military control, with Palestinians cautiously welcoming the move. Hamas appointed Khalil al-Hayya — whose four sons were killed in Israeli strikes — as its new political chief, a selection analysts say signals organizational continuity. Israeli Prime Minister Netanyahu is scheduled to meet President Trump in Washington on Tuesday, with Iran expected to be the central topic amid approaching Israeli elections."
-        },
-        {
-          "date": "2026-07-29",
-          "edition": "morning",
-          "update": "An Israeli airstrike destroyed Al-Muttaqin Mosque in Gaza City, near Yarmouk Stadium and a displacement camp, with video footage of the strike circulated by Al Jazeera. Israeli settlers also attacked a Palestinian family in Bethlehem in the occupied West Bank."
         }
       ]
     },
@@ -4239,5 +4244,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-29T11:07:27.784Z"
+  "updatedAt": "2026-07-29T11:07:56.563Z"
 }
