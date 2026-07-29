@@ -102,5 +102,70 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-29T04:30:01.296Z"
+  },
+  {
+    "title": "US, Saudis Strike Iran-Backed Sites in Iraq as Netanyahu Praises Trump Talk",
+    "description": "CENTCOM says that the IRGC and its proxies must halt attacks or risk further military action.",
+    "link": "https://www.newsweek.com/us-saudis-strike-iran-backed-sites-in-iraq-as-netanyahu-praises-trump-talk-12257464",
+    "pubDate": "Wed, 29 Jul 2026 00:35:52 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-29T04:45:01.144Z"
+  },
+  {
+    "title": "Former All-Pro Receiver Raises Concern Over Bucs' Contract Drama",
+    "description": "Red flags emerge in Tampa Bay after Vita Vea's trade request and Baker Mayfield's stalled contract talks.",
+    "link": "https://www.newsweek.com/sports/nfl/former-all-pro-receiver-raises-concern-over-bucs-contract-drama-12257277",
+    "pubDate": "Wed, 29 Jul 2026 00:33:33 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-29T04:45:01.144Z"
+  },
+  {
+    "title": "Iran and US trade strikes, shattering brief lull in fighting",
+    "description": "US Central Command says it intercepted \"multiple\" ballistic missiles fired by Iran.",
+    "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 29 Jul 2026 04:30:08 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-29T04:45:01.144Z"
+  },
+  {
+    "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
+    "description": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 29 Jul 2026 04:43:36 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-29T04:45:01.144Z"
+  },
+  {
+    "title": "Caitlin Clark erupts for 32 points as Fever hold off Storm to complete season-series sweep",
+    "description": "Caitlin Clark scored 32 points as the Indiana Fever beat the Seattle Storm 103-95, extending the Storm's home struggles at Climate Pledge Arena.",
+    "link": "https://www.foxnews.com/outkick-sports/caitlin-clark-erupts-32-points-fever-hold-off-storm-complete-season-series-sweep",
+    "pubDate": "Wed, 29 Jul 2026 00:30:39 -0400",
+    "source": "Fox News",
+    "categories": [
+      "4f1e9589-79f5-57a2-afe1-43b17dc2a5ef",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/person/caitlin-clark",
+      "fox-news/sports/wnba/indiana-fever",
+      "fox-news/sports/wnba/seattle-storm",
+      "fox-news/sports/wnba",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-07-29T04:45:01.144Z"
+  },
+  {
+    "title": "Breanna Stewart, Sabrina Ionescu propel Liberty past Sparks",
+    "description": "Breanna Stewart drained a 3-pointer at the top of the key, turned and slapped Sabrina Ionescu’s hand so loud it echoed through Crypto.com Arena.",
+    "link": "https://nypost.com/2026/07/29/sports/breanna-stewart-sabrina-ionescu-propel-liberty-past-sparks/",
+    "pubDate": "Wed, 29 Jul 2026 00:36:48 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-29T04:45:01.144Z"
   }
 ]
