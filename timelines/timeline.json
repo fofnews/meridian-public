@@ -800,7 +800,7 @@
         {
           "date": "2026-07-29",
           "edition": "evening",
-          "update": "Ukrainian President Zelensky warned of an impending Russian military draft that could mobilize up to 500,000 new soldiers, cautioning that such a mobilization could significantly impact the course of the war."
+          "update": "Ukrainian President Zelensky warned that Russia is preparing a military draft that could mobilize up to 500,000 new soldiers, a development he said could significantly shape the course of the war."
         }
       ],
       "parentId": null
@@ -901,6 +901,11 @@
           "date": "2026-07-29",
           "edition": "morning",
           "update": "Mexican drug cartels have begun outsourcing methamphetamine production to Nigeria, with West Africa emerging as a growing hub for illicit drug manufacturing and export, according to BBC News."
+        },
+        {
+          "date": "2026-07-29",
+          "edition": "evening",
+          "update": "Seven charred bodies were found in a house in Ecuador accompanied by narco gang-related messages, according to CBS News, amid the country's ongoing crisis as a cocaine trafficking hub with gang ties to Mexican and Colombian cartels."
         }
       ],
       "parentId": null
@@ -2410,7 +2415,7 @@
         {
           "date": "2026-07-29",
           "edition": "evening",
-          "update": "Iran launched a surprise ballistic missile attack targeting U.S. forces in Jordan on Wednesday, which CENTCOM described as a second 'surprise attack' by the IRGC; the U.S. and Saudi Arabia simultaneously conducted strikes on Iran-backed militias in Iraq. Trump vowed in a Fox News interview to 'beat the f—ing s—' out of Iran in response, and global oil prices surged 7%, with WTI and Brent crude crossing above $90 a barrel. Al Jazeera reported the Iranian strikes were intended to send a message amid a reported buildup of U.S. military assets in Israel, while new details emerged indicating U.S. and Israeli officials had expected a swift and straightforward outcome to their military campaign. Trump also told reporters he wants tariffs on Iran included in the Russia sanctions bill, and families of deployed service members described heightened anxiety and stress to the NY Times as the conflict continues."
+          "update": "Iran launched a surprise ballistic missile attack targeting U.S. forces in Jordan on Wednesday, prompting Trump to vow in a Fox News interview to 'beat the f—ing s—' out of Iran in response. The U.S. and Saudi Arabia conducted retaliatory strikes on Iran-backed militias in Iraq, raising fears of broader regional escalation. Global oil prices surged 7%, crossing above $90 a barrel, following the attack and Trump's retaliation vow, with West Texas Intermediate and Brent crude front-month contracts both climbing sharply. Al Jazeera reported the Iranian attacks were timed to send a message amid a reported buildup of U.S. assets in Israel, and separately revealed that U.S. and Israeli officials had initially expected a swift and straightforward outcome to the military campaign. Families of deployed U.S. military personnel reported renewed stress and anxiety as the conflict continued, per the NY Times. Alex Jones called for Trump's impeachment over the Iran war and warned on his live show that a national draft is being prepared in connection with the conflict."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3634,7 +3639,7 @@
         {
           "date": "2026-07-29",
           "edition": "evening",
-          "update": "Trump and Zelensky described their White House meeting as productive, with discussions including licenses for Patriot interceptor missiles and diplomacy with Russia."
+          "update": "Discussions at the White House meeting between Trump and Zelensky focused on licenses for Patriot interceptor missiles and diplomatic efforts related to the war, with both leaders describing the meeting positively."
         }
       ]
     },
@@ -3859,7 +3864,7 @@
         {
           "date": "2026-07-29",
           "edition": "evening",
-          "update": "Yemen's Houthi group is reportedly considering imposing fees on commercial ships sailing through the southern Red Sea, according to sources cited by the New York Post, one week after declaring a naval blockade on Saudi Arabia. The NY Times reported that attacks on vessels in both the Strait of Hormuz and the Bab al-Mandab Strait are spreading shipping risks across multiple critical Middle East oil routes."
+          "update": "Yemen's Houthi group is reportedly considering imposing fees on commercial ships sailing through the southern Red Sea, according to sources cited by the New York Post, coming one week after the group declared a naval blockade on Saudi Arabia. The NY Times reported that attacks on ships in both the Strait of Hormuz and the Bab al-Mandab Strait are spreading shipping risks across multiple critical Middle East oil routes."
         }
       ]
     },
@@ -4193,7 +4198,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-29",
+      "lastSeen": "2026-07-27",
       "active": true,
       "entries": [
         {
@@ -4230,11 +4235,6 @@
           "date": "2026-07-27",
           "edition": "morning",
           "update": "Israel formally approved the concept of an international stabilisation force (ISF) for Gaza, to be staffed by friendly countries and operating in areas outside Israeli military control, with Palestinians cautiously welcoming the move. Hamas appointed Khalil al-Hayya — whose four sons were killed in Israeli strikes — as its new political chief, a selection analysts say signals organizational continuity. Israeli Prime Minister Netanyahu is scheduled to meet President Trump in Washington on Tuesday, with Iran expected to be the central topic amid approaching Israeli elections."
-        },
-        {
-          "date": "2026-07-29",
-          "edition": "evening",
-          "update": "A fringe Israeli settler group has been covertly entering Syria in an attempt to claim land for a Jewish outpost, according to AP News."
         }
       ]
     },
@@ -4269,5 +4269,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-29T21:08:51.457Z"
+  "updatedAt": "2026-07-29T21:09:34.996Z"
 }
