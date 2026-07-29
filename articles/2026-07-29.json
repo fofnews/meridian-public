@@ -456,5 +456,70 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-29T06:00:04.662Z"
+  },
+  {
+    "title": "Judge allows use of police interview in Tupac Shakur murder trial",
+    "description": "A Nevada judge ruled on Tuesday that the recording of an interview the man accused in the killing Tupac Shakur gave to police in 2008 could be used at his upcoming trial.",
+    "link": "https://www.npr.org/2026/07/29/nx-s1-5911616/police-interview-tupac-trial",
+    "pubDate": "Wed, 29 Jul 2026 02:04:35 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-07-29T06:15:01.730Z"
+  },
+  {
+    "title": "'I thought I would die': Survivors describe the shock and horror of Japan's devastating earthquake",
+    "description": "Rescue operations are ongoing following the 6.8-magnitude quake, as survivors wrestle with the shock.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgw52l5kyyo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 29 Jul 2026 06:07:26 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-29T06:15:01.730Z"
+  },
+  {
+    "title": "Kentucky governor calls on McConnell to prove he is fit to serve or resign: 'Address the people'",
+    "description": "Kentucky Gov. Andy Beshear demanded that Sen. Mitch McConnell prove his fitness to serve or resign after the 84-year-old's lengthy hospital stay.",
+    "link": "https://www.foxnews.com/politics/kentucky-governor-calls-mcconnell-prove-he-fit-serve-resign-address-people",
+    "pubDate": "Wed, 29 Jul 2026 01:54:56 -0400",
+    "source": "Fox News",
+    "categories": [
+      "f26cd9e2-b7f1-55a1-9758-6747c09b1b72",
+      "fnc",
+      "fox news",
+      "fox-news/person/mitch-mcconnell",
+      "fox-news/person/john-thune",
+      "fox-news/health",
+      "fox-news/politics/elections/senate",
+      "fox-news/politics",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-07-29T06:15:01.730Z"
+  },
+  {
+    "title": "Max Muncy ties historic mark, but it wasn’t enough in Dodgers’ loss to Mariners",
+    "description": "Shohei Ohtani hit the night’s first home run. Max Muncy belted the one with the most historical significance. But neither homer led to a Dodgers win.",
+    "link": "https://nypost.com/2026/07/29/sports/max-muncy-ties-historic-mark-but-it-wasnt-enough-for-dodgers/",
+    "pubDate": "Wed, 29 Jul 2026 02:11:22 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-29T06:15:01.730Z"
+  },
+  {
+    "title": "Kansas high school teacher dragged out, arrested for clapping at city meeting over proposed data center",
+    "description": "A Kansas high school teacher was arrested and dragged out of a contentious city zoning meeting for continuously clapping in opposition to a proposed data center.",
+    "link": "https://nypost.com/2026/07/29/us-news/kansas-high-school-teacher-lux-claridge-dragged-out-arrested-for-clapping-at-city-meeting-over-proposed-data-center/",
+    "pubDate": "Wed, 29 Jul 2026 02:09:09 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-29T06:15:01.730Z"
+  },
+  {
+    "title": "Gun-obsessed Vegas woman sentenced for fatally shooting friend during late-night photo shoot",
+    "description": "\"She will continue to live her life after sentencing, but me, I will live with a life sentence of grief, of trauma, of depression, stress, anxiety, brokenness, a nightmare I can't escape until the day I die.\"",
+    "link": "https://nypost.com/2026/07/29/us-news/las-vegas-woman-allysandra-blea-sentenced-for-fatally-shooting-friend-during-late-night-photo-shoot/",
+    "pubDate": "Wed, 29 Jul 2026 02:01:32 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-29T06:15:01.730Z"
   }
 ]
