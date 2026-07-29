@@ -419,7 +419,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-28",
+      "lastSeen": "2026-07-29",
       "active": true,
       "entries": [
         {
@@ -791,6 +791,11 @@
           "date": "2026-07-28",
           "edition": "evening",
           "update": "Moscow issued a threat after Romania intercepted a series of Russian drones, following repeated drone incursions near the Danube River as Russia continues to bombard Ukrainian ports in the region. NATO's top transformation commander warned that the West cannot produce Patriot missiles fast enough to meet demand, stating 'the math is not in favor of the West' and calling for a full redesign of NATO's weapons industrial base."
+        },
+        {
+          "date": "2026-07-29",
+          "edition": "morning",
+          "update": "The U.S. Senate advanced a bipartisan sanctions bill targeting Russian oil and gas exports, with proposed tariffs of up to 500% and 100% levies on buyers such as China, along with additional penalties targeting Iran."
         }
       ],
       "parentId": null
@@ -799,7 +804,7 @@
       "id": "sinaloa-cartel-violence",
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-24",
+      "lastSeen": "2026-07-29",
       "active": true,
       "entries": [
         {
@@ -886,6 +891,11 @@
           "date": "2026-07-24",
           "edition": "evening",
           "update": "U.S. forces targeted Juan Carlos Gonzalez, known as 'Pelon,' a California-born leader of the Jalisco New Generation Cartel (CJNG) and stepson of cartel founder 'El Mencho,' who was reportedly injured in a military operation and later died."
+        },
+        {
+          "date": "2026-07-29",
+          "edition": "morning",
+          "update": "Mexican drug cartels have begun outsourcing methamphetamine production to Nigeria, with West Africa emerging as an increasingly significant hub for illicit drug manufacturing and export, according to BBC News."
         }
       ],
       "parentId": null
@@ -1694,7 +1704,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-28",
+      "lastSeen": "2026-07-29",
       "active": true,
       "entries": [
         {
@@ -2386,6 +2396,11 @@
           "date": "2026-07-28",
           "edition": "evening",
           "update": "A Reuters/Ipsos poll released Tuesday found only 33% of Americans approve of U.S. military strikes on Iran, with 62% disapproving. Iran's IRGC-affiliated Tasnim News Agency released a propaganda video titled 'Where to Kill Melania?!' targeting First Lady Melania Trump and her son Barron, prompting the U.S. Secret Service to launch a probe into the Iran-linked assassination threat. Sen. Elizabeth Warren condemned the Pentagon's revision of the U.S. service member death toll as 'an act of cruelty,' accusing the administration of attempting to 'control reality.' Trump threatened to 'take out' Pickaxe Mountain in Iran if a nuclear deal is not reached, while separately describing ongoing talks as 'good.' Houthi attacks have now threatened Saudi Arabia's alternative oil export route through its interior pipeline network, which the kingdom had been relying on to bypass Strait of Hormuz disruptions. Trump administration officials stated Iran is increasingly desperate for cash as U.S. sanctions continue to take effect, while Americans' economic confidence declined in the month following escalating U.S.-Iran tensions as gas prices rose again."
+        },
+        {
+          "date": "2026-07-29",
+          "edition": "morning",
+          "update": "Iran broke the diplomatic pause on Tuesday evening by launching multiple ballistic missiles in what U.S. Central Command described as an 'attempted surprise attack' on U.S. forces in the Middle East, including a barrage targeting U.S. forces in Jordan. The U.S. military intercepted the missiles, and Jordan also intercepted Iranian missiles during the assault. Iran simultaneously struck three ships in the Strait of Hormuz and rejected Oman's proposal for managing the waterway, according to Al Jazeera — with the attacks occurring as Trump met with Israeli Prime Minister Netanyahu. The U.S. and Saudi Arabia conducted joint airstrikes on Iran-backed groups in Iraq in response, while Saudi Arabia separately intercepted Iranian drones. The NY Times reported Iran had also considered a retaliatory strike on a Ukrainian seaport, though diplomacy defused the situation, which officials said risked triggering a wider war."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3175,7 +3190,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-28",
+      "lastSeen": "2026-07-29",
       "active": true
     },
     {
@@ -3603,7 +3618,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-07-28",
+      "lastSeen": "2026-07-29",
       "active": true,
       "entries": [
         {
@@ -3810,6 +3825,11 @@
           "date": "2026-07-28",
           "edition": "morning",
           "update": "Iran's Foreign Minister held discussions with his Saudi Arabian and Omani counterparts regarding security in the Strait of Hormuz, according to Reuters."
+        },
+        {
+          "date": "2026-07-29",
+          "edition": "morning",
+          "update": "Iran rejected Oman's proposal for managing the Strait of Hormuz — a model based on the Strait of Malacca voluntary fee system — according to Al Jazeera. Houthi forces claimed responsibility for a missile strike on a Saudi oil tanker in the Red Sea, further escalating their declared naval blockade on Saudi shipping, while CBS News reported a new wave of attacks has intensified the broader Saudi-Houthi conflict."
         }
       ]
     },
@@ -4143,7 +4163,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-27",
+      "lastSeen": "2026-07-29",
       "active": true,
       "entries": [
         {
@@ -4180,6 +4200,11 @@
           "date": "2026-07-27",
           "edition": "morning",
           "update": "Israel formally approved the concept of an international stabilisation force (ISF) for Gaza, to be staffed by friendly countries and operating in areas outside Israeli military control, with Palestinians cautiously welcoming the move. Hamas appointed Khalil al-Hayya — whose four sons were killed in Israeli strikes — as its new political chief, a selection analysts say signals organizational continuity. Israeli Prime Minister Netanyahu is scheduled to meet President Trump in Washington on Tuesday, with Iran expected to be the central topic amid approaching Israeli elections."
+        },
+        {
+          "date": "2026-07-29",
+          "edition": "morning",
+          "update": "An Israeli airstrike destroyed Al-Muttaqin Mosque in Gaza City, near Yarmouk Stadium and a displacement camp, with video footage of the strike circulated by Al Jazeera. Israeli settlers also attacked a Palestinian family in Bethlehem in the occupied West Bank."
         }
       ]
     },
@@ -4214,5 +4239,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-28T21:09:17.886Z"
+  "updatedAt": "2026-07-29T11:07:27.784Z"
 }
