@@ -810,7 +810,7 @@
         {
           "date": "2026-07-30",
           "edition": "evening",
-          "update": "Poland scrambled fighter jets after a suspected Russian Kh-101 missile entered Polish airspace during a large-scale Russian attack on Ukraine involving over 83 missiles and approximately 280 drones targeting Kyiv, Krivyi Rih, and Lviv, killing at least eight people. Polish Prime Minister Donald Tusk confirmed the missile struck Polish territory, though no injuries were reported. Reuters sources assessed that Russia likely used a North Korean missile in one of the strikes, which would mark the first such use in 2025. Kazakhstan's Black Sea oil export gateway was shut down again following Ukrainian drone strikes, disrupting a key route for Kazakh crude exports. A study separately raised concerns that ships stranded by the war could trigger a marine 'superspreader' event involving invasive species and pathogens."
+          "update": "Polish Prime Minister Donald Tusk confirmed a Russian missile struck Polish territory during a large-scale Russian attack involving an estimated 83 missiles targeting Kyiv, Kryvyi Rih, and Lviv, though no injuries were reported in Poland — with Poland scrambling fighter jets after the Kh-101 missile entered NATO airspace. Reuters reported that Russia likely used a North Korean ballistic missile in a deadly strike on Ukraine for the first time this year. Kazakhstan's oil export route through the Black Sea was shut down again after Ukrainian drone attacks targeted the Black Sea export gateway, per Reuters. Reuters also reported that gaps in civilian shelter availability are leaving Ukrainians desperate as Russian strikes continue to mount."
         }
       ],
       "parentId": null
@@ -1725,7 +1725,7 @@
         {
           "date": "2026-07-30",
           "edition": "evening",
-          "update": "Al Jazeera reported that the Lebanese village of Qana has been struck by Israeli military attacks three times in three decades, with civilian shelters repeatedly targeted. Separately, Israeli strikes killed at least four people, including children, across the Gaza Strip as Hamas officials met with Qatari, Egyptian, and Turkish mediators in Cairo to discuss a truce."
+          "update": "Al Jazeera reports that the Lebanese village of Qana has been bombed by Israeli forces three times in three decades, with its designated shelters repeatedly struck despite their protected status."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2445,7 +2445,7 @@
         {
           "date": "2026-07-30",
           "edition": "evening",
-          "update": "The U.S. military launched a heavy two-hour barrage targeting multiple IRGC facilities in Iran, described as retaliation for Iran's surprise strike on American forces earlier in the week. Strikes hit targets in southern Iran including Qeshm Island, where a family of three was killed according to Al Jazeera, and a large smoke plume was observed over Ahvaz. The IRGC released video claiming to show naval missile launches targeting U.S. aircraft in Jordan. U.S. economic growth slowed in the second quarter, with rising energy costs cited as a contributing factor. A Quinnipiac University poll found 55% of Americans expect the military operation to last at least one year, while a separate Quinnipiac poll showed declining voter support for military action amid the renewed strikes. U.S. investigators preliminarily assessed Iran was likely behind a cyberattack on Minnesota water systems, with no indication that any water supply was rendered unsafe."
+          "update": "The U.S. launched a new heavy barrage of strikes against IRGC targets in Iran on Thursday, confirmed by NBC News and CBS News, following Iran's thwarted 'surprise attack' on American forces earlier in the week. Al Jazeera reported a large plume of smoke rising over Ahvaz and documented a family of three killed in strikes on Qeshm Island, while the IRGC released footage claiming to show naval missiles targeting U.S. aircraft in Jordan. A Quinnipiac University poll found 55% of Americans believe the conflict will last one year or more, with only 20% expecting a shorter duration, and a separate Quinnipiac survey showed declining voter support for military action. U.S. GDP growth slowed in Q2 as surging energy costs tied to the war weighed on economic activity, while the Fed's preferred PCE inflation gauge eased in June — a reading taken during a brief pause in fighting. Gulf states pressed China to restrain Iran through diplomatic channels, per Reuters, as a Saudi envoy informed the White House that Iran had crossed a red line, though Crown Prince Mohammed bin Salman sought to maintain calm. Democrats in Congress won approval of a measure calling on Trump to end the conflict, using procedural votes to put Republicans on record regarding the war."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3258,7 +3258,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-07-30",
+      "lastSeen": "2026-07-29",
       "active": true,
       "entries": [
         {
@@ -3410,11 +3410,6 @@
           "date": "2026-07-29",
           "edition": "morning",
           "update": "Hundreds of Jordanian political, legal, and other public figures signed an open letter warning that Jordan's close alliance with the United States poses a risk to the kingdom, demanding the withdrawal of American troops."
-        },
-        {
-          "date": "2026-07-30",
-          "edition": "evening",
-          "update": "Gulf states are testing China's diplomatic influence over Iran, with questions emerging about Beijing's ability and willingness to restrain Tehran amid the ongoing conflict, according to Reuters."
         }
       ]
     },
@@ -3909,7 +3904,7 @@
         {
           "date": "2026-07-30",
           "edition": "evening",
-          "update": "The NY Times reported that an attack struck an Egyptian port near the Suez Canal, underscoring the waterway's vulnerability to the expanding conflict. Reuters sources reported that Yemen's Houthi forces are launching attacks against Saudi Arabia from Iraqi territory, marking a significant geographic expansion of Houthi operations."
+          "update": "An attack struck an Egyptian port near the Suez Canal, according to the NY Times, compounding concerns about the vulnerability of the critical waterway through which a significant share of global shipping passes."
         }
       ]
     },
@@ -3988,7 +3983,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-07-30",
+      "lastSeen": "2026-07-28",
       "active": true,
       "entries": [
         {
@@ -4145,11 +4140,6 @@
           "date": "2026-07-28",
           "edition": "morning",
           "update": "Healthcare workers at an Ebola treatment centre in Bunia, Democratic Republic of Congo, have gone on strike amid a reported spike in the Ebola death toll, according to Al Jazeera."
-        },
-        {
-          "date": "2026-07-30",
-          "edition": "evening",
-          "update": "The Ebola death toll in the Democratic Republic of Congo has surpassed 1,500, with the outbreak killing people at a faster rate than any previously recorded Ebola outbreak."
         }
       ]
     },
@@ -4248,7 +4238,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-27",
+      "lastSeen": "2026-07-30",
       "active": true,
       "entries": [
         {
@@ -4285,6 +4275,11 @@
           "date": "2026-07-27",
           "edition": "morning",
           "update": "Israel formally approved the concept of an international stabilisation force (ISF) for Gaza, to be staffed by friendly countries and operating in areas outside Israeli military control, with Palestinians cautiously welcoming the move. Hamas appointed Khalil al-Hayya — whose four sons were killed in Israeli strikes — as its new political chief, a selection analysts say signals organizational continuity. Israeli Prime Minister Netanyahu is scheduled to meet President Trump in Washington on Tuesday, with Iran expected to be the central topic amid approaching Israeli elections."
+        },
+        {
+          "date": "2026-07-30",
+          "edition": "evening",
+          "update": "Israeli strikes killed at least four people, including children, across Gaza as Hamas officials met with Qatari, Egyptian, and Turkish mediators in Cairo to discuss a potential truce, according to Al Jazeera. Reuters sources reported that Yemen's Houthi forces are launching attacks against Saudi Arabia from Iraqi territory, marking a significant escalation in the geographic scope of the regional conflict."
         }
       ]
     },
@@ -4319,5 +4314,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-30T21:08:49.326Z"
+  "updatedAt": "2026-07-30T21:09:00.029Z"
 }
