@@ -806,6 +806,11 @@
           "date": "2026-07-30",
           "edition": "morning",
           "update": "Russia launched ballistic missile strikes on Kyiv following Zelensky's return from Washington, killing at least eight civilians including two girls aged 5 and 12 near Kryvyi Rih, with additional fatalities in Kyiv and Poltava and dozens wounded. Zelensky attributed the deaths to 'insufficient or delayed' air defense supplies, as Kyiv reported a shortage of Western-supplied anti-ballistic missile defenses. The U.S. Senate advanced a sanctions package allowing up to 500% tariffs on Russian imports and 100% tariffs on countries purchasing Russian energy, including China and India."
+        },
+        {
+          "date": "2026-07-30",
+          "edition": "evening",
+          "update": "Poland scrambled fighter jets after a suspected Russian Kh-101 missile entered Polish airspace during a large-scale Russian attack on Ukraine involving over 83 missiles and approximately 280 drones targeting Kyiv, Krivyi Rih, and Lviv, killing at least eight people. Polish Prime Minister Donald Tusk confirmed the missile struck Polish territory, though no injuries were reported. Reuters sources assessed that Russia likely used a North Korean missile in one of the strikes, which would mark the first such use in 2025. Kazakhstan's Black Sea oil export gateway was shut down again following Ukrainian drone strikes, disrupting a key route for Kazakh crude exports. A study separately raised concerns that ships stranded by the war could trigger a marine 'superspreader' event involving invasive species and pathogens."
         }
       ],
       "parentId": null
@@ -1716,6 +1721,11 @@
           "date": "2026-07-30",
           "edition": "morning",
           "update": "Southern Lebanon's Mansouri village remains divided by Israel's Yellow Line military boundary, which separates the Israeli-occupied portion of the village from the rest, leaving residents under conditions of fear and separation."
+        },
+        {
+          "date": "2026-07-30",
+          "edition": "evening",
+          "update": "Al Jazeera reported that the Lebanese village of Qana has been struck by Israeli military attacks three times in three decades, with civilian shelters repeatedly targeted. Separately, Israeli strikes killed at least four people, including children, across the Gaza Strip as Hamas officials met with Qatari, Egyptian, and Turkish mediators in Cairo to discuss a truce."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2431,6 +2441,11 @@
           "date": "2026-07-30",
           "edition": "morning",
           "update": "The U.S. military launched a heavy wave of airstrikes against dozens of IRGC targets in Iran, characterizing the strikes as 'a powerful response' to Iran's ballistic missile attack on a U.S. base in Jordan. Saudi Arabia formally announced joint strikes with the United States against Tehran-backed militias in Iraq — a significant shift from the kingdom's previously restrained posture — after Iraqi militias launched over 30 drone attacks against Saudi Arabia; Iraq's Prime Minister Ali al-Zaidi cancelled a planned visit to Saudi Arabia and condemned the strikes as a 'flagrant violation of sovereignty.' A think tank report estimated U.S. stockpiles of two critical air defense interceptors have been reduced by 65% since the conflict began, prompting the U.S. to strike a $58.6 billion Patriot missile deal. Brent crude rose to approximately $91 per barrel, and the USO ETF has climbed 58% since the war's start, outperforming WTI futures by more than double. Netanyahu stated that decisions on how to proceed with Iran rest with Trump, affirming U.S. leadership of the partnership. China was reported by Newsmax to be supplying missiles to Iran, with Xi Jinping allegedly breaking a prior commitment to Trump not to do so; additionally, an Iranian strike hit a Chinese firm's building, killing one person, hours after Jordan intercepted Iranian missiles."
+        },
+        {
+          "date": "2026-07-30",
+          "edition": "evening",
+          "update": "The U.S. military launched a heavy two-hour barrage targeting multiple IRGC facilities in Iran, described as retaliation for Iran's surprise strike on American forces earlier in the week. Strikes hit targets in southern Iran including Qeshm Island, where a family of three was killed according to Al Jazeera, and a large smoke plume was observed over Ahvaz. The IRGC released video claiming to show naval missile launches targeting U.S. aircraft in Jordan. U.S. economic growth slowed in the second quarter, with rising energy costs cited as a contributing factor. A Quinnipiac University poll found 55% of Americans expect the military operation to last at least one year, while a separate Quinnipiac poll showed declining voter support for military action amid the renewed strikes. U.S. investigators preliminarily assessed Iran was likely behind a cyberattack on Minnesota water systems, with no indication that any water supply was rendered unsafe."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3243,7 +3258,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-07-29",
+      "lastSeen": "2026-07-30",
       "active": true,
       "entries": [
         {
@@ -3395,6 +3410,11 @@
           "date": "2026-07-29",
           "edition": "morning",
           "update": "Hundreds of Jordanian political, legal, and other public figures signed an open letter warning that Jordan's close alliance with the United States poses a risk to the kingdom, demanding the withdrawal of American troops."
+        },
+        {
+          "date": "2026-07-30",
+          "edition": "evening",
+          "update": "Gulf states are testing China's diplomatic influence over Iran, with questions emerging about Beijing's ability and willingness to restrain Tehran amid the ongoing conflict, according to Reuters."
         }
       ]
     },
@@ -3885,6 +3905,11 @@
           "date": "2026-07-30",
           "edition": "morning",
           "update": "Two tankers, including a U.S. gas storage tanker, were struck in an apparent drone attack at a port on Egypt's Mediterranean coast, causing fires aboard both vessels. Saudi Arabia is seeking to build an international coalition to safeguard Red Sea shipping as Houthi strikes on energy tankers expand. Asian nations including Japan are turning to Canadian crude via the Trans Mountain Expansion pipeline amid Strait of Hormuz supply uncertainty, while QatarEnergy purchased 33 U.S. LNG cargoes to offset potential Hormuz disruption."
+        },
+        {
+          "date": "2026-07-30",
+          "edition": "evening",
+          "update": "The NY Times reported that an attack struck an Egyptian port near the Suez Canal, underscoring the waterway's vulnerability to the expanding conflict. Reuters sources reported that Yemen's Houthi forces are launching attacks against Saudi Arabia from Iraqi territory, marking a significant geographic expansion of Houthi operations."
         }
       ]
     },
@@ -3963,7 +3988,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-07-28",
+      "lastSeen": "2026-07-30",
       "active": true,
       "entries": [
         {
@@ -4120,6 +4145,11 @@
           "date": "2026-07-28",
           "edition": "morning",
           "update": "Healthcare workers at an Ebola treatment centre in Bunia, Democratic Republic of Congo, have gone on strike amid a reported spike in the Ebola death toll, according to Al Jazeera."
+        },
+        {
+          "date": "2026-07-30",
+          "edition": "evening",
+          "update": "The Ebola death toll in the Democratic Republic of Congo has surpassed 1,500, with the outbreak killing people at a faster rate than any previously recorded Ebola outbreak."
         }
       ]
     },
@@ -4289,5 +4319,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-30T11:09:12.253Z"
+  "updatedAt": "2026-07-30T21:08:49.326Z"
 }
