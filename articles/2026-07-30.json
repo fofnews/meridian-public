@@ -331,5 +331,36 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-30T05:45:01.711Z"
+  },
+  {
+    "title": "Homes and caravan park evacuated due to major heath fire in Suffolk",
+    "description": "Suffolk Fire and Rescue Service says 17 crews are involved at the scene of the large blaze.",
+    "link": "https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 30 Jul 2026 05:59:14 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-30T06:00:10.088Z"
+  },
+  {
+    "title": "Viral finger-clicker suspended as cricket storm remains in global spotlight",
+    "description": "Saltburn's amateur cricketer at centre of cheating allegations that grabbed global headlines is suspended by club.",
+    "link": "https://www.aljazeera.com/sports/2026/7/30/viral-finger-clicker-suspended-as-cricket-storm-remains-in-global-spotlight?traffic_source=rss",
+    "pubDate": "Thu, 30 Jul 2026 05:41:32 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-07-30T06:00:10.088Z"
+  },
+  {
+    "title": "War and shortages push Gaza hospitals to breaking point",
+    "description": "Gaza’s collapsing health system leaves dialysis patients, amputees and trauma survivors without vital care.",
+    "link": "https://www.aljazeera.com/features/2026/7/30/war-and-shortages-push-gaza-hospitals-to-breaking-point?traffic_source=rss",
+    "pubDate": "Thu, 30 Jul 2026 05:21:15 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-30T06:00:10.088Z"
   }
 ]
