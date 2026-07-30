@@ -112,5 +112,46 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-30T04:30:02.061Z"
+  },
+  {
+    "title": "Commanders GM Addresses the Brandon Aiyuk-Sized Elephant in the Room",
+    "description": "Washington Commanders GM Adam Peters was asked if Brandon Aiyuk's social media activity could deter him from trading for the WR.",
+    "link": "https://www.newsweek.com/sports/nfl/commanders-gm-addresses-the-brandon-aiyuk-sized-elephant-in-the-room-12262926",
+    "pubDate": "Thu, 30 Jul 2026 00:37:30 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-30T04:45:03.879Z"
+  },
+  {
+    "title": "Trump admin invokes 30-year dormant terror court as it seeks to deport Afghan woman tied to Election Day plot",
+    "description": "An Afghan woman is the first person facing deportation through the Alien Terrorist Removal Court, which has been dormant since its creation in 1996.",
+    "link": "https://www.foxnews.com/politics/trump-admin-invokes-30-year-dormant-terror-court-seeks-deport-afghan-woman-tied-election-day-plot",
+    "pubDate": "Thu, 30 Jul 2026 00:29:16 -0400",
+    "source": "Fox News",
+    "categories": [
+      "fcaf57c8-f21c-5cf5-9260-278b6ceb0560",
+      "fnc",
+      "fox news",
+      "fox-news/us/immigration/deportation",
+      "fox-news/world/conflicts/afghanistan",
+      "fox-news/world/terrorism",
+      "fox-news/politics/justice-department",
+      "fox-news/politics",
+      "fox-news/world/terrorism/isis",
+      "fox-news/person/donald-trump",
+      "fox-news/us/immigration",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-07-30T04:45:03.879Z"
+  },
+  {
+    "title": "WNBA deletes post of Paige Bueckers and Angel Reese’s making bet on their game",
+    "description": "Leave it to the WNBA to create a potential gambling scandal of its own making involving two of its most high-profile stars.",
+    "link": "https://nypost.com/2026/07/30/sports/wnba-deletes-post-of-paige-bueckers-and-angel-reeses-making-bet-on-their-game/",
+    "pubDate": "Thu, 30 Jul 2026 00:36:10 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-30T04:45:03.879Z"
   }
 ]
