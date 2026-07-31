@@ -419,7 +419,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-30",
+      "lastSeen": "2026-07-31",
       "active": true,
       "entries": [
         {
@@ -811,6 +811,11 @@
           "date": "2026-07-30",
           "edition": "evening",
           "update": "Polish Prime Minister Donald Tusk confirmed a Russian missile struck Polish territory during a large-scale Russian attack involving an estimated 83 missiles targeting Kyiv, Kryvyi Rih, and Lviv, though no injuries were reported in Poland — with Poland scrambling fighter jets after the Kh-101 missile entered NATO airspace. Reuters reported that Russia likely used a North Korean ballistic missile in a deadly strike on Ukraine for the first time this year. Kazakhstan's oil export route through the Black Sea was shut down again after Ukrainian drone attacks targeted the Black Sea export gateway, per Reuters. Reuters also reported that gaps in civilian shelter availability are leaving Ukrainians desperate as Russian strikes continue to mount."
+        },
+        {
+          "date": "2026-07-31",
+          "edition": "evening",
+          "update": "Russian forces have reportedly infiltrated most of Kostiantynivka as Russia continues to press offensively in eastern Ukraine. Ukraine struck Russian oil refineries multiple times, while Russia launched attacks on Dnipropetrovsk and struck a cargo vessel near Odesa. Russia's grain lobby warned that Ukrainian drone attacks in the Black Sea region threaten Russian grain exports and global food security. Ukraine has offered the Pentagon access to test combat drones used against Russia at reduced cost, though Kyiv said it cannot share associated technological secrets without compensation."
         }
       ],
       "parentId": null
@@ -2451,6 +2456,11 @@
           "date": "2026-07-31",
           "edition": "morning",
           "update": "Drone strikes hit Egypt's Mediterranean port of Damietta on Wednesday, sparking fires on two natural gas vessels, according to CBS News, marking a geographic expansion of conflict linked to the war. Pakistani mediators reported that indirect U.S.-Iran negotiations are ongoing despite continued exchanges of attacks, per CBS News. A NATO expert warned in Newsweek that the Damietta strike may heighten European concerns about the conflict's spread, drawing comparisons to a potential new Suez Crisis. ABC News analysis revealed that a 14-point deal signed by Trump with Iran in mid-June was designed to serve as a diplomatic off-ramp amid the escalating tensions."
+        },
+        {
+          "date": "2026-07-31",
+          "edition": "evening",
+          "update": "Former Defense Secretary Leon Panetta warned that the U.S. is 'locked into an unwinnable war' with Iran, cautioning the conflict risks becoming a prolonged engagement with no clear end. Retired Vice Admiral Robert Harward stated that the calculus for the Iranian government is already changing due to external and internal pressures as well as ongoing cyber-attacks. Ukraine struck an Iranian ship, raising concerns about the potential convergence of the Russia-Ukraine conflict with the broader U.S.-Iran confrontation, particularly given Iran's military support to Russia. Iran separately claimed it struck two tankers in the Strait of Hormuz under U.S. aerial escort and targeted U.S. facilities in Kuwait."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3688,7 +3698,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-07-30",
+      "lastSeen": "2026-07-31",
       "active": true,
       "entries": [
         {
@@ -3915,6 +3925,11 @@
           "date": "2026-07-30",
           "edition": "evening",
           "update": "An attack struck an Egyptian port near the Suez Canal, according to the NY Times, compounding concerns about the vulnerability of the critical waterway through which a significant share of global shipping passes."
+        },
+        {
+          "date": "2026-07-31",
+          "edition": "evening",
+          "update": "Iran claimed responsibility for striking two tankers in the Strait of Hormuz that were under U.S. aerial escort and also targeted U.S. facilities in Kuwait. UK unleaded petrol prices reached 160p per litre, their highest level since the conflict with Iran began, according to the RAC. ExxonMobil and Chevron reported combined Q2 profits exceeding $26.5 billion, a more than 300% increase over the previous quarter, as major oil companies posted record earnings amid the energy price surge tied to U.S.-Iran hostilities."
         }
       ]
     },
@@ -4329,5 +4344,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-07-31T11:07:59.135Z"
+  "updatedAt": "2026-07-31T21:08:44.662Z"
 }
