@@ -335,5 +335,34 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-31T05:45:02.759Z"
+  },
+  {
+    "title": "Death toll from southwestern Japan quake climbs to 34",
+    "description": "Searchers continued to work in the Kumamoto area, including at the site of the collapsed mall, where some of the most serious damage was recorded.",
+    "link": "https://www.npr.org/2026/07/31/g-s1-136503/japan-quake-death-toll",
+    "pubDate": "Fri, 31 Jul 2026 01:40:16 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-07-31T06:00:01.266Z"
+  },
+  {
+    "title": "Ten climbers led by renowned Nepali mountaineer ‘missing’ on Pakistan peak",
+    "description": "Mountaineer Nirmal Purja among those feared missing after avalanche hit Broad Peak, Pakistan alpine club says.",
+    "link": "https://www.aljazeera.com/news/2026/7/31/nepali-climber-purja-9-others-missing-in-pakistan-after-avalanche?traffic_source=rss",
+    "pubDate": "Fri, 31 Jul 2026 05:21:18 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-07-31T06:00:01.266Z"
+  },
+  {
+    "title": "Harrison Bader’s first season with Giants over after late-night scooter crash",
+    "description": "A late-night scooter accident, the details of which remain hazy, will be the memory of Harrison Bader’s forgettable first season in San Francisco.",
+    "link": "https://nypost.com/2026/07/31/sports/harrison-baders-first-season-with-giants-over-after-scooter-crash/",
+    "pubDate": "Fri, 31 Jul 2026 01:48:23 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-31T06:00:01.266Z"
   }
 ]
