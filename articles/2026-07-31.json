@@ -85,5 +85,67 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-31T04:15:01.248Z"
+  },
+  {
+    "title": "In Another Wild Day for South Korean Stocks, Market Surges 15 Percent",
+    "description": "After a sharp sell-off, South Korea’s stock market rallied as concerns about overspending on artificial intelligence eased, sending the country’s chip shares higher.",
+    "link": "https://www.nytimes.com/2026/07/31/business/korea-stocks-chips-kospi.html",
+    "pubDate": "Fri, 31 Jul 2026 04:04:18 +0000",
+    "source": "NY Times",
+    "categories": [
+      "kospi stock index (south korea)",
+      "south korea",
+      "stocks and bonds",
+      "artificial intelligence",
+      "computer chips",
+      "samsung electronics co",
+      "sk group"
+    ],
+    "collectedAt": "2026-07-31T04:30:02.320Z"
+  },
+  {
+    "title": "Texans’ C.J. Stroud Addresses Contract Situation",
+    "description": "Houston Texans quarterback C.J. Stroud is due for a new contract, but he claims it's not a concern amid training camp.",
+    "link": "https://www.newsweek.com/sports/nfl/texans-c-j-stroud-addresses-contract-situation-12268158",
+    "pubDate": "Fri, 31 Jul 2026 00:24:36 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-31T04:30:02.320Z"
+  },
+  {
+    "title": "Power Ranking the Head Coaches in the NFC East",
+    "description": "Which NFC East team has the best head coach? We power ranked them from best to worst here.",
+    "link": "https://www.newsweek.com/sports/nfl/power-ranking-the-head-coaches-in-the-nfc-east-12268247",
+    "pubDate": "Fri, 31 Jul 2026 00:21:52 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-07-31T04:30:02.320Z"
+  },
+  {
+    "title": "Fifa says 'nobody selling football' as it presses ahead with investment plan",
+    "description": "Football's governing body plans to continue the consultation process after Uefa threatens to boycott World Cups.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 31 Jul 2026 04:17:06 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-31T04:30:02.320Z"
+  },
+  {
+    "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
+    "description": "The rapper had been accused of sexually assaulting a woman after performing in Perth in 2024.",
+    "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 31 Jul 2026 04:26:20 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-31T04:30:02.320Z"
+  },
+  {
+    "title": "European nations vow FIFA World Cup boycott over Infantino private equity plan as opposition spreads - AP News",
+    "description": "European nations vow FIFA World Cup boycott over Infantino private equity plan as opposition spreads  AP News",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbUNHcXRDN1RPZVdnVjZqUjVOb0hZUWJFbEt1SW1zQmFPRFB2VlJwNno4eUNmU0M3d3EtSGlGZ3Q3REpFaUZkdHp4YWhRQ0piUkFfYi1jc3RrbjJmdHo3RDY3SG9MX080Q2FMRkRCc0tRMTI3ZXhjXzFEZlA4LTV3NFFBNUh2N09Fb18wRm5mR3l1anJqbHBNaUE5R0d2ZnlfdlAw?oc=5",
+    "pubDate": "Fri, 31 Jul 2026 04:11:00 GMT",
+    "source": "AP News",
+    "categories": [],
+    "collectedAt": "2026-07-31T04:30:02.320Z"
   }
 ]
