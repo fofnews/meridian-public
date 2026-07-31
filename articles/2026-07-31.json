@@ -820,5 +820,86 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-31T08:45:01.598Z"
+  },
+  {
+    "title": "Morning news brief",
+    "description": "President Trump says he may pull Todd Blanche's nomination, Trump says a deal has been made to disarm Hamas and withdraw Israeli forces from Gaza, the U.S. economy is growing, but at a slower pace.",
+    "link": "https://www.npr.org/2026/07/31/nx-s1-5901900/morning-news-brief",
+    "pubDate": "Fri, 31 Jul 2026 04:49:30 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-07-31T09:00:01.735Z"
+  },
+  {
+    "title": "Spain’s Leader Rushes to Ceuta After Thousands of Migrants Burst Across Border",
+    "description": "Prime Minister Pedro Sánchez was set to arrive in Ceuta, a Spanish territory in Africa, amid an escalating crisis for his pro-immigration government.",
+    "link": "https://www.nytimes.com/2026/07/31/world/europe/spain-ceuta-border-migrants-sanchez.html",
+    "pubDate": "Fri, 31 Jul 2026 08:38:42 +0000",
+    "source": "NY Times",
+    "categories": [
+      "ceuta (spain)",
+      "morocco",
+      "spain",
+      "europe",
+      "africa",
+      "sanchez perez-castejon, pedro (1972- )",
+      "illegal immigration",
+      "immigration and emigration",
+      "border barriers"
+    ],
+    "collectedAt": "2026-07-31T09:00:01.735Z"
+  },
+  {
+    "title": "Hamas agrees to phased disarmament in Gaza",
+    "description": "Hamas has agreed to gradually disarm in Gaza as part of Donald Trump’s 20-point peace plan.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/hamas-agrees-to-phased-disarmament-in-gaza?traffic_source=rss",
+    "pubDate": "Fri, 31 Jul 2026 08:53:17 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-07-31T09:00:01.735Z"
+  },
+  {
+    "title": "China's MiniMax releases H3 video model - Reuters",
+    "description": "China's MiniMax releases H3 video model  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNDQ3NVlFdGNsSGlVcmUxZzV3YnVWX1V4bHhYc0xjYk0weFRhQWNCRG9JTjB0TmszWkRLSkxYamx2bHFWUWZnUS1QN05obnBMWTlWUnJfUHRiTllNNTlsWGVfaTBQRml4R0Y3N01USlFBZmo0bFgyRHRZV2htU0tRakxJSjdJSU41UWNPbmljdw?oc=5",
+    "pubDate": "Fri, 31 Jul 2026 04:42:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-07-31T09:00:01.735Z"
+  },
+  {
+    "title": "New York sues Kalshi, says its prediction markets are illegal gambling - Reuters",
+    "description": "New York sues Kalshi, says its prediction markets are illegal gambling  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRnNJcUllRGYxM2JsZ2JCa1F3dmNRbkt3SWI4eE54U0dhblllSzBBc216dmVHYU9xSkpBV3ZaQktFTWZ2RXVlbThDVGdGaTVKWDl4cXhidmNwelJNNjRRd2NyUGdiTXNVM3lVcUJoSHBEdkJCd0xxVGxmRDl0eTlEQlFPUHRLd3lJcnByNHFsaGx4YnhCRnhTSW93Yw?oc=5",
+    "pubDate": "Fri, 31 Jul 2026 04:10:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-07-31T09:00:01.735Z"
+  },
+  {
+    "title": "Port Washington on cusp of NY state little league title after last year’s heartbreak",
+    "description": "The tide is turning for Port Washington Little League.",
+    "link": "https://nypost.com/2026/07/31/sports/port-washington-on-cusp-of-ny-state-little-league-title-after-last-years-heartbreak/",
+    "pubDate": "Fri, 31 Jul 2026 04:57:10 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-31T09:00:01.735Z"
+  },
+  {
+    "title": "At least 18 die after breach of border between Morocco and Spanish territory of Ceuta",
+    "description": "CEUTA, Spain (AP) — At least 18 migrants died trying to reach the Spanish territory of Ceuta after thousands of people breached the frontier with Morocco and poured into the tiny Spanish territory. The border crisis boiled over Thursday and overnight. Spain’s state broadcaster RTVE broadcast images of burned cars on the Moroccan side of […]",
+    "link": "https://www.washingtonexaminer.com/policy/immigration/4670461/morocco-migrants-border-rush-spain-cueta/",
+    "pubDate": "Fri, 31 Jul 2026 08:47:08 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "immigration",
+      "world",
+      "europe",
+      "morocco",
+      "spain"
+    ],
+    "collectedAt": "2026-07-31T09:00:01.735Z"
   }
 ]
