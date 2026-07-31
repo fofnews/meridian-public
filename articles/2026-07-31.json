@@ -716,5 +716,34 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-07-31T08:15:02.714Z"
+  },
+  {
+    "title": "About 49,000 migrants enter Spanish enclave of Ceuta, officials say",
+    "description": "This comes after thousands of migrants were reported to have illegally crossed into the territory on Thursday and Friday.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 31 Jul 2026 08:20:49 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-07-31T08:30:02.293Z"
+  },
+  {
+    "title": "Israeli forces blow up structures near Lebanon’s Beaufort Castle",
+    "description": "Israel claims army blew up Hezbollah tunnels in southern Lebanon, amid reports of blasts near UNESCO-listed fortress.",
+    "link": "https://www.aljazeera.com/news/2026/7/31/israeli-forces-blow-up-structures-near-lebanons-beaufort-castle?traffic_source=rss",
+    "pubDate": "Fri, 31 Jul 2026 08:03:29 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-07-31T08:30:02.293Z"
+  },
+  {
+    "title": "Ex-youth pastor David Vander Meer who allegedly pushed wife off cliff before taking own life in jail proclaimed innocence in suicide note",
+    "description": "\"I was never afraid of legal action though, because I didn't kill her, and I never thought it would lead to an arrest.\"",
+    "link": "https://nypost.com/2026/07/31/us-news/ex-youth-pastor-david-vander-meer-who-allegedly-pushed-wife-off-cliff-before-taking-own-life-in-jail-proclaimed-innocence-in-suicide-note/",
+    "pubDate": "Fri, 31 Jul 2026 04:18:59 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-07-31T08:30:02.293Z"
   }
 ]
