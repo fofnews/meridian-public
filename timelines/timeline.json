@@ -1734,7 +1734,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-30",
+      "lastSeen": "2026-07-31",
       "active": true,
       "entries": [
         {
@@ -2446,6 +2446,11 @@
           "date": "2026-07-30",
           "edition": "evening",
           "update": "The U.S. launched a new heavy barrage of strikes against IRGC targets in Iran on Thursday, confirmed by NBC News and CBS News, following Iran's thwarted 'surprise attack' on American forces earlier in the week. Al Jazeera reported a large plume of smoke rising over Ahvaz and documented a family of three killed in strikes on Qeshm Island, while the IRGC released footage claiming to show naval missiles targeting U.S. aircraft in Jordan. A Quinnipiac University poll found 55% of Americans believe the conflict will last one year or more, with only 20% expecting a shorter duration, and a separate Quinnipiac survey showed declining voter support for military action. U.S. GDP growth slowed in Q2 as surging energy costs tied to the war weighed on economic activity, while the Fed's preferred PCE inflation gauge eased in June — a reading taken during a brief pause in fighting. Gulf states pressed China to restrain Iran through diplomatic channels, per Reuters, as a Saudi envoy informed the White House that Iran had crossed a red line, though Crown Prince Mohammed bin Salman sought to maintain calm. Democrats in Congress won approval of a measure calling on Trump to end the conflict, using procedural votes to put Republicans on record regarding the war."
+        },
+        {
+          "date": "2026-07-31",
+          "edition": "morning",
+          "update": "Drone strikes hit Egypt's Mediterranean port of Damietta on Wednesday, igniting fires aboard two natural gas vessels, with a NATO expert warning Newsweek the attack may heighten European fears that the conflict is spreading closer to their shores and risking disruption comparable to a Suez Crisis. Pakistani mediators confirmed that indirect U.S.-Iran negotiations are continuing despite ongoing exchanges of strikes between the two sides. Former U.S. Ambassador to the UAE Barbara Leaf warned via Al Jazeera that U.S. escalation with Iran is 'fairly pointless.' ABC News reported that a 14-point diplomatic deal signed by Trump with Iran in mid-June was intended as a resolution framework, but diplomacy is now described as faltering amid the expanding conflict."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3235,7 +3240,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-30",
+      "lastSeen": "2026-07-31",
       "active": true
     },
     {
@@ -3678,7 +3683,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-07-30",
+      "lastSeen": "2026-07-31",
       "active": true,
       "entries": [
         {
@@ -3905,6 +3910,11 @@
           "date": "2026-07-30",
           "edition": "evening",
           "update": "An attack struck an Egyptian port near the Suez Canal, according to the NY Times, compounding concerns about the vulnerability of the critical waterway through which a significant share of global shipping passes."
+        },
+        {
+          "date": "2026-07-31",
+          "edition": "morning",
+          "update": "Saudi Arabia convened representatives from nearly 50 countries in Riyadh to formally establish a multinational maritime defense coalition aimed at protecting Red Sea shipping routes from ongoing Houthi attacks on Saudi oil exports."
         }
       ]
     },
@@ -4238,7 +4248,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-30",
+      "lastSeen": "2026-07-31",
       "active": true,
       "entries": [
         {
@@ -4280,6 +4290,11 @@
           "date": "2026-07-30",
           "edition": "evening",
           "update": "Israeli strikes killed at least four people, including children, across Gaza as Hamas officials met with Qatari, Egyptian, and Turkish mediators in Cairo to discuss a potential truce, according to Al Jazeera. Reuters sources reported that Yemen's Houthi forces are launching attacks against Saudi Arabia from Iraqi territory, marking a significant escalation in the geographic scope of the regional conflict."
+        },
+        {
+          "date": "2026-07-31",
+          "edition": "morning",
+          "update": "The U.S. and Saudi Arabia conducted joint strikes on an Iranian-linked paramilitary group in Iraq, drawing anger within Iraq over the action. The New York Times reported that the U.S. and Iran have exchanged direct strikes, with a growing number of Middle Eastern nations being drawn into or directly participating in the conflict."
         }
       ]
     },
@@ -4312,7 +4327,22 @@
           "update": "Former Defense Department official Matthew Kroenig published a Wall Street Journal op-ed warning that the U.S.-Saudi nuclear deal 'invites disaster' and appeared on CBS News to elaborate on his concerns about the agreement's potential consequences."
         }
       ]
+    },
+    {
+      "id": "hamas-disarmament-and-gaza-peace-deal",
+      "title": "Hamas Disarmament and Gaza Peace Deal",
+      "parentId": "middle-east-military-conflicts-2026",
+      "firstSeen": "2026-07-31",
+      "lastSeen": "2026-07-31",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-07-31",
+          "edition": "morning",
+          "update": "Trump announced on Thursday that his 'Board of Peace' had reached what he called a 'historic' agreement for the complete disarmament of Hamas and all other armed groups in Gaza, to be carried out in phases and including an Israeli withdrawal of forces from the territory. Israel has not confirmed support for the plan, and multiple hurdles and conditions remain regarding its implementation."
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-07-30T21:09:00.029Z"
+  "updatedAt": "2026-07-31T11:06:38.339Z"
 }
