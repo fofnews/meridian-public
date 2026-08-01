@@ -818,5 +818,177 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-01T10:00:01.225Z"
+  },
+  {
+    "title": "Lebanese who fled the Israeli invasion visit to see what's left",
+    "description": "Residents of the ancient town of Nabatiyeh in southern Lebanon have endured wars in the past, but the latest conflict with Israel is testing the limits of their endurance.",
+    "link": "https://www.npr.org/2026/08/01/nx-s1-5910555/lebanon-israel-war-hezbollah",
+    "pubDate": "Sat, 01 Aug 2026 06:00:00 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-08-01T10:15:02.102Z"
+  },
+  {
+    "title": "More than 25,000 children lose previous legal protections, as federal contract ends",
+    "description": "Thousands of unaccompanied immigrant children are set to lose legal representation. The federal contract that pays for legal access expired Friday.",
+    "link": "https://www.npr.org/2026/08/01/nx-s1-5913679/immgirant-children-lawyers-trump-administration",
+    "pubDate": "Sat, 01 Aug 2026 06:00:00 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-08-01T10:15:02.102Z"
+  },
+  {
+    "title": "At least 67 dead in Ceuta border rush, as most migrants sent back to Morocco",
+    "description": "Death toll increases to 67 people, according to Spain's Ministry of the Interior, after about 50,000 people entered the Spanish enclave since Thursday morning, with most migrants returned to Morocco on Saturday.",
+    "link": "https://www.cbsnews.com/news/spain-ceuta-morocco-migrants-border-crossings/",
+    "pubDate": "Sat, 01 Aug 2026 06:07:29 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-08-01T10:15:02.102Z"
+  },
+  {
+    "title": "A brief timeline of Iranian cyberattacks on the U.S.",
+    "description": "Investigators are probing whether Iranian hackers are behind this week's malicious cyber activity against water systems in Minnesota. If they are found to be the culprits, it would not be the first time.",
+    "link": "https://www.cbsnews.com/news/iranian-cyberattacks-timeline-u-s-companies-water-systems-minnesota-hacked/",
+    "pubDate": "Sat, 01 Aug 2026 06:00:03 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-08-01T10:15:02.102Z"
+  },
+  {
+    "title": "Uefa has 'lost confidence' in Fifa leadership as investment plan scrapped",
+    "description": "Uefa says it has lost confidence in Gianni Infantino's Fifa leadership as the fallout from the scrapped controversial investment plan intensifies.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 01 Aug 2026 09:51:05 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-01T10:15:02.102Z"
+  },
+  {
+    "title": "UEFA says it has lost confidence in current FIFA leadership",
+    "description": "UEFA, who were the strongest opponents of FIFA's plan, slam the Gianni Infantino-led governing body despite standdown.",
+    "link": "https://www.aljazeera.com/sports/2026/8/1/uefa-welcomes-fifa-world-cup-standdown-after-voting-to-boycott?traffic_source=rss",
+    "pubDate": "Sat, 01 Aug 2026 10:05:45 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-08-01T10:15:02.102Z"
+  },
+  {
+    "title": "Nancy Guthrie sheriff says investigators may have more video evidence as they review thousands of clips",
+    "description": "Pima County Sheriff Chris Nanos says he believes there's more video evidence as investigators comb through 'tens of thousands' of clips. Ransom notes released in bid to ID suspect.",
+    "link": "https://www.foxnews.com/us/nancy-guthrie-sheriff-says-investigators-may-have-more-video-evidence-review-thousands-clips",
+    "pubDate": "Sat, 01 Aug 2026 06:00:56 -0400",
+    "source": "Fox News",
+    "categories": [
+      "7e7f69c4-a09a-5b5a-8b19-d0af52c3b935",
+      "fnc",
+      "fox news",
+      "fox-news/person/nancy-guthrie",
+      "fox-news/person/savannah-guthrie",
+      "fox-news/tech/topics/fbi",
+      "fox-news/topic/missing-persons",
+      "fox-news/us/true-crime",
+      "fox-news/us",
+      "fox-news/us/us-regions/southwest/arizona",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-08-01T10:15:02.102Z"
+  },
+  {
+    "title": "What’s old is new again: Trump-style conservative is back as PM of European nation",
+    "description": "Janez Janša formed a coalition government after losing Slovenia's election, reversing Robert Golob's policies on Israel, immigration,and business.",
+    "link": "https://www.foxnews.com/world/whats-old-new-again-trump-style-conservative-back-pm-european-nation",
+    "pubDate": "Sat, 01 Aug 2026 06:00:20 -0400",
+    "source": "Fox News",
+    "categories": [
+      "afcffe15-95f0-5805-b100-51993274a895",
+      "fnc",
+      "fox news",
+      "fox-news/world/world-regions/europe",
+      "fox-news/world/world-regions/israel",
+      "fox-news/us/immigration",
+      "fox-news/person/donald-trump",
+      "fox-news/world/conflicts/ukraine",
+      "fox-news/world/world-regions/the-balkans",
+      "fox-news/world",
+      "article"
+    ],
+    "collectedAt": "2026-08-01T10:15:02.102Z"
+  },
+  {
+    "title": "Brazen social media fraud schemes wreak havoc as Trump official issues stark warning for 'fraudfluencers'",
+    "description": "\"Fraudfluencers\" use social media to recruit others into government fraud schemes, says DOL Inspector General Anthony D'Esposito in a stark warning.",
+    "link": "https://www.foxnews.com/politics/brazen-social-media-fraud-schemes-wreak-havoc-trump-official-issues-stark-warning-fraudfluencers",
+    "pubDate": "Sat, 01 Aug 2026 06:00:02 -0400",
+    "source": "Fox News",
+    "categories": [
+      "0936bff6-4d92-5b52-ba22-91b28b814fba",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/entertainment/genres/crime",
+      "fox-news/us/immigration/enforcement",
+      "fox-news/person/donald-trump",
+      "fox-news/politics/executive",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-01T10:15:02.102Z"
+  },
+  {
+    "title": "American climber’s remains found after avalanche in Pakistan, other mountaineers still missing",
+    "description": "The remains of an American mountain climber who got caught in an avalanche in Pakistan were found on Friday, according to Pakistani officials.",
+    "link": "https://nypost.com/2026/08/01/world-news/american-climber-sarah-mallory-geis-remains-found-after-avalanche-in-pakistan/",
+    "pubDate": "Sat, 01 Aug 2026 06:14:01 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-01T10:15:02.102Z"
+  },
+  {
+    "title": "UFC Fight Night Belgrade predictions: Full card picks, best bets for Serbia",
+    "description": "Check out the Post's UFC Fight Night Belgrade predictions as the promotion heads to Serbia.",
+    "link": "https://nypost.com/2026/08/01/betting/ufc-fight-night-belgrade-predictions-serbia-full-card-picks-best-bets/",
+    "pubDate": "Sat, 01 Aug 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-01T10:15:02.102Z"
+  },
+  {
+    "title": "Races to watch in Virginia in state’s first election since redistricting battle",
+    "description": "Virginians will head to the ballot boxes on Tuesday to make their voices heard in the Old Dominion’s 2026 primary elections. The state’s election schedule was upended by Democrats’ proposed redistricting measure, which pushed back primaries from mid-June to Aug. 4, but the new map ultimately failed to take effect. When the state Supreme Court struck down […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4668736/races-to-watch-virginia-first-election-since-redistricting-battle/",
+    "pubDate": "Sat, 01 Aug 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "congressional",
+      "2026 elections",
+      "congress",
+      "democratic primary",
+      "mark warner",
+      "midterm elections",
+      "primaries",
+      "republican primary",
+      "virginia"
+    ],
+    "collectedAt": "2026-08-01T10:15:02.102Z"
+  },
+  {
+    "title": "First round of August Social Security payments goes out in 11 days",
+    "description": "The first round of August Social Security payments for retirees, now capped at $5,181, will be issued in 11 days. When will payments arrive? Retirees born on or before the 10th of a month will receive this payment on Wednesday, Aug. 12. The second round will go out on Aug. 19 to those born between […]",
+    "link": "https://www.washingtonexaminer.com/news/4648502/first-round-august-social-security-payments-goes-out-11-days/",
+    "pubDate": "Sat, 01 Aug 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "finance",
+      "money",
+      "retirement",
+      "social security",
+      "social security administration"
+    ],
+    "collectedAt": "2026-08-01T10:15:02.102Z"
   }
 ]
