@@ -5326,5 +5326,99 @@
     "source": "Newsmax",
     "categories": [],
     "collectedAt": "2026-08-01T19:30:01.281Z"
+  },
+  {
+    "title": "Yankees Trade Former All-Star Reliever to Pirates",
+    "description": "The New York Yankees have made a notable move, as they have traded relief pitcher Camilo Doval to the Pittsburgh Pirates.",
+    "link": "https://www.newsweek.com/sports/mlb/yankees-trade-former-all-star-reliever-to-pirates-12274353",
+    "pubDate": "Sat, 01 Aug 2026 15:37:42 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-01T19:45:01.229Z"
+  },
+  {
+    "title": "Baby boomers hate 10 things about today's grocery stores",
+    "description": "From self-checkout frustrations to digital coupons and understaffing, baby boomers have strong opinions about how modern grocery stores have changed.",
+    "link": "https://www.foxnews.com/food-drink/baby-boomers-hate-10-things-todays-grocery-stores",
+    "pubDate": "Sat, 01 Aug 2026 15:29:42 -0400",
+    "source": "Fox News",
+    "categories": [
+      "cd3c7530-26bc-5ca7-8be6-00ccae4d20cf",
+      "fnc",
+      "fox news",
+      "fox-news/us/economy/consumerism",
+      "fox-news/deals/kitchen/grocery-deals",
+      "fox-news/topic/trending-news",
+      "fox-news/food-drink",
+      "article"
+    ],
+    "collectedAt": "2026-08-01T19:45:01.229Z"
+  },
+  {
+    "title": "Fans stunned at Travis Kelce's training camp physique after nuptials to Taylor Swift",
+    "description": "Fans poke fun at Travis Kelce's physique after videos of the Kansas City Chiefs star at training camp surface online just weeks after he married Taylor Swift.",
+    "link": "https://www.foxnews.com/sports/fans-stunned-travis-kelce-training-camp-physique-nuptials-taylor-swift",
+    "pubDate": "Sat, 01 Aug 2026 15:28:00 -0400",
+    "source": "Fox News",
+    "categories": [
+      "ddad889e-0bdd-5371-b9d2-a43eeb511c0d",
+      "fnc",
+      "fox news",
+      "fox-news/sports/nfl/kansas-city-chiefs",
+      "fox-news/sports",
+      "fox-news/person/taylor-swift",
+      "fox-news/person/travis-kelce",
+      "fox-news/sports/nfl",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-08-01T19:45:01.229Z"
+  },
+  {
+    "title": "Candace Owens releases footage she claims shows never-before-seen angle of Charlie Kirk assassination",
+    "description": "Candace Owens released unseen security footage of the Charlie Kirk assassination, fueling conspiracy theories about accused shooter Tyler Robinson.",
+    "link": "https://nypost.com/2026/08/01/us-news/candace-owens-shares-alleged-charlie-kirk-assassination-footage/",
+    "pubDate": "Sat, 01 Aug 2026 15:41:19 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-01T19:45:01.229Z"
+  },
+  {
+    "title": "Nikki Bella reveals she’s ‘super celibate’ nearly 2 years after splitting from ex-husband Artem Chigvintsev",
+    "description": "The wrestling star and her ex-husband separated in 2024 after two years of marriage.",
+    "link": "https://pagesix.com/2026/08/01/celebrity-news/nikki-bella-reveals-shes-super-celibate-nearly-2-years-after-splitting-from-ex-husband-artem-chigvintsev/",
+    "pubDate": "Sat, 01 Aug 2026 15:40:39 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-01T19:45:01.229Z"
+  },
+  {
+    "title": "Swedish conman ‘El Silencio’ learns fate for duping Pablo Escobar fans with fake flamethrowers",
+    "description": "That's the dream Swedish con man Olof Kyros Gustafsson sold to fans looking for a piece of the famed cartel don — before they realized they were duped, according to a new sentencing document released Friday.",
+    "link": "https://nypost.com/2026/08/01/us-news/swedish-man-who-conned-pablo-escobar-fans-with-fake-flamethrowers-sentenced-to-prison/",
+    "pubDate": "Sat, 01 Aug 2026 15:31:06 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-01T19:45:01.229Z"
+  },
+  {
+    "title": "Water supply cyberattacks spread as Michigan follows Minnesota in reporting hacks",
+    "description": "Michigan officials on Saturday reported cyberattacks on nine of the state’s water systems, as investigators look into whether Iran is linked to a spate of similar hacks on states across the country. The FBI is investigating after Michigan received a federal cyber alert Tuesday about attempts to tamper with the water systems’ operational technology. The […]",
+    "link": "https://www.washingtonexaminer.com/news/crime/4672003/water-supply-cyberattack-michigan-minnesota/",
+    "pubDate": "Sat, 01 Aug 2026 19:20:06 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "crime",
+      "technology",
+      "cyber",
+      "cybersecurity",
+      "fbi",
+      "infrastructure",
+      "iran",
+      "michigan",
+      "minnesota",
+      "tim walz"
+    ],
+    "collectedAt": "2026-08-01T19:45:01.229Z"
   }
 ]
