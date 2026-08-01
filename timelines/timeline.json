@@ -295,7 +295,7 @@
         {
           "date": "2026-08-01",
           "edition": "morning",
-          "update": "Epstein survivor Dani Bensky traveled to Capitol Hill to lobby senators against confirming Todd Blanche as attorney general, calling him 'walking perjury' in an interview with CBS News."
+          "update": "Epstein survivor Dani Bensky visited Capitol Hill to lobby senators against confirming Todd Blanche as attorney general, calling him 'walking perjury' in a CBS News interview."
         }
       ],
       "parentId": null
@@ -825,7 +825,7 @@
         {
           "date": "2026-08-01",
           "edition": "morning",
-          "update": "Trump backed away from a deal that would have allowed Ukraine to manufacture Patriot missile interceptors domestically, according to the NY Times, despite Zelensky's warnings about dwindling air defense stocks. The Lithuanian embassy in Kyiv was damaged in a Russian missile attack. Thousands of demonstrators gathered on Kyiv's main street to demand the return of the defence minister, according to Reuters. Ukraine and its allies have been working to shift skepticism of the war effort within Trump's MAGA movement, including outreach to Trump ally Laura Loomer, according to the NY Times."
+          "update": "Trump backed away from a deal that would have allowed Ukraine to manufacture Patriot missile interceptors domestically, despite Zelensky's warnings that Ukraine is running low on the munitions. The Lithuanian embassy in Kyiv was damaged in a Russian missile attack. Thousands of protesters gathered on Kyiv's main street calling for the return of a defence minister. Ukraine and its supporters have been working to counter skepticism about the war effort within Trump's MAGA movement, including outreach toward Trump ally Laura Loomer."
         }
       ],
       "parentId": null
@@ -935,7 +935,7 @@
         {
           "date": "2026-08-01",
           "edition": "morning",
-          "update": "A California CEO was arrested and charged for allegedly orchestrating a murder-for-hire plot targeting a Mexican businessman over an unpaid debt, according to the New York Post. Antonio Oseguera Cervantes, brother of CJNG leader 'El Mencho,' pleaded guilty to U.S. drug charges, with federal prosecutors saying he worked alongside his brother Nemesio Rubén Oseguera Cervantes."
+          "update": "Antonio Oseguera Cervantes, brother of CJNG leader 'El Mencho,' pleaded guilty to U.S. drug charges, with federal prosecutors stating he worked in the cartel alongside his brother Nemesio Rubén Oseguera Cervantes."
         }
       ],
       "parentId": null
@@ -1255,7 +1255,7 @@
         {
           "date": "2026-08-01",
           "edition": "morning",
-          "update": "Iranian Kurdish political parties based in Iraq have faced heavy attacks from Iran, while most of the groups deny receiving assistance from the United States, according to Al Jazeera."
+          "update": "Iranian Kurdish political parties based in Iraq have faced heavy attacks from Iran while navigating a delicate position, with most groups denying they receive U.S. assistance, according to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1760,7 +1760,7 @@
         {
           "date": "2026-08-01",
           "edition": "morning",
-          "update": "Israeli settlers vandalized a Palestinian cemetery in the West Bank, and BBC News reports settler violence against Palestinians is increasing, with one settler telling the BBC that attacks are justified as revenge. Israeli attacks across Gaza killed at least two Palestinians in the hours after Hamas agreed to a draft peace deal including disarmament. Netanyahu faces political turmoil domestically over the Gaza disarmament and withdrawal plan, while the NY Times reports tensions may be emerging again between Trump and Netanyahu over Gaza. U.S. officials implementing the 15-point Gaza demilitarization plan are tempering expectations, with one source quoted saying 'There is no trust. There is only fear and loathing,' and the plan estimated to take 200 to 350 days. Residents returning to Nabatiyeh in southern Lebanon found the latest Israeli invasion more devastating than any previous conflict they had endured."
+          "update": "Residents of Nabatiyeh, an ancient town in southern Lebanon, began returning to find the latest Israeli invasion more devastating than previous wars. Israel launched attacks across Gaza killing at least two Palestinians hours after Hamas agreed to a draft peace deal that included disarmament."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2495,7 +2495,7 @@
         {
           "date": "2026-08-01",
           "edition": "morning",
-          "update": "President Trump stated the Iran conflict is not over and that Iran will 'peter out,' while acknowledging the five-month war could persist into the November midterm elections. U.S. and Israeli officials are planning renewed strikes on Iranian energy infrastructure as soon as the weekend, described as potentially 'one of the harshest bombing campaigns to date,' according to CBS News and The Hill. BBC Verify analyzed satellite imagery of Iran's 'Pickaxe Mountain' site amid Trump's statements that the U.S. is considering striking it. The NY Times reported that U.S. allies fear a strategic defeat, citing the closed Strait of Hormuz and none of Trump's stated war aims accomplished, while a former Congress analyst told Al Jazeera that Washington has reached a strategic dead end. Major U.S. oil companies including Exxon and Chevron reported surging profits from the conflict while warning that fuel prices could remain elevated."
+          "update": "President Trump warned the conflict with Iran is not over, saying Iran will 'peter out' as U.S. strikes continue while acknowledging the five-month conflict could persist through November midterm elections. U.S. officials told CBS News and other outlets that the U.S. and Israel are planning renewed strikes on Iranian energy infrastructure as soon as the coming weekend, described as potentially 'one of the harshest bombing campaigns to date.' BBC Verify analysed satellite imagery of Iran's Pickaxe Mountain facility amid Trump's stated desire to bomb the site. The NY Times reported that U.S. allies fear a strategic defeat for Washington, with the Strait of Hormuz closed and none of Trump's stated objectives achieved. A former U.S. congressional analyst told Al Jazeera that Washington has reached a strategic dead end, while the NY Times fact-checked Trump's claims about the conflict, finding he misleadingly attributed munitions stockpile concerns to Biden-era Ukraine transfers."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3974,7 +3974,7 @@
         {
           "date": "2026-08-01",
           "edition": "morning",
-          "update": "Yemen's Houthi movement denied reports that it plans to charge fees for ships transiting the Red Sea, stating the route remains free to use. The United Kingdom Maritime Trade Operations reported two separate tanker incidents off the coast of Oman."
+          "update": "Yemen's Houthi movement denied reports that it plans to charge fees for ships transiting the Red Sea, stating the route remains free. The UKMTO reported two separate tanker incidents off the coast of Oman."
         }
       ]
     },
@@ -4364,7 +4364,7 @@
         {
           "date": "2026-08-01",
           "edition": "morning",
-          "update": "U.S. missile interceptor stockpiles are shrinking amid the ongoing Middle East conflict, raising concerns about military readiness, according to Fox News."
+          "update": "Tensions emerged between President Trump and Israeli Prime Minister Netanyahu over Gaza plans, coinciding with strains in their relationship regarding the Iran war. Netanyahu faces domestic political turmoil over the Gaza disarmament plan linked to a potential Israeli withdrawal. U.S. missile interceptor stockpiles are shrinking amid the ongoing conflict, raising concerns about military readiness. Major U.S. oil companies including ExxonMobil and Chevron reported surging profits as the Iran conflict drives energy prices higher, with both firms warning that fuel prices are expected to remain elevated."
         }
       ]
     },
@@ -4403,31 +4403,21 @@
       "title": "US Cyberattacks and Infrastructure Security",
       "parentId": null,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-07-31",
+      "lastSeen": "2026-08-01",
       "active": true,
       "entries": [
         {
           "date": "2026-07-31",
           "edition": "evening",
           "update": "More than 30 community water systems across Minnesota were hit by a coordinated cyberattack, with U.S. investigators assessing that Iranian-backed hackers are likely responsible. President Trump publicly rejected Iran's culpability, instead blaming Governor Tim Walz — calling him 'corrupt' and the state government 'grossly incompetent' — as the FBI opened a formal investigation into the incident."
-        }
-      ]
-    },
-    {
-      "id": "spain-europe-migrant-crisis",
-      "title": "Spain-Europe Migrant Crisis",
-      "parentId": null,
-      "firstSeen": "2026-08-01",
-      "lastSeen": "2026-08-01",
-      "active": true,
-      "entries": [
+        },
         {
           "date": "2026-08-01",
           "edition": "morning",
-          "update": "Tens of thousands of migrants crossed from Morocco into Spain's Ceuta enclave beginning Thursday, with at least 67 people dying in the attempt according to Spanish authorities. Most of those who entered have since returned across the border to Morocco."
+          "update": "The cyberattack investigation has expanded to water systems across seven states, beyond the previously reported Minnesota systems."
         }
       ]
     }
   ],
-  "updatedAt": "2026-08-01T11:06:29.754Z"
+  "updatedAt": "2026-08-01T11:06:40.108Z"
 }
