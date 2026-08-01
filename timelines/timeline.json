@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-26",
+      "lastSeen": "2026-08-01",
       "active": true,
       "entries": [
         {
@@ -291,6 +291,11 @@
           "date": "2026-07-26",
           "edition": "morning",
           "update": "The NY Times identified Karyna Shuliak, 37, as Jeffrey Epstein's girlfriend and likely primary heir to his estate, noting she has sought to avoid public attention since his death. The Times also published a summary of key findings on Epstein's case and its international dimensions involving money, power, and complicity among prominent figures."
+        },
+        {
+          "date": "2026-08-01",
+          "edition": "morning",
+          "update": "Epstein survivor Dani Bensky traveled to Capitol Hill to lobby senators against confirming Todd Blanche as attorney general, calling him 'walking perjury' in an interview with CBS News."
         }
       ],
       "parentId": null
@@ -419,7 +424,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-31",
+      "lastSeen": "2026-08-01",
       "active": true,
       "entries": [
         {
@@ -816,6 +821,11 @@
           "date": "2026-07-31",
           "edition": "evening",
           "update": "Russian forces have reportedly infiltrated most of Kostiantynivka as Moscow attempts to regain offensive momentum in eastern Ukraine. Ukraine struck Russian oil refineries multiple times while Russia attacked Dnipropetrovsk and hit a cargo vessel near Odesa. Russia's grain lobby warned that Ukrainian strikes in the Black Sea region threaten Russian grain exports and global food security. President Trump walked back his earlier support for providing Patriot missile systems to Ukraine, stating he is 'not sure' about the matter. Ukraine separately offered the Pentagon access to test its battlefield drones at reduced cost, though Kyiv indicated it cannot transfer associated technological secrets without compensation."
+        },
+        {
+          "date": "2026-08-01",
+          "edition": "morning",
+          "update": "Trump backed away from a deal that would have allowed Ukraine to manufacture Patriot missile interceptors domestically, according to the NY Times, despite Zelensky's warnings about dwindling air defense stocks. The Lithuanian embassy in Kyiv was damaged in a Russian missile attack. Thousands of demonstrators gathered on Kyiv's main street to demand the return of the defence minister, according to Reuters. Ukraine and its allies have been working to shift skepticism of the war effort within Trump's MAGA movement, including outreach to Trump ally Laura Loomer, according to the NY Times."
         }
       ],
       "parentId": null
@@ -824,7 +834,7 @@
       "id": "sinaloa-cartel-violence",
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-29",
+      "lastSeen": "2026-08-01",
       "active": true,
       "entries": [
         {
@@ -921,6 +931,11 @@
           "date": "2026-07-29",
           "edition": "evening",
           "update": "Seven charred bodies were found in a house in Ecuador accompanied by narco gang-related messages, according to CBS News, amid the country's ongoing crisis as a cocaine trafficking hub with gang ties to Mexican and Colombian cartels."
+        },
+        {
+          "date": "2026-08-01",
+          "edition": "morning",
+          "update": "A California CEO was arrested and charged for allegedly orchestrating a murder-for-hire plot targeting a Mexican businessman over an unpaid debt, according to the New York Post. Antonio Oseguera Cervantes, brother of CJNG leader 'El Mencho,' pleaded guilty to U.S. drug charges, with federal prosecutors saying he worked alongside his brother Nemesio Rubén Oseguera Cervantes."
         }
       ],
       "parentId": null
@@ -979,7 +994,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-31",
+      "lastSeen": "2026-08-01",
       "active": true,
       "entries": [
         {
@@ -1236,6 +1251,11 @@
           "date": "2026-07-31",
           "edition": "evening",
           "update": "Ukraine struck an Iranian ship, with the NY Times reporting the attack reflects consequences of Iran's military aid shipments to Russia and highlights a potential convergence between the Russia-Ukraine conflict and the broader U.S.-Israeli confrontation with Iran."
+        },
+        {
+          "date": "2026-08-01",
+          "edition": "morning",
+          "update": "Iranian Kurdish political parties based in Iraq have faced heavy attacks from Iran, while most of the groups deny receiving assistance from the United States, according to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1379,7 +1399,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-30",
+      "lastSeen": "2026-08-01",
       "active": true,
       "entries": [
         {
@@ -1736,6 +1756,11 @@
           "date": "2026-07-30",
           "edition": "evening",
           "update": "Al Jazeera reports that the Lebanese village of Qana has been bombed by Israeli forces three times in three decades, with its designated shelters repeatedly struck despite their protected status."
+        },
+        {
+          "date": "2026-08-01",
+          "edition": "morning",
+          "update": "Israeli settlers vandalized a Palestinian cemetery in the West Bank, and BBC News reports settler violence against Palestinians is increasing, with one settler telling the BBC that attacks are justified as revenge. Israeli attacks across Gaza killed at least two Palestinians in the hours after Hamas agreed to a draft peace deal including disarmament. Netanyahu faces political turmoil domestically over the Gaza disarmament and withdrawal plan, while the NY Times reports tensions may be emerging again between Trump and Netanyahu over Gaza. U.S. officials implementing the 15-point Gaza demilitarization plan are tempering expectations, with one source quoted saying 'There is no trust. There is only fear and loathing,' and the plan estimated to take 200 to 350 days. Residents returning to Nabatiyeh in southern Lebanon found the latest Israeli invasion more devastating than any previous conflict they had endured."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1744,7 +1769,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-07-31",
+      "lastSeen": "2026-08-01",
       "active": true,
       "entries": [
         {
@@ -2466,6 +2491,11 @@
           "date": "2026-07-31",
           "edition": "evening",
           "update": "Former Defense Secretary Leon Panetta warned that the U.S. is 'locked into an unwinnable war' with Iran, cautioning that recent heavy exchanges of strikes risk locking the two sides into a prolonged military engagement with no clear exit."
+        },
+        {
+          "date": "2026-08-01",
+          "edition": "morning",
+          "update": "President Trump stated the Iran conflict is not over and that Iran will 'peter out,' while acknowledging the five-month war could persist into the November midterm elections. U.S. and Israeli officials are planning renewed strikes on Iranian energy infrastructure as soon as the weekend, described as potentially 'one of the harshest bombing campaigns to date,' according to CBS News and The Hill. BBC Verify analyzed satellite imagery of Iran's 'Pickaxe Mountain' site amid Trump's statements that the U.S. is considering striking it. The NY Times reported that U.S. allies fear a strategic defeat, citing the closed Strait of Hormuz and none of Trump's stated war aims accomplished, while a former Congress analyst told Al Jazeera that Washington has reached a strategic dead end. Major U.S. oil companies including Exxon and Chevron reported surging profits from the conflict while warning that fuel prices could remain elevated."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3255,7 +3285,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-31",
+      "lastSeen": "2026-08-01",
       "active": true
     },
     {
@@ -3708,7 +3738,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-07-31",
+      "lastSeen": "2026-08-01",
       "active": true,
       "entries": [
         {
@@ -3940,6 +3970,11 @@
           "date": "2026-07-31",
           "edition": "evening",
           "update": "Iran claimed it targeted U.S. facilities in Kuwait and struck two tankers in the Strait of Hormuz that were operating under U.S. aerial escort, according to CBS News. ExxonMobil and Chevron reported combined Q2 profits of approximately $26.5 billion — a more than 300% increase from the previous quarter — as rising energy prices driven by the ongoing conflict boosted earnings."
+        },
+        {
+          "date": "2026-08-01",
+          "edition": "morning",
+          "update": "Yemen's Houthi movement denied reports that it plans to charge fees for ships transiting the Red Sea, stating the route remains free to use. The United Kingdom Maritime Trade Operations reported two separate tanker incidents off the coast of Oman."
         }
       ]
     },
@@ -4273,7 +4308,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-07-31",
+      "lastSeen": "2026-08-01",
       "active": true,
       "entries": [
         {
@@ -4325,6 +4360,11 @@
           "date": "2026-07-31",
           "edition": "evening",
           "update": "President Trump announced late Thursday that Hamas agreed to the next phase of the Gaza peace deal, which includes Hamas disarming in exchange for an Israeli withdrawal from Gaza. Senior Hamas official Bassem Naim confirmed Friday that Hamas had agreed to a disarmament roadmap, and Trump's Board of Peace published a 15-point implementation plan the same day. Palestinians in Gaza expressed widespread skepticism and exhaustion over the agreement, with residents voicing little hope for a lasting end to the war. BBC correspondent Jeremy Bowen noted the plan faces significant obstacles including political distrust and the scale of destruction in Gaza, while National Review cautioned that second phases of multi-phase deals often fail to materialize. Al Jazeera separately reported a critical shortage of CT scan machines in Gaza is worsening medical outcomes for patients."
+        },
+        {
+          "date": "2026-08-01",
+          "edition": "morning",
+          "update": "U.S. missile interceptor stockpiles are shrinking amid the ongoing Middle East conflict, raising concerns about military readiness, according to Fox News."
         }
       ]
     },
@@ -4372,7 +4412,22 @@
           "update": "More than 30 community water systems across Minnesota were hit by a coordinated cyberattack, with U.S. investigators assessing that Iranian-backed hackers are likely responsible. President Trump publicly rejected Iran's culpability, instead blaming Governor Tim Walz — calling him 'corrupt' and the state government 'grossly incompetent' — as the FBI opened a formal investigation into the incident."
         }
       ]
+    },
+    {
+      "id": "spain-europe-migrant-crisis",
+      "title": "Spain-Europe Migrant Crisis",
+      "parentId": null,
+      "firstSeen": "2026-08-01",
+      "lastSeen": "2026-08-01",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-08-01",
+          "edition": "morning",
+          "update": "Tens of thousands of migrants crossed from Morocco into Spain's Ceuta enclave beginning Thursday, with at least 67 people dying in the attempt according to Spanish authorities. Most of those who entered have since returned across the border to Morocco."
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-07-31T21:08:51.281Z"
+  "updatedAt": "2026-08-01T11:06:29.754Z"
 }
