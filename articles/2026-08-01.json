@@ -397,5 +397,41 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-01T08:30:01.299Z"
+  },
+  {
+    "title": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
+    "description": "Most of those who surged into the territory, a Spanish exclave in Africa, have returned across the border to Morocco. At least 67 people died trying to enter, the authorities said.",
+    "link": "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html",
+    "pubDate": "Sat, 01 Aug 2026 08:28:04 +0000",
+    "source": "NY Times",
+    "categories": [
+      "migrant surge into ceuta, spain (2026)",
+      "spain",
+      "morocco",
+      "ceuta (spain)",
+      "sanchez perez-castejon, pedro (1972- )",
+      "feijoo, alberto nunez"
+    ],
+    "collectedAt": "2026-08-01T08:45:01.266Z"
+  },
+  {
+    "title": "Democrats admit when they'd eliminate the filibuster as SAVE Act fight heats up",
+    "description": "Trump urges John Thune to eliminate the Senate filibuster or cancel August recess until lawmakers pass the SAVE Act election integrity bill.",
+    "link": "https://www.foxnews.com/politics/democrats-admit-when-theyd-eliminate-filibuster-save-act-fight-heats",
+    "pubDate": "Sat, 01 Aug 2026 04:00:00 -0400",
+    "source": "Fox News",
+    "categories": [
+      "11dc9695-2084-532b-81ec-77e8c44c14c9",
+      "fnc",
+      "fox news",
+      "fox-news/politics/elections/senate",
+      "fox-news/us/democratic-party",
+      "fox-news/politics",
+      "fox-news/person/john-thune",
+      "fox-news/politics/house-of-representatives/republicans",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-01T08:45:01.266Z"
   }
 ]
