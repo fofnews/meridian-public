@@ -826,6 +826,11 @@
           "date": "2026-08-01",
           "edition": "morning",
           "update": "Trump backed away from a deal that would have allowed Ukraine to manufacture Patriot missile interceptors domestically, despite Zelensky's warnings that Ukraine is running low on the munitions. The Lithuanian embassy in Kyiv was damaged in a Russian missile attack. Thousands of protesters gathered on Kyiv's main street calling for the return of a defence minister. Ukraine and its supporters have been working to counter skepticism about the war effort within Trump's MAGA movement, including outreach toward Trump ally Laura Loomer."
+        },
+        {
+          "date": "2026-08-01",
+          "edition": "evening",
+          "update": "A Russian overnight ballistic missile barrage struck five districts of Kyiv, killing nine people. A Rosatom civilian vessel sank in the Black Sea following a Ukrainian drone attack, though all crew survived, and Ukrainian strikes on Crimean power infrastructure left residents without electricity and queuing for hot meals. During Zelensky's U.S. visit for Sen. Lindsey Graham's memorial service, the Ukrainian president reportedly asked Trump in a closed-door Oval Office meeting to persuade Elon Musk to expand Starlink access for Ukrainian drone strike operations against Russia."
         }
       ],
       "parentId": null
@@ -1761,6 +1766,11 @@
           "date": "2026-08-01",
           "edition": "morning",
           "update": "Residents of Nabatiyeh, an ancient town in southern Lebanon, began returning to find the latest Israeli invasion more devastating than previous wars. Israel launched attacks across Gaza killing at least two Palestinians hours after Hamas agreed to a draft peace deal that included disarmament."
+        },
+        {
+          "date": "2026-08-01",
+          "edition": "evening",
+          "update": "Israel reported killing several Hezbollah members on a strategic hilltop ridge in southern Lebanon, an incident described as challenging the fragile ceasefire between Israel and the Iran-backed group."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2496,6 +2506,11 @@
           "date": "2026-08-01",
           "edition": "morning",
           "update": "President Trump warned the conflict with Iran is not over, saying Iran will 'peter out' as U.S. strikes continue while acknowledging the five-month conflict could persist through November midterm elections. U.S. officials told CBS News and other outlets that the U.S. and Israel are planning renewed strikes on Iranian energy infrastructure as soon as the coming weekend, described as potentially 'one of the harshest bombing campaigns to date.' BBC Verify analysed satellite imagery of Iran's Pickaxe Mountain facility amid Trump's stated desire to bomb the site. The NY Times reported that U.S. allies fear a strategic defeat for Washington, with the Strait of Hormuz closed and none of Trump's stated objectives achieved. A former U.S. congressional analyst told Al Jazeera that Washington has reached a strategic dead end, while the NY Times fact-checked Trump's claims about the conflict, finding he misleadingly attributed munitions stockpile concerns to Biden-era Ukraine transfers."
+        },
+        {
+          "date": "2026-08-01",
+          "edition": "evening",
+          "update": "Iran's state media reported that Tehran has a retaliation plan ready and warned against the 'flames of war' following U.S. media reports of imminent strikes on Iranian energy infrastructure. The NY Times reported that Iran secretly developed a plan during the ceasefire period, coordinated with its proxy forces, to escalate the conflict and raise costs for the U.S. if new strikes were ordered. A top U.S. general warned Pentagon leadership that Washington lacks sufficient military power to defend Israel and other regional allies from an Iranian missile attack, despite U.S. naval destroyers deployed in the eastern Mediterranean, according to the Washington Examiner."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3975,6 +3990,11 @@
           "date": "2026-08-01",
           "edition": "morning",
           "update": "Yemen's Houthi movement denied reports that it plans to charge fees for ships transiting the Red Sea, stating the route remains free. The UKMTO reported two separate tanker incidents off the coast of Oman."
+        },
+        {
+          "date": "2026-08-01",
+          "edition": "evening",
+          "update": "The Gaslog Shanghai, a Qatari-flagged LNG tanker, was struck by a missile while transiting the Strait of Hormuz, sustaining engine room damage that left it inoperable off the Omani coast. Two additional tankers were struck near the Strait as Iran issued warnings of wider shipping disruption in the region. U.S. embassies across the Middle East urged American citizens to depart the region amid the escalating incidents."
         }
       ]
     },
@@ -4365,6 +4385,11 @@
           "date": "2026-08-01",
           "edition": "morning",
           "update": "Tensions emerged between President Trump and Israeli Prime Minister Netanyahu over Gaza plans, coinciding with strains in their relationship regarding the Iran war. Netanyahu faces domestic political turmoil over the Gaza disarmament plan linked to a potential Israeli withdrawal. U.S. missile interceptor stockpiles are shrinking amid the ongoing conflict, raising concerns about military readiness. Major U.S. oil companies including ExxonMobil and Chevron reported surging profits as the Iran conflict drives energy prices higher, with both firms warning that fuel prices are expected to remain elevated."
+        },
+        {
+          "date": "2026-08-01",
+          "edition": "evening",
+          "update": "OPEC+ is considering lifting oil production quotas for a sixth consecutive month, though the Wall Street Journal notes that export capacity constraints may limit the practical impact on global prices. Analysts have identified three distinct, divergent investor trades in fertilizer stocks tied to Iran conflict and Strait of Hormuz tensions, with an overlooked risk from China flagged as a concern."
         }
       ]
     },
@@ -4419,5 +4444,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-01T11:06:40.108Z"
+  "updatedAt": "2026-08-01T21:04:41.225Z"
 }
