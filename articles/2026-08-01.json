@@ -550,5 +550,54 @@
     "source": "Newsweek",
     "categories": [],
     "collectedAt": "2026-08-01T09:15:01.449Z"
+  },
+  {
+    "title": "Iran live updates: Trump weighs strikes on Iranian energy sites, US officials say",
+    "description": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.",
+    "link": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-progress-made-strait-hormuz/?id=135110405",
+    "pubDate": "Sat, 01 Aug 2026 05:15:27 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-08-01T09:30:01.649Z"
+  },
+  {
+    "title": "A Fauci hearing turns combative, and a 17-year-old leaves pro runners in the dust: The news quiz",
+    "description": "World leaders pay their respects to Lindsey Graham, a dating app tries out AI makeovers, and BTS takes a stand against the Grammys.",
+    "link": "https://www.nbcnews.com/news/news-quiz/fauci-hearing-turns-combative-17-year-old-leaves-runners-dust-news-qui-rcna590123",
+    "pubDate": "Sat, 01 Aug 2026 09:15:00 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-08-01T09:30:01.649Z"
+  },
+  {
+    "title": "Toddler Looks ‘Perfectly Healthy,’ but Family Know Heartbreaking Truth",
+    "description": "\"Watching my daughter progress with this disease in real time is the worst thing,\" Samantha Clark told Newsweek.",
+    "link": "https://www.newsweek.com/toddler-looks-perfectly-healthy-but-family-know-heartbreaking-truth-12269354",
+    "pubDate": "Sat, 01 Aug 2026 05:15:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-01T09:30:01.649Z"
+  },
+  {
+    "title": "Board of Peace ‘still not celebrating’ Hamas deal: ‘There is no trust. There is only fear and loathing’",
+    "description": "President Donald Trump announced his Board of Peace’s 15-point plan for demilitarizing Gaza with a triumphant tone, but the officials actually implementing the plan are not taking any victory laps yet. The 15-point plan is expected to take anywhere between 200 and 350 days to complete, and this new deal is only just getting off […]",
+    "link": "https://www.washingtonexaminer.com/news/world/4671200/board-of-peace-not-celebrating-plan-hamas-no-trust-israel-pushback/",
+    "pubDate": "Sat, 01 Aug 2026 09:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "world",
+      "board of peace",
+      "donald trump",
+      "gaza",
+      "hamas",
+      "idf",
+      "israel",
+      "palestinians",
+      "peace",
+      "terrorism"
+    ],
+    "collectedAt": "2026-08-01T09:30:01.649Z"
   }
 ]
