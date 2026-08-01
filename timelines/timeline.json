@@ -830,7 +830,7 @@
         {
           "date": "2026-08-01",
           "edition": "evening",
-          "update": "A Russian overnight ballistic missile barrage struck five districts of Kyiv, killing nine people. A Rosatom civilian vessel sank in the Black Sea following a Ukrainian drone attack, though all crew survived, and Ukrainian strikes on Crimean power infrastructure left residents without electricity and queuing for hot meals. During Zelensky's U.S. visit for Sen. Lindsey Graham's memorial service, the Ukrainian president reportedly asked Trump in a closed-door Oval Office meeting to persuade Elon Musk to expand Starlink access for Ukrainian drone strike operations against Russia."
+          "update": "A Russian overnight ballistic missile barrage struck five districts of Kyiv, killing nine people. A Rosatom civilian vessel sank in the Black Sea following a Ukrainian drone attack, with all crew members surviving. Ukrainian strikes on power infrastructure in Crimea disrupted electricity services, with families seen queuing for hot meals. Zelensky reportedly asked Trump in a closed-door Oval Office meeting to help persuade Elon Musk to expand Starlink access to enable its use in Ukrainian drone strikes against Russia."
         }
       ],
       "parentId": null
@@ -1261,6 +1261,11 @@
           "date": "2026-08-01",
           "edition": "morning",
           "update": "Iranian Kurdish political parties based in Iraq have faced heavy attacks from Iran while navigating a delicate position, with most groups denying they receive U.S. assistance, according to Al Jazeera."
+        },
+        {
+          "date": "2026-08-01",
+          "edition": "evening",
+          "update": "Iran used a temporary ceasefire period to secretly develop a broader conflict strategy involving its proxy forces, aimed at increasing costs for the U.S. if President Trump ordered new military strikes, according to the New York Times."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1770,7 +1775,7 @@
         {
           "date": "2026-08-01",
           "edition": "evening",
-          "update": "Israel reported killing several Hezbollah members on a strategic hilltop ridge in southern Lebanon, an incident described as challenging the fragile ceasefire between Israel and the Iran-backed group."
+          "update": "Israel reported killing several Hezbollah members on a strategic hilltop ridge in southern Lebanon, an incident that challenged the fragile ceasefire between Israel and the Iran-backed militant group."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2510,7 +2515,7 @@
         {
           "date": "2026-08-01",
           "edition": "evening",
-          "update": "Iran's state media reported that Tehran has a retaliation plan ready and warned against the 'flames of war' following U.S. media reports of imminent strikes on Iranian energy infrastructure. The NY Times reported that Iran secretly developed a plan during the ceasefire period, coordinated with its proxy forces, to escalate the conflict and raise costs for the U.S. if new strikes were ordered. A top U.S. general warned Pentagon leadership that Washington lacks sufficient military power to defend Israel and other regional allies from an Iranian missile attack, despite U.S. naval destroyers deployed in the eastern Mediterranean, according to the Washington Examiner."
+          "update": "A top U.S. general warned Pentagon superiors that the U.S. lacks sufficient military power to defend Israel from an Iranian missile attack, despite naval destroyers being positioned in the eastern Mediterranean Sea, according to the Washington Examiner."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3994,7 +3999,7 @@
         {
           "date": "2026-08-01",
           "edition": "evening",
-          "update": "The Gaslog Shanghai, a Qatari-flagged LNG tanker, was struck by a missile while transiting the Strait of Hormuz, sustaining engine room damage that left it inoperable off the Omani coast. Two additional tankers were struck near the Strait as Iran issued warnings of wider shipping disruption in the region. U.S. embassies across the Middle East urged American citizens to depart the region amid the escalating incidents."
+          "update": "A Qatari-flagged LNG tanker, the Gaslog Shanghai, was struck by a missile while transiting the Strait of Hormuz, sustaining damage to its engine room and becoming inoperable off the Omani coast. Iran issued warnings of wider disruption to shipping in the waterway. U.S. embassies in the region simultaneously began urging Americans to leave the Middle East."
         }
       ]
     },
@@ -4389,7 +4394,7 @@
         {
           "date": "2026-08-01",
           "edition": "evening",
-          "update": "OPEC+ is considering lifting oil production quotas for a sixth consecutive month, though the Wall Street Journal notes that export capacity constraints may limit the practical impact on global prices. Analysts have identified three distinct, divergent investor trades in fertilizer stocks tied to Iran conflict and Strait of Hormuz tensions, with an overlooked risk from China flagged as a concern."
+          "update": "Iran warned against the 'flames of war' and stated a retaliation plan is ready following U.S. media reports of imminent American strikes on Iranian energy sites. The U.S. military is weighing renewed strikes against Iran as early as the weekend, with Israel reportedly involved in plans described as 'one of the harshest bombing campaigns to date,' amid concerns Tehran could attempt to rebuild its nuclear capabilities. OPEC+ is reportedly considering raising oil production quotas for a sixth consecutive month, though export capacity constraints may limit the price impact."
         }
       ]
     },
@@ -4444,5 +4449,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-01T21:04:41.225Z"
+  "updatedAt": "2026-08-01T21:04:57.289Z"
 }
