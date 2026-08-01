@@ -202,5 +202,33 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-01T05:45:01.509Z"
+  },
+  {
+    "title": "Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles",
+    "description": "The president of Ukraine had warned that the country was running out of Patriot interceptors, the most reliable weapon it has to shoot down Russian ballistic missiles.",
+    "link": "https://www.nytimes.com/2026/07/31/us/politics/trump-ukraine-patriot-missiles.html",
+    "pubDate": "Sat, 01 Aug 2026 05:49:43 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "russian invasion of ukraine (2022)",
+      "united states international relations",
+      "missiles and missile defense systems",
+      "politics and government",
+      "trump, donald j",
+      "zelensky, volodymyr",
+      "ukraine",
+      "russia"
+    ],
+    "collectedAt": "2026-08-01T06:00:01.676Z"
+  },
+  {
+    "title": "Oprah Winfrey says she will close her school for girls in South Africa",
+    "description": "Oprah Winfrey says she will close the school for underprivileged girls she set up in South Africa two decades ago at the end of next year.",
+    "link": "https://nypost.com/2026/08/01/world-news/oprah-winfrey-says-she-will-close-her-school-for-girls-in-south-africa-next-year/",
+    "pubDate": "Sat, 01 Aug 2026 01:53:27 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-01T06:00:01.676Z"
   }
 ]
