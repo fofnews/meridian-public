@@ -275,5 +275,32 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-01T07:15:01.576Z"
+  },
+  {
+    "title": "Russian Missiles Kill 9 in Kyiv, Hours After Trump Backs Off Air Defense Pledge",
+    "description": "It was the second deadly barrage to hit the Ukrainian capital in two days, as Moscow escalates its attacks in an apparent effort to exploit Ukraine’s dwindling supply of interceptors.",
+    "link": "https://www.nytimes.com/2026/08/01/world/europe/ukraine-russia-attack-missiles-patriot.html",
+    "pubDate": "Sat, 01 Aug 2026 07:14:41 +0000",
+    "source": "NY Times",
+    "categories": [
+      "russian invasion of ukraine (2022)",
+      "united states international relations",
+      "united states politics and government",
+      "missiles and missile defense systems",
+      "kyiv (ukraine)",
+      "ukraine",
+      "russia",
+      "defense and military forces"
+    ],
+    "collectedAt": "2026-08-01T07:30:01.187Z"
+  },
+  {
+    "title": "Charlamagne tha God admits Fauci pleading the Fifth after pardon is ‘fishy’ and ‘suspicious’",
+    "description": "\"I will say I never understood why Dr. Fauci needed a pardon if there was no crime committed or nothing was done wrong,\" Charlamagne said during \"The Breakfast Club\" show.",
+    "link": "https://nypost.com/2026/08/01/media/charlamagne-tha-god-admits-fauci-pleading-the-fifth-after-pardon-is-fishy-and-suspicious/",
+    "pubDate": "Sat, 01 Aug 2026 03:22:12 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-01T07:30:01.187Z"
   }
 ]
