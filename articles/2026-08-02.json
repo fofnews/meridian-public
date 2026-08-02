@@ -653,5 +653,109 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-02T09:00:01.195Z"
+  },
+  {
+    "title": "We asked a first grader to interview his hero: A bird scientist",
+    "description": "NPR asked an aspiring scientist in Philadelphia to interview an adult who is living his dream about his career in conservation science.",
+    "link": "https://www.npr.org/2026/08/02/nx-s1-5758054/we-asked-a-first-grader-to-interview-his-hero-a-bird-scientist",
+    "pubDate": "Sun, 02 Aug 2026 05:00:00 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-08-02T09:15:01.245Z"
+  },
+  {
+    "title": "What Cyclospora does inside the gut and how it gets there",
+    "description": "Cyclospora, the parasite that has sickened thousands this summer in the U.S., requires time in the human digestive tract to reproduce.",
+    "link": "https://www.npr.org/2026/08/02/nx-s1-5914624/cyclospora-michigan-infection-lettuce-parasite-outbreak",
+    "pubDate": "Sun, 02 Aug 2026 05:00:00 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-08-02T09:15:01.245Z"
+  },
+  {
+    "title": "El-Sayed vs. Stevens: How the Michigan Primary Could Reshape Democrats",
+    "description": "Michigan's Democratic U.S. Senate primary has become a battle over more than a nomination.",
+    "link": "https://www.newsweek.com/el-sayed-stevens-how-michigan-primary-could-reshape-democrats-12272493",
+    "pubDate": "Sun, 02 Aug 2026 05:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-02T09:15:01.245Z"
+  },
+  {
+    "title": "Groundhog Decade: Why Does it Feel Like 2016 Again?",
+    "description": "Yes, 2026 is looking like the start of a decade that just ended. Perhaps this is the reset of the great reset.",
+    "link": "https://www.newsweek.com/groundhog-decade-2026-2016-trump-12270006",
+    "pubDate": "Sun, 02 Aug 2026 05:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-02T09:15:01.245Z"
+  },
+  {
+    "title": "Trump’s Approval Rating Is Underwater in 11 States He Won Comfortably",
+    "description": "The president's approval rating in 11 states that he carried by double-digit margins in the 2024 election, according to Civiqs.",
+    "link": "https://www.newsweek.com/trumps-approval-rating-underwater-11-states-he-won-comfortably-12269937",
+    "pubDate": "Sun, 02 Aug 2026 05:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-02T09:15:01.245Z"
+  },
+  {
+    "title": "Map Shows How Ukraine’s Drone War Is Closing in on Moscow",
+    "description": "Russia's capital has come under more Ukrainian drone attacks since the start of 2026 than it experienced in all of 2025.",
+    "link": "https://www.newsweek.com/map-ukraine-drone-war-closing-in-on-moscow-12268799",
+    "pubDate": "Sun, 02 Aug 2026 05:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-02T09:15:01.245Z"
+  },
+  {
+    "title": "The Smithsonian Has Lost Sight of America | Opinion",
+    "description": "\"These are museums of American history, not museums of American apology, and it's time the Smithsonian remembered the difference.\"",
+    "link": "https://www.newsweek.com/the-smithsonian-has-lost-sight-of-america-opinion-12263563",
+    "pubDate": "Sun, 02 Aug 2026 05:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-02T09:15:01.245Z"
+  },
+  {
+    "title": "Inside the behemoth Smithsonian museum network drawing fire from the Trump administration",
+    "description": "The Smithsonian Institution spans nearly 700 facilities, houses over 157 million artifacts and specimens, and shapes education for millions of students.",
+    "link": "https://www.foxnews.com/politics/inside-behemoth-smithsonian-museum-network-drawing-fire-trump-administration",
+    "pubDate": "Sun, 02 Aug 2026 05:00:25 -0400",
+    "source": "Fox News",
+    "categories": [
+      "61ba9fb1-e77a-5073-b03f-d1f493bce154",
+      "fnc",
+      "fox news",
+      "fox-news/science/natural-science/science-education",
+      "fox-news/travel/general/museums-exhibits",
+      "fox-news/topic/trending-news",
+      "fox-news/us/education",
+      "fox-news/politics",
+      "fox-news/politics/smithsonian",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-02T09:15:01.245Z"
+  },
+  {
+    "title": "Vulnerable Democrat warns party to 'fight back' against growing socialist movement",
+    "description": "Tom Suozzi compares the Democratic Socialists of America to the House Freedom Caucus and urges Democrats to confront the growing socialist wing head-on.",
+    "link": "https://www.foxnews.com/politics/vulnerable-democrat-warns-party-fight-back-against-growing-socialist-movement",
+    "pubDate": "Sun, 02 Aug 2026 04:00:19 -0400",
+    "source": "Fox News",
+    "categories": [
+      "e36f69e1-964d-55ba-b72d-8b05c37c3f57",
+      "fnc",
+      "fox news",
+      "fox-news/politics/house-of-representatives/republicans",
+      "fox-news/democrats",
+      "fox-news/person/zohran-mamdani",
+      "fox-news/politics",
+      "fox-news/us/democratic-party",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-02T09:15:01.245Z"
   }
 ]
