@@ -424,7 +424,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-01",
+      "lastSeen": "2026-08-02",
       "active": true,
       "entries": [
         {
@@ -831,6 +831,11 @@
           "date": "2026-08-01",
           "edition": "evening",
           "update": "A Russian overnight ballistic missile barrage struck five districts of Kyiv, killing nine people. A Rosatom civilian vessel sank in the Black Sea following a Ukrainian drone attack, with all crew members surviving. Ukrainian strikes on power infrastructure in Crimea disrupted electricity services, with families seen queuing for hot meals. Zelensky reportedly asked Trump in a closed-door Oval Office meeting to help persuade Elon Musk to expand Starlink access to enable its use in Ukrainian drone strikes against Russia."
+        },
+        {
+          "date": "2026-08-02",
+          "edition": "morning",
+          "update": "Ukraine has launched more drone attacks on Moscow in the early weeks of 2026 than throughout all of 2025, according to Newsweek, signaling a significant intensification of long-range strikes on the Russian capital. Ukrainian drone strikes separately killed two people in Russia and hit a Wildberries warehouse, according to regional governors cited by Reuters."
         }
       ],
       "parentId": null
@@ -1784,7 +1789,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-01",
+      "lastSeen": "2026-08-02",
       "active": true,
       "entries": [
         {
@@ -2516,6 +2521,11 @@
           "date": "2026-08-01",
           "edition": "evening",
           "update": "A top U.S. general warned Pentagon superiors that the U.S. lacks sufficient military power to defend Israel from an Iranian missile attack, despite naval destroyers being positioned in the eastern Mediterranean Sea, according to the Washington Examiner."
+        },
+        {
+          "date": "2026-08-02",
+          "edition": "morning",
+          "update": "Trump announced the cancellation of planned strikes on Iran, stating that 'the perimeters of a deal has been agreed to' and that Iran and other Middle Eastern nations had requested the U.S. hold off on any attack, though the cancellation remains conditional on Iran concluding a deal rapidly. Iran simultaneously threatened to strike other nations' energy fields if the U.S. launches fresh attacks, with Foreign Minister Araghchi warning of a 'decisive' response in calls with the foreign ministers of Turkiye, Pakistan, and Saudi Arabia. The U.S. State Department and U.S. embassies across the Middle East issued security alerts advising Americans to exercise heightened vigilance and prepare for potential flight cancellations and airspace closures amid the threat of escalatory strikes. Oil companies reported soaring profits as the conflict continued to drive gas prices higher, according to CBS News."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3305,7 +3315,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-01",
+      "lastSeen": "2026-08-02",
       "active": true
     },
     {
@@ -4333,7 +4343,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-01",
+      "lastSeen": "2026-08-02",
       "active": true,
       "entries": [
         {
@@ -4395,6 +4405,11 @@
           "date": "2026-08-01",
           "edition": "evening",
           "update": "Iran warned against the 'flames of war' and stated a retaliation plan is ready following U.S. media reports of imminent American strikes on Iranian energy sites. The U.S. military is weighing renewed strikes against Iran as early as the weekend, with Israel reportedly involved in plans described as 'one of the harshest bombing campaigns to date,' amid concerns Tehran could attempt to rebuild its nuclear capabilities. OPEC+ is reportedly considering raising oil production quotas for a sixth consecutive month, though export capacity constraints may limit the price impact."
+        },
+        {
+          "date": "2026-08-02",
+          "edition": "morning",
+          "update": "Israeli strikes killed five people in Gaza homes following the U.S. unveiling of its disarmament and withdrawal plan. Students in Gaza completed and celebrated Tawjihi high school exam results despite the ongoing conflict, according to Al Jazeera."
         }
       ]
     },
@@ -4433,7 +4448,7 @@
       "title": "US Cyberattacks and Infrastructure Security",
       "parentId": null,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-08-01",
+      "lastSeen": "2026-08-02",
       "active": true,
       "entries": [
         {
@@ -4445,9 +4460,14 @@
           "date": "2026-08-01",
           "edition": "morning",
           "update": "The cyberattack investigation has expanded to water systems across seven states, beyond the previously reported Minnesota systems."
+        },
+        {
+          "date": "2026-08-02",
+          "edition": "morning",
+          "update": "Michigan reported cyberattacks on its water systems, joining Minnesota, with the FBI now formally investigating both states. No culprit has been officially identified, though authorities had previously warned of a possible Iranian plot."
         }
       ]
     }
   ],
-  "updatedAt": "2026-08-01T21:04:57.289Z"
+  "updatedAt": "2026-08-02T11:04:52.565Z"
 }
