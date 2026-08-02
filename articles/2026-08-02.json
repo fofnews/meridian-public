@@ -1836,5 +1836,62 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-02T12:45:01.355Z"
+  },
+  {
+    "title": "South Korea has hottest day on record amid extreme weather globally",
+    "description": "Scientists say the climate crisis driven by human activity is making heatwaves more frequent.",
+    "link": "https://www.aljazeera.com/news/2026/8/2/south-korea-has-hottest-day-on-record-amid-extreme-weather-globally?traffic_source=rss",
+    "pubDate": "Sun, 02 Aug 2026 12:34:35 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-02T13:00:01.339Z"
+  },
+  {
+    "title": "At least five dead, 41 missing after ferry catches fire off Indonesia",
+    "description": "The ship was carrying 271 passengers and crew members when the blaze broke out as it sailed eastwards from Java.",
+    "link": "https://www.aljazeera.com/news/2026/8/2/at-least-five-dead-41-missing-after-ferry-catches-fire-off-indonesia?traffic_source=rss",
+    "pubDate": "Sun, 02 Aug 2026 12:33:29 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-02T13:00:01.339Z"
+  },
+  {
+    "title": "Why has the EU called an emergency meeting on Spain migrant surge?",
+    "description": "In joint letter, 22 member states call for 'strengthening of external borders' after nearly 60,000 migrants enter Ceuta.",
+    "link": "https://www.aljazeera.com/news/2026/8/2/why-has-the-eu-called-an-emergency-meeting-on-spain-migrants-surge?traffic_source=rss",
+    "pubDate": "Sun, 02 Aug 2026 12:32:51 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-02T13:00:01.339Z"
+  },
+  {
+    "title": "Spanish Ceuta witnesses a deadly ‘game’ for Moroccan migrants",
+    "description": "This weekend, thousands of Moroccans attempted to reach the Spanish North African enclave of Ceuta.",
+    "link": "https://www.aljazeera.com/features/2026/8/2/spanish-ceuta-witnesses-a-deadly-game-for-moroccan-migrants?traffic_source=rss",
+    "pubDate": "Sun, 02 Aug 2026 12:07:11 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "features"
+    ],
+    "collectedAt": "2026-08-02T13:00:01.339Z"
+  },
+  {
+    "title": "Live updates: Trump holds off on Iran strikes; Medicare subsidy move cuts against midterm message",
+    "description": "President Trump is holding off on a massive attack on Iran despite warning that the U.S. “locked and loaded and ready to go,” citing a request by Iran and Middle East countries tied to the outline of a deal being agreed upon. “Based on this request, I have agreed, for the future benefit of the…",
+    "link": "https://thehill.com/homenews/administration/6003957-live-updates-trump-cancels-iran-strike/",
+    "pubDate": "Sun, 02 Aug 2026 12:37:07 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "news",
+      "senate"
+    ],
+    "collectedAt": "2026-08-02T13:00:01.339Z"
   }
 ]
