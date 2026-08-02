@@ -415,5 +415,42 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-02T07:00:01.775Z"
+  },
+  {
+    "title": "Louisiana becomes latest state to launch Fauci investigation following explosive Senate hearing",
+    "description": "Louisiana Attorney General Liz Murrill says Anthony Fauci lied under deposition and announces Louisiana will join Alabama and Florida in investigating potential state crimes.",
+    "link": "https://www.foxnews.com/politics/louisiana-latest-state-launch-fauci-investigation-following-explosive-senate-hearing",
+    "pubDate": "Sun, 02 Aug 2026 02:58:29 -0400",
+    "source": "Fox News",
+    "categories": [
+      "3c9ffd17-6908-5bbe-811f-860b81ff6be5",
+      "fnc",
+      "fox news",
+      "fox-news/person/anthony-fauci",
+      "fox-news/us/us-regions/southeast/louisiana",
+      "fox-news/politics/attorney-general",
+      "fox-news/politics",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-02T07:15:02.222Z"
+  },
+  {
+    "title": "Ray Knight drops F-bomb during Mets’ broadcast while praising 1986 World Series teammates",
+    "description": "Former Mets hero Ray Knight might have forgot he was on live television.",
+    "link": "https://nypost.com/2026/08/02/sports/ray-knight-drops-f-bomb-during-mets-broadcast/",
+    "pubDate": "Sun, 02 Aug 2026 03:01:16 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-02T07:15:02.222Z"
+  },
+  {
+    "title": "Dear Abby: My cheating ex-husband died — am I wrong for skipping his funeral?",
+    "description": "Dear Abby advises a woman who was betrayed and publicly humiliated by her first husband that she is not obligated to attend his funeral.",
+    "link": "https://nypost.com/2026/08/02/lifestyle/dear-abby-my-cheating-ex-husband-died-am-i-wrong-for-skipping-his-funeral/",
+    "pubDate": "Sun, 02 Aug 2026 03:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-02T07:15:02.222Z"
   }
 ]
