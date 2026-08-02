@@ -836,6 +836,11 @@
           "date": "2026-08-02",
           "edition": "morning",
           "update": "Ukrainian drone attacks on Moscow in early 2026 have already surpassed the total number of such strikes recorded throughout all of 2025, according to Newsweek, marking a significant escalation in Ukraine's long-range drone campaign. Separately, Ukrainian drone strikes killed two people in Russia and hit a Wildberries warehouse, per Reuters."
+        },
+        {
+          "date": "2026-08-02",
+          "edition": "evening",
+          "update": "Russia's military reported overnight attacks on Ukraine's Black Sea ports and vessels, while Ukraine claimed strikes on a major Russian oil refinery and airfield, with Moscow reporting eight deaths. Ukrainian drone strikes killed five people in Russia and set fire to a Wildberries warehouse, according to AP News. The crew of an Iranian ship struck in a Ukrainian attack has returned home, according to an Iranian news agency cited by Reuters."
         }
       ],
       "parentId": null
@@ -2526,6 +2531,11 @@
           "date": "2026-08-02",
           "edition": "morning",
           "update": "Trump announced the cancellation of planned strikes on Iran, citing progress toward 'the perimeters of a deal' and stating that Iran and other Middle Eastern nations asked the U.S. to hold off, with the cancellation conditioned on negotiations proceeding rapidly. This reversal came despite CBS News sources reporting the U.S. and Israel had been preparing what could be the most aggressive expansion of their campaign against Iran since the war began, and after US embassies had already issued security alerts following Trump's earlier vow to strike Iran 'hard.' Iran threatened to strike other nations' energy fields if the U.S. launches fresh attacks, and Foreign Minister Araghchi warned of a 'decisive' response to any U.S. 'aggression' in calls with the foreign ministers of Turkiye, Pakistan, and Saudi Arabia. Trump also announced a separate 'historic' 20-point plan involving Hamas disarmament aimed at achieving a Gaza ceasefire, while oil companies reported soaring profits as the threat of escalation drives gas prices higher."
+        },
+        {
+          "date": "2026-08-02",
+          "edition": "evening",
+          "update": "Following Trump's announcement of a halt to planned strikes, Sen. James Lankford stated on Fox News Sunday that Trump 'has no desire' to bomb Iran and remains focused on a diplomatic deal. Democratic Sen. Mark Kelly criticized the Pentagon's funding requests as 'irresponsible,' saying the administration is seeking 'a blank check.' Republican defense hawk Rep. Mike Turner stated that Congress still lacks key details about the Iran war, with lawmakers remaining dissatisfied with information provided to them."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3773,7 +3783,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-08-01",
+      "lastSeen": "2026-08-02",
       "active": true,
       "entries": [
         {
@@ -4015,6 +4025,11 @@
           "date": "2026-08-01",
           "edition": "evening",
           "update": "A Qatari-flagged LNG tanker, the Gaslog Shanghai, was struck by a missile while transiting the Strait of Hormuz, sustaining damage to its engine room and becoming inoperable off the Omani coast. Iran issued warnings of wider disruption to shipping in the waterway. U.S. embassies in the region simultaneously began urging Americans to leave the Middle East."
+        },
+        {
+          "date": "2026-08-02",
+          "edition": "evening",
+          "update": "Satellite images revealed the sanctioned vessel Caroline Bezengi, reportedly carrying over 800,000 barrels of Russian crude, is leaking oil into a marine reserve off the Omani coast home to endangered wildlife. Iranian negotiators reportedly signaled to the U.S. that they would reopen the Strait of Hormuz before Trump called off planned strikes, though Iran's Islamic Revolutionary Guard Corps denied any such deal and dismissed Trump's pullback announcement as 'psychological operations.' Experts warned that Secretary of State Rubio's plan to bypass the Strait faces significant obstacles, including pipeline capacity limitations and ongoing Red Sea security threats. An Italian-led EU naval force boarded a sanctioned Russian shadow fleet tanker in the Mediterranean Sea."
         }
       ]
     },
@@ -4470,9 +4485,14 @@
           "date": "2026-08-02",
           "edition": "morning",
           "update": "Michigan joined the list of affected states, with the FBI investigating cyberattacks on water systems there alongside those in Minnesota. No culprit has been formally identified in either state."
+        },
+        {
+          "date": "2026-08-02",
+          "edition": "evening",
+          "update": "A separate cybersecurity threat has emerged involving hotel Wi-Fi gateways being compromised to redirect business travelers to fake Microsoft 365 login pages capable of bypassing multifactor authentication."
         }
       ]
     }
   ],
-  "updatedAt": "2026-08-02T11:05:13.162Z"
+  "updatedAt": "2026-08-02T21:05:55.147Z"
 }
