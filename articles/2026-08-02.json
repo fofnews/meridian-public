@@ -222,5 +222,27 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-02T05:45:02.550Z"
+  },
+  {
+    "title": "At least three dead in Idaho shopping mall mass shooting",
+    "description": "Police said at least three people were killed several others were wounded in a shooting at an In-N-Out Burger in Idaho.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/at-least-three-dead-in-idaho-shopping-mall-mass-shooting?traffic_source=rss",
+    "pubDate": "Sun, 02 Aug 2026 05:29:36 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-08-02T06:00:01.330Z"
+  },
+  {
+    "title": "Gaza students overcome Israel’s genocide to celebrate Tawjihi results",
+    "description": "Students in Gaza overcome distressing conditions amid Israel's genocide to finish their Tawjihi high school exams.",
+    "link": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss",
+    "pubDate": "Sun, 02 Aug 2026 05:27:04 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-02T06:00:01.330Z"
   }
 ]
