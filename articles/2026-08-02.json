@@ -1744,5 +1744,41 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-02T12:15:01.120Z"
+  },
+  {
+    "title": "Trump halts Iran attack plan, citing agreed-upon ‘parameters of a deal’",
+    "description": "President Trump late Saturday said he was halting an attack plan against Iran and pointed to the “parameters of a deal” being reached as the reason why. “The U.S.A. is locked and loaded and ready to go against the Islamic Republic of Iran, at levels of Military Terror, Strength, and Power not seen since World…",
+    "link": "https://thehill.com/homenews/administration/6004176-iran-deal-parameters-trump/",
+    "pubDate": "Sun, 02 Aug 2026 12:05:08 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "defense",
+      "international",
+      "news",
+      "iran",
+      "iran war",
+      "trump administration"
+    ],
+    "collectedAt": "2026-08-02T12:30:02.432Z"
+  },
+  {
+    "title": "Dodgers reportedly acquire ace Tarik Skubal from Tigers in trade that stirs up MLB world",
+    "description": "Tarik Skubal heads to the Dodgers with Detroit Tigers fans stunned as their team sits just 2.5 games out of the American League Wild Card race.",
+    "link": "https://www.foxnews.com/sports/dodgers-acquire-ace-tarik-skubal-tigers-trade-stirs-mlb-world",
+    "pubDate": "Sun, 02 Aug 2026 08:18:09 -0400",
+    "source": "Fox News",
+    "categories": [
+      "c48739fc-38e7-565c-ad6a-7dd5925d1dc8",
+      "fnc",
+      "fox news",
+      "fox-news/sports/mlb/los-angeles-dodgers",
+      "fox-news/sports/mlb/detroit-tigers",
+      "fox-news/sports/mlb",
+      "fox-news/sports",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-08-02T12:30:02.432Z"
   }
 ]
