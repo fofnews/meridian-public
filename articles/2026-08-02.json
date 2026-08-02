@@ -4137,5 +4137,102 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-02T17:15:01.397Z"
+  },
+  {
+    "title": "At least 600 structures damaged in Washington state wildfires",
+    "description": "A wildfire burning northwest of downtown Spokane, Washington, has damaged more than 600 structures as officials continue to assess the destruction.",
+    "link": "https://www.nbcnews.com/news/us-news/spokane-washington-wildfire-rcna590469",
+    "pubDate": "Sun, 02 Aug 2026 17:10:58 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-08-02T17:30:01.250Z"
+  },
+  {
+    "title": "Deadly floods and landslide hit India’s Kerala",
+    "description": "At least two people have been killed and eight injured after torrential rain triggered flooding",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-floods-and-landslide-hit-indias-kerala?traffic_source=rss",
+    "pubDate": "Sun, 02 Aug 2026 16:55:39 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "newsfeed"
+    ],
+    "collectedAt": "2026-08-02T17:30:01.250Z"
+  },
+  {
+    "title": "Republican Sen. Kennedy says he ‘wouldn’t bet my house’ on Blanche being confirmed",
+    "description": "GOP Sen. John Kennedy (La.) on Sunday expressed doubt about the Senate confirming acting Attorney General Todd Blanche to the full-time post. Kennedy, a member of the Judiciary Committee, noted on NBC’s “Meet the Press” that GOP Sens. John Cornyn (Texas) and Thom Tillis (N.C.) are “talking” with the Justice Department (DOJ) about a resolution…",
+    "link": "https://thehill.com/homenews/senate/6004367-senator-kennedy-doubts-blanche-confirmation/",
+    "pubDate": "Sun, 02 Aug 2026 16:59:17 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "court battles",
+      "news",
+      "senate",
+      "anti-weaponization fund",
+      "donald trump",
+      "john kennedy",
+      "todd blanche"
+    ],
+    "collectedAt": "2026-08-02T17:30:01.250Z"
+  },
+  {
+    "title": "Chevron CEO warns Iran conflict has created 'very real' threat to global oil supplies as gas prices climb",
+    "description": "Chevron CEO Mike Wirth warns of \"very real\" risks to oil supply as the Strait of Hormuz, Red Sea and Black Sea face growing threats amid Iran conflict.",
+    "link": "https://www.foxnews.com/media/chevron-ceo-warns-iran-conflict-created-very-real-threat-global-oil-supplies-gas-prices-climb",
+    "pubDate": "Sun, 02 Aug 2026 13:16:01 -0400",
+    "source": "Fox News",
+    "categories": [
+      "76715708-2ea1-50fc-90c7-192dff40600e",
+      "fnc",
+      "fox news",
+      "fox-news/topic/fox-news-flash",
+      "fox-news/shows/sunday-morning-futures",
+      "fox-news/media",
+      "fox-news/politics/defense/wars/war-with-iran",
+      "fox-news/energy",
+      "fox-news/politics/foreign-policy/geopolitics",
+      "fox-news/world/world-regions/middle-east",
+      "fox-news/world/world-regions/saudi-arabia",
+      "fox-news/media",
+      "article"
+    ],
+    "collectedAt": "2026-08-02T17:30:01.250Z"
+  },
+  {
+    "title": "Josh Hart calls out Dodgers for pushing towards MLB lockout following Tarik Skubal trade",
+    "description": "Add Josh Hart to the growing list of people who do not approve of the Dodgers landing yet another legitimate star.",
+    "link": "https://nypost.com/2026/08/02/sports/josh-hart-calls-out-dodgers-for-pushing-towards-mlb-lockout-after-tarik-skubal-trade/",
+    "pubDate": "Sun, 02 Aug 2026 13:28:40 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-02T17:30:01.250Z"
+  },
+  {
+    "title": "‘Healthy’ Vincent Pastore seen celebrating 80th birthday weeks before death",
+    "description": "The \"Sopranos\" actor was found dead at his New York residence by a neighbor on Saturday.",
+    "link": "https://pagesix.com/2026/08/02/celebrity-news/vincent-pastore-seen-celebrating-80th-birthday-weeks-before-death/",
+    "pubDate": "Sun, 02 Aug 2026 13:24:51 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-02T17:30:01.250Z"
+  },
+  {
+    "title": "Louisiana joins Alabama and Florida in investigating Fauci after contentious Senate hearing",
+    "description": "Louisiana Attorney General Liz Murrill is the latest state official to launch an investigation into Anthony Fauci after he pleaded his Fifth Amendment right against self-incrimination more than 100 times during a contentious Senate hearing on his handling of the COVID-19 pandemic six years ago. Louisiana joins Alabama and Florida in investigating Fauci, who could […]",
+    "link": "https://www.washingtonexaminer.com/news/justice/4672150/louisiana-investigation-fauci-covid-senate-hearing/",
+    "pubDate": "Sun, 02 Aug 2026 17:07:48 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "healthcare",
+      "justice",
+      "alabama",
+      "anthony fauci",
+      "florida",
+      "louisiana",
+      "pardons",
+      "senate"
+    ],
+    "collectedAt": "2026-08-02T17:30:01.250Z"
   }
 ]
