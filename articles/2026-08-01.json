@@ -8225,5 +8225,60 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-02T03:15:01.878Z"
+  },
+  {
+    "title": "New footage of powerful home explosion",
+    "description": "New bodycam footage of a powerful home explosion in Canton, Ohio.",
+    "link": "https://abcnews.com/video/135298079/",
+    "pubDate": "Sat, 01 Aug 2026 21:10:48 -0400",
+    "source": "ABC News",
+    "categories": [
+      "wnt"
+    ],
+    "collectedAt": "2026-08-02T03:30:02.476Z"
+  },
+  {
+    "title": "America Strong: Lifeguard heroically who rescues boy speaks out for the first time",
+    "description": "Lifeguard Ryder Williams tells his story for first time after saving a 10-year-old boy from drowning in a dramatic rescue.",
+    "link": "https://abcnews.com/video/135298185/",
+    "pubDate": "Sat, 01 Aug 2026 21:09:31 -0400",
+    "source": "ABC News",
+    "categories": [
+      "wnt"
+    ],
+    "collectedAt": "2026-08-02T03:30:02.476Z"
+  },
+  {
+    "title": "Motorcyclist gives thanks to his rescuers",
+    "description": "A Tennessee gives thanks to the State Trooper and medic who saved his life after a deadly shooting.",
+    "link": "https://abcnews.com/video/135297883/",
+    "pubDate": "Sat, 01 Aug 2026 21:08:31 -0400",
+    "source": "ABC News",
+    "categories": [
+      "wnt"
+    ],
+    "collectedAt": "2026-08-02T03:30:02.476Z"
+  },
+  {
+    "title": "Israel kills five in Gaza despite Trump’s Hamas disarmament plan",
+    "description": "Strikes hit Gaza homes after the US unveiled plan for Hamas disarmament and Israeli withdrawal.",
+    "link": "https://www.aljazeera.com/news/2026/8/2/israel-kills-five-in-gaza-despite-trumps-hamas-disarmament-plan?traffic_source=rss",
+    "pubDate": "Sun, 02 Aug 2026 02:58:51 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-02T03:30:02.476Z"
+  },
+  {
+    "title": "Is criticism of Spain on border management legitimate or politics?",
+    "description": "Tens of thousands of migrants briefly cross into Spain's north African territory of Ceuta from Morocco.",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/8/2/is-criticism-of-spain-on-border-management-legitimate-or-politics?traffic_source=rss",
+    "pubDate": "Sun, 02 Aug 2026 02:55:31 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "tv shows"
+    ],
+    "collectedAt": "2026-08-02T03:30:02.476Z"
   }
 ]
