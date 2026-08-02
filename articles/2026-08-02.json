@@ -5807,5 +5807,99 @@
     "source": "Newsmax",
     "categories": [],
     "collectedAt": "2026-08-02T21:15:01.283Z"
+  },
+  {
+    "title": "Kevin Durant Offers Strong Comparison for 76ers After LeBron James Move",
+    "description": "Kevin Durant compared the Philadelphia 76ers after landing LeBron James to previous championship-winning teams in Golden State.",
+    "link": "https://www.newsweek.com/sports/nba/kevin-durant-offers-strong-comparison-for-76ers-after-lebron-james-move-12275220",
+    "pubDate": "Sun, 02 Aug 2026 17:23:08 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-02T21:30:01.271Z"
+  },
+  {
+    "title": "Red Sox Interested in 2 Reds Star Trade Candidates",
+    "description": "The Boston Red Sox are being linked to Cincinnati Reds stars Elly De La Cruz and Hunter Greene ahead of the MLB Trade Deadline.",
+    "link": "https://www.newsweek.com/sports/mlb/red-sox-interested-in-2-reds-star-trade-candidates-12275133",
+    "pubDate": "Sun, 02 Aug 2026 17:17:07 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-02T21:30:01.271Z"
+  },
+  {
+    "title": "Cubs Linked to 3 Relievers Ahead of Trade Deadline",
+    "description": "The Chicago Cubs are being linked to three notable relief pitchers with the 2026 MLB Trade Deadline almost here.",
+    "link": "https://www.newsweek.com/sports/mlb/cubs-linked-to-3-relievers-ahead-of-trade-deadline-12274816",
+    "pubDate": "Sun, 02 Aug 2026 17:14:29 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-02T21:30:01.271Z"
+  },
+  {
+    "title": "Local volunteers help rebuild destroyed Christian monastery in Lebanon",
+    "description": "Interfaith volunteers rebuild war-damaged Catholic monastery in Lebanon’s Zawtar al-Gharbiyeh.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/local-volunteers-help-rebuild-destroyed-christian-monastery-in-lebanon?traffic_source=rss",
+    "pubDate": "Sun, 02 Aug 2026 21:18:03 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-08-02T21:30:01.271Z"
+  },
+  {
+    "title": "Early eating habits could have lasting effects on dementia risk, study suggests",
+    "description": "A study of about 64,000 people found that lower sugar intake during pregnancy and early life was linked to up to 23% lower dementia risk decades later.",
+    "link": "https://www.foxnews.com/health/early-eating-habits-could-have-lasting-effects-dementia-risk-study-suggests",
+    "pubDate": "Sun, 02 Aug 2026 17:18:05 -0400",
+    "source": "Fox News",
+    "categories": [
+      "e39a2dcc-e521-5d06-a93a-42870201e964",
+      "fnc",
+      "fox news",
+      "fox-news/health",
+      "fox-news/health/reproductive-health/pregnancy",
+      "fox-news/health/nutrition-and-fitness/nutrition",
+      "fox-news/health/healthy-living/childrens-health",
+      "fox-news/health/brain-health",
+      "fox-news/health",
+      "article"
+    ],
+    "collectedAt": "2026-08-02T21:30:01.271Z"
+  },
+  {
+    "title": "Yankees trade for Nationals’ Luis Garcia Jr. to bolster offense at deadline",
+    "description": "The Yankees agreed to a trade that will bring García to The Bronx before Monday’s trade deadline.",
+    "link": "https://nypost.com/2026/08/02/sports/yankees-trade-for-nationals-luis-garcia-jr-to-bolster-offense-at-deadline/",
+    "pubDate": "Sun, 02 Aug 2026 17:24:50 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-02T21:30:01.271Z"
+  },
+  {
+    "title": "Blakeman slams Hochul over suit to block prediction market Kalshi: ‘Left billions on the table’",
+    "description": "Nassau County Executive Bruce Blakeman claims Kathy Hochul squandered billions for the state by suing prediction market Kalshi.",
+    "link": "https://nypost.com/2026/08/02/us-news/blakeman-slams-hochul-over-suit-to-block-prediction-market-kalshi-left-billions-on-the-table/",
+    "pubDate": "Sun, 02 Aug 2026 17:23:20 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-02T21:30:01.271Z"
+  },
+  {
+    "title": "Teen found dead after going missing while rafting in picturesque California park",
+    "description": "Authorities located the body of a missing 17-year-old boy, Gabriel Santiago, in the Stanislaus River.",
+    "link": "https://nypost.com/2026/08/02/us-news/teen-found-dead-after-going-missing-while-rafting-in-picturesque-california-park/",
+    "pubDate": "Sun, 02 Aug 2026 17:17:26 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-02T21:30:01.271Z"
+  },
+  {
+    "title": "Naked nutjob jumps from Brooklyn Bridge after erecting flags",
+    "description": "An unhinged, 44-year-old naked man jumped off the top of Brooklyn Bridge Sunday afternoon in front of shocked onlookers — and miraculously survived, according to cops and wild video.",
+    "link": "https://nypost.com/2026/08/02/us-news/naked-nutjob-jumps-from-brooklyn-bridge-after-erecting-flags/",
+    "pubDate": "Sun, 02 Aug 2026 17:15:07 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-02T21:30:01.271Z"
   }
 ]
