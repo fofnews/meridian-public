@@ -845,7 +845,7 @@
         {
           "date": "2026-08-03",
           "edition": "morning",
-          "update": "Zelenskyy is pressing partner nations to supply 300 Patriot interceptors for Ukraine's air defense, while a former Ukrainian official described 'scandalous situations' amid a deepening probe into the country's bomb shelters. Russian aircraft dropped eight glide bombs on a city in southern Ukraine, killing one person and wounding dozens, according to regional chief Ivan Fedorov. A second Wildberries warehouse fire was reported in the Vladimir region following another Ukrainian drone strike."
+          "update": "Ukrainian President Zelenskyy is pushing partner nations to provide 300 Patriot interceptors for Ukraine's air defense, while a former Ukrainian official has described 'scandalous situations' amid a deepening probe into the country's bomb shelters. Russian aircraft dropped eight glide bombs on a city in southern Ukraine, killing one person and wounding dozens, according to regional chief Ivan Fedorov. Wildberries confirmed that one of its warehouses in the Vladimir region was set on fire following a Ukrainian drone attack."
         }
       ],
       "parentId": null
@@ -1424,7 +1424,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-01",
+      "lastSeen": "2026-08-03",
       "active": true,
       "entries": [
         {
@@ -1791,6 +1791,11 @@
           "date": "2026-08-01",
           "edition": "evening",
           "update": "Israel reported killing several Hezbollah members on a strategic hilltop ridge in southern Lebanon, an incident that challenged the fragile ceasefire between Israel and the Iran-backed militant group."
+        },
+        {
+          "date": "2026-08-03",
+          "edition": "morning",
+          "update": "Interfaith volunteers have begun rebuilding a war-damaged Catholic monastery in Zawtar al-Gharbiyeh, Lebanon, according to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2545,7 +2550,7 @@
         {
           "date": "2026-08-03",
           "edition": "morning",
-          "update": "Trump reiterated he is 'not looking to kill people' regarding Iran, and announced a new round of talks scheduled for Monday brokered by Saudi Arabia, the UAE, and Qatar. Oil prices tumbled and gold prices rose following the cancellation of planned strikes, with Reuters reporting markets responded sharply to signals of a potential nuclear deal. The Japanese yen also spiked amid the market volatility. Al Jazeera reported analysts have identified a pattern of U.S. conflict de-escalation timed to weekday market openings. The NY Times assessed that Iran has gained strategic leverage by expanding regional fighting, while Defense Secretary Hegseth failed to secure notable Republican Senate support for tens of billions in war funding, with Republican senators reportedly losing confidence in his military leadership. Chevron's CEO described energy markets as 'somewhat fragile and uncertain,' and UK fuel theft from forecourts rose 20% over the five months since the war began, with nearly £200,000 worth stolen daily."
+          "update": "Defense Secretary Pete Hegseth has failed to secure notable Senate support for tens of billions of dollars in Iran war funding, with Republican senators reportedly losing confidence in his leadership as U.S. military stockpiles and Pentagon funds are rapidly depleted, according to The Hill. Chevron CEO Mike Wirth described energy markets as 'somewhat fragile and uncertain' due to the Iran conflict, citing risks to oil export transit routes. Fuel theft from UK forecourts has risen by 20% over the five months since the Iran war began, with nearly £200,000 worth of fuel stolen daily. Al Jazeera reported a pattern of the U.S. backing off confrontational stances toward Iran before weekday market openings, suggesting economic considerations are influencing military and diplomatic decisions."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3035,7 +3040,7 @@
         {
           "date": "2026-08-03",
           "edition": "morning",
-          "update": "Cuba's aging power grid collapsed on Sunday, plunging the entire country into a nationwide blackout following a weekend of outages, compounded by U.S.-imposed fuel shortages."
+          "update": "Cuba's aging power grid collapsed on Sunday, plunging the island into a nationwide blackout following a weekend of outages and amid U.S.-imposed fuel shortages."
         }
       ],
       "parentId": null
@@ -3320,7 +3325,7 @@
         {
           "date": "2026-08-03",
           "edition": "morning",
-          "update": "South Korea announced a shift away from its 'denuclearization-first' policy toward North Korea, though experts cited by NPR expressed doubt that Pyongyang would return to diplomatic negotiations as a result."
+          "update": "South Korea announced a shift away from its longstanding 'denuclearization-first' policy toward North Korea, though analysts express doubt that Pyongyang will return to diplomatic negotiations as a result."
         }
       ],
       "parentId": null
@@ -3539,7 +3544,7 @@
         {
           "date": "2026-08-03",
           "edition": "morning",
-          "update": "Iran stated that no talks with the United States are currently taking place, according to Reuters, contradicting Trump's announcement of a new round of negotiations scheduled for Monday."
+          "update": "Trump called off a planned 'massive' military attack on Iran that had been scheduled for the weekend, stating he is 'not looking to kill people' and that an agreement is imminent. A new round of U.S.-Iran negotiations is scheduled for Monday, brokered by Saudi Arabia, the UAE, and Qatar. Trump also called for the immediate reopening of the Strait of Hormuz as part of any prospective deal. Oil prices tumbled and gold prices rose following the cancellation of the planned strikes, while the Japanese yen spiked sharply amid apparent currency market intervention. Iran, however, stated there are no current talks taking place with the United States. Experts cited by the NY Times said Iran's expansion of regional fighting sent a warning about the dangers of a widening war, with Trump's reversal interpreted as a signal of Tehran's leverage in the conflict."
         }
       ]
     },
@@ -4519,5 +4524,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-03T11:05:57.083Z"
+  "updatedAt": "2026-08-03T11:06:48.783Z"
 }
