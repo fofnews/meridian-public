@@ -846,6 +846,11 @@
           "date": "2026-08-03",
           "edition": "morning",
           "update": "Ukrainian President Zelenskyy is pushing partner nations to provide 300 Patriot interceptors for Ukraine's air defense, while a former Ukrainian official has described 'scandalous situations' amid a deepening probe into the country's bomb shelters. Russian aircraft dropped eight glide bombs on a city in southern Ukraine, killing one person and wounding dozens, according to regional chief Ivan Fedorov. Wildberries confirmed that one of its warehouses in the Vladimir region was set on fire following a Ukrainian drone attack."
+        },
+        {
+          "date": "2026-08-03",
+          "edition": "evening",
+          "update": "A Ukrainian drone struck a crowded beach at the Black Sea resort of Gelendzhik, killing three children among the casualties and injuring approximately 40 people; Russia attributed the attack to Ukraine. Ukraine conducted another long-range drone strike on a Wildberries warehouse, marking a repeated targeting of Russia's largest e-commerce retailer's infrastructure. Ukraine's top negotiator Rustem Umerov is set to be appointed head of the country's foreign intelligence service, according to Reuters. Al Jazeera reported that Russia and Ukraine exchanged heavy attacks killing more than 10 people as the war entered its fifth year with no signs of slowing."
         }
       ],
       "parentId": null
@@ -3545,6 +3550,11 @@
           "date": "2026-08-03",
           "edition": "morning",
           "update": "Trump called off a planned 'massive' military attack on Iran that had been scheduled for the weekend, stating he is 'not looking to kill people' and that an agreement is imminent. A new round of U.S.-Iran negotiations is scheduled for Monday, brokered by Saudi Arabia, the UAE, and Qatar. Trump also called for the immediate reopening of the Strait of Hormuz as part of any prospective deal. Oil prices tumbled and gold prices rose following the cancellation of the planned strikes, while the Japanese yen spiked sharply amid apparent currency market intervention. Iran, however, stated there are no current talks taking place with the United States. Experts cited by the NY Times said Iran's expansion of regional fighting sent a warning about the dangers of a widening war, with Trump's reversal interpreted as a signal of Tehran's leverage in the conflict."
+        },
+        {
+          "date": "2026-08-03",
+          "edition": "evening",
+          "update": "Trump issued a stark warning to Iran, calling it 'duplicitous' and threatening 'decapitation' if the country fails to reach a deal, while claiming Iran's march toward nuclear weapons has been 'halted and reversed.' Iran clarified that its ongoing talks are with Oman and focused on reaching an understanding on shipping routes, not direct negotiations with the United States. Appeals from Gulf state allies and regional mediators were reported as contributing factors in Trump's decision to call off planned strikes. Former National Counterterrorism Center Director Joe Kent called on Trump to declare victory against Iran and withdraw U.S. troops from the Middle East, while CENTCOM is reportedly examining new options to increase pressure on Iran."
         }
       ]
     },
@@ -3813,7 +3823,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-08-02",
+      "lastSeen": "2026-08-03",
       "active": true,
       "entries": [
         {
@@ -4060,6 +4070,11 @@
           "date": "2026-08-02",
           "edition": "evening",
           "update": "Satellite images revealed the sanctioned vessel Caroline Bezengi, reportedly carrying over 800,000 barrels of Russian crude, is leaking oil into a marine reserve off the Omani coast home to endangered wildlife. Iranian negotiators reportedly signaled to the U.S. that they would reopen the Strait of Hormuz before Trump called off planned strikes, though Iran's Islamic Revolutionary Guard Corps denied any such deal and dismissed Trump's pullback announcement as 'psychological operations.' Experts warned that Secretary of State Rubio's plan to bypass the Strait faces significant obstacles, including pipeline capacity limitations and ongoing Red Sea security threats. An Italian-led EU naval force boarded a sanctioned Russian shadow fleet tanker in the Mediterranean Sea."
+        },
+        {
+          "date": "2026-08-03",
+          "edition": "evening",
+          "update": "Analysts warned that threats to oil tankers in the Middle East have reached their worst level since the start of the Iran war, with fresh attacks on alternative shipping routes compounding an increasingly complex security situation for vessels across the region."
         }
       ]
     },
@@ -4393,7 +4408,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-02",
+      "lastSeen": "2026-08-03",
       "active": true,
       "entries": [
         {
@@ -4460,6 +4475,11 @@
           "date": "2026-08-02",
           "edition": "morning",
           "update": "Israeli strikes hit residential homes in Gaza, killing five people, even as the U.S. unveiled its new plan calling for Hamas disarmament and an Israeli withdrawal from the territory. Students in Gaza completed their Tawjihi high school exams despite the ongoing conflict, with results celebrated amid the continuing war."
+        },
+        {
+          "date": "2026-08-03",
+          "edition": "evening",
+          "update": "Israel's Prime Minister Netanyahu's office stated it has 'serious security concerns' over the proposed Hamas disarmament deal and confirmed those concerns were formally shared with the White House. Israeli airstrikes continued to strike Gaza City on Saturday and Sunday despite Hamas having agreed to a demilitarization framework, underscoring the resistance Trump's Board of Peace plan faces from Israel."
         }
       ]
     },
@@ -4524,5 +4544,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-03T11:06:48.783Z"
+  "updatedAt": "2026-08-03T21:08:16.195Z"
 }
