@@ -457,5 +457,43 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-08-03T07:15:01.281Z"
+  },
+  {
+    "title": "Iran live updates: Trump says deal imminent, Iran-Oman Strait of Hormuz talks ongoing",
+    "description": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.",
+    "link": "https://abcnews.com/International/live-updates/iran-live-updates-trump-deal-imminent-iran-oman/?id=135317231",
+    "pubDate": "Mon, 03 Aug 2026 03:17:49 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-08-03T07:30:01.579Z"
+  },
+  {
+    "title": "Trump says new Iran talks will start Monday after calling off attacks",
+    "description": "The United States and Iran will hold new talks Monday afternoon, President Donald Trump said, after announcing he called off intense new strikes to allow for a deal on the Strait of Hormuz and Tehran’s nuclear program.",
+    "link": "https://www.nbcnews.com/world/iran/trump-iran-talks-attacks-canceled-hormuz-nuclear-rcna590535",
+    "pubDate": "Mon, 03 Aug 2026 07:05:48 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-08-03T07:30:01.579Z"
+  },
+  {
+    "title": "NASA opens first major new wind tunnel in more than 40 years at Virginia facility",
+    "description": "NASA's new wind tunnel has a diameter of 20 feet and stands 24 feet tall, with wind speeds of up to 117 miles per hour. It will help test technology for future space missions.",
+    "link": "https://www.foxnews.com/science/nasa-langley-new-wind-tunnel",
+    "pubDate": "Mon, 03 Aug 2026 03:17:03 -0400",
+    "source": "Fox News",
+    "categories": [
+      "96780c4a-32a4-533b-8287-fd655bd334dc",
+      "fnc",
+      "fox news",
+      "fox-news/topic/fox-news-multimedia-reporters",
+      "fox-news/science/air-and-space/nasa",
+      "fox-news/science",
+      "fox-news/science",
+      "article"
+    ],
+    "collectedAt": "2026-08-03T07:30:01.579Z"
   }
 ]
