@@ -256,5 +256,30 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-03T05:30:01.349Z"
+  },
+  {
+    "title": "Blanche Gives G.O.P. Senators Written Assurances on Trump’s I.R.S. Deal",
+    "description": "Todd Blanche’s confirmation as attorney general has been held up over concerns about a planned $1.8 billion fund for Trump allies and the president’s immunity from tax scrutiny.",
+    "link": "https://www.nytimes.com/2026/08/03/us/politics/todd-blanche-trump-irs-fund-order.html",
+    "pubDate": "Mon, 03 Aug 2026 05:18:02 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "anti-weaponization fund (trump v irs)",
+      "compensation for damages (law)",
+      "immunity from prosecution",
+      "federal budget (us)",
+      "attorneys general",
+      "politics and government",
+      "ethics and official misconduct",
+      "internal revenue service",
+      "republican party",
+      "justice department",
+      "blanche, todd (attorney)",
+      "cornyn, john",
+      "tillis, thomas r",
+      "trump, donald j"
+    ],
+    "collectedAt": "2026-08-03T05:45:01.271Z"
   }
 ]
