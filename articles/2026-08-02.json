@@ -7868,7 +7868,7 @@
     "pubDate": "Mon, 03 Aug 2026 03:05:56 GMT",
     "source": "NBC News",
     "categories": [],
-    "collectedAt": "2026-08-03T03:15:01.278Z"
+    "collectedAt": "2026-08-03T03:15:01.249Z"
   },
   {
     "title": "Gold gains as oil slumps after Trump holds off on Iran attack - Reuters",
@@ -7877,7 +7877,7 @@
     "pubDate": "Mon, 03 Aug 2026 00:41:00 GMT",
     "source": "Reuters",
     "categories": [],
-    "collectedAt": "2026-08-03T03:15:01.278Z"
+    "collectedAt": "2026-08-03T03:15:01.249Z"
   },
   {
     "title": "Ceuta grapples with aftermath of border surge after most migrants leave the Spanish territory - AP News",
@@ -7886,7 +7886,7 @@
     "pubDate": "Sun, 02 Aug 2026 21:06:00 GMT",
     "source": "AP News",
     "categories": [],
-    "collectedAt": "2026-08-03T03:15:01.278Z"
+    "collectedAt": "2026-08-03T03:15:01.249Z"
   },
   {
     "title": "Former GOP Rep. Kay Granger Dies at 83 - newsmax.com",
@@ -7895,6 +7895,74 @@
     "pubDate": "Mon, 03 Aug 2026 01:26:43 GMT",
     "source": "Newsmax",
     "categories": [],
-    "collectedAt": "2026-08-03T03:15:01.278Z"
+    "collectedAt": "2026-08-03T03:15:01.249Z"
+  },
+  {
+    "title": "Outside the Moscow restaurant where bomb killed three",
+    "description": "The BBC's Russia editor reports from Kudrinskaya Square, where the blast took place.",
+    "link": "https://www.bbc.co.uk/news/articles/cdx8qp451lko?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 03 Aug 2026 03:25:47 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-03T03:30:01.701Z"
+  },
+  {
+    "title": "Trump pauses ‘massive attack’ on Iran, says new talks to begin",
+    "description": "US President Trump says new talks with Iran will start Monday ‘in the form of a negotiation’ after calling off attack.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss",
+    "pubDate": "Mon, 03 Aug 2026 03:17:33 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-08-03T03:30:01.701Z"
+  },
+  {
+    "title": "Brazil’s Lula launches reelection bid amid foreign interference concerns",
+    "description": "Brazil's President Luiz Inácio Lula da Silva has officially launched his reelection campaign.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/brazils-lula-launches-reelection-bid-amid-foreign-interference-concerns?traffic_source=rss",
+    "pubDate": "Mon, 03 Aug 2026 02:54:25 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-03T03:30:01.701Z"
+  },
+  {
+    "title": "Oil slumps on hopes of Iran deal, yen spikes suddenly after intervention - Reuters",
+    "description": "Oil slumps on hopes of Iran deal, yen spikes suddenly after intervention  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUjBjdHpEdEdMdVNpbVprQmRvNG9JTzl0ZHB4SkNmWUxqT2hNUG8xcW96U1R2czNKWHVMYXRqY2gxR1pHTzZ4RjlpaDgzUnM3U0dCNURmZDhPUUhVTnRuUFhYcGFmVHdoOWg2a3RJNTNGQktBU3pvZVZGSS1EVUJ1QzlVbw?oc=5",
+    "pubDate": "Mon, 03 Aug 2026 01:03:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-08-03T03:30:01.701Z"
+  },
+  {
+    "title": "Brewers ace Jacob Misiorowski unloads on Angel Stadium mound after embarrassing Angels loss",
+    "description": "Jacob Misiorowski called the Angel Stadium mound 'awful' after Wade Meckler's two-run homer lifted the Angels past the NL Central-leading Brewers.",
+    "link": "https://www.foxnews.com/outkick-sports/brewers-ace-jacob-misiorowski-unloads-angel-stadium-mound-embarrassing-angels-loss",
+    "pubDate": "Sun, 02 Aug 2026 23:11:37 -0400",
+    "source": "Fox News",
+    "categories": [
+      "d33add19-2777-512d-bfa5-61bf304ec998",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/sports/mlb/los-angeles-angels",
+      "fox-news/sports/mlb/milwaukee-brewers",
+      "fox-news/sports/mlb",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-08-03T03:30:01.701Z"
+  },
+  {
+    "title": "New Yankee Luis Garcia Jr. posts heartfelt goodbye to Nationals",
+    "description": "Before he puts on a Yankees uniform, he said his goodbyes to the city he called home for seven seasons in a post on social media.",
+    "link": "https://nypost.com/2026/08/02/sports/new-yankee-luis-garcia-jr-posts-heartfelt-goodbye-to-nationals/",
+    "pubDate": "Sun, 02 Aug 2026 23:29:45 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-03T03:30:01.701Z"
   }
 ]
