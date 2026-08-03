@@ -850,7 +850,7 @@
         {
           "date": "2026-08-03",
           "edition": "evening",
-          "update": "A Ukrainian drone struck a crowded beach at the Black Sea resort of Gelendzhik, killing three children among the casualties and injuring approximately 40 people; Russia attributed the attack to Ukraine. Ukraine conducted another long-range drone strike on a Wildberries warehouse, marking a repeated targeting of Russia's largest e-commerce retailer's infrastructure. Ukraine's top negotiator Rustem Umerov is set to be appointed head of the country's foreign intelligence service, according to Reuters. Al Jazeera reported that Russia and Ukraine exchanged heavy attacks killing more than 10 people as the war entered its fifth year with no signs of slowing."
+          "update": "A Ukrainian drone struck a crowded beach near the Black Sea resort of Gelendzhik, with Russia attributing the attack to Ukraine; approximately 40 people were injured and three children were among those killed. Ukraine conducted another long-range drone strike on a Wildberries warehouse, marking at least the second attack on the Russian e-commerce company's facilities. Ukraine's top negotiator Rustem Umerov was appointed to head the country's foreign intelligence service, according to Reuters. Al Jazeera reported that Russia and Ukraine exchanged heavy attacks killing more than 10 people as the conflict enters its fifth year."
         }
       ],
       "parentId": null
@@ -2556,6 +2556,11 @@
           "date": "2026-08-03",
           "edition": "morning",
           "update": "Defense Secretary Pete Hegseth has failed to secure notable Senate support for tens of billions of dollars in Iran war funding, with Republican senators reportedly losing confidence in his leadership as U.S. military stockpiles and Pentagon funds are rapidly depleted, according to The Hill. Chevron CEO Mike Wirth described energy markets as 'somewhat fragile and uncertain' due to the Iran conflict, citing risks to oil export transit routes. Fuel theft from UK forecourts has risen by 20% over the five months since the Iran war began, with nearly £200,000 worth of fuel stolen daily. Al Jazeera reported a pattern of the U.S. backing off confrontational stances toward Iran before weekday market openings, suggesting economic considerations are influencing military and diplomatic decisions."
+        },
+        {
+          "date": "2026-08-03",
+          "edition": "evening",
+          "update": "CENTCOM is reportedly considering new measures to increase pressure on Iran, according to Newsmax, though specific details of the plans were not disclosed."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3554,7 +3559,7 @@
         {
           "date": "2026-08-03",
           "edition": "evening",
-          "update": "Trump issued a stark warning to Iran, calling it 'duplicitous' and threatening 'decapitation' if the country fails to reach a deal, while claiming Iran's march toward nuclear weapons has been 'halted and reversed.' Iran clarified that its ongoing talks are with Oman and focused on reaching an understanding on shipping routes, not direct negotiations with the United States. Appeals from Gulf state allies and regional mediators were reported as contributing factors in Trump's decision to call off planned strikes. Former National Counterterrorism Center Director Joe Kent called on Trump to declare victory against Iran and withdraw U.S. troops from the Middle East, while CENTCOM is reportedly examining new options to increase pressure on Iran."
+          "update": "Trump called Iran 'duplicitous' and warned that current negotiations represent a 'last chance' for a peace deal, threatening 'decapitation' if Iran fails to reach an agreement. Iran clarified that its talks are being conducted with Oman, not directly with the United States. Former National Counterterrorism Center Director Joe Kent argued Trump should declare victory against Iran and withdraw U.S. troops from the Middle East. Trump claimed that 'Iran's march toward nuclear weapons has been halted and reversed,' according to Newsweek, amid questions about shifting public support for his administration's Iran policy."
         }
       ]
     },
@@ -4074,7 +4079,7 @@
         {
           "date": "2026-08-03",
           "edition": "evening",
-          "update": "Analysts warned that threats to oil tankers in the Middle East have reached their worst level since the start of the Iran war, with fresh attacks on alternative shipping routes compounding an increasingly complex security situation for vessels across the region."
+          "update": "Analysts warn that threats to oil tankers in the Middle East have reached their worst level since the start of the Iran war, with fresh attacks on alternative shipping routes leaving tankers navigating an increasingly complex threat environment, according to BBC News."
         }
       ]
     },
@@ -4408,7 +4413,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-03",
+      "lastSeen": "2026-08-02",
       "active": true,
       "entries": [
         {
@@ -4475,11 +4480,6 @@
           "date": "2026-08-02",
           "edition": "morning",
           "update": "Israeli strikes hit residential homes in Gaza, killing five people, even as the U.S. unveiled its new plan calling for Hamas disarmament and an Israeli withdrawal from the territory. Students in Gaza completed their Tawjihi high school exams despite the ongoing conflict, with results celebrated amid the continuing war."
-        },
-        {
-          "date": "2026-08-03",
-          "edition": "evening",
-          "update": "Israel's Prime Minister Netanyahu's office stated it has 'serious security concerns' over the proposed Hamas disarmament deal and confirmed those concerns were formally shared with the White House. Israeli airstrikes continued to strike Gaza City on Saturday and Sunday despite Hamas having agreed to a demilitarization framework, underscoring the resistance Trump's Board of Peace plan faces from Israel."
         }
       ]
     },
@@ -4544,5 +4544,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-03T21:08:16.195Z"
+  "updatedAt": "2026-08-03T21:08:25.626Z"
 }
