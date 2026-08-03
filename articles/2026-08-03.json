@@ -88,5 +88,51 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-03T04:15:01.390Z"
+  },
+  {
+    "title": "Todd Blanche moves closer to confirmation after rescinding $1.8B fund",
+    "description": "Acting Attorney General Todd Blanche took a key step towards confirmation after meeting demands to rein in a settlement deal President Donald Trump reached with the IRS this year.",
+    "link": "https://www.foxnews.com/politics/todd-blanche-anti-weaponization-fund",
+    "pubDate": "Mon, 03 Aug 2026 00:06:53 -0400",
+    "source": "Fox News",
+    "categories": [
+      "1b73af35-3580-5c9d-992c-05f84e0361e4",
+      "fnc",
+      "fox news",
+      "fox-news/person/todd-blanche",
+      "fox-news/politics/justice-department",
+      "fox-news/politics",
+      "fox-news/person/donald-trump",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-03T04:30:02.471Z"
+  },
+  {
+    "title": "Trailblazing former Republican Rep. Kay Granger dies at 83: ‘Broke barriers’",
+    "description": "Former Rep. Kay Granger, a trailblazing Texas Republican who served nearly three decades in Congress and became Fort Worth’s first female mayor, has died at 83.",
+    "link": "https://nypost.com/2026/08/03/us-news/trailblazing-former-republican-rep-kay-granger-dies-at-83-broke-barriers/",
+    "pubDate": "Mon, 03 Aug 2026 00:17:38 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-03T04:30:02.471Z"
+  },
+  {
+    "title": "Cornyn reaches deal with DOJ ahead of Todd Blanche nomination vote",
+    "description": "Sen. John Cornyn (R-TX) reached a deal with the Justice Department that puts Todd Blanche back on track to be confirmed as President Donald Trump’s attorney general before the August recess. The agreement, announced by Cornyn in a Sunday night statement, rescinds the president’s “anti-weaponization” fund in writing and restates testimony from Blanche’s confirmation hearing, […]",
+    "link": "https://www.washingtonexaminer.com/news/senate/4670112/cornyn-reaches-deal-doj-todd-blanche-nomination-vote/",
+    "pubDate": "Mon, 03 Aug 2026 04:18:41 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "senate",
+      "congress",
+      "donald trump",
+      "john cornyn",
+      "thom tillis",
+      "todd blanche",
+      "trump administration",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-08-03T04:30:02.471Z"
   }
 ]
