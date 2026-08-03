@@ -550,5 +550,34 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-03T07:45:02.171Z"
+  },
+  {
+    "title": "Uefa threatens Fifa with legal action over investment plan",
+    "description": "Uefa threatens legal action over Gianni Infantino's scrapped plans to sell off stakes in Fifa competitions to private investors.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 03 Aug 2026 07:49:33 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-03T08:00:01.193Z"
+  },
+  {
+    "title": "New California law expands DNA tools for missing persons investigations",
+    "description": "A new law signed by Gov. Gavin Newsom expands California's Missing Persons DNA Program to identify living and deceased victims across thousands of cold cases.",
+    "link": "https://www.foxnews.com/politics/california-missing-persons-dna-law",
+    "pubDate": "Mon, 03 Aug 2026 03:48:10 -0400",
+    "source": "Fox News",
+    "categories": [
+      "d1fee20a-0638-50ad-9c41-4a397b00d0df",
+      "fnc",
+      "fox news",
+      "fox-news/topic/missing-persons",
+      "fox-news/us/crime/cold-case",
+      "fox-news/us/us-regions/west/california",
+      "fox-news/politics",
+      "fox-news/us",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-03T08:00:01.193Z"
   }
 ]
