@@ -424,7 +424,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-03",
+      "lastSeen": "2026-08-04",
       "active": true,
       "entries": [
         {
@@ -851,6 +851,11 @@
           "date": "2026-08-03",
           "edition": "evening",
           "update": "A Ukrainian drone struck a crowded beach near the Black Sea resort of Gelendzhik, with Russia attributing the attack to Ukraine; approximately 40 people were injured and three children were among those killed. Ukraine conducted another long-range drone strike on a Wildberries warehouse, marking at least the second attack on the Russian e-commerce company's facilities. Ukraine's top negotiator Rustem Umerov was appointed to head the country's foreign intelligence service, according to Reuters. Al Jazeera reported that Russia and Ukraine exchanged heavy attacks killing more than 10 people as the conflict enters its fifth year."
+        },
+        {
+          "date": "2026-08-04",
+          "edition": "morning",
+          "update": "Ukrainian drone strikes hit warehouses across Russia including in the Moscow region, killing five people. Separately, a Russian soldier in Crimea opened fire on colleagues and civilians, killing one fellow soldier and three civilians."
         }
       ],
       "parentId": null
@@ -859,7 +864,7 @@
       "id": "sinaloa-cartel-violence",
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-01",
+      "lastSeen": "2026-08-04",
       "active": true,
       "entries": [
         {
@@ -961,6 +966,11 @@
           "date": "2026-08-01",
           "edition": "morning",
           "update": "Antonio Oseguera Cervantes, brother of CJNG leader 'El Mencho,' pleaded guilty to U.S. drug charges, with federal prosecutors stating he worked in the cartel alongside his brother Nemesio Rubén Oseguera Cervantes."
+        },
+        {
+          "date": "2026-08-04",
+          "edition": "morning",
+          "update": "Mexican authorities arrested Ramón Ángel Álvarez Ayala, the alleged leader of the Los Rs cartel faction linked to CJNG, in connection with the livestreamed murder of beauty influencer Valeria Márquez and the assassination of a mayor."
         }
       ],
       "parentId": null
@@ -1809,7 +1819,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-03",
+      "lastSeen": "2026-08-04",
       "active": true,
       "entries": [
         {
@@ -2561,6 +2571,11 @@
           "date": "2026-08-03",
           "edition": "evening",
           "update": "CENTCOM is reportedly considering new measures to increase pressure on Iran, according to Newsmax, though specific details of the plans were not disclosed."
+        },
+        {
+          "date": "2026-08-04",
+          "edition": "morning",
+          "update": "Trump declared negotiations with Iran represent a 'last chance' for a deal, claiming Iranian officials are in discussions about ending attacks on commercial ships in the Strait of Hormuz, while Iran denied any such talks were taking place. Trump accused Iran of falsely denying it is negotiating with the U.S. S&P 500 stocks approached a record high and oil prices fell following Trump's claims of ongoing talks, before oil prices ticked back up as uncertainty over the negotiations persisted. Trump's former Chief of Staff warned he is losing credibility on Iran, with Trump having called off planned strikes at least five times since April, according to Newsweek. A former Navy official described Iran's leverage over the Strait of Hormuz as 'in some ways, a more powerful weapon than a nuclear bomb.'"
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2849,7 +2864,7 @@
       "id": "cuba-energy-crisis",
       "title": "Cuba Energy Crisis",
       "firstSeen": "2026-03-16",
-      "lastSeen": "2026-08-03",
+      "lastSeen": "2026-08-04",
       "active": true,
       "entries": [
         {
@@ -3051,6 +3066,11 @@
           "date": "2026-08-03",
           "edition": "morning",
           "update": "Cuba's aging power grid collapsed on Sunday, plunging the island into a nationwide blackout following a weekend of outages and amid U.S.-imposed fuel shortages."
+        },
+        {
+          "date": "2026-08-04",
+          "edition": "morning",
+          "update": "Cuba experienced its sixth nationwide power grid collapse of 2026, leaving residents without electricity in sweltering heat. The U.S. Embassy in Havana issued a warning to American travelers heading to the island."
         }
       ],
       "parentId": null
@@ -3365,7 +3385,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-03",
+      "lastSeen": "2026-08-04",
       "active": true
     },
     {
@@ -3388,7 +3408,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-08-03",
+      "lastSeen": "2026-08-04",
       "active": true,
       "entries": [
         {
@@ -3560,6 +3580,11 @@
           "date": "2026-08-03",
           "edition": "evening",
           "update": "Trump called Iran 'duplicitous' and warned that current negotiations represent a 'last chance' for a peace deal, threatening 'decapitation' if Iran fails to reach an agreement. Iran clarified that its talks are being conducted with Oman, not directly with the United States. Former National Counterterrorism Center Director Joe Kent argued Trump should declare victory against Iran and withdraw U.S. troops from the Middle East. Trump claimed that 'Iran's march toward nuclear weapons has been halted and reversed,' according to Newsweek, amid questions about shifting public support for his administration's Iran policy."
+        },
+        {
+          "date": "2026-08-04",
+          "edition": "morning",
+          "update": "Trump announced nuclear negotiations with Iran would resume Monday, while Iran again denied any direct talks with the U.S., stating its communications are conducted through Oman. Trump repeated threats of 'decapitation' if Iran fails to reach a deal, framing the offer as a final opportunity."
         }
       ]
     },
@@ -3828,7 +3853,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-08-03",
+      "lastSeen": "2026-08-04",
       "active": true,
       "entries": [
         {
@@ -4080,6 +4105,11 @@
           "date": "2026-08-03",
           "edition": "evening",
           "update": "Analysts warn that threats to oil tankers in the Middle East have reached their worst level since the start of the Iran war, with fresh attacks on alternative shipping routes leaving tankers navigating an increasingly complex threat environment, according to BBC News."
+        },
+        {
+          "date": "2026-08-04",
+          "edition": "morning",
+          "update": "The NY Times reported an emerging deal between Iran and Oman would reopen the Strait of Hormuz but would grant Iran increased strategic leverage. Thousands of civilian sailors remain stranded on vessels in the Strait amid the threat of Iranian attack, with crew members on at least one ship held by the Iranian navy for more than three months. The UK Maritime Trade Operations Center reported a vessel was struck by an unknown projectile in the Strait, causing oil prices to rise."
         }
       ]
     },
@@ -4413,7 +4443,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-02",
+      "lastSeen": "2026-08-04",
       "active": true,
       "entries": [
         {
@@ -4480,6 +4510,11 @@
           "date": "2026-08-02",
           "edition": "morning",
           "update": "Israeli strikes hit residential homes in Gaza, killing five people, even as the U.S. unveiled its new plan calling for Hamas disarmament and an Israeli withdrawal from the territory. Students in Gaza completed their Tawjihi high school exams despite the ongoing conflict, with results celebrated amid the continuing war."
+        },
+        {
+          "date": "2026-08-04",
+          "edition": "morning",
+          "update": "Israel publicly expressed doubts about Hamas's willingness to disarm, raising uncertainty over whether it would proceed with a withdrawal from Gaza. The Board of Peace stated there will be no Israeli withdrawal before Hamas disarms, as Netanyahu met with Board director Maldenov amid ongoing tensions. Despite the U.S.-brokered agreement being described as a breakthrough, Israeli strikes on Gaza intensified in the days following, killing dozens of Palestinians according to Al Jazeera."
         }
       ]
     },
@@ -4544,5 +4579,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-03T21:08:25.626Z"
+  "updatedAt": "2026-08-04T11:06:27.128Z"
 }
