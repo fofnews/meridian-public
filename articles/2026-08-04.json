@@ -141,5 +141,36 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-04T04:30:02.676Z"
+  },
+  {
+    "title": "Man arrested on suspicion of arson for allegedly starting Spokane fire",
+    "description": "A man in Washington state has been arrested on suspicion of arson for allegedly starting one of three fires ravaging the Spokane area.",
+    "link": "https://abcnews.com/US/man-arrested-suspicion-arson-allegedly-starting-spokane-fire/story?id=135343244",
+    "pubDate": "Tue, 04 Aug 2026 00:24:32 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-08-04T04:45:01.626Z"
+  },
+  {
+    "title": "France wildfires reveal hundreds of WW2 shells in village",
+    "description": "Explosions heard in Le Porge as the wildfires raged are believed to have have been the old munitions.",
+    "link": "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 04 Aug 2026 04:22:12 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-04T04:45:01.626Z"
+  },
+  {
+    "title": "Bodycam video shows firefighters battling blaze in Spokane, US",
+    "description": "Bodycam footage from firefighters shows the speed needed to put out the blaze sweeping through the northwestern US.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/bodycam-video-shows-firefighters-battling-blaze-in-spokane-us?traffic_source=rss",
+    "pubDate": "Tue, 04 Aug 2026 04:22:28 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-08-04T04:45:01.626Z"
   }
 ]
