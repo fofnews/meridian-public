@@ -1001,5 +1001,414 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-08-04T10:00:01.548Z"
+  },
+  {
+    "title": "What to know about primaries in 5 states today: Michigan, Virginia and more",
+    "description": "Voters are going to the polls Tuesday in five states: Michigan, Virginia, Missouri, Kansas and Washington.",
+    "link": "https://www.cbsnews.com/news/primaries-michigan-senate-abdul-el-sayed-haley-stevens-virginia-missouri-washington/",
+    "pubDate": "Tue, 04 Aug 2026 06:00:17 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-08-04T10:15:01.620Z"
+  },
+  {
+    "title": "White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules",
+    "description": "The Trump administration has struggled over how to approach to “open source” models, which are freely available to download and favored by Chinese companies.",
+    "link": "https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html",
+    "pubDate": "Tue, 04 Aug 2026 09:04:23 +0000",
+    "source": "NY Times",
+    "categories": [
+      "artificial intelligence",
+      "computers and the internet",
+      "united states politics and government",
+      "regulation and deregulation of industry",
+      "executive orders and memorandums",
+      "politics and government",
+      "lobbying and lobbyists"
+    ],
+    "collectedAt": "2026-08-04T10:15:01.620Z"
+  },
+  {
+    "title": "The New Deal That Could Lock in Iran’s Control of the Strait, and the $7 Billion Trump’s Not Spending",
+    "description": "Plus, where are you supposed to practice the bagpipes?",
+    "link": "https://www.nytimes.com/2026/08/04/podcasts/the-headlines/iran-deal-strait-of-hormuz-trump-spending.html",
+    "pubDate": "Tue, 04 Aug 2026 10:00:00 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "us and israeli attack on iran (2026)",
+      "peace process",
+      "trump, donald j",
+      "iran",
+      "new zealand",
+      "persian gulf",
+      "strait of hormuz"
+    ],
+    "collectedAt": "2026-08-04T10:15:01.620Z"
+  },
+  {
+    "title": "Ronald Lauder, a Billionaire G.O.P. Backer, Closes His Wallet",
+    "description": "Ronald S. Lauder, a major funder of conservative political causes, has not given a single dollar this year to Republicans in his home state, and his super PAC has gone idle.",
+    "link": "https://www.nytimes.com/2026/08/04/nyregion/ronald-lauder-republicans-donor.html",
+    "pubDate": "Tue, 04 Aug 2026 07:00:07 +0000",
+    "source": "NY Times",
+    "categories": [
+      "lauder, ronald s",
+      "high net worth individuals",
+      "campaign finance",
+      "estee lauder companies inc",
+      "neue galerie",
+      "republican party",
+      "political action committees",
+      "new york city",
+      "midterm elections (2026)",
+      "finances",
+      "conservatism (us politics)",
+      "family business"
+    ],
+    "collectedAt": "2026-08-04T10:15:01.620Z"
+  },
+  {
+    "title": "Where To Find the Best Ice Cream in New York City",
+    "description": "Froyo comes and goes, but ice cream is forever.",
+    "link": "https://www.nytimes.com/2026/08/04/dining/best-ice-cream-nyc.html",
+    "pubDate": "Tue, 04 Aug 2026 09:02:08 +0000",
+    "source": "NY Times",
+    "categories": [
+      "ice cream and frozen desserts",
+      "content type: service"
+    ],
+    "collectedAt": "2026-08-04T10:15:01.620Z"
+  },
+  {
+    "title": "Uber’s Strategy for Fighting Sexual Assault Suits: ‘What Were You Wearing?’",
+    "description": "The ride-hailing giant promised to handle legal claims “in a way that is best for the survivor.” Its lawyers are pursuing a far more aggressive strategy.",
+    "link": "https://www.nytimes.com/2026/08/04/business/uber-sexual-assault-lawsuits.html",
+    "pubDate": "Tue, 04 Aug 2026 09:00:12 +0000",
+    "source": "NY Times",
+    "categories": [
+      "sex crimes",
+      "car services and livery cabs",
+      "suits and litigation (civil)",
+      "sexual harassment",
+      "ethics and official misconduct",
+      "customer relations",
+      "arbitration, conciliation and mediation",
+      "assaults",
+      "chauffeurs and drivers",
+      "kirkland & ellis",
+      "uber technologies inc"
+    ],
+    "collectedAt": "2026-08-04T10:15:01.620Z"
+  },
+  {
+    "title": "After Deadly E-Bike Crashes, N.Y. Lawmakers Consider Crackdown",
+    "description": "The City Council on Tuesday is expected to present 17 proposals to make electric bikes and scooters safer for riders and pedestrians.",
+    "link": "https://www.nytimes.com/2026/08/04/nyregion/ebike-electric-scooter-regulations-nyc.html",
+    "pubDate": "Tue, 04 Aug 2026 07:00:16 +0000",
+    "source": "NY Times",
+    "categories": [
+      "traffic accidents and safety",
+      "motorcycles, motor bikes and motorscooters",
+      "electric bicycles, motorcycles and scooters",
+      "regulation and deregulation of industry",
+      "law and legislation",
+      "city council (nyc)",
+      "menin, julie",
+      "new york city"
+    ],
+    "collectedAt": "2026-08-04T10:15:01.620Z"
+  },
+  {
+    "title": "What to Know About Legal and Illegal E-Bikes in New York",
+    "description": "After a series of fatal crashes, often involving illegal devices, officials in New York City are weighing new rules for electric vehicles.",
+    "link": "https://www.nytimes.com/2026/08/04/nyregion/ebike-electric-scooters-nyc-illegal-rules.html",
+    "pubDate": "Tue, 04 Aug 2026 07:00:13 +0000",
+    "source": "NY Times",
+    "categories": [
+      "traffic accidents and safety",
+      "electric and hybrid vehicles",
+      "motorcycles, motor bikes and motorscooters",
+      "electric bicycles, motorcycles and scooters",
+      "regulation and deregulation of industry",
+      "bicycles and bicycling",
+      "city council (nyc)",
+      "transportation department (nyc)",
+      "mamdani, zohran",
+      "menin, julie",
+      "new york city",
+      "deaths (fatalities)",
+      "james, letitia"
+    ],
+    "collectedAt": "2026-08-04T10:15:01.620Z"
+  },
+  {
+    "title": "Spain's Border Crisis Is a Nightmare for Europe's Worried Leaders | Opinion",
+    "description": "The sight of 60,000 Moroccans breaking into Spanish territory adds to the \"invasion\" narrative troubling the European imagination.",
+    "link": "https://www.newsweek.com/spain-border-ceuta-illegal-immigration-12280781",
+    "pubDate": "Tue, 04 Aug 2026 06:02:08 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-04T10:15:01.620Z"
+  },
+  {
+    "title": "More than 150 migrants rescued after boat catches fire in Channel, French authorities say",
+    "description": "The boat was attempting to cross to the UK when its engine caught fire, according to the French maritime prefecture of the Channel and North Sea.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 04 Aug 2026 10:11:51 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-04T10:15:01.620Z"
+  },
+  {
+    "title": "Russian soldier kills colleague and three civilians in Crimea - Reuters",
+    "description": "Russian soldier kills colleague and three civilians in Crimea  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcWFqdkpHeGJzWnhLelRaQ0FOLUF6czFLc1pyTERQMG5OSkxwMTd3MVhvR3ZlRk1RRUNDT3BpNHg4Q0JFYWFaQXpvRGNEMkpwYnZuZGlmZmdqVEhPN3NvbW5NVmFCV0hTZngteXNTbi1jZ2lsTUxmamhFX2lGdnF0ajlEb201b2dUTGVybWNYaGJ2T2lyaEpTaEhQeUVXVWFxMGw3UmN3?oc=5",
+    "pubDate": "Tue, 04 Aug 2026 07:50:16 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-08-04T10:15:01.620Z"
+  },
+  {
+    "title": "Trump snaps back to diplomacy, but Iran has other ideas",
+    "description": "President Trump is turning back to diplomacy in the Middle East, seeking a new deal with Iran that his administration failed to secure through waves of military strikes.  But the negotiations, which the president claimed would resume Monday, got off to a rocky start, with Iran denying any resumption in talks with the U.S., while…",
+    "link": "https://thehill.com/policy/defense/6006709-trump-iran-diplomacy-strait-hormuz/",
+    "pubDate": "Tue, 04 Aug 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "defense",
+      "international",
+      "policy"
+    ],
+    "collectedAt": "2026-08-04T10:15:01.620Z"
+  },
+  {
+    "title": "Democrats see wins in funding stopgap, but expect future spending fight",
+    "description": "The Senate on Monday advanced a bipartisan bill to fund the government at current levels through Dec. 11 with strong support from both parties, a break from the bitter fights that dominated recent funding cycles.  Democrats have opposed similar efforts in recent years, either to avoid ceding power to Republicans and President Trump or in…",
+    "link": "https://thehill.com/homenews/senate/6006966-senate-bipartisan-funding-bill-democrats-trump/",
+    "pubDate": "Tue, 04 Aug 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "news",
+      "senate"
+    ],
+    "collectedAt": "2026-08-04T10:15:01.620Z"
+  },
+  {
+    "title": "Blanche nomination has momentum, despite a few GOP obstacles",
+    "description": "Acting Attorney General Todd Blanche’s confirmation to the permanent post faces hurdles in the Senate even after the dramatic deal involving Republican Sens. John Cornyn (Texas) and Thom Tillis (N.C.), as several other key GOP senators remain undecided over his nomination. Centrist Sen. Susan Collins (R-Maine), who faces a tough reelection contest in a Democratic-leaning…",
+    "link": "https://thehill.com/homenews/senate/6006947-gop-swing-votes-attorney-general/",
+    "pubDate": "Tue, 04 Aug 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "news",
+      "senate"
+    ],
+    "collectedAt": "2026-08-04T10:15:01.620Z"
+  },
+  {
+    "title": "The Memo: Decision day dawns for El-Sayed, Stevens and Michigan Democrats",
+    "description": "It’s crunch time in the fiercest and most divisive Democratic primary battle of the year. On Tuesday, Democratic voters in Michigan will decide whether progressive Abdul El-Sayed or centrist Rep. Haley Stevens (D-Mich.) will be their Senate candidate as the party tries to retain the seat being vacated by Sen. Gary Peters (D). The race…",
+    "link": "https://thehill.com/homenews/campaign/6006890-michigan-democratic-senate-primary/",
+    "pubDate": "Tue, 04 Aug 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "news"
+    ],
+    "collectedAt": "2026-08-04T10:15:01.620Z"
+  },
+  {
+    "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
+    "description": "A reader writes: “I will likely be in a position to decline my benefits.”",
+    "link": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
+    "pubDate": "Tue, 04 Aug 2026 10:00:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-08-04T10:15:01.620Z"
+  },
+  {
+    "title": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
+    "description": "“I was surprised — and flattered — to find myself on the guest list.”",
+    "link": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
+    "pubDate": "Tue, 04 Aug 2026 10:00:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-08-04T10:15:01.620Z"
+  },
+  {
+    "title": "Discontinued Cracker Barrel foods that fans are begging to get back",
+    "description": "The Sunrise Sampler breakfast platter and black-eyed peas are among the discontinued comfort foods loyal customers want Cracker Barrel to bring back.",
+    "link": "https://www.foxnews.com/food-drink/discontinued-cracker-barrel-foods-fans-begging-get-back",
+    "pubDate": "Tue, 04 Aug 2026 06:00:54 -0400",
+    "source": "Fox News",
+    "categories": [
+      "7abbb5a1-898a-54ce-9455-d837a69b83cf",
+      "fnc",
+      "fox news",
+      "fox-news/topic/cracker-barrel",
+      "fox-news/food-drink/recipes/cuisines/southern",
+      "fox-news/food-drink/food/restaurants",
+      "fox-news/food-drink/recipes/meals/breakfast",
+      "fox-news/food-drink/food",
+      "fox-news/food-drink",
+      "fox-news/lifestyle",
+      "fox-news/food-drink",
+      "article"
+    ],
+    "collectedAt": "2026-08-04T10:15:01.620Z"
+  },
+  {
+    "title": "Historian blasts Smithsonian's activism shift after first visit in over a decade: 'Completely different place'",
+    "description": "Dr. Jody Edward Ginn says the Smithsonian National Museum of American History abandoned education for activism after visiting for the first time since 2012",
+    "link": "https://www.foxnews.com/politics/historian-blasts-smithsonian-activism-shift-first-visit-over-decade-completely-different-place",
+    "pubDate": "Tue, 04 Aug 2026 06:00:27 -0400",
+    "source": "Fox News",
+    "categories": [
+      "732b495d-0e2a-5ac7-881d-2ad63ccbc0e5",
+      "fnc",
+      "fox news",
+      "fox-news/us/washington-dc",
+      "fox-news/travel/general/museums-exhibits",
+      "fox-news/science/archaeology/history",
+      "fox-news/politics",
+      "fox-news/politics/smithsonian",
+      "fox-news/person/donald-trump",
+      "fox-news/politics/executive/white-house",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-04T10:15:01.620Z"
+  },
+  {
+    "title": "El-Sayed touts endorsement from pastor who praised notorious antisemite infamous for calling Jews ‘termites’",
+    "description": "Abdul El-Sayed's campaign paid $75,000 in consulting fees to a Detroit pastor who once praised Louis Farrakhan's leadership at a 2013 gathering.",
+    "link": "https://www.foxnews.com/politics/el-sayed-touts-endorsement-from-pastor-who-praised-notorious-antisemite-infamous-calling-jews-termites",
+    "pubDate": "Tue, 04 Aug 2026 06:00:25 -0400",
+    "source": "Fox News",
+    "categories": [
+      "fe550ffa-5fdd-57e8-9124-3fbf29577b5e",
+      "fnc",
+      "fox news",
+      "fox-news/us/religion/islam",
+      "fox-news/politics",
+      "fox-news/us/us-regions/midwest/michigan",
+      "fox-news/politics/senate",
+      "fox-news/politics/elections",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-04T10:15:01.620Z"
+  },
+  {
+    "title": "GOP party fissures exposed in battle for S.C. Senate seat to replace Graham: 'I don't like hearing that'",
+    "description": "Five GOP candidates clashed over the filibuster, the Iran war, and data centers in South Carolina's heated Senate debate to fill Lindsey Graham's seat.",
+    "link": "https://www.foxnews.com/politics/gop-party-fissures-exposed-battle-sc-senate-seat-replace-graham-i-dont-like-hearing-that",
+    "pubDate": "Tue, 04 Aug 2026 06:00:18 -0400",
+    "source": "Fox News",
+    "categories": [
+      "f711924e-cf06-5f4c-b9ba-af802a687548",
+      "fnc",
+      "fox news",
+      "fox-news/person/lindsey-graham",
+      "fox-news/politics/primary-debate-videos",
+      "fox-news/politics/elections/republicans",
+      "fox-news/politics/elections/senate",
+      "fox-news/politics",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-04T10:15:01.620Z"
+  },
+  {
+    "title": "Prince Harry and Meghan Markle's royal 'rupture' caused 'very serious damage' to the monarchy: author",
+    "description": "Royal commentators debate whether Meghan Markle could have succeeded in the royal family as the duchess celebrates her 45th birthday amid an unhealed rift.",
+    "link": "https://www.foxnews.com/entertainment/prince-harry-meghan-markle-royal-rupture-caused-very-serious-damage-monarchy-author",
+    "pubDate": "Tue, 04 Aug 2026 06:00:11 -0400",
+    "source": "Fox News",
+    "categories": [
+      "fa7700f7-d9d3-5a1a-b035-c1d375ff8105",
+      "fnc",
+      "fox news",
+      "fox-news/entertainment/celebrity-news/meghan-markle",
+      "fox-news/person/prince-harry",
+      "fox-news/entertainment/genres/books",
+      "fox-news/world/personalities/british-royals",
+      "fox-news/entertainment",
+      "fox-news/entertainment",
+      "article"
+    ],
+    "collectedAt": "2026-08-04T10:15:01.620Z"
+  },
+  {
+    "title": "Why Trump is downplaying reports Russia and China are helping Iran",
+    "description": "Trump says he'll ask Putin directly about satellite imagery allegations as experts warn Russia and China are quietly aiding Iran against U.S. forces.",
+    "link": "https://www.foxnews.com/politics/why-trump-downplaying-reports-russia-china-helping-iran",
+    "pubDate": "Tue, 04 Aug 2026 06:00:06 -0400",
+    "source": "Fox News",
+    "categories": [
+      "dd2f2b8d-948b-5267-b12d-71d6a598a2df",
+      "fnc",
+      "fox news",
+      "fox-news/politics/defense/wars/war-with-iran",
+      "fox-news/world/world-regions/china",
+      "fox-news/world/world-regions/russia",
+      "fox-news/person/donald-trump",
+      "fox-news/world/conflicts/ukraine",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-04T10:15:01.620Z"
+  },
+  {
+    "title": "Nancy Guthrie investigation failures are ‘shocking and disturbing’ — FBI must take control to catch killer: sources",
+    "description": "\"It's ridiculous for egos to ever be involved in delaying or obfuscating an investigation. Law enforcement on all sides should have the same goal — to resolve the crime,\" former FBI profiler Jim Clemente said.",
+    "link": "https://pagesix.com/2026/08/04/celebrity-news/nancy-guthrie-investigation-failures-are-shocking-and-disturbing-fbi-must-take-control-sources/",
+    "pubDate": "Tue, 04 Aug 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-04T10:15:01.620Z"
+  },
+  {
+    "title": "Midterm Countdown: Republicans get a glimmer of hope",
+    "description": "This story is part of a series of monthly snapshots from the Washington Examiner, titled Midterm Countdown, gauging the state of the 2026 election cycle. Scroll down to the bottom of the story for the latest prediction market odds of who is going to win. Republican optimism about winning the 2026 midterm elections has grown […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4673621/midterm-countdown-august-2026/",
+    "pubDate": "Tue, 04 Aug 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "congressional",
+      "2026 elections",
+      "congress",
+      "democrats",
+      "donald trump",
+      "polling",
+      "redistricting",
+      "republicans",
+      "socialism",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-08-04T10:15:01.620Z"
+  },
+  {
+    "title": "As data centers sprout across the US, governor hopefuls look to ease voter fears",
+    "description": "Candidates for governor are offering different visions for how to balance economic development with residents’ concerns over rising electricity demand, land use, and local control as data centers become a prominent issue in state politics. The facilities that power cloud computing and artificial intelligence have become a flashpoint in several states as communities push back […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/state/4673517/data-center-moratorium-governor-candidates-centers-should-pay-consensus/",
+    "pubDate": "Tue, 04 Aug 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "infrastructure",
+      "state",
+      "technology",
+      "construction",
+      "data centers",
+      "energy and environment",
+      "florida",
+      "georgia",
+      "governor",
+      "kansas",
+      "ohio",
+      "wisconsin"
+    ],
+    "collectedAt": "2026-08-04T10:15:01.620Z"
   }
 ]
