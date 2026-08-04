@@ -433,5 +433,48 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-04T07:30:01.211Z"
+  },
+  {
+    "title": "Saudi Aramco Reports 33% Profit Surge Despite War’s Disruption",
+    "description": "Higher oil prices propelled a quarterly earnings jump for Saudi Arabia’s energy giant, which used pipelines to work around disruptions in the Strait of Hormuz.",
+    "link": "https://www.nytimes.com/2026/08/04/business/saudi-aramco-earnings-iran-war.html",
+    "pubDate": "Tue, 04 Aug 2026 07:31:44 +0000",
+    "source": "NY Times",
+    "categories": [
+      "saudi aramco",
+      "oil (petroleum) and gasoline",
+      "nasser, amin h",
+      "saudi arabia",
+      "us and israeli attack on iran (2026)",
+      "company reports"
+    ],
+    "collectedAt": "2026-08-04T07:45:01.164Z"
+  },
+  {
+    "title": "Scientists Reveal the Best Workouts for Different Health Risks",
+    "description": "A new review reveals why the best workout may depend on your health goals, uncovering surprising winners across key risks.",
+    "link": "https://www.newsweek.com/scientists-compared-10-workouts-for-blood-pressure-and-blood-sugar-and-ranked-the-best-12277511",
+    "pubDate": "Tue, 04 Aug 2026 03:29:52 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-04T07:45:01.164Z"
+  },
+  {
+    "title": "Three crew injured as cargo ship hit by drone attack near Russia's Novorossiysk - Reuters",
+    "description": "Three crew injured as cargo ship hit by drone attack near Russia's Novorossiysk  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYXZGT3BmOHBhbTZqRm5xTURQRUxmckpIUjBlTmEwNnBrQ2c1QjNGVkcyRGQwZEZteGp2QlB1OEhabWttNGd5WnI3bTk2ajJZckxDNWRjT2hsOFBBSW9lSnotel9UX3VlRjdnV1RGbGdScE5IeWJxa25RNkxZSUp5RUt0dVljTlNmYXl6QnRzMElLaVViaVBWbGZQSGwzYjlNV0F1bVlmanoxOUx4bXRlRTRMdkZMM2pv?oc=5",
+    "pubDate": "Tue, 04 Aug 2026 04:23:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-08-04T07:45:01.164Z"
+  },
+  {
+    "title": "Toyota lifts annual forecast despite Q1 profit drop on weak China sales - Reuters",
+    "description": "Toyota lifts annual forecast despite Q1 profit drop on weak China sales  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSy1kNU1lRXkxX25PQUFPbTQtT2FCaXp3VHNJb0N6czVieVFvZmY1U1lta3NzVEdwRUEzQmd6b2h0dmtOTTVyZmNTTDhiVU1od3dCWFN6U2JRMFRZeTE2cnBwTHpGekxMNzhGRk1CMnZSRllsdG5UZmpmXzRoNTVKeDlQUlBwMWFlUG9KbzJGOGkzZGtUajh4V1R2WmhMdXdiVVNiZlFiLTZHbHhlUExSS05QdnU2RFRUUTRuQ3ZsM2M1M0RSdkxFajVMWU4ycDVGanc?oc=5",
+    "pubDate": "Tue, 04 Aug 2026 05:08:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-08-04T07:45:01.164Z"
   }
 ]
