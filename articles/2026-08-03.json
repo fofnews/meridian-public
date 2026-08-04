@@ -12436,5 +12436,54 @@
     "source": "Newsmax",
     "categories": [],
     "collectedAt": "2026-08-04T02:15:01.619Z"
+  },
+  {
+    "title": "Inside the Democratic Socialists of America Summit",
+    "description": "Our politics reporter Kellen Browning went to the Democratic Socialists of America’s national summit in Chicago to learn more about the group’s new platform.",
+    "link": "https://www.nytimes.com/video/us/politics/100000011064084/democratic-socialists-of-america.html",
+    "pubDate": "Mon, 03 Aug 2026 22:49:57 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "democratic socialists of america"
+    ],
+    "collectedAt": "2026-08-04T02:30:01.538Z"
+  },
+  {
+    "title": "ICE says Salvadoran man dead following ‘medical emergency’ at Newark detention center",
+    "description": "A detainee who had been held at a Newark, N.J., Immigration and Customs Enforcement (ICE) facility has died, according to multiple officials. In a statement obtained by The Hill’s sister network NewsNation, ICE said that a 41-year-old Salvadoran migrant named Edwin Lopez-Cornejo who had been detained at the Delaney Hall Detention Facility “was pronounced deceased…",
+    "link": "https://thehill.com/policy/national-security/6006989-ice-detainee-dies-delaney-hall/",
+    "pubDate": "Tue, 04 Aug 2026 01:42:47 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "national security",
+      "news",
+      "state watch",
+      "delaney hall",
+      "ice",
+      "new jersey",
+      "newark",
+      "trump administration"
+    ],
+    "collectedAt": "2026-08-04T02:30:01.538Z"
+  },
+  {
+    "title": "Impatient Wisconsin senior, 69, flies helicopter to go shopping at Cabela’s: ‘The drive was too long’",
+    "description": "An impatient Wisconsin man, itching to get to his favorite hunting store, flew a helicopter into the parking lot to beat the traffic, authorities said. The 69-year-old got in his whirlybird and rushed to his local Cabela’s – an outdoor supply store – around 6 p.m. on Saturday, police said.  The man took off from the...",
+    "link": "https://nypost.com/2026/08/03/us-news/wi-man-69-flies-helicopter-to-go-shopping-at-cabelas/",
+    "pubDate": "Mon, 03 Aug 2026 22:22:07 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-04T02:30:01.538Z"
+  },
+  {
+    "title": "Hollywood hotspot with secret entrance closed after disturbing vermin infestation",
+    "description": "Good Times at Davey Wayne’s in Los Angeles was temporarily shut down over health code violations after officials cited a vermin infestation.",
+    "link": "https://nypost.com/2026/08/03/lifestyle/good-times-at-davey-waynes-forced-to-close-due-to-vermin-infestation/",
+    "pubDate": "Mon, 03 Aug 2026 22:15:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-04T02:30:01.538Z"
   }
 ]
