@@ -856,6 +856,11 @@
           "date": "2026-08-04",
           "edition": "morning",
           "update": "Ukrainian strikes on warehouses across Russia killed five people according to local officials, with facilities in the Moscow region among those hit. Separately, a Russian soldier in Crimea killed one fellow soldier and three civilians."
+        },
+        {
+          "date": "2026-08-04",
+          "edition": "evening",
+          "update": "A Russian drone pursued a civilian street vendor at an outdoor market in Ukraine, with Ukraine accusing Russia of a war crime over the incident. Nine people were killed overall as Russia and Ukraine exchanged escalating long-range missile and drone strikes targeting areas far beyond the front lines. A separate update on the Gelendzhik beach drone strike places the death toll at seven beachgoers. Russian drone attacks have struck hundreds of gas stations across Ukraine in what the New York Times reports appears to be retaliation for Ukrainian strikes on Russian oil refineries. Ukraine has begun turning to alternative grain export routes as Russia's blockade of its Black Sea ports disrupts agricultural exports, according to Reuters."
         }
       ],
       "parentId": null
@@ -1439,7 +1444,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-03",
+      "lastSeen": "2026-08-04",
       "active": true,
       "entries": [
         {
@@ -1811,6 +1816,11 @@
           "date": "2026-08-03",
           "edition": "morning",
           "update": "Interfaith volunteers have begun rebuilding a war-damaged Catholic monastery in Zawtar al-Gharbiyeh, Lebanon, according to Al Jazeera."
+        },
+        {
+          "date": "2026-08-04",
+          "edition": "evening",
+          "update": "A seventh round of Israel-Lebanon talks has begun, according to Al Jazeera, even as Israel continues to occupy and conduct strikes in southern Lebanon."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2576,6 +2586,11 @@
           "date": "2026-08-04",
           "edition": "morning",
           "update": "Trump warned Iran it has a 'last chance' to reach a diplomatic deal, threatening 'decapitation' strikes while accusing Tehran of falsely denying that negotiations are underway. Iran denied that any direct talks with the United States are taking place. Trump's former Chief of Staff warned that Trump is losing credibility on Iran, as Trump has now called off planned airstrikes at least five times since April, according to Newsweek. A former Navy official described Iran's leverage over the Strait of Hormuz as 'in some ways, a more powerful weapon than a nuclear bomb.' US stocks approached record highs as the S&P 500 neared its all-time peak, while oil prices fluctuated amid conflicting claims from Washington and Tehran over the status of nuclear negotiations."
+        },
+        {
+          "date": "2026-08-04",
+          "edition": "evening",
+          "update": "Trump threatened 'decapitation' strikes against Iran if the country does not reach a nuclear deal, according to CBS News. No new military operations were reported beyond the diplomatic warnings."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3585,6 +3600,11 @@
           "date": "2026-08-04",
           "edition": "morning",
           "update": "Trump again warned Iran of a 'last chance' to make a peace deal, threatening 'decapitation' if negotiations fail, according to The Hill. Iran clarified it is conducting talks through Oman rather than directly with the United States, and denied any resumption of talks despite Trump announcing diplomacy would resume Monday. According to the NY Times, an emerging deal brokered through Oman would reopen the Strait of Hormuz but would grant Iran new strategic leverage it did not possess before the conflict began."
+        },
+        {
+          "date": "2026-08-04",
+          "edition": "evening",
+          "update": "Pakistan has launched a new diplomatic push to facilitate U.S.-Iran dialogue amid deepening mistrust between the two countries, as repeated ceasefire failures have exposed the limits of mediation efforts, according to Al Jazeera. Trump publicly claimed talks are underway including discussions on reopening the Strait of Hormuz, while Tehran again denied that any such talks are taking place."
         }
       ]
     },
@@ -4110,6 +4130,11 @@
           "date": "2026-08-04",
           "edition": "morning",
           "update": "The UK Maritime Trade Operations Center reported a vessel was struck by an 'unknown projectile' in the Strait of Hormuz, causing oil prices to rise. Thousands of civilian sailors remain stranded on ships in the strait amid risk of Iranian attack, with crew members on at least one vessel having been held by the Iranian navy for more than three months, according to the NY Times."
+        },
+        {
+          "date": "2026-08-04",
+          "edition": "evening",
+          "update": "Treasury Secretary Scott Bessent stated on CNBC's 'Squawk Box' that the U.S. is in active talks with Iran over the Strait of Hormuz and that a deal could come 'today or tomorrow.' Rubio and Bessent both announced that talks had progressed toward reopening the strait to oil shipments, causing oil prices to fall. Iran and Oman are reportedly close to an agreement that would fully reopen the strait, with both countries set to collect a 'service fee' covering environmental and security costs, according to the New York Post. An additional vessel was struck by an unknown projectile in the strait amid the ongoing negotiations."
         }
       ]
     },
@@ -4188,7 +4213,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-07-28",
+      "lastSeen": "2026-08-04",
       "active": true,
       "entries": [
         {
@@ -4345,6 +4370,11 @@
           "date": "2026-07-28",
           "edition": "morning",
           "update": "Healthcare workers at an Ebola treatment centre in Bunia, Democratic Republic of Congo, have gone on strike amid a reported spike in the Ebola death toll, according to Al Jazeera."
+        },
+        {
+          "date": "2026-08-04",
+          "edition": "evening",
+          "update": "The DR Congo Ebola outbreak death toll has risen to more than 1,700, with nearly 90 percent of cases concentrated in Ituri province, as the WHO accelerates vaccine trials in response, according to Al Jazeera."
         }
       ]
     },
@@ -4579,5 +4609,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-04T11:06:37.588Z"
+  "updatedAt": "2026-08-04T21:08:24.972Z"
 }
