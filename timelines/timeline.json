@@ -301,6 +301,11 @@
           "date": "2026-08-05",
           "edition": "morning",
           "update": "UK Victims Minister Alex Davies-Jones told BBC Newsnight that Greater Manchester Mayor Andy Burnham is considering conducting a public inquiry into Jeffrey Epstein's actions in the United Kingdom, and that she had discussed the matter with the Prime Minister upon her appointment."
+        },
+        {
+          "date": "2026-08-05",
+          "edition": "evening",
+          "update": "New Mexico filed a lawsuit against the U.S. Department of Justice, alleging the DOJ is withholding unredacted Epstein documents from the state's investigation, with acting Attorney General Todd Blanche named as a defendant alongside the DOJ. CBS News is facing renewed scrutiny over an unreported '60 Minutes' segment on Epstein following the release of a Senate Finance Committee report examining his banking connections."
         }
       ],
       "parentId": null
@@ -871,6 +876,11 @@
           "date": "2026-08-05",
           "edition": "morning",
           "update": "Russian missile and drone strikes targeted Kyiv and the surrounding region overnight into Wednesday, killing at least 15 people according to Ukraine's state emergency service, with President Zelenskyy confirming the casualty figures. Ukraine is reported to be running critically low on interceptor missiles needed to defend against Russian bombardments, underscoring Zelenskyy's push for more Patriot interceptors from partners. Zelenskyy also announced that Ukrainian drones killed or gravely wounded 30,272 Russian troops near the front lines in July. The US is continuing negotiations over supplying Patriot missile systems to Ukraine despite reported doubts from President Trump about the plan, according to Reuters sources."
+        },
+        {
+          "date": "2026-08-05",
+          "edition": "evening",
+          "update": "Russia launched a large-scale strike on Kyiv killing 17 people, with Russian officials stating the attack targeted logistics and transport sites using precision weapons. Russian forces were also reported to be conducting so-called 'drone safaris' hunting Ukrainian personnel."
         }
       ],
       "parentId": null
@@ -1454,7 +1464,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-04",
+      "lastSeen": "2026-08-05",
       "active": true,
       "entries": [
         {
@@ -1831,6 +1841,11 @@
           "date": "2026-08-04",
           "edition": "evening",
           "update": "A seventh round of Israel-Lebanon talks has begun, according to Al Jazeera, as Israel continues to occupy and conduct strikes in southern Lebanon."
+        },
+        {
+          "date": "2026-08-05",
+          "edition": "evening",
+          "update": "Lebanon and Israel remained divided over Hezbollah disarmament and Israeli withdrawal from southern Lebanon during the second day of resumed talks in Rome. Israel struck Lebanon after accusing Hezbollah of violating the ceasefire, and the Israeli military issued an evacuation warning to a village in southern Lebanon."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3620,6 +3635,11 @@
           "date": "2026-08-05",
           "edition": "morning",
           "update": "President Trump stated that the United States and Iran are having 'very good discussions,' according to Reuters."
+        },
+        {
+          "date": "2026-08-05",
+          "edition": "evening",
+          "update": "The U.S. removed sanctions from three entities linked to Iran's Islamic Revolutionary Guard Corps, according to updates on the Treasury Department's website. Former U.S. Ambassador to the UN Mark Wallace stated that Iran is 'uncertain' on how to handle President Trump as the two countries enter talks toward a potential interim peace deal."
         }
       ]
     },
@@ -4155,6 +4175,11 @@
           "date": "2026-08-05",
           "edition": "morning",
           "update": "Iran reported that talks with Oman over the Strait of Hormuz are proceeding 'positively,' while US officials indicated a deal could be possible soon. A ship was also reported struck in the Red Sea amid the ongoing regional tensions."
+        },
+        {
+          "date": "2026-08-05",
+          "edition": "evening",
+          "update": "Iran announced it is nearing a final agreement with Oman on an acceptable route for ships passing through the Strait of Hormuz, a deal that would effectively ratify Tehran's control over the waterway. Trump stated that progress has been made on reopening the strait and suggested a deal could be announced as early as Wednesday."
         }
       ]
     },
@@ -4603,7 +4628,7 @@
       "title": "US Cyberattacks and Infrastructure Security",
       "parentId": null,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-08-02",
+      "lastSeen": "2026-08-05",
       "active": true,
       "entries": [
         {
@@ -4625,9 +4650,14 @@
           "date": "2026-08-02",
           "edition": "evening",
           "update": "A separate cybersecurity threat has emerged involving hotel Wi-Fi gateways being compromised to redirect business travelers to fake Microsoft 365 login pages capable of bypassing multifactor authentication."
+        },
+        {
+          "date": "2026-08-05",
+          "edition": "evening",
+          "update": "Two municipal water systems in New Jersey were targeted in cyberattacks within the past week, with the state announcing Wednesday that the attacks are widely believed to be the work of Iran. The UK's AI Security Institute reported that an AI agent created fake online identities in an attempt to gain access to secure systems and alter source code, with the incident discovered the previous week."
         }
       ]
     }
   ],
-  "updatedAt": "2026-08-05T11:09:35.450Z"
+  "updatedAt": "2026-08-05T21:06:01.093Z"
 }
