@@ -721,5 +721,49 @@
     "source": "BBC News",
     "categories": [],
     "collectedAt": "2026-08-05T08:00:01.290Z"
+  },
+  {
+    "title": "Appalachia's black lung rates highest in nearly 50 years as miners' protections stall",
+    "description": "Rates are now as bad as the 1970s, with thousands of miners sick and dying. Mining experts blame toxic silica dust, now more common in mines.",
+    "link": "https://www.npr.org/2026/08/05/nx-s1-5894884/appalachia-black-lung-coal-miners-silica-dust",
+    "pubDate": "Wed, 05 Aug 2026 04:01:00 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-08-05T08:15:01.668Z"
+  },
+  {
+    "title": "Russia’s Deadly Missile Attack on Kyiv Exploits Ukraine’s Depleted Air Defenses",
+    "description": "At least 17 people were killed, officials said, as the country runs desperately low on interceptor missiles that could fend off Russian bombardments.",
+    "link": "https://www.nytimes.com/2026/08/05/world/europe/ukraine-war-kyiv-russia-missile-attack.html",
+    "pubDate": "Wed, 05 Aug 2026 07:58:16 +0000",
+    "source": "NY Times",
+    "categories": [
+      "ukraine",
+      "kyiv (ukraine)",
+      "russia",
+      "russian invasion of ukraine (2022)",
+      "missiles and missile defense systems",
+      "drones (pilotless planes)",
+      "war and armed conflicts"
+    ],
+    "collectedAt": "2026-08-05T08:15:01.668Z"
+  },
+  {
+    "title": "Kate Nash on Irish history, heritage and covering Sinéad O'Connor",
+    "description": "Kate Nash will perform at The Mac as part of the fringe programme for the Fleadh Cheoil na hÉireann",
+    "link": "https://www.bbc.co.uk/news/articles/c5y0e4dx8w9o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 05 Aug 2026 05:13:04 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-05T08:15:01.668Z"
+  },
+  {
+    "title": "Grieving dad of NY kids killed in grandma, mom’s murder-suicide, says murderers deserve ‘special place in hell’",
+    "description": "The heartbroken father of four children allegedly murdered by their grandma and mom in an upstate New York apartment ripped the two killers, declaring that the pair deserve a “special place in hell.”  Sarah Myers, 44, and her 64-year-old mother Amy Steadman “conspired in carrying out the murders of the four children [on June 10]...",
+    "link": "https://nypost.com/2026/08/05/us-news/brady-harmon-dad-of-ny-kids-killed-in-grandma-moms-murder-suicide-says-murderers-deserve-special-place-in-hell/",
+    "pubDate": "Wed, 05 Aug 2026 04:11:22 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-05T08:15:01.668Z"
   }
 ]
