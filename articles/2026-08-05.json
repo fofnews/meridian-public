@@ -146,5 +146,45 @@
     "source": "BBC News",
     "categories": [],
     "collectedAt": "2026-08-05T04:45:01.271Z"
+  },
+  {
+    "title": "Explosions across Kyiv as Russian missiles strike Ukraine’s capital",
+    "description": "At least one person has been killed after a Russian ballistic missile attack on Ukraine’s capital Wednesday morning.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/explosions-across-kyiv-as-russian-missiles-strike-ukraines-capital?traffic_source=rss",
+    "pubDate": "Wed, 05 Aug 2026 04:38:00 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-08-05T05:00:01.328Z"
+  },
+  {
+    "title": "Has a US court just set the grounds for another January 6 insurrection?",
+    "description": "A US judge has begrudgingly dismissed the last prosecution cases tied to the January 6 insurrection on Capitol Hill.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/has-a-us-court-just-set-the-grounds-for-another-january-6-insurrection?traffic_source=rss",
+    "pubDate": "Wed, 05 Aug 2026 04:37:43 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-08-05T05:00:01.328Z"
+  },
+  {
+    "title": "7 Indiana University fraternity members charged with hazing pledges with twisted workouts, sending 2 to the hospital",
+    "description": "The brutal workouts included \"brother squats,\" in which the Phi Kappa Psi pledges would lock arms and perform squats simultaneously to the point of exhaustion.",
+    "link": "https://nypost.com/2026/08/05/us-news/2-indiana-u-pledges-are-sent-to-hospital-after-sadistic-hazing-ritual/",
+    "pubDate": "Wed, 05 Aug 2026 00:58:55 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-05T05:00:01.328Z"
+  },
+  {
+    "title": "Woman, 36, collapsed, began turning blue during bar exam at Hofstra University — and proctors ordered test takers to keep working: lawsuit",
+    "description": "The 36-year-old began \"gasping for her air\" on the floor, lost consciousness and started turning blue, while the exam's proctors ordered the hundreds in the exam room to carry on with the test -- delaying Jung critical \"early minutes\" during her alleged medical crisis.",
+    "link": "https://nypost.com/2026/08/05/us-news/woman-collapsed-began-turning-blue-during-bar-exam-at-hofstra-university-lawsuit/",
+    "pubDate": "Wed, 05 Aug 2026 00:44:19 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-05T05:00:01.328Z"
   }
 ]
