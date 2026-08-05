@@ -14632,5 +14632,158 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-05T02:00:01.340Z"
+  },
+  {
+    "title": "ABC News Live",
+    "description": "24/7 coverage of breaking news and live events",
+    "link": "https://abcnews.com/video/41463246/",
+    "pubDate": "Tue, 04 Aug 2026 22:02:05 -0400",
+    "source": "ABC News",
+    "categories": [
+      "live"
+    ],
+    "collectedAt": "2026-08-05T02:15:01.307Z"
+  },
+  {
+    "title": "Rep. Debbie Dingell says Michigan Democratic Senate primary is \"gonna be tighter than people think\"",
+    "description": "Polls have closed in Michigan, where the heated Democratic Senate contest between Abdul El-Sayed and Haley Stevens is coming to a head. Democratic Rep. Debbie Dingell of Michigan joins CBS News to weigh in.",
+    "link": "https://www.cbsnews.com/video/debbie-dingell-michigan-democratic-senate-primary-tighter-than-people-think/",
+    "pubDate": "Tue, 04 Aug 2026 21:51:30 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-08-05T02:15:01.307Z"
+  },
+  {
+    "title": "Ravens HC Jesse Minter Raves About Rookie WR Ja'Kobi Lane Amid Impressive Camp",
+    "description": "Zay Flowers just got paid, but it's Ravens rookie Ja'Kobi Lane stealing headlines at camp with a spectacular one-handed catch.",
+    "link": "https://www.newsweek.com/sports/nfl/ravens-hc-jesse-minter-raves-about-rookie-wr-jakobi-lane-amid-impressive-camp-12284826",
+    "pubDate": "Tue, 04 Aug 2026 22:13:59 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-05T02:15:01.307Z"
+  },
+  {
+    "title": "Tories offer Jewish groups meeting with ex neo-Nazi activist candidate",
+    "description": "Joshua Bonehill-Paine was jailed over neo-Nazi activism, but has been selected to stand in a new Somerset Council seat in 2027.",
+    "link": "https://www.bbc.co.uk/news/articles/c1l1q6167d3o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 05 Aug 2026 02:03:42 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-05T02:15:01.307Z"
+  },
+  {
+    "title": "Holscher defeats Kelly-backed Corson to clinch Democratic nod in Kansas governor’s race",
+    "description": "Democratic state Sen. Cindy Holscher is projected to win the Democratic primary to replace Gov. Laura Kelly (D), according to preliminary results from Decision Desk HQ (DDHQ). Holscher had a narrow field of Democrats to outpace, facing off against state Sen. Ethan Corson and Overland Park, Kan., Mayor Curt Skoog. Corson was backed by Kelly…",
+    "link": "https://thehill.com/homenews/campaign/6002986-holscher-kansas-democratic-governor-primary/",
+    "pubDate": "Wed, 05 Aug 2026 01:57:11 +0000",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "news",
+      "state watch"
+    ],
+    "collectedAt": "2026-08-05T02:15:01.307Z"
+  },
+  {
+    "title": "Four takeaways from the South Carolina GOP Senate debate",
+    "description": "Four South Carolina Republicans seeking the late Sen. Lindsey Graham’s (R-S.C.) spot on the November ballot faced off on the debate stage for a second straight night Tuesday. Hosted by Nexstar Media Group, The Hill’s parent company, the debate gave Reps. Russell Fry (R-S.C.) and Ralph Norman (R-S.C.), former Rep. Mark Sanford (R-S.C.) and businessman…",
+    "link": "https://thehill.com/homenews/campaign/6009634-four-takeaways-from-the-south-carolina-gop-senate-debate/",
+    "pubDate": "Wed, 05 Aug 2026 01:50:32 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "campaign",
+      "defense",
+      "house",
+      "international",
+      "news",
+      "senate",
+      "technology"
+    ],
+    "collectedAt": "2026-08-05T02:15:01.307Z"
+  },
+  {
+    "title": "Moss set to succeed Stevens in House after Michigan primary win",
+    "description": "Michigan state Sen. Jeremy Moss (D) is projected to win the Democratic primary in the state’s 11th Congressional District, according to Decision Desk HQ (DDHQ). Moss, the president pro tempore of the Michigan Senate since January 2023, defeated a crowded field of five other Democrats in the primary. His victory puts him on a glide…",
+    "link": "https://thehill.com/homenews/campaign/5983451-moss-stevens-michigan-house-primary/",
+    "pubDate": "Wed, 05 Aug 2026 01:50:29 +0000",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "house",
+      "news",
+      "senate"
+    ],
+    "collectedAt": "2026-08-05T02:15:01.307Z"
+  },
+  {
+    "title": "Graves-endorsed Stigall wins GOP primary for open Missouri House seat",
+    "description": "Missouri House candidate Chris Stigall (R), who was endorsed by outgoing Rep. Sam Graves (R-Mo.), is projected to win the GOP primary for Missouri’s open 6th Congressional District, according to Decision Desk HQ (DDHQ) results. Stigall triumphed over a crowded GOP field, including Kansas City Council member Nathan Willett, U.S. Army veteran Jim Ingram, financial…",
+    "link": "https://thehill.com/homenews/campaign/5978684-stigall-graves-missouri-house-primary/",
+    "pubDate": "Wed, 05 Aug 2026 01:44:13 +0000",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "house",
+      "news",
+      "state watch"
+    ],
+    "collectedAt": "2026-08-05T02:15:01.307Z"
+  },
+  {
+    "title": "Big money propels Dem megachurch pastor to victory in longshot Kansas Senate bid",
+    "description": "Adam Hamilton won Kansas Democrats' 11-way primary to challenge Sen. Roger Marshall, who calls the megachurch pastor \"too woke for Kansas.\"",
+    "link": "https://www.foxnews.com/politics/big-money-propels-dem-megachurch-pastor-victory-longshot-kansas-senate-bid",
+    "pubDate": "Tue, 04 Aug 2026 22:08:34 -0400",
+    "source": "Fox News",
+    "categories": [
+      "42ce63dd-480c-5a42-8662-64d5f557a167",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/politics/elections/midterm-elections",
+      "fox-news/us/us-regions/midwest/kansas",
+      "fox-news/politics/house-of-representatives/republicans",
+      "fox-news/democrats",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-05T02:15:01.307Z"
+  },
+  {
+    "title": "LeBron James gives glimpse of 76ers future with Tyrese Maxey workout",
+    "description": "While the entire basketball world was waiting for LeBron James to announce where he’d be signing in free agency, James seemed to be doing anything but playing basketball. The NBA legend was seen golfing, vacationing, and seemingly soaking up the attention as the sports world awaited his next move. Of course, LeBron was surely still...",
+    "link": "https://nypost.com/2026/08/04/sports/lebron-james-teases-76ers-future-tyrese-maxey-workout/",
+    "pubDate": "Tue, 04 Aug 2026 22:10:01 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-05T02:15:01.307Z"
+  },
+  {
+    "title": "‘The Odyssey’ breakout actress reveals she hasn’t worked in a year due to her age: ‘At the end of the day, I’m 49’",
+    "description": "The actress said she plans to continue to work until she's in her 80s.",
+    "link": "https://pagesix.com/2026/08/04/celebrity-news/the-odyssey-breakout-actress-reveals-she-hasnt-worked-in-a-year-due-to-her-age/",
+    "pubDate": "Tue, 04 Aug 2026 22:07:07 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-05T02:15:01.307Z"
+  },
+  {
+    "title": "Mets hit three homers and new bullpen passes first test in win over Guardians after sell-off",
+    "description": "Name tags might have been appropriate within the Mets clubhouse Tuesday, a day after president of baseball operations David Stearns finished his trade deadline sell-off.",
+    "link": "https://nypost.com/2026/08/04/sports/mets-hit-three-homers-and-new-bullpen-passes-first-test-in-win-over-guardians-after-sell-off/",
+    "pubDate": "Tue, 04 Aug 2026 22:06:27 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-05T02:15:01.307Z"
+  },
+  {
+    "title": "LIV Golf players left without answers on team championship, league future",
+    "description": "LIV Golf players emerged from more than 90 minutes of meetings without clarity on whether the league’s team championship will take place as planned.",
+    "link": "https://nypost.com/2026/08/04/sports/liv-golf-players-left-without-answers-on-team-championship-league-future/",
+    "pubDate": "Tue, 04 Aug 2026 22:04:16 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-05T02:15:01.307Z"
   }
 ]
