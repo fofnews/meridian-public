@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-01",
+      "lastSeen": "2026-08-05",
       "active": true,
       "entries": [
         {
@@ -296,6 +296,11 @@
           "date": "2026-08-01",
           "edition": "morning",
           "update": "Epstein survivor Dani Bensky visited Capitol Hill to lobby senators against confirming Todd Blanche as attorney general, calling him 'walking perjury' in a CBS News interview."
+        },
+        {
+          "date": "2026-08-05",
+          "edition": "morning",
+          "update": "UK victims minister Alex Davies-Jones told BBC Newsnight that she discussed a potential Epstein inquiry with Prime Minister Keir Starmer upon her appointment, and that Greater Manchester Mayor Andy Burnham is 'looking into' conducting such an inquiry in the United Kingdom."
         }
       ],
       "parentId": null
@@ -424,7 +429,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-04",
+      "lastSeen": "2026-08-05",
       "active": true,
       "entries": [
         {
@@ -861,6 +866,11 @@
           "date": "2026-08-04",
           "edition": "evening",
           "update": "Video footage showed a Russian drone pursuing a civilian street vendor at an outdoor produce market in Ukraine, prompting Kyiv to accuse Russia of committing a war crime. A separate drone strike on Gelendzhik beach killed seven beachgoers, with Russia and Ukraine trading blame over responsibility, updating earlier reports of the incident. Russian drones have struck hundreds of gas stations across Ukraine in what the NY Times describes as apparent retaliation for Ukrainian attacks on Russian oil refineries. Nine people were killed overall in escalating long-range missile and drone exchanges hitting targets well beyond the front lines. Ukraine has shifted to alternative grain export routes after Russia blocked its ports, with officials reporting significant agricultural export losses."
+        },
+        {
+          "date": "2026-08-05",
+          "edition": "morning",
+          "update": "Ukrainian President Zelensky claimed that Ukrainian drone strikes killed or seriously wounded 30,272 Russian front-line troops in July. The U.S. is continuing negotiations to supply Ukraine with Patriot missile systems despite reported doubts from President Trump, according to Reuters sources. The NY Times reported that Russia and Ukraine have both escalated production of innovative aerial weapons as ground combat remains largely frozen. A Ukrainian man also described to Al Jazeera being chased by a suspected Russian drone before it exploded near him."
         }
       ],
       "parentId": null
@@ -869,7 +879,7 @@
       "id": "sinaloa-cartel-violence",
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-04",
+      "lastSeen": "2026-08-05",
       "active": true,
       "entries": [
         {
@@ -976,6 +986,11 @@
           "date": "2026-08-04",
           "edition": "morning",
           "update": "Mexican authorities arrested Ramón Ángel Álvarez Ayala, the alleged leader of the Los Rs cartel faction linked to CJNG, in connection with the livestreamed murder of influencer Valeria Márquez and the assassination of a mayor."
+        },
+        {
+          "date": "2026-08-05",
+          "edition": "morning",
+          "update": "Mexican influencer Cesar Gastelum was shot to death during a livestream."
         }
       ],
       "parentId": null
@@ -1829,7 +1844,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-04",
+      "lastSeen": "2026-08-05",
       "active": true,
       "entries": [
         {
@@ -2586,6 +2601,11 @@
           "date": "2026-08-04",
           "edition": "morning",
           "update": "Trump warned Iran it has a 'last chance' to reach a diplomatic deal, threatening 'decapitation' strikes while accusing Tehran of falsely denying that negotiations are underway. Iran denied that any direct talks with the United States are taking place. Trump's former Chief of Staff warned that Trump is losing credibility on Iran, as Trump has now called off planned airstrikes at least five times since April, according to Newsweek. A former Navy official described Iran's leverage over the Strait of Hormuz as 'in some ways, a more powerful weapon than a nuclear bomb.' US stocks approached record highs as the S&P 500 neared its all-time peak, while oil prices fluctuated amid conflicting claims from Washington and Tehran over the status of nuclear negotiations."
+        },
+        {
+          "date": "2026-08-05",
+          "edition": "morning",
+          "update": "A funeral was held in Iran for a couple and their toddler killed in a U.S. strike on Qeshm Island, according to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3395,7 +3415,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-04",
+      "lastSeen": "2026-08-05",
       "active": true
     },
     {
@@ -3418,7 +3438,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-08-04",
+      "lastSeen": "2026-08-05",
       "active": true,
       "entries": [
         {
@@ -3600,6 +3620,11 @@
           "date": "2026-08-04",
           "edition": "evening",
           "update": "Pakistan has launched a new diplomatic push to sustain US-Iran talks amid deepening mistrust, as repeated ceasefire failures have exposed the limits of ongoing mediation efforts, according to Al Jazeera."
+        },
+        {
+          "date": "2026-08-05",
+          "edition": "morning",
+          "update": "President Trump stated that the U.S. and Iran are having 'very good discussions,' according to Reuters."
         }
       ]
     },
@@ -3868,7 +3893,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-08-04",
+      "lastSeen": "2026-08-05",
       "active": true,
       "entries": [
         {
@@ -4130,6 +4155,11 @@
           "date": "2026-08-04",
           "edition": "evening",
           "update": "Iran and Oman are reportedly close to an agreement to reopen the Strait of Hormuz, with both countries expected to collect a service fee covering environmental and security costs, according to the New York Post. U.S. Secretary of State Rubio and Treasury Secretary Bessent announced that talks had progressed toward reopening the waterway, causing oil prices to fall."
+        },
+        {
+          "date": "2026-08-05",
+          "edition": "morning",
+          "update": "Yemen's Houthi forces claimed responsibility for attacking a Saudi oil tanker in the Red Sea, according to Reuters. Iran described talks with Oman as proceeding 'positively,' while a separate ship was reported hit in the Red Sea. Oil prices stabilized following a two-day slump as investors monitored traffic through the Strait of Hormuz."
         }
       ]
     },
@@ -4602,7 +4632,22 @@
           "update": "A separate cybersecurity threat has emerged involving hotel Wi-Fi gateways being compromised to redirect business travelers to fake Microsoft 365 login pages capable of bypassing multifactor authentication."
         }
       ]
+    },
+    {
+      "id": "us-military-stockpile-depletion-and-strategic-readiness",
+      "title": "US Military Stockpile Depletion and Strategic Readiness",
+      "parentId": null,
+      "firstSeen": "2026-08-05",
+      "lastSeen": "2026-08-05",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-08-05",
+          "edition": "morning",
+          "update": "The U.S. has nearly exhausted its stockpile of long-range missiles and faces dwindling supplies of defensive interceptors, depletions that occurred in the course of the ongoing U.S. war with Iran."
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-08-04T21:09:05.695Z"
+  "updatedAt": "2026-08-05T11:09:13.798Z"
 }
