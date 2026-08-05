@@ -1010,5 +1010,143 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-05T09:00:01.868Z"
+  },
+  {
+    "title": "Nicotine pouches can be marketed as 'lower risk' than cigarettes. Is that dangerous?",
+    "description": "The FDA allowed some Zyn nicotine pouches to be marketed as \"lower risk\" than cigarettes. Public health experts agree they can help current smokers, but worry young people may become addicted.",
+    "link": "https://www.npr.org/2026/08/05/nx-s1-5919626/smoking-fda-nicotine-cigarettes-tobacco",
+    "pubDate": "Wed, 05 Aug 2026 05:00:00 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-08-05T09:15:01.711Z"
+  },
+  {
+    "title": "Victims killed in In-N-Out Burger shooting remembered by grieving relatives",
+    "description": "The three victims killed in a shooting at an Idaho In-N-Out Burger restaurant on Saturday have been identified by officials.",
+    "link": "https://abcnews.com/US/victims-burger-shooting/story?id=135352228",
+    "pubDate": "Wed, 05 Aug 2026 03:32:44 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-08-05T09:15:01.711Z"
+  },
+  {
+    "title": "How the Ukraine War Became a Fight for the Skies",
+    "description": "Russia and Ukraine are producing ever larger numbers of innovative aerial weapons, hoping for a breakthrough as ground combat is largely frozen.",
+    "link": "https://www.nytimes.com/2026/08/05/world/europe/russia-ukraine-air-war.html",
+    "pubDate": "Wed, 05 Aug 2026 08:52:42 +0000",
+    "source": "NY Times",
+    "categories": [
+      "russian invasion of ukraine (2022)",
+      "defense and military forces",
+      "drones (pilotless planes)",
+      "missiles and missile defense systems",
+      "civilian casualties",
+      "ukraine",
+      "russia"
+    ],
+    "collectedAt": "2026-08-05T09:15:01.711Z"
+  },
+  {
+    "title": "At least 17 people killed after fatal overnight Russian strikes in Ukraine",
+    "description": "Russian missile and drone strikes on Kyiv and the surrounding region killed at least 17 people and wounded 44 others, Ukraine's state emergency service said.",
+    "link": "https://www.nbcnews.com/video/at-least-17-people-killed-after-fatal-overnight-russian-strikes-267799621872",
+    "pubDate": "Wed, 05 Aug 2026 08:09:43 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-08-05T09:15:01.711Z"
+  },
+  {
+    "title": "America’s Condo Market Is Unraveling, As Coyotes Move In",
+    "description": "Condos have long offered first-time buyers an affordable way to step onto the property ladder but are vanishing from the market.",
+    "link": "https://www.newsweek.com/americas-condo-market-unraveling-coyotes-move-in-12280922",
+    "pubDate": "Wed, 05 Aug 2026 05:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-05T09:15:01.711Z"
+  },
+  {
+    "title": "Why America Failed to Stop the 9/11 Terror Attacks",
+    "description": "U.S. intelligence was oblivious as terrorists developed their monstrous plot. Day by day, Newsweek reconstructs the road to 9/11.",
+    "link": "https://www.newsweek.com/why-us-failed-stop-9-11-terror-attacks-12247985",
+    "pubDate": "Wed, 05 Aug 2026 05:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-05T09:15:01.711Z"
+  },
+  {
+    "title": "Police chief considers joining legal action over PC Harper killers' early release",
+    "description": "Two of PC Andrew Harper's killers are set to be included in the government's early release scheme, which begins in October.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2v5kj9zzko?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 05 Aug 2026 09:02:25 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-05T09:15:01.711Z"
+  },
+  {
+    "title": "Farmers warn shoppers face smaller and more expensive vegetables due to hot weather",
+    "description": "This year's harvest could be the worst on record due to the exceptionally dry spring and summer.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gwv9590xeo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 05 Aug 2026 08:53:01 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-05T09:15:01.711Z"
+  },
+  {
+    "title": "This is the whopping amount Joe Rogan earns from the podcast he airs at his $14.4 million Austin home",
+    "description": "Controversial podcaster Joe Rogan, 58, has been named the top-earning podcaster of 2026 by Forbes.",
+    "link": "https://www.marketwatch.com/story/this-is-the-whopping-amount-joe-rogan-earns-from-the-podcast-he-airs-at-his-14-4-million-austin-home-0fccf407?mod=mw_rss_topstories",
+    "pubDate": "Wed, 05 Aug 2026 09:02:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-08-05T09:15:01.711Z"
+  },
+  {
+    "title": "Smithsonian director admits she sees history as ‘tool’ of ‘social justice’ after explosive hearing",
+    "description": "A resurfaced video shows Smithsonian museum director Anthea Hartig calling history a \"prime tool of social justice\" and touting reparations and equity.",
+    "link": "https://www.foxnews.com/politics/smithsonian-director-admits-sees-history-tool-social-justice-explosive-hearing",
+    "pubDate": "Wed, 05 Aug 2026 05:00:26 -0400",
+    "source": "Fox News",
+    "categories": [
+      "209138b5-18d0-5354-b839-574d954e0f11",
+      "fnc",
+      "fox news",
+      "fox-news/politics/smithsonian",
+      "fox-news/topic/woke",
+      "fox-news/science/archaeology/history",
+      "fox-news/travel/general/museums-exhibits",
+      "fox-news/us/us-protests",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-05T09:15:01.711Z"
+  },
+  {
+    "title": "Atlanta mom Cassandra Barksdale misdiagnosed with aggressive cancer, underwent full hysterectomy after lab mix-up: lawsuit",
+    "description": "An Atlanta mom was told she had an aggressive form of cancer and underwent a full hysterectomy – before it later emerged the operation was completely unnecessary due to a lab mix-up, according to court documents. Cassandra Barksdale, 43, learned she apparently had just years to live when doctors gave her the results from another...",
+    "link": "https://nypost.com/2026/08/05/us-news/atlanta-mom-cassandra-barksdale-misdiagnosed-with-aggressive-cancer-underwent-full-hysterectomy-after-lab-mix-up-lawsuit/",
+    "pubDate": "Wed, 05 Aug 2026 05:07:19 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-05T09:15:01.711Z"
+  },
+  {
+    "title": "How the charity behind Madison, Wisconsin’s ‘autonomous zone’ raked in taxpayer money",
+    "description": "A Wisconsin nonprofit group leading an illegal protest encampment that blocked traffic enjoys lavish federal, state, and local funding. The city of Madison awarded Freedom Inc. at least $149,000 this year for initiatives such as “[Southeast Asian] and Black Youth Programs” after years of similar community-focused grants, records show. The city’s awards offer a glimpse […]",
+    "link": "https://www.washingtonexaminer.com/news/investigations/4673880/charity-madison-wisconsin-autonomous-zone-taxpayer-money/",
+    "pubDate": "Wed, 05 Aug 2026 09:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "investigations",
+      "activism",
+      "department of justice",
+      "government grants",
+      "nonprofits",
+      "police and law enforcement",
+      "protests",
+      "wisconsin"
+    ],
+    "collectedAt": "2026-08-05T09:15:01.711Z"
   }
 ]
