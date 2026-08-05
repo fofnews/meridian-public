@@ -83,5 +83,48 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-05T04:15:01.506Z"
+  },
+  {
+    "title": "High-stakes Michigan Senate race among primaries in 5 states",
+    "description": "The Democratic primary there could be key to control of the Senate.",
+    "link": "https://abcnews.com/Politics/high-stakes-michigan-senate-race-primaries-5-states/story?id=135365946",
+    "pubDate": "Wed, 05 Aug 2026 00:29:13 -0400",
+    "source": "ABC News",
+    "categories": [
+      "politics"
+    ],
+    "collectedAt": "2026-08-05T04:30:02.457Z"
+  },
+  {
+    "title": "Bouchard, Hines to clash for open James seat in competitive Michigan House race",
+    "description": "Former prosecutor Christina Hines is projected to win the Democratic nomination for Michigan’s 10th Congressional District, according to Decision Desk HQ, setting up a closely-watched battle against GOP nominee Mike Bouchard in November. Incumbent Rep. John James’s (R-Mich.) decision to run for governor has left the Macomb County district without an incumbent for the first…",
+    "link": "https://thehill.com/homenews/campaign/6000027-bouchard-hines-michigan-house/",
+    "pubDate": "Wed, 05 Aug 2026 04:02:22 +0000",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "house",
+      "news",
+      "state watch"
+    ],
+    "collectedAt": "2026-08-05T04:30:02.457Z"
+  },
+  {
+    "title": "Dems rally behind Michigan prosecutor to champion party in crucial House race",
+    "description": "In her career as a prosecutor, Christina Hines described her work as helping victims of sexual abuse and human trafficking.",
+    "link": "https://www.foxnews.com/politics/dems-rally-behind-michigan-prosecutor-champion-party-crucial-house-race",
+    "pubDate": "Wed, 05 Aug 2026 00:20:15 -0400",
+    "source": "Fox News",
+    "categories": [
+      "69fd9e5a-2dd8-53f1-98cf-cd985747d56b",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/politics/elections/house-of-representatives",
+      "fox-news/person/gretchen-whitmer",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-05T04:30:02.457Z"
   }
 ]
