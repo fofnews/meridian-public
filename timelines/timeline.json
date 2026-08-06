@@ -891,6 +891,11 @@
           "date": "2026-08-06",
           "edition": "morning",
           "update": "A Ukrainian intelligence official reported that Russia is deploying a North Korean unit equipped with up to 120 ballistic missiles to Ukraine, deepening the military axis between Moscow and Pyongyang. Russian strikes killed six people in Balakliia and Sumy, according to Ukrainian officials cited by Reuters. Russia has also intensified strikes on Ukraine's Black Sea coastline, with BBC News reporting visible damage to ships and docks in Odesa. Western allies are increasingly reluctant to supply Ukraine with additional air defense interceptors, citing concerns about maintaining their own stockpiles amid conflicts on multiple fronts, according to the NY Times."
+        },
+        {
+          "date": "2026-08-06",
+          "edition": "evening",
+          "update": "Ukraine launched overnight drone strikes on two major oil refineries deep inside Russian territory, with President Zelenskyy stating the attacks were aimed at limiting revenues Russia uses to finance its war effort."
         }
       ],
       "parentId": null
@@ -1011,6 +1016,11 @@
           "date": "2026-08-06",
           "edition": "morning",
           "update": "The U.S. announced rewards totaling more than $100 million for information leading to eight CJNG leaders, as part of the Trump administration's efforts to dismantle the cartel's top ranks."
+        },
+        {
+          "date": "2026-08-06",
+          "edition": "evening",
+          "update": "The U.S. government suspended all official operations in Mexico's western Michoacán State, citing a threat against American interests, according to Fox News."
         }
       ],
       "parentId": null
@@ -1344,7 +1354,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-07-28",
+      "lastSeen": "2026-08-06",
       "active": true,
       "entries": [
         {
@@ -1471,6 +1481,11 @@
           "date": "2026-07-28",
           "edition": "evening",
           "update": "Reuters reports that Reza Pahlavi's campaign to position himself as a leader for Iran is facing significant challenges, describing his bid for influence over a potential regime change as faltering."
+        },
+        {
+          "date": "2026-08-06",
+          "edition": "evening",
+          "update": "Iran has intensified domestic security measures, including executions, arrests, and closure of public gathering spaces, amid ongoing tensions with the U.S., raising concerns among Iranians and human rights groups, according to Al Jazeera."
         }
       ],
       "parentId": null
@@ -1479,7 +1494,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-05",
+      "lastSeen": "2026-08-06",
       "active": true,
       "entries": [
         {
@@ -1861,6 +1876,11 @@
           "date": "2026-08-05",
           "edition": "evening",
           "update": "Lebanon and Israel remained at an impasse on the second day of resumed talks in Rome, with disagreements persisting over Hezbollah disarmament and Israeli troop withdrawal from South Lebanon. Israel struck Lebanon after accusing Hezbollah of violating the ceasefire, and the Israeli military separately issued an evacuation warning to a village in southern Lebanon, according to Reuters."
+        },
+        {
+          "date": "2026-08-06",
+          "edition": "evening",
+          "update": "Israeli settler Yinon Levi was indicted for the murder of Palestinian activist Awdah Hathaleen in the West Bank, marking the first murder charge against an Israeli settler since the October 7, 2023 attacks. Levi, who has been sanctioned by multiple countries for violent actions against West Bank residents, was filmed shooting Hathaleen."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2636,6 +2656,11 @@
           "date": "2026-08-06",
           "edition": "morning",
           "update": "Trump and Defense Secretary Hegseth clashed at Camp David over concerns about Iran's missile depletion, indicating internal administration disagreement over the military campaign, according to the Washington Post. Iran threatened retaliation in the Gulf following fresh U.S. strikes, according to Newsmax. Senator Duckworth introduced a bill targeting Pentagon accounting practices for Iran war casualties, following ABC News reporting that the Pentagon had altered how it publicly reports such figures. Vice President Vance denied reports that his meeting with Netanyahu at Blair House turned contentious, telling Fox News that Netanyahu 'didn't confront me.'"
+        },
+        {
+          "date": "2026-08-06",
+          "edition": "evening",
+          "update": "Iran issued a warning to Gulf states, threatening to strike them if they do not persuade President Trump to cease hostile actions against Iran, according to Reuters."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4210,6 +4235,11 @@
           "date": "2026-08-06",
           "edition": "morning",
           "update": "Iran and Oman reached a formal agreement on shipping routes through the Strait of Hormuz, according to Al Jazeera. Eight major shipping organisations signed a joint letter opposing proposed tolls on the strait, warning that such fees would harm livelihoods worldwide. Gulf shipping traffic declined after Houthi forces claimed to have attacked a Saudi tanker, per Reuters. Oil prices fell following the Iran-Oman talks amid hopes for a broader US-Iran peace deal."
+        },
+        {
+          "date": "2026-08-06",
+          "edition": "evening",
+          "update": "The shipping industry has deemed a proposed deal for passage through the Strait of Hormuz not feasible, according to Reuters sources. Trump denied that U.S. munitions stockpiles are running low, described them as 'massive,' and characterized those who leaked information about stockpile levels to news outlets as 'treasonous,' vowing to pursue them."
         }
       ]
     },
@@ -4288,7 +4318,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-08-04",
+      "lastSeen": "2026-08-06",
       "active": true,
       "entries": [
         {
@@ -4450,6 +4480,11 @@
           "date": "2026-08-04",
           "edition": "evening",
           "update": "The DR Congo Ebola outbreak death toll has surpassed 1,700, with Ituri province accounting for nearly 90 percent of reported cases, prompting the WHO to accelerate vaccine trials."
+        },
+        {
+          "date": "2026-08-06",
+          "edition": "evening",
+          "update": "The DRC Ebola outbreak death toll has surpassed 1,800. Health workers in the country have protested over unpaid wages, with the ongoing pay disputes hampering the response to the spreading disease."
         }
       ]
     },
@@ -4625,6 +4660,11 @@
           "date": "2026-08-06",
           "edition": "morning",
           "update": "Israeli forces launched a large-scale military operation in Qalandiya refugee camp in the occupied West Bank, according to Al Jazeera. Israeli forces have also been destroying farmland in southern Syria, causing significant damage to agricultural land and livelihoods in the region, Al Jazeera reported."
+        },
+        {
+          "date": "2026-08-06",
+          "edition": "evening",
+          "update": "Iran-backed Houthi forces claimed attacks on Yemeni military targets in two resource-rich provinces, with the escalating violence threatening to collapse a fragile truce and potentially reignite the country's civil war, according to the NY Times."
         }
       ]
     },
@@ -4710,9 +4750,14 @@
           "date": "2026-08-06",
           "edition": "morning",
           "update": "An explosive drone was found at Leipzig/Halle Airport in Germany near a Ukrainian aircraft. German authorities launched an investigation into how the device reached the airport."
+        },
+        {
+          "date": "2026-08-06",
+          "edition": "evening",
+          "update": "Leipzig/Halle Airport resumed normal operations after Germany's Federal Police bomb disposal unit successfully removed the detonator from the explosive drone found on the grounds, according to ABC News."
         }
       ]
     }
   ],
-  "updatedAt": "2026-08-06T11:07:45.628Z"
+  "updatedAt": "2026-08-06T21:09:27.014Z"
 }
