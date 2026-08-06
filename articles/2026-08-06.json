@@ -291,5 +291,16 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-06T06:15:01.266Z"
+  },
+  {
+    "title": "US military families face deportation after immigration protection ends",
+    "description": "The spouses and parents of US service members have been reportedly detained or deported.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/us-military-families-face-deportation-after-immigration-protection-ends?traffic_source=rss",
+    "pubDate": "Thu, 06 Aug 2026 06:09:50 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-08-06T06:30:01.509Z"
   }
 ]
