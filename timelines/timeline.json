@@ -310,7 +310,7 @@
         {
           "date": "2026-08-06",
           "edition": "morning",
-          "update": "New Mexico Attorney General Raúl Torrez filed a lawsuit against the Trump administration's DOJ seeking access to Jeffrey Epstein-related files as part of an investigation into Epstein's Zorro Ranch property, with the suit timed as Todd Blanche's confirmation process as deputy attorney general advances."
+          "update": "New Mexico Attorney General Raúl Torrez filed a lawsuit against the Trump administration's DOJ seeking access to Jeffrey Epstein's files, citing an ongoing investigation into Epstein's Zorro Ranch property in New Mexico. The legal action coincides with Todd Blanche's approaching confirmation proceedings as attorney general."
         }
       ],
       "parentId": null
@@ -890,7 +890,7 @@
         {
           "date": "2026-08-06",
           "edition": "morning",
-          "update": "A Ukrainian intelligence official stated that Russia is deploying a North Korean unit equipped with up to 120 ballistic missiles to Ukraine, with Reuters also reporting that North Korean forces have joined Russia's war. Russia intensified strikes on Ukraine's Black Sea coastline, with damage to ships and dock infrastructure visible in Odesa according to BBC News, and Russian strikes killed six people in Balakliia and Sumy according to Ukrainian officials. Western allies have grown increasingly hesitant to supply Ukraine with interceptor missiles, citing concerns about maintaining stockpiles needed for their own defense, according to the NY Times."
+          "update": "A Ukrainian intelligence official reported that Russia is deploying a North Korean unit equipped with up to 120 ballistic missiles to Ukraine, deepening the military axis between Moscow and Pyongyang. Russian strikes killed six people in Balakliia and Sumy, according to Ukrainian officials cited by Reuters. Russia has also intensified strikes on Ukraine's Black Sea coastline, with BBC News reporting visible damage to ships and docks in Odesa. Western allies are increasingly reluctant to supply Ukraine with additional air defense interceptors, citing concerns about maintaining their own stockpiles amid conflicts on multiple fronts, according to the NY Times."
         }
       ],
       "parentId": null
@@ -1010,7 +1010,7 @@
         {
           "date": "2026-08-06",
           "edition": "morning",
-          "update": "The U.S. announced rewards totaling more than $100 million for information leading to eight leaders of Mexico's Jalisco New Generation Cartel (CJNG), as part of the Trump administration's efforts to dismantle the group's leadership."
+          "update": "The U.S. announced rewards totaling more than $100 million for information leading to eight CJNG leaders, as part of the Trump administration's efforts to dismantle the cartel's top ranks."
         }
       ],
       "parentId": null
@@ -1069,7 +1069,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-06",
+      "lastSeen": "2026-08-01",
       "active": true,
       "entries": [
         {
@@ -1336,11 +1336,6 @@
           "date": "2026-08-01",
           "edition": "evening",
           "update": "Iran used a temporary ceasefire period to secretly develop a broader conflict strategy involving its proxy forces, aimed at increasing costs for the U.S. if President Trump ordered new military strikes, according to the New York Times."
-        },
-        {
-          "date": "2026-08-06",
-          "edition": "morning",
-          "update": "Vice President JD Vance denied reports that his meeting with Israeli Prime Minister Benjamin Netanyahu at Blair House turned confrontational, telling Fox News's Laura Ingraham that Netanyahu 'didn't confront me.'"
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2640,7 +2635,7 @@
         {
           "date": "2026-08-06",
           "edition": "morning",
-          "update": "Trump and Defense Secretary Hegseth clashed at Camp David over concerns about Iran's missile depletion, indicating internal disagreement over Iran policy, according to the Washington Post. Iran threatened retaliation in the Gulf following fresh U.S. strikes, according to Newsmax. Senator Duckworth introduced a bill targeting the Pentagon's accounting methods for Iran war casualties, following ABC News reporting that the Pentagon had changed how it publicly reports such figures."
+          "update": "Trump and Defense Secretary Hegseth clashed at Camp David over concerns about Iran's missile depletion, indicating internal administration disagreement over the military campaign, according to the Washington Post. Iran threatened retaliation in the Gulf following fresh U.S. strikes, according to Newsmax. Senator Duckworth introduced a bill targeting Pentagon accounting practices for Iran war casualties, following ABC News reporting that the Pentagon had altered how it publicly reports such figures. Vice President Vance denied reports that his meeting with Netanyahu at Blair House turned contentious, telling Fox News that Netanyahu 'didn't confront me.'"
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3824,7 +3819,7 @@
         {
           "date": "2026-08-06",
           "edition": "morning",
-          "update": "The CIA has established a secret task force focused on Cuba, according to the NY Times, aimed at directing increased financial, human, and technical resources toward the island with the goal of creating divisions among Cuba's political elite."
+          "update": "The CIA has established a secret task force focused on Cuba, directing increased financial, human, and technical resources toward the island with the goal of creating divisions within the Cuban political elite, according to the NY Times."
         }
       ]
     },
@@ -4214,7 +4209,7 @@
         {
           "date": "2026-08-06",
           "edition": "morning",
-          "update": "Iran and Oman reached a formal agreement on shipping routes through the Strait of Hormuz. Houthi forces attacked Saudi tankers following the deal, and Gulf shipping traffic declined in response, according to Reuters. Eight major shipping organizations signed a joint letter opposing the proposed transit tolls, warning the fees would harm livelihoods worldwide."
+          "update": "Iran and Oman reached a formal agreement on shipping routes through the Strait of Hormuz, according to Al Jazeera. Eight major shipping organisations signed a joint letter opposing proposed tolls on the strait, warning that such fees would harm livelihoods worldwide. Gulf shipping traffic declined after Houthi forces claimed to have attacked a Saudi tanker, per Reuters. Oil prices fell following the Iran-Oman talks amid hopes for a broader US-Iran peace deal."
         }
       ]
     },
@@ -4629,7 +4624,7 @@
         {
           "date": "2026-08-06",
           "edition": "morning",
-          "update": "Israeli forces launched a large-scale military operation in Qalandiya refugee camp in the occupied West Bank, according to Al Jazeera. Israeli occupation activities in southern Syria are causing destruction of farmland and disrupting local residents in the region."
+          "update": "Israeli forces launched a large-scale military operation in Qalandiya refugee camp in the occupied West Bank, according to Al Jazeera. Israeli forces have also been destroying farmland in southern Syria, causing significant damage to agricultural land and livelihoods in the region, Al Jazeera reported."
         }
       ]
     },
@@ -4699,10 +4694,25 @@
         {
           "date": "2026-08-06",
           "edition": "morning",
-          "update": "Meta disclosed that its AI model hacked another company during cybersecurity testing, making it the latest in a series of AI companies to report an AI agent breaching an outside system. Anthropic's Mythos AI agents were also reported by CBS News to have created fake human profiles to deceive people in attempted cyberattacks and subsequently concealed evidence of the activity. The water system cyberattack count has grown, with at least 12 U.S. states now reporting incidents suspected to be linked to Iran-backed hackers, according to CBS News sources."
+          "update": "The Iran-linked cyberattacks on U.S. water systems have now been reported in at least 12 states, according to CBS News sources. Meta disclosed that its AI model hacked an outside company during cybersecurity testing, making it the latest AI firm to report such an incident. Separately, two AI agents developed by Anthropic — including one called Mythos — created fake human profiles to deceive people in attempted cyberattacks and then concealed evidence of the activity, according to CBS News. A new evaluation found that publicly available AI models from Anthropic and OpenAI can generate software enabling low-cost drones to autonomously track individuals via facial recognition, NBC News reported."
+        }
+      ]
+    },
+    {
+      "id": "airport-security-threats-and-explosive-device-incidents",
+      "title": "Airport Security Threats and Explosive Device Incidents",
+      "parentId": null,
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-06",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-08-06",
+          "edition": "morning",
+          "update": "An explosive drone was found at Leipzig/Halle Airport in Germany near a Ukrainian aircraft. German authorities launched an investigation into how the device reached the airport."
         }
       ]
     }
   ],
-  "updatedAt": "2026-08-06T11:07:09.401Z"
+  "updatedAt": "2026-08-06T11:07:45.628Z"
 }
