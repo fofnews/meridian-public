@@ -444,7 +444,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-06",
+      "lastSeen": "2026-08-07",
       "active": true,
       "entries": [
         {
@@ -901,6 +901,11 @@
           "date": "2026-08-06",
           "edition": "evening",
           "update": "Ukraine launched overnight drone strikes on two major oil refineries deep inside Russian territory, with President Zelenskyy stating the attacks were aimed at limiting revenues Russia uses to finance its war effort."
+        },
+        {
+          "date": "2026-08-07",
+          "edition": "evening",
+          "update": "Ukraine launched a long-range drone attack that set fire to a warehouse belonging to a Russian retail giant, according to the New York Post. Russia launched a record number of glide bombs against Ukraine as Moscow's troops sustained high casualty rates, according to Al Jazeera. UN Secretary-General António Guterres condemned both Ukraine and Russia, calling for de-escalation and a ceasefire."
         }
       ],
       "parentId": null
@@ -1356,6 +1361,11 @@
           "date": "2026-08-07",
           "edition": "morning",
           "update": "Israeli forces conducted a raid in Qalandiya in the West Bank, injuring 51 Palestinians and arresting dozens near Jerusalem, according to Al Jazeera."
+        },
+        {
+          "date": "2026-08-07",
+          "edition": "evening",
+          "update": "The NY Times reported that as Trump struggles to extricate the United States from the war with Iran, his earlier promises to Iranian protesters have gone unfulfilled."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1896,6 +1906,11 @@
           "date": "2026-08-07",
           "edition": "morning",
           "update": "Israel resumed airstrikes on South Lebanon, prompting displacement orders and drawing outrage from local residents who questioned their government's response."
+        },
+        {
+          "date": "2026-08-07",
+          "edition": "evening",
+          "update": "Lebanon and Israel have agreed on a shortlist of countries that could send troops to verify Hezbollah's disarmament, according to Reuters."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2681,6 +2696,11 @@
           "date": "2026-08-07",
           "edition": "morning",
           "update": "Trump denied reports of U.S. weapons shortages, stating he is 'extremely happy' with Defense Secretary Hegseth, and said he believes the war with Iran will end 'pretty soon.' The US, Iran, and Oman were reported to be close to a temporary deal to reopen the Strait of Hormuz, according to Al Jazeera."
+        },
+        {
+          "date": "2026-08-07",
+          "edition": "evening",
+          "update": "University of Chicago Professor Robert Pape argued that Trump is caught in an 'escalation trap' with Iran, according to Al Jazeera. National Review reported that Iran has not accepted U.S. overtures for negotiation, characterizing Tehran as unwilling to engage despite American diplomatic outreach."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4275,6 +4295,11 @@
           "date": "2026-08-07",
           "edition": "morning",
           "update": "Oman and Iran confirmed agreement on specific geographic coordinates for a maritime route through the Strait of Hormuz, though broader negotiations extended past the Thursday deadline expected by President Trump. Oil prices rose amid ongoing concerns over plans to reopen the strait, according to Reuters."
+        },
+        {
+          "date": "2026-08-07",
+          "edition": "evening",
+          "update": "Shipping traffic through the Strait of Hormuz has diminished as diplomatic talks continue, according to Newsmax. Discussions have included proposals for joint Iran-Oman control of the waterway."
         }
       ]
     },
@@ -4353,7 +4378,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-08-06",
+      "lastSeen": "2026-08-07",
       "active": true,
       "entries": [
         {
@@ -4520,6 +4545,11 @@
           "date": "2026-08-06",
           "edition": "evening",
           "update": "The DRC Ebola outbreak death toll has surpassed 1,800. Health workers in the country have protested over unpaid wages, with the ongoing pay disputes hampering the response to the spreading disease."
+        },
+        {
+          "date": "2026-08-07",
+          "edition": "evening",
+          "update": "AP News reported that one unpaid individual is working to slow what is described as the fastest-growing Ebola outbreak in history."
         }
       ]
     },
@@ -4780,6 +4810,11 @@
           "date": "2026-08-07",
           "edition": "morning",
           "update": "U.S. water agencies have been advised to disconnect systems from the internet and strengthen passwords in the wake of cyberattacks across at least 12 states. An audit raised concerns over potential misuse of Flock surveillance cameras, with some cities moving to replace them with alternative devices such as license plate readers."
+        },
+        {
+          "date": "2026-08-07",
+          "edition": "evening",
+          "update": "A Russian hacker group dubbed 'Laundry Bear' has been found exploiting a security flaw in unpatched Zimbra servers, stealing up to 90 days of emails and authentication data without requiring victims to click any link, according to Fox News. Cybersecurity experts warned that U.S. water systems face the risk of 'catastrophic' attacks that could cause service outages, contamination risks, and costly infrastructure damage. Vanderbilt University researchers are developing 'digital twins' of water system networks as a new cybersecurity initiative in response to the recent suspected Iran-linked attacks."
         }
       ]
     },
@@ -4805,9 +4840,14 @@
           "date": "2026-08-07",
           "edition": "morning",
           "update": "A United Airlines flight bound for Mexico returned to San Francisco International Airport after blowing a tire during takeoff, according to the New York Post."
+        },
+        {
+          "date": "2026-08-07",
+          "edition": "evening",
+          "update": "A German lawmaker reported that a bus driver at the airport kicked an explosive drone out of the air, preventing a potential attack."
         }
       ]
     }
   ],
-  "updatedAt": "2026-08-07T11:06:18.382Z"
+  "updatedAt": "2026-08-07T21:06:56.525Z"
 }
