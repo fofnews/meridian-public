@@ -966,5 +966,76 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-07T09:45:01.644Z"
+  },
+  {
+    "title": "Meta Ordered to Pay $567 Million Fine by New Mexico Judge",
+    "description": "The penalty, imposed by a state judge, is on top of a $375 million fine ordered by a jury that found Meta misled users about the safety of its platforms.",
+    "link": "https://www.nytimes.com/2026/08/06/technology/meta-new-mexico-child-safety.html",
+    "pubDate": "Fri, 07 Aug 2026 09:50:23 +0000",
+    "source": "NY Times",
+    "categories": [
+      "meta platforms inc",
+      "fines (penalties)",
+      "social media",
+      "computers and the internet",
+      "suits and litigation (civil)",
+      "new mexico",
+      "youth",
+      "teenagers and adolescence",
+      "consumer protection",
+      "liability for products",
+      "children and childhood"
+    ],
+    "collectedAt": "2026-08-07T10:00:01.965Z"
+  },
+  {
+    "title": "Thai pupil describes harrowing moment teacher was shot in front of her",
+    "description": "The student says she had to climb over a school fence to flee the shooting which killed five teachers.",
+    "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 07 Aug 2026 09:21:52 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-07T10:00:01.965Z"
+  },
+  {
+    "title": "Divers find 162-year-old Guinness in shipwreck off the English coast",
+    "description": "Samples from the bottle have been sent for analysis, with researchers hoping to learn more about what the stout would have tasted like.",
+    "link": "https://www.bbc.co.uk/news/articles/cy4kx9zkd90o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 07 Aug 2026 05:59:49 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-07T10:00:01.965Z"
+  },
+  {
+    "title": "Autism providers cheer Trump crackdown after millions allegedly stolen from children through Medicaid fraud",
+    "description": "Autism care providers back the Trump administration's Medicaid fraud crackdown but warn policymakers not to create barriers for families of autistic children.",
+    "link": "https://www.foxnews.com/politics/autism-providers-cheer-trump-crackdown-millions-allegedly-stolen-children-medicaid-fraud",
+    "pubDate": "Fri, 07 Aug 2026 05:38:48 -0400",
+    "source": "Fox News",
+    "categories": [
+      "c453ddef-1b57-5dac-bd0f-4a8e67fd735d",
+      "fnc",
+      "fox news",
+      "fox-news/health/education/autism",
+      "fox-news/politics",
+      "fox-news/health/health-care",
+      "fox-news/politics/senate/health-care",
+      "fox-news/health/healthy-living/childrens-health",
+      "fox-news/politics/regulation/health-care",
+      "fox-news/person/donald-trump",
+      "fox-news/person/mehmet-mz",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-07T10:00:01.965Z"
+  },
+  {
+    "title": "I tested the new Samsung Galaxy Watch9: The health tracker’s most exciting features",
+    "description": "The new watch, on sale today, tracks fitness and sleep, measures antioxidants in the skin, and an even do a body composition scan.",
+    "link": "https://nypost.com/2026/08/07/health/samsung-galaxy-watch9-review-health-trackers-most-exciting-features/",
+    "pubDate": "Fri, 07 Aug 2026 05:59:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-07T10:00:01.965Z"
   }
 ]
