@@ -7,5 +7,34 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-07T04:15:01.171Z"
+  },
+  {
+    "title": "Panthers rally past Cardinals in Hall of Fame Game to open NFL preseason",
+    "description": "Haynes King's rushing touchdown on the final play capped a stellar debut, but Carson Beck's sharp passing kept the Cardinals competitive throughout.",
+    "link": "https://www.foxnews.com/sports/panthers-rally-past-cardinals-hall-of-fame-game-open-nfl-preseason",
+    "pubDate": "Fri, 07 Aug 2026 00:12:18 -0400",
+    "source": "Fox News",
+    "categories": [
+      "43d2c4f1-2976-5073-b305-4a9d8aae2db4",
+      "fnc",
+      "fox news",
+      "fox-news/sports/nfl",
+      "fox-news/sports/nfl/carolina-panthers",
+      "fox-news/sports/nfl/arizona-cardinals",
+      "fox-news/person/bryce-young",
+      "fox-news/sports",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-08-07T04:30:01.270Z"
+  },
+  {
+    "title": "Two dead, including gunman, at school shooting in Thailand, officials say",
+    "description": "A teacher was killed and four other people injured in a shooting at a school in Thailand, where the gunman - a student - has killed himself,",
+    "link": "https://nypost.com/2026/08/07/world-news/thailand-school-shooting-leaves-teacher-gunman-dead-multiple-injured/",
+    "pubDate": "Fri, 07 Aug 2026 00:28:36 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-07T04:30:01.270Z"
   }
 ]
