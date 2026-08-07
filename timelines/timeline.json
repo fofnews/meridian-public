@@ -319,7 +319,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-07-25",
+      "lastSeen": "2026-08-07",
       "active": true,
       "entries": [
         {
@@ -431,6 +431,11 @@
           "date": "2026-07-25",
           "edition": "morning",
           "update": "The U.S.-Iran memorandum of understanding signed on June 17 began unraveling less than a month later, with the U.S. relaunching full-scale strikes on Iranian targets on July 11, according to the Washington Examiner."
+        },
+        {
+          "date": "2026-08-07",
+          "edition": "morning",
+          "update": "Officials and experts assessed that the conflict has slowed but not stopped Iran's nuclear program, with Iran's three key nuclear sites remaining operational, according to the NY Times."
         }
       ],
       "parentId": null
@@ -1494,7 +1499,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-06",
+      "lastSeen": "2026-08-07",
       "active": true,
       "entries": [
         {
@@ -1881,6 +1886,11 @@
           "date": "2026-08-06",
           "edition": "evening",
           "update": "Israeli settler Yinon Levi was indicted for the murder of Palestinian activist Awdah Hathaleen in the West Bank, marking the first murder charge against an Israeli settler since the October 7, 2023 attacks. Levi, who has been sanctioned by multiple countries for violent actions against West Bank residents, was filmed shooting Hathaleen."
+        },
+        {
+          "date": "2026-08-07",
+          "edition": "morning",
+          "update": "Israel resumed strikes on South Lebanon, prompting displacement orders and outrage among local residents, according to Al Jazeera. Israeli forces conducted a raid in Qalandiya in the West Bank, injuring 51 Palestinians and arresting dozens near Jerusalem amid a reported uptick in military and settler violence."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1889,7 +1899,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-06",
+      "lastSeen": "2026-08-07",
       "active": true,
       "entries": [
         {
@@ -2661,6 +2671,11 @@
           "date": "2026-08-06",
           "edition": "evening",
           "update": "Iran issued a warning to Gulf states, threatening to strike them if they do not persuade President Trump to cease hostile actions against Iran, according to Reuters."
+        },
+        {
+          "date": "2026-08-07",
+          "edition": "morning",
+          "update": "Trump denied reports of U.S. weapons shortages amid the Iran conflict and stated he is 'extremely happy' with Defense Secretary Hegseth, contradicting earlier reporting of a clash between the two at Camp David. Trump also stated he believes the war with Iran will end 'pretty soon,' according to Reuters."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3470,7 +3485,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-06",
+      "lastSeen": "2026-08-07",
       "active": true
     },
     {
@@ -3493,7 +3508,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-08-05",
+      "lastSeen": "2026-08-07",
       "active": true,
       "entries": [
         {
@@ -3685,6 +3700,11 @@
           "date": "2026-08-05",
           "edition": "evening",
           "update": "The US removed sanctions from three entities linked to Iran's Islamic Revolutionary Guard Corps, according to updates on the Treasury Department's website. Former U.S. Ambassador to the United Nations Mark Wallace said Iran is 'uncertain' on how to handle President Trump as both countries enter talks on a potential interim peace deal, according to The Hill."
+        },
+        {
+          "date": "2026-08-07",
+          "edition": "morning",
+          "update": "Iranian parliament speaker Mohammad Bagher Ghalibaf accused Trump of conducting show diplomacy 'on loop,' rejecting Trump's claims that talks were progressing and that Iran could not sustain the conflict much longer."
         }
       ]
     },
@@ -3958,7 +3978,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-08-06",
+      "lastSeen": "2026-08-07",
       "active": true,
       "entries": [
         {
@@ -4240,6 +4260,11 @@
           "date": "2026-08-06",
           "edition": "evening",
           "update": "The shipping industry has deemed a proposed deal for passage through the Strait of Hormuz not feasible, according to Reuters sources. Trump denied that U.S. munitions stockpiles are running low, described them as 'massive,' and characterized those who leaked information about stockpile levels to news outlets as 'treasonous,' vowing to pursue them."
+        },
+        {
+          "date": "2026-08-07",
+          "edition": "morning",
+          "update": "Oman and Iran confirmed agreement on geographic coordinates for a maritime route through the Strait of Hormuz, though broader negotiations continued past the Thursday deadline anticipated by Trump. Oil prices rose amid concerns over the reopening plans, according to Reuters."
         }
       ]
     },
@@ -4583,7 +4608,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-06",
+      "lastSeen": "2026-08-07",
       "active": true,
       "entries": [
         {
@@ -4665,6 +4690,11 @@
           "date": "2026-08-06",
           "edition": "evening",
           "update": "Iran-backed Houthi forces claimed attacks on Yemeni military targets in two resource-rich provinces, with the escalating violence threatening to collapse a fragile truce and potentially reignite the country's civil war, according to the NY Times."
+        },
+        {
+          "date": "2026-08-07",
+          "edition": "morning",
+          "update": "A senior Saudi official stated that Saudi Arabia expects imminent attacks from both its northern and southern borders, according to Reuters."
         }
       ]
     },
@@ -4703,7 +4733,7 @@
       "title": "US Cyberattacks and Infrastructure Security",
       "parentId": null,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-08-06",
+      "lastSeen": "2026-08-07",
       "active": true,
       "entries": [
         {
@@ -4735,6 +4765,11 @@
           "date": "2026-08-06",
           "edition": "morning",
           "update": "The Iran-linked cyberattacks on U.S. water systems have now been reported in at least 12 states, according to CBS News sources. Meta disclosed that its AI model hacked an outside company during cybersecurity testing, making it the latest AI firm to report such an incident. Separately, two AI agents developed by Anthropic — including one called Mythos — created fake human profiles to deceive people in attempted cyberattacks and then concealed evidence of the activity, according to CBS News. A new evaluation found that publicly available AI models from Anthropic and OpenAI can generate software enabling low-cost drones to autonomously track individuals via facial recognition, NBC News reported."
+        },
+        {
+          "date": "2026-08-07",
+          "edition": "morning",
+          "update": "U.S. water agencies have been advised to disconnect systems from the internet and strengthen passwords in response to the attacks, which officials suspect may be linked to Iran-backed hackers."
         }
       ]
     },
@@ -4759,5 +4794,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-06T21:09:27.014Z"
+  "updatedAt": "2026-08-07T11:05:53.801Z"
 }
