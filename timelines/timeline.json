@@ -435,7 +435,7 @@
         {
           "date": "2026-08-07",
           "edition": "morning",
-          "update": "Officials and experts assessed that the conflict has slowed but not stopped Iran's nuclear program, with Iran's three key nuclear sites remaining operational, according to the NY Times."
+          "update": "Officials and experts assessed that the conflict has slowed but not stopped Iran's nuclear program, with its three key nuclear sites remaining operational, according to the NY Times."
         }
       ],
       "parentId": null
@@ -1084,7 +1084,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-01",
+      "lastSeen": "2026-08-07",
       "active": true,
       "entries": [
         {
@@ -1351,6 +1351,11 @@
           "date": "2026-08-01",
           "edition": "evening",
           "update": "Iran used a temporary ceasefire period to secretly develop a broader conflict strategy involving its proxy forces, aimed at increasing costs for the U.S. if President Trump ordered new military strikes, according to the New York Times."
+        },
+        {
+          "date": "2026-08-07",
+          "edition": "morning",
+          "update": "Israeli forces conducted a raid in Qalandiya in the West Bank, injuring 51 Palestinians and arresting dozens near Jerusalem, according to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1890,7 +1895,7 @@
         {
           "date": "2026-08-07",
           "edition": "morning",
-          "update": "Israel resumed strikes on South Lebanon, prompting displacement orders and outrage among local residents, according to Al Jazeera. Israeli forces conducted a raid in Qalandiya in the West Bank, injuring 51 Palestinians and arresting dozens near Jerusalem amid a reported uptick in military and settler violence."
+          "update": "Israel resumed airstrikes on South Lebanon, prompting displacement orders and drawing outrage from local residents who questioned their government's response."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2675,7 +2680,7 @@
         {
           "date": "2026-08-07",
           "edition": "morning",
-          "update": "Trump denied reports of U.S. weapons shortages amid the Iran conflict and stated he is 'extremely happy' with Defense Secretary Hegseth, contradicting earlier reporting of a clash between the two at Camp David. Trump also stated he believes the war with Iran will end 'pretty soon,' according to Reuters."
+          "update": "Trump denied reports of U.S. weapons shortages, stating he is 'extremely happy' with Defense Secretary Hegseth, and said he believes the war with Iran will end 'pretty soon.' The US, Iran, and Oman were reported to be close to a temporary deal to reopen the Strait of Hormuz, according to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3409,7 +3414,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-08-03",
+      "lastSeen": "2026-08-07",
       "active": true,
       "entries": [
         {
@@ -3456,6 +3461,11 @@
           "date": "2026-08-03",
           "edition": "morning",
           "update": "South Korea announced a shift away from its longstanding 'denuclearization-first' policy toward North Korea, though analysts express doubt that Pyongyang will return to diplomatic negotiations as a result."
+        },
+        {
+          "date": "2026-08-07",
+          "edition": "morning",
+          "update": "A U.S. official stated that American missile stockpiles, including ballistic missile interceptors and other key air defense weapons, have been driven to 'extremely low' levels as a result of the U.S. war in Iran, according to ABC News."
         }
       ],
       "parentId": null
@@ -3704,7 +3714,7 @@
         {
           "date": "2026-08-07",
           "edition": "morning",
-          "update": "Iranian parliament speaker Mohammad Bagher Ghalibaf accused Trump of conducting show diplomacy 'on loop,' rejecting Trump's claims that talks were progressing and that Iran could not sustain the conflict much longer."
+          "update": "Iranian parliament speaker Mohammad Bagher Ghalibaf accused Trump of conducting 'show diplomacy on loop,' dismissing Trump's claims of ongoing talks and his assertion that any war would end 'pretty soon.'"
         }
       ]
     },
@@ -4264,7 +4274,7 @@
         {
           "date": "2026-08-07",
           "edition": "morning",
-          "update": "Oman and Iran confirmed agreement on geographic coordinates for a maritime route through the Strait of Hormuz, though broader negotiations continued past the Thursday deadline anticipated by Trump. Oil prices rose amid concerns over the reopening plans, according to Reuters."
+          "update": "Oman and Iran confirmed agreement on specific geographic coordinates for a maritime route through the Strait of Hormuz, though broader negotiations extended past the Thursday deadline expected by President Trump. Oil prices rose amid ongoing concerns over plans to reopen the strait, according to Reuters."
         }
       ]
     },
@@ -4694,7 +4704,7 @@
         {
           "date": "2026-08-07",
           "edition": "morning",
-          "update": "A senior Saudi official stated that Saudi Arabia expects imminent attacks from both its northern and southern borders, according to Reuters."
+          "update": "A senior Saudi Arabian official warned that the country expects imminent attacks from both the north and the south, according to Reuters."
         }
       ]
     },
@@ -4769,7 +4779,7 @@
         {
           "date": "2026-08-07",
           "edition": "morning",
-          "update": "U.S. water agencies have been advised to disconnect systems from the internet and strengthen passwords in response to the attacks, which officials suspect may be linked to Iran-backed hackers."
+          "update": "U.S. water agencies have been advised to disconnect systems from the internet and strengthen passwords in the wake of cyberattacks across at least 12 states. An audit raised concerns over potential misuse of Flock surveillance cameras, with some cities moving to replace them with alternative devices such as license plate readers."
         }
       ]
     },
@@ -4778,7 +4788,7 @@
       "title": "Airport Security Threats and Explosive Device Incidents",
       "parentId": null,
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-06",
+      "lastSeen": "2026-08-07",
       "active": true,
       "entries": [
         {
@@ -4790,9 +4800,14 @@
           "date": "2026-08-06",
           "edition": "evening",
           "update": "Leipzig/Halle Airport resumed normal operations after Germany's Federal Police bomb disposal unit successfully removed the detonator from the explosive drone found on the grounds, according to ABC News."
+        },
+        {
+          "date": "2026-08-07",
+          "edition": "morning",
+          "update": "A United Airlines flight bound for Mexico returned to San Francisco International Airport after blowing a tire during takeoff, according to the New York Post."
         }
       ]
     }
   ],
-  "updatedAt": "2026-08-07T11:05:53.801Z"
+  "updatedAt": "2026-08-07T11:06:18.382Z"
 }
