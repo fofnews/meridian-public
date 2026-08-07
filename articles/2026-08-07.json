@@ -320,5 +320,43 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-07T07:00:01.759Z"
+  },
+  {
+    "title": "At least 6 people killed, more than a dozen injured in Thailand school shooting",
+    "description": "At least six people have been killed and more than a dozen others injured in a school shooting that took place at a high school in the outskirts of Bangkok, Thailand.",
+    "link": "https://abcnews.com/International/6-people-killed-dozen-injured-thailand-school-shooting/story?id=135447961",
+    "pubDate": "Fri, 07 Aug 2026 02:53:03 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-08-07T07:15:01.585Z"
+  },
+  {
+    "title": "Arrests in Norfolk town as disorder continues for third night",
+    "description": "The arrests follow disorder linked to anti-immigration protests in the Norfolk market town.",
+    "link": "https://www.bbc.co.uk/news/articles/c74g1gxvwlvo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 07 Aug 2026 07:08:39 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-07T07:15:01.585Z"
+  },
+  {
+    "title": "Asian shares pause for US jobs, oil extends gains on Mideast risk - Reuters",
+    "description": "Asian shares pause for US jobs, oil extends gains on Mideast risk  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0YzMU1OZXgxZVVsOS1zOHl4RnZ3SVU4WWtmNFVBd24xM1JNbVlvY0dXMm5DQUZQcDh4WHh1YTZpemRib1NEX1JDOTVqR20wZ2ZObnFJN3dtVkdHS3otcEF3OVBaTUVlTEtNNGw5eUx2QkozTGhvRTQxOHd0Vk5xX194QQ?oc=5",
+    "pubDate": "Fri, 07 Aug 2026 05:36:41 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-08-07T07:15:01.585Z"
+  },
+  {
+    "title": "Dear Abby: My husband acts like our failing marriage is all my fault but I still love him",
+    "description": "Dear Abby advises someone whose husband has been blaming everything wrong in their marriage on them, someone whose step-family won't step up financially or effort-wise, and someone whose boyfriend has zero interest in showering every day.",
+    "link": "https://nypost.com/2026/08/07/lifestyle/dear-abby-my-husband-acts-like-our-failing-marriage-is-all-my-fault-but-i-still-love-him/",
+    "pubDate": "Fri, 07 Aug 2026 03:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-07T07:15:01.585Z"
   }
 ]
