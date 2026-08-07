@@ -94,5 +94,34 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-07T05:00:01.288Z"
+  },
+  {
+    "title": "Former officer says he's 'appalled' PC Harper's killers could be released early",
+    "description": "Former Det Sup Stuart Blaik, who led the investigation into the police officer's death, has publicly shared his views on the case for the first time.",
+    "link": "https://www.bbc.co.uk/news/articles/c9q9erpz953o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 07 Aug 2026 05:00:23 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-07T05:15:01.559Z"
+  },
+  {
+    "title": "UK papers: 'Tories to end social housing for foreigners' and 'Bottoms down'",
+    "description": "The Conservatives' social housing plans and Westminster City Council's pub proposals lead Friday's papers.",
+    "link": "https://www.bbc.co.uk/news/articles/cyvlgv8m382o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 07 Aug 2026 04:42:48 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-07T05:15:01.559Z"
+  },
+  {
+    "title": "Turkiye’s Erdogan visits Saudi Arabia: What to expect",
+    "description": "Erdogan will meet with Saudi Crown Prince Mohammed bin Salman and Pakistani PM Shehbaz Sharif, his office says.",
+    "link": "https://www.aljazeera.com/news/2026/8/7/turkiyes-erdogan-to-visit-saudi-arabia-what-to-expect?traffic_source=rss",
+    "pubDate": "Fri, 07 Aug 2026 04:43:43 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-07T05:15:01.559Z"
   }
 ]
