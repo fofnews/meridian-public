@@ -905,7 +905,7 @@
         {
           "date": "2026-08-07",
           "edition": "evening",
-          "update": "Ukraine launched a long-range drone attack that set fire to a warehouse belonging to a Russian retail giant, according to the New York Post. Russia launched a record number of glide bombs against Ukraine as Moscow's troops sustained high casualty rates, according to Al Jazeera. UN Secretary-General António Guterres condemned both Ukraine and Russia, calling for de-escalation and a ceasefire."
+          "update": "Ukraine launched a long-range drone strike that set fire to a warehouse belonging to a Russian retail giant. Russia launched a record number of glide bombs against Ukraine, according to Al Jazeera, as Moscow's forces suffered high casualty rates. UN Secretary-General António Guterres condemned both sides and called for de-escalation and a ceasefire as attacks intensified."
         }
       ],
       "parentId": null
@@ -1361,11 +1361,6 @@
           "date": "2026-08-07",
           "edition": "morning",
           "update": "Israeli forces conducted a raid in Qalandiya in the West Bank, injuring 51 Palestinians and arresting dozens near Jerusalem, according to Al Jazeera."
-        },
-        {
-          "date": "2026-08-07",
-          "edition": "evening",
-          "update": "The NY Times reported that as Trump struggles to extricate the United States from the war with Iran, his earlier promises to Iranian protesters have gone unfulfilled."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2700,7 +2695,7 @@
         {
           "date": "2026-08-07",
           "edition": "evening",
-          "update": "University of Chicago Professor Robert Pape argued that Trump is caught in an 'escalation trap' with Iran, according to Al Jazeera. National Review reported that Iran has not accepted U.S. overtures for negotiation, characterizing Tehran as unwilling to engage despite American diplomatic outreach."
+          "update": "University of Chicago Professor Robert Pape characterized Trump as being caught in an 'escalation trap' with Iran. The NY Times reported that Trump's promises to Iranian protesters have gone unfulfilled as he struggles to extricate the U.S. from the conflict. Iran has declined to accept U.S. diplomatic overtures, with National Review reporting that Iranian leadership remains unwilling to engage with American negotiation terms."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4295,11 +4290,6 @@
           "date": "2026-08-07",
           "edition": "morning",
           "update": "Oman and Iran confirmed agreement on specific geographic coordinates for a maritime route through the Strait of Hormuz, though broader negotiations extended past the Thursday deadline expected by President Trump. Oil prices rose amid ongoing concerns over plans to reopen the strait, according to Reuters."
-        },
-        {
-          "date": "2026-08-07",
-          "edition": "evening",
-          "update": "Shipping traffic through the Strait of Hormuz has diminished as diplomatic talks continue, according to Newsmax. Discussions have included proposals for joint Iran-Oman control of the waterway."
         }
       ]
     },
@@ -4378,7 +4368,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-08-07",
+      "lastSeen": "2026-08-06",
       "active": true,
       "entries": [
         {
@@ -4545,11 +4535,6 @@
           "date": "2026-08-06",
           "edition": "evening",
           "update": "The DRC Ebola outbreak death toll has surpassed 1,800. Health workers in the country have protested over unpaid wages, with the ongoing pay disputes hampering the response to the spreading disease."
-        },
-        {
-          "date": "2026-08-07",
-          "edition": "evening",
-          "update": "AP News reported that one unpaid individual is working to slow what is described as the fastest-growing Ebola outbreak in history."
         }
       ]
     },
@@ -4814,7 +4799,7 @@
         {
           "date": "2026-08-07",
           "edition": "evening",
-          "update": "A Russian hacker group dubbed 'Laundry Bear' has been found exploiting a security flaw in unpatched Zimbra servers, stealing up to 90 days of emails and authentication data without requiring victims to click any link, according to Fox News. Cybersecurity experts warned that U.S. water systems face the risk of 'catastrophic' attacks that could cause service outages, contamination risks, and costly infrastructure damage. Vanderbilt University researchers are developing 'digital twins' of water system networks as a new cybersecurity initiative in response to the recent suspected Iran-linked attacks."
+          "update": "A Russian hacking group known as 'Laundry Bear' was found to exploit a flaw in unpatched Zimbra servers, stealing up to 90 days of emails and authentication data without requiring victims to click a link. Cybersecurity experts warned that U.S. water systems face the risk of 'catastrophic' cyberattacks, with potential consequences including service outages, contamination risks, and costly infrastructure damage. Vanderbilt University researchers are developing 'digital twins' of water system networks as part of a new cybersecurity initiative in the water sector, according to NBC News."
         }
       ]
     },
@@ -4844,10 +4829,10 @@
         {
           "date": "2026-08-07",
           "edition": "evening",
-          "update": "A German lawmaker reported that a bus driver at the airport kicked an explosive drone out of the air, preventing a potential attack."
+          "update": "A German lawmaker reported that a bus driver at a German airport kicked an explosive drone out of the air, preventing a potential incident. Separately, suspects Jason and Megan Showers were identified in connection with throwing an explosive device into a neighbor's yard in the Detroit area, with each facing the possibility of decades in prison."
         }
       ]
     }
   ],
-  "updatedAt": "2026-08-07T21:06:56.525Z"
+  "updatedAt": "2026-08-07T21:07:43.765Z"
 }
