@@ -911,6 +911,11 @@
           "date": "2026-08-08",
           "edition": "morning",
           "update": "The US Senate passed sweeping legislation imposing aggressive economic sanctions on Russia, including a 100 percent tariff on importers of Russian oil and gas. Russian missile attacks near Kyiv killed three people, including a child, according to BBC News, as President Zelensky warned of Ukraine's dwindling missile interceptor supplies. Ukrainian emergency workers warned of increasing Russian drone attacks targeting hospitals and ambulances, with medics reporting they fled to survive the strikes, according to BBC News."
+        },
+        {
+          "date": "2026-08-08",
+          "edition": "evening",
+          "update": "A viral video depicting Ukrainian military recruiters forcibly detaining a civilian's partner reignited domestic criticism over alleged abusive conscription practices, referred to by critics as 'busification.' Ukrainian volunteer Oleksiy Yukov, who spent two decades recovering soldiers' remains from conflict zones, was killed when he stepped on a landmine during a recovery mission."
         }
       ],
       "parentId": null
@@ -1916,6 +1921,11 @@
           "date": "2026-08-08",
           "edition": "morning",
           "update": "Lebanon reported 'positive progress' following a seventh round of discussions with Israel on border demarcation and prisoner issues, even as new Israeli attacks were reported in southern Lebanon."
+        },
+        {
+          "date": "2026-08-08",
+          "edition": "evening",
+          "update": "Lebanese authorities detained a former Syrian general wanted from the Assad era after he visited an embassy in Beirut, with Lebanon now deliberating whether to extradite him to Syria."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1924,7 +1934,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-07",
+      "lastSeen": "2026-08-08",
       "active": true,
       "entries": [
         {
@@ -2706,6 +2716,11 @@
           "date": "2026-08-07",
           "edition": "evening",
           "update": "University of Chicago Professor Robert Pape characterized Trump as being caught in an 'escalation trap' with Iran. The NY Times reported that Trump's promises to Iranian protesters have gone unfulfilled as he struggles to extricate the U.S. from the conflict. Iran has declined to accept U.S. diplomatic overtures, with National Review reporting that Iranian leadership remains unwilling to engage with American negotiation terms."
+        },
+        {
+          "date": "2026-08-08",
+          "edition": "evening",
+          "update": "The NY Times reported that the U.S. conflict with Iran has significantly depleted American weapons stockpiles, with analysts warning that a prolonged engagement would strategically benefit Russia and China."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3745,6 +3760,11 @@
           "date": "2026-08-08",
           "edition": "morning",
           "update": "The Trump administration announced its eighth round of Iran-related sanctions this year, targeting Iran's banking system and companies, according to CBS News."
+        },
+        {
+          "date": "2026-08-08",
+          "edition": "evening",
+          "update": "Vice President JD Vance stated the U.S. has made progress in negotiations with Iran but cautioned the situation remains in the middle of the game, signaling continued efforts to press Tehran for concessions."
         }
       ]
     },
@@ -4310,6 +4330,11 @@
           "date": "2026-08-08",
           "edition": "morning",
           "update": "The US expressed expectation of an imminent Strait of Hormuz deal, while Sunni powers announced a united defense pact, according to Reuters. Negotiations between Iran and Oman are continuing with no formal agreement yet announced, according to CBS News."
+        },
+        {
+          "date": "2026-08-08",
+          "edition": "evening",
+          "update": "Iran's National Security Council Secretary Mohammad Bagher Zolghadr announced the Strait of Hormuz will remain closed until the U.S. meets a list of six conditions, including financial compensation, effectively hardening Iran's negotiating position and dampening hopes for a swift reopening. Iran also stated it will not reopen the strait unilaterally, framing any resolution as contingent on full U.S. compliance. Separately, the UAE reported that Iran attacked a vessel in the strait, adding a new flashpoint to ongoing tensions. Al Jazeera confirmed Iran and Oman have agreed on specific route coordinates for vessel passage, though broader arrangements remain unresolved amid uncertain prospects with Washington."
         }
       ]
     },
@@ -4745,6 +4770,11 @@
           "date": "2026-08-08",
           "edition": "morning",
           "update": "Saudi Crown Prince Mohammed bin Salman, Turkish President Erdogan, and Pakistani Prime Minister signed a trilateral joint defence agreement in Mecca. Analysts characterized the pact as regional partners seeking alternative security arrangements to supplement, rather than replace, US support."
+        },
+        {
+          "date": "2026-08-08",
+          "edition": "evening",
+          "update": "Israeli Prime Minister Netanyahu is weighing a response to the new Saudi-Turkey-Pakistan trilateral defense pact as Israeli elections approach, according to Al Jazeera. Turkey's defense minister characterized the pact as technically equivalent to NATO's Article 5 collective defense clause. Kurdistan Region Prime Minister Masrour Barzani stated that the Iraqi Kurdish region intends to remain outside regional conflicts, despite having sustained over 1,000 attacks."
         }
       ]
     },
@@ -4859,5 +4889,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-08T11:04:27.253Z"
+  "updatedAt": "2026-08-08T21:05:23.351Z"
 }
