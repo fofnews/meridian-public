@@ -11811,5 +11811,45 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-08T00:30:01.241Z"
+  },
+  {
+    "title": "Fifth heatwave of the year likely next week as temperatures could hit 35C",
+    "description": "As temperatures start to rise again over the weekend, many parts of England and Wales will enter into the fifth heatwave of the year, as Simon King explains",
+    "link": "https://www.bbc.co.uk/weather/articles/cgr7d28vvpno?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 08 Aug 2026 00:37:42 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-08T00:45:01.677Z"
+  },
+  {
+    "title": "Book hidden in fireplace returned to Australian library 150 years overdue",
+    "description": "It is thought an apprentice stonemason who worked on the Houses of Parliament in London borrowed it.",
+    "link": "https://www.bbc.co.uk/news/articles/c39eprxln0go?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 07 Aug 2026 18:06:58 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-08T00:45:01.677Z"
+  },
+  {
+    "title": "Puerto Rico rations water as severe drought leaves reservoirs depleted",
+    "description": "Puerto Rico is beginning 48-hour water rationing for more than 180,000 households as severe drought depletes reservoirs.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/puerto-rico-rations-water-as-severe-drought-leaves-reservoirs-depleted?traffic_source=rss",
+    "pubDate": "Sat, 08 Aug 2026 00:13:53 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "tv news"
+    ],
+    "collectedAt": "2026-08-08T00:45:01.677Z"
+  },
+  {
+    "title": "Pentagon revokes former Air Force secretary’s access to classified information",
+    "description": "The Pentagon revoked former Air Force Secretary Frank Kendall’s eligibility for access to classified information, accusing him of “unauthorized disclosure of classified information regarding Air Force One’s capabilities” to a news outlet, it announced Friday evening.  Pentagon chief spokesperson Sean Parnell said the Defense Department (DOD) also yanked Kendall’s “ability to hold any sensitive position,”…",
+    "link": "https://thehill.com/homenews/6018093-frank-kendall-air-force-secretary-pentagon/",
+    "pubDate": "Sat, 08 Aug 2026 00:25:43 +0000",
+    "source": "The Hill",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-08T00:45:01.677Z"
   }
 ]
