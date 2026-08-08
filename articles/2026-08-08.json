@@ -503,5 +503,136 @@
     "source": "CBS News",
     "categories": [],
     "collectedAt": "2026-08-08T08:30:02.273Z"
+  },
+  {
+    "title": "Senate confirms Todd Blanche as attorney general",
+    "description": "In a narrow 50-49 vote, President Trump's former defense lawyer was confirmed as attorney general in a vote early Saturday.",
+    "link": "https://www.cbsnews.com/news/todd-blanche-senate-vote-confirm-trump/",
+    "pubDate": "Sat, 08 Aug 2026 04:35:15 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-08-08T08:45:01.089Z"
+  },
+  {
+    "title": "Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns",
+    "description": "Todd Blanche, who has served as acting attorney general since April, eked out Senate approval, despite growing unease about his willingness to rein in President Trump.",
+    "link": "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html",
+    "pubDate": "Sat, 08 Aug 2026 08:34:07 +0000",
+    "source": "NY Times",
+    "categories": [
+      "elections, attorneys general",
+      "blanche, todd (attorney)",
+      "cassidy, bill (1957- )",
+      "collins, susan m",
+      "murkowski, lisa",
+      "anti-weaponization fund (trump v irs)",
+      "justice department",
+      "trump, donald j"
+    ],
+    "collectedAt": "2026-08-08T08:45:01.089Z"
+  },
+  {
+    "title": "Senate confirms Todd Blanche as attorney general after weeks of uncertainty",
+    "description": "After weeks of uncertainty, Todd Blanche was confirmed as U.S. attorney general early Saturday in a mostly party-line vote.",
+    "link": "https://www.nbcnews.com/politics/justice-department/senate-confirms-todd-blanche-attorney-general-weeks-uncertainty-rcna591457",
+    "pubDate": "Sat, 08 Aug 2026 08:33:50 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-08-08T08:45:01.089Z"
+  },
+  {
+    "title": "Woman Reveals 4 Symptoms She Ignored Before Multiple Sclerosis Diagnosis",
+    "description": "\"I was exhausted all of the time,\" 33-year-old Becky Lee told Newsweek. \"I thought I am getting old and everyone is tired.\"",
+    "link": "https://www.newsweek.com/woman-reveals-4-symptoms-she-ignored-before-multiple-sclerosis-diagnosis-12296740",
+    "pubDate": "Sat, 08 Aug 2026 04:30:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-08T08:45:01.089Z"
+  },
+  {
+    "title": "Afghanistan’s Rashid takes six wickets in ODI thrashing of Ireland",
+    "description": "Rashid Khan forces collapse as Afghanistan beat Ireland by 92 runs in second game of five-match ODI series.",
+    "link": "https://www.aljazeera.com/sports/2026/8/8/afghanistans-rashid-takes-six-wickets-in-odi-thrashing-of-ireland?traffic_source=rss",
+    "pubDate": "Sat, 08 Aug 2026 08:06:35 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-08-08T08:45:01.089Z"
+  },
+  {
+    "title": "Senate confirms Todd Blanche as attorney general after bruising fight",
+    "description": "The Senate early Saturday morning confirmed Todd Blanche as the next attorney general, with the nominee narrowly securing sufficient GOP backing after making a number of promises about how he would handle his tenure as the country’s top law enforcement officer. The vote was 50-49. Though confirmed along a party-line vote when he was nominated…",
+    "link": "https://thehill.com/homenews/senate/6017820-senate-todd-blanche-attorney-general-nomination/",
+    "pubDate": "Sat, 08 Aug 2026 08:34:16 +0000",
+    "source": "The Hill",
+    "categories": [
+      "news",
+      "senate"
+    ],
+    "collectedAt": "2026-08-08T08:45:01.089Z"
+  },
+  {
+    "title": "Senate passes stopgap funding bill to prevent shutdown ahead of midterms",
+    "description": "The Senate voted early Saturday morning to fund the federal government until Dec. 11 with the aim of averting another government shutdown before the midterm election, sending the bill to the House before leaving for a five-week recess. The continuing resolution (CR) passed 90-6 after Republicans spent days haggling over a provision inserted by the White House…",
+    "link": "https://thehill.com/homenews/senate/6018009-senate-government-funding-bill/",
+    "pubDate": "Sat, 08 Aug 2026 08:00:05 +0000",
+    "source": "The Hill",
+    "categories": [
+      "news",
+      "senate"
+    ],
+    "collectedAt": "2026-08-08T08:45:01.089Z"
+  },
+  {
+    "title": "Senate tables hemp amendment at center of funding fight, allowing one-month delay of ban",
+    "description": "A federal ban on most hemp-derived THC products is set to be delayed for a month after a last-minute effort to keep the original timeline failed.  The Senate voted 61-32 to table a bipartisan amendment from Sen. Ted Budd (R-N.C.) and about a dozen other senators to strip the delay from a stopgap government funding…",
+    "link": "https://thehill.com/policy/healthcare/6017926-senate-delays-hemp-thc-ban/",
+    "pubDate": "Sat, 08 Aug 2026 07:42:05 +0000",
+    "source": "The Hill",
+    "categories": [
+      "healthcare",
+      "news",
+      "senate"
+    ],
+    "collectedAt": "2026-08-08T08:45:01.089Z"
+  },
+  {
+    "title": "Blanche survives Republican defectors as Trump gets his new attorney general",
+    "description": "Todd Blanche, Trump's pick to lead the DOJ, survived a razor-thin Senate vote early Saturday morning after Sen. Bill Cassidy emerged as a last-minute ally on Friday.",
+    "link": "https://www.foxnews.com/politics/blanche-survives-republican-defectors-trump-gets-new-attorney-general",
+    "pubDate": "Sat, 08 Aug 2026 04:32:06 -0400",
+    "source": "Fox News",
+    "categories": [
+      "8cf4eff2-678b-5e6a-8825-c8e4b9467b7a",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/person/todd-blanche",
+      "fox-news/politics/justice-department",
+      "fox-news/politics/elections/senate",
+      "fox-news/politics/attorney-general",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-08T08:45:01.089Z"
+  },
+  {
+    "title": "Senate confirms Todd Blanche as Trump’s attorney general in 50-49 vote",
+    "description": "Two Republicans, Sens. Lisa Murkowski (R-Alaska) and Susan Collins (R-Maine), voted with all Democrats against his confirmation.",
+    "link": "https://nypost.com/2026/08/08/us-news/todd-blanche-confirmed-by-senate-as-trumps-attorney-general-in-50-49-vote/",
+    "pubDate": "Sat, 08 Aug 2026 04:38:37 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-08T08:45:01.089Z"
+  },
+  {
+    "title": "‘The Simpsons’ actress Nancy Cartwright predicts when hit show will end",
+    "description": "The animation is also getting its second feature film next year, nearly 20 years after 2007’s “The Simpsons Movie.”",
+    "link": "https://pagesix.com/2026/08/08/entertainment/the-simpsons-actress-nancy-cartwright-predicts-when-hit-show-will-end/",
+    "pubDate": "Sat, 08 Aug 2026 04:32:49 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-08T08:45:01.089Z"
   }
 ]
