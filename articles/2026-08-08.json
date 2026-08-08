@@ -1974,5 +1974,49 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-08T12:45:01.751Z"
+  },
+  {
+    "title": "Italy’s Heat Will Spread to Western Europe Ahead of Solar Eclipse",
+    "description": "Red high-temperature warnings remained in effect for much of southern and western Italy through Saturday.",
+    "link": "https://www.nytimes.com/2026/08/08/weather/europe-heat-wave-italy-uk-france-spain.html",
+    "pubDate": "Sat, 08 Aug 2026 09:02:19 +0000",
+    "source": "NY Times",
+    "categories": [
+      "heat and heat waves",
+      "eclipses",
+      "weather",
+      "italy",
+      "spain",
+      "europe",
+      "england",
+      "france"
+    ],
+    "collectedAt": "2026-08-08T13:00:02.110Z"
+  },
+  {
+    "title": "Houthi strikes on Saudi military targets fuel fears of wider Yemen conflict",
+    "description": "Iran-backed Houthi rebels on Friday launched drone and missile attacks toward Saudi military targets in the eastern city of Marib, Yemen, raising concerns of a widening war in the region. Two people were killed and more than a dozen others wounded during the fresh strikes, according to the country’s state-run news agency. The drones struck…",
+    "link": "https://thehill.com/policy/international/6018380-houthi-rebels-strike-yemen-saudi-arabia-military-targets/",
+    "pubDate": "Sat, 08 Aug 2026 12:24:49 +0000",
+    "source": "The Hill",
+    "categories": [
+      "defense",
+      "international",
+      "policy",
+      "houthi rebels",
+      "middle east conflict",
+      "u.s.-iran war",
+      "yemen"
+    ],
+    "collectedAt": "2026-08-08T13:00:02.110Z"
+  },
+  {
+    "title": "Notorious race swapper Rachel Dolezal is my sex coach — her outrageous advice may just fix my love life",
+    "description": "For my new sex coach, nothing is black or white.",
+    "link": "https://nypost.com/2026/08/08/lifestyle/rachel-dolezal-is-my-sex-coach-her-advice-may-just-fix-my-love-life/",
+    "pubDate": "Sat, 08 Aug 2026 08:45:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-08T13:00:02.110Z"
   }
 ]
