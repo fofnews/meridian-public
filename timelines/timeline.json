@@ -444,7 +444,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-07",
+      "lastSeen": "2026-08-08",
       "active": true,
       "entries": [
         {
@@ -906,6 +906,11 @@
           "date": "2026-08-07",
           "edition": "evening",
           "update": "Ukraine launched a long-range drone strike that set fire to a warehouse belonging to a Russian retail giant. Russia launched a record number of glide bombs against Ukraine, according to Al Jazeera, as Moscow's forces suffered high casualty rates. UN Secretary-General António Guterres condemned both sides and called for de-escalation and a ceasefire as attacks intensified."
+        },
+        {
+          "date": "2026-08-08",
+          "edition": "morning",
+          "update": "The U.S. Senate passed a sweeping sanctions bill targeting Russia's energy sector, including a 100 percent tariff on countries importing Russian oil and gas. Russian missile attacks near Kyiv killed three people, including a child, as President Zelensky warned of Ukraine's dwindling missile interceptor supplies. Ukrainian emergency workers reported growing Russian drone attacks targeting hospitals and ambulances, with medical personnel describing fleeing incidents fearing for their lives. The U.S. Army removed Lt. Gen. Charles Costanza from command of U.S. forces in Europe roughly two months before his tenure was due to end, according to anonymous officials. Ukrainian drones increasingly targeted warehouses belonging to Wildberries, Russia's largest e-commerce company."
         }
       ],
       "parentId": null
@@ -1509,7 +1514,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-07",
+      "lastSeen": "2026-08-08",
       "active": true,
       "entries": [
         {
@@ -1906,6 +1911,11 @@
           "date": "2026-08-07",
           "edition": "evening",
           "update": "Lebanon and Israel have agreed on a shortlist of countries that could send troops to verify Hezbollah's disarmament, according to Reuters."
+        },
+        {
+          "date": "2026-08-08",
+          "edition": "morning",
+          "update": "Lebanese officials reported 'positive progress' following a seventh round of talks with Israel on border and prisoner issues, even as new Israeli attacks continued to be reported in southern Lebanon."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1914,7 +1924,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-07",
+      "lastSeen": "2026-08-08",
       "active": true,
       "entries": [
         {
@@ -2696,6 +2706,11 @@
           "date": "2026-08-07",
           "edition": "evening",
           "update": "University of Chicago Professor Robert Pape characterized Trump as being caught in an 'escalation trap' with Iran. The NY Times reported that Trump's promises to Iranian protesters have gone unfulfilled as he struggles to extricate the U.S. from the conflict. Iran has declined to accept U.S. diplomatic overtures, with National Review reporting that Iranian leadership remains unwilling to engage with American negotiation terms."
+        },
+        {
+          "date": "2026-08-08",
+          "edition": "morning",
+          "update": "The Trump administration announced its eighth round of Iran-related sanctions this year, targeting Iran's banking system and associated companies, according to CBS News."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3510,7 +3525,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-07",
+      "lastSeen": "2026-08-08",
       "active": true
     },
     {
@@ -4003,7 +4018,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-08-07",
+      "lastSeen": "2026-08-08",
       "active": true,
       "entries": [
         {
@@ -4290,6 +4305,11 @@
           "date": "2026-08-07",
           "edition": "morning",
           "update": "Oman and Iran confirmed agreement on specific geographic coordinates for a maritime route through the Strait of Hormuz, though broader negotiations extended past the Thursday deadline expected by President Trump. Oil prices rose amid ongoing concerns over plans to reopen the strait, according to Reuters."
+        },
+        {
+          "date": "2026-08-08",
+          "edition": "morning",
+          "update": "The Trump administration expressed expectation of an imminent deal on the Strait of Hormuz, though Iran and Oman were reported to still be negotiating specific terms. Sunni powers moved to unite in a regional defense pact amid the ongoing tensions."
         }
       ]
     },
@@ -4633,7 +4653,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-07",
+      "lastSeen": "2026-08-08",
       "active": true,
       "entries": [
         {
@@ -4720,6 +4740,11 @@
           "date": "2026-08-07",
           "edition": "morning",
           "update": "A senior Saudi Arabian official warned that the country expects imminent attacks from both the north and the south, according to Reuters."
+        },
+        {
+          "date": "2026-08-08",
+          "edition": "morning",
+          "update": "Saudi Crown Prince Mohammed bin Salman, Turkish President Erdoğan, and Pakistani Prime Minister signed a trilateral joint defence agreement in Mecca. Analysts told Al Jazeera that regional partners are exploring security alternatives following the pact, seeking to supplement rather than replace U.S. security support in the region."
         }
       ]
     },
@@ -4834,5 +4859,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-07T21:07:43.765Z"
+  "updatedAt": "2026-08-08T11:04:23.576Z"
 }
