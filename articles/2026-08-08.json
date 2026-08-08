@@ -415,5 +415,73 @@
       "sport"
     ],
     "collectedAt": "2026-08-08T08:00:01.267Z"
+  },
+  {
+    "title": "Senate Passes Stopgap Bill to Avert Shutdown, Avoiding Skirmish Before Midterms",
+    "description": "The move came more than a month before the spending deadline, reflecting an eagerness in both parties to avoid a messy fight before the midterm elections.",
+    "link": "https://www.nytimes.com/2026/08/08/us/politics/senate-passes-stopgap-bill.html",
+    "pubDate": "Sat, 08 Aug 2026 08:04:22 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "law and legislation",
+      "midterm elections (2026)",
+      "shutdowns (institutional)",
+      "senate",
+      "democratic party",
+      "republican party",
+      "collins, susan m",
+      "trump, donald j"
+    ],
+    "collectedAt": "2026-08-08T08:15:01.291Z"
+  },
+  {
+    "title": "Senate passes short-term bill to prevent a shutdown before the midterm elections",
+    "description": "WASHINGTON — The Senate voted 90-6 to pass a short-term funding bill to remove the threat of a government shutdown before the midterm elections.",
+    "link": "https://www.nbcnews.com/politics/congress/senate-passes-short-term-bill-prevent-shutdown-midterm-elections-rcna591359",
+    "pubDate": "Sat, 08 Aug 2026 08:00:49 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-08-08T08:15:01.291Z"
+  },
+  {
+    "title": "Schumer caves, hands Republicans shutdown win after months of uncertainty",
+    "description": "Senate Democrats relented on shutdown threats, with John Thune accusing Chuck Schumer of making a political calculation ahead of midterm elections.",
+    "link": "https://www.foxnews.com/politics/schumer-caves-hands-republicans-shutdown-win-months-uncertainty",
+    "pubDate": "Sat, 08 Aug 2026 04:01:22 -0400",
+    "source": "Fox News",
+    "categories": [
+      "32700992-7e0c-5f57-aa8c-1b5d8042bcdc",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/person/chuck-schumer",
+      "fox-news/topic/government-shutdown",
+      "fox-news/person/john-thune",
+      "fox-news/politics/senate",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-08T08:15:01.291Z"
+  },
+  {
+    "title": "SEE IT: Dem senators rally behind El-Sayed but duck questions on progressive agenda",
+    "description": "Abdul El-Sayed's progressive policies on defunding police, abolishing ICE, and Medicare for all leave Senate Democrats dodging questions.",
+    "link": "https://www.foxnews.com/politics/see-it-dem-senators-rally-behind-el-sayed-duck-questions-progressive-agenda",
+    "pubDate": "Sat, 08 Aug 2026 04:00:21 -0400",
+    "source": "Fox News",
+    "categories": [
+      "b61fa774-754b-5112-9827-a8b14c544768",
+      "fnc",
+      "fox news",
+      "fox-news/politics/elections/midterm-elections",
+      "fox-news/democrats",
+      "fox-news/politics",
+      "fox-news/politics/senate",
+      "fox-news/person/bernie-sanders",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-08T08:15:01.291Z"
   }
 ]
