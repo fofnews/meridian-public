@@ -910,7 +910,7 @@
         {
           "date": "2026-08-08",
           "edition": "morning",
-          "update": "The U.S. Senate passed a sweeping sanctions bill targeting Russia's energy sector, including a 100 percent tariff on countries importing Russian oil and gas. Russian missile attacks near Kyiv killed three people, including a child, as President Zelensky warned of Ukraine's dwindling missile interceptor supplies. Ukrainian emergency workers reported growing Russian drone attacks targeting hospitals and ambulances, with medical personnel describing fleeing incidents fearing for their lives. The U.S. Army removed Lt. Gen. Charles Costanza from command of U.S. forces in Europe roughly two months before his tenure was due to end, according to anonymous officials. Ukrainian drones increasingly targeted warehouses belonging to Wildberries, Russia's largest e-commerce company."
+          "update": "The US Senate passed sweeping legislation imposing aggressive economic sanctions on Russia, including a 100 percent tariff on importers of Russian oil and gas. Russian missile attacks near Kyiv killed three people, including a child, according to BBC News, as President Zelensky warned of Ukraine's dwindling missile interceptor supplies. Ukrainian emergency workers warned of increasing Russian drone attacks targeting hospitals and ambulances, with medics reporting they fled to survive the strikes, according to BBC News."
         }
       ],
       "parentId": null
@@ -1915,7 +1915,7 @@
         {
           "date": "2026-08-08",
           "edition": "morning",
-          "update": "Lebanese officials reported 'positive progress' following a seventh round of talks with Israel on border and prisoner issues, even as new Israeli attacks continued to be reported in southern Lebanon."
+          "update": "Lebanon reported 'positive progress' following a seventh round of discussions with Israel on border demarcation and prisoner issues, even as new Israeli attacks were reported in southern Lebanon."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1924,7 +1924,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-08",
+      "lastSeen": "2026-08-07",
       "active": true,
       "entries": [
         {
@@ -2706,11 +2706,6 @@
           "date": "2026-08-07",
           "edition": "evening",
           "update": "University of Chicago Professor Robert Pape characterized Trump as being caught in an 'escalation trap' with Iran. The NY Times reported that Trump's promises to Iranian protesters have gone unfulfilled as he struggles to extricate the U.S. from the conflict. Iran has declined to accept U.S. diplomatic overtures, with National Review reporting that Iranian leadership remains unwilling to engage with American negotiation terms."
-        },
-        {
-          "date": "2026-08-08",
-          "edition": "morning",
-          "update": "The Trump administration announced its eighth round of Iran-related sanctions this year, targeting Iran's banking system and associated companies, according to CBS News."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3548,7 +3543,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-08-07",
+      "lastSeen": "2026-08-08",
       "active": true,
       "entries": [
         {
@@ -3745,6 +3740,11 @@
           "date": "2026-08-07",
           "edition": "morning",
           "update": "Iranian parliament speaker Mohammad Bagher Ghalibaf accused Trump of conducting 'show diplomacy on loop,' dismissing Trump's claims of ongoing talks and his assertion that any war would end 'pretty soon.'"
+        },
+        {
+          "date": "2026-08-08",
+          "edition": "morning",
+          "update": "The Trump administration announced its eighth round of Iran-related sanctions this year, targeting Iran's banking system and companies, according to CBS News."
         }
       ]
     },
@@ -4309,7 +4309,7 @@
         {
           "date": "2026-08-08",
           "edition": "morning",
-          "update": "The Trump administration expressed expectation of an imminent deal on the Strait of Hormuz, though Iran and Oman were reported to still be negotiating specific terms. Sunni powers moved to unite in a regional defense pact amid the ongoing tensions."
+          "update": "The US expressed expectation of an imminent Strait of Hormuz deal, while Sunni powers announced a united defense pact, according to Reuters. Negotiations between Iran and Oman are continuing with no formal agreement yet announced, according to CBS News."
         }
       ]
     },
@@ -4744,7 +4744,7 @@
         {
           "date": "2026-08-08",
           "edition": "morning",
-          "update": "Saudi Crown Prince Mohammed bin Salman, Turkish President Erdoğan, and Pakistani Prime Minister signed a trilateral joint defence agreement in Mecca. Analysts told Al Jazeera that regional partners are exploring security alternatives following the pact, seeking to supplement rather than replace U.S. security support in the region."
+          "update": "Saudi Crown Prince Mohammed bin Salman, Turkish President Erdogan, and Pakistani Prime Minister signed a trilateral joint defence agreement in Mecca. Analysts characterized the pact as regional partners seeking alternative security arrangements to supplement, rather than replace, US support."
         }
       ]
     },
@@ -4859,5 +4859,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-08T11:04:23.576Z"
+  "updatedAt": "2026-08-08T11:04:27.253Z"
 }
