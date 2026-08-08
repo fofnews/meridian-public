@@ -634,5 +634,36 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-08T08:45:04.837Z"
+  },
+  {
+    "title": "Senate votes to confirm Todd Blanche as attorney general",
+    "description": "The Senate narrowly confirmed Todd Blanche as U.S. attorney general early Saturday morning, elevating President Trump's former personal lawyer to head the Justice Department.",
+    "link": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general",
+    "pubDate": "Sat, 08 Aug 2026 04:46:39 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-08-08T09:00:01.814Z"
+  },
+  {
+    "title": "Senate votes to confirm Todd Blanche as attorney general",
+    "description": "The Senate narrowly confirmed Todd Blanche to be Attorney General by a vote of 50-49 early this morning.",
+    "link": "https://abcnews.com/Politics/murkowski-oppose-blanche-nomination-putting-attorney-generals-bid/story?id=135450198",
+    "pubDate": "Sat, 08 Aug 2026 04:37:56 -0400",
+    "source": "ABC News",
+    "categories": [
+      "politics"
+    ],
+    "collectedAt": "2026-08-08T09:00:01.814Z"
+  },
+  {
+    "title": "Typhoon Dolphin hits Japan, heads towards China",
+    "description": "Five elderly people have suffered non-life-threatening injuries, with three falling due to the wind in Japan.",
+    "link": "https://www.aljazeera.com/news/2026/8/8/typhoon-dolphin-hits-japan-heads-towards-china?traffic_source=rss",
+    "pubDate": "Sat, 08 Aug 2026 08:50:49 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-08T09:00:01.814Z"
   }
 ]
