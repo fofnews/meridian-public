@@ -915,7 +915,7 @@
         {
           "date": "2026-08-08",
           "edition": "evening",
-          "update": "A viral video depicting Ukrainian military recruiters forcibly detaining a civilian's partner reignited domestic criticism over alleged abusive conscription practices, referred to by critics as 'busification.' Ukrainian volunteer Oleksiy Yukov, who spent two decades recovering soldiers' remains from conflict zones, was killed when he stepped on a landmine during a recovery mission."
+          "update": "A viral video showing Ukrainian military recruiters forcibly apprehending a civilian man sparked public outcry over alleged abusive recruitment practices, with critics coining the term 'busification' to describe the phenomenon. Ukrainian volunteer Oleksiy Yukov, known for spending two decades recovering fallen soldiers' bodies from conflict zones on both sides, was killed after stepping on a landmine during a recovery mission."
         }
       ],
       "parentId": null
@@ -1379,7 +1379,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-08-06",
+      "lastSeen": "2026-08-08",
       "active": true,
       "entries": [
         {
@@ -1511,6 +1511,11 @@
           "date": "2026-08-06",
           "edition": "evening",
           "update": "Iran has intensified domestic security measures, including executions, arrests, and closure of public gathering spaces, amid ongoing tensions with the U.S., raising concerns among Iranians and human rights groups, according to Al Jazeera."
+        },
+        {
+          "date": "2026-08-08",
+          "edition": "evening",
+          "update": "The brother of Iranian kickboxer Benyamin Naghdi, facing execution for participating in a January protest, publicly appealed to President Trump to broker a deal to save his life, alleging Naghdi has been tortured and is severely emaciated. The plea comes as Iran's regime has reportedly executed at least 56 dissidents since March."
         }
       ],
       "parentId": null
@@ -1925,7 +1930,7 @@
         {
           "date": "2026-08-08",
           "edition": "evening",
-          "update": "Lebanese authorities detained a former Syrian general wanted from the Assad era after he visited an embassy in Beirut, with Lebanon now deliberating whether to extradite him to Syria."
+          "update": "Lebanese judicial and security sources report that a former Syrian general from the al-Assad era was detained in Beirut following a routine embassy visit, with Lebanese authorities weighing whether to extradite him to Syria."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2720,7 +2725,7 @@
         {
           "date": "2026-08-08",
           "edition": "evening",
-          "update": "The NY Times reported that the U.S. conflict with Iran has significantly depleted American weapons stockpiles, with analysts warning that a prolonged engagement would strategically benefit Russia and China."
+          "update": "The U.S.-Iran conflict has significantly depleted American weapons stockpiles, according to the NY Times, with some analysts warning that a prolonged engagement benefits Russia and China by eroding U.S. firepower. Iran and Oman agreed on a security framework for the Strait of Hormuz, though Iran's issuance of formal demands has complicated a broader resolution."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3764,7 +3769,7 @@
         {
           "date": "2026-08-08",
           "edition": "evening",
-          "update": "Vice President JD Vance stated the U.S. has made progress in negotiations with Iran but cautioned the situation remains in the middle of the game, signaling continued efforts to press Tehran for concessions."
+          "update": "Iranian National Security Council Secretary Mohammad Bagher Zolghadr released a list of six demands through state media that the U.S. must fulfill before any Strait of Hormuz peace deal, complicating ongoing negotiations. Vice President JD Vance acknowledged progress in talks with Iran but warned the situation remains unresolved, describing it as still 'in the middle of the game.'"
         }
       ]
     },
@@ -4334,7 +4339,7 @@
         {
           "date": "2026-08-08",
           "edition": "evening",
-          "update": "Iran's National Security Council Secretary Mohammad Bagher Zolghadr announced the Strait of Hormuz will remain closed until the U.S. meets a list of six conditions, including financial compensation, effectively hardening Iran's negotiating position and dampening hopes for a swift reopening. Iran also stated it will not reopen the strait unilaterally, framing any resolution as contingent on full U.S. compliance. Separately, the UAE reported that Iran attacked a vessel in the strait, adding a new flashpoint to ongoing tensions. Al Jazeera confirmed Iran and Oman have agreed on specific route coordinates for vessel passage, though broader arrangements remain unresolved amid uncertain prospects with Washington."
+          "update": "Iran's Supreme National Security Council head announced the Strait of Hormuz will remain closed until the United States meets specific conditions, with Iran issuing a formal list of demands that dampened hopes for an imminent reopening. The UAE separately reported a ship was targeted in the region. Iran-backed Houthi rebels also launched drone and missile attacks on Saudi military targets in Marib, Yemen, killing two people and wounding more than a dozen others."
         }
       ]
     },
@@ -4774,7 +4779,7 @@
         {
           "date": "2026-08-08",
           "edition": "evening",
-          "update": "Israeli Prime Minister Netanyahu is weighing a response to the new Saudi-Turkey-Pakistan trilateral defense pact as Israeli elections approach, according to Al Jazeera. Turkey's defense minister characterized the pact as technically equivalent to NATO's Article 5 collective defense clause. Kurdistan Region Prime Minister Masrour Barzani stated that the Iraqi Kurdish region intends to remain outside regional conflicts, despite having sustained over 1,000 attacks."
+          "update": "Israeli Prime Minister Netanyahu is weighing how to respond to the new Saudi-Turkey-Pakistan defence pact, with upcoming Israeli elections adding political pressure to his calculations. Turkey's defence minister stated the pact is technically equivalent to NATO's Article 5 mutual defence clause. Kurdistan Region Prime Minister Masrour Barzani told Al Jazeera that the Kurdish region seeks to remain neutral and is not under pressure to join the conflict with Iran, despite having endured over 1,000 attacks."
         }
       ]
     },
@@ -4889,5 +4894,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-08T21:05:23.351Z"
+  "updatedAt": "2026-08-08T21:05:36.496Z"
 }
