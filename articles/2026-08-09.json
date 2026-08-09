@@ -691,5 +691,103 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-08-09T09:15:01.984Z"
+  },
+  {
+    "title": "Man Complains About Earache, Then Doctors Realize It’s His Heart",
+    "description": "It's \"difficult to cover all the symptoms\" of a heart attack, one cardiologist told Newsweek.",
+    "link": "https://www.newsweek.com/man-complains-about-earache-then-doctors-realize-its-his-heart-12291132",
+    "pubDate": "Sun, 09 Aug 2026 05:15:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-09T09:30:01.782Z"
+  },
+  {
+    "title": "Two dead, including infant, after boat capsizes in New York Harbor; 12 rescued",
+    "description": "A 22-foot bowrider capsized near Liberty Island in New York Harbor Saturday night, killing an adult female and an infant, who were pulled from the water by NYPD divers.",
+    "link": "https://www.foxnews.com/us/two-dead-including-infant-after-boat-capsizes-new-york-harbor-12-rescued",
+    "pubDate": "Sun, 09 Aug 2026 05:11:24 -0400",
+    "source": "Fox News",
+    "categories": [
+      "e54a4e34-9c49-5294-aea5-8090a99bfa9d",
+      "fnc",
+      "fox news",
+      "fox-news/politics/finance/investigations",
+      "fox-news/us/new-york-city",
+      "fox-news/us/military/coast-guard",
+      "fox-news/world/disasters",
+      "fox-news/great-outdoors/boating",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-08-09T09:30:01.782Z"
+  },
+  {
+    "title": "Teen accused of killing 10-year-old cousin Lily Peters may avoid November trial after new hearing scheduled",
+    "description": "Carson Peters-Berger's resolution hearing is set for Aug. 26 in the Lily Peters homicide case, but questions remain about whether a trial will proceed.",
+    "link": "https://www.foxnews.com/us/teen-accused-killing-10-year-old-cousin-lily-peters-may-avoid-november-trial-after-new-hearing-scheduled",
+    "pubDate": "Sun, 09 Aug 2026 05:03:30 -0400",
+    "source": "Fox News",
+    "categories": [
+      "55230954-2be0-584e-baaa-86f08fc46889",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/midwest/wisconsin",
+      "fox-news/politics/finance/investigations",
+      "fox-news/us/crime/sex-crimes",
+      "fox-news/us/crime/homicide",
+      "fox-news/crime",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-08-09T09:30:01.782Z"
+  },
+  {
+    "title": "Naked champion swimmer accused of beating security guard to death with water bottle at Hawaiian resort",
+    "description": "A naked college swim star allegedly killed a security guard using a five-gallon water bottle during an overnight attack at a Hawaiian beachfront resort.",
+    "link": "https://nypost.com/2026/08/09/us-news/hawaii-naked-swimmer-legend-storer-killed-security-guard-michael-dyer-at-maui-resort/",
+    "pubDate": "Sun, 09 Aug 2026 05:19:40 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-09T09:30:01.782Z"
+  },
+  {
+    "title": "Two visions of religious liberty: How Trump and Biden defined a foundational right",
+    "description": "When President Donald Trump returned to the White House, religious liberty became one of his administration’s defining priorities. Within weeks of taking office, Trump created a task force to combat alleged anti-Christian bias across the federal government. Months later, the Justice Department released a report alleging the Biden administration used prosecutions, policies, and regulatory actions […]",
+    "link": "https://www.washingtonexaminer.com/news/justice/4679435/religious-liberty-trump-biden/",
+    "pubDate": "Sun, 09 Aug 2026 09:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "justice",
+      "biden administration",
+      "christianity",
+      "churches",
+      "faith",
+      "religion",
+      "religious freedom",
+      "trump administration",
+      "white house"
+    ],
+    "collectedAt": "2026-08-09T09:30:01.782Z"
+  },
+  {
+    "title": "Antifa inmates’ support group joins Hamas financier’s daughter to argue they’re not terrorists",
+    "description": "A support group for convicts in an antifa terrorist attack joined a Sunday panel in Texas with a convicted Hamas funder’s daughter to denounce both prosecutions. The DFW Support Committee is speaking out after more than a dozen federal defendants were sentenced since June over an anti-deportation riot despite the committee protesting, fundraising for legal […]",
+    "link": "https://www.washingtonexaminer.com/news/crime/4678950/antifa-inmates-support-group-joins-hamas-financier-daughter-not-terorrists/",
+    "pubDate": "Sun, 09 Aug 2026 09:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "crime",
+      "antifa",
+      "courts",
+      "department of justice",
+      "deportation",
+      "fbi",
+      "hamas",
+      "ice",
+      "middle east",
+      "national security",
+      "terrorism"
+    ],
+    "collectedAt": "2026-08-09T09:30:01.782Z"
   }
 ]
