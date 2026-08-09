@@ -319,7 +319,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-07",
+      "lastSeen": "2026-08-09",
       "active": true,
       "entries": [
         {
@@ -436,6 +436,11 @@
           "date": "2026-08-07",
           "edition": "morning",
           "update": "Officials and experts assessed that the conflict has slowed but not stopped Iran's nuclear program, with its three key nuclear sites remaining operational, according to the NY Times."
+        },
+        {
+          "date": "2026-08-09",
+          "edition": "morning",
+          "update": "Vice President JD Vance claimed the United States has 'destroyed' Iran's nuclear programme and degraded its military capabilities, according to Al Jazeera."
         }
       ],
       "parentId": null
@@ -444,7 +449,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-08",
+      "lastSeen": "2026-08-09",
       "active": true,
       "entries": [
         {
@@ -916,6 +921,11 @@
           "date": "2026-08-08",
           "edition": "evening",
           "update": "A viral video showing Ukrainian military recruiters forcibly apprehending a civilian man sparked public outcry over alleged abusive recruitment practices, with critics coining the term 'busification' to describe the phenomenon. Ukrainian volunteer Oleksiy Yukov, known for spending two decades recovering fallen soldiers' bodies from conflict zones on both sides, was killed after stepping on a landmine during a recovery mission."
+        },
+        {
+          "date": "2026-08-09",
+          "edition": "morning",
+          "update": "Ukraine denied responsibility after a drone exploded near a gas pipeline in Bulgaria, according to CBS News. Russia reported striking fuel storage facilities at Ukrainian ports overnight, and Russian authorities said three people were killed in a Ukrainian drone strike on Belgorod."
         }
       ],
       "parentId": null
@@ -1939,7 +1949,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-08",
+      "lastSeen": "2026-08-09",
       "active": true,
       "entries": [
         {
@@ -2726,6 +2736,11 @@
           "date": "2026-08-08",
           "edition": "evening",
           "update": "The U.S.-Iran conflict has significantly depleted American weapons stockpiles, according to the NY Times, with some analysts warning that a prolonged engagement benefits Russia and China by eroding U.S. firepower. Iran and Oman agreed on a security framework for the Strait of Hormuz, though Iran's issuance of formal demands has complicated a broader resolution."
+        },
+        {
+          "date": "2026-08-09",
+          "edition": "morning",
+          "update": "The Pentagon is pressing defense firms to accelerate weapons production after US stockpiles were depleted by the war with Iran, according to the Washington Post."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3540,7 +3555,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-08",
+      "lastSeen": "2026-08-09",
       "active": true
     },
     {
@@ -3563,7 +3578,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-08-08",
+      "lastSeen": "2026-08-09",
       "active": true,
       "entries": [
         {
@@ -3770,6 +3785,11 @@
           "date": "2026-08-08",
           "edition": "evening",
           "update": "Iranian National Security Council Secretary Mohammad Bagher Zolghadr released a list of six demands through state media that the U.S. must fulfill before any Strait of Hormuz peace deal, complicating ongoing negotiations. Vice President JD Vance acknowledged progress in talks with Iran but warned the situation remains unresolved, describing it as still 'in the middle of the game.'"
+        },
+        {
+          "date": "2026-08-09",
+          "edition": "morning",
+          "update": "Iranian President Pezeshkian expressed hope that Oman-mediated talks could resolve the 'neither war nor peace' state of US-Iran relations. Iranian Foreign Minister stated that direct talks with the United States will not proceed while the interim nuclear deal remains in breach, according to Reuters. A senior Iranian security official simultaneously issued broader conditions for reopening the Strait of Hormuz, underscoring internal divisions between diplomatic and hardline positions."
         }
       ]
     },
@@ -4043,7 +4063,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-08-08",
+      "lastSeen": "2026-08-09",
       "active": true,
       "entries": [
         {
@@ -4340,6 +4360,11 @@
           "date": "2026-08-08",
           "edition": "evening",
           "update": "Iran's Supreme National Security Council head announced the Strait of Hormuz will remain closed until the United States meets specific conditions, with Iran issuing a formal list of demands that dampened hopes for an imminent reopening. The UAE separately reported a ship was targeted in the region. Iran-backed Houthi rebels also launched drone and missile attacks on Saudi military targets in Marib, Yemen, killing two people and wounding more than a dozen others."
+        },
+        {
+          "date": "2026-08-09",
+          "edition": "morning",
+          "update": "Vice President JD Vance stated that 'some progress over the last few days' has been made in Iran-Oman negotiations over the strait. Iran's IRGC set conditions for reopening the waterway, demanding an end to the US blockade, while the US sought commitments from Tehran to cease attacks on ships. Tanker industry representatives described ships in the region as remaining in limbo, with transit still dangerous and a formal agreement described as far away."
         }
       ]
     },
@@ -4683,7 +4708,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-08",
+      "lastSeen": "2026-08-09",
       "active": true,
       "entries": [
         {
@@ -4780,6 +4805,11 @@
           "date": "2026-08-08",
           "edition": "evening",
           "update": "Israeli Prime Minister Netanyahu is weighing how to respond to the new Saudi-Turkey-Pakistan defence pact, with upcoming Israeli elections adding political pressure to his calculations. Turkey's defence minister stated the pact is technically equivalent to NATO's Article 5 mutual defence clause. Kurdistan Region Prime Minister Masrour Barzani told Al Jazeera that the Kurdish region seeks to remain neutral and is not under pressure to join the conflict with Iran, despite having endured over 1,000 attacks."
+        },
+        {
+          "date": "2026-08-09",
+          "edition": "morning",
+          "update": "Hamas announced readiness to disarm under the next phase of the Gaza peace plan, but Netanyahu rejected the claim, stating Israel never agreed to that provision, which would require a simultaneous Israeli withdrawal. Yemen's Houthis claimed a strike on an Aramco oil facility in Saudi Arabia, while Iran issued new demands regarding Hormuz negotiations. Crews recovered 19 bodies from rubble in Gaza, with over 8,000 people still missing under debris and recovery efforts hampered by lack of heavy machinery. Israel and the US launched coordinated operations targeting Hezbollah's financial networks, expanding their campaign to include funding sources. Israeli settlers are reported to be conducting daily attacks on Palestinians near Bethlehem, with residents describing ongoing land loss across the West Bank, while Israel faces accusations of weaponising archaeology to justify large-scale land expropriations in historic Palestinian areas."
         }
       ]
     },
@@ -4894,5 +4924,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-08T21:05:36.496Z"
+  "updatedAt": "2026-08-09T11:03:50.146Z"
 }
