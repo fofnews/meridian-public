@@ -7874,5 +7874,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-09T03:30:01.588Z"
+  },
+  {
+    "title": "Some meat products with jalapeños may be linked to salmonella outbreak, USDA says",
+    "description": "Federal officials issued a public health alert for meat products containing jalapeños that may be linked to a salmonella outbreak that has sickened hundreds of people across at least 27 states.",
+    "link": "https://www.cbsnews.com/news/salmonella-outbreak-jalapenos-usda-health-alert-meat-products/",
+    "pubDate": "Sat, 08 Aug 2026 23:37:59 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-08-09T03:45:01.256Z"
+  },
+  {
+    "title": "Helicopter crash kills pilot and crew member amid Utah wildfire battle",
+    "description": "Utah wildfire suppression efforts continued, with containment standing at 24 percent.",
+    "link": "https://www.aljazeera.com/news/2026/8/9/helicopter-crash-kills-pilot-and-crew-member-amid-utah-wildfire-battle?traffic_source=rss",
+    "pubDate": "Sun, 09 Aug 2026 03:09:27 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-09T03:45:01.256Z"
   }
 ]
