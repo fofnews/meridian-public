@@ -926,6 +926,11 @@
           "date": "2026-08-09",
           "edition": "morning",
           "update": "Ukraine denied responsibility after a drone exploded near a gas pipeline in Bulgaria, according to CBS News. Russia reported striking fuel storage facilities at Ukrainian ports overnight, and Russian authorities said three people were killed in a Ukrainian drone strike on Belgorod."
+        },
+        {
+          "date": "2026-08-09",
+          "edition": "evening",
+          "update": "Overnight strikes killed at least 7 civilians and injured dozens more, with one Russian missile striking a high-rise apartment building. President Zelenskiy announced that the port of Odesa sustained damage in a Russian attack and separately stated that up to 50,000 North Korean troops are expected to be deployed in Russia. Pope Leo renewed his call for an end to the war."
         }
       ],
       "parentId": null
@@ -1059,8 +1064,8 @@
       "id": "iran-protests-and-crackdown",
       "title": "Iran Protests and Crackdown",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-04-07",
-      "active": false,
+      "lastSeen": "2026-08-09",
+      "active": true,
       "entries": [
         {
           "date": "2026-02-26",
@@ -1101,6 +1106,11 @@
           "date": "2026-04-07",
           "edition": "morning",
           "update": "Iran released a Japanese national on bail who had been jailed amid antigovernment protests. The released individual is believed to be Shinnosuke Kawashima, NHK's Tehran bureau chief."
+        },
+        {
+          "date": "2026-08-09",
+          "edition": "evening",
+          "update": "Iran carried out public executions as part of an expanded crackdown on dissent, according to ABC News, following months of US conflict and mass protests in January."
         }
       ],
       "parentId": null
@@ -1389,7 +1399,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-08-08",
+      "lastSeen": "2026-08-09",
       "active": true,
       "entries": [
         {
@@ -1526,6 +1536,11 @@
           "date": "2026-08-08",
           "edition": "evening",
           "update": "The brother of Iranian kickboxer Benyamin Naghdi, facing execution for participating in a January protest, publicly appealed to President Trump to broker a deal to save his life, alleging Naghdi has been tortured and is severely emaciated. The plea comes as Iran's regime has reportedly executed at least 56 dissidents since March."
+        },
+        {
+          "date": "2026-08-09",
+          "edition": "evening",
+          "update": "Iran appointed Mohsen Rezaei, a longtime IRGC commander, as secretary of the Supreme National Security Council, a move seen as consolidating power among Iran's old guard. Iranian President Pezeshkian also met with Supreme Leader Khamenei, though specific details of the meeting were not disclosed by state media."
         }
       ],
       "parentId": null
@@ -2741,6 +2756,11 @@
           "date": "2026-08-09",
           "edition": "morning",
           "update": "The Pentagon is pressing defense firms to accelerate weapons production after US stockpiles were depleted by the war with Iran, according to the Washington Post."
+        },
+        {
+          "date": "2026-08-09",
+          "edition": "evening",
+          "update": "Former Defense Secretary Mark Esper stated Iran is being 'emboldened' by the conflict, arguing Tehran has learned to ignore large-scale US threats and is taking strategic positions instead; he also called Iran's Hormuz reopening demands 'ridiculous.' Rep. Thomas Massie called a potential Iran war Trump's 'biggest and most costly blunder,' while Sen. Chris Murphy declared 'Trump has lost' and said he would support a bad deal to end the war. In an Axios interview, Trump said the US is 'low-keying it' with Iran while emphasizing economic pressure."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3790,6 +3810,11 @@
           "date": "2026-08-09",
           "edition": "morning",
           "update": "Iranian President Pezeshkian expressed hope that Oman-mediated talks could resolve the 'neither war nor peace' state of US-Iran relations. Iranian Foreign Minister stated that direct talks with the United States will not proceed while the interim nuclear deal remains in breach, according to Reuters. A senior Iranian security official simultaneously issued broader conditions for reopening the Strait of Hormuz, underscoring internal divisions between diplomatic and hardline positions."
+        },
+        {
+          "date": "2026-08-09",
+          "edition": "evening",
+          "update": "Iranian Foreign Minister Abbas Araghchi stated that direct talks with the United States are not ongoing, while analysts described the two sides as 'talking past each other' in indirect negotiations. The breakdown follows Trump's announcement of 'major combat operations' against Iran on February 28, with Iran reporting the two countries are now passing messages only through intermediaries."
         }
       ]
     },
@@ -4365,6 +4390,11 @@
           "date": "2026-08-09",
           "edition": "morning",
           "update": "Vice President JD Vance stated that 'some progress over the last few days' has been made in Iran-Oman negotiations over the strait. Iran's IRGC set conditions for reopening the waterway, demanding an end to the US blockade, while the US sought commitments from Tehran to cease attacks on ships. Tanker industry representatives described ships in the region as remaining in limbo, with transit still dangerous and a formal agreement described as far away."
+        },
+        {
+          "date": "2026-08-09",
+          "edition": "evening",
+          "update": "Iranian Foreign Minister Araghchi stated Sunday that no ongoing negotiations exist between Tehran and Washington, even as Iran simultaneously signaled a Hormuz deal is in its 'final stages' but requires the US to take action first. Iran confirmed it is using Strait of Hormuz control as leverage to secure release of frozen assets, lifted sanctions, an end to the US naval blockade, and a return to a June memorandum of understanding."
         }
       ]
     },
@@ -4810,6 +4840,11 @@
           "date": "2026-08-09",
           "edition": "morning",
           "update": "Hamas announced readiness to disarm under the next phase of the Gaza peace plan, but Netanyahu rejected the claim, stating Israel never agreed to that provision, which would require a simultaneous Israeli withdrawal. Yemen's Houthis claimed a strike on an Aramco oil facility in Saudi Arabia, while Iran issued new demands regarding Hormuz negotiations. Crews recovered 19 bodies from rubble in Gaza, with over 8,000 people still missing under debris and recovery efforts hampered by lack of heavy machinery. Israel and the US launched coordinated operations targeting Hezbollah's financial networks, expanding their campaign to include funding sources. Israeli settlers are reported to be conducting daily attacks on Palestinians near Bethlehem, with residents describing ongoing land loss across the West Bank, while Israel faces accusations of weaponising archaeology to justify large-scale land expropriations in historic Palestinian areas."
+        },
+        {
+          "date": "2026-08-09",
+          "edition": "evening",
+          "update": "Netanyahu formally rejected Trump's 15-point Gaza plan at the start of a Sunday cabinet meeting, stating 'Israel does not accept the 15-point document' and that the IDF will not withdraw from Gaza until Hamas is genuinely disarmed. The plan had been put forward by Trump's Board of Peace, and Trump had previously announced an agreement involving Hamas disarmament and an IDF withdrawal. Experts cited by Al Jazeera warned that Israel's 'Green Rafah' plan, which creates new administrative zones in Gaza, is designed to fragment the territory and force mass displacement. Kurdistan Region President Masoud Barzani separately stated that Iraqi Kurdistan seeks peace amid rising regional tensions."
         }
       ]
     },
@@ -4924,5 +4959,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-09T11:03:50.146Z"
+  "updatedAt": "2026-08-09T21:05:00.402Z"
 }
