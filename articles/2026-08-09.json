@@ -523,5 +523,36 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-09T08:15:01.248Z"
+  },
+  {
+    "title": "Perez Hilton Update: Blogger Suffered 'Significant Blood Loss', Surgery Required",
+    "description": "Perez Hilton remains hospitalized in a serious but stable condition after injuries requiring surgery and a long recovery.",
+    "link": "https://www.newsweek.com/perez-hilton-blogger-significant-blood-loss-surgery-12301363",
+    "pubDate": "Sun, 09 Aug 2026 04:24:55 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-09T08:30:01.630Z"
+  },
+  {
+    "title": "Saudi Arabia says fire extinguished at Aramco facility in Jizan",
+    "description": "No casualties were reported after the flames broke out early on Sunday, the Saudi Energy Ministry says.",
+    "link": "https://www.aljazeera.com/news/2026/8/9/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan?traffic_source=rss",
+    "pubDate": "Sun, 09 Aug 2026 07:58:00 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-09T08:30:01.630Z"
+  },
+  {
+    "title": "Nagasaki mayor says ‘humanity and nuclear weapons cannot coexist’",
+    "description": "Nagasaki Mayor says ‘humanity and nuclear weapons can't coexist’ as Japan marks anniversary of the US atomic bombing.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/nagasaki-mayor-says-humanity-and-nuclear-weapons-cannot?traffic_source=rss",
+    "pubDate": "Sun, 09 Aug 2026 07:56:47 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-08-09T08:30:01.630Z"
   }
 ]
