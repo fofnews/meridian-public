@@ -5060,5 +5060,216 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-10T15:45:04.797Z"
+  },
+  {
+    "title": "Zuckerberg manifesto pushes open-source approach on AI as Meta releases latest model",
+    "description": "Meta Platforms has released a new AI model for developers, emphasizing open-source access",
+    "link": "https://abcnews.com/Technology/wireStory/zuckerberg-manifesto-pushes-open-source-approach-ai-meta-135519669",
+    "pubDate": "Mon, 10 Aug 2026 11:54:04 -0400",
+    "source": "ABC News",
+    "categories": [
+      "technology"
+    ],
+    "collectedAt": "2026-08-10T16:00:03.165Z"
+  },
+  {
+    "title": "AOC shares her egg-freezing journey. Here's what to know about the process.",
+    "description": "\"This is a choice that I am making to feel more in control of my life,\" said 36-year-old Rep. Alexandria Ocasio-Cortez.",
+    "link": "https://www.cbsnews.com/news/alexandria-ocasio-cortez-aoc-egg-freezing/",
+    "pubDate": "Mon, 10 Aug 2026 11:56:20 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-08-10T16:00:03.165Z"
+  },
+  {
+    "title": "How Shania Twain Won Over Gen Z",
+    "description": "The pop-country megastar is still thrilling young audiences and influencing a new generation of musicians.",
+    "link": "https://www.nytimes.com/2026/08/10/magazine/shania-twain-gen-z.html",
+    "pubDate": "Mon, 10 Aug 2026 09:00:45 +0000",
+    "source": "NY Times",
+    "categories": [
+      "twain, shania",
+      "country music",
+      "generation z",
+      "women's rights",
+      "styles, harry",
+      "pop and rock music"
+    ],
+    "collectedAt": "2026-08-10T16:00:03.165Z"
+  },
+  {
+    "title": "Traffic to Trump’s Truth Social Falls Sharply This Summer",
+    "description": "President Trump’s social media platform has had double-digit declines in visitors in June and July, according to estimates from a widely cited online tracking firm.",
+    "link": "https://www.nytimes.com/2026/08/10/business/trump-truth-social-traffic-declines.html",
+    "pubDate": "Mon, 10 Aug 2026 15:43:14 +0000",
+    "source": "NY Times",
+    "categories": [
+      "social media",
+      "standard & poor's 500-stock index",
+      "truth social (social network)",
+      "tae technologies inc",
+      "trump, donald j"
+    ],
+    "collectedAt": "2026-08-10T16:00:03.165Z"
+  },
+  {
+    "title": "How Small, Independent Newspapers Are Still Finding Readers",
+    "description": "In a world of failing newspapers, free weeklies like The Chronicle of Glens Falls, N.Y., are still finding readers. All it takes is owners who do absolutely everything.",
+    "link": "https://www.nytimes.com/2026/08/10/business/media/small-newspapers-success-chronicle-glen-falls.html",
+    "pubDate": "Mon, 10 Aug 2026 14:02:32 +0000",
+    "source": "NY Times",
+    "categories": [
+      "newspapers",
+      "glens falls (ny)"
+    ],
+    "collectedAt": "2026-08-10T16:00:03.165Z"
+  },
+  {
+    "title": "I, Spied",
+    "description": "We’re looking at the little black cameras that are causing a national uproar.",
+    "link": "https://www.nytimes.com/2026/08/10/briefing/flock-cameras.html",
+    "pubDate": "Mon, 10 Aug 2026 10:37:27 +0000",
+    "source": "NY Times",
+    "categories": [
+      "internal-storyline-no",
+      "police",
+      "surveillance of citizens by government",
+      "cameras",
+      "privacy"
+    ],
+    "collectedAt": "2026-08-10T16:00:03.165Z"
+  },
+  {
+    "title": "The best self-emptying cordless stick vacuums you should know about",
+    "description": "I spoke to several home appliance and vacuum experts to find the best self-emptying vacuums, including ones from top brands like Dyson and Shark.",
+    "link": "https://www.nbcnews.com/select/shopping/best-self-emptying-stick-cordless-vacuums-rcna591725",
+    "pubDate": "Mon, 10 Aug 2026 15:26:01 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-08-10T16:00:03.165Z"
+  },
+  {
+    "title": "Scientists Discover Brain Change That May Explain Alzheimer’s",
+    "description": "Scientists found the brain's immune cells start switching to inflammatory ones at 50; a possible trigger for dementia.",
+    "link": "https://www.newsweek.com/scientists-discover-brain-change-that-may-explain-alzheimers-12304039",
+    "pubDate": "Mon, 10 Aug 2026 11:53:49 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-10T16:00:03.165Z"
+  },
+  {
+    "title": "Scientists Link One Everyday Drink to Lower Depression Scores",
+    "description": "Participants who added the drink to a healthier diet showed significantly lower depression scores.",
+    "link": "https://www.newsweek.com/scientists-link-one-everyday-drink-to-lower-depression-scores-12304473",
+    "pubDate": "Mon, 10 Aug 2026 11:52:17 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-10T16:00:03.165Z"
+  },
+  {
+    "title": "Trump Polls, Cyclospora Outbreak and More: The Conversation",
+    "description": "Readers weigh in on the president's latest poll numbers, the Cyclospora outbreak and the ongoing Iran conflict.",
+    "link": "https://www.newsweek.com/trump-polls-cyclospora-outbreak-the-conversation-12303290",
+    "pubDate": "Mon, 10 Aug 2026 11:44:22 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-10T16:00:03.165Z"
+  },
+  {
+    "title": "From Dubai to a Dublin court - how alleged cartel boss Daniel Kinahan returned to Ireland",
+    "description": "Law enforcement agencies in Ireland and the US believe he is a leading figure in the Kinahan Organised Crime Group.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgv0xe1nr8o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 10 Aug 2026 15:43:59 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-10T16:00:03.165Z"
+  },
+  {
+    "title": "From Stonehenge to the Serpentine - satellite images show impact of hot, dry summer",
+    "description": "From Stonehenge to the Serpentine the impact on parts of the UK from a long, hot, summer can be seen from space.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y3v7xz52yo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 10 Aug 2026 15:36:33 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-10T16:00:03.165Z"
+  },
+  {
+    "title": "Democrats investigating efforts to deport service members, families",
+    "description": "A group of more than 60 Democratic lawmakers sent a letter Sunday to Trump administration officials regarding the conversion of military installments into effective “traps” for noncitizens who are service members and their families.  Members of Congress, led by Sens. Elizabeth Warren (D-Mass.), Richard Blumenthal (D-Conn.) and Tammy Duckworth (D-Ill.), cited several instances of service…",
+    "link": "https://thehill.com/homenews/senate/6020263-democratic-lawmakers-deportations-noncitizen-service-members/",
+    "pubDate": "Mon, 10 Aug 2026 15:43:35 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "defense",
+      "senate",
+      "international affairs",
+      "mass deportation",
+      "pentagon",
+      "president trump",
+      "sen. elizabeth warren",
+      "sen. richard blumenthal",
+      "trump administration",
+      "u.s. service members"
+    ],
+    "collectedAt": "2026-08-10T16:00:03.165Z"
+  },
+  {
+    "title": "Family of bikini designer in Montauk yacht death files $50M lawsuit alleging assault",
+    "description": "A wrongful death lawsuit alleges Christopher Durnan assaulted an Irish bikini designer aboard a yacht at Star Island Yacht Club in Montauk last August.",
+    "link": "https://www.foxnews.com/us/family-bikini-designer-montauk-yacht-death-files-50m-lawsuit-alleging-assault",
+    "pubDate": "Mon, 10 Aug 2026 11:48:31 -0400",
+    "source": "Fox News",
+    "categories": [
+      "2680446b-b719-53b5-92fc-e8de43b617d7",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/northeast/new-york",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/us/true-crime",
+      "fox-news/us",
+      "fox-news/us/us-regions/northeast",
+      "fox-news/crime",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-08-10T16:00:03.165Z"
+  },
+  {
+    "title": "Dunkin’ is giving away another one million drinks this week — here’s how to snag a free bev",
+    "description": "A spokesperson told The Post, \"This is just the beginning, Diehards can expect a few more surprises dropping soon, only through the channel.\"",
+    "link": "https://nypost.com/2026/08/10/lifestyle/dunkin-is-giving-away-one-million-drinks-heres-how-to-get-one/",
+    "pubDate": "Mon, 10 Aug 2026 12:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-10T16:00:03.165Z"
+  },
+  {
+    "title": "Iconic tourist hotspot once the heart of Hollywood glamour is now being called a ‘crack den’ after years of disrepair",
+    "description": "\"I'm trying to put it in a nice way, but I'm actually talking about human feces on the floor.\"",
+    "link": "https://nypost.com/2026/08/10/lifestyle/tourists-disappointed-by-run-down-hollywood-walk-of-fame/",
+    "pubDate": "Mon, 10 Aug 2026 11:49:45 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-10T16:00:03.165Z"
+  },
+  {
+    "title": "Cuba expert: Trump more likely to tighten screws than send in troops … for now",
+    "description": "Welcome to Monday’s edition of Washington Secrets. We’ll be with you all the way through August, even as the rest of the city slows down. Today, we dive into the Trump administration’s thinking on Cuba with someone who knows what they are talking about. Cuba may have dropped out of the headlines as Washington plots […]",
+    "link": "https://www.washingtonexaminer.com/news/washington-secrets/4680731/cuba-expert-trump-more-likely-tighten-screws-than-send-troops/",
+    "pubDate": "Mon, 10 Aug 2026 15:45:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "washington secrets",
+      "arizona",
+      "cuba",
+      "donald trump",
+      "katie hobbs",
+      "marco rubio",
+      "venezuela",
+      "washington d.c.",
+      "world"
+    ],
+    "collectedAt": "2026-08-10T16:00:03.165Z"
   }
 ]
