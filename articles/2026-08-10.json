@@ -447,5 +447,43 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-10T07:30:01.383Z"
+  },
+  {
+    "title": "Bungalow destroyed in explosion captured on camera",
+    "description": "Footage also shows the home burning after the explosion, thought to have been caused by a gas leak.",
+    "link": "https://www.bbc.co.uk/news/videos/c78gx85e05go?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 10 Aug 2026 06:24:52 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-10T07:45:01.616Z"
+  },
+  {
+    "title": "Israeli forces kill one in Gaza as another body recovered from rubble",
+    "description": "Gaza Health Ministry says hospitals receive bodies of two Palestinians as Netanyahu rejects Trump plan to end war.",
+    "link": "https://www.aljazeera.com/news/2026/8/10/israeli-forces-kill-one-in-gaza-as-another-body-recovered-from-rubble?traffic_source=rss",
+    "pubDate": "Mon, 10 Aug 2026 07:43:01 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-10T07:45:01.616Z"
+  },
+  {
+    "title": "Dollar climbs from two-month trough as oil gains, inflation data eyed - Reuters",
+    "description": "Dollar climbs from two-month trough as oil gains, inflation data eyed  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcUNXbzdKZzN4SWREMXRobGFBNUZTbkhiRERVTXVER0xFMndJbzBGXzRwckk4SWJLTlJtUHNaSDN1Uy1BRUMwZDY2U3dYRVRzeWV1NTNWN3QzazF5NHZuNGUteGpmanpqQnloXzBQWk1oY1FKWWFjUWYyX0ljSF91NXhWQVl0ek5RVWhwakpoZWZTbXJFelRXN3hIZnlfMlk3elZtUEtzbU5DQWZiamc?oc=5",
+    "pubDate": "Mon, 10 Aug 2026 05:23:52 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-08-10T07:45:01.616Z"
+  },
+  {
+    "title": "I Made RFK Jr.’s Salmon Cakes. They Were Bad. - The Free Press",
+    "description": "I Made RFK Jr.’s Salmon Cakes. They Were Bad.  The Free Press",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CRFZYLXdfQmVMVDR2R3pGb29HekhOWHlwMldsenBadVFuOGk3TWg3WEZmX21NYUJhRVFGRnNwb01fTmFMVGplUmx0NWY5c0c4OG1kWHpB?oc=5",
+    "pubDate": "Mon, 10 Aug 2026 04:08:00 GMT",
+    "source": "The Free Press",
+    "categories": [],
+    "collectedAt": "2026-08-10T07:45:01.616Z"
   }
 ]
