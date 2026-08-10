@@ -232,5 +232,16 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-10T05:30:01.385Z"
+  },
+  {
+    "title": "Man accused of orchestrating Tupac Shakur's 1996 killing set to go on trial",
+    "description": "The trial of a man accused of orchestrating the 1996 killing of rapper Tupac Shakur starts this week",
+    "link": "https://abcnews.com/US/wireStory/man-accused-orchestrating-tupac-shakurs-1996-killing-trial-135508410",
+    "pubDate": "Mon, 10 Aug 2026 01:37:51 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-08-10T05:45:01.217Z"
   }
 ]
