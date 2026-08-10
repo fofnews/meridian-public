@@ -941,6 +941,11 @@
           "date": "2026-08-10",
           "edition": "morning",
           "update": "A Ukrainian drone attack struck Nizhnekamsk, an industrial city in Russia's Tatarstan region, killing at least 12 people — making it one of the deadliest Ukrainian drone strikes on Russian territory since the war began. Separately, Draganfly CEO Cameron Chell told Fox News that drone company leaders have become primary assassination targets from both Russian and Ukrainian operatives as the two sides compete for AI and autonomous weapons advantages."
+        },
+        {
+          "date": "2026-08-10",
+          "edition": "evening",
+          "update": "Al Jazeera was given rare access to one of Ukraine's long-range drone units, as Ukraine pursues a strategy described as causing fear and economic losses deep inside Russian territory. Russian authorities revised the Nizhnekamsk death toll to 13 killed and 75 wounded. Ukraine also cut its grain export forecast following Russian attacks on its seaports, according to Reuters."
         }
       ],
       "parentId": null
@@ -3845,6 +3850,11 @@
           "date": "2026-08-10",
           "edition": "morning",
           "update": "Former Defense Secretary Mark Esper stated that Iran's new demands during Hormuz negotiations indicate Tehran believes it is negotiating from a position of strength."
+        },
+        {
+          "date": "2026-08-10",
+          "edition": "evening",
+          "update": "President Trump demanded that Iran pay compensation for those it has killed and wounded, a demand Tehran had preempted by issuing its own reparations demands. Trump dismissed Iran's counter-demand for war reparations, according to AP News. Trump separately told Axios he is 'low-keying it' on Iran, describing the U.S. as 'only semi-negotiating' while monitoring Iran's economic troubles, including high inflation and lack of funds, as the conflict nears its sixth month. The Trump administration has also shifted its broader Iran strategy toward economic pressure and sanctions rather than military action, according to Al Jazeera."
         }
       ]
     },
@@ -4430,6 +4440,11 @@
           "date": "2026-08-10",
           "edition": "morning",
           "update": "Oil prices rose amid continued uncertainty over a Strait of Hormuz reopening, according to Reuters. CBS News reported that U.S. gas prices have risen more than $1 since the conflict with Iran began, compounding financial pressure on American consumers alongside increased Pentagon spending. Iran's Revolutionary Guard confirmed the strait will remain closed until the U.S. meets demands that include payment for war damages."
+        },
+        {
+          "date": "2026-08-10",
+          "edition": "evening",
+          "update": "An Iranian Foreign Ministry spokesman stated that Oman-mediated talks on shipping routes are 'separate' from discussions on fully reopening the Strait of Hormuz, signaling Iran intends to keep the waterway closed until its broader demands are met by Washington."
         }
       ]
     },
@@ -4508,7 +4523,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-08-06",
+      "lastSeen": "2026-08-10",
       "active": true,
       "entries": [
         {
@@ -4675,6 +4690,11 @@
           "date": "2026-08-06",
           "edition": "evening",
           "update": "The DRC Ebola outbreak death toll has surpassed 1,800. Health workers in the country have protested over unpaid wages, with the ongoing pay disputes hampering the response to the spreading disease."
+        },
+        {
+          "date": "2026-08-10",
+          "edition": "evening",
+          "update": "The WHO warned that the Ebola virus is 'ahead' of authorities, stating that high infection rates indicate containment efforts are falling behind the spread of the disease."
         }
       ]
     },
@@ -5004,5 +5024,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-10T11:05:47.638Z"
+  "updatedAt": "2026-08-10T21:08:08.739Z"
 }
