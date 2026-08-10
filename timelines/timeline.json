@@ -315,7 +315,7 @@
         {
           "date": "2026-08-10",
           "edition": "morning",
-          "update": "A new report details approximately 70 allegations of sexual abuse by nearly 50 adults employed or affiliated with Interlochen arts school, where Jeffrey Epstein allegedly preyed on students, according to accounts from former students provided to NPR."
+          "update": "A new report revealed approximately 70 allegations of sexual abuse involving nearly 50 adults employed or affiliated with Interlochen arts school, where Jeffrey Epstein allegedly preyed on students, according to accounts from former students."
         }
       ],
       "parentId": null
@@ -940,7 +940,7 @@
         {
           "date": "2026-08-10",
           "edition": "morning",
-          "update": "A Ukrainian drone attack struck Nizhnekamsk in Russia's Tatarstan region, killing at least 12 people—making it one of the deadliest Ukrainian drone strikes on Russian territory since the war began. Separately, Draganfly CEO Cameron Chell stated that drone company leaders have become primary assassination targets, with both Moscow and Kyiv reportedly conducting operations against weapons and drone industry figures."
+          "update": "A Ukrainian drone attack struck Nizhnekamsk, an industrial city in Russia's Tatarstan region, killing at least 12 people — making it one of the deadliest Ukrainian drone strikes on Russian territory since the war began. Separately, Draganfly CEO Cameron Chell told Fox News that drone company leaders have become primary assassination targets from both Russian and Ukrainian operatives as the two sides compete for AI and autonomous weapons advantages."
         }
       ],
       "parentId": null
@@ -1555,7 +1555,7 @@
         {
           "date": "2026-08-10",
           "edition": "morning",
-          "update": "Iran released a rare video of Supreme Leader Ali Khamenei appearing in good condition, though the footage has not dispelled widespread speculation about his health following his prolonged absence from public view."
+          "update": "Iran released a rare video showing Supreme Leader Ali Khamenei appearing in good condition, though public speculation about his health and prolonged absence from public view continues."
         }
       ],
       "parentId": null
@@ -2785,7 +2785,7 @@
         {
           "date": "2026-08-10",
           "edition": "morning",
-          "update": "CNN defended its use of anonymous sources after retired Brig. Gen. Mark Kimmitt challenged the network's unnamed sourcing live on air regarding reporting that Gen. Dan Caine sought an off-ramp from escalation with Iran. U.S. airstrikes have continued at a near-constant rate on Qeshm Island and other locations in southern Iran, disrupting lives in the region even as fighting has abated elsewhere, according to the NY Times. The U.S. military's supply of long-range missiles and missile defense interceptors is described as nearly exhausted after more than five months of airstrikes, reportedly constraining Trump's options for authorizing major combat operations, according to The Hill."
+          "update": "U.S. military stockpiles of long-range missiles and missile defense interceptors are reported by The Hill to be nearly exhausted after more than five months of airstrikes, significantly constraining President Trump's options for authorizing major combat operations. U.S. airstrikes have continued at near-constant pace targeting Qeshm Island and other locations in southern Iran, disrupting civilian life even as fighting has reduced elsewhere, according to the NY Times. Markets reflected uncertainty over Hormuz negotiations, with U.S. stock-index futures little changed on Sunday as investors weighed new Iranian demands and awaited key inflation data, according to the Wall Street Journal. CNN defended its reliance on anonymous sources in reporting that Gen. Dan Caine sought an off-ramp from escalation with Iran, after retired Brig. Gen. Mark Kimmitt publicly challenged the network's unnamed sourcing on air."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3519,7 +3519,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-08-10",
+      "lastSeen": "2026-08-07",
       "active": true,
       "entries": [
         {
@@ -3571,11 +3571,6 @@
           "date": "2026-08-07",
           "edition": "morning",
           "update": "A U.S. official stated that American missile stockpiles, including ballistic missile interceptors and other key air defense weapons, have been driven to 'extremely low' levels as a result of the U.S. war in Iran, according to ABC News."
-        },
-        {
-          "date": "2026-08-10",
-          "edition": "morning",
-          "update": "A North Korean hacking group identified as Kimsuky has developed AI tools to facilitate cyberattacks and is deploying AI-generated documents in spear-phishing campaigns, according to a South Korean cybersecurity firm report cited by Reuters, marking an escalation in the group's capabilities."
         }
       ],
       "parentId": null
@@ -3849,7 +3844,7 @@
         {
           "date": "2026-08-10",
           "edition": "morning",
-          "update": "Iran confirmed that messages are being exchanged between Tehran and Washington while maintaining it is not engaged in formal negotiations with the U.S."
+          "update": "Former Defense Secretary Mark Esper stated that Iran's new demands during Hormuz negotiations indicate Tehran believes it is negotiating from a position of strength."
         }
       ]
     },
@@ -4434,7 +4429,7 @@
         {
           "date": "2026-08-10",
           "edition": "morning",
-          "update": "Oil prices rose amid continued uncertainty over the Strait's reopening, with Asian stocks also edging higher amid confusion over Gulf developments, according to Reuters. Gas prices have risen more than $1 since the war with Iran began, according to CBS News, with costs to taxpayers increasing through both Pentagon financing and higher fuel prices. Iran's Revolutionary Guard formally declared the strait will remain closed until the U.S. meets demands that include payment for war damage."
+          "update": "Oil prices rose amid continued uncertainty over a Strait of Hormuz reopening, according to Reuters. CBS News reported that U.S. gas prices have risen more than $1 since the conflict with Iran began, compounding financial pressure on American consumers alongside increased Pentagon spending. Iran's Revolutionary Guard confirmed the strait will remain closed until the U.S. meets demands that include payment for war damages."
         }
       ]
     },
@@ -4889,7 +4884,7 @@
         {
           "date": "2026-08-10",
           "edition": "morning",
-          "update": "Israel formally rejected Trump's Gaza peace plan, according to AP News, as the plan had already been rejected by Netanyahu in the context of its disarmament provisions."
+          "update": "Israel formally rejected the Trump administration's Gaza peace plan, according to AP News."
         }
       ]
     },
@@ -4928,7 +4923,7 @@
       "title": "US Cyberattacks and Infrastructure Security",
       "parentId": null,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-08-07",
+      "lastSeen": "2026-08-10",
       "active": true,
       "entries": [
         {
@@ -4970,6 +4965,11 @@
           "date": "2026-08-07",
           "edition": "evening",
           "update": "A Russian hacking group known as 'Laundry Bear' was found to exploit a flaw in unpatched Zimbra servers, stealing up to 90 days of emails and authentication data without requiring victims to click a link. Cybersecurity experts warned that U.S. water systems face the risk of 'catastrophic' cyberattacks, with potential consequences including service outages, contamination risks, and costly infrastructure damage. Vanderbilt University researchers are developing 'digital twins' of water system networks as part of a new cybersecurity initiative in the water sector, according to NBC News."
+        },
+        {
+          "date": "2026-08-10",
+          "edition": "morning",
+          "update": "A North Korean hacking group has been developing AI tools designed to facilitate cyberattacks, according to a report cited by Reuters. South Korean cybersecurity firm findings further confirmed that the North Korean group Kimsuky has begun using AI-generated documents in spear-phishing attacks, marking a documented escalation in the group's offensive cyber capabilities."
         }
       ]
     },
@@ -5004,5 +5004,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-10T11:05:37.269Z"
+  "updatedAt": "2026-08-10T11:05:47.638Z"
 }
