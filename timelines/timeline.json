@@ -945,7 +945,7 @@
         {
           "date": "2026-08-10",
           "edition": "evening",
-          "update": "Al Jazeera was given rare access to one of Ukraine's long-range drone units, as Ukraine pursues a strategy described as causing fear and economic losses deep inside Russian territory. Russian authorities revised the Nizhnekamsk death toll to 13 killed and 75 wounded. Ukraine also cut its grain export forecast following Russian attacks on its seaports, according to Reuters."
+          "update": "Russian authorities revised the Nizhnekamsk death toll upward to 13 killed and 75 wounded in the Ukrainian drone strike on the petroleum hub in Tatarstan. Ukraine cut its grain export forecast following Russian attacks on its seaports, according to Reuters. Al Jazeera was granted rare access to one of Ukraine's long-range drone units conducting strikes inside Russia. Kyiv also reported that Russia is deploying a Starlink-style satellite internet network at a faster pace than previously anticipated, with potential military implications for the conflict."
         }
       ],
       "parentId": null
@@ -3854,7 +3854,7 @@
         {
           "date": "2026-08-10",
           "edition": "evening",
-          "update": "President Trump demanded that Iran pay compensation for those it has killed and wounded, a demand Tehran had preempted by issuing its own reparations demands. Trump dismissed Iran's counter-demand for war reparations, according to AP News. Trump separately told Axios he is 'low-keying it' on Iran, describing the U.S. as 'only semi-negotiating' while monitoring Iran's economic troubles, including high inflation and lack of funds, as the conflict nears its sixth month. The Trump administration has also shifted its broader Iran strategy toward economic pressure and sanctions rather than military action, according to Al Jazeera."
+          "update": "The Trump administration shifted its approach toward Iran, opting to increase economic pressure rather than pursue military action, according to Al Jazeera. Trump publicly characterized the situation as 'like a chess game' and said the U.S. is 'low-keying it,' describing negotiations as only 'semi' ongoing while noting Iran is suffering from 'huge inflation' and lack of funds. Trump separately dismissed Iran's demand for war reparations, according to AP News. Additional U.S. sanctions against Iran were announced amid continued uncertainty over the Strait of Hormuz talks."
         }
       ]
     },
@@ -3958,7 +3958,7 @@
       "title": "Cuba Military Intervention",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-04-29",
-      "lastSeen": "2026-08-06",
+      "lastSeen": "2026-08-10",
       "active": true,
       "entries": [
         {
@@ -4015,6 +4015,11 @@
           "date": "2026-08-06",
           "edition": "morning",
           "update": "The CIA has established a secret task force focused on Cuba, directing increased financial, human, and technical resources toward the island with the goal of creating divisions within the Cuban political elite, according to the NY Times."
+        },
+        {
+          "date": "2026-08-10",
+          "edition": "evening",
+          "update": "A Cuba expert assessed for the Washington Examiner that the Trump administration is more likely to escalate economic and political pressure on Cuba than to pursue military intervention in the near term."
         }
       ]
     },
@@ -4444,7 +4449,7 @@
         {
           "date": "2026-08-10",
           "edition": "evening",
-          "update": "An Iranian Foreign Ministry spokesman stated that Oman-mediated talks on shipping routes are 'separate' from discussions on fully reopening the Strait of Hormuz, signaling Iran intends to keep the waterway closed until its broader demands are met by Washington."
+          "update": "An Iranian Foreign Ministry spokesman stated that Oman-mediated talks on shipping routes are 'separate' from negotiations to fully reopen the Strait of Hormuz, signaling Iran intends to keep the waterway closed until the Trump administration meets its broader demands."
         }
       ]
     },
@@ -4694,7 +4699,7 @@
         {
           "date": "2026-08-10",
           "edition": "evening",
-          "update": "The WHO warned that the Ebola virus is 'ahead' of authorities, stating that high infection rates indicate containment efforts are falling behind the spread of the disease."
+          "update": "The World Health Organization warned that the Ebola virus is outpacing containment efforts in the DRC, with high infection rates indicating authorities are struggling to control the spread of the disease."
         }
       ]
     },
@@ -4998,7 +5003,7 @@
       "title": "Airport Security Threats and Explosive Device Incidents",
       "parentId": null,
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-07",
+      "lastSeen": "2026-08-10",
       "active": true,
       "entries": [
         {
@@ -5020,9 +5025,14 @@
           "date": "2026-08-07",
           "edition": "evening",
           "update": "A German lawmaker reported that a bus driver at a German airport kicked an explosive drone out of the air, preventing a potential incident. Separately, suspects Jason and Megan Showers were identified in connection with throwing an explosive device into a neighbor's yard in the Detroit area, with each facing the possibility of decades in prison."
+        },
+        {
+          "date": "2026-08-10",
+          "edition": "evening",
+          "update": "Alaska Airlines Flight 305 from Miami to Seattle was locked down after the pilot reported a customer disturbance and secured the cockpit; authorities found no credible threat and passengers were asked to deplane."
         }
       ]
     }
   ],
-  "updatedAt": "2026-08-10T21:08:08.739Z"
+  "updatedAt": "2026-08-10T21:08:32.094Z"
 }
