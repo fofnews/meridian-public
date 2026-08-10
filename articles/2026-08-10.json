@@ -920,5 +920,81 @@
       "virginia"
     ],
     "collectedAt": "2026-08-10T09:30:01.268Z"
+  },
+  {
+    "title": "Tropical storm causes some flooding in eastern China",
+    "description": "Tropical Storm Dolphin is dumping heavy rain in eastern China",
+    "link": "https://abcnews.com/International/wireStory/tropical-storm-causes-flooding-eastern-china-135509323",
+    "pubDate": "Mon, 10 Aug 2026 03:54:10 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-08-10T09:45:01.298Z"
+  },
+  {
+    "title": "Ukrainian Drone Attack Kills 13 Deep Inside Russia",
+    "description": "A strike on an industrial center in Tatarstan marked one of the deadliest attacks on Russian territory since the start of the war.",
+    "link": "https://www.nytimes.com/2026/08/10/world/europe/ukrainian-drone-attack-kills-13-deep-inside-russia.html",
+    "pubDate": "Mon, 10 Aug 2026 09:26:22 +0000",
+    "source": "NY Times",
+    "categories": [
+      "russian invasion of ukraine (2022)",
+      "russia",
+      "tatarstan (russia)",
+      "ukraine",
+      "drones (pilotless planes)",
+      "civilian casualties"
+    ],
+    "collectedAt": "2026-08-10T09:45:01.298Z"
+  },
+  {
+    "title": "Suspected crime boss Kinahan spends first night in custody in Ireland",
+    "description": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+    "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 10 Aug 2026 09:33:25 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-10T09:45:01.298Z"
+  },
+  {
+    "title": "Osaka, Gauff race into Canadian Open quarters as Rybakina survives scare",
+    "description": "World No. 2 Elena Rybakina rallies to beat unseeded Liudmila Samsonova while stars Naomi Osaka, Coco Gauff progress.",
+    "link": "https://www.aljazeera.com/sports/2026/8/10/osaka-gauff-race-into-canadian-open-quarters-as-rybakina-survives-scare?traffic_source=rss",
+    "pubDate": "Mon, 10 Aug 2026 09:25:13 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-08-10T09:45:01.298Z"
+  },
+  {
+    "title": "Anguished locals watch as Israel demolishes homes in southern Lebanon",
+    "description": "Anguished locals watch as Israel demolishes homes in southern Lebanon",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/anguished-locals-watch-as-israel-demolishes-homes-in-southern-lebanon?traffic_source=rss",
+    "pubDate": "Mon, 10 Aug 2026 09:20:12 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-10T09:45:01.298Z"
+  },
+  {
+    "title": "Iran says no reason to fear Pakistan-Turkey-Saudi security pact - Reuters",
+    "description": "Iran says no reason to fear Pakistan-Turkey-Saudi security pact  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT0ZKNWFNbV9WOEFpMnZYa3NkbzBGWUNiVnVsMlJtT1IzRDliNHJIM0g0eUZ0N2lNcWxSSEd5QVV4QW1pZFRCSTQ5WndIdGtVRTFMcmYxUVVVZzVQazFQRy1vNG5Vd1hhbG9ObG14SnJnbl94VDJLZnJ6dmN4ZUJKTXRiTFBrTkdkN0FyWkFua3FhR3B6aHN5Z05ETmpNUkxLTlViUm4xdGtINktfUDk2UmRUOGtqdw?oc=5",
+    "pubDate": "Mon, 10 Aug 2026 09:21:03 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-08-10T09:45:01.298Z"
+  },
+  {
+    "title": "South Korea's Lee wants military airbase relocated by mid-2028 for chip cluster - Reuters",
+    "description": "South Korea's Lee wants military airbase relocated by mid-2028 for chip cluster  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdnZjclJ4ZTNzOU1TQllqMUJkMTRUWDVXakRfV21XQWpXWGg1OVlzYUhDV2RPSTlwQnhrVVhCZm5ZMWVVZmNPMUlPN2FVZ0RtOVBOTHNWRzZmRXRJYUh5bU00UW0yYjY2SC1jcEE2ekIxbHpyNTM1YzQ3TTdOaExTN3o0cnM2WTRsNExXVFVSN0wtclpxVDctZWl6Uk9FM2RMREIwbGV0Z3NhRW9Xa0VENUhFdGo4SV9sdHV2QXctSTJnVERCM2I1LQ?oc=5",
+    "pubDate": "Mon, 10 Aug 2026 06:13:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-08-10T09:45:01.298Z"
   }
 ]
