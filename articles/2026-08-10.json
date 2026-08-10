@@ -203,5 +203,34 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-10T05:15:02.141Z"
+  },
+  {
+    "title": "Thai school shooter learnt how to use guns via social media",
+    "description": "Police say they are still investigating the 14-year-old shooter's motive.",
+    "link": "https://www.bbc.co.uk/news/articles/cy07dern0n0o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 10 Aug 2026 05:21:43 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-10T05:30:01.385Z"
+  },
+  {
+    "title": "Wildfires bear down on homes in Canada’s Okanagan region",
+    "description": "A fast-moving wildfire in Canada’s British Columbia province has forced thousands of people from their homes.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/wildfires-bear-down-on-homes-in-canadas-okanagan-region?traffic_source=rss",
+    "pubDate": "Mon, 10 Aug 2026 04:49:42 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "newsfeed"
+    ],
+    "collectedAt": "2026-08-10T05:30:01.385Z"
+  },
+  {
+    "title": "Wild video shows huge bison knock tourist to ground — and refuse to let him stand up",
+    "description": "“We shouldn’t blame the bison. The man was actually very lucky because this particular animal was quite calm. There are much more aggressive individuals,” said nature photographer Grzegorz Ryński.",
+    "link": "https://nypost.com/2026/08/10/world-news/wild-video-shows-huge-bison-knock-tourist-to-ground-in-polish-forest/",
+    "pubDate": "Mon, 10 Aug 2026 01:15:52 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-10T05:30:01.385Z"
   }
 ]
