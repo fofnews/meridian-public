@@ -360,5 +360,45 @@
     "source": "NPR",
     "categories": [],
     "collectedAt": "2026-08-11T06:15:01.334Z"
+  },
+  {
+    "title": "Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib",
+    "description": "The latest attacks come just a day after Houthi rebels targeted al-Makha and its port, killing seven people.",
+    "link": "https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss",
+    "pubDate": "Tue, 11 Aug 2026 06:05:07 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-11T06:30:01.881Z"
+  },
+  {
+    "title": "‘The market is obviously on fire’: Is it a mistake to take $1,000 from my brokerage account to pay my car loan?",
+    "description": "“I’m curious whether there’s a downside.”",
+    "link": "https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
+    "pubDate": "Tue, 11 Aug 2026 06:15:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-08-11T06:30:01.881Z"
+  },
+  {
+    "title": "Florida woman accused of faking cancer to scam hundreds out of $40K, police say",
+    "description": "A Florida woman was arrested after she allegedly scammed more than 200 people out of $40,000 with a fake cancer diagnosis. GoFundMe says it refunded the money.",
+    "link": "https://www.foxnews.com/us/florida-woman-cancer-fraud",
+    "pubDate": "Tue, 11 Aug 2026 02:02:18 -0400",
+    "source": "Fox News",
+    "categories": [
+      "aadb3a47-df1d-5a02-a2b4-69208423b78e",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/southeast/florida",
+      "fox-news/us",
+      "fox-news/crime",
+      "fox-news/health/cancer",
+      "fox-news/politics/elections/fundraising",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-08-11T06:30:01.881Z"
   }
 ]
