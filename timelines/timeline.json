@@ -454,7 +454,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-10",
+      "lastSeen": "2026-08-11",
       "active": true,
       "entries": [
         {
@@ -946,6 +946,11 @@
           "date": "2026-08-10",
           "edition": "evening",
           "update": "Russian authorities revised the Nizhnekamsk death toll upward to 13 killed and 75 wounded in the Ukrainian drone strike on the petroleum hub in Tatarstan. Ukraine cut its grain export forecast following Russian attacks on its seaports, according to Reuters. Al Jazeera was granted rare access to one of Ukraine's long-range drone units conducting strikes inside Russia. Kyiv also reported that Russia is deploying a Starlink-style satellite internet network at a faster pace than previously anticipated, with potential military implications for the conflict."
+        },
+        {
+          "date": "2026-08-11",
+          "edition": "morning",
+          "update": "Al Jazeera's Audrey MacAlpine reported from a secret launch site in eastern Ukraine, where Ukrainian soldiers were shown preparing long-range drones for deep-strike missions inside Russia."
         }
       ],
       "parentId": null
@@ -1989,7 +1994,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-10",
+      "lastSeen": "2026-08-11",
       "active": true,
       "entries": [
         {
@@ -2791,6 +2796,11 @@
           "date": "2026-08-10",
           "edition": "morning",
           "update": "U.S. military stockpiles of long-range missiles and missile defense interceptors are reported by The Hill to be nearly exhausted after more than five months of airstrikes, significantly constraining President Trump's options for authorizing major combat operations. U.S. airstrikes have continued at near-constant pace targeting Qeshm Island and other locations in southern Iran, disrupting civilian life even as fighting has reduced elsewhere, according to the NY Times. Markets reflected uncertainty over Hormuz negotiations, with U.S. stock-index futures little changed on Sunday as investors weighed new Iranian demands and awaited key inflation data, according to the Wall Street Journal. CNN defended its reliance on anonymous sources in reporting that Gen. Dan Caine sought an off-ramp from escalation with Iran, after retired Brig. Gen. Mark Kimmitt publicly challenged the network's unnamed sourcing on air."
+        },
+        {
+          "date": "2026-08-11",
+          "edition": "morning",
+          "update": "Details emerged about a covert security operation during Trump's departure from a NATO summit in Turkey last month, prompted by an Iranian threat. Trump was removed from Air Force One, transported using an airport catering truck as cover, and boarded a separate, smaller military plane; he publicly appeared to depart aboard Air Force One. Iranian Supreme Leader Mojtaba Khamenei appointed six new military commanders, a move analysts say signals Tehran is preparing for prolonged confrontation rather than a diplomatic settlement. Trump demanded Iran compensate victims' families and Middle Eastern countries for casualties across multiple conflicts, while dismissing Iran's counter-demand for war reparations; Trump also claimed the Strait of Hormuz remains open. Oil prices rose to near one-week highs and Asian stocks drifted as markets reflected diminished prospects for a US-Iran deal, while July U.S. home sales data was noted to largely reflect pre-ceasefire-end buyer activity from June, with the conflict flagged as a potential drag on the housing market going forward."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3605,7 +3615,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-10",
+      "lastSeen": "2026-08-11",
       "active": true
     },
     {
@@ -4133,7 +4143,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-08-10",
+      "lastSeen": "2026-08-11",
       "active": true,
       "entries": [
         {
@@ -4450,6 +4460,11 @@
           "date": "2026-08-10",
           "edition": "evening",
           "update": "An Iranian Foreign Ministry spokesman stated that Oman-mediated talks on shipping routes are 'separate' from negotiations to fully reopen the Strait of Hormuz, signaling Iran intends to keep the waterway closed until the Trump administration meets its broader demands."
+        },
+        {
+          "date": "2026-08-11",
+          "edition": "morning",
+          "update": "Gulf shipping traffic through the Strait of Hormuz fell to just six vessels, according to Reuters, indicating a significant reduction in maritime activity. A deal between Iran and Oman to reopen the strait remains at risk, as Iran reiterated the waterway will only reopen once the United States meets Tehran's broader demands."
         }
       ]
     },
@@ -4798,7 +4813,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-10",
+      "lastSeen": "2026-08-11",
       "active": true,
       "entries": [
         {
@@ -4910,6 +4925,11 @@
           "date": "2026-08-10",
           "edition": "morning",
           "update": "Israel formally rejected the Trump administration's Gaza peace plan, according to AP News."
+        },
+        {
+          "date": "2026-08-11",
+          "edition": "morning",
+          "update": "Trump stated his relationship with Netanyahu remains good despite Israel's rejection of the Gaza peace plan, as the NY Times reported Trump is seeking to declare success in both Iran and Gaza but struggling to impose his will on either conflict. Al Jazeera highlighted ongoing tensions between Trump and Netanyahu over compliance with the Gaza plan. Colombia's government recognized Israel's claim over the Golan Heights, making it only the second country to do so over the illegally annexed territory."
         }
       ]
     },
@@ -5034,5 +5054,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-10T21:08:32.094Z"
+  "updatedAt": "2026-08-11T11:08:24.469Z"
 }
