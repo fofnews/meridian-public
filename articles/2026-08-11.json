@@ -200,7 +200,7 @@
     "categories": [
       "news"
     ],
-    "collectedAt": "2026-08-11T05:00:01.900Z"
+    "collectedAt": "2026-08-11T05:00:01.910Z"
   },
   {
     "title": "Liberty turned season around after rock-bottom loss to Fever",
@@ -209,6 +209,33 @@
     "pubDate": "Tue, 11 Aug 2026 00:48:40 -0400",
     "source": "New York Post",
     "categories": [],
-    "collectedAt": "2026-08-11T05:00:01.900Z"
+    "collectedAt": "2026-08-11T05:00:01.910Z"
+  },
+  {
+    "title": "Jewish school heads spend more time on security than education, review finds",
+    "description": "It's one of the findings from an independent review into antisemitism in schools and colleges.",
+    "link": "https://www.bbc.co.uk/news/articles/c98vm1n64ljo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 11 Aug 2026 05:01:28 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-11T05:15:01.295Z"
+  },
+  {
+    "title": "My brother was found dead – but police didn't realise for days that he had been shot",
+    "description": "Brian Low was murdered while walking his dog by a former colleague whose hatred had festered for years.",
+    "link": "https://www.bbc.co.uk/news/articles/cy5dprklpgzo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 11 Aug 2026 05:03:29 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-11T05:15:01.295Z"
+  },
+  {
+    "title": "DiJonai Carrington breaks silence on Sophie Cunningham drama, bringing ‘white privilege’ concerns to WNBA",
+    "description": "Carrington called it “unfortunate” that her attempt to deny a layup by Cunningham -- during the Sky's loss to the Fever on Saturday -- occurred the way it did, while noting that it has always been her style of play.",
+    "link": "https://nypost.com/2026/08/11/sports/dijonai-carrington-breaks-silence-on-sophie-cunningham-drama-bringing-white-privilege-concerns-to-wnba/",
+    "pubDate": "Tue, 11 Aug 2026 01:02:59 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-11T05:15:01.295Z"
   }
 ]
