@@ -951,6 +951,11 @@
           "date": "2026-08-11",
           "edition": "morning",
           "update": "Al Jazeera's Audrey MacAlpine reported from a secret launch site in eastern Ukraine, where Ukrainian soldiers were shown preparing long-range drones for deep-strike missions inside Russia."
+        },
+        {
+          "date": "2026-08-11",
+          "edition": "evening",
+          "update": "Russia is set to hold its first parliamentary elections since the full-scale invasion of Ukraine began more than four years ago. A drone crash in Germany has heightened fears of suspected Russian operations on European soil, with officials describing the incidents as reaching a 'new level of danger.' Russia's Sibur petrochemical plant in western Siberia was shut down following a drone attack, according to sources cited by Reuters, with details on damage and casualties not immediately available."
         }
       ],
       "parentId": null
@@ -1574,7 +1579,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-09",
+      "lastSeen": "2026-08-11",
       "active": true,
       "entries": [
         {
@@ -1986,6 +1991,11 @@
           "date": "2026-08-09",
           "edition": "evening",
           "update": "Netanyahu rejected Trump's 15-point Gaza peace plan at the start of a Sunday cabinet meeting, stating the IDF will not withdraw from Gaza until Hamas is genuinely disarmed. The rejection came just over a week after Trump's Board of Peace announced what Trump described as a historic agreement for the complete disarmament of Hamas and all other groups in Gaza."
+        },
+        {
+          "date": "2026-08-11",
+          "edition": "evening",
+          "update": "The future of UNIFIL peacekeeping operations in southern Lebanon is uncertain, with missions potentially shrinking significantly and creating security gaps as political solutions remain elusive, according to Al Jazeera. Lebanese first responders continue to operate amid intensifying Israeli attacks, risking their lives to provide emergency response services."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2801,6 +2811,11 @@
           "date": "2026-08-11",
           "edition": "morning",
           "update": "Details emerged about a covert security operation during Trump's departure from a NATO summit in Turkey last month, prompted by an Iranian threat. Trump was removed from Air Force One, transported using an airport catering truck as cover, and boarded a separate, smaller military plane; he publicly appeared to depart aboard Air Force One. Iranian Supreme Leader Mojtaba Khamenei appointed six new military commanders, a move analysts say signals Tehran is preparing for prolonged confrontation rather than a diplomatic settlement. Trump demanded Iran compensate victims' families and Middle Eastern countries for casualties across multiple conflicts, while dismissing Iran's counter-demand for war reparations; Trump also claimed the Strait of Hormuz remains open. Oil prices rose to near one-week highs and Asian stocks drifted as markets reflected diminished prospects for a US-Iran deal, while July U.S. home sales data was noted to largely reflect pre-ceasefire-end buyer activity from June, with the conflict flagged as a potential drag on the housing market going forward."
+        },
+        {
+          "date": "2026-08-11",
+          "edition": "evening",
+          "update": "Three U.S. soldiers were killed in Jordan in an Iranian strike, highlighting Iran's evolved attack capabilities at a time when Pentagon interceptor munitions are nearly exhausted, according to the NY Times. Former Defense Secretary Mark Esper stated the Trump administration appears to be on its 'back foot' strategically despite significant damage inflicted by U.S. strikes over nearly six months of war. Trump stated the U.S. options regarding Iran are to either let Tehran fail economically or 'hit them really hard,' according to Reuters. Critics raised safety concerns about a Qatar-donated jet offered to replace Air Force One, noting it lacks standard safety measures, even as Trump praised the aircraft as the height of 'luxury.' The Washington Post drew a parallel between Trump's covert plane transfer and a similar deception employed by Clinton involving Pakistan, noting one key distinction between the two cases."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3089,7 +3104,7 @@
       "id": "cuba-energy-crisis",
       "title": "Cuba Energy Crisis",
       "firstSeen": "2026-03-16",
-      "lastSeen": "2026-08-04",
+      "lastSeen": "2026-08-11",
       "active": true,
       "entries": [
         {
@@ -3296,6 +3311,11 @@
           "date": "2026-08-04",
           "edition": "morning",
           "update": "The Trump administration escalated restrictions on Cuba, warning that the country remains a 'threat to national security,' according to Al Jazeera."
+        },
+        {
+          "date": "2026-08-11",
+          "edition": "evening",
+          "update": "Reuters reported that U.S. fuel sales to Cuban businesses have begun, bringing a glimpse of capitalism to Havana under a policy allowing limited commercial transactions with the island."
         }
       ],
       "parentId": null
@@ -3534,7 +3554,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-08-07",
+      "lastSeen": "2026-08-11",
       "active": true,
       "entries": [
         {
@@ -3586,6 +3606,11 @@
           "date": "2026-08-07",
           "edition": "morning",
           "update": "A U.S. official stated that American missile stockpiles, including ballistic missile interceptors and other key air defense weapons, have been driven to 'extremely low' levels as a result of the U.S. war in Iran, according to ABC News."
+        },
+        {
+          "date": "2026-08-11",
+          "edition": "evening",
+          "update": "North Korea has deepened its military involvement in Russia's war in Europe, deploying an expeditionary force with significant commitments, according to National Review."
         }
       ],
       "parentId": null
@@ -3638,7 +3663,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-08-10",
+      "lastSeen": "2026-08-11",
       "active": true,
       "entries": [
         {
@@ -3865,6 +3890,11 @@
           "date": "2026-08-10",
           "edition": "evening",
           "update": "The Trump administration shifted its approach toward Iran, opting to increase economic pressure rather than pursue military action, according to Al Jazeera. Trump publicly characterized the situation as 'like a chess game' and said the U.S. is 'low-keying it,' describing negotiations as only 'semi' ongoing while noting Iran is suffering from 'huge inflation' and lack of funds. Trump separately dismissed Iran's demand for war reparations, according to AP News. Additional U.S. sanctions against Iran were announced amid continued uncertainty over the Strait of Hormuz talks."
+        },
+        {
+          "date": "2026-08-11",
+          "edition": "evening",
+          "update": "Political commentator Bill O'Reilly stated on Monday that President Trump is not 'flailing' in his efforts to pressure Iran into a deal addressing its nuclear program and the reopening of the Strait of Hormuz."
         }
       ]
     },
@@ -4465,6 +4495,11 @@
           "date": "2026-08-11",
           "edition": "morning",
           "update": "Gulf shipping traffic through the Strait of Hormuz fell to just six vessels, according to Reuters, indicating a significant reduction in maritime activity. A deal between Iran and Oman to reopen the strait remains at risk, as Iran reiterated the waterway will only reopen once the United States meets Tehran's broader demands."
+        },
+        {
+          "date": "2026-08-11",
+          "edition": "evening",
+          "update": "Oil prices rose to $90 a barrel as the U.S.-Iran stalemate hardened and commercial shipping traffic in the Strait of Hormuz continued to decline, according to the NY Times. A U.S. military helicopter fired on a merchant vessel attempting to cross the U.S. blockade in the strait, targeting the ship's rudder to disable it after the crew ignored multiple warnings, according to a U.S. official cited by the Wall Street Journal. Pakistan stated that the U.S. and Iran are close to reaching 'some sort' of deal, even as attacks on shipping in the region continue."
         }
       ]
     },
@@ -5054,5 +5089,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-11T11:08:24.469Z"
+  "updatedAt": "2026-08-11T21:07:40.633Z"
 }
