@@ -606,5 +606,41 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-11T08:00:01.319Z"
+  },
+  {
+    "title": "What We Know About the Earthquake in Colombia",
+    "description": "The 7.4-magnitude quake, which killed more than 100 people and damaged hundreds of buildings, was the strongest recorded in Colombia in a decade.",
+    "link": "https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-cali-medellin-deaths.html",
+    "pubDate": "Tue, 11 Aug 2026 07:48:34 +0000",
+    "source": "NY Times",
+    "categories": [
+      "colombia earthquake (august 10, 2026)",
+      "disasters and emergencies",
+      "de la espriella, abelardo",
+      "cali (colombia)",
+      "colombia",
+      "south america",
+      "earthquakes",
+      "united states geological survey"
+    ],
+    "collectedAt": "2026-08-11T08:15:03.078Z"
+  },
+  {
+    "title": "Zohran Mamdani Rebuked by Israeli Diplomat for Using 'Same Words' as Nazis",
+    "description": "\"Mind your own business! Find solutions to the terrible traffic issues here,\" Israel's consul general told Newsweek of Mamdani.",
+    "link": "https://www.newsweek.com/zohran-mamdani-rebuked-by-israeli-diplomat-for-using-same-words-as-nazis-12294886",
+    "pubDate": "Tue, 11 Aug 2026 04:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-11T08:15:03.078Z"
+  },
+  {
+    "title": "Amber heat health alerts in place for almost all of England as next heatwave hits",
+    "description": "The amber alerts are in place until Friday evening to cover high and even extreme temperatures expected through this week.",
+    "link": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 11 Aug 2026 08:00:06 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-11T08:15:03.078Z"
   }
 ]
