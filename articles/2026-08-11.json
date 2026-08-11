@@ -642,5 +642,58 @@
     "source": "BBC News",
     "categories": [],
     "collectedAt": "2026-08-11T08:15:05.791Z"
+  },
+  {
+    "title": "Congo says 2,000 people have died in Ebola outbreak, the fastest growing on record",
+    "description": "Congo's Ebola outbreak has recorded at least 2,000 deaths among confirmed cases, the fastest growing on record",
+    "link": "https://abcnews.com/Health/wireStory/congo-2000-people-died-ebola-outbreak-fastest-growing-135537126",
+    "pubDate": "Tue, 11 Aug 2026 04:05:31 -0400",
+    "source": "ABC News",
+    "categories": [
+      "health"
+    ],
+    "collectedAt": "2026-08-11T08:30:02.725Z"
+  },
+  {
+    "title": "Iran threat prompted secret Trump flight from Turkiye: Reports",
+    "description": "Trump reportedly used catering cart to switch planes, unbeknownst to the press pool and some White House staff.",
+    "link": "https://www.aljazeera.com/news/2026/8/11/iran-threat-prompted-secret-trump-flight-from-turkiye-reports?traffic_source=rss",
+    "pubDate": "Tue, 11 Aug 2026 08:18:08 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-11T08:30:02.725Z"
+  },
+  {
+    "title": "Indonesian officials race to contain wildfires as dozens of schools shut",
+    "description": "Cloud-seeding aircraft have been deployed as dozens of schools remain closed due to poor air quality.",
+    "link": "https://www.aljazeera.com/news/2026/8/11/indonesian-officials-race-to-contain-wildfires-as-dozens-of-schools-shut?traffic_source=rss",
+    "pubDate": "Tue, 11 Aug 2026 08:08:13 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-11T08:30:02.725Z"
+  },
+  {
+    "title": "What is the US spending all their war money on?",
+    "description": "Why is the US Pentagon asking for more money for the war on Iran?",
+    "link": "https://www.aljazeera.com/video/money-works/2026/8/11/what-is-the-us-spending-all-their-war-money-on?traffic_source=rss",
+    "pubDate": "Tue, 11 Aug 2026 08:04:59 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-08-11T08:30:02.725Z"
+  },
+  {
+    "title": "Australia and Vietnam deepen strategic partnership - Reuters",
+    "description": "Australia and Vietnam deepen strategic partnership  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX254N3gzaG5FbE5BNG9vT0wyblJ0cUQ0ZDl2RVIxSURmM3ljRGFqbzdqOFgtMktIcmJQYTlad2QxZENQQkw1UWI3ZDFxdnJmMHJzZE1QQW1iQ3ZJT2ZCUzVwTEFqNERJbEk2R3YxcEllZG9fVnVCbEM1MWxhS1F2T1hKVkJ0X0JzM3dJZnF4VWdOMEs3cUVyS3l3anY4djZqNUZR?oc=5",
+    "pubDate": "Tue, 11 Aug 2026 05:49:43 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-08-11T08:30:02.725Z"
   }
 ]
