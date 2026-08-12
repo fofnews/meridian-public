@@ -5273,5 +5273,332 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-12T15:15:02.381Z"
+  },
+  {
+    "title": "Los Angeles Lakers to be sold to Bob Iger, Josh Kushner for $12.5 billion",
+    "description": "The deal comes less than 1 year after Mark Walter purchased a majority stake from the Buss family for about $10 billion.",
+    "link": "https://www.cbsnews.com/news/los-angeles-lakers-sold-bob-iger-josh-kushner/",
+    "pubDate": "Wed, 12 Aug 2026 11:28:56 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-08-12T15:30:04.840Z"
+  },
+  {
+    "title": "NYC probes prediction markets over advertising practices",
+    "description": "New York City lawmakers allege that four major prediction markets engage in deceptive marketing practices and target young adults.",
+    "link": "https://www.cbsnews.com/news/nyc-investigates-polymarket-kalshi-prediction-markets/",
+    "pubDate": "Wed, 12 Aug 2026 11:26:54 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-08-12T15:30:04.840Z"
+  },
+  {
+    "title": "Dominic Sessa on playing 19-year-old Anthony Bourdain in new movie \"Tony\"",
+    "description": "Actor Dominic Sessa and renowned chef Eric Ripert talk with \"CBS Mornings\" about the new movie \"Tony,\" which is loosely based on Anthony Bourdain's stories of his first experience working in a kitchen restaurant before he found fame. Sessa describes how he got involved and Ripert, who one of Bourdain's best friends, talks about his relationship with the beloved chef.",
+    "link": "https://www.cbsnews.com/video/dominic-sessa-movie-tony-chef-anthony-bourdain/",
+    "pubDate": "Wed, 12 Aug 2026 11:06:50 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-08-12T15:30:04.840Z"
+  },
+  {
+    "title": "RFK Jr. Stirred Vaccine Fears in Pennsylvania Years Before Measles Outbreak",
+    "description": "At a speech in Lancaster County, Robert F. Kennedy mocked the threat of measles. Now local officials are racing to contain one of the largest outbreaks in the country.",
+    "link": "https://www.nytimes.com/2026/08/12/well/measles-pennsylvania-kennedy-vaccines.html",
+    "pubDate": "Wed, 12 Aug 2026 15:06:45 +0000",
+    "source": "NY Times",
+    "categories": [
+      "measles",
+      "vaccination and immunization",
+      "rumors and misinformation",
+      "disease rates",
+      "medicine and health"
+    ],
+    "collectedAt": "2026-08-12T15:30:04.840Z"
+  },
+  {
+    "title": "Birthright Citizen Marco Rubio Announces Birthright Citizenship Crackdown",
+    "description": "The Secretary of State, a birthright citizen, announced a crackdown on birth tourism, revoking more than 600 visas worldwide.",
+    "link": "https://www.newsweek.com/birthright-citizen-marco-rubio-announces-birthright-citizenship-crackdown-12314229",
+    "pubDate": "Wed, 12 Aug 2026 11:21:03 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-12T15:30:04.840Z"
+  },
+  {
+    "title": "Trump's Capital Gains Tax Proposal: These Americans Would Benefit",
+    "description": "Fox host Larry Kudlow said Trump had \"liked\" two potential changes to the existing capital gains tax framework.",
+    "link": "https://www.newsweek.com/trumps-capital-gains-tax-proposal-these-americans-would-benefit-12314179",
+    "pubDate": "Wed, 12 Aug 2026 11:18:31 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-12T15:30:04.840Z"
+  },
+  {
+    "title": "Listen to the Brits: The Democrats’ Lurch to the Left Will End in Tears | Opinion",
+    "description": "The Democratic Socialists of America are using the playbook of the UK's Jeremy Corbyn—that means optimism followed by defeat.",
+    "link": "https://www.newsweek.com/democratic-socialists-america-labour-mamdani-12313851",
+    "pubDate": "Wed, 12 Aug 2026 11:16:42 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-12T15:30:04.840Z"
+  },
+  {
+    "title": "US consumer inflation slows in July as energy prices briefly retreat",
+    "description": "Energy prices declined 1.5 percent in July but remain 14.7 percent higher compared with a year ago.",
+    "link": "https://www.aljazeera.com/economy/2026/8/12/us-consumer-inflation-slows-in-july-as-energy-prices-briefly-retreat?traffic_source=rss",
+    "pubDate": "Wed, 12 Aug 2026 15:08:31 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-12T15:30:04.840Z"
+  },
+  {
+    "title": "As Strait of Hormuz transit drops, Trump again says US has ‘control’",
+    "description": "Just eight vessels crossed strait on Tuesday, down from 130 to 140 prior to the war as peace talks stall.",
+    "link": "https://www.aljazeera.com/news/2026/8/12/as-strait-of-hormuz-transit-drops-trump-again-says-us-has-control?traffic_source=rss",
+    "pubDate": "Wed, 12 Aug 2026 15:07:41 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-12T15:30:04.840Z"
+  },
+  {
+    "title": "Investors worry leaner Fed guidance may come at a price - Reuters",
+    "description": "Investors worry leaner Fed guidance may come at a price  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUzF6bWRnZTAtRTVySFB0cnNKV1FtaDlUMlhpNVl4dmM1Vy1SQnBmem9MRVFISG1Ta1VicWtOWDlOdzFKWGRrS2hyWURSTlZQS1RRU0FfZk9nMUp6Wm45S3hKOEcxMUl1VW5iNWNBVEZhaVUtMkV2eU01WnJobTM2MnpYOUx5SlpmTlc0RUkwbXV3WHc5Y0g5dkxLMXpNSkJZODlwdDdB?oc=5",
+    "pubDate": "Wed, 12 Aug 2026 10:29:14 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-08-12T15:30:04.840Z"
+  },
+  {
+    "title": "WHO chief: US immunization changes ‘not aligned with decades of evidence’",
+    "description": "The head of the World Health Organization (WHO) criticized changes to the U.S.’s vaccine policy for children on Wednesday. “@WHO is concerned that recent changes to US immunization policy are not aligned with decades of evidence that show when children are most vulnerable to disease, when vaccines provide the strongest protection, how many doses are…",
+    "link": "https://thehill.com/policy/healthcare/6024939-who-chief-criticizes-trump-child-vaccine-order/",
+    "pubDate": "Wed, 12 Aug 2026 15:25:05 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "healthcare",
+      "news"
+    ],
+    "collectedAt": "2026-08-12T15:30:04.840Z"
+  },
+  {
+    "title": "FDA chief: Cyclospora ‘effectively removed from the market’",
+    "description": "The Food and Drug Administration (FDA) is assuring Americans that they should feel confident eating fresh produce again, seeking to ease concerns over the nation’s food supply after a cyclospora outbreak linked to iceberg lettuce spread across more than a dozen states. “We have the safest food supply in the world,” acting FDA Commissioner Kyle…",
+    "link": "https://thehill.com/policy/healthcare/6024953-taylor-farms-recall-food-safety/",
+    "pubDate": "Wed, 12 Aug 2026 15:24:48 +0000",
+    "source": "The Hill",
+    "categories": [
+      "healthcare",
+      "news"
+    ],
+    "collectedAt": "2026-08-12T15:30:04.840Z"
+  },
+  {
+    "title": "Human rights groups sue Trump administration over ICC sanctions",
+    "description": "Four human rights groups are suing the Trump administration over its economic pressure campaign against the International Criminal Court (ICC), arguing that sanctions against judges, prosecutors and others are unlawfully interfering with their international criminal justice work. The lawsuit was filed on Tuesday in New York by the American Friends Service Committee, the Center for…",
+    "link": "https://thehill.com/regulation/court-battles/6024836-human-rights-groups-sue-trump-icc-sanctions/",
+    "pubDate": "Wed, 12 Aug 2026 15:13:58 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "court battles",
+      "news"
+    ],
+    "collectedAt": "2026-08-12T15:30:04.840Z"
+  },
+  {
+    "title": "Mamdani's team said NYPD would accompany his wife on Middle East vacation — cops say that's not true",
+    "description": "The NYPD denied it would send officers to Syria and Lebanon with Rama Duwaji, contradicting Mayor Zohran Mamdani's office on the security detail.",
+    "link": "https://www.foxnews.com/politics/mamdanis-office-said-nypd-would-accompany-his-wife-middle-east-vacation-cops-say-thats-not-true",
+    "pubDate": "Wed, 12 Aug 2026 11:15:10 -0400",
+    "source": "Fox News",
+    "categories": [
+      "258895df-c45e-59a2-9501-0e5317e62785",
+      "fnc",
+      "fox news",
+      "fox-news/person/zohran-mamdani",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/politics",
+      "fox-news/us/new-york-city",
+      "fox-news/world/world-regions/middle-east",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-12T15:30:04.840Z"
+  },
+  {
+    "title": "Alex Rodriguez defends Dodgers' spending spree as likely lockout gets closer: 'I think it's great'",
+    "description": "Alex Rodriguez says the Los Angeles Dodgers aren't ruining baseball, comparing their spending to the New York Yankees' payroll dominance in the 2000s.",
+    "link": "https://www.foxnews.com/sports/alex-rodriguez-defends-dodgers-spending-spree-likely-lockout-gets-closer-think-its-great",
+    "pubDate": "Wed, 12 Aug 2026 11:14:08 -0400",
+    "source": "Fox News",
+    "categories": [
+      "f7e66ca9-6b3f-53de-8234-41424ec7b85b",
+      "fnc",
+      "fox news",
+      "fox-news/sports",
+      "fox-news/sports/mlb/new-york-yankees",
+      "fox-news/sports/mlb/los-angeles-dodgers",
+      "fox-news/sports/mlb",
+      "fox-news/us/economy/labor-unions",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-08-12T15:30:04.840Z"
+  },
+  {
+    "title": "Stunned Lakers fans react to blockbuster $12.5B sale: ‘Insane!’",
+    "description": "The monster sale of the Los Angeles Lakers flabbergasted fans and onlookers on Wednesday morning.",
+    "link": "https://nypost.com/2026/08/12/sports/stunned-lakers-fans-react-to-blockbuster-12-5b-sale-insane/",
+    "pubDate": "Wed, 12 Aug 2026 11:24:36 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-12T15:30:04.840Z"
+  },
+  {
+    "title": "Google unveils latest Pixel phones with slimmer cameras, more AI: Here’s how much they cost",
+    "description": "With the improvements, the search giant hopes to give users a reason to buy new models and expand the number of people using its AI tools.",
+    "link": "https://nypost.com/2026/08/12/business/googles-latest-pixel-phones-with-slimmer-cameras-more-ai/",
+    "pubDate": "Wed, 12 Aug 2026 11:22:59 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-12T15:30:04.840Z"
+  },
+  {
+    "title": "Cancer survivor Jenna Fischer sends love to fellow ‘Office’ star Lucy Davis after terminal diagnosis",
+    "description": "The 53-year-old announced via Instagram on Tuesday that she is battling \"Stage 4 Breast Cancer, which has metastasized to [her] bones.”",
+    "link": "https://pagesix.com/2026/08/12/celebrity-news/jenna-fischer-sends-love-to-fellow-office-star-lucy-davis-after-cancer-diagnosis/",
+    "pubDate": "Wed, 12 Aug 2026 11:22:58 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-12T15:30:04.840Z"
+  },
+  {
+    "title": "Kitchen goals: This 12-blade veggie chopper is over 40% off on Amazon right now",
+    "description": "We cooked up the perfect sale for fall eats.",
+    "link": "https://nypost.com/2026/08/12/shopping/this-12-blade-veggie-chopper-is-over-40-off-on-amazon-right-now/",
+    "pubDate": "Wed, 12 Aug 2026 11:22:32 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-12T15:30:04.840Z"
+  },
+  {
+    "title": "Cancel culture is back! Why cash-strapped Americans are purging costly streaming subscriptions",
+    "description": "You're canceled!",
+    "link": "https://nypost.com/2026/08/12/lifestyle/heres-what-consumers-are-canceling-in-2026/",
+    "pubDate": "Wed, 12 Aug 2026 11:20:26 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-12T15:30:04.840Z"
+  },
+  {
+    "title": "Trump calls Iran ‘all talk and no action,’ touts ‘Wall of Steel’ US Navy blockade as more oil flows out of Strait of Hormuz",
+    "description": "Trump claimed the US has \"total control\" of the Strait of Hormuz, touting a Navy \"Wall of Steel\" blockade as oil flows top 15 million barrels a day.",
+    "link": "https://nypost.com/2026/08/12/us-news/trump-calls-iran-all-talk-and-no-action-touts-wall-of-steel-us-navy-blockade/",
+    "pubDate": "Wed, 12 Aug 2026 11:19:30 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-12T15:30:04.840Z"
+  },
+  {
+    "title": "Hospital worker who wants child rape legalized had trove of baby porn: ‘Absolute worst I’ve ever seen",
+    "description": "Cops found child sex abuse material of victims as young as two months old on the pedophile's cell phone .",
+    "link": "https://nypost.com/2026/08/12/us-news/hospital-worker-who-wants-child-rape-legalized-had-trove-of-baby-porn-absolute-worst-ive-ever-seen/",
+    "pubDate": "Wed, 12 Aug 2026 11:19:09 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-12T15:30:04.840Z"
+  },
+  {
+    "title": "Home Depot CEO Ted Decker taking medical leave of absence",
+    "description": "The chief executive is expected to return within the next few months.",
+    "link": "https://nypost.com/2026/08/12/business/home-depot-ceo-ted-decker-taking-medical-leave-of-absence/",
+    "pubDate": "Wed, 12 Aug 2026 11:17:19 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-12T15:30:04.840Z"
+  },
+  {
+    "title": "Lakers’ stunning $12.5 billion sale sets record for most expensive in history",
+    "description": "The Lakers have been sold to American businessman Josh Kushner and Bob Iger for $12.5 billion, making it the largest franchise sale in sports history.  The stunning deal comes just 14 months after Mark Walter purchased the team at a record-setting valuation of $10 billion.  The Lakers sold for more than twice as much as...",
+    "link": "https://nypost.com/2026/08/12/sports/lakers-12-billion-sale-josh-kushner-largest-american-sports/",
+    "pubDate": "Wed, 12 Aug 2026 11:15:56 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-12T15:30:04.840Z"
+  },
+  {
+    "title": "Meghan Markle suffers awkward exchange with David Foster in viral video",
+    "description": "\"This was soooo obvious,\" one social media user commented of the tense exchange.",
+    "link": "https://pagesix.com/2026/08/12/royal-family/meghan-markle-suffers-awkward-exchange-with-david-foster-in-viral-video/",
+    "pubDate": "Wed, 12 Aug 2026 11:15:36 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-12T15:30:04.840Z"
+  },
+  {
+    "title": "Forget notebooks — these top-rated beer pong tables are the real back-to-school essentials",
+    "description": "The one back to school essential you probably missed",
+    "link": "https://nypost.com/article/best-beer-pong-tables/",
+    "pubDate": "Wed, 12 Aug 2026 11:15:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-12T15:30:04.840Z"
+  },
+  {
+    "title": "New York launches investigations into four major prediction market companies",
+    "description": "The New York City Council has opened an investigation into four major prediction market platforms, alleging they may be using false, deceptive, or abusive marketing tactics to target young people. City Council Speaker Julie Menin sent letters to Kalshi, Polymarket, Coinbase, and Gemini notifying the companies of the investigation and requesting information about their marketing […]",
+    "link": "https://www.washingtonexaminer.com/news/business/4684194/new-york-investigation-prediction-market-betting-wager-deceptive-marketing/",
+    "pubDate": "Wed, 12 Aug 2026 15:19:30 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "business",
+      "finance",
+      "financial markets",
+      "new york",
+      "new york city",
+      "predictions"
+    ],
+    "collectedAt": "2026-08-12T15:30:04.840Z"
+  },
+  {
+    "title": "AOC reportedly splits from longtime fiance",
+    "description": "Rep. Alexandria Ocasio-Cortez (D-NY) has reportedly split from her longtime fiance, Riley Roberts, ending their relationship of more than 10 years and their 2022 engagement. Ocasio-Cortez and Roberts broke up roughly two years ago and called off their engagement, according to Puck chief Washington correspondent Leigh Ann Caldwell. “Perhaps that’s why she’s freezing her eggs,” […]",
+    "link": "https://www.washingtonexaminer.com/news/4684230/aoc-reportedly-splits-fiance-riley-roberts/",
+    "pubDate": "Wed, 12 Aug 2026 15:17:28 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "alexandria ocasio-cortez",
+      "health",
+      "new york",
+      "relationships",
+      "women"
+    ],
+    "collectedAt": "2026-08-12T15:30:04.840Z"
+  },
+  {
+    "title": "Trump’s approval rating sinks to new low at 33%",
+    "description": "President Donald Trump’s approval rating has reached a new low, sitting at 33% approval and 62% disapproval, according to the latest YouGov/Economist poll. The one-third approval standing in early August is the lowest net job approval Trump has seen across his two terms as president, per the pollster. In the wake of the Trump administration’s […]",
+    "link": "https://www.washingtonexaminer.com/news/white-house/4684167/trump-approval-rating-new-low-62-percent-disapprove/",
+    "pubDate": "Wed, 12 Aug 2026 14:58:43 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "white house",
+      "2026 elections",
+      "approval ratings",
+      "donald trump",
+      "inflation",
+      "iran",
+      "polls",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-08-12T15:30:04.840Z"
   }
 ]
