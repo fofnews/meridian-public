@@ -328,5 +328,60 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-12T05:00:02.346Z"
+  },
+  {
+    "title": "Earthquake response strains Colombia's new government and rescuers",
+    "description": "The earthquake killed at least 181 people and left 2,595 injured, according to Colombian authorities. At least 195 remained missing, but civilian-run databases put that number closer to 4,000.",
+    "link": "https://www.npr.org/2026/08/12/g-s1-138315/colombia-earthquake-updates",
+    "pubDate": "Wed, 12 Aug 2026 01:13:06 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-08-12T05:15:01.361Z"
+  },
+  {
+    "title": "'Overwhelmed' probation officers warn  of early prison release crime risk",
+    "description": "England and Wales' probation services are already under \"unprecedented pressure\" - set to increase with the scheme, the chief inspector said.",
+    "link": "https://www.bbc.co.uk/news/articles/c39e3y1y2zjo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 12 Aug 2026 05:00:23 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-12T05:15:01.361Z"
+  },
+  {
+    "title": "More weather records broken as UK heat set to spike again",
+    "description": "Summer's record-breaking streak continues as the tally for days above 30C in the UK is broken.",
+    "link": "https://www.bbc.co.uk/weather/articles/c36dr3r3ny0o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 12 Aug 2026 05:09:55 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-12T05:15:01.361Z"
+  },
+  {
+    "title": "Military still risks failing victims, review finds",
+    "description": "Leaked internal review warns of continued concerns about a new unit investigating the most serious crimes.",
+    "link": "https://www.bbc.co.uk/news/articles/cwy4w62p6gvo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 12 Aug 2026 05:00:34 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-12T05:15:01.361Z"
+  },
+  {
+    "title": "Heroic Florida K-9 returns to sheriff's office days after being shot protecting 3 deputies, losing leg",
+    "description": "K-9 Ace, the Polk County German shepherd who lost a leg shielding three deputies, made an emotional return to the sheriff's office after recovering ahead of retirement.",
+    "link": "https://www.foxnews.com/us/heroic-florida-k9-returns-sheriffs-office-days-after-shot-protecting-deputies-losing-leg",
+    "pubDate": "Wed, 12 Aug 2026 01:02:34 -0400",
+    "source": "Fox News",
+    "categories": [
+      "d756e912-cb70-5481-8541-84cd1ffb07c8",
+      "fnc",
+      "fox news",
+      "fox-news/health/healthy-living/pet-health",
+      "fox-news/us/us-regions/southeast/florida",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/good-news",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-08-12T05:15:01.361Z"
   }
 ]
