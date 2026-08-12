@@ -965,7 +965,7 @@
         {
           "date": "2026-08-12",
           "edition": "evening",
-          "update": "Ukrainian President Zelenskyy announced a nighttime strike damaged Russia's Black Sea naval stronghold and separately stated Ukraine has retaken 745 square kilometers of territory in a 'precision' operation conducted in 2025. Ukraine attacked major Russian grain export terminals at a Black Sea port, with grain exports from both countries declining as they exchange attacks on each other's shipping facilities."
+          "update": "Ukrainian President Zelenskyy announced a nighttime strike damaged Russia's Black Sea naval stronghold, as reported by AP News. Ukrainian forces also attacked major Russian grain export terminals in a Black Sea port, according to BBC News. Zelenskyy separately announced Ukraine has retaken 745 square kilometers of territory through a 'precision' operation in 2025. Russia's economy faces mounting pressure from a widening budget deficit and Ukrainian infrastructure strikes, even as Middle East conflict has boosted its oil revenues, according to Al Jazeera."
         }
       ],
       "parentId": null
@@ -1430,7 +1430,7 @@
         {
           "date": "2026-08-12",
           "edition": "evening",
-          "update": "Israeli security forces withdrew from a West Bank village where approximately a dozen settlers remained, continuing to besiege two Palestinian families trapped at the site. Israeli troops separately clashed with settlers who were besieging Palestinian homes in the West Bank. Al Jazeera reported Israeli settlers spreading racist graffiti on Palestinian homes and schools in the West Bank."
+          "update": "Israeli troops clashed with settlers who were besieging Palestinian homes in the West Bank, according to Reuters, with Israeli security forces having withdrawn from a village where approximately a dozen settlers remained, continuing a siege against two Palestinian families. Al Jazeera reported Israeli settlers have been leaving racist graffiti on Palestinian homes and schools, including messages such as 'burn in hell.'"
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2015,7 +2015,7 @@
         {
           "date": "2026-08-12",
           "edition": "evening",
-          "update": "Trump stated the ceasefire in Lebanon is working, while Washington Post reporting described residents characterizing the situation as feeling like a 'prison.' Lebanon's parliament passed a long-sought amnesty law reducing certain prison sentences, one day after the country repealed the death penalty."
+          "update": "Lebanon's parliament passed a long-sought amnesty law that will reduce certain prison terms, coming one day after the country repealed the death penalty. Residents described conditions in Lebanon as living in a 'prison' despite Trump's characterization of the ceasefire as working, according to the Washington Post."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2845,7 +2845,7 @@
         {
           "date": "2026-08-12",
           "edition": "evening",
-          "update": "Senate Minority Leader Chuck Schumer formally demanded the Trump administration brief lawmakers on the Secret Service's use of a decoy plane in Turkey, citing concerns about Iranian threats against the President. Newsmax reported that Iran reportedly knew Trump's location prior to the security ruse. White House aides Natalie Harp and Dan Scavino were identified as among the officials who traveled with Trump on the military jet, while lawmakers raised concerns about staffers and journalists left aboard the decoy aircraft during the threat. IRGC advisers claimed Iran has replaced more missiles and drones than it has expended in the conflict. July CPI data showed inflation rose 0.1 percent, with the annual rate declining to 3.4 percent from 3.5 percent in June, driven partly by falling energy prices, though the Federal Reserve is still considering further rate increases."
+          "update": "A senior Iranian official told Reuters that Iran and the US are not currently discussing a ceasefire extension, and Iran reported no progress in efforts to revive an interim peace deal. Iranian Revolutionary Guard Corps advisers claimed Iran has replenished more missiles and drones than it expended in operations, while citing declining US munition stockpiles, as Iran vowed to continue fighting until its demands are met. Iranian Quds Force commander Esmail Qaani visited Iraq and held meetings to discuss the Iraqi government's plan to disarm armed groups and bring weapons under state control. Senate Democratic Leader Chuck Schumer demanded the Trump administration brief lawmakers on the decoy plane operation, while questions were raised about White House staffers and journalists left aboard the decoy aircraft; Newsmax reported Iran reportedly knew Trump's location before the ruse was employed. White House aides Natalie Harp and Dan Scavino traveled with Trump on the secret military jet out of Turkey. The US Bureau of Labor Statistics reported the Consumer Price Index rose 0.1 percent in July, with annual inflation declining to 3.4 percent from 3.5 percent in June."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3650,7 +3650,7 @@
         {
           "date": "2026-08-12",
           "edition": "evening",
-          "update": "North Korea's missile launch was its second ballistic missile test in less than a week and was conducted ahead of scheduled U.S.-South Korea joint military exercises, which Pyongyang has condemned as a rehearsal for invasion."
+          "update": "The US demanded that China provide advance missile launch warnings following a test launch the previous month that alarmed Pacific nations. North Korea fired an additional missile ahead of planned US-South Korea military drills, which Pyongyang has condemned as a rehearsal for invasion."
         }
       ],
       "parentId": null
@@ -3703,7 +3703,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-08-12",
+      "lastSeen": "2026-08-11",
       "active": true,
       "entries": [
         {
@@ -3935,11 +3935,6 @@
           "date": "2026-08-11",
           "edition": "evening",
           "update": "Pakistan's government stated that the U.S. and Iran are close to reaching 'some sort' of deal, despite ongoing attacks on shipping in the region."
-        },
-        {
-          "date": "2026-08-12",
-          "edition": "evening",
-          "update": "A senior Iranian official stated that Iran and the U.S. are not in discussions about extending a ceasefire, and Iran reported no progress in efforts to revive an interim peace deal with the United States, according to Reuters. Senior Iranian Quds Force commander Esmail Qaani visited Iraq to hold meetings regarding the Iraqi government's plan to disarm armed groups and bring weapons under state control."
         }
       ]
     },
@@ -4559,7 +4554,7 @@
         {
           "date": "2026-08-12",
           "edition": "evening",
-          "update": "Gulf oil exporters are investing billions of dollars in infrastructure to develop alternative export routes bypassing the Strait of Hormuz, reflecting concern over the strait's strategic vulnerability. Analysts warned that ongoing Houthi attacks on Red Sea shipping could prompt Washington to forge closer ties with Somaliland amid concerns over Djibouti's reliability and China's expanding regional presence."
+          "update": "Gulf oil exporters are investing billions of dollars in infrastructure to create alternative export routes bypassing the Strait of Hormuz, reflecting growing concerns about the waterway's strategic vulnerability, according to the NY Times. Analysts told Fox News that Houthi attacks on Red Sea shipping may prompt the US to forge closer ties with Somaliland amid concerns over Djibouti's reliability and China's expanding presence in the region."
         }
       ]
     },
@@ -4638,7 +4633,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-08-10",
+      "lastSeen": "2026-08-12",
       "active": true,
       "entries": [
         {
@@ -4810,6 +4805,11 @@
           "date": "2026-08-10",
           "edition": "evening",
           "update": "The World Health Organization warned that the Ebola virus is outpacing containment efforts in the DRC, with high infection rates indicating authorities are struggling to control the spread of the disease."
+        },
+        {
+          "date": "2026-08-12",
+          "edition": "evening",
+          "update": "The Ebola outbreak in the Democratic Republic of Congo has surpassed 2,000 deaths, though experts indicate the risk to Americans remains very low."
         }
       ]
     },
@@ -4908,7 +4908,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-11",
+      "lastSeen": "2026-08-12",
       "active": true,
       "entries": [
         {
@@ -5025,6 +5025,11 @@
           "date": "2026-08-11",
           "edition": "morning",
           "update": "Trump stated his relationship with Netanyahu remains good despite Israel's rejection of the Gaza peace plan, as the NY Times reported Trump is seeking to declare success in both Iran and Gaza but struggling to impose his will on either conflict. Al Jazeera highlighted ongoing tensions between Trump and Netanyahu over compliance with the Gaza plan. Colombia's government recognized Israel's claim over the Golan Heights, making it only the second country to do so over the illegally annexed territory."
+        },
+        {
+          "date": "2026-08-12",
+          "edition": "evening",
+          "update": "Saudi Arabia is pursuing defensive alliances as a deterrence strategy, according to Reuters, with the kingdom relying on security partnerships to prevent escalation into war."
         }
       ]
     },
@@ -5149,5 +5154,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-12T21:11:39.307Z"
+  "updatedAt": "2026-08-12T21:11:59.890Z"
 }
