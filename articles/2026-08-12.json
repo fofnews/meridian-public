@@ -883,5 +883,76 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-12T08:00:02.278Z"
+  },
+  {
+    "title": "In Wisconsin, David Crowley defeats Francesca Hong in Democratic primary for governor",
+    "description": "David Crowley is the Milwaukee County Executive and could become the state's first Black governor. He narrowly defeated Francesca Hong, a democratic socialist who drew enthusiastic support.",
+    "link": "https://www.npr.org/2026/08/12/nx-s1-5927119/2026-minnesota-governor-primary-election-crowley-hong",
+    "pubDate": "Wed, 12 Aug 2026 04:06:55 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-08-12T08:15:02.406Z"
+  },
+  {
+    "title": "Map Shows Where California Is Quickly Sinking Amid US Water Crisis",
+    "description": "California's Sacramento Valley sank by up to 1.5 feet during drought, raising fears of permanent groundwater loss.",
+    "link": "https://www.newsweek.com/map-shows-where-california-is-quickly-sinking-amid-us-water-crisis-12312393",
+    "pubDate": "Wed, 12 Aug 2026 04:03:57 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-12T08:15:02.406Z"
+  },
+  {
+    "title": "AOC Is Freezing Her Eggs. But Who Gets That Choice? | Opinion",
+    "description": "AOC made her reproductive choice public, now policymakers should ensure equality for that choice.",
+    "link": "https://www.newsweek.com/aoc-is-freezing-her-eggs-but-who-gets-that-choice-opinion-12309125",
+    "pubDate": "Wed, 12 Aug 2026 04:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-12T08:15:02.406Z"
+  },
+  {
+    "title": "Taiwan’s Foxconn reports 35 percent rise in profit on AI demand",
+    "description": "World's largest contract electronics maker forecasts strong growth in 2026 amid AI boom.",
+    "link": "https://www.aljazeera.com/economy/2026/8/12/taiwans-foxconn-reports-35-percent-rise-in-profit-on-ai-demand?traffic_source=rss",
+    "pubDate": "Wed, 12 Aug 2026 07:58:04 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-12T08:15:02.406Z"
+  },
+  {
+    "title": "Three killed in overnight attacks on Russian, Ukrainian port cities",
+    "description": "Russia's Novorossiysk 'endured a horrific night', with a child killed and dozens of buildings damaged, says local mayor.",
+    "link": "https://www.aljazeera.com/news/2026/8/12/three-killed-in-overnight-attacks-on-russian-ukrainian-port?traffic_source=rss",
+    "pubDate": "Wed, 12 Aug 2026 07:49:22 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-12T08:15:02.406Z"
+  },
+  {
+    "title": "Primary takeaways: Dems’ left-center battle intensifies as Schumer takes another hit; split decision for Trump",
+    "description": "Democratic Senate Leader Sen. Chuck Schumer suffers a second straight primary setback as Peggy Flanagan wins Minnesota's Senate nomination by 20 points.",
+    "link": "https://www.foxnews.com/politics/primary-takeaways-dems-left-center-battle-intensifies-schumer-takes-another-hit-split-decision-trump",
+    "pubDate": "Wed, 12 Aug 2026 04:00:20 -0400",
+    "source": "Fox News",
+    "categories": [
+      "2bf9d6ac-0044-50da-95d8-52f07321d99e",
+      "fnc",
+      "fox news",
+      "fox-news/person/bernie-sanders",
+      "fox-news/person/chuck-schumer",
+      "fox-news/person/donald-trump",
+      "fox-news/us/democratic-party",
+      "fox-news/democrats",
+      "fox-news/politics/elections/republicans",
+      "fox-news/politics/elections/midterm-elections",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-12T08:15:02.406Z"
   }
 ]
