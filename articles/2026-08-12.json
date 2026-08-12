@@ -981,5 +981,52 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-12T08:30:02.048Z"
+  },
+  {
+    "title": "Four takeaways from Tuesday's primaries in six states",
+    "description": "Voters in half a dozen states went to the polls Tuesday, and results highlight the ongoing conflicts within both parties ahead of the November midterms.",
+    "link": "https://www.npr.org/2026/08/12/nx-s1-5928112/four-takeaways-primaries-six-states",
+    "pubDate": "Wed, 12 Aug 2026 04:35:50 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-08-12T08:45:02.335Z"
+  },
+  {
+    "title": "Strait of Hormuz traffic falls to new low as Iran-backed group kills 6 in Red Sea",
+    "description": "The conflict between the U.S. and Iran has spread to the Red Sea and another strategic shipping route.",
+    "link": "https://www.cbsnews.com/live-updates/iran-war-us-donald-trump-strait-hormuz-traffic-falls-houthis-kill-red-sea/",
+    "pubDate": "Wed, 12 Aug 2026 04:43:39 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-08-12T08:45:02.335Z"
+  },
+  {
+    "title": "Map of 34 States Who Have Ended 'Orphan Tax' on Social Security",
+    "description": "\"When a parent dies, those benefits are meant to help their child—not reimburse the government,\" Robert F. Kennedy Jr. said.",
+    "link": "https://www.newsweek.com/map-34-states-ended-orphan-tax-social-security-12312360",
+    "pubDate": "Wed, 12 Aug 2026 04:41:25 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-12T08:45:02.335Z"
+  },
+  {
+    "title": "FBI touts 6,000 arrests, 44% homicide drop one year into Trump's DC crime crackdown",
+    "description": "FBI Director Kash Patel says the Washington, D.C., crime crackdown yielded over 6,000 arrests and 1,300 illegal firearm seizures in one year.",
+    "link": "https://www.foxnews.com/politics/fbi-touts-6000-arrests-44-homicide-drop-one-year-trumps-dc-crime-crackdown",
+    "pubDate": "Wed, 12 Aug 2026 04:30:14 -0400",
+    "source": "Fox News",
+    "categories": [
+      "78de244f-983e-52ab-bb66-0cab677a624c",
+      "fnc",
+      "fox news",
+      "fox-news/us/washington-dc",
+      "fox-news/politics/justice-department",
+      "fox-news/person/kash-patel",
+      "fox-news/tech/topics/fbi",
+      "fox-news/crime",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-12T08:45:02.335Z"
   }
 ]
