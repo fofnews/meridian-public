@@ -454,7 +454,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-11",
+      "lastSeen": "2026-08-12",
       "active": true,
       "entries": [
         {
@@ -956,6 +956,11 @@
           "date": "2026-08-11",
           "edition": "evening",
           "update": "Russia is set to hold its first parliamentary elections since the start of the full-scale invasion of Ukraine more than four years ago. Russia's Sibur petrochemical plant in western Siberia was shut down following a drone attack, according to Reuters sources."
+        },
+        {
+          "date": "2026-08-12",
+          "edition": "morning",
+          "update": "Ukraine halted strikes on tankers using a Russian port at the request of the United States, according to the Financial Times. Russia's Novorossiysk grain terminal suspended operations following a Ukrainian drone attack, according to an industry source cited by Reuters."
         }
       ],
       "parentId": null
@@ -2004,7 +2009,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-11",
+      "lastSeen": "2026-08-12",
       "active": true,
       "entries": [
         {
@@ -2816,6 +2821,11 @@
           "date": "2026-08-11",
           "edition": "evening",
           "update": "Three U.S. soldiers were killed in Jordan in an Iranian strike, underscoring Iran's evolved war-fighting capabilities and further straining already critically depleted Pentagon interceptor stockpiles. Former Defense Secretary Mark Esper stated the Trump administration appears to be on its 'back foot' strategically despite significant damage inflicted on Iran by U.S. strikes. Trump stated that U.S. options regarding Iran are to let Tehran fail economically or to 'hit them really hard.' Questions arose over the safety of a Qatar-donated jet proposed for use by Trump, with critics noting it lacks the standard security measures of Air Force One even as Trump praised its luxury. The Washington Post drew comparisons between Trump's use of a decoy aircraft as a deception tactic and a similar maneuver by Clinton involving Pakistan, noting one key distinction between the two episodes."
+        },
+        {
+          "date": "2026-08-12",
+          "edition": "morning",
+          "update": "Trump publicly addressed the aircraft switch for the first time on Tuesday, stating the decision was made at the request of the Secret Service and military, adding that his alternate plane faced 'greater risk' than the decoy Air Force One. Senior officials including Secretary of State Rubio, Treasury Secretary Bessent, and senior adviser Stephen Miller remained aboard the decoy Air Force One alongside journalists and government employees while Trump secretly departed separately. A Washington Post reporter broke a 26-year silence to speak about a briefing that preceded a similar plane swap involving President Clinton. U.S. forces fired missiles at and disabled a Panama-flagged cargo ship attempting to sail toward an Iranian port in violation of the blockade, according to Al Jazeera. A series of cyberattacks targeting U.S. water systems has raised concerns about a new front in the conflict with Iran, according to NPR. Oil and gold prices rose amid mounting geopolitical tensions as markets also awaited upcoming U.S. CPI data."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3554,7 +3564,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-08-11",
+      "lastSeen": "2026-08-12",
       "active": true,
       "entries": [
         {
@@ -3611,6 +3621,11 @@
           "date": "2026-08-11",
           "edition": "evening",
           "update": "North Korea has deployed an expeditionary force in support of Russia's war effort in Europe, with the National Review reporting the DPRK's commitments are described as significant, though specific details about the force's leadership and composition remain under scrutiny."
+        },
+        {
+          "date": "2026-08-12",
+          "edition": "morning",
+          "update": "North Korea fired a ballistic missile toward the sea, with Japan's Defense Ministry and South Korea's military both confirming the launch, as reported by ABC News and Reuters respectively."
         }
       ],
       "parentId": null
@@ -3640,7 +3655,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-11",
+      "lastSeen": "2026-08-12",
       "active": true
     },
     {
@@ -4123,7 +4138,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-07-29",
+      "lastSeen": "2026-08-12",
       "active": true,
       "entries": [
         {
@@ -4165,6 +4180,11 @@
           "date": "2026-07-29",
           "edition": "evening",
           "update": "Discussions at the White House meeting between Trump and Zelensky focused on licenses for Patriot interceptor missiles and diplomatic efforts related to the war, with both leaders describing the meeting positively."
+        },
+        {
+          "date": "2026-08-12",
+          "edition": "morning",
+          "update": "Ukrainian President Zelenskyy announced that Ukraine has submitted formal war-ending proposals to the United States, while also claiming Russia intends to use its upcoming election as a pretext to declare a new military mobilization."
         }
       ]
     },
@@ -4173,7 +4193,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-08-11",
+      "lastSeen": "2026-08-12",
       "active": true,
       "entries": [
         {
@@ -4500,6 +4520,11 @@
           "date": "2026-08-11",
           "edition": "evening",
           "update": "Oil prices rose to $90 a barrel as the Hormuz stalemate deepened and commercial shipping traffic in the strait dwindled further, according to the NY Times. Iranian Foreign Minister Araghchi reiterated Tuesday that Iran will not reopen the strait until the U.S. meets its conditions, as Trump separately demanded compensation from Iran for 'all of the people that they have killed.' A U.S. military helicopter fired on a merchant vessel's rudder to disable it after the crew ignored multiple warnings while attempting to cross the U.S. blockade, according to a U.S. official cited by the Wall Street Journal."
+        },
+        {
+          "date": "2026-08-12",
+          "edition": "morning",
+          "update": "The IEA cut its 2026 oil supply forecast as uncertainty over the Strait of Hormuz reopening persisted, according to Reuters. Shipping traffic through the strait fell to a one-week low amid ongoing hostilities. Iran's top security official reiterated that the strait will not reopen until U.S. conditions are met, as Pakistan's Naqvi visited Tehran. In the Bab al-Mandeb strait, an Egyptian-owned cargo vessel named Tihamah was set ablaze in a Houthi attack, killing six people and wounding ten — marking the first shipping deaths linked to the Houthis since the outbreak of the US-Iran conflict, according to Yemen's government and Al Jazeera."
         }
       ]
     },
@@ -5089,5 +5114,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-11T21:08:05.048Z"
+  "updatedAt": "2026-08-12T11:08:56.128Z"
 }
