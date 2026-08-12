@@ -961,6 +961,11 @@
           "date": "2026-08-12",
           "edition": "morning",
           "update": "Ukraine halted strikes on tankers using a Russian port following a request from the United States, according to the Financial Times. Russia's Novorossiysk grain terminal suspended operations after a Ukrainian drone attack, according to an industry source cited by Reuters."
+        },
+        {
+          "date": "2026-08-12",
+          "edition": "evening",
+          "update": "Ukrainian President Zelenskyy announced a nighttime strike damaged Russia's Black Sea naval stronghold and separately stated Ukraine has retaken 745 square kilometers of territory in a 'precision' operation conducted in 2025. Ukraine attacked major Russian grain export terminals at a Black Sea port, with grain exports from both countries declining as they exchange attacks on each other's shipping facilities."
         }
       ],
       "parentId": null
@@ -1149,7 +1154,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-07",
+      "lastSeen": "2026-08-12",
       "active": true,
       "entries": [
         {
@@ -1421,6 +1426,11 @@
           "date": "2026-08-07",
           "edition": "morning",
           "update": "Israeli forces conducted a raid in Qalandiya in the West Bank, injuring 51 Palestinians and arresting dozens near Jerusalem, according to Al Jazeera."
+        },
+        {
+          "date": "2026-08-12",
+          "edition": "evening",
+          "update": "Israeli security forces withdrew from a West Bank village where approximately a dozen settlers remained, continuing to besiege two Palestinian families trapped at the site. Israeli troops separately clashed with settlers who were besieging Palestinian homes in the West Bank. Al Jazeera reported Israeli settlers spreading racist graffiti on Palestinian homes and schools in the West Bank."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1584,7 +1594,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-11",
+      "lastSeen": "2026-08-12",
       "active": true,
       "entries": [
         {
@@ -2001,6 +2011,11 @@
           "date": "2026-08-11",
           "edition": "evening",
           "update": "The future of UNIFIL peacekeeping operations in southern Lebanon is uncertain, with missions potentially shrinking significantly and creating security gaps as political solutions remain elusive, according to Al Jazeera. Al Jazeera documented Lebanese first responders continuing emergency operations amid intensifying Israeli attacks."
+        },
+        {
+          "date": "2026-08-12",
+          "edition": "evening",
+          "update": "Trump stated the ceasefire in Lebanon is working, while Washington Post reporting described residents characterizing the situation as feeling like a 'prison.' Lebanon's parliament passed a long-sought amnesty law reducing certain prison sentences, one day after the country repealed the death penalty."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2826,6 +2841,11 @@
           "date": "2026-08-12",
           "edition": "morning",
           "update": "US forces fired missiles at a Panama-flagged cargo ship to disable it after it attempted to sail toward an Iranian port in violation of the U.S.-enforced blockade, according to Al Jazeera. Secretary of State Rubio, Treasury Secretary Bessent, and senior adviser Stephen Miller were aboard the decoy Air Force One that continued flying after Trump secretly disembarked in Turkey, according to the NY Times. Trump stated he believed his secret flight carried greater risk than the decoy aircraft, and ABC News published an analysis on how covert presidential travel deception has become integral to Secret Service protective methodology. Cyberattacks targeted U.S. water systems, according to NPR, exposing critical infrastructure vulnerabilities amid the ongoing conflict."
+        },
+        {
+          "date": "2026-08-12",
+          "edition": "evening",
+          "update": "Senate Minority Leader Chuck Schumer formally demanded the Trump administration brief lawmakers on the Secret Service's use of a decoy plane in Turkey, citing concerns about Iranian threats against the President. Newsmax reported that Iran reportedly knew Trump's location prior to the security ruse. White House aides Natalie Harp and Dan Scavino were identified as among the officials who traveled with Trump on the military jet, while lawmakers raised concerns about staffers and journalists left aboard the decoy aircraft during the threat. IRGC advisers claimed Iran has replaced more missiles and drones than it has expended in the conflict. July CPI data showed inflation rose 0.1 percent, with the annual rate declining to 3.4 percent from 3.5 percent in June, driven partly by falling energy prices, though the Federal Reserve is still considering further rate increases."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3626,6 +3646,11 @@
           "date": "2026-08-12",
           "edition": "morning",
           "update": "North Korea launched a ballistic missile — its second such test in less than a week — toward the sea, as reported by Japan's Defense Ministry and confirmed by the South Korean military via Reuters. The launches coincide with preparations by the United States and South Korea for upcoming joint military exercises."
+        },
+        {
+          "date": "2026-08-12",
+          "edition": "evening",
+          "update": "North Korea's missile launch was its second ballistic missile test in less than a week and was conducted ahead of scheduled U.S.-South Korea joint military exercises, which Pyongyang has condemned as a rehearsal for invasion."
         }
       ],
       "parentId": null
@@ -3678,7 +3703,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-08-11",
+      "lastSeen": "2026-08-12",
       "active": true,
       "entries": [
         {
@@ -3910,6 +3935,11 @@
           "date": "2026-08-11",
           "edition": "evening",
           "update": "Pakistan's government stated that the U.S. and Iran are close to reaching 'some sort' of deal, despite ongoing attacks on shipping in the region."
+        },
+        {
+          "date": "2026-08-12",
+          "edition": "evening",
+          "update": "A senior Iranian official stated that Iran and the U.S. are not in discussions about extending a ceasefire, and Iran reported no progress in efforts to revive an interim peace deal with the United States, according to Reuters. Senior Iranian Quds Force commander Esmail Qaani visited Iraq to hold meetings regarding the Iraqi government's plan to disarm armed groups and bring weapons under state control."
         }
       ]
     },
@@ -4525,6 +4555,11 @@
           "date": "2026-08-12",
           "edition": "morning",
           "update": "A Houthi strike on the Egyptian-owned cargo vessel Tihamah in the Bab al-Mandeb strait killed six people and wounded 10, marking the first lethal Houthi attack on shipping since the outbreak of the US-Iran conflict, according to Yemen's government and the Washington Examiner. The vessel was set ablaze, with footage circulating showing the ship in flames. The IEA cut its 2026 oil supply forecast as the Strait of Hormuz reopening remains elusive, according to Reuters. Iran's top security official again declared the strait will not reopen unless the U.S. meets Tehran's conditions, as Pakistan's Naqvi visited Tehran."
+        },
+        {
+          "date": "2026-08-12",
+          "edition": "evening",
+          "update": "Gulf oil exporters are investing billions of dollars in infrastructure to develop alternative export routes bypassing the Strait of Hormuz, reflecting concern over the strait's strategic vulnerability. Analysts warned that ongoing Houthi attacks on Red Sea shipping could prompt Washington to forge closer ties with Somaliland amid concerns over Djibouti's reliability and China's expanding regional presence."
         }
       ]
     },
@@ -5114,5 +5149,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-12T11:10:18.058Z"
+  "updatedAt": "2026-08-12T21:11:39.307Z"
 }
