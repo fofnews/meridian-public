@@ -91,5 +91,54 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-13T04:30:05.411Z"
+  },
+  {
+    "title": "$1.04 billion Powerball jackpot won in Illinois",
+    "description": "Wednesday's jackpot was the eighth-largest in Powerball history.",
+    "link": "https://www.cbsnews.com/news/powerball-jackpot-drawing-tonight-1-billion/",
+    "pubDate": "Thu, 13 Aug 2026 00:38:00 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-08-13T04:45:01.493Z"
+  },
+  {
+    "title": "Search efforts in Colombia enter ‘final phase’ as quake toll reaches 265",
+    "description": "President de La Espriella promises to set up an emergency fund to help rebuild destroyed hospitals and schools.",
+    "link": "https://www.aljazeera.com/news/2026/8/13/search-efforts-in-colombia-enter-final-phase-as-quake-toll-reaches-265?traffic_source=rss",
+    "pubDate": "Thu, 13 Aug 2026 04:26:46 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-13T04:45:01.493Z"
+  },
+  {
+    "title": "Oman says oil spill from stricken tanker has reached its coast",
+    "description": "Up to 40km of coastline affected by oil pollution, Omani environmental authority says.",
+    "link": "https://www.aljazeera.com/economy/2026/8/13/oman-says-oil-spill-from-stricken-tanker-has-reached-its-coast?traffic_source=rss",
+    "pubDate": "Thu, 13 Aug 2026 04:26:11 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-13T04:45:01.493Z"
+  },
+  {
+    "title": "Yankees’ Spencer Jones swinging hot bat after returning to ‘chill bird’ self",
+    "description": "Spencer Jones described himself as a “chill bird.” In his first stint in The Bronx, though, he acted differently than that description.",
+    "link": "https://nypost.com/2026/08/13/sports/yankees-spencer-jones-swinging-hot-bat-after-returning-to-chill-bird-self/",
+    "pubDate": "Thu, 13 Aug 2026 00:31:10 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-13T04:45:01.493Z"
+  },
+  {
+    "title": "Will Warren lets emotions gets the best of him in rocky Yankees start",
+    "description": "After a rough outing, Will Warren blamed his emotions more than his pitches.",
+    "link": "https://nypost.com/2026/08/13/sports/will-warren-lets-emotions-gets-best-of-him-in-rocky-yankees-start/",
+    "pubDate": "Thu, 13 Aug 2026 00:31:09 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-13T04:45:01.493Z"
   }
 ]
