@@ -454,7 +454,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-12",
+      "lastSeen": "2026-08-13",
       "active": true,
       "entries": [
         {
@@ -966,6 +966,11 @@
           "date": "2026-08-12",
           "edition": "evening",
           "update": "Ukrainian President Zelenskyy announced a nighttime strike damaged Russia's Black Sea naval stronghold, as reported by AP News. Ukrainian forces also attacked major Russian grain export terminals in a Black Sea port, according to BBC News. Zelenskyy separately announced Ukraine has retaken 745 square kilometers of territory through a 'precision' operation in 2025. Russia's economy faces mounting pressure from a widening budget deficit and Ukrainian infrastructure strikes, even as Middle East conflict has boosted its oil revenues, according to Al Jazeera."
+        },
+        {
+          "date": "2026-08-13",
+          "edition": "morning",
+          "update": "Nobel Peace Prize laureate Dmitry Muratov told BBC News that Vladimir Putin can no longer claim victory in Ukraine, stating the Russian leader can only 'destroy Ukraine, not conquer it.' Russia's blockade of major Ukrainian ports is threatening global grain supplies, according to the NY Times."
         }
       ],
       "parentId": null
@@ -2024,7 +2029,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-12",
+      "lastSeen": "2026-08-13",
       "active": true,
       "entries": [
         {
@@ -2846,6 +2851,11 @@
           "date": "2026-08-12",
           "edition": "evening",
           "update": "A senior Iranian official told Reuters that Iran and the US are not currently discussing a ceasefire extension, and Iran reported no progress in efforts to revive an interim peace deal. Iranian Revolutionary Guard Corps advisers claimed Iran has replenished more missiles and drones than it expended in operations, while citing declining US munition stockpiles, as Iran vowed to continue fighting until its demands are met. Iranian Quds Force commander Esmail Qaani visited Iraq and held meetings to discuss the Iraqi government's plan to disarm armed groups and bring weapons under state control. Senate Democratic Leader Chuck Schumer demanded the Trump administration brief lawmakers on the decoy plane operation, while questions were raised about White House staffers and journalists left aboard the decoy aircraft; Newsmax reported Iran reportedly knew Trump's location before the ruse was employed. White House aides Natalie Harp and Dan Scavino traveled with Trump on the secret military jet out of Turkey. The US Bureau of Labor Statistics reported the Consumer Price Index rose 0.1 percent in July, with annual inflation declining to 3.4 percent from 3.5 percent in June."
+        },
+        {
+          "date": "2026-08-13",
+          "edition": "morning",
+          "update": "A Pentagon review found that U.S. strikes in Yemen killed 153 civilians in 2025 during the campaign against the Houthis, according to an unclassified report reviewed by Al Jazeera. Defense Secretary Hegseth warned the International Criminal Court may investigate American military boat strikes targeting drug cartels in Latin America, while announcing Colombia has joined a regional military coalition. ABC News reported that Trump announced 'major combat operations' against Iran on February 28, initiated through massive joint U.S.-Israeli strikes, with Iranian Foreign Minister Araghchi stating the U.S. 'miscalculated' due to intelligence 'failures.' Diplomatic efforts to end the conflict have repeatedly stalled, with each instance of apparent progress disrupted, according to The Hill."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3680,7 +3690,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-12",
+      "lastSeen": "2026-08-13",
       "active": true
     },
     {
@@ -4218,7 +4228,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-08-12",
+      "lastSeen": "2026-08-13",
       "active": true,
       "entries": [
         {
@@ -4555,6 +4565,11 @@
           "date": "2026-08-12",
           "edition": "evening",
           "update": "Gulf oil exporters are investing billions of dollars in infrastructure to create alternative export routes bypassing the Strait of Hormuz, reflecting growing concerns about the waterway's strategic vulnerability, according to the NY Times. Analysts told Fox News that Houthi attacks on Red Sea shipping may prompt the US to forge closer ties with Somaliland amid concerns over Djibouti's reliability and China's expanding presence in the region."
+        },
+        {
+          "date": "2026-08-13",
+          "edition": "morning",
+          "update": "Tehran asserted that the Strait of Hormuz is 'under Iran's control and management,' while President Trump claimed the United States has 'total control' over the waterway, resulting in a public exchange of opposing control claims between the two countries."
         }
       ]
     },
@@ -4633,7 +4648,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-08-12",
+      "lastSeen": "2026-08-13",
       "active": true,
       "entries": [
         {
@@ -4810,6 +4825,11 @@
           "date": "2026-08-12",
           "edition": "evening",
           "update": "The Ebola outbreak in the Democratic Republic of Congo has surpassed 2,000 deaths, though experts indicate the risk to Americans remains very low."
+        },
+        {
+          "date": "2026-08-13",
+          "edition": "morning",
+          "update": "Health officials confirmed the ongoing outbreak is caused by the Bundibugyo species of the Ebola virus, according to Newsweek."
         }
       ]
     },
@@ -5154,5 +5174,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-12T21:11:59.890Z"
+  "updatedAt": "2026-08-13T11:05:32.388Z"
 }
