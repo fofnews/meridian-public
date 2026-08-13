@@ -971,6 +971,11 @@
           "date": "2026-08-13",
           "edition": "morning",
           "update": "Russia's blockade of major Ukrainian ports threatens global grain supplies, according to the NY Times. Nobel Peace Prize winner Dmitry Muratov told BBC News that Putin can no longer claim victory in Ukraine, stating he can only 'destroy Ukraine, not conquer it,' as the war enters its fifth year."
+        },
+        {
+          "date": "2026-08-13",
+          "edition": "evening",
+          "update": "The UN Human Rights Monitoring Mission reported at least 437 civilians were killed and 2,610 injured in Ukraine in July, marking the highest monthly civilian death toll since May 2022. A bomb killed a Russian military officer in Crimea, with reports identifying the victim as a defector from Ukraine, though this was not officially confirmed. Ukraine intensified drone strikes on Crimea by air and sea, disrupting daily life for Russian civilians and challenging Russia's control of the peninsula."
         }
       ],
       "parentId": null
@@ -1599,7 +1604,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-12",
+      "lastSeen": "2026-08-13",
       "active": true,
       "entries": [
         {
@@ -2021,6 +2026,11 @@
           "date": "2026-08-12",
           "edition": "evening",
           "update": "Lebanon's parliament passed a long-sought amnesty law that will reduce certain prison terms, coming one day after the country repealed the death penalty. Residents described conditions in Lebanon as living in a 'prison' despite Trump's characterization of the ceasefire as working, according to the Washington Post."
+        },
+        {
+          "date": "2026-08-13",
+          "edition": "evening",
+          "update": "A Michigan-based group of Lebanese Americans filed a class action lawsuit against the US government and defense contractors, alleging rights abuses linked to Israel's conduct during the Lebanon war."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2856,6 +2866,11 @@
           "date": "2026-08-13",
           "edition": "morning",
           "update": "Trump's efforts to end the conflict with Iran have repeatedly stalled, with military airstrikes, threats, and diplomatic talks all failing to produce a breakthrough, according to The Hill, prompting a return to economic pressure tactics. Iranian Foreign Minister Araghchi stated the U.S. 'miscalculated' in the war due to intelligence 'failures.'"
+        },
+        {
+          "date": "2026-08-13",
+          "edition": "evening",
+          "update": "Reuters raised questions about whether global oil stockpiles are sufficient to withstand a prolonged six-month US-Iran conflict. The US military has lost approximately 25% of its Reaper drone fleet as the conflict with Iran depletes its arsenal, according to the Washington Post."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3713,7 +3728,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-08-11",
+      "lastSeen": "2026-08-13",
       "active": true,
       "entries": [
         {
@@ -3945,6 +3960,11 @@
           "date": "2026-08-11",
           "edition": "evening",
           "update": "Pakistan's government stated that the U.S. and Iran are close to reaching 'some sort' of deal, despite ongoing attacks on shipping in the region."
+        },
+        {
+          "date": "2026-08-13",
+          "edition": "evening",
+          "update": "US-Iran negotiations remain deadlocked as the standoff in the Strait of Hormuz continues, with mediators attempting to facilitate dialogue between the two sides."
         }
       ]
     },
@@ -4923,7 +4943,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-12",
+      "lastSeen": "2026-08-13",
       "active": true,
       "entries": [
         {
@@ -5045,6 +5065,11 @@
           "date": "2026-08-12",
           "edition": "evening",
           "update": "Saudi Arabia is pursuing defensive alliances as a deterrence strategy, according to Reuters, with the kingdom relying on security partnerships to prevent escalation into war."
+        },
+        {
+          "date": "2026-08-13",
+          "edition": "evening",
+          "update": "Rights groups accused Israel of trucking rubble out of Gaza, alleging the practice is intended to destroy war crimes evidence and render the territory uninhabitable. Israeli troops were deployed into West Bank homes that had been besieged by Jewish settlers. The United States issued a sharp rebuke against Israeli settlers over the sieges of Palestinian homes."
         }
       ]
     },
@@ -5174,5 +5199,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-13T11:06:00.136Z"
+  "updatedAt": "2026-08-13T21:07:43.824Z"
 }
