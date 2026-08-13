@@ -975,7 +975,7 @@
         {
           "date": "2026-08-13",
           "edition": "evening",
-          "update": "The UN Human Rights Monitoring Mission reported at least 437 civilians were killed and 2,610 injured in Ukraine in July, marking the highest monthly civilian death toll since May 2022. A bomb killed a Russian military officer in Crimea, with reports identifying the victim as a defector from Ukraine, though this was not officially confirmed. Ukraine intensified drone strikes on Crimea by air and sea, disrupting daily life for Russian civilians and challenging Russia's control of the peninsula."
+          "update": "The UN Human Rights Monitoring Mission reported at least 437 civilians killed and 2,610 injured in Ukraine in July, the highest monthly civilian death toll since May 2022. A bomb killed a Russian military officer in Crimea, with reports identifying the victim as a defector from Ukraine, though details were not independently verified. Ukraine has intensified drone strikes on Crimea by both air and sea, disrupting daily life on the Russian-held peninsula."
         }
       ],
       "parentId": null
@@ -2030,7 +2030,7 @@
         {
           "date": "2026-08-13",
           "edition": "evening",
-          "update": "A Michigan-based group of Lebanese Americans filed a class action lawsuit against the US government and defense contractors, alleging rights abuses linked to Israel's conduct during the Lebanon war."
+          "update": "A Michigan-based group of Lebanese Americans has filed a class action lawsuit against the U.S. government and defense contractors, alleging rights abuses stemming from Israel's war in Lebanon, according to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2870,7 +2870,7 @@
         {
           "date": "2026-08-13",
           "edition": "evening",
-          "update": "Reuters raised questions about whether global oil stockpiles are sufficient to withstand a prolonged six-month US-Iran conflict. The US military has lost approximately 25% of its Reaper drone fleet as the conflict with Iran depletes its arsenal, according to the Washington Post."
+          "update": "Reuters examined whether global oil inventories are sufficient to withstand a prolonged six-month US-Iran conflict, raising concerns about supply resilience. The U.S. military has lost roughly 25 percent of its Reaper drone fleet as operations related to the Iran conflict continue to deplete its arsenal, according to the Washington Post."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3964,7 +3964,7 @@
         {
           "date": "2026-08-13",
           "edition": "evening",
-          "update": "US-Iran negotiations remain deadlocked as the standoff in the Strait of Hormuz continues, with mediators attempting to facilitate dialogue between the two sides."
+          "update": "Mediators are working to restart US-Iran dialogue amid a continued standoff in the Strait of Hormuz, but negotiations remain at a standstill, according to Al Jazeera."
         }
       ]
     },
@@ -4590,6 +4590,11 @@
           "date": "2026-08-13",
           "edition": "morning",
           "update": "Tehran asserted the Strait of Hormuz is under Iranian control, while Trump countered by claiming the U.S. has 'total control' over the waterway, marking a direct exchange of opposing claims over the strait's sovereignty. Oil prices fell as lower demand forecasts weighed on markets, even as U.S.-Iran nuclear talks remained deadlocked."
+        },
+        {
+          "date": "2026-08-13",
+          "edition": "evening",
+          "update": "Iran-backed Houthi rebels clashed with Yemeni government forces, according to AP News, amid the broader regional conflict."
         }
       ]
     },
@@ -5069,7 +5074,7 @@
         {
           "date": "2026-08-13",
           "edition": "evening",
-          "update": "Rights groups accused Israel of trucking rubble out of Gaza, alleging the practice is intended to destroy war crimes evidence and render the territory uninhabitable. Israeli troops were deployed into West Bank homes that had been besieged by Jewish settlers. The United States issued a sharp rebuke against Israeli settlers over the sieges of Palestinian homes."
+          "update": "Rights groups accused Israel of trucking rubble out of Gaza to destroy evidence of war crimes and render the territory uninhabitable, with critics alleging the removals are part of an effort to hide genocide and redraw Gaza's territorial map. Israeli troops were deployed into West Bank homes that had been besieged by Jewish settlers. The United States issued a sharp public rebuke of Israeli settlers over the West Bank siege, marking a notable diplomatic criticism by Washington of settler activity."
         }
       ]
     },
@@ -5160,6 +5165,11 @@
           "date": "2026-08-13",
           "edition": "morning",
           "update": "President Trump signed a memorandum authorizing the use of cyber tools to target transnational criminal organizations, according to the White House."
+        },
+        {
+          "date": "2026-08-13",
+          "edition": "evening",
+          "update": "Trump's memorandum authorizing cyber offensive operations, signed August 13, specifically directs the administration to employ private U.S. companies in those operations against transnational criminal organizations and foreign cybersecurity threats."
         }
       ]
     },
@@ -5199,5 +5209,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-13T21:07:43.824Z"
+  "updatedAt": "2026-08-13T21:07:46.630Z"
 }
