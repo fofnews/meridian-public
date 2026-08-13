@@ -23,5 +23,73 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-13T04:15:01.699Z"
+  },
+  {
+    "title": "Powerball player in Illinois wins $1 billion jackpot",
+    "description": "It's the largest U.S. lottery jackpot so far this year.",
+    "link": "https://abcnews.com/US/powerball-player-illinois-wins-1-billion-jackpot/story?id=135600933",
+    "pubDate": "Thu, 13 Aug 2026 00:22:14 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-08-13T04:30:06.849Z"
+  },
+  {
+    "title": "Trump Administration Lets Parts of the National Firearms Act Lapse",
+    "description": "The retreat by the Justice Department effectively allowed a pillar of the Prohibition-era National Firearms Act to lapse.",
+    "link": "https://www.nytimes.com/2026/08/13/us/politics/national-firearms-act-gun-control-doj.html",
+    "pubDate": "Thu, 13 Aug 2026 04:07:39 +0000",
+    "source": "NY Times",
+    "categories": [
+      "gun control",
+      "bureau of alcohol, tobacco, firearms and explosives",
+      "gun owners of america",
+      "brady campaign to prevent gun violence",
+      "firearms"
+    ],
+    "collectedAt": "2026-08-13T04:30:06.849Z"
+  },
+  {
+    "title": "‘An English Summer Is Not the Same Anymore’",
+    "description": "With forecasters issuing a warning for very high temperatures, this summer is on track to be one of the hottest yet.",
+    "link": "https://www.nytimes.com/2026/08/13/world/europe/britain-heat-records.html",
+    "pubDate": "Thu, 13 Aug 2026 04:00:05 +0000",
+    "source": "NY Times",
+    "categories": [
+      "great britain",
+      "heat and heat waves",
+      "summer (season)",
+      "met office (united kingdom)",
+      "london (england)"
+    ],
+    "collectedAt": "2026-08-13T04:30:06.849Z"
+  },
+  {
+    "title": "Big Ten Pass-Rusher Suffers Season-Ending Injury",
+    "description": "The Maryland Terrapins lost one their best defensive ends before the start of a pivotal 2026 season for head coach Mike Locksley.",
+    "link": "https://www.newsweek.com/sports/ncaa/big-ten-pass-rusher-suffers-season-ending-injury-12316762",
+    "pubDate": "Thu, 13 Aug 2026 00:15:56 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-13T04:30:06.849Z"
+  },
+  {
+    "title": "BTS star V reveals hearing loss battle during livestream",
+    "description": "The K-pop star says he has suffered hearing issues for over two years before revealing it publicly this week.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2v1893n3eo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 13 Aug 2026 04:09:12 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-13T04:30:06.849Z"
+  },
+  {
+    "title": "Powerball ticket holder in Illinois wins $1.04 billion jackpot",
+    "description": "The odds of hitting the Powerball jackpot are 1 in 292,201,338.",
+    "link": "https://nypost.com/2026/08/13/us-news/powerball-1-04-billion-jackpot-winning-ticket-sold-in-illinois-numbers-for-tonights-drawing/",
+    "pubDate": "Thu, 13 Aug 2026 00:16:57 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-13T04:30:06.849Z"
   }
 ]
