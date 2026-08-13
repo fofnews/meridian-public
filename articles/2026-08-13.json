@@ -263,5 +263,93 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-13T06:00:01.333Z"
+  },
+  {
+    "title": "Millions crowd cities to see Spain's first total solar eclipse in over a century",
+    "description": "As the sky darkened, gradually at first and then quickly, people broke into applause and cheered. It was the Spain's first total solar eclipse in more than a century.",
+    "link": "https://www.npr.org/2026/08/13/g-s1-138556/spain-solar-eclipse",
+    "pubDate": "Thu, 13 Aug 2026 02:04:38 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-08-13T06:15:01.457Z"
+  },
+  {
+    "title": "Kennedy Center board set to vote on whether to move forward with closure",
+    "description": "The Kennedy Center's board is set to meet to discuss future plans after a federal judge blocked a two-year closure for renovations",
+    "link": "https://abcnews.com/US/wireStory/kennedy-center-board-set-vote-move-forward-closure-135601266",
+    "pubDate": "Thu, 13 Aug 2026 02:03:44 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-08-13T06:15:01.457Z"
+  },
+  {
+    "title": "See the 2026 European Solar Eclipse, in Photos and Videos",
+    "description": "People gathered across the continent to watch the total solar eclipse on Wednesday.",
+    "link": "https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-europe-photos.html",
+    "pubDate": "Thu, 13 Aug 2026 06:11:44 +0000",
+    "source": "NY Times",
+    "categories": [
+      "eclipses",
+      "europe"
+    ],
+    "collectedAt": "2026-08-13T06:15:01.457Z"
+  },
+  {
+    "title": "Polls open in Clacton by-election",
+    "description": "Voters will choose between 34 candidates - the most to stand in any British parliamentary election.",
+    "link": "https://www.bbc.co.uk/news/articles/cp308xpwv34o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 13 Aug 2026 05:50:44 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-13T06:15:01.457Z"
+  },
+  {
+    "title": "Results, appeals and resits - what to do if your A-levels don't go to plan",
+    "description": "Your full guide to A-level results day, including what to do if you are not happy with your grades.",
+    "link": "https://www.bbc.co.uk/news/articles/c07dz891gy5o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 13 Aug 2026 06:01:54 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-13T06:15:01.457Z"
+  },
+  {
+    "title": "How to get the most out of university clearing on results day",
+    "description": "From listing potential outcomes to picking up the phone, these are some top tips for getting through clearing.",
+    "link": "https://www.bbc.co.uk/news/articles/c20dpj3peglo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 13 Aug 2026 06:02:28 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-13T06:15:01.457Z"
+  },
+  {
+    "title": "Everything you need to know about university costs",
+    "description": "With rising tuition fees and living costs, do higher graduate earnings cover the cost of a degree?",
+    "link": "https://www.bbc.co.uk/news/articles/cwyegp0dnq9o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 13 Aug 2026 06:02:08 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-13T06:15:01.457Z"
+  },
+  {
+    "title": "How do I apply for an apprenticeship and what will I get paid?",
+    "description": "Apprentices split their time between training and working - and are paid by their employer.",
+    "link": "https://www.bbc.co.uk/news/articles/c51xenx7pvqo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 13 Aug 2026 06:03:43 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-13T06:15:01.457Z"
+  },
+  {
+    "title": "Russian strike sparks fire at Ukraine port; Zelenskyy seeks interceptors",
+    "description": "Ukraine has reported an acute shortage of Patriot interceptors since the US went to war with Iran in February.",
+    "link": "https://www.aljazeera.com/news/2026/8/13/russian-strike-sparks-fire-at-ukraine-port-zelenskyy-seeks-interceptors?traffic_source=rss",
+    "pubDate": "Thu, 13 Aug 2026 05:26:05 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-13T06:15:01.457Z"
   }
 ]
