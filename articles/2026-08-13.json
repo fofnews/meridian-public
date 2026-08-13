@@ -158,5 +158,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-13T05:00:02.740Z"
+  },
+  {
+    "title": "Single ticket bought in Illinois wins $1 billion Powerball jackpot",
+    "description": "To the tens of thousands and likely more dreaming about a $1 billion Powerball win, the anticipation is over: Someone who bought a ticket in Illinois won it all.",
+    "link": "https://www.nbcnews.com/news/us-news/ticket-illinois-wins-1-billion-powerball-jackpot-rcna592269",
+    "pubDate": "Thu, 13 Aug 2026 04:53:23 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-08-13T05:15:01.417Z"
+  },
+  {
+    "title": "Three Palestinian families besieged in their homes by Israeli settlers",
+    "description": "Three Palestinian families in Qusra, occupied West Bank, are being besieged inside their homes.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/three-palestinian-families-besieged-in-their-homes-by-israeli-settlers?traffic_source=rss",
+    "pubDate": "Thu, 13 Aug 2026 04:34:46 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-08-13T05:15:01.417Z"
   }
 ]
