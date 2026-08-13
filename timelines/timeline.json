@@ -970,7 +970,7 @@
         {
           "date": "2026-08-13",
           "edition": "morning",
-          "update": "Nobel Peace Prize laureate Dmitry Muratov told BBC News that Vladimir Putin can no longer claim victory in Ukraine, stating the Russian leader can only 'destroy Ukraine, not conquer it.' Russia's blockade of major Ukrainian ports is threatening global grain supplies, according to the NY Times."
+          "update": "Russia's blockade of major Ukrainian ports threatens global grain supplies, according to the NY Times. Nobel Peace Prize winner Dmitry Muratov told BBC News that Putin can no longer claim victory in Ukraine, stating he can only 'destroy Ukraine, not conquer it,' as the war enters its fifth year."
         }
       ],
       "parentId": null
@@ -2855,7 +2855,7 @@
         {
           "date": "2026-08-13",
           "edition": "morning",
-          "update": "A Pentagon review found that U.S. strikes in Yemen killed 153 civilians in 2025 during the campaign against the Houthis, according to an unclassified report reviewed by Al Jazeera. Defense Secretary Hegseth warned the International Criminal Court may investigate American military boat strikes targeting drug cartels in Latin America, while announcing Colombia has joined a regional military coalition. ABC News reported that Trump announced 'major combat operations' against Iran on February 28, initiated through massive joint U.S.-Israeli strikes, with Iranian Foreign Minister Araghchi stating the U.S. 'miscalculated' due to intelligence 'failures.' Diplomatic efforts to end the conflict have repeatedly stalled, with each instance of apparent progress disrupted, according to The Hill."
+          "update": "Trump's efforts to end the conflict with Iran have repeatedly stalled, with military airstrikes, threats, and diplomatic talks all failing to produce a breakthrough, according to The Hill, prompting a return to economic pressure tactics. Iranian Foreign Minister Araghchi stated the U.S. 'miscalculated' in the war due to intelligence 'failures.'"
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4569,7 +4569,7 @@
         {
           "date": "2026-08-13",
           "edition": "morning",
-          "update": "Tehran asserted that the Strait of Hormuz is 'under Iran's control and management,' while President Trump claimed the United States has 'total control' over the waterway, resulting in a public exchange of opposing control claims between the two countries."
+          "update": "Tehran asserted the Strait of Hormuz is under Iranian control, while Trump countered by claiming the U.S. has 'total control' over the waterway, marking a direct exchange of opposing claims over the strait's sovereignty. Oil prices fell as lower demand forecasts weighed on markets, even as U.S.-Iran nuclear talks remained deadlocked."
         }
       ]
     },
@@ -4648,7 +4648,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-08-13",
+      "lastSeen": "2026-08-12",
       "active": true,
       "entries": [
         {
@@ -4825,11 +4825,6 @@
           "date": "2026-08-12",
           "edition": "evening",
           "update": "The Ebola outbreak in the Democratic Republic of Congo has surpassed 2,000 deaths, though experts indicate the risk to Americans remains very low."
-        },
-        {
-          "date": "2026-08-13",
-          "edition": "morning",
-          "update": "Health officials confirmed the ongoing outbreak is caused by the Bundibugyo species of the Ebola virus, according to Newsweek."
         }
       ]
     },
@@ -5088,7 +5083,7 @@
       "title": "US Cyberattacks and Infrastructure Security",
       "parentId": null,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-08-10",
+      "lastSeen": "2026-08-13",
       "active": true,
       "entries": [
         {
@@ -5135,6 +5130,11 @@
           "date": "2026-08-10",
           "edition": "morning",
           "update": "A North Korean hacking group has been developing AI tools designed to facilitate cyberattacks, according to a report cited by Reuters. South Korean cybersecurity firm findings further confirmed that the North Korean group Kimsuky has begun using AI-generated documents in spear-phishing attacks, marking a documented escalation in the group's offensive cyber capabilities."
+        },
+        {
+          "date": "2026-08-13",
+          "edition": "morning",
+          "update": "President Trump signed a memorandum authorizing the use of cyber tools to target transnational criminal organizations, according to the White House."
         }
       ]
     },
@@ -5174,5 +5174,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-13T11:05:32.388Z"
+  "updatedAt": "2026-08-13T11:06:00.136Z"
 }
