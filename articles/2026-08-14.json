@@ -600,5 +600,45 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-14T07:45:01.299Z"
+  },
+  {
+    "title": "US Slams 'False' Iran Claim that Seven Sailors Died in USS Lincoln Brawl",
+    "description": "CENTCOM told Newsweek that Iran \"continues to peddle lies and spread falsities\" after the \"false\" report",
+    "link": "https://www.newsweek.com/us-slams-false-iran-claim-that-seven-sailors-died-in-uss-lincoln-brawl-12321713",
+    "pubDate": "Fri, 14 Aug 2026 03:45:47 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-14T08:00:01.280Z"
+  },
+  {
+    "title": "I got an £89 refund – how to cancel and  avoid unwanted subscriptions",
+    "description": "After the PM announced a crackdown on subscription traps, readers share how they got into and out of unwanted plans.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 14 Aug 2026 07:45:51 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-14T08:00:01.280Z"
+  },
+  {
+    "title": "Stolen Matisse art found in Brazil",
+    "description": "Stolen Matisse art found in Brazil",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/stolen-matisse-art-found-in-brazil?traffic_source=rss",
+    "pubDate": "Fri, 14 Aug 2026 07:47:05 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-08-14T08:00:01.280Z"
+  },
+  {
+    "title": "South Africa end Nigeria’s Women’s World Cup hope, Ghana beat Ivory Coast",
+    "description": "South Africa and Ghana claim Africa's two FIFA Intercontinental Playoff spots as Nigeria and Ivory Coast go out.",
+    "link": "https://www.aljazeera.com/sports/2026/8/14/south-africa-end-nigerias-womens-world-cup-hope-ghana-beat-ivory-coast?traffic_source=rss",
+    "pubDate": "Fri, 14 Aug 2026 07:44:25 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-08-14T08:00:01.280Z"
   }
 ]
