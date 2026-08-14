@@ -185,5 +185,23 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-14T05:15:01.314Z"
+  },
+  {
+    "title": "NHS service admits data breach due to pager use",
+    "description": "The medical data of transplant patients from across the UK was sent over an unencrypted pager network.",
+    "link": "https://www.bbc.co.uk/news/articles/clyj92j210do?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 14 Aug 2026 05:12:44 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-14T05:30:02.503Z"
+  },
+  {
+    "title": "Country star Colt Ford breaks shoulder, ‘pulled through windshield’ after tour bus crash",
+    "description": "The crash comes two years after Ford survived a heart attack during a 2024 performance in Gilbert, Arizona.",
+    "link": "https://pagesix.com/2026/08/14/celebrity-news/colt-ford-breaks-shoulder-in-germany-tour-bus-crash-rescued-through-windshield/",
+    "pubDate": "Fri, 14 Aug 2026 01:25:48 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-14T05:30:02.503Z"
   }
 ]
