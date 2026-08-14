@@ -986,6 +986,11 @@
           "date": "2026-08-14",
           "edition": "morning",
           "update": "Ukrainian drone strikes knocked out 27% of the warehouse capacity of Wildberries, the Russian e-commerce company often compared to Amazon, with estimated losses of up to $8.5 billion."
+        },
+        {
+          "date": "2026-08-14",
+          "edition": "evening",
+          "update": "Ukraine claimed to have liberated 26 settlements in the south while reporting advances in the Dnipropetrovsk region, amid intensified Russian ballistic missile attacks, according to Al Jazeera."
         }
       ],
       "parentId": null
@@ -2051,6 +2056,11 @@
           "date": "2026-08-14",
           "edition": "morning",
           "update": "Israeli drone strikes killed Gaza City police chief Jamal Abu Kamil and at least one other person in Khan Younis, with several others wounded, according to Al Jazeera."
+        },
+        {
+          "date": "2026-08-14",
+          "edition": "evening",
+          "update": "US Ambassador to Israel Mike Huckabee issued a rare condemnation of a violent settler siege on families in the West Bank village of Qusra, describing the perpetrators as 'terrorists.'"
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2896,6 +2906,11 @@
           "date": "2026-08-14",
           "edition": "morning",
           "update": "Norwegian Foreign Minister Espen Barth Eide told Al Jazeera that the U.S. war on Iran was not 'smart,' arguing it failed to achieve its initial aims and had strengthened hardliners in Tehran."
+        },
+        {
+          "date": "2026-08-14",
+          "edition": "evening",
+          "update": "The USS Abraham Lincoln, deployed in the Middle East for more than 250 days, will return to the U.S. as part of a planned rotation announced by Acting Navy Secretary Hung Cao. Lawmakers including Sen. Mark Kelly (D-Ariz.) and military families raised concerns about conditions aboard the ship, while President Trump disputed those concerns and said the deployment had been 'not nearly long enough'; Defense Secretary Pete Hegseth also downplayed the reports. CENTCOM publicly criticized what it called 'misreporting' related to the carrier's operations. The USS George Washington departed Vietnam and is heading to the Middle East as a replacement. Sen. Kelly also publicly criticized Trump's order to revert to older steam catapult systems on carriers, stating 'Donald Trump knows nothing about this stuff.'"
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3753,7 +3768,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-08-13",
+      "lastSeen": "2026-08-14",
       "active": true,
       "entries": [
         {
@@ -3990,6 +4005,11 @@
           "date": "2026-08-13",
           "edition": "evening",
           "update": "Mediators are working to restart US-Iran dialogue amid a continued standoff in the Strait of Hormuz, but negotiations remain at a standstill, according to Al Jazeera."
+        },
+        {
+          "date": "2026-08-14",
+          "edition": "evening",
+          "update": "White House Deputy National Security Advisor Andy Baker, who played a central role in US-Iran peace negotiations, is set to leave the Trump administration in the coming weeks, according to Axios, marking the second high-profile White House departure of the week."
         }
       ]
     },
@@ -4625,6 +4645,11 @@
           "date": "2026-08-14",
           "edition": "morning",
           "update": "Iran attacked two ADNOC vessels in the Strait of Hormuz with no injuries reported. Defense Secretary Pete Hegseth declared the U.S. can sustain its naval blockade against Iran indefinitely, and oil prices steadied following the announcement. The USS Abraham Lincoln is departing the Middle East amid reports of poor living conditions for sailors and marines aboard, while the USS George Washington has departed Vietnam and is heading to the region as a carrier rotation. Vice President JD Vance stated that keeping gas prices low is 'goal number one' in the Iran war, and the White House addressed competing U.S.-Iran claims over control of the Strait of Hormuz."
+        },
+        {
+          "date": "2026-08-14",
+          "edition": "evening",
+          "update": "President Trump announced during remarks in Nassau County, New York, that he will declare the Strait of Hormuz a territory of the United States. Two additional UAE tankers were attacked by drones while transiting the strait, and Reuters reported the U.S. warned Iran of increased economic pressure following the attacks."
         }
       ]
     },
@@ -4978,7 +5003,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-13",
+      "lastSeen": "2026-08-14",
       "active": true,
       "entries": [
         {
@@ -5105,6 +5130,11 @@
           "date": "2026-08-13",
           "edition": "evening",
           "update": "Rights groups accused Israel of trucking rubble out of Gaza to destroy evidence of war crimes and render the territory uninhabitable, with critics alleging the removals are part of an effort to hide genocide and redraw Gaza's territorial map. Israeli troops were deployed into West Bank homes that had been besieged by Jewish settlers. The United States issued a sharp public rebuke of Israeli settlers over the West Bank siege, marking a notable diplomatic criticism by Washington of settler activity."
+        },
+        {
+          "date": "2026-08-14",
+          "edition": "evening",
+          "update": "Israeli forces blocked Palestinian activists and aid from reaching approximately 15 Palestinians, including two children, trapped in homes in the West Bank village of Qusra for nearly a week due to an ongoing settler siege. Saudi Arabia announced the launch of a Red Sea maritime defense alliance, with 13 countries joining the Saudi-led coalition. Jared Kushner is set to visit Israel following Netanyahu's rejection of the Gaza Board of Peace plan. Newsmax reported Trump withheld public support for Netanyahu as Israeli polls tightened."
         }
       ]
     },
@@ -5239,5 +5269,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-14T11:08:53.417Z"
+  "updatedAt": "2026-08-14T21:09:22.104Z"
 }
