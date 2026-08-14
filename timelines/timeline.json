@@ -990,7 +990,7 @@
         {
           "date": "2026-08-14",
           "edition": "evening",
-          "update": "Ukraine claimed to have liberated 26 settlements in the south while reporting advances in the Dnipropetrovsk region, amid intensified Russian ballistic missile attacks, according to Al Jazeera."
+          "update": "Ukraine claimed to have liberated 26 settlements in the south while facing intensified Russian ballistic missile attacks, with Kyiv also reporting advances in the Dnipropetrovsk region, according to Al Jazeera. Russia's Sheskharis oil terminal on the Black Sea halted loadings after a drone attack, according to sources cited by Reuters."
         }
       ],
       "parentId": null
@@ -2056,11 +2056,6 @@
           "date": "2026-08-14",
           "edition": "morning",
           "update": "Israeli drone strikes killed Gaza City police chief Jamal Abu Kamil and at least one other person in Khan Younis, with several others wounded, according to Al Jazeera."
-        },
-        {
-          "date": "2026-08-14",
-          "edition": "evening",
-          "update": "US Ambassador to Israel Mike Huckabee issued a rare condemnation of a violent settler siege on families in the West Bank village of Qusra, describing the perpetrators as 'terrorists.'"
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2910,7 +2905,7 @@
         {
           "date": "2026-08-14",
           "edition": "evening",
-          "update": "The USS Abraham Lincoln, deployed in the Middle East for more than 250 days, will return to the U.S. as part of a planned rotation announced by Acting Navy Secretary Hung Cao. Lawmakers including Sen. Mark Kelly (D-Ariz.) and military families raised concerns about conditions aboard the ship, while President Trump disputed those concerns and said the deployment had been 'not nearly long enough'; Defense Secretary Pete Hegseth also downplayed the reports. CENTCOM publicly criticized what it called 'misreporting' related to the carrier's operations. The USS George Washington departed Vietnam and is heading to the Middle East as a replacement. Sen. Kelly also publicly criticized Trump's order to revert to older steam catapult systems on carriers, stating 'Donald Trump knows nothing about this stuff.'"
+          "update": "The USS Abraham Lincoln is set to return to the U.S. as part of a planned rotation, announced by Acting Navy Secretary Hung Cao, following scrutiny over reported harsh conditions during its extended deployment. The USS George Washington departed Vietnam and is heading to the Middle East as its replacement, according to a U.S. official. Families of sailors and members of Congress raised concerns about conditions aboard the Lincoln, but President Trump dismissed those concerns, saying the deployment had been 'not nearly long enough,' while Defense Secretary Hegseth claimed the Navy can sustain an 'indefinite' blockade against Iran and downplayed the reports. CENTCOM issued a statement slamming what it called 'misreporting' related to the Lincoln."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4009,7 +4004,7 @@
         {
           "date": "2026-08-14",
           "edition": "evening",
-          "update": "White House Deputy National Security Advisor Andy Baker, who played a central role in US-Iran peace negotiations, is set to leave the Trump administration in the coming weeks, according to Axios, marking the second high-profile White House departure of the week."
+          "update": "White House deputy national security advisor Andy Baker, who played a central role in Iran peace negotiations, is set to leave the Trump administration in the coming weeks, marking the second high-profile White House departure of the week, according to Axios."
         }
       ]
     },
@@ -4649,7 +4644,7 @@
         {
           "date": "2026-08-14",
           "edition": "evening",
-          "update": "President Trump announced during remarks in Nassau County, New York, that he will declare the Strait of Hormuz a territory of the United States. Two additional UAE tankers were attacked by drones while transiting the strait, and Reuters reported the U.S. warned Iran of increased economic pressure following the attacks."
+          "update": "The US warned Iran it would increase economic pressure after two more ships were attacked in the Strait of Hormuz, according to Reuters."
         }
       ]
     },
@@ -5134,7 +5129,7 @@
         {
           "date": "2026-08-14",
           "edition": "evening",
-          "update": "Israeli forces blocked Palestinian activists and aid from reaching approximately 15 Palestinians, including two children, trapped in homes in the West Bank village of Qusra for nearly a week due to an ongoing settler siege. Saudi Arabia announced the launch of a Red Sea maritime defense alliance, with 13 countries joining the Saudi-led coalition. Jared Kushner is set to visit Israel following Netanyahu's rejection of the Gaza Board of Peace plan. Newsmax reported Trump withheld public support for Netanyahu as Israeli polls tightened."
+          "update": "US Ambassador to Israel Mike Huckabee issued a rare condemnation of the settler siege on the West Bank village of Qusra, labeling the perpetrators 'terrorists,' while the US separately called on Netanyahu to publicly condemn the siege. Israeli forces blocked activists from delivering aid to approximately 15 Palestinians, including two children, who had been trapped in homes in Qusra for nearly a week. Jared Kushner is set to visit Israel following Netanyahu's rejection of the Gaza Board of Peace plan. Saudi Arabia announced a Red Sea maritime defence alliance with 13 member countries, and Turkey, Pakistan, and Saudi Arabia formed a mutual defence pact under which an armed attack on any one of the three is regarded as an attack on all three."
         }
       ]
     },
@@ -5238,7 +5233,7 @@
       "title": "Airport Security Threats and Explosive Device Incidents",
       "parentId": null,
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-10",
+      "lastSeen": "2026-08-14",
       "active": true,
       "entries": [
         {
@@ -5265,9 +5260,14 @@
           "date": "2026-08-10",
           "edition": "evening",
           "update": "Alaska Airlines Flight 305 from Miami to Seattle was locked down after the pilot reported a customer disturbance and secured the cockpit; authorities found no credible threat and passengers were asked to deplane."
+        },
+        {
+          "date": "2026-08-14",
+          "edition": "evening",
+          "update": "The NTSB found evidence of a bird strike as the likely cause of a window shattering aboard a Ryanair flight, an incident in which a passenger was nearly sucked out of the aircraft, according to CBS News."
         }
       ]
     }
   ],
-  "updatedAt": "2026-08-14T21:09:22.104Z"
+  "updatedAt": "2026-08-14T21:10:16.862Z"
 }
