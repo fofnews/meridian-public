@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-10",
+      "lastSeen": "2026-08-14",
       "active": true,
       "entries": [
         {
@@ -316,6 +316,11 @@
           "date": "2026-08-10",
           "edition": "morning",
           "update": "A new report revealed approximately 70 allegations of sexual abuse involving nearly 50 adults employed or affiliated with Interlochen arts school, where Jeffrey Epstein allegedly preyed on students, according to accounts from former students."
+        },
+        {
+          "date": "2026-08-14",
+          "edition": "morning",
+          "update": "A federal judge expressed frustration with DOJ attorneys over their handling of Epstein files, warning he has held attorneys in contempt before while stating he had 'absolutely no desire' to do so in this case. Trump's DOJ has been accused of noncompliance following a court hearing over missing documents and disclosures in the Epstein records lawsuit, according to Newsweek."
         }
       ],
       "parentId": null
@@ -454,7 +459,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-13",
+      "lastSeen": "2026-08-14",
       "active": true,
       "entries": [
         {
@@ -976,6 +981,11 @@
           "date": "2026-08-13",
           "edition": "evening",
           "update": "The UN Human Rights Monitoring Mission reported at least 437 civilians killed and 2,610 injured in Ukraine in July, the highest monthly civilian death toll since May 2022. A bomb killed a Russian military officer in Crimea, with reports identifying the victim as a defector from Ukraine, though details were not independently verified. Ukraine has intensified drone strikes on Crimea by both air and sea, disrupting daily life on the Russian-held peninsula."
+        },
+        {
+          "date": "2026-08-14",
+          "edition": "morning",
+          "update": "Ukrainian drone strikes knocked out 27% of the warehouse capacity of Wildberries, the Russian e-commerce company often compared to Amazon, with estimated losses of up to $8.5 billion."
         }
       ],
       "parentId": null
@@ -1164,7 +1174,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-12",
+      "lastSeen": "2026-08-14",
       "active": true,
       "entries": [
         {
@@ -1441,6 +1451,11 @@
           "date": "2026-08-12",
           "edition": "evening",
           "update": "Israeli troops clashed with settlers who were besieging Palestinian homes in the West Bank, according to Reuters, with Israeli security forces having withdrawn from a village where approximately a dozen settlers remained, continuing a siege against two Palestinian families. Al Jazeera reported Israeli settlers have been leaving racist graffiti on Palestinian homes and schools, including messages such as 'burn in hell.'"
+        },
+        {
+          "date": "2026-08-14",
+          "edition": "morning",
+          "update": "U.S. Ambassador to Israel Mike Huckabee condemned the settlers involved as 'Israeli terrorists' after dozens trapped two Palestinian families in their West Bank homes for days, cutting off food, water, and electricity. The UN rights office and Palestinian Foreign Ministry separately condemned the siege in Qusra as 'criminal' and 'inhumane.' Israeli Defence Minister Israel Katz, by contrast, praised Hilltop Youth settlers for 'holding onto' Palestinian land."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1604,7 +1619,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-13",
+      "lastSeen": "2026-08-14",
       "active": true,
       "entries": [
         {
@@ -2031,6 +2046,11 @@
           "date": "2026-08-13",
           "edition": "evening",
           "update": "A Michigan-based group of Lebanese Americans has filed a class action lawsuit against the U.S. government and defense contractors, alleging rights abuses stemming from Israel's war in Lebanon, according to Al Jazeera."
+        },
+        {
+          "date": "2026-08-14",
+          "edition": "morning",
+          "update": "Israeli drone strikes killed Gaza City police chief Jamal Abu Kamil and at least one other person in Khan Younis, with several others wounded, according to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2039,7 +2059,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-13",
+      "lastSeen": "2026-08-14",
       "active": true,
       "entries": [
         {
@@ -2871,6 +2891,11 @@
           "date": "2026-08-13",
           "edition": "evening",
           "update": "Reuters examined whether global oil inventories are sufficient to withstand a prolonged six-month US-Iran conflict, raising concerns about supply resilience. The U.S. military has lost roughly 25 percent of its Reaper drone fleet as operations related to the Iran conflict continue to deplete its arsenal, according to the Washington Post."
+        },
+        {
+          "date": "2026-08-14",
+          "edition": "morning",
+          "update": "Norwegian Foreign Minister Espen Barth Eide told Al Jazeera that the U.S. war on Iran was not 'smart,' arguing it failed to achieve its initial aims and had strengthened hardliners in Tehran."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3705,7 +3730,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-13",
+      "lastSeen": "2026-08-14",
       "active": true
     },
     {
@@ -4248,7 +4273,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-08-13",
+      "lastSeen": "2026-08-14",
       "active": true,
       "entries": [
         {
@@ -4595,6 +4620,11 @@
           "date": "2026-08-13",
           "edition": "evening",
           "update": "Iran-backed Houthi rebels clashed with Yemeni government forces, according to AP News, amid the broader regional conflict."
+        },
+        {
+          "date": "2026-08-14",
+          "edition": "morning",
+          "update": "Iran attacked two ADNOC vessels in the Strait of Hormuz with no injuries reported. Defense Secretary Pete Hegseth declared the U.S. can sustain its naval blockade against Iran indefinitely, and oil prices steadied following the announcement. The USS Abraham Lincoln is departing the Middle East amid reports of poor living conditions for sailors and marines aboard, while the USS George Washington has departed Vietnam and is heading to the region as a carrier rotation. Vice President JD Vance stated that keeping gas prices low is 'goal number one' in the Iran war, and the White House addressed competing U.S.-Iran claims over control of the Strait of Hormuz."
         }
       ]
     },
@@ -5209,5 +5239,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-13T21:07:46.630Z"
+  "updatedAt": "2026-08-14T11:08:53.417Z"
 }
