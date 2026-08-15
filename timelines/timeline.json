@@ -1120,7 +1120,7 @@
         {
           "date": "2026-08-15",
           "edition": "morning",
-          "update": "The FBI captured Gregory Henderson Jr., a fugitive with alleged Sinaloa Cartel ties, just three days after he was added to the FBI's Ten Most Wanted list, according to FBI Director Kash Patel."
+          "update": "The FBI apprehended Gregory Henderson Jr., a fugitive with alleged Sinaloa Cartel ties, just three days after he was added to the FBI Ten Most Wanted list, with FBI Director Kash Patel announcing the capture."
         }
       ],
       "parentId": null
@@ -1470,7 +1470,7 @@
         {
           "date": "2026-08-15",
           "edition": "morning",
-          "update": "Following the death of Supreme Leader Ayatollah Ali Khamenei, Iran has intensified an anti-U.S. propaganda campaign featuring violent billboards with messaging such as 'Revenge is inevitable,' with artificial intelligence playing a major role in the effort, according to NBC News."
+          "update": "Following the death of Supreme Leader Ayatollah Ali Khamenei, Iran has intensified an anti-U.S. propaganda campaign featuring violent billboards with slogans such as 'Revenge is inevitable,' with artificial intelligence playing a significant role in producing the messaging."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2070,7 +2070,7 @@
         {
           "date": "2026-08-15",
           "edition": "morning",
-          "update": "An Israeli airstrike on southern Lebanon killed 7 people, according to Lebanese state media. Lebanese Prime Minister urged the establishment of a timetable for Israeli withdrawal from Lebanon, while Hezbollah accused Beirut officials of exposing the Lebanese army to risks and Israeli pressure."
+          "update": "An Israeli airstrike on southern Lebanon killed seven people, according to Lebanese state media. Lebanese Prime Minister called for a clear timetable for Israeli withdrawal from Lebanon, while Hezbollah accused Lebanese officials of exposing the army to Israeli pressure and risk."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2079,7 +2079,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-14",
+      "lastSeen": "2026-08-15",
       "active": true,
       "entries": [
         {
@@ -2921,6 +2921,11 @@
           "date": "2026-08-14",
           "edition": "evening",
           "update": "The USS Abraham Lincoln is set to return to the U.S. as part of a planned rotation, announced by Acting Navy Secretary Hung Cao, following scrutiny over reported harsh conditions during its extended deployment. The USS George Washington departed Vietnam and is heading to the Middle East as its replacement, according to a U.S. official. Families of sailors and members of Congress raised concerns about conditions aboard the Lincoln, but President Trump dismissed those concerns, saying the deployment had been 'not nearly long enough,' while Defense Secretary Hegseth claimed the Navy can sustain an 'indefinite' blockade against Iran and downplayed the reports. CENTCOM issued a statement slamming what it called 'misreporting' related to the Lincoln."
+        },
+        {
+          "date": "2026-08-15",
+          "edition": "morning",
+          "update": "Reports emerged of a mental health crisis aboard the USS Abraham Lincoln, including incidents of sailors attempting to jump from the ship. Following the departure announcement, Sen. Richard Blumenthal, one of the first lawmakers to raise concerns, responded publicly to Acting Navy Secretary Hung Cao's statement. The Navy's logistics hub was relocated to Diego Garcia, approximately 2,200 miles from the Gulf of Oman, after Iran damaged a U.S. base in Bahrain early in the war."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4024,7 +4029,7 @@
         {
           "date": "2026-08-15",
           "edition": "morning",
-          "update": "Iranian Foreign Minister Abbas Araghchi stated that no decision has been made on a return to talks with the U.S., while noting Iran is working with Oman on diplomatic routes. Araghchi added that shipping through the Strait of Hormuz would be contingent on the U.S. meeting certain conditions."
+          "update": "Iranian Foreign Minister Abbas Araghchi stated that no decision has been made on returning to talks with the U.S., while indicating Iran is working through Oman as a diplomatic channel and that Strait of Hormuz shipping access is conditional on the U.S. meeting certain conditions."
         }
       ]
     },
@@ -4304,7 +4309,7 @@
         {
           "date": "2026-08-15",
           "edition": "morning",
-          "update": "French, German, and British diplomats are working to develop a format for potential future Russia-Ukraine negotiations amid concerns about the Trump administration's approach, according to the New York Times. Russia has so far shown little interest in the proposed talks."
+          "update": "French, German, and British diplomats are working to establish a format for future Russia-Ukraine peace negotiations, according to the NY Times, as European nations seek a defined role in eventual talks amid concerns about the Trump administration's approach."
         }
       ]
     },
@@ -4674,7 +4679,7 @@
         {
           "date": "2026-08-15",
           "edition": "morning",
-          "update": "UAE authorities formally confirmed that two ADNOC-managed oil tankers were struck by Iranian drones in the Strait of Hormuz, placing official blame on Iran for the attacks."
+          "update": "UAE authorities formally attributed Thursday's drone strikes on the two ADNOC-managed tankers to Iran, confirming the attack was carried out by Iranian drones."
         }
       ]
     },
@@ -5028,7 +5033,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-14",
+      "lastSeen": "2026-08-15",
       "active": true,
       "entries": [
         {
@@ -5160,6 +5165,11 @@
           "date": "2026-08-14",
           "edition": "evening",
           "update": "US Ambassador to Israel Mike Huckabee issued a rare condemnation of the settler siege on the West Bank village of Qusra, labeling the perpetrators 'terrorists,' while the US separately called on Netanyahu to publicly condemn the siege. Israeli forces blocked activists from delivering aid to approximately 15 Palestinians, including two children, who had been trapped in homes in Qusra for nearly a week. Jared Kushner is set to visit Israel following Netanyahu's rejection of the Gaza Board of Peace plan. Saudi Arabia announced a Red Sea maritime defence alliance with 13 member countries, and Turkey, Pakistan, and Saudi Arabia formed a mutual defence pact under which an armed attack on any one of the three is regarded as an attack on all three."
+        },
+        {
+          "date": "2026-08-15",
+          "edition": "morning",
+          "update": "Six Houthi ballistic missiles struck the government-held port of al-Makha in Yemen, killing at least four people, in an attack Yemen's internationally recognized government said is eroding the existing truce between the two sides."
         }
       ]
     },
@@ -5299,5 +5309,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-15T11:06:28.689Z"
+  "updatedAt": "2026-08-15T11:06:30.668Z"
 }
