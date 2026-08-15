@@ -72,5 +72,53 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-15T04:15:03.374Z"
+  },
+  {
+    "title": "New 'Avengers: Doomsday' trailer drops at D23 featuring Robert Downey Jr. and more",
+    "description": "\"Avengers: Doomsday\" is almost here.",
+    "link": "https://abcnews.com/GMA/Culture/new-avengers-trailer-drops-d23-featuring-robert-downey/story?id=135561482",
+    "pubDate": "Sat, 15 Aug 2026 00:31:37 -0400",
+    "source": "ABC News",
+    "categories": [
+      "gma"
+    ],
+    "collectedAt": "2026-08-15T04:45:01.242Z"
+  },
+  {
+    "title": "Map Shows Shift in Midterm Districts From 'Solid' Republican to 'Likely'",
+    "description": "Republicans maintain a narrow House majority, controlling 218 seats, while Democrats hold 212.",
+    "link": "https://www.newsweek.com/map-shows-shift-in-midterm-districts-from-solid-republican-to-likely-12325492",
+    "pubDate": "Sat, 15 Aug 2026 00:33:27 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-15T04:45:01.242Z"
+  },
+  {
+    "title": "The Papers: 'Row professor found dead' and 'barbecue ban'",
+    "description": "Former Cambridge Professor Jason Arday's death and the ban on barbecues in Britain lead Saturday's papers.",
+    "link": "https://www.bbc.co.uk/news/articles/c141y5zk4yko?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 15 Aug 2026 04:33:03 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-15T04:45:01.242Z"
+  },
+  {
+    "title": "Man charged with assault, hate crimes after allegedly disrupting Shabbat services at NYC synagogue",
+    "description": "Larry Montes is facing multiple charges after allegedly striking a congregant and headbutting a security team member during Shabbat services at Central Synagogue in New York City.",
+    "link": "https://www.foxnews.com/us/man-charged-assault-hate-crimes-after-allegedly-disrupting-shabbat-services-nyc-synagogue",
+    "pubDate": "Sat, 15 Aug 2026 00:27:46 -0400",
+    "source": "Fox News",
+    "categories": [
+      "891991f5-7161-5610-af20-7e1420aa95e9",
+      "fnc",
+      "fox news",
+      "fox-news/entertainment/genres/crime",
+      "fox-news/us/crime/hate-crime",
+      "fox-news/us/new-york-city",
+      "fox-news/world/religion/judaism",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-08-15T04:45:01.242Z"
   }
 ]
