@@ -1943,5 +1943,64 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-15T12:45:01.388Z"
+  },
+  {
+    "title": "Virginia State University Shooting Leaves Multiple Injured",
+    "description": "Five people suffered gunshot wounds outside university dorms during the shooting on Saturday morning.",
+    "link": "https://www.newsweek.com/virginia-state-university-shooting-leaves-multiple-injured-gun-crime-12326923",
+    "pubDate": "Sat, 15 Aug 2026 08:50:03 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-15T13:00:01.727Z"
+  },
+  {
+    "title": "Man Spots Something Odd While Fishing in a Creek—Knows He Has to Make Call",
+    "description": "\"As soon as I saw horns, I believed it was a bison,\" Dominic Boon told Newsweek about his discovery while fly fishing in Alberta.",
+    "link": "https://www.newsweek.com/man-spots-something-odd-while-fishing-bison-skull-alberta-12325335",
+    "pubDate": "Sat, 15 Aug 2026 08:45:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-15T13:00:01.727Z"
+  },
+  {
+    "title": "Spain stocks African enclave Ceuta with boosted security as Morocco monitors calls for second border rush",
+    "description": "Spain's African enclave Ceuta sees soldiers patrolling streets as Morocco says it arrested those inciting a second mass border crossing on Saturday.",
+    "link": "https://www.foxnews.com/world/spain-stocks-african-enclave-ceuta-boosted-security-morocco-monitors-calls-second-border-rush",
+    "pubDate": "Sat, 15 Aug 2026 08:56:25 -0400",
+    "source": "Fox News",
+    "categories": [
+      "e5ed3a1e-0f19-55e9-9f90-9813aeed0f65",
+      "fnc",
+      "fox news",
+      "fox-news/world",
+      "fox-news/tech/topics/security",
+      "fox-news/world/migrant-caravan",
+      "fox-news/us/disasters/refugees",
+      "fox-news/world/world-regions/spain",
+      "fox-news/world/world-regions/africa",
+      "fox-news/us/immigration/illegal-immigrants",
+      "fox-news/us/immigration/border-security",
+      "fox-news/world",
+      "article"
+    ],
+    "collectedAt": "2026-08-15T13:00:01.727Z"
+  },
+  {
+    "title": "Iran’s top commander boasts that war efforts prove Islam can ‘rule the world’",
+    "description": "Lobbing missiles at US bases and allied infrastructure in the Gulf region showed that “Islam can be made to rule the world,” the head of the powerful Islamic Revolutionary Guard Corps, said.",
+    "link": "https://nypost.com/2026/08/15/world-news/irans-irgc-commander-boasts-that-war-efforts-prove-islam-can-rule-the-world/",
+    "pubDate": "Sat, 15 Aug 2026 08:56:11 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-15T13:00:01.727Z"
+  },
+  {
+    "title": "How a squeegee saved six men trapped on an elevator on 9/11: new docuseries",
+    "description": "A National Geographic docuseries premiering Aug. 21 reunites survivors of the 9/11 terrorist attacks on the Twin Towers 25 years later with the strangers and rescuers who changed their lives.",
+    "link": "https://nypost.com/2026/08/15/us-news/how-a-squeegee-saved-six-trapped-on-an-elevator-on-9-11-new-docuseries/",
+    "pubDate": "Sat, 15 Aug 2026 08:45:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-15T13:00:01.727Z"
   }
 ]
