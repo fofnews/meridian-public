@@ -699,5 +699,33 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-08-15T09:15:01.135Z"
+  },
+  {
+    "title": "Trump’s secret plane swap, and a long-awaited Tupac trial: The news quiz",
+    "description": "A pop star hits back at the White House, a total eclipse blankets much of Europe, and a dating app makes a big change.",
+    "link": "https://www.nbcnews.com/news/news-quiz/trumps-secret-plane-swap-long-awaited-tupac-trial-news-quiz-rcna592371",
+    "pubDate": "Sat, 15 Aug 2026 09:15:00 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-08-15T09:30:02.126Z"
+  },
+  {
+    "title": "Non-campaign, local road events bring politicians in front of rural, small-town, and apolitical America",
+    "description": "Political smack talk with a side of Kentucky mutton and pork. Minnesota turkey dinners for hopeful political winners. Talking policy stances to Iowa fairgoers eating pork chops on sticks. Between scheduled campaign rallies and town halls, U.S. political candidates have for decades sought to bring their ideas to established local events that draw crowds and […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4687497/non-campaign-events-rural-america-2026-elections/",
+    "pubDate": "Sat, 15 Aug 2026 09:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "congressional",
+      "2026 elections",
+      "fundraising",
+      "iowa",
+      "kentucky",
+      "minnesota",
+      "new hampshire",
+      "rural america",
+      "state politics"
+    ],
+    "collectedAt": "2026-08-15T09:30:02.126Z"
   }
 ]
