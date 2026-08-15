@@ -999,7 +999,7 @@
       "id": "sinaloa-cartel-violence",
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-06",
+      "lastSeen": "2026-08-15",
       "active": true,
       "entries": [
         {
@@ -1116,6 +1116,11 @@
           "date": "2026-08-06",
           "edition": "evening",
           "update": "The U.S. government suspended all official operations in Mexico's western Michoacán State, citing a threat against American interests, according to Fox News."
+        },
+        {
+          "date": "2026-08-15",
+          "edition": "morning",
+          "update": "The FBI captured Gregory Henderson Jr., a fugitive with alleged Sinaloa Cartel ties, just three days after he was added to the FBI's Ten Most Wanted list, according to FBI Director Kash Patel."
         }
       ],
       "parentId": null
@@ -1179,7 +1184,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-14",
+      "lastSeen": "2026-08-15",
       "active": true,
       "entries": [
         {
@@ -1461,6 +1466,11 @@
           "date": "2026-08-14",
           "edition": "morning",
           "update": "U.S. Ambassador to Israel Mike Huckabee condemned the settlers involved as 'Israeli terrorists' after dozens trapped two Palestinian families in their West Bank homes for days, cutting off food, water, and electricity. The UN rights office and Palestinian Foreign Ministry separately condemned the siege in Qusra as 'criminal' and 'inhumane.' Israeli Defence Minister Israel Katz, by contrast, praised Hilltop Youth settlers for 'holding onto' Palestinian land."
+        },
+        {
+          "date": "2026-08-15",
+          "edition": "morning",
+          "update": "Following the death of Supreme Leader Ayatollah Ali Khamenei, Iran has intensified an anti-U.S. propaganda campaign featuring violent billboards with messaging such as 'Revenge is inevitable,' with artificial intelligence playing a major role in the effort, according to NBC News."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1624,7 +1634,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-14",
+      "lastSeen": "2026-08-15",
       "active": true,
       "entries": [
         {
@@ -2056,6 +2066,11 @@
           "date": "2026-08-14",
           "edition": "morning",
           "update": "Israeli drone strikes killed Gaza City police chief Jamal Abu Kamil and at least one other person in Khan Younis, with several others wounded, according to Al Jazeera."
+        },
+        {
+          "date": "2026-08-15",
+          "edition": "morning",
+          "update": "An Israeli airstrike on southern Lebanon killed 7 people, according to Lebanese state media. Lebanese Prime Minister urged the establishment of a timetable for Israeli withdrawal from Lebanon, while Hezbollah accused Beirut officials of exposing the Lebanese army to risks and Israeli pressure."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3740,7 +3755,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-14",
+      "lastSeen": "2026-08-15",
       "active": true
     },
     {
@@ -3763,7 +3778,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-08-14",
+      "lastSeen": "2026-08-15",
       "active": true,
       "entries": [
         {
@@ -4005,6 +4020,11 @@
           "date": "2026-08-14",
           "edition": "evening",
           "update": "White House deputy national security advisor Andy Baker, who played a central role in Iran peace negotiations, is set to leave the Trump administration in the coming weeks, marking the second high-profile White House departure of the week, according to Axios."
+        },
+        {
+          "date": "2026-08-15",
+          "edition": "morning",
+          "update": "Iranian Foreign Minister Abbas Araghchi stated that no decision has been made on a return to talks with the U.S., while noting Iran is working with Oman on diplomatic routes. Araghchi added that shipping through the Strait of Hormuz would be contingent on the U.S. meeting certain conditions."
         }
       ]
     },
@@ -4233,7 +4253,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-08-12",
+      "lastSeen": "2026-08-15",
       "active": true,
       "entries": [
         {
@@ -4280,6 +4300,11 @@
           "date": "2026-08-12",
           "edition": "morning",
           "update": "Zelenskyy announced that Ukraine has submitted formal proposals to the United States aimed at ending the war with Russia, and warned that Russia may use its upcoming parliamentary elections as a pretext to declare a new mobilization."
+        },
+        {
+          "date": "2026-08-15",
+          "edition": "morning",
+          "update": "French, German, and British diplomats are working to develop a format for potential future Russia-Ukraine negotiations amid concerns about the Trump administration's approach, according to the New York Times. Russia has so far shown little interest in the proposed talks."
         }
       ]
     },
@@ -4288,7 +4313,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-08-14",
+      "lastSeen": "2026-08-15",
       "active": true,
       "entries": [
         {
@@ -4645,6 +4670,11 @@
           "date": "2026-08-14",
           "edition": "evening",
           "update": "The US warned Iran it would increase economic pressure after two more ships were attacked in the Strait of Hormuz, according to Reuters."
+        },
+        {
+          "date": "2026-08-15",
+          "edition": "morning",
+          "update": "UAE authorities formally confirmed that two ADNOC-managed oil tankers were struck by Iranian drones in the Strait of Hormuz, placing official blame on Iran for the attacks."
         }
       ]
     },
@@ -5269,5 +5299,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-14T21:10:16.862Z"
+  "updatedAt": "2026-08-15T11:06:28.689Z"
 }
