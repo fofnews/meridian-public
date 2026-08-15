@@ -459,7 +459,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-14",
+      "lastSeen": "2026-08-15",
       "active": true,
       "entries": [
         {
@@ -991,6 +991,11 @@
           "date": "2026-08-14",
           "edition": "evening",
           "update": "Ukraine claimed to have liberated 26 settlements in the south while facing intensified Russian ballistic missile attacks, with Kyiv also reporting advances in the Dnipropetrovsk region, according to Al Jazeera. Russia's Sheskharis oil terminal on the Black Sea halted loadings after a drone attack, according to sources cited by Reuters."
+        },
+        {
+          "date": "2026-08-15",
+          "edition": "evening",
+          "update": "Ukraine announced it struck a Russian rocket centre linked to what it described as a Starlink-style satellite network, according to Reuters. Ukraine also struck targets in Russia's southwestern Samara region using domestically produced Flamingo missiles, according to Al Jazeera."
         }
       ],
       "parentId": null
@@ -1471,6 +1476,11 @@
           "date": "2026-08-15",
           "edition": "morning",
           "update": "Following the death of Supreme Leader Ayatollah Ali Khamenei, Iran has intensified an anti-U.S. propaganda campaign featuring violent billboards with slogans such as 'Revenge is inevitable,' with artificial intelligence playing a significant role in producing the messaging."
+        },
+        {
+          "date": "2026-08-15",
+          "edition": "evening",
+          "update": "Iran's Islamic Revolutionary Guard Corps commander claimed that the country's missile attacks on U.S. bases and allied infrastructure in the Gulf region prove that 'Islam can be made to rule the world,' according to the New York Post."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2071,6 +2081,11 @@
           "date": "2026-08-15",
           "edition": "morning",
           "update": "An Israeli airstrike on southern Lebanon killed seven people, according to Lebanese state media. Lebanese Prime Minister called for a clear timetable for Israeli withdrawal from Lebanon, while Hezbollah accused Lebanese officials of exposing the army to Israeli pressure and risk."
+        },
+        {
+          "date": "2026-08-15",
+          "edition": "evening",
+          "update": "Israeli strikes in southern Lebanon killed at least 11 people, including several children, according to Lebanese authorities, with Israel's military stating it targeted Hezbollah infrastructure in response to earlier action against its soldiers. Three Palestinian families reported being trapped inside their West Bank homes for nearly a week, besieged by Israeli settlers, according to Al Jazeera. Palestinians in the West Bank village of Qusra separately reported months of militant settler attacks, according to Reuters."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2926,6 +2941,11 @@
           "date": "2026-08-15",
           "edition": "morning",
           "update": "Reports emerged of a mental health crisis aboard the USS Abraham Lincoln, including incidents of sailors attempting to jump from the ship. Following the departure announcement, Sen. Richard Blumenthal, one of the first lawmakers to raise concerns, responded publicly to Acting Navy Secretary Hung Cao's statement. The Navy's logistics hub was relocated to Diego Garcia, approximately 2,200 miles from the Gulf of Oman, after Iran damaged a U.S. base in Bahrain early in the war."
+        },
+        {
+          "date": "2026-08-15",
+          "edition": "evening",
+          "update": "Iran claimed that Qatar captured three of its pilots on March 2 after their fighter jets were shot down early in the war with the U.S. The Qatari government has not commented on the claim, according to the New York Times."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4680,6 +4700,11 @@
           "date": "2026-08-15",
           "edition": "morning",
           "update": "UAE authorities formally attributed Thursday's drone strikes on the two ADNOC-managed tankers to Iran, confirming the attack was carried out by Iranian drones."
+        },
+        {
+          "date": "2026-08-15",
+          "edition": "evening",
+          "update": "Trump stated on Friday he would declare the Strait of Hormuz U.S. territory and posted at least one AI-generated image of himself seizing an Iranian oil tanker. Iran rejected the assertion, with Iranian Deputy Foreign Minister Kazem Gharibabadi posting a statement on X calling the comments 'fanciful delusions.' Separately, the UAE accused Iran of attacking a third ADNOC vessel in the Strait of Hormuz within a week, with the latest strike occurring Friday as the ship transited the strait. Yemen's Mocha port halted operations after Houthi attacks, according to the port director, marking a significant disruption to the Red Sea coastal facility."
         }
       ]
     },
@@ -5273,7 +5298,7 @@
       "title": "Airport Security Threats and Explosive Device Incidents",
       "parentId": null,
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-14",
+      "lastSeen": "2026-08-15",
       "active": true,
       "entries": [
         {
@@ -5305,9 +5330,14 @@
           "date": "2026-08-14",
           "edition": "evening",
           "update": "The NTSB found evidence of a bird strike as the likely cause of a window shattering aboard a Ryanair flight, an incident in which a passenger was nearly sucked out of the aircraft, according to CBS News."
+        },
+        {
+          "date": "2026-08-15",
+          "edition": "evening",
+          "update": "A man identified as Larry Montes was charged in connection with an attack at Central Synagogue on the Upper East Side of Manhattan on Friday night, where he allegedly disrupted a service, struck a congregant, and assaulted a security staffer, according to the NYPD."
         }
       ]
     }
   ],
-  "updatedAt": "2026-08-15T11:06:30.668Z"
+  "updatedAt": "2026-08-15T21:08:39.310Z"
 }
