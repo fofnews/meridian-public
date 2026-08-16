@@ -329,7 +329,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-09",
+      "lastSeen": "2026-08-16",
       "active": true,
       "entries": [
         {
@@ -451,6 +451,11 @@
           "date": "2026-08-09",
           "edition": "morning",
           "update": "Vice President JD Vance claimed the United States has 'destroyed' Iran's nuclear programme and degraded its military capabilities, according to Al Jazeera."
+        },
+        {
+          "date": "2026-08-16",
+          "edition": "morning",
+          "update": "A false claim that Iran had declared itself a nuclear power spread from a dubious post on X originating in India before reaching Washington, with the NY Times reporting the nuclear assertion as unverified and misleading."
         }
       ],
       "parentId": null
@@ -459,7 +464,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-15",
+      "lastSeen": "2026-08-16",
       "active": true,
       "entries": [
         {
@@ -996,6 +1001,11 @@
           "date": "2026-08-15",
           "edition": "evening",
           "update": "Ukraine announced it struck a Russian rocket centre linked to what it described as a Starlink-style satellite network, according to Reuters. Ukraine also struck targets in Russia's southwestern Samara region using domestically produced Flamingo missiles, according to Al Jazeera."
+        },
+        {
+          "date": "2026-08-16",
+          "edition": "morning",
+          "update": "Ukraine launched one of its largest aerial drone attacks of the war on Sunday, sending hundreds of drones across Russia, killing at least six people. Ukrainian drones also struck the Moscow region, killing one person. Russia launched overnight attacks on Kyiv, injuring three people, and fresh aerial strikes across Ukraine killed three others and sparked a fire at a Kyiv market. A NATO jet shot down a drone over Romanian territory, with Romania's Defence Ministry declining to specify the drone's origin. Former Ukrainian Defense Minister Mykhailo Fedorov, in an exclusive CBS News interview following his dismissal, described the conflict as a 'technological war' with Russia, as protests over his removal continued."
         }
       ],
       "parentId": null
@@ -1004,7 +1014,7 @@
       "id": "sinaloa-cartel-violence",
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-15",
+      "lastSeen": "2026-08-16",
       "active": true,
       "entries": [
         {
@@ -1126,6 +1136,11 @@
           "date": "2026-08-15",
           "edition": "morning",
           "update": "The FBI apprehended Gregory Henderson Jr., a fugitive with alleged Sinaloa Cartel ties, just three days after he was added to the FBI Ten Most Wanted list, with FBI Director Kash Patel announcing the capture."
+        },
+        {
+          "date": "2026-08-16",
+          "edition": "morning",
+          "update": "Nevada man Luis Alberto Osorio pleaded guilty to purchasing 140 firearms, including military-style rifles, and routing them to violent Mexican drug-trafficking organizations through a straw purchase scheme, according to the DOJ."
         }
       ],
       "parentId": null
@@ -1189,7 +1204,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-15",
+      "lastSeen": "2026-08-16",
       "active": true,
       "entries": [
         {
@@ -1481,6 +1496,11 @@
           "date": "2026-08-15",
           "edition": "evening",
           "update": "Iran's Islamic Revolutionary Guard Corps commander claimed that the country's missile attacks on U.S. bases and allied infrastructure in the Gulf region prove that 'Islam can be made to rule the world,' according to the New York Post."
+        },
+        {
+          "date": "2026-08-16",
+          "edition": "morning",
+          "update": "Israel carried out its deadliest attacks on Lebanon since the June truce, killing 11 people including children. Separately, Iran and Oman continued diplomatic talks regarding the Strait of Hormuz."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1644,7 +1664,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-15",
+      "lastSeen": "2026-08-16",
       "active": true,
       "entries": [
         {
@@ -2086,6 +2106,11 @@
           "date": "2026-08-15",
           "edition": "evening",
           "update": "Israeli strikes in southern Lebanon killed at least 11 people, including several children, according to Lebanese authorities, with Israel's military stating it targeted Hezbollah infrastructure in response to earlier action against its soldiers. Three Palestinian families reported being trapped inside their West Bank homes for nearly a week, besieged by Israeli settlers, according to Al Jazeera. Palestinians in the West Bank village of Qusra separately reported months of militant settler attacks, according to Reuters."
+        },
+        {
+          "date": "2026-08-16",
+          "edition": "morning",
+          "update": "Israeli airstrikes struck the Nabatieh district in southern Lebanon hours after what was described as the deadliest day of Israeli raids, prompting families to flee northward."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2094,7 +2119,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-15",
+      "lastSeen": "2026-08-16",
       "active": true,
       "entries": [
         {
@@ -2946,6 +2971,11 @@
           "date": "2026-08-15",
           "edition": "evening",
           "update": "Iran claimed that Qatar captured three of its pilots on March 2 after their fighter jets were shot down early in the war with the U.S. The Qatari government has not commented on the claim, according to the New York Times."
+        },
+        {
+          "date": "2026-08-16",
+          "edition": "morning",
+          "update": "Iran issued a formal statement urging the U.S. to 'accept the reality of defeat and stop indulging in delusions' in response to Trump's Strait of Hormuz territorial claim. The U.S. and Iran are approaching a self-imposed deadline for peace and nuclear program negotiations without reaching an agreement, as the conflict shifts toward an economic confrontation. Qatar denied Iranian reports that it captured three Iranian military pilots, with Iran separately disputing accounts from Qatar and Kuwait regarding captured Iranian personnel. Asian allies have raised doubts about whether the U.S. would or could defend them in a conflict, citing the Trump administration's focus on Iran as China expands its regional influence."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3780,7 +3810,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-15",
+      "lastSeen": "2026-08-16",
       "active": true
     },
     {
@@ -4338,7 +4368,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-08-15",
+      "lastSeen": "2026-08-16",
       "active": true,
       "entries": [
         {
@@ -4705,6 +4735,11 @@
           "date": "2026-08-15",
           "edition": "evening",
           "update": "Trump stated on Friday he would declare the Strait of Hormuz U.S. territory and posted at least one AI-generated image of himself seizing an Iranian oil tanker. Iran rejected the assertion, with Iranian Deputy Foreign Minister Kazem Gharibabadi posting a statement on X calling the comments 'fanciful delusions.' Separately, the UAE accused Iran of attacking a third ADNOC vessel in the Strait of Hormuz within a week, with the latest strike occurring Friday as the ship transited the strait. Yemen's Mocha port halted operations after Houthi attacks, according to the port director, marking a significant disruption to the Red Sea coastal facility."
+        },
+        {
+          "date": "2026-08-16",
+          "edition": "morning",
+          "update": "The UAE's third ADNOC vessel attack within a single week, previously reported as occurring Friday, was confirmed as part of a pattern of Iranian drone strikes on state-owned oil infrastructure in the Strait of Hormuz."
         }
       ]
     },
@@ -5339,5 +5374,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-15T21:08:39.310Z"
+  "updatedAt": "2026-08-16T11:04:12.127Z"
 }
