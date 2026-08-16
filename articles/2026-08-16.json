@@ -1306,5 +1306,47 @@
       "social security administration"
     ],
     "collectedAt": "2026-08-16T10:15:01.216Z"
+  },
+  {
+    "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+    "description": "Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv's largest aerial attacks of the war.",
+    "link": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
+    "pubDate": "Sun, 16 Aug 2026 06:12:09 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-08-16T10:30:01.269Z"
+  },
+  {
+    "title": "Indiana Floods Kill 6 People: Where Are Warnings Still in Place?",
+    "description": "Historic Indiana flooding kills 5, forces evacuations and rescues as flood warnings remain active across the state.",
+    "link": "https://www.newsweek.com/indiana-floods-kill-6-people-where-are-warnings-still-in-place-12328534",
+    "pubDate": "Sun, 16 Aug 2026 06:23:06 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-16T10:30:01.269Z"
+  },
+  {
+    "title": "The Memo: AOC 2028? Dems feel trepidation and excitement over Ocasio-Cortez",
+    "description": "Speculation about a presidential run by Rep. Alexandria Ocasio-Cortez (D-N.Y.) in 2028 is rising to its highest pitch yet — and some people are putting their money on it. AOC, as she is commonly known, now leads the field for the Democratic presidential nomination on the two best-known betting markets, Kalshi and Polymarket. Even if…",
+    "link": "https://thehill.com/homenews/campaign/6031017-aoc-2028-presidential-run-speculation/",
+    "pubDate": "Sun, 16 Aug 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "news"
+    ],
+    "collectedAt": "2026-08-16T10:30:01.269Z"
+  },
+  {
+    "title": "Supreme Court emergency docket roars back",
+    "description": "The Supreme Court’s emergency docket has flared up in the thick of the justices’ summer recess.  President Trump is urging the justices to revive his mail ballot restrictions and allow White House ballroom construction to resume. It again puts the high court in the hot seat after its string of key rulings on other aspects of…",
+    "link": "https://thehill.com/regulation/court-battles/6030687-supreme-court-emergency-docket-trump-ballroom-mail-ballots/",
+    "pubDate": "Sun, 16 Aug 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "court battles",
+      "news"
+    ],
+    "collectedAt": "2026-08-16T10:30:01.269Z"
   }
 ]
