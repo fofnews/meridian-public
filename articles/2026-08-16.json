@@ -69,5 +69,47 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-16T04:15:02.257Z"
+  },
+  {
+    "title": "Va. State shooting: Suspect arrested, found hiding in dorm closet, police say",
+    "description": "A suspect in the shooting at Virginia State University early Saturday that left five people wounded, including one critically, has been arrested, according to police.",
+    "link": "https://abcnews.com/US/5-injured-shooting-virginia-state-university-arrests-made/story?id=135669705",
+    "pubDate": "Sun, 16 Aug 2026 00:37:35 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-08-16T04:45:01.285Z"
+  },
+  {
+    "title": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
+    "description": "Australia introduced measures to reduce gun ownership following a deadly attack on Sydney's Bondi Beach last year.",
+    "link": "https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss",
+    "pubDate": "Sun, 16 Aug 2026 04:35:26 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-16T04:45:01.285Z"
+  },
+  {
+    "title": "Yemeni government forces hit back after new Houthi offensive",
+    "description": "Yemeni government forces, backed by Saudi Arabia, have struck back after a new Houthi offensive in areas it controls.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss",
+    "pubDate": "Sun, 16 Aug 2026 04:09:01 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-08-16T04:45:01.285Z"
+  },
+  {
+    "title": "Hurricane Lala leaves thousands without power in Hawaii amid ‘life-threatening’ conditions",
+    "description": "Hawaiian Electric warned customers to expect “possible extended outages, potentially overnight,” as the storm system made its way westward across Hawaii.",
+    "link": "https://nypost.com/2026/08/16/us-news/hurricane-lala-leaves-thousands-without-power-in-hawaii-amid-life-threatening-conditions/",
+    "pubDate": "Sun, 16 Aug 2026 00:33:06 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-16T04:45:01.285Z"
   }
 ]
