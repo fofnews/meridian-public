@@ -1841,5 +1841,62 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-16T12:30:02.236Z"
+  },
+  {
+    "title": "BBC visits smouldering market in Ukraine after strikes",
+    "description": "Six people were injured in the strike on the market selling second-hand records, posters, toys and tools.",
+    "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 16 Aug 2026 12:18:09 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-16T12:45:02.017Z"
+  },
+  {
+    "title": "UK-made drones strike targets inside Russia",
+    "description": "The drones have been used for the first time in mainland Russia to hit military and industrial targets.",
+    "link": "https://www.bbc.co.uk/news/articles/c5ywwv2pp44o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 16 Aug 2026 12:22:25 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-16T12:45:02.017Z"
+  },
+  {
+    "title": "Carolina Panthers betting outlook: 2026 season hinges on Bryce Young hitting 20.5 touchdowns",
+    "description": "Bryce Young enters a make-or-break fourth season as Dave Canales and the Carolina Panthers aim to prove their playoff appearance was no fluke.",
+    "link": "https://www.foxnews.com/outkick-sports/carolina-panthers-betting-outlook-2026-season-hinges-bryce-young-hitting-20-5-touchdowns",
+    "pubDate": "Sun, 16 Aug 2026 08:31:44 -0400",
+    "source": "Fox News",
+    "categories": [
+      "cd471f05-7937-55ed-ad96-1809ddb2e736",
+      "fnc",
+      "fox news",
+      "fox-news/sports/nfl/carolina-panthers",
+      "fox-news/person/bryce-young",
+      "fox-news/sports/sports-gambling",
+      "fox-news/sports/nfl",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-08-16T12:45:02.017Z"
+  },
+  {
+    "title": "Cardinals vs Cubs baseball betting picks: Why the over looks strong in this afternoon matchup",
+    "description": "The Cardinals face the Cubs at Wrigley as St. Louis deals with trade deadline fallout while Chicago pushes to close a three-game gap on the Brewers.",
+    "link": "https://www.foxnews.com/outkick-sports/cardinals-vs-cubs-baseball-betting-picks-why-over-looks-strong-afternoon-matchup",
+    "pubDate": "Sun, 16 Aug 2026 08:30:02 -0400",
+    "source": "Fox News",
+    "categories": [
+      "18ceba7b-981d-5c5d-ab05-b3caad4fe6d2",
+      "fnc",
+      "fox news",
+      "fox-news/sports/mlb/chicago-cubs",
+      "fox-news/sports/mlb/st-louis-cardinals",
+      "fox-news/sports/mlb",
+      "fox-news/sports/sports-gambling",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-08-16T12:45:02.017Z"
   }
 ]
