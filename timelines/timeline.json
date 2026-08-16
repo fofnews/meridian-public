@@ -1006,6 +1006,11 @@
           "date": "2026-08-16",
           "edition": "morning",
           "update": "Ukraine launched one of its largest aerial attacks of the war, sending hundreds of drones across Russia on Sunday, killing at least six people. Russian strikes killed three people across Ukraine, with firefighters responding to a market fire in Kyiv. Ukrainian drones struck the Moscow region, killing one person. A NATO jet shot down a drone over Romanian territory, with Romania's Defence Ministry not specifying its origin. Ousted Ukrainian Defense Minister Mykhailo Fedorov, credited as the architect of Ukraine's modern war-fighting strategy, gave an exclusive interview to CBS News describing the conflict as a 'technological war.' A Ukrainian bank worker, his mother, and girlfriend face terrorism charges and a potential life sentence in Russia, with all three maintaining innocence."
+        },
+        {
+          "date": "2026-08-16",
+          "edition": "evening",
+          "update": "Russia reported its largest Ukrainian drone attack to date, with 822 drones shot down across Russian territory during Sunday's assault, which struck a Wildberries logistics hub. UK-made drones were used for the first time to strike military and industrial targets inside mainland Russia, according to BBC News. Six people were injured in a strike on a second-hand market in Ukraine that was still smouldering when visited by BBC News."
         }
       ],
       "parentId": null
@@ -1141,6 +1146,11 @@
           "date": "2026-08-16",
           "edition": "morning",
           "update": "Nevada man Luis Alberto Osorio admitted to purchasing 140 firearms, including military-style rifles, and funneling them to violent Mexican drug-trafficking organizations in a straw purchase scheme, according to the DOJ."
+        },
+        {
+          "date": "2026-08-16",
+          "edition": "evening",
+          "update": "Osorio faces up to 70 years in prison, with sentencing scheduled for February, according to the DOJ."
         }
       ],
       "parentId": null
@@ -1149,7 +1159,7 @@
       "id": "iran-protests-and-crackdown",
       "title": "Iran Protests and Crackdown",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-09",
+      "lastSeen": "2026-08-16",
       "active": true,
       "entries": [
         {
@@ -1196,6 +1206,11 @@
           "date": "2026-08-09",
           "edition": "evening",
           "update": "Iran carried out public executions as part of an expanded crackdown on dissent following months of conflict with the U.S. and mass protests in January, according to ABC News."
+        },
+        {
+          "date": "2026-08-16",
+          "edition": "evening",
+          "update": "Iran's parliament voted to further criminalize interviews given by citizens to media outlets deemed 'hostile,' expanding existing restrictions on press freedom."
         }
       ],
       "parentId": null
@@ -2981,6 +2996,11 @@
           "date": "2026-08-16",
           "edition": "morning",
           "update": "Iran dismissed Trump's claim that the U.S. would take control of the Strait of Hormuz, calling the plan 'delusions.' Asian allies are growing uncertain about U.S. security commitments as the Trump administration focuses on Iran while China expands its presence in the region, according to the NY Times. The U.S. and Iran are set to miss a self-imposed deadline to broker peace terms and reach an agreement on Iran's nuclear program, with their conflict shifting increasingly to an economic battleground."
+        },
+        {
+          "date": "2026-08-16",
+          "edition": "evening",
+          "update": "Sen. Ruben Gallego (D-AZ) publicly opposed granting the Pentagon an additional $17 billion in military operational funding tied to the Iran war, comparing it to giving money to someone with an addiction. Millions of Iranians are facing worsening financial conditions as conflict-linked economic pressures drive prices higher and restrict economic activity."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4750,6 +4770,11 @@
           "date": "2026-08-16",
           "edition": "morning",
           "update": "Iran struck a fourth ship in the Strait of Hormuz, according to CBS News, following three earlier drone strikes on ADNOC-managed vessels within the same week. Lebanese health authorities reported Israeli strikes in southern Lebanon killed at least 11 people, including children."
+        },
+        {
+          "date": "2026-08-16",
+          "edition": "evening",
+          "update": "Iran-backed Houthi forces are escalating attacks near the Bab el-Mandeb Strait, raising concerns the chokepoint could become a second Strait of Hormuz."
         }
       ]
     },
@@ -5387,7 +5412,22 @@
           "update": "A man identified as Larry Montes was charged in connection with an attack at Central Synagogue on the Upper East Side of Manhattan on Friday night, where he allegedly disrupted a service, struck a congregant, and assaulted a security staffer, according to the NYPD."
         }
       ]
+    },
+    {
+      "id": "gaza-peace-negotiations-and-mediation-efforts",
+      "title": "Gaza Peace Negotiations and Mediation Efforts",
+      "parentId": "middle-east-military-conflicts-2026",
+      "firstSeen": "2026-08-16",
+      "lastSeen": "2026-08-16",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-08-16",
+          "edition": "evening",
+          "update": "Jared Kushner held a rare meeting with Hamas leadership in Egypt as part of a diplomatic effort to advance a Gaza peace deal. The meeting came one week after Israeli Prime Minister Netanyahu rejected a peace proposal."
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-08-16T11:05:04.451Z"
+  "updatedAt": "2026-08-16T21:04:54.282Z"
 }
