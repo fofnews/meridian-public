@@ -1622,7 +1622,7 @@
     "pubDate": "Sun, 16 Aug 2026 08:06:55 -0400",
     "source": "Newsweek",
     "categories": [],
-    "collectedAt": "2026-08-16T12:15:01.573Z"
+    "collectedAt": "2026-08-16T12:15:01.647Z"
   },
   {
     "title": "Murder inquiry after man bitten by dog dies",
@@ -1631,7 +1631,7 @@
     "pubDate": "Sun, 16 Aug 2026 11:57:41 GMT",
     "source": "BBC News",
     "categories": [],
-    "collectedAt": "2026-08-16T12:15:01.573Z"
+    "collectedAt": "2026-08-16T12:15:01.647Z"
   },
   {
     "title": "The Mediterranean diet is the best out there. Here’s why Americans struggle with it.",
@@ -1640,7 +1640,7 @@
     "pubDate": "Sun, 16 Aug 2026 12:00:00 GMT",
     "source": "Wall Street Journal",
     "categories": [],
-    "collectedAt": "2026-08-16T12:15:01.573Z"
+    "collectedAt": "2026-08-16T12:15:01.647Z"
   },
   {
     "title": "Coach Sean McVay on Aaron Donald return to the Los Angeles Rams: 'We are not at that point quite yet'",
@@ -1659,7 +1659,7 @@
       "fox-news/sports",
       "article"
     ],
-    "collectedAt": "2026-08-16T12:15:01.573Z"
+    "collectedAt": "2026-08-16T12:15:01.647Z"
   },
   {
     "title": "What Taylor Sheridan's biggest stars really think about working with the 'Yellowstone' creator",
@@ -1677,7 +1677,7 @@
       "fox-news/entertainment",
       "article"
     ],
-    "collectedAt": "2026-08-16T12:15:01.573Z"
+    "collectedAt": "2026-08-16T12:15:01.647Z"
   },
   {
     "title": "Move over, Aperol: Viral Italian spritz arrives in US with eye-catching twist",
@@ -1699,7 +1699,7 @@
       "fox-news/food-drink",
       "article"
     ],
-    "collectedAt": "2026-08-16T12:15:01.573Z"
+    "collectedAt": "2026-08-16T12:15:01.647Z"
   },
   {
     "title": "Family killer Chris Watts seeks prison marriage with new love interest: report",
@@ -1719,7 +1719,7 @@
       "fox-news/us",
       "article"
     ],
-    "collectedAt": "2026-08-16T12:15:01.573Z"
+    "collectedAt": "2026-08-16T12:15:01.647Z"
   },
   {
     "title": "Vacation nightmare unfolds as ferry passengers battle seasickness at island hot spot",
@@ -1741,7 +1741,7 @@
       "fox-news/travel",
       "article"
     ],
-    "collectedAt": "2026-08-16T12:15:01.573Z"
+    "collectedAt": "2026-08-16T12:15:01.647Z"
   },
   {
     "title": "It's wise not to trust the NFL preseason but, holy moly, Rams QB Ty Simpson looks like a stud",
@@ -1759,7 +1759,7 @@
       "fox-news/sports",
       "article"
     ],
-    "collectedAt": "2026-08-16T12:15:01.573Z"
+    "collectedAt": "2026-08-16T12:15:01.647Z"
   },
   {
     "title": "Virginia State University shooting suspect found hiding in dorm closet arrested",
@@ -1779,7 +1779,7 @@
       "fox-news/us",
       "article"
     ],
-    "collectedAt": "2026-08-16T12:15:01.573Z"
+    "collectedAt": "2026-08-16T12:15:01.647Z"
   },
   {
     "title": "At least one killed, four wounded in Hartford shooting",
@@ -1788,7 +1788,7 @@
     "pubDate": "Sun, 16 Aug 2026 08:00:11 -0400",
     "source": "New York Post",
     "categories": [],
-    "collectedAt": "2026-08-16T12:15:01.573Z"
+    "collectedAt": "2026-08-16T12:15:01.647Z"
   },
   {
     "title": "How Taylor Sheridan built a $1B TV empire, without needing Hollywood, A-listers or Emmys",
@@ -1797,7 +1797,7 @@
     "pubDate": "Sun, 16 Aug 2026 08:00:00 -0400",
     "source": "New York Post",
     "categories": [],
-    "collectedAt": "2026-08-16T12:15:01.573Z"
+    "collectedAt": "2026-08-16T12:15:01.647Z"
   },
   {
     "title": "So fetch! ‘Fur babies’ and real babies now share same most-popular names",
@@ -1806,6 +1806,40 @@
     "pubDate": "Sun, 16 Aug 2026 08:00:00 -0400",
     "source": "New York Post",
     "categories": [],
-    "collectedAt": "2026-08-16T12:15:01.573Z"
+    "collectedAt": "2026-08-16T12:15:01.647Z"
+  },
+  {
+    "title": "‘Spearhead of annexation’: Israel hands West Bank rule to civilian police",
+    "description": "Israel's transfer of West Bank policing to civilian forces cements de facto annexation and empowers settler militias.",
+    "link": "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss",
+    "pubDate": "Sun, 16 Aug 2026 11:54:55 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-16T12:30:02.236Z"
+  },
+  {
+    "title": "Trump pushes Senate to vote on permanent daylight saving time bill ‘as soon as possible’",
+    "description": "President Trump on Saturday again urged senators to vote on a bill to make daylight saving time permanent, a measure some Republicans in the upper chamber oppose. “The Senate must vote on the NO MORE CHANGING THE CLOCKS ACT as soon as possible,” Trump wrote on Truth Social, referring to the Sunshine Protection Act of…",
+    "link": "https://thehill.com/homenews/administration/6031829-trump-urges-senate-daylight-saving-bill/",
+    "pubDate": "Sun, 16 Aug 2026 12:02:54 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "house",
+      "news",
+      "senate"
+    ],
+    "collectedAt": "2026-08-16T12:30:02.236Z"
+  },
+  {
+    "title": "NYC synagogue attack victim punches back at unhinged attacker: ‘We will continue to sing’",
+    "description": "The victim of Friday night’s attack on a prominent Big Apple synagogue is defiantly punching back against her unhinged attacker.",
+    "link": "https://nypost.com/2026/08/16/us-news/nyc-synagogue-attack-victim-punches-back-at-unhinged-attacker/",
+    "pubDate": "Sun, 16 Aug 2026 08:26:10 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-16T12:30:02.236Z"
   }
 ]
