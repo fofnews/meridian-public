@@ -5319,5 +5319,69 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-16T20:30:01.351Z"
+  },
+  {
+    "title": "Indiana Prepares for More Rain After Days of Deadly Storms",
+    "description": "Since last week, hazardous weather has caused seven deaths, forced people from their homes and required some to be rescued by boat. The region was at risk for more flooding on Sunday.",
+    "link": "https://www.nytimes.com/2026/08/16/us/indiana-storms-flooding.html",
+    "pubDate": "Sun, 16 Aug 2026 19:59:17 +0000",
+    "source": "NY Times",
+    "categories": [
+      "rain",
+      "floods",
+      "indiana",
+      "evacuations and evacuees",
+      "disasters and emergencies"
+    ],
+    "collectedAt": "2026-08-16T20:45:01.774Z"
+  },
+  {
+    "title": "After Trump Says Carrier Deployment Not Long Enough, Mullen Warns of Risks",
+    "description": "About 5,000 sailors and Marines are aboard the carrier, which has operated for more than 200 consecutive days without a port call.",
+    "link": "https://www.newsweek.com/after-trump-says-carrier-deployment-not-long-enough-mullen-warns-of-risks-12329235",
+    "pubDate": "Sun, 16 Aug 2026 16:33:29 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-16T20:45:01.774Z"
+  },
+  {
+    "title": "Cristiano Ronaldo says 'this is probably my last year' as legendary soccer star looks to future",
+    "description": "Cristiano Ronaldo said that this upcoming season will likely be his last, as the 41-year-old Al-Nassr star plans life after 25 years of soccer.",
+    "link": "https://www.foxnews.com/sports/cristiano-ronaldo-says-probably-last-year-legendary-soccer-star-looks-future",
+    "pubDate": "Sun, 16 Aug 2026 16:27:05 -0400",
+    "source": "Fox News",
+    "categories": [
+      "9da79a25-6a5e-5458-8ff2-eb7bc2fe2c07",
+      "fnc",
+      "fox news",
+      "fox-news/sports/soccer",
+      "fox-news/sports/soccer/the-world-cup",
+      "fox-news/person/cristiano-ronaldo",
+      "fox-news/sports",
+      "fox-news/topic/trending-news",
+      "fox-news/sports",
+      "article"
+    ],
+    "collectedAt": "2026-08-16T20:45:01.774Z"
+  },
+  {
+    "title": "Your waistline could reveal a hidden heart risk your BMI misses, major study finds",
+    "description": "Visceral fat around abdominal organs drives inflammation, insulin resistance, and artery damage in ways BMI alone cannot detect, a dietitian says.",
+    "link": "https://www.foxnews.com/health/your-waistline-could-reveal-hidden-heart-risk-your-bmi-misses-major-study-finds",
+    "pubDate": "Sun, 16 Aug 2026 16:24:01 -0400",
+    "source": "Fox News",
+    "categories": [
+      "47bcfec8-12a4-59a1-bbab-1f0ad10aeaad",
+      "fnc",
+      "fox news",
+      "fox-news/health",
+      "fox-news/health/medical-research",
+      "fox-news/health/heart-health",
+      "fox-news/health/wellness",
+      "fox-news/health/nutrition-and-fitness/weight-loss",
+      "fox-news/health",
+      "article"
+    ],
+    "collectedAt": "2026-08-16T20:45:01.774Z"
   }
 ]
