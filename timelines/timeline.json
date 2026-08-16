@@ -455,7 +455,7 @@
         {
           "date": "2026-08-16",
           "edition": "morning",
-          "update": "A false claim that Iran had declared itself a nuclear power spread from a dubious post on X originating in India before reaching Washington, with the NY Times reporting the nuclear assertion as unverified and misleading."
+          "update": "A false claim that Iran had declared itself a nuclear power originated from a dubious post on X and spread from India to Washington, with the New York Times tracing how the misinformation ricocheted across platforms and into public discourse."
         }
       ],
       "parentId": null
@@ -1005,7 +1005,7 @@
         {
           "date": "2026-08-16",
           "edition": "morning",
-          "update": "Ukraine launched one of its largest aerial drone attacks of the war on Sunday, sending hundreds of drones across Russia, killing at least six people. Ukrainian drones also struck the Moscow region, killing one person. Russia launched overnight attacks on Kyiv, injuring three people, and fresh aerial strikes across Ukraine killed three others and sparked a fire at a Kyiv market. A NATO jet shot down a drone over Romanian territory, with Romania's Defence Ministry declining to specify the drone's origin. Former Ukrainian Defense Minister Mykhailo Fedorov, in an exclusive CBS News interview following his dismissal, described the conflict as a 'technological war' with Russia, as protests over his removal continued."
+          "update": "Ukraine launched one of its largest aerial attacks of the war, sending hundreds of drones across Russia on Sunday, killing at least six people. Russian strikes killed three people across Ukraine, with firefighters responding to a market fire in Kyiv. Ukrainian drones struck the Moscow region, killing one person. A NATO jet shot down a drone over Romanian territory, with Romania's Defence Ministry not specifying its origin. Ousted Ukrainian Defense Minister Mykhailo Fedorov, credited as the architect of Ukraine's modern war-fighting strategy, gave an exclusive interview to CBS News describing the conflict as a 'technological war.' A Ukrainian bank worker, his mother, and girlfriend face terrorism charges and a potential life sentence in Russia, with all three maintaining innocence."
         }
       ],
       "parentId": null
@@ -1140,7 +1140,7 @@
         {
           "date": "2026-08-16",
           "edition": "morning",
-          "update": "Nevada man Luis Alberto Osorio pleaded guilty to purchasing 140 firearms, including military-style rifles, and routing them to violent Mexican drug-trafficking organizations through a straw purchase scheme, according to the DOJ."
+          "update": "Nevada man Luis Alberto Osorio admitted to purchasing 140 firearms, including military-style rifles, and funneling them to violent Mexican drug-trafficking organizations in a straw purchase scheme, according to the DOJ."
         }
       ],
       "parentId": null
@@ -1500,7 +1500,7 @@
         {
           "date": "2026-08-16",
           "edition": "morning",
-          "update": "Israel carried out its deadliest attacks on Lebanon since the June truce, killing 11 people including children. Separately, Iran and Oman continued diplomatic talks regarding the Strait of Hormuz."
+          "update": "Israel carried out its deadliest attacks on Lebanon since the June truce, killing 11 people, while Iran and Oman continued talks regarding the Strait of Hormuz."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1509,7 +1509,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-08-10",
+      "lastSeen": "2026-08-16",
       "active": true,
       "entries": [
         {
@@ -1656,6 +1656,11 @@
           "date": "2026-08-10",
           "edition": "morning",
           "update": "Iran released a rare video showing Supreme Leader Ali Khamenei appearing in good condition, though public speculation about his health and prolonged absence from public view continues."
+        },
+        {
+          "date": "2026-08-16",
+          "edition": "morning",
+          "update": "Iran disputed accounts from Qatar and Kuwait regarding captured Iranian personnel, according to Reuters."
         }
       ],
       "parentId": null
@@ -2110,7 +2115,7 @@
         {
           "date": "2026-08-16",
           "edition": "morning",
-          "update": "Israeli airstrikes struck the Nabatieh district in southern Lebanon hours after what was described as the deadliest day of Israeli raids, prompting families to flee northward."
+          "update": "Israeli airstrikes struck the Nabatieh district in southern Lebanon hours after what was reported as the deadliest day of Israeli raids, prompting families to flee northward."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2975,7 +2980,7 @@
         {
           "date": "2026-08-16",
           "edition": "morning",
-          "update": "Iran issued a formal statement urging the U.S. to 'accept the reality of defeat and stop indulging in delusions' in response to Trump's Strait of Hormuz territorial claim. The U.S. and Iran are approaching a self-imposed deadline for peace and nuclear program negotiations without reaching an agreement, as the conflict shifts toward an economic confrontation. Qatar denied Iranian reports that it captured three Iranian military pilots, with Iran separately disputing accounts from Qatar and Kuwait regarding captured Iranian personnel. Asian allies have raised doubts about whether the U.S. would or could defend them in a conflict, citing the Trump administration's focus on Iran as China expands its regional influence."
+          "update": "Iran dismissed Trump's claim that the U.S. would take control of the Strait of Hormuz, calling the plan 'delusions.' Asian allies are growing uncertain about U.S. security commitments as the Trump administration focuses on Iran while China expands its presence in the region, according to the NY Times. The U.S. and Iran are set to miss a self-imposed deadline to broker peace terms and reach an agreement on Iran's nuclear program, with their conflict shifting increasingly to an economic battleground."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3833,7 +3838,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-08-15",
+      "lastSeen": "2026-08-16",
       "active": true,
       "entries": [
         {
@@ -4080,6 +4085,11 @@
           "date": "2026-08-15",
           "edition": "morning",
           "update": "Iranian Foreign Minister Abbas Araghchi stated that no decision has been made on returning to talks with the U.S., while indicating Iran is working through Oman as a diplomatic channel and that Strait of Hormuz shipping access is conditional on the U.S. meeting certain conditions."
+        },
+        {
+          "date": "2026-08-16",
+          "edition": "morning",
+          "update": "Iran called on the U.S. to 'accept the reality of defeat and stop indulging in delusions' in response to Trump's suggestion that he would declare the Strait of Hormuz U.S. territory. State Department spokesperson Tommy Pigott addressed the situation with Iran and the revocation of U.S. visas affecting hundreds of thousands of foreign nationals in an NPR interview."
         }
       ]
     },
@@ -4739,7 +4749,7 @@
         {
           "date": "2026-08-16",
           "edition": "morning",
-          "update": "The UAE's third ADNOC vessel attack within a single week, previously reported as occurring Friday, was confirmed as part of a pattern of Iranian drone strikes on state-owned oil infrastructure in the Strait of Hormuz."
+          "update": "Iran struck a fourth ship in the Strait of Hormuz, according to CBS News, following three earlier drone strikes on ADNOC-managed vessels within the same week. Lebanese health authorities reported Israeli strikes in southern Lebanon killed at least 11 people, including children."
         }
       ]
     },
@@ -5093,7 +5103,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-15",
+      "lastSeen": "2026-08-16",
       "active": true,
       "entries": [
         {
@@ -5230,6 +5240,11 @@
           "date": "2026-08-15",
           "edition": "morning",
           "update": "Six Houthi ballistic missiles struck the government-held port of al-Makha in Yemen, killing at least four people, in an attack Yemen's internationally recognized government said is eroding the existing truce between the two sides."
+        },
+        {
+          "date": "2026-08-16",
+          "edition": "morning",
+          "update": "Yemen's Ministry of Information condemned Houthi strikes on residential areas in Marib as an 'escalation' threatening civilian lives. Hamas chief Khalil al-Hayya traveled to Cairo to meet Egyptian intelligence chief Hassan Rashad for Gaza talks ahead of Jared Kushner's planned regional visit. Saudi-backed Yemeni government forces launched retaliatory strikes against Houthi fighters following a new Houthi offensive in government-controlled areas."
         }
       ]
     },
@@ -5374,5 +5389,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-16T11:04:12.127Z"
+  "updatedAt": "2026-08-16T11:05:04.451Z"
 }
