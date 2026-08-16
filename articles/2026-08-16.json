@@ -129,5 +129,54 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-16T05:00:01.235Z"
+  },
+  {
+    "title": "The Papers: UK-made drones 'strike Russia' and 'phone theft Britain'",
+    "description": "Ukraine uses UK British-made drones to strike Russia and 230 phones a day stolen in the UK lead the Sunday papers.",
+    "link": "https://www.bbc.co.uk/news/articles/c4gvv07ww42o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 16 Aug 2026 05:10:55 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-16T05:15:01.848Z"
+  },
+  {
+    "title": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
+    "description": "Romania's Defence Ministry didn't specify origin of the drone but has previously blamed Russia for similar incidents.",
+    "link": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
+    "pubDate": "Sun, 16 Aug 2026 04:54:33 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-16T05:15:01.848Z"
+  },
+  {
+    "title": "Israel strikes south Lebanon again as families flee north",
+    "description": "Israeli airstrikes hit the Nabatieh district of southern Lebanon just hours after the deadliest day of Israeli raids.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss",
+    "pubDate": "Sun, 16 Aug 2026 04:43:21 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-08-16T05:15:01.848Z"
+  },
+  {
+    "title": "Thousands evacuate after Indonesia quake kills 51, cuts roads - Reuters",
+    "description": "Thousands evacuate after Indonesia quake kills 51, cuts roads  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEJFQktERVZJaDU5NFZfV0ZKZWpwc0FzYzR1SUJYeFF4Z1U5SVQxenBacVFDM1lNdGNRTnhXSVFBQTlFZVpEaGlsX1J0MzY1cHN5bllZQ0hMNVlvcnAtRlFmYWRKYzZORnZibTluNWJkVk5sdExHQWduODdCcEZ1OXVGSXd0ZHFmTS00OWhPeVpxQ2lpYWZheUZKWmZFZWM4N0RGeEhOSlM4WXliOWNfY0NWZ0JuRENL?oc=5",
+    "pubDate": "Sun, 16 Aug 2026 04:31:37 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-08-16T05:15:01.848Z"
+  },
+  {
+    "title": "Islam Makhachev now in UFC record books thanks to hallmark consistency",
+    "description": "Islam Makhachev tallied consecutive win No. 17 at UFC 330, beating first-time welterweight title challenger Ian Machado Garry via unanimous decision.",
+    "link": "https://nypost.com/2026/08/16/sports/islam-makhachev-now-in-ufc-record-books-thanks-to-hallmark-consistency/",
+    "pubDate": "Sun, 16 Aug 2026 01:11:16 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-16T05:15:01.848Z"
   }
 ]
