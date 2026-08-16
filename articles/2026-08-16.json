@@ -1531,5 +1531,50 @@
     "source": "BBC News",
     "categories": [],
     "collectedAt": "2026-08-16T11:30:04.736Z"
+  },
+  {
+    "title": "Major Ukrainian strike on Moscow sets Wildberries hub ablaze, grounds flights",
+    "description": "Russian air defenses in the Moscow region shot down at least 201 Ukrainian drones overnight and into Sunday morning, according to the city's Mayor Sergey Sobyanin.",
+    "link": "https://abcnews.com/International/ukraine-launches-600-drones-moscow-major-barrage-mayor/story?id=135684267",
+    "pubDate": "Sun, 16 Aug 2026 06:46:28 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-08-16T11:45:01.769Z"
+  },
+  {
+    "title": "Four Renaissance paintings stolen from museum in Italy",
+    "description": "Local officials have expressed their dismay and sadness at the theft which occurred during celebrations of the Virgin Mary.",
+    "link": "https://www.cbsnews.com/news/renaissance-paintings-stolen-museum-italy/",
+    "pubDate": "Sun, 16 Aug 2026 07:35:13 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-08-16T11:45:01.769Z"
+  },
+  {
+    "title": "Bot Meets Bot",
+    "description": "Are we ready for a world where machines are mostly talking to each other?",
+    "link": "https://www.nytimes.com/2026/08/16/briefing/chatbots-talking-to-each-other.html",
+    "pubDate": "Sun, 16 Aug 2026 11:31:33 +0000",
+    "source": "NY Times",
+    "categories": [
+      "internal-storyline-no",
+      "chatgpt",
+      "computers and the internet",
+      "artificial intelligence"
+    ],
+    "collectedAt": "2026-08-16T11:45:01.769Z"
+  },
+  {
+    "title": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
+    "description": "US president has yet another outlandish threat for Iran, with no end to war in sight.",
+    "link": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss",
+    "pubDate": "Sun, 16 Aug 2026 11:14:23 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-16T11:45:01.769Z"
   }
 ]
