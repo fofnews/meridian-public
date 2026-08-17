@@ -2139,7 +2139,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-16",
+      "lastSeen": "2026-08-17",
       "active": true,
       "entries": [
         {
@@ -3001,6 +3001,11 @@
           "date": "2026-08-16",
           "edition": "evening",
           "update": "Democratic Sen. Ruben Gallego voiced strong opposition on ABC's 'This Week' to the Pentagon's requested $17 billion in military operational funding, comparing it to 'giving a drunk more money.' Millions of Iranians are reported to be struggling financially as ongoing conflict with the U.S. drives up prices and limits economic options for ordinary citizens."
+        },
+        {
+          "date": "2026-08-17",
+          "edition": "morning",
+          "update": "The 60-day deadline for the U.S. and Iran to reach a broader deal and reopen the Strait of Hormuz expired Monday with no agreement reached, with the two sides described as far apart despite Trump's earlier assertions that a June ceasefire would lead to limits on Iran's nuclear program. Iranian Parliament Speaker and top negotiator Mohammad Baqer Qalibaf declared both a military and political victory for Iran in what he characterized as a war against the U.S. and Israel. Iran's Supreme Leader Ayatollah Mojtaba Khamenei appointed hard-line loyalists to top positions, signaling an intention to keep the country on a war footing and suppress domestic dissent, according to the NY Times."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3835,7 +3840,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-16",
+      "lastSeen": "2026-08-17",
       "active": true
     },
     {
@@ -4398,7 +4403,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-08-16",
+      "lastSeen": "2026-08-17",
       "active": true,
       "entries": [
         {
@@ -4775,6 +4780,11 @@
           "date": "2026-08-16",
           "edition": "evening",
           "update": "Iran-backed Houthis are reportedly exploiting Yemen's fractured state to threaten the Bab el-Mandeb Strait, raising concerns the waterway could become a second critical maritime chokepoint alongside the Strait of Hormuz."
+        },
+        {
+          "date": "2026-08-17",
+          "edition": "morning",
+          "update": "Oil prices held steady and shipping traffic through the Strait of Hormuz slowed following the tanker attacks, according to Reuters shipping data. Diego Garcia was described by officials as 'integral' to U.S. operations in the region after the Iranian strike on Bahrain forced the Pentagon to shift carrier strike group logistics there."
         }
       ]
     },
@@ -5128,7 +5138,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-16",
+      "lastSeen": "2026-08-17",
       "active": true,
       "entries": [
         {
@@ -5270,6 +5280,11 @@
           "date": "2026-08-16",
           "edition": "morning",
           "update": "Yemen's Ministry of Information condemned Houthi strikes on residential areas in Marib as an 'escalation' threatening civilian lives. Hamas chief Khalil al-Hayya traveled to Cairo to meet Egyptian intelligence chief Hassan Rashad for Gaza talks ahead of Jared Kushner's planned regional visit. Saudi-backed Yemeni government forces launched retaliatory strikes against Houthi fighters following a new Houthi offensive in government-controlled areas."
+        },
+        {
+          "date": "2026-08-17",
+          "edition": "morning",
+          "update": "UN Special Rapporteur Francesca Albanese stated that Israel bears responsibility for settler violence in the West Bank, accusing it of outsourcing coercion to settlers, and warned that Israel is 'using settlers to advance ethnic cleansing' after settlers pitched tents to establish a new illegal outpost in the occupied territory. Israeli far-right National Security Minister Itamar Ben-Gvir called for killing '30 to 40' Palestinians in Gaza nightly, according to Al Jazeera. Palestinian lawyer Ahmad Ibsais argued that Israel's targeting of Palestinian women constitutes a form of genocide being overlooked by international law."
         }
       ]
     },
@@ -5418,16 +5433,21 @@
       "title": "Gaza Peace Negotiations",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-08-16",
-      "lastSeen": "2026-08-16",
+      "lastSeen": "2026-08-17",
       "active": true,
       "entries": [
         {
           "date": "2026-08-16",
           "edition": "evening",
           "update": "Jared Kushner met with Hamas leadership in Egypt in a rare meeting aimed at advancing a Gaza peace deal, following Israel's rejection of a peace proposal the prior week. Kushner is next scheduled to meet with Israeli Prime Minister Benjamin Netanyahu."
+        },
+        {
+          "date": "2026-08-17",
+          "edition": "morning",
+          "update": "Following his meeting with Hamas leadership in Egypt, Kushner met with Israeli Prime Minister Netanyahu the next day. Israel released 35 Palestinian prisoners back into Gaza, where they were met with emotional reunions, according to Al Jazeera."
         }
       ]
     }
   ],
-  "updatedAt": "2026-08-16T21:05:06.906Z"
+  "updatedAt": "2026-08-17T11:06:37.318Z"
 }
