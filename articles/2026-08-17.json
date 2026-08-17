@@ -366,5 +366,48 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-17T06:15:01.446Z"
+  },
+  {
+    "title": "Trump Orders Pentagon to Curtail Military Exercises With Ally South Korea",
+    "description": "In a social media post, the president scolded South Korea for not helping denuclearize Iran, and also praised North Korea and its leader.",
+    "link": "https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html",
+    "pubDate": "Mon, 17 Aug 2026 06:16:21 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states international relations",
+      "south korea",
+      "trump, donald j",
+      "kim jong-un",
+      "hegseth, pete",
+      "united states politics and government",
+      "united states defense and military forces",
+      "us and israeli attack on iran (2026)",
+      "north korea",
+      "far east, south and southeast asia and pacific areas",
+      "defense department"
+    ],
+    "collectedAt": "2026-08-17T06:30:01.414Z"
+  },
+  {
+    "title": "Japan’s economy slows, missing growth forecasts",
+    "description": "GDP rises 0.3 percent in the second quarter as consumption and capital spending sag.",
+    "link": "https://www.aljazeera.com/economy/2026/8/17/japans-economy-slows-missing-growth-forecasts?traffic_source=rss",
+    "pubDate": "Mon, 17 Aug 2026 06:14:39 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "economy"
+    ],
+    "collectedAt": "2026-08-17T06:30:01.414Z"
+  },
+  {
+    "title": "Cameroon dominates Malawi to win first Women’s Africa Cup of Nations title",
+    "description": "The Indomitable Lionesses outshine their opponents to claim a first final victory on their fourth attempt in Morocco.",
+    "link": "https://www.aljazeera.com/sports/2026/8/17/cameroon-dominates-malawi-to-win-first-womens-africa-cup-of-nations-title?traffic_source=rss",
+    "pubDate": "Mon, 17 Aug 2026 06:02:02 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-08-17T06:30:01.414Z"
   }
 ]
