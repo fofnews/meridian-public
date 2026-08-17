@@ -81,5 +81,39 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-17T04:15:01.747Z"
+  },
+  {
+    "title": "Hayden Panettiere, Star of ‘Nashville’ and ‘Heroes,’ Dies at 36",
+    "description": "In May, she published a memoir after a tumultuous decade that involved depression, substance abuse, losing custody of her daughter and stints in rehab.",
+    "link": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-dead.html",
+    "pubDate": "Mon, 17 Aug 2026 04:21:45 +0000",
+    "source": "NY Times",
+    "categories": [
+      "panettiere, hayden",
+      "heroes (tv program)",
+      "deaths (obituaries)",
+      "actors and actresses",
+      "movies",
+      "nashville (tv program)"
+    ],
+    "collectedAt": "2026-08-17T04:30:01.270Z"
+  },
+  {
+    "title": "UFC Fighter Apologizes for Hitting Referee During UFC 330 Win",
+    "description": "UFC fighter Donte Johnson unintentionally struck referee Blake Grice in the face as he pulled him off his opponent on Saturday.",
+    "link": "https://www.newsweek.com/sports/mma/ufc-fighter-apologizes-for-hitting-referee-during-ufc-330-win-12329954",
+    "pubDate": "Mon, 17 Aug 2026 00:28:12 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-17T04:30:01.270Z"
+  },
+  {
+    "title": "Buccaneers CB Has Total Breakout Performance in Preseason Game",
+    "description": "One Buccaneers cornerback is already proving his value.",
+    "link": "https://www.newsweek.com/sports/nfl/buccaneers-cb-has-total-breakout-performance-in-preseason-game-12329573",
+    "pubDate": "Mon, 17 Aug 2026 00:22:13 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-17T04:30:01.270Z"
   }
 ]
