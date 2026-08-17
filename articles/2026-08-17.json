@@ -597,7 +597,7 @@
     "categories": [
       "international"
     ],
-    "collectedAt": "2026-08-17T08:15:01.339Z"
+    "collectedAt": "2026-08-17T08:15:01.364Z"
   },
   {
     "title": "Jon Ossoff Turns Spotlight on Trump Aide Natalie Harp",
@@ -606,7 +606,7 @@
     "pubDate": "Mon, 17 Aug 2026 04:00:32 -0400",
     "source": "Newsweek",
     "categories": [],
-    "collectedAt": "2026-08-17T08:15:01.339Z"
+    "collectedAt": "2026-08-17T08:15:01.364Z"
   },
   {
     "title": "Somalia federal troops and armed opposition clash in Baidoa city - Reuters",
@@ -615,7 +615,7 @@
     "pubDate": "Mon, 17 Aug 2026 06:19:00 GMT",
     "source": "Reuters",
     "categories": [],
-    "collectedAt": "2026-08-17T08:15:01.339Z"
+    "collectedAt": "2026-08-17T08:15:01.364Z"
   },
   {
     "title": "Kushner to hold talks with Netanyahu after rare meeting with Hamas - Reuters",
@@ -624,7 +624,7 @@
     "pubDate": "Mon, 17 Aug 2026 06:17:00 GMT",
     "source": "Reuters",
     "categories": [],
-    "collectedAt": "2026-08-17T08:15:01.339Z"
+    "collectedAt": "2026-08-17T08:15:01.364Z"
   },
   {
     "title": "Tributes to Hayden Panettiere pour in following her death at 36: ‘Don’t be gone’",
@@ -633,6 +633,46 @@
     "pubDate": "Mon, 17 Aug 2026 04:06:00 -0400",
     "source": "New York Post",
     "categories": [],
-    "collectedAt": "2026-08-17T08:15:01.339Z"
+    "collectedAt": "2026-08-17T08:15:01.364Z"
+  },
+  {
+    "title": "Burnham exchanged messages with White House imposter",
+    "description": "Downing Street has declined to comment on the security breach, first reported by Politico.",
+    "link": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 17 Aug 2026 08:24:18 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-17T08:30:01.381Z"
+  },
+  {
+    "title": "Kushner to meet Netanyahu to push Trump Gaza plan",
+    "description": "The talks come one day after the US president's son-in-law held a rare meeting with Hamas leaders in Egypt.",
+    "link": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss",
+    "pubDate": "Mon, 17 Aug 2026 08:13:04 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-17T08:30:01.381Z"
+  },
+  {
+    "title": "At least six people killed in Ukrainian missile attack on Russia’s Belgorod",
+    "description": "Overnight Russian missile and drone attacks across Ukraine kill two people and injure 19.",
+    "link": "https://www.aljazeera.com/news/2026/8/17/at-least-six-people-killed-in-ukrainian-missile-attack-on-russias-belgorod?traffic_source=rss",
+    "pubDate": "Mon, 17 Aug 2026 08:00:05 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-17T08:30:01.381Z"
+  },
+  {
+    "title": "Humanoid robots could patrol southern border, CEO pitches, as futuristic technology moves closer to reality",
+    "description": "Robotics startup Foundation has pitched its humanoid robot, Phantom, to DHS officials to help patrol and surveil the US southern border.",
+    "link": "https://nypost.com/2026/08/17/us-news/humanoid-robots-could-patrol-southern-border-ceo-pitches-as-futuristic-technology-moves-closer-to-reality/",
+    "pubDate": "Mon, 17 Aug 2026 04:18:45 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-17T08:30:01.381Z"
   }
 ]
