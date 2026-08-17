@@ -1020,7 +1020,7 @@
         {
           "date": "2026-08-17",
           "edition": "evening",
-          "update": "Ukrainian naval officer Robert Shaheiev, who defected and handed the submarine Zaporizhzhia over to Russia during the 2014 annexation of Crimea, has reportedly been killed, according to Newsweek. Former Ukrainian Defense Minister Mykhailo Fedorov told CBS News he believes Ukraine will launch its own ballistic missile into Russia within months, potentially before the end of the year."
+          "update": "Robert Shaheiev, the Ukrainian naval officer who defected and surrendered the submarine Zaporizhzhia to Russia during the 2014 annexation of Crimea, has reportedly been killed, according to Newsweek. Former Ukrainian Defense Minister Mykhailo Fedorov stated he believes Ukraine will launch its own ballistic missile strike into Russia before the end of the year."
         }
       ],
       "parentId": null
@@ -3021,6 +3021,11 @@
           "date": "2026-08-17",
           "edition": "morning",
           "update": "The 60-day deadline for the U.S. and Iran to reach a wider deal and reopen the Strait of Hormuz expired Monday with no agreement reached, with the two sides reported to be far apart on terms despite a June ceasefire. Iranian Parliament Speaker Mohammad Baqer Qalibaf declared both a military and political victory for Iran in its conflict against the U.S. and Israel. An IRGC official stated that Tehran can adopt an 'offensive aspect' in response to ongoing U.S. actions, according to ABC News."
+        },
+        {
+          "date": "2026-08-17",
+          "edition": "evening",
+          "update": "Iran signaled readiness to confront potential U.S. ground operations as the memorandum of understanding expired, according to Al Jazeera. Trump demanded Iran 'put up the white flag of surrender' and claimed the U.S. is in direct contact with the IRGC, while denying that upcoming November midterm elections are driving pressure to end the conflict. Iran has reportedly offered a $30,000 bounty for the killing of U.S. troops, according to Newsmax, with Iranian hard-liners said to be preparing to escalate military action. Trump also contradicted Vice President Vance by stating that preventing Iran from obtaining nuclear weapons — not lowering oil prices — is his administration's top priority."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3029,8 +3034,8 @@
       "id": "iran-strait-of-hormuz-crisis",
       "title": "Iran Strait of Hormuz Crisis",
       "firstSeen": "2026-03-10",
-      "lastSeen": "2026-05-08",
-      "active": false,
+      "lastSeen": "2026-08-17",
+      "active": true,
       "entries": [
         {
           "date": "2026-03-10",
@@ -3266,6 +3271,11 @@
           "date": "2026-05-08",
           "edition": "morning",
           "update": "Iran accused the United States of violating the ceasefire following an exchange of fire in the Strait of Hormuz, while Trump stated the ceasefire remains in effect."
+        },
+        {
+          "date": "2026-08-17",
+          "edition": "evening",
+          "update": "Trump threatened to bomb Oman, using the phrase 'bomb the s— out of them,' if it interferes with activity related to the Strait of Hormuz, making the warning in a Monday morning call with Fox News. The threat came as a two-month negotiating deadline between the U.S. and Iran expired on Monday."
         }
       ],
       "parentId": null
@@ -4134,7 +4144,7 @@
         {
           "date": "2026-08-17",
           "edition": "evening",
-          "update": "As a two-month ceasefire memorandum of understanding expired, Trump demanded Iran 'put up the white flag of surrender' and confirmed the existence of a direct U.S. backchannel with Iran's Islamic Revolutionary Guard Corps (IRGC). Trump simultaneously threatened to bomb Oman if it 'gets in the way' of a U.S.-Iran conflict, while Iran signaled readiness for potential U.S. ground operations and warned it would escalate if the U.S. did not honor an unspecified deal within weeks. Oil prices surged past $91 per barrel after Trump expressed doubt about reaching a new deal with Iran. Trump also clarified that preventing Iran from developing nuclear and ballistic missile capabilities is his administration's top priority regarding Iran, contradicting Vice President Vance's stated focus on lowering gas prices. Iranian hard-liners are reportedly preparing to escalate militarily, and Iran has reportedly offered a $30,000 bounty for killing U.S. troops, according to Newsmax."
+          "update": "Trump confirmed the existence of a direct backchannel with Iran's IRGC for peace talks while simultaneously issuing a bombing warning to Oman and calling for Iran's 'white flag of surrender' as the ceasefire deadline expired. Iran warned it will escalate if the U.S. does not honor an unspecified deal within weeks, according to Reuters."
         }
       ]
     },
@@ -4809,7 +4819,7 @@
         {
           "date": "2026-08-17",
           "edition": "evening",
-          "update": "Houthi forces claimed responsibility for attacking Saudi vessels off the coast of Mocha in the Red Sea, with both Houthi and Yemeni government forces exchanging drone strikes in a tactical escalation. Iran threatened to go on the offensive in the Strait of Hormuz if diplomatic talks with the United States fail, according to Reuters."
+          "update": "Houthi forces claimed responsibility for attacking Saudi vessels off the coast of Mocha, Yemen, and for a missile strike on a Saudi vessel in the Red Sea, according to Reuters. Houthi and Yemeni government forces also exchanged drone attacks, marking a tactical shift as both sides demonstrated growing aerial drone capabilities, according to Al Jazeera. Iran threatened to go on the offensive in the Strait of Hormuz if diplomacy with the United States fails."
         }
       ]
     },
@@ -5310,11 +5320,6 @@
           "date": "2026-08-17",
           "edition": "morning",
           "update": "Israel released 35 Palestinian prisoners back into Gaza, where they were met with emotional reunions. UN Special Rapporteur Francesca Albanese accused Israel of outsourcing coercion to settlers, stating Israel bears responsibility for settler violence in the West Bank, and warned that Israel is 'using settlers to advance ethnic cleansing' following the establishment of a new illegal settler outpost in the occupied West Bank. Israeli far-right National Security Minister Itamar Ben-Gvir called for killing '30 to 40' Palestinians in Gaza every night, according to Al Jazeera."
-        },
-        {
-          "date": "2026-08-17",
-          "edition": "evening",
-          "update": "Trump ordered the U.S. military to scale back joint military exercises with South Korea, citing South Korea's refusal to support U.S. action on Iran and his relationship with North Korean leader Kim Jong Un. South Korea's presidential Blue House expressed hope for talks with the Trump administration following the announcement. Senator Mark Kelly (D-Ariz.), retired Air Force Col. Cedric Leighton, and Republican Senator Thom Tillis all publicly criticized the decision, with Tillis warning it could allow North Korea to provide greater support to Russia in Ukraine. Turkey, Pakistan, and Saudi Arabia's new mutual defence agreement has been formally dubbed the 'Mecca pact,' framed within broader U.S. pressure on regional allies to assume greater responsibility for their own defence."
         }
       ]
     },
@@ -5323,7 +5328,7 @@
       "title": "US-Saudi Nuclear Deal and Israel Normalization",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-07-23",
-      "lastSeen": "2026-07-28",
+      "lastSeen": "2026-08-17",
       "active": true,
       "entries": [
         {
@@ -5345,6 +5350,11 @@
           "date": "2026-07-28",
           "edition": "morning",
           "update": "Former Defense Department official Matthew Kroenig published a Wall Street Journal op-ed warning that the U.S.-Saudi nuclear deal 'invites disaster' and appeared on CBS News to elaborate on his concerns about the agreement's potential consequences."
+        },
+        {
+          "date": "2026-08-17",
+          "edition": "evening",
+          "update": "Saudi Arabia and two other U.S. partner states have established a regional security pact dubbed the 'Mecca pact,' as the Trump administration pushes Gulf allies to take greater responsibility for their own defense."
         }
       ]
     },
@@ -5414,7 +5424,7 @@
         {
           "date": "2026-08-17",
           "edition": "evening",
-          "update": "According to Sky News, Iran may have used fitness app Strava data to refine targeting of U.S. military bases, with troop activity on the platform exposing sensitive base locations."
+          "update": "According to Sky News, Iran may have used Strava fitness app data to refine targeting of U.S. military bases, with troop activity on the app exposing sensitive base locations."
         }
       ]
     },
@@ -5482,7 +5492,22 @@
           "update": "Kushner met with Israeli Prime Minister Benjamin Netanyahu on Monday, completing the regional leg of talks aimed at advancing Trump's Gaza peace plan following his earlier meeting with Hamas leadership in Cairo."
         }
       ]
+    },
+    {
+      "id": "us-south-korea-military-exercises-reduction",
+      "title": "US-South Korea Military Exercises Reduction",
+      "parentId": "middle-east-military-conflicts-2026",
+      "firstSeen": "2026-08-17",
+      "lastSeen": "2026-08-17",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-08-17",
+          "edition": "evening",
+          "update": "Trump announced a reduction in joint military exercises with South Korea, citing Seoul's refusal to assist the United States on Iran and his personal relationship with North Korean leader Kim Jong Un. He made the remarks Monday in the Oval Office to reporters."
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-08-17T21:09:22.085Z"
+  "updatedAt": "2026-08-17T21:09:54.775Z"
 }
