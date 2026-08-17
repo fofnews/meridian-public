@@ -1011,5 +1011,52 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-17T09:30:02.250Z"
+  },
+  {
+    "title": "Trump’s Kingmaker Status Under Threat in Governor Races",
+    "description": "Two upcoming gubernatorial primaries in Florida and Wyoming may prove the limits of Trump's kingmaker power—or confirm its might.",
+    "link": "https://www.newsweek.com/trump-kingmaker-status-under-threat-governor-races-12328646",
+    "pubDate": "Mon, 17 Aug 2026 05:30:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-17T09:45:01.975Z"
+  },
+  {
+    "title": "IN PICTURES: Historic Smithsonian museum packed with woke political messaging on race and gender",
+    "description": "Exhibits at the Smithsonian's Museum of American History link sports and entertainment to divisive political topics and events, like the \"Los Sons\" and BLM protests.",
+    "link": "https://www.foxnews.com/politics/pictures-historic-smithsonian-museum-packed-woke-political-messaging-race-gender",
+    "pubDate": "Mon, 17 Aug 2026 05:30:28 -0400",
+    "source": "Fox News",
+    "categories": [
+      "73a898c3-0f22-5c53-bd20-0490bbe8022d",
+      "fnc",
+      "fox news",
+      "fox-news/politics/smithsonian",
+      "fox-news/topic/woke",
+      "fox-news/politics",
+      "fox-news/entertainment/genres/arts",
+      "fox-news/entertainment/genres/political",
+      "fox-news/entertainment",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-17T09:45:01.975Z"
+  },
+  {
+    "title": "Homeland Security investigated Minnesota labor unions as part of ‘terrorist financing’ probe in anti-ICE antifa case: Court documents",
+    "description": "Undercover federal agents, posing as anti-deportation activists, spied on prominent labor unions as part of the Department of Homeland Security’s investigation into what prosecutors say was a well-funded and highly organized conspiracy among antifa militants in Minnesota to methodically impede Immigration and Customs Enforcement operations. Nurses and teachers unions have a documented history of bankrolling […]",
+    "link": "https://www.washingtonexaminer.com/news/investigations/4688414/homeland-security-investigated-minnesota-labor-unions/",
+    "pubDate": "Mon, 17 Aug 2026 09:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "investigations",
+      "antifa",
+      "department of homeland security",
+      "ice",
+      "illegal immigrants",
+      "minneapolis",
+      "minnesota"
+    ],
+    "collectedAt": "2026-08-17T09:45:01.975Z"
   }
 ]
