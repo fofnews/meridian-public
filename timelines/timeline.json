@@ -464,7 +464,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-16",
+      "lastSeen": "2026-08-17",
       "active": true,
       "entries": [
         {
@@ -1011,6 +1011,11 @@
           "date": "2026-08-16",
           "edition": "evening",
           "update": "UK-made drones were used for the first time to strike military and industrial targets inside mainland Russia, according to BBC News. Russia reported its largest Ukrainian drone attack to date, with 822 drones shot down across Russian territory. Six people were also injured in a strike on a second-hand market in Ukraine selling records, posters, toys, and tools, with BBC News visiting the smouldering site."
+        },
+        {
+          "date": "2026-08-17",
+          "edition": "morning",
+          "update": "The EU's foreign policy chief announced plans for the most far-reaching sanctions package against Russia to date, to be introduced in autumn, according to Reuters. Ukrainian strikes on Russia's Belgorod region killed six people and injured five others, including a 14-year-old child, according to the region's acting governor."
         }
       ],
       "parentId": null
@@ -1524,7 +1529,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-08-16",
+      "lastSeen": "2026-08-17",
       "active": true,
       "entries": [
         {
@@ -1676,6 +1681,11 @@
           "date": "2026-08-16",
           "edition": "morning",
           "update": "Iran disputed accounts from Qatar and Kuwait regarding captured Iranian personnel, according to Reuters."
+        },
+        {
+          "date": "2026-08-17",
+          "edition": "morning",
+          "update": "Iran's Supreme Leader Ayatollah Ali Khamenei signaled an intention to maintain a hard-line stance by appointing loyalists to top positions, according to the NY Times, suggesting a continued war footing and crackdown on domestic dissent."
         }
       ],
       "parentId": null
@@ -3005,7 +3015,7 @@
         {
           "date": "2026-08-17",
           "edition": "morning",
-          "update": "The 60-day deadline for the U.S. and Iran to reach a broader deal and reopen the Strait of Hormuz expired Monday with no agreement reached, with the two sides described as far apart despite Trump's earlier assertions that a June ceasefire would lead to limits on Iran's nuclear program. Iranian Parliament Speaker and top negotiator Mohammad Baqer Qalibaf declared both a military and political victory for Iran in what he characterized as a war against the U.S. and Israel. Iran's Supreme Leader Ayatollah Mojtaba Khamenei appointed hard-line loyalists to top positions, signaling an intention to keep the country on a war footing and suppress domestic dissent, according to the NY Times."
+          "update": "The 60-day deadline for the U.S. and Iran to reach a wider deal and reopen the Strait of Hormuz expired Monday with no agreement reached, with the two sides reported to be far apart on terms despite a June ceasefire. Iranian Parliament Speaker Mohammad Baqer Qalibaf declared both a military and political victory for Iran in its conflict against the U.S. and Israel. An IRGC official stated that Tehran can adopt an 'offensive aspect' in response to ongoing U.S. actions, according to ABC News."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4784,7 +4794,7 @@
         {
           "date": "2026-08-17",
           "edition": "morning",
-          "update": "Oil prices held steady and shipping traffic through the Strait of Hormuz slowed following the tanker attacks, according to Reuters shipping data. Diego Garcia was described by officials as 'integral' to U.S. operations in the region after the Iranian strike on Bahrain forced the Pentagon to shift carrier strike group logistics there."
+          "update": "Oil prices held steady and shipping traffic through the Strait of Hormuz slowed following the recent wave of tanker attacks, according to Reuters data tracking vessel movements. Diego Garcia has been described by a U.S. official as 'integral' to supporting carrier strike groups and regional supply chains after Iran's earlier strike on Bahrain forced the Pentagon to shift its logistics hub there, according to Fox News."
         }
       ]
     },
@@ -5284,7 +5294,7 @@
         {
           "date": "2026-08-17",
           "edition": "morning",
-          "update": "UN Special Rapporteur Francesca Albanese stated that Israel bears responsibility for settler violence in the West Bank, accusing it of outsourcing coercion to settlers, and warned that Israel is 'using settlers to advance ethnic cleansing' after settlers pitched tents to establish a new illegal outpost in the occupied territory. Israeli far-right National Security Minister Itamar Ben-Gvir called for killing '30 to 40' Palestinians in Gaza nightly, according to Al Jazeera. Palestinian lawyer Ahmad Ibsais argued that Israel's targeting of Palestinian women constitutes a form of genocide being overlooked by international law."
+          "update": "Israel released 35 Palestinian prisoners back into Gaza, where they were met with emotional reunions. UN Special Rapporteur Francesca Albanese accused Israel of outsourcing coercion to settlers, stating Israel bears responsibility for settler violence in the West Bank, and warned that Israel is 'using settlers to advance ethnic cleansing' following the establishment of a new illegal settler outpost in the occupied West Bank. Israeli far-right National Security Minister Itamar Ben-Gvir called for killing '30 to 40' Palestinians in Gaza every night, according to Al Jazeera."
         }
       ]
     },
@@ -5444,10 +5454,10 @@
         {
           "date": "2026-08-17",
           "edition": "morning",
-          "update": "Following his meeting with Hamas leadership in Egypt, Kushner met with Israeli Prime Minister Netanyahu the next day. Israel released 35 Palestinian prisoners back into Gaza, where they were met with emotional reunions, according to Al Jazeera."
+          "update": "Kushner met with Israeli Prime Minister Benjamin Netanyahu on Monday, completing the regional leg of talks aimed at advancing Trump's Gaza peace plan following his earlier meeting with Hamas leadership in Cairo."
         }
       ]
     }
   ],
-  "updatedAt": "2026-08-17T11:06:37.318Z"
+  "updatedAt": "2026-08-17T11:07:11.622Z"
 }
