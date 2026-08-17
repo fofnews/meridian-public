@@ -214,5 +214,45 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-17T05:15:01.432Z"
+  },
+  {
+    "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
+    "description": "President Trump explained the decision by saying South Korea had declined to help with the \"denuclearization\" of Iran and he cited his good relationship with North Korea's leader.",
+    "link": "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea",
+    "pubDate": "Mon, 17 Aug 2026 01:21:39 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-08-17T05:30:01.303Z"
+  },
+  {
+    "title": "If Meta loses this trial, Instagram and Facebook could change forever",
+    "description": "Thirty US states have sued Meta to force an overhaul of its platforms for young users.",
+    "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 17 Aug 2026 05:00:25 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-17T05:30:01.303Z"
+  },
+  {
+    "title": "Iran’s top negotiator declares victory in war against the US and Israel",
+    "description": "Iran’s Parliament speaker and top negotiator Mohammad Baqer Qalibaf has declared both a military and political victory.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss",
+    "pubDate": "Mon, 17 Aug 2026 05:16:18 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-08-17T05:30:01.303Z"
+  },
+  {
+    "title": "Lawyer says Israel’s targeting of Palestinian women is a form of genocide",
+    "description": "Palestinian lawyer Ahmad Ibsais argues Israeli attacks on women is a genocide overlooked by international law.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-14-2026-gaza-femigenocide-sv-mp4?traffic_source=rss",
+    "pubDate": "Mon, 17 Aug 2026 04:58:47 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-08-17T05:30:01.303Z"
   }
 ]
