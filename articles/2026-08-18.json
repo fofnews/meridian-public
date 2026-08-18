@@ -411,5 +411,36 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-18T07:00:01.217Z"
+  },
+  {
+    "title": "San Diego Padres catching coordinator Oswaldo Pirela detained by ICE in Texas",
+    "description": "San Diego Padres catching coordinator Oswaldo José Pirela was detained by immigration authorities in El Paso, Texas, and remained in custody, according to family and ICE detainee records.",
+    "link": "https://www.nbcnews.com/politics/immigration/san-diego-padres-oswaldo-pirela-detained-ice-rcna593055",
+    "pubDate": "Tue, 18 Aug 2026 06:59:14 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-08-18T07:15:01.870Z"
+  },
+  {
+    "title": "Russia says more than 600 drones targeted Moscow region",
+    "description": "The attacks injured at least three people, including a girl, and damaged a Wildberries warehouse, Russian officials say.",
+    "link": "https://www.aljazeera.com/news/2026/8/18/russia-says-more-than-600-drones-targeted-moscow-region?traffic_source=rss",
+    "pubDate": "Tue, 18 Aug 2026 06:47:40 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-18T07:15:01.870Z"
+  },
+  {
+    "title": "Vessel hit by ‘unknown projectile’ in Strait of Hormuz, UKMTO says",
+    "description": "British maritime agency says the incident caused one casualty and damaged the vessel's engine room.",
+    "link": "https://www.aljazeera.com/news/2026/8/18/vessel-hit-by-unknown-projectile-in-strait-of-hormuz-ukmto-says?traffic_source=rss",
+    "pubDate": "Tue, 18 Aug 2026 06:35:43 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-18T07:15:01.870Z"
   }
 ]
