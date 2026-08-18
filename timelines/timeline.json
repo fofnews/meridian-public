@@ -464,7 +464,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-17",
+      "lastSeen": "2026-08-18",
       "active": true,
       "entries": [
         {
@@ -1021,6 +1021,11 @@
           "date": "2026-08-17",
           "edition": "evening",
           "update": "Robert Shaheiev, the Ukrainian naval officer who defected and surrendered the submarine Zaporizhzhia to Russia during the 2014 annexation of Crimea, has reportedly been killed, according to Newsweek. Former Ukrainian Defense Minister Mykhailo Fedorov stated he believes Ukraine will launch its own ballistic missile strike into Russia before the end of the year."
+        },
+        {
+          "date": "2026-08-18",
+          "edition": "morning",
+          "update": "Russia shot down over 600 drones targeting the Moscow region in a single overnight attack, injuring at least three people and damaging a Wildberries warehouse, according to Russian officials including Moscow Mayor Sergei Sobyanin. Ukrainian forces also launched a broader strike of nearly 800 drones at Russian territory. Separately, a Russian missile strike killed 10 people and injured over a dozen in a residential village in Ukraine's Kharkiv region, prompting President Zelensky to vow retaliation and describe the attack as 'brutal.'"
         }
       ],
       "parentId": null
@@ -2154,7 +2159,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-17",
+      "lastSeen": "2026-08-18",
       "active": true,
       "entries": [
         {
@@ -3026,6 +3031,11 @@
           "date": "2026-08-17",
           "edition": "evening",
           "update": "Iran signaled readiness to confront potential U.S. ground operations as the memorandum of understanding expired, according to Al Jazeera. Trump demanded Iran 'put up the white flag of surrender' and claimed the U.S. is in direct contact with the IRGC, while denying that upcoming November midterm elections are driving pressure to end the conflict. Iran has reportedly offered a $30,000 bounty for the killing of U.S. troops, according to Newsmax, with Iranian hard-liners said to be preparing to escalate military action. Trump also contradicted Vice President Vance by stating that preventing Iran from obtaining nuclear weapons — not lowering oil prices — is his administration's top priority."
+        },
+        {
+          "date": "2026-08-18",
+          "edition": "morning",
+          "update": "Trump's approval rating dropped to 33% in a Reuters-Ipsos poll, a new low, amid voter concerns over a prolonged war with Iran. Trump threatened to bomb Oman and ordered the Pentagon to substantially reduce joint military exercises with South Korea, targeting both rivals and allies simultaneously. Trump also threatened Qatar, a key regional mediator. Reports of difficult conditions aboard the USS Abraham Lincoln have provided Democrats with a new line of attack ahead of midterm elections. Oil prices climbed and bond yields rose as the expired ceasefire raised concerns over prolonged supply disruptions."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3769,7 +3779,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-08-12",
+      "lastSeen": "2026-08-18",
       "active": true,
       "entries": [
         {
@@ -3836,6 +3846,11 @@
           "date": "2026-08-12",
           "edition": "evening",
           "update": "The US demanded that China provide advance missile launch warnings following a test launch the previous month that alarmed Pacific nations. North Korea fired an additional missile ahead of planned US-South Korea military drills, which Pyongyang has condemned as a rehearsal for invasion."
+        },
+        {
+          "date": "2026-08-18",
+          "edition": "morning",
+          "update": "Trump stated that Kim Jong Un has responded 'very positively' to communications and that talks with Kim make South Korea safer, describing the exchanges as being at a 'positive' stage."
         }
       ],
       "parentId": null
@@ -3865,7 +3880,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-17",
+      "lastSeen": "2026-08-18",
       "active": true
     },
     {
@@ -3888,7 +3903,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-08-17",
+      "lastSeen": "2026-08-18",
       "active": true,
       "entries": [
         {
@@ -4145,6 +4160,11 @@
           "date": "2026-08-17",
           "edition": "evening",
           "update": "Trump confirmed the existence of a direct backchannel with Iran's IRGC for peace talks while simultaneously issuing a bombing warning to Oman and calling for Iran's 'white flag of surrender' as the ceasefire deadline expired. Iran warned it will escalate if the U.S. does not honor an unspecified deal within weeks, according to Reuters."
+        },
+        {
+          "date": "2026-08-18",
+          "edition": "morning",
+          "update": "Turkish President Erdogan urged Trump to pursue diplomatic talks with Iran and offered Turkey's support in facilitating the process, according to Reuters."
         }
       ]
     },
@@ -4433,7 +4453,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-08-17",
+      "lastSeen": "2026-08-18",
       "active": true,
       "entries": [
         {
@@ -4820,6 +4840,11 @@
           "date": "2026-08-17",
           "edition": "evening",
           "update": "Houthi forces claimed responsibility for attacking Saudi vessels off the coast of Mocha, Yemen, and for a missile strike on a Saudi vessel in the Red Sea, according to Reuters. Houthi and Yemeni government forces also exchanged drone attacks, marking a tactical shift as both sides demonstrated growing aerial drone capabilities, according to Al Jazeera. Iran threatened to go on the offensive in the Strait of Hormuz if diplomacy with the United States fails."
+        },
+        {
+          "date": "2026-08-18",
+          "edition": "morning",
+          "update": "A vessel was struck by an unknown projectile in the Strait of Hormuz, resulting in one casualty and damage to the ship's engine room, according to UKMTO. Trump threatened to bomb Oman if it interferes in potential negotiations over Hormuz control. Oil markets have begun pricing in a prolonged crisis in the strait, signaling trader expectations of an extended disruption to the critical shipping route."
         }
       ]
     },
@@ -5478,7 +5503,7 @@
       "title": "Gaza Peace Negotiations",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-08-16",
-      "lastSeen": "2026-08-17",
+      "lastSeen": "2026-08-18",
       "active": true,
       "entries": [
         {
@@ -5490,6 +5515,11 @@
           "date": "2026-08-17",
           "edition": "morning",
           "update": "Kushner met with Israeli Prime Minister Benjamin Netanyahu on Monday, completing the regional leg of talks aimed at advancing Trump's Gaza peace plan following his earlier meeting with Hamas leadership in Cairo."
+        },
+        {
+          "date": "2026-08-18",
+          "edition": "morning",
+          "update": "Kushner's four-hour meeting with Netanyahu focused on urging Israel to accept Trump's 15-point peace plan, which calls for Hamas to disarm in exchange for a full Israeli withdrawal from Gaza. Kushner issued a 60-to-90-day ultimatum to Hamas following his Cairo meeting, warning that failure to disarm would result in Israel completing its military campaign with U.S. backing. The U.S. also stated it will not allow Gaza reconstruction until Hamas disarms and will not restrict Israel's right to defend itself."
         }
       ]
     },
@@ -5509,5 +5539,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-17T21:09:54.775Z"
+  "updatedAt": "2026-08-18T11:07:38.659Z"
 }
