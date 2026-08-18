@@ -442,5 +442,35 @@
       "news"
     ],
     "collectedAt": "2026-08-18T07:15:01.870Z"
+  },
+  {
+    "title": "Man charged with manslaughter after man bitten by dog dies",
+    "description": "Lee Ellis, 55, is charged in connection with the incident which happened in Wakefield on Saturday.",
+    "link": "https://www.bbc.co.uk/news/articles/c4g6m388pl2o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 18 Aug 2026 07:06:00 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-18T07:30:01.578Z"
+  },
+  {
+    "title": "Appeals court rules Trump admin unlawfully appointed Nevada's top federal prosecutor",
+    "description": "A federal appeals court found the Justice Department unlawfully bypassed Senate confirmation to install Sigal Chattah as Nevada's top prosecutor.",
+    "link": "https://www.foxnews.com/politics/appeals-court-rules-trump-admin-unlawfully-appointed-nevadas-top-federal-prosecutor",
+    "pubDate": "Tue, 18 Aug 2026 03:13:45 -0400",
+    "source": "Fox News",
+    "categories": [
+      "2388bbe6-3655-5388-a8fc-46631cc4fa58",
+      "fnc",
+      "fox news",
+      "fox-news/politics/justice-department",
+      "fox-news/politics",
+      "fox-news/person/pam-bondi",
+      "fox-news/politics/judiciary/federal-courts",
+      "fox-news/politics/judiciary",
+      "fox-news/person/donald-trump",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-18T07:30:01.578Z"
   }
 ]
