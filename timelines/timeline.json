@@ -1026,6 +1026,11 @@
           "date": "2026-08-18",
           "edition": "morning",
           "update": "Russia shot down over 600 drones targeting the Moscow region in a single overnight attack, injuring at least three people and damaging a Wildberries warehouse, according to Russian officials including Moscow Mayor Sergei Sobyanin. Ukrainian forces also launched a broader strike of nearly 800 drones at Russian territory. Separately, a Russian missile strike killed 10 people and injured over a dozen in a residential village in Ukraine's Kharkiv region, prompting President Zelensky to vow retaliation and describe the attack as 'brutal.'"
+        },
+        {
+          "date": "2026-08-18",
+          "edition": "evening",
+          "update": "A drone exploded at a bus stop at the Zaporizhzhia nuclear plant, killing one person, according to the IAEA. Russian Foreign Minister Lavrov warned that Britain risks being seen as a co-belligerent in the war, following UK Prime Minister Burnham's reaffirmation that the UK will support Ukraine '100 percent.'"
         }
       ],
       "parentId": null
@@ -1704,7 +1709,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-16",
+      "lastSeen": "2026-08-18",
       "active": true,
       "entries": [
         {
@@ -2151,6 +2156,11 @@
           "date": "2026-08-16",
           "edition": "morning",
           "update": "Israeli airstrikes struck the Nabatieh district in southern Lebanon hours after what was reported as the deadliest day of Israeli raids, prompting families to flee northward."
+        },
+        {
+          "date": "2026-08-18",
+          "edition": "evening",
+          "update": "Israel struck an air base in Syria, the latest in a series of Israeli military interventions in the country, drawing criticism from the United States, according to American and Syrian officials."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3036,6 +3046,11 @@
           "date": "2026-08-18",
           "edition": "morning",
           "update": "Trump's approval rating dropped to 33% in a Reuters-Ipsos poll, a new low, amid voter concerns over a prolonged war with Iran. Trump threatened to bomb Oman and ordered the Pentagon to substantially reduce joint military exercises with South Korea, targeting both rivals and allies simultaneously. Trump also threatened Qatar, a key regional mediator. Reports of difficult conditions aboard the USS Abraham Lincoln have provided Democrats with a new line of attack ahead of midterm elections. Oil prices climbed and bond yields rose as the expired ceasefire raised concerns over prolonged supply disruptions."
+        },
+        {
+          "date": "2026-08-18",
+          "edition": "evening",
+          "update": "The Pentagon is weighing a reduced U.S. military presence in the Gulf region following the conclusion of the war with Iran, according to the Washington Post."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4165,6 +4180,11 @@
           "date": "2026-08-18",
           "edition": "morning",
           "update": "Turkish President Erdogan urged Trump to pursue diplomatic talks with Iran and offered Turkey's support in facilitating the process, according to Reuters."
+        },
+        {
+          "date": "2026-08-18",
+          "edition": "evening",
+          "update": "The expiration of the 60-day ceasefire deadline without a deal rattled financial markets, with the yield on the 30-year U.S. Treasury bond rising to its highest level in nearly 20 years and U.S. stocks falling, according to the NY Times and Reuters. The U.S. and Iran are reported to be far apart on terms, with NPR noting the stalemate has continued to deplete U.S. resources."
         }
       ]
     },
@@ -4845,6 +4865,11 @@
           "date": "2026-08-18",
           "edition": "morning",
           "update": "A vessel was struck by an unknown projectile in the Strait of Hormuz, resulting in one casualty and damage to the ship's engine room, according to UKMTO. Trump threatened to bomb Oman if it interferes in potential negotiations over Hormuz control. Oil markets have begun pricing in a prolonged crisis in the strait, signaling trader expectations of an extended disruption to the critical shipping route."
+        },
+        {
+          "date": "2026-08-18",
+          "edition": "evening",
+          "update": "Trump posted a map on Truth Social labeling the Strait of Hormuz as 'new US territory' and separately stated no talks or conversations with Iran are ongoing or scheduled, while claiming the strait is 'open and operating.' A second vessel was struck by an unknown projectile exiting the strait on Tuesday, again affecting the ship's engine room, according to UKMTO. The NY Times reported that at least 17 commercial sailors have been killed in and around Iranian and Omani waters since March, six months into the conflict. Saudi Arabia and the UAE are pushing to expand oil stockpiles in Japan and South Korea as the conflict threatens regional supply routes."
         }
       ]
     },
@@ -4923,7 +4948,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-08-12",
+      "lastSeen": "2026-08-18",
       "active": true,
       "entries": [
         {
@@ -5100,6 +5125,11 @@
           "date": "2026-08-12",
           "edition": "evening",
           "update": "The Ebola outbreak in the Democratic Republic of Congo has surpassed 2,000 deaths, though experts indicate the risk to Americans remains very low."
+        },
+        {
+          "date": "2026-08-18",
+          "edition": "evening",
+          "update": "The WHO stated that the Ebola outbreak in Congo can still be brought under control within three months, according to Reuters."
         }
       ]
     },
@@ -5528,16 +5558,21 @@
       "title": "US-South Korea Military Exercises Reduction",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-08-17",
-      "lastSeen": "2026-08-17",
+      "lastSeen": "2026-08-18",
       "active": true,
       "entries": [
         {
           "date": "2026-08-17",
           "edition": "evening",
           "update": "Trump announced a reduction in joint military exercises with South Korea, citing Seoul's refusal to assist the United States on Iran and his personal relationship with North Korean leader Kim Jong Un. He made the remarks Monday in the Oval Office to reporters."
+        },
+        {
+          "date": "2026-08-18",
+          "edition": "evening",
+          "update": "South Korean officials stressed the importance of the U.S.-South Korea alliance on Tuesday amid confusion and concern following Trump's order, while Senator Mark Kelly (D-Ariz.) publicly criticized the directive, stating Trump needs to 'read some history and get his priorities straight.' CBS News confirmed Trump's order cited South Korea's refusal to join U.S. efforts related to Iran."
         }
       ]
     }
   ],
-  "updatedAt": "2026-08-18T11:07:38.659Z"
+  "updatedAt": "2026-08-18T21:09:28.756Z"
 }
