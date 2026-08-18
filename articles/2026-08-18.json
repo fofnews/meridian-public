@@ -752,5 +752,56 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-18T08:45:01.820Z"
+  },
+  {
+    "title": "Morning news brief",
+    "description": "Jared Kushner and Israel's prime minister meet in attempt to move Gaza ceasefire plan forward, U.S. focus on Iran draws key resources from Asia, voters head to the polls for primaries Tuesday.",
+    "link": "https://www.npr.org/2026/08/18/nx-s1-5931251/morning-news-brief",
+    "pubDate": "Tue, 18 Aug 2026 04:41:19 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-08-18T09:00:01.605Z"
+  },
+  {
+    "title": "Inside Ossoff’s meticulously viral campaign",
+    "description": "The Georgia Democratic senator is closely involved with all aspects of his campaign amid a tough reelection battle.",
+    "link": "https://www.politico.com/news/2026/08/18/jon-ossoff-georgia-viral-controlled-campaign-01039859",
+    "pubDate": "Tue, 18 Aug 2026 03:45:00 EST",
+    "source": "Politico",
+    "categories": [
+      "politics, 2026 elections, georgia, jon ossoff, donald trump"
+    ],
+    "collectedAt": "2026-08-18T09:00:01.605Z"
+  },
+  {
+    "title": "Trump lashes out at CNN reporter over South Korea question",
+    "description": "Trump lashes out at CNN reporter over South Korea question",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-lashes-out-at-cnn-reporter-over-south-korea-question?traffic_source=rss",
+    "pubDate": "Tue, 18 Aug 2026 08:33:46 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-08-18T09:00:01.605Z"
+  },
+  {
+    "title": "Syrian court sentences Wassim al-Assad to death",
+    "description": "The former regime figure was found guilty of charges including premeditated murder and torture.",
+    "link": "https://www.aljazeera.com/news/2026/8/18/syrian-court-sentences-wassim-al-assad-to?traffic_source=rss",
+    "pubDate": "Tue, 18 Aug 2026 08:23:59 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-18T09:00:01.605Z"
+  },
+  {
+    "title": "Asian shares slip as worries about rising oil prices offset boost from strong earnings - AP News",
+    "description": "Asian shares slip as worries about rising oil prices offset boost from strong earnings  AP News",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQajRMMnNScjR5Tk1jNTZNZ1loMVctaUFVWWtjNHZhRGZzTWNvQWkzalRDZ1pNVjFjRGd5RVZyRTJ5dkVVOVpmVEVlczg0d2NWOTQtYTlyTnBLTlJTZ2FFVnNhTm1BNll2bGRWTGF2c3JCZHNpRlBudFFrNEJlUTVJVVI5b1d6T29pRDNhNEpMYVd6RVRVX3VZ?oc=5",
+    "pubDate": "Tue, 18 Aug 2026 07:28:00 GMT",
+    "source": "AP News",
+    "categories": [],
+    "collectedAt": "2026-08-18T09:00:01.605Z"
   }
 ]
