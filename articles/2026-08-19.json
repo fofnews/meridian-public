@@ -170,5 +170,160 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-19T05:00:01.523Z"
+  },
+  {
+    "title": "Trump says U.S. and Canada reached deal to delay 50% U.S. tariffs on Canadian imports",
+    "description": "President Trump said he was delaying the 50% U.S. tariffs on Canadian imports after the two countries reached a last-minute deal less than two hours before the sanctions were to go into effect.",
+    "link": "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
+    "pubDate": "Wed, 19 Aug 2026 00:55:08 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-08-19T05:15:01.535Z"
+  },
+  {
+    "title": "Mary Peltola and Dan Sullivan Advance in Key Alaska Senate Contest",
+    "description": "The Democratic former congresswoman and the incumbent Republican senator will face off in November. Whether a potential spoiler candidate with the same name as the senator qualifies alongside them has not been determined.",
+    "link": "https://www.nytimes.com/2026/08/19/us/politics/peltola-sullivan-alaska-senate-primary.html",
+    "pubDate": "Wed, 19 Aug 2026 05:05:21 +0000",
+    "source": "NY Times",
+    "categories": [
+      "midterm elections (2026)",
+      "peltola, mary",
+      "sullivan, daniel scott (1964- )",
+      "alaska"
+    ],
+    "collectedAt": "2026-08-19T05:15:01.535Z"
+  },
+  {
+    "title": "GOP Sen. Dan Sullivan and Democrat Mary Peltola advance to battleground Senate election in Alaska",
+    "description": "NBC News projects that Sullivan and Peltola will advance to the general election, but it’s not clear whether Sullivan will also face an opponent with the same name.",
+    "link": "https://www.nbcnews.com/politics/2026-election/gop-sen-dan-sullivan-democrat-mary-peltola-advance-battleground-senate-rcna592389",
+    "pubDate": "Wed, 19 Aug 2026 05:00:26 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-08-19T05:15:01.535Z"
+  },
+  {
+    "title": "Demand for degree apprenticeships quadruples in three years",
+    "description": "The popularity of degree apprenticeships has grown as the cost of university has come under increased scrutiny.",
+    "link": "https://www.bbc.co.uk/news/articles/ckg374p4e24o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 19 Aug 2026 05:00:12 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-19T05:15:01.535Z"
+  },
+  {
+    "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
+    "description": "More than 200 women accuse Christian Nègre of drugging them to make them urinate - two share their stories.",
+    "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 19 Aug 2026 05:00:39 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-19T05:15:01.535Z"
+  },
+  {
+    "title": "Families' agonising search for answers as thousands still missing in Gaza",
+    "description": "Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing.",
+    "link": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 19 Aug 2026 05:04:00 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-19T05:15:01.535Z"
+  },
+  {
+    "title": "Peltola, Sullivan matchup set in key Alaska Senate race",
+    "description": "Former Democratic Rep. Mary Peltola and incumbent Republican Sen. Dan Sullivan are advancing to the general election Senate in Alaska, Decision Desk HQ projects.  It’s the third cycle under Alaska’s new voting system, in which the top four candidates will advance from the primary, regardless of party affiliation, to a ranked-choice general election.   Alaska has been…",
+    "link": "https://thehill.com/homenews/campaign/6028751-peltola-sullivan-alaska-senate/",
+    "pubDate": "Wed, 19 Aug 2026 05:07:17 +0000",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "news",
+      "senate",
+      "state watch",
+      "alaska",
+      "blue dogs caucus",
+      "congress",
+      "dan sullivan",
+      "decision desk hq",
+      "mary peltola"
+    ],
+    "collectedAt": "2026-08-19T05:15:01.535Z"
+  },
+  {
+    "title": "GOP senator, ex-House Dem emerge from Alaska’s ‘jungle primary’ despite far-left meddling",
+    "description": "Dan Sullivan and Mary Peltola advance from Alaska's jungle primary, but a second Dan Sullivan on the ballot raises election confusion claims.",
+    "link": "https://www.foxnews.com/politics/gop-senator-ex-house-dem-emerge-alaskas-jungle-primary-despite-far-left-meddling",
+    "pubDate": "Wed, 19 Aug 2026 01:05:41 -0400",
+    "source": "Fox News",
+    "categories": [
+      "d9addf50-364b-5c89-88d0-48faa0335bde",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/us/us-regions/west/alaska",
+      "fox-news/politics/elections",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-19T05:15:01.535Z"
+  },
+  {
+    "title": "Trump-aligned conservative emerges from crowded primary to decide who fills Wyoming’s lone House seat",
+    "description": "Wyoming Republican Secretary of State Chuck Gray faced Steve Friess and Reid Rasner in a crowded GOP primary to replace Rep. Harriet Hageman.",
+    "link": "https://www.foxnews.com/politics/trump-aligned-conservative-emerges-from-crowded-primary-decide-wyoming-house-seat",
+    "pubDate": "Wed, 19 Aug 2026 01:04:35 -0400",
+    "source": "Fox News",
+    "categories": [
+      "5eb912b6-f8b1-53cc-a8c7-6c362ff75d22",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/west/wyoming",
+      "fox-news/politics/elections/midterm-elections",
+      "fox-news/politics/elections",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-19T05:15:01.535Z"
+  },
+  {
+    "title": "Trump admin sued over visa time restrictions for foreign students, journalists",
+    "description": "A coalition sued to block a DHS visa rule changes that would cap international students at four years in the U.S. and limit foreign journalists to 240 days.",
+    "link": "https://www.foxnews.com/politics/trump-admin-sued-visa-time-restrictions-foreign-students-journalists",
+    "pubDate": "Wed, 19 Aug 2026 00:47:49 -0400",
+    "source": "Fox News",
+    "categories": [
+      "8d16e742-75de-5885-b899-d9fe403b9b48",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/us/immigration",
+      "fox-news/media",
+      "fox-news/us/education",
+      "fox-news/us/education/college",
+      "fox-news/person/donald-trump",
+      "fox-news/politics/executive/homeland-security",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-19T05:15:01.535Z"
+  },
+  {
+    "title": "Carney vows to build ‘stronger, more competitive economy’ in statement about Trump pausing tariffs",
+    "description": "Canadian Prime Minister Mark Carney issued a statement on Tuesday night about President Donald Trump’s decision to postpone 50% tariffs on Canada. He explained that both countries have made significant progress toward an agreement, but there was still work to be done. He also vowed to build a stronger and more competitive Canadian economy. “Over […]",
+    "link": "https://www.washingtonexaminer.com/news/4692371/carney-vows-stronger-more-competitive-economy-in-statement/",
+    "pubDate": "Wed, 19 Aug 2026 05:10:43 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "world",
+      "canada",
+      "donald trump",
+      "economy",
+      "mark carney",
+      "president donald trump",
+      "tariffs"
+    ],
+    "collectedAt": "2026-08-19T05:15:01.535Z"
   }
 ]
