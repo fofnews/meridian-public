@@ -13099,5 +13099,437 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-19T00:00:01.879Z"
+  },
+  {
+    "title": "Florida Senate race set between Ashley Moody and Angie Nixon",
+    "description": "GOP Sen. Ashley Moody and Democratic State Rep. Angie Nixon will face off in November after winning their primaries for U.S. Senate on Tuesday night, the Associated Press projects.",
+    "link": "https://www.cbsnews.com/news/florida-senate-primary-results-ashley-moody-angie-nixon/",
+    "pubDate": "Tue, 18 Aug 2026 20:10:14 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Meet the aquatic dog helping anxious students learn how to surf",
+    "description": "Astro is a second-generation dog surf instructor working on the island of South Padre, Texas.",
+    "link": "https://www.cbsnews.com/video/meet-the-aquatic-dog-helping-anxious-students-learn-how-to-surf/",
+    "pubDate": "Tue, 18 Aug 2026 20:08:49 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Byron Donalds, David Jolly to face off in Florida governor's race",
+    "description": "Rep. Byron Donalds won the Republican primary for governor and former Rep. David Jolly won the Democratic primary, The Associated Press projects.",
+    "link": "https://www.cbsnews.com/news/florida-governors-race-primary-results-byron-donalds-david-jolly/",
+    "pubDate": "Tue, 18 Aug 2026 20:05:35 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Police hunting down man in Chucky-like horror mask who asked woman \"Are you ready to die?\"",
+    "description": "Philadelphia police are searching for a man in a horror mask resembling Chucky the doll who has been terrorizing locals. Lilia Luciano has more.",
+    "link": "https://www.cbsnews.com/video/police-hunting-down-man-in-chucky-like-horror-mask-who-asked-woman-are-you-ready-to-die/",
+    "pubDate": "Tue, 18 Aug 2026 20:04:28 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Jared Moskowitz wins Democratic primary for Florida's District 25",
+    "description": "The district that runs along part of Florida's southeast coast and includes portions of Palm Beach, Broward and Miami-Dade counties.",
+    "link": "https://www.cbsnews.com/news/florida-primary-district-25-democratic-jared-moskowitz/",
+    "pubDate": "Tue, 18 Aug 2026 20:02:00 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Trial starts in Microsoft exec's murder allegedly hatched by ex-wife",
+    "description": "Jared Bridegan was repeatedly shot outside his vehicle while his 2-year-old child was strapped in a car seat.",
+    "link": "https://www.cbsnews.com/news/microsoft-manager-murder-jared-bridegan-suspect-trial-florida/",
+    "pubDate": "Tue, 18 Aug 2026 20:01:40 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Ukraine launches nearly 800 drones into Russia, targets Moscow",
+    "description": "Ukraine targeted the Russian capital of Moscow with close to 800 drones overnight, according to the city's mayor. Aidan Stretch reports.",
+    "link": "https://www.cbsnews.com/video/ukraine-launches-nearly-800-drones-into-russia-targets-moscow/",
+    "pubDate": "Tue, 18 Aug 2026 20:01:26 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Trial begins in case of Microsoft exec killed in suspected murder for hire",
+    "description": "The alleged killer in the case of Jared Bridegan, a former Microsoft manager who prosecutors say was the victim of a murder for hire arranged by his ex-wife and her husband, is now on trial. Jason Allen has more.",
+    "link": "https://www.cbsnews.com/video/trial-begins-in-case-of-microsoft-exec-killed-in-suspected-murder-for-hire/",
+    "pubDate": "Tue, 18 Aug 2026 19:59:22 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Byron Donalds Wins Republican Nomination for Florida Governor",
+    "description": "Mr. Donalds, a conservative congressman with the backing of President Trump, seeks to become the state’s first Black governor.",
+    "link": "https://www.nytimes.com/2026/08/18/us/politics/byron-donalds-florida-governor-republican-primary.html",
+    "pubDate": "Wed, 19 Aug 2026 00:02:36 +0000",
+    "source": "NY Times",
+    "categories": [
+      "midterm elections (2026)",
+      "united states politics and government",
+      "elections, governors",
+      "donalds, byron (1978- )",
+      "fishback, james (1995- )",
+      "trump, donald j",
+      "florida"
+    ],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Former Republican David Jolly Wins Democratic Nomination for Florida Governor",
+    "description": "The former Republican congressman will try to appeal to voters disaffected with President Trump in a state where Republicans significantly outnumber Democrats.",
+    "link": "https://www.nytimes.com/2026/08/18/us/politics/david-jolly-florida-governor-democratic-primary.html",
+    "pubDate": "Wed, 19 Aug 2026 00:02:10 +0000",
+    "source": "NY Times",
+    "categories": [
+      "midterm elections (2026)",
+      "united states politics and government",
+      "elections, governors",
+      "primaries and caucuses",
+      "democratic party",
+      "jolly, david",
+      "trump, donald j",
+      "florida"
+    ],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Democratic socialist Angie Nixon upsets Alex Vindman in Florida’s Democratic Senate primary",
+    "description": "Progressive state Rep. Angie Nixon scored an upset over former National Security Council aide Alex Vindman in Florida’s Democratic Senate primary, NBC News projects, setting up a general election race against Republican Sen.",
+    "link": "https://www.nbcnews.com/politics/2026-election/angie-nixon-winner-florida-senate-primary-democrat-alex-vindman-moody-rcna593255",
+    "pubDate": "Wed, 19 Aug 2026 00:00:42 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Republican Byron Donalds and Democrat David Jolly set to square off for Florida’s governorship",
+    "description": "Florida’s primary voters Tuesday night stuck to political the script, setting up a much expected clash to determine who will serve as the state’s next governor after eight years of Gov.",
+    "link": "https://www.nbcnews.com/politics/2026-election/republican-byron-donalds-democrat-david-jolly-set-square-floridas-gove-rcna592352",
+    "pubDate": "Wed, 19 Aug 2026 00:00:12 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Saints Work Out Pair of Veteran Receivers Amid Jordyn Tyson News",
+    "description": "Jordyn Tyson's injury has forced the Saints to explore their options, with two veterans reportedly working out for New Orleans.",
+    "link": "https://www.newsweek.com/sports/nfl/saints-work-out-pair-of-veteran-receivers-amid-jordyn-tyson-news-12339487",
+    "pubDate": "Tue, 18 Aug 2026 20:12:51 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Nuggets Aren't Going to Like This 2026 Outlook",
+    "description": "Not the best news for the Denver Nuggets.",
+    "link": "https://www.newsweek.com/sports/nba/nuggets-arent-going-to-like-this-2026-outlook-12339617",
+    "pubDate": "Tue, 18 Aug 2026 20:03:53 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Raiders Rookie Was Wildly Impressive in Preseason Debut",
+    "description": "There's a lot to like in this Las Vegas standout.",
+    "link": "https://www.newsweek.com/sports/nfl/raiders-rookie-was-wildly-impressive-in-preseason-debut-12339354",
+    "pubDate": "Tue, 18 Aug 2026 19:59:40 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Nixon defeats Vindman to take on Moody for Florida Senate",
+    "description": "Florida state Rep. Angie Nixon (D) is poised to deliver an unexpected upset and defeat President Trump whistleblower Alexander Vindman in the Democratic contest for Florida Senate, according to Decision Desk HQ.  Nixon and Vindman, who became a star witness during Trump’s first impeachment trial, were the only two Democrats running for the party’s nod…",
+    "link": "https://thehill.com/homenews/campaign/6036864-nixon-vindman-moody-florida-senate/",
+    "pubDate": "Wed, 19 Aug 2026 00:03:56 +0000",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "news",
+      "senate",
+      "state watch"
+    ],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Donalds, Jolly to face off to replace DeSantis in Florida",
+    "description": "Rep. Byron Donalds (R-Fla.) and former Rep. David Jolly, a Republican-turned-Democrat, are projected to face off in the Florida governor’s race this fall to replace Gov. Ron DeSantis (R), according to Decision Desk HQ.  Donalds defeated 10 other Republicans for the GOP gubernatorial nod while Jolly defeated five Democrats. DeSantis, a former 2024 GOP hopeful,…",
+    "link": "https://thehill.com/homenews/campaign/6033950-donalds-jolly-florida-governor-race/",
+    "pubDate": "Wed, 19 Aug 2026 00:03:37 +0000",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "news",
+      "state watch"
+    ],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Cerebras’s stock has been a post-IPO bust. Its comeback hinges on this new chip.",
+    "description": "Cerebras is betting that its specialized chips will outpace traditional graphics processing units as AI agents become more widespread.",
+    "link": "https://www.marketwatch.com/story/cerebrass-stock-has-been-a-post-ipo-bust-its-comeback-hinges-on-this-new-chip-a25a7ca4?mod=mw_rss_topstories",
+    "pubDate": "Wed, 19 Aug 2026 00:00:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Caitlin Clark helps WNBA shatter another TV ratings record as Fever-Dream draws massive audience",
+    "description": "Caitlin Clark and Angel Reese drew 2.6 million viewers on ESPN, shattering the previous cable record for any WNBA game, regular season or playoffs.",
+    "link": "https://www.foxnews.com/outkick-sports/caitlin-clark-helps-wnba-shatter-another-tv-ratings-record-fever-dream-draws-massive-audience",
+    "pubDate": "Tue, 18 Aug 2026 20:05:51 -0400",
+    "source": "Fox News",
+    "categories": [
+      "3f6286d5-2b2c-53c3-851b-89421b8f07a8",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/sports/wnba/indiana-fever",
+      "fox-news/sports/wnba/atlanta-dream",
+      "fox-news/entertainment/events/tv-ratings",
+      "fox-news/person/caitlin-clark",
+      "fox-news/person/angel-reese",
+      "fox-news/sports/wnba",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Trump's handpicked DeSantis successor wins crowded GOP primary for Florida governor",
+    "description": "Byron Donalds secured Trump's endorsement before even announcing his run, but the crowded GOP primary field included Florida Lt. Gov. Jay Collins.",
+    "link": "https://www.foxnews.com/politics/trumps-handpicked-desantis-successor-wins-crowded-gop-primary-florida-governor",
+    "pubDate": "Tue, 18 Aug 2026 20:05:33 -0400",
+    "source": "Fox News",
+    "categories": [
+      "ea9fa418-e967-57ad-a1c9-bd53961db9a2",
+      "fnc",
+      "fox news",
+      "fox-news/politics/elections",
+      "fox-news/person/ron-desantis",
+      "fox-news/person/donald-trump",
+      "fox-news/politics/elections/gubernatorial",
+      "fox-news/us/us-regions/southeast/florida",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Israeli student wins gold at computer science olympiad in Uzbekistan then gets disqualified for flag",
+    "description": "Yotam Budnik was disqualified from the International Olympiad in Informatics in Uzbekistan after displaying an Israeli flag on the victory podium.",
+    "link": "https://www.foxnews.com/outkick-sports/israeli-student-wins-gold-computer-science-olympiad-uzbekistan-disqualified-flag",
+    "pubDate": "Tue, 18 Aug 2026 20:03:09 -0400",
+    "source": "Fox News",
+    "categories": [
+      "c7ce2e42-102d-5cb9-9124-7c5a76f4b5e2",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/world",
+      "fox-news/topic/anti-semitism",
+      "fox-news/entertainment/genres/foreign",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Rep Ralph Norman calls Senate hiatus 'a slap in the face' while SAVE Act remains stalled",
+    "description": "Rep. Ralph Norman, R-S.C., criticized Senate Republican leaders for going on a five-week recess, demanding action on the stalled SAVE America Act and other conservative priorities.",
+    "link": "https://www.foxnews.com/media/rep-ralph-norman-calls-senate-hiatus-slap-face-asks-round-clock-save-act-votes",
+    "pubDate": "Tue, 18 Aug 2026 20:00:51 -0400",
+    "source": "Fox News",
+    "categories": [
+      "bb20417c-205c-5a2e-8b72-93bbdba9365c",
+      "fnc",
+      "fox news",
+      "fox-news/media",
+      "fox-news/topic/fox-news-flash",
+      "fox-news/politics/elections/senate",
+      "fox-news/us/congress",
+      "fox-news/politics",
+      "fox-news/person/john-thune",
+      "fox-news/politics/elections/republicans",
+      "fox-news/media",
+      "article"
+    ],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Pro-Israel moderate survives primary challenge by socialist insurgent",
+    "description": "DSA-backed Oliver Larkin lost to Rep. Jared Moskowitz in the Democratic Party primary in Florida's 25th District, a key congressional swing seat.",
+    "link": "https://www.foxnews.com/politics/pro-israel-moderate-survives-primary-challenge-socialist-insurgent",
+    "pubDate": "Tue, 18 Aug 2026 19:55:05 -0400",
+    "source": "Fox News",
+    "categories": [
+      "da344682-e762-51d9-afb0-f864b35fe4d3",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/person/bernie-sanders",
+      "fox-news/us/democratic-party",
+      "fox-news/democrats",
+      "fox-news/politics/elections/midterm-elections",
+      "fox-news/politics/socialism",
+      "fox-news/us/us-regions/southeast/florida",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Prominent California sheriff offers grim warning after county releases budget",
+    "description": "Riverside County Sheriff Chad Bianco is warning that over 600 deputies may have to be fired over a severe budget dispute regarding department funding.",
+    "link": "https://nypost.com/2026/08/18/us-news/riverside-sheriff-says-600-deputies-could-be-fired-amid-funding-standoff/",
+    "pubDate": "Tue, 18 Aug 2026 20:14:30 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Jazz Chisholm Jr. botches grounder — and gets frustrated with umpire",
+    "description": "Jazz Chisholm Jr.’s season took another wrong turn Tuesday night at Camden Yards.",
+    "link": "https://nypost.com/2026/08/18/sports/yankees-jazz-chisholm-jr-botches-grounder-gets-frustrated-with-umpire/",
+    "pubDate": "Tue, 18 Aug 2026 20:13:32 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "CEO killer Luigi Mangione saw himself as Robin Hood-like hero, was ‘proud’ when UnitedHealthcare stock dipped: former inmate",
+    "description": "Linus Fu, a former inmate at Brooklyn's infamous Metropolitan Detention Center, told Courthouse News he befriended the 28-year-old admitted killer in lockup.",
+    "link": "https://nypost.com/2026/08/18/us-news/ceo-killer-luigi-mangione-saw-himself-as-a-robin-hood-like-figure-was-proud-when-unitedhealthcare-stock-dipped-former-inmate/",
+    "pubDate": "Tue, 18 Aug 2026 20:13:13 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Animal activist Hayden Panettiere filmed PETA ad ‘weeks’ before her tragic death: See the campaign",
+    "description": "A representative for PETA confirmed to Page Six the campaign was shot July 22 and that Panettiere was \"wonderful\" on the set.",
+    "link": "https://pagesix.com/2026/08/18/celebrity-news/hayden-panettiere-filmed-peta-ad-weeks-before-her-tragic-death-watch/",
+    "pubDate": "Tue, 18 Aug 2026 20:12:53 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Florida Rep. Randy Fine trounces Jew-hating GOP primary foe who cheered Hitler",
+    "description": "Dan Bilzerian suggested in one campaign ad that Nazi dictator Adolf Hitler needed to be reassessed.",
+    "link": "https://nypost.com/2026/08/18/us-news/florida-rep-randy-fine-trounces-jew-hating-gop-primary-foe-who-cheered-hitler/",
+    "pubDate": "Tue, 18 Aug 2026 20:09:52 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Trump-endorsed Rep. Byron Donalds easily wins Florida GOP gubernatorial primary",
+    "description": "Rep. Byron Donalds cruised to victory Tuesday night over 10 other opponents in the Florida Republican gubernatorial primary. Donalds, boosted by President Trump, recorded 49% of the vote, nearly doubling up Sunshine State Lt. Gov. Jay Collins (24.7%), while and far-right former investor James Fishback (10.1%) and former state House Speaker Paul Renner (8.2%) battled...",
+    "link": "https://nypost.com/2026/08/18/us-news/trump-endorsed-rep-byron-donalds-easily-wins-florida-gop-gubernatorial-primary/",
+    "pubDate": "Tue, 18 Aug 2026 20:02:50 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Jolly winning independents as he battles Donalds for Florida governor’s mansion",
+    "description": "Florida Democratic gubernatorial candidate David Jolly is winning among independent voters in the general election, according to a new poll conducted in the days leading up to the state’s primary elections, which advanced Rep. Byron Donalds (R-FL) in the GOP field. The poll, conducted by Hart Research Associates, found former Republican congressman Jolly holding a […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/state/4692052/david-jolly-byron-donalds-poll-florida-governor/",
+    "pubDate": "Wed, 19 Aug 2026 00:14:19 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "state",
+      "2026 elections",
+      "byron donalds",
+      "david jolly",
+      "florida",
+      "independents",
+      "polling"
+    ],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Byron Donalds set for November faceoff with Democrat David Jolly for Florida governor",
+    "description": "Rep. Byron Donalds (R-FL) and former Florida Republican Rep. David Jolly, now a Democrat, are advancing to the general election after winning their respective gubernatorial primaries on Tuesday. Donalds received 48.7% of the vote, trouncing the rest of the Republican primary field. His closest competitor was Lt. Gov. Jay Collins, who secured 24.8% of the […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/state/4691302/byron-donalds-david-jolly-florida-governor-race/",
+    "pubDate": "Wed, 19 Aug 2026 00:12:57 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "state",
+      "2026 elections",
+      "byron donalds",
+      "campaign",
+      "david jolly",
+      "florida",
+      "midterm elections",
+      "primaries",
+      "ron desantis"
+    ],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Randy Fine defeats Dan Bilzerian in primary marked by antisemitism",
+    "description": "Rep. Randy Fine (R-FL) won his high-profile primary Tuesday after social media star Dan Bilzerian jumped in the race that was plagued by antisemitism. Fine won by bringing in 56.8% of the vote compared to Bilzerian’s mere 17.9% when the Associated Press called the race at 7:53 p.m. Bilzerian ran an outwardly antisemitic campaign against […]",
+    "link": "https://www.washingtonexaminer.com/news/house/4691058/randy-fine-wins-dan-bilzerian-florida-primary/",
+    "pubDate": "Tue, 18 Aug 2026 23:58:09 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "congressional",
+      "house",
+      "2026 elections",
+      "aipac",
+      "florida",
+      "house of representatives",
+      "israel",
+      "randy fine",
+      "republicans",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Former Fauci aide pleads guilty to COVID-19 conspiracy",
+    "description": "Dr. Anthony Fauci’s former senior adviser pleaded guilty to fraud charges for concealing evidence from the public that may relate to the origins of the COVID-19 pandemic, according to federal court documents. Dr. David Morens, a longtime science adviser to the 43-year director of the National Institute of Allergy and Infectious Diseases, pleaded guilty to […]",
+    "link": "https://www.washingtonexaminer.com/news/investigations/4692082/former-fauci-aide-pleads-guilty-covid-19-conspiracy/",
+    "pubDate": "Tue, 18 Aug 2026 23:54:34 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "healthcare",
+      "investigations",
+      "anthony fauci",
+      "covid-19",
+      "crime",
+      "department of justice",
+      "freedom of information act",
+      "nih",
+      "washington d.c.",
+      "wuhan lab"
+    ],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
+  },
+  {
+    "title": "Former Fauci Aide Pleads Guilty to Federal Crime - theepochtimes.com",
+    "description": "Former Fauci Aide Pleads Guilty to Federal Crime  theepochtimes.com",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRE54dVhTbDRUeEdpdkF1enZsZEpCQ2ZYVENDX2pVSDhvNGdjV2tqWXdWalF0c0NVdnd5NzdkNnF1WXlfeUpYR1NxX0xtVHktdEJlaWJFM0FFUk9CQlA5RFQzOG5TQTNMcHZFY3U2dUU0clV6bWdfaHFNN3FqRlZSR1BuTktTSUNCUm13Nms3UmdDMTg?oc=5",
+    "pubDate": "Tue, 18 Aug 2026 21:01:42 GMT",
+    "source": "Epoch Times",
+    "categories": [],
+    "collectedAt": "2026-08-19T00:15:04.396Z"
   }
 ]
