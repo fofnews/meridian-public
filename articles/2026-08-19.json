@@ -72,5 +72,51 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-19T04:30:02.891Z"
+  },
+  {
+    "title": "A Stunning Win for the Left in Florida: 6 Takeaways From Tuesday’s Primaries",
+    "description": "State Representative Angie Nixon, a progressive firebrand, defeated a moderate who dramatically out-raised her with grass-roots enthusiasm. Can it carry her to victory in November?",
+    "link": "https://www.nytimes.com/2026/08/19/us/politics/florida-primaries-takeaways.html",
+    "pubDate": "Wed, 19 Aug 2026 04:39:45 +0000",
+    "source": "NY Times",
+    "categories": [
+      "midterm elections (2026)",
+      "primaries and caucuses",
+      "politics and government",
+      "political advertising",
+      "liberalism (us politics)",
+      "elections, governors",
+      "democratic party",
+      "republican party",
+      "democratic socialists of america",
+      "donalds, byron (1978- )",
+      "mills, cory (1980- )",
+      "nixon, angela (1984- )",
+      "schultz, debbie wasserman",
+      "trump, donald j",
+      "vindman, alexander s",
+      "florida"
+    ],
+    "collectedAt": "2026-08-19T04:45:01.571Z"
+  },
+  {
+    "title": "Trump Says Canada Tariffs Paused, Floats Keystone XL Pipeline Revival",
+    "description": "The potential revival would mark another effort by Trump to reverse Biden-era policies on the controversial pipeline.",
+    "link": "https://www.newsweek.com/trump-says-canada-tariffs-paused-floats-keystone-xl-pipeline-revival-12340461",
+    "pubDate": "Wed, 19 Aug 2026 00:34:25 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-19T04:45:01.571Z"
+  },
+  {
+    "title": "Attackers go ‘house to house’ killing 25 villagers in central Nigeria",
+    "description": "An attack on a village in Nigeria’s central Plateau state has killed at least 25 people.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/attackers-go-house-to-house-killing-25-villagers-in-central-nigeria?traffic_source=rss",
+    "pubDate": "Wed, 19 Aug 2026 04:25:26 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "newsfeed"
+    ],
+    "collectedAt": "2026-08-19T04:45:01.571Z"
   }
 ]
