@@ -436,5 +436,53 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-19T05:45:01.227Z"
+  },
+  {
+    "title": "Former state rep tops ranked-choice slugfest as Alaska advances nominees for governor",
+    "description": "Seventeen tickets competed in Alaska's nonpartisan primary to succeed term-limited Republican Gov. Michael Dunleavy in the November general election.",
+    "link": "https://www.foxnews.com/politics/former-state-rep-tops-ranked-choice-slugfest-alaska-advances-nominees-governor",
+    "pubDate": "Wed, 19 Aug 2026 01:38:51 -0400",
+    "source": "Fox News",
+    "categories": [
+      "65ae0b90-5489-58a5-b9a5-cceeffc4e61a",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/west/alaska",
+      "fox-news/politics/elections/gubernatorial",
+      "fox-news/politics/elections/midterm-elections",
+      "fox-news/politics/house-of-representatives/republicans",
+      "fox-news/politics",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-19T06:00:02.034Z"
+  },
+  {
+    "title": "Alaskan political scion hopes to hold onto state's single House seat",
+    "description": "Nicholas Begich III faces a major insurgency from independent candidate Bill Hill in Alaska's ranked choice voting congressional primary race.",
+    "link": "https://www.foxnews.com/politics/alaskan-political-scion-hopes-hold-onto-states-single-house-seat",
+    "pubDate": "Wed, 19 Aug 2026 01:34:55 -0400",
+    "source": "Fox News",
+    "categories": [
+      "6db109f9-fc56-5572-9e2e-dbcc9133d1d9",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/us/congress",
+      "fox-news/politics/elections",
+      "fox-news/us/us-regions/west/alaska",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-19T06:00:02.034Z"
+  },
+  {
+    "title": "Ohio mom of 3 killed when massive tree crashes onto SUV in freak highway accident",
+    "description": "An Ohio mother of three was killed after a massive tree came crashing down on her SUV as she drove along a highway over the weekend, authorities said.",
+    "link": "https://nypost.com/2026/08/19/us-news/ohio-mother-bridget-reagan-killed-after-tree-crashes-onto-suv-in-highway-accident/",
+    "pubDate": "Wed, 19 Aug 2026 01:47:41 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-19T06:00:02.034Z"
   }
 ]
