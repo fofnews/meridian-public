@@ -464,7 +464,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-18",
+      "lastSeen": "2026-08-19",
       "active": true,
       "entries": [
         {
@@ -1031,6 +1031,11 @@
           "date": "2026-08-18",
           "edition": "evening",
           "update": "A drone exploded at a bus stop at the Zaporizhzhia nuclear plant, killing one person, according to the IAEA. Russian Foreign Minister Lavrov warned that Britain risks being seen as a co-belligerent in the war, following UK Prime Minister Burnham's reaffirmation that the UK will support Ukraine '100 percent.'"
+        },
+        {
+          "date": "2026-08-19",
+          "edition": "evening",
+          "update": "Croatian authorities arrested two Ukrainian nationals alleged to have been among the scuba divers who planted explosives on the Nord Stream pipelines in 2022, according to BBC News, Al Jazeera, and AP News. The arrests come roughly one year after a former Ukrainian army officer was detained and transferred to Germany in connection with the same incident. A suspected sabotage attack targeting Estonian defense firm Milrem Robotics failed to disrupt the company's deliveries to Ukraine, according to Reuters. Al Jazeera also reported that Ukraine's military conscription practice known as 'busification' — the forcible capture of men on the street for service — has escalated into violence, with accounts of abuse and corruption surrounding the process."
         }
       ],
       "parentId": null
@@ -1239,7 +1244,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-16",
+      "lastSeen": "2026-08-19",
       "active": true,
       "entries": [
         {
@@ -1536,6 +1541,11 @@
           "date": "2026-08-16",
           "edition": "morning",
           "update": "Israel carried out its deadliest attacks on Lebanon since the June truce, killing 11 people, while Iran and Oman continued talks regarding the Strait of Hormuz."
+        },
+        {
+          "date": "2026-08-19",
+          "edition": "evening",
+          "update": "The UAE suspended all trade with Iran after detecting two ballistic missiles fired from Iranian territory. Turkey accused Israeli Prime Minister Netanyahu of pursuing 'expansionist' policies following Israeli airstrikes on Syria's Abu al-Duhur airbase near Aleppo."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1709,7 +1719,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-18",
+      "lastSeen": "2026-08-19",
       "active": true,
       "entries": [
         {
@@ -2161,6 +2171,11 @@
           "date": "2026-08-18",
           "edition": "evening",
           "update": "Israel struck an air base in Syria, the latest in a series of Israeli military interventions in the country, drawing criticism from the United States, according to American and Syrian officials."
+        },
+        {
+          "date": "2026-08-19",
+          "edition": "evening",
+          "update": "According to Reuters sources, Mossad's director and Syria's foreign minister held discussions about Turkish military deployments prior to Israel's strikes on Syria."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3056,6 +3071,11 @@
           "date": "2026-08-19",
           "edition": "morning",
           "update": "Iranian Foreign Minister Abbas Araghchi claimed the U.S. is 'begging' for negotiations, directly contradicting Trump's denial of any scheduled talks, according to Al Jazeera. Analysts cited by the NY Times assess that Iran is likely to escalate rather than capitulate under renewed economic pressure, noting the country has endured decades of sanctions. The NY Times also reported that Africa's richest man has substantially increased his wealth by supplying fuel to clients seeking alternatives amid Iran war-linked global supply shortages."
+        },
+        {
+          "date": "2026-08-19",
+          "edition": "evening",
+          "update": "Iran is reportedly weighing potential attacks on U.S. military targets in Europe, according to Newsmax, with no specific locations or methods disclosed. Defense analyst Stacie Pettyjohn warned that the U.S. military faces long-range missile shortages, prolonged deployments, and vacated regional bases, while Iran continues to build cheaper weapons systems at pace. The Iran conflict is placing new strain on U.S. Indo-Pacific deterrence efforts, as assets including the USS Abraham Lincoln carrier strike group have been redirected to the Middle East, according to the Washington Examiner. Sen. Rick Scott (R-Fla.) stated Trump will have to resume full-scale war with Iran following the collapse of the initial ceasefire deal."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4483,7 +4503,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-08-18",
+      "lastSeen": "2026-08-19",
       "active": true,
       "entries": [
         {
@@ -4880,6 +4900,11 @@
           "date": "2026-08-18",
           "edition": "evening",
           "update": "Trump posted a map on Truth Social labeling the Strait of Hormuz as 'new US territory' and separately stated no talks or conversations with Iran are ongoing or scheduled, while claiming the strait is 'open and operating.' A second vessel was struck by an unknown projectile exiting the strait on Tuesday, again affecting the ship's engine room, according to UKMTO. The NY Times reported that at least 17 commercial sailors have been killed in and around Iranian and Omani waters since March, six months into the conflict. Saudi Arabia and the UAE are pushing to expand oil stockpiles in Japan and South Korea as the conflict threatens regional supply routes."
+        },
+        {
+          "date": "2026-08-19",
+          "edition": "evening",
+          "update": "The U.S. Navy has been conducting covert operations to escort oil tankers through the Strait of Hormuz, according to the NY Times, as Iranian threats have rendered the waterway increasingly dangerous for energy exports."
         }
       ]
     },
@@ -5599,5 +5624,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-19T11:09:26.001Z"
+  "updatedAt": "2026-08-19T21:10:14.878Z"
 }
