@@ -2169,7 +2169,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-18",
+      "lastSeen": "2026-08-19",
       "active": true,
       "entries": [
         {
@@ -3051,6 +3051,11 @@
           "date": "2026-08-18",
           "edition": "evening",
           "update": "The Pentagon is weighing a reduced U.S. military presence in the Gulf region following the conclusion of the war with Iran, according to the Washington Post."
+        },
+        {
+          "date": "2026-08-19",
+          "edition": "morning",
+          "update": "Iranian Foreign Minister Abbas Araghchi claimed the U.S. is 'begging' for negotiations, directly contradicting Trump's denial of any scheduled talks, according to Al Jazeera. Analysts cited by the NY Times assess that Iran is likely to escalate rather than capitulate under renewed economic pressure, noting the country has endured decades of sanctions. The NY Times also reported that Africa's richest man has substantially increased his wealth by supplying fuel to clients seeking alternatives amid Iran war-linked global supply shortages."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3895,7 +3900,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-18",
+      "lastSeen": "2026-08-19",
       "active": true
     },
     {
@@ -3918,7 +3923,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-08-18",
+      "lastSeen": "2026-08-19",
       "active": true,
       "entries": [
         {
@@ -4185,6 +4190,11 @@
           "date": "2026-08-18",
           "edition": "evening",
           "update": "The expiration of the 60-day ceasefire deadline without a deal rattled financial markets, with the yield on the 30-year U.S. Treasury bond rising to its highest level in nearly 20 years and U.S. stocks falling, according to the NY Times and Reuters. The U.S. and Iran are reported to be far apart on terms, with NPR noting the stalemate has continued to deplete U.S. resources."
+        },
+        {
+          "date": "2026-08-19",
+          "edition": "morning",
+          "update": "Trump posted on social media that there are no ongoing or planned talks with Iran, amid reports of mixed messaging from the White House on U.S.-Iran communications. South Korea's foreign minister stated that Trump appears to be using pressure over Iran-related issues as leverage over Seoul regarding investment, according to Reuters."
         }
       ]
     },
@@ -4948,7 +4958,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-08-18",
+      "lastSeen": "2026-08-19",
       "active": true,
       "entries": [
         {
@@ -5130,6 +5140,11 @@
           "date": "2026-08-18",
           "edition": "evening",
           "update": "The WHO stated that the Ebola outbreak in Congo can still be brought under control within three months, according to Reuters."
+        },
+        {
+          "date": "2026-08-19",
+          "edition": "morning",
+          "update": "The DRC Ebola outbreak has surpassed 5,000 total cases and at least 2,300 deaths, making it the deadliest Ebola outbreak in the country's history. Al Jazeera identified conflict, delayed detection, and community mistrust as key factors complicating containment, and the outbreak has spread faster than any previous Ebola outbreak on record."
         }
       ]
     },
@@ -5228,7 +5243,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-17",
+      "lastSeen": "2026-08-19",
       "active": true,
       "entries": [
         {
@@ -5375,6 +5390,11 @@
           "date": "2026-08-17",
           "edition": "morning",
           "update": "Israel released 35 Palestinian prisoners back into Gaza, where they were met with emotional reunions. UN Special Rapporteur Francesca Albanese accused Israel of outsourcing coercion to settlers, stating Israel bears responsibility for settler violence in the West Bank, and warned that Israel is 'using settlers to advance ethnic cleansing' following the establishment of a new illegal settler outpost in the occupied West Bank. Israeli far-right National Security Minister Itamar Ben-Gvir called for killing '30 to 40' Palestinians in Gaza every night, according to Al Jazeera."
+        },
+        {
+          "date": "2026-08-19",
+          "edition": "morning",
+          "update": "An Israeli strike killed at least six people in Gaza City, with Israel stating the strike targeted Hamas commanders, coming one day after Jared Kushner's visit to advance a stalled peace plan. Israel also struck an air base in northwest Syria, stating it aimed to prevent Turkish troop deployment to the facility; the U.S. condemned the strike as an 'unnecessary escalation,' marking a public divergence between Washington and Jerusalem over post-Assad Syria policy. Damascus called the attacks an 'unjustified act of aggression' imperiling regional security."
         }
       ]
     },
@@ -5418,7 +5438,7 @@
       "title": "US Cyberattacks and Infrastructure Security",
       "parentId": null,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-08-17",
+      "lastSeen": "2026-08-19",
       "active": true,
       "entries": [
         {
@@ -5480,6 +5500,11 @@
           "date": "2026-08-17",
           "edition": "evening",
           "update": "According to Sky News, Iran may have used Strava fitness app data to refine targeting of U.S. military bases, with troop activity on the app exposing sensitive base locations."
+        },
+        {
+          "date": "2026-08-19",
+          "edition": "morning",
+          "update": "The DOJ unsealed an indictment charging 17 Iranian nationals, identified as members of the Iran-based Mabna Institute, for a coordinated and large-scale cyber theft campaign conducted on behalf of Iran."
         }
       ]
     },
@@ -5574,5 +5599,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-18T21:09:28.756Z"
+  "updatedAt": "2026-08-19T11:09:26.001Z"
 }
