@@ -64,5 +64,52 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-20T04:15:02.491Z"
+  },
+  {
+    "title": "Hating Matcha, Yet Loving Life, Made Him a TikTok Star at 89",
+    "description": "Werner Kalecinski is a social media sensation among young Germans. How did he go from heartbroken widower to partying on a yacht?",
+    "link": "https://www.nytimes.com/2026/08/20/world/europe/elder-opa-influencer-tiktok-star-matcha.html",
+    "pubDate": "Thu, 20 Aug 2026 04:01:08 +0000",
+    "source": "NY Times",
+    "categories": [
+      "social media",
+      "age, chronological",
+      "computers and the internet",
+      "beverages",
+      "advertising and marketing",
+      "elderly",
+      "video recordings, downloads and streaming",
+      "youth",
+      "berlin (germany)",
+      "east germany"
+    ],
+    "collectedAt": "2026-08-20T04:30:03.480Z"
+  },
+  {
+    "title": "National Debt Tops $40 Trillion: Where Trump's Economic Approval Stands",
+    "description": "The data marks a staggering new milestone in the country’s borrowing.",
+    "link": "https://www.newsweek.com/national-debt-tops-40-trillion-where-trumps-economic-approval-stands-12345415",
+    "pubDate": "Thu, 20 Aug 2026 00:21:43 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-20T04:30:03.480Z"
+  },
+  {
+    "title": "Russia unleashes 'massive attack' on Kyiv, killing at least five",
+    "description": "Kyiv Mayor Vitali Klitschko said a children's hospital had been damaged in the overnight strikes.",
+    "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 20 Aug 2026 04:17:52 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-20T04:30:03.480Z"
+  },
+  {
+    "title": "Key moments from Harry and Meghan's years since leaving UK",
+    "description": "The Duke and Duchess of Sussex are planning to move back to the UK, BBC News understands.",
+    "link": "https://www.bbc.co.uk/news/videos/cn8ndp8m9ddo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 20 Aug 2026 04:07:28 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-20T04:30:03.480Z"
   }
 ]
