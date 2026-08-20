@@ -464,7 +464,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-19",
+      "lastSeen": "2026-08-20",
       "active": true,
       "entries": [
         {
@@ -1036,6 +1036,11 @@
           "date": "2026-08-19",
           "edition": "evening",
           "update": "Croatian authorities arrested two Ukrainian nationals alleged to have been among the scuba divers who planted explosives on the Nord Stream pipelines in 2022, according to BBC News, Al Jazeera, and AP News. The arrests come roughly one year after a former Ukrainian army officer was detained and transferred to Germany in connection with the same incident. A suspected sabotage attack targeting Estonian defense firm Milrem Robotics failed to disrupt the company's deliveries to Ukraine, according to Reuters. Al Jazeera also reported that Ukraine's military conscription practice known as 'busification' — the forcible capture of men on the street for service — has escalated into violence, with accounts of abuse and corruption surrounding the process."
+        },
+        {
+          "date": "2026-08-20",
+          "edition": "morning",
+          "update": "Russian ballistic missiles struck Kyiv, killing at least 3 people and wounding at least 20 more. The Zaporizhzhia nuclear plant lost its external power supply, according to Reuters, with no immediate details on cause or restoration. BBC News interviewed Ukrainian-born soldiers held at a POW camp in western Ukraine who said they believed they were defending their homeland by fighting for Russia; the men face treason charges under Ukrainian law. Global wheat buyers are preparing for a potential supply squeeze as attacks in the Black Sea region threaten grain shipments, raising concerns over international availability and pricing."
         }
       ],
       "parentId": null
@@ -1719,7 +1724,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-19",
+      "lastSeen": "2026-08-20",
       "active": true,
       "entries": [
         {
@@ -2176,6 +2181,11 @@
           "date": "2026-08-19",
           "edition": "evening",
           "update": "According to Reuters sources, Mossad's director and Syria's foreign minister held discussions about Turkish military deployments prior to Israel's strikes on Syria."
+        },
+        {
+          "date": "2026-08-20",
+          "edition": "morning",
+          "update": "Al Jazeera correspondent Ali Hashem reported watching Israeli attacks near his hometown in southern Lebanon, as displaced Lebanese residents observe ongoing strikes in designated 'pilot zones' from a distance."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2184,7 +2194,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-19",
+      "lastSeen": "2026-08-20",
       "active": true,
       "entries": [
         {
@@ -3076,6 +3086,11 @@
           "date": "2026-08-19",
           "edition": "evening",
           "update": "Iran is reportedly weighing potential attacks on U.S. military targets in Europe, according to Newsmax, with no specific locations or methods disclosed. Defense analyst Stacie Pettyjohn warned that the U.S. military faces long-range missile shortages, prolonged deployments, and vacated regional bases, while Iran continues to build cheaper weapons systems at pace. The Iran conflict is placing new strain on U.S. Indo-Pacific deterrence efforts, as assets including the USS Abraham Lincoln carrier strike group have been redirected to the Middle East, according to the Washington Examiner. Sen. Rick Scott (R-Fla.) stated Trump will have to resume full-scale war with Iran following the collapse of the initial ceasefire deal."
+        },
+        {
+          "date": "2026-08-20",
+          "edition": "morning",
+          "update": "On Wednesday, Trump announced on Truth Social what he described as the 'most crushing economic operation ever' against any country, using the phrase 'Economic D-Day' and writing that the campaign would constitute 'Economic Warfare and Isolation on an unprecedented scale.' Trump also warned that countries trading with or supporting Iran would face economic consequences. Despite the escalatory rhetoric, Trump separately told reporters and acknowledged to CBS News that U.S.-Iran talks could resume 'at some point,' describing the current war status quo as 'very good' and expressing confidence that Strait of Hormuz concerns are being resolved. Oil prices held steady as investors assessed the conflict outlook, while the NY Times characterized the situation as an uneasy standoff in which both sides believe they can outlast the other. Experts cited by Al Jazeera said reported dire conditions aboard the USS Abraham Lincoln raise serious questions about the U.S. Navy's capacity to sustain prolonged operations."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3819,7 +3834,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-08-18",
+      "lastSeen": "2026-08-20",
       "active": true,
       "entries": [
         {
@@ -3891,6 +3906,11 @@
           "date": "2026-08-18",
           "edition": "morning",
           "update": "Trump stated that Kim Jong Un has responded 'very positively' to communications and that talks with Kim make South Korea safer, describing the exchanges as being at a 'positive' stage."
+        },
+        {
+          "date": "2026-08-20",
+          "edition": "morning",
+          "update": "Trump told reporters he expects to meet Kim Jong Un in 2025 and claimed North Korea possesses 57 nuclear weapons, a figure South Korea's government estimates is as high as 120 warheads, according to Reuters. Kim Yo Jong publicly denied knowledge of any discussions between Kim Jong Un and Trump, contradicting Trump's earlier claim that Kim had responded positively to outreach. North Korea stated that the U.S. decision to scale back joint drills with South Korea does not change its view of the exercises as provocative. On Thursday, North Korea launched 10 ballistic missiles toward the East Sea from the Pyongyang area, one day after dismissing the reduced drill announcement, according to South Korea's Joint Chiefs of Staff."
         }
       ],
       "parentId": null
@@ -3920,7 +3940,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-19",
+      "lastSeen": "2026-08-20",
       "active": true
     },
     {
@@ -3943,7 +3963,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-08-19",
+      "lastSeen": "2026-08-20",
       "active": true,
       "entries": [
         {
@@ -4215,6 +4235,11 @@
           "date": "2026-08-19",
           "edition": "morning",
           "update": "Trump posted on social media that there are no ongoing or planned talks with Iran, amid reports of mixed messaging from the White House on U.S.-Iran communications. South Korea's foreign minister stated that Trump appears to be using pressure over Iran-related issues as leverage over Seoul regarding investment, according to Reuters."
+        },
+        {
+          "date": "2026-08-20",
+          "edition": "morning",
+          "update": "Iran warned Gulf countries against assisting the U.S. military, while Iran's foreign minister stated Tehran will not accept a ceasefire but only a comprehensive agreement to fully end the war, even as Trump suggested peace talks might resume 'maybe at some point.'"
         }
       ]
     },
@@ -5268,7 +5293,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-19",
+      "lastSeen": "2026-08-20",
       "active": true,
       "entries": [
         {
@@ -5420,6 +5445,11 @@
           "date": "2026-08-19",
           "edition": "morning",
           "update": "An Israeli strike killed at least six people in Gaza City, with Israel stating the strike targeted Hamas commanders, coming one day after Jared Kushner's visit to advance a stalled peace plan. Israel also struck an air base in northwest Syria, stating it aimed to prevent Turkish troop deployment to the facility; the U.S. condemned the strike as an 'unnecessary escalation,' marking a public divergence between Washington and Jerusalem over post-Assad Syria policy. Damascus called the attacks an 'unjustified act of aggression' imperiling regional security."
+        },
+        {
+          "date": "2026-08-20",
+          "edition": "morning",
+          "update": "An Israeli airstrike on Gaza City's police headquarters killed the women's police chief and several officers, according to Al Jazeera. The grandmother of Hind Rajab, the five-year-old Palestinian girl killed by Israeli forces in Gaza, stated that her family does not trust the Israeli judiciary."
         }
       ]
     },
@@ -5624,5 +5654,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-19T21:10:14.878Z"
+  "updatedAt": "2026-08-20T11:08:32.184Z"
 }
