@@ -660,5 +660,78 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-20T08:00:01.341Z"
+  },
+  {
+    "title": "'Massive' Russian missile strike on Kyiv kills at least 12 people, Zelenskyy says",
+    "description": "A \"massive\" Russian missile and drone attack on Kyiv on Wednesday night killed at least 12 people and injured more than 40 others.",
+    "link": "https://abcnews.com/International/massive-russian-missile-strike-kyiv-kills-12-people/story?id=135797221",
+    "pubDate": "Thu, 20 Aug 2026 04:01:47 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-08-20T08:15:01.522Z"
+  },
+  {
+    "title": "Pregnant Women Who Did One Type of Workout Had Lower Diabetes Risk",
+    "description": "With gestational diabetes affecting up to 9 percent of pregnancies each year, strength training could be the solution.",
+    "link": "https://www.newsweek.com/pregnant-women-who-did-one-type-of-workout-had-lower-diabetes-risk-12341029",
+    "pubDate": "Thu, 20 Aug 2026 04:12:05 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-20T08:15:01.522Z"
+  },
+  {
+    "title": "Dems Should Push Own 'Save ACT,' Be Pro- AI for Affordability Win | Opinion",
+    "description": "Democrats should show what a “Save America Act” really means, while not standing in the way of the benefits of AI.",
+    "link": "https://www.newsweek.com/dems-should-push-own-save-act-be-pro-ai-for-affordability-win-opinion-12331685",
+    "pubDate": "Thu, 20 Aug 2026 04:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-20T08:15:01.522Z"
+  },
+  {
+    "title": "School 'deeply saddened' by death of family in sea off Shoreham",
+    "description": "Ellen Wilkinson School for Girls in Ealing pays tribute to Sara El-Khawas, 14, and her family who died.",
+    "link": "https://www.bbc.co.uk/news/articles/c70gpggglllo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 20 Aug 2026 08:03:16 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-20T08:15:01.522Z"
+  },
+  {
+    "title": "Vaccine breakthrough stops cancer returning in trial",
+    "description": "A new jab extended the length of time patients were cancer free, but it is unclear for how long.",
+    "link": "https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 20 Aug 2026 08:10:33 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-20T08:15:01.522Z"
+  },
+  {
+    "title": "Chinese court sentences Evergrande founder to life in prison for fraud - AP News",
+    "description": "Chinese court sentences Evergrande founder to life in prison for fraud  AP News",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdmpPc0tFMWFFbVdNcHBFUnNjM2h4QjhCVkFNcXU5Tk5YcXNmZWIzNUhEOGRhRlpfZFFwZGN6SW4wUjQ2T1hhbHdzUmltRFNTYURYd3NncEF6R3gyQ3hhQWxLSFFqU3dRX3FQeWMtbTQ5eGNZekZldjlVVlNLeWpFV2FjRUVIazYwQmdGVjI5eXI0dHY3NVljWjhtLWtCYVZwZ2JYSA?oc=5",
+    "pubDate": "Thu, 20 Aug 2026 06:13:00 GMT",
+    "source": "AP News",
+    "categories": [],
+    "collectedAt": "2026-08-20T08:15:01.522Z"
+  },
+  {
+    "title": "North Korea shrugs off Trump’s scaled-back drills with South Korea, saying it changes nothing",
+    "description": "SEOUL, South Korea (AP) — North Korea said Wednesday that a U.S. decision to scale back military exercises with South Korea does not change what it sees as the provocative nature of the drills, dampening hopes for an early resumption of diplomacy between North Korean leader Kim Jong Un and U.S. President Donald Trump. The powerful sister of North […]",
+    "link": "https://www.washingtonexaminer.com/news/4694121/north-korea-trump-scaled-back-drills-south-korea-changes-nothing/",
+    "pubDate": "Thu, 20 Aug 2026 08:01:06 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "world",
+      "asia",
+      "donald trump",
+      "kim jong un",
+      "president donald trump",
+      "south korea"
+    ],
+    "collectedAt": "2026-08-20T08:15:01.522Z"
   }
 ]
