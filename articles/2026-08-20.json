@@ -111,5 +111,54 @@
     "source": "BBC News",
     "categories": [],
     "collectedAt": "2026-08-20T04:30:03.480Z"
+  },
+  {
+    "title": "Trump vows ‘economic warfare’ on countries helping Iran",
+    "description": "US President Donald Trump has threatened ‘economic D-Day’ on any countries that help or do business with Iran.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss",
+    "pubDate": "Thu, 20 Aug 2026 04:31:10 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "tv news"
+    ],
+    "collectedAt": "2026-08-20T04:45:01.878Z"
+  },
+  {
+    "title": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics - AP News",
+    "description": "Israeli military launches criminal probes into killings of Hind Rajab and Palestinian paramedics  AP News",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjh4SUp0a2ZhbFFhSGQzVERrREI3OFJQRXBVY3gyS2FQRkp4RTFyTUc4d3dJRDUzTzR5X1d1YkVCeU9nYTNyYnM5NmRjS25xXzVZWk03SksyVFlOWWdnM1dhQ0kyVFB3Vmt1RWZVeDlyNEZYMXpNbC1NdGNWbjZkSnBjM1ZqV1FrVjRpSmRNOThiT1d3OG5Ob3FQcHlTcnRNWWdqUktqa3FqLVRONmU1NmZWLURUV2lm?oc=5",
+    "pubDate": "Thu, 20 Aug 2026 04:20:00 GMT",
+    "source": "AP News",
+    "categories": [],
+    "collectedAt": "2026-08-20T04:45:01.878Z"
+  },
+  {
+    "title": "Pennsylvania State Police helicopter, small plane collide in midair, killing 1 and injuring 2 state troopers",
+    "description": "A small plane struck a Pennsylvania State Police helicopter from behind in central Pennsylvania on Wednesday night, killing the plane's pilot and injuring two state troopers.",
+    "link": "https://www.foxnews.com/us/pennsylvania-state-police-helicopter-small-plane-collide-midair-killing-1-injuring-2-state-troopers",
+    "pubDate": "Thu, 20 Aug 2026 00:30:22 -0400",
+    "source": "Fox News",
+    "categories": [
+      "e44979f3-b022-5ecc-aa1b-8f4c91c4481f",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/northeast/pennsylvania",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/us",
+      "fox-news/world/disasters/transportation",
+      "fox-news/travel",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-08-20T04:45:01.878Z"
+  },
+  {
+    "title": "Orioles rip MLB technology after Pete Alonso blast ruled foul",
+    "description": "Major League Baseball now uses technology to confirm or overturn balls and strikes. Is it time for something similar around the foul poles?",
+    "link": "https://nypost.com/2026/08/20/sports/orioles-rip-mlb-technology-after-pete-alonso-blast-ruled-foul/",
+    "pubDate": "Thu, 20 Aug 2026 00:35:44 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-20T04:45:01.878Z"
   }
 ]
