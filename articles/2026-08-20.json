@@ -187,5 +187,27 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-20T05:15:01.639Z"
+  },
+  {
+    "title": "Pentagon sends ‘political loyalty’ survey to US allies",
+    "description": "In a questionnaire, the Pentagon presented a list of questions to 31 NATO allies to determine ‘loyalty’ to the US.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/exclusive-pentagon-sends-political-loyalty-survey-to-us-allies?traffic_source=rss",
+    "pubDate": "Thu, 20 Aug 2026 05:06:23 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-08-20T05:30:03.253Z"
+  },
+  {
+    "title": "At least 6 killed in multiple Russian missile strikes across Ukraine",
+    "description": "Russian ballistic missiles killed at least six people and ⁠injured over two dozen more in Kyiv early on Thursday.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-6-killed-in-multiple-russian-missile-strikes-across-ukraine?traffic_source=rss",
+    "pubDate": "Thu, 20 Aug 2026 04:59:22 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-08-20T05:30:03.253Z"
   }
 ]
