@@ -1041,6 +1041,11 @@
           "date": "2026-08-20",
           "edition": "morning",
           "update": "Russian ballistic missiles struck Kyiv, killing at least 3 people and wounding at least 20 more. The Zaporizhzhia nuclear plant lost its external power supply, according to Reuters, with no immediate details on cause or restoration. BBC News interviewed Ukrainian-born soldiers held at a POW camp in western Ukraine who said they believed they were defending their homeland by fighting for Russia; the men face treason charges under Ukrainian law. Global wheat buyers are preparing for a potential supply squeeze as attacks in the Black Sea region threaten grain shipments, raising concerns over international availability and pricing."
+        },
+        {
+          "date": "2026-08-20",
+          "edition": "evening",
+          "update": "Russia launched an additional massive attack on Ukraine involving dozens of missiles and more than 100 drones, with strikes hitting parts of Kyiv and killing 12 people while sparking fires, according to Newsmax and CBS News. Putin and Chinese President Xi Jinping jointly declared the U.S.'s proposed Golden Dome missile shield a 'threat to strategic stability,' warning against what they characterized as a new arms race. Latvia confirmed that a drone that entered its airspace on August 14 belonged to Ukraine."
         }
       ],
       "parentId": null
@@ -4240,6 +4245,11 @@
           "date": "2026-08-20",
           "edition": "morning",
           "update": "Iran warned Gulf countries against assisting the U.S. military, while Iran's foreign minister stated Tehran will not accept a ceasefire but only a comprehensive agreement to fully end the war, even as Trump suggested peace talks might resume 'maybe at some point.'"
+        },
+        {
+          "date": "2026-08-20",
+          "edition": "evening",
+          "update": "Trump threatened Iran with 'economic warfare and isolation on an unprecedented scale,' which Iranian Foreign Minister Araghchi dismissed as a 'diversion from America's own crisis,' warning it would result in 'further defeat' for the United States. Treasury Secretary Scott Bessent stated that economic pressure could potentially avert major military operations and urged allies to support plans to 'squash' Iran's economy, warning partners they must decide whether they 'are with us or against us.' Newsweek reported that as U.S. national debt approaches $40 trillion with consumer prices elevated, the pressure campaign carries domestic political and fiscal risks for Republicans, while U.S. farmers face rising war-linked costs that could influence tight midterm races."
         }
       ]
     },
@@ -4468,7 +4478,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-08-15",
+      "lastSeen": "2026-08-20",
       "active": true,
       "entries": [
         {
@@ -4520,6 +4530,11 @@
           "date": "2026-08-15",
           "edition": "morning",
           "update": "French, German, and British diplomats are working to establish a format for future Russia-Ukraine peace negotiations, according to the NY Times, as European nations seek a defined role in eventual talks amid concerns about the Trump administration's approach."
+        },
+        {
+          "date": "2026-08-20",
+          "edition": "evening",
+          "update": "Former Ukrainian defence chief Fedorov called for a wartime election, increasing political pressure on President Zelenskyy, though holding a vote remains a near-impossible logistical and security challenge amid ongoing Russian attacks, according to Al Jazeera."
         }
       ]
     },
@@ -4528,7 +4543,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-08-19",
+      "lastSeen": "2026-08-20",
       "active": true,
       "entries": [
         {
@@ -4930,6 +4945,11 @@
           "date": "2026-08-19",
           "edition": "evening",
           "update": "The U.S. Navy has been conducting covert operations to escort oil tankers through the Strait of Hormuz, according to the NY Times, as Iranian threats have rendered the waterway increasingly dangerous for energy exports."
+        },
+        {
+          "date": "2026-08-20",
+          "edition": "evening",
+          "update": "Yemen's Houthi forces claimed responsibility for attacks on Najran airport and Saudi Aramco facilities in Saudi Arabia, according to Reuters. Romania destroyed a marine drone discovered near the Neptun Deep gas project in the Black Sea, according to the country's minister."
         }
       ]
     },
@@ -5654,5 +5674,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-20T11:08:32.184Z"
+  "updatedAt": "2026-08-20T21:09:07.646Z"
 }
