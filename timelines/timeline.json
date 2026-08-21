@@ -1051,6 +1051,11 @@
           "date": "2026-08-21",
           "edition": "morning",
           "update": "A Russian drone attack on Kyiv overnight Wednesday into Thursday killed at least 16 people and wounded 40 more, according to CBS News."
+        },
+        {
+          "date": "2026-08-21",
+          "edition": "evening",
+          "update": "Russian drivers are facing hours-long queues at fuel stations amid petrol shortages, according to BBC News. The Nord Stream pipeline suspect arrest previously reported involves a Ukrainian national detained in Croatia, confirmed separately by Reuters."
         }
       ],
       "parentId": null
@@ -3106,6 +3111,11 @@
           "date": "2026-08-21",
           "edition": "morning",
           "update": "BBC News reported that Iran has consistently found workarounds to previous U.S. sanctions, raising questions about the effectiveness of renewed economic pressure. Oil prices were on track for a second consecutive weekly gain as ongoing U.S.-Iran tensions continued to constrain supply, according to Reuters. Trump, in a radio interview, rejected Democratic criticism of the Iran war and claimed Americans support his administration's handling of the conflict."
+        },
+        {
+          "date": "2026-08-21",
+          "edition": "evening",
+          "update": "A top Iranian official dismissed Trump's economic pressure campaign, stating that decades of U.S. sanctions have failed and that Washington's reliance on economic warfare proves its military campaign against Iran has also failed. Iranian Parliament Speaker Mohammed Bagher Qalibaf separately condemned the new U.S. sanctions as 'unjust,' calling on economic representatives in Baghdad to devise strategies to counter them. The U.S. Treasury Department designated Hezbollah as an Iranian proxy, labeling the group 'an extension' of the IRGC's Quds Force and announcing sanctions targeting its financing network. Chinese analysts stated Beijing is prepared to resist U.S. economic pressure over Iran, citing China's leverage over critical mineral exports to the U.S. and sufficient oil reserves to absorb any loss of Iranian crude. U.S. allies in Asia, cited by Al Jazeera, formally expressed concern that American military asset redeployments toward the Iran conflict are weakening U.S. deterrence against China in the Indo-Pacific."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4555,6 +4565,11 @@
           "date": "2026-08-21",
           "edition": "morning",
           "update": "A senior Russian diplomat stated that Russia is prepared to consider new peace proposals for Ukraine but indicated any plan would need to meet certain conditions, according to Reuters."
+        },
+        {
+          "date": "2026-08-21",
+          "edition": "evening",
+          "update": "The leaders of France, Britain, and Germany are scheduled to co-chair a meeting on Ukraine on Monday, according to Reuters."
         }
       ]
     },
@@ -4975,6 +4990,11 @@
           "date": "2026-08-21",
           "edition": "morning",
           "update": "A spike in 'dark' oil tankers navigating the Strait of Hormuz with their location devices switched off has been reported, as vessels attempt to evade Iranian attacks; the NY Times noted the trend raises the risk of collisions and catastrophic oil spills."
+        },
+        {
+          "date": "2026-08-21",
+          "edition": "evening",
+          "update": "NATO member states are holding discussions on options regarding the Strait of Hormuz, according to Reuters, with talks occurring outside formal NATO alliance structures."
         }
       ]
     },
@@ -5053,7 +5073,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-08-19",
+      "lastSeen": "2026-08-21",
       "active": true,
       "entries": [
         {
@@ -5240,6 +5260,11 @@
           "date": "2026-08-19",
           "edition": "morning",
           "update": "The DRC Ebola outbreak has surpassed 5,000 total cases and at least 2,300 deaths, making it the deadliest Ebola outbreak in the country's history. Al Jazeera identified conflict, delayed detection, and community mistrust as key factors complicating containment, and the outbreak has spread faster than any previous Ebola outbreak on record."
+        },
+        {
+          "date": "2026-08-21",
+          "edition": "evening",
+          "update": "The UN reported that Ebola is spreading exponentially in the Democratic Republic of Congo, with the death toll now surpassing 2,500 people, according to Reuters."
         }
       ]
     },
@@ -5709,5 +5734,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-21T11:09:31.570Z"
+  "updatedAt": "2026-08-21T21:07:28.487Z"
 }
