@@ -432,5 +432,54 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-21T07:00:02.080Z"
+  },
+  {
+    "title": "Who is Conor Anderson? Missing Colorado Man Found Dead in Nashville",
+    "description": "The 31-year-old flew into Nashville for a work conference. His last known sighting was captured on police bodycam.",
+    "link": "https://www.newsweek.com/who-is-conor-anderson-missing-colorado-found-dead-cause-death-nashville-12350925",
+    "pubDate": "Fri, 21 Aug 2026 02:58:53 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-21T07:15:02.137Z"
+  },
+  {
+    "title": "‘Very unusual’: UK Palestine activists could be sentenced as terrorists",
+    "description": "Court to rule on whether five activists accused of vandalising a Barclays bank will face terrorism sentencing.",
+    "link": "https://www.aljazeera.com/news/2026/8/21/very-unusual-uk-palestine-activists-could-be-sentenced-as-terrorists?traffic_source=rss",
+    "pubDate": "Fri, 21 Aug 2026 06:56:19 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-21T07:15:02.137Z"
+  },
+  {
+    "title": "Russia is ready for new ideas on Ukraine peace, but with conditions, senior diplomat says - Reuters",
+    "description": "Russia is ready for new ideas on Ukraine peace, but with conditions, senior diplomat says  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSG1FLTR6ekxvVzVEOFo4d2tkbHpfMlI1STMwdjkxR204bHNwaWZ1OFVCWm41eXB4T3NHcVl4TktwTjRmSTVNOGlHQ2JRSDBHY3FxWjg1V2c4UUFwT2tjM25ubGpMaDJHU3VrWUpCZm9oMHhicXhCOTQxdTRGMkVpT0tGOEYyRW51ZWdVSzByOXFWZENab2g0d1ZsZXlKOHMwSldpeklvbjJfekxESVV1ejR2dnFSc01QZUQyZTlWeDQ?oc=5",
+    "pubDate": "Fri, 21 Aug 2026 05:25:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-08-21T07:15:02.137Z"
+  },
+  {
+    "title": "Longest-serving US prisoner dies at 101 after escaping death penalty 8 times",
+    "description": "The longest-serving inmate in U.S. history died at 101 after escaping the death penalty eight times for the killing of a night watchman at a Connecticut yacht club.",
+    "link": "https://www.foxnews.com/us/longest-serving-us-prisoner-dies-101-escaping-death-penalty-8-times",
+    "pubDate": "Fri, 21 Aug 2026 03:00:41 -0400",
+    "source": "Fox News",
+    "categories": [
+      "2dc2da04-3a32-5203-9087-9fb7ec5fed74",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/northeast/connecticut",
+      "fox-news/us",
+      "fox-news/crime",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/entertainment/events/departed",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-08-21T07:15:02.137Z"
   }
 ]
