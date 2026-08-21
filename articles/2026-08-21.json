@@ -566,5 +566,54 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-21T08:15:01.578Z"
+  },
+  {
+    "title": "Map Shows Remote Alaska Base Where Plane Crashed, Killing Eight",
+    "description": "The U.S. military said the deaths of eight people on board the civilian-chartered aircraft were a \"devastating loss.\"",
+    "link": "https://www.newsweek.com/map-shows-remote-alaska-base-where-plane-crashed-killing-eight-12351044",
+    "pubDate": "Fri, 21 Aug 2026 04:23:14 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-21T08:30:03.151Z"
+  },
+  {
+    "title": "French becoming more effective in stopping small boat crossings, UK says",
+    "description": "The Home Office credits France with intercepting hundreds of potential crossings this summer using new tactics.",
+    "link": "https://www.bbc.co.uk/news/articles/c1d1v333ewxo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 21 Aug 2026 08:26:01 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-21T08:30:03.151Z"
+  },
+  {
+    "title": "Israeli settlers set fire to Palestinian home while family asleep",
+    "description": "Israeli settlers set fire to a Palestinian home while a mother and her children were sleeping inside.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss",
+    "pubDate": "Fri, 21 Aug 2026 07:58:41 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-08-21T08:30:03.151Z"
+  },
+  {
+    "title": "Europe, Canada condemn Israeli plans for new West Bank settlement",
+    "description": "The 'unacceptable' E1 plan carries 'legal and reputational consequences' for those participating, European nations warn.",
+    "link": "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss",
+    "pubDate": "Fri, 21 Aug 2026 07:56:21 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-21T08:30:03.151Z"
+  },
+  {
+    "title": "Japan executes man convicted of setting fire that killed 5 at pachinko parlor in Osaka",
+    "description": "Sunao Takami set fire to the crowded pachinko parlor in Osaka by spreading gasoline and throwing a lit match.",
+    "link": "https://nypost.com/2026/08/21/world-news/japan-executes-sunao-takami-man-convicted-of-setting-fire-that-killed-5-at-a-pachinko-parlor-in-osaka/",
+    "pubDate": "Fri, 21 Aug 2026 04:18:33 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-21T08:30:03.151Z"
   }
 ]
