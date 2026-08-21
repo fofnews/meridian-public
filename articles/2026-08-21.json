@@ -1024,5 +1024,499 @@
     "source": "BBC News",
     "categories": [],
     "collectedAt": "2026-08-21T10:00:03.374Z"
+  },
+  {
+    "title": "Spike in ‘Dark’ Oil Tankers in Gulf Raises Risk of Catastrophic Spills",
+    "description": "More vessels are navigating the Strait of Hormuz with their location devices turned off to evade attacks by Iran, adding to the threat of collisions.",
+    "link": "https://www.nytimes.com/2026/08/21/business/iran-war-hormuz-oil-spill.html",
+    "pubDate": "Fri, 21 Aug 2026 09:02:46 +0000",
+    "source": "NY Times",
+    "categories": [
+      "oil (petroleum) and gasoline",
+      "us and israeli attack on iran (2026)",
+      "ships and shipping",
+      "oil spills",
+      "international maritime organization",
+      "iran",
+      "strait of hormuz"
+    ],
+    "collectedAt": "2026-08-21T10:15:01.612Z"
+  },
+  {
+    "title": "U.S.S. Lincoln Begins 13,000-Mile Journey Home, and the Shortage That Could Take Down the Grid",
+    "description": "Plus, your Friday news quiz.",
+    "link": "https://www.nytimes.com/2026/08/21/podcasts/the-headlines/uss-lincoln-power-grid-shortage.html",
+    "pubDate": "Fri, 21 Aug 2026 10:00:11 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "aircraft carriers",
+      "power failures and blackouts",
+      "iran"
+    ],
+    "collectedAt": "2026-08-21T10:15:01.612Z"
+  },
+  {
+    "title": "How Harvard’s Epic Fight With Trump Is Costing the University",
+    "description": "The federal government has slowed Harvard’s funding, despite the university’s legal victories. The conflict is forcing hard choices on campus.",
+    "link": "https://www.nytimes.com/2026/08/21/us/harvard-trump-costs.html",
+    "pubDate": "Fri, 21 Aug 2026 09:00:05 +0000",
+    "source": "NY Times",
+    "categories": [
+      "colleges and universities",
+      "federal aid (us)",
+      "suits and litigation (civil)",
+      "anti-semitism",
+      "research",
+      "harvard university",
+      "harvard school of public health",
+      "national institutes of health"
+    ],
+    "collectedAt": "2026-08-21T10:15:01.612Z"
+  },
+  {
+    "title": "Return of Harry and Meghan to U.K. Renews Questions About Their Security Fears",
+    "description": "The couple lost their publicly funded security after deciding to leave Britain in 2020, deepening their split with the royal family.",
+    "link": "https://www.nytimes.com/2026/08/21/world/europe/harry-meghan-uk-security.html",
+    "pubDate": "Fri, 21 Aug 2026 08:55:29 +0000",
+    "source": "NY Times",
+    "categories": [
+      "royal families",
+      "harry, duke of sussex",
+      "markle, meghan",
+      "england"
+    ],
+    "collectedAt": "2026-08-21T10:15:01.612Z"
+  },
+  {
+    "title": "Should You Invest in Bonds Right Now?",
+    "description": "High-quality bonds are still safer than stocks, but they have been swinging in value, so move cautiously, our columnist says.",
+    "link": "https://www.nytimes.com/2026/08/21/business/investing-bond-market-stocks-funds.html",
+    "pubDate": "Fri, 21 Aug 2026 09:03:46 +0000",
+    "source": "NY Times",
+    "categories": [
+      "stocks and bonds",
+      "personal finances",
+      "content type: service",
+      "standard & poor's 500-stock index",
+      "inflation (economics)",
+      "united states economy"
+    ],
+    "collectedAt": "2026-08-21T10:15:01.612Z"
+  },
+  {
+    "title": "Giorgia Meloni Cuts the Hard Right a Path to Power",
+    "description": "In a rare interview, the onetime political outcast reflects on her route from “the uncomfortable side of history” to the threshold of leading Italy’s most durable postwar government.",
+    "link": "https://www.nytimes.com/2026/08/21/world/europe/italy-giorgia-meloni-interview-profile.html",
+    "pubDate": "Fri, 21 Aug 2026 09:01:20 +0000",
+    "source": "NY Times",
+    "categories": [
+      "politics and government",
+      "nationalism (theory and philosophy)",
+      "international relations",
+      "united states international relations",
+      "right-wing extremism and alt-right",
+      "holocaust and the nazi era",
+      "authoritarianism (theory and philosophy)",
+      "race and ethnicity",
+      "illegal immigration",
+      "vox (spanish political party)",
+      "north atlantic treaty organization",
+      "national rally (france)",
+      "italia viva (italian political party)",
+      "meloni, giorgia (1977- )",
+      "ferrari, francesco (mayor)",
+      "giambruno, andrea",
+      "le pen, marine",
+      "mussolini, benito",
+      "sanchez perez-castejon, pedro (1972- )",
+      "schlein, elly (1985- )",
+      "trump, donald j",
+      "renzi, matteo",
+      "italy"
+    ],
+    "collectedAt": "2026-08-21T10:15:01.612Z"
+  },
+  {
+    "title": "Giorgia Meloni Has a Lot to Say: The Takeaways",
+    "description": "The Italian prime minister is leading what will soon be the longest-lasting government in the country’s postwar history. She shows herself by turns funny and fierce in a rare interview.",
+    "link": "https://www.nytimes.com/2026/08/21/world/europe/giorgia-meloni-rare-interview-takeaways.html",
+    "pubDate": "Fri, 21 Aug 2026 09:04:12 +0000",
+    "source": "NY Times",
+    "categories": [
+      "politics and government",
+      "united states international relations",
+      "content type: personal profile",
+      "democratic party (italy)",
+      "le pen, marine",
+      "meloni, giorgia (1977- )",
+      "schlein, elly (1985- )",
+      "trump, donald j",
+      "europe",
+      "italy"
+    ],
+    "collectedAt": "2026-08-21T10:15:01.612Z"
+  },
+  {
+    "title": "Flock Cameras. Canoodling Lawyers. How Much Surveillance Are We Comfortable With?",
+    "description": "Americans say they hate prying cameras. But they can’t look away.",
+    "link": "https://www.nytimes.com/2026/08/21/magazine/flock-cameras-surveillance-state.html",
+    "pubDate": "Fri, 21 Aug 2026 09:02:32 +0000",
+    "source": "NY Times",
+    "categories": [
+      "sensors",
+      "automobile registration and license plates",
+      "social media",
+      "surveillance of citizens by government",
+      "video recordings, downloads and streaming",
+      "facial recognition software",
+      "smartphones",
+      "wearable computing",
+      "flock group inc",
+      "central park (manhattan, ny)"
+    ],
+    "collectedAt": "2026-08-21T10:15:01.612Z"
+  },
+  {
+    "title": "N.Y. State Senator’s Former Aides Say She Double-Billed for Travel",
+    "description": "For years, Jessica Ramos used campaign money to pay for hotels and Amtrak tickets while also receiving state payments for travel, records and interviews show.",
+    "link": "https://www.nytimes.com/2026/08/21/nyregion/ny-ramos-campaign-expense-charges.html",
+    "pubDate": "Fri, 21 Aug 2026 07:00:09 +0000",
+    "source": "NY Times",
+    "categories": [
+      "state legislatures",
+      "travel and vacations",
+      "midterm elections (2026)",
+      "united states politics and government",
+      "hotels and travel lodgings",
+      "politics and government",
+      "frauds and swindling",
+      "campaign finance",
+      "credit cards",
+      "common cause (us)",
+      "ramos, jessica (1985- )",
+      "albany (ny)",
+      "new york city",
+      "new york state"
+    ],
+    "collectedAt": "2026-08-21T10:15:01.612Z"
+  },
+  {
+    "title": "Landmarks Panel Approves Designs to Replace Parking Lot With High Rises",
+    "description": "Local groups in the NoHo neighborhood of Manhattan opposed the plan, saying designs for two apartment buildings did not reflect the neighborhood’s historical character.",
+    "link": "https://www.nytimes.com/2026/08/21/nyregion/noho-parking-lot-apartments.html",
+    "pubDate": "Fri, 21 Aug 2026 07:00:11 +0000",
+    "source": "NY Times",
+    "categories": [
+      "historic buildings and sites",
+      "building (construction)",
+      "buildings (structures)",
+      "urban areas",
+      "affordable housing",
+      "real estate and housing (residential)",
+      "area planning and renewal",
+      "parking garages and lots",
+      "landmarks preservation commission",
+      "greenwich village society for historic preservation",
+      "noho (manhattan, ny)",
+      "new york city"
+    ],
+    "collectedAt": "2026-08-21T10:15:01.612Z"
+  },
+  {
+    "title": "Florida Is the New Ground Zero for Both Political Parties’ Civil Wars",
+    "description": "The internet, it turns out, really isn’t real life.",
+    "link": "https://www.newsweek.com/florida-is-the-new-ground-zero-for-both-political-parties-civil-wars-12350359",
+    "pubDate": "Fri, 21 Aug 2026 06:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-21T10:15:01.612Z"
+  },
+  {
+    "title": "Millenials have found it hard to buy homes – but things may be turning a corner",
+    "description": "Twenty-somethings are much less likely to own a home than previous generations. But data suggests things may be improving.",
+    "link": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 21 Aug 2026 10:02:03 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-21T10:15:01.612Z"
+  },
+  {
+    "title": "Dave Bautista confirmed as new God of War star",
+    "description": "The ex-wrestler replaces Ryan Hurst as Kratos in the upcoming adaptation of the popular PlayStation series.",
+    "link": "https://www.bbc.co.uk/news/articles/cy5dxpgp1ego?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 21 Aug 2026 09:15:57 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-21T10:15:01.612Z"
+  },
+  {
+    "title": "Philippines floods fuel anger over alleged corruption",
+    "description": "Weeks of monsoon rain have flooded northern Philippines, where residents are demanding answers over alleged corruption.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/philippines-floods-fuel-anger-over-alleged-corruption?traffic_source=rss",
+    "pubDate": "Fri, 21 Aug 2026 10:01:49 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-08-21T10:15:01.612Z"
+  },
+  {
+    "title": "Cyclist Josh Tarling to compete in Tour of Spain after brother’s death",
+    "description": "Josh Tarling returns to cycling in Spain a week after brother Finlay dies during Tour of Portugal.",
+    "link": "https://www.aljazeera.com/sports/2026/8/21/josh-tarling-cycling-vuelta-a-espana-spain-brother-finlay-died-crash?traffic_source=rss",
+    "pubDate": "Fri, 21 Aug 2026 10:01:17 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-08-21T10:15:01.612Z"
+  },
+  {
+    "title": "Torrential rain floods New York City’s streets and subway",
+    "description": "Torrential rainfall had led to flash flooding in parts of New York City.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/torrential-rain-floods-new-york-citys-streets-and-subway?traffic_source=rss",
+    "pubDate": "Fri, 21 Aug 2026 09:40:04 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-08-21T10:15:01.612Z"
+  },
+  {
+    "title": "Trump wants a new meeting with Kim Jong Un. North Korea says not so fast - Reuters",
+    "description": "Trump wants a new meeting with Kim Jong Un. North Korea says not so fast  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYmNSdFdHSUxwdV91bzFuRVhydnBoRk85Tng0QUp2Um1tczFEMDRBbGVac0llaER1U2VoeHNPbFdrXzdReXR3bGF1cUs4eVZnOUJnVUdvWmJJcVI1Tmltd3U1R2x2akJXVVN5TkRuZTRlYUJ6M2JBWTNNWlYwNWQ2UlZWZWxHS0NkcVUydnlTQlRydzY0MDBwVVUzaFFwQk5sTTlMYVNhWW9lTlpWSThUSHoxbE5oNjJ3V0RXa0F6dkV3M25kLUdkWVRHeTQ?oc=5",
+    "pubDate": "Fri, 21 Aug 2026 08:54:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-08-21T10:15:01.612Z"
+  },
+  {
+    "title": "Trump seeks to rekindle bromance with Kim Jong Un",
+    "description": "President Trump is pushing to rekindle his first-term bromance with North Korea’s Kim Jong Un, expressing his desire for another rendezvous after reducing joint military exercises with South Korea in an effort to appease the dictator.  The president met with Kim three times during his first term, but ultimately, denuclearization talks stalled and the relationship…",
+    "link": "https://thehill.com/homenews/administration/6042660-trump-kim-jong-un-relations-north-korea/",
+    "pubDate": "Fri, 21 Aug 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "international"
+    ],
+    "collectedAt": "2026-08-21T10:15:01.612Z"
+  },
+  {
+    "title": "Trump seeks to boost Darline Graham in South Carolina homestretch",
+    "description": "President Trump is seeking to give Sen. Darline Graham (R-S.C.) a final boost as her candidacy hits a road bump in the race to replace her brother, the late Sen. Lindsey Graham (R-S.C.).  Trump will hit the campaign trail Friday for Darline Graham, whom he appointed to fill out her brother’s term, ahead of her…",
+    "link": "https://thehill.com/homenews/campaign/6042457-sc-senate-primary-runoff/",
+    "pubDate": "Fri, 21 Aug 2026 10:00:00 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "campaign",
+      "news"
+    ],
+    "collectedAt": "2026-08-21T10:15:01.612Z"
+  },
+  {
+    "title": "The 24-hour American diner is vanishing — here's what's driving the decline",
+    "description": "Red Arrow Diner keeps its griddles running 24/7 as Yelp data shows all-night restaurants fell 11 percent nationwide since 2020.",
+    "link": "https://www.foxnews.com/food-drink/24-hour-american-diner-vanishing-heres-whats-driving-decline",
+    "pubDate": "Fri, 21 Aug 2026 06:00:54 -0400",
+    "source": "Fox News",
+    "categories": [
+      "891392c0-e09d-5d83-8c4e-3ea331537f92",
+      "fnc",
+      "fox news",
+      "fox-news/food-drink/food/restaurants",
+      "fox-news/food-drink",
+      "fox-news/food-drink/food",
+      "fox-news/lifestyle",
+      "fox-news/lifestyle/food",
+      "fox-news/food-drink/food/food-trends",
+      "fox-news/food-drink",
+      "article"
+    ],
+    "collectedAt": "2026-08-21T10:15:01.612Z"
+  },
+  {
+    "title": "Fox News Digital Quiz: August 21, 2026",
+    "description": "The Fox News Digital News Quiz tests your knowledge of a New Jersey Democratic candidate's investments and an NFL rookie's film franchise decision.",
+    "link": "https://www.foxnews.com/lifestyle/fox-news-digital-quiz-august-21-2026",
+    "pubDate": "Fri, 21 Aug 2026 06:00:48 -0400",
+    "source": "Fox News",
+    "categories": [
+      "3264e648-fcaf-5b3f-a933-109c04ddebbc",
+      "fnc",
+      "fox news",
+      "fox-news/lifestyle/quizzes",
+      "fox-news/lifestyle",
+      "article"
+    ],
+    "collectedAt": "2026-08-21T10:15:01.612Z"
+  },
+  {
+    "title": "I was a sports columnist at the Seattle Times for 11 years. This is why I resigned",
+    "description": "A Seattle Times columnist resigned after his column defending Sophie Cunningham's stance on women's sports was spiked by multiple editors.",
+    "link": "https://www.foxnews.com/outkick-sports/sports-columnist-seattle-times-11-years-why-resigned",
+    "pubDate": "Fri, 21 Aug 2026 06:00:43 -0400",
+    "source": "Fox News",
+    "categories": [
+      "17b9dcd4-4557-59be-8652-9219354fffd3",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/us/seattle",
+      "fox-news/sports",
+      "fox-news/sports/wnba",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-08-21T10:15:01.612Z"
+  },
+  {
+    "title": "LA socialist's fumbled answer to Graham Platner question draws groans from Dem audience",
+    "description": "Nithya Raman drew groans from the crowd at the Los Angeles mayoral debate over her decision to hire the firm behind Graham Platner's campaign.",
+    "link": "https://www.foxnews.com/politics/la-socialist-fumbled-answer-graham-platner-question-draws-groans-dem-audience",
+    "pubDate": "Fri, 21 Aug 2026 06:00:35 -0400",
+    "source": "Fox News",
+    "categories": [
+      "31aa1e14-7049-5314-8c81-898c51e96e04",
+      "fnc",
+      "fox news",
+      "fox-news/us/democratic-party",
+      "fox-news/person/graham-platner",
+      "fox-news/person/zohran-mamdani",
+      "fox-news/politics/socialism",
+      "fox-news/politics/elections",
+      "fox-news/us/los-angeles",
+      "fox-news/us/us-regions/west/california",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-21T10:15:01.612Z"
+  },
+  {
+    "title": "Prince Harry, Meghan Markle's UK return signals ‘spectacular defeat’ as royal experts warn of William showdown",
+    "description": "Royal experts say Prince Harry and Meghan Markle's reported UK return exposes cracks in their post-Megxit life and could clash with William and Kate.",
+    "link": "https://www.foxnews.com/entertainment/prince-harry-meghan-markle-uk-return-signals-spectacular-defeat-royal-experts-warn-william-showdown",
+    "pubDate": "Fri, 21 Aug 2026 06:00:17 -0400",
+    "source": "Fox News",
+    "categories": [
+      "1e2629e3-b24b-5b3b-af6a-8007705de75f",
+      "fnc",
+      "fox news",
+      "fox-news/world/personalities/british-royals",
+      "fox-news/person/prince-harry",
+      "fox-news/entertainment/celebrity-news/meghan-markle",
+      "fox-news/entertainment",
+      "fox-news/entertainment",
+      "article"
+    ],
+    "collectedAt": "2026-08-21T10:15:01.612Z"
+  },
+  {
+    "title": "Top Dems go silent after McCarthy vindicated for booting Swalwell off intel committee",
+    "description": "Democrats rallied behind Eric Swalwell as Republicans raised alarms over Fang Fang — newly declassified FBI files are now casting fresh light on what agents knew.",
+    "link": "https://www.foxnews.com/politics/top-dems-go-silent-after-mccarthy-vindicated-booting-swalwell-intel-committee",
+    "pubDate": "Fri, 21 Aug 2026 06:00:15 -0400",
+    "source": "Fox News",
+    "categories": [
+      "122872be-2819-5036-a217-6df4b3e909bb",
+      "fnc",
+      "fox news",
+      "fox-news/person/eric-swalwell",
+      "fox-news/person/kevin-mccarthy",
+      "fox-news/person/nancy-pelosi",
+      "fox-news/politics",
+      "fox-news/person/adam-schiff",
+      "fox-news/tech/topics/fbi",
+      "fox-news/politics/finance/investigations",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-08-21T10:15:01.612Z"
+  },
+  {
+    "title": "Apple spyware warning hits iPhones in 110 countries",
+    "description": "Apple confirmed to CyberGuy that mercenary spyware alerts were sent to targeted users in 110 countries, now appearing directly on iPhone Lock Screens.",
+    "link": "https://www.foxnews.com/science/apple-spyware-warning-hits-iphones-110-countries",
+    "pubDate": "Fri, 21 Aug 2026 05:49:05 -0400",
+    "source": "Fox News",
+    "categories": [
+      "50db7776-1f4e-504f-bacc-0bfd669f2561",
+      "fnc",
+      "fox news",
+      "fox-news/tech/topics/cybercrime",
+      "fox-news/tech/companies/apple",
+      "fox-news/tech/topics/security",
+      "fox-news/us/personal-freedoms/privacy",
+      "fox-news/tech/technologies/iphone",
+      "fox-news/science",
+      "article"
+    ],
+    "collectedAt": "2026-08-21T10:15:01.612Z"
+  },
+  {
+    "title": "Why America’s $40T debt load is unlikely to cause a fiscal Armageddon",
+    "description": "The doom and gloom scenario is that the US is facing a debt crisis, one that will spur crippling interest-rate hikes and a massive sell-off in stocks.",
+    "link": "https://nypost.com/2026/08/21/business/why-americas-40t-debt-load-is-unlikely-to-cause-a-fiscal-armageddon/",
+    "pubDate": "Fri, 21 Aug 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-21T10:15:01.612Z"
+  },
+  {
+    "title": "Recalling a political analyst whose insight would have risen above the midterm elections din",
+    "description": "A Democratic-sponsored California ballot measure aims to salve a long-festering political wound for Team Blue. Voters in the Nov. 3 midterm elections will decide whether to significantly alter California’s recall election law, a statute that’s been on the books since 1911 but wasn’t deployed successfully in a governor’s race until 2003. When voters chose to […]",
+    "link": "https://www.washingtonexaminer.com/premium/4689567/expert-california-recall-law-arnold-schwarzenegger-governorship/",
+    "pubDate": "Fri, 21 Aug 2026 10:10:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "magazine",
+      "magazine - washington briefing",
+      "politics",
+      "premium",
+      "state",
+      "2026 elections",
+      "arnold schwarzenegger",
+      "california",
+      "california recall election",
+      "democratic party",
+      "gavin newsom"
+    ],
+    "collectedAt": "2026-08-21T10:15:01.612Z"
+  },
+  {
+    "title": "Gas prices: National average rises to $4.11 per gallon",
+    "description": "The national average price for regular gas increased to $4.11 per gallon on Friday, continuing a week of increasing fuel costs at the pump.  Friday’s price point is an increase from Monday when the average cost for a gallon of regular gas in the United States was $4.07. It is also an increase from a […]",
+    "link": "https://www.washingtonexaminer.com/news/4695786/gas-prices-national-average-rises-to-4-11-per-gallon/",
+    "pubDate": "Fri, 21 Aug 2026 10:01:21 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "economy",
+      "energy",
+      "news",
+      "donald trump",
+      "fossil fuels",
+      "gas",
+      "gas prices",
+      "president donald trump"
+    ],
+    "collectedAt": "2026-08-21T10:15:01.612Z"
+  },
+  {
+    "title": "Virginia Democrat bought second home outside of her congressional district after promising to relocate",
+    "description": "Ex-Virginia Democratic Rep. Elaine Luria promised constituents more than four years ago that she planned on relocating to the state’s 2nd Congressional District, where the former Democratic congresswoman is running again in 2026, after an earlier census-triggered redistricting cycle placed her primary residence outside its borders. But a Washington Examiner review of city property records […]",
+    "link": "https://www.washingtonexaminer.com/news/investigations/4695305/virginia-democrat-second-home-outside-district-promising-to-relocate/",
+    "pubDate": "Fri, 21 Aug 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "congressional",
+      "investigations",
+      "2026 elections",
+      "redistricting",
+      "virginia"
+    ],
+    "collectedAt": "2026-08-21T10:15:01.612Z"
   }
 ]
