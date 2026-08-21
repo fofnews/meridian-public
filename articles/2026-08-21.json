@@ -1518,5 +1518,39 @@
       "virginia"
     ],
     "collectedAt": "2026-08-21T10:15:01.612Z"
+  },
+  {
+    "title": "Stocks and Bonds Steady at the End of a Tumultuous Week",
+    "description": "Fears about the war in Iran, government deficits, the economy and corporate borrowing stirred global markets.",
+    "link": "https://www.nytimes.com/2026/08/21/business/stocks-bonds-oil-prices.html",
+    "pubDate": "Fri, 21 Aug 2026 10:21:51 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "oil (petroleum) and gasoline",
+      "prices (fares, fees and rates)",
+      "stocks and bonds",
+      "standard & poor's 500-stock index",
+      "iran"
+    ],
+    "collectedAt": "2026-08-21T10:30:01.423Z"
+  },
+  {
+    "title": "America's Scientific Elite Is Fueling China's Military Machine",
+    "description": "U.S. scientists continue to publish widely with Chinese military researchers, helping the PLA and China to grow stronger.",
+    "link": "https://www.newsweek.com/americas-scientific-elite-fueling-chinas-military-machine-12351201",
+    "pubDate": "Fri, 21 Aug 2026 06:16:18 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-21T10:30:01.423Z"
+  },
+  {
+    "title": "What Ben Rice still means to the Yankees — even if he’s regressed without Aaron Judge",
+    "description": "Even Rice would acknowledge the consistency hasn't been there since Judge went down.",
+    "link": "https://nypost.com/2026/08/21/sports/what-ben-rice-still-means-to-yankees-in-post-aaron-judge-slump/",
+    "pubDate": "Fri, 21 Aug 2026 06:20:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-21T10:30:01.423Z"
   }
 ]
