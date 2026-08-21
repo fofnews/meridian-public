@@ -624,5 +624,43 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-21T08:45:01.319Z"
+  },
+  {
+    "title": "Morning news brief",
+    "description": "Trump threatens economic pressure campaign against Iran, SCOTUS to weigh in on whether Trump's ballroom project, investors dump stocks and bonds despite government's efforts to calm market.",
+    "link": "https://www.npr.org/2026/08/21/nx-s1-5931262/morning-news-brief",
+    "pubDate": "Fri, 21 Aug 2026 04:46:00 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-08-21T09:00:06.052Z"
+  },
+  {
+    "title": "The midterms of scandal are underway",
+    "description": "Both parties have navigated a range of scandals this year — and haven’t found a uniform approach to handling them.",
+    "link": "https://www.politico.com/news/2026/08/21/midterms-scandals-controversies-01045143",
+    "pubDate": "Fri, 21 Aug 2026 03:45:00 EST",
+    "source": "Politico",
+    "categories": [
+      "politics, 2026 elections, graham platner, cory mills, congress"
+    ],
+    "collectedAt": "2026-08-21T09:00:06.052Z"
+  },
+  {
+    "title": "Starmer donates biography of himself to Downing Street library",
+    "description": "The former PM and seven of his ministers have added to the collection, which began in 1931.",
+    "link": "https://www.bbc.co.uk/news/articles/czdm6m939edo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 21 Aug 2026 06:56:11 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-21T09:00:06.052Z"
+  },
+  {
+    "title": "Georgia State University math whiz, 19, graduates with degree in 14 months",
+    "description": "\"I do really love math. It’s genuinely one of my favorite things.\"",
+    "link": "https://nypost.com/2026/08/21/us-news/georgia-state-university-math-whiz-ivanna-poliashenko-graduates-with-degree-in-just-14-months/",
+    "pubDate": "Fri, 21 Aug 2026 04:50:06 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-21T09:00:06.052Z"
   }
 ]
