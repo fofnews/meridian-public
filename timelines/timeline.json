@@ -464,7 +464,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-20",
+      "lastSeen": "2026-08-21",
       "active": true,
       "entries": [
         {
@@ -1046,6 +1046,11 @@
           "date": "2026-08-20",
           "edition": "evening",
           "update": "Russia launched an additional massive attack on Ukraine involving dozens of missiles and more than 100 drones, with strikes hitting parts of Kyiv and killing 12 people while sparking fires, according to Newsmax and CBS News. Putin and Chinese President Xi Jinping jointly declared the U.S.'s proposed Golden Dome missile shield a 'threat to strategic stability,' warning against what they characterized as a new arms race. Latvia confirmed that a drone that entered its airspace on August 14 belonged to Ukraine."
+        },
+        {
+          "date": "2026-08-21",
+          "edition": "morning",
+          "update": "A Russian drone attack on Kyiv overnight Wednesday into Thursday killed at least 16 people and wounded 40 more, according to CBS News."
         }
       ],
       "parentId": null
@@ -2199,7 +2204,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-20",
+      "lastSeen": "2026-08-21",
       "active": true,
       "entries": [
         {
@@ -3096,6 +3101,11 @@
           "date": "2026-08-20",
           "edition": "morning",
           "update": "On Wednesday, Trump announced on Truth Social what he described as the 'most crushing economic operation ever' against any country, using the phrase 'Economic D-Day' and writing that the campaign would constitute 'Economic Warfare and Isolation on an unprecedented scale.' Trump also warned that countries trading with or supporting Iran would face economic consequences. Despite the escalatory rhetoric, Trump separately told reporters and acknowledged to CBS News that U.S.-Iran talks could resume 'at some point,' describing the current war status quo as 'very good' and expressing confidence that Strait of Hormuz concerns are being resolved. Oil prices held steady as investors assessed the conflict outlook, while the NY Times characterized the situation as an uneasy standoff in which both sides believe they can outlast the other. Experts cited by Al Jazeera said reported dire conditions aboard the USS Abraham Lincoln raise serious questions about the U.S. Navy's capacity to sustain prolonged operations."
+        },
+        {
+          "date": "2026-08-21",
+          "edition": "morning",
+          "update": "BBC News reported that Iran has consistently found workarounds to previous U.S. sanctions, raising questions about the effectiveness of renewed economic pressure. Oil prices were on track for a second consecutive weekly gain as ongoing U.S.-Iran tensions continued to constrain supply, according to Reuters. Trump, in a radio interview, rejected Democratic criticism of the Iran war and claimed Americans support his administration's handling of the conflict."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3839,7 +3849,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-08-20",
+      "lastSeen": "2026-08-21",
       "active": true,
       "entries": [
         {
@@ -3916,6 +3926,11 @@
           "date": "2026-08-20",
           "edition": "morning",
           "update": "Trump told reporters he expects to meet Kim Jong Un in 2025 and claimed North Korea possesses 57 nuclear weapons, a figure South Korea's government estimates is as high as 120 warheads, according to Reuters. Kim Yo Jong publicly denied knowledge of any discussions between Kim Jong Un and Trump, contradicting Trump's earlier claim that Kim had responded positively to outreach. North Korea stated that the U.S. decision to scale back joint drills with South Korea does not change its view of the exercises as provocative. On Thursday, North Korea launched 10 ballistic missiles toward the East Sea from the Pyongyang area, one day after dismissing the reduced drill announcement, according to South Korea's Joint Chiefs of Staff."
+        },
+        {
+          "date": "2026-08-21",
+          "edition": "morning",
+          "update": "US-South Korea joint military exercises ended early on Friday, according to BBC News. North Korea has raised its demands in diplomatic negotiations as the Trump administration pursues engagement with Pyongyang, while South Korea has expressed concern about being sidelined in talks directly affecting its own security, according to NPR."
         }
       ],
       "parentId": null
@@ -3945,7 +3960,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-20",
+      "lastSeen": "2026-08-21",
       "active": true
     },
     {
@@ -4478,7 +4493,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-08-20",
+      "lastSeen": "2026-08-21",
       "active": true,
       "entries": [
         {
@@ -4535,6 +4550,11 @@
           "date": "2026-08-20",
           "edition": "evening",
           "update": "Former Ukrainian defence chief Fedorov called for a wartime election, increasing political pressure on President Zelenskyy, though holding a vote remains a near-impossible logistical and security challenge amid ongoing Russian attacks, according to Al Jazeera."
+        },
+        {
+          "date": "2026-08-21",
+          "edition": "morning",
+          "update": "A senior Russian diplomat stated that Russia is prepared to consider new peace proposals for Ukraine but indicated any plan would need to meet certain conditions, according to Reuters."
         }
       ]
     },
@@ -4543,7 +4563,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-08-20",
+      "lastSeen": "2026-08-21",
       "active": true,
       "entries": [
         {
@@ -4950,6 +4970,11 @@
           "date": "2026-08-20",
           "edition": "evening",
           "update": "Yemen's Houthi forces claimed responsibility for attacks on Najran airport and Saudi Aramco facilities in Saudi Arabia, according to Reuters. Romania destroyed a marine drone discovered near the Neptun Deep gas project in the Black Sea, according to the country's minister."
+        },
+        {
+          "date": "2026-08-21",
+          "edition": "morning",
+          "update": "A spike in 'dark' oil tankers navigating the Strait of Hormuz with their location devices switched off has been reported, as vessels attempt to evade Iranian attacks; the NY Times noted the trend raises the risk of collisions and catastrophic oil spills."
         }
       ]
     },
@@ -5313,7 +5338,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-20",
+      "lastSeen": "2026-08-21",
       "active": true,
       "entries": [
         {
@@ -5470,6 +5495,11 @@
           "date": "2026-08-20",
           "edition": "morning",
           "update": "An Israeli airstrike on Gaza City's police headquarters killed the women's police chief and several officers, according to Al Jazeera. The grandmother of Hind Rajab, the five-year-old Palestinian girl killed by Israeli forces in Gaza, stated that her family does not trust the Israeli judiciary."
+        },
+        {
+          "date": "2026-08-21",
+          "edition": "morning",
+          "update": "A U.S. aircraft carrier departed the Middle East, according to the NY Times."
         }
       ]
     },
@@ -5588,7 +5618,7 @@
       "title": "Airport Security Threats and Explosive Device Incidents",
       "parentId": null,
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-15",
+      "lastSeen": "2026-08-21",
       "active": true,
       "entries": [
         {
@@ -5625,6 +5655,11 @@
           "date": "2026-08-15",
           "edition": "evening",
           "update": "A man identified as Larry Montes was charged in connection with an attack at Central Synagogue on the Upper East Side of Manhattan on Friday night, where he allegedly disrupted a service, struck a congregant, and assaulted a security staffer, according to the NYPD."
+        },
+        {
+          "date": "2026-08-21",
+          "edition": "morning",
+          "update": "Jessica Bowie, a 35-year-old Albany resident, was arrested by the FBI and charged with providing material support to a terrorist organization after allegedly plotting to bomb the New York State Capitol and kill lawmakers, according to a federal criminal complaint."
         }
       ]
     },
@@ -5674,5 +5709,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-20T21:09:07.646Z"
+  "updatedAt": "2026-08-21T11:09:31.570Z"
 }
