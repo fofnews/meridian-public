@@ -389,5 +389,56 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-22T08:00:02.241Z"
+  },
+  {
+    "title": "'Multiple' deaths after collision between police vehicle and car",
+    "description": "The collision involved a Volkswagen Passat on the A66 in South Bank, near Middlesbrough, police say.",
+    "link": "https://www.bbc.co.uk/news/articles/cx272ly3g00o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 22 Aug 2026 08:11:06 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-22T08:15:02.538Z"
+  },
+  {
+    "title": "Lionel Messi fined for striking opponent in Inter Miami MLS game",
+    "description": "MLS fine Inter Miami's Lionel Messi and Ian Fray for separate incidents in match against Philadelphia Union.",
+    "link": "https://www.aljazeera.com/sports/2026/8/22/messi-fined-for-striking-opponent-in-inter-miami-mls-game?traffic_source=rss",
+    "pubDate": "Sat, 22 Aug 2026 07:41:21 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-08-22T08:15:02.538Z"
+  },
+  {
+    "title": "‘Young want to leave’: Libya’s brain drain, 15 years after Tripoli fell",
+    "description": "Professionals who left a country in turmoil say they are unlikely to return as more in Libya could be planning to leave.",
+    "link": "https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss",
+    "pubDate": "Sat, 22 Aug 2026 07:41:10 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-22T08:15:02.538Z"
+  },
+  {
+    "title": "World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent",
+    "description": "Conflict with Israel derails Lebanon's economic recovery as inflation and consumer prices rise, the global lender says.",
+    "link": "https://www.aljazeera.com/news/2026/8/22/world-bank-projects-war-hit-lebanons-economy-to-contract-by-6-4-percent?traffic_source=rss",
+    "pubDate": "Sat, 22 Aug 2026 07:35:08 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-22T08:15:02.538Z"
+  },
+  {
+    "title": "Let there be sunlight: Vatican plans solar and agriculture plant to cover its electricity needs - Reuters",
+    "description": "Let there be sunlight: Vatican plans solar and agriculture plant to cover its electricity needs  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGw0X0lOUmZESVVqMWhVeV84V3ptaFJTWDhqSzdPUm9CUEF5QmppQUExYWVwN09OZjhqYnpOcUxaRDZHdngzTHNaWWtPZy1namVHODNULWtCNkpSV0hvSmRfMkRFeXQ2bkNIR05qQUFSdzc4bWV4ZFZud0ppWWVGQVVnbTR0ZXhSMUVWQ3Y5ZXluc1VrUXh6NUhmNEJ2RDAzdElkMjZKS3lqMXNHdHR1ZlJB?oc=5",
+    "pubDate": "Sat, 22 Aug 2026 07:07:29 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-08-22T08:15:02.538Z"
   }
 ]
