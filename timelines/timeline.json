@@ -1061,6 +1061,11 @@
           "date": "2026-08-22",
           "edition": "morning",
           "update": "A Russian drone strike hit a shopping mall in Kryvyi Rih — the hometown of President Zelenskyy — killing at least 16 people in a double-tap, two-wave attack. Russian strikes on Ukraine the following day killed at least two more people. In overnight strikes, Ukrainian drones hit a warehouse belonging to Russian online retailer Ozon, according to Reuters."
+        },
+        {
+          "date": "2026-08-22",
+          "edition": "evening",
+          "update": "Russian strikes killed 6 people in Ukraine the day after the Kryvyi Rih shopping complex attack, while a Ukrainian drone struck a home in southern Russia, killing two children and injuring their parents. French President Macron agreed to accelerate air defense deliveries to Ukraine following discussions with President Zelenskyy. Putin warned that Ukraine had opened a 'Pandora's box' by striking Russian economic targets, suggesting the attacks could lead to broader escalation, according to Reuters."
         }
       ],
       "parentId": null
@@ -1744,7 +1749,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-20",
+      "lastSeen": "2026-08-22",
       "active": true,
       "entries": [
         {
@@ -2206,6 +2211,11 @@
           "date": "2026-08-20",
           "edition": "morning",
           "update": "Al Jazeera correspondent Ali Hashem reported watching Israeli attacks near his hometown in southern Lebanon, as displaced Lebanese residents observe ongoing strikes in designated 'pilot zones' from a distance."
+        },
+        {
+          "date": "2026-08-22",
+          "edition": "evening",
+          "update": "An Israeli drone strike on what Syria describes as a civilian vehicle in southwest Syria caused injuries, prompting Damascus to condemn the attack as a 'flagrant violation of sovereignty' and a 'blatant breach of international law,' according to Al Jazeera. Israel carried out additional strikes on southern Syria, again drawing condemnation from the Damascus government, according to Reuters."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3126,6 +3136,11 @@
           "date": "2026-08-22",
           "edition": "morning",
           "update": "The USS Abraham Lincoln departed the Middle East following a nine-month deployment and is en route to its home port of San Diego, relieved by the USS George Washington arriving from Asia. Trump declared the Strait of Hormuz 'American territory' and stated Iran 'would love to make a deal, but they're not ready to make the right deal.'"
+        },
+        {
+          "date": "2026-08-22",
+          "edition": "evening",
+          "update": "Iranian President Pezeshkian declared that 'the entire world approved our victory' over the U.S. and called for the conflict to end, according to Iranian state media, with the remarks coming ahead of expected new U.S. economic sanctions next week. Iran separately stated that weapons production is ongoing but declined to reveal specific capabilities, citing active war conditions."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -5093,7 +5108,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-08-21",
+      "lastSeen": "2026-08-22",
       "active": true,
       "entries": [
         {
@@ -5285,6 +5300,11 @@
           "date": "2026-08-21",
           "edition": "evening",
           "update": "The UN reported that Ebola is spreading exponentially in the Democratic Republic of Congo, with the death toll now surpassing 2,500 people, according to Reuters."
+        },
+        {
+          "date": "2026-08-22",
+          "edition": "evening",
+          "update": "Approximately 16,000 doses of Ebola vaccine arrived in the Democratic Republic of Congo as health authorities warned the outbreak was killing roughly one person every thirty minutes, according to Al Jazeera."
         }
       ]
     },
@@ -5754,5 +5774,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-22T11:05:31.877Z"
+  "updatedAt": "2026-08-22T21:04:43.849Z"
 }
