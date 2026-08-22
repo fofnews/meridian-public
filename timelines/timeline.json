@@ -464,7 +464,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-21",
+      "lastSeen": "2026-08-22",
       "active": true,
       "entries": [
         {
@@ -1056,6 +1056,11 @@
           "date": "2026-08-21",
           "edition": "evening",
           "update": "Russian drivers are facing hours-long queues at fuel stations amid petrol shortages, according to BBC News. The Nord Stream pipeline suspect arrest previously reported involves a Ukrainian national detained in Croatia, confirmed separately by Reuters."
+        },
+        {
+          "date": "2026-08-22",
+          "edition": "morning",
+          "update": "A Russian drone strike hit a shopping mall in Kryvyi Rih — the hometown of President Zelenskyy — killing at least 16 people in a double-tap, two-wave attack. Russian strikes on Ukraine the following day killed at least two more people. In overnight strikes, Ukrainian drones hit a warehouse belonging to Russian online retailer Ozon, according to Reuters."
         }
       ],
       "parentId": null
@@ -2209,7 +2214,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-21",
+      "lastSeen": "2026-08-22",
       "active": true,
       "entries": [
         {
@@ -3116,6 +3121,11 @@
           "date": "2026-08-21",
           "edition": "evening",
           "update": "A top Iranian official dismissed Trump's economic pressure campaign, stating that decades of U.S. sanctions have failed and that Washington's reliance on economic warfare proves its military campaign against Iran has also failed. Iranian Parliament Speaker Mohammed Bagher Qalibaf separately condemned the new U.S. sanctions as 'unjust,' calling on economic representatives in Baghdad to devise strategies to counter them. The U.S. Treasury Department designated Hezbollah as an Iranian proxy, labeling the group 'an extension' of the IRGC's Quds Force and announcing sanctions targeting its financing network. Chinese analysts stated Beijing is prepared to resist U.S. economic pressure over Iran, citing China's leverage over critical mineral exports to the U.S. and sufficient oil reserves to absorb any loss of Iranian crude. U.S. allies in Asia, cited by Al Jazeera, formally expressed concern that American military asset redeployments toward the Iran conflict are weakening U.S. deterrence against China in the Indo-Pacific."
+        },
+        {
+          "date": "2026-08-22",
+          "edition": "morning",
+          "update": "The USS Abraham Lincoln departed the Middle East following a nine-month deployment and is en route to its home port of San Diego, relieved by the USS George Washington arriving from Asia. Trump declared the Strait of Hormuz 'American territory' and stated Iran 'would love to make a deal, but they're not ready to make the right deal.'"
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3970,7 +3980,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-21",
+      "lastSeen": "2026-08-22",
       "active": true
     },
     {
@@ -3993,7 +4003,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-08-20",
+      "lastSeen": "2026-08-22",
       "active": true,
       "entries": [
         {
@@ -4275,6 +4285,11 @@
           "date": "2026-08-20",
           "edition": "evening",
           "update": "Trump threatened Iran with 'economic warfare and isolation on an unprecedented scale,' which Iranian Foreign Minister Araghchi dismissed as a 'diversion from America's own crisis,' warning it would result in 'further defeat' for the United States. Treasury Secretary Scott Bessent stated that economic pressure could potentially avert major military operations and urged allies to support plans to 'squash' Iran's economy, warning partners they must decide whether they 'are with us or against us.' Newsweek reported that as U.S. national debt approaches $40 trillion with consumer prices elevated, the pressure campaign carries domestic political and fiscal risks for Republicans, while U.S. farmers face rising war-linked costs that could influence tight midterm races."
+        },
+        {
+          "date": "2026-08-22",
+          "edition": "morning",
+          "update": "Iranian President Masoud Pezeshkian stated it is time to end the war with the U.S. from 'a position of strength,' as Omani and Iranian foreign ministers held a call amid Washington's preparations for new sanctions."
         }
       ]
     },
@@ -4578,7 +4593,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-08-21",
+      "lastSeen": "2026-08-22",
       "active": true,
       "entries": [
         {
@@ -4995,6 +5010,11 @@
           "date": "2026-08-21",
           "edition": "evening",
           "update": "NATO member states are holding discussions on options regarding the Strait of Hormuz, according to Reuters, with talks occurring outside formal NATO alliance structures."
+        },
+        {
+          "date": "2026-08-22",
+          "edition": "morning",
+          "update": "Iran granted permission for a number of Iraqi oil tankers to pass through the Strait of Hormuz, according to Reuters."
         }
       ]
     },
@@ -5734,5 +5754,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-21T21:07:28.487Z"
+  "updatedAt": "2026-08-22T11:05:31.877Z"
 }
