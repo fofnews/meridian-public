@@ -7407,5 +7407,36 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-23T03:30:01.156Z"
+  },
+  {
+    "title": "In rural Chad, solar kiosks bring healthcare closer",
+    "description": "Solar-powered telemedicine is helping rural Chadians overcome distance and limited access to doctors.",
+    "link": "https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss",
+    "pubDate": "Sun, 23 Aug 2026 03:21:03 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-23T03:45:01.309Z"
+  },
+  {
+    "title": "Chinese robot beats Usain Bolt’s 100m world record at humanoid games",
+    "description": "A Chinese humanoid robot ran 100m in 9.39 seconds, beating Usain Bolt’s 9.58 second world record.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss",
+    "pubDate": "Sun, 23 Aug 2026 03:16:19 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-08-23T03:45:01.309Z"
+  },
+  {
+    "title": "Woman found dead in Bronx apartment building on Friday — authorities investigating as possible homicide",
+    "description": "A woman was found dead in a Bronx apartment on Friday afternoon — and authorities are eyeing her mentally ill son as a possible homicide suspect, according to sources.",
+    "link": "https://nypost.com/2026/08/22/us-news/woman-found-dead-bronx-apartment-building-friday-authorities-investigating-possible-homicide/",
+    "pubDate": "Sat, 22 Aug 2026 23:31:05 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-23T03:45:01.309Z"
   }
 ]
