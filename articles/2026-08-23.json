@@ -1536,5 +1536,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-23T11:45:01.295Z"
+  },
+  {
+    "title": "Trump Immigration Agenda Suffers New Setback: Map Shows Countries Affected",
+    "description": "A judge strikes down Trump visa restrictions on 75 countries, marking another setback for his immigration agenda.",
+    "link": "https://www.newsweek.com/immigrant-visas-setback-countries-affected-12357089",
+    "pubDate": "Sun, 23 Aug 2026 07:53:15 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-23T12:00:01.144Z"
+  },
+  {
+    "title": "Sydney Marathon organisers not running away from ‘unfortunate’ medal error",
+    "description": "The medal features the Allianz Arena in Munich, instead of Sydney's Allianz Stadium, as one of the city's landmarks.",
+    "link": "https://www.aljazeera.com/sports/2026/8/23/sydney-marathon-organisers-not-running-away-from-unfortunate-medal-error?traffic_source=rss",
+    "pubDate": "Sun, 23 Aug 2026 11:44:18 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-08-23T12:00:01.144Z"
   }
 ]
