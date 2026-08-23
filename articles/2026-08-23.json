@@ -346,5 +346,32 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-23T07:15:01.708Z"
+  },
+  {
+    "title": "Carney Stands Up to Trump in U.S.-Canada Trade War",
+    "description": "Canada’s prime minister walked away from what he thought was a bad trade deal with the United States. Many Canadians are behind him, but it will be costly.",
+    "link": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
+    "pubDate": "Sun, 23 Aug 2026 07:15:52 +0000",
+    "source": "NY Times",
+    "categories": [
+      "canada",
+      "carney, mark j",
+      "trump, donald j",
+      "united states",
+      "united states politics and government",
+      "customs (tariff)"
+    ],
+    "collectedAt": "2026-08-23T07:30:01.576Z"
+  },
+  {
+    "title": "Infantino defies FIFA vice president, makes appearance in the Caribbean",
+    "description": "FIFA boss turns up at event after CONCACAF chief Montagliani asked him to reconsider amid the body’s governance crisis.",
+    "link": "https://www.aljazeera.com/sports/2026/8/23/infantino-defies-fifa-makes-rare-appearance-at-youth-event-amid-furor?traffic_source=rss",
+    "pubDate": "Sun, 23 Aug 2026 07:22:37 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-08-23T07:30:01.576Z"
   }
 ]
