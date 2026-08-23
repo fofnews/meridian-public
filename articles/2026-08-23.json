@@ -746,5 +746,245 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-23T09:45:01.587Z"
+  },
+  {
+    "title": "Jeffries and Kushner Meet Privately as Midterm Attacks Fly",
+    "description": "President Trump’s son-in-law and the man in line to be speaker of a Democratic-led House discussed how Democrats and the administration could work together.",
+    "link": "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html",
+    "pubDate": "Sun, 23 Aug 2026 09:02:04 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "midterm elections (2026)",
+      "democratic party",
+      "house of representatives",
+      "jeffries, hakeem",
+      "kushner, jared",
+      "new york city",
+      "cost of living and affordability",
+      "trump, donald j",
+      "wiles, susie"
+    ],
+    "collectedAt": "2026-08-23T10:00:01.371Z"
+  },
+  {
+    "title": "The Midterms Feel Like 2006 All Over Again",
+    "description": "With an unpopular war and high prices agitating voters, members of both parties see parallels to an election cycle when Democrats romped. But a lot has changed.",
+    "link": "https://www.nytimes.com/2026/08/23/us/politics/midterms-feel-like-2006-all-over-again.html",
+    "pubDate": "Sun, 23 Aug 2026 09:01:57 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "midterm elections (2026)",
+      "us and israeli attack on iran (2026)",
+      "ethics and official misconduct",
+      "elections, house of representatives",
+      "democratic congressional campaign committee",
+      "democratic party",
+      "house of representatives",
+      "national republican congressional committee",
+      "republican party",
+      "senate",
+      "bush, george w",
+      "emanuel, rahm",
+      "foley, mark a",
+      "schumer, charles e",
+      "pelosi, nancy"
+    ],
+    "collectedAt": "2026-08-23T10:00:01.371Z"
+  },
+  {
+    "title": "What Canadian Goods Will Take Trump’s 50% Tariffs? Some Pretty Strange Items.",
+    "description": "Buoys, dog muzzles, capes, national flags and “base metal statuettes” from Canada are now more expensive for U.S. shoppers.",
+    "link": "https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html",
+    "pubDate": "Sun, 23 Aug 2026 09:44:57 +0000",
+    "source": "NY Times",
+    "categories": [
+      "international trade and world market",
+      "customs (tariff)",
+      "prices (fares, fees and rates)",
+      "carney, mark j",
+      "trump, donald j",
+      "canada",
+      "united states",
+      "shopping and retail",
+      "coats and jackets"
+    ],
+    "collectedAt": "2026-08-23T10:00:01.371Z"
+  },
+  {
+    "title": "U.S.-Canada Trade War: What to Know About Tariffs and the Negotiations",
+    "description": "Canada suspended trade negotiations, triggering President Trump’s 50 percent tariffs on a range of Canadian goods. Mark Carney said he would retaliate “dollar for dollar.”",
+    "link": "https://www.nytimes.com/2026/08/23/world/canada/canada-us-trade-war-trump-carney.html",
+    "pubDate": "Sun, 23 Aug 2026 09:47:28 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states international relations",
+      "canada",
+      "customs (tariff)",
+      "international trade and world market",
+      "carney, mark j",
+      "trump, donald j",
+      "greer, jamieson l",
+      "united states-mexico-canada agreement",
+      "steel and iron",
+      "aluminum",
+      "automobiles"
+    ],
+    "collectedAt": "2026-08-23T10:00:01.371Z"
+  },
+  {
+    "title": "The U.S. Start-Up Making Low-Cost Interceptors for the Iran War",
+    "description": "For Florida-based Powerus, becoming a global supplier of counterdrone technology has meant involving the Trumps, a golf course and a new way of doing business.",
+    "link": "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html",
+    "pubDate": "Sun, 23 Aug 2026 09:00:19 +0000",
+    "source": "NY Times",
+    "categories": [
+      "drones (pilotless planes)",
+      "us and israeli attack on iran (2026)",
+      "start-ups",
+      "defense and military forces",
+      "dubai (united arab emirates)",
+      "defense contracts",
+      "factories and manufacturing"
+    ],
+    "collectedAt": "2026-08-23T10:00:01.371Z"
+  },
+  {
+    "title": "How Big Tech Captured American Schools",
+    "description": "Companies like Google and Microsoft have used their money, their might and their massive reach to influence nearly every step of the education supply chain.",
+    "link": "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html",
+    "pubDate": "Sun, 23 Aug 2026 09:01:04 +0000",
+    "source": "NY Times",
+    "categories": [
+      "google inc",
+      "microsoft corp",
+      "big tech",
+      "education (k-12)",
+      "teachers and school employees",
+      "american federation of teachers",
+      "united federation of teachers",
+      "weingarten, randi",
+      "smith, bradford l",
+      "teenagers and adolescence",
+      "artificial intelligence",
+      "chatgpt",
+      "copilot",
+      "computer science teachers association"
+    ],
+    "collectedAt": "2026-08-23T10:00:01.371Z"
+  },
+  {
+    "title": "This Canal System Transformed Arizona. It’s Now in Jeopardy.",
+    "description": "Decades ago, the state won funding for a massive Colorado River project by agreeing to be first in line for cuts at a time of deep drought. The Trump administration says that time has come.",
+    "link": "https://www.nytimes.com/2026/08/23/us/arizona-canals-colorado-river.html",
+    "pubDate": "Sun, 23 Aug 2026 09:00:53 +0000",
+    "source": "NY Times",
+    "categories": [
+      "water",
+      "rivers",
+      "native americans",
+      "deserts",
+      "drought",
+      "infrastructure (public works)",
+      "federal-state relations (us)",
+      "bureau of reclamation",
+      "gallego, kate",
+      "arizona",
+      "cave creek (ariz)",
+      "colorado river",
+      "phoenix (ariz)"
+    ],
+    "collectedAt": "2026-08-23T10:00:01.371Z"
+  },
+  {
+    "title": "Wildfires Are Turning Forests in the American West Into Shrubland",
+    "description": "Towering woodlands in the West are being permanently replaced by tracts of spiky shrubs. Conditions “just aren’t normal anymore,” one researcher said.",
+    "link": "https://www.nytimes.com/2026/08/23/climate/wildfire-forest-loss-california-southwest.html",
+    "pubDate": "Sun, 23 Aug 2026 09:00:22 +0000",
+    "source": "NY Times",
+    "categories": [
+      "wildfires",
+      "forests and forestry",
+      "global warming",
+      "trees and shrubs",
+      "sierra nevada region (us)"
+    ],
+    "collectedAt": "2026-08-23T10:00:01.371Z"
+  },
+  {
+    "title": "Someone Was Impersonating Collien Fernandes Online. She Says It Was Her Husband.",
+    "description": "The German actress Collien Fernandes set out to discover who was pretending to be her online and sending men sexually explicit material. Her answer ignited a feminist movement.",
+    "link": "https://www.nytimes.com/2026/08/23/magazine/collien-fernandes-impersonators-germany-metoo.html",
+    "pubDate": "Sun, 23 Aug 2026 09:00:33 +0000",
+    "source": "NY Times",
+    "categories": [
+      "fernandes, collien",
+      "cyberharassment",
+      "sexual harassment",
+      "impostors (criminal)",
+      "instagram inc",
+      "domestic violence",
+      "#metoo movement",
+      "video recordings, downloads and streaming",
+      "social media"
+    ],
+    "collectedAt": "2026-08-23T10:00:01.371Z"
+  },
+  {
+    "title": "Echoing Trump, Latin America’s Leaders Boost Allies Across Borders",
+    "description": "With cheers, endorsements and insults for rivals and “wokismo,” a new crop of right-wing leaders are openly stepping into one another’s elections.",
+    "link": "https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html",
+    "pubDate": "Sun, 23 Aug 2026 09:01:52 +0000",
+    "source": "NY Times",
+    "categories": [
+      "international relations",
+      "united states international relations",
+      "politics and government",
+      "bukele, nayib",
+      "da silva, luiz inacio lula",
+      "hegseth, pete",
+      "milei, javier",
+      "noboa, daniel",
+      "sheinbaum, claudia",
+      "trump, donald j",
+      "rubio, marco",
+      "argentina",
+      "brazil",
+      "colombia",
+      "united states",
+      "peru",
+      "latin america",
+      "mexico",
+      "el salvador"
+    ],
+    "collectedAt": "2026-08-23T10:00:01.371Z"
+  },
+  {
+    "title": "Robots compete in boxing, football and sprinting at World Humanoid Games",
+    "description": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
+    "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 23 Aug 2026 09:42:05 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-23T10:00:01.371Z"
+  },
+  {
+    "title": "Iran says Pakistan's army chief to visit Tehran on Monday - Reuters",
+    "description": "Iran says Pakistan's army chief to visit Tehran on Monday  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1l4dmU1TFpSU2FINWVIZW5YLTMxaEhxY2hJa0tYZldGeG9Sa2loOFlfZEp5RkFDZ1JVMWQ5Y0VMY3hkeUlxZnh6QzVsTUdEcmJSckU4SGhoUURLN3M4Qi1hbkdXYXk1YWdzRUlKLU5SUmo1bC1tcE5pMzE3bkRYQmN0SW90YXNNQnNxTWZuWWwyM0x5NnRReGFiV1V3b1VOMElSVm5NVE0?oc=5",
+    "pubDate": "Sun, 23 Aug 2026 09:13:39 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-08-23T10:00:01.371Z"
+  },
+  {
+    "title": "Bill Maher blasts Democratic Party, says it is fine with religion ‘as long as that faith isn’t Jewish’",
+    "description": "\"Well, in the Democratic Party, as long as that faith isn’t Jewish, you’re good,\" Maher retorted.",
+    "link": "https://nypost.com/2026/08/23/media/bill-maher-blasts-democrats-for-being-fine-with-religion-besides-jewish-faith/",
+    "pubDate": "Sun, 23 Aug 2026 05:46:25 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-23T10:00:01.371Z"
   }
 ]
