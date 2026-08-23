@@ -6626,5 +6626,101 @@
     "source": "NBC News",
     "categories": [],
     "collectedAt": "2026-08-23T00:00:01.591Z"
+  },
+  {
+    "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
+    "description": "BBC Verify tracks the changes in design, spec, manufacture and release date of the T1 phone from Trump Mobile.",
+    "link": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 22 Aug 2026 23:45:01 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-23T00:15:01.493Z"
+  },
+  {
+    "title": "Iran war live: Tehran warns neighbours against joining US economic war",
+    "description": "Official says any state joining US would be considered enemies and Tehran would target their interests in retaliation.",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
+    "pubDate": "Sun, 23 Aug 2026 00:00:00 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-23T00:15:01.493Z"
+  },
+  {
+    "title": "Iran threatens countries that join US ‘economic D-Day’",
+    "description": "Iran warns that countries joining the US economic war against Iran will face ‘tit-for-tat’ action.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
+    "pubDate": "Sat, 22 Aug 2026 23:56:32 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-08-23T00:15:01.493Z"
+  },
+  {
+    "title": "Connecticut police officers shot, suspect killed after attempted arrest sparks hectic chase",
+    "description": "Two Connecticut police officers were wounded and a suspect killed after a car chase from Hartford ended in an exchange of gunfire in Newington.",
+    "link": "https://www.foxnews.com/us/connecticut-police-officers-shot-suspect-killed-attempted-arrest-sparks-hectic-chase",
+    "pubDate": "Sat, 22 Aug 2026 19:52:13 -0400",
+    "source": "Fox News",
+    "categories": [
+      "8f642814-83c6-57d1-8089-dce3fcea347a",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/northeast/connecticut",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/crime",
+      "fox-news/politics/judiciary/state-and-local",
+      "fox-news/us",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-08-23T00:15:01.493Z"
+  },
+  {
+    "title": "Woman dies after plunging her SUV into Long Island swimming pool",
+    "description": "A woman died Friday after losing control of her SUV and crashing into a backyard pool on Long Island, police said.",
+    "link": "https://nypost.com/2026/08/22/us-news/woman-dies-after-plunging-suv-long-island-swimming-pool/",
+    "pubDate": "Sat, 22 Aug 2026 20:14:49 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-23T00:15:01.493Z"
+  },
+  {
+    "title": "Dramatic moment cops save 5 dogs nearly cooked alive in hot car",
+    "description": "A car can become dangerously hot within minutes, even if the windows are cracked.",
+    "link": "https://nypost.com/2026/08/22/us-news/cops-rescue-5-dogs-from-hot-newport-beach-car-as-temps-reach-deadly-levels/",
+    "pubDate": "Sat, 22 Aug 2026 20:11:48 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-23T00:15:01.493Z"
+  },
+  {
+    "title": "Nuggets dumping Peyton Watson raises troubling Nikola Jokic question",
+    "description": "Could trading Peyton Watson open the Cavaliers’ championship window and shut it for the aging Nuggets — and Nikola Jokic?",
+    "link": "https://nypost.com/2026/08/22/sports/nuggets-dumping-peyton-watson-raises-troubling-nikola-jokic-question/",
+    "pubDate": "Sat, 22 Aug 2026 20:10:21 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-23T00:15:01.493Z"
+  },
+  {
+    "title": "Tyrone Tracy’s woes continue in Giants’ preseason win over Dolphins",
+    "description": "For the Giants, this was going to be an afternoon for some to rise and others to fall. Consider Tyrone Tracy Jr. as having stumbled, again.",
+    "link": "https://nypost.com/2026/08/22/sports/tyrone-tracys-woes-continue-in-giants-preseason-win-over-dolphins/",
+    "pubDate": "Sat, 22 Aug 2026 20:04:50 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-23T00:15:01.493Z"
+  },
+  {
+    "title": "Paramount to meet with California attorney general at high-stakes meeting over antitrust suit",
+    "description": "Paramount has been pushing hard for a deal to allow its $111 billion merger with Warner Bros. Discovery to close.",
+    "link": "https://nypost.com/2026/08/22/media/paramount-to-meet-with-california-attorney-general-at-high-stakes-meeting-over-antiturst-suit/",
+    "pubDate": "Sat, 22 Aug 2026 20:03:18 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-23T00:15:01.493Z"
   }
 ]
