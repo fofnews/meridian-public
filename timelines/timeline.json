@@ -464,7 +464,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-22",
+      "lastSeen": "2026-08-23",
       "active": true,
       "entries": [
         {
@@ -1066,6 +1066,11 @@
           "date": "2026-08-22",
           "edition": "evening",
           "update": "Russian strikes killed 6 people in Ukraine the day after the Kryvyi Rih shopping complex attack, while a Ukrainian drone struck a home in southern Russia, killing two children and injuring their parents. French President Macron agreed to accelerate air defense deliveries to Ukraine following discussions with President Zelenskyy. Putin warned that Ukraine had opened a 'Pandora's box' by striking Russian economic targets, suggesting the attacks could lead to broader escalation, according to Reuters."
+        },
+        {
+          "date": "2026-08-23",
+          "edition": "morning",
+          "update": "Ukraine's sacked former defence minister stated that President Zelenskyy has 'questions to answer' about corruption within his government and called for elections to be held in Ukraine. Zelenskyy claimed that Putin plans to draft 300,000 new troops following Russia's September elections, according to Reuters. Norway announced it will provide over $9 billion in aid to Ukraine in 2027, according to Reuters."
         }
       ],
       "parentId": null
@@ -1074,7 +1079,7 @@
       "id": "sinaloa-cartel-violence",
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-16",
+      "lastSeen": "2026-08-23",
       "active": true,
       "entries": [
         {
@@ -1206,6 +1211,11 @@
           "date": "2026-08-16",
           "edition": "evening",
           "update": "Osorio faces up to 70 years in prison, with sentencing scheduled for February, according to the DOJ."
+        },
+        {
+          "date": "2026-08-23",
+          "edition": "morning",
+          "update": "Sinaloa Governor Rubén Rocha Moya, who has been accused by the U.S. of aiding a cartel, left office again after briefly returning, following widespread criticism from members of his own party and others."
         }
       ],
       "parentId": null
@@ -1749,7 +1759,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-22",
+      "lastSeen": "2026-08-23",
       "active": true,
       "entries": [
         {
@@ -2216,6 +2226,11 @@
           "date": "2026-08-22",
           "edition": "evening",
           "update": "An Israeli drone strike on what Syria describes as a civilian vehicle in southwest Syria caused injuries, prompting Damascus to condemn the attack as a 'flagrant violation of sovereignty' and a 'blatant breach of international law,' according to Al Jazeera. Israel carried out additional strikes on southern Syria, again drawing condemnation from the Damascus government, according to Reuters."
+        },
+        {
+          "date": "2026-08-23",
+          "edition": "morning",
+          "update": "Syria condemned a new Israeli airstrike near Damascus as a violation of international law, according to BBC News, following a separate reported Israeli attack on a military airbase near the Turkish border. Syria's foreign minister indicated that security talks with Israel are expected to resume despite an absence of trust between the two sides, according to Reuters."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2224,7 +2239,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-22",
+      "lastSeen": "2026-08-23",
       "active": true,
       "entries": [
         {
@@ -3141,6 +3156,11 @@
           "date": "2026-08-22",
           "edition": "evening",
           "update": "Iranian President Pezeshkian declared that 'the entire world approved our victory' over the U.S. and called for the conflict to end, according to Iranian state media, with the remarks coming ahead of expected new U.S. economic sanctions next week. Iran separately stated that weapons production is ongoing but declined to reveal specific capabilities, citing active war conditions."
+        },
+        {
+          "date": "2026-08-23",
+          "edition": "morning",
+          "update": "Florida-based startup Powerus has emerged as a global supplier of low-cost drone interceptor technology, with the company's business dealings reportedly involving members of the Trump family and a golf course, according to the NY Times."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3995,7 +4015,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-22",
+      "lastSeen": "2026-08-23",
       "active": true
     },
     {
@@ -4018,7 +4038,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-08-22",
+      "lastSeen": "2026-08-23",
       "active": true,
       "entries": [
         {
@@ -4305,6 +4325,11 @@
           "date": "2026-08-22",
           "edition": "morning",
           "update": "Iranian President Masoud Pezeshkian stated it is time to end the war with the U.S. from 'a position of strength,' as Omani and Iranian foreign ministers held a call amid Washington's preparations for new sanctions."
+        },
+        {
+          "date": "2026-08-23",
+          "edition": "morning",
+          "update": "Iran escalated its warnings to neighboring countries, stating that any state joining the US economic campaign against Tehran would be considered an enemy and face 'tit-for-tat' retaliation, describing the US effort as an 'economic D-Day.' Iran also announced that Pakistan's army chief is scheduled to visit Tehran, according to Reuters."
         }
       ]
     },
@@ -5608,7 +5633,7 @@
       "title": "US Cyberattacks and Infrastructure Security",
       "parentId": null,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-08-19",
+      "lastSeen": "2026-08-23",
       "active": true,
       "entries": [
         {
@@ -5675,6 +5700,11 @@
           "date": "2026-08-19",
           "edition": "morning",
           "update": "The DOJ unsealed an indictment charging 17 Iranian nationals, identified as members of the Iran-based Mabna Institute, for a coordinated and large-scale cyber theft campaign conducted on behalf of Iran."
+        },
+        {
+          "date": "2026-08-23",
+          "edition": "morning",
+          "update": "A cyber attack in July shut down a small UK power plant, according to the UK government, which stated the country's broader energy system was not at risk during the incident."
         }
       ]
     },
@@ -5683,7 +5713,7 @@
       "title": "Airport Security Threats and Explosive Device Incidents",
       "parentId": null,
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-21",
+      "lastSeen": "2026-08-23",
       "active": true,
       "entries": [
         {
@@ -5725,6 +5755,11 @@
           "date": "2026-08-21",
           "edition": "morning",
           "update": "Jessica Bowie, a 35-year-old Albany resident, was arrested by the FBI and charged with providing material support to a terrorist organization after allegedly plotting to bomb the New York State Capitol and kill lawmakers, according to a federal criminal complaint."
+        },
+        {
+          "date": "2026-08-23",
+          "edition": "morning",
+          "update": "A laptop battery caught fire aboard an American Airlines flight, with air traffic control audio obtained by CBS News indicating approximately four to five passengers suffered possible burn injuries and one passenger requiring medical attention."
         }
       ]
     },
@@ -5774,5 +5809,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-22T21:04:43.849Z"
+  "updatedAt": "2026-08-23T11:04:08.551Z"
 }
