@@ -1071,6 +1071,11 @@
           "date": "2026-08-23",
           "edition": "morning",
           "update": "Ukraine's sacked former defence minister stated that President Zelenskyy has 'questions to answer' about corruption within his government and called for elections to be held in Ukraine. Zelenskyy claimed that Putin plans to draft 300,000 new troops following Russia's September elections, according to Reuters. Norway announced it will provide over $9 billion in aid to Ukraine in 2027, according to Reuters."
+        },
+        {
+          "date": "2026-08-23",
+          "edition": "evening",
+          "update": "Zelenskyy publicly rejected a proposal by Minister Mykhailo Fedorov to hold wartime elections, warning the idea would 'destroy' and 'split' Ukraine, calling it a 'tsunami.' Zelenskyy also stated that Trump accused him of being misleading regarding Elon Musk and Starlink, on which Ukrainian forces rely heavily for battlefield communications and drone operations."
         }
       ],
       "parentId": null
@@ -4330,6 +4335,11 @@
           "date": "2026-08-23",
           "edition": "morning",
           "update": "Iran escalated its warnings to neighboring countries, stating that any state joining the US economic campaign against Tehran would be considered an enemy and face 'tit-for-tat' retaliation, describing the US effort as an 'economic D-Day.' Iran also announced that Pakistan's army chief is scheduled to visit Tehran, according to Reuters."
+        },
+        {
+          "date": "2026-08-23",
+          "edition": "evening",
+          "update": "Iran's Supreme National Security Council leader Mohsen Rezaei escalated warnings to Middle Eastern neighbors, vowing to prevent 'a single drop of oil' from leaving the region if Iran is targeted by US-led economic pressure. Iran separately dismissed the threatened new US sanctions as the actions of a 'desperate' party, asserting the measures would fail."
         }
       ]
     },
@@ -5133,7 +5143,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-08-22",
+      "lastSeen": "2026-08-23",
       "active": true,
       "entries": [
         {
@@ -5330,6 +5340,11 @@
           "date": "2026-08-22",
           "edition": "evening",
           "update": "Approximately 16,000 doses of Ebola vaccine arrived in the Democratic Republic of Congo as health authorities warned the outbreak was killing roughly one person every thirty minutes, according to Al Jazeera."
+        },
+        {
+          "date": "2026-08-23",
+          "edition": "evening",
+          "update": "Miners in Ebola-affected areas of the Democratic Republic of Congo are reportedly continuing to work in outbreak zones, risking virus exposure in order to earn a living, according to Al Jazeera."
         }
       ]
     },
@@ -5705,6 +5720,11 @@
           "date": "2026-08-23",
           "edition": "morning",
           "update": "A cyber attack in July shut down a small UK power plant, according to the UK government, which stated the country's broader energy system was not at risk during the incident."
+        },
+        {
+          "date": "2026-08-23",
+          "edition": "evening",
+          "update": "The UK power plant cyberattack, previously reported as occurring in July, has been attributed to Iran-linked hackers and resulted in a four-day shutdown of the facility. The incident is described as the first successful cyberattack to shut down an energy facility in Britain."
         }
       ]
     },
@@ -5809,5 +5829,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-23T11:04:08.551Z"
+  "updatedAt": "2026-08-23T21:05:14.840Z"
 }
