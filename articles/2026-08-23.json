@@ -507,5 +507,23 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-23T08:30:01.830Z"
+  },
+  {
+    "title": "Hawk Fire Evacuation Map as Blaze Spreads Over 10,000 Acres",
+    "description": "The Hawk Fire tops 10,500 acres as Nevada declares an emergency, expands evacuations and deploys hundreds of firefighters.",
+    "link": "https://www.newsweek.com/hawk-fire-nevada-evacuation-map-spread-12356911",
+    "pubDate": "Sun, 23 Aug 2026 04:43:07 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-23T09:00:03.544Z"
+  },
+  {
+    "title": "CrossCountry cancels UK services after power cut",
+    "description": "The operator says services will be \"significantly disrupted\" until further notice.",
+    "link": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 23 Aug 2026 08:18:31 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-23T09:00:03.544Z"
   }
 ]
