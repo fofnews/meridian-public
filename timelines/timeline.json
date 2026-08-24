@@ -1081,6 +1081,11 @@
           "date": "2026-08-24",
           "edition": "morning",
           "update": "The EU approved an additional €6.1 billion in funding for Ukraine's defence. UK Prime Minister Andy Burnham traveled to Kyiv on his first foreign trip since taking office, co-chairing a meeting with European leaders on Ukraine's Independence Day, with plans to support long-range missile production; the visit came after Moscow warned of consequences over Ukraine's reported use of British drones. Ukrainian officials reported that a Russian drone guided entirely by AI and powered by an Nvidia chip killed three Ukrainians, marking a significant development in autonomous weaponry; officials noted some Russian AI drones use Nvidia microcomputers sourced through resale markets that are virtually impossible to track, with Nvidia stating it does not sell directly to Russia. Former U.S. Vice President Mike Pence argued that giving Ukraine the capability to intercept Russian ballistic missiles would remove what he called Putin's 'last fighting tool.'"
+        },
+        {
+          "date": "2026-08-24",
+          "edition": "evening",
+          "update": "Ukraine is set to receive blueprints for the SCALP/Storm Shadow cruise missile, according to Newsweek, and the UK and Ukraine signed an artificial intelligence defence partnership focused on battlefield technology. Russia's Perm oil refinery halted operations following a drone attack on August 21, according to Reuters sources. Bradley Townsend, a Briton from South Yorkshire, was killed while fighting for Russia in Ukraine; he had left home in April telling family he was traveling to Romania."
         }
       ],
       "parentId": null
@@ -3181,6 +3186,11 @@
           "date": "2026-08-24",
           "edition": "morning",
           "update": "Treasury Secretary Scott Bessent described incoming Iran sanctions as 'economic D-Day,' with the measures set to begin on Monday. Trump announced plans to impose 'crushing' sanctions on Iran, with the administration describing full-throttle economic warfare as its top priority. Oil prices fell and Iran's rial hit a record low ahead of the announcement. Iranian Foreign Minister Abbas Araghchi dismissed the anticipated sanctions as watching the 'same movie on repeat,' while Iranian Parliament Speaker Mohammad Bagher Ghalibaf acknowledged severe domestic hardship, stating 'we are hungry, we cannot survive.' The U.S. Marines also cancelled a joint military drill with South Korea, a decision communicated in June and attributed to demands related to the Iran conflict; Trump had separately shortened another joint exercise earlier in the month."
+        },
+        {
+          "date": "2026-08-24",
+          "edition": "evening",
+          "update": "The Trump administration formally launched its Iran sanctions campaign on Monday, naming it 'Operation Economic Outcast' and imposing secondary sanctions risk on any country or foreign actor supporting Iran's economy, with Treasury Secretary Bessent stating the goal was the 'economic asphyxiation' of Tehran. Trump called on world leaders to join the sanctions effort, while the measures were also noted to carry indirect consequences for China. Iran vowed to respond in a 'seismic manner' and an Iranian official threatened that 'not a single drop of oil' would leave the Gulf, with analysts warning Tehran could escalate militarily. The Trump administration separately removed Syria from the U.S. State Sponsors of Terrorism list on Monday. Two U.S. Air Force KC-135 refueling aircraft departed Bulgaria's Bezmer Air Base following Iran's expressed anger over their deployment there, according to Bulgaria's defense minister. Nearly 50 House Democrats sent a letter to Trump and Defense Secretary Hegseth demanding a cost accounting of the Iran conflict, which they described as lasting over 150 days and exceeding $37 billion."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -5370,6 +5380,11 @@
           "date": "2026-08-24",
           "edition": "morning",
           "update": "Ebola cases in the Democratic Republic of Congo have reached 5,515, with the case fatality rate climbing to nearly 48 percent. Pope Leo has called for global action to address the crisis."
+        },
+        {
+          "date": "2026-08-24",
+          "edition": "evening",
+          "update": "Congo's Ebola outbreak recorded one of its highest weekly death tolls to date, with more than 300 people dying from the disease in eastern Congo in a single week, according to government data."
         }
       ]
     },
@@ -5838,7 +5853,7 @@
       "title": "US-South Korea Military Exercises Reduction",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-08-17",
-      "lastSeen": "2026-08-18",
+      "lastSeen": "2026-08-24",
       "active": true,
       "entries": [
         {
@@ -5850,9 +5865,14 @@
           "date": "2026-08-18",
           "edition": "evening",
           "update": "South Korean officials stressed the importance of the U.S.-South Korea alliance on Tuesday amid confusion and concern following Trump's order, while Senator Mark Kelly (D-Ariz.) publicly criticized the directive, stating Trump needs to 'read some history and get his priorities straight.' CBS News confirmed Trump's order cited South Korea's refusal to join U.S. efforts related to Iran."
+        },
+        {
+          "date": "2026-08-24",
+          "edition": "evening",
+          "update": "The U.S. separately cancelled upcoming joint marine exercises with South Korea, with Seoul confirming the Iran war was cited as the reason — a distinct cancellation from the scaling back of the annual joint drill announced by Trump the previous week."
         }
       ]
     }
   ],
-  "updatedAt": "2026-08-24T11:06:49.362Z"
+  "updatedAt": "2026-08-24T21:09:22.106Z"
 }
