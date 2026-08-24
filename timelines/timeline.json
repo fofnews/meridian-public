@@ -464,7 +464,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-08-24",
       "active": true,
       "entries": [
         {
@@ -1076,6 +1076,11 @@
           "date": "2026-08-23",
           "edition": "evening",
           "update": "Zelenskyy publicly rejected a proposal by Minister Mykhailo Fedorov to hold wartime elections, warning the idea would 'destroy' and 'split' Ukraine, calling it a 'tsunami.' Zelenskyy also stated that Trump accused him of being misleading regarding Elon Musk and Starlink, on which Ukrainian forces rely heavily for battlefield communications and drone operations."
+        },
+        {
+          "date": "2026-08-24",
+          "edition": "morning",
+          "update": "The EU approved an additional €6.1 billion in funding for Ukraine's defence. UK Prime Minister Andy Burnham traveled to Kyiv on his first foreign trip since taking office, co-chairing a meeting with European leaders on Ukraine's Independence Day, with plans to support long-range missile production; the visit came after Moscow warned of consequences over Ukraine's reported use of British drones. Ukrainian officials reported that a Russian drone guided entirely by AI and powered by an Nvidia chip killed three Ukrainians, marking a significant development in autonomous weaponry; officials noted some Russian AI drones use Nvidia microcomputers sourced through resale markets that are virtually impossible to track, with Nvidia stating it does not sell directly to Russia. Former U.S. Vice President Mike Pence argued that giving Ukraine the capability to intercept Russian ballistic missiles would remove what he called Putin's 'last fighting tool.'"
         }
       ],
       "parentId": null
@@ -1229,7 +1234,7 @@
       "id": "iran-protests-and-crackdown",
       "title": "Iran Protests and Crackdown",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-16",
+      "lastSeen": "2026-08-24",
       "active": true,
       "entries": [
         {
@@ -1281,6 +1286,11 @@
           "date": "2026-08-16",
           "edition": "evening",
           "update": "Iran's parliament voted to further criminalize interviews given by citizens to outlets designated as 'hostile media,' expanding existing restrictions on interactions with foreign press."
+        },
+        {
+          "date": "2026-08-24",
+          "edition": "morning",
+          "update": "Iranian police have closed dozens of cafes in recent weeks, frequently citing laws requiring women to veil in public spaces, with experts describing the closures as part of a broader effort to control public gathering spaces used by young people."
         }
       ],
       "parentId": null
@@ -2244,7 +2254,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-08-24",
       "active": true,
       "entries": [
         {
@@ -3166,6 +3176,11 @@
           "date": "2026-08-23",
           "edition": "morning",
           "update": "Florida-based startup Powerus has emerged as a global supplier of low-cost drone interceptor technology, with the company's business dealings reportedly involving members of the Trump family and a golf course, according to the NY Times."
+        },
+        {
+          "date": "2026-08-24",
+          "edition": "morning",
+          "update": "Treasury Secretary Scott Bessent described incoming Iran sanctions as 'economic D-Day,' with the measures set to begin on Monday. Trump announced plans to impose 'crushing' sanctions on Iran, with the administration describing full-throttle economic warfare as its top priority. Oil prices fell and Iran's rial hit a record low ahead of the announcement. Iranian Foreign Minister Abbas Araghchi dismissed the anticipated sanctions as watching the 'same movie on repeat,' while Iranian Parliament Speaker Mohammad Bagher Ghalibaf acknowledged severe domestic hardship, stating 'we are hungry, we cannot survive.' The U.S. Marines also cancelled a joint military drill with South Korea, a decision communicated in June and attributed to demands related to the Iran conflict; Trump had separately shortened another joint exercise earlier in the month."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4020,7 +4035,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-08-24",
       "active": true
     },
     {
@@ -4379,7 +4394,7 @@
       "parentId": null,
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-07-25",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-04-28",
@@ -4643,7 +4658,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-08-22",
+      "lastSeen": "2026-08-24",
       "active": true,
       "entries": [
         {
@@ -5065,6 +5080,11 @@
           "date": "2026-08-22",
           "edition": "morning",
           "update": "Iran granted permission for a number of Iraqi oil tankers to pass through the Strait of Hormuz, according to Reuters."
+        },
+        {
+          "date": "2026-08-24",
+          "edition": "morning",
+          "update": "Iran published a vessel blacklist for the Strait of Hormuz, warning that ships on the list are subject to seizure, in what Newsweek described as an escalation of Tehran's efforts to control the waterway. Iran's parliament also advanced a draft law that would require ships from permitted countries transiting the strait to pay service fees to Iran."
         }
       ]
     },
@@ -5143,7 +5163,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-08-24",
       "active": true,
       "entries": [
         {
@@ -5345,6 +5365,11 @@
           "date": "2026-08-23",
           "edition": "evening",
           "update": "Miners in Ebola-affected areas of the Democratic Republic of Congo are reportedly continuing to work in outbreak zones, risking virus exposure in order to earn a living, according to Al Jazeera."
+        },
+        {
+          "date": "2026-08-24",
+          "edition": "morning",
+          "update": "Ebola cases in the Democratic Republic of Congo have reached 5,515, with the case fatality rate climbing to nearly 48 percent. Pope Leo has called for global action to address the crisis."
         }
       ]
     },
@@ -5829,5 +5854,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-23T21:05:14.840Z"
+  "updatedAt": "2026-08-24T11:06:49.362Z"
 }
