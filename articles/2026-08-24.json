@@ -184,5 +184,57 @@
     "source": "BBC News",
     "categories": [],
     "collectedAt": "2026-08-24T05:15:01.253Z"
+  },
+  {
+    "title": "Enes Kanter Freedom opens up on confrontation with Natasha Cloud that led to ejection, WNBA pursuit",
+    "description": "Enes Kanter Freedom says Natasha Cloud yelled vulgarities at him courtside after he cheered a Sophie Cunningham three-pointer at the Chicago Sky game.",
+    "link": "https://www.foxnews.com/outkick-sports/enes-kanter-freedom-opens-confrontation-natasha-cloud-led-ejection-wnba-pursuit",
+    "pubDate": "Mon, 24 Aug 2026 01:10:58 -0400",
+    "source": "Fox News",
+    "categories": [
+      "f25896dd-e65c-50ad-bec2-b4602634133a",
+      "fnc",
+      "fox news",
+      "fox-news/sports/wnba",
+      "fox-news/sports/wnba/chicago-sky",
+      "fox-news/sports/wnba/indiana-fever",
+      "fox-news/person/caitlin-clark",
+      "fox-news/sports/nba",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-08-24T05:30:01.223Z"
+  },
+  {
+    "title": "Suspect in deaths of 5 found dead after cops uncover grim scene at rural property outside Portland",
+    "description": "A suspect was found dead in Enumclaw, Washington, after five people were discovered killed at a Forest Grove, Oregon, property, according to officials.",
+    "link": "https://www.foxnews.com/us/suspect-deaths-5-found-dead-cops-uncover-grim-scene-rural-property-outside-portland",
+    "pubDate": "Mon, 24 Aug 2026 01:02:51 -0400",
+    "source": "Fox News",
+    "categories": [
+      "a025c9f2-6007-5849-85d2-d757614893e2",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/west/oregon",
+      "fox-news/us/us-regions/west/washington",
+      "fox-news/us/crime/homicide",
+      "fox-news/us/crime/mass-murder",
+      "fox-news/us/portland",
+      "fox-news/entertainment/genres/crime",
+      "fox-news/us",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-08-24T05:30:01.223Z"
+  },
+  {
+    "title": "Malaysian rock drummer dies onstage mid-performance after collapsing over his drum kit",
+    "description": "Malaysian rocker Raja Azreen Raja Talib was on stage with his rock band Meditasi at the Teruntum Rock Festival in Malaysia last month when he suddenly collapsed mid-performance.",
+    "link": "https://nypost.com/2026/08/24/world-news/malaysian-rock-drummer-raja-talib-dies-onstage-mid-performance-after-collapsing-over-his-drum-kit/",
+    "pubDate": "Mon, 24 Aug 2026 01:17:26 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-24T05:30:01.223Z"
   }
 ]
