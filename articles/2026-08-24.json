@@ -8671,5 +8671,269 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-24T20:00:01.306Z"
+  },
+  {
+    "title": "Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities",
+    "description": "When OpenAI’s agents went rogue in July, they demonstrated ingenuity and drive beyond what many experts imagined — a dangerous harbinger of what such bots could do in the future.",
+    "link": "https://www.nytimes.com/2026/08/24/science/openai-huggingface-alarming-capabilities.html",
+    "pubDate": "Mon, 24 Aug 2026 18:09:15 +0000",
+    "source": "NY Times",
+    "categories": [
+      "artificial intelligence",
+      "cyberattacks and hackers",
+      "security and warning systems",
+      "computer security",
+      "hugging face inc",
+      "openai labs"
+    ],
+    "collectedAt": "2026-08-24T20:15:01.648Z"
+  },
+  {
+    "title": "Trump Admin Weighs in on Canada Becoming 51st State: 'Come to the Table'",
+    "description": "Treasury Secretary Scott Bessent is calling on Canada to return to the negotiator's table.",
+    "link": "https://www.newsweek.com/trump-admin-canada-becoming-51st-state-mark-carney-trade-talks-12360726",
+    "pubDate": "Mon, 24 Aug 2026 16:03:28 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-24T20:15:01.648Z"
+  },
+  {
+    "title": "The Kailey Erhart Case and America’s Hindsight Machine",
+    "description": "After tragedy, warning signs look obvious. Kailey Erhart’s case asks when accumulating risks should force authorities to escalate.",
+    "link": "https://www.newsweek.com/kailey-erhart-case-america-hindsight-machine-12360824",
+    "pubDate": "Mon, 24 Aug 2026 16:01:02 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-24T20:15:01.648Z"
+  },
+  {
+    "title": "Prospect Traded at Deadline to Make MLB Debut After Impressive Performance",
+    "description": "The Rockies are set to promote a pitcher whom they acquired in a deadline trade with the White Sox after three games at Triple-A.",
+    "link": "https://www.newsweek.com/sports/mlb/rockies-mason-adams-debut-chicago-white-sox-trade-mlb-12360560",
+    "pubDate": "Mon, 24 Aug 2026 16:00:33 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-24T20:15:01.648Z"
+  },
+  {
+    "title": "Syria court sentences Assad-era grand mufti to life in prison",
+    "description": "Ahmed Hassoun was convicted of crimes including inciting civil war and complicity in intentional killing.",
+    "link": "https://www.bbc.co.uk/news/articles/cd68ygy73v4o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 24 Aug 2026 20:10:28 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-24T20:15:01.648Z"
+  },
+  {
+    "title": "Mexico’s president condemns governor’s brief return to office",
+    "description": "President Sheinbaum criticises Governor Rocha's return amid US drug charges, calling it 'reckless' and 'inappropriate'.",
+    "link": "https://www.aljazeera.com/news/2026/8/24/mexicos-president-condemns-governor-brief-return-to-office?traffic_source=rss",
+    "pubDate": "Mon, 24 Aug 2026 19:46:42 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-24T20:15:01.648Z"
+  },
+  {
+    "title": "Yemen’s Houthis report attack on Saudi ship",
+    "description": "Saudi shipping company Bahri confirmed its vessel was struck, all crew members safe.",
+    "link": "https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship?traffic_source=rss",
+    "pubDate": "Mon, 24 Aug 2026 19:44:23 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-24T20:15:01.648Z"
+  },
+  {
+    "title": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds - Reuters",
+    "description": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkRkNWJWcGl4bFZlUjZrZEpaMGJIMGljWUk3MTU4M2tuc1ZvcnZMMlNOMVM1NFlGUGp6eVRXbTBnSHVFVWV6YjJ1dmNGV1g3ajJJbWUzcGw4U0kyZDkzbjF5LTlxS1R2aUV0RkNKN1Z5QWVqY082ei1lMzFmSFZfVC1QLUUwbFY5SmlDdlZyZnhIRmN6Ul91cVhtbWRrdnl6S2ROc0JRMk9mdjZzaTBvMURfcXNMbE9OWnpkU0tMbw?oc=5",
+    "pubDate": "Mon, 24 Aug 2026 19:35:39 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-08-24T20:15:01.648Z"
+  },
+  {
+    "title": "France, Saudi Arabia agree on €6 billion Dragon Ball Z theme park project near Paris - Reuters",
+    "description": "France, Saudi Arabia agree on €6 billion Dragon Ball Z theme park project near Paris  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU1pSUXpFN2gtY3ZBNHRubzJEOGZOSE1lR0NfQmh6OHRaT052MUJaUUZlbTBrOFNXZWZiRXhoVnl6UjRFTlFjbVJsVXZ5TWYtS1B4eFN4UlkwUG9FMGRLdEtZZk5xNVlVOTA3RnQxSGRESWFTOTFOUTdMNFZrVVBCdnAxeVJoUzkwUnViWDZsX0ZwaVNacnlDcTEtOUk5Qk54aVllTlBjNTlITWtLYlVrNHVZLUFSSGNleVhtZGtOSm1XQjJtT29GRW9lNVR0QQ?oc=5",
+    "pubDate": "Mon, 24 Aug 2026 17:07:43 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-08-24T20:15:01.648Z"
+  },
+  {
+    "title": "Raskin: ‘Trump’s idiotic trade war killing American businesses’",
+    "description": "Rep. Jamie Raskin (D-Md.) on Sunday went after President Trump for his recent tariffs on Canada. “Stop Trump’s idiotic trade war killing American businesses. Let peaceful commerce among the nations prevail. And hands off Canada, America’s #1 trading partner, whose people are now boycotting American products because of Trump’s imbecilic policies,” Raskin said in a…",
+    "link": "https://thehill.com/homenews/house/6047644-raskin-criticizes-trump-canada-tariffs/",
+    "pubDate": "Mon, 24 Aug 2026 20:02:32 +0000",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "business",
+      "house",
+      "international",
+      "news",
+      "canada",
+      "canada tariffs",
+      "house democrats",
+      "trump administration"
+    ],
+    "collectedAt": "2026-08-24T20:15:01.648Z"
+  },
+  {
+    "title": "US formally removes Syria’s designation as State Sponsor of Terrorism",
+    "description": "The Trump administration on Monday formally removed Syria from its State Sponsor of Terrorism (SST) list, an extraordinary milestone for the government of Ahmed al-Sharaa, the former terrorist turned statesman who led the campaign to overthrow the dictatorship of Bashar al-Assad.  The removal of the SST designation provides enormous sanctions relief for Syria and the…",
+    "link": "https://thehill.com/policy/international/6047622-trump-removes-syria-sst-designation/",
+    "pubDate": "Mon, 24 Aug 2026 19:57:17 +0000",
+    "source": "The Hill",
+    "categories": [
+      "international",
+      "policy"
+    ],
+    "collectedAt": "2026-08-24T20:15:01.648Z"
+  },
+  {
+    "title": "Deshaun Watson says 'emotions got the best of me' after ripping Cleveland Browns fans for booing",
+    "description": "Deshaun Watson addressed his \"17 away games\" comments after Browns fans booed him Saturday, offering an emotional explanation rather than an apology.",
+    "link": "https://www.foxnews.com/outkick-sports/deshaun-watson-emotions-got-best-me-ripping-cleveland-browns-fans-booing",
+    "pubDate": "Mon, 24 Aug 2026 16:05:00 -0400",
+    "source": "Fox News",
+    "categories": [
+      "318ac05d-1ba6-575c-9b65-3aa8e121201f",
+      "fnc",
+      "fox news",
+      "fox-news/person/deshaun-watson",
+      "fox-news/sports/nfl/cleveland-browns",
+      "fox-news/sports/nfl",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-08-24T20:15:01.648Z"
+  },
+  {
+    "title": "Omar Cooper makes much-needed highlight play in fight for Jets receiver spot",
+    "description": "Observations from Monday’s Jets practice.",
+    "link": "https://nypost.com/2026/08/24/sports/omar-cooper-makes-much-needed-highlight-play-in-jets-fight-for-receiver-spot/",
+    "pubDate": "Mon, 24 Aug 2026 16:12:59 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-24T20:15:01.648Z"
+  },
+  {
+    "title": "Kate Middleton shows off new lighter blond hair at Balmoral",
+    "description": "The Princess of Wales previously went blond around the same time last year.",
+    "link": "https://pagesix.com/2026/08/24/style/kate-middleton-shows-off-new-lighter-blond-hair-at-balmoral/",
+    "pubDate": "Mon, 24 Aug 2026 16:10:09 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-24T20:15:01.648Z"
+  },
+  {
+    "title": "US pulls Syria from list of state sponsors of terrorism amid warming relations with Damascus",
+    "description": "The State Department has formally moved to take Syria off its State Sponsors of Terrorism list as the Trump administration continues to mend fences with Damascus.",
+    "link": "https://nypost.com/2026/08/24/us-news/us-pulls-syria-from-list-of-state-sponsors-of-terrorism-amid-warming-relations-with-damascus/",
+    "pubDate": "Mon, 24 Aug 2026 16:08:50 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-24T20:15:01.648Z"
+  },
+  {
+    "title": "Lady Gaga’s tech bro fiancée launches weird new startup with a skin-crawling touch",
+    "description": "Lady Gaga’s techie fiancée Michael Polansky has quietly launched a buzzy startup that harvests human skin left over from plastic surgery to help develop super-advanced cosmetic products. Polansky, the 42-year old entrepreneur and Harvard grad who got engaged to the Mother Monster in 2024, gave details on the skin-scrawling enterprise Outer Biosciences in an interview...",
+    "link": "https://nypost.com/2026/08/24/tech/lady-gagas-tech-bro-fiancee-launches-weird-new-startup-with-a-skin-crawling-touch/",
+    "pubDate": "Mon, 24 Aug 2026 16:08:08 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-24T20:15:01.648Z"
+  },
+  {
+    "title": "Vote on reality TV’s hottest for the Hot-Tea of the Year award",
+    "description": "The 2026 Virtual Reali-Tea Awards hosted by Danny Murphy and Evan Real are the hottest ticket this fall. And our Hot-Tea of the Year award is for the men we love to watch on reality television. This year’s nominees are Bryce Alakai from “Love Island USA” season 8, Fraser Olender from “Below Deck,” Robert Irwin...",
+    "link": "https://pagesix.com/video/vote-on-reality-tvs-hottest-for-the-hot-tea-of-the-year-award/",
+    "pubDate": "Mon, 24 Aug 2026 16:05:59 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-24T20:15:01.648Z"
+  },
+  {
+    "title": "Who is Zach Goldsmith? Meet ‘Buying Beverly Hills’ star expecting baby with Farrah Aldjufrie",
+    "description": "Kyle Richards' daughter went public with her pregnancy news in July, identifying Goldsmith as her child's father the following month.",
+    "link": "https://pagesix.com/parents/who-is-zach-goldsmith/",
+    "pubDate": "Mon, 24 Aug 2026 16:04:28 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-24T20:15:01.648Z"
+  },
+  {
+    "title": "Malik Nabers sheds red jersey in promising Giants injury sign",
+    "description": "Malik Nabers still wasn’t taking full contact, but when he was out on the field, mixed in with defenders, he didn’t have a red jersey on.",
+    "link": "https://nypost.com/2026/08/24/sports/malik-nabers-sheds-red-jersey-in-promising-giants-injury-sign/",
+    "pubDate": "Mon, 24 Aug 2026 16:02:57 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-24T20:15:01.648Z"
+  },
+  {
+    "title": "BetMGM bonus code POSTBET: Get up to $1,500 back in bonus bets for Valkyries vs. Lynx",
+    "description": "The BetMGM bonus code POSTBET allows new users to get up to $1,500 back in bonus bets.",
+    "link": "https://nypost.com/2026/08/24/betting/betmgm-bonus-code-postbet-get-up-to-1500-back-in-bonus-bets-for-valkyries-vs-lynx/",
+    "pubDate": "Mon, 24 Aug 2026 16:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-24T20:15:01.648Z"
+  },
+  {
+    "title": "RNC chairman predicts GOP will pick up seats in midterm elections: ‘Bet on us’",
+    "description": "Republican National Committee Chairman Joe Gruters said he believes Republicans will defy historical trends and maintain their congressional majorities in the 2026 midterm elections. “Bet on us because we’re going to win. We’re going to defy history,” Gruters said during a Monday interview on Fox News, expressing confidence that Republicans will retain control of the […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4698500/rnc-gruters-gop-seats-midterms-advantage/",
+    "pubDate": "Mon, 24 Aug 2026 19:50:28 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "congressional",
+      "2026 elections",
+      "donald trump",
+      "elections",
+      "midterm elections",
+      "republican national committee",
+      "republicans"
+    ],
+    "collectedAt": "2026-08-24T20:15:01.648Z"
+  },
+  {
+    "title": "Trump takes children on tour of helipad and ballroom construction sites",
+    "description": "President Donald Trump led a tour of about 30 children and other special guests around the White House‘s helipad and ballroom construction sites. “Now, I don’t know if anybody wants to do this, but I’m going to be walking down here in about two minutes to meet with the people that are building the heliport, […]",
+    "link": "https://www.washingtonexaminer.com/news/white-house/4698548/trump-children-tour-helipad-ballroom-sites/",
+    "pubDate": "Mon, 24 Aug 2026 19:31:15 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "white house",
+      "donald trump",
+      "infrastructure",
+      "school choice",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-08-24T20:15:01.648Z"
+  },
+  {
+    "title": "Trump: 50% Tariffs on Canadian Steel, Auto Parts - Newsmax",
+    "description": "Trump: 50% Tariffs on Canadian Steel, Auto Parts  Newsmax",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTU40N2xaMG1telRuaTBvYmVlWkNzWkNvQUhlaURJMVRvWW9Cbl9ETWVjWXMxRzl0eV9BNlcwdGw3bVhqREhmcEY4OVZ3cHlxZ3hvcEQxczNNbkZzbFpSU3lRaDI2cFRQdV8xb21abDNobGZPRHRfU1lISUk5VWJrZ2FPckp2Ny0zeERB?oc=5",
+    "pubDate": "Mon, 24 Aug 2026 14:29:00 GMT",
+    "source": "Newsmax",
+    "categories": [],
+    "collectedAt": "2026-08-24T20:15:01.648Z"
+  },
+  {
+    "title": "Canada's Carney Expects No Deal With Trump - Newsmax",
+    "description": "Canada's Carney Expects No Deal With Trump  Newsmax",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVkhCdXUySG9xdmsteVNKZDFpWHJWQ2xDOXpQU1hKMExVQjhHUkxCME9xZnRZWXNmRGxEaEdseHdQNmhBd1hqMC1ScVV6dGJSWGIzcVRiZnkzaHNYM2YwYlVqblhnT0o1Ym1kSkEwcWtRNHBwbHNJUjZMR3N4YXcwLUd1MTZneDg?oc=5",
+    "pubDate": "Mon, 24 Aug 2026 12:39:00 GMT",
+    "source": "Newsmax",
+    "categories": [],
+    "collectedAt": "2026-08-24T20:15:01.648Z"
   }
 ]
