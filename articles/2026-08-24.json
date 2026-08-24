@@ -236,5 +236,44 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-24T05:30:01.223Z"
+  },
+  {
+    "title": "Australian shark attack victim grateful for 'second chance at life'",
+    "description": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
+    "link": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 24 Aug 2026 05:31:53 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-24T05:45:01.777Z"
+  },
+  {
+    "title": "Louisiana girl, 8, dies after contracting suspected brain-eating amoeba linked to lake swim",
+    "description": "Lillian Smart, who health officials believe contracted a brain-eating amoeba while swimming in a northern Louisiana lake, died Saturday from an infection linked to the pathogen.",
+    "link": "https://nypost.com/2026/08/24/us-news/louisiana-girl-lillian-smart-dies-after-contracting-suspected-brain-eating-amoeba-linked-to-lake-swim/",
+    "pubDate": "Mon, 24 Aug 2026 01:29:58 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-24T05:45:01.777Z"
+  },
+  {
+    "title": "Enes Kanter Freedom ejected from WNBA game after courtside confrontation with WNBA player",
+    "description": "Former NBA player and current WNBA draft prospect Enes Kanter Freedom was ejected from a WNBA game on Sunday between the Chicago Sky and Indiana Fever. Freedom was in attendance at Wintrust Arena in Chicago, Illinois, wearing a shirt that read “woman, noun, adult human female.” He posted videos of himself on his social media […]",
+    "link": "https://www.washingtonexaminer.com/news/4697835/enes-kanter-freedom-ejected-wnba-game/",
+    "pubDate": "Mon, 24 Aug 2026 05:38:18 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "sports",
+      "caitlin clark",
+      "chicago",
+      "freedom",
+      "indiana",
+      "nba",
+      "transgender",
+      "wnba",
+      "women",
+      "women's sports"
+    ],
+    "collectedAt": "2026-08-24T05:45:01.777Z"
   }
 ]
