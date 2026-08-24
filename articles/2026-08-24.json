@@ -1106,5 +1106,296 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-24T09:45:02.840Z"
+  },
+  {
+    "title": "Washington, D.C.'s first IndyCar race packed the National Mall",
+    "description": "IndyCar drivers zoomed past some of the nation's most famous landmarks this weekend. They faced novel challenges on an unconventional route.",
+    "link": "https://www.npr.org/2026/08/24/nx-s1-5939827/washington-d-c-s-first-indycar-race-packed-the-national-mall",
+    "pubDate": "Mon, 24 Aug 2026 05:36:13 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-08-24T10:00:01.781Z"
+  },
+  {
+    "title": "2 Phoenix police officers fired, arrested after violent traffic stop",
+    "description": "Two Phoenix police officers were fired and arrested after an unreported traffic stop in which they assaulted a man and woman and shocked them with a Taser, the city's police chief said.",
+    "link": "https://www.cbsnews.com/news/2-phoenix-police-officers-fired-arrested-after-violent-unreported-traffic-stop/",
+    "pubDate": "Mon, 24 Aug 2026 05:50:27 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-08-24T10:00:01.781Z"
+  },
+  {
+    "title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
+    "description": "An attack by what Ukrainian officials said was a Russian drone with an Nvidia chip presages a dystopian future of weaponry untethered to humans.",
+    "link": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html",
+    "pubDate": "Mon, 24 Aug 2026 09:29:32 +0000",
+    "source": "NY Times",
+    "categories": [
+      "drones (pilotless planes)",
+      "russian invasion of ukraine (2022)",
+      "artificial intelligence",
+      "civilian casualties",
+      "nvidia corporation",
+      "zaporizhzhia (ukraine)",
+      "russia"
+    ],
+    "collectedAt": "2026-08-24T10:00:01.781Z"
+  },
+  {
+    "title": "Some of Russia’s A.I. Drones Are Powered by Nvidia Microcomputers, Ukrainian Officials Say",
+    "description": "The tech giant says it does not sell the devices in Russia, but they are widely available on resale markets. When purchased that way, they are virtually impossible to track.",
+    "link": "https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html",
+    "pubDate": "Mon, 24 Aug 2026 09:02:44 +0000",
+    "source": "NY Times",
+    "categories": [
+      "russian invasion of ukraine (2022)",
+      "drones (pilotless planes)",
+      "artificial intelligence",
+      "nvidia corporation",
+      "ukraine",
+      "russia"
+    ],
+    "collectedAt": "2026-08-24T10:00:01.781Z"
+  },
+  {
+    "title": "UK Prime Minister Burnham Arrives in Ukraine as Russia Amps Up Warnings",
+    "description": "In his first foreign trip since taking office, Prime Minister Andy Burnham affirmed support for Kyiv despite new warnings from Moscow of consequences for doing so.",
+    "link": "https://www.nytimes.com/2026/08/24/world/europe/uk-andy-burnham-ukraine-russia.html",
+    "pubDate": "Mon, 24 Aug 2026 09:08:25 +0000",
+    "source": "NY Times",
+    "categories": [
+      "russian invasion of ukraine (2022)",
+      "european union",
+      "zelensky, volodymyr",
+      "andy burnham",
+      "europe",
+      "great britain",
+      "russia",
+      "ukraine"
+    ],
+    "collectedAt": "2026-08-24T10:00:01.781Z"
+  },
+  {
+    "title": "Where Iran’s Young People Gather, the Government Sees Threats to Its Authority",
+    "description": "In recent weeks, the police have closed dozens of cafes, often citing laws that stipulate women must veil in public. Experts say the closures are part of an effort to control public space.",
+    "link": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-cafe-closures.html",
+    "pubDate": "Mon, 24 Aug 2026 08:47:21 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "youth",
+      "iran",
+      "tehran (iran)",
+      "muslim veiling"
+    ],
+    "collectedAt": "2026-08-24T10:00:01.781Z"
+  },
+  {
+    "title": "U.S. Marines Cancel Drill With South Korea, Citing Iran War Demands",
+    "description": "The move to call off the high-profile event was communicated in June, South Korea said. President Trump shortened another joint military exercise earlier this month.",
+    "link": "https://www.nytimes.com/2026/08/24/world/asia/us-south-korea-military-drills-iran.html",
+    "pubDate": "Mon, 24 Aug 2026 09:19:46 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "united states defense and military forces",
+      "defense and military forces",
+      "stockpiling",
+      "united states politics and government",
+      "south korea",
+      "iran"
+    ],
+    "collectedAt": "2026-08-24T10:00:01.781Z"
+  },
+  {
+    "title": "Can Democrats Win Back the Senate? Why Their Chances Are Improving.",
+    "description": "Republicans still have some clear advantages on the map, but President Trump’s unpopularity has opened the door for an outcome that once seemed far-fetched.",
+    "link": "https://www.nytimes.com/2026/08/24/us/politics/democrats-republicans-midterms-senate-majority.html",
+    "pubDate": "Mon, 24 Aug 2026 09:03:09 +0000",
+    "source": "NY Times",
+    "categories": [
+      "midterm elections (2026)",
+      "democratic party",
+      "republican party",
+      "brown, sherrod",
+      "el-sayed, abdul",
+      "cooper, roy a",
+      "hinson, ashley (1983- )",
+      "husted, jon a (1967- )",
+      "jackson, troy d (1968- )"
+    ],
+    "collectedAt": "2026-08-24T10:00:01.781Z"
+  },
+  {
+    "title": "As Democrats Struggle in Some Western States, Independents See an Opening",
+    "description": "From South Dakota to Alaska, independents are challenging incumbent Republicans and eschewing a Democratic label that Western voters find toxic.",
+    "link": "https://www.nytimes.com/2026/08/24/us/politics/independent-candidates-challenge-republicans.html",
+    "pubDate": "Mon, 24 Aug 2026 09:00:16 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "midterm elections (2026)",
+      "third-party politics (us)",
+      "elections, senate",
+      "elections, governors",
+      "bodnar, seth",
+      "risch, james e",
+      "boise (idaho)",
+      "idaho"
+    ],
+    "collectedAt": "2026-08-24T10:00:01.781Z"
+  },
+  {
+    "title": "Farmers Struggle to Get Basic Services From Depleted Agriculture Dept.",
+    "description": "After the departure of thousands of federal workers, rural communities report problems obtaining loans, grants, technical assistance and support for infrastructure and other services.",
+    "link": "https://www.nytimes.com/2026/08/24/us/politics/farmers-federal-workers-exodus.html",
+    "pubDate": "Mon, 24 Aug 2026 09:02:51 +0000",
+    "source": "NY Times",
+    "categories": [
+      "agriculture and farming",
+      "united states politics and government",
+      "rural areas",
+      "layoffs and job reductions",
+      "government employees",
+      "federal aid (us)",
+      "agriculture department",
+      "natural resources conservation service",
+      "government efficiency department (us)"
+    ],
+    "collectedAt": "2026-08-24T10:00:01.781Z"
+  },
+  {
+    "title": "In West Texas, Trump’s Border Wall Collides With Latino History",
+    "description": "A century ago, Mexican American families came together to build an adobe church near the border. Can its bell toll again as the wall expansion nears?",
+    "link": "https://www.nytimes.com/2026/08/24/us/west-texas-border-wall-ruidosa-corazon-sagrado.html",
+    "pubDate": "Mon, 24 Aug 2026 09:01:08 +0000",
+    "source": "NY Times",
+    "categories": [
+      "border barriers",
+      "churches (buildings)",
+      "mexican-americans",
+      "historic buildings and sites",
+      "marfa (tex)",
+      "united states politics and government",
+      "restoration and renovation",
+      "suits and litigation (civil)",
+      "customs and border protection (us)",
+      "texas"
+    ],
+    "collectedAt": "2026-08-24T10:00:01.781Z"
+  },
+  {
+    "title": "These Conservatives Want to Be Working Moms. The Manosphere Disapproves.",
+    "description": "At a conservative center for women leaders, interns told stories about their lives. One said a male classmate told her, “I don’t know if women should be lawyers.”",
+    "link": "https://www.nytimes.com/2026/08/24/us/conservative-women-manosphere-disapproval.html",
+    "pubDate": "Mon, 24 Aug 2026 09:01:51 +0000",
+    "source": "NY Times",
+    "categories": [
+      "conservatism (us politics)",
+      "internships",
+      "united states politics and government",
+      "women's rights"
+    ],
+    "collectedAt": "2026-08-24T10:00:01.781Z"
+  },
+  {
+    "title": "How Should ‘Huckleberry Finn’ Be Taught?",
+    "description": "I traveled around the country to find out if “Adventures of Huckleberry Finn” still has a place in the classroom.",
+    "link": "https://www.nytimes.com/2026/08/24/magazine/huckleberry-finn-teachers-students-schools.html",
+    "pubDate": "Mon, 24 Aug 2026 09:00:46 +0000",
+    "source": "NY Times",
+    "categories": [
+      "adventures of huckleberry finn (book)",
+      "reading and writing skills (education)",
+      "race and ethnicity",
+      "teachers and school employees",
+      "twain, mark",
+      "books and literature"
+    ],
+    "collectedAt": "2026-08-24T10:00:01.781Z"
+  },
+  {
+    "title": "US Deports Witness Against Mexican Drug Cartel Three Times—Twice to Mexico",
+    "description": "A federal judge has ordered the return of a cartel witness deported three times after finding likely due process violations.",
+    "link": "https://www.newsweek.com/us-deports-witness-against-mexican-drug-cartel-three-times-12358272",
+    "pubDate": "Mon, 24 Aug 2026 05:57:29 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-24T10:00:01.781Z"
+  },
+  {
+    "title": "UK minister urges social media firms to remove dangerous driving videos",
+    "description": "Defence minister Luke Pollard says \"there's no place\" for social media trend showing people driving the wrong way down roads.",
+    "link": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 24 Aug 2026 09:48:43 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-24T10:00:01.781Z"
+  },
+  {
+    "title": "Race Across the World star Jo Gardiner dies aged 61 one year after son's death",
+    "description": "Former TV contestant, Jo Gardiner, dies of cancer one year after her son and co-star's death in a crash.",
+    "link": "https://www.bbc.co.uk/news/articles/ce3r1nwrxpwo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 24 Aug 2026 09:53:29 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-24T10:00:01.781Z"
+  },
+  {
+    "title": "Hungarian Gripen jet crashes, no injuries reported, PM Magyar says - Reuters",
+    "description": "Hungarian Gripen jet crashes, no injuries reported, PM Magyar says  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUTZMYWRxUzlEUm14Q2JudnRTZ0xOY0ZIcTJHYnJsTDlYNGRwdWh5TUQ1QzZIWl9rVVdyOWFuRl9seXd3NFdZYjk1TVNmQVJoU09paE5zUUVRbVpVS2dWZTE4elVzb3dHYWUxQTdfR0Jsd3Y2UktMaTE0U2xRR0U4MzMwQTc5WFE2dkVnNnZCSGNKUU9JM3RDZnQ2M0hQY1l6Wk9jQTMzeFRhSjhkSTB0c25QUQ?oc=5",
+    "pubDate": "Mon, 24 Aug 2026 08:52:45 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-08-24T10:00:01.781Z"
+  },
+  {
+    "title": "Ukraine wants peace but won't give in, Zelenskiy says on Independence Day - Reuters",
+    "description": "Ukraine wants peace but won't give in, Zelenskiy says on Independence Day  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaWgtWjF6MDRmYXZHWDBTMWRvdEFnR3RhTGNVQS1vWHM4Vi0xSlp0TmloMmtCTlZhbk5JTVZPWW4zcnU5U0Q2QkktUW5BYVlJVHVRN2Y4TGhGRWhEUlV2QndPYTF0MExqUUYxYW1mdkxVeDltX0hyLWdsVTI0MDQwdFVoeXV0Q2NwOWZVUF9kV3R0cFo2al80djV3MFl0VlVCVVlVN1ZB?oc=5",
+    "pubDate": "Mon, 24 Aug 2026 08:31:30 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-08-24T10:00:01.781Z"
+  },
+  {
+    "title": "PM Burnham says UK must be 'bolder' in seeking closer EU ties - Reuters",
+    "description": "PM Burnham says UK must be 'bolder' in seeking closer EU ties  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYXlHdVJNUC1ZczRYYXRMLVU1M3ItRHF1LXMyMkV1dTl3MHZlVlhPRjVlOWI1eVpQSDdhZFhtNXBvQThZZzZaVVQ4VHIxWlhFUnZmNGpoWjVoaGVPZDlpR3JBX1pjT08wOUNmbHREQlBpTExPajZ2OXM3UlpfdkpGcEVoNkRjc3dIQjhuTFQ1bGxCcXYtOURFd2VSN1YwS3J0bHFF?oc=5",
+    "pubDate": "Mon, 24 Aug 2026 07:28:29 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-08-24T10:00:01.781Z"
+  },
+  {
+    "title": "The post-World War II market shift is here — and bond yields could have higher to go, says Morgan Stanley",
+    "description": "Morgan Stanley recommends quality stocks with large market capitalizations, adopters of artificial intelligence and the S&P 500.",
+    "link": "https://www.marketwatch.com/story/the-post-world-war-ii-market-shift-is-here-and-bond-yields-could-have-higher-to-go-says-morgan-stanley-9381532c?mod=mw_rss_topstories",
+    "pubDate": "Mon, 24 Aug 2026 09:54:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-08-24T10:00:01.781Z"
+  },
+  {
+    "title": "Iran’s rial currency hits new record low as US prepares to announce more sanctions",
+    "description": "DUBAI, United Arab Emirates (AP) — Iran’s currency hit a record low Monday as Washington prepared to announce new sanctions it said would be an “economic D-Day” and would add further pressure on an economy already battered by previous sanctions and a U.S. naval blockade. The rial dropped to 2.02 million to the U.S. dollar as trading […]",
+    "link": "https://www.washingtonexaminer.com/news/4697864/irans-rial-currency-hits-new-record-low-as-us-prepares-to-announce-more-sanctions/",
+    "pubDate": "Mon, 24 Aug 2026 09:57:15 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "world",
+      "donald trump",
+      "iran",
+      "middle east",
+      "oman",
+      "president donald trump",
+      "strait of hormuz",
+      "trump administration",
+      "united arab emirates"
+    ],
+    "collectedAt": "2026-08-24T10:00:01.781Z"
   }
 ]
