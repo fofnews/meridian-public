@@ -331,5 +331,47 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-24T06:30:02.597Z"
+  },
+  {
+    "title": "CrossCountry to run full train service after power outage causes major disruption",
+    "description": "It follows major national rail disruption at the weekend.",
+    "link": "https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 24 Aug 2026 06:41:05 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-24T06:45:01.590Z"
+  },
+  {
+    "title": "Salah scores two goals, has two disallowed in first start for Trabzonspor",
+    "description": "Salah started his first game for the Turkish Super Lig side, whom he joined on a free transfer earlier this month.",
+    "link": "https://www.aljazeera.com/sports/2026/8/24/salah-scores-two-goals-has-two-disallowed-in-first-start-for-trabzonspor?traffic_source=rss",
+    "pubDate": "Mon, 24 Aug 2026 06:18:32 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-08-24T06:45:01.590Z"
+  },
+  {
+    "title": "Ceferin won’t challenge Infantino for FIFA presidency but tells him to quit",
+    "description": "European football chief doesn't want to lose credibility over FIFA job but says Infantino will face a challenger.",
+    "link": "https://www.aljazeera.com/sports/2026/8/24/ceferin-wont-challenge-infantino-for-fifa-presidency-but-tells-him-to-quit?traffic_source=rss",
+    "pubDate": "Mon, 24 Aug 2026 06:09:24 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-08-24T06:45:01.590Z"
+  },
+  {
+    "title": "Gauff, Fils win Cincinnati tennis titles in run-up to US Open",
+    "description": "Gauff beat Pegula for her second Cincinnati Open trophy and Fils overcame Tiafoe for his first Masters 1000 title.",
+    "link": "https://www.aljazeera.com/sports/2026/8/24/gauff-fils-win-cincinnati-tennis-titles-in-run-up-to-us-open?traffic_source=rss",
+    "pubDate": "Mon, 24 Aug 2026 06:08:15 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-08-24T06:45:01.590Z"
   }
 ]
