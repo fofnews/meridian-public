@@ -520,5 +520,76 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-24T07:30:01.714Z"
+  },
+  {
+    "title": "Burnham and European leaders arrive in Kyiv as Ukraine marks Independence Day",
+    "description": "U.K. Prime Minister Andy Burnham is in Kyiv on Monday, meeting President Volodymyr Zelenskyy and co-chairing a meeting with international leaders",
+    "link": "https://abcnews.com/International/wireStory/burnham-european-leaders-arrive-kyiv-ukraine-marks-independence-135895224",
+    "pubDate": "Mon, 24 Aug 2026 03:26:28 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-08-24T07:45:01.684Z"
+  },
+  {
+    "title": "Pubs and hotels could see business rates reformed after review",
+    "description": "The review of how rates are calculated in England and Wales could lead to reform of the system.",
+    "link": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 24 Aug 2026 07:32:06 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-24T07:45:01.684Z"
+  },
+  {
+    "title": "How much more are you spending on petrol since the war in Iran began?",
+    "description": "At least 145 countries have reported increases in petrol prices since the attacks on Iran by the US and Israel began.",
+    "link": "https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss",
+    "pubDate": "Mon, 24 Aug 2026 07:26:15 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-24T07:45:01.684Z"
+  },
+  {
+    "title": "EU, Russian aircraft help Serbia battle wildfires",
+    "description": "EU crews and a Russian aircraft help Serbia fight major wildfires as extreme heat fuels fires across the Balkans.",
+    "link": "https://www.aljazeera.com/news/2026/8/24/eu-russian-aircraft-help-serbia-battle-wildfires?traffic_source=rss",
+    "pubDate": "Mon, 24 Aug 2026 07:19:32 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-24T07:45:01.684Z"
+  },
+  {
+    "title": "Canada-US trade war: Who wins? Who loses?",
+    "description": "Canada suspends US trade talks as Trump imposes 50% tariffs, with Ottawa vowing dollar-for-dollar retaliation.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/canada-us-trade-war-who-wins-who-loses?traffic_source=rss",
+    "pubDate": "Mon, 24 Aug 2026 07:00:00 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-08-24T07:45:01.684Z"
+  },
+  {
+    "title": "Taiwan indicts 9 over alleged illegal export of AI servers to China - Reuters",
+    "description": "Taiwan indicts 9 over alleged illegal export of AI servers to China  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUFqODhsNEhfOVR2RWdNdXd1LVI2REthVUgzaU4zdXNIa2RlZmdSTXVwemR6ODVzUm1mMmtOZ0FRR3FEbVp6YWlTbDZmcm1nLTdQcFFkcWhVTTBvMkJ4dDh2blB2NkswdzZTbEFGWEZ2c3Nwam9aWXREYmhVR0wzQzdSdVoxUThYa0VrcFI4R0VKaWk2SDVFNmJUaVFuZ1Z2Nmhha21pSWxaRm1rQklZWm83aUNhbjg?oc=5",
+    "pubDate": "Mon, 24 Aug 2026 06:25:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-08-24T07:45:01.684Z"
+  },
+  {
+    "title": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say - Reuters",
+    "description": "Xiaomi launches new Xring chip, partners with TSMC for production, sources say  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR2pHQzFrSGY3SWhhYWxFS2FDTEtMWEhQV3FsX0dnRzVKeVlxRWdsdjJaQzFkRURmVURacGJCYU9NUUtGb0MyQS1EUVNtOWNCU2VaUDFIMnRHelZUVmpENE1vZVhhQmFZaWZNallubFI5MWp1bkpyb1FkMDNYWFlWTk1RU05nekFNdV9saXZ2VDRHdndXWFIwYnZYNGhlcGlRNFFKZ1BCeldwTkVqbW55elNzMFIxSURMOTIxcg?oc=5",
+    "pubDate": "Mon, 24 Aug 2026 06:22:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-08-24T07:45:01.684Z"
   }
 ]
