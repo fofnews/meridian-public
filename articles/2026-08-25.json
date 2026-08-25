@@ -230,5 +230,56 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-25T05:30:01.101Z"
+  },
+  {
+    "title": "Indonesians brave choking smoke to pray for rain as country battles wildfires",
+    "description": "Huge blazes in central and western regions of Indonesia have scorched wide areas of forests and peatland, creating a choking haze that blanketed some cities.",
+    "link": "https://www.npr.org/2026/08/25/nx-s1-5944062/indonesia-battles-wildfires",
+    "pubDate": "Tue, 25 Aug 2026 01:24:16 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-08-25T05:45:02.421Z"
+  },
+  {
+    "title": "FBI sets $25,000 minimum reward for dozens of unsolved Indian Country cases",
+    "description": "The FBI has established a minimum reward of $25,000 for help in solving some cold cases where people went missing or were killed in Indian Country",
+    "link": "https://abcnews.com/US/wireStory/fbi-sets-25000-minimum-reward-dozens-unsolved-indian-135925552",
+    "pubDate": "Tue, 25 Aug 2026 01:23:43 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-08-25T05:45:02.421Z"
+  },
+  {
+    "title": "More than 70,000 social and affordable homes to be built across England",
+    "description": "Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London.",
+    "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 25 Aug 2026 05:41:08 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-25T05:45:02.421Z"
+  },
+  {
+    "title": "Two US carrier groups in Middle East strain navy resources",
+    "description": "Deploying two US carrier strike groups to the Middle East represents a significant concentration of firepower",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/two-us-carrier-groups-in-middle-east-strain-navy-resources?traffic_source=rss",
+    "pubDate": "Tue, 25 Aug 2026 05:19:24 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "newsfeed"
+    ],
+    "collectedAt": "2026-08-25T05:45:02.421Z"
+  },
+  {
+    "title": "France and Saudi Arabia plan Dragon Ball Z theme park near Paris",
+    "description": "France and Saudi Arabia plan to invest $7bn in three amusement parks near Paris, including one based on Japanese manga.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/08-25-26-saudi-france-dragon-ball-sv?traffic_source=rss",
+    "pubDate": "Tue, 25 Aug 2026 05:09:25 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-08-25T05:45:02.421Z"
   }
 ]
