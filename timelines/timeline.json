@@ -326,6 +326,11 @@
           "date": "2026-08-25",
           "edition": "morning",
           "update": "The DOJ signaled its intent to appeal a preliminary injunction requiring removal of redactions from key Epstein documents, in a lawsuit brought by attorney and independent journalist Katie Phang."
+        },
+        {
+          "date": "2026-08-25",
+          "edition": "evening",
+          "update": "U.S. District Judge Paul Engelmayer denied Ghislaine Maxwell's habeas corpus petition, characterizing her claims as false and 'frivolous,' rejecting her bid to overturn her 2021 sex-trafficking conviction. Maxwell, who represented herself in the petition, had received a 20-year prison sentence for her role aiding Jeffrey Epstein."
         }
       ],
       "parentId": null
@@ -1096,6 +1101,11 @@
           "date": "2026-08-25",
           "edition": "morning",
           "update": "Ukraine marked its 35th Independence Day under renewed Russian bombardment. The UK confirmed it will share classified technical information with Ukraine to support domestic production of long-range SCALP missiles, with defense firm MBDA set to release details on UK-made components."
+        },
+        {
+          "date": "2026-08-25",
+          "edition": "evening",
+          "update": "A drone attack struck Russia's Afipsky oil refinery and a gas plant in the Krasnodar region, killing two people and sparking a fire, in an attack Ukraine carried out targeting Russian energy infrastructure. The Vatican's Foreign Minister visited Moscow and stated the war in Ukraine must end. Ousted Ukrainian Defence Minister stated in an exclusive Reuters interview that Ukraine needs changes to avoid losing the war. UK Prime Minister Burnham agreed during his Kyiv visit to raise Ukraine's appeal for Patriot interceptor missiles with the United States at the upcoming UN General Assembly."
         }
       ],
       "parentId": null
@@ -3211,6 +3221,11 @@
           "date": "2026-08-25",
           "edition": "morning",
           "update": "The UAE suspended all trade with Iran, cutting off nearly a third of Iran's imports and over $6 billion in exports, in a move analysts describe as a potentially crippling economic blow to Tehran. Iran's rial fell to a record low, prompting citizens to rush to exchange markets to convert savings into US dollars. Senate Armed Services Committee minority members called on the committee chair to hold a hearing with Pentagon leadership over mental health and operational strain on U.S. service members from extended Iran-related deployments. A new poll shows declining U.S. public support for the Iran war, driven by falling Republican backing, rising gas prices, and fears of a prolonged conflict, coinciding with Trump's approval rating reaching a record low. Six months into the conflict, nearly half of global oil flows now pass through or originate from active war zones, according to Reuters."
+        },
+        {
+          "date": "2026-08-25",
+          "edition": "evening",
+          "update": "Iran explicitly warned Washington to 'expect an attack' in response to the widened U.S. sanctions under Operation Economic Outcast, according to NBC News."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4390,6 +4405,11 @@
           "date": "2026-08-25",
           "edition": "morning",
           "update": "The US announced and formally implemented a new expanded sanctions package against Iran, with Iran vowing retaliation in response to the widened measures."
+        },
+        {
+          "date": "2026-08-25",
+          "edition": "evening",
+          "update": "The U.S. sanctioned Chinese firms over their links to Iran while sparing major banks, as Washington and Beijing prepared for key diplomatic talks. China's Foreign Ministry condemned the approach, stating the sanctions would 'further intensify tensions and conflicts, create spillover risks.' The Iranian rial fell to an all-time low under the pressure campaign, prompting expert debate over whether maximum economic pressure could destabilize the Iranian regime. The U.S. separately announced a $10 million reward for intelligence on Iranian leaders."
         }
       ]
     },
@@ -5508,7 +5528,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-21",
+      "lastSeen": "2026-08-25",
       "active": true,
       "entries": [
         {
@@ -5670,6 +5690,11 @@
           "date": "2026-08-21",
           "edition": "morning",
           "update": "A U.S. aircraft carrier departed the Middle East, according to the NY Times."
+        },
+        {
+          "date": "2026-08-25",
+          "edition": "evening",
+          "update": "Israeli forces raided and seized the UNRWA Kalandia Training Centre in occupied East Jerusalem, removing employees from the building, which had operated as UNRWA's oldest vocational training center for over 70 years. Following Jared Kushner's departure from the region, Israel escalated attacks in Gaza and expanded settlement activity in the West Bank, drawing international condemnation."
         }
       ]
     },
@@ -5713,7 +5738,7 @@
       "title": "US Cyberattacks and Infrastructure Security",
       "parentId": null,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-08-25",
       "active": true,
       "entries": [
         {
@@ -5790,6 +5815,11 @@
           "date": "2026-08-23",
           "edition": "evening",
           "update": "The UK power plant cyberattack, previously reported as occurring in July, has been attributed to Iran-linked hackers and resulted in a four-day shutdown of the facility. The incident is described as the first successful cyberattack to shut down an energy facility in Britain."
+        },
+        {
+          "date": "2026-08-25",
+          "edition": "evening",
+          "update": "Former White House adviser Jake Braun warned that the U.S. should expect Iranian cyberattacks to 'increase in severity,' urging preparation for escalating cyber warfare activity."
         }
       ]
     },
@@ -5899,5 +5929,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-25T11:07:49.360Z"
+  "updatedAt": "2026-08-25T21:09:46.847Z"
 }
