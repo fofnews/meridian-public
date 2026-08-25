@@ -165,5 +165,34 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-25T05:00:02.369Z"
+  },
+  {
+    "title": "Asbestos killed my mum in her 40s – was her school to blame?",
+    "description": "Caroline Bryan died three months after being diagnosed of an incurable cancer linked to asbestos.",
+    "link": "https://www.bbc.co.uk/news/articles/cwymz2lnx48o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 25 Aug 2026 05:09:12 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-25T05:15:01.227Z"
+  },
+  {
+    "title": "Arizona grandpa to undergo amputation after collapsing on scorching sidewalk",
+    "description": "A 72-year-old man collapsed on a 120-degree sidewalk in Arizona and suffered severe burns that will require above-knee amputation of his leg.",
+    "link": "https://www.foxnews.com/us/arizona-grandpa-undergo-amputation-collapsing-scorching-sidewalk",
+    "pubDate": "Tue, 25 Aug 2026 00:58:34 -0400",
+    "source": "Fox News",
+    "categories": [
+      "bcb1dee4-2a58-50cd-bd02-5e58722c47fb",
+      "fnc",
+      "fox news",
+      "fox-news/us/disasters/heat-wave",
+      "fox-news/us/us-regions/southwest/arizona",
+      "fox-news/us",
+      "fox-news/health/medical-research/surgery",
+      "fox-news/health",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-08-25T05:15:01.227Z"
   }
 ]
