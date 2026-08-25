@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-14",
+      "lastSeen": "2026-08-25",
       "active": true,
       "entries": [
         {
@@ -321,6 +321,11 @@
           "date": "2026-08-14",
           "edition": "morning",
           "update": "A federal judge expressed frustration with DOJ attorneys over their handling of Epstein files, warning he has held attorneys in contempt before while stating he had 'absolutely no desire' to do so in this case. Trump's DOJ has been accused of noncompliance following a court hearing over missing documents and disclosures in the Epstein records lawsuit, according to Newsweek."
+        },
+        {
+          "date": "2026-08-25",
+          "edition": "morning",
+          "update": "The DOJ signaled its intent to appeal a preliminary injunction requiring removal of redactions from key Epstein documents, in a lawsuit brought by attorney and independent journalist Katie Phang."
         }
       ],
       "parentId": null
@@ -464,7 +469,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-24",
+      "lastSeen": "2026-08-25",
       "active": true,
       "entries": [
         {
@@ -1086,6 +1091,11 @@
           "date": "2026-08-24",
           "edition": "evening",
           "update": "Ukraine is set to receive blueprints for the SCALP/Storm Shadow cruise missile, according to Newsweek, and the UK and Ukraine signed an artificial intelligence defence partnership focused on battlefield technology. Russia's Perm oil refinery halted operations following a drone attack on August 21, according to Reuters sources. Bradley Townsend, a Briton from South Yorkshire, was killed while fighting for Russia in Ukraine; he had left home in April telling family he was traveling to Romania."
+        },
+        {
+          "date": "2026-08-25",
+          "edition": "morning",
+          "update": "Ukraine marked its 35th Independence Day under renewed Russian bombardment. The UK confirmed it will share classified technical information with Ukraine to support domestic production of long-range SCALP missiles, with defense firm MBDA set to release details on UK-made components."
         }
       ],
       "parentId": null
@@ -1304,7 +1314,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-19",
+      "lastSeen": "2026-08-25",
       "active": true,
       "entries": [
         {
@@ -1606,6 +1616,11 @@
           "date": "2026-08-19",
           "edition": "evening",
           "update": "The UAE suspended all trade with Iran after detecting two ballistic missiles fired from Iranian territory. Turkey accused Israeli Prime Minister Netanyahu of pursuing 'expansionist' policies following Israeli airstrikes on Syria's Abu al-Duhur airbase near Aleppo."
+        },
+        {
+          "date": "2026-08-25",
+          "edition": "morning",
+          "update": "Israeli Prime Minister Benjamin Netanyahu claimed Iran attempted to kill one of his sons, following the US and Israeli killing of Iran's Supreme Leader and four members of his family in Tehran."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2259,7 +2274,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-24",
+      "lastSeen": "2026-08-25",
       "active": true,
       "entries": [
         {
@@ -3191,6 +3206,11 @@
           "date": "2026-08-24",
           "edition": "evening",
           "update": "The Trump administration formally launched its Iran sanctions campaign on Monday, naming it 'Operation Economic Outcast' and imposing secondary sanctions risk on any country or foreign actor supporting Iran's economy, with Treasury Secretary Bessent stating the goal was the 'economic asphyxiation' of Tehran. Trump called on world leaders to join the sanctions effort, while the measures were also noted to carry indirect consequences for China. Iran vowed to respond in a 'seismic manner' and an Iranian official threatened that 'not a single drop of oil' would leave the Gulf, with analysts warning Tehran could escalate militarily. The Trump administration separately removed Syria from the U.S. State Sponsors of Terrorism list on Monday. Two U.S. Air Force KC-135 refueling aircraft departed Bulgaria's Bezmer Air Base following Iran's expressed anger over their deployment there, according to Bulgaria's defense minister. Nearly 50 House Democrats sent a letter to Trump and Defense Secretary Hegseth demanding a cost accounting of the Iran conflict, which they described as lasting over 150 days and exceeding $37 billion."
+        },
+        {
+          "date": "2026-08-25",
+          "edition": "morning",
+          "update": "The UAE suspended all trade with Iran, cutting off nearly a third of Iran's imports and over $6 billion in exports, in a move analysts describe as a potentially crippling economic blow to Tehran. Iran's rial fell to a record low, prompting citizens to rush to exchange markets to convert savings into US dollars. Senate Armed Services Committee minority members called on the committee chair to hold a hearing with Pentagon leadership over mental health and operational strain on U.S. service members from extended Iran-related deployments. A new poll shows declining U.S. public support for the Iran war, driven by falling Republican backing, rising gas prices, and fears of a prolonged conflict, coinciding with Trump's approval rating reaching a record low. Six months into the conflict, nearly half of global oil flows now pass through or originate from active war zones, according to Reuters."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4045,7 +4065,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-24",
+      "lastSeen": "2026-08-25",
       "active": true
     },
     {
@@ -4068,7 +4088,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-08-25",
       "active": true,
       "entries": [
         {
@@ -4365,6 +4385,11 @@
           "date": "2026-08-23",
           "edition": "evening",
           "update": "Iran's Supreme National Security Council leader Mohsen Rezaei escalated warnings to Middle Eastern neighbors, vowing to prevent 'a single drop of oil' from leaving the region if Iran is targeted by US-led economic pressure. Iran separately dismissed the threatened new US sanctions as the actions of a 'desperate' party, asserting the measures would fail."
+        },
+        {
+          "date": "2026-08-25",
+          "edition": "morning",
+          "update": "The US announced and formally implemented a new expanded sanctions package against Iran, with Iran vowing retaliation in response to the widened measures."
         }
       ]
     },
@@ -5874,5 +5899,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-24T21:09:22.106Z"
+  "updatedAt": "2026-08-25T11:07:49.360Z"
 }
