@@ -1111,6 +1111,11 @@
           "date": "2026-08-26",
           "edition": "morning",
           "update": "Ukrainian drone attacks on Moscow resumed overnight into Wednesday, according to city Mayor Sergey Sobyanin, hours after a visit to the region by CIA Director William Burns. Ukraine conducted a drone strike targeting Wildberries, Russia's largest online retailer, in at least a second such attack on the company. Fuel companies in Ukraine urged customers not to linger at petrol stations following a wave of deadly Russian attacks on fuel infrastructure, as Ukraine simultaneously conducted strikes on Russian oil refineries."
+        },
+        {
+          "date": "2026-08-26",
+          "edition": "evening",
+          "update": "Ukrainian President Zelensky awarded SpaceX CEO Elon Musk the Order of Freedom, one of Ukraine's highest state honors, for providing Starlink satellite internet access during the war. Reuters reported that prominent Ukrainian commanders have been assigned to lead the defense of the eastern region Russia has demanded, with no further details provided."
         }
       ],
       "parentId": null
@@ -1329,7 +1334,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-25",
+      "lastSeen": "2026-08-26",
       "active": true,
       "entries": [
         {
@@ -1636,6 +1641,11 @@
           "date": "2026-08-25",
           "edition": "morning",
           "update": "Israeli Prime Minister Benjamin Netanyahu claimed Iran attempted to kill one of his sons, following the US and Israeli killing of Iran's Supreme Leader and four members of his family in Tehran."
+        },
+        {
+          "date": "2026-08-26",
+          "edition": "evening",
+          "update": "Netanyahu said in a Channel 14 interview that Iran attempted to assassinate one of his children, with subsequent reports identifying the target as his son living in Florida."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1644,7 +1654,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-08-17",
+      "lastSeen": "2026-08-26",
       "active": true,
       "entries": [
         {
@@ -1801,6 +1811,11 @@
           "date": "2026-08-17",
           "edition": "morning",
           "update": "Iran's Supreme Leader Ayatollah Ali Khamenei signaled an intention to maintain a hard-line stance by appointing loyalists to top positions, according to the NY Times, suggesting a continued war footing and crackdown on domestic dissent."
+        },
+        {
+          "date": "2026-08-26",
+          "edition": "evening",
+          "update": "Trump publicly stated he does not believe Iran's Supreme Leader is dead and that Khamenei is alive, but described him as seriously wounded, adding that if Khamenei is dead, Iran is 'putting on a good show.'"
         }
       ],
       "parentId": null
@@ -2289,7 +2304,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-25",
+      "lastSeen": "2026-08-26",
       "active": true,
       "entries": [
         {
@@ -3231,6 +3246,11 @@
           "date": "2026-08-25",
           "edition": "evening",
           "update": "Iran explicitly warned Washington to 'expect an attack' in response to the widened U.S. sanctions under Operation Economic Outcast, according to NBC News."
+        },
+        {
+          "date": "2026-08-26",
+          "edition": "evening",
+          "update": "The U.S. expanded its sanctions pressure by threatening measures against any country or entity engaging with Iran's gold, digital assets, aviation, shipping, and technology industries, extending the campaign beyond oil. Voters in Virginia Beach, Virginia are treating the U.S. conflict with Iran as a central issue in a competitive House race, according to the NY Times."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4420,6 +4440,11 @@
           "date": "2026-08-26",
           "edition": "morning",
           "update": "The US expanded its economic pressure campaign by threatening sanctions against any country or entity engaging with Iran's gold, digital assets, aviation, shipping, and technology industries. Treasury Secretary Scott Bessent called for the closure of all foreign branches of Bank Melli, Iran's largest lender. Iran is reportedly calculating that global economic pressures and Republican concerns ahead of midterm elections will force the Trump administration to back down, framing the standoff as a game of 'chicken,' according to Al Jazeera. CIA Director made a rare, unannounced visit to Moscow, marking an unusual direct engagement between US intelligence leadership and Russia."
+        },
+        {
+          "date": "2026-08-26",
+          "edition": "evening",
+          "update": "CIA Director John Ratcliffe traveled to Moscow in a rare, unannounced visit and met with Russian intelligence counterparts, a trip confirmed by the Kremlin. Ratcliffe did not meet with President Putin, and the purpose of the visit has not been publicly disclosed."
         }
       ]
     },
@@ -5155,6 +5180,11 @@
           "date": "2026-08-26",
           "edition": "morning",
           "update": "An oil tanker was struck near the Strait of Hormuz overnight following Iran's vow to retaliate against the US over recently imposed sanctions. Reports of Iran-Oman talks on a possible temporary deal for the strait drove US oil prices lower, with West Texas Intermediate and Brent crude's October contracts declining by nearly 7% and 9% respectively over five days. The US threatened sanctions against any country or entity engaging with Iran's gold, digital assets, aviation, shipping, and technology industries. Saudi Arabia rerouted its oil exports away from both the Strait of Hormuz and the Red Sea, redirecting shipments through the Suez Canal."
+        },
+        {
+          "date": "2026-08-26",
+          "edition": "evening",
+          "update": "Iran and Oman reached a formal agreement establishing a temporary corridor in the Strait of Hormuz, including a revenue-sharing arrangement, with Iran's Revolutionary Guards announcing the deal. Oil prices fell for a third consecutive day as the agreement sparked renewed optimism in global energy markets."
         }
       ]
     },
@@ -5233,7 +5263,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-08-24",
+      "lastSeen": "2026-08-26",
       "active": true,
       "entries": [
         {
@@ -5445,6 +5475,11 @@
           "date": "2026-08-24",
           "edition": "evening",
           "update": "Congo's Ebola outbreak recorded one of its highest weekly death tolls to date, with more than 300 people dying from the disease in eastern Congo in a single week, according to government data."
+        },
+        {
+          "date": "2026-08-26",
+          "edition": "evening",
+          "update": "The World Health Organization declared the Ebola outbreak in Uganda over, while separately noting a continued rise in cases in the Democratic Republic of Congo."
         }
       ]
     },
@@ -5543,7 +5578,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-25",
+      "lastSeen": "2026-08-26",
       "active": true,
       "entries": [
         {
@@ -5710,6 +5745,11 @@
           "date": "2026-08-25",
           "edition": "evening",
           "update": "Israeli forces raided and seized the UNRWA Kalandia Training Centre in occupied East Jerusalem, removing employees from the building, which had operated as UNRWA's oldest vocational training center for over 70 years. Following Jared Kushner's departure from the region, Israel escalated attacks in Gaza and expanded settlement activity in the West Bank, drawing international condemnation."
+        },
+        {
+          "date": "2026-08-26",
+          "edition": "evening",
+          "update": "Syria's Kurdish forces, the Syrian Democratic Forces, agreed to dissolve their army under a political arrangement with Syria's new leadership led by Ahmed al-Sharaa. Analysts cited by Al Jazeera characterized Israel's earlier raid on the UNRWA center as part of a broader effort to eliminate Palestinian refugee rights and advance West Bank annexation."
         }
       ]
     },
@@ -5758,7 +5798,7 @@
       "title": "US Cyberattacks and Infrastructure Security",
       "parentId": null,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-08-25",
+      "lastSeen": "2026-08-26",
       "active": true,
       "entries": [
         {
@@ -5840,6 +5880,11 @@
           "date": "2026-08-25",
           "edition": "evening",
           "update": "Former White House adviser Jake Braun warned that the U.S. should expect Iranian cyberattacks to 'increase in severity,' urging preparation for escalating cyber warfare activity."
+        },
+        {
+          "date": "2026-08-26",
+          "edition": "evening",
+          "update": "A Chinese state-linked hacking group targeted multiple U.S. government agencies, including NASA, the Justice Department, and the Senate. Separately, FBI Director Kash Patel announced the conclusion of Operation Riptide, which he said dismantled global cybercrime networks that allegedly stole over $20 billion from Americans."
         }
       ]
     },
@@ -5949,5 +5994,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-26T11:07:26.617Z"
+  "updatedAt": "2026-08-26T21:10:25.223Z"
 }
