@@ -474,7 +474,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-25",
+      "lastSeen": "2026-08-26",
       "active": true,
       "entries": [
         {
@@ -1106,6 +1106,11 @@
           "date": "2026-08-25",
           "edition": "evening",
           "update": "A drone attack struck Russia's Afipsky oil refinery and a gas plant in the Krasnodar region, killing two people and sparking a fire, in an attack Ukraine carried out targeting Russian energy infrastructure. The Vatican's Foreign Minister visited Moscow and stated the war in Ukraine must end. Ousted Ukrainian Defence Minister stated in an exclusive Reuters interview that Ukraine needs changes to avoid losing the war. UK Prime Minister Burnham agreed during his Kyiv visit to raise Ukraine's appeal for Patriot interceptor missiles with the United States at the upcoming UN General Assembly."
+        },
+        {
+          "date": "2026-08-26",
+          "edition": "morning",
+          "update": "Ukrainian drone attacks on Moscow resumed overnight into Wednesday, according to city Mayor Sergey Sobyanin, hours after a visit to the region by CIA Director William Burns. Ukraine conducted a drone strike targeting Wildberries, Russia's largest online retailer, in at least a second such attack on the company. Fuel companies in Ukraine urged customers not to linger at petrol stations following a wave of deadly Russian attacks on fuel infrastructure, as Ukraine simultaneously conducted strikes on Russian oil refineries."
         }
       ],
       "parentId": null
@@ -4080,7 +4085,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-25",
+      "lastSeen": "2026-08-26",
       "active": true
     },
     {
@@ -4103,7 +4108,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-08-25",
+      "lastSeen": "2026-08-26",
       "active": true,
       "entries": [
         {
@@ -4410,6 +4415,11 @@
           "date": "2026-08-25",
           "edition": "evening",
           "update": "The U.S. sanctioned Chinese firms over their links to Iran while sparing major banks, as Washington and Beijing prepared for key diplomatic talks. China's Foreign Ministry condemned the approach, stating the sanctions would 'further intensify tensions and conflicts, create spillover risks.' The Iranian rial fell to an all-time low under the pressure campaign, prompting expert debate over whether maximum economic pressure could destabilize the Iranian regime. The U.S. separately announced a $10 million reward for intelligence on Iranian leaders."
+        },
+        {
+          "date": "2026-08-26",
+          "edition": "morning",
+          "update": "The US expanded its economic pressure campaign by threatening sanctions against any country or entity engaging with Iran's gold, digital assets, aviation, shipping, and technology industries. Treasury Secretary Scott Bessent called for the closure of all foreign branches of Bank Melli, Iran's largest lender. Iran is reportedly calculating that global economic pressures and Republican concerns ahead of midterm elections will force the Trump administration to back down, framing the standoff as a game of 'chicken,' according to Al Jazeera. CIA Director made a rare, unannounced visit to Moscow, marking an unusual direct engagement between US intelligence leadership and Russia."
         }
       ]
     },
@@ -4713,7 +4723,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-08-24",
+      "lastSeen": "2026-08-26",
       "active": true,
       "entries": [
         {
@@ -5140,6 +5150,11 @@
           "date": "2026-08-24",
           "edition": "morning",
           "update": "Iran published a vessel blacklist for the Strait of Hormuz, warning that ships on the list are subject to seizure, in what Newsweek described as an escalation of Tehran's efforts to control the waterway. Iran's parliament also advanced a draft law that would require ships from permitted countries transiting the strait to pay service fees to Iran."
+        },
+        {
+          "date": "2026-08-26",
+          "edition": "morning",
+          "update": "An oil tanker was struck near the Strait of Hormuz overnight following Iran's vow to retaliate against the US over recently imposed sanctions. Reports of Iran-Oman talks on a possible temporary deal for the strait drove US oil prices lower, with West Texas Intermediate and Brent crude's October contracts declining by nearly 7% and 9% respectively over five days. The US threatened sanctions against any country or entity engaging with Iran's gold, digital assets, aviation, shipping, and technology industries. Saudi Arabia rerouted its oil exports away from both the Strait of Hormuz and the Red Sea, redirecting shipments through the Suez Canal."
         }
       ]
     },
@@ -5703,7 +5718,7 @@
       "title": "US-Saudi Nuclear Deal and Israel Normalization",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-07-23",
-      "lastSeen": "2026-08-17",
+      "lastSeen": "2026-08-26",
       "active": true,
       "entries": [
         {
@@ -5730,6 +5745,11 @@
           "date": "2026-08-17",
           "edition": "evening",
           "update": "Saudi Arabia and two other U.S. partner states have established a regional security pact dubbed the 'Mecca pact,' as the Trump administration pushes Gulf allies to take greater responsibility for their own defense."
+        },
+        {
+          "date": "2026-08-26",
+          "edition": "morning",
+          "update": "The Trump administration formally submitted the proposed Saudi nuclear deal to Congress for review, with the agreement's potential allowance for Saudi uranium enrichment drawing opposition from Democrats and raising nuclear proliferation concerns. President Trump reaffirmed that Saudi recognition of Israel remains a requirement for any final agreement, and the administration stated that the Abraham Accords remain central to its broader Middle East policy."
         }
       ]
     },
@@ -5929,5 +5949,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-25T21:09:46.847Z"
+  "updatedAt": "2026-08-26T11:07:26.617Z"
 }
