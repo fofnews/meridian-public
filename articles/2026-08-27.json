@@ -144,5 +144,57 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-27T05:00:01.413Z"
+  },
+  {
+    "title": "New thunderstorm warnings for parts of UK as rain set to continue",
+    "description": "The Met Office has issued fresh thunderstorm warnings for Thursday with the potential for England and Wales to see flash flooding as the unsettled weather continues.",
+    "link": "https://www.bbc.co.uk/weather/articles/cvgydkpdn99o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 27 Aug 2026 05:11:35 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-27T05:15:01.514Z"
+  },
+  {
+    "title": "Japanese avant-garde artist Yayoi Kusama dies aged 97",
+    "description": "The artist died earlier in August after a life \"devoted entirely to artistic creation\", her company said.",
+    "link": "https://www.bbc.co.uk/news/articles/c3v4k0re3vwo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 27 Aug 2026 04:54:07 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-27T05:15:01.514Z"
+  },
+  {
+    "title": "Burnham calls summit of Welsh, Scottish and Northern Irish first ministers",
+    "description": "The announcement comes as Burnham holds his first official visit to Wales since becoming prime minster.",
+    "link": "https://www.bbc.co.uk/news/articles/c14d8v83ny7o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 27 Aug 2026 05:05:52 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-27T05:15:01.514Z"
+  },
+  {
+    "title": "Facebook seller mis-sold me a horse that kicked my daughter in the head",
+    "description": "Five women tell the BBC they were mis-sold unsafe and injured horses by a seller on Facebook.",
+    "link": "https://www.bbc.co.uk/news/articles/cjrvejx4xygo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 27 Aug 2026 05:05:35 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-27T05:15:01.514Z"
+  },
+  {
+    "title": "Small plane crashes in water next to remote Alaska coastal town, killing all 4 on board",
+    "description": "SELDOVIA, Alaska (AP) — A small plane carrying four people crashed into shallow waters next to a remote coastal town in Alaska on Wednesday, killing everyone on board, according to officials. The Piper PA-24 was heading for the airport in the small town of Seldovia after taking off from Anchorage, according to a statement from […]",
+    "link": "https://www.washingtonexaminer.com/news/4702319/plane-crashes-in-water-alaska-coastal-town/",
+    "pubDate": "Thu, 27 Aug 2026 05:14:30 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "air travel",
+      "alaska",
+      "emergency",
+      "plane crashes",
+      "travel"
+    ],
+    "collectedAt": "2026-08-27T05:15:01.514Z"
   }
 ]
