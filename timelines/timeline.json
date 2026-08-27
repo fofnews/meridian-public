@@ -1121,6 +1121,11 @@
           "date": "2026-08-27",
           "edition": "morning",
           "update": "EU member states have revived a plan to use frozen Russian assets to support Ukraine, according to a Financial Times report cited by Reuters. Russian troops are attempting to infiltrate the overgrown reservoir basin of a dam destroyed three years ago, while Ukrainian soldiers engage them in close-quarters combat in the area, according to the NY Times."
+        },
+        {
+          "date": "2026-08-27",
+          "edition": "evening",
+          "update": "Russia's Foreign Ministry warned it could target the United Kingdom after Ukraine fired British long-range cruise missiles at targets inside Russia, calling the strikes 'terrorism.' CIA Director Ratcliffe made a surprise visit to Moscow and delivered a bleak assessment of Russia's war, with CIA analysts raising concerns that Putin's advisers may not be providing him with honest assessments of the conflict, according to the NY Times. President Trump described the Moscow trip as 'semi-routine.'"
         }
       ],
       "parentId": null
@@ -3276,6 +3281,11 @@
           "date": "2026-08-27",
           "edition": "morning",
           "update": "President Trump stated on Wednesday that he is 'not in a hurry' to resume negotiations with Iran, while also claiming he expects a big victory 'soon,' according to CBS News."
+        },
+        {
+          "date": "2026-08-27",
+          "edition": "evening",
+          "update": "President Trump stated the U.S. is winning its conflict with Iran and that the war will continue 'as long as necessary,' while asserting the Strait of Hormuz remains open. Al Jazeera reported that a U.S. missile strike on an Iranian school six months ago killed at least 170 people, most of them children. Newsmax reported concerns that U.S. weapons stockpiles are being depleted due to Iran-related transfers, potentially undermining readiness to counter a Chinese military threat."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4480,6 +4490,11 @@
           "date": "2026-08-27",
           "edition": "morning",
           "update": "Qatar's Prime Minister Sheikh Mohammed is set to visit Tehran to pursue mediation efforts aimed at reviving stalled US-Iran diplomatic talks, according to Reuters. CIA Director Ratcliffe's Moscow visit included a warning to Russia not to attack NATO member states, according to sources familiar with the matter."
+        },
+        {
+          "date": "2026-08-27",
+          "edition": "evening",
+          "update": "President Trump spoke with Al Jazeera and the White House stated there will be no negotiations with Iran, with officials saying all options remain on the table. Qatar's Prime Minister met with Iran's Foreign Minister in Tehran as part of ongoing mediation efforts. A temporary agreement was separately reached regarding passage through the Strait of Hormuz."
         }
       ]
     },
@@ -5225,6 +5240,11 @@
           "date": "2026-08-27",
           "edition": "morning",
           "update": "Oil prices extended their losses as expectations grew that diplomatic talks could further ease supply disruptions stemming from Middle East tensions, according to Reuters."
+        },
+        {
+          "date": "2026-08-27",
+          "edition": "evening",
+          "update": "Iran has conditioned implementation of the temporary Strait of Hormuz shipping corridor on the United States meeting a series of unspecified demands, according to the Washington Examiner."
         }
       ]
     },
@@ -5303,7 +5323,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-08-26",
+      "lastSeen": "2026-08-27",
       "active": true,
       "entries": [
         {
@@ -5520,6 +5540,11 @@
           "date": "2026-08-26",
           "edition": "evening",
           "update": "The World Health Organization declared the Ebola outbreak in Uganda over, while separately noting a continued rise in cases in the Democratic Republic of Congo."
+        },
+        {
+          "date": "2026-08-27",
+          "edition": "evening",
+          "update": "CEPI announced funding of up to $16.5 million to support Egyptian pharmaceutical company Minapharm's development of an experimental Ebola vaccine, according to Reuters."
         }
       ]
     },
@@ -5935,6 +5960,11 @@
           "date": "2026-08-27",
           "edition": "morning",
           "update": "The Justice Department announced it shut down several platforms linked to China used to hack multiple federal agencies, including the Senate, Federal Reserve, NIH, NASA, and the Departments of Justice, with officials linking the intrusions to a Chinese company connected to the Beijing government. President Trump declared a national emergency to protect the U.S. power grid from foreign cybersecurity threats."
+        },
+        {
+          "date": "2026-08-27",
+          "edition": "evening",
+          "update": "The ATF announced it is investigating a 'major' cybersecurity incident after the Qilin ransomware group claimed responsibility, though the agency stated the breach involved a standalone system separate from its main network and did not appear to affect its enterprise network, eForms system, or other systems. Separately, Reuters reported that Russian-speaking cybercriminals exploited SpaceX's Cursor AI coding tool to hack into seven companies, highlighting the use of AI development platforms as attack vectors."
         }
       ]
     },
@@ -5943,7 +5973,7 @@
       "title": "Airport Security Threats and Explosive Device Incidents",
       "parentId": null,
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-08-27",
       "active": true,
       "entries": [
         {
@@ -5990,6 +6020,11 @@
           "date": "2026-08-23",
           "edition": "morning",
           "update": "A laptop battery caught fire aboard an American Airlines flight, with air traffic control audio obtained by CBS News indicating approximately four to five passengers suffered possible burn injuries and one passenger requiring medical attention."
+        },
+        {
+          "date": "2026-08-27",
+          "edition": "evening",
+          "update": "Two American Airlines tires blew out on a runway at Chicago's O'Hare Airport while the aircraft was taxiing for takeoff, prompting an evacuation and marking the fourth or fifth such tire-related incident at the airport within a single month, according to the New York Post."
         }
       ]
     },
@@ -6044,5 +6079,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-27T11:09:52.620Z"
+  "updatedAt": "2026-08-27T21:09:59.032Z"
 }
