@@ -611,5 +611,80 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-08-27T07:30:01.642Z"
+  },
+  {
+    "title": "Nepal-Tibet flood deaths rise to 168 amid search for hundreds of missing tourists",
+    "description": "At least 168 people have been confirmed killed by the massive flash flooding that ravaged the Nepal-Tibet border region on Wednesday.",
+    "link": "https://abcnews.com/International/nepal-tibet-flood-deaths-rise-168-amid-search/story?id=135996529",
+    "pubDate": "Thu, 27 Aug 2026 03:41:02 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-08-27T07:45:01.720Z"
+  },
+  {
+    "title": "Over 1,000 AI agents worked together in OpenAI hack, report reveals - The Washington Post",
+    "description": "Over 1,000 AI agents worked together in OpenAI hack, report reveals  The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbDMxcDRPVWc5N0xFU2dYQTBVQV9DSFppY2NXekRpTzd3OEN5TGhEVUNSV2JTbmZyVUVPV3V1X0NZTXFWNEtOOTVfUlVPbG9zRTlnajI0LVBVdlRPczl5dS13REdqNWhiYmQwaHFsZG9FT3ZrY04ydTRic2YybkROYVJtZ0ZGeHR6MWZ6Ynl5VnV3WGg2bnhKZl9DX0hGUQ?oc=5",
+    "pubDate": "Thu, 27 Aug 2026 05:22:43 GMT",
+    "source": "Washington Post",
+    "categories": [],
+    "collectedAt": "2026-08-27T07:45:01.720Z"
+  },
+  {
+    "title": "Judge releases man accused of driving guillotine to Supreme Court - The Washington Post",
+    "description": "Judge releases man accused of driving guillotine to Supreme Court  The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRHY2NTZyMXJHXzJGTWFBMmxUbzNQX2FBY1ZxZndNbVJOOU1BUDdtUzFkUmtGQ0pIWENPc2p0QzliQTBNQnRBcExLeUVSalZSOVVad0Y1aDhTWDNvM0I4RGp5MGRtMGkzMVprUHlBVDJ5R0EzTjc2UlFiVmJwSWJ0OU13ZWM5WXFxc1BQc1R2Z2oxdjhfdHIyUlFuQnpONS1VTTFQS2hDTTFNR0J0c1AwOQ?oc=5",
+    "pubDate": "Thu, 27 Aug 2026 05:18:37 GMT",
+    "source": "Washington Post",
+    "categories": [],
+    "collectedAt": "2026-08-27T07:45:01.720Z"
+  },
+  {
+    "title": "Map Shows Where Four Killed In Alaska Plane Crash",
+    "description": "A Piper PA-24 aircraft was approaching Seldovia airport when it went down in Seldovia Slough near the shoreline.",
+    "link": "https://www.newsweek.com/map-shows-where-four-killed-in-alaska-plane-crash-seldovia-slough-12373255",
+    "pubDate": "Thu, 27 Aug 2026 03:37:24 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-27T07:45:01.720Z"
+  },
+  {
+    "title": "Professor Solehah Yaacob who claimed ancient Malays taught flying kung-fu to Chinese fired by her university",
+    "description": "An academic who went viral for peddling a series of wild pseudo-historical theories – including claiming ancient Malays could fly – has been fired by her university.",
+    "link": "https://nypost.com/2026/08/27/world-news/professor-solehah-yaacob-who-went-viral-after-claiming-ancient-malays-taught-flying-kung-fu-to-chinese-fired-by-her-university/",
+    "pubDate": "Thu, 27 Aug 2026 03:41:37 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-27T07:45:01.720Z"
+  },
+  {
+    "title": "Florida driver fleeing traffic stop slams head-on into school bus carrying 19 children, then runs from scene",
+    "description": "Williams allegedly got out of the vehicle and fled on foot, according to the sheriff's office.",
+    "link": "https://nypost.com/2026/08/27/us-news/florida-driver-slams-head-on-into-school-bus-carrying-19-children-then-runs-from-scene/",
+    "pubDate": "Thu, 27 Aug 2026 03:29:59 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-27T07:45:01.720Z"
+  },
+  {
+    "title": "Pennsylvania coroner claims one of state’s measles deaths was actually due to lacerated spleen",
+    "description": "One of the measles deaths reported in Pennsylvania was revealed to be that of a newborn infant from Lancaster County, the Pennsylvania Department of Health reported on Wednesday. The revelation came after government and health officials refused to provide information about the deceased other than stating both were unvaccinated. However, on Wednesday, details surrounding the […]",
+    "link": "https://www.washingtonexaminer.com/news/4702327/pennsylvania-coroner-claims-one-state-measles-deaths-actually-due-to-lacerated-spleen/",
+    "pubDate": "Thu, 27 Aug 2026 07:42:41 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "centers for disease control and prevention",
+      "death",
+      "department of health and human services",
+      "disease",
+      "infectious disease",
+      "josh shapiro",
+      "pennsylvania",
+      "vaccines"
+    ],
+    "collectedAt": "2026-08-27T07:45:01.720Z"
   }
 ]
