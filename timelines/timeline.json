@@ -474,7 +474,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-26",
+      "lastSeen": "2026-08-27",
       "active": true,
       "entries": [
         {
@@ -1116,6 +1116,11 @@
           "date": "2026-08-26",
           "edition": "evening",
           "update": "Ukrainian President Zelensky awarded SpaceX CEO Elon Musk the Order of Freedom, one of Ukraine's highest state honors, for providing Starlink satellite internet access during the war. Reuters reported that prominent Ukrainian commanders have been assigned to lead the defense of the eastern region Russia has demanded, with no further details provided."
+        },
+        {
+          "date": "2026-08-27",
+          "edition": "morning",
+          "update": "EU member states have revived a plan to use frozen Russian assets to support Ukraine, according to a Financial Times report cited by Reuters. Russian troops are attempting to infiltrate the overgrown reservoir basin of a dam destroyed three years ago, while Ukrainian soldiers engage them in close-quarters combat in the area, according to the NY Times."
         }
       ],
       "parentId": null
@@ -1124,7 +1129,7 @@
       "id": "sinaloa-cartel-violence",
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-08-27",
       "active": true,
       "entries": [
         {
@@ -1261,6 +1266,11 @@
           "date": "2026-08-23",
           "edition": "morning",
           "update": "Sinaloa Governor Rubén Rocha Moya, who has been accused by the U.S. of aiding a cartel, left office again after briefly returning, following widespread criticism from members of his own party and others."
+        },
+        {
+          "date": "2026-08-27",
+          "edition": "morning",
+          "update": "The DOJ announced federal grand jury indictments against two Jalisco New Generation Cartel regional commanders, brothers Ramon Alvarez Ayala (44) and Rafael Alvarez Ayala (42), on charges of trafficking cocaine and methamphetamine into the United States and committing firearms offenses."
         }
       ],
       "parentId": null
@@ -1334,7 +1344,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-26",
+      "lastSeen": "2026-08-27",
       "active": true,
       "entries": [
         {
@@ -1646,6 +1656,11 @@
           "date": "2026-08-26",
           "edition": "evening",
           "update": "Netanyahu said in a Channel 14 interview that Iran attempted to assassinate one of his children, with subsequent reports identifying the target as his son living in Florida."
+        },
+        {
+          "date": "2026-08-27",
+          "edition": "morning",
+          "update": "Reuters identified six key consequences emerging from six months of war in Iran, marking a significant milestone in the ongoing conflict."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -1824,7 +1839,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-23",
+      "lastSeen": "2026-08-27",
       "active": true,
       "entries": [
         {
@@ -2296,6 +2311,11 @@
           "date": "2026-08-23",
           "edition": "morning",
           "update": "Syria condemned a new Israeli airstrike near Damascus as a violation of international law, according to BBC News, following a separate reported Israeli attack on a military airbase near the Turkish border. Syria's foreign minister indicated that security talks with Israel are expected to resume despite an absence of trust between the two sides, according to Reuters."
+        },
+        {
+          "date": "2026-08-27",
+          "edition": "morning",
+          "update": "A NY Times reporter visited a Lebanese barbershop destroyed by an Israeli airstrike, illustrating continued damage to civilian infrastructure amid the ongoing Israel-Hezbollah conflict."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2304,7 +2324,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-26",
+      "lastSeen": "2026-08-27",
       "active": true,
       "entries": [
         {
@@ -3251,6 +3271,11 @@
           "date": "2026-08-26",
           "edition": "evening",
           "update": "The U.S. expanded its sanctions pressure by threatening measures against any country or entity engaging with Iran's gold, digital assets, aviation, shipping, and technology industries, extending the campaign beyond oil. Voters in Virginia Beach, Virginia are treating the U.S. conflict with Iran as a central issue in a competitive House race, according to the NY Times."
+        },
+        {
+          "date": "2026-08-27",
+          "edition": "morning",
+          "update": "President Trump stated on Wednesday that he is 'not in a hurry' to resume negotiations with Iran, while also claiming he expects a big victory 'soon,' according to CBS News."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3994,7 +4019,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-08-21",
+      "lastSeen": "2026-08-27",
       "active": true,
       "entries": [
         {
@@ -4076,6 +4101,11 @@
           "date": "2026-08-21",
           "edition": "morning",
           "update": "US-South Korea joint military exercises ended early on Friday, according to BBC News. North Korea has raised its demands in diplomatic negotiations as the Trump administration pursues engagement with Pyongyang, while South Korea has expressed concern about being sidelined in talks directly affecting its own security, according to NPR."
+        },
+        {
+          "date": "2026-08-27",
+          "edition": "morning",
+          "update": "North Korea condemned a U.S. arms sale to South Korea and vowed a strong response, according to Reuters."
         }
       ],
       "parentId": null
@@ -4105,7 +4135,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-26",
+      "lastSeen": "2026-08-27",
       "active": true
     },
     {
@@ -4128,7 +4158,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-08-26",
+      "lastSeen": "2026-08-27",
       "active": true,
       "entries": [
         {
@@ -4445,6 +4475,11 @@
           "date": "2026-08-26",
           "edition": "evening",
           "update": "CIA Director John Ratcliffe traveled to Moscow in a rare, unannounced visit and met with Russian intelligence counterparts, a trip confirmed by the Kremlin. Ratcliffe did not meet with President Putin, and the purpose of the visit has not been publicly disclosed."
+        },
+        {
+          "date": "2026-08-27",
+          "edition": "morning",
+          "update": "Qatar's Prime Minister Sheikh Mohammed is set to visit Tehran to pursue mediation efforts aimed at reviving stalled US-Iran diplomatic talks, according to Reuters. CIA Director Ratcliffe's Moscow visit included a warning to Russia not to attack NATO member states, according to sources familiar with the matter."
         }
       ]
     },
@@ -4748,7 +4783,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-08-26",
+      "lastSeen": "2026-08-27",
       "active": true,
       "entries": [
         {
@@ -5185,6 +5220,11 @@
           "date": "2026-08-26",
           "edition": "evening",
           "update": "Iran and Oman reached a formal agreement establishing a temporary corridor in the Strait of Hormuz, including a revenue-sharing arrangement, with Iran's Revolutionary Guards announcing the deal. Oil prices fell for a third consecutive day as the agreement sparked renewed optimism in global energy markets."
+        },
+        {
+          "date": "2026-08-27",
+          "edition": "morning",
+          "update": "Oil prices extended their losses as expectations grew that diplomatic talks could further ease supply disruptions stemming from Middle East tensions, according to Reuters."
         }
       ]
     },
@@ -5578,7 +5618,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-26",
+      "lastSeen": "2026-08-27",
       "active": true,
       "entries": [
         {
@@ -5750,6 +5790,11 @@
           "date": "2026-08-26",
           "edition": "evening",
           "update": "Syria's Kurdish forces, the Syrian Democratic Forces, agreed to dissolve their army under a political arrangement with Syria's new leadership led by Ahmed al-Sharaa. Analysts cited by Al Jazeera characterized Israel's earlier raid on the UNRWA center as part of a broader effort to eliminate Palestinian refugee rights and advance West Bank annexation."
+        },
+        {
+          "date": "2026-08-27",
+          "edition": "morning",
+          "update": "The U.S. official leading President Trump's Gaza ceasefire effort publicly criticized Israel for its attacks on Gaza and warned that rejecting the U.S. proposal risks leading to a future war, according to NPR. Analysts warn that weeks of Houthi attacks on Saudi targets have pushed Saudi Arabia and the Iranian-backed militia to the brink of full-blown conflict, potentially opening a new front in broader Iran-related hostilities, according to the NY Times. Senator Chris Van Hollen is leading a group of Senate Democrats to force a vote on Israel's human rights practices, focused on violence against Palestinians in the Israeli-occupied West Bank."
         }
       ]
     },
@@ -5798,7 +5843,7 @@
       "title": "US Cyberattacks and Infrastructure Security",
       "parentId": null,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-08-26",
+      "lastSeen": "2026-08-27",
       "active": true,
       "entries": [
         {
@@ -5885,6 +5930,11 @@
           "date": "2026-08-26",
           "edition": "evening",
           "update": "A Chinese state-linked hacking group targeted multiple U.S. government agencies, including NASA, the Justice Department, and the Senate. Separately, FBI Director Kash Patel announced the conclusion of Operation Riptide, which he said dismantled global cybercrime networks that allegedly stole over $20 billion from Americans."
+        },
+        {
+          "date": "2026-08-27",
+          "edition": "morning",
+          "update": "The Justice Department announced it shut down several platforms linked to China used to hack multiple federal agencies, including the Senate, Federal Reserve, NIH, NASA, and the Departments of Justice, with officials linking the intrusions to a Chinese company connected to the Beijing government. President Trump declared a national emergency to protect the U.S. power grid from foreign cybersecurity threats."
         }
       ]
     },
@@ -5994,5 +6044,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-26T21:10:25.223Z"
+  "updatedAt": "2026-08-27T11:09:52.620Z"
 }
