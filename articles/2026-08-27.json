@@ -104,5 +104,36 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-27T04:30:01.396Z"
+  },
+  {
+    "title": "Twelve dead as over 150 wildfires rage across northeastern Algeria",
+    "description": "More than 150 fires spread in a single day across several of Algeria’s provinces, killing at least 12 people.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/27/twelve-dead-as-over-150-wildfires-rage-across-northeastern-algeria?traffic_source=rss",
+    "pubDate": "Thu, 27 Aug 2026 04:28:44 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-08-27T04:45:01.689Z"
+  },
+  {
+    "title": "Israel continues attacks on Syria, Lebanon despite US push for diplomacy",
+    "description": "Israeli artillery attacks, air raids and incursions continue as questions grow over US commitment to ending strikes.",
+    "link": "https://www.aljazeera.com/news/2026/8/27/israel-continues-attacks-on-syria-lebanon-despite-us-push-for-diplomacy?traffic_source=rss",
+    "pubDate": "Thu, 27 Aug 2026 04:25:44 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-27T04:45:01.689Z"
+  },
+  {
+    "title": "Woman, 61, struck and killed by car while crossing NYC street just blocks away from her home",
+    "description": "A Queens woman was struck and killed by a car while crossing Union Turnpike outside of a marked crosswalk on Wednesday, police said.",
+    "link": "https://nypost.com/2026/08/27/us-news/woman-struck-dead-by-car-while-crossing-nyc-street-just-blocks-away-from-her-home/",
+    "pubDate": "Thu, 27 Aug 2026 00:42:04 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-27T04:45:01.689Z"
   }
 ]
