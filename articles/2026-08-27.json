@@ -408,5 +408,67 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-08-27T06:45:01.305Z"
+  },
+  {
+    "title": "Yayoi Kusama, who splashed polka dots across art world, dies at 97 in Tokyo",
+    "description": "Artist Yayoi Kusama dies at 97 in Tokyo",
+    "link": "https://abcnews.com/Lifestyle/wireStory/yayoi-kusama-splashed-polka-dots-art-world-dies-135994086",
+    "pubDate": "Thu, 27 Aug 2026 02:50:23 -0400",
+    "source": "ABC News",
+    "categories": [
+      "lifestyle"
+    ],
+    "collectedAt": "2026-08-27T07:00:01.296Z"
+  },
+  {
+    "title": "What we know so far",
+    "description": "Hundreds are feared to have died in flooding and landslides on the border of Nepal and Tibet.",
+    "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 27 Aug 2026 06:44:40 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-27T07:00:01.296Z"
+  },
+  {
+    "title": "OpenAI says it detected malign activity months before Hugging Face attack",
+    "description": "ChatGPT creator says AI agents collaborated and delegated work in hacking, calling themselves a 'collective'.",
+    "link": "https://www.aljazeera.com/economy/2026/8/27/openai-says-it-detected-malign-activity-months-before-hugging-face-attack?traffic_source=rss",
+    "pubDate": "Thu, 27 Aug 2026 06:33:18 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "economy"
+    ],
+    "collectedAt": "2026-08-27T07:00:01.296Z"
+  },
+  {
+    "title": "Small plane crashes into shallow water near remote Alaska town, killing all 4 people aboard",
+    "description": "The NTSB is investigating after a small plane en route from Anchorage to Seldovia crashed into shallow coastal waters, killing all four people on board.",
+    "link": "https://www.foxnews.com/us/small-plane-crashes-shallow-water-remote-alaska-town-killing-4-people-aboard",
+    "pubDate": "Thu, 27 Aug 2026 02:40:45 -0400",
+    "source": "Fox News",
+    "categories": [
+      "cb05e6b3-6736-5f54-869e-12323969fbb9",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/west/alaska",
+      "fox-news/science/air-and-space",
+      "fox-news/us/disasters",
+      "fox-news/world/disasters/transportation",
+      "fox-news/travel",
+      "fox-news/us",
+      "fox-news/travel/general/airports",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-08-27T07:00:01.296Z"
+  },
+  {
+    "title": "Massachusetts high court blocks city from displaying Catholic saint statues honoring first responders",
+    "description": "Critics contend that placing religious figures outside a government building would violate the Massachusetts Constitution's protections on religious neutrality.",
+    "link": "https://nypost.com/2026/08/27/us-news/massachusetts-court-blocks-quincy-from-displaying-catholic-saint-statues-for-first-responders/",
+    "pubDate": "Thu, 27 Aug 2026 02:52:07 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-27T07:00:01.296Z"
   }
 ]
