@@ -2390,5 +2390,120 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-08-31T12:15:01.491Z"
+  },
+  {
+    "title": "College football player dies minutes after scoring a touchdown",
+    "description": "The college junior died after a medical emergency during Saturday's football game.",
+    "link": "https://abcnews.com/US/college-football-player-micahjo-barnett-dies-after-medical/story?id=136075741",
+    "pubDate": "Mon, 31 Aug 2026 03:39:40 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-08-31T12:30:01.250Z"
+  },
+  {
+    "title": "Curaçao captures Little League World Series title",
+    "description": "The island team beat Nevada, but both teams are going home as winners. Nevada won the U.S. championship over Ohio on Saturday and Curaçao won the international title over Japan.",
+    "link": "https://abcnews.com/video/136083579/",
+    "pubDate": "Mon, 31 Aug 2026 08:24:50 -0400",
+    "source": "ABC News",
+    "categories": [
+      "gma"
+    ],
+    "collectedAt": "2026-08-31T12:30:01.250Z"
+  },
+  {
+    "title": "2 dead, 8 wounded in Trenton shooting, prosecutor says",
+    "description": "Two people died and eight others were hurt in a shooting on Locust Street in Trenton early Sunday morning, officials say.",
+    "link": "https://www.cbsnews.com/news/trenton-new-jersey-mass-shooting-locust-street/",
+    "pubDate": "Mon, 31 Aug 2026 08:26:13 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-08-31T12:30:01.250Z"
+  },
+  {
+    "title": "Ross Fire burns 85,000 acres, leaves destruction across 2 counties",
+    "description": "The wildfire, which has torn through Palo Pinto and Jack counties, has forced evacuations, closed roads and disrupted schools.",
+    "link": "https://www.cbsnews.com/news/ross-fire-near-palo-pinto-high-wildfire-risk/",
+    "pubDate": "Mon, 31 Aug 2026 08:24:01 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-08-31T12:30:01.250Z"
+  },
+  {
+    "title": "Grand Canyon flood evacuee says he \"didn't know what was going to happen\"",
+    "description": "Flash floods ripped through Grand Canyon National Park over the weekend. One body was recovered in the park Sunday night, the National Park Service said, and more than a dozen are still believed to be missing. Matt Gutman reports.",
+    "link": "https://www.cbsnews.com/video/grand-canyon-flood-evacuee-says-he-didnt-know-what-was-going-to-happen/",
+    "pubDate": "Mon, 31 Aug 2026 08:19:36 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-08-31T12:30:01.250Z"
+  },
+  {
+    "title": "Eye Opener: Search underway for missing people after Grand Canyon flash flood",
+    "description": "Shocking flash floods in the Grand Canyon have sparked evacuations, as well as search-and-rescue efforts. All that and all that matters in today's Eye Opener.",
+    "link": "https://www.cbsnews.com/video/eye-opener-search-underway-for-missing-people-after-grand-canyon-flash-flood/",
+    "pubDate": "Mon, 31 Aug 2026 08:15:12 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-08-31T12:30:01.250Z"
+  },
+  {
+    "title": "Sir Mel Stride replaced as shadow chancellor as Conservatives reshuffle top team",
+    "description": "Andrew Griffith will take over the role as part of Kemi Badenoch's shadow cabinet reshuffle.",
+    "link": "https://www.bbc.co.uk/news/articles/cp8026xlm35o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 31 Aug 2026 12:28:44 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-08-31T12:30:01.250Z"
+  },
+  {
+    "title": "Who are the economic winners and losers of the US-Israel war on Iran?",
+    "description": "Airlines and automakers have taken a hit, while banks and energy firms have raked in big profits.",
+    "link": "https://www.aljazeera.com/economy/2026/8/31/who-are-the-economic-winners-and-losers-of-the-us-israel-war-on-iran?traffic_source=rss",
+    "pubDate": "Mon, 31 Aug 2026 12:01:18 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-08-31T12:30:01.250Z"
+  },
+  {
+    "title": "Aaron Donald reveals wife's advice that helped him make decision to come out of retirement and re-join Rams",
+    "description": "Aaron Donald revealed the daily talks with Sean McVay and the pivotal role his wife Erica Donald played in his decision to rejoin the Los Angeles Rams.",
+    "link": "https://www.foxnews.com/outkick-sports/aaron-donald-reveals-wifes-advice-helped-decision-come-out-retirement-rejoin-rams",
+    "pubDate": "Mon, 31 Aug 2026 08:15:46 -0400",
+    "source": "Fox News",
+    "categories": [
+      "59c425f0-68a6-5011-9f68-bca71877f09d",
+      "fnc",
+      "fox news",
+      "fox-news/sports/nfl/los-angeles-rams",
+      "fox-news/person/aaron-donald",
+      "fox-news/sports/nfl",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-08-31T12:30:01.250Z"
+  },
+  {
+    "title": "Trump calls for leaders of ‘failed nation’ Iran to be tried for ‘war crimes against humanity’ after latest US strikes",
+    "description": "President Trump publicly called Monday for Iran's leaders to be prosecuted for \"war crimes against humanity\" after trashing the Islamic Republic as a \"failed nation.\"",
+    "link": "https://nypost.com/2026/08/31/world-news/trump-calls-for-leaders-of-failed-nation-iran-to-be-tried-for-war-crimes-against-humanity/",
+    "pubDate": "Mon, 31 Aug 2026 08:28:07 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-31T12:30:01.250Z"
+  },
+  {
+    "title": "‘Below Deck’ star Nathan Gallagher facing assault charges after domestic violence arrest",
+    "description": "The reality star is charged with assaulting another man and causing him harm at Main Street in Dungloe, Ireland, on August 7, 2022.",
+    "link": "https://pagesix.com/2026/08/31/celebrity-news/below-deck-star-nathan-gallagher-facing-assault-charges-after-domestic-violence-arrest/",
+    "pubDate": "Mon, 31 Aug 2026 08:15:49 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-08-31T12:30:01.250Z"
   }
 ]
