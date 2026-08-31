@@ -474,7 +474,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-27",
+      "lastSeen": "2026-08-31",
       "active": true,
       "entries": [
         {
@@ -1126,6 +1126,11 @@
           "date": "2026-08-27",
           "edition": "evening",
           "update": "Russia's Foreign Ministry warned it could target the United Kingdom after Ukraine fired British long-range cruise missiles at targets inside Russia, calling the strikes 'terrorism.' CIA Director Ratcliffe made a surprise visit to Moscow and delivered a bleak assessment of Russia's war, with CIA analysts raising concerns that Putin's advisers may not be providing him with honest assessments of the conflict, according to the NY Times. President Trump described the Moscow trip as 'semi-routine.'"
+        },
+        {
+          "date": "2026-08-31",
+          "edition": "morning",
+          "update": "Russian forces struck Kyiv and surrounding cities for a fifth consecutive day, with repeated attacks on warehouses leaving some supermarket shelves bare across the capital. Ukraine reported that Russian strikes have destroyed approximately 12 million books by hitting publishers and churches, with the destruction occurring ahead of Ukraine's first week back at school. Russian forces continued advancing, leaving another Ukrainian town in ruins as they pushed closer to additional settlements."
         }
       ],
       "parentId": null
@@ -2329,7 +2334,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-27",
+      "lastSeen": "2026-08-31",
       "active": true,
       "entries": [
         {
@@ -3286,6 +3291,11 @@
           "date": "2026-08-27",
           "edition": "evening",
           "update": "President Trump stated the U.S. is winning its conflict with Iran and that the war will continue 'as long as necessary,' while asserting the Strait of Hormuz remains open. Al Jazeera reported that a U.S. missile strike on an Iranian school six months ago killed at least 170 people, most of them children. Newsmax reported concerns that U.S. weapons stockpiles are being depleted due to Iran-related transfers, potentially undermining readiness to counter a Chinese military threat."
+        },
+        {
+          "date": "2026-08-31",
+          "edition": "morning",
+          "update": "The U.S. conducted airstrikes on Larak Island in the Strait of Hormuz — the first strikes against Iran in approximately one month — killing two people and injuring two others, with CENTCOM announcing the strikes targeted rocket launchers. Iran retaliated by launching missile attacks against U.S. targets in Jordan and the UAE, though the UAE denied its Al Minhad Air Base was struck. Trump posted an AI-generated video to Truth Social captioned 'Kharg Island being blown to smithereens,' which Iran publicly dismissed. Brent crude surpassed $90 per barrel following the exchange — the highest level in recent weeks — with average U.S. gasoline prices remaining 37 percent above pre-war levels, and G20 finance officials gathered in the U.S. to address the broader economic fallout."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4029,7 +4039,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-08-27",
+      "lastSeen": "2026-08-31",
       "active": true,
       "entries": [
         {
@@ -4116,6 +4126,11 @@
           "date": "2026-08-27",
           "edition": "morning",
           "update": "North Korea condemned a U.S. arms sale to South Korea and vowed a strong response, according to Reuters."
+        },
+        {
+          "date": "2026-08-31",
+          "edition": "morning",
+          "update": "North Korea declared that U.S. hostile policy toward it remains unchanged and vowed to continue strengthening its nuclear force, according to Reuters."
         }
       ],
       "parentId": null
@@ -4145,7 +4160,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-27",
+      "lastSeen": "2026-08-31",
       "active": true
     },
     {
@@ -4798,7 +4813,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-08-27",
+      "lastSeen": "2026-08-31",
       "active": true,
       "entries": [
         {
@@ -5245,6 +5260,11 @@
           "date": "2026-08-27",
           "edition": "evening",
           "update": "Iran has conditioned implementation of the temporary Strait of Hormuz shipping corridor on the United States meeting a series of unspecified demands, according to the Washington Examiner."
+        },
+        {
+          "date": "2026-08-31",
+          "edition": "morning",
+          "update": "U.S. CENTCOM Admiral Brad Cooper disclosed a classified mission in which Navy divers, SEALs, and air power were used to clear Iranian sea mines from shipping lanes in the Strait of Hormuz, according to Fox News."
         }
       ]
     },
@@ -6079,5 +6099,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-27T21:09:59.032Z"
+  "updatedAt": "2026-08-31T11:04:51.559Z"
 }
