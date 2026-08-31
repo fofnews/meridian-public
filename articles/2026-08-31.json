@@ -960,5 +960,53 @@
       "washington d.c."
     ],
     "collectedAt": "2026-08-31T09:15:01.674Z"
+  },
+  {
+    "title": "Global Oil Price Rises to $90 a Barrel After U.S. and Iran Trade Attacks",
+    "description": "The first attacks in a month jolted energy markets. The average U.S. gasoline price remained 37 percent higher since the war began.",
+    "link": "https://www.nytimes.com/2026/08/31/business/oil-prices-iran-war.html",
+    "pubDate": "Mon, 31 Aug 2026 09:07:00 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "oil (petroleum) and gasoline",
+      "prices (fares, fees and rates)",
+      "stocks and bonds",
+      "standard & poor's 500-stock index",
+      "iran"
+    ],
+    "collectedAt": "2026-08-31T09:30:01.190Z"
+  },
+  {
+    "title": "One Dead and 15 Potentially Missing at Grand Canyon After Flash Flood",
+    "description": "At least 62 people were evacuated on Saturday after flooding destroyed footbridges and damaged a campground and cabins near Bright Angel Creek in Arizona, the National Park Service said.",
+    "link": "https://www.nytimes.com/2026/08/30/us/grand-canyon-flash-flood-people-missing.html",
+    "pubDate": "Mon, 31 Aug 2026 09:25:03 +0000",
+    "source": "NY Times",
+    "categories": [
+      "grand canyon national park",
+      "national park service",
+      "floods",
+      "national parks, monuments and seashores"
+    ],
+    "collectedAt": "2026-08-31T09:30:01.190Z"
+  },
+  {
+    "title": "Bootleg ‘Spider-Man’ swings into Russian cinemas despite Hollywood boycott",
+    "description": "While screening the movie “violates both Russian and international law,” everyone, including Russian authorities, “turns a blind eye to it,” one film critic told NBC News.",
+    "link": "https://www.nbcnews.com/world/russia/spider-man-movie-swings-bootleg-russia-cinema-hollywood-boycott-rcna594541",
+    "pubDate": "Mon, 31 Aug 2026 09:15:00 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-08-31T09:30:01.190Z"
+  },
+  {
+    "title": "Social Security Update: Two Types of Payments Arriving This Week",
+    "description": "This week, SSI and certain retirement, survivor, and spousal benefit recipients will receive their September payment.",
+    "link": "https://www.newsweek.com/social-security-update-two-types-of-payments-arriving-this-week-12385842",
+    "pubDate": "Mon, 31 Aug 2026 05:23:09 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-08-31T09:30:01.190Z"
   }
 ]
