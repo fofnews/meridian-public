@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-25",
+      "lastSeen": "2026-08-31",
       "active": true,
       "entries": [
         {
@@ -331,6 +331,11 @@
           "date": "2026-08-25",
           "edition": "evening",
           "update": "U.S. District Judge Paul Engelmayer denied Ghislaine Maxwell's habeas corpus petition, characterizing her claims as false and 'frivolous,' rejecting her bid to overturn her 2021 sex-trafficking conviction. Maxwell, who represented herself in the petition, had received a 20-year prison sentence for her role aiding Jeffrey Epstein."
+        },
+        {
+          "date": "2026-08-31",
+          "edition": "evening",
+          "update": "Rep. Maxwell Frost (D-Fla.) stated that former President Biden and his administration should have released federal documents connected to Jeffrey Epstein, making the remarks during an appearance on Jubilee's 'Surrounded.'"
         }
       ],
       "parentId": null
@@ -1131,6 +1136,11 @@
           "date": "2026-08-31",
           "edition": "morning",
           "update": "Russian forces struck Kyiv and surrounding cities for a fifth consecutive day, with repeated attacks on warehouses leaving some supermarket shelves bare across the capital. Ukraine reported that Russian strikes have destroyed approximately 12 million books by hitting publishers and churches, with the destruction occurring ahead of Ukraine's first week back at school. Russian forces continued advancing, leaving another Ukrainian town in ruins as they pushed closer to additional settlements."
+        },
+        {
+          "date": "2026-08-31",
+          "edition": "evening",
+          "update": "Russian strikes on Kyiv have continued, with jet-powered drone attacks causing disruptions including empty supermarket shelves and widespread anxiety among residents. Putin is reportedly considering escalating the war as he faces domestic difficulties, according to Newsmax, though no specific escalation plans were detailed."
         }
       ],
       "parentId": null
@@ -1139,7 +1149,7 @@
       "id": "sinaloa-cartel-violence",
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-27",
+      "lastSeen": "2026-08-31",
       "active": true,
       "entries": [
         {
@@ -1281,6 +1291,11 @@
           "date": "2026-08-27",
           "edition": "morning",
           "update": "The DOJ announced federal grand jury indictments against two Jalisco New Generation Cartel regional commanders, brothers Ramon Alvarez Ayala (44) and Rafael Alvarez Ayala (42), on charges of trafficking cocaine and methamphetamine into the United States and committing firearms offenses."
+        },
+        {
+          "date": "2026-08-31",
+          "edition": "evening",
+          "update": "A two-year war between rival Sinaloa Cartel factions in Mexico has driven a surge in killings and disappearances targeting women, according to the NY Times."
         }
       ],
       "parentId": null
@@ -3296,6 +3311,11 @@
           "date": "2026-08-31",
           "edition": "morning",
           "update": "The U.S. conducted airstrikes on Larak Island in the Strait of Hormuz — the first strikes against Iran in approximately one month — killing two people and injuring two others, with CENTCOM announcing the strikes targeted rocket launchers. Iran retaliated by launching missile attacks against U.S. targets in Jordan and the UAE, though the UAE denied its Al Minhad Air Base was struck. Trump posted an AI-generated video to Truth Social captioned 'Kharg Island being blown to smithereens,' which Iran publicly dismissed. Brent crude surpassed $90 per barrel following the exchange — the highest level in recent weeks — with average U.S. gasoline prices remaining 37 percent above pre-war levels, and G20 finance officials gathered in the U.S. to address the broader economic fallout."
+        },
+        {
+          "date": "2026-08-31",
+          "edition": "evening",
+          "update": "Trump vowed to retaliate against Iran's strikes on U.S. bases in Jordan, telling Fox News 'We're going to hit them hard. There will be a response.' Vice President Vance clarified that Trump's AI-generated Kharg Island video was intended as a message to Iran. The UAE confirmed it intercepted an Iranian drone but rejected reports of a strike on Al Menhad airbase as false. Brent crude rose 3.4% to $91.09 per barrel on Monday following the exchange. Trump separately called for Iran's leaders to be prosecuted for 'war crimes against humanity,' describing Iran as a 'failed nation.' Dollar Tree reported helium shortages linked to the Iran war have hurt balloon and party supply sales, with researchers warning of broader cost impacts across helium-dependent industries."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4183,7 +4203,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-08-27",
+      "lastSeen": "2026-08-31",
       "active": true,
       "entries": [
         {
@@ -4510,6 +4530,11 @@
           "date": "2026-08-27",
           "edition": "evening",
           "update": "President Trump spoke with Al Jazeera and the White House stated there will be no negotiations with Iran, with officials saying all options remain on the table. Qatar's Prime Minister met with Iran's Foreign Minister in Tehran as part of ongoing mediation efforts. A temporary agreement was separately reached regarding passage through the Strait of Hormuz."
+        },
+        {
+          "date": "2026-08-31",
+          "edition": "evening",
+          "update": "Iran has acknowledged feeling the pain of new U.S. sanctions pressure but has not changed its position or policies in response to the measures, according to the Washington Post."
         }
       ]
     },
@@ -5265,6 +5290,11 @@
           "date": "2026-08-31",
           "edition": "morning",
           "update": "U.S. CENTCOM Admiral Brad Cooper disclosed a classified mission in which Navy divers, SEALs, and air power were used to clear Iranian sea mines from shipping lanes in the Strait of Hormuz, according to Fox News."
+        },
+        {
+          "date": "2026-08-31",
+          "edition": "evening",
+          "update": "Analysts assessed as implausible U.S. claims that Iran could use rockets to mine the Strait of Hormuz, though experts noted Iran has a history of adapting conventional weapons for unconventional purposes, according to Al Jazeera."
         }
       ]
     },
@@ -6099,5 +6129,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-31T11:04:51.559Z"
+  "updatedAt": "2026-08-31T21:10:41.749Z"
 }
