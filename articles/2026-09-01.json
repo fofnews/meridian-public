@@ -718,5 +718,27 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-01T07:30:01.417Z"
+  },
+  {
+    "title": "Duolingo D-Day: Iranians question latest US sanctions targeting education",
+    "description": "Many Iranians inside the country feel they are being unjustly erased from the international community.",
+    "link": "https://www.aljazeera.com/news/2026/9/1/duolingo-d-day-iranians-question-latest-us-sanctions-targeting-education?traffic_source=rss",
+    "pubDate": "Tue, 01 Sep 2026 07:25:54 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-01T07:45:01.308Z"
+  },
+  {
+    "title": "Palestine weekly: Israel’s rightwing campaigns on anti-Palestinian abuses",
+    "description": "Israeli ministers escalate campaign rhetoric with AI ads as Gaza strikes widen ahead of tight October election.",
+    "link": "https://www.aljazeera.com/features/2026/9/1/palestine-weekly-israels-rightwing-campaigns-on-anti-palestinian-abuses?traffic_source=rss",
+    "pubDate": "Tue, 01 Sep 2026 07:02:25 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-01T07:45:01.308Z"
   }
 ]
