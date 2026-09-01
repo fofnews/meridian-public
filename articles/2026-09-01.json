@@ -257,5 +257,59 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-01T05:00:02.784Z"
+  },
+  {
+    "title": "Jury convicts a man of first-degree murder for the 1996 killing of rap icon Tupac Shakur",
+    "description": "A jury found Duane \"Keffe D\" Davis guilty of orchestrating the 1996 killing of rap icon Tupac Shakur, finally bringing a measure of resolution to a case that had gripped hip-hop fans for decades.",
+    "link": "https://www.npr.org/2026/09/01/g-s1-141341/conviction-tupac-shakur-murder",
+    "pubDate": "Tue, 01 Sep 2026 00:57:01 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-09-01T05:15:01.393Z"
+  },
+  {
+    "title": "Shein’s Lackluster Debut Shows a Fast-Fashion Model Left Behind",
+    "description": "Squeezed by new trade rules, shrinking market share and labor concerns, Shein’s share decline in Hong Kong on Tuesday is a sign investors have moved on.",
+    "link": "https://www.nytimes.com/2026/08/31/business/shein-ipo-china.html",
+    "pubDate": "Tue, 01 Sep 2026 05:02:13 +0000",
+    "source": "NY Times",
+    "categories": [
+      "shein (fashion label)",
+      "initial public offerings",
+      "hong kong",
+      "china",
+      "fashion and apparel",
+      "e-commerce",
+      "international trade and world market",
+      "factories and manufacturing"
+    ],
+    "collectedAt": "2026-09-01T05:15:01.393Z"
+  },
+  {
+    "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+    "description": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
+    "link": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 01 Sep 2026 05:00:34 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-01T05:15:01.393Z"
+  },
+  {
+    "title": "New storm names for 2026-2027 released by Met Office",
+    "description": "Tuesday 1 September marks the start of the UK storm season and a new list of storm names have been released including Austen, Chloe and Evelyn.",
+    "link": "https://www.bbc.co.uk/weather/articles/cn0n01vrw9vo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 01 Sep 2026 05:00:13 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-01T05:15:01.393Z"
+  },
+  {
+    "title": "Flock's rapidly expanding AI surveillance network facing growing backlash in US",
+    "description": "BBC Verify examines the expanding network of Flock cameras in the US and the backlash against it.",
+    "link": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 01 Sep 2026 05:11:23 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-01T05:15:01.393Z"
   }
 ]
