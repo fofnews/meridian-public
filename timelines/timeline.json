@@ -1146,6 +1146,11 @@
           "date": "2026-09-01",
           "edition": "morning",
           "update": "Russia struck the Kyiv region for a sixth consecutive day, killing nine people and injuring over a dozen, with a separate strike on rail workers in the capital injuring 17, including two children. Russia then launched a massive coordinated aerial assault using over 200 drones alongside anti-radar, ballistic, and cruise missiles, killing 12 people and injuring more than a dozen across Ukraine."
+        },
+        {
+          "date": "2026-09-01",
+          "edition": "evening",
+          "update": "Indian Prime Minister Modi publicly urged President Putin to end the war in Ukraine, with BBC correspondents analyzing the appeal's potential impact on Russia. A Putin envoy separately warned that the Russian economy risks going 'berserk' as it continues its shift to a war footing."
         }
       ],
       "parentId": null
@@ -3331,6 +3336,11 @@
           "date": "2026-09-01",
           "edition": "morning",
           "update": "The Pentagon confirmed U.S. strikes targeted a new type of Iranian naval mine, describing the attacks as a response to a threat to the Strait of Hormuz. Trump characterized the latest strikes as 'limited,' while Treasury Secretary Bessent stated the Iranian economy is months from collapse due to U.S. sanctions. A new U.S. missile reportedly caused widespread casualties in an Iranian city, though specific details on location and death toll were not disclosed. Brent crude has been trading in the $86–$91 per barrel range since the MOU lapsed, after peaking at $94.40 on August 21."
+        },
+        {
+          "date": "2026-09-01",
+          "edition": "evening",
+          "update": "On Tuesday, CENTCOM announced U.S. military strikes targeting Iran's Islamic Revolutionary Guard Corps in the Strait of Hormuz, stating the strikes were conducted in response to IRGC attacks on commercial shipping and American service members in the region. Iran urged the U.S. to honor commitments under an existing Memorandum of Understanding following the strikes. Treasury Secretary Bessent announced at the G20 that new sanctions targeting Iranian banks are expected within the week, and separately stated the U.S. has international support for its economic measures against Iran, though other G20 members pushed back on broader Trump trade policies. A blockade has succeeded in stalling Iran's oil exports where previous sanctions had fallen short, according to Reuters, representing a significant shift in economic pressure. Netanyahu's eldest son was evacuated from the United States following a significant threat linked to an Iranian plot, according to the New York Post. U.S. sanctions have also forced the cancellation of English proficiency and graduate admissions exams in Iran, blocking students from accessing tests required for international study programs."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4218,7 +4228,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "active": true,
       "entries": [
         {
@@ -4550,6 +4560,11 @@
           "date": "2026-08-31",
           "edition": "evening",
           "update": "Iran has acknowledged feeling the pain of new U.S. sanctions pressure but has not changed its position or policies in response to the measures, according to the Washington Post."
+        },
+        {
+          "date": "2026-09-01",
+          "edition": "evening",
+          "update": "Iran urged the United States to honor its commitments under the existing Memorandum of Understanding following renewed strikes in the Strait of Hormuz. The Shanghai Cooperation Organisation, at its Bishkek summit, issued a statement condemning attacks and sanctions on Iran, with SCO member state leaders convening in the aftermath of the ongoing U.S.-Iran conflict."
         }
       ]
     },
@@ -5315,6 +5330,11 @@
           "date": "2026-09-01",
           "edition": "morning",
           "update": "Two tankers were struck in the Strait of Hormuz, pushing global oil prices above $90 per barrel, with WTI and Brent crude contracts reaching their highest levels in nearly two weeks. Shipping data showed commodity vessel transits through the strait remaining in single digits."
+        },
+        {
+          "date": "2026-09-01",
+          "edition": "evening",
+          "update": "Two oil tankers were attacked near Oman in the Strait of Hormuz on Monday, the latest in a series of incidents targeting vessels in the Persian Gulf, with oil prices rising more than 2 percent following the attacks."
         }
       ]
     },
@@ -5620,6 +5640,11 @@
           "date": "2026-09-01",
           "edition": "morning",
           "update": "In Bunia, a city affected by the outbreak, coffin makers have become central figures in community debates over safe burial practices, as the virus raises public health concerns around funeral rituals, according to the NY Times."
+        },
+        {
+          "date": "2026-09-01",
+          "edition": "evening",
+          "update": "Congolese authorities have shifted high-risk pupils to home learning amid fears that school reopenings could accelerate the spread of Ebola, according to Al Jazeera."
         }
       ]
     },
@@ -6154,5 +6179,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-01T11:08:26.898Z"
+  "updatedAt": "2026-09-01T21:08:12.641Z"
 }
