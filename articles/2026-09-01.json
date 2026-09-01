@@ -2531,5 +2531,54 @@
     "source": "Newsmax",
     "categories": [],
     "collectedAt": "2026-09-01T11:45:03.964Z"
+  },
+  {
+    "title": "Canada's Liberals sweep three seats in boost for Carney after trade tensions with US",
+    "description": "One seat was taken from the Conservatives, indicating public support for the PM after a confrontation with Donald Trump.",
+    "link": "https://www.bbc.co.uk/news/articles/c3v4pzn0p7yo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 01 Sep 2026 11:05:13 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-01T12:00:02.473Z"
+  },
+  {
+    "title": "‘Hit them hard’: Does Trump have another ‘new’ Iran strategy, can it work?",
+    "description": "Trump signals harsher response as US-Iran hostilities escalate, raising fears of prolonged conflict in the Gulf region.",
+    "link": "https://www.aljazeera.com/news/2026/9/1/hit-them-hard-does-trump-have-another-new-iran-strategy-can-it-work?traffic_source=rss",
+    "pubDate": "Tue, 01 Sep 2026 11:38:14 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-01T12:00:02.473Z"
+  },
+  {
+    "title": "Massive chemical fire erupts at electrical transformer plant in Mississippi, forcing evacuation",
+    "description": "A paint booth fire near an explosive tanker truck triggered a massive blaze at Howard Industries in Laurel, Mississippi, forcing evacuations.",
+    "link": "https://www.foxnews.com/us/massive-chemical-fire-erupts-electrical-transformer-plant-mississippi-forcing-evacuation",
+    "pubDate": "Tue, 01 Sep 2026 07:48:44 -0400",
+    "source": "Fox News",
+    "categories": [
+      "4cda0c8f-acc5-542f-afc9-75bbe8a10b95",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/southeast/mississippi",
+      "fox-news/fires",
+      "fox-news/fires",
+      "fox-news/us",
+      "fox-news/politics/elections/local",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-09-01T12:00:02.473Z"
+  },
+  {
+    "title": "The Yankees don’t just need Aaron Judge back — they need him hitting",
+    "description": "That would give Judge as many as 19 games to get ready for the playoffs.",
+    "link": "https://nypost.com/2026/09/01/sports/yankees-dont-just-need-aaron-judge-back-they-need-him-hitting/",
+    "pubDate": "Tue, 01 Sep 2026 07:53:12 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-01T12:00:02.473Z"
   }
 ]
