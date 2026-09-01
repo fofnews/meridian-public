@@ -479,7 +479,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "active": true,
       "entries": [
         {
@@ -1141,6 +1141,11 @@
           "date": "2026-08-31",
           "edition": "evening",
           "update": "Russian strikes on Kyiv have continued, with jet-powered drone attacks causing disruptions including empty supermarket shelves and widespread anxiety among residents. Putin is reportedly considering escalating the war as he faces domestic difficulties, according to Newsmax, though no specific escalation plans were detailed."
+        },
+        {
+          "date": "2026-09-01",
+          "edition": "morning",
+          "update": "Russia struck the Kyiv region for a sixth consecutive day, killing nine people and injuring over a dozen, with a separate strike on rail workers in the capital injuring 17, including two children. Russia then launched a massive coordinated aerial assault using over 200 drones alongside anti-radar, ballistic, and cruise missiles, killing 12 people and injuring more than a dozen across Ukraine."
         }
       ],
       "parentId": null
@@ -1864,7 +1869,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-27",
+      "lastSeen": "2026-09-01",
       "active": true,
       "entries": [
         {
@@ -2341,6 +2346,11 @@
           "date": "2026-08-27",
           "edition": "morning",
           "update": "A NY Times reporter visited a Lebanese barbershop destroyed by an Israeli airstrike, illustrating continued damage to civilian infrastructure amid the ongoing Israel-Hezbollah conflict."
+        },
+        {
+          "date": "2026-09-01",
+          "edition": "morning",
+          "update": "Analysts warn that Israel could benefit from a security vacuum in Lebanon as UNIFIL's peacekeeping mandate is set to expire on December 31, with questions remaining about whether European forces can fill the gap, according to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2349,7 +2359,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "active": true,
       "entries": [
         {
@@ -3316,6 +3326,11 @@
           "date": "2026-08-31",
           "edition": "evening",
           "update": "Trump vowed to retaliate against Iran's strikes on U.S. bases in Jordan, telling Fox News 'We're going to hit them hard. There will be a response.' Vice President Vance clarified that Trump's AI-generated Kharg Island video was intended as a message to Iran. The UAE confirmed it intercepted an Iranian drone but rejected reports of a strike on Al Menhad airbase as false. Brent crude rose 3.4% to $91.09 per barrel on Monday following the exchange. Trump separately called for Iran's leaders to be prosecuted for 'war crimes against humanity,' describing Iran as a 'failed nation.' Dollar Tree reported helium shortages linked to the Iran war have hurt balloon and party supply sales, with researchers warning of broader cost impacts across helium-dependent industries."
+        },
+        {
+          "date": "2026-09-01",
+          "edition": "morning",
+          "update": "The Pentagon confirmed U.S. strikes targeted a new type of Iranian naval mine, describing the attacks as a response to a threat to the Strait of Hormuz. Trump characterized the latest strikes as 'limited,' while Treasury Secretary Bessent stated the Iranian economy is months from collapse due to U.S. sanctions. A new U.S. missile reportedly caused widespread casualties in an Iranian city, though specific details on location and death toll were not disclosed. Brent crude has been trading in the $86–$91 per barrel range since the MOU lapsed, after peaking at $94.40 on August 21."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4180,7 +4195,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "active": true
     },
     {
@@ -4838,7 +4853,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-01",
       "active": true,
       "entries": [
         {
@@ -5295,6 +5310,11 @@
           "date": "2026-08-31",
           "edition": "evening",
           "update": "Analysts assessed as implausible U.S. claims that Iran could use rockets to mine the Strait of Hormuz, though experts noted Iran has a history of adapting conventional weapons for unconventional purposes, according to Al Jazeera."
+        },
+        {
+          "date": "2026-09-01",
+          "edition": "morning",
+          "update": "Two tankers were struck in the Strait of Hormuz, pushing global oil prices above $90 per barrel, with WTI and Brent crude contracts reaching their highest levels in nearly two weeks. Shipping data showed commodity vessel transits through the strait remaining in single digits."
         }
       ]
     },
@@ -5373,7 +5393,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-08-27",
+      "lastSeen": "2026-09-01",
       "active": true,
       "entries": [
         {
@@ -5595,6 +5615,11 @@
           "date": "2026-08-27",
           "edition": "evening",
           "update": "CEPI announced funding of up to $16.5 million to support Egyptian pharmaceutical company Minapharm's development of an experimental Ebola vaccine, according to Reuters."
+        },
+        {
+          "date": "2026-09-01",
+          "edition": "morning",
+          "update": "In Bunia, a city affected by the outbreak, coffin makers have become central figures in community debates over safe burial practices, as the virus raises public health concerns around funeral rituals, according to the NY Times."
         }
       ]
     },
@@ -6129,5 +6154,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-08-31T21:10:41.749Z"
+  "updatedAt": "2026-09-01T11:08:26.898Z"
 }
