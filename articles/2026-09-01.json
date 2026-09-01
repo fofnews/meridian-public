@@ -1816,5 +1816,102 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-01T10:15:02.018Z"
+  },
+  {
+    "title": "Tropical Storm Edouard strengthens as it nears Louisiana, Texas coasts",
+    "description": "Tropical Storm Edouard could hit parts of the Texas and Louisiana Gulf Coasts with near-hurricane conditions today, the National Hurricane Center warns.",
+    "link": "https://www.cbsnews.com/news/tropical-storm-warning-louisiana-texas-gulf-coast/",
+    "pubDate": "Tue, 01 Sep 2026 06:17:13 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-01T10:30:01.267Z"
+  },
+  {
+    "title": "GLP-1s may work by activating an unlikely weight loss ally",
+    "description": "Unfortunately, testing hunger neurons in a living person isn't possible, but the study's authors hope their data can guide researchers toward new weight loss treatments.",
+    "link": "https://thehill.com/policy/healthcare/6062638-glp-1s-unlikely-weight-loss-ally/",
+    "pubDate": "Tue, 01 Sep 2026 10:10:40 +0000",
+    "source": "The Hill",
+    "categories": [
+      "healthcare",
+      "policy",
+      "agrp neurons",
+      "glp-1 drugs",
+      "proceedings of the national academy of sciences",
+      "science daily",
+      "weight loss drugs",
+      "yale university"
+    ],
+    "collectedAt": "2026-09-01T10:30:01.267Z"
+  },
+  {
+    "title": "‘Neither of us attended college’: At 62, how can we afford to put our granddaughter through college?",
+    "description": "“Her life was very challenging before we got custody.”",
+    "link": "https://www.marketwatch.com/story/her-life-was-very-challenging-before-we-got-custody-at-62-how-can-we-afford-to-put-our-granddaughter-through-college-b9d550bb?mod=mw_rss_topstories",
+    "pubDate": "Tue, 01 Sep 2026 10:15:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-09-01T10:30:01.267Z"
+  },
+  {
+    "title": "Fans say eating raw garlic is the ‘ultimate biohack’ for looking young, feeling energetic and staying heathy",
+    "description": "Fans say garlic can do everything from lower cholesterol, detox parasites, support heart health and improve insulin sensitivity to clear acne, eliminate brain fog and even cure a cold within 24 hours.",
+    "link": "https://nypost.com/2026/09/01/health/is-garlic-the-ultimate-biohack/",
+    "pubDate": "Tue, 01 Sep 2026 06:29:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-01T10:30:01.267Z"
+  },
+  {
+    "title": "Dear Abby: I’m taking care of my mother alone — my brothers need to step up",
+    "description": "Dear Abby advises a reader overwhelmed by caring for their widowed mother to ask their slacking brothers for support instead.",
+    "link": "https://nypost.com/2026/09/01/lifestyle/dear-abby-im-taking-care-of-my-mother-alone-my-brothers-need-to-step-up/",
+    "pubDate": "Tue, 01 Sep 2026 06:21:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-01T10:30:01.267Z"
+  },
+  {
+    "title": "How the Rangers’ worst-case scenario could unfold — and what it would mean for ‘retool’ architects",
+    "description": "Key players signed long-term with no-move clauses might look to exercise their leverage and jump ship.",
+    "link": "https://nypost.com/2026/09/01/sports/how-rangers-worst-case-scenario-could-unfold-in-2027/",
+    "pubDate": "Tue, 01 Sep 2026 06:20:26 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-01T10:30:01.267Z"
+  },
+  {
+    "title": "Florida GOP House candidate removes major pro-Trump mentions from campaign website",
+    "description": "EXCLUSIVE — Former Florida state Rep. Mike Beltran removed prominent mentions of President Donald Trump from his campaign website after winning the GOP primary for Florida’s 14th Congressional District. Ahead of Beltran’s crowded primary, the Florida Republican touted his long-standing support for Trump, arguing that it was “conviction,” not “political calculation” that made him support […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4706796/florida-gop-house-candidate-removes-pro-trump-mentions-campaign-website/",
+    "pubDate": "Tue, 01 Sep 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "congressional",
+      "2026 elections",
+      "florida",
+      "house of representatives",
+      "president donald trump",
+      "republicans",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-09-01T10:30:01.267Z"
+  },
+  {
+    "title": "House Republicans split over leaving Washington early for campaign trail",
+    "description": "House Republicans returned to Washington on Monday after a monthlong break facing a potentially consequential question: whether to do their remaining work, or head home to campaign until after the midterm elections. GOP lawmakers are divided over the possibility that Speaker Mike Johnson (R-LA) could scrap the House’s final three weeks of scheduled session before […]",
+    "link": "https://www.washingtonexaminer.com/news/house/4707351/house-republicans-split-leaving-washington-early-campaign-trail/",
+    "pubDate": "Tue, 01 Sep 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "congressional",
+      "house",
+      "2026 elections",
+      "capitol hill",
+      "house of representatives",
+      "mike johnson",
+      "republicans"
+    ],
+    "collectedAt": "2026-09-01T10:30:01.267Z"
   }
 ]
