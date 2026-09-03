@@ -2448,5 +2448,108 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-03T12:15:01.203Z"
+  },
+  {
+    "title": "Gloria Steinem Came to New York to Be a Writer. She Became a Movement.",
+    "description": "Her 1983 book “Outrageous Acts and Everyday Rebellions” is a master class in grit, empathy, curiosity and hustle.",
+    "link": "https://www.nytimes.com/2026/09/03/books/review/gloria-steinem-writing-appraisal.html",
+    "pubDate": "Thu, 03 Sep 2026 12:14:28 +0000",
+    "source": "NY Times",
+    "categories": [
+      "books and literature",
+      "steinem, gloria",
+      "manhattan (nyc)",
+      "writing and writers",
+      "outrageous acts and everyday rebellions (book)"
+    ],
+    "collectedAt": "2026-09-03T12:30:02.621Z"
+  },
+  {
+    "title": "Nvidia Extends A.I. Spending Spree With $12.9 Billion Deal for Hugging Face",
+    "description": "The acquisition of the start-up is an indication of Nvidia’s growing role as Silicon Valley’s central banker and its emphasis on open-source technology.",
+    "link": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html",
+    "pubDate": "Thu, 03 Sep 2026 12:19:51 +0000",
+    "source": "NY Times",
+    "categories": [
+      "nvidia corporation",
+      "hugging face inc",
+      "artificial intelligence",
+      "mergers, acquisitions and divestitures",
+      "computer chips"
+    ],
+    "collectedAt": "2026-09-03T12:30:02.621Z"
+  },
+  {
+    "title": "Oil Jumps for Fourth Straight Day and Diesel Nears Record High",
+    "description": "This week’s renewed strikes by the United States and Iran strain the flow of energy and diminish expectations the disruption will end soon.",
+    "link": "https://www.nytimes.com/2026/09/03/business/oil-diesel-prices-iran-war.html",
+    "pubDate": "Thu, 03 Sep 2026 12:14:30 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "oil (petroleum) and gasoline",
+      "prices (fares, fees and rates)",
+      "stocks and bonds",
+      "standard & poor's 500-stock index",
+      "iran"
+    ],
+    "collectedAt": "2026-09-03T12:30:02.621Z"
+  },
+  {
+    "title": "See USS Abraham Lincoln Sailor Reunite With Family",
+    "description": "The USS Abraham Lincoln finally docked in Thailand on Wednesday, pulling into port after nearly nine months at sea. Shakira Fairfax flew from New Jersey to see her daughter Jada, one of the sailors aboard the aircraft carrier. See their first hug in nearly 300 days!",
+    "link": "https://www.today.com/video/watch-uss-abraham-lincoln-sailor-reunites-with-family-269265477989",
+    "pubDate": "Thu, 03 Sep 2026 12:01:19 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-09-03T12:30:02.621Z"
+  },
+  {
+    "title": "Feminist icon Gloria Steinem dies aged 92",
+    "description": "Cofounder of Ms Magazine was a strong advocate for women's rights throughout her life.",
+    "link": "https://www.aljazeera.com/news/2026/9/3/feminist-icon-gloria-steinem-dies-aged-92?traffic_source=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:13:54 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-03T12:30:02.621Z"
+  },
+  {
+    "title": "Watch live: Vance headlines opening of school to ‘rebuild American manufacturing’",
+    "description": "Vice President Vance will give remarks Thursday on the Trump administration’s effort to rebuild the U.S. manufacturing workforce through the launch of a new training program as part of President Trump’s focus on domestic production. The Foundry School, a project of the State Department’s Pax Silica initiative, will train entrepreneurs, engineers, technicians and industrial leaders…",
+    "link": "https://thehill.com/video-clips/6068299-watch-live-jd-vance-marco-rubio-donald-trump-domestic-manufacturing-school-opening/",
+    "pubDate": "Thu, 03 Sep 2026 12:21:58 +0000",
+    "source": "The Hill",
+    "categories": [
+      "news",
+      "video"
+    ],
+    "collectedAt": "2026-09-03T12:30:02.621Z"
+  },
+  {
+    "title": "FIRST ON FOX: ‘No Kings’ protest network behind fight against AI data centers and Flock cameras",
+    "description": "Fox News Digital traces how pro-China socialist groups moved from anti-Trump, anti-Israel protests into technology messages that spread to conservatives and libertarians.",
+    "link": "https://www.foxnews.com/politics/no-kings-protest-network-fight-against-ai-data-centers-flock-cameras",
+    "pubDate": "Thu, 03 Sep 2026 08:14:29 -0400",
+    "source": "Fox News",
+    "categories": [
+      "5635d70d-931e-5220-bf25-e5a0103f1964",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-protests",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-09-03T12:30:02.621Z"
+  },
+  {
+    "title": "Hate crimes surge in NYC — with over half targeting Jews, NYPD stats show",
+    "description": "The new data, released just weeks ahead of Jewish high holidays of Rosh Hashanah and Yom Kippur, revealed that overall hate crimes jumped by 15.8% over the last year.",
+    "link": "https://nypost.com/2026/09/03/us-news/hate-crimes-surge-in-nyc-with-over-half-targeting-jews-nypd-stats-show/",
+    "pubDate": "Thu, 03 Sep 2026 08:17:52 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-03T12:30:02.621Z"
   }
 ]
