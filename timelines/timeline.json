@@ -479,7 +479,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-03",
       "active": true,
       "entries": [
         {
@@ -1151,6 +1151,11 @@
           "date": "2026-09-01",
           "edition": "evening",
           "update": "Indian Prime Minister Modi publicly urged President Putin to end the war in Ukraine, with BBC correspondents analyzing the appeal's potential impact on Russia. A Putin envoy separately warned that the Russian economy risks going 'berserk' as it continues its shift to a war footing."
+        },
+        {
+          "date": "2026-09-03",
+          "edition": "morning",
+          "update": "Russia has deployed new jet-powered drones against Ukraine that are faster, more destructive, and harder to intercept than the propeller-driven models used throughout the war. Ukrainian President Zelensky publicly condemned two rival Ukrainian spy agencies after their operatives opened fire on each other on the streets of Kyiv during an operation reportedly aimed at foiling a Russian terrorist plot."
         }
       ],
       "parentId": null
@@ -1874,7 +1879,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-03",
       "active": true,
       "entries": [
         {
@@ -2356,6 +2361,11 @@
           "date": "2026-09-01",
           "edition": "morning",
           "update": "Analysts warn that Israel could benefit from a security vacuum in Lebanon as UNIFIL's peacekeeping mandate is set to expire on December 31, with questions remaining about whether European forces can fill the gap, according to Al Jazeera."
+        },
+        {
+          "date": "2026-09-03",
+          "edition": "morning",
+          "update": "Iran warned the United States against allowing Israel to strike a Hezbollah-held ridge in south Lebanon, according to sources cited by Reuters."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2364,7 +2374,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-03",
       "active": true,
       "entries": [
         {
@@ -3341,6 +3351,11 @@
           "date": "2026-09-01",
           "edition": "evening",
           "update": "On Tuesday, CENTCOM announced U.S. military strikes targeting Iran's Islamic Revolutionary Guard Corps in the Strait of Hormuz, stating the strikes were conducted in response to IRGC attacks on commercial shipping and American service members in the region. Iran urged the U.S. to honor commitments under an existing Memorandum of Understanding following the strikes. Treasury Secretary Bessent announced at the G20 that new sanctions targeting Iranian banks are expected within the week, and separately stated the U.S. has international support for its economic measures against Iran, though other G20 members pushed back on broader Trump trade policies. A blockade has succeeded in stalling Iran's oil exports where previous sanctions had fallen short, according to Reuters, representing a significant shift in economic pressure. Netanyahu's eldest son was evacuated from the United States following a significant threat linked to an Iranian plot, according to the New York Post. U.S. sanctions have also forced the cancellation of English proficiency and graduate admissions exams in Iran, blocking students from accessing tests required for international study programs."
+        },
+        {
+          "date": "2026-09-03",
+          "edition": "morning",
+          "update": "Iran claimed to have launched attacks on U.S. military bases in Kuwait and the UAE. The U.S. military confirmed it is investigating Iranian claims that a strike hit a wedding party in Kuhestak, Iran; Iran's Red Crescent urged the ICC to investigate the incident, stating four people were killed and 67 wounded. Trump said the U.S. is prepared to strike Iran 'anytime we want,' characterizing Iran's actions as a 'very heavy attack.'"
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4205,7 +4220,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-03",
       "active": true
     },
     {
@@ -6179,5 +6194,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-01T21:08:12.641Z"
+  "updatedAt": "2026-09-03T11:04:11.302Z"
 }
