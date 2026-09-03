@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-03",
       "active": true,
       "entries": [
         {
@@ -336,6 +336,11 @@
           "date": "2026-08-31",
           "edition": "evening",
           "update": "Rep. Maxwell Frost (D-Fla.) stated that former President Biden and his administration should have released federal documents connected to Jeffrey Epstein, making the remarks during an appearance on Jubilee's 'Surrounded.'"
+        },
+        {
+          "date": "2026-09-03",
+          "edition": "evening",
+          "update": "Leon Black filed a lawsuit seeking to block the House Oversight Committee from enforcing subpoenas demanding he testify and produce documents, including nondisclosure agreements, as part of its congressional investigation into Jeffrey Epstein. Black's lawsuit, filed on a Thursday, argues the subpoenas are invalid."
         }
       ],
       "parentId": null
@@ -1156,6 +1161,11 @@
           "date": "2026-09-03",
           "edition": "morning",
           "update": "Russia has deployed new jet-powered drones against Ukraine that are faster, more destructive, and harder to intercept than the propeller-driven models used throughout the war. Ukrainian President Zelensky publicly condemned two rival Ukrainian spy agencies after their operatives opened fire on each other on the streets of Kyiv during an operation reportedly aimed at foiling a Russian terrorist plot."
+        },
+        {
+          "date": "2026-09-03",
+          "edition": "evening",
+          "update": "Moldova's national security advisor warned that Russian strikes on Ukrainian-Moldovan border infrastructure are targeting grain export corridors to European markets. A Russian nuclear chief, identified by Ukrainian security services as having ordered a strike on a Ukrainian children's hospital, was shot in the head in an attempted assassination. Ukraine has shifted tactics to strike Russian space programme infrastructure, including sites near Moscow and the Plesetsk cosmodrome, to degrade Russia's space-based military capabilities. Britain summoned the Russian chargé d'affaires in response to the Leipzig airport attack. President Trump announced the U.S. will seek back payment from European countries for aid previously provided to Ukraine."
         }
       ],
       "parentId": null
@@ -2366,6 +2376,11 @@
           "date": "2026-09-03",
           "edition": "morning",
           "update": "Iran warned the United States against allowing Israel to strike a Hezbollah-held ridge in south Lebanon, according to sources cited by Reuters."
+        },
+        {
+          "date": "2026-09-03",
+          "edition": "evening",
+          "update": "Three Lebanese farmers were detained by Israeli forces, according to a village leader, with the incident reported to the U.S.-led International Monitoring and Implementation Mechanism. The Israeli military has not commented on the detentions."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3356,6 +3371,11 @@
           "date": "2026-09-03",
           "edition": "morning",
           "update": "Iran claimed to have launched attacks on U.S. military bases in Kuwait and the UAE. The U.S. military confirmed it is investigating Iranian claims that a strike hit a wedding party in Kuhestak, Iran; Iran's Red Crescent urged the ICC to investigate the incident, stating four people were killed and 67 wounded. Trump said the U.S. is prepared to strike Iran 'anytime we want,' characterizing Iran's actions as a 'very heavy attack.'"
+        },
+        {
+          "date": "2026-09-03",
+          "edition": "evening",
+          "update": "The Pentagon confirmed that 'Operation Epic Fury,' the designation for ongoing Iran operations, officially ended on May 5, after an Air Force email last month instructed service members to stop using the name. Defense Secretary Pete Hegseth faces growing Republican criticism, with at least one key senator calling on Trump to replace him amid reports of plans to extend troop deployments in the Middle East. Trump hinted the U.S. would not back the UK over the Falkland Islands, suggesting Britain had not supported him during the Iran conflict. Trump is also reportedly weighing declaring the conflict with Iran over, according to Newsmax."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4243,7 +4263,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-03",
       "active": true,
       "entries": [
         {
@@ -4580,6 +4600,11 @@
           "date": "2026-09-01",
           "edition": "evening",
           "update": "Iran urged the United States to honor its commitments under the existing Memorandum of Understanding following renewed strikes in the Strait of Hormuz. The Shanghai Cooperation Organisation, at its Bishkek summit, issued a statement condemning attacks and sanctions on Iran, with SCO member state leaders convening in the aftermath of the ongoing U.S.-Iran conflict."
+        },
+        {
+          "date": "2026-09-03",
+          "edition": "evening",
+          "update": "Indian Prime Minister Modi met with Iranian officials despite warnings from the Trump administration that secondary sanctions could be imposed on Tehran's trading partners, placing India-U.S. relations under strain over India's energy and commercial ties with Iran. Reuters reported that U.S. sanctions and blockade measures are beginning to show a notable economic impact on Iran."
         }
       ]
     },
@@ -4808,7 +4833,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-08-21",
+      "lastSeen": "2026-09-03",
       "active": true,
       "entries": [
         {
@@ -4875,6 +4900,11 @@
           "date": "2026-08-21",
           "edition": "evening",
           "update": "The leaders of France, Britain, and Germany are scheduled to co-chair a meeting on Ukraine on Monday, according to Reuters."
+        },
+        {
+          "date": "2026-09-03",
+          "edition": "evening",
+          "update": "Russian President Vladimir Putin cited a chance for a peace deal on Ukraine, while Ukraine described the situation as having a 'new dynamic,' according to Reuters."
         }
       ]
     },
@@ -4883,7 +4913,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-03",
       "active": true,
       "entries": [
         {
@@ -5350,6 +5380,11 @@
           "date": "2026-09-01",
           "edition": "evening",
           "update": "Two oil tankers were attacked near Oman in the Strait of Hormuz on Monday, the latest in a series of incidents targeting vessels in the Persian Gulf, with oil prices rising more than 2 percent following the attacks."
+        },
+        {
+          "date": "2026-09-03",
+          "edition": "evening",
+          "update": "Oil prices climbed to fresh six-week highs as Middle East tensions continued to escalate, with both Newsmax and Reuters reporting price increases driven by the ongoing conflict."
         }
       ]
     },
@@ -6194,5 +6229,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-03T11:04:11.302Z"
+  "updatedAt": "2026-09-03T21:10:15.286Z"
 }
