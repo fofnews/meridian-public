@@ -354,7 +354,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-16",
+      "lastSeen": "2026-09-04",
       "active": true,
       "entries": [
         {
@@ -481,6 +481,11 @@
           "date": "2026-08-16",
           "edition": "morning",
           "update": "A false claim that Iran had declared itself a nuclear power originated from a dubious post on X and spread from India to Washington, with the New York Times tracing how the misinformation ricocheted across platforms and into public discourse."
+        },
+        {
+          "date": "2026-09-04",
+          "edition": "evening",
+          "update": "The U.S. and its allies are pushing the IAEA Board of Governors to refer Iran to the UN Security Council, according to diplomats cited by Reuters."
         }
       ],
       "parentId": null
@@ -1176,6 +1181,11 @@
           "date": "2026-09-04",
           "edition": "morning",
           "update": "Russia has intensified drone and missile attacks on Kyiv, conducting round-the-clock strikes that have triggered constant air-raid sirens and disrupted daily life in the Ukrainian capital, according to ABC News. The Washington Post published an opinion piece arguing that America's reduced engagement is creating conditions that could lead to a major war in Europe."
+        },
+        {
+          "date": "2026-09-04",
+          "edition": "evening",
+          "update": "Jared Kushner and Steve Witkoff, Trump's special envoy, are traveling to both Russia and Ukraine to discuss peace, with plans to meet the presidents of both countries. President Zelensky separately confirmed that Russia conducted a drone attack on a security facility in Kyiv."
         }
       ],
       "parentId": null
@@ -1899,7 +1909,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "active": true,
       "entries": [
         {
@@ -2391,6 +2401,11 @@
           "date": "2026-09-03",
           "edition": "evening",
           "update": "Three Lebanese farmers were detained by Israeli forces, according to a village leader, with the incident reported to the U.S.-led International Monitoring and Implementation Mechanism. The Israeli military has not commented on the detentions."
+        },
+        {
+          "date": "2026-09-04",
+          "edition": "evening",
+          "update": "Israel released four Lebanese prisoners in a Red Cross-mediated handover, with Lebanese President Joseph Aoun praising the release and thanking President Trump. Israel has also captured a strategic ridge in southern Lebanon, further consolidating its military foothold in the country as peace brokering efforts have stalled, according to the New York Times."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3391,6 +3406,11 @@
           "date": "2026-09-04",
           "edition": "morning",
           "update": "Vice President Vance held the first White House press briefing since Karoline Leavitt departed as press secretary, stating he would not characterize the US-Iran conflict as a war and declining to provide a timeline for its end, saying that decision is up to Iran. Vance said he is 'extremely skeptical' of reports that a U.S. missile struck a gathering in southern Iran, though Reuters analysis indicated the deadly strike on the Iranian wedding was likely caused by a direct hit from a U.S. munition. Iran's First Vice President Mohammad Reza Aref vowed an 'asymmetrical' and 'multi-layered' response to U.S. attacks, while the U.S. ruled out holding talks with Iran until ship attacks cease. Oil prices were on track for their steepest weekly gain since mid-July amid the escalating tensions. A former U.S. intelligence official told Newsweek that the U.S. is increasingly overstretched between its two active conflicts, while a human rights activist warned that Iran's regime deliberately prolongs tensions with the U.S. as a strategy to suppress internal dissent."
+        },
+        {
+          "date": "2026-09-04",
+          "edition": "evening",
+          "update": "U.S. diesel prices hit an all-time high and gasoline prices set a new record for Labor Day weekend amid ongoing conflict with Iran. The U.S. imposed sanctions on a Turkish bank and two of its subsidiaries as part of efforts to pressure Iran. U.S. intelligence has assessed that Iran has emerged from six months of conflict with a significantly improved understanding of its own capabilities and the limits of American power, according to the New York Times. Analysts cited by Al Jazeera said rising fuel prices and public opposition to the conflict may pressure Trump to de-escalate ahead of U.S. midterm elections."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4930,6 +4950,11 @@
           "date": "2026-09-04",
           "edition": "morning",
           "update": "Kyrylo Budanov, Ukraine's decorated former military spy chief, has voiced support for a negotiated settlement with Russia, according to the NY Times, as peace talks are expected to resume later in the month."
+        },
+        {
+          "date": "2026-09-04",
+          "edition": "evening",
+          "update": "U.S. envoys are headed to Russia and Ukraine to relaunch mediation efforts, raising hopes of progress toward a ceasefire settlement, according to Al Jazeera."
         }
       ]
     },
@@ -5415,6 +5440,11 @@
           "date": "2026-09-04",
           "edition": "morning",
           "update": "South Korea is preparing to deploy military forces to the Strait of Hormuz, according to media reports cited by Reuters."
+        },
+        {
+          "date": "2026-09-04",
+          "edition": "evening",
+          "update": "Houthi forces are pushing toward the port city near the Bab al-Mandab Strait, with ground fighting killing at least 100 people as the militia advances on the critical trade chokepoint, according to Al Jazeera and the New York Times."
         }
       ]
     },
@@ -6259,5 +6289,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-04T11:10:20.603Z"
+  "updatedAt": "2026-09-04T21:08:34.660Z"
 }
