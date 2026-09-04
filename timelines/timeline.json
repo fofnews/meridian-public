@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "active": true,
       "entries": [
         {
@@ -341,6 +341,11 @@
           "date": "2026-09-03",
           "edition": "evening",
           "update": "Leon Black filed a lawsuit seeking to block the House Oversight Committee from enforcing subpoenas demanding he testify and produce documents, including nondisclosure agreements, as part of its congressional investigation into Jeffrey Epstein. Black's lawsuit, filed on a Thursday, argues the subpoenas are invalid."
+        },
+        {
+          "date": "2026-09-04",
+          "edition": "morning",
+          "update": "A scientific journal retracted a paper on procrastination co-authored by a professor linked to Jeffrey Epstein, following scrutiny over research data described as raising 'red flags.'"
         }
       ],
       "parentId": null
@@ -484,7 +489,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "active": true,
       "entries": [
         {
@@ -1166,6 +1171,11 @@
           "date": "2026-09-03",
           "edition": "evening",
           "update": "Moldova's national security advisor warned that Russian strikes on Ukrainian-Moldovan border infrastructure are targeting grain export corridors to European markets. A Russian nuclear chief, identified by Ukrainian security services as having ordered a strike on a Ukrainian children's hospital, was shot in the head in an attempted assassination. Ukraine has shifted tactics to strike Russian space programme infrastructure, including sites near Moscow and the Plesetsk cosmodrome, to degrade Russia's space-based military capabilities. Britain summoned the Russian chargé d'affaires in response to the Leipzig airport attack. President Trump announced the U.S. will seek back payment from European countries for aid previously provided to Ukraine."
+        },
+        {
+          "date": "2026-09-04",
+          "edition": "morning",
+          "update": "Russia has intensified drone and missile attacks on Kyiv, conducting round-the-clock strikes that have triggered constant air-raid sirens and disrupted daily life in the Ukrainian capital, according to ABC News. The Washington Post published an opinion piece arguing that America's reduced engagement is creating conditions that could lead to a major war in Europe."
         }
       ],
       "parentId": null
@@ -2389,7 +2399,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "active": true,
       "entries": [
         {
@@ -3376,6 +3386,11 @@
           "date": "2026-09-03",
           "edition": "evening",
           "update": "The Pentagon confirmed that 'Operation Epic Fury,' the designation for ongoing Iran operations, officially ended on May 5, after an Air Force email last month instructed service members to stop using the name. Defense Secretary Pete Hegseth faces growing Republican criticism, with at least one key senator calling on Trump to replace him amid reports of plans to extend troop deployments in the Middle East. Trump hinted the U.S. would not back the UK over the Falkland Islands, suggesting Britain had not supported him during the Iran conflict. Trump is also reportedly weighing declaring the conflict with Iran over, according to Newsmax."
+        },
+        {
+          "date": "2026-09-04",
+          "edition": "morning",
+          "update": "Vice President Vance held the first White House press briefing since Karoline Leavitt departed as press secretary, stating he would not characterize the US-Iran conflict as a war and declining to provide a timeline for its end, saying that decision is up to Iran. Vance said he is 'extremely skeptical' of reports that a U.S. missile struck a gathering in southern Iran, though Reuters analysis indicated the deadly strike on the Iranian wedding was likely caused by a direct hit from a U.S. munition. Iran's First Vice President Mohammad Reza Aref vowed an 'asymmetrical' and 'multi-layered' response to U.S. attacks, while the U.S. ruled out holding talks with Iran until ship attacks cease. Oil prices were on track for their steepest weekly gain since mid-July amid the escalating tensions. A former U.S. intelligence official told Newsweek that the U.S. is increasingly overstretched between its two active conflicts, while a human rights activist warned that Iran's regime deliberately prolongs tensions with the U.S. as a strategy to suppress internal dissent."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4240,7 +4255,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "active": true
     },
     {
@@ -4708,7 +4723,7 @@
       "title": "Cuba Military Intervention",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-04-29",
-      "lastSeen": "2026-08-10",
+      "lastSeen": "2026-09-04",
       "active": true,
       "entries": [
         {
@@ -4770,6 +4785,11 @@
           "date": "2026-08-10",
           "edition": "evening",
           "update": "A Cuba expert assessed for the Washington Examiner that the Trump administration is more likely to escalate economic and political pressure on Cuba than to pursue military intervention in the near term."
+        },
+        {
+          "date": "2026-09-04",
+          "edition": "morning",
+          "update": "The U.S. imposed a new round of sanctions on Cuba, while Cuba announced new pro-market reforms amid ongoing threats of military action from the Trump administration."
         }
       ]
     },
@@ -4833,7 +4853,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "active": true,
       "entries": [
         {
@@ -4905,6 +4925,11 @@
           "date": "2026-09-03",
           "edition": "evening",
           "update": "Russian President Vladimir Putin cited a chance for a peace deal on Ukraine, while Ukraine described the situation as having a 'new dynamic,' according to Reuters."
+        },
+        {
+          "date": "2026-09-04",
+          "edition": "morning",
+          "update": "Kyrylo Budanov, Ukraine's decorated former military spy chief, has voiced support for a negotiated settlement with Russia, according to the NY Times, as peace talks are expected to resume later in the month."
         }
       ]
     },
@@ -4913,7 +4938,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-04",
       "active": true,
       "entries": [
         {
@@ -5385,6 +5410,11 @@
           "date": "2026-09-03",
           "edition": "evening",
           "update": "Oil prices climbed to fresh six-week highs as Middle East tensions continued to escalate, with both Newsmax and Reuters reporting price increases driven by the ongoing conflict."
+        },
+        {
+          "date": "2026-09-04",
+          "edition": "morning",
+          "update": "South Korea is preparing to deploy military forces to the Strait of Hormuz, according to media reports cited by Reuters."
         }
       ]
     },
@@ -6229,5 +6259,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-03T21:10:15.286Z"
+  "updatedAt": "2026-09-04T11:10:20.603Z"
 }
