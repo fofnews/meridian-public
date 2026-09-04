@@ -514,5 +514,45 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-04T07:15:01.208Z"
+  },
+  {
+    "title": "2 trapped workers rescued from a hydropower tunnel 9 days after Nepal floods",
+    "description": "Rescuers in Nepal have pulled two workers alive from a hydropower tunnel, raising hopes of reaching a dozen others believed to be trapped nine days after catastrophic floods devastated towns and swept away villages",
+    "link": "https://abcnews.com/International/wireStory/2-trapped-workers-rescued-alive-tunnel-nepal-officials-136193461",
+    "pubDate": "Fri, 04 Sep 2026 02:50:03 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-09-04T07:30:01.454Z"
+  },
+  {
+    "title": "Russia shifts tactics with round-the-clock attacks on Kyiv, disrupting daily life",
+    "description": "Russian drone and missile attacks in Kyiv have intensified, disrupting daily life with constant air-raid sirens",
+    "link": "https://abcnews.com/International/wireStory/russia-shifts-tactics-round-clock-attacks-kyiv-disrupting-136194285",
+    "pubDate": "Fri, 04 Sep 2026 02:38:41 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-09-04T07:30:01.454Z"
+  },
+  {
+    "title": "Greggs, H&M and Space NK - how to get birthday freebies and why there's a catch",
+    "description": "Cake, coffee, make-up and burgers are just some of the free things you can get on your birthday.",
+    "link": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 04 Sep 2026 07:19:06 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-04T07:30:01.454Z"
+  },
+  {
+    "title": "Severe storms smash Toronto’s 50,000-seat Rogers Stadium ahead of AC/DC concert",
+    "description": "Severe thunderstorms left a trail of damage, including significant damage to the stadium.",
+    "link": "https://nypost.com/2026/09/04/world-news/torontos-50000-seater-rogers-stadium-smashed-by-severe-storms-ahead-of-ac-dc-concert/",
+    "pubDate": "Fri, 04 Sep 2026 03:17:18 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-04T07:30:01.454Z"
   }
 ]
