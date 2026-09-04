@@ -367,5 +367,47 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-04T06:30:01.723Z"
+  },
+  {
+    "title": "In southern Lebanon, Israeli demolitions continue ‘day and night’",
+    "description": "Explosions shake the ground in Froun as Israeli operations persist, disrupting daily life in southern Lebanon.",
+    "link": "https://www.aljazeera.com/features/2026/9/4/in-southern-lebanon-israeli-demolitions-continue-day-and-night?traffic_source=rss",
+    "pubDate": "Fri, 04 Sep 2026 06:24:55 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-04T06:45:02.113Z"
+  },
+  {
+    "title": "Houthi attacks on Yemen’s Taiz escalate, triggering new displacement wave",
+    "description": "Government-Houthi clashes in Taiz intensify, displacing thousands and threatening vital roadways to the Red Sea coast.",
+    "link": "https://www.aljazeera.com/news/2026/9/4/houthi-attacks-on-yemens-taiz-escalate-triggering-new-displacement-wave?traffic_source=rss",
+    "pubDate": "Fri, 04 Sep 2026 06:22:44 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-04T06:45:02.113Z"
+  },
+  {
+    "title": "After Gen Z, India’s Gen Alpha rises, demanding education reforms",
+    "description": "School students across multiple states have held protests in recent weeks, seeking better conditions.",
+    "link": "https://www.aljazeera.com/news/2026/9/4/after-gen-z-indias-gen-alpha-rises-demanding-education-reforms?traffic_source=rss",
+    "pubDate": "Fri, 04 Sep 2026 06:20:33 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-04T06:45:02.113Z"
+  },
+  {
+    "title": "Colorado edges Georgia Tech in thriller: ‘I never doubted it’",
+    "description": "Colorado scored a touchdown with 42 seconds remaining, lifting the Buffaloes to a last-minute, 14-13 win against Georgia Tech on Thursday night.",
+    "link": "https://nypost.com/2026/09/04/sports/colorado-edges-georgia-tech-in-thriller-i-never-doubted-it/",
+    "pubDate": "Fri, 04 Sep 2026 02:33:58 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-04T06:45:02.113Z"
   }
 ]
