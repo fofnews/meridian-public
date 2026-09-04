@@ -554,5 +554,36 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-04T07:30:01.454Z"
+  },
+  {
+    "title": "Two trapped workers are pulled alive from Nepal tunnel more than a week after deadly floods",
+    "description": "At least 557 workers are missing from a hydropower project along the Trishuli River, with about 115 believed to be trapped in the main tunnel.",
+    "link": "https://www.nbcnews.com/world/asia/two-trapped-workers-rescued-alive-tunnel-nepal-rcna596050",
+    "pubDate": "Fri, 04 Sep 2026 04:27:45 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-09-04T07:45:01.342Z"
+  },
+  {
+    "title": "Why Pakistan overhauled its military command structure after five decades",
+    "description": "New legislation gives Pakistan's military chief sweeping command powers, raising questions about oversight.",
+    "link": "https://www.aljazeera.com/news/2026/9/4/why-pakistan-overhauled-its-military-command-structure-after-five-decades?traffic_source=rss",
+    "pubDate": "Fri, 04 Sep 2026 07:30:56 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-04T07:45:01.342Z"
+  },
+  {
+    "title": "Zverev goes distance to scrape into third round as upsets rock US Open",
+    "description": "Men's third seed Felix Auger-Aliassime goes out, along with sixth-seed Alex de Minaur and 13th-seed Lorenzo Musetti.",
+    "link": "https://www.aljazeera.com/sports/2026/9/4/zverev-goes-distance-to-scrape-into-third-round-as-upsets-rock-us-open?traffic_source=rss",
+    "pubDate": "Fri, 04 Sep 2026 07:27:15 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-09-04T07:45:01.342Z"
   }
 ]
