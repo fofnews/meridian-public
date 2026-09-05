@@ -1914,7 +1914,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "active": true,
       "entries": [
         {
@@ -2411,6 +2411,11 @@
           "date": "2026-09-04",
           "edition": "evening",
           "update": "Israel released four Lebanese prisoners in a Red Cross-mediated handover, with Lebanese President Joseph Aoun praising the release and thanking President Trump. Israel has also captured a strategic ridge in southern Lebanon, further consolidating its military foothold in the country as peace brokering efforts have stalled, according to the New York Times."
+        },
+        {
+          "date": "2026-09-05",
+          "edition": "evening",
+          "update": "Israel's Defence Ministry claimed operational control over the Ali al-Taher ridge in southern Lebanon, with Hezbollah yet to publicly respond to the assertion."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3421,6 +3426,11 @@
           "date": "2026-09-05",
           "edition": "morning",
           "update": "Explosions were heard near Iran's Kharg Island in the Gulf, with the origin reported as unknown, according to Iran's Fars news agency. First Lt. Tyler James Feehan, 25, was killed at an air base in Jordan after it was struck by enemy missiles and drones, making him one of 18 Americans killed since the conflict began, according to the New York Times."
+        },
+        {
+          "date": "2026-09-05",
+          "edition": "evening",
+          "update": "U.S. Central Command confirmed strikes on three Islamic Revolutionary Guard Corps crude oil tankers on Saturday, with at least one targeted near Kharg Island. The U.S. framed the strikes as retaliation for Iranian ballistic missile attacks on two U.S. Navy warships that preceded the strikes."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4660,6 +4670,11 @@
           "date": "2026-09-05",
           "edition": "morning",
           "update": "Iran's fuel reserves have fallen to approximately a two-month supply amid ongoing U.S. sanctions and military pressure, raising concerns about a potential economic crisis, according to the New York Post."
+        },
+        {
+          "date": "2026-09-05",
+          "edition": "evening",
+          "update": "Iranian President Pezeshkian called for national unity amid intensifying U.S. economic pressure, while Iranian authorities warned that adversaries are attempting to exploit rising public discontent to foment domestic unrest."
         }
       ]
     },
@@ -4839,7 +4854,7 @@
       "parentId": null,
       "firstSeen": "2026-05-02",
       "lastSeen": "2026-05-28",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-05-02",
@@ -6319,5 +6334,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-05T11:06:27.809Z"
+  "updatedAt": "2026-09-05T21:07:56.371Z"
 }
