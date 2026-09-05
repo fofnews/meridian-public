@@ -193,5 +193,45 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-05T05:30:01.889Z"
+  },
+  {
+    "title": "Cleveland police chief proud of force but being 'let down' by funding",
+    "description": "Victoria Fuller tells the BBC Cleveland Police needs to become part of a larger, strategic force with greater resources.",
+    "link": "https://www.bbc.co.uk/news/articles/cqlw67ngpp1o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 05 Sep 2026 05:40:03 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-05T05:45:01.439Z"
+  },
+  {
+    "title": "US imposes sanctions on Turkish bank, prompting legal threat",
+    "description": "US sanctions Turkish bank over alleged IRGC ties, accusing it of facilitating millions in transactions for Iran.",
+    "link": "https://www.aljazeera.com/news/2026/9/5/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat?traffic_source=rss",
+    "pubDate": "Sat, 05 Sep 2026 05:19:05 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-05T05:45:01.439Z"
+  },
+  {
+    "title": "Families of missing Ecuadorian fishermen allege US involvement",
+    "description": "Families of eight Ecuadorian fishermen who vanished after reporting US surveillance at sea are demanding answers.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/families-of-missing-ecuadorian-fishermen-allege-us-involvement?traffic_source=rss",
+    "pubDate": "Sat, 05 Sep 2026 05:08:15 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-09-05T05:45:01.439Z"
+  },
+  {
+    "title": "Police release video of finding murdered Pennsylvania college student in back of car",
+    "description": "The 37-minute video released Thursday is from an officer’s body-worn camera.",
+    "link": "https://nypost.com/2026/09/05/us-news/pennsylvania-college-student-karoline-heintz-discovery-police-bodycam-footage-released/",
+    "pubDate": "Sat, 05 Sep 2026 01:32:01 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-05T05:45:01.439Z"
   }
 ]
