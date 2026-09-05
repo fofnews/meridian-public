@@ -439,5 +439,43 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-05T08:00:01.407Z"
+  },
+  {
+    "title": "Masked protesters block access at Port of Dover",
+    "description": "Masked protesters are preventing traffic from going in and out of the Port of Dover.",
+    "link": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 05 Sep 2026 08:14:20 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-05T08:15:01.658Z"
+  },
+  {
+    "title": "Niger accuses France of orchestrating failed military mutiny",
+    "description": "Niger has blamed France for inciting an attack on a key military airbase by mutinous soldiers last week.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/niger-accuses-france-of-orchestrating-failed-military-mutiny?traffic_source=rss",
+    "pubDate": "Sat, 05 Sep 2026 07:42:59 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-09-05T08:15:01.658Z"
+  },
+  {
+    "title": "Tyler Cowen: Is College Still Worth It? - The Free Press",
+    "description": "Tyler Cowen: Is College Still Worth It?  The Free Press",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcEhJYmZHOHdoaEo4b2JLQWN3NDgzNkxQNk9zM2tIaWxxbHpyb25kN3E5VzM5WjhwTGI0b1FHVGtkYmZGbnVPR3Z0SW1tU1hITE1lNmtoMXhmVmNjQlJfT0hWWHdkazFQZFpQODcxOXA4TzdmR3UyeU94N2dpSGlwS0NlS2dsaWtEbUx3MkhxZkp2U1FuUVlUanRR?oc=5",
+    "pubDate": "Sat, 05 Sep 2026 08:05:47 GMT",
+    "source": "The Free Press",
+    "categories": [],
+    "collectedAt": "2026-09-05T08:15:01.658Z"
+  },
+  {
+    "title": "Marijuana users may face hidden driving danger that standard tests can miss",
+    "description": "Researchers found that drivers who consumed higher doses of edible THC struggled with lane control and had slower reaction times.",
+    "link": "https://nypost.com/2026/09/05/health/marijuana-users-may-face-driving-danger-that-standard-tests-can-miss/",
+    "pubDate": "Sat, 05 Sep 2026 04:04:51 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-05T08:15:01.658Z"
   }
 ]
