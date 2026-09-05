@@ -1414,7 +1414,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-27",
+      "lastSeen": "2026-09-05",
       "active": true,
       "entries": [
         {
@@ -1731,6 +1731,11 @@
           "date": "2026-08-27",
           "edition": "morning",
           "update": "Reuters identified six key consequences emerging from six months of war in Iran, marking a significant milestone in the ongoing conflict."
+        },
+        {
+          "date": "2026-09-05",
+          "edition": "morning",
+          "update": "Israeli police shot and killed a Palestinian in Jerusalem, while Israeli forces blocked activists from delivering aid to homes in Qusra besieged by settlers. The U.S. ambassador visited a Palestinian town in the West Bank amid a reported rise in settler violence, according to Reuters."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2414,7 +2419,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "active": true,
       "entries": [
         {
@@ -3411,6 +3416,11 @@
           "date": "2026-09-04",
           "edition": "evening",
           "update": "U.S. diesel prices hit an all-time high and gasoline prices set a new record for Labor Day weekend amid ongoing conflict with Iran. The U.S. imposed sanctions on a Turkish bank and two of its subsidiaries as part of efforts to pressure Iran. U.S. intelligence has assessed that Iran has emerged from six months of conflict with a significantly improved understanding of its own capabilities and the limits of American power, according to the New York Times. Analysts cited by Al Jazeera said rising fuel prices and public opposition to the conflict may pressure Trump to de-escalate ahead of U.S. midterm elections."
+        },
+        {
+          "date": "2026-09-05",
+          "edition": "morning",
+          "update": "Explosions were heard near Iran's Kharg Island in the Gulf, with the origin reported as unknown, according to Iran's Fars news agency. First Lt. Tyler James Feehan, 25, was killed at an air base in Jordan after it was struck by enemy missiles and drones, making him one of 18 Americans killed since the conflict began, according to the New York Times."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3704,7 +3714,7 @@
       "id": "cuba-energy-crisis",
       "title": "Cuba Energy Crisis",
       "firstSeen": "2026-03-16",
-      "lastSeen": "2026-08-11",
+      "lastSeen": "2026-09-05",
       "active": true,
       "entries": [
         {
@@ -3916,6 +3926,11 @@
           "date": "2026-08-11",
           "edition": "evening",
           "update": "Reuters reports that U.S. fuel sales to Cuban businesses have begun, bringing a new commercial arrangement between American suppliers and Cuban enterprises to Havana."
+        },
+        {
+          "date": "2026-09-05",
+          "edition": "morning",
+          "update": "The U.S. Embassy in Havana issued a health alert for Cuba as U.S. sanctions continue to limit imports to the island, according to the Washington Post."
         }
       ],
       "parentId": null
@@ -4275,7 +4290,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "active": true
     },
     {
@@ -4298,7 +4313,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-09-03",
+      "lastSeen": "2026-09-05",
       "active": true,
       "entries": [
         {
@@ -4640,6 +4655,11 @@
           "date": "2026-09-03",
           "edition": "evening",
           "update": "Indian Prime Minister Modi met with Iranian officials despite warnings from the Trump administration that secondary sanctions could be imposed on Tehran's trading partners, placing India-U.S. relations under strain over India's energy and commercial ties with Iran. Reuters reported that U.S. sanctions and blockade measures are beginning to show a notable economic impact on Iran."
+        },
+        {
+          "date": "2026-09-05",
+          "edition": "morning",
+          "update": "Iran's fuel reserves have fallen to approximately a two-month supply amid ongoing U.S. sanctions and military pressure, raising concerns about a potential economic crisis, according to the New York Post."
         }
       ]
     },
@@ -4819,7 +4839,7 @@
       "parentId": null,
       "firstSeen": "2026-05-02",
       "lastSeen": "2026-05-28",
-      "active": false,
+      "active": true,
       "entries": [
         {
           "date": "2026-05-02",
@@ -4873,7 +4893,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-05",
       "active": true,
       "entries": [
         {
@@ -4955,6 +4975,11 @@
           "date": "2026-09-04",
           "edition": "evening",
           "update": "U.S. envoys are headed to Russia and Ukraine to relaunch mediation efforts, raising hopes of progress toward a ceasefire settlement, according to Al Jazeera."
+        },
+        {
+          "date": "2026-09-05",
+          "edition": "morning",
+          "update": "Steve Witkoff and Jared Kushner traveled to Moscow as part of efforts to restart peace negotiations, with plans to continue to Kyiv afterward."
         }
       ]
     },
@@ -5853,7 +5878,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-08-27",
+      "lastSeen": "2026-09-05",
       "active": true,
       "entries": [
         {
@@ -6030,6 +6055,11 @@
           "date": "2026-08-27",
           "edition": "morning",
           "update": "The U.S. official leading President Trump's Gaza ceasefire effort publicly criticized Israel for its attacks on Gaza and warned that rejecting the U.S. proposal risks leading to a future war, according to NPR. Analysts warn that weeks of Houthi attacks on Saudi targets have pushed Saudi Arabia and the Iranian-backed militia to the brink of full-blown conflict, potentially opening a new front in broader Iran-related hostilities, according to the NY Times. Senator Chris Van Hollen is leading a group of Senate Democrats to force a vote on Israel's human rights practices, focused on violence against Palestinians in the Israeli-occupied West Bank."
+        },
+        {
+          "date": "2026-09-05",
+          "edition": "morning",
+          "update": "A new flotilla mission has set sail for Gaza, according to Al Jazeera, with human rights advocates calling for diplomatic measures to guarantee the flotilla's safety and end Israel's blockade."
         }
       ]
     },
@@ -6289,5 +6319,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-04T21:08:34.660Z"
+  "updatedAt": "2026-09-05T11:06:27.809Z"
 }
