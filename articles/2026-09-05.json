@@ -778,5 +778,235 @@
     "source": "Newsweek",
     "categories": [],
     "collectedAt": "2026-09-05T09:45:01.534Z"
+  },
+  {
+    "title": "Inside the D.O.J.’s Investigation of Fauci and Other Virus Scientists",
+    "description": "As Dr. Anthony Fauci has faced public scrutiny from congressional Republicans, the D.O.J. has pursued a quieter and more expansive effort against a wider circle of researchers.",
+    "link": "https://www.nytimes.com/2026/09/05/health/fauci-morens-covid-prosecutions.html",
+    "pubDate": "Sat, 05 Sep 2026 09:00:49 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "coronavirus (2019-ncov)",
+      "presidential election of 2024",
+      "disease rates",
+      "research",
+      "ethics and official misconduct",
+      "epidemics",
+      "science and technology",
+      "academic freedom",
+      "rumors and misinformation",
+      "coronavirus origins investigation",
+      "politics and government",
+      "wildlife trade and poaching",
+      "deaths (fatalities)",
+      "medicine and health",
+      "subpoenas",
+      "ecohealth alliance",
+      "federal bureau of investigation",
+      "national institute of allergy and infectious diseases",
+      "national institutes of health",
+      "republican party",
+      "university of north carolina",
+      "baric, ralph steven",
+      "chan, alina",
+      "fauci, anthony s",
+      "kennedy, robert f jr",
+      "morens, david m",
+      "trump, donald j",
+      "relman, david a",
+      "china",
+      "united states"
+    ],
+    "collectedAt": "2026-09-05T10:00:01.384Z"
+  },
+  {
+    "title": "What the War in Iran Has Cost One Gold Star Family",
+    "description": "First Lt. Tyler James Feehan, who was 25, had been deployed to an air base in Jordan when enemy missiles and drones lit up the sky. He is among the 18 Americans who have died since the war began.",
+    "link": "https://www.nytimes.com/2026/09/05/us/politics/feehans-iran-war-family.html",
+    "pubDate": "Sat, 05 Sep 2026 09:02:53 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "united states defense and military forces",
+      "united states politics and government",
+      "military bases and installations",
+      "drones (pilotless planes)",
+      "defense and military forces",
+      "defense department",
+      "united states central command",
+      "trump, donald j",
+      "cobb county (ga)",
+      "dover air force base (del)",
+      "fort bragg (nc)",
+      "georgia",
+      "iran",
+      "jordan"
+    ],
+    "collectedAt": "2026-09-05T10:00:01.384Z"
+  },
+  {
+    "title": "Flee, Hide or Sit Tight? Russians Are on Edge Over Rumors of a Draft.",
+    "description": "The Kremlin has denied that a mass mobilization is being prepared, but some military-age men are taking no chances.",
+    "link": "https://www.nytimes.com/2026/09/05/world/europe/russia-war-mobilization-draft.html",
+    "pubDate": "Sat, 05 Sep 2026 09:02:35 +0000",
+    "source": "NY Times",
+    "categories": [
+      "russian invasion of ukraine (2022)",
+      "draft and recruitment (military)",
+      "putin, vladimir v",
+      "russia"
+    ],
+    "collectedAt": "2026-09-05T10:00:01.384Z"
+  },
+  {
+    "title": "What Will Happen to Lindsay Clancy in the Long Term?",
+    "description": "Even as a jury failed to reach a verdict in Lindsay Clancy’s murder trial, her future is unlikely to include freedom, at least for a long time. But Americans have been divided over the goal of her confinement.",
+    "link": "https://www.nytimes.com/2026/09/05/us/lindsay-clancy-psychiatric-hospital.html",
+    "pubDate": "Sat, 05 Sep 2026 09:04:11 +0000",
+    "source": "NY Times",
+    "categories": [
+      "mental health and disorders",
+      "psychiatry and psychiatrists",
+      "decisions and verdicts",
+      "pregnancy and childbirth",
+      "clancy, lindsay (1990- )",
+      "massachusetts"
+    ],
+    "collectedAt": "2026-09-05T10:00:01.384Z"
+  },
+  {
+    "title": "What Led to Maria Bartiromo’s Downfall at Fox News",
+    "description": "The network this week took Maria Bartiromo off the air, pulling one of the last hosts whose coverage of Dominion Voting Systems drew an expensive defamation lawsuit.",
+    "link": "https://www.nytimes.com/2026/09/05/business/media/maria-bartiromo-fox-news.html",
+    "pubDate": "Sat, 05 Sep 2026 09:04:10 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "television",
+      "news and news media",
+      "ethics and official misconduct",
+      "midterm elections (2026)",
+      "presidential election of 2020",
+      "voter fraud (election fraud)",
+      "rumors and misinformation",
+      "fox news channel",
+      "fox business network",
+      "dominion voting systems corp",
+      "smartmatic sgo group",
+      "bartiromo, maria",
+      "navarro, peter"
+    ],
+    "collectedAt": "2026-09-05T10:00:01.384Z"
+  },
+  {
+    "title": "In Red States, Law-and-Order Republicans Turn Against Flock Cameras",
+    "description": "The governors of Texas and Florida have taken steps to curtail the use of license-plate readers, even as the police say they help with solving crime.",
+    "link": "https://www.nytimes.com/2026/09/05/us/red-states-republicans-flock-cameras.html",
+    "pubDate": "Sat, 05 Sep 2026 09:02:36 +0000",
+    "source": "NY Times",
+    "categories": [
+      "flock group inc",
+      "surveillance of citizens by government",
+      "cameras"
+    ],
+    "collectedAt": "2026-09-05T10:00:01.384Z"
+  },
+  {
+    "title": "Appeals Court Maintains Block on Federal Voter Identification Tool",
+    "description": "A federal appeals court panel declined to let Homeland Security reopen access to a voter-screening tool that incorporated Social Security data.",
+    "link": "https://www.nytimes.com/2026/09/05/us/elections/appeals-court-voter-data.html",
+    "pubDate": "Sat, 05 Sep 2026 05:11:47 +0000",
+    "source": "NY Times",
+    "categories": [
+      "decisions and verdicts",
+      "federal-state relations (us)",
+      "united states politics and government",
+      "illegal immigration",
+      "midterm elections (2026)",
+      "voting rights, registration and requirements",
+      "homeland security department",
+      "postal service (us)",
+      "katsas, gregory g",
+      "trump, donald j",
+      "srinivasan, sri",
+      "wilkins, robert l"
+    ],
+    "collectedAt": "2026-09-05T10:00:01.384Z"
+  },
+  {
+    "title": "How Naomi Osaka Became the Fashion Queen of the Tennis Court",
+    "description": "At the U.S. Open she is playing a whole new style game.",
+    "link": "https://www.nytimes.com/2026/09/05/style/naomi-osaka-fashion-us-open.html",
+    "pubDate": "Sat, 05 Sep 2026 09:00:10 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states open (tennis)",
+      "tennis",
+      "fashion and apparel",
+      "osaka, naomi (1997- )",
+      "iverson, allen",
+      "flushing (queens, ny)",
+      "your-feed-fashion"
+    ],
+    "collectedAt": "2026-09-05T10:00:01.384Z"
+  },
+  {
+    "title": "Harlan Coben’s New Book Is a Tough-Talking Writing Guide",
+    "description": "Even a very successful thriller writer fights self-doubt. His new tough-talking writing guide doubles as a memoir that explains why, and how to beat it.",
+    "link": "https://www.nytimes.com/2026/09/05/books/review/harlan-coben-plot-twist-writing-guide.html",
+    "pubDate": "Sat, 05 Sep 2026 09:01:57 +0000",
+    "source": "NY Times",
+    "categories": [
+      "books and literature",
+      "writing and writers",
+      "coben, harlan",
+      "plot twist: life, craft, and the messy first draft: a memoir on writing (book)",
+      "new jersey"
+    ],
+    "collectedAt": "2026-09-05T10:00:01.384Z"
+  },
+  {
+    "title": "Qatar removed from Fitch’s negative watch list as risks to LNG sites ease",
+    "description": "The global ratings agency has also maintained the country’s sovereign rating at AA.",
+    "link": "https://www.aljazeera.com/economy/2026/9/5/fitch-removes-qatar-from-rating-watch-as-lng-risks-ease?traffic_source=rss",
+    "pubDate": "Sat, 05 Sep 2026 09:48:48 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-05T10:00:01.384Z"
+  },
+  {
+    "title": "Fenerbahce’s Greenwood, Guendouzi handed fines and bans after brawl at Lyon",
+    "description": "Fights between players and coaching staff broke out after the Turkish side won the Champions League playoff second leg.",
+    "link": "https://www.aljazeera.com/sports/2026/9/5/fenerbahces-greenwood-guendouzi-handed-fines-and-bans-after-brawl-at-lyon?traffic_source=rss",
+    "pubDate": "Sat, 05 Sep 2026 09:44:45 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-09-05T10:00:01.384Z"
+  },
+  {
+    "title": "American Airlines passenger duct-taped to seat after alleged racist, homophobic midair outburst",
+    "description": "Video and photos show passengers restraining a man with duct tape and zip ties on an American Airlines flight after a violent and racist midair outburst.",
+    "link": "https://www.foxnews.com/travel/american-airlines-passenger-duct-taped-seat-alleged-racist-homophobic-midair-outburst",
+    "pubDate": "Sat, 05 Sep 2026 05:37:59 -0400",
+    "source": "Fox News",
+    "categories": [
+      "ee47df94-e2bd-5d83-9ba6-1ff31f80195e",
+      "fnc",
+      "fox news",
+      "fox-news/travel/general/airlines",
+      "fox-news/travel",
+      "fox-news/tech/topics/fbi",
+      "fox-news/crime",
+      "fox-news/us",
+      "fox-news/travel/general/airports",
+      "fox-news/travel",
+      "article"
+    ],
+    "collectedAt": "2026-09-05T10:00:01.384Z"
   }
 ]
