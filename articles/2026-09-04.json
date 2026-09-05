@@ -12502,5 +12502,56 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-05T03:30:01.322Z"
+  },
+  {
+    "title": "At least two dead in blast at Bolivia military barracks",
+    "description": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
+    "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 05 Sep 2026 02:59:40 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-05T03:45:01.550Z"
+  },
+  {
+    "title": "Trump sends envoys to Russia, Ukraine with new peace plan",
+    "description": "Al Jazeera’s Kimberly Halkett reports that US President Donald Trump is sending envoys Jared Kushner and Steve Witkoff.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/trump-sends-envoys-to-russia-ukraine-with-new-peace-plan?traffic_source=rss",
+    "pubDate": "Sat, 05 Sep 2026 03:25:46 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "tv news"
+    ],
+    "collectedAt": "2026-09-05T03:45:01.550Z"
+  },
+  {
+    "title": "After Pretoria peace deal, old enemies in Ethiopia’s Tigray find new ground",
+    "description": "The 2022 peace deal ended the war but left key disputes unresolved, giving the TPLF room to regroup as tensions return.",
+    "link": "https://www.aljazeera.com/news/2026/9/5/after-pretoria-peace-deal-old-enemies-in-ethiopias-tigray-find-new-ground?traffic_source=rss",
+    "pubDate": "Sat, 05 Sep 2026 03:05:28 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-05T03:45:01.550Z"
+  },
+  {
+    "title": "All eyes were on USC to see if the Trojans could bounce back from nightmare tiny crowd at season opener",
+    "description": "USC Trojans faced more scrutiny over sparse LA Coliseum crowds against Fresno State, but the stadium filled out by the second quarter on Friday.",
+    "link": "https://www.foxnews.com/outkick-sports/usc-trojans-bounce-back-nightmare-tiny-crowd-season-opener",
+    "pubDate": "Fri, 04 Sep 2026 23:30:19 -0400",
+    "source": "Fox News",
+    "categories": [
+      "2b7525e7-a8c6-5823-8563-d737a862fcff",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/sports/ncaa/usc-trojans",
+      "fox-news/sports/ncaa-fb",
+      "fox-news/us/los-angeles",
+      "fox-news/sports",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-09-05T03:45:01.550Z"
   }
 ]
