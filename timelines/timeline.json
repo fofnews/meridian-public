@@ -1191,6 +1191,11 @@
           "date": "2026-09-06",
           "edition": "morning",
           "update": "Odesa is set to vote on banning Russian-language content in music and literature from public spaces, according to BBC News. Secret military audits obtained by the NY Times revealed Ukraine lost $1.2 billion to fraud and mismanagement in its military procurement system in 2024 alone."
+        },
+        {
+          "date": "2026-09-06",
+          "edition": "evening",
+          "update": "Energy Secretary Chris Wright stated on CNN's 'State of the Union' that Ukrainian strikes on Russian refineries are the 'single biggest factor' driving record diesel prices, identifying the Russia-Ukraine war as the primary cause of the historic price increase."
         }
       ],
       "parentId": null
@@ -3446,6 +3451,11 @@
           "date": "2026-09-06",
           "edition": "morning",
           "update": "Iran's Revolutionary Guard fired ballistic missiles at a U.S. aircraft carrier and a guided-missile destroyer, prompting U.S. strikes on the three IRGC tankers. A fuel tanker explosion on Iran's Hamedan-Sanandaj highway killed at least 10 people and injured six others. CBS News linked surging diesel prices to the Iran conflict, with American truck drivers and travelers facing all-time highs."
+        },
+        {
+          "date": "2026-09-06",
+          "edition": "evening",
+          "update": "Iran claimed responsibility for attacking an unmanned U.S. military vessel in the Strait of Hormuz and warned that any further strikes against it will be 'more painful,' according to Reuters. A Washington Post report found that a deadly strike on an Iranian wedding was likely caused by a U.S. bomb missing a nearby intended target. A new NBC News poll showed strong Republican approval of Trump's handling of the Iran conflict has dropped sharply since spring. Former Air Force Secretary Frank Kendall III publicly questioned what advice Trump received that led him to initiate the conflict, while Rep. Mike Lawler (R-N.Y.) broke with Trump on CNN, calling any military escalation 'certainly not small potatoes.'"
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4695,6 +4705,11 @@
           "date": "2026-09-06",
           "edition": "morning",
           "update": "Russian presidential foreign-policy adviser Yuri Ushakov described the Putin-Witkoff-Kushner talks as 'highly useful,' saying the Americans outlined ideas for possible avenues toward restarting Ukraine peace negotiations. Moscow has not ruled out a trilateral meeting between the presidents of Russia, the United States, and China, according to TASS."
+        },
+        {
+          "date": "2026-09-06",
+          "edition": "evening",
+          "update": "U.S. Energy Secretary Chris Wright said on ABC's 'This Week' that a nuclear agreement with Iran may not be reached, and that the alternative could be 'destroying their capabilities' to obtain a nuclear weapon."
         }
       ]
     },
@@ -5515,6 +5530,11 @@
           "date": "2026-09-06",
           "edition": "morning",
           "update": "The USS Abraham Lincoln departed Thailand following a respite visit. The U.S. military is escorting oil tankers through the Strait of Hormuz, though Iran's continued strikes on shipping are deterring some operators from using the route, according to the NY Times."
+        },
+        {
+          "date": "2026-09-06",
+          "edition": "evening",
+          "update": "The United States struck Iranian crude oil tankers, after which Iran attacked an unmanned, remotely operated U.S. vessel in the Strait of Hormuz. U.S. officials noted that Iran's leverage over the strait is diminishing as the American economic squeeze on Tehran intensifies."
         }
       ]
     },
@@ -6369,5 +6389,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-06T11:04:56.129Z"
+  "updatedAt": "2026-09-06T21:05:21.635Z"
 }
