@@ -7800,5 +7800,44 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-06T03:30:02.483Z"
+  },
+  {
+    "title": "Michigan Wolverines fend off shocking upset bid from Western Michigan in early season thriller",
+    "description": "Michigan football nearly relived its Appalachian State nightmare as Western Michigan led 12-7 before Bryce Underwood's 46-yard Hail Mary saved the day.",
+    "link": "https://www.foxnews.com/outkick-sports/michigan-wolverines-fend-off-shocking-upset-bid-western-michigan-early-season-thriller",
+    "pubDate": "Sat, 05 Sep 2026 23:28:10 -0400",
+    "source": "Fox News",
+    "categories": [
+      "2754a734-4771-549f-b4ed-1accbed5da77",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/sports/ncaa-fb",
+      "fox-news/sports/ncaa/michigan-wolverines",
+      "fox-news/sports/ncaa/western-michigan-broncos",
+      "fox-news/sports",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-09-06T03:45:01.069Z"
+  },
+  {
+    "title": "Independent voters increasingly identify as Democrats: Poll",
+    "description": "The percentage of independent voters who “lean more toward the Democratic Party” has ticked upwards ahead of November’s midterm elections, according to the latest quarterly party affiliation data aggregated by Gallup. Of the respondents in the Q2 survey who considered themselves neither a Republican nor a Democrat, 49% said they lean toward the Democratic Party, […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/4715260/voters-increasingly-democrat-poll/",
+    "pubDate": "Sun, 06 Sep 2026 03:28:43 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "campaigns",
+      "2026 elections",
+      "democrats",
+      "donald trump",
+      "midterm elections",
+      "polling",
+      "polls",
+      "trump administration",
+      "washington dc"
+    ],
+    "collectedAt": "2026-09-06T03:45:01.069Z"
   }
 ]
