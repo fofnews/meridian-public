@@ -78,5 +78,52 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-06T04:15:01.729Z"
+  },
+  {
+    "title": "Heathrow Airport train services resume after trackside fire disruption",
+    "description": "There were severe delays and cancellations on Saturday, with no trains between central London and the airport.",
+    "link": "https://www.bbc.co.uk/news/articles/cnvl1r1080go?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 06 Sep 2026 04:28:25 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-06T04:30:01.998Z"
+  },
+  {
+    "title": "German voters head to polls as far-right AfD party eyes historic state win",
+    "description": "Saxony-Anhalt elections could see AfD become the first far-right party to take power at a state level since WWII.",
+    "link": "https://www.aljazeera.com/news/2026/9/6/german-voters-head-to-polls-as-far-right-afd-party-eyes-historic-state-win?traffic_source=rss",
+    "pubDate": "Sun, 06 Sep 2026 04:12:18 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-06T04:30:01.998Z"
+  },
+  {
+    "title": "Dodgers finally regaining momentum after comeback win over Nationals",
+    "description": "On Friday night, Dodgers manager Dave Roberts was cautiously optimistic.",
+    "link": "https://nypost.com/2026/09/06/sports/dodgers-comeback-to-beat-nationals-build-needed-momentum/",
+    "pubDate": "Sun, 06 Sep 2026 00:29:28 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-06T04:30:01.998Z"
+  },
+  {
+    "title": "Michigan Senate candidate El-Sayed speaks at religious conference criticized for inviting 9/11 conspiracy theorists",
+    "description": "Michigan Senate hopeful Abdul El-Sayed spoke at a Detroit conference alongside 9/11 conspiracy theorists Cenk Uygur and Zaid Shakir.",
+    "link": "https://nypost.com/2026/09/06/us-news/michigan-senate-candidate-el-sayed-speaks-at-religious-conference-criticized-for-inviting-9-11-conspiracy-theorists/",
+    "pubDate": "Sun, 06 Sep 2026 00:19:06 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-06T04:30:01.998Z"
+  },
+  {
+    "title": "Coco Gauff salvages brutal day for Americans as she rolls into US Open Round of 16",
+    "description": "On a brutal day for American stars at the U.S. Open, Coco Gauff offered a bright spot.",
+    "link": "https://nypost.com/2026/09/06/sports/coco-gauff-makes-it-look-easy-as-she-rolls-into-us-open-round-of-16/",
+    "pubDate": "Sun, 06 Sep 2026 00:18:17 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-06T04:30:01.998Z"
   }
 ]
