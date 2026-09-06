@@ -1702,5 +1702,68 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-06T12:15:02.191Z"
+  },
+  {
+    "title": "U.N. backs new world map showing Africa's true size",
+    "description": "The United Nations General Assembly voted to adopt a new map that more accurately depicts Africa's size. The U.S. was the only country to vote against the map, while six other countries abstained.",
+    "link": "https://www.cbsnews.com/video/un-backs-new-world-map-showing-africas-true-size/",
+    "pubDate": "Sun, 06 Sep 2026 08:08:08 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-06T12:30:01.213Z"
+  },
+  {
+    "title": "Green Party deputy leader linked to property lets despite opposition to landlords",
+    "description": "Mothin Ali, is linked to two rental properties via his company, but does not appear to profit from them.",
+    "link": "https://www.bbc.co.uk/news/articles/clykgxp754no?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 06 Sep 2026 12:23:03 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-06T12:30:01.213Z"
+  },
+  {
+    "title": "Iran attacks US ship in Strait of Hormuz",
+    "description": "Iran has said that it attacked an American ship in the Strait of Hormuz, according to state media. Iranian state-run media outlet Press TV reported Sunday that a U.S. military vessel, which was remotely-operated, had been attacked by the Islamic Revolutionary Guard Corps (IRGC), according to the military group itself. Per an IRGC statement, the…",
+    "link": "https://thehill.com/policy/international/6073695-iran-attacks-us-vessel-strait-hormuz/",
+    "pubDate": "\n\t\tSun, 06 Sep 2026 12:10:04 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "defense",
+      "international",
+      "news",
+      "iran",
+      "iran war",
+      "strait of hormuz"
+    ],
+    "collectedAt": "2026-09-06T12:30:01.213Z"
+  },
+  {
+    "title": "‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.",
+    "description": "“It always baffled me how some people managed to retire with significant wealth.”",
+    "link": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
+    "pubDate": "Sun, 06 Sep 2026 12:15:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-09-06T12:30:01.213Z"
+  },
+  {
+    "title": "Should you use a separate computer for online banking?",
+    "description": "A dedicated banking computer isolates your financial accounts from malware and phishing, but passwords, SIM swapping and outdated software remain risks.",
+    "link": "https://www.foxnews.com/tech/should-use-separate-computer-online-banking",
+    "pubDate": "Sun, 06 Sep 2026 08:16:14 -0400",
+    "source": "Fox News",
+    "categories": [
+      "6832a3e6-373d-5c2f-a35f-82b3f8c68494",
+      "fnc",
+      "fox news",
+      "fox-news/tech/topics/cybercrime",
+      "fox-news/tech/topics/security",
+      "fox-news/tech/topics/computers",
+      "fox-news/tech/topics/hackers",
+      "fox-news/tech/topics/privacy",
+      "fox-news/tech",
+      "article"
+    ],
+    "collectedAt": "2026-09-06T12:30:01.213Z"
   }
 ]
