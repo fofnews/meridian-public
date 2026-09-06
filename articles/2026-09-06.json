@@ -216,5 +216,16 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-06T05:30:01.373Z"
+  },
+  {
+    "title": "Witkoff, Kushner meet with Putin to discuss Ukraine war",
+    "description": "Russian President Vladimir Putin spoke with U.S. special envoys Steve Witkoff and Jared Kushner for three hours Saturday about the war with Ukraine.",
+    "link": "https://abcnews.com/International/witkoff-kushner-meet-putin-discuss-ukraine-war/story?id=136231643",
+    "pubDate": "Sun, 06 Sep 2026 01:43:14 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-09-06T05:45:01.817Z"
   }
 ]
