@@ -494,7 +494,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-06",
       "active": true,
       "entries": [
         {
@@ -1186,6 +1186,11 @@
           "date": "2026-09-04",
           "edition": "evening",
           "update": "Jared Kushner and Steve Witkoff, Trump's special envoy, are traveling to both Russia and Ukraine to discuss peace, with plans to meet the presidents of both countries. President Zelensky separately confirmed that Russia conducted a drone attack on a security facility in Kyiv."
+        },
+        {
+          "date": "2026-09-06",
+          "edition": "morning",
+          "update": "Odesa is set to vote on banning Russian-language content in music and literature from public spaces, according to BBC News. Secret military audits obtained by the NY Times revealed Ukraine lost $1.2 billion to fraud and mismanagement in its military procurement system in 2024 alone."
         }
       ],
       "parentId": null
@@ -1914,7 +1919,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "active": true,
       "entries": [
         {
@@ -2416,6 +2421,11 @@
           "date": "2026-09-05",
           "edition": "evening",
           "update": "Israel's Defence Ministry claimed operational control over the Ali al-Taher ridge in southern Lebanon, with Hezbollah yet to publicly respond to the assertion."
+        },
+        {
+          "date": "2026-09-06",
+          "edition": "morning",
+          "update": "The Israeli military conducted strikes on southern Lebanon in response to Hezbollah drone launches. Netanyahu separately claimed he had ordered the bombing of Qatar and asserted that Qatari funds he facilitated sending to Gaza were used for aid and had been recommended by Israeli security agencies."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2424,7 +2434,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "active": true,
       "entries": [
         {
@@ -3431,6 +3441,11 @@
           "date": "2026-09-05",
           "edition": "evening",
           "update": "U.S. Central Command confirmed strikes on three Islamic Revolutionary Guard Corps crude oil tankers on Saturday, with at least one targeted near Kharg Island. The U.S. framed the strikes as retaliation for Iranian ballistic missile attacks on two U.S. Navy warships that preceded the strikes."
+        },
+        {
+          "date": "2026-09-06",
+          "edition": "morning",
+          "update": "Iran's Revolutionary Guard fired ballistic missiles at a U.S. aircraft carrier and a guided-missile destroyer, prompting U.S. strikes on the three IRGC tankers. A fuel tanker explosion on Iran's Hamedan-Sanandaj highway killed at least 10 people and injured six others. CBS News linked surging diesel prices to the Iran conflict, with American truck drivers and travelers facing all-time highs."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4300,7 +4315,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "active": true
     },
     {
@@ -4323,7 +4338,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "active": true,
       "entries": [
         {
@@ -4675,6 +4690,11 @@
           "date": "2026-09-05",
           "edition": "evening",
           "update": "Iranian President Pezeshkian called for national unity amid intensifying U.S. economic pressure, while Iranian authorities warned that adversaries are attempting to exploit rising public discontent to foment domestic unrest."
+        },
+        {
+          "date": "2026-09-06",
+          "edition": "morning",
+          "update": "Russian presidential foreign-policy adviser Yuri Ushakov described the Putin-Witkoff-Kushner talks as 'highly useful,' saying the Americans outlined ideas for possible avenues toward restarting Ukraine peace negotiations. Moscow has not ruled out a trilateral meeting between the presidents of Russia, the United States, and China, according to TASS."
         }
       ]
     },
@@ -4908,7 +4928,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "active": true,
       "entries": [
         {
@@ -4995,6 +5015,11 @@
           "date": "2026-09-05",
           "edition": "morning",
           "update": "Steve Witkoff and Jared Kushner traveled to Moscow as part of efforts to restart peace negotiations, with plans to continue to Kyiv afterward."
+        },
+        {
+          "date": "2026-09-06",
+          "edition": "morning",
+          "update": "Witkoff and Kushner held their Kremlin meeting with Putin on Saturday, with their subsequent visit to Kyiv — the first by either envoy to the Ukrainian capital — scheduled for Sunday."
         }
       ]
     },
@@ -5003,7 +5028,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-06",
       "active": true,
       "entries": [
         {
@@ -5485,6 +5510,11 @@
           "date": "2026-09-04",
           "edition": "evening",
           "update": "Houthi forces are pushing toward the port city near the Bab al-Mandab Strait, with ground fighting killing at least 100 people as the militia advances on the critical trade chokepoint, according to Al Jazeera and the New York Times."
+        },
+        {
+          "date": "2026-09-06",
+          "edition": "morning",
+          "update": "The USS Abraham Lincoln departed Thailand following a respite visit. The U.S. military is escorting oil tankers through the Strait of Hormuz, though Iran's continued strikes on shipping are deterring some operators from using the route, according to the NY Times."
         }
       ]
     },
@@ -5893,7 +5923,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-06",
       "active": true,
       "entries": [
         {
@@ -6075,6 +6105,11 @@
           "date": "2026-09-05",
           "edition": "morning",
           "update": "A new flotilla mission has set sail for Gaza, according to Al Jazeera, with human rights advocates calling for diplomatic measures to guarantee the flotilla's safety and end Israel's blockade."
+        },
+        {
+          "date": "2026-09-06",
+          "edition": "morning",
+          "update": "Netanyahu publicly declared Qatar a 'hostile state' and dismissed allegations of his government's ties to Qatar as 'one big bluff,' according to Al Jazeera."
         }
       ]
     },
@@ -6334,5 +6369,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-05T21:07:56.371Z"
+  "updatedAt": "2026-09-06T11:04:56.129Z"
 }
