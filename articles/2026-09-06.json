@@ -526,5 +526,34 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-06T08:45:03.551Z"
+  },
+  {
+    "title": "Whatever happened to kindness? Spoiler alert: Our readers prove it's alive and well",
+    "description": "We asked readers to share stories about a moment of kindness involving a stranger. Here are some of their heartwarming anecdotes.",
+    "link": "https://www.npr.org/2026/09/06/g-s1-141564/kindness-respect-feelings",
+    "pubDate": "Sun, 06 Sep 2026 04:44:48 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-09-06T09:00:03.922Z"
+  },
+  {
+    "title": "Israel bombards several towns in southern Lebanon",
+    "description": "The Israeli army has blown up several villages in southern Lebanon in violation of a ceasefire agreement reached in June",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/israel-bombards-several-towns-in-southern-lebanon?traffic_source=rss",
+    "pubDate": "Sun, 06 Sep 2026 08:44:03 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-09-06T09:00:03.922Z"
+  },
+  {
+    "title": "Indonesia’s Anak Krakatau volcano erupts, canceling flights at Jakarta airport and others",
+    "description": "Volcanic ash spread across parts of Jakarta and Lampung province on Sumatra’s southern tip.",
+    "link": "https://nypost.com/2026/09/06/world-news/indonesias-anak-krakatau-volcano-erupts-canceling-flights-at-jakarta-airport-and-others/",
+    "pubDate": "Sun, 06 Sep 2026 04:58:02 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-06T09:00:03.922Z"
   }
 ]
