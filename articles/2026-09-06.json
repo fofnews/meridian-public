@@ -399,5 +399,43 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-06T07:30:02.417Z"
+  },
+  {
+    "title": "Iran live updates: US strikes oil tankers, Tehran claims attacks on US-linked vessels",
+    "description": "The Strait of Hormuz remains the primary flashpoint in the conflict.",
+    "link": "https://abcnews.com/International/live-updates/iran-live-updates-centcom-targeted-iranian-forces-posed/?id=136080582",
+    "pubDate": "Sun, 06 Sep 2026 03:37:35 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-09-06T07:45:01.665Z"
+  },
+  {
+    "title": "UN endorses new map that shows Africa's size more accurately",
+    "description": "Africa has long been represented as smaller than its real size in maps, which are largely based on an ancient projection.",
+    "link": "https://www.cbsnews.com/news/united-nations-map-vote-change-africa-size/",
+    "pubDate": "Sun, 06 Sep 2026 03:29:22 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-06T07:45:01.665Z"
+  },
+  {
+    "title": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
+    "description": "More than 20,000 passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 06 Sep 2026 07:06:50 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-06T07:45:01.665Z"
+  },
+  {
+    "title": "New Hampshire man recounts terrifying encounter with mysterious animal terrorizing locals: ‘Dude, let go’",
+    "description": "He has since undergone multiple rounds of rabies shots, with more to come in the coming weeks.",
+    "link": "https://nypost.com/2026/09/06/us-news/new-hampshire-man-recounts-terrifying-encounter-with-mysterious-animal-terrorizing-locals/",
+    "pubDate": "Sun, 06 Sep 2026 03:44:38 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-06T07:45:01.665Z"
   }
 ]
