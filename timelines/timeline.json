@@ -359,7 +359,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-07",
       "active": true,
       "entries": [
         {
@@ -491,6 +491,11 @@
           "date": "2026-09-04",
           "edition": "evening",
           "update": "The U.S. and its allies are pushing the IAEA Board of Governors to refer Iran to the UN Security Council, according to diplomats cited by Reuters."
+        },
+        {
+          "date": "2026-09-07",
+          "edition": "evening",
+          "update": "Saudi Arabia is preparing to grant the IAEA more intrusive inspection powers, according to IAEA Director General Rafael Grossi."
         }
       ],
       "parentId": null
@@ -1206,6 +1211,11 @@
           "date": "2026-09-07",
           "edition": "morning",
           "update": "UK defence officials warned of difficulties in countering Russia's 'hybrid' war tactics, according to reports leading Monday's front pages. Russia continued round-the-clock strikes on Ukraine, driving Kyiv air raid alerts to record highs and disrupting schools, businesses, and public transport, according to BBC News."
+        },
+        {
+          "date": "2026-09-07",
+          "edition": "evening",
+          "update": "Global shipping is facing fuel shortages driven by reduced crude oil availability and refinery prioritization of diesel over bunker fuel, a trend linked to disruptions from the Iran and Ukraine conflicts."
         }
       ],
       "parentId": null
@@ -2446,6 +2456,11 @@
           "date": "2026-09-07",
           "edition": "morning",
           "update": "Israeli strikes on a town in southern Lebanon killed at least 10 to 11 people overnight, including children and a two-month-old infant, according to Al Jazeera and Lebanon's state news agency."
+        },
+        {
+          "date": "2026-09-07",
+          "edition": "evening",
+          "update": "An Israeli strike hit next to a Lebanese reporter in southern Lebanon, with the moment captured on camera, according to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3476,6 +3491,11 @@
           "date": "2026-09-07",
           "edition": "morning",
           "update": "Oil prices rose approximately 1% when trading resumed Sunday, with the national average gas price reaching a record high of approximately $4.14–$4.15 per gallon for Labor Day weekend, driven by the Iran conflict and refinery issues. West Texas Intermediate and Brent crude contracts reached near seven-week highs before edging lower, amid reports of Iran planning to increase control of the Strait of Hormuz. The USS Abraham Lincoln, carrying nearly 5,000 troops, departed the region heading home after approximately 300 days of deployment. U.S. households have spent an average of $763 extra on fuel over six months, with total additional consumer fuel spending reaching approximately $100 billion, according to Al Jazeera."
+        },
+        {
+          "date": "2026-09-07",
+          "edition": "evening",
+          "update": "President Trump described the U.S.-Iran conflict as 'small potatoes' amid a two-week escalation, according to CBS News."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -5065,6 +5085,11 @@
           "date": "2026-09-07",
           "edition": "morning",
           "update": "Following their first-ever visit to Kyiv, special envoy Steve Witkoff said the U.S. is confident in a 'good resolution' to the Ukraine war after trilateral talks with both Ukrainian and Russian officials."
+        },
+        {
+          "date": "2026-09-07",
+          "edition": "evening",
+          "update": "The Kremlin stated it does not rule out a restart of peace talks with Ukraine and the United States. Witkoff separately reported 'substantive progress' from the Moscow and Kyiv talks, noting both sides agreed to a three-day no-shoot policy ahead of negotiations. UK Prime Minister Burnham and President Trump discussed ceasefire efforts, according to Downing Street."
         }
       ]
     },
@@ -5570,6 +5595,11 @@
           "date": "2026-09-07",
           "edition": "morning",
           "update": "Ship traffic through the Strait of Hormuz dropped to its lowest level since May following the exchange of U.S. and Iranian strikes on vessels in the region, according to Reuters."
+        },
+        {
+          "date": "2026-09-07",
+          "edition": "evening",
+          "update": "Iran announced plans to establish a new restricted zone near the Strait of Hormuz, with the declaration expected within days of the announcement."
         }
       ]
     },
@@ -6429,5 +6459,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-07T11:07:04.920Z"
+  "updatedAt": "2026-09-07T21:07:08.392Z"
 }
