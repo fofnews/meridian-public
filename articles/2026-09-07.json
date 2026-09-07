@@ -369,5 +369,44 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-07T07:15:01.536Z"
+  },
+  {
+    "title": "Giuliani Says Mamdani Should Skip 9/11 Memorial",
+    "description": "During an anti-Muslim diatribe, the former mayor called for Mr. Mamdani to skip the ceremonies. The mayor has said he is going.",
+    "link": "https://www.nytimes.com/2026/09/06/nyregion/mamdani-911-memorial-rudy-giuliani.html",
+    "pubDate": "Mon, 07 Sep 2026 07:18:22 +0000",
+    "source": "NY Times",
+    "categories": [
+      "september 11 (2001)",
+      "muslims and islam",
+      "mayors",
+      "national september 11 memorial and museum",
+      "giuliani, rudolph w",
+      "mamdani, zohran",
+      "new york city"
+    ],
+    "collectedAt": "2026-09-07T07:30:01.356Z"
+  },
+  {
+    "title": "India teams search for survivors after Delhi building collapse kills six",
+    "description": "Rescue teams work to locate survivors after New Delhi building collapse.",
+    "link": "https://www.aljazeera.com/news/2026/9/7/india-teams-search-for-survivors-after-delhi-building-collapse-kills-six?traffic_source=rss",
+    "pubDate": "Mon, 07 Sep 2026 07:04:20 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-07T07:30:01.356Z"
+  },
+  {
+    "title": "Israeli air attack kills at least 10 people in southern Lebanon",
+    "description": "Among the 10 killed overnight are children, including a two-month old infant.",
+    "link": "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon?traffic_source=rss",
+    "pubDate": "Mon, 07 Sep 2026 06:58:28 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-07T07:30:01.356Z"
   }
 ]
