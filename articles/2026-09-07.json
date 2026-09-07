@@ -583,5 +583,84 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-09-07T08:45:01.224Z"
+  },
+  {
+    "title": "Morning news brief",
+    "description": "Five people are dead after a cargo plane crash at Miami International Airport, Trump's top envoys go to Ukraine with hopes of restarting peace talks, Germany's far-right party wins landslide victory.",
+    "link": "https://www.npr.org/2026/09/07/nx-s1-5955374/morning-news-brief",
+    "pubDate": "Mon, 07 Sep 2026 04:44:02 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-09-07T09:00:01.325Z"
+  },
+  {
+    "title": "Gas prices at record high for any Labor Day weekend",
+    "description": "The average price of regular gas was $4.14 a gallon heading into the holiday, nearly $1 higher than last year and well above the Labor Day weekend record of $3.82 from 2012, according to AAA.",
+    "link": "https://www.cbsnews.com/news/labor-day-gas-prices-record-high/",
+    "pubDate": "Mon, 07 Sep 2026 04:47:20 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-07T09:00:01.325Z"
+  },
+  {
+    "title": "What to Know About Cargo Plane That Overran Its Runway, Killing 5 in Miami",
+    "description": "The plane, which was operating as part of Amazon’s cargo fleet, flew from Puerto Rico to Miami. It crashed into several vehicles after overrunning the runway.",
+    "link": "https://www.nytimes.com/2026/09/06/us/miami-plane-crash-what-we-know.html",
+    "pubDate": "Mon, 07 Sep 2026 08:54:41 +0000",
+    "source": "NY Times",
+    "categories": [
+      "airlines and airplanes",
+      "aviation accidents, safety and disasters",
+      "freight (cargo)",
+      "fires and firefighters",
+      "delays (transportation)",
+      "boeing company",
+      "federal aviation administration",
+      "fort lauderdale-hollywood international airport",
+      "international air transport assn",
+      "miami international airport",
+      "national transportation safety board",
+      "fort lauderdale (fla)",
+      "puerto rico",
+      "san juan (puerto rico)",
+      "miami (fla)"
+    ],
+    "collectedAt": "2026-09-07T09:00:01.325Z"
+  },
+  {
+    "title": "The £70 refund letter that isn't a scam",
+    "description": "About one million people - mostly women - are owed pension tax relief and will be contacted by HMRC.",
+    "link": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 07 Sep 2026 08:50:55 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-07T09:00:01.325Z"
+  },
+  {
+    "title": "North Korea and Russia open their first road bridge, a symbol of expanding ties, TASS reports - Reuters",
+    "description": "North Korea and Russia open their first road bridge, a symbol of expanding ties, TASS reports  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSDhSOTZweXB2RS1xNmJldmEzczJ4VGRMQUxBWW5ZTkpUUFdNZlVSWGc0MnluLTlpSEFNMC1sTEdPTFBHTHg0a3g0UnJ3dWVoMlUzSUdwWHR0YVE4YU9nclZBMzJnaFFJSURNTW00bS1CQUtnZXhvUm9SSmVibVozQ19xN2hEMFhheDVST0JITW4zMENXSGxscC1SVGtWVXM3YXNTMnpubkx1cDRZS3lBY3ROVEwtUklmR3lpcTM0eGU3QmlJSElLeQ?oc=5",
+    "pubDate": "Mon, 07 Sep 2026 07:37:43 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-07T09:00:01.325Z"
+  },
+  {
+    "title": "Oil prices hit near seven-week highs, before edging lower, as Iran plans to increase control of Hormuz",
+    "description": "The West Texas Intermediate and Brent crude contracts for October and November delivery, respectively, are steady after rising earlier in the session.",
+    "link": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
+    "pubDate": "Mon, 07 Sep 2026 08:52:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-09-07T09:00:01.325Z"
+  },
+  {
+    "title": "North Korea and Russia open their first road bridge as Putin and Kim Jong Un deepen ties",
+    "description": "The bridge is located near the existing \"Friendship Bridge,\" a rail bridge which was commissioned in 1959 after the Korean War.",
+    "link": "https://nypost.com/2026/09/07/world-news/north-korea-and-russia-open-first-road-bridge-as-putin-and-kim-jong-un-deepen-ties/",
+    "pubDate": "Mon, 07 Sep 2026 04:46:42 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-07T09:00:01.325Z"
   }
 ]
