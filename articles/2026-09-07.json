@@ -286,5 +286,34 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-09-07T06:30:01.776Z"
+  },
+  {
+    "title": "Did the FBI bury evidence of alleged Saudi agent’s role in 9/11?",
+    "description": "Omar al-Bayoumi has always denied being an extremist and a Saudi spy.",
+    "link": "https://www.bbc.co.uk/news/videos/ce8e151n56po?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 07 Sep 2026 06:32:06 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-07T06:45:01.661Z"
+  },
+  {
+    "title": "Former USCIS official, accomplice charged in alleged $960K citizenship bribery scheme",
+    "description": "A former USCIS official and his accomplice allegedly accepted nearly $960,000 in bribes to fast-track citizenship applications, skipping key checks.",
+    "link": "https://www.foxnews.com/us/former-uscis-official-accomplice-charged-alleged-960k-citizenship-bribery-scheme",
+    "pubDate": "Mon, 07 Sep 2026 02:32:38 -0400",
+    "source": "Fox News",
+    "categories": [
+      "8698a35f-8fb6-58b7-9155-c0ecb69c82a7",
+      "fnc",
+      "fox news",
+      "fox-news/us/immigration",
+      "fox-news/corruption",
+      "fox-news/us/immigration/naturalization",
+      "fox-news/us",
+      "fox-news/crime",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-09-07T06:45:01.661Z"
   }
 ]
