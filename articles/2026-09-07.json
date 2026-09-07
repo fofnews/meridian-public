@@ -81,5 +81,43 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-07T04:30:01.256Z"
+  },
+  {
+    "title": "I’m a Psychiatrist. Here’s What the Lindsay Clancy Jury Should Have Found. - The Free Press",
+    "description": "I’m a Psychiatrist. Here’s What the Lindsay Clancy Jury Should Have Found.  The Free Press",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jdEdfaUwyc2JWMXJTempCTmpGblIxSEtTSDVkbzhVUkI5Z0s0STVFRnF1NmNqRTRrS2wwSk0wdUFQd2xvSXZXMjd5ME8tRnR5UUdJYzdLRGxiWkJsV3FVS21WLTFibFk?oc=5",
+    "pubDate": "Mon, 07 Sep 2026 04:31:52 GMT",
+    "source": "The Free Press",
+    "categories": [],
+    "collectedAt": "2026-09-07T04:45:02.782Z"
+  },
+  {
+    "title": "US restricts government travel to Mexican border city over threat concerns",
+    "description": "The U.S. Consulate in Nogales announced restricted government travel to essential daylight movement only over an unspecified threat in Sonora, Mexico.",
+    "link": "https://www.foxnews.com/world/us-restricts-government-travel-mexican-border-city-threat-concerns",
+    "pubDate": "Mon, 07 Sep 2026 00:34:03 -0400",
+    "source": "Fox News",
+    "categories": [
+      "e4e0fe9b-25aa-5f35-afeb-00d1c6973427",
+      "fnc",
+      "fox news",
+      "fox-news/world/world-regions/location-mexico",
+      "fox-news/world",
+      "fox-news/travel/general/travel-safety",
+      "fox-news/politics/executive/national-security",
+      "fox-news/us",
+      "fox-news/world",
+      "article"
+    ],
+    "collectedAt": "2026-09-07T04:45:02.782Z"
+  },
+  {
+    "title": "Unruly airline passenger who had to be duct-taped to seat after N-word meltdown fired from Arizona realty company",
+    "description": "“Upon learning of the incident, Long Realty promptly ended its affiliation with the individual. The individual is no longer associated with or authorized to represent Long Realty in any capacity.\"",
+    "link": "https://nypost.com/2026/09/07/us-news/unruly-airline-passenger-who-had-to-be-duct-taped-to-seat-after-n-word-meltdown-fired-from-arizona-realty-company/",
+    "pubDate": "Mon, 07 Sep 2026 00:40:35 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-07T04:45:02.782Z"
   }
 ]
