@@ -1290,5 +1290,43 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-07T10:15:02.368Z"
+  },
+  {
+    "title": "Severe storms impact Labor Day weekend travel",
+    "description": "Weather is disrupting travels for millions of people with over 2,000 flight delays across the country.",
+    "link": "https://abcnews.com/video/136246033/",
+    "pubDate": "Mon, 07 Sep 2026 06:23:59 -0400",
+    "source": "ABC News",
+    "categories": [
+      "wnt"
+    ],
+    "collectedAt": "2026-09-07T10:30:02.049Z"
+  },
+  {
+    "title": "At least 5 dead in Amazon cargo plane crash at Miami airport",
+    "description": "An Amazon cargo plane overran a runway at Miami International Airport and struck several vehicles, killing at least five and injuring five others, officials said.",
+    "link": "https://www.cbsnews.com/news/miami-airport-plane-disabled-9-6-2026/",
+    "pubDate": "Mon, 07 Sep 2026 06:24:23 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-07T10:30:02.049Z"
+  },
+  {
+    "title": "After Victory in German State, Far Right Needs Help to Take Power",
+    "description": "The Alternative for Germany, or AfD, does not have a straightforward path to governing Saxony-Anhalt, but a small populist party could clear the way.",
+    "link": "https://www.nytimes.com/2026/09/07/world/europe/germany-afd-elections-bsw.html",
+    "pubDate": "Mon, 07 Sep 2026 10:10:35 +0000",
+    "source": "NY Times",
+    "categories": [
+      "germany",
+      "alternative for germany",
+      "right-wing extremism and alt-right",
+      "siegmund, ulrich (1990- )",
+      "wagenknecht, sahra (1969- )",
+      "christian democratic union (germany)",
+      "merz, friedrich",
+      "europe"
+    ],
+    "collectedAt": "2026-09-07T10:30:02.049Z"
   }
 ]
