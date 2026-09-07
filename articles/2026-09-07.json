@@ -43,5 +43,43 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-07T04:15:02.319Z"
+  },
+  {
+    "title": "Explosion of fireworks in central Mexico kills at least 10, injures 64",
+    "description": "Mexican authorities say at least 10 people died and another 64 were injured when pyrotechnic material exploded during a patron saint festival in a town in the State of Mexico",
+    "link": "https://abcnews.com/International/wireStory/explosion-fireworks-central-mexico-kills-10-injures-64-136243489",
+    "pubDate": "Mon, 07 Sep 2026 00:21:30 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-09-07T04:30:01.256Z"
+  },
+  {
+    "title": "Armed man arrested for allegedly charging at Democratic Ohio governor candidate",
+    "description": "The suspect \"aggressively shoved his way through the crowd\" toward Amy Acton, Mahoning County Sheriff Jerry Greene told CBS News.",
+    "link": "https://www.cbsnews.com/news/amy-acton-ohio-armed-man-attack/",
+    "pubDate": "Mon, 07 Sep 2026 00:23:08 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-07T04:30:01.256Z"
+  },
+  {
+    "title": "Andy ‘The Butcher’ Williams hit his head in the ring before dying: 911 dispatch audio",
+    "description": "“A male wrestler was injured during a match – hit his head on a ringpost,” an emergency operator is heard saying in a call.",
+    "link": "https://nypost.com/2026/09/07/sports/andy-the-butcher-williams-hit-his-head-in-the-ring-before-dying-911-dispatch-audio/",
+    "pubDate": "Mon, 07 Sep 2026 00:27:10 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-07T04:30:01.256Z"
+  },
+  {
+    "title": "Metrolink Pacific Surfliner railroad in San Clemente closes as intense weather crashes coast",
+    "description": "Monster swells from Hurricane Marie forced emergency repairs on Southern California's scenic railroad route on Sunday.",
+    "link": "https://nypost.com/2026/09/07/us-news/metrolink-pacific-surfliner-railroad-in-san-clemente-closes-as-intense-weather-crashes-coast/",
+    "pubDate": "Mon, 07 Sep 2026 00:21:40 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-07T04:30:01.256Z"
   }
 ]
