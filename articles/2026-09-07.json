@@ -828,5 +828,41 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-07T09:15:01.187Z"
+  },
+  {
+    "title": "Iran threatens \"more painful\" retaliation after U.S. strikes Iranian oil tankers",
+    "description": "Iran on Sunday threatened a \"more painful\" response to U.S. strikes on three Iranian oil tankers.",
+    "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diesel-gas-prices-labor-day/",
+    "pubDate": "Mon, 07 Sep 2026 05:22:43 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-07T09:30:01.768Z"
+  },
+  {
+    "title": "King Charles Won't Meet Jamaican Officials Over Slavery Reparations Petition",
+    "description": "King Charles III will not personally receive a petition for slavery reparations due to be handed over by Jamaica.",
+    "link": "https://www.newsweek.com/king-charles-meet-jamaica-slavery-reparations-petition-12411206",
+    "pubDate": "Mon, 07 Sep 2026 05:24:41 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-07T09:30:01.768Z"
+  },
+  {
+    "title": "Pork Recall in 8 States as Highest Warning Issued Over Listeria Concerns",
+    "description": "USDA recalled pork guanciale in eight states over possible listeria contamination amid a surge in foodborne-illness cases.",
+    "link": "https://www.newsweek.com/pork-recall-8-states-highest-warning-issued-listeria-concerns-12410954",
+    "pubDate": "Mon, 07 Sep 2026 05:16:51 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-07T09:30:01.768Z"
+  },
+  {
+    "title": "Jaguar Land Rover to cut 4,000 jobs",
+    "description": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
+    "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 07 Sep 2026 09:21:57 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-07T09:30:01.768Z"
   }
 ]
