@@ -407,5 +407,64 @@
     "source": "AP News",
     "categories": [],
     "collectedAt": "2026-09-08T06:45:01.375Z"
+  },
+  {
+    "title": "Russian strikes on Kyiv resume as soon as Witkoff, Kushner peace talks end",
+    "description": "Russian strikes pummeled Ukraine's capital as soon as a three-day pause for peace talks with President Trump's envoys ended.",
+    "link": "https://www.cbsnews.com/news/ukraine-russia-war-peace-talks-witkoff-kushner-strikes-kyiv/",
+    "pubDate": "Tue, 08 Sep 2026 02:48:12 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-08T07:00:02.362Z"
+  },
+  {
+    "title": "Miami Plane Crash Starts Debate About Requiring a Buffer for Runways",
+    "description": "A technology involving crushable concrete has been credited with saving nearly 500 passenger lives by helping halt planes that overshot their landings.",
+    "link": "https://www.nytimes.com/2026/09/07/us/miami-crash-emas-buffer-runways.html",
+    "pubDate": "Tue, 08 Sep 2026 06:53:14 +0000",
+    "source": "NY Times",
+    "categories": [
+      "airports",
+      "aviation accidents, safety and disasters",
+      "federal aviation administration",
+      "miami international airport",
+      "national transportation safety board",
+      "homendy, jennifer",
+      "airlines and airplanes",
+      "regulation and deregulation of industry",
+      "miami (fla)"
+    ],
+    "collectedAt": "2026-09-08T07:00:02.362Z"
+  },
+  {
+    "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
+    "description": "Users say they are losing money or risk having their accounts suspended because Meta struggles to identify scammers.",
+    "link": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 08 Sep 2026 06:49:56 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-08T07:00:02.362Z"
+  },
+  {
+    "title": "Texas education board approves controversial curriculum changes tying 'radical Islam' to 9/11 attacks",
+    "description": "The Texas Board of Education gave final approval to controversial social studies changes impacting how students learn about Islam and Christianity.",
+    "link": "https://www.foxnews.com/us/texas-education-board-approves-controversial-curriculum-changes-tying-radical-islam-9-11-attacks",
+    "pubDate": "Tue, 08 Sep 2026 02:44:20 -0400",
+    "source": "Fox News",
+    "categories": [
+      "61c82728-c048-5a61-87b1-77327c0bf94d",
+      "fnc",
+      "fox news",
+      "fox-news/controversies",
+      "fox-news/controversies",
+      "fox-news/us/education",
+      "fox-news/us/education/curriculum",
+      "fox-news/us/us-regions/southwest/texas",
+      "fox-news/world/religion",
+      "fox-news/us",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-09-08T07:00:02.362Z"
   }
 ]
