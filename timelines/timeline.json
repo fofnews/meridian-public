@@ -359,7 +359,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-07",
+      "lastSeen": "2026-09-08",
       "active": true,
       "entries": [
         {
@@ -496,6 +496,11 @@
           "date": "2026-09-07",
           "edition": "evening",
           "update": "Saudi Arabia is preparing to grant the IAEA more intrusive inspection powers, according to IAEA Director General Rafael Grossi."
+        },
+        {
+          "date": "2026-09-08",
+          "edition": "morning",
+          "update": "The IAEA warned Iran to cooperate with nuclear inspectors as Western powers continued pushing to refer Iran's nuclear file to the UN Security Council."
         }
       ],
       "parentId": null
@@ -504,7 +509,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-07",
+      "lastSeen": "2026-09-08",
       "active": true,
       "entries": [
         {
@@ -1216,6 +1221,11 @@
           "date": "2026-09-07",
           "edition": "evening",
           "update": "Global shipping is facing fuel shortages driven by reduced crude oil availability and refinery prioritization of diesel over bunker fuel, a trend linked to disruptions from the Iran and Ukraine conflicts."
+        },
+        {
+          "date": "2026-09-08",
+          "edition": "morning",
+          "update": "Russia launched a massive attack on Ukraine involving dozens of cruise missiles and over 140 drones, resuming hostilities following a 72-hour pause that coincided with diplomatic visits by U.S. envoys Jared Kushner and Steve Witkoff to Kyiv for peace negotiations, according to the Washington Examiner. Drone strikes on Kyiv early Tuesday triggered air raid alerts and explosions across the capital, killing at least two people, according to BBC News."
         }
       ],
       "parentId": null
@@ -1224,7 +1234,7 @@
       "id": "sinaloa-cartel-violence",
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-31",
+      "lastSeen": "2026-09-08",
       "active": true,
       "entries": [
         {
@@ -1371,6 +1381,11 @@
           "date": "2026-08-31",
           "edition": "evening",
           "update": "A two-year war between rival Sinaloa Cartel factions in Mexico has driven a surge in killings and disappearances targeting women, according to the NY Times."
+        },
+        {
+          "date": "2026-09-08",
+          "edition": "morning",
+          "update": "U.S. Southern Command announced on Labor Day that U.S. forces sank a fifth alleged refueling vessel linked to the Los Choneros cartel — an Ecuadorian criminal organization — in the Eastern Pacific Ocean. SOUTHCOM stated the vessel had supported at-sea drug trafficking operations, as part of ongoing counter-narcotics operations in the Western Hemisphere."
         }
       ],
       "parentId": null
@@ -1944,7 +1959,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-07",
+      "lastSeen": "2026-09-08",
       "active": true,
       "entries": [
         {
@@ -2461,6 +2476,11 @@
           "date": "2026-09-07",
           "edition": "evening",
           "update": "An Israeli strike hit next to a Lebanese reporter in southern Lebanon, with the moment captured on camera, according to Al Jazeera."
+        },
+        {
+          "date": "2026-09-08",
+          "edition": "morning",
+          "update": "Israeli airstrikes killed at least 12 people, including two children, in southern Lebanon, with two strikes hitting the village of Kfar Rumman — one striking a residential building — according to Lebanon's Health Ministry."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2469,7 +2489,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-07",
+      "lastSeen": "2026-09-08",
       "active": true,
       "entries": [
         {
@@ -3496,6 +3516,11 @@
           "date": "2026-09-07",
           "edition": "evening",
           "update": "President Trump described the U.S.-Iran conflict as 'small potatoes' amid a two-week escalation, according to CBS News."
+        },
+        {
+          "date": "2026-09-08",
+          "edition": "morning",
+          "update": "Iran threatened retaliation after U.S. airstrikes destroyed three IRGC crude oil tankers in the Persian Gulf, and announced plans to establish a new exclusion zone in the Gulf while threatening the U.S. with new missiles, according to Reuters. Iran's state news agency also announced a new security doctrine stating Tehran 'will take action against any threat, even before it is carried out,' citing improved ballistic missile capability. Oil prices surged toward $100 per barrel, with Goldman Sachs raising its forecasts and flagging the possibility of crude reaching $120 per barrel. Qatar warned of an 'industrial catastrophe' if the crisis continues, while Asian stocks wavered, Indian shares declined, and average U.S. gas prices hit a record Labor Day high of $4.14 per gallon, surpassing the previous record of $3.82 set in 2012."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4370,7 +4395,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-07",
+      "lastSeen": "2026-09-08",
       "active": true
     },
     {
@@ -5098,7 +5123,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-09-07",
+      "lastSeen": "2026-09-08",
       "active": true,
       "entries": [
         {
@@ -5600,6 +5625,11 @@
           "date": "2026-09-07",
           "edition": "evening",
           "update": "Iran announced plans to establish a new restricted zone near the Strait of Hormuz, with the declaration expected within days of the announcement."
+        },
+        {
+          "date": "2026-09-08",
+          "edition": "morning",
+          "update": "Houthi rebels launched a wave of attacks on Saudi Arabia, igniting fires at oil facilities and injuring dozens of people in southern Saudi Arabia, according to Saudi-led coalition figures. The Houthi-run news agency in Yemen separately announced a forthcoming statement about a 'large-scale' military operation in Saudi Arabia."
         }
       ]
     },
@@ -6459,5 +6489,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-07T21:07:08.392Z"
+  "updatedAt": "2026-09-08T11:07:17.877Z"
 }
