@@ -1160,5 +1160,63 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-08T09:45:01.262Z"
+  },
+  {
+    "title": "Dangerous Hurricane Lowell passing just west of Hawaii",
+    "description": "Hurricane Lowell was skirting western Hawaii, bringing damaging winds, heavy rain and punishing waves, the National Hurricane Center said, and leaving tens of thousands of homes and businesses in the dark.",
+    "link": "https://www.cbsnews.com/news/hurricane-lowell-hawaii-heavy-rain-strong-winds-waves/",
+    "pubDate": "Tue, 08 Sep 2026 05:55:41 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-08T10:00:03.501Z"
+  },
+  {
+    "title": "China Teaches the West About ‘Checkbook Diplomacy’ Again",
+    "description": "The U.S. and its allies are relearning how to win back influence in some of the world's most contested regions.",
+    "link": "https://www.newsweek.com/china-teaches-the-west-about-checkbook-diplomacy-again-12413908",
+    "pubDate": "Tue, 08 Sep 2026 05:57:36 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-08T10:00:03.501Z"
+  },
+  {
+    "title": "Macron urges EU ban on social media for under-15s in letter to Von der Leyen - Reuters",
+    "description": "Macron urges EU ban on social media for under-15s in letter to Von der Leyen  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQVRWUzFSOEpqd3BuRml4Zk96RVU0QWFzdEx3SV9sU0dLSm4yUWJ6aThoczY1aF9EdGxJZk94M0FEekI0ZVVpRkI4bmZiWk5jWWE2T2FrNjFFVVFCWXcwZkNBbjBKM2N4S1kyYUFkSldOcWs2SkUzUDhSSjRxZHdONFh0bFE1dTFSclpwbU9FR0xXdWtwRjB0bU5QUmo2S0tHa1VkSmNmUno5RzNHMk5hTXh4MDhBZzQ?oc=5",
+    "pubDate": "Tue, 08 Sep 2026 09:08:56 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-08T10:00:03.501Z"
+  },
+  {
+    "title": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people: officials",
+    "description": "More than 70 people were wounded after Houthi rebels launched a wave of attacks on Saudi Arabia, igniting fires at several key oil facilities.",
+    "link": "https://nypost.com/2026/09/08/world-news/houthi-attacks-on-saudi-arabia-ignite-fires-at-oil-facilities-and-wound-73-people-officials-say/",
+    "pubDate": "Tue, 08 Sep 2026 05:56:31 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-08T10:00:03.501Z"
+  },
+  {
+    "title": "Russia launches massive, deadly, and ‘complex’ attack against Ukraine",
+    "description": "Fighting between Ukraine and Russia commenced after a 72-hour pause for diplomatic visits to both countries by United States officials.  Russia launched a massive attack on Ukraine on Tuesday, firing dozens of cruise missiles and over 140 drones as the war raged on after this weekend’s peace talks brokered by U.S. envoys Jared Kushner and […]",
+    "link": "https://www.washingtonexaminer.com/news/4716300/russia-launches-massive-deadly-and-complex-attack-against-ukraine/",
+    "pubDate": "Tue, 08 Sep 2026 09:57:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "world",
+      "ballistic missiles",
+      "drones",
+      "jared kushner",
+      "kyiv",
+      "missiles",
+      "russia",
+      "russia-ukraine war",
+      "ukraine",
+      "vladimir putin",
+      "volodymyr zelensky"
+    ],
+    "collectedAt": "2026-09-08T10:00:03.501Z"
   }
 ]
