@@ -85,5 +85,52 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-08T04:30:01.169Z"
+  },
+  {
+    "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+    "description": "It is the latest escalation since trade talks collapsed in late August, with US officials threatening to hit back if Canada’s counter-tariffs are implemented.",
+    "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 08 Sep 2026 04:39:14 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-08T04:45:01.483Z"
+  },
+  {
+    "title": "Russian strikes continue following visit by Witkoff and Kushner to Kyiv",
+    "description": "Russia launched ballistic and cruise missiles at Kyiv shortly after envoys Steve Witkoff and Jared Kushner's visit to the city for peace negotiations.",
+    "link": "https://www.foxnews.com/world/russian-strikes-continue-following-visit-witkoff-kushner-kyiv",
+    "pubDate": "Tue, 08 Sep 2026 00:25:39 -0400",
+    "source": "Fox News",
+    "categories": [
+      "9876a25c-380a-5c72-871e-60c172e4cd80",
+      "fnc",
+      "fox news",
+      "fox-news/world/conflicts/ukraine",
+      "fox-news/world/world-regions/russia",
+      "fox-news/world",
+      "fox-news/world/conflicts",
+      "fox-news/person/donald-trump",
+      "fox-news/world",
+      "article"
+    ],
+    "collectedAt": "2026-09-08T04:45:01.483Z"
+  },
+  {
+    "title": "Iran says improved ballistic missile shows it will take preemptive action against threats",
+    "description": "WASHINGTON (AP) — Iran state media on Monday said a ballistic missile with improved capabilities was demonstrating a new doctrine: Tehran “will take action against any threat, even before it is carried out.” The report by Iran’s state news agency repeatedly cited comments aired on state TV the day before by the head of Iran’s Supreme National Security […]",
+    "link": "https://www.washingtonexaminer.com/news/4716262/iran-says-improved-ballistic-missile-shows-it-will-take-preemptive-action-against-threats/",
+    "pubDate": "Tue, 08 Sep 2026 04:30:03 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "world",
+      "ballistic missiles",
+      "donald trump",
+      "iran",
+      "missiles",
+      "strait of hormuz",
+      "united states"
+    ],
+    "collectedAt": "2026-09-08T04:45:01.483Z"
   }
 ]
