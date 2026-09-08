@@ -677,5 +677,36 @@
       "united states"
     ],
     "collectedAt": "2026-09-08T07:45:01.366Z"
+  },
+  {
+    "title": "UK pupils rank highly again in international reading, maths and science tests",
+    "description": "But the Pisa test scores vary significantly between England, Northern Ireland, Scotland and Wales.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgy6n0l4rdo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 08 Sep 2026 07:31:45 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-08T08:00:01.342Z"
+  },
+  {
+    "title": "Yemen fighting live: Battles rage between Houthi and Saudi-backed forces",
+    "description": "Forces loyal to Yemen’s internationally recognised government pledge to seize the capital Sanaa as battles rage.",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/9/8/yemen-fighting-live-battles-rage?traffic_source=rss",
+    "pubDate": "Tue, 08 Sep 2026 07:40:56 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-08T08:00:01.342Z"
+  },
+  {
+    "title": "Real’s Mbappe embraces Ballon d’Or talk after historic World Cup goals",
+    "description": "Real Madrid's Kylian Mbappe enters Champions League season hoping for Ballon d'Or after record World Cup goal haul.",
+    "link": "https://www.aljazeera.com/sports/2026/9/8/reals-mbappe-embraces-ballon-dor-talk-after-historic-world-cup-goals?traffic_source=rss",
+    "pubDate": "Tue, 08 Sep 2026 07:35:29 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-09-08T08:00:01.342Z"
   }
 ]
