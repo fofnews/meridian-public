@@ -1698,5 +1698,119 @@
     "source": "National Review",
     "categories": [],
     "collectedAt": "2026-09-08T10:45:01.127Z"
+  },
+  {
+    "title": "Ross Fire still burning, with over 90,000 acres scorched",
+    "description": "The wildfire, which has torn through Palo Pinto and Jack counties, forced evacuations, closed roads and disrupted schools.",
+    "link": "https://www.cbsnews.com/news/ross-fire-near-palo-pinto-high-wildfire-risk/",
+    "pubDate": "Tue, 08 Sep 2026 06:44:48 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-08T11:00:02.242Z"
+  },
+  {
+    "title": "UK Set to Impose Sanctions on Israeli Settlements in West Bank",
+    "description": "A longtime ally of Israel, the U.K. has condemned plans to expand the settlements, which are widely considered illegal under international law.",
+    "link": "https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html",
+    "pubDate": "Tue, 08 Sep 2026 10:48:28 +0000",
+    "source": "NY Times",
+    "categories": [
+      "international relations",
+      "israeli settlements",
+      "palestinians",
+      "miliband, edward s",
+      "europe",
+      "great britain",
+      "west bank",
+      "israel"
+    ],
+    "collectedAt": "2026-09-08T11:00:02.242Z"
+  },
+  {
+    "title": "Harry and Meghan ‘surprised’ by king’s letter making clear they’re still non-working royals",
+    "description": "Prince Harry and Meghan are “surprised” by a letter sent on behalf of King Charles that reiterated they will remain nonworking members of the royal family after their return to Britain, a spokesperson for the couple told NBC News on Tuesday.",
+    "link": "https://www.nbcnews.com/world/united-kingdom/harry-meghan-king-charles-letter-non-working-royals-security-review-uk-rcna596548",
+    "pubDate": "Tue, 08 Sep 2026 10:38:05 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-09-08T11:00:02.242Z"
+  },
+  {
+    "title": "What to watch in the US’s New Hampshire and Rhode Island primary elections",
+    "description": "Some of the US midterm election's biggest themes will play out in these New England states' most notable races.",
+    "link": "https://www.aljazeera.com/news/2026/9/8/what-to-watch-in-the-uss-new-hampshire-and-rhode-island-primary-elections?traffic_source=rss",
+    "pubDate": "Tue, 08 Sep 2026 10:41:21 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-08T11:00:02.242Z"
+  },
+  {
+    "title": "Three paintings worth $10m stolen from Renoir Museum in southern France",
+    "description": "The two thieves had attempted to steal a fourth painting, but abandoned it as they ran from the museum.",
+    "link": "https://www.aljazeera.com/news/2026/9/8/three-paintings-worth-10m-stolen-from-renoir-museum-in-southern-france?traffic_source=rss",
+    "pubDate": "Tue, 08 Sep 2026 10:35:40 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-08T11:00:02.242Z"
+  },
+  {
+    "title": "My Friend Gloria Steinem - thefp.com",
+    "description": "My Friend Gloria Steinem  thefp.com",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wTDdKOFgyVDkzMGJaQTF3OXF3d1N5VjBKRkx0M1VwS0M5N2tMQWdyWXlDM1owMUZuaE9Qb3J2Rm9LQmktT19YdU9uNzZxLVBGQzBTbFZRcEItbzQ?oc=5",
+    "pubDate": "Tue, 08 Sep 2026 09:21:50 GMT",
+    "source": "The Free Press",
+    "categories": [],
+    "collectedAt": "2026-09-08T11:00:02.242Z"
+  },
+  {
+    "title": "Beneath the surface, the next market leaders are getting ready to break out, says Morgan Stanley",
+    "description": "Earnings estimates are starting to pick up for artificial-intelligence adopters — and their stocks are due to rise as well, argues Morgan Stanley.",
+    "link": "https://www.marketwatch.com/story/beneath-the-surface-the-next-market-leaders-are-getting-ready-to-break-out-says-morgan-stanley-5532c910?mod=mw_rss_topstories",
+    "pubDate": "Tue, 08 Sep 2026 10:56:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-09-08T11:00:02.242Z"
+  },
+  {
+    "title": "U.S. oil prices reach highest level in over three months after Saudi Arabia says civilian and energy sites struck",
+    "description": "A spokesman for the Saudi-led coalition fighting in Yemen said 73 people were injured in attacks by the Houthi rebels.",
+    "link": "https://www.marketwatch.com/story/u-s-oil-prices-reach-highest-level-in-over-three-months-after-saudi-arabia-says-civilian-and-energy-sites-struck-b28ae417?mod=mw_rss_topstories",
+    "pubDate": "Tue, 08 Sep 2026 10:54:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-09-08T11:00:02.242Z"
+  },
+  {
+    "title": "How to stream safely while traveling outside the US",
+    "description": "A VPN encrypts your connection on hotel, airport and café Wi-Fi abroad, but streaming catalogs and live sports access still depend on provider rules.",
+    "link": "https://www.foxnews.com/tech/how-stream-safely-while-traveling-outside-us",
+    "pubDate": "Tue, 08 Sep 2026 06:47:30 -0400",
+    "source": "Fox News",
+    "categories": [
+      "de1eebf1-d9c0-5f52-9028-f59b4cfde2cd",
+      "fnc",
+      "fox news",
+      "fox-news/tech/technologies/wifi",
+      "fox-news/travel",
+      "fox-news/tech/topics/security",
+      "fox-news/entertainment/genres/streaming",
+      "fox-news/travel/general/travel-safety",
+      "fox-news/tech",
+      "article"
+    ],
+    "collectedAt": "2026-09-08T11:00:02.242Z"
+  },
+  {
+    "title": "I developed a nasty skin condition from shaving my underarms — you could be making the same mistake I did",
+    "description": "As a longtime beauty editor, I treated my face and body to the best products and treatments, but my underarm routine was pretty much nonexistent.",
+    "link": "https://nypost.com/2026/09/08/health/i-got-a-nasty-skin-condition-from-shaving-you-may-be-making-the-same-mistake/",
+    "pubDate": "Tue, 08 Sep 2026 06:59:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-08T11:00:02.242Z"
   }
 ]
