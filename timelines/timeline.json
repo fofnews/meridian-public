@@ -1226,6 +1226,11 @@
           "date": "2026-09-08",
           "edition": "morning",
           "update": "Russia launched a massive attack on Ukraine involving dozens of cruise missiles and over 140 drones, resuming hostilities following a 72-hour pause that coincided with diplomatic visits by U.S. envoys Jared Kushner and Steve Witkoff to Kyiv for peace negotiations, according to the Washington Examiner. Drone strikes on Kyiv early Tuesday triggered air raid alerts and explosions across the capital, killing at least two people, according to BBC News."
+        },
+        {
+          "date": "2026-09-08",
+          "edition": "evening",
+          "update": "Trump and Putin held a phone call to discuss a proposal to end the war in Ukraine, with U.S. special envoys having visited both countries beforehand. Germany announced it will send additional Patriot missiles to Ukraine, citing concerns about intensified Russian attacks expected during the winter. Two Russian Su-35S fighter jets collided mid-air and crashed in Russia's Kursk region, according to Telegram channels. A Ukrainian woman named Iryna Terekh, formerly a patio designer and architect, now leads defense company Fire Point, which is developing and testing a ballistic missile reportedly capable of reaching Moscow, according to CBS News."
         }
       ],
       "parentId": null
@@ -3521,6 +3526,11 @@
           "date": "2026-09-08",
           "edition": "morning",
           "update": "Iran threatened retaliation after U.S. airstrikes destroyed three IRGC crude oil tankers in the Persian Gulf, and announced plans to establish a new exclusion zone in the Gulf while threatening the U.S. with new missiles, according to Reuters. Iran's state news agency also announced a new security doctrine stating Tehran 'will take action against any threat, even before it is carried out,' citing improved ballistic missile capability. Oil prices surged toward $100 per barrel, with Goldman Sachs raising its forecasts and flagging the possibility of crude reaching $120 per barrel. Qatar warned of an 'industrial catastrophe' if the crisis continues, while Asian stocks wavered, Indian shares declined, and average U.S. gas prices hit a record Labor Day high of $4.14 per gallon, surpassing the previous record of $3.82 set in 2012."
+        },
+        {
+          "date": "2026-09-08",
+          "edition": "evening",
+          "update": "The U.S. placed sanctions on dozens of Iranian airlines as the conflict escalated, according to the Washington Post, and issued additional Iran-related sanctions announced by the Treasury Department. Trump posted on Truth Social that oil prices 'will drop precipitously' after what he described as winning the war with Iran. Jury selection began in federal court in Brooklyn for Huawei's fraud trial on charges of deceiving banks about its Iran business dealings, evading U.S. sanctions, and conspiring to steal trade secrets. Retired Vice Admiral Robert B. Murrett publicly reacted to Trump's efforts to downplay the conflict, as reported by CBS News."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -5013,7 +5023,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-09-07",
+      "lastSeen": "2026-09-08",
       "active": true,
       "entries": [
         {
@@ -5115,6 +5125,11 @@
           "date": "2026-09-07",
           "edition": "evening",
           "update": "The Kremlin stated it does not rule out a restart of peace talks with Ukraine and the United States. Witkoff separately reported 'substantive progress' from the Moscow and Kyiv talks, noting both sides agreed to a three-day no-shoot policy ahead of negotiations. UK Prime Minister Burnham and President Trump discussed ceasefire efforts, according to Downing Street."
+        },
+        {
+          "date": "2026-09-08",
+          "edition": "evening",
+          "update": "During a phone call with Trump, Russian President Vladimir Putin assured the U.S. president that Moscow has no aggressive plans toward Europe, according to the Kremlin."
         }
       ]
     },
@@ -5630,6 +5645,11 @@
           "date": "2026-09-08",
           "edition": "morning",
           "update": "Houthi rebels launched a wave of attacks on Saudi Arabia, igniting fires at oil facilities and injuring dozens of people in southern Saudi Arabia, according to Saudi-led coalition figures. The Houthi-run news agency in Yemen separately announced a forthcoming statement about a 'large-scale' military operation in Saudi Arabia."
+        },
+        {
+          "date": "2026-09-08",
+          "edition": "evening",
+          "update": "Saudi Arabia vowed firm retaliation after Houthi strikes wounded at least 73 civilians and caused fires at energy infrastructure in southern Saudi cities. Brent crude prices neared $100 per barrel, touching $99, following the attacks, with analysts expecting prices to remain elevated through the rest of the year. Gulf nations are reportedly building up defenses and developing alternative routes to bypass the Strait of Hormuz, according to the Washington Post. Saudi political analyst Khaled Batarfi stated the war with the Houthis will not be 'prolonged,' according to Al Jazeera."
         }
       ]
     },
@@ -6278,7 +6298,7 @@
       "title": "US Cyberattacks and Infrastructure Security",
       "parentId": null,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-08-27",
+      "lastSeen": "2026-09-08",
       "active": true,
       "entries": [
         {
@@ -6375,6 +6395,11 @@
           "date": "2026-08-27",
           "edition": "evening",
           "update": "The ATF announced it is investigating a 'major' cybersecurity incident after the Qilin ransomware group claimed responsibility, though the agency stated the breach involved a standalone system separate from its main network and did not appear to affect its enterprise network, eForms system, or other systems. Separately, Reuters reported that Russian-speaking cybercriminals exploited SpaceX's Cursor AI coding tool to hack into seven companies, highlighting the use of AI development platforms as attack vectors."
+        },
+        {
+          "date": "2026-09-08",
+          "edition": "evening",
+          "update": "Google reported that Chinese hackers are running AI workloads on compromised networks to avoid detection, with one China-linked group specifically targeting academic, medical, and military AI research. Boston Scientific announced it is unlikely to meet its 2026 sales and profit forecasts following a cyberattack. Romania's intelligence service announced it prevented a Russian sabotage operation, according to Reuters. German police detained a suspect in connection with sabotage attacks on the country's power grid."
         }
       ]
     },
@@ -6383,7 +6408,7 @@
       "title": "Airport Security Threats and Explosive Device Incidents",
       "parentId": null,
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-27",
+      "lastSeen": "2026-09-08",
       "active": true,
       "entries": [
         {
@@ -6435,6 +6460,11 @@
           "date": "2026-08-27",
           "edition": "evening",
           "update": "Two American Airlines tires blew out on a runway at Chicago's O'Hare Airport while the aircraft was taxiing for takeoff, prompting an evacuation and marking the fourth or fifth such tire-related incident at the airport within a single month, according to the New York Post."
+        },
+        {
+          "date": "2026-09-08",
+          "edition": "evening",
+          "update": "The TSA announced it is now allowing non-ticketed visitors into terminals at several U.S. airports, reversing a security policy that had been in place since the September 11, 2001 attacks."
         }
       ]
     },
@@ -6489,5 +6519,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-08T11:07:17.877Z"
+  "updatedAt": "2026-09-08T21:12:31.007Z"
 }
