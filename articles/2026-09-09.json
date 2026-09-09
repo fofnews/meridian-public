@@ -207,5 +207,56 @@
       "news"
     ],
     "collectedAt": "2026-09-09T05:00:02.873Z"
+  },
+  {
+    "title": "Amazon Cargo Jet Pilots Appeared to Try Aborting Landing, N.T.S.B. Investigation Indicates",
+    "description": "The sequence of events detailed by National Transportation Safety Board investigators showed that the pilots lost crucial seconds before the plane ran off the runway in Miami.",
+    "link": "https://www.nytimes.com/2026/09/09/us/politics/dc-miami-crash-ntsb.html",
+    "pubDate": "Wed, 09 Sep 2026 04:54:43 +0000",
+    "source": "NY Times",
+    "categories": [
+      "airlines and airplanes",
+      "aviation accidents, safety and disasters",
+      "airports",
+      "federal aviation administration",
+      "national transportation safety board"
+    ],
+    "collectedAt": "2026-09-09T05:15:02.392Z"
+  },
+  {
+    "title": "Drug gangs exploited and raped us as teens, then police failed us, women tell BBC",
+    "description": "Four victims describe being targeted by criminals and then not being taken seriously by the authorities.",
+    "link": "https://www.bbc.co.uk/news/articles/c9w41v2r742o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 09 Sep 2026 04:59:08 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-09T05:15:02.392Z"
+  },
+  {
+    "title": "Iran attacks US base in Jordan, ships near Hormuz after tankers sunk - Reuters",
+    "description": "Iran attacks US base in Jordan, ships near Hormuz after tankers sunk  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2FPaUNRYjRBWnd2cmxkT044cmZYbENZYnhTWXAzUGxadUpEZ3N3aHpVSEtodVVsWUt6djBaeFhjUm5JOGVrNEE1SXlaUkxoSzBVaUpaWjZTdkdXZzItRTFOaGtMZWVtbEhpdUFSUWgwczNXa2VqZ3ktdzVhajBmYllFNVJIaUxnMDBLazE4S0VSTzZSbVFxMDZSUVY4aHIxVmhkcUpZeF85TzZYV2tqWkE5bVNWM29qWlE?oc=5",
+    "pubDate": "Wed, 09 Sep 2026 04:07:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-09T05:15:02.392Z"
+  },
+  {
+    "title": "Senator's daughter wins Democratic nod in closely watched race to replace outgoing Dem incumbent",
+    "description": "Stefany Shaheen defeated Maura Sullivan and a crowded Democratic field in the NH primary to replace Chris Pappas, who is pursuing a Senate bid.",
+    "link": "https://www.foxnews.com/politics/senators-daughter-wins-democratic-nod-closely-watched-race-replace-outgoing-dem",
+    "pubDate": "Wed, 09 Sep 2026 00:53:46 -0400",
+    "source": "Fox News",
+    "categories": [
+      "71e634d5-312a-5ae5-874f-2c6470cf8d70",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/northeast/new-hampshire",
+      "fox-news/politics/house-of-representatives",
+      "fox-news/person/barack-obama",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-09-09T05:15:02.392Z"
   }
 ]
