@@ -708,5 +708,61 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-09T07:45:01.773Z"
+  },
+  {
+    "title": "American Ben Shelton outduels defending champ Alcaraz in U.S. Open’s latest-ever finish",
+    "description": "There’s leaving it late, and then there’s what Ben Shelton and Carlos Alcaraz just served up at the U.S.",
+    "link": "https://www.nbcnews.com/sports/tennis/ben-shelton-carlos-alcaraz-latest-ever-us-open-quarter-final-rcna596746",
+    "pubDate": "Wed, 09 Sep 2026 07:36:04 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-09-09T08:00:01.478Z"
+  },
+  {
+    "title": "What ‘right’ and ‘left’ mean in Israel today",
+    "description": "In Israel, the left-right divide is shaped less by economics than by positions on Palestinian statehood and occupation.",
+    "link": "https://www.aljazeera.com/news/2026/9/9/what-right-and-left-mean-in-israel-today?traffic_source=rss",
+    "pubDate": "Wed, 09 Sep 2026 07:22:27 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-09T08:00:01.478Z"
+  },
+  {
+    "title": "Medicine shortages grow in Iran as US tightens sanctions, blockade",
+    "description": "Many Iranians cannot access or afford life-saving drugs, but authorities say pharmaceutical sector will not collapse.",
+    "link": "https://www.aljazeera.com/news/2026/9/9/medicine-shortages-grow-in-iran-as-us-tightens-sanctions-blockade?traffic_source=rss",
+    "pubDate": "Wed, 09 Sep 2026 07:14:12 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-09T08:00:01.478Z"
+  },
+  {
+    "title": "Ben Shelton wins classic five-set thriller over Carlos Alcaraz in latest match ever at US Open",
+    "description": "He had just completed the match of his life and is still alive to end the American men's long drought at the U.S. Open.",
+    "link": "https://nypost.com/2026/09/09/sports/ben-shelton-wins-five-set-thriller-over-carlos-alcaraz-at-us-open/",
+    "pubDate": "Wed, 09 Sep 2026 03:50:23 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-09T08:00:01.478Z"
+  },
+  {
+    "title": "Hawaii’s western islands hit by fierce winds from Hurricane Lowell, leaving extensive damage",
+    "description": "HONOLULU (AP) — Damaging winds and heavy rains from Hurricane Lowell pelted Hawaii’s western islands Tuesday, knocking out power to thousands and ripping up stretches of beachside roads. Along the Southern California coast, dangerous surf conditions kicked up by the remnants of Hurricane Marie were expected to stick around for several days. In Hawaii, fierce winds downed trees and […]",
+    "link": "https://www.washingtonexaminer.com/news/4718047/hawaii-hit-by-fierce-winds-from-hurricane-lowell/",
+    "pubDate": "Wed, 09 Sep 2026 07:46:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "hawaii",
+      "hurricanes",
+      "natural disasters",
+      "pacific ocean",
+      "weather"
+    ],
+    "collectedAt": "2026-09-09T08:00:01.478Z"
   }
 ]
