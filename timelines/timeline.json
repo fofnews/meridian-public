@@ -509,7 +509,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "active": true,
       "entries": [
         {
@@ -1231,6 +1231,11 @@
           "date": "2026-09-08",
           "edition": "evening",
           "update": "Trump and Putin held a phone call to discuss a proposal to end the war in Ukraine, with U.S. special envoys having visited both countries beforehand. Germany announced it will send additional Patriot missiles to Ukraine, citing concerns about intensified Russian attacks expected during the winter. Two Russian Su-35S fighter jets collided mid-air and crashed in Russia's Kursk region, according to Telegram channels. A Ukrainian woman named Iryna Terekh, formerly a patio designer and architect, now leads defense company Fire Point, which is developing and testing a ballistic missile reportedly capable of reaching Moscow, according to CBS News."
+        },
+        {
+          "date": "2026-09-09",
+          "edition": "morning",
+          "update": "Ukrainian President Volodymyr Zelensky presented an unexpected $27 billion budget gap, rattling European allies and underscoring the escalating financial toll of the war, according to the New York Times."
         }
       ],
       "parentId": null
@@ -2494,7 +2499,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "active": true,
       "entries": [
         {
@@ -3531,6 +3536,11 @@
           "date": "2026-09-08",
           "edition": "evening",
           "update": "The U.S. placed sanctions on dozens of Iranian airlines as the conflict escalated, according to the Washington Post, and issued additional Iran-related sanctions announced by the Treasury Department. Trump posted on Truth Social that oil prices 'will drop precipitously' after what he described as winning the war with Iran. Jury selection began in federal court in Brooklyn for Huawei's fraud trial on charges of deceiving banks about its Iran business dealings, evading U.S. sanctions, and conspiring to steal trade secrets. Retired Vice Admiral Robert B. Murrett publicly reacted to Trump's efforts to downplay the conflict, as reported by CBS News."
+        },
+        {
+          "date": "2026-09-09",
+          "edition": "morning",
+          "update": "Iran conducted a missile attack on Jordan, which a U.S. official described as 'ineffective,' according to ABC News. The Trump administration's previously reported aviation sanctions were confirmed by Al Jazeera as part of a broader effort to economically isolate Tehran."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4279,7 +4289,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-09-07",
+      "lastSeen": "2026-09-09",
       "active": true,
       "entries": [
         {
@@ -4376,6 +4386,11 @@
           "date": "2026-09-07",
           "edition": "morning",
           "update": "North Korean leader Kim Jong Un unveiled a new destroyer and announced it will be integrated into the country's nuclear response system, describing it as capable of delivering nuclear retaliatory strikes to strengthen Pyongyang's naval forces, according to Reuters."
+        },
+        {
+          "date": "2026-09-09",
+          "edition": "morning",
+          "update": "The IAEA reported that North Korea has constructed a new uranium enrichment facility at its Yongbyon nuclear complex."
         }
       ],
       "parentId": null
@@ -4405,7 +4420,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "active": true
     },
     {
@@ -6519,5 +6534,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-08T21:12:31.007Z"
+  "updatedAt": "2026-09-09T11:09:16.001Z"
 }
