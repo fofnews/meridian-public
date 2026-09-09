@@ -941,5 +941,135 @@
     "source": "Wall Street Journal",
     "categories": [],
     "collectedAt": "2026-09-09T08:45:01.175Z"
+  },
+  {
+    "title": "Morning news brief",
+    "description": "Back-and-forth strikes between the U.S. and Iran continue, U.K. imposes sanctions on Israeli settlements, accusing settlers of \"ethnic cleansing,\" Smithsonian Secretary Lonnie G. Bunch III resigns.",
+    "link": "https://www.npr.org/2026/09/09/nx-s1-5955573/morning-news-brief",
+    "pubDate": "Wed, 09 Sep 2026 04:46:34 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-09-09T09:00:01.696Z"
+  },
+  {
+    "title": "Ben Shelton beats Carlos Alcaraz in latest-finishing match in U.S. Open history",
+    "description": "Ben Shelton ended Carlos Alcaraz's title reign in the latest-finishing match in U.S. Open history, pulling out the victory in a marathon tussle that ended at 3:33 a.m. Wednesday.",
+    "link": "https://www.cbsnews.com/news/ben-shelton-carlos-alcaraz-us-open-latest-finish/",
+    "pubDate": "Wed, 09 Sep 2026 04:54:18 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-09T09:00:01.696Z"
+  },
+  {
+    "title": "Before Oct. 7 Attack, Netanyahu Was Warned, Report Says. He Denies It.",
+    "description": "Prime Minister Benjamin Netanyahu said he would sue the newspaper Haaretz after it reported that the Emirati president had warned him Hamas was planning a major operation against Israel.",
+    "link": "https://www.nytimes.com/2026/09/08/world/middleeast/israel-netanyahu-2023-hamas-attack.html",
+    "pubDate": "Wed, 09 Sep 2026 08:57:02 +0000",
+    "source": "NY Times",
+    "categories": [
+      "israel",
+      "politics and government",
+      "netanyahu, benjamin",
+      "haaretz",
+      "hamas",
+      "israel-gaza war (2023- )",
+      "defense and military forces",
+      "international relations",
+      "eisenkot, gadi",
+      "gaza strip",
+      "elections",
+      "nahyan, mohamed bin zayed al- (1961- )",
+      "united arab emirates"
+    ],
+    "collectedAt": "2026-09-09T09:00:01.696Z"
+  },
+  {
+    "title": "Oil hits $100 a barrel for first time in months as Middle East conflict intensifies again",
+    "description": "The price of oil breached the $100 threshold on Wednesday for the first time in months, as new flare-ups in the United States’ war with Iran stoked fresh concern for global energy markets.",
+    "link": "https://www.nbcnews.com/business/business-news/oil-hits-100-barrel-middle-east-conflict-intensifies-us-iran-trump-gas-rcna596752",
+    "pubDate": "Wed, 09 Sep 2026 08:43:16 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-09-09T09:00:01.696Z"
+  },
+  {
+    "title": "Learner drivers still waiting 20 weeks to book tests",
+    "description": "The Driver and Vehicle Standards Agency had been given a target to reduce average wait times to seven weeks.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 09 Sep 2026 08:50:02 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-09T09:00:01.696Z"
+  },
+  {
+    "title": "Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement",
+    "description": "The billion dollar payout marks the largest divorce settlement in the country's history.",
+    "link": "https://www.bbc.co.uk/news/articles/c05re9qg09ro?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 09 Sep 2026 08:21:39 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-09T09:00:01.696Z"
+  },
+  {
+    "title": "Flash floods surge through Morocco’s Atlas Mountains",
+    "description": "Video shows floodwaters sweeping through Morocco’s Atlas Mountains after heavy rain in Khenifra.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/flash-floods-surge-through-moroccos-atlas-mountains?traffic_source=rss",
+    "pubDate": "Wed, 09 Sep 2026 08:42:49 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-09-09T09:00:01.696Z"
+  },
+  {
+    "title": "In maps and charts: Russian and Ukrainian attacks on civilian targets",
+    "description": "Al Jazeera visualises how attacks on civilian infrastructure have more than doubled during the course of the war.",
+    "link": "https://www.aljazeera.com/news/2026/9/9/in-maps-and-charts-russian-and-ukrainian-attacks-on-civilian-targets?traffic_source=rss",
+    "pubDate": "Wed, 09 Sep 2026 08:42:33 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-09T09:00:01.696Z"
+  },
+  {
+    "title": "Protesters shut down UNHCR headquarters in Tripoli, Libya",
+    "description": "The United Nations refugee agency headquarters in Tripoli, Libya, has been sealed shut by protesters.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/video-protesters-shut-down-unhcr-headquarters-in-tripoli-libya?traffic_source=rss",
+    "pubDate": "Wed, 09 Sep 2026 08:39:20 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-09-09T09:00:01.696Z"
+  },
+  {
+    "title": "‘Totally reliant on Mother Nature’: UK drought raises water security fears",
+    "description": "Record heatwaves have troubled British farmers, raising concerns over reservoir levels and food supply.",
+    "link": "https://www.aljazeera.com/news/2026/9/9/uk-drought-raises-fears-over-water-security?traffic_source=rss",
+    "pubDate": "Wed, 09 Sep 2026 08:19:45 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-09T09:00:01.696Z"
+  },
+  {
+    "title": "Bangladesh fights world's worst measles outbreak as vaccination gaps fuel spread - Reuters",
+    "description": "Bangladesh fights world's worst measles outbreak as vaccination gaps fuel spread  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVzVQbDljaXVGc3FMQ192cjE5aGJrZjIzWGdLd0pjcUdSQVRkS3pLRGRPdk5veFUyQV9EWldST1lZUXNicGROYWFMYlg5RXdvbDE1UlZMLXNwWUJVVEJpTzZCN2F1RkNSeWw5SFJkWG42dHItblBXMWlhTU1qZGlQbmgzbFF5RTNWdk1iUUt1RGc5YTF5SEJWQWNIbF9Ybi1qS2RDNTlCOHlLZWsyRjRIaWxyV296dS1FQXFuRHltMkUydlZsWnVTcGQxWkFSQTR5NklmVl85RVpsZWpjRUhLejZR?oc=5",
+    "pubDate": "Wed, 09 Sep 2026 06:05:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-09T09:00:01.696Z"
+  },
+  {
+    "title": "‘The View’ host Joy Behar finally sells Hamptons house for about half the original asking price",
+    "description": "“The View” host Joy Behar has officially offloaded her longtime Hamptons home for $5.65 million—more than $5 million below her original asking price.",
+    "link": "https://www.marketwatch.com/story/the-view-host-joy-behar-finally-sells-hamptons-house-for-about-half-the-original-asking-price-6e991e03?mod=mw_rss_topstories",
+    "pubDate": "Wed, 09 Sep 2026 08:58:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-09-09T09:00:01.696Z"
   }
 ]
