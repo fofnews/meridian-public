@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-07",
+      "lastSeen": "2026-09-09",
       "active": true,
       "entries": [
         {
@@ -351,6 +351,11 @@
           "date": "2026-09-07",
           "edition": "morning",
           "update": "Midterm election candidates are using references to Jeffrey Epstein in political attack ads, including accusations related to votes on releasing Epstein files and campaign donations tied to individuals with links to Epstein, according to the NY Times."
+        },
+        {
+          "date": "2026-09-09",
+          "edition": "evening",
+          "update": "Former NASCAR champion Brian Vickers broke his silence on scrutiny over his ties to Jeffrey Epstein and his divorce from Sarah Kellen with a cryptic social media post stating he was 'prepared for war,' according to Fox News."
         }
       ],
       "parentId": null
@@ -3541,6 +3546,11 @@
           "date": "2026-09-09",
           "edition": "morning",
           "update": "Iran conducted a missile attack on Jordan, which a U.S. official described as 'ineffective,' according to ABC News. The Trump administration's previously reported aviation sanctions were confirmed by Al Jazeera as part of a broader effort to economically isolate Tehran."
+        },
+        {
+          "date": "2026-09-09",
+          "edition": "evening",
+          "update": "Trump, speaking at Joint Base Andrews en route to the Republican convention in Dallas, predicted the war with Iran would end immediately after the midterm elections, stating 'They can't hold out any longer,' and forecast that oil and gas prices would fall shortly after the vote. The U.S. military struck five Iranian oil tankers in the Gulf of Oman following an Iranian attack on an American warship, with the total number of Iranian tankers destroyed now standing at five. Iran's IRGC claimed it subsequently targeted 10 ships near the Strait of Hormuz, including two U.S. vessels and eight oil tankers, in retaliation. Iran also announced the capture of an Anduril Dive-LD unmanned U.S. submarine, while Washington stated the vessel had malfunctioned the day before its seizure. Iran has been increasingly targeting Jordanian assets, including Al-Azraq base, as part of the broader escalation."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4059,8 +4069,8 @@
       "id": "cesar-chavez-sexual-abuse-investigation",
       "title": "Cesar Chavez Sexual Abuse Investigation",
       "firstSeen": "2026-03-18",
-      "lastSeen": "2026-03-31",
-      "active": false,
+      "lastSeen": "2026-09-09",
+      "active": true,
       "entries": [
         {
           "date": "2026-03-18",
@@ -4101,6 +4111,11 @@
           "date": "2026-03-31",
           "edition": "morning",
           "update": "Sexual assault allegations have been made against Cesar Chavez; residents in Delano farming town are conflicted about how to remember him as March 31 marks his birthday and longtime holiday."
+        },
+        {
+          "date": "2026-09-09",
+          "edition": "evening",
+          "update": "A new lawsuit has been filed against two foundations linked to Cesar Chavez, accusing them of failing to prevent 'abusive, rogue and inappropriate' behavior — the first legal action of its kind since sexual misconduct allegations against the union leader emerged earlier this year, according to the NY Times."
         }
       ],
       "parentId": null
@@ -5153,7 +5168,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-09",
       "active": true,
       "entries": [
         {
@@ -5665,6 +5680,11 @@
           "date": "2026-09-08",
           "edition": "evening",
           "update": "Saudi Arabia vowed firm retaliation after Houthi strikes wounded at least 73 civilians and caused fires at energy infrastructure in southern Saudi cities. Brent crude prices neared $100 per barrel, touching $99, following the attacks, with analysts expecting prices to remain elevated through the rest of the year. Gulf nations are reportedly building up defenses and developing alternative routes to bypass the Strait of Hormuz, according to the Washington Post. Saudi political analyst Khaled Batarfi stated the war with the Houthis will not be 'prolonged,' according to Al Jazeera."
+        },
+        {
+          "date": "2026-09-09",
+          "edition": "evening",
+          "update": "A seafarer aboard an oil products tanker was killed in an incident off Dubai, according to Reuters. Saudi Arabia's oil exports are declining sharply as oil prices exceed $100 per barrel, with the kingdom running out of viable routes to bypass potential conflict with Iran. Nearly 100 anti-war activists gathered outside the Sejong Centre in Seoul to protest a potential South Korean deployment to the Strait of Hormuz."
         }
       ]
     },
@@ -6073,7 +6093,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-07",
+      "lastSeen": "2026-09-09",
       "active": true,
       "entries": [
         {
@@ -6265,6 +6285,11 @@
           "date": "2026-09-07",
           "edition": "morning",
           "update": "An Israeli strike on a vehicle killed an eight-year-old girl and her father in Gaza on her first day of school, according to Al Jazeera, with Reuters also reporting a man and his daughter killed in a separate Israeli strike. An Israeli man was wounded in a stabbing attack in the occupied West Bank, according to Al Jazeera."
+        },
+        {
+          "date": "2026-09-09",
+          "edition": "evening",
+          "update": "An explosion at a weapons depot in Syria's Idlib region killed at least 14 people, with the death toll reported by Syrian state television. Saudi Arabia escalated its military campaign against Houthi forces in Yemen as clashes intensified, with the kingdom's oil-export routes again under threat, pushing the conflict closer to full-scale war."
         }
       ]
     },
@@ -6534,5 +6559,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-09T11:09:16.001Z"
+  "updatedAt": "2026-09-09T21:09:40.661Z"
 }
