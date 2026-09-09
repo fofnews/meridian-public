@@ -60,5 +60,78 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-09T04:15:02.352Z"
+  },
+  {
+    "title": "Christian Gonzalez Extension Changes Patriots-Seahawks Season Opener",
+    "description": "The New England Patriots couldn’t have waited any longer to extend cornerback Christian Gonzalez, but the move came just in time.",
+    "link": "https://www.newsweek.com/sports/nfl/christian-gonzalez-extension-changes-patriots-seahawks-season-opener-12418679",
+    "pubDate": "Wed, 09 Sep 2026 00:21:47 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-09T04:30:02.727Z"
+  },
+  {
+    "title": "State of play: Retiring Dem senator’s daughter holds slight lead in closely watched race",
+    "description": "Stefany Shaheen and Maura Sullivan remain locked in a too-close-to-call New Hampshire primary as Chris Pappas vacates the seat for a Senate bid.",
+    "link": "https://www.foxnews.com/politics/retiring-dem-senators-daughter-holds-slight-lead-closely-watched-race",
+    "pubDate": "Wed, 09 Sep 2026 00:22:29 -0400",
+    "source": "Fox News",
+    "categories": [
+      "662ed68f-1618-5a9b-8d04-f7eba0ceabaa",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/northeast/new-hampshire",
+      "fox-news/person/barack-obama",
+      "fox-news/politics/house-of-representatives",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-09-09T04:30:02.727Z"
+  },
+  {
+    "title": "Data shows Amazon jet’s key braking systems did not deploy during deadly Miami crash: NTSB",
+    "description": "The NTSB said the cargo jet’s wheel brakes were applied, but its speed brakes and thrust reversers did not deploy, according to available data.",
+    "link": "https://www.foxnews.com/us/data-shows-amazon-jets-key-braking-systems-did-not-deploy-deadly-miami-crash-ntsb",
+    "pubDate": "Wed, 09 Sep 2026 00:07:13 -0400",
+    "source": "Fox News",
+    "categories": [
+      "3ee7da13-e89e-550f-9f17-95cd03fcc137",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/southeast/florida",
+      "fox-news/us/miami",
+      "fox-news/travel/general/airports",
+      "fox-news/tech/companies/amazon",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-09-09T04:30:02.727Z"
+  },
+  {
+    "title": "Devin Williams ‘moving in right direction’ as he hopes to pitch for Mets again this season",
+    "description": "Williams’ stated goal since he was placed on the IL was to return this season.",
+    "link": "https://nypost.com/2026/09/09/sports/devin-williams-still-hopes-to-pitch-for-mets-again-this-season/",
+    "pubDate": "Wed, 09 Sep 2026 00:27:17 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-09T04:30:02.727Z"
+  },
+  {
+    "title": "Jazz Chisholm Jr. exits with thumb injury in Yankees concern: ‘We’ll see’",
+    "description": "Jazz Chisholm Jr. was pulled in the top of the ninth inning Tuesday after jamming his right thumb while diving into second base in the bottom of the eighth.",
+    "link": "https://nypost.com/2026/09/09/sports/jazz-chisholm-jr-exits-with-thumb-injury-in-yankees-concern/",
+    "pubDate": "Wed, 09 Sep 2026 00:16:44 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-09T04:30:02.727Z"
+  },
+  {
+    "title": "Cam Schlittler pads Cy Young case with his latest Yankees gem: ‘Best pitcher in the league’",
+    "description": "Cam Schlittler strengthens his AL Cy Young case with another Yankees gem in a 5-3 win over Colorado.",
+    "link": "https://nypost.com/2026/09/09/sports/cam-schlittler-pads-cy-young-case-with-latest-yankees-gem/",
+    "pubDate": "Wed, 09 Sep 2026 00:15:37 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-09T04:30:02.727Z"
   }
 ]
