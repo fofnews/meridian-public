@@ -133,5 +133,16 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-09T04:30:02.727Z"
+  },
+  {
+    "title": "NTSB to release readout from cockpit recorder after deadly Amazon cargo plane crash",
+    "description": "The National Transportation Safety Board expects to interview the two pilots who were in the cockpit of an Amazon Air cargo plane that overran a runway.",
+    "link": "https://abcnews.com/US/ntsb-release-readout-cockpit-voice-recorder-amazon-cargo/story?id=136292103",
+    "pubDate": "Wed, 09 Sep 2026 00:43:31 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-09-09T04:45:01.250Z"
   }
 ]
