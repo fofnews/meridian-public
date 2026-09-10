@@ -52,5 +52,64 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-10T04:15:03.200Z"
+  },
+  {
+    "title": "Key takeaways from Trump's GOP midterm convention speech",
+    "description": "On his party's biggest stage, Trump again puts himself in the center of the midterms, urging his supporters to pretend \"I'm on the ballot\" in a bid to energize the GOP.",
+    "link": "https://abcnews.com/Politics/key-takeaways-trumps-gop-midterm-convention-speech/story?id=136324428",
+    "pubDate": "Thu, 10 Sep 2026 00:23:30 -0400",
+    "source": "ABC News",
+    "categories": [
+      "politics"
+    ],
+    "collectedAt": "2026-09-10T04:30:02.755Z"
+  },
+  {
+    "title": "Trump pitches $5,000 checks, but only if GOP wins House and Senate",
+    "description": "President Trump vowed Wednesday to send a $5,000 \"dividend\" to every American citizen after the midterms, but only if Republicans hold onto control of Congress. He didn't offer details on how the payments would work.",
+    "link": "https://www.cbsnews.com/news/trump-dividends-5000-checks-rnc-midterm-convention/",
+    "pubDate": "Thu, 10 Sep 2026 00:25:47 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-10T04:30:02.755Z"
+  },
+  {
+    "title": "Iran war will not end until after November US elections, says Trump",
+    "description": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
+    "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 10 Sep 2026 04:21:00 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-10T04:30:02.755Z"
+  },
+  {
+    "title": "Drake Maye's terrible decision gifts Seahawks opening night win as Patriots left stunned to start NFL season",
+    "description": "Josh Jobe's acrobatic end-zone interception sealed the Seattle Seahawks' 13-10 win, as Drake Maye threw three picks in the NFL season opener.",
+    "link": "https://www.foxnews.com/outkick-sports/drake-maye-terrible-decision-gifts-seahawks-opening-night-win-patriots-left-stunned-start-nfl-season",
+    "pubDate": "Thu, 10 Sep 2026 00:10:00 -0400",
+    "source": "Fox News",
+    "categories": [
+      "e7b0de68-236c-5abb-8ef7-52434dfb769e",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/sports/nfl/new-england-patriots",
+      "fox-news/sports/nfl/seattle-seahawks",
+      "fox-news/person/drake-maye",
+      "fox-news/person/sam-darnold",
+      "fox-news/sports",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-09-10T04:30:02.755Z"
+  },
+  {
+    "title": "Delta plane plunges 27,000 feet in 10 minutes as oxygen masks suddenly drop aboard flight",
+    "description": "Delta plane plunges 27,000 feet in 10 minutes as oxygen masks suddenly drop aboard flight",
+    "link": "https://nypost.com/2026/09/10/us-news/delta-plane-plunges-27000-feet-in-10-minutes-as-oxygen-masks-suddenly-drop-aboard-flight/",
+    "pubDate": "Thu, 10 Sep 2026 00:24:36 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-10T04:30:02.755Z"
   }
 ]
