@@ -5710,6 +5710,11 @@
           "date": "2026-09-10",
           "edition": "morning",
           "update": "Iran struck additional ships and expanded a no-go zone outside the Strait of Hormuz, marking a further escalation of Iranian naval activity in the region, according to Newsmax. Brent crude prices held above $100 per barrel as tanker attacks intensified fears over global supply disruptions, according to Reuters. Iran also signaled readiness to contest U.S. leverage in the strait even as the U.S. Navy has helped more vessels navigate the waterway."
+        },
+        {
+          "date": "2026-09-10",
+          "edition": "evening",
+          "update": "Houthi forces seized the strategic Red Sea port city of Mokha (Mocha), expanding Iranian-backed territorial control along Yemen's southern coast and bringing the group significantly closer to dominating the Bab el-Mandeb Strait. The capture severed key supply lines, displaced thousands of civilians, and heightened international concern over the security of a critical global trade and energy corridor."
         }
       ]
     },
@@ -5788,7 +5793,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-09-01",
+      "lastSeen": "2026-09-10",
       "active": true,
       "entries": [
         {
@@ -6020,6 +6025,11 @@
           "date": "2026-09-01",
           "edition": "evening",
           "update": "Congolese authorities have shifted high-risk pupils to home learning amid fears that school reopenings could accelerate the spread of Ebola, according to Al Jazeera."
+        },
+        {
+          "date": "2026-09-10",
+          "edition": "evening",
+          "update": "U.S. pediatrician Dr. Rupa Narra traveled to the Democratic Republic of Congo to treat children with Ebola, describing the conditions as beyond anything she had previously encountered in her medical career."
         }
       ]
     },
@@ -6320,6 +6330,11 @@
           "date": "2026-09-10",
           "edition": "morning",
           "update": "President Trump declined to state whether the U.S. opposed sanctions imposed by Britain, Canada, and France targeting Israeli settlements over violence against Palestinians in the West Bank. Thousands of people protested in Ljubljana as Slovenia opened Israel's first embassy in the country, a move that also sparked an impeachment bid against nationalist Prime Minister Janez Jansa."
+        },
+        {
+          "date": "2026-09-10",
+          "edition": "evening",
+          "update": "Oil and gas prices surged and borrowing costs rose as financial markets reacted to escalating Middle East tensions, with investors fearing a prolonged conflict involving Iran. President Trump denied reports that Iranian forces damaged U.S. warplanes during a raid on an air base in Jordan, contradicting a U.S. official cited by Newsmax who stated Iran did damage the aircraft. A new report found that U.S. airstrikes targeting Houthis in Yemen killed scores of civilians, with most deaths occurring during Trump's second term. Vice President JD Vance privately received sobering assessments about the Iran war that contradicted the optimistic public statements being made by him, Trump, and other top administration officials."
         }
       ]
     },
@@ -6589,5 +6604,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-10T11:09:52.947Z"
+  "updatedAt": "2026-09-10T21:08:50.720Z"
 }
