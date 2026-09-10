@@ -364,7 +364,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-10",
       "active": true,
       "entries": [
         {
@@ -506,6 +506,11 @@
           "date": "2026-09-08",
           "edition": "morning",
           "update": "The IAEA warned Iran to cooperate with nuclear inspectors as Western powers continued pushing to refer Iran's nuclear file to the UN Security Council."
+        },
+        {
+          "date": "2026-09-10",
+          "edition": "morning",
+          "update": "Analysts identified accelerating construction activity at Iran's underground Pickaxe Mountain nuclear facility, according to the New York Post, as the Trump administration considers options for striking the heavily fortified site. Separately, Reuters reported that Iran is likely to reverse-engineer a captured U.S. underwater drone following its seizure by Iranian forces."
         }
       ],
       "parentId": null
@@ -514,7 +519,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-09",
+      "lastSeen": "2026-09-10",
       "active": true,
       "entries": [
         {
@@ -1241,6 +1246,11 @@
           "date": "2026-09-09",
           "edition": "morning",
           "update": "Ukrainian President Volodymyr Zelensky presented an unexpected $27 billion budget gap, rattling European allies and underscoring the escalating financial toll of the war, according to the New York Times."
+        },
+        {
+          "date": "2026-09-10",
+          "edition": "morning",
+          "update": "A drone incursion over Moldova closed the country's airspace and delayed Zelenskyy's flight as he traveled to Norway for the Norwegian king's state funeral. Norway's prime minister stated the drone had 'almost hit' Zelenskyy's plane. Separately, Russia has deployed new jet-powered drones capable of speeds up to 300mph, outpacing Ukraine's existing air defense interceptors, according to BBC News."
         }
       ],
       "parentId": null
@@ -1474,7 +1484,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-10",
       "active": true,
       "entries": [
         {
@@ -1796,6 +1806,11 @@
           "date": "2026-09-05",
           "edition": "morning",
           "update": "Israeli police shot and killed a Palestinian in Jerusalem, while Israeli forces blocked activists from delivering aid to homes in Qusra besieged by settlers. The U.S. ambassador visited a Palestinian town in the West Bank amid a reported rise in settler violence, according to Reuters."
+        },
+        {
+          "date": "2026-09-10",
+          "edition": "morning",
+          "update": "Iran state media reported that 'enemy' projectiles struck areas in Sirik, while Tehran simultaneously announced readiness for dialogue with regional nations to foster mutual trust and achieve sustainable security. Iran has increased its targeting of Jordan's Muwaffaq Salti Air Base near Al-Azraq in recent weeks, according to Al Jazeera, with U.S. officials noting the strikes caused limited damage but warned they may result in traumatic brain injuries among American service members."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4435,7 +4450,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-09",
+      "lastSeen": "2026-09-10",
       "active": true
     },
     {
@@ -5053,7 +5068,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-10",
       "active": true,
       "entries": [
         {
@@ -5160,6 +5175,11 @@
           "date": "2026-09-08",
           "edition": "evening",
           "update": "During a phone call with Trump, Russian President Vladimir Putin assured the U.S. president that Moscow has no aggressive plans toward Europe, according to the Kremlin."
+        },
+        {
+          "date": "2026-09-10",
+          "edition": "morning",
+          "update": "President Trump described a phone call with Vladimir Putin as 'great' and confirmed Washington is seeking to build momentum toward a peace deal. U.S. Director of National Intelligence John Ratcliffe is preparing to take on a larger role in Russia-Ukraine negotiations, according to the Financial Times."
         }
       ]
     },
@@ -5168,7 +5188,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-09-09",
+      "lastSeen": "2026-09-10",
       "active": true,
       "entries": [
         {
@@ -5685,6 +5705,11 @@
           "date": "2026-09-09",
           "edition": "evening",
           "update": "A seafarer aboard an oil products tanker was killed in an incident off Dubai, according to Reuters. Saudi Arabia's oil exports are declining sharply as oil prices exceed $100 per barrel, with the kingdom running out of viable routes to bypass potential conflict with Iran. Nearly 100 anti-war activists gathered outside the Sejong Centre in Seoul to protest a potential South Korean deployment to the Strait of Hormuz."
+        },
+        {
+          "date": "2026-09-10",
+          "edition": "morning",
+          "update": "Iran struck additional ships and expanded a no-go zone outside the Strait of Hormuz, marking a further escalation of Iranian naval activity in the region, according to Newsmax. Brent crude prices held above $100 per barrel as tanker attacks intensified fears over global supply disruptions, according to Reuters. Iran also signaled readiness to contest U.S. leverage in the strait even as the U.S. Navy has helped more vessels navigate the waterway."
         }
       ]
     },
@@ -6093,7 +6118,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-09",
+      "lastSeen": "2026-09-10",
       "active": true,
       "entries": [
         {
@@ -6290,6 +6315,11 @@
           "date": "2026-09-09",
           "edition": "evening",
           "update": "An explosion at a weapons depot in Syria's Idlib region killed at least 14 people, with the death toll reported by Syrian state television. Saudi Arabia escalated its military campaign against Houthi forces in Yemen as clashes intensified, with the kingdom's oil-export routes again under threat, pushing the conflict closer to full-scale war."
+        },
+        {
+          "date": "2026-09-10",
+          "edition": "morning",
+          "update": "President Trump declined to state whether the U.S. opposed sanctions imposed by Britain, Canada, and France targeting Israeli settlements over violence against Palestinians in the West Bank. Thousands of people protested in Ljubljana as Slovenia opened Israel's first embassy in the country, a move that also sparked an impeachment bid against nationalist Prime Minister Janez Jansa."
         }
       ]
     },
@@ -6559,5 +6589,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-09T21:09:40.661Z"
+  "updatedAt": "2026-09-10T11:09:52.947Z"
 }
