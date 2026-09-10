@@ -450,5 +450,59 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-10T06:00:01.552Z"
+  },
+  {
+    "title": "‘Pretend That I Am Running’: 7 Takeaways From the G.O.P. Midterm Convention",
+    "description": "At a first-of-its-kind midterm convention, President Trump mostly offered retreads and self-congratulation. Then, he offered to pay Americans $5,000 apiece if Republicans kept power.",
+    "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-republican-convention-speech-takeaways.html",
+    "pubDate": "Thu, 10 Sep 2026 05:22:40 +0000",
+    "source": "NY Times",
+    "categories": [
+      "midterm elections (2026)"
+    ],
+    "collectedAt": "2026-09-10T06:15:01.657Z"
+  },
+  {
+    "title": "Trump Floats $5,000 ‘Trump Dividend’ Checks if Republicans Win the Midterms",
+    "description": "In his convention speech, the president floated a $5,000 “Trump Dividend” for every adult American if Republicans keep control of Congress. The idea, like many others, may not come to pass.",
+    "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-5000-dollar-checks.html",
+    "pubDate": "Thu, 10 Sep 2026 05:35:19 +0000",
+    "source": "NY Times",
+    "categories": [
+      "trump, donald j",
+      "republican party",
+      "midterm elections (2026)",
+      "united states politics and government"
+    ],
+    "collectedAt": "2026-09-10T06:15:01.657Z"
+  },
+  {
+    "title": "Dodgers reduce magic number to 6, could win NL West on upcoming trip",
+    "description": "When the Dodgers are crowned the National League West champions, Shohei Ohtani won’t be with them. With a 14-1 victory over the Cincinnati Reds on Wednesday night at Dodgers Stadium, Los Angeles reduced its magic number to win the division to six, making it likely they will clinch the division title on their upcoming two-city,...",
+    "link": "https://nypost.com/2026/09/10/sports/dodgers-lower-magic-number-to-6-may-win-nl-west-on-upcoming-trip/",
+    "pubDate": "Thu, 10 Sep 2026 02:13:53 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-10T06:15:01.657Z"
+  },
+  {
+    "title": "Three ‘narco-terrorists’ killed in the Caribbean by US military forces",
+    "description": "United States military forces “executed a kinetic strike” on a suspected drug-trafficking boat operating in the Caribbean Sea on Wednesday. Three “narco-terrorists” were killed in the strike, according to a release issued by forces with the U.S. Southern Command. It is the first known strike on a suspected drug-trafficking vessel that killed the occupants aboard […]",
+    "link": "https://www.washingtonexaminer.com/news/4720561/three-narco-terrorists-killed-in-the-caribbean-by-us-military-forces/",
+    "pubDate": "Thu, 10 Sep 2026 06:08:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "airstrikes",
+      "cartels",
+      "donald trump",
+      "drug cartels",
+      "drugs",
+      "military",
+      "president donald trump",
+      "south america",
+      "trump administration"
+    ],
+    "collectedAt": "2026-09-10T06:15:01.657Z"
   }
 ]
