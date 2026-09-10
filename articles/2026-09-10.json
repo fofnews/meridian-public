@@ -292,5 +292,36 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-10T05:15:02.280Z"
+  },
+  {
+    "title": "Trump’s Promise of $5,000 Dividend Checks Follows Past Cash Pledges That Never Materialized",
+    "description": "President Trump is again talking up the possibility that the federal government will send Americans thousands of dollars in cash.",
+    "link": "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-check-midterms.html",
+    "pubDate": "Thu, 10 Sep 2026 04:44:52 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "rebates and refunds",
+      "tax cuts and jobs act (2017)",
+      "taxation",
+      "politics and government",
+      "federal budget (us)",
+      "midterm elections (2026)",
+      "customs (tariff)",
+      "musk, elon",
+      "trump, donald j"
+    ],
+    "collectedAt": "2026-09-10T05:30:02.544Z"
+  },
+  {
+    "title": "Fighting escalates in Yemen; Houthi attacks trigger alerts in Saudi Arabia",
+    "description": "Yemen's government accuses Houthis of killing three children as rebels claim Saudi forces launched 54 air raids in 12 hours.",
+    "link": "https://www.aljazeera.com/news/2026/9/10/fighting-escalates-in-yemen-houthi-attacks-trigger-alerts-in-saudi-arabia?traffic_source=rss",
+    "pubDate": "Thu, 10 Sep 2026 05:09:39 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-10T05:30:02.544Z"
   }
 ]
