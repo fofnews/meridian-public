@@ -411,5 +411,54 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-11T06:00:01.235Z"
+  },
+  {
+    "title": "Oil prices stay above $108 and Asian shares decline, tracking Wall Street losses",
+    "description": "Asian shares are declining while tracking Wall Street losses",
+    "link": "https://abcnews.com/Business/wireStory/oil-prices-stay-108-asian-shares-decline-tracking-136357240",
+    "pubDate": "Fri, 11 Sep 2026 02:03:33 -0400",
+    "source": "ABC News",
+    "categories": [
+      "business"
+    ],
+    "collectedAt": "2026-09-11T06:15:02.232Z"
+  },
+  {
+    "title": "Legalised dying bill for England and Wales faces new vote in Commons",
+    "description": "The proposal was backed by a majority of MPs earlier this year but did not become law after its progress was stalled by peers.",
+    "link": "https://www.bbc.co.uk/news/articles/cx2z770jr03o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:12:23 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-11T06:15:02.232Z"
+  },
+  {
+    "title": "Is the US more anti-Muslim now than after 9/11?",
+    "description": "Twenty-five years after 9/11, negative perceptions of Islam persist even as Muslim political representation grows.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/09-11-hosted-us-911-muslims-withmusic?traffic_source=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:00:55 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-09-11T06:15:02.232Z"
+  },
+  {
+    "title": "Next 9/11 shock might be being planned where we're not looking, UK's MI5 chief says - Reuters",
+    "description": "Next 9/11 shock might be being planned where we're not looking, UK's MI5 chief says  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY0hTTHdvTi1Eemh3MkxVb3lUMXU0UThCcVEtd0ZxZlBYWmZuLTlaR1c1aGVyaXhScXZBcG5ZTkVOZFhZN1ZxT3pMcUhxVjljRXNrUG9qNVkyYlUyMTVRM05VYmlRQ3pZVFhFMHl0OW1na3EyeVdxWU12emo4cC1RNG5yV2lfczlaMGtmWWFtMnRHQUw0RDdFN0JHeHcya3gteDZybXV6MlVIMElzSk85eExUWmltVWl0WllfU09nRUxXUHl1c1owZlpTT2N0czVsUnpIUQ?oc=5",
+    "pubDate": "Fri, 11 Sep 2026 04:05:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-11T06:15:02.232Z"
+  },
+  {
+    "title": "Malaysia's king postpones decision on ex-PM Najib Razak's pardon bid - Reuters",
+    "description": "Malaysia's king postpones decision on ex-PM Najib Razak's pardon bid  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbmd1X1M2d1g0c3ZkQlFGS1hoZDI5dThuUDF5ejFxbGI2TjdJaHJuNDBnV3IzRS1CQ2pGdEFjU2FZZmhzZ01wcWpRT1BoOU84Q2FENTZ1bkZzdFN4WkFhYUFLc281VEhIU2lZaVpZQ25GdzRoNERrWVFtczlEbGRNb2JlM3F5anpRLXp5TjhCVTVkcDd3OFAtRjEzQ2llRkxrRTRkRGRtZmROc0pybmR5enJqQXhiNVlPWWc?oc=5",
+    "pubDate": "Fri, 11 Sep 2026 04:17:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-11T06:15:02.232Z"
   }
 ]
