@@ -586,5 +586,50 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-11T07:00:01.333Z"
+  },
+  {
+    "title": "The Road to 9/11: Download Your Free Collection",
+    "description": "On the 25th anniversary of September 11, we've brought together our Road to 9/11 series into a single downloadable edition.",
+    "link": "https://www.newsweek.com/road-to-9-11-free-collection-download-12429486",
+    "pubDate": "Fri, 11 Sep 2026 03:11:24 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-11T07:15:01.357Z"
+  },
+  {
+    "title": "Trump-Endorsed Candidate Loses Indiana Primary After Court Ruling",
+    "description": "The Indiana Supreme Court overturned a decision that certified the Trump-backed candidate as the winner of a GOP primary.",
+    "link": "https://www.newsweek.com/trump-endorsed-candidate-loses-indiana-primary-after-court-ruling-12429472",
+    "pubDate": "Fri, 11 Sep 2026 02:57:42 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-11T07:15:01.357Z"
+  },
+  {
+    "title": "Dear Abby: I want to find out what happened in my estranged friend’s death",
+    "description": "Dear Abby advises on navigating an estranged friend's death and mixed emotions over a birthday.",
+    "link": "https://nypost.com/2026/09/11/lifestyle/dear-abby-i-wonder-about-my-estranged-friends-death/",
+    "pubDate": "Fri, 11 Sep 2026 03:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-11T07:15:01.357Z"
+  },
+  {
+    "title": "Iran’s Araghchi thanks acting Navy Secretary Cao for saying Iran ‘blew the hell out of’ US base in Bahrain",
+    "description": "Acting U.S. Navy Secretary Hung Cao’s shocking admission that the Iranian military caused extensive damage to the Navy base in Bahrain, saying that Iran “blew the hell out of Bahrain,” did not go unnoticed by Iran’s foreign minister Seyed Abbas Araghchi. In a social media post, early Friday morning, Araghchi expressed gratitude for the acting […]",
+    "link": "https://www.washingtonexaminer.com/news/4723311/araghchi-thanks-cao-for-saying-iran-blew-the-hell-out-of-us-base-in-bahrain/",
+    "pubDate": "Fri, 11 Sep 2026 07:11:44 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "airstrikes",
+      "foreign affairs",
+      "iran",
+      "middle east",
+      "military",
+      "navy",
+      "trump administration"
+    ],
+    "collectedAt": "2026-09-11T07:15:01.357Z"
   }
 ]
