@@ -685,5 +685,36 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-11T07:30:01.276Z"
+  },
+  {
+    "title": "Why Houthi military gains in Yemen may further increase gas prices",
+    "description": "A Houthi advance along Yemen's Red Sea coast could help push gas prices up even more as the Iran-backed group also launches attacks on Saudi Arabia's oil facilities",
+    "link": "https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices",
+    "pubDate": "Fri, 11 Sep 2026 03:32:27 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-09-11T07:45:01.736Z"
+  },
+  {
+    "title": "Settlers, soldiers, and Israeli impunity in the West Bank",
+    "description": "Armed settlers in military uniforms are seizing land and attacking Palestinian communities with near-total impunity.",
+    "link": "https://www.aljazeera.com/news/2026/9/11/settlers-soldiers-and-israeli-impunity-in-the-west-bank?traffic_source=rss",
+    "pubDate": "Fri, 11 Sep 2026 07:36:43 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-11T07:45:01.736Z"
+  },
+  {
+    "title": "‘Not dolls to play with’: Afghan medical students face Pakistan expulsion",
+    "description": "Students say they were legally admitted and funded to study in Pakistan, but now face being sent home mid-degree.",
+    "link": "https://www.aljazeera.com/features/2026/9/11/not-dolls-to-play-with-afghan-medical-students-face-pakistan-expulsion?traffic_source=rss",
+    "pubDate": "Fri, 11 Sep 2026 07:32:06 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "features"
+    ],
+    "collectedAt": "2026-09-11T07:45:01.736Z"
   }
 ]
