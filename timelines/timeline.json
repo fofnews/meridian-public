@@ -519,7 +519,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-10",
+      "lastSeen": "2026-09-11",
       "active": true,
       "entries": [
         {
@@ -1251,6 +1251,11 @@
           "date": "2026-09-10",
           "edition": "morning",
           "update": "A drone incursion over Moldova closed the country's airspace and delayed Zelenskyy's flight as he traveled to Norway for the Norwegian king's state funeral. Norway's prime minister stated the drone had 'almost hit' Zelenskyy's plane. Separately, Russia has deployed new jet-powered drones capable of speeds up to 300mph, outpacing Ukraine's existing air defense interceptors, according to BBC News."
+        },
+        {
+          "date": "2026-09-11",
+          "edition": "morning",
+          "update": "A Russian strike on a shopping centre in the central Ukrainian city of Pavlohrad killed at least four people, according to Al Jazeera. Russian ground forces have shifted their main assault focus to Kramatorsk and Slovyansk in the Donbas, with authorities urging residents to evacuate. Russian forces are also advancing toward Izium as frontline fighting draws closer to the city. The Russian Orthodox Church announced it is distributing a relic — a piece of a deceased prince's hand — among combat units along the frontlines to boost troop morale."
         }
       ],
       "parentId": null
@@ -1259,7 +1264,7 @@
       "id": "sinaloa-cartel-violence",
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-11",
       "active": true,
       "entries": [
         {
@@ -1411,6 +1416,11 @@
           "date": "2026-09-08",
           "edition": "morning",
           "update": "U.S. Southern Command announced on Labor Day that U.S. forces sank a fifth alleged refueling vessel linked to the Los Choneros cartel — an Ecuadorian criminal organization — in the Eastern Pacific Ocean. SOUTHCOM stated the vessel had supported at-sea drug trafficking operations, as part of ongoing counter-narcotics operations in the Western Hemisphere."
+        },
+        {
+          "date": "2026-09-11",
+          "edition": "morning",
+          "update": "Secretary of State Marco Rubio announced the foreign terrorist designation of Los Tiguerones during his diplomatic tour through Latin America, bringing the total number of U.S.-designated foreign terrorist organizations in Latin America to 21."
         }
       ],
       "parentId": null
@@ -1989,7 +1999,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-11",
       "active": true,
       "entries": [
         {
@@ -2511,6 +2521,11 @@
           "date": "2026-09-08",
           "edition": "morning",
           "update": "Israeli airstrikes killed at least 12 people, including two children, in southern Lebanon, with two strikes hitting the village of Kfar Rumman — one striking a residential building — according to Lebanon's Health Ministry."
+        },
+        {
+          "date": "2026-09-11",
+          "edition": "morning",
+          "update": "Israel's military announced it destroyed a network of Hezbollah tunnels on the strategic Ali al-Taher ridge in southern Lebanon."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2519,7 +2534,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-09",
+      "lastSeen": "2026-09-11",
       "active": true,
       "entries": [
         {
@@ -3566,6 +3581,11 @@
           "date": "2026-09-09",
           "edition": "evening",
           "update": "Trump, speaking at Joint Base Andrews en route to the Republican convention in Dallas, predicted the war with Iran would end immediately after the midterm elections, stating 'They can't hold out any longer,' and forecast that oil and gas prices would fall shortly after the vote. The U.S. military struck five Iranian oil tankers in the Gulf of Oman following an Iranian attack on an American warship, with the total number of Iranian tankers destroyed now standing at five. Iran's IRGC claimed it subsequently targeted 10 ships near the Strait of Hormuz, including two U.S. vessels and eight oil tankers, in retaliation. Iran also announced the capture of an Anduril Dive-LD unmanned U.S. submarine, while Washington stated the vessel had malfunctioned the day before its seizure. Iran has been increasingly targeting Jordanian assets, including Al-Azraq base, as part of the broader escalation."
+        },
+        {
+          "date": "2026-09-11",
+          "edition": "morning",
+          "update": "Iran's IRGC announced it attacked a U.S. unmanned vessel in the Strait of Hormuz, while UKMTO reported projectiles struck two ships off the coast of Oman. A U.S. Air Force colonel whose F-15E was shot down over Iran in April spoke with CBS News' 60 Minutes, describing how he and another officer evaded capture before being rescued by U.S. Special Forces."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4450,7 +4470,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-10",
+      "lastSeen": "2026-09-11",
       "active": true
     },
     {
@@ -4938,7 +4958,7 @@
       "title": "Cuba Military Intervention",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-04-29",
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-11",
       "active": true,
       "entries": [
         {
@@ -5005,6 +5025,11 @@
           "date": "2026-09-04",
           "edition": "morning",
           "update": "The U.S. imposed a new round of sanctions on Cuba, while Cuba announced new pro-market reforms amid ongoing threats of military action from the Trump administration."
+        },
+        {
+          "date": "2026-09-11",
+          "edition": "morning",
+          "update": "A lawsuit alleges that the Pan American Health Organization helped Cuba coerce approximately 10,000 doctors into serving on medical missions abroad, with Cuban doctors claiming they were forced to act as propaganda for the Communist regime."
         }
       ]
     },
@@ -5188,7 +5213,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-09-10",
+      "lastSeen": "2026-09-11",
       "active": true,
       "entries": [
         {
@@ -5715,6 +5740,11 @@
           "date": "2026-09-10",
           "edition": "evening",
           "update": "Houthi forces seized the strategic Red Sea port city of Mokha (Mocha), expanding Iranian-backed territorial control along Yemen's southern coast and bringing the group significantly closer to dominating the Bab el-Mandeb Strait. The capture severed key supply lines, displaced thousands of civilians, and heightened international concern over the security of a critical global trade and energy corridor."
+        },
+        {
+          "date": "2026-09-11",
+          "edition": "morning",
+          "update": "UN Special Envoy for Yemen Hans Grundberg warned the UN Security Council that Yemen's war has entered a 'dangerous phase,' calling for urgent steps to protect civilians and trade routes. Iran's Revolutionary Guard claimed its navy captured a U.S.-operated sail drone near the entrance to the Strait of Hormuz, according to Al Jazeera. President Trump declined Saudi Crown Prince Mohammed bin Salman's request for U.S. strikes on Houthi forces in Yemen, according to Axios. The U.S. has made progress in reopening the Strait of Hormuz amid ongoing conflict with Iran, though hostilities have not concluded, according to AP News."
         }
       ]
     },
@@ -6383,7 +6413,7 @@
       "title": "US Cyberattacks and Infrastructure Security",
       "parentId": null,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-11",
       "active": true,
       "entries": [
         {
@@ -6485,6 +6515,11 @@
           "date": "2026-09-08",
           "edition": "evening",
           "update": "Google reported that Chinese hackers are running AI workloads on compromised networks to avoid detection, with one China-linked group specifically targeting academic, medical, and military AI research. Boston Scientific announced it is unlikely to meet its 2026 sales and profit forecasts following a cyberattack. Romania's intelligence service announced it prevented a Russian sabotage operation, according to Reuters. German police detained a suspect in connection with sabotage attacks on the country's power grid."
+        },
+        {
+          "date": "2026-09-11",
+          "edition": "morning",
+          "update": "Anthropic announced it disrupted influence campaigns from Russian and Chinese actors who attempted to misuse its Claude AI models for coordinated operations."
         }
       ]
     },
@@ -6604,5 +6639,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-10T21:08:50.720Z"
+  "updatedAt": "2026-09-11T11:09:37.224Z"
 }
