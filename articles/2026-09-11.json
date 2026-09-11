@@ -1563,5 +1563,439 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-11T10:00:09.288Z"
+  },
+  {
+    "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods",
+    "description": "Diesel prices in the U.S. has hit yet another record, soaring past $6 a gallon on average as Washington's war with Iran disrupts the world's flow of fuel",
+    "link": "https://www.npr.org/2026/09/11/g-s1-142842/us-diesel-6-a-gallon",
+    "pubDate": "Fri, 11 Sep 2026 06:04:04 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-09-11T10:15:02.936Z"
+  },
+  {
+    "title": "Where does the case against the alleged 9/11 plotters stand?",
+    "description": "The trial of Khalid Sheikh Mohammed and three other alleged 9/11 plotters is scheduled to begin in June 2028.",
+    "link": "https://www.cbsnews.com/news/khalid-sheikh-mohammed-911-plotters-trial/",
+    "pubDate": "Fri, 11 Sep 2026 06:00:20 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-11T10:15:02.936Z"
+  },
+  {
+    "title": "25 years after 9/11 attacks, America reflects and remembers",
+    "description": "Four former presidents plan to gather at the World Trade Center memorial site for 9/11 commemorations, while President Trump will visit the Pentagon.",
+    "link": "https://www.cbsnews.com/live-updates/september-11-terrorist-attacks-25-years-memorial-2026-09-11/",
+    "pubDate": "Fri, 11 Sep 2026 06:00:00 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-11T10:15:02.936Z"
+  },
+  {
+    "title": "After 9/11, Islamophobia Shaped a Generation of Muslim New Yorkers",
+    "description": "The attacks unleashed a wave of hate, but the years since have seen Muslim Americans’ political and cultural influence grow.",
+    "link": "https://www.nytimes.com/2026/09/11/nyregion/911-attacks-muslim-sikh-new-yorkers.html",
+    "pubDate": "Fri, 11 Sep 2026 07:00:08 +0000",
+    "source": "NY Times",
+    "categories": [
+      "muslims and islam",
+      "muslim americans",
+      "september 11 (2001)",
+      "terrorism",
+      "discrimination",
+      "council on american-islamic relations",
+      "new york immigration coalition"
+    ],
+    "collectedAt": "2026-09-11T10:15:02.936Z"
+  },
+  {
+    "title": "What JD Vance Knew About the War, and New Warnings About A.I.",
+    "description": "Plus, your Friday news quiz.",
+    "link": "https://www.nytimes.com/2026/09/11/podcasts/the-headlines/jd-vance-iran-war-ai.html",
+    "pubDate": "Fri, 11 Sep 2026 10:00:14 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "artificial intelligence",
+      "anthropic ai llc",
+      "vance, j d"
+    ],
+    "collectedAt": "2026-09-11T10:15:02.936Z"
+  },
+  {
+    "title": "How to Make Sense of Mayhem in the Bond Market",
+    "description": "The stock market is easy to talk about. But bonds are a different story. Our columnist has some pointers to help make you a bond maven.",
+    "link": "https://www.nytimes.com/2026/09/11/business/bond-market-interest-rates.html",
+    "pubDate": "Fri, 11 Sep 2026 09:03:06 +0000",
+    "source": "NY Times",
+    "categories": [
+      "stocks and bonds",
+      "government bonds",
+      "inflation (economics)",
+      "interest rates",
+      "asset allocation (personal finances)",
+      "exchange traded funds",
+      "personal finances"
+    ],
+    "collectedAt": "2026-09-11T10:15:02.936Z"
+  },
+  {
+    "title": "How Trump Is Using the Postal Service to Intervene in Elections",
+    "description": "Our politics reporter Reid Epstein explains how the Trump administration is using the Postal Service to intervene in mail-in voting in state elections.",
+    "link": "https://www.nytimes.com/video/us/politics/100000011133866/how-trump-is-using-the-postal-service-to-intervene-in-elections.html",
+    "pubDate": "Fri, 11 Sep 2026 09:02:55 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "absentee voting",
+      "postal service (us)",
+      "trump, donald j"
+    ],
+    "collectedAt": "2026-09-11T10:15:02.936Z"
+  },
+  {
+    "title": "For China, a Mock A.I. Attack on WeChat Signals a Dangerous New Era",
+    "description": "The demonstration of a potent cyberweapon has exposed China’s vulnerabilities and added to the urgency of A.I. safety talks between Beijing and Washington.",
+    "link": "https://www.nytimes.com/2026/09/11/world/asia/china-ai-attack-wechat.html",
+    "pubDate": "Fri, 11 Sep 2026 09:43:29 +0000",
+    "source": "NY Times",
+    "categories": [
+      "artificial intelligence",
+      "international relations",
+      "computer security",
+      "united states international relations",
+      "mobile applications",
+      "mobile commerce and payments",
+      "biological and chemical warfare",
+      "anthropic ai llc",
+      "central intelligence agency",
+      "communist party of china",
+      "brookings institution",
+      "eurasia group",
+      "fudan university",
+      "openclaw (myclaw) (artificial intelligence co)",
+      "tencent holdings ltd",
+      "wechat (mobile app)",
+      "trump, donald j",
+      "xi jinping",
+      "california",
+      "china",
+      "palo alto (calif)",
+      "shanghai (china)",
+      "united states"
+    ],
+    "collectedAt": "2026-09-11T10:15:02.936Z"
+  },
+  {
+    "title": "Unstitching the 1,000-Year-Old Story of the Bayeux Tapestry",
+    "description": "The medieval masterpiece has traveled from France to England for a once-in-a-lifetime show. It is not what our critic Jason Farago expected.",
+    "link": "https://www.nytimes.com/2026/09/11/arts/design/bayuex-tapestry-british-museum.html",
+    "pubDate": "Fri, 11 Sep 2026 09:34:24 +0000",
+    "source": "NY Times",
+    "categories": [
+      "museums",
+      "textiles",
+      "british museum",
+      "william i, king of england",
+      "great britain"
+    ],
+    "collectedAt": "2026-09-11T10:15:02.936Z"
+  },
+  {
+    "title": "As Russia Again Draws Near, a Frontline City Fears Obliteration This Time",
+    "description": "The Ukrainian city of Izium still bears the scars of Russian occupation from four years ago. As Moscow’s forces approach, residents are bracing for the worst.",
+    "link": "https://www.nytimes.com/2026/09/11/world/europe/ukraine-russia-izium-donetsk.html",
+    "pubDate": "Fri, 11 Sep 2026 09:00:38 +0000",
+    "source": "NY Times",
+    "categories": [
+      "russian invasion of ukraine (2022)",
+      "war crimes, genocide and crimes against humanity",
+      "avdiivka (ukraine)",
+      "donetsk (ukraine)",
+      "izium (ukraine)",
+      "kramatorsk (ukraine)",
+      "slovyansk (ukraine)",
+      "ukraine",
+      "donbas (ukraine)",
+      "putin, vladimir v",
+      "zelensky, volodymyr"
+    ],
+    "collectedAt": "2026-09-11T10:15:02.936Z"
+  },
+  {
+    "title": "Inside an Ancient Lebanese City Engulfed by War",
+    "description": "The Lebanese city of Tyre, one of the oldest metropolises in the world, has been left scarred.",
+    "link": "https://www.nytimes.com/2026/09/11/world/middleeast/tyre-engulfed-war-lebanon.html",
+    "pubDate": "Fri, 11 Sep 2026 09:37:54 +0000",
+    "source": "NY Times",
+    "categories": [
+      "lebanon",
+      "tyre (lebanon)",
+      "israel",
+      "hezbollah",
+      "iran",
+      "united states",
+      "beirut (lebanon)",
+      "trump, donald j"
+    ],
+    "collectedAt": "2026-09-11T10:15:02.936Z"
+  },
+  {
+    "title": "How Jimmy Kimmel’s James Talarico Interview Ratings Compare to Trump at RNC",
+    "description": "Kimmel's interview with the Democratic Texas Senate candidate garnered more than a million views in just a few hours on YouTube.",
+    "link": "https://www.newsweek.com/how-jimmy-kimmels-james-talarico-interview-ratings-compare-to-trump-at-rnc-12430240",
+    "pubDate": "Fri, 11 Sep 2026 06:08:18 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-11T10:15:02.936Z"
+  },
+  {
+    "title": "Map Shows Diesel Prices in Each State as Average Passes $6",
+    "description": "As the U.S. and Iran continue to exchange strikes, diesel prices in the U.S. have shot up past $6 per gallon, a new record.",
+    "link": "https://www.newsweek.com/map-shows-diesel-prices-in-each-state-as-average-passes-6-12430109",
+    "pubDate": "Fri, 11 Sep 2026 06:04:11 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-11T10:15:02.936Z"
+  },
+  {
+    "title": "UAE revises AI data center plan after Iranian attacks, sources say - Reuters",
+    "description": "EXCLUSIVE: UAE revises AI data center plan after Iranian attacks, sources say  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaXdNOTVXY3kwZHluN2wtdk16OHYyYjR6aWxCZ3RFaDNveWtIMTZ3dzFwZExPZmpOX1YxbTJMdmdEeVZabF9NTjV3ei1KSWJXR2NKR2lnbWZjczZyQlBEU0x6c0dnWFplWFVteEJoQ0JTMGpFdnZqd2hXR2JpSF9ILU9WM2tGUTAtQWxuQnl4LXhZQWRnZXNEdFZlUFBDbXhxLTJVUVoyRkwtQm1KS3R5M05uaktvT0dWVzhV?oc=5",
+    "pubDate": "Fri, 11 Sep 2026 09:30:26 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-11T10:15:02.936Z"
+  },
+  {
+    "title": "South Korean, Iranian foreign ministers discuss Strait of Hormuz, Seoul says - Reuters",
+    "description": "South Korean, Iranian foreign ministers discuss Strait of Hormuz, Seoul says  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaWYyU1hhQWhiN21Nd2tXNGxEZjdKQmFhbWlpRDNiZVdLZk45YzM3T2NOcUd5ZVAtUVozN2tsak9aYzBIX1BFSndGM3Vsa255UktpTVhhS0JqVWI3U0JJSTlNRU51eVpHT3dwcC1QNnVkbUlGTm0zZUJ1UFBaWVpVazgwZXFKSXVUYVEzNGhxNDVLWXJVSHZPMHVqUHVCNUNPNWZFeW5veHMxb0tielkxZFRmclVocmdXOXVjNFlRNWQwSm94?oc=5",
+    "pubDate": "Fri, 11 Sep 2026 06:00:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-11T10:15:02.936Z"
+  },
+  {
+    "title": "25 years after 9/11, airport security gets second look from Trump",
+    "description": "The 25th anniversary of the Sept. 11, 2001, attacks falls as the Trump administration has scaled back expanded security measures put in place at airports across the nation to prevent terrorists from using planes against the U.S. ever again. The hijacking of planes ushered in a new era of screenings, while even more restrictive measures…",
+    "link": "https://thehill.com/policy/national-security/6082996-trump-scales-back-airport-security/",
+    "pubDate": "\n\t\tFri, 11 Sep 2026 10:00:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "national security",
+      "news",
+      "policy"
+    ],
+    "collectedAt": "2026-09-11T10:15:02.936Z"
+  },
+  {
+    "title": "A child’s memories of Sept. 11: Panic, debris ‘monsters’ and fleeing to safety",
+    "description": "Twenty-five years have passed since the windows of my family’s apartment burst in and upended the life I knew in Battery Park City. My twin brother, Jacob, and I were just shy of 4 years old — we had already sent out invitations to our birthday party at Chelsea Piers — and were watching “Franklin”…",
+    "link": "https://thehill.com/homenews/6083235-september-11-battery-park-city-evacuation/",
+    "pubDate": "\n\t\tFri, 11 Sep 2026 10:00:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "news",
+      "september 11"
+    ],
+    "collectedAt": "2026-09-11T10:15:02.936Z"
+  },
+  {
+    "title": "Trump officials blur Hatch Act lines with GOP convention speeches",
+    "description": "Five years after top Trump officials were found in violation of the Hatch Act over their appearances at the 2020 Republican National Convention, President Trump’s Cabinet is once again taking the stage to boost Republicans ahead of the midterms.   Administration officials have notably been introduced without their official titles for their speeches at the GOP…",
+    "link": "https://thehill.com/homenews/administration/6083279-hatch-act-trump-cabinet-rnc/",
+    "pubDate": "\n\t\tFri, 11 Sep 2026 10:00:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "campaign"
+    ],
+    "collectedAt": "2026-09-11T10:15:02.936Z"
+  },
+  {
+    "title": "Fetterman’s GOP convention appearance raises questions about his political future",
+    "description": "Sen. John Fetterman’s (D-Pa.) surprise video appearance at the Republican National Committee’s (RNC) first-ever midterm convention is roiling Democrats in Washington, who are growing exasperated by his frequent Fox News appearances and criticisms of democratic socialists. Political strategists and analysts say that Fetterman’s low approval ratings among Democratic voters in Pennsylvania would have already made…",
+    "link": "https://thehill.com/homenews/senate/6083365-fetterman-gop-convention-video-pennsylvania/",
+    "pubDate": "\n\t\tFri, 11 Sep 2026 10:00:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "news",
+      "senate"
+    ],
+    "collectedAt": "2026-09-11T10:15:02.936Z"
+  },
+  {
+    "title": "U.S. oil price dips below $100 while diesel passes $6, marking fresh record",
+    "description": "Brent crude and West Texas Intermediate’s front-month contracts edged lower on reports of plans for diplomatic talks between Gulf states.",
+    "link": "https://www.marketwatch.com/story/u-s-oil-price-dips-below-100-while-diesel-passes-6-marking-fresh-record-a3b6e6fb?mod=mw_rss_topstories",
+    "pubDate": "Fri, 11 Sep 2026 10:12:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-09-11T10:15:02.936Z"
+  },
+  {
+    "title": "Oracle shares are climbing after results. What Wall Street analysts are saying now.",
+    "description": "Oracle shares are climbing on Friday after the company delivered a solid quarter, but some analysts are still wary.",
+    "link": "https://www.marketwatch.com/story/oracle-shares-are-climbing-after-results-what-wall-street-analysts-are-saying-now-0d4517ae?mod=mw_rss_topstories",
+    "pubDate": "Fri, 11 Sep 2026 10:05:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-09-11T10:15:02.936Z"
+  },
+  {
+    "title": "Monstrous Wendy's burger returns, daring customers to devour 9 patties in 9 minutes",
+    "description": "A Wendy's in Oklahoma is challenging customers to eat the previously banned T-Rex burger, a nine-patty cheeseburger that must be devoured in nine minutes.",
+    "link": "https://www.foxnews.com/food-drink/monstrous-wendys-burger-returns-daring-customers-devour-9-patties-9-minutes",
+    "pubDate": "Fri, 11 Sep 2026 06:00:55 -0400",
+    "source": "Fox News",
+    "categories": [
+      "86827780-e745-5adc-a02e-e5941f9ac60d",
+      "fnc",
+      "fox news",
+      "fox-news/food-drink/food/fast-food",
+      "fox-news/entertainment/genres/viral",
+      "fox-news/fast-food",
+      "fox-news/food-drink/recipes/cuisines/american",
+      "fox-news/food-drink",
+      "fox-news/lifestyle",
+      "fox-news/food-drink",
+      "article"
+    ],
+    "collectedAt": "2026-09-11T10:15:02.936Z"
+  },
+  {
+    "title": "WWE legend Rey Mysterio is a ‘miracle,’ broadcaster Corey Graves as Hall of Famer prepares for Triplemania 34",
+    "description": "Rey Mysterio takes on the 7-foot-3 Omos in a true David vs. Goliath main event at Triplemania 34 Night 1 with Dominik Mysterio in his corner.",
+    "link": "https://www.foxnews.com/outkick-sports/wwe-legend-rey-mysterio-miracle-broadcaster-corey-graves-hall-famer-prepares-triplemania-34",
+    "pubDate": "Fri, 11 Sep 2026 06:00:26 -0400",
+    "source": "Fox News",
+    "categories": [
+      "6f1def6e-dc45-5169-8d9b-6055d308f5c9",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/dropkick",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/organization/wwe",
+      "fox-news/sports/pro-wrestling",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-09-11T10:15:02.936Z"
+  },
+  {
+    "title": "25 years later, 9/11 memories endure as nation gathers to honor nearly 3,000 lives lost",
+    "description": "Trump is expected to speak at the Pentagon ceremony as Ground Zero and the Flight 93 Memorial mark 25 years since the 9/11 terrorist attacks.",
+    "link": "https://www.foxnews.com/politics/25-years-later-9-11-memories-endure-nation-gathers-honor-nearly-3000-lives-lost",
+    "pubDate": "Fri, 11 Sep 2026 06:00:13 -0400",
+    "source": "Fox News",
+    "categories": [
+      "33907e6c-f562-5ebe-9313-634a75bd40a3",
+      "fnc",
+      "fox news",
+      "fox-news/us/terror/september-11",
+      "fox-news/person/donald-trump",
+      "fox-news/person/george-w-bush",
+      "fox-news/person/barack-obama",
+      "fox-news/science/archaeology/history",
+      "fox-news/politics",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-09-11T10:15:02.936Z"
+  },
+  {
+    "title": "Aaron Rodgers makes bombshell claims about Shailene Woodley split",
+    "description": "Aaron Rodgers claims Shailene Woodley left him for another man, directly disputing her narrative that he ruined her life during their 2022 split.",
+    "link": "https://www.foxnews.com/entertainment/aaron-rodgers-bombshell-claims-shailene-woodley-split",
+    "pubDate": "Fri, 11 Sep 2026 06:00:10 -0400",
+    "source": "Fox News",
+    "categories": [
+      "faad6f51-1267-503b-bc79-7db3f40d88fd",
+      "fnc",
+      "fox news",
+      "fox-news/entertainment",
+      "fox-news/person/shailene-woodley",
+      "fox-news/person/aaron-rodgers",
+      "fox-news/entertainment",
+      "article"
+    ],
+    "collectedAt": "2026-09-11T10:15:02.936Z"
+  },
+  {
+    "title": "Lindsay Clancy's attorney challenges Jonathan Turley over holdout juror criticism",
+    "description": "Kevin Reddington says Fox News contributor Jonathan Turley was \"wrong\" for criticizing his comments about the Lindsay Clancy holdout juror and says he'd welcome a debate.",
+    "link": "https://www.foxnews.com/us/lindsay-clancys-attorney-challenges-jonathan-turley-over-holdout-juror-criticism",
+    "pubDate": "Fri, 11 Sep 2026 06:00:07 -0400",
+    "source": "Fox News",
+    "categories": [
+      "4c5c4b4d-469a-590f-aee2-e24a88082a13",
+      "fnc",
+      "fox news",
+      "fox-news/us/lindsay-clancy",
+      "fox-news/politics/defense/threats",
+      "fox-news/entertainment/events/in-court",
+      "fox-news/crime",
+      "fox-news/us",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-09-11T10:15:02.936Z"
+  },
+  {
+    "title": "‘Never giving up’: 25 years later, one lab is still identifying 9/11 victims",
+    "description": "Mark Desire, who is helming efforts to identify victims who perished on 9/11, told The Post, \"We promised those families that we would continue to advance the technology and never give up.\"",
+    "link": "https://nypost.com/2026/09/11/us-news/twenty-five-years-later-one-lab-is-still-identifying-9-11-victims/",
+    "pubDate": "Fri, 11 Sep 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-11T10:15:02.936Z"
+  },
+  {
+    "title": "Midterms won’t be blue wave or red wave — only ‘knife fights in dark alleys,’ GOP campaign boss says",
+    "description": "The era of big wave elections — red or blue — in House races is over, according to the official House GOP campaign boss.",
+    "link": "https://nypost.com/2026/09/11/us-news/midterms-wont-be-blue-wave-or-red-wave-only-knife-fights-in-dark-alleys-gop-campaign-boss-says/",
+    "pubDate": "Fri, 11 Sep 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-11T10:15:02.936Z"
+  },
+  {
+    "title": "25 years later, Fox reporter remembers toll of 9/11: ‘Like al Qaeda has invaded our hospital rooms’",
+    "description": "As a survivor of 9/11, Fox News reporter Eric Shawn remembers the day vividly. The walk to work in New York City, the booming sound of an airplane flying overhead, and the rush to the assignment desk. What he told staff was that it wasn’t a small plane that hit the World Trade Center — […]",
+    "link": "https://www.washingtonexaminer.com/news/4708405/25-years-later-fox-reporter-sept-11-toll/",
+    "pubDate": "Fri, 11 Sep 2026 10:06:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "al qaeda",
+      "cancer",
+      "fox news",
+      "healthcare",
+      "media",
+      "new york city",
+      "september 11 terrorist attacks"
+    ],
+    "collectedAt": "2026-09-11T10:15:02.936Z"
+  },
+  {
+    "title": "Gavin Newsom’s five-seat California redistricting bet faces a reality check",
+    "description": "CHARLOTTE, North Carolina — Gov. Gavin Newsom (D-CA) went all-in on California’s Proposition 50 as the Democratic counterpunch to Texas Republicans’ mid-decade redistricting effort. Now, Newsom, who is expected to launch a 2028 presidential bid, is acknowledging that Democrats may not get everything they wanted from the new map. In an exclusive interview with the […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4721833/exclusive-newsom-five-seat-california-redistricting-bet-reality-check/",
+    "pubDate": "Fri, 11 Sep 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "congressional",
+      "2026 elections",
+      "2028 elections",
+      "california",
+      "donald trump",
+      "gavin newsom",
+      "gerrymandering",
+      "redistricting",
+      "texas"
+    ],
+    "collectedAt": "2026-09-11T10:15:02.936Z"
   }
 ]
