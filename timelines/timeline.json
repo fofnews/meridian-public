@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-09",
+      "lastSeen": "2026-09-11",
       "active": true,
       "entries": [
         {
@@ -356,6 +356,11 @@
           "date": "2026-09-09",
           "edition": "evening",
           "update": "Former NASCAR champion Brian Vickers broke his silence on scrutiny over his ties to Jeffrey Epstein and his divorce from Sarah Kellen with a cryptic social media post stating he was 'prepared for war,' according to Fox News."
+        },
+        {
+          "date": "2026-09-11",
+          "edition": "evening",
+          "update": "Released text messages reveal that FBI Director Kash Patel instructed an aide to respond to a social media account mocking him with Epstein-related content, a request the aide reportedly rejected. Epstein survivors joined Democratic Texas State Representative James Talarico at a traveling exhibit in Dallas to urge Republican Attorney General Ken Paxton to sue the Department of Justice over its handling of redacted Epstein files."
         }
       ],
       "parentId": null
@@ -364,7 +369,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-10",
+      "lastSeen": "2026-09-11",
       "active": true,
       "entries": [
         {
@@ -511,6 +516,11 @@
           "date": "2026-09-10",
           "edition": "morning",
           "update": "Analysts identified accelerating construction activity at Iran's underground Pickaxe Mountain nuclear facility, according to the New York Post, as the Trump administration considers options for striking the heavily fortified site. Separately, Reuters reported that Iran is likely to reverse-engineer a captured U.S. underwater drone following its seizure by Iranian forces."
+        },
+        {
+          "date": "2026-09-11",
+          "edition": "evening",
+          "update": "Amid ongoing war and tightening U.S. sanctions, many Iranians are facing widespread job losses, with some losing secondary employment they had taken up as a backup income source."
         }
       ],
       "parentId": null
@@ -1256,6 +1266,11 @@
           "date": "2026-09-11",
           "edition": "morning",
           "update": "A Russian strike on a shopping centre in the central Ukrainian city of Pavlohrad killed at least four people, according to Al Jazeera. Russian ground forces have shifted their main assault focus to Kramatorsk and Slovyansk in the Donbas, with authorities urging residents to evacuate. Russian forces are also advancing toward Izium as frontline fighting draws closer to the city. The Russian Orthodox Church announced it is distributing a relic — a piece of a deceased prince's hand — among combat units along the frontlines to boost troop morale."
+        },
+        {
+          "date": "2026-09-11",
+          "edition": "evening",
+          "update": "Russian strikes on Kyiv killed two people as Moscow targeted fuel stations in the Ukrainian capital for a second consecutive day, indicating a new campaign focused on civilian energy infrastructure."
         }
       ],
       "parentId": null
@@ -2526,6 +2541,11 @@
           "date": "2026-09-11",
           "edition": "morning",
           "update": "Israel's military announced it destroyed a network of Hezbollah tunnels on the strategic Ali al-Taher ridge in southern Lebanon."
+        },
+        {
+          "date": "2026-09-11",
+          "edition": "evening",
+          "update": "Israel announced the destruction of a major underground Hezbollah base beneath the Ali al-Taher ridge in southern Lebanon, with the resulting explosion registering as the equivalent of a magnitude 4.1 earthquake according to the U.S. Geological Survey."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -5745,6 +5765,11 @@
           "date": "2026-09-11",
           "edition": "morning",
           "update": "UN Special Envoy for Yemen Hans Grundberg warned the UN Security Council that Yemen's war has entered a 'dangerous phase,' calling for urgent steps to protect civilians and trade routes. Iran's Revolutionary Guard claimed its navy captured a U.S.-operated sail drone near the entrance to the Strait of Hormuz, according to Al Jazeera. President Trump declined Saudi Crown Prince Mohammed bin Salman's request for U.S. strikes on Houthi forces in Yemen, according to Axios. The U.S. has made progress in reopening the Strait of Hormuz amid ongoing conflict with Iran, though hostilities have not concluded, according to AP News."
+        },
+        {
+          "date": "2026-09-11",
+          "edition": "evening",
+          "update": "Houthi forces captured a Red Sea island in the Bab al-Mandab strait and extended effective control over Yemen's Red Sea coastline, completing a ground offensive that gave the group dominance over the strategic waterway. Saudi Arabia separately urged President Trump to take military action against the Houthis. Oil prices surged toward $110 per barrel and U.S. diesel prices hit a new high above $6 per gallon following attacks on Saudi pipelines and continued Houthi disruption of Red Sea shipping lanes, adding to broader inflation pressures. Ship operators in the Gulf face escalating dangers as Houthi control over the Red Sea further restricts already hazardous navigation routes. Pakistan faces mounting pressure to balance its defense commitments to Saudi Arabia against maintaining diplomatic ties with Iran as the conflict continues to escalate."
         }
       ]
     },
@@ -5823,7 +5848,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-09-10",
+      "lastSeen": "2026-09-11",
       "active": true,
       "entries": [
         {
@@ -6060,6 +6085,11 @@
           "date": "2026-09-10",
           "edition": "evening",
           "update": "U.S. pediatrician Dr. Rupa Narra traveled to the Democratic Republic of Congo to treat children with Ebola, describing the conditions as beyond anything she had previously encountered in her medical career."
+        },
+        {
+          "date": "2026-09-11",
+          "edition": "evening",
+          "update": "A case of Ebola has been detected in the Democratic Republic of Congo's northwestern province of South-Ubangi, marking the disease's spread to a seventh province. South-Ubangi borders both the Central African Republic and Congo-Brazzaville, raising concerns about potential cross-border transmission."
         }
       ]
     },
@@ -6639,5 +6669,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-11T11:09:37.224Z"
+  "updatedAt": "2026-09-11T21:07:50.740Z"
 }
