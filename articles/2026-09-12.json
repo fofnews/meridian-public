@@ -265,5 +265,34 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-09-12T06:45:01.200Z"
+  },
+  {
+    "title": "Battle to save the tiny, gooey snail only found in one lake in the UK",
+    "description": "Once prevalent across the UK, this mollusc is now only found in one lake in Wales.",
+    "link": "https://www.bbc.co.uk/news/articles/c1j4ngr05l8o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 12 Sep 2026 06:09:37 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-12T07:00:02.000Z"
+  },
+  {
+    "title": "Shelton advances to US Open 2026 men’s final for Zverev showdown",
+    "description": "On Sunday, Shelton will bid to become to become the first American man to win a Grand Slam title since 2003.",
+    "link": "https://www.aljazeera.com/sports/2026/9/12/ben-shelton-us-open-final-2026-alexander-zverev-tennis?traffic_source=rss",
+    "pubDate": "Sat, 12 Sep 2026 06:40:00 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-09-12T07:00:02.000Z"
+  },
+  {
+    "title": "Ben Shelton put in the work to earn this shot at US Open history",
+    "description": "Ben Shelton has been telling his father/coach Bryan that this is his time, and he might just be right.",
+    "link": "https://nypost.com/2026/09/12/sports/ben-shelton-put-in-the-work-to-earn-this-shot-at-us-open-history/",
+    "pubDate": "Sat, 12 Sep 2026 02:55:17 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-12T07:00:02.000Z"
   }
 ]
