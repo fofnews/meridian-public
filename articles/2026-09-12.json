@@ -150,5 +150,47 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-12T05:30:01.314Z"
+  },
+  {
+    "title": "‘War on terror’: How 9/11 changed the language of conflict",
+    "description": "The events of September 11, 2001 spawned a new lexicon which effectively sanitised the erosion of human rights.",
+    "link": "https://www.aljazeera.com/news/2026/9/12/war-on-terror-how-9-11-changed-the-language-of?traffic_source=rss",
+    "pubDate": "Sat, 12 Sep 2026 05:26:05 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-12T05:45:03.083Z"
+  },
+  {
+    "title": "Chileans clash over 9/11 military coup legacy",
+    "description": "Protesters and police have clashed in Chile, as the country marked 53 years of the military coup.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/chileans-clash-over-9-11-military-coup?traffic_source=rss",
+    "pubDate": "Sat, 12 Sep 2026 05:22:29 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-09-12T05:45:03.083Z"
+  },
+  {
+    "title": "BRICS meets in India: What’s on the agenda, why it matters",
+    "description": "This year's summit comes amid the US-Israel war on Iran, Russia's war on Ukraine and global economic challenges.",
+    "link": "https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters?traffic_source=rss",
+    "pubDate": "Sat, 12 Sep 2026 05:22:09 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-12T05:45:03.083Z"
+  },
+  {
+    "title": "Lil Durk acquitted in LA murder-for-hire plot that targeted rival rapper Quando Rondo",
+    "description": "Rapper Lil Durk, who was represented by Brian Steel, was acquitted by a Los Angeles federal jury of all charges in a murder-for-hire plot targeting rival Quando Rondo.",
+    "link": "https://nypost.com/2026/09/12/us-news/lil-durk-acquitted-in-la-murder-for-hire-plot-that-targeted-rival-rapper-quando-rondo/",
+    "pubDate": "Sat, 12 Sep 2026 01:32:41 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-12T05:45:03.083Z"
   }
 ]
