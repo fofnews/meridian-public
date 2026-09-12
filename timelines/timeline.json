@@ -529,7 +529,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-12",
       "active": true,
       "entries": [
         {
@@ -1271,6 +1271,11 @@
           "date": "2026-09-11",
           "edition": "evening",
           "update": "Russian strikes on Kyiv killed two people as Moscow targeted fuel stations in the Ukrainian capital for a second consecutive day, indicating a new campaign focused on civilian energy infrastructure."
+        },
+        {
+          "date": "2026-09-12",
+          "edition": "morning",
+          "update": "A senior UN official warned the BBC that Ukraine faces its toughest winter since Russia's full-scale invasion began, describing an urgent race to ensure Ukrainians have access to power and water through the season."
         }
       ],
       "parentId": null
@@ -2554,7 +2559,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-12",
       "active": true,
       "entries": [
         {
@@ -3606,6 +3611,11 @@
           "date": "2026-09-11",
           "edition": "morning",
           "update": "Iran's IRGC announced it attacked a U.S. unmanned vessel in the Strait of Hormuz, while UKMTO reported projectiles struck two ships off the coast of Oman. A U.S. Air Force colonel whose F-15E was shot down over Iran in April spoke with CBS News' 60 Minutes, describing how he and another officer evaded capture before being rescued by U.S. Special Forces."
+        },
+        {
+          "date": "2026-09-12",
+          "edition": "morning",
+          "update": "The Trump administration confirmed it has no current plans to conduct strikes on Houthi forces, opting instead to provide intelligence and targeting assistance to Saudi Arabia. The U.S. has deployed more than 100 advisors to support Saudi forces in the conflict."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4490,7 +4500,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-12",
       "active": true
     },
     {
@@ -5233,7 +5243,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-12",
       "active": true,
       "entries": [
         {
@@ -5770,6 +5780,11 @@
           "date": "2026-09-11",
           "edition": "evening",
           "update": "Houthi forces captured a Red Sea island in the Bab al-Mandab strait and extended effective control over Yemen's Red Sea coastline, completing a ground offensive that gave the group dominance over the strategic waterway. Saudi Arabia separately urged President Trump to take military action against the Houthis. Oil prices surged toward $110 per barrel and U.S. diesel prices hit a new high above $6 per gallon following attacks on Saudi pipelines and continued Houthi disruption of Red Sea shipping lanes, adding to broader inflation pressures. Ship operators in the Gulf face escalating dangers as Houthi control over the Red Sea further restricts already hazardous navigation routes. Pakistan faces mounting pressure to balance its defense commitments to Saudi Arabia against maintaining diplomatic ties with Iran as the conflict continues to escalate."
+        },
+        {
+          "date": "2026-09-12",
+          "edition": "morning",
+          "update": "Saudi Arabia shut down its East-West Pipeline — a key oil route bypassing the Strait of Hormuz — after drone strikes set it on fire, with Riyadh attributing the attack to launches originating from Iraq. Iraq opened a formal investigation into the drone strike. Oil prices approached $105 per barrel following the pipeline shutdown and continued regional attacks on energy infrastructure."
         }
       ]
     },
@@ -5848,7 +5863,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-12",
       "active": true,
       "entries": [
         {
@@ -6090,6 +6105,11 @@
           "date": "2026-09-11",
           "edition": "evening",
           "update": "A case of Ebola has been detected in the Democratic Republic of Congo's northwestern province of South-Ubangi, marking the disease's spread to a seventh province. South-Ubangi borders both the Central African Republic and Congo-Brazzaville, raising concerns about potential cross-border transmission."
+        },
+        {
+          "date": "2026-09-12",
+          "edition": "morning",
+          "update": "Total Ebola infections in the Democratic Republic of Congo have surpassed 7,000 cases as the outbreak continues to spread to new provinces, according to Reuters."
         }
       ]
     },
@@ -6443,7 +6463,7 @@
       "title": "US Cyberattacks and Infrastructure Security",
       "parentId": null,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-12",
       "active": true,
       "entries": [
         {
@@ -6550,6 +6570,11 @@
           "date": "2026-09-11",
           "edition": "morning",
           "update": "Anthropic announced it disrupted influence campaigns from Russian and Chinese actors who attempted to misuse its Claude AI models for coordinated operations."
+        },
+        {
+          "date": "2026-09-12",
+          "edition": "morning",
+          "update": "Florida's Department of Highway Safety and Motor Vehicles announced it is investigating a data breach by an international cybercriminal organization, discovered on September 4, in which hackers compromised a single Plant City Police Department user's credentials to gain access."
         }
       ]
     },
@@ -6669,5 +6694,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-11T21:07:50.740Z"
+  "updatedAt": "2026-09-12T11:05:19.022Z"
 }
