@@ -2517,5 +2517,52 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-12T13:45:01.621Z"
+  },
+  {
+    "title": "Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent",
+    "description": "The United States is officially neutral on an issue that had been a source of decades of violence in Northern Ireland until a 1998 peace deal.",
+    "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html",
+    "pubDate": "Sat, 12 Sep 2026 13:40:25 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states international relations",
+      "ireland",
+      "good friday agreement (1998)",
+      "politics and government",
+      "trump, donald j",
+      "biden, joseph r jr",
+      "northern ireland",
+      "great britain"
+    ],
+    "collectedAt": "2026-09-12T14:00:01.884Z"
+  },
+  {
+    "title": "Common coffee and tea habit linked to higher risk of specific type of cancer",
+    "description": "Smoking, alcohol and obesity remain bigger risk factors, oncologist says",
+    "link": "https://nypost.com/2026/09/12/health/very-hot-coffee-and-tea-linked-to-higher-cancer-risk-in-nearly-1-million-adults/",
+    "pubDate": "Sat, 12 Sep 2026 09:55:40 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-12T14:00:01.884Z"
+  },
+  {
+    "title": "Trump says Houthis ‘don’t want to fight us’ after strait offensive and Saudi pipeline shutdown",
+    "description": "President Donald Trump said Saturday that he does not intend to enter into a conflict with the Iran-backed Houthi militant group as the group’s advance along Yemen’s western coast threatens a key shipping route and Saudi Arabia’s oil exports face disruptions. “We have had discussions. The Houthis called us, and they don’t want to fight […]",
+    "link": "https://www.washingtonexaminer.com/news/world/4724791/trump-houthi-dont-want-fight/",
+    "pubDate": "Sat, 12 Sep 2026 13:24:44 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "world",
+      "donald trump",
+      "energy and environment",
+      "houthis",
+      "iran",
+      "mohammed bin salman",
+      "oil",
+      "saudi arabia",
+      "strait of hormuz",
+      "yemen"
+    ],
+    "collectedAt": "2026-09-12T14:00:01.884Z"
   }
 ]
