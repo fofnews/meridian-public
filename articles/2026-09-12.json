@@ -201,5 +201,33 @@
     "source": "NPR",
     "categories": [],
     "collectedAt": "2026-09-12T06:00:03.391Z"
+  },
+  {
+    "title": "Trump Heads to Ireland for the Irish Open at His Golf Course",
+    "description": "President Trump’s trip comes after a two-day Republican rally in Dallas, where he tried to energize voters amid fears that the party could face losses in the midterms.",
+    "link": "https://www.nytimes.com/2026/09/11/us/politics/trump-ireland-irish-open.html",
+    "pubDate": "Sat, 12 Sep 2026 06:09:20 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "irish-americans",
+      "us and israeli attack on iran (2026)",
+      "travel and vacations",
+      "midterm elections (2026)",
+      "obama, barack",
+      "trump, donald j",
+      "biden, joseph r jr",
+      "connolly, catherine (1957- )"
+    ],
+    "collectedAt": "2026-09-12T06:15:03.084Z"
+  },
+  {
+    "title": "American Shelton to face Zverev in US Open final",
+    "description": "Ben Shelton powers past Frances Tiafoe in an all-American US Open semi-final to earn a spot in Sunday's final against number one seed Alexander Zverev.",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/clykzn81n4go?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 12 Sep 2026 06:05:34 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-12T06:15:03.084Z"
   }
 ]
