@@ -110,5 +110,36 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-12T05:00:02.743Z"
+  },
+  {
+    "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+    "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+    "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 12 Sep 2026 04:43:10 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-12T05:15:01.232Z"
+  },
+  {
+    "title": "‘The family paid the price’: India’s deadly online gambling crisis",
+    "description": "Debts and deaths are mounting, as a soaring online gambling industry adapts to evade an Indian government ban.",
+    "link": "https://www.aljazeera.com/features/2026/9/12/the-family-paid-the-price-indias-deadly-online-gambling-crisis?traffic_source=rss",
+    "pubDate": "Sat, 12 Sep 2026 04:46:56 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "features"
+    ],
+    "collectedAt": "2026-09-12T05:15:01.232Z"
+  },
+  {
+    "title": "China’s Xi heads to India for BRICS summit overshadowed by wars",
+    "description": "Wars in the Middle East and Ukraine, along with global energy security, are expected to dominate the summit.",
+    "link": "https://www.aljazeera.com/news/2026/9/12/chinas-xi-heads-to-india-for-brics-summit-overshadowed-by-wars?traffic_source=rss",
+    "pubDate": "Sat, 12 Sep 2026 04:27:27 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-12T05:15:01.232Z"
   }
 ]
