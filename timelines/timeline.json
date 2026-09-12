@@ -369,7 +369,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-12",
       "active": true,
       "entries": [
         {
@@ -521,6 +521,11 @@
           "date": "2026-09-11",
           "edition": "evening",
           "update": "Amid ongoing war and tightening U.S. sanctions, many Iranians are facing widespread job losses, with some losing secondary employment they had taken up as a backup income source."
+        },
+        {
+          "date": "2026-09-12",
+          "edition": "evening",
+          "update": "An Iranian official told Al Jazeera that the IAEA resolution on Tehran's nuclear safeguards was 'imposed' by the United States and Israel, framing the ruling as politically motivated rather than based on technical grounds."
         }
       ],
       "parentId": null
@@ -1276,6 +1281,11 @@
           "date": "2026-09-12",
           "edition": "morning",
           "update": "A senior UN official warned the BBC that Ukraine faces its toughest winter since Russia's full-scale invasion began, describing an urgent race to ensure Ukrainians have access to power and water through the season."
+        },
+        {
+          "date": "2026-09-12",
+          "edition": "evening",
+          "update": "Russian attacks killed six people and injured dozens across Ukraine, while Moscow claimed it struck Ukrainian ships and industrial plants, according to Reuters. Ukraine continues preparations for a harsh winter as ongoing Russian strikes compound damage to the country's economy and infrastructure."
         }
       ],
       "parentId": null
@@ -1284,7 +1294,7 @@
       "id": "sinaloa-cartel-violence",
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-12",
       "active": true,
       "entries": [
         {
@@ -1441,6 +1451,11 @@
           "date": "2026-09-11",
           "edition": "morning",
           "update": "Secretary of State Marco Rubio announced the foreign terrorist designation of Los Tiguerones during his diplomatic tour through Latin America, bringing the total number of U.S.-designated foreign terrorist organizations in Latin America to 21."
+        },
+        {
+          "date": "2026-09-12",
+          "edition": "evening",
+          "update": "A hidden cryptocurrency mining farm was discovered in the mountains of Mexico, drawing attention to the potential use of crypto mining as a cartel funding source, according to Reuters."
         }
       ],
       "parentId": null
@@ -2019,7 +2034,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-12",
       "active": true,
       "entries": [
         {
@@ -2551,6 +2566,11 @@
           "date": "2026-09-11",
           "edition": "evening",
           "update": "Israel announced the destruction of a major underground Hezbollah base beneath the Ali al-Taher ridge in southern Lebanon, with the resulting explosion registering as the equivalent of a magnitude 4.1 earthquake according to the U.S. Geological Survey."
+        },
+        {
+          "date": "2026-09-12",
+          "edition": "evening",
+          "update": "Lebanese President Aoun announced there are 'no new negotiations with Israel at the moment,' as Israel-Lebanon talks were postponed amid reports of explosions in southern Lebanon."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3616,6 +3636,11 @@
           "date": "2026-09-12",
           "edition": "morning",
           "update": "The Trump administration confirmed it has no current plans to conduct strikes on Houthi forces, opting instead to provide intelligence and targeting assistance to Saudi Arabia. The U.S. has deployed more than 100 advisors to support Saudi forces in the conflict."
+        },
+        {
+          "date": "2026-09-12",
+          "edition": "evening",
+          "update": "The USS George Washington aircraft carrier has been deployed to the Middle East to support the U.S. military campaign against Iran, according to CBS News. President Trump expressed optimism about ending the war with Iran during a meeting with Ireland's Prime Minister, claiming Iran had been pushed back. The NY Times reported that Iran and its allies have gained control over two key oil shipping routes, with Tehran positioning itself for a potential diplomatic win that could increase its regional stature."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -5785,6 +5810,11 @@
           "date": "2026-09-12",
           "edition": "morning",
           "update": "Saudi Arabia shut down its East-West Pipeline — a key oil route bypassing the Strait of Hormuz — after drone strikes set it on fire, with Riyadh attributing the attack to launches originating from Iraq. Iraq opened a formal investigation into the drone strike. Oil prices approached $105 per barrel following the pipeline shutdown and continued regional attacks on energy infrastructure."
+        },
+        {
+          "date": "2026-09-12",
+          "edition": "evening",
+          "update": "Yemeni government forces launched air strikes targeting Houthi fighters and vehicles along the Red Sea coast near Mocha, according to Al Jazeera. President Trump stated Iran was probably behind the drone attack on Saudi Arabia's East-West pipeline, while also saying the Houthis 'don't want to fight us' and that he does not intend to enter into conflict with the group. Iraq formally acknowledged that the pipeline attack originated from its territory, a significant admission regarding cross-border militant activity, and moved to contain diplomatic fallout with Riyadh. Iran declared the Strait of Hormuz will not reopen until the U.S. meets its demands, and an Iranian official confirmed that an understanding reached with Oman does not include provisions for the waterway's immediate reopening, with no signed deal expected from Monday's scheduled meeting."
         }
       ]
     },
@@ -6208,7 +6238,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-10",
+      "lastSeen": "2026-09-12",
       "active": true,
       "entries": [
         {
@@ -6415,6 +6445,11 @@
           "date": "2026-09-10",
           "edition": "evening",
           "update": "Oil and gas prices surged and borrowing costs rose as financial markets reacted to escalating Middle East tensions, with investors fearing a prolonged conflict involving Iran. President Trump denied reports that Iranian forces damaged U.S. warplanes during a raid on an air base in Jordan, contradicting a U.S. official cited by Newsmax who stated Iran did damage the aircraft. A new report found that U.S. airstrikes targeting Houthis in Yemen killed scores of civilians, with most deaths occurring during Trump's second term. Vice President JD Vance privately received sobering assessments about the Iran war that contradicted the optimistic public statements being made by him, Trump, and other top administration officials."
+        },
+        {
+          "date": "2026-09-12",
+          "edition": "evening",
+          "update": "At the BRICS summit in New Delhi, Chinese President Xi Jinping called on member nations to play a peacemaking role in the Middle East conflict, positioning China and the bloc as diplomatic counterweights to the U.S. and its allies. BRICS adopted a joint declaration urging 'maximum restraint' in the region."
         }
       ]
     },
@@ -6694,5 +6729,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-12T11:05:19.022Z"
+  "updatedAt": "2026-09-12T21:05:51.842Z"
 }
