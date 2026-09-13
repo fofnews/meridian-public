@@ -7513,5 +7513,46 @@
     "source": "Newsmax",
     "categories": [],
     "collectedAt": "2026-09-13T02:45:03.376Z"
+  },
+  {
+    "title": "‘We started to plummet’: Turbulence rocks Turkish Airlines flight",
+    "description": "Video shows passengers screaming as turbulence rocked a Tunisia-bound Turkish Airlines flight.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/we-started-to-plummet-turbulence-rocks-turkish-airlines-flight?traffic_source=rss",
+    "pubDate": "Sun, 13 Sep 2026 02:37:24 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-09-13T03:00:01.220Z"
+  },
+  {
+    "title": "Iraq seizes drone-launching platform used for targeting Saudi oil pipeline",
+    "description": "Saudi authorities trace the launch site to Maysan province in southeastern Iraq, near the Iranian border.",
+    "link": "https://www.aljazeera.com/news/2026/9/13/iraq-seizes-drone-launching-platform-used-for-targeting-saudi-oil-pipeline?traffic_source=rss",
+    "pubDate": "Sun, 13 Sep 2026 02:32:12 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-13T03:00:01.220Z"
+  },
+  {
+    "title": "Knife-wielding man races at officer in packed seaside park before one deadly shot rings out: video",
+    "description": "Santa Monica police bodycam video shows 44-year-old Michael Rodriguez charging an officer with a knife in Palisades Park before he was shot and killed by police.",
+    "link": "https://www.foxnews.com/us/knife-wielding-man-races-officer-packed-seaside-park-before-one-deadly-shot-rings-out-video",
+    "pubDate": "Sat, 12 Sep 2026 22:41:37 -0400",
+    "source": "Fox News",
+    "categories": [
+      "062650e5-fca7-514a-9318-0b727282b5a6",
+      "fnc",
+      "fox news",
+      "fox-news/entertainment/genres/crime",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/us/crime/homicide",
+      "fox-news/us/los-angeles",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-09-13T03:00:01.220Z"
   }
 ]
