@@ -369,7 +369,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-12",
+      "lastSeen": "2026-09-13",
       "active": true,
       "entries": [
         {
@@ -526,6 +526,11 @@
           "date": "2026-09-12",
           "edition": "evening",
           "update": "An Iranian official told Al Jazeera that the IAEA resolution on Tehran's nuclear safeguards was 'imposed' by the United States and Israel, framing the ruling as politically motivated rather than based on technical grounds."
+        },
+        {
+          "date": "2026-09-13",
+          "edition": "morning",
+          "update": "Iranian hard-liners covertly sabotaged a peace deal with the Trump administration by orchestrating attacks on ships in the Strait of Hormuz, according to regime insiders cited by the New York Times, an action that reportedly enraged Iranian President Pezeshkian upon discovery."
         }
       ],
       "parentId": null
@@ -534,7 +539,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-12",
+      "lastSeen": "2026-09-13",
       "active": true,
       "entries": [
         {
@@ -1286,6 +1291,11 @@
           "date": "2026-09-12",
           "edition": "evening",
           "update": "Russian attacks killed six people and injured dozens across Ukraine, while Moscow claimed it struck Ukrainian ships and industrial plants, according to Reuters. Ukraine continues preparations for a harsh winter as ongoing Russian strikes compound damage to the country's economy and infrastructure."
+        },
+        {
+          "date": "2026-09-13",
+          "edition": "morning",
+          "update": "Putin warned that deploying European troops to Ukraine would constitute direct conflict with Russia. The first naval battle between two Unmanned Surface Vessels occurred in the Black Sea, according to Al Jazeera. Russia struck an area near the Ukrainian-Polish border, marking an attack close to NATO territory. Former Army Secretary Dan Driscoll appeared at the Yalta European Strategy forum alongside former Google CEO Eric Schmidt, praising Ukraine's wartime military technologies. Russia's nuclear energy chief accused Ukraine of attacking fuel trucks near the Zaporizhzhia nuclear plant, and more than 300 Russian soldiers remain missing following Ukraine's 2024 Kursk incursion."
         }
       ],
       "parentId": null
@@ -1464,7 +1474,7 @@
       "id": "iran-protests-and-crackdown",
       "title": "Iran Protests and Crackdown",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-08-24",
+      "lastSeen": "2026-09-13",
       "active": true,
       "entries": [
         {
@@ -1521,6 +1531,11 @@
           "date": "2026-08-24",
           "edition": "morning",
           "update": "Iranian police have closed dozens of cafes in recent weeks, frequently citing laws requiring women to veil in public spaces, with experts describing the closures as part of a broader effort to control public gathering spaces used by young people."
+        },
+        {
+          "date": "2026-09-13",
+          "edition": "morning",
+          "update": "Iranian blogger Soda Ebrahimi Shamsabadi, 33, was sentenced to death for insulting the supreme leader after posting about government repression during the January protests, according to the New York Post."
         }
       ],
       "parentId": null
@@ -4525,7 +4540,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-12",
+      "lastSeen": "2026-09-13",
       "active": true
     },
     {
@@ -4548,7 +4563,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-09-06",
+      "lastSeen": "2026-09-13",
       "active": true,
       "entries": [
         {
@@ -4910,6 +4925,11 @@
           "date": "2026-09-06",
           "edition": "evening",
           "update": "U.S. Energy Secretary Chris Wright said on ABC's 'This Week' that a nuclear agreement with Iran may not be reached, and that the alternative could be 'destroying their capabilities' to obtain a nuclear weapon."
+        },
+        {
+          "date": "2026-09-13",
+          "edition": "morning",
+          "update": "Trump spoke with Saudi Crown Prince Mohammed bin Salman about tensions with Iran, stating that everything will 'work out fine,' with the Strait of Hormuz identified as the primary flashpoint in the ongoing conflict."
         }
       ]
     },
@@ -5268,7 +5288,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-09-12",
+      "lastSeen": "2026-09-13",
       "active": true,
       "entries": [
         {
@@ -5815,6 +5835,11 @@
           "date": "2026-09-12",
           "edition": "evening",
           "update": "Yemeni government forces launched air strikes targeting Houthi fighters and vehicles along the Red Sea coast near Mocha, according to Al Jazeera. President Trump stated Iran was probably behind the drone attack on Saudi Arabia's East-West pipeline, while also saying the Houthis 'don't want to fight us' and that he does not intend to enter into conflict with the group. Iraq formally acknowledged that the pipeline attack originated from its territory, a significant admission regarding cross-border militant activity, and moved to contain diplomatic fallout with Riyadh. Iran declared the Strait of Hormuz will not reopen until the U.S. meets its demands, and an Iranian official confirmed that an understanding reached with Oman does not include provisions for the waterway's immediate reopening, with no signed deal expected from Monday's scheduled meeting."
+        },
+        {
+          "date": "2026-09-13",
+          "edition": "morning",
+          "update": "Houthis accused Saudi Arabia of launching 129 airstrikes in 48 hours as both sides traded strikes over the Bab al-Mandeb strait. A Houthi projectile struck Saudi Arabia's Jazan region, wounding two people and damaging a mosque, while the Houthis claimed the attack targeted a military base in Sharurah. Iraqi authorities seized a drone-launching platform in Maysan province near the Iranian border, identified as the site used to target the Saudi oil pipeline. An Iranian commercial ship was struck near the Strait of Hormuz, killing one person, according to Iranian state media. Reuters reported a new attack on shipping in the Strait, raising further fears over oil supply disruptions, and Saudi shares fell in response to the pipeline drone strikes."
         }
       ]
     },
@@ -6238,7 +6263,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-12",
+      "lastSeen": "2026-09-13",
       "active": true,
       "entries": [
         {
@@ -6450,6 +6475,11 @@
           "date": "2026-09-12",
           "edition": "evening",
           "update": "At the BRICS summit in New Delhi, Chinese President Xi Jinping called on member nations to play a peacemaking role in the Middle East conflict, positioning China and the bloc as diplomatic counterweights to the U.S. and its allies. BRICS adopted a joint declaration urging 'maximum restraint' in the region."
+        },
+        {
+          "date": "2026-09-13",
+          "edition": "morning",
+          "update": "Iranian proxy forces in Yemen and Iraq have activated amid ongoing regional tensions, further complicating the Trump administration's Middle East policy, according to the Washington Post. Iranian President Masoud Pezeshkian publicly stated that Iran is not at war with Saudi Arabia."
         }
       ]
     },
@@ -6729,5 +6759,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-12T21:05:51.842Z"
+  "updatedAt": "2026-09-13T11:04:41.148Z"
 }
