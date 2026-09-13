@@ -7046,5 +7046,36 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-13T00:15:01.743Z"
+  },
+  {
+    "title": "Son of notorious Somali dictator reportedly living in Ohio decades after brutal regime's collapse",
+    "description": "Ayanle Siad Barre, son of Somalia's former dictator, has been living in Ohio's large Somali community, prompting calls for a U.S. investigation.",
+    "link": "https://www.foxnews.com/us/son-notorious-somali-dictator-reportedly-living-ohio-decades-after-brutal-regimes-collapse",
+    "pubDate": "Sat, 12 Sep 2026 20:12:54 -0400",
+    "source": "Fox News",
+    "categories": [
+      "20f26523-2e25-51fa-ad8b-5bfa85867e86",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/midwest/ohio",
+      "fox-news/world/world-regions/africa",
+      "fox-news/us/somali-immigrant-community",
+      "fox-news/politics/executive/homeland-security",
+      "fox-news/us/immigration",
+      "fox-news/world",
+      "fox-news/us",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-09-13T00:30:01.933Z"
+  },
+  {
+    "title": "MS NOW crew gets stuck in Texas desert — and has to be rescued by Border Patrol",
+    "description": "Antonia Hylton and her crew were reporting from Texas' remote Big Bend region for the debut of \"The Assignment\" when their Jeep Wagoneer bottomed out.",
+    "link": "https://nypost.com/2026/09/12/media/ms-now-crew-gets-stuck-in-texas-desert-then-3-border-patrol-rescue-trucks-get-trapped-too/",
+    "pubDate": "Sat, 12 Sep 2026 20:19:28 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-13T00:30:01.933Z"
   }
 ]
