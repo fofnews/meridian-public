@@ -102,5 +102,32 @@
       "show types"
     ],
     "collectedAt": "2026-09-13T04:45:03.405Z"
+  },
+  {
+    "title": "New York City warns of possible flash floods as thunderstorms develop along East Coast",
+    "description": "Federal forecasters issued flood alerts for 39 million people late Saturday into Sunday as a line of thunderstorms developed from Washington, D.C., to New Haven, Connecticut.",
+    "link": "https://www.nbcnews.com/weather/storms/new-york-city-possible-flash-floods-thunderstorms-east-coast-rcna597449",
+    "pubDate": "Sun, 13 Sep 2026 04:45:55 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-09-13T05:00:01.301Z"
+  },
+  {
+    "title": "Man charged with murder in death of NYC mom killed in front of 7-year-old daughter",
+    "description": "Photos obtained by The Post show Thompson, 41, flanked by detectives as he was walked out of the 33rd Precinct station house.",
+    "link": "https://nypost.com/2026/09/13/us-news/man-charged-with-murder-in-death-of-nyc-mom-perp-walked-from-precinct/",
+    "pubDate": "Sun, 13 Sep 2026 00:53:20 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-13T05:00:01.301Z"
+  },
+  {
+    "title": "Search underway for Indonesian passenger ship carrying more than 240 people after it loses contact",
+    "description": "The ship had departed from Surabaya, Indonesia’s second largest city in East Java province, en route to Banjarmasin.",
+    "link": "https://nypost.com/2026/09/13/world-news/indonesian-passenger-ship-loses-contact-in-java-sea-carrying-241-people/",
+    "pubDate": "Sun, 13 Sep 2026 00:52:11 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-13T05:00:01.301Z"
   }
 ]
