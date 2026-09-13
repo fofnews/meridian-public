@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-11",
+      "lastSeen": "2026-09-13",
       "active": true,
       "entries": [
         {
@@ -361,6 +361,11 @@
           "date": "2026-09-11",
           "edition": "evening",
           "update": "Released text messages reveal that FBI Director Kash Patel instructed an aide to respond to a social media account mocking him with Epstein-related content, a request the aide reportedly rejected. Epstein survivors joined Democratic Texas State Representative James Talarico at a traveling exhibit in Dallas to urge Republican Attorney General Ken Paxton to sue the Department of Justice over its handling of redacted Epstein files."
+        },
+        {
+          "date": "2026-09-13",
+          "edition": "evening",
+          "update": "A U.S. embassy employee in London was covertly extracted and returned to the United States after authorities allegedly discovered child pornography on his devices, before British police could conduct an interview. The individual held diplomatic protection despite not being a formally accredited diplomat. UK politicians condemned the move, accusing the U.S. of shielding the suspect from justice, and the case may raise complex extradition issues between the two countries."
         }
       ],
       "parentId": null
@@ -1296,6 +1301,11 @@
           "date": "2026-09-13",
           "edition": "morning",
           "update": "Putin warned that deploying European troops to Ukraine would constitute direct conflict with Russia. The first naval battle between two Unmanned Surface Vessels occurred in the Black Sea, according to Al Jazeera. Russia struck an area near the Ukrainian-Polish border, marking an attack close to NATO territory. Former Army Secretary Dan Driscoll appeared at the Yalta European Strategy forum alongside former Google CEO Eric Schmidt, praising Ukraine's wartime military technologies. Russia's nuclear energy chief accused Ukraine of attacking fuel trucks near the Zaporizhzhia nuclear plant, and more than 300 Russian soldiers remain missing following Ukraine's 2024 Kursk incursion."
+        },
+        {
+          "date": "2026-09-13",
+          "edition": "evening",
+          "update": "Trump, speaking to reporters while in Ireland, directed Zelensky to stop striking Russian diesel refineries, claiming Ukraine's attacks on Russian diesel infrastructure are causing a global fuel shortage; the remarks coincided with a spike in U.S. diesel prices. Russia struck a train near the Polish border shortly after Boris Johnson and other senior European officials had passed through the area; Johnson condemned the attack, calling the strike on a stationary locomotive inexplicable. Two civilians were killed in Russia's Tatarstan region by Ukrainian drones, while Russia launched drone attacks on the Black Sea port of Odesa. At the BRICS summit, Putin warned Europe over the Ukraine conflict and urged member nations to challenge U.S. dollar dominance in global trade. Ukrainian President Zelensky imposed sanctions on his former press secretary."
         }
       ],
       "parentId": null
@@ -1544,7 +1554,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-10",
+      "lastSeen": "2026-09-13",
       "active": true,
       "entries": [
         {
@@ -1871,6 +1881,11 @@
           "date": "2026-09-10",
           "edition": "morning",
           "update": "Iran state media reported that 'enemy' projectiles struck areas in Sirik, while Tehran simultaneously announced readiness for dialogue with regional nations to foster mutual trust and achieve sustainable security. Iran has increased its targeting of Jordan's Muwaffaq Salti Air Base near Al-Azraq in recent weeks, according to Al Jazeera, with U.S. officials noting the strikes caused limited damage but warned they may result in traumatic brain injuries among American service members."
+        },
+        {
+          "date": "2026-09-13",
+          "edition": "evening",
+          "update": "Iran announced plans to hold talks with Iraq and Gulf Cooperation Council nations in Oman to strengthen regional security, though Bahrain will not attend. The diplomatic outreach comes as Iran-U.S. negotiations to end the war have stalled and Iranian-allied forces have advanced in Yemen."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2049,7 +2064,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-12",
+      "lastSeen": "2026-09-13",
       "active": true,
       "entries": [
         {
@@ -2586,6 +2601,11 @@
           "date": "2026-09-12",
           "edition": "evening",
           "update": "Lebanese President Aoun announced there are 'no new negotiations with Israel at the moment,' as Israel-Lebanon talks were postponed amid reports of explosions in southern Lebanon."
+        },
+        {
+          "date": "2026-09-13",
+          "edition": "evening",
+          "update": "Israel's destruction of south Lebanon has left many displaced residents facing permanent displacement due to lost livelihoods, destroyed homes, and ongoing insecurity, according to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -6480,6 +6500,11 @@
           "date": "2026-09-13",
           "edition": "morning",
           "update": "Iranian proxy forces in Yemen and Iraq have activated amid ongoing regional tensions, further complicating the Trump administration's Middle East policy, according to the Washington Post. Iranian President Masoud Pezeshkian publicly stated that Iran is not at war with Saudi Arabia."
+        },
+        {
+          "date": "2026-09-13",
+          "edition": "evening",
+          "update": "House Speaker Mike Johnson said he 'certainly prays' Trump's prediction that the Iran war would end after the midterms is correct, acknowledging the conflict is contributing to higher domestic prices. More than 2,000 Yemenis have fled across the Red Sea to Djibouti as Houthi advances along Yemen's western coast force mass displacement, while Houthi advances have placed Gulf states in a difficult position over how to respond. Iranian families are facing severe economic hardship and deteriorating living conditions amid ongoing U.S.-Iran tensions, according to Al Jazeera. Iran's war has both reshaped and exposed divisions within BRICS, with members agreeing on the need for a new global order but diverging on how to achieve it."
         }
       ]
     },
@@ -6759,5 +6784,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-13T11:04:41.148Z"
+  "updatedAt": "2026-09-13T21:05:57.293Z"
 }
