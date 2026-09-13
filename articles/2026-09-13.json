@@ -82,5 +82,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-13T04:30:03.551Z"
+  },
+  {
+    "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+    "description": "Jacob Coxon tells the BBC that there's a strong chance AI could end humanity if the rate of development is not reined in.",
+    "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 13 Sep 2026 04:30:44 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-13T04:45:03.405Z"
+  },
+  {
+    "title": "Wildfire rages on Croatia’s Dalmatian Coast island of Brac",
+    "description": "Croatian authorities have issued an emergency alert as a wildfire rages on Brac Island, off the Dalmatian coast.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/wildfire-rages-on-croatias-dalmatian-coast-island-of-brac?traffic_source=rss",
+    "pubDate": "Sun, 13 Sep 2026 04:22:41 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-09-13T04:45:03.405Z"
   }
 ]
