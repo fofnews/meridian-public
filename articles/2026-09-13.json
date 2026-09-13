@@ -280,5 +280,45 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-13T07:30:01.531Z"
+  },
+  {
+    "title": "Search underway for 140 people after Indonesian passenger ship overturns",
+    "description": "Indonesian rescuers launched a search operation after authorities lost contact with a passenger ship carrying more than 240 people in the Java Sea.",
+    "link": "https://www.cbsnews.com/news/indonesian-passenger-ship-missing-search-underway/",
+    "pubDate": "Sun, 13 Sep 2026 03:39:09 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-13T07:45:01.823Z"
+  },
+  {
+    "title": "Mystery son and disputed heir: Uganda’s king buried amid succession dispute",
+    "description": "The 34-year-old monarch’s death has opened a rare challenge to the traditional process of choosing Tooro’s next king.",
+    "link": "https://www.aljazeera.com/news/2026/9/13/mystery-son-and-disputed-heir-ugandas-king-buried-amid-succession-dispute?traffic_source=rss",
+    "pubDate": "Sun, 13 Sep 2026 07:00:59 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-13T07:45:01.823Z"
+  },
+  {
+    "title": "Man accused in brutal motel stabbing sought as person of interest in 4 deaths, child attack",
+    "description": "Kaegan Jude Solet is sought as a person of interest after four people were found stabbed to death and a child critically wounded in Houma, Louisiana.",
+    "link": "https://www.foxnews.com/us/kaegan-solet-houma-louisiana-stabbing-person-of-interest",
+    "pubDate": "Sun, 13 Sep 2026 03:28:22 -0400",
+    "source": "Fox News",
+    "categories": [
+      "7b00cb80-66fa-5c15-95d0-2d29e6c04a7d",
+      "fnc",
+      "fox news",
+      "fox-news/entertainment/genres/crime",
+      "fox-news/us/crime/manhunt",
+      "fox-news/us/us-regions/southeast/louisiana",
+      "fox-news/us/crime/homicide",
+      "fox-news/politics/finance/investigations",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-09-13T07:45:01.823Z"
   }
 ]
