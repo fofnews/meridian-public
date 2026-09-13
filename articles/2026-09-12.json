@@ -7390,5 +7390,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-13T02:00:01.228Z"
+  },
+  {
+    "title": "Elena Rybakina ends Aryna Sabalenka's bid for third straight US Open title",
+    "description": "Elena Rybakina claimed her first US Open title and the world No. 1 ranking by ending Aryna Sabalenka's 19-match winning streak at Flushing Meadows.",
+    "link": "https://www.foxnews.com/outkick-sports/elena-rybakina-ends-aryna-sabalenka-bid-third-straight-us-open-title",
+    "pubDate": "Sat, 12 Sep 2026 21:50:28 -0400",
+    "source": "Fox News",
+    "categories": [
+      "8eba73e8-b807-5957-a316-57e45f791ccd",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/sports/tennis/us-open-tennis",
+      "fox-news/sports/tennis",
+      "fox-news/topic/trending-news",
+      "fox-news/sports",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-09-13T02:15:01.785Z"
   }
 ]
