@@ -1307,5 +1307,72 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-14T10:15:01.714Z"
+  },
+  {
+    "title": "Car slams into tattoo shop",
+    "description": "A car plowed in reverse into the front of a tattoo parlor in Los Angeles County. Paramedics treated three people at the scene.",
+    "link": "https://abcnews.com/video/136410715/",
+    "pubDate": "Mon, 14 Sep 2026 06:20:40 -0400",
+    "source": "ABC News",
+    "categories": [
+      "wnt"
+    ],
+    "collectedAt": "2026-09-14T10:30:01.322Z"
+  },
+  {
+    "title": "What Republicans Have Said About Flock Cameras as Trump Voices Support",
+    "description": "Trump has backed Flock cameras, despite efforts by GOP Representatives Massie and Burchett to restrict surveillance tech.",
+    "link": "https://www.newsweek.com/what-republicans-said-flock-cameras-trump-voices-support-12437724",
+    "pubDate": "Mon, 14 Sep 2026 06:25:35 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-14T10:30:01.322Z"
+  },
+  {
+    "title": "My son was jailed indefinitely for stealing a mobile - we've waited 21 years to see him released",
+    "description": "Leroy Douglas has spent almost as long in prison as one of Wales' most notorious murderers.",
+    "link": "https://www.bbc.co.uk/news/articles/c1kx8zenrz1o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 14 Sep 2026 05:07:47 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-14T10:30:01.322Z"
+  },
+  {
+    "title": "‘I still don’t have my MRI’: My health insurer canceled my plan without warning. Is that legal?",
+    "description": "“It wasn’t an ACA plan, but it was meaningfully cheaper than anything I could find on the ACA exchange.”",
+    "link": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
+    "pubDate": "Mon, 14 Sep 2026 10:15:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-09-14T10:30:01.322Z"
+  },
+  {
+    "title": "Newlywed Dominick Bianchi who went missing in Upstate NY found dead in wooded area",
+    "description": "Dominick Bianchi, the newlywed man from upstate New York who went missing last week, has been found dead in a wooded area, local police confirmed.",
+    "link": "https://nypost.com/2026/09/14/us-news/newlywed-dominick-bianchi-who-went-missing-in-upstate-ny-found-dead-in-wooded-area/",
+    "pubDate": "Mon, 14 Sep 2026 06:23:52 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-14T10:30:01.322Z"
+  },
+  {
+    "title": "Crypto, NIL, and a possible McConnell sighting: What to watch as the Senate returns for its preelection sprint",
+    "description": "Senate Republicans are hoping to use the few legislative days left before the midterm elections to demonstrate progress on a handful of elusive priorities, one of which has been stalled by Sen. Mitch McConnell’s (R-KY) extended absence from Washington. Most of what gets accomplished for the remainder of this Congress is expected to take place […]",
+    "link": "https://www.washingtonexaminer.com/news/senate/4724440/crypto-nil-mcconnell-senate-returns-preelection-sprint/",
+    "pubDate": "Mon, 14 Sep 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "senate",
+      "2026 elections",
+      "congress",
+      "cryptocurrency",
+      "donald trump",
+      "john thune",
+      "mitch mcconnell",
+      "ncaa",
+      "russia",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-09-14T10:30:01.322Z"
   }
 ]
