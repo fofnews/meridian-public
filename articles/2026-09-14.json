@@ -184,5 +184,70 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-14T05:30:01.169Z"
+  },
+  {
+    "title": "Amazon suspends use of 21 Air, cargo carrier whose plane careened off Miami runway",
+    "description": "Amazon said it's decided to pause operations with 21 Air as the investigation into the crash continues. North Carolina-based 21 had flown packages for Amazon since 2024.",
+    "link": "https://www.npr.org/2026/09/14/g-s1-143138/amazon-suspends-21-air-cargo-carrier",
+    "pubDate": "Mon, 14 Sep 2026 01:26:01 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-09-14T05:45:01.774Z"
+  },
+  {
+    "title": "New warnings about the risks of AI to humanity revive a long-running debate",
+    "description": "New warnings from the artificial-intelligence industry have revived debate over whether advanced AI models could escape human control and threaten humanity",
+    "link": "https://abcnews.com/Technology/wireStory/new-warnings-risks-ai-humanity-revive-long-running-136414578",
+    "pubDate": "Mon, 14 Sep 2026 01:31:30 -0400",
+    "source": "ABC News",
+    "categories": [
+      "technology"
+    ],
+    "collectedAt": "2026-09-14T05:45:01.774Z"
+  },
+  {
+    "title": "MPs and Lords call for new law to address AI threat to human rights",
+    "description": "A cross-party group of MPs and peers identifies human rights risks that existing laws appear not to cover.",
+    "link": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 14 Sep 2026 05:42:49 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-14T05:45:01.774Z"
+  },
+  {
+    "title": "Trust the process: Ben Shelton will be back after US Open loss — even as drought continues",
+    "description": "The American men’s Grand Slam drought is 92 straight, 24 years and counting.",
+    "link": "https://nypost.com/2026/09/14/sports/trust-the-process-ben-shelton-will-be-back-after-us-open-loss/",
+    "pubDate": "Mon, 14 Sep 2026 01:42:29 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-14T05:45:01.774Z"
+  },
+  {
+    "title": "Jaxson Dart takes monumental first steps in second-year leap Giants are betting everything on",
+    "description": "Jaxson Dart, who isn’t Lamar Jackson but is absolutely a dual threat, was seeing the field with 20/20 vision, throwing accurate darts and playing the position the way Jalen Brunson plays Knicks basketball.",
+    "link": "https://nypost.com/2026/09/14/sports/jaxson-dart-takes-first-steps-in-second-year-leap-giants-are-betting-everything-on/",
+    "pubDate": "Mon, 14 Sep 2026 01:33:47 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-14T05:45:01.774Z"
+  },
+  {
+    "title": "Deonte Banks’ resurgence continued with performance that validated Giants’ faith",
+    "description": "Skeptics of former draft bust Deonte Banks’ resurgent training camp wanted to see him take his renewed success from the practice field into a game.",
+    "link": "https://nypost.com/2026/09/14/sports/deonte-banks-resurgence-with-giants-continued-vs-cowboys/",
+    "pubDate": "Mon, 14 Sep 2026 01:33:45 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-14T05:45:01.774Z"
+  },
+  {
+    "title": "North Korea says its recent live-fire drill demonstrated ‘huge destructive power’",
+    "description": "North Korea said Monday it conducted a joint live-fire drill involving missiles, artillery and drones that it claimed demonstrated “huge destructive power.\"",
+    "link": "https://nypost.com/2026/09/14/world-news/north-korea-says-its-recent-live-fire-drill-demonstrated-huge-destructive-power/",
+    "pubDate": "Mon, 14 Sep 2026 01:31:31 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-14T05:45:01.774Z"
   }
 ]
