@@ -625,5 +625,25 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-09-14T08:45:02.281Z"
+  },
+  {
+    "title": "Trump blames Ukraine for rising diesel costs",
+    "description": "President Trump is calling on Ukraine to stop targeting Russia’s refineries. The President says the attacks are triggering diesel fuel shortages and higher prices.",
+    "link": "https://abcnews.com/video/136410719/",
+    "pubDate": "Mon, 14 Sep 2026 01:41:52 -0400",
+    "source": "ABC News",
+    "categories": [
+      "wnt"
+    ],
+    "collectedAt": "2026-09-14T09:00:01.182Z"
+  },
+  {
+    "title": "Social Security Latest: Payment of up to $5,181 Arriving This Week",
+    "description": "This week, payments will be made to beneficiaries whose birthdays fall between the 11th and 20th of any month.",
+    "link": "https://www.newsweek.com/social-security-latest-payment-5181-this-week-12437397",
+    "pubDate": "Mon, 14 Sep 2026 04:56:01 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-14T09:00:01.182Z"
   }
 ]
