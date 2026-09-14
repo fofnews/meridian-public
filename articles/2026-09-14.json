@@ -316,5 +316,16 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-09-14T06:30:01.293Z"
+  },
+  {
+    "title": "Thrilling finish at the US Open",
+    "description": "Germany’s Alexander Zverev defeated American Ben Shelton in the U.S. Open final in New York City, earning his second grand slam title this year.",
+    "link": "https://abcnews.com/video/136410718/",
+    "pubDate": "Mon, 14 Sep 2026 01:41:40 -0400",
+    "source": "ABC News",
+    "categories": [
+      "wnt"
+    ],
+    "collectedAt": "2026-09-14T06:45:01.778Z"
   }
 ]
