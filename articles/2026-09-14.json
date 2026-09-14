@@ -1668,5 +1668,207 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-14T11:15:01.393Z"
+  },
+  {
+    "title": "New details on investigation into Hayden Panettiere's death",
+    "description": "Panettiere, known for her roles in \"Heroes,\" \"Nashville\" and \"Ice Princess,\" died on Aug. 16.",
+    "link": "https://abcnews.com/GMA/Culture/hayden-panettiere-investigation-now-cross-country-focused-drugs/story?id=136417526",
+    "pubDate": "Mon, 14 Sep 2026 07:20:27 -0400",
+    "source": "ABC News",
+    "categories": [
+      "gma"
+    ],
+    "collectedAt": "2026-09-14T11:30:02.292Z"
+  },
+  {
+    "title": "Torrential rain slams millions along I-95",
+    "description": "Chief Meteorologist Ginger Zee is tracking relentless rain and flash flooding across the Northeast, where entire neighborhoods have been submerged and urgent rescues have taken place.",
+    "link": "https://abcnews.com/video/136417621/",
+    "pubDate": "Mon, 14 Sep 2026 07:24:30 -0400",
+    "source": "ABC News",
+    "categories": [
+      "gma"
+    ],
+    "collectedAt": "2026-09-14T11:30:02.292Z"
+  },
+  {
+    "title": "Saudi Arabia Faces ‘Worst-Case Scenario’ After Being Rebuffed by Trump",
+    "description": "The kingdom is in a state of strategic shock after coming under attack from an emboldened Iran and failing to win more U.S. military support, analysts say.",
+    "link": "https://www.nytimes.com/2026/09/14/world/middleeast/saudi-iran-trump-yemen-houthis.html",
+    "pubDate": "Mon, 14 Sep 2026 11:05:06 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "oil (petroleum) and gasoline",
+      "houthis",
+      "mohammed bin salman (1985- )",
+      "trump, donald j",
+      "iran",
+      "iraq",
+      "israel",
+      "middle east",
+      "strait of hormuz",
+      "persian gulf",
+      "saudi arabia"
+    ],
+    "collectedAt": "2026-09-14T11:30:02.292Z"
+  },
+  {
+    "title": "Meeting Between Iran and Arab States Postponed as Mideast Diplomacy Stalls",
+    "description": "Talks between the United States and Iran hit a dead end weeks ago, leaving Arab countries struggling to manage their ties to Tehran amid ongoing attacks.",
+    "link": "https://www.nytimes.com/2026/09/13/world/middleeast/iran-meeting-gulf-arab-states.html",
+    "pubDate": "Mon, 14 Sep 2026 10:50:26 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "iran-israel war (2025- )",
+      "oil (petroleum) and gasoline",
+      "international relations",
+      "ships and shipping",
+      "iran-israel proxy conflict",
+      "united states international relations",
+      "war and armed conflicts",
+      "houthis",
+      "bab al-mandab strait",
+      "middle east",
+      "iran",
+      "saudi arabia",
+      "strait of hormuz",
+      "yemen",
+      "mokha (yemen)"
+    ],
+    "collectedAt": "2026-09-14T11:30:02.292Z"
+  },
+  {
+    "title": "AI alarm bells reach Capitol Hill and diesel prices hit all-time high after key pipeline shuts: Morning Rundown",
+    "description": "Dire warnings about AI shock Congress, but action is unlikely before the midterms.",
+    "link": "https://www.nbcnews.com/news/us-news/ai-alarm-bells-reach-capitol-hill-oil-prices-rise-iran-morning-rundown-rcna597632",
+    "pubDate": "Mon, 14 Sep 2026 11:16:14 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-09-14T11:30:02.292Z"
+  },
+  {
+    "title": "Tom Aspinall vacates UFC heavyweight title due to eye injury",
+    "description": "Despite vacating the belt, Aspinall stressed that he was not retiring and remained determined to compete again.",
+    "link": "https://www.aljazeera.com/sports/2026/9/14/tom-aspinall-vacates-ufc-heavyweight-title-due-to-eye-injury?traffic_source=rss",
+    "pubDate": "Mon, 14 Sep 2026 11:11:14 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-09-14T11:30:02.292Z"
+  },
+  {
+    "title": "US says it’s clearing Hormuz traffic: Why are oil futures beyond $100?",
+    "description": "Brent crude crosses $107 as Hormuz disruptions and Saudi pipeline shutdown threaten global oil supply.",
+    "link": "https://www.aljazeera.com/news/2026/9/14/us-says-its-clearing-hormuz-traffic-why-are-oil-futures-beyond-100?traffic_source=rss",
+    "pubDate": "Mon, 14 Sep 2026 11:06:17 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-14T11:30:02.292Z"
+  },
+  {
+    "title": "South Korea’s new manager Robert Moreno dismisses ‘AI coaching’ allegations",
+    "description": "The Spanish manager has been appointed South Korea's interim head coach following a disastrous World Cup campaign.",
+    "link": "https://www.aljazeera.com/sports/2026/9/14/south-koreas-new-manager-robert-moreno-dismisses-ai-coaching-allegations?traffic_source=rss",
+    "pubDate": "Mon, 14 Sep 2026 11:03:28 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-09-14T11:30:02.292Z"
+  },
+  {
+    "title": "Strait of Hormuz talks postponed due to Yemen events, says Iran",
+    "description": "Foreign Ministry spokesperson Esmaeil Baghaei says Iran does not interfere in Yemeni affairs.",
+    "link": "https://www.aljazeera.com/news/2026/9/14/strait-of-hormuz-talks-postponed-due-to-yemen-events-says-iran?traffic_source=rss",
+    "pubDate": "Mon, 14 Sep 2026 10:58:07 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-14T11:30:02.292Z"
+  },
+  {
+    "title": "US may be ‘forced to intervene’ in the Red Sea",
+    "description": "US may be 'forced to intervene' in the Red Sea",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/us-may-be-forced-to-intervene-in-the-red-sea?traffic_source=rss",
+    "pubDate": "Mon, 14 Sep 2026 10:56:41 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-14T11:30:02.292Z"
+  },
+  {
+    "title": "Ammonia gas leak in Jordan’s Aqaba industrial area injures 11 people",
+    "description": "State news channel, Al Mamlaka, says the southern port of Aqaba was evacuated as a precaution.",
+    "link": "https://www.aljazeera.com/news/2026/9/14/ammonia-gas-leak-in-jordans-aqaba-industrial-area-injures-11-people?traffic_source=rss",
+    "pubDate": "Mon, 14 Sep 2026 10:46:53 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-14T11:30:02.292Z"
+  },
+  {
+    "title": "Trump's mail-in voting restrictions blocked by a second judge - Reuters",
+    "description": "Trump's mail-in voting restrictions blocked by a second judge  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdGVuSUJVaFZzWlRVTmI4VTBJQWlnam1UNlc4N1NVWkhBUGQxb25vdTRIcDZMUTRZU09HYTVIeFlJM0drdkJiUmxPcjhjZUZlTm42bVp3cWdhOExVWVVqa3IxamUwT0lZeVFBNExuVTZVd0UzMm5INi13bG1ERk5hbDRRcFpOYm40eXczeUVEZlJpemNWbU9hTm4zM3lxenJVbGc?oc=5",
+    "pubDate": "Mon, 14 Sep 2026 11:10:07 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-14T11:30:02.292Z"
+  },
+  {
+    "title": "Nigerian billionaire Dangote launches oil refinery IPO, Africa's biggest share sale - Reuters",
+    "description": "Nigerian billionaire Dangote launches oil refinery IPO, Africa's biggest share sale  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNm15SzdOekVDNV9rUTlPanJOckRvYlVjbzNtRU1BVFlWLV9DUVFBRHIxQWwzbzZJNHNuUWt4VXpyM0piZVZCTjRXelNxMUN3ZHB4WXNuZmdoeTJvZkI5Mmp5azBwVGxRNU1qdEEwelJ4c3lCUGxORXRGUFkxckEwZFkwMjRIR3pUbnZhQnllUXp6ZVN2QllZeEg5LUhuVm9tdDhHZmhlTEt5RV8temxtSTJqb0RYWENfckZLTVV1RmlzNjQwdjBj?oc=5",
+    "pubDate": "Mon, 14 Sep 2026 09:45:05 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-14T11:30:02.292Z"
+  },
+  {
+    "title": "AI has carried the stock market. An industry pause could pull the rug out, warns this Wall Street giant.",
+    "description": "Citigroup warns that if artificial-intelligence model developments slow, earnings revisions could follow, and those have been a crucial factor in stock gains this year.",
+    "link": "https://www.marketwatch.com/story/ai-has-carried-the-stock-market-an-industry-pause-could-pull-the-rug-out-warns-this-wall-street-giant-3272c960?mod=mw_rss_topstories",
+    "pubDate": "Mon, 14 Sep 2026 11:15:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-09-14T11:30:02.292Z"
+  },
+  {
+    "title": "NFL Week 1 takeaways: Bengals flash contender upside, Bears explode and Packers collapse",
+    "description": "From the Bengals' dominant defense to the Bills' 96-yard game-winning drive in Houston, every NFL Week 1 game produced an interesting storyline.",
+    "link": "https://www.foxnews.com/outkick-sports/nfl-week-1-takeaways-bengals-flash-contender-upside-bears-explode-packers-collapse",
+    "pubDate": "Mon, 14 Sep 2026 07:24:25 -0400",
+    "source": "Fox News",
+    "categories": [
+      "79d7139c-af3c-53eb-a6c3-b11bd1579400",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/sports/nfl",
+      "fox-news/sports/nfl/cincinnati-bengals",
+      "fox-news/sports/nfl/buffalo-bills",
+      "fox-news/sports/nfl/detroit-lions",
+      "fox-news/sports/nfl/chicago-bears",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-09-14T11:30:02.292Z"
+  },
+  {
+    "title": "Hayden Panettiere took just one fentanyl-laced pill before death: report",
+    "description": "The \"Heroes\" actress was found unconscious by her boyfriend Brian Hickerson's brother in a South Carolina Airbnb last month.",
+    "link": "https://pagesix.com/2026/09/14/celebrity-news/hayden-panettiere-took-just-one-fentanyl-laced-pill-before-death-report/",
+    "pubDate": "Mon, 14 Sep 2026 07:23:20 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-14T11:30:02.292Z"
   }
 ]
