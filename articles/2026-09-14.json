@@ -267,5 +267,27 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-14T06:00:02.318Z"
+  },
+  {
+    "title": "Animated map shows spread of illegal Israeli settlements across Palestine",
+    "description": "Some 750,000 settlers live across more than 500 illegal settlements and outposts, as Israeli pogroms hit record highs.",
+    "link": "https://www.aljazeera.com/news/2026/9/14/animated-map-shows-spread-of-illegal-israeli-settlements-across-palestine?traffic_source=rss",
+    "pubDate": "Mon, 14 Sep 2026 05:56:36 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-14T06:15:01.230Z"
+  },
+  {
+    "title": "Indonesia intensifies search for 129 people missing after ship capsizes",
+    "description": "Officials say more than 600 rescuers battle stormy seas in search for missing people.",
+    "link": "https://www.aljazeera.com/news/2026/9/14/indonesia-intensifies-search-for-129-people-missing-after-ship-capsizes?traffic_source=rss",
+    "pubDate": "Mon, 14 Sep 2026 05:51:35 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-14T06:15:01.230Z"
   }
 ]
