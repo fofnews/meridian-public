@@ -544,5 +544,39 @@
     "source": "AP News",
     "categories": [],
     "collectedAt": "2026-09-14T08:15:01.172Z"
+  },
+  {
+    "title": "Oil Prices Jump on Energy Supply Worries",
+    "description": "Oil prices jumped and stock futures fell slightly on concerns that energy supplies from the Persian Gulf would be further diminished by a drone attack on a critical pipeline in Saudi Arabia.",
+    "link": "https://www.nytimes.com/2026/09/13/business/oil-prices-iran-war.html",
+    "pubDate": "Mon, 14 Sep 2026 08:20:54 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "oil (petroleum) and gasoline",
+      "prices (fares, fees and rates)",
+      "stocks and bonds",
+      "standard & poor's 500-stock index",
+      "iran"
+    ],
+    "collectedAt": "2026-09-14T08:30:01.189Z"
+  },
+  {
+    "title": "Deep-fried food banned under new school dinner rules in England",
+    "description": "The government describes its new school food standards as \"once-in-a-generation changes\".",
+    "link": "https://www.bbc.co.uk/news/articles/cy4zrepw78eo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 14 Sep 2026 08:25:02 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-14T08:30:01.189Z"
+  },
+  {
+    "title": "Swedish centre-left opposition in pole position to take power after tight election - Reuters",
+    "description": "Swedish centre-left opposition in pole position to take power after tight election  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNF82STlxaHhSdXNSOE9GbjlTLTR2RFJPelVUblRjOEp5YURhWTZuNE5YMmRlT1MtcWhuNzU2eVhNY3BtSjdXcUo4VDBSb0VpQXNIQVkxZHZSY3V6VTNQd3lGc0tfeHI4MVZZRDRpbUN6bXgzSzdQUlNVaHA1TzJtYUlzZm82MDVfSHZrQzJLdXBTaWhUVXBDR292Y3pPUENiVWk0dFhwTEJzbjZlTTJNaFNIaUVBSU1jNzh2S3V4SW9VWUE?oc=5",
+    "pubDate": "Mon, 14 Sep 2026 07:02:07 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-14T08:30:01.189Z"
   }
 ]
