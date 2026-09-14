@@ -544,7 +544,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
       "active": true,
       "entries": [
         {
@@ -1306,6 +1306,11 @@
           "date": "2026-09-13",
           "edition": "evening",
           "update": "Trump, speaking to reporters while in Ireland, directed Zelensky to stop striking Russian diesel refineries, claiming Ukraine's attacks on Russian diesel infrastructure are causing a global fuel shortage; the remarks coincided with a spike in U.S. diesel prices. Russia struck a train near the Polish border shortly after Boris Johnson and other senior European officials had passed through the area; Johnson condemned the attack, calling the strike on a stationary locomotive inexplicable. Two civilians were killed in Russia's Tatarstan region by Ukrainian drones, while Russia launched drone attacks on the Black Sea port of Odesa. At the BRICS summit, Putin warned Europe over the Ukraine conflict and urged member nations to challenge U.S. dollar dominance in global trade. Ukrainian President Zelensky imposed sanctions on his former press secretary."
+        },
+        {
+          "date": "2026-09-14",
+          "edition": "morning",
+          "update": "The former prime minister of Sweden was also among the senior European dignitaries who had recently passed through the area near the Ukraine-Poland border train strike, in addition to Boris Johnson, whose presence had previously been reported."
         }
       ],
       "parentId": null
@@ -1894,7 +1899,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-08-26",
+      "lastSeen": "2026-09-14",
       "active": true,
       "entries": [
         {
@@ -2056,6 +2061,11 @@
           "date": "2026-08-26",
           "edition": "evening",
           "update": "Trump publicly stated he does not believe Iran's Supreme Leader is dead and that Khamenei is alive, but described him as seriously wounded, adding that if Khamenei is dead, Iran is 'putting on a good show.'"
+        },
+        {
+          "date": "2026-09-14",
+          "edition": "morning",
+          "update": "According to the New York Post, a hardline Iranian faction launched attacks on three vessels in the Strait of Hormuz, with the operation reportedly authorized by Iran's newly appointed paramilitary chief rather than the regular military, as Supreme Leader Khamenei's continued absence from public view persists."
         }
       ],
       "parentId": null
@@ -2614,7 +2624,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-12",
+      "lastSeen": "2026-09-14",
       "active": true,
       "entries": [
         {
@@ -3676,6 +3686,11 @@
           "date": "2026-09-12",
           "edition": "evening",
           "update": "The USS George Washington aircraft carrier has been deployed to the Middle East to support the U.S. military campaign against Iran, according to CBS News. President Trump expressed optimism about ending the war with Iran during a meeting with Ireland's Prime Minister, claiming Iran had been pushed back. The NY Times reported that Iran and its allies have gained control over two key oil shipping routes, with Tehran positioning itself for a potential diplomatic win that could increase its regional stature."
+        },
+        {
+          "date": "2026-09-14",
+          "edition": "morning",
+          "update": "An Iranian missile attack killed American troops, and a report emerged linking China to the strike. Trump publicly acknowledged the report, stating that China spies on the United States and that the U.S. spies on China in return. Separately, CBS News' 60 Minutes aired its first public interview with 'Dude 44 Bravo,' the F-15E Strike Eagle pilot shot down over Iran in April, who revealed he sustained three broken bones in the incident; newly declassified rescue videos obtained exclusively by 60 Minutes showed that Bravo and his crewmate 'Alpha' were rescued two days apart by U.S. Special Forces. The USS George Washington's deployment to the Middle East was accompanied by all 50,000 U.S. military personnel in the region being placed on high alert and prepared for potential combat."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4560,7 +4575,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
       "active": true
     },
     {
@@ -5308,7 +5323,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
       "active": true,
       "entries": [
         {
@@ -5860,6 +5875,11 @@
           "date": "2026-09-13",
           "edition": "morning",
           "update": "Houthis accused Saudi Arabia of launching 129 airstrikes in 48 hours as both sides traded strikes over the Bab al-Mandeb strait. A Houthi projectile struck Saudi Arabia's Jazan region, wounding two people and damaging a mosque, while the Houthis claimed the attack targeted a military base in Sharurah. Iraqi authorities seized a drone-launching platform in Maysan province near the Iranian border, identified as the site used to target the Saudi oil pipeline. An Iranian commercial ship was struck near the Strait of Hormuz, killing one person, according to Iranian state media. Reuters reported a new attack on shipping in the Strait, raising further fears over oil supply disruptions, and Saudi shares fell in response to the pipeline drone strikes."
+        },
+        {
+          "date": "2026-09-14",
+          "edition": "morning",
+          "update": "Iran and Gulf states postponed planned dialogue, with Oman announcing the delay amid questions over whether parties could negotiate Strait of Hormuz issues without U.S. involvement. Shipping traffic through the strait remained below its 10-day average over the weekend, while Reuters reported that transporting oil is becoming increasingly difficult and costly. Diesel prices reached a new all-time high on Monday, driven by the Saudi pipeline shutdown and the diplomatic postponement. AirBaltic filed for Chapter 11 bankruptcy protection, with costs related to the Iran war cited as a contributing factor."
         }
       ]
     },
@@ -6283,7 +6303,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-14",
       "active": true,
       "entries": [
         {
@@ -6505,6 +6525,11 @@
           "date": "2026-09-13",
           "edition": "evening",
           "update": "House Speaker Mike Johnson said he 'certainly prays' Trump's prediction that the Iran war would end after the midterms is correct, acknowledging the conflict is contributing to higher domestic prices. More than 2,000 Yemenis have fled across the Red Sea to Djibouti as Houthi advances along Yemen's western coast force mass displacement, while Houthi advances have placed Gulf states in a difficult position over how to respond. Iranian families are facing severe economic hardship and deteriorating living conditions amid ongoing U.S.-Iran tensions, according to Al Jazeera. Iran's war has both reshaped and exposed divisions within BRICS, with members agreeing on the need for a new global order but diverging on how to achieve it."
+        },
+        {
+          "date": "2026-09-14",
+          "edition": "morning",
+          "update": "Fuel prices in the United States continued to rise as the Middle East conflict escalated, according to NBC News. Houthi fighters intensified their advance on Saudi-backed Yemeni government strongholds in Marib and Taiz, according to Al Jazeera. Video footage emerged showing an Israeli quadcopter flying at low altitude and maneuvering between residential buildings in eastern Gaza City. Al Jazeera also reported that approximately 750,000 Israeli settlers now live across more than 500 illegal settlements and outposts in Palestinian territories, with settler pogroms hitting record highs."
         }
       ]
     },
@@ -6784,5 +6809,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-13T21:05:57.293Z"
+  "updatedAt": "2026-09-14T11:08:30.845Z"
 }
