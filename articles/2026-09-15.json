@@ -117,5 +117,37 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-15T04:45:01.684Z"
+  },
+  {
+    "title": "Millions line up for ‘sacred henna’ at Indian temple",
+    "description": "Drone visuals show masses lining up at Indian temple for sacred henna, believed to help unmarried people find a match.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/millions-line-up-for-sacred-henna-at-indian-temple?traffic_source=rss",
+    "pubDate": "Tue, 15 Sep 2026 04:42:40 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-09-15T05:00:02.312Z"
+  },
+  {
+    "title": "Surrogate who refused abortion asks SCOTUS to intervene as baby could be moved out of Texas",
+    "description": "Surrogate McKenna West asked the Supreme Court for an emergency administrative stay, fearing the newborn could be moved from Texas to California.",
+    "link": "https://www.foxnews.com/politics/surrogate-refused-abortion-asks-scotus-intervene-baby-moved-out-texas",
+    "pubDate": "Tue, 15 Sep 2026 00:49:32 -0400",
+    "source": "Fox News",
+    "categories": [
+      "fe85bc2b-c0a7-5ce8-8145-04f764d9958c",
+      "fnc",
+      "fox news",
+      "fox-news/politics/judiciary/abortion",
+      "fox-news/politics",
+      "fox-news/us/us-regions/west/california",
+      "fox-news/health/reproductive-health/pregnancy",
+      "fox-news/us/us-regions/southwest/texas",
+      "fox-news/politics/judiciary/supreme-court",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-09-15T05:00:02.312Z"
   }
 ]
