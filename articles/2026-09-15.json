@@ -666,5 +666,63 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-15T08:45:02.506Z"
+  },
+  {
+    "title": "Scientists Find Possible Key To Blocking Breast Cancer Before Tumor Forms",
+    "description": "Dense tissue makes breast cancer screening more difficult, increasing a person's risk of developing it.",
+    "link": "https://www.newsweek.com/scientists-find-possible-key-blocking-breast-cancer-before-tumor-forms-12432086",
+    "pubDate": "Tue, 15 Sep 2026 04:44:54 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-15T09:00:01.316Z"
+  },
+  {
+    "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+    "description": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
+    "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 15 Sep 2026 08:49:31 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-15T09:00:01.316Z"
+  },
+  {
+    "title": "US confirms for first time it has deployed space weapons",
+    "description": "The US Air Force Secretary says the weapons are necessary to defend the country against enemy action.",
+    "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 15 Sep 2026 08:48:28 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-15T09:00:01.316Z"
+  },
+  {
+    "title": "Raucous primary season reaches final act in deep-blue stronghold, kickstarting sprint to November",
+    "description": "Delaware's final 2026 primary caps a season where Donald Trump's endorsements dominated GOP races and progressive socialists ousted incumbents.",
+    "link": "https://www.foxnews.com/politics/raucous-primary-season-reaches-final-act-deep-blue-stronghold-kickstarting-sprint-november",
+    "pubDate": "Tue, 15 Sep 2026 04:45:54 -0400",
+    "source": "Fox News",
+    "categories": [
+      "989ce59b-568c-579e-a33c-24e491bdd95d",
+      "fnc",
+      "fox news",
+      "fox-news/politics/elections/state-and-local-primaries",
+      "fox-news/politics",
+      "fox-news/democrats",
+      "fox-news/politics/elections/republicans",
+      "fox-news/politics/elections/midterm-elections",
+      "fox-news/person/donald-trump",
+      "fox-news/us/us-regions/northeast/delaware",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-09-15T09:00:01.316Z"
+  },
+  {
+    "title": "Russian frigate fires flares towards Danish military helicopter, Denmark says",
+    "description": "Denmark summoned Russia's ambassador after a Russian frigate fired two flares at a Danish military helicopter in international waters.",
+    "link": "https://nypost.com/2026/09/15/world-news/russian-frigate-fires-flares-towards-danish-military-helicopter-denmark-says/",
+    "pubDate": "Tue, 15 Sep 2026 04:50:32 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-15T09:00:01.316Z"
   }
 ]
