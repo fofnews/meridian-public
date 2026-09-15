@@ -440,5 +440,43 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-15T07:00:01.330Z"
+  },
+  {
+    "title": "Ex-CIA chief issued subpoena in Trump 'grand conspiracy' investigation, lawyer says",
+    "description": "John Brennan has been subpoenaed to testify before a Florida grand jury in a Justice Department probe into whether former law enforcement and intelligence officials conspired against President Trump.",
+    "link": "https://www.npr.org/2026/09/15/nx-s1-5969390/ex-cia-director-subpoenaed",
+    "pubDate": "Tue, 15 Sep 2026 02:58:02 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-09-15T07:15:01.256Z"
+  },
+  {
+    "title": "Suspected sabotage triggers a major Dutch rail outage during the morning rush hour",
+    "description": "A major outage has hit the Dutch railway system and the company maintaining the rail infrastructure is treating it as possible sabotage",
+    "link": "https://abcnews.com/Business/wireStory/suspected-sabotage-triggers-major-dutch-rail-outage-morning-136453425",
+    "pubDate": "Tue, 15 Sep 2026 03:03:44 -0400",
+    "source": "ABC News",
+    "categories": [
+      "business"
+    ],
+    "collectedAt": "2026-09-15T07:15:01.256Z"
+  },
+  {
+    "title": "Every Celebrity Mariska Hargitay Mocked During Emmys Opening Monologue",
+    "description": "The \"Law & Order: Special Victims Unit\" star roasted Nicole Kidman, Dick Wolf and more during her 2026 Emmys opening monologue.",
+    "link": "https://www.newsweek.com/entertainment/emmys-opening-monologue-every-celebrity-mariska-hargitay-mocked-12442345",
+    "pubDate": "Tue, 15 Sep 2026 03:13:46 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-15T07:15:01.256Z"
+  },
+  {
+    "title": "Lindsay Clancy Should Face Public Execution, Nancy Mace Says",
+    "description": "Nancy Mace has said Lindsay Clancy should face the death penalty, just days after a mistrial was declared in her murder trial.",
+    "link": "https://www.newsweek.com/lindsay-clancy-should-face-public-execution-death-penalty-nancy-mace-says-12442346",
+    "pubDate": "Tue, 15 Sep 2026 03:11:46 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-15T07:15:01.256Z"
   }
 ]
