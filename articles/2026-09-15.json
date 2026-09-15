@@ -2988,5 +2988,341 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-15T13:00:01.496Z"
+  },
+  {
+    "title": "Kennedy Center board's meeting to 'exclusively' focus on closure, court filing says",
+    "description": "Commerce Secretary Howard Lutnick posted security video of a partial ceiling collapse.",
+    "link": "https://abcnews.com/Politics/kennedy-center-boards-meeting-exclusively-focus-closure-court/story?id=136454609",
+    "pubDate": "Tue, 15 Sep 2026 08:56:41 -0400",
+    "source": "ABC News",
+    "categories": [
+      "politics"
+    ],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
+  },
+  {
+    "title": "How lower-paid workers are getting their biggest pay raise in years",
+    "description": "Some workers are seeing stronger wage growth by switching jobs, while others are \"job-hugging\" because of AI, research shows.",
+    "link": "https://www.cbsnews.com/news/workers-getting-biggest-pay-raise/",
+    "pubDate": "Tue, 15 Sep 2026 09:09:01 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
+  },
+  {
+    "title": "Supreme Court hands Trump administration major blow on mail-in voting",
+    "description": "The Supreme Court ruled late Monday that the Trump administration cannot change mail voting rules before November's midterm elections. Weijia Jiang reports.",
+    "link": "https://www.cbsnews.com/video/supreme-court-hands-trump-administration-major-blow-on-mail-in-voting/",
+    "pubDate": "Tue, 15 Sep 2026 09:06:57 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
+  },
+  {
+    "title": "Top White House AI adviser pushes back on AI leaders calling for safeguards: \"Not acceptable\"",
+    "description": "David Sacks, who co-chairs President Trump's Council of Advisors on Science and Technology, sat down with Jo Ling Kent for an exclusive interview and addressed Mr. Trump's quashing of the idea that AI could destroy humanity.",
+    "link": "https://www.cbsnews.com/video/top-white-house-ai-adviser-pushes-back-on-ai-leaders-calling-for-safeguards-not-acceptable/",
+    "pubDate": "Tue, 15 Sep 2026 09:00:39 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
+  },
+  {
+    "title": "Significance of Supreme Court's decision to block Trump's mail-in voting restrictions",
+    "description": "The Supreme Court upheld a lower court order, blocking the U.S. Postal Service from implementing rules on mail voting in a blow to President Trump. CBS News' Olivia Rinaldi reports.",
+    "link": "https://www.cbsnews.com/video/significance-supreme-court-decision-block-trump-mail-in-voting-rules/",
+    "pubDate": "Tue, 15 Sep 2026 08:55:44 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
+  },
+  {
+    "title": "Gates Foundation Pledges $1 Billion to Combat A.I. Inequality",
+    "description": "Bill Gates, the foundation’s chairman, has been vocal about the dangers of artificial intelligence. The donation will invested in A.I. projects to bridge social inequalities.",
+    "link": "https://www.nytimes.com/2026/09/15/technology/bill-gates-ai-foundation-funding.html",
+    "pubDate": "Tue, 15 Sep 2026 13:07:37 +0000",
+    "source": "NY Times",
+    "categories": [
+      "artificial intelligence",
+      "philanthropy",
+      "gates, bill and melinda, foundation",
+      "gates, bill"
+    ],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
+  },
+  {
+    "title": "FBI Director Kash Patel testifies at Senate hearing",
+    "description": "Watch live coverage as FBI Director Kash Patel testifies at a Senate Judiciary Committee hearing.",
+    "link": "https://www.nbcnews.com/video/watch-live-fbi-director-kash-patel-testifies-at-senate-hearing-269866053564",
+    "pubDate": "Tue, 15 Sep 2026 11:17:09 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
+  },
+  {
+    "title": "Harry and Meghan Change Kids’ School Over Security Concerns",
+    "description": "A spokesperson for Prince Harry and Meghan Markle is confirming to NBC News that the couple’s children, 7-year-old Archie and 5-year-old Lilibet are changing schools after just two days due to security concerns. NBC’s Daniele Hamamdjian reports for TODAY.",
+    "link": "https://www.today.com/video/harry-and-meghan-change-kids-school-over-security-concerns-269865541896",
+    "pubDate": "Tue, 15 Sep 2026 11:48:43 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
+  },
+  {
+    "title": "AccuWeather to Join NWS Using Lake America in Forecasts",
+    "description": "\"We are adhering to the standards set by the U.S. Board on Geographic Names,\" an AccuWeather meteorologist told Newsweek on Tuesday.",
+    "link": "https://www.newsweek.com/accuweather-joins-nws-using-lake-america-forecasts-12444018",
+    "pubDate": "Tue, 15 Sep 2026 09:09:33 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
+  },
+  {
+    "title": "Smokers Have Lower Parkinson's Risk. Scientists May Know Why",
+    "description": "Several studies found a consistent inverse relationship between cigarette smoking and the risk of developing Parkinson’s disease.",
+    "link": "https://www.newsweek.com/smokers-lower-parkinsons-risk-scientists-may-know-why-12438171",
+    "pubDate": "Tue, 15 Sep 2026 09:07:42 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
+  },
+  {
+    "title": "Thousands flee to Djibouti amid renewed Yemen fighting",
+    "description": "More than 3,400 people arrived in 48 hours as Djibouti prepares for more.",
+    "link": "https://www.aljazeera.com/news/2026/9/15/thousands-flee-to-djibouti-amid-renewed-yemen-fighting?traffic_source=rss",
+    "pubDate": "Tue, 15 Sep 2026 12:43:14 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
+  },
+  {
+    "title": "India vs Afghanistan live: T20 cricket match",
+    "description": "Follow our live build-up, team news, predictions, score, photos and live text commentary stream in New Delhi.",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/9/15/india-vs-afghanistan-live-t20-cricket-match?traffic_source=rss",
+    "pubDate": "Tue, 15 Sep 2026 12:33:40 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
+  },
+  {
+    "title": "Turkish authorities detain at least 150 at protest over LGBTQ+ arrests - Reuters",
+    "description": "Turkish authorities detain at least 150 at protest over LGBTQ+ arrests  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZnMzdkQ5WHZuc2tZVjhvcHJBbVl4RGJPNTRuelZFN3o4b0pLejJreV9zcDRFU3dDaTBOcVAyRTlzaF9FV3YxT3pvZXdPcWhCLTBiZk5TdzhPY3loZmRESm5ndC1BX2Y0dE9WMGtnVHFzc0hPbHZqT0ZKdDQ4d3Y4WmZxWFNlN2dEbTlMd2U0UmhYcUc5ZHpJbFI4bE82azd3bG0yZlJiYjg?oc=5",
+    "pubDate": "Tue, 15 Sep 2026 11:42:46 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
+  },
+  {
+    "title": "Live updates: Patel comes before Senate Judiciary panel; justices halt Trump’s mail-in voting plan",
+    "description": "FBI Director Kash Patel will testify Tuesday morning before the Senate Judiciary Committee for an oversight hearing. Ahead of the meeting, Patel released a letter sent to panel chair Sen. Chuck Grassley (R-Iowa) to explain expenditures that have drawn scrutiny. Attorney General Todd Blanche will brief reporters in the Rose Garden on Tuesday, becoming the…",
+    "link": "https://thehill.com/homenews/state-watch/6089511-live-updates-trump-blanche-kash-patel-senate/",
+    "pubDate": "\n\t\tTue, 15 Sep 2026 13:09:09 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "news",
+      "state watch"
+    ],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
+  },
+  {
+    "title": "Patel defends travel, vehicle acquisition ahead of hearing",
+    "description": "FBI Director Kash Patel on Monday defended his personal travel and the law enforcement agency’s purchase of several luxury armored BMWs under his leadership amid scrutiny. Patel is scheduled to appear before the Senate Judiciary Committee on Tuesday morning. Democrats on the panel are expected to press the Trump administration official over his use of…",
+    "link": "https://thehill.com/homenews/administration/6089806-kash-patel-travel-vehicle-controversies-senate-hearing/",
+    "pubDate": "\n\t\tTue, 15 Sep 2026 13:04:40 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "news",
+      "senate",
+      "fbi",
+      "fbi oversight",
+      "government resources",
+      "kash patel jet",
+      "senate judiciary committee",
+      "trump administration"
+    ],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
+  },
+  {
+    "title": "UT students fire back after Republican’s ‘blatantly racist’ post",
+    "description": "University of Texas at Austin (UT) students fired back Monday against a “blatantly racist” post from the Republican nominee for Texas Railroad Commissioner Bo French. French posted an image over the weekend of UT students who were mostly South Asian with the caption: “I heard UT graduation this year looked like this. I didn’t believe…",
+    "link": "https://thehill.com/homenews/state-watch/6089816-ut-students-rebuke-bo-french/",
+    "pubDate": "\n\t\tTue, 15 Sep 2026 13:02:29 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "state watch"
+    ],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
+  },
+  {
+    "title": "Target opening new stores soon, with dozens more ‘upcoming’",
+    "description": "While these are expected to be the last new stores to open in 2026, dozens more are in the works.",
+    "link": "https://thehill.com/business/6081939-target-opening-new-stores-soon-with-dozens-more-upcoming/",
+    "pubDate": "\n\t\tTue, 15 Sep 2026 13:00:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "business",
+      "nexstar media wire news"
+    ],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
+  },
+  {
+    "title": "Democrats urge RFK Jr. to scrap proposed Head Start overhaul",
+    "description": "Democrats are pressing Health and Human Services (HHS) Secretary Robert F. Kennedy Jr. to scrap a proposed overhaul of the Head Start program, warning the changes would weaken services for thousands of families nationwide. The proposed rule, dubbed “Reducing Federal Burden for Head Start Programs,” would “rescind and replace” the Head Start Program Performance Standards…",
+    "link": "https://thehill.com/homenews/house/6089555-hhs-head-start-democrats-rfk/",
+    "pubDate": "\n\t\tTue, 15 Sep 2026 13:00:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "house",
+      "news"
+    ],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
+  },
+  {
+    "title": "Watch live: Bessent faces House questions on economy",
+    "description": "Treasury Secretary Scott Bessent will testify Tuesday before the House Financial Services Committee on the state of the U.S. financial system, as President Trump’s economic agenda faces scrutiny amid the Iran war and tariff battles. Trump’s latest trade war with Canada, the 10-year Treasury bond yield and federal deficit, affordability concerns as the midterms inch…",
+    "link": "https://thehill.com/video-clips/6089787-watch-live-scott-bessent-us-economy-house-financial-services-committee-hearing/",
+    "pubDate": "\n\t\tTue, 15 Sep 2026 12:52:32 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "news",
+      "video"
+    ],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
+  },
+  {
+    "title": "Saudi Arabia may be just days away from not being able to export much oil",
+    "description": "The oil exporting kingdom is now dealing with the shutdown of its East-West pipeline. Energy prices ‘are only going to rise on the back of this.’",
+    "link": "https://www.marketwatch.com/story/saudi-arabia-may-be-just-days-away-from-not-being-able-to-export-much-oil-acfefd0c?mod=mw_rss_topstories",
+    "pubDate": "Tue, 15 Sep 2026 13:03:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
+  },
+  {
+    "title": "90% of retirees are making this miscalculation with their savings",
+    "description": "The order in which you spend your money makes a difference for your taxes — and your enjoyment of life.",
+    "link": "https://www.marketwatch.com/story/90-of-retirees-are-making-this-miscalculation-with-their-savings-feb9db79?mod=mw_rss_topstories",
+    "pubDate": "Tue, 15 Sep 2026 13:00:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
+  },
+  {
+    "title": "Dan Lanning spars with reporter after Dante Moore misses media following Oregon's loss to Oklahoma State",
+    "description": "Dan Lanning defended Dante Moore's postgame absence, saying the Oregon Ducks quarterback needed two IVs for dehydration after the stunning loss.",
+    "link": "https://www.foxnews.com/outkick/dan-lanning-spars-reporter-dante-moore-misses-media-oregon-loss-oklahoma-state",
+    "pubDate": "Tue, 15 Sep 2026 09:07:25 -0400",
+    "source": "Fox News",
+    "categories": [
+      "4414ed38-55e2-52fe-a2ff-b2d2f7fbdfdc",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/sports/ncaa/oregon-ducks",
+      "fox-news/sports/ncaa/oklahoma-state-cowboys",
+      "fox-news/sports/ncaa-fb",
+      "fox-news/outkick",
+      "article"
+    ],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
+  },
+  {
+    "title": "Chiefs heiress Gracie Hunt posts emotional message ahead of KC opener, Sweeney fake outrage & NFL fan fight",
+    "description": "Gracie Hunt, the daughter of Kansas City Chiefs owner Clark Hunt, posted a touching message ahead of kickoff against the Denver Broncos on Monday night.",
+    "link": "https://www.foxnews.com/outkick-sports/chiefs-heiress-gracie-hunt-posts-emotional-message-ahead-kc-opener-sweeney-fake-outrage-nfl-fan-fight",
+    "pubDate": "Tue, 15 Sep 2026 09:05:36 -0400",
+    "source": "Fox News",
+    "categories": [
+      "64ea86c0-88a2-562a-a42d-de0a4d15ec38",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/outkick/outkick-culture/screencaps",
+      "fox-news/person/sydney-sweeney",
+      "fox-news/person/brittany-mahomes",
+      "fox-news/person/travis-kelce",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
+  },
+  {
+    "title": "Wisconsin lawmaker recalls fear at being told plane was crashing into lake: ‘Like staring into abyss’",
+    "description": "\"As we were making that final turn ... the pilot turned to me and said, 'Tom, we are going down,'\" Rep. Tiffany said.",
+    "link": "https://nypost.com/2026/09/15/us-news/wisconsin-lawmaker-recalls-fear-at-being-told-plane-was-crashing-into-lake-like-staring-into-abyss/",
+    "pubDate": "Tue, 15 Sep 2026 09:13:31 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
+  },
+  {
+    "title": "Missing Dominick Bianchi’s heartbroken father-in-law reveals ‘intense pain’ after newlywed found dead",
+    "description": "Dominick Bianchi’s heartbroken father-in-law said their family is in “intense pain” after the newlywed was found dead after a days-long search in upstate New York — and urged anyone struggling with mental health issues to get the help they need.",
+    "link": "https://nypost.com/2026/09/15/us-news/missing-dominick-bianchis-heartbroken-father-in-law-reveals-intense-pain-after-newlywed-found-dead/",
+    "pubDate": "Tue, 15 Sep 2026 09:11:45 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
+  },
+  {
+    "title": "Fantasy football Week 2 waiver wire targets: 49ers rookie RB headlines must-add players",
+    "description": "It’s time for that one friend in your league to splurge 50 percent of their Free Agent Acquisition Budget on the no-name player who scored a touchdown in Week 1.",
+    "link": "https://nypost.com/2026/09/15/betting/fantasy-football-week-2-waiver-wire-targets-49ers-rookie-rb-headlines-must-add-players/",
+    "pubDate": "Tue, 15 Sep 2026 09:10:37 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
+  },
+  {
+    "title": "Travis Kelce has heated moment with aggressive Chiefs fan before season-opening win",
+    "description": "Travis Kelce must’ve been saving these gloves for something very important.",
+    "link": "https://nypost.com/2026/09/15/sports/travis-kelce-has-heated-moment-with-aggressive-chiefs-fan-before-season-opening-win/",
+    "pubDate": "Tue, 15 Sep 2026 09:00:34 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
+  },
+  {
+    "title": "‘RHONY’ star Jessel Taank was ‘shocked’ by Erin Lichy’s explosive tirade: I’m a girl’s girl — she’s not",
+    "description": "The fashion publicist spoke exclusively to Page Six's \"Virtual Reali-Tea\" about her ongoing feud with Lichy.",
+    "link": "https://pagesix.com/2026/09/15/entertainment/rhony-star-jessel-taank-was-shocked-by-erin-lichys-explosive-tirade/",
+    "pubDate": "Tue, 15 Sep 2026 09:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
+  },
+  {
+    "title": "The best-dressed celebrities at the Emmys 2026: Zendaya, Selena Gomez and more",
+    "description": "What's black and white and red all over? The red carpet at TV's biggest night!",
+    "link": "https://pagesix.com/2026/09/15/style/the-best-dressed-celebrities-at-the-emmys-2026/",
+    "pubDate": "Tue, 15 Sep 2026 09:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
+  },
+  {
+    "title": "Are Cocoa Puffs Maria Sten’s Favorite Cereal? The ‘Reacher’ and ‘Neagley’ Star Sets The Record Straight: “I Have to Make Clarifications”",
+    "description": "Is Maria Sten as cuckoo for Cocoa Puffs as Frances Neagley is?",
+    "link": "https://decider.com/2026/09/15/maria-sten-favorite-cereal-reacher-neagley/",
+    "pubDate": "Tue, 15 Sep 2026 09:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
+  },
+  {
+    "title": "Witney Carson details ‘vulnerable’ journey of competing on ‘DWTS’ pregnant — and why she’s feeling ‘empowered’ ahead of premiere night",
+    "description": "The pro dancer, who is paired with Guillermo Rodriguez this season, exclusively spoke to Page Six about gearing up for the dance competition show while four months pregnant.",
+    "link": "https://pagesix.com/2026/09/15/entertainment/witney-carson-details-vulnerable-pregnancy-journey-on-dancing-with-the-stars-ahead-of-premiere-with-guillermo-rodriguez/",
+    "pubDate": "Tue, 15 Sep 2026 09:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-15T13:15:01.411Z"
   }
 ]
