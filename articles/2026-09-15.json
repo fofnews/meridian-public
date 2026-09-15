@@ -905,5 +905,91 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-15T09:15:01.295Z"
+  },
+  {
+    "title": "'The basement saved me': Frontline Ukrainian city under fire amid US peace push",
+    "description": "Since Kherson's liberation in the fall of 2022, the city has formed the frontline between Ukrainian and Russian forces in the southern theater.",
+    "link": "https://abcnews.com/International/basement-saved-frontline-ukrainian-city-fire-amid-us/story?id=136336860",
+    "pubDate": "Tue, 15 Sep 2026 05:03:16 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-09-15T09:30:01.704Z"
+  },
+  {
+    "title": "NATO jets down drone in Lithuanian airspace",
+    "description": "NATO jets have shot down a drone in Lithuanian airspace overnight",
+    "link": "https://abcnews.com/Business/wireStory/nato-jets-drone-lithuanian-airspace-after-bloc-warns-136454319",
+    "pubDate": "Tue, 15 Sep 2026 04:47:55 -0400",
+    "source": "ABC News",
+    "categories": [
+      "business"
+    ],
+    "collectedAt": "2026-09-15T09:30:01.704Z"
+  },
+  {
+    "title": "Suspected sabotage causes major Netherlands rail disruption",
+    "description": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
+    "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 15 Sep 2026 09:02:47 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-15T09:30:01.704Z"
+  },
+  {
+    "title": "US Supreme Court rejects Trump’s plans on postal ballots: Why it matters",
+    "description": "Trump has repeatedly criticised mail-in votes and has attempted to restrict them ahead of the midterms.",
+    "link": "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trumps-plans-on-postal-ballots-why-it-matters?traffic_source=rss",
+    "pubDate": "Tue, 15 Sep 2026 09:15:01 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news analysis"
+    ],
+    "collectedAt": "2026-09-15T09:30:01.704Z"
+  },
+  {
+    "title": "Hormuz traffic dwindles after Middle East attacks intensify - Reuters",
+    "description": "Hormuz traffic dwindles after Middle East attacks intensify  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUTFPRnZDMlUxdmU3RmpseHVGS2laWk4tZU0ySUhOSUdDMGlfQ3loQTBQZktUdW96ck0yNlctUWxVV2NYSHpDclc2YnI4cVFISWZXbjdlM1BDSC1vejJmR2Qtc0NjTTlxLVpxRmZXck5nQU9US1JUalB2cTNZd1Z4Y1Q1QkVQUkEySXNqZUxYV1VWLV8wbVJYTU85X3U0bmk3SXFnNm1uMDQ4TkYwMjV3a3ItZw?oc=5",
+    "pubDate": "Tue, 15 Sep 2026 05:44:28 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-15T09:30:01.704Z"
+  },
+  {
+    "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+    "description": "“They had been married for over 30 years when she passed.”",
+    "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+    "pubDate": "Tue, 15 Sep 2026 09:15:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-09-15T09:30:01.704Z"
+  },
+  {
+    "title": "NATO jets down drone in Lithuanian airspace after bloc warns strikes will drive support for Ukraine",
+    "description": "NATO fighter jets shot down a drone that entered Lithuanian airspace overnight, officials said Tuesday, less than a day after NATO Secretary-General Mark Rutte said that strikes close to the alliance’s territory would drive the trans-Atlantic organization to increase its support for Kyiv.",
+    "link": "https://nypost.com/2026/09/15/world-news/nato-jets-down-drone-in-lithuanian-airspace-after-bloc-warns-strikes-will-drive-support-for-ukraine-2/",
+    "pubDate": "Tue, 15 Sep 2026 05:20:44 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-15T09:30:01.704Z"
+  },
+  {
+    "title": "Vance addresses House GOP as Congress struggles to find path on AI",
+    "description": "Vice President JD Vance is expected to address the regulation of artificial intelligence during a Tuesday appearance before the House Republican Conference. Vance is appearing as concerns over the rapid growth of AI have hit a fever pitch, and House Speaker Mike Johnson (R-LA) faces pressure to stay in session to deal with AI ahead […]",
+    "link": "https://www.washingtonexaminer.com/news/house/4727022/vance-house-republicans-congress-path-ai/",
+    "pubDate": "Tue, 15 Sep 2026 09:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "house",
+      "artificial intelligence",
+      "house of representatives",
+      "jd vance",
+      "republicans",
+      "technology",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-09-15T09:30:01.704Z"
   }
 ]
