@@ -1598,5 +1598,74 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-15T10:15:01.526Z"
+  },
+  {
+    "title": "Map Shows Where ICE Arrests, Detentions Have Surged Most",
+    "description": "ICE arrests reached a record high in August. Here's where detentions increased most across the U.S.",
+    "link": "https://www.newsweek.com/map-shows-where-ice-arrests-detentions-have-surged-most-12442692",
+    "pubDate": "Tue, 15 Sep 2026 06:18:39 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-15T10:30:01.934Z"
+  },
+  {
+    "title": "Denmark says Russian warship fired flares at military helicopter",
+    "description": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
+    "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 15 Sep 2026 10:12:49 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-15T10:30:01.934Z"
+  },
+  {
+    "title": "The promise scouts see in Rangers prospect Gabe Perreault — and the concerns that could derail it",
+    "description": "Gabe Perreault and his potential ceiling have all been up for debate this offseason.",
+    "link": "https://nypost.com/2026/09/15/sports/the-promise-and-concerns-scouts-see-in-rangers-prospect-gabe-perreault/",
+    "pubDate": "Tue, 15 Sep 2026 06:20:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-15T10:30:01.934Z"
+  },
+  {
+    "title": "House faces Iran, Russia, impeachment, and data center fights in final week before midterm elections",
+    "description": "The House is back in Washington for its final week before the November midterm elections, with lawmakers set to confront three politically charged issues before heading home to campaign: rising energy costs tied to data centers, sanctions on Russia, and President Donald Trump’s war in Iran. The four-day session gives lawmakers one last opportunity to […]",
+    "link": "https://www.washingtonexaminer.com/news/house/4726254/house-iran-russia-impeachment-data-centers-final-week-midterms/",
+    "pubDate": "Tue, 15 Sep 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "house",
+      "2026 elections",
+      "data centers",
+      "donald trump",
+      "house of representatives",
+      "impeachment",
+      "iran",
+      "russia",
+      "sanctions",
+      "tariffs",
+      "war powers resolution",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-09-15T10:30:01.934Z"
+  },
+  {
+    "title": "Most ISIS-linked federal defendants are US citizens: Study",
+    "description": "EXCLUSIVE — The case of a New Yorker charged with plotting a bombing reflects a broad trend of American citizens becoming alleged Islamic State group terrorists, a government-linked research group told the Washington Examiner. Federal prosecutors have charged 280 people since 2014 with ISIS-related crimes, including 212 U.S. citizens, according to the National Counterterrorism Innovation, […]",
+    "link": "https://www.washingtonexaminer.com/news/investigations/4725595/most-isis-linked-federal-defendants-us-citizens-study/",
+    "pubDate": "Tue, 15 Sep 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "investigations",
+      "department of homeland security",
+      "department of justice",
+      "fbi",
+      "isis",
+      "national security",
+      "new york",
+      "police and law enforcement",
+      "political violence",
+      "terrorism"
+    ],
+    "collectedAt": "2026-09-15T10:30:01.934Z"
   }
 ]
