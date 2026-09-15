@@ -534,5 +534,45 @@
     "source": "Wall Street Journal",
     "categories": [],
     "collectedAt": "2026-09-15T07:45:01.248Z"
+  },
+  {
+    "title": "After 20 Years of Being Dismissed by Doctors, I Had a Hysterectomy at 36",
+    "description": "I remember lying on the floor, writhing, sweating and heaving. I thought I must be dying. But doctors told me it was anxiety.",
+    "link": "https://www.newsweek.com/after-20-years-being-dismissed-doctors-i-had-hysterectomy-36-12438715",
+    "pubDate": "Tue, 15 Sep 2026 03:53:01 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-15T08:00:01.115Z"
+  },
+  {
+    "title": "NATO Fighter Jets Shoot Down Drone As Russia Steps Up Threats",
+    "description": "Lithuanian authorities said the unmanned aerial vehicle entered the country's airspace from Belarus, Russia's closest ally.",
+    "link": "https://www.newsweek.com/nato-shoots-down-drone-lithuania-russia-steps-up-threats-romania-denmark-ukraine-war-12442498",
+    "pubDate": "Tue, 15 Sep 2026 03:50:06 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-15T08:00:01.115Z"
+  },
+  {
+    "title": "What to watch in the US’s Delaware primary elections",
+    "description": "It's the last state primary scheduled before November's midterm elections.",
+    "link": "https://www.aljazeera.com/news/2026/9/15/what-to-watch-in-the-uss-delaware-primary-elections?traffic_source=rss",
+    "pubDate": "Tue, 15 Sep 2026 07:52:46 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-15T08:00:01.115Z"
+  },
+  {
+    "title": "Hungary to amend anti-LGBTQ law to align with EU standards",
+    "description": "A new bill will remove references to banning the 'promotion' of homosexuality.",
+    "link": "https://www.aljazeera.com/news/2026/9/15/hungary-to-amend-anti-lgbtq-law-to-align-with-eu-standards?traffic_source=rss",
+    "pubDate": "Tue, 15 Sep 2026 07:40:37 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-15T08:00:01.115Z"
   }
 ]
