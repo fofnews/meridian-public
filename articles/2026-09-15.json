@@ -1045,5 +1045,153 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-15T09:45:00.999Z"
+  },
+  {
+    "title": "With Trump’s Plans Blocked, States Work to Restore Trust in Mail Voting",
+    "description": "President Trump’s efforts to restrict mail voting ahead of the midterms were thwarted by the Supreme Court, but they have sowed confusion and doubt among some voters.",
+    "link": "https://www.nytimes.com/2026/09/15/us/politics/mail-ballots-trump-supreme-court-trust.html",
+    "pubDate": "Tue, 15 Sep 2026 09:04:26 +0000",
+    "source": "NY Times",
+    "categories": [
+      "midterm elections (2026)",
+      "united states politics and government",
+      "absentee voting",
+      "presidential power (us)",
+      "executive orders and memorandums",
+      "supreme court (us)",
+      "trump, donald j",
+      "postal service (us)"
+    ],
+    "collectedAt": "2026-09-15T10:00:01.700Z"
+  },
+  {
+    "title": "Gulf Arabs Seek Options After U.S. Bases Did Not Deter Iran",
+    "description": "The American presence in these countries has not shielded them from retaliation during the Iran war. Now they are hoping direct talks with Iran could help.",
+    "link": "https://www.nytimes.com/2026/09/15/world/middleeast/gulf-us-iran-uae-bahrain-saudi-arabia.html",
+    "pubDate": "Tue, 15 Sep 2026 08:57:21 +0000",
+    "source": "NY Times",
+    "categories": [
+      "international relations",
+      "us and israeli attack on iran (2026)",
+      "united states defense and military forces",
+      "military bases and installations",
+      "war and armed conflicts",
+      "bahrain",
+      "iran",
+      "kuwait",
+      "oman",
+      "qatar",
+      "saudi arabia",
+      "united arab emirates"
+    ],
+    "collectedAt": "2026-09-15T10:00:01.700Z"
+  },
+  {
+    "title": "Warsh Set for Showdown With Trump as Fed Faces Pressure to Raise Rates",
+    "description": "The Federal Reserve is expected to raise interest rates on Wednesday, putting Kevin M. Warsh, the chairman, at odds with the administration just before the midterms.",
+    "link": "https://www.nytimes.com/2026/09/15/business/fed-interest-rates-warsh.html",
+    "pubDate": "Tue, 15 Sep 2026 09:04:03 +0000",
+    "source": "NY Times",
+    "categories": [
+      "banking and financial institutions",
+      "regulation and deregulation of industry",
+      "inflation (economics)",
+      "united states politics and government",
+      "united states economy",
+      "federal open market committee",
+      "federal reserve system",
+      "warsh, kevin m"
+    ],
+    "collectedAt": "2026-09-15T10:00:01.700Z"
+  },
+  {
+    "title": "Carney Pitches Canada as a Haven of Investment Stability in a Chaotic World",
+    "description": "The prime minister brought together about 100 money managers in Toronto to promote Canada as the ideal place for their investments.",
+    "link": "https://www.nytimes.com/2026/09/15/world/canada/carney-pitches-canada-as-a-stable-investment-in-a-chaotic-world.html",
+    "pubDate": "Tue, 15 Sep 2026 09:04:04 +0000",
+    "source": "NY Times",
+    "categories": [
+      "toronto (ontario)",
+      "carney, mark j",
+      "trump, donald j",
+      "harper, stephen j",
+      "foreign investments",
+      "international trade and world market",
+      "customs (tariff)",
+      "international relations",
+      "canada",
+      "united states international relations",
+      "united states"
+    ],
+    "collectedAt": "2026-09-15T10:00:01.700Z"
+  },
+  {
+    "title": "Universities Sound Warnings About A.I. Even as They Embrace It",
+    "description": "As A.I. upends education, university leaders have been all over the map about how to respond. It can be very confusing for students.",
+    "link": "https://www.nytimes.com/2026/09/15/us/universities-ai-warnings-enthusiasm.html",
+    "pubDate": "Tue, 15 Sep 2026 09:03:19 +0000",
+    "source": "NY Times",
+    "categories": [
+      "artificial intelligence",
+      "colleges and universities",
+      "cheating",
+      "cornell university",
+      "dartmouth college",
+      "harvard university",
+      "massachusetts institute of technology",
+      "beilock, sian",
+      "garber, alan m"
+    ],
+    "collectedAt": "2026-09-15T10:00:01.700Z"
+  },
+  {
+    "title": "Best and Worst Moments From the 2026 Emmys",
+    "description": "There was plenty of history in Monday’s telecast, hosted by Mariska Hargitay, and also plenty of cringe.",
+    "link": "https://www.nytimes.com/2026/09/15/arts/television/emmys-best-worst-moments.html",
+    "pubDate": "Tue, 15 Sep 2026 09:04:28 +0000",
+    "source": "NY Times",
+    "categories": [
+      "television",
+      "emmy awards"
+    ],
+    "collectedAt": "2026-09-15T10:00:01.700Z"
+  },
+  {
+    "title": "U.S. Has Deployed Weapons in Space, Air Force Secretary Says",
+    "description": "Troy E. Meink’s comments were the first public acknowledgment of American weapons in orbit. The Pentagon has been preparing for potential conflict in space with Russia or China.",
+    "link": "https://www.nytimes.com/2026/09/15/us/politics/space-weapon-air-force-secretary.html",
+    "pubDate": "Tue, 15 Sep 2026 09:30:50 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states defense and military forces",
+      "defense and military forces",
+      "space and astronomy",
+      "missiles and missile defense systems",
+      "cyberwarfare and defense",
+      "meink, troy e",
+      "united states",
+      "satellites",
+      "united states air force",
+      "united states space force"
+    ],
+    "collectedAt": "2026-09-15T10:00:01.700Z"
+  },
+  {
+    "title": "It’s Boom Time in Kyrgyzstan, Courtesy in Part of the War in Ukraine",
+    "description": "The economy of the Central Asian nation grew by 11 percent last year, partly by becoming a key conduit for goods flowing into Russia.",
+    "link": "https://www.nytimes.com/2026/09/15/world/asia/kyrgyzstan-economy-russia-war.html",
+    "pubDate": "Tue, 15 Sep 2026 09:13:29 +0000",
+    "source": "NY Times",
+    "categories": [
+      "kyrgyzstan",
+      "economic conditions and trends",
+      "russian invasion of ukraine (2022)",
+      "international trade and world market",
+      "embargoes and sanctions",
+      "bishkek (kyrgyzstan)",
+      "japarov, sadyr",
+      "russia"
+    ],
+    "collectedAt": "2026-09-15T10:00:01.700Z"
   }
 ]
