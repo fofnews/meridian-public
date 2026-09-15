@@ -1321,6 +1321,11 @@
           "date": "2026-09-15",
           "edition": "morning",
           "update": "Russia struck a petrol station and warehouse facilities in Kyiv, according to the city's mayor. Ukraine is developing countermeasures against Russia's jet-powered drone attacks, according to Reuters, as advanced drone warfare escalates. Kyrgyzstan's economy grew 11 percent over the past year, partly driven by the country serving as a key conduit for goods flowing into Russia amid the war, according to the New York Times."
+        },
+        {
+          "date": "2026-09-15",
+          "edition": "evening",
+          "update": "Russia is requiring companies to hire anti-drone specialists and bear costs for air defense infrastructure they do not control, according to Newsweek. Poland reinforced protection of its border crossings with Ukraine, according to Reuters. Retired General David Petraeus published an opinion piece in The Washington Post arguing for a strategy to make Putin's military aggression too costly to sustain."
         }
       ],
       "parentId": null
@@ -3726,6 +3731,11 @@
           "date": "2026-09-15",
           "edition": "morning",
           "update": "A Pentagon Inspector General report made public Monday estimated that Iranian military strikes caused approximately $184 million in damages to U.S. diplomatic facilities across Iraq, Kuwait, Saudi Arabia, and the UAE. President Trump stated the U.S. is 'open' to a deal with Iran following a reported tanker strike in the Strait of Hormuz."
+        },
+        {
+          "date": "2026-09-15",
+          "edition": "evening",
+          "update": "The CBO released a report Tuesday estimating the Iran war has cost approximately $38 billion and will drive up inflation in the first quarter of next year. The Pentagon's Office of Inspector General found the conflict has caused munitions shortfalls and exposed bottlenecks in the defense industry, with a watchdog report also revealing dozens of U.S. aircraft lost and hundreds of buildings damaged or destroyed from Iranian strikes. U.S. forces destroyed Iranian boats after they attempted to seize a U.S. Navy drone, according to Newsmax."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -5253,7 +5263,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-15",
       "active": true,
       "entries": [
         {
@@ -5370,6 +5380,11 @@
           "date": "2026-09-14",
           "edition": "evening",
           "update": "President Trump announced on Truth Social that Russia and Ukraine have agreed to mutually refrain from striking each other's energy infrastructure, framing the agreement as an energy target ceasefire. The Kremlin separately welcomed Trump's earlier call for Ukraine to halt strikes on Russian diesel facilities."
+        },
+        {
+          "date": "2026-09-15",
+          "edition": "evening",
+          "update": "Ukrainian President Zelenskyy publicly disputed Trump's claim that Russia and Ukraine had agreed to an energy infrastructure truce, pushing back on the characterization of any such agreement. The Kremlin welcomed Trump's energy truce proposal while simultaneously calling for the removal of sanctions against Russia, according to Reuters."
         }
       ]
     },
@@ -5945,6 +5960,11 @@
           "date": "2026-09-15",
           "edition": "morning",
           "update": "Houthi forces seized two additional key islands in the Bab el-Mandeb Strait, prompting Saudi Arabia to appeal to the U.S. for further assistance. MBS held a follow-up meeting with CENTCOM chief Adm. Brad Cooper in Jeddah amid rising oil prices. CENTCOM disputed an IRGC claim that the Panama-flagged supertanker El Gaia was struck by naval mines in the Strait of Hormuz. Trump separately demanded that Ukraine halt strikes on Russian oil refineries, blaming those attacks for rising diesel prices in the U.S."
+        },
+        {
+          "date": "2026-09-15",
+          "edition": "evening",
+          "update": "Satellite imagery confirmed major damage to the Saudi East-West pipeline, with experts telling BBC Verify its closure could reduce global oil supplies by up to 3.6 million barrels per day. Houthi forces seized key ports in Yemen, with the offensive now threatening the world's largest oil facility and a major pipeline, according to the New York Post. The New York Times reported that Houthi forces are increasingly using AI and advanced tools to independently produce sophisticated weaponry, reducing their reliance on Iran for arms. Houthi-run television aired drone footage showing Yemen's Mocha International Airport empty and abandoned."
         }
       ]
     },
@@ -6884,5 +6904,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-15T11:11:13.968Z"
+  "updatedAt": "2026-09-15T21:11:03.464Z"
 }
