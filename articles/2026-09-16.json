@@ -305,5 +305,45 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-09-16T06:00:01.259Z"
+  },
+  {
+    "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+    "description": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+    "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:04:30 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-16T06:15:01.433Z"
+  },
+  {
+    "title": "US House votes to end Iran war, 7 Republicans join in favour",
+    "description": "For a third time, the US House approved a war powers resolution, halting Trump's ability to continue military action.",
+    "link": "https://www.aljazeera.com/news/2026/9/16/us-house-votes-to-end-iran-war-7-republicans-join-in-favour?traffic_source=rss",
+    "pubDate": "Wed, 16 Sep 2026 05:36:53 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-16T06:15:01.433Z"
+  },
+  {
+    "title": "News helicopter crash in Los Angeles kills three, injures one",
+    "description": "NBC Los Angeles helicopter crashes while covering deadly metro bus collision from the air.",
+    "link": "https://www.aljazeera.com/news/2026/9/16/news-helicopter-crash-in-los-angeles-kills-three-injures-one?traffic_source=rss",
+    "pubDate": "Wed, 16 Sep 2026 05:07:47 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-16T06:15:01.433Z"
+  },
+  {
+    "title": "SK Hynix in talks with Intel about deal to make memory chips in the US for the first time, sources say - Reuters",
+    "description": "EXCLUSIVE: SK Hynix in talks with Intel about deal to make memory chips in the US for the first time, sources say  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVW1TN09JajVCZlllYVppOUxpX1RKbnVZOEpHNlA5ZkxFaElCd3h2czNacjJ6QlRyM2NPM1A4Y2tUVmNUTzlRSVJhX29oUk9ZTjFnYjFLOE9NWm5jaTVGOWo1Mnc1VHBOMTRKYXR0NURtUlltQV9ZVlgybWNSWmlDbjdVOGxLTTRlWFhGcUNNcjhYZXA2Q3BocGFpUF9sZXhYdXNURk5CVkZ2UVptUlUxOVQ1UmdOY1RUT2FvZDVBQ2EtNWRRbnpaMHlEYl9XQ2Ny?oc=5",
+    "pubDate": "Wed, 16 Sep 2026 05:32:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-16T06:15:01.433Z"
   }
 ]
