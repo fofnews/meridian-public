@@ -150,5 +150,16 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-16T04:45:01.876Z"
+  },
+  {
+    "title": "Gaza residential building collapses, six families reportedly trapped",
+    "description": "Rescue crews in Gaza pull survivors from a collapsed building as cries for help echo beneath the rubble, witnesses say.",
+    "link": "https://www.aljazeera.com/news/2026/9/16/gaza-residential-building-collapses-six-families-reportedly-trapped?traffic_source=rss",
+    "pubDate": "Wed, 16 Sep 2026 04:30:52 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-16T05:00:01.909Z"
   }
 ]
