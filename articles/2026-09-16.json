@@ -41,5 +41,96 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-16T04:15:01.773Z"
+  },
+  {
+    "title": "3 dead after news helicopter crashes in LA near site of earlier fatal bus collision",
+    "description": "The crash happened in Chatsworth, a suburban neighborhood",
+    "link": "https://abcnews.com/US/helicopter-crashes-los-angeles-site-earlier-fatal-bus/story?id=136481785",
+    "pubDate": "Wed, 16 Sep 2026 00:25:14 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-09-16T04:30:02.443Z"
+  },
+  {
+    "title": "OpenAI Considers New Financing at a $1.5 Trillion Valuation",
+    "description": "The funding round would double the value of the start-up behind ChatGPT and establish it as the world’s most valuable private company.",
+    "link": "https://www.nytimes.com/2026/09/16/business/dealbook/openai-new-funding-round.html",
+    "pubDate": "Wed, 16 Sep 2026 04:01:30 +0000",
+    "source": "NY Times",
+    "categories": [
+      "artificial intelligence",
+      "openai labs",
+      "anthropic ai llc",
+      "initial public offerings",
+      "venture capital",
+      "altman, samuel h",
+      "amodei, dario"
+    ],
+    "collectedAt": "2026-09-16T04:30:02.443Z"
+  },
+  {
+    "title": "In the Age of A.I., Some in China Wonder if Learning English Is Worth the Trouble",
+    "description": "A math teacher’s viral post prompted a debate over the language, which some see as an optional skill — and a symbol of Western dominance.",
+    "link": "https://www.nytimes.com/2026/09/16/world/asia/china-english-language-education.html",
+    "pubDate": "Wed, 16 Sep 2026 04:01:06 +0000",
+    "source": "NY Times",
+    "categories": [
+      "english language",
+      "language and languages",
+      "education (k-12)",
+      "teachers and school employees",
+      "politics and government",
+      "youth",
+      "colleges and universities",
+      "artificial intelligence",
+      "children and childhood",
+      "tests and examinations",
+      "communist party of china",
+      "china"
+    ],
+    "collectedAt": "2026-09-16T04:30:02.443Z"
+  },
+  {
+    "title": "Three dead after LA news helicopter crashes while covering deadly bus collision",
+    "description": "The NBCLA news helicopter was reportedly flying near the scene of a fatal bus crash.",
+    "link": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 16 Sep 2026 04:20:34 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-16T04:30:02.443Z"
+  },
+  {
+    "title": "7 Republicans rebel against Trump, vote with Dems to rein in Iran war powers",
+    "description": "House Republicans joined Democrats to pass a war powers resolution reining in Trump's military engagement in Iran beyond the 60-day threshold.",
+    "link": "https://www.foxnews.com/politics/republicans-rebel-against-trump-vote-dems-rein-iran-war-powers",
+    "pubDate": "Wed, 16 Sep 2026 00:19:51 -0400",
+    "source": "Fox News",
+    "categories": [
+      "862e8096-85c9-51db-9512-98d41fb48398",
+      "fnc",
+      "fox news",
+      "fox-news/politics/defense/wars/war-with-iran",
+      "fox-news/politics/elections/republicans",
+      "fox-news/politics",
+      "fox-news/person/donald-trump",
+      "fox-news/politics/elections/midterm-elections",
+      "fox-news/us/congress",
+      "fox-news/politics/house-of-representatives/foreign-affairs",
+      "fox-news/politics/defense",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-09-16T04:30:02.443Z"
+  },
+  {
+    "title": "Wounded survivor dials for help with her nose after rampaging North Carolina couple shoots her twice",
+    "description": "Setola remains fighting for her life in critical but stable condition alongside her stepbrother, Keaton.",
+    "link": "https://nypost.com/2026/09/16/us-news/wounded-survivor-dials-for-help-with-her-nose-after-rampaging-north-carolina-couple-shoots-her-twice/",
+    "pubDate": "Wed, 16 Sep 2026 00:23:13 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-16T04:30:02.443Z"
   }
 ]
