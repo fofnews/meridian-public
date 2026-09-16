@@ -161,5 +161,42 @@
       "news"
     ],
     "collectedAt": "2026-09-16T05:00:01.909Z"
+  },
+  {
+    "title": "NBC Los Angeles helicopter crashes while covering fatal bus accident",
+    "description": "Los Angeles Mayor Karen Bass offered prayers to the families and loved ones of the victims as three people were killed when a helicopter from NBC Los Angeles crashed while covering a bus accident. An L.A. Metro bus and a passenger vehicle were involved in that accident that killed two people and injured others.",
+    "link": "https://www.nbcnews.com/now/video/nbc-los-angeles-helicopter-crashes-while-covering-fatal-bus-accident-269951557733",
+    "pubDate": "Wed, 16 Sep 2026 05:00:42 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-09-16T05:15:01.474Z"
+  },
+  {
+    "title": "Texas Senate candidate Talarico said US was 'backsliding' on democracy in resurfaced clip",
+    "description": "James Talarico said Americans should look to Western Europe for democratic inspiration in a resurfaced clip that drew a blunt response from Elon Musk.",
+    "link": "https://www.foxnews.com/politics/texas-senate-candidate-talarico-said-us-backsliding-democracy-resurfaced-clip",
+    "pubDate": "Wed, 16 Sep 2026 00:49:06 -0400",
+    "source": "Fox News",
+    "categories": [
+      "4131a151-03c0-53ab-9936-ae434cdab93d",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/us/democratic-party",
+      "fox-news/us/us-regions/southwest/texas",
+      "fox-news/democrats",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-09-16T05:15:01.474Z"
+  },
+  {
+    "title": "Oregon county chairwoman flips off fellow member during publicly broadcast meeting: wild video",
+    "description": "Washington County Chair Kathryn Harrington apologized after being caught on camera flipping off fellow Commissioner Nafisa Fai during a livestreamed meeting Tuesday.",
+    "link": "https://nypost.com/2026/09/16/us-news/oregon-county-pol-flips-off-fellow-member-during-publicly-broadcast-meeting/",
+    "pubDate": "Wed, 16 Sep 2026 00:59:50 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-16T05:15:01.474Z"
   }
 ]
