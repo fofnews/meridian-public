@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-16",
       "active": true,
       "entries": [
         {
@@ -366,6 +366,11 @@
           "date": "2026-09-13",
           "edition": "evening",
           "update": "A U.S. embassy employee in London was covertly extracted and returned to the United States after authorities allegedly discovered child pornography on his devices, before British police could conduct an interview. The individual held diplomatic protection despite not being a formally accredited diplomat. UK politicians condemned the move, accusing the U.S. of shielding the suspect from justice, and the case may raise complex extradition issues between the two countries."
+        },
+        {
+          "date": "2026-09-16",
+          "edition": "morning",
+          "update": "The House Oversight Committee voted to hold Leon Black in contempt of Congress after he defied subpoenas related to his ties to Jeffrey Epstein."
         }
       ],
       "parentId": null
@@ -544,7 +549,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-09-16",
       "active": true,
       "entries": [
         {
@@ -1326,6 +1331,11 @@
           "date": "2026-09-15",
           "edition": "evening",
           "update": "Russia is requiring companies to hire anti-drone specialists and bear costs for air defense infrastructure they do not control, according to Newsweek. Poland reinforced protection of its border crossings with Ukraine, according to Reuters. Retired General David Petraeus published an opinion piece in The Washington Post arguing for a strategy to make Putin's military aggression too costly to sustain."
+        },
+        {
+          "date": "2026-09-16",
+          "edition": "morning",
+          "update": "The House advanced the Russia Sanctions Act, clearing a major procedural hurdle with Democrats Jared Golden and Marie Gluesenkamp Perez crossing party lines to support the legislation, which would grant Trump tariff authorities on countries purchasing Russian energy and extend Iran sanctions. Ukrainian President Zelenskyy, in a CBS News interview, stated that Putin is lying to Trump administration officials and that Russia has twice targeted his plane. Zelenskyy also announced that Russian drones attacked Moldova twice while he was transiting through the country, and separately revealed a new anti-drone weapon is currently being tested."
         }
       ],
       "parentId": null
@@ -2099,7 +2109,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-09-16",
       "active": true,
       "entries": [
         {
@@ -2646,6 +2656,11 @@
           "date": "2026-09-15",
           "edition": "morning",
           "update": "An Israeli attack targeted a displacement camp in Gaza, according to Al Jazeera, with no immediate details on casualties or precise location. Israeli human rights organization B'Tselem stated that Israeli settler violence is aimed at eliminating Palestinian existence."
+        },
+        {
+          "date": "2026-09-16",
+          "edition": "morning",
+          "update": "Israeli forces rappelled from a helicopter onto the roof of a residential building in Yatta in the occupied West Bank, according to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2654,7 +2669,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-09-16",
       "active": true,
       "entries": [
         {
@@ -3736,6 +3751,11 @@
           "date": "2026-09-15",
           "edition": "evening",
           "update": "The CBO released a report Tuesday estimating the Iran war has cost approximately $38 billion and will drive up inflation in the first quarter of next year. The Pentagon's Office of Inspector General found the conflict has caused munitions shortfalls and exposed bottlenecks in the defense industry, with a watchdog report also revealing dozens of U.S. aircraft lost and hundreds of buildings damaged or destroyed from Iranian strikes. U.S. forces destroyed Iranian boats after they attempted to seize a U.S. Navy drone, according to Newsmax."
+        },
+        {
+          "date": "2026-09-16",
+          "edition": "morning",
+          "update": "The House passed a war powers resolution to limit President Trump's military authority against Iran by a vote of 220-204, with seven Republicans joining Democrats in support — the third such vote on Iran. The CBO projected the U.S. will spend at least $2 billion per month on the Iran war going forward, while former Trump national security adviser H.R. McMaster stated the $38 billion cost 'is worth it.' Rep. Thomas Massie introduced articles of impeachment against Defense Secretary Pete Hegseth, accusing him of defying Congress over the Iran war and suppressing free speech. Iran's Foreign Minister traveled to China as Beijing sought to mediate an end to the conflict, and several explosions were reported on Iran's Qeshm island. Vice President JD Vance stated the war will enter a new phase within months."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3745,7 +3765,7 @@
       "title": "Iran Strait of Hormuz Crisis",
       "firstSeen": "2026-03-10",
       "lastSeen": "2026-08-17",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-03-10",
@@ -4625,7 +4645,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-09-16",
       "active": true
     },
     {
@@ -5393,7 +5413,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-09-16",
       "active": true,
       "entries": [
         {
@@ -5965,6 +5985,11 @@
           "date": "2026-09-15",
           "edition": "evening",
           "update": "Satellite imagery confirmed major damage to the Saudi East-West pipeline, with experts telling BBC Verify its closure could reduce global oil supplies by up to 3.6 million barrels per day. Houthi forces seized key ports in Yemen, with the offensive now threatening the world's largest oil facility and a major pipeline, according to the New York Post. The New York Times reported that Houthi forces are increasingly using AI and advanced tools to independently produce sophisticated weaponry, reducing their reliance on Iran for arms. Houthi-run television aired drone footage showing Yemen's Mocha International Airport empty and abandoned."
+        },
+        {
+          "date": "2026-09-16",
+          "edition": "morning",
+          "update": "Saudi Arabia intercepted and destroyed a Houthi drone south of Mecca, declaring the security of pilgrims a 'red line,' while the Houthis denied targeting the holy city. A senior Iraqi source attributed the earlier attack on Saudi Arabia's East-West pipeline to a splinter group within the Iraqi resistance, underscoring Iraqi Prime Minister's difficulties controlling armed factions inside the country. Saudi Arabia separately cancelled some oil deliveries to Europe following the pipeline shutdown."
         }
       ]
     },
@@ -6904,5 +6929,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-15T21:11:03.464Z"
+  "updatedAt": "2026-09-16T11:09:16.145Z"
 }
