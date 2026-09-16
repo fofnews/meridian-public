@@ -371,6 +371,11 @@
           "date": "2026-09-16",
           "edition": "morning",
           "update": "The House Oversight Committee voted to hold Leon Black in contempt of Congress after he defied subpoenas related to his ties to Jeffrey Epstein."
+        },
+        {
+          "date": "2026-09-16",
+          "edition": "evening",
+          "update": "The full House of Representatives voted unanimously to hold billionaire Leon Black in contempt of Congress for failing to provide documents and declining to appear for a deposition related to his ties to Jeffrey Epstein."
         }
       ],
       "parentId": null
@@ -1336,6 +1341,11 @@
           "date": "2026-09-16",
           "edition": "morning",
           "update": "The House advanced the Russia Sanctions Act, clearing a major procedural hurdle with Democrats Jared Golden and Marie Gluesenkamp Perez crossing party lines to support the legislation, which would grant Trump tariff authorities on countries purchasing Russian energy and extend Iran sanctions. Ukrainian President Zelenskyy, in a CBS News interview, stated that Putin is lying to Trump administration officials and that Russia has twice targeted his plane. Zelenskyy also announced that Russian drones attacked Moldova twice while he was transiting through the country, and separately revealed a new anti-drone weapon is currently being tested."
+        },
+        {
+          "date": "2026-09-16",
+          "edition": "evening",
+          "update": "Ukraine confirmed a new military operation codenamed 'Vivaldi' targeting the Russian salient northwest of Lyman, with battlefield gains reported. A Ukrainian drone commander claimed his forces killed a decorated Russian general, according to Reuters. Russia's Syzran and Saratov oil refineries suspended operations following drone attacks, per Reuters sources. Ukraine has proposed a record level of defence spending for the coming year. NPR also reported that Russia is believed to be holding thousands of Ukrainian POWs while contacting prisoners' relatives on social media to demand cooperation from their families."
         }
       ],
       "parentId": null
@@ -3756,6 +3766,11 @@
           "date": "2026-09-16",
           "edition": "morning",
           "update": "The House passed a war powers resolution to limit President Trump's military authority against Iran by a vote of 220-204, with seven Republicans joining Democrats in support — the third such vote on Iran. The CBO projected the U.S. will spend at least $2 billion per month on the Iran war going forward, while former Trump national security adviser H.R. McMaster stated the $38 billion cost 'is worth it.' Rep. Thomas Massie introduced articles of impeachment against Defense Secretary Pete Hegseth, accusing him of defying Congress over the Iran war and suppressing free speech. Iran's Foreign Minister traveled to China as Beijing sought to mediate an end to the conflict, and several explosions were reported on Iran's Qeshm island. Vice President JD Vance stated the war will enter a new phase within months."
+        },
+        {
+          "date": "2026-09-16",
+          "edition": "evening",
+          "update": "CBS News published new photos showing widespread damage to U.S. military positions across the Middle East resulting from Iranian attacks, including destroyed buildings and at least one downed aircraft. The U.S. military also released footage of the rescue operation to recover an injured F-15E Strike Eagle crew member who suffered a broken back after ejecting and waited nearly two days to be retrieved."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4668,7 +4683,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-09-16",
       "active": true,
       "entries": [
         {
@@ -5040,6 +5055,11 @@
           "date": "2026-09-15",
           "edition": "morning",
           "update": "Planned talks in Oman between Iran and Gulf Arab states were postponed, dealing a setback to diplomatic efforts related to the Iran conflict. Iran accused the U.S. of pressuring Austria to revoke a visa for Iranian nuclear chief Mohammad Eslami, blocking his attendance at a Vienna conference, and called the move a violation of member state rights. Gulf Arab states are exploring direct talks with Iran after concluding that U.S. military bases in the region failed to deter Iranian retaliatory actions, with the countries seeking alternative security arrangements beyond reliance on American military presence."
+        },
+        {
+          "date": "2026-09-16",
+          "edition": "evening",
+          "update": "China expressed willingness to 'safeguard Iran's legitimate rights' and stated that the U.S.-Israel war on Iran exposes flaws in the Middle East's 'existing security architecture,' according to a Chinese official cited by Al Jazeera."
         }
       ]
     },
@@ -5283,7 +5303,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-09-16",
       "active": true,
       "entries": [
         {
@@ -5405,6 +5425,11 @@
           "date": "2026-09-15",
           "edition": "evening",
           "update": "Ukrainian President Zelenskyy publicly disputed Trump's claim that Russia and Ukraine had agreed to an energy infrastructure truce, pushing back on the characterization of any such agreement. The Kremlin welcomed Trump's energy truce proposal while simultaneously calling for the removal of sanctions against Russia, according to Reuters."
+        },
+        {
+          "date": "2026-09-16",
+          "edition": "evening",
+          "update": "In a CBS News interview, Ukrainian President Zelenskyy stated that Ukraine is 'ready for energy ceasefire' with Russia, marking a shift from his earlier public pushback against Trump's characterization of an existing agreement."
         }
       ]
     },
@@ -6413,7 +6438,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-16",
       "active": true,
       "entries": [
         {
@@ -6645,6 +6670,11 @@
           "date": "2026-09-14",
           "edition": "evening",
           "update": "Houthi forces seized two strategic Red Sea islands, according to AP News. Israeli human rights organization B'Tselem warned that Israel is working to eliminate Palestinian presence from the West Bank, detailing five mechanisms it says are being used to dismantle Palestinian collective life there. An Israeli minister threatened to revoke the citizenship of filmmakers behind a documentary accusing the Israeli army of mass civilian killing in Gaza, with officials saying the film could be considered treasonous."
+        },
+        {
+          "date": "2026-09-16",
+          "edition": "evening",
+          "update": "The U.S. is set to approve a transfer package of approximately 60,000 heavy bombs, including 2,000-pound munitions, to Israel, according to Al Jazeera. Saudi Arabia reported that Houthi forces launched a drone attack targeting Mecca, Islam's holiest city, which was intercepted by Saudi air defenses south of the city. UN Watch accused UNRWA of completing at most 13 of 50 promised reforms, alleging the agency misrepresented draft policies as finished overhauls. Reuters reported that the Houthi attack campaign has left Saudi Arabia exposed and emboldened Iran, while a Houthi commander has seen their standing elevated within the movement following the recent Yemen offensive."
         }
       ]
     },
@@ -6929,5 +6959,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-16T11:09:16.145Z"
+  "updatedAt": "2026-09-16T21:09:49.111Z"
 }
