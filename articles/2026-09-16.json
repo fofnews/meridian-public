@@ -778,5 +778,222 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-09-16T09:00:02.001Z"
+  },
+  {
+    "title": "Saudi Arabia calls an attempted Mecca attack a 'red line' as Houthis deny they did it",
+    "description": "Saudi Arabia accused Yemen's Iran-backed Houthi rebels overnight of trying to attack Islam's holiest city, prompting condemnation from countries in the region but no sign of military support.",
+    "link": "https://www.npr.org/2026/09/16/g-s1-143554/saudi-arabia-attempted-mecca-attack",
+    "pubDate": "Wed, 16 Sep 2026 05:04:27 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-09-16T09:15:01.371Z"
+  },
+  {
+    "title": "A Kansas girl ran off to join the circus and changed the tattoo world",
+    "description": "One of the country's first known female tattoo artists was born on a Kansas farm. Maud Stevens Wagner ran off to join the circus and later became a tattoo legend.",
+    "link": "https://www.npr.org/2026/09/16/nx-s1-5955615/a-kansas-girl-ran-off-to-join-the-circus-and-changed-the-tattoo-world",
+    "pubDate": "Wed, 16 Sep 2026 05:00:00 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-09-16T09:15:01.371Z"
+  },
+  {
+    "title": "As campaign season gears up, AI-generated ads are everywhere",
+    "description": "Data suggests many candidates are embracing AI this year to boost their image and portray their opponents unfavorably. But whether it will turn out voters remains unclear.",
+    "link": "https://www.npr.org/2026/09/16/nx-s1-5953990/ai-political-ads-2026-midterms",
+    "pubDate": "Wed, 16 Sep 2026 05:00:00 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-09-16T09:15:01.371Z"
+  },
+  {
+    "title": "The Fed is expected to raise interest rates for the first time in 3 years",
+    "description": "The Fed is widely expected to raise its benchmark interest rate to combat stubborn inflation. That could make it more expensive to borrow money to buy a car or carry a balance on a credit card.",
+    "link": "https://www.npr.org/2026/09/16/nx-s1-5968724/federal-reserve-interest-rates-inflation-economy",
+    "pubDate": "Wed, 16 Sep 2026 05:00:00 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-09-16T09:15:01.371Z"
+  },
+  {
+    "title": "The 500 colleges where former students aren't repaying their loans, and why",
+    "description": "Federal data shows many borrowers who aren't paying their loans went to private, for-profit colleges — schools that often market to low-income students and rely on federal financial aid for revenue.",
+    "link": "https://www.npr.org/2026/09/16/nx-s1-5946419/student-loans-repayment-for-profit-college",
+    "pubDate": "Wed, 16 Sep 2026 05:00:00 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-09-16T09:15:01.371Z"
+  },
+  {
+    "title": "21 million women live in U.S. counties with limited birth control access",
+    "description": "Because of a data lag, the current reality of access may be even worse.",
+    "link": "https://www.npr.org/2026/09/16/nx-s1-5956869/birth-control-contraception-access-clinic",
+    "pubDate": "Wed, 16 Sep 2026 05:00:00 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-09-16T09:15:01.371Z"
+  },
+  {
+    "title": "Federal Reserve expected to raise interest rates for the first time since 2023",
+    "description": "The consequential move arrives less than two months before the midterm elections.",
+    "link": "https://abcnews.com/Business/federal-reserve-expected-raise-interest-rates-time-2023/story?id=136457761",
+    "pubDate": "Wed, 16 Sep 2026 05:08:55 -0400",
+    "source": "ABC News",
+    "categories": [
+      "business"
+    ],
+    "collectedAt": "2026-09-16T09:15:01.371Z"
+  },
+  {
+    "title": "Canada Could Become the E.U.’s First ‘Associate Member’",
+    "description": "Ursula von der Leyen, the president of the bloc’s executive arm, has invited Ottawa closer as both sides look to navigate complicated geopolitical challenges.",
+    "link": "https://www.nytimes.com/2026/09/16/world/europe/eu-canada-associate-member.html",
+    "pubDate": "Wed, 16 Sep 2026 09:04:25 +0000",
+    "source": "NY Times",
+    "categories": [
+      "international relations",
+      "international trade and world market",
+      "speeches and statements",
+      "european union",
+      "von der leyen, ursula",
+      "carney, mark j",
+      "canada"
+    ],
+    "collectedAt": "2026-09-16T09:15:01.371Z"
+  },
+  {
+    "title": "What to know about the victims of the NBC L.A. news helicopter crash",
+    "description": "Tributes began pouring in Wednesday after a deadly news helicopter crash in Los Angeles left three people dead.",
+    "link": "https://www.nbcnews.com/news/us-news/nbcla-news-helicopter-crash-eliana-moreno-george-marciniw-tributes-rcna598071",
+    "pubDate": "Wed, 16 Sep 2026 09:09:32 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-09-16T09:15:01.371Z"
+  },
+  {
+    "title": "Remaining opening acts quit Ed Sheeran’s tour after Macklemore’s removal - The Washington Post",
+    "description": "Remaining opening acts quit Ed Sheeran’s tour after Macklemore’s removal  The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMGdOVWZQMlFOQl82ZmlfS2tiZGc0Z0Q3UmswaTBMVjBMcnpKazBWVS0taWJOZF9lZ2RqN2V3cVhzR2xFSE1sS0NyeUlnOTN0VTY1M3lZb2V2b3EtbXFRYVkwNWxub2lCRWgtdTA5dHQ3OEJnN1VtRXR1eUw4X1ZCaV9Jcml4SkR2V3o0T0JjV1RtdmFjYmRfUEpjNWQ4eFEtNUxGaUs5SGs2ZTlNVnFZemdLZlo2VzlLVjU0cU10YXRweFFmZDZKN3NvMktBQQ?oc=5",
+    "pubDate": "Wed, 16 Sep 2026 04:50:23 GMT",
+    "source": "Washington Post",
+    "categories": [],
+    "collectedAt": "2026-09-16T09:15:01.371Z"
+  },
+  {
+    "title": "AL Rookie Emerging as Dark Horse MVP Candidate",
+    "description": "With less than two weeks remaining in the regular season, a surprising rookie is still alive in the American League MVP race.",
+    "link": "https://www.newsweek.com/sports/mlb/tigers-kevin-mcgonigle-mvp-american-league-rookie-12447908",
+    "pubDate": "Wed, 16 Sep 2026 05:03:27 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-16T09:15:01.371Z"
+  },
+  {
+    "title": "Can Democrats Flip the Senate? What the Data Shows",
+    "description": "Markets, polling and race ratings point toward Democrats, but six battlegrounds will determine control of the chamber.",
+    "link": "https://www.newsweek.com/democrats-flip-senate-data-shows-12446769",
+    "pubDate": "Wed, 16 Sep 2026 05:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-16T09:15:01.371Z"
+  },
+  {
+    "title": "AI Is Bringing Back the Travel Agent",
+    "description": "AI is taking over your vacation from takeoff to touchdown.",
+    "link": "https://www.newsweek.com/ai-bringing-back-travel-agent-12446285",
+    "pubDate": "Wed, 16 Sep 2026 05:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-16T09:15:01.371Z"
+  },
+  {
+    "title": "What China Winning the AI Race Could Look Like",
+    "description": "Experts say victory in this particular race could come with unrivalled new economic and political powers.",
+    "link": "https://www.newsweek.com/what-china-winning-the-ai-race-could-look-like-12445373",
+    "pubDate": "Wed, 16 Sep 2026 05:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-16T09:15:01.371Z"
+  },
+  {
+    "title": "How Social Posts Made in China Sparked Anti-U.S. Protests in America",
+    "description": "A Newsweek investigation reveals how a Shanghai-funded network took an anti-American slogan from X to U.S. streets in five months.",
+    "link": "https://www.newsweek.com/how-social-posts-made-in-china-sparked-anti-us-protests-in-america-12444410",
+    "pubDate": "Wed, 16 Sep 2026 05:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-16T09:15:01.371Z"
+  },
+  {
+    "title": "Trump Is Right About NATO. Albania Must Carry Its Weight | Opinion",
+    "description": "\"We can become a real defense and logistics hub on the Adriatic...instead of showing up for photographs.\"",
+    "link": "https://www.newsweek.com/trump-is-right-about-nato-albania-must-carry-its-weight-opinion-12443431",
+    "pubDate": "Wed, 16 Sep 2026 05:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-16T09:15:01.371Z"
+  },
+  {
+    "title": "Nike Is Tweaking Its Playbook as Climate Change Affects Sports",
+    "description": "Climate change and revenue pressures are putting Nike in the hot seat but it continues to overcome challenges.",
+    "link": "https://www.newsweek.com/nike-tweaking-playbook-climate-change-affects-sports-12441558",
+    "pubDate": "Wed, 16 Sep 2026 05:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-16T09:15:01.371Z"
+  },
+  {
+    "title": "Sex, Sailors, Stereotypes—an Aircraft Carrier’s Journey Reveals Prejudice",
+    "description": "From Iran to Thailand, one aircraft carrier’s journey shows how badly prejudices travel.",
+    "link": "https://www.newsweek.com/sex-sailors-stereotypes-aircraft-carriers-journey-reveals-prejudice-12441536",
+    "pubDate": "Wed, 16 Sep 2026 05:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-16T09:15:01.371Z"
+  },
+  {
+    "title": "Charlie Hunnam and Rebecca Hall Bring Camp and Tragedy to ‘Monster’",
+    "description": "The two actors talk playing Lizzie Borden's parents, balancing camp with tragedy and why Ryan Murphy keeps calling them back.",
+    "link": "https://www.newsweek.com/entertainment/charlie-hunnam-rebecca-hall-bring-camp-tragedy-to-monster-12441272",
+    "pubDate": "Wed, 16 Sep 2026 05:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-16T09:15:01.371Z"
+  },
+  {
+    "title": "The Global Race To Build Superintelligent Robots",
+    "description": "Making an android move isn’t the big challenge facing robotics—it’s making them think.",
+    "link": "https://www.newsweek.com/global-race-to-build-superintelligent-robots-12441196",
+    "pubDate": "Wed, 16 Sep 2026 05:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-16T09:15:01.371Z"
+  },
+  {
+    "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
+    "description": "The Houthis deny targeting the Islamic holy city after the Saudi-led coalition in Yemen accuses them of a \"disgraceful act\".",
+    "link": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 16 Sep 2026 08:36:17 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-16T09:15:01.371Z"
+  },
+  {
+    "title": "What history says about longer-term bond yields after the first Fed hike",
+    "description": "If the Federal Reserve hikes interest rates in an effort to slow down the rapid rise in longer-term yields, history shows it probably won’t be a success.",
+    "link": "https://www.marketwatch.com/story/what-history-says-about-longer-term-bond-yields-after-the-first-fed-hike-53eaae9f?mod=mw_rss_topstories",
+    "pubDate": "Wed, 16 Sep 2026 09:11:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-09-16T09:15:01.371Z"
+  },
+  {
+    "title": "NYC triathlete dies after he’s found unconscious in water during Hamptons race",
+    "description": "A NYC triathlete died when he was found unconscious during the swimming portion of a race in the Hamptons — less than two weeks after a married father of two died in a suspected drowning in nearby Shelter Island.",
+    "link": "https://nypost.com/2026/09/16/us-news/nyc-triathlete-lin-chung-dies-after-hes-found-unconscious-in-water-during-hamptons-race/",
+    "pubDate": "Wed, 16 Sep 2026 05:05:55 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-16T09:15:01.371Z"
   }
 ]
