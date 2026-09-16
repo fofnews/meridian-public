@@ -345,5 +345,45 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-09-16T06:15:01.433Z"
+  },
+  {
+    "title": "Village votes to leave UK over asylum housing plan in symbolic referendum",
+    "description": "Piddington residents vote over proposals to house up to 1,256 male asylum seekers nearby.",
+    "link": "https://www.bbc.co.uk/news/articles/ckz7zyn1lwypo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:24:31 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-16T06:30:01.269Z"
+  },
+  {
+    "title": "Multiple death sentences in different states are set to be carried out within 24 hours: 'Not very common'",
+    "description": "Multiple U.S. executions in the U.S. are set within 24 hours this week, part of a surge that has seen 25 death penalty cases in 2026 with more to come.",
+    "link": "https://www.foxnews.com/us/multiple-death-sentences-different-states-carried-out-within-24-hours-not-very-common",
+    "pubDate": "Wed, 16 Sep 2026 02:03:26 -0400",
+    "source": "Fox News",
+    "categories": [
+      "26001448-64c3-5f23-a4f5-1472c5a6a9aa",
+      "fnc",
+      "fox news",
+      "fox-news/crime",
+      "fox-news/us/us-regions/southeast/georgia",
+      "fox-news/us/us-regions/southwest/texas",
+      "fox-news/us/us-regions/southeast/alabama",
+      "fox-news/us/us-regions/southeast/florida",
+      "fox-news/us/crime/homicide",
+      "fox-news/us",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-09-16T06:30:01.269Z"
+  },
+  {
+    "title": "Louisiana monster accused of slaughtering family of four — as boy ran for help after he was stabbed",
+    "description": "A Louisiana monster has been charged with slaughtering a family of four during his alleged stabbing spree that left a 6-year-old fighting for his life, but not before the child heroically ran for help while wounded.",
+    "link": "https://nypost.com/2026/09/16/us-news/louisiana-monster-kaegan-solet-accused-of-slaughtering-family-of-four-as-boy-ran-for-help-after-he-was-stabbed/",
+    "pubDate": "Wed, 16 Sep 2026 02:21:03 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-16T06:30:01.269Z"
   }
 ]
