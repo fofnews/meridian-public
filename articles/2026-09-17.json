@@ -486,5 +486,32 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-17T07:15:01.529Z"
+  },
+  {
+    "title": "Boy, 13, is new voice of Thomas the Tank Engine",
+    "description": "A new Thomas series also stars The Gentleman actor Henry Golding.",
+    "link": "https://www.bbc.co.uk/news/articles/c65y5xv3j90vo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 17 Sep 2026 04:56:41 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-17T07:30:01.271Z"
+  },
+  {
+    "title": "US, China security experts propose nuclear-style safeguards for AI risks - Reuters",
+    "description": "US, China security experts propose nuclear-style safeguards for AI risks  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd01DQXNsMmI1M3p2T1pRSjlGNEdjZHJHVGRPSE5lS2lNXzZYWi0wTmxCNUthU0ZmX1NQUklKeHZOWkZyZDVWMjNlTlBlOGl6NVFEclVyNFdJbmppMG13VkdWOXlfUXR3WnM1d3M0Y19xYWhuTTNxMGhIbGo2ek1OVU0xbXZuWnJOT29SazNfLXF4VF9IRC1ZVThUeXBWUTUyYzluVFBUa3NzQVhSMGExeEdxb1dKdw?oc=5",
+    "pubDate": "Thu, 17 Sep 2026 04:43:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-17T07:30:01.271Z"
+  },
+  {
+    "title": "Russian spies orchestrated $40K murder plot in nation’s capital, US alleges",
+    "description": "The US accused Russian intelligence operatives of orchestrating a murder-for-hire plot targeting a Kremlin critic believed to be living in Washington, DC.",
+    "link": "https://nypost.com/2026/09/17/us-news/russian-spies-orchestrated-40k-murder-plot-in-washington-dc/",
+    "pubDate": "Thu, 17 Sep 2026 03:19:02 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-17T07:30:01.271Z"
   }
 ]
