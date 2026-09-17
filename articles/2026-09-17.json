@@ -1253,5 +1253,387 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-17T10:00:01.770Z"
+  },
+  {
+    "title": "Pressure on global chokepoints drives Asia's increased use of Arctic Trade Routes",
+    "description": "Asian nations began pilot voyages over a decade ago to find routes to Europe and the Middle East that were faster and less vulnerable to chokepoints. The ongoing war has added impetus to those efforts.",
+    "link": "https://www.npr.org/2026/09/17/g-s1-143712/pressure-on-global-chokepoints-drives-asias-increased-use-of-arctic-trade-routes",
+    "pubDate": "Thu, 17 Sep 2026 06:00:00 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-09-17T10:15:01.432Z"
+  },
+  {
+    "title": "There are more trucks on highways. But the government is inspecting them less.",
+    "description": "A CBS News investigation finds that nearly 600 people have died in crashes since 2024 with trucks operated by companies that had never been subjected to a roadside safety inspection.",
+    "link": "https://www.cbsnews.com/news/trucks-drivers-fewer-safety-inspections/",
+    "pubDate": "Thu, 17 Sep 2026 06:00:15 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-17T10:15:01.432Z"
+  },
+  {
+    "title": "Who Will Win the Midterms? Republicans Are Reeling.",
+    "description": "The party is putting up a costly defense of states and districts that President Trump won easily in 2024. And in places like Georgia, strategists wonder if it’s too late.",
+    "link": "https://www.nytimes.com/2026/09/17/us/politics/midterms-map-republicans-democrats.html",
+    "pubDate": "Thu, 17 Sep 2026 09:04:13 +0000",
+    "source": "NY Times",
+    "categories": [
+      "midterm elections (2026)",
+      "republican party",
+      "democratic party",
+      "trump, donald j",
+      "united states politics and government",
+      "political action committees",
+      "campaign finance",
+      "political advertising",
+      "make america great again (maga) inc",
+      "senate majority pac"
+    ],
+    "collectedAt": "2026-09-17T10:15:01.432Z"
+  },
+  {
+    "title": "Democrats Hope Voting Rights Decision Will Drive Black Turnout in South",
+    "description": "Black Democratic candidates for governor, the Senate and the House are hoping that attacks on Black representation will bring out Black voters in November.",
+    "link": "https://www.nytimes.com/2026/09/17/us/politics/black-voters-democratic-candidates-south.html",
+    "pubDate": "Thu, 17 Sep 2026 09:03:24 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "midterm elections (2026)",
+      "voting rights act (1965)",
+      "black people",
+      "redistricting and reapportionment",
+      "bottoms, keisha lance",
+      "colom, scott",
+      "southern states (us)"
+    ],
+    "collectedAt": "2026-09-17T10:15:01.432Z"
+  },
+  {
+    "title": "Jewish Leaders in Michigan Urge Support for El-Sayed’s Senate Bid",
+    "description": "The public petition comes after other Michigan Jews registered their discontent with Abdul El-Sayed, the state’s Democratic Senate nominee.",
+    "link": "https://www.nytimes.com/2026/09/17/us/politics/el-sayed-michigan-senate-jewish-petition.html",
+    "pubDate": "Thu, 17 Sep 2026 09:03:57 +0000",
+    "source": "NY Times",
+    "categories": [
+      "midterm elections (2026)",
+      "jews and judaism",
+      "elections, senate",
+      "anti-semitism",
+      "endorsements",
+      "democratic party",
+      "el-sayed, abdul",
+      "levin, sander m",
+      "michigan"
+    ],
+    "collectedAt": "2026-09-17T10:15:01.432Z"
+  },
+  {
+    "title": "The Deadly Choice Facing Many Gazans, and a New Disclosure of ‘Concerning’ A.I. Behavior",
+    "description": "Plus, the rise of shopping sites that don’t sell anything.",
+    "link": "https://www.nytimes.com/2026/09/17/podcasts/the-headlines/gaza-ruins-concerning-ai-behavior.html",
+    "pubDate": "Thu, 17 Sep 2026 10:00:08 +0000",
+    "source": "NY Times",
+    "categories": [
+      "artificial intelligence",
+      "buildings (structures)",
+      "openai labs",
+      "gaza strip"
+    ],
+    "collectedAt": "2026-09-17T10:15:01.432Z"
+  },
+  {
+    "title": "Global Economy Is Running Out of Wiggle Room",
+    "description": "Many countries blunted the most painful effects of the energy shock from the war in Iran. But prices remain elevated and risks are multiplying.",
+    "link": "https://www.nytimes.com/2026/09/17/business/economy/iran-war-energy-prices.html",
+    "pubDate": "Thu, 17 Sep 2026 09:04:23 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "live-detached",
+      "oil (petroleum) and gasoline",
+      "inflation (economics)",
+      "economic conditions and trends",
+      "iran",
+      "china",
+      "far east, south and southeast asia and pacific areas"
+    ],
+    "collectedAt": "2026-09-17T10:15:01.432Z"
+  },
+  {
+    "title": "The Fed Raised Rates. What Comes Next?",
+    "description": "Kevin M. Warsh, the chairman of the Federal Reserve, on Wednesday left open-ended how much more interest rates may have to rise to tame inflation.",
+    "link": "https://www.nytimes.com/2026/09/17/business/economy/fed-interest-rates-warsh.html",
+    "pubDate": "Thu, 17 Sep 2026 09:05:11 +0000",
+    "source": "NY Times",
+    "categories": [
+      "inflation (economics)",
+      "interest rates",
+      "united states politics and government",
+      "trump, donald j",
+      "warsh, kevin m",
+      "united states economy"
+    ],
+    "collectedAt": "2026-09-17T10:15:01.432Z"
+  },
+  {
+    "title": "How Anthropic CEO Dario Amodei’s Writings Help Explain A.I. Fears",
+    "description": "The collected essays of Dario Amodei help explain why some people are so worried about artificial intelligence.",
+    "link": "https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html",
+    "pubDate": "Thu, 17 Sep 2026 09:00:08 +0000",
+    "source": "NY Times",
+    "categories": [
+      "artificial intelligence",
+      "books and literature",
+      "computers and the internet",
+      "united states politics and government",
+      "regulation and deregulation of industry",
+      "poetry and poets",
+      "writing and writers",
+      "innovation",
+      "anthropic ai llc",
+      "amodei, dario"
+    ],
+    "collectedAt": "2026-09-17T10:15:01.432Z"
+  },
+  {
+    "title": "Trump’s Minnesota Surge Threatened Democracy, Judge Warns",
+    "description": "In a rare interview, Patrick Schiltz, who served as the federal court’s chief judge last winter, called the administration’s actions “a grave threat to the rule of law.”",
+    "link": "https://www.nytimes.com/2026/09/17/us/politics/minnesota-judge-trump-immigration.html",
+    "pubDate": "Thu, 17 Sep 2026 09:00:47 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "federal actions in us cities",
+      "immigration detention",
+      "federal-state relations (us)",
+      "federal courts (us)",
+      "courts and the judiciary",
+      "united states attorneys",
+      "threats and threatening messages",
+      "homeland security department",
+      "immigration and customs enforcement (us)",
+      "justice department",
+      "schiltz, patrick j",
+      "tostrud, eric c",
+      "minneapolis (minn)",
+      "minnesota"
+    ],
+    "collectedAt": "2026-09-17T10:15:01.432Z"
+  },
+  {
+    "title": "Weird and Wonderful, the Lucas Museum Lands in L.A.",
+    "description": "A billion-dollar behemoth that looks like a spaceship houses the art collection of the “Star Wars” filmmaker George Lucas and his wife, Mellody Hobson. It’s an instant landmark.",
+    "link": "https://www.nytimes.com/2026/09/17/arts/design/lucas-museum-los-angeles-star-wars.html",
+    "pubDate": "Thu, 17 Sep 2026 09:03:37 +0000",
+    "source": "NY Times",
+    "categories": [
+      "museums",
+      "art",
+      "collectors and collections",
+      "architecture",
+      "lucas museum of narrative art",
+      "hobson, mellody",
+      "lucas, george",
+      "ma yansong",
+      "los angeles (calif)"
+    ],
+    "collectedAt": "2026-09-17T10:15:01.432Z"
+  },
+  {
+    "title": "Carney Calls for E.U.-Canada Pact Amid ‘Ferocious Storm’",
+    "description": "Speaking to the European Parliament, Prime Minister Mark Carney said the alliance would help to secure sovereignty and independence for his country.",
+    "link": "https://www.nytimes.com/2026/09/17/world/europe/canada-carney-eu.html",
+    "pubDate": "Thu, 17 Sep 2026 09:46:40 +0000",
+    "source": "NY Times",
+    "categories": [
+      "legislatures and parliaments",
+      "international relations",
+      "european union",
+      "carney, mark j",
+      "europe",
+      "canada",
+      "von der leyen, ursula"
+    ],
+    "collectedAt": "2026-09-17T10:15:01.432Z"
+  },
+  {
+    "title": "Trump Administration Wants ‘Made in the U.S.A.’ Labels on Beef",
+    "description": "Will consumers pay a premium for American beef? The Agriculture Department hopes so, in an effort to appease ranchers upset over increased imports.",
+    "link": "https://www.nytimes.com/2026/09/17/business/trump-administration-beef-import-labels.html",
+    "pubDate": "Thu, 17 Sep 2026 09:03:37 +0000",
+    "source": "NY Times",
+    "categories": [
+      "agriculture and farming",
+      "united states politics and government",
+      "beef",
+      "labeling and labels (product)",
+      "law and legislation",
+      "prices (fares, fees and rates)",
+      "ranches",
+      "executive orders and memorandums",
+      "agriculture department",
+      "world trade organization",
+      "office of the united states trade representative",
+      "kansas state university",
+      "trump, donald j",
+      "rollins, brooke (1972- )",
+      "united states"
+    ],
+    "collectedAt": "2026-09-17T10:15:01.432Z"
+  },
+  {
+    "title": "Donald Trump's Approval Rating Hits New Low 7 Weeks Before Midterms",
+    "description": "The president's standing hits a new floor as inflation concerns and Democratic momentum complicate the GOP’s midterm outlook.",
+    "link": "https://www.newsweek.com/donald-trump-approval-rating-low-before-midterms-12453821",
+    "pubDate": "Thu, 17 Sep 2026 06:14:21 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-17T10:15:01.432Z"
+  },
+  {
+    "title": "Map Shows States With Above-Average Gas Prices as Trump Talks Them Down",
+    "description": "Gas prices are nearly 50 percent higher than they were before the start of the Iran war, as Trump says it’s only “a little more.”",
+    "link": "https://www.newsweek.com/map-shows-states-above-average-gas-prices-trump-talks-down-12453655",
+    "pubDate": "Thu, 17 Sep 2026 06:10:03 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-17T10:15:01.432Z"
+  },
+  {
+    "title": "From Yanbu to Sohar: Tracking Saudi Arabia’s alternative oil routes",
+    "description": "The world's second-largest crude exporter is rerouting crude via dark shipments and ship-to-ship transfers off Oman.",
+    "link": "https://www.aljazeera.com/news/2026/9/17/from-yanbu-to-sohar-tracking-saudi-arabias-alternative-oil-routes?traffic_source=rss",
+    "pubDate": "Thu, 17 Sep 2026 09:42:49 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-17T10:15:01.432Z"
+  },
+  {
+    "title": "Dollar's allure, oil surge fan bearish bets on emerging Asian currencies: Reuters poll - Reuters",
+    "description": "Dollar's allure, oil surge fan bearish bets on emerging Asian currencies: Reuters poll  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTjZNT3kxN1I5MU1zUWhFWTdlRm1tZVpGOU1sdWVEX0t6R2pDMkt0TXY0ZVQ5SVotOG1qZ3BZVFNlZGl5dktfamVFZmxYb2RtUkY2aF9SNVFTN2ItTHIyR2FodldIYlJZSDl2eEpkOGVwa3pCSmtBQko4X3pCWElueWJaZERaZEFvZm1WT3dJTVY4Q3hxUVowRU4yX0JtOTZjRVhtVzJ1UWZnalhVZV9pOXpRVFlGU3A4MHJETkxsMA?oc=5",
+    "pubDate": "Thu, 17 Sep 2026 07:42:53 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-17T10:15:01.432Z"
+  },
+  {
+    "title": "LVMH signed a secret 2002 pact to buy Hermès heir’s shares. Now he says his fortune is missing - Reuters",
+    "description": "EXCLUSIVE: LVMH signed a secret 2002 pact to buy Hermès heir’s shares. Now he says his fortune is missing  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQUk2ZlUzaGJlQ1VoUm9qS3k0TG5YMzctT3BadXd4RWpTajdSWWZGTW9TWlNhd2ZSc3JPbzI5dUM4bzdDQUoydTVDM1RwT3dIeHA5WW9iQ3BzWFhMWVR6YzVTVlZLT29lbmt2N2VlbWk2ZHNrWlZjdDI3N0xvQWJ2NXo2OUFSWkVjXzIwa2swVjFqRnF2MzFYN2lMOFVZUXNXdGJ1aVBld2o2NmZrN2RVajh4aF9JU0x1S3RKRnloc1cwOUZTTno4V3FSdw?oc=5",
+    "pubDate": "Thu, 17 Sep 2026 06:02:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-17T10:15:01.432Z"
+  },
+  {
+    "title": "Man says meat-only 'lion diet' cleared psoriasis covering 90% of his body, ended decades of depression",
+    "description": "Stephen Lashbrook says the \"lion diet\" cleared his severe psoriasis and ended decades of depression, but doctors warn the carnivore approach has risks.",
+    "link": "https://www.foxnews.com/food-drink/man-says-meat-only-lion-diet-cleared-psoriasis-covering-90-his-body-ended-decades-depression",
+    "pubDate": "Thu, 17 Sep 2026 06:00:54 -0400",
+    "source": "Fox News",
+    "categories": [
+      "419f3d9b-6eb1-599d-a3f1-bac4cdc4b07d",
+      "fnc",
+      "fox news",
+      "fox-news/health/maha",
+      "fox-news/food-drink",
+      "fox-news/lifestyle/food",
+      "fox-news/health/nutrition-and-fitness/nutrition",
+      "fox-news/health/nutrition-and-fitness/diet-trends",
+      "fox-news/health/healthy-living/mens-health",
+      "fox-news/lifestyle",
+      "fox-news/food-drink",
+      "article"
+    ],
+    "collectedAt": "2026-09-17T10:15:01.432Z"
+  },
+  {
+    "title": "Memphis mom says Trump brought peace to streets as Democratic DA battles task force oversight",
+    "description": "A petition nearing 10,000 signatures demands DA Steve Mulroy drop his fight against Donald Trump's Memphis Safe Task Force accountability measures.",
+    "link": "https://www.foxnews.com/us/memphis-mom-says-trump-brought-peace-streets-democratic-da-battles-task-force-oversight",
+    "pubDate": "Thu, 17 Sep 2026 06:00:31 -0400",
+    "source": "Fox News",
+    "categories": [
+      "6603bb52-47ad-5c2d-8a80-0952e0af9dc5",
+      "fnc",
+      "fox news",
+      "fox-news/entertainment/genres/crime",
+      "fox-news/us/us-regions/southeast/tennessee",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/politics/finance/investigations",
+      "fox-news/us/blue-city-crime",
+      "fox-news/person/donald-trump",
+      "fox-news/politics/executive/white-house",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-09-17T10:15:01.432Z"
+  },
+  {
+    "title": "The Fed just threw a wrench in Trump's midterm economic message",
+    "description": "Kevin Warsh's first rate hike as Fed chair defies President Donald Trump's repeated push for lower borrowing costs ahead of midterm elections.",
+    "link": "https://www.foxnews.com/politics/fed-threw-wrench-trumps-midterm-economic-message",
+    "pubDate": "Thu, 17 Sep 2026 06:00:26 -0400",
+    "source": "Fox News",
+    "categories": [
+      "c5b1f221-5889-5a16-9979-452ff1b15a12",
+      "fnc",
+      "fox news",
+      "fox-news/politics/finance/federal-reserve",
+      "fox-news/politics/elections/midterm-elections",
+      "fox-news/politics/executive/economic-policy",
+      "fox-news/politics",
+      "fox-news/us/economy",
+      "fox-news/person/donald-trump",
+      "fox-news/us/economy/inflation",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-09-17T10:15:01.432Z"
+  },
+  {
+    "title": "Dem megadonor unleashes reality check on Harris for 2028 while eying socialist firebrand",
+    "description": "Reid Hoffman, a top Silicon Valley donor, calls another Kamala Harris 2028 presidential run a \"very challenging path\" while expressing surprising openness to supporting Rep. Alexandria Ocasio-Cortez.",
+    "link": "https://www.foxnews.com/politics/dem-megadonor-unleashes-reality-check-harris-2028-eying-socialist-firebrand",
+    "pubDate": "Thu, 17 Sep 2026 06:00:22 -0400",
+    "source": "Fox News",
+    "categories": [
+      "e8bce040-ab25-54ed-aea5-281ba1ee5366",
+      "fnc",
+      "fox news",
+      "fox-news/politics/elections/presidential",
+      "fox-news/politics/elections/presidential-primaries",
+      "fox-news/person/kamala-harris",
+      "fox-news/person/alexandria-ocasio-cortez",
+      "fox-news/politics/elections",
+      "fox-news/person/gavin-newsom",
+      "fox-news/politics",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-09-17T10:15:01.432Z"
+  },
+  {
+    "title": "Sam Bankman-Fried’s surprising links to the ecosystem manipulating how you view AI",
+    "description": "“They don’t fully realize the reason they believe the world is going to end is because [of the same thing] that gives them status in their social circles and, for many of them, advantages economically.”",
+    "link": "https://nypost.com/2026/09/17/tech/sam-bankman-frieds-surprising-links-to-the-ecosystem-manipulating-how-you-view-ai/",
+    "pubDate": "Thu, 17 Sep 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-17T10:15:01.432Z"
+  },
+  {
+    "title": "GOP gov candidate Bruce Blakeman ties Hochul to Mamdani in mailers targeting voters outside NYC: ‘Say no to socialism’",
+    "description": "The mailer accuses Gov. Kathy Hochul of using state taxpayer dollars to implement NYC Mayor Zohran Mamdani's \"socialist agenda.\"",
+    "link": "https://nypost.com/2026/09/17/us-news/bruce-blakeman-ties-hochul-to-mamdani-in-mailers-targeting-voters-outside-nyc/",
+    "pubDate": "Thu, 17 Sep 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-17T10:15:01.432Z"
   }
 ]
