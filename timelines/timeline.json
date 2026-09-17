@@ -554,7 +554,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-16",
+      "lastSeen": "2026-09-17",
       "active": true,
       "entries": [
         {
@@ -1346,6 +1346,11 @@
           "date": "2026-09-16",
           "edition": "evening",
           "update": "Ukraine confirmed a new military operation codenamed 'Vivaldi' targeting the Russian salient northwest of Lyman, with battlefield gains reported. A Ukrainian drone commander claimed his forces killed a decorated Russian general, according to Reuters. Russia's Syzran and Saratov oil refineries suspended operations following drone attacks, per Reuters sources. Ukraine has proposed a record level of defence spending for the coming year. NPR also reported that Russia is believed to be holding thousands of Ukrainian POWs while contacting prisoners' relatives on social media to demand cooperation from their families."
+        },
+        {
+          "date": "2026-09-17",
+          "edition": "evening",
+          "update": "Poland scrambled jets and activated air defense alerts in response to a Russian strike on western Ukraine, with air raid sirens sounding in the region, before subsequently ending the alert."
         }
       ],
       "parentId": null
@@ -2679,7 +2684,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-16",
+      "lastSeen": "2026-09-17",
       "active": true,
       "entries": [
         {
@@ -3771,6 +3776,11 @@
           "date": "2026-09-16",
           "edition": "evening",
           "update": "CBS News published new photos showing widespread damage to U.S. military positions across the Middle East resulting from Iranian attacks, including destroyed buildings and at least one downed aircraft. The U.S. military also released footage of the rescue operation to recover an injured F-15E Strike Eagle crew member who suffered a broken back after ejecting and waited nearly two days to be retrieved."
+        },
+        {
+          "date": "2026-09-17",
+          "edition": "evening",
+          "update": "UN-commissioned human rights experts found 'reasonable grounds' to believe the U.S. committed war crimes in two separate strikes inside Iran that resulted in civilian casualties. One strike targeted a primary school in Minab, southern Iran, killing more than 100 children, with investigators stating the mistakes 'went beyond negligence'; a second strike on the same day killed a reported 22 civilians. The same UN mission found Iranian authorities committed crimes against humanity during crackdowns on anti-government protests. Secretary of State Marco Rubio has taken a behind-the-scenes role in Iran war negotiations while maintaining a discreet public distance from the conflict, according to NBC News. Shipping markets are responding to the conflict's geopolitical uncertainty, with tensions contributing to a surge in supertanker orders, according to Reuters."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4660,7 +4670,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-16",
+      "lastSeen": "2026-09-17",
       "active": true
     },
     {
@@ -5438,7 +5448,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-09-16",
+      "lastSeen": "2026-09-17",
       "active": true,
       "entries": [
         {
@@ -6015,6 +6025,11 @@
           "date": "2026-09-16",
           "edition": "morning",
           "update": "Saudi Arabia intercepted and destroyed a Houthi drone south of Mecca, declaring the security of pilgrims a 'red line,' while the Houthis denied targeting the holy city. A senior Iraqi source attributed the earlier attack on Saudi Arabia's East-West pipeline to a splinter group within the Iraqi resistance, underscoring Iraqi Prime Minister's difficulties controlling armed factions inside the country. Saudi Arabia separately cancelled some oil deliveries to Europe following the pipeline shutdown."
+        },
+        {
+          "date": "2026-09-17",
+          "edition": "evening",
+          "update": "China has pressed Iran to help rein in Yemen's Houthi militants following an appeal from Saudi Arabia, according to Reuters. Energy disruptions have hit Bangladesh and Pakistan as the Gulf crisis worsens, with Pakistan announcing austerity measures aimed at conserving fuel. Regional analysts have highlighted a growing security alignment between Egypt and Saudi Arabia amid escalating Red Sea tensions."
         }
       ]
     },
@@ -6438,7 +6453,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-16",
+      "lastSeen": "2026-09-17",
       "active": true,
       "entries": [
         {
@@ -6675,6 +6690,11 @@
           "date": "2026-09-16",
           "edition": "evening",
           "update": "The U.S. is set to approve a transfer package of approximately 60,000 heavy bombs, including 2,000-pound munitions, to Israel, according to Al Jazeera. Saudi Arabia reported that Houthi forces launched a drone attack targeting Mecca, Islam's holiest city, which was intercepted by Saudi air defenses south of the city. UN Watch accused UNRWA of completing at most 13 of 50 promised reforms, alleging the agency misrepresented draft policies as finished overhauls. Reuters reported that the Houthi attack campaign has left Saudi Arabia exposed and emboldened Iran, while a Houthi commander has seen their standing elevated within the movement following the recent Yemen offensive."
+        },
+        {
+          "date": "2026-09-17",
+          "edition": "evening",
+          "update": "Tens of thousands of people have fled as Iran-backed Houthi rebels drew Yemen into the wider regional conflict, according to AP News."
         }
       ]
     },
@@ -6728,7 +6748,7 @@
       "title": "US Cyberattacks and Infrastructure Security",
       "parentId": null,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-09-12",
+      "lastSeen": "2026-09-17",
       "active": true,
       "entries": [
         {
@@ -6840,6 +6860,11 @@
           "date": "2026-09-12",
           "edition": "morning",
           "update": "Florida's Department of Highway Safety and Motor Vehicles announced it is investigating a data breach by an international cybercriminal organization, discovered on September 4, in which hackers compromised a single Plant City Police Department user's credentials to gain access."
+        },
+        {
+          "date": "2026-09-17",
+          "edition": "evening",
+          "update": "The U.S. Coast Guard is investigating cyberattacks on energy tankers, including one on a large South Korean-managed oil tanker en route to Galveston, Texas, to determine whether Iran was involved, according to a Coast Guard official speaking to CBS News. The Coast Guard's cyber command chief stated 'we need to take action' in response."
         }
       ]
     },
@@ -6914,7 +6939,7 @@
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-08-16",
       "lastSeen": "2026-08-18",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-08-16",
@@ -6959,5 +6984,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-16T21:09:49.111Z"
+  "updatedAt": "2026-09-17T21:12:54.599Z"
 }
