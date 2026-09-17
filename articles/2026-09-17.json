@@ -688,5 +688,41 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-09-17T08:30:01.220Z"
+  },
+  {
+    "title": "EU announces plan to restrict social media access for children",
+    "description": "Under the plans, only children over 15 would be able to set up their own social media accounts.",
+    "link": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 17 Sep 2026 08:25:26 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-17T08:45:01.229Z"
+  },
+  {
+    "title": "AI military risks spark concern at China security conference - Reuters",
+    "description": "AI military risks spark concern at China security conference  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV2R6ekhkRHVUTU95d042blJ6bWlXZEFxcEhPWTV5S3JtVXI0emlsaVdyb1BURWJzZk5ySWdyVGNKcEJldUg5Q3BaNF9wdUxWVzZyZHA2RWpjVWJVU1hRa2c2dmtMX3FOOGVKWFlBU0dfcjU0R1AtTjFURmpUOHo5LTFVRXBlaWx6OHktNHJiQUZ6a0NOdElKVHNIZnlTVW5hc0RTMTVnSE95NnExaEdJNWplNjdUdjQ?oc=5",
+    "pubDate": "Thu, 17 Sep 2026 06:59:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-17T08:45:01.229Z"
+  },
+  {
+    "title": "Chris Brown blasts Texas state rep Venton Jones who apologized for honoring him with award",
+    "description": "Shamed R&B star Chris Brown has blasted a Texas state representative after he apologized for honoring him at a concert.",
+    "link": "https://nypost.com/2026/09/17/us-news/chris-brown-blasts-texas-state-rep-venton-jones-after-he-apologizes-for-honoring-him-keep-that-award/",
+    "pubDate": "Thu, 17 Sep 2026 04:44:32 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-17T08:45:01.229Z"
+  },
+  {
+    "title": "OpenAI flags new concerning AI behavior, to track model misalignment regularly",
+    "description": "OpenAI has disclosed six reports of “unexpected or concerning” behavior in artificial-intelligence models as the debate on AI safety becomes increasingly heated.",
+    "link": "https://nypost.com/2026/09/17/tech/openai-flags-new-concerning-ai-behavior-to-track-model-misalignment-regularly/",
+    "pubDate": "Thu, 17 Sep 2026 04:35:53 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-17T08:45:01.229Z"
   }
 ]
