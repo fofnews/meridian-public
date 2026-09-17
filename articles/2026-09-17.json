@@ -399,5 +399,25 @@
     "source": "BBC News",
     "categories": [],
     "collectedAt": "2026-09-17T06:30:00.998Z"
+  },
+  {
+    "title": "Mum's Facebook kidney plea prompts 'mind-blowing' gift from total stranger",
+    "description": "A woman has undergone a lifesaving transplant after receiving a kidney from a stranger who saw her post on social media.",
+    "link": "https://www.bbc.co.uk/news/articles/ck4gl6v10029o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 17 Sep 2026 05:06:33 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-17T06:45:01.224Z"
+  },
+  {
+    "title": "OpenAI reports more incidents of models acting deceptively",
+    "description": "The ChatGPT creator says it is introducing a public reporting framework to share unexpected AI behaviour.",
+    "link": "https://www.aljazeera.com/news/2026/9/17/openai-reports-more-incidents-of-models-acting-deceptively?traffic_source=rss",
+    "pubDate": "Thu, 17 Sep 2026 06:15:07 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-17T06:45:01.224Z"
   }
 ]
