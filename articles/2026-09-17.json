@@ -437,5 +437,54 @@
     "source": "Newsweek",
     "categories": [],
     "collectedAt": "2026-09-17T07:00:01.915Z"
+  },
+  {
+    "title": "Israel weaponises AI for West Bank demolitions",
+    "description": "AI tools push forced evictions of Palestinians, automating demolitions in occupied territories under Israeli control.",
+    "link": "https://www.aljazeera.com/news/2026/9/17/israel-weaponises-ai-for-west-bank-demolitions?traffic_source=rss",
+    "pubDate": "Thu, 17 Sep 2026 06:30:08 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-17T07:15:01.529Z"
+  },
+  {
+    "title": "‘You are freed.’ What happened when an OpenAI model began secretly writing notes to itself.",
+    "description": "OpenAI has introduced a framework for reporting on worrying behaviors by its AI models. In one instance, one training model told its future self that it was “freed.”",
+    "link": "https://www.marketwatch.com/story/you-are-freed-what-happened-when-an-openai-model-began-secretly-writing-notes-to-itself-25808ea8?mod=mw_rss_topstories",
+    "pubDate": "Thu, 17 Sep 2026 07:08:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-09-17T07:15:01.529Z"
+  },
+  {
+    "title": "West Virginia woman charged in death of ill husband she left on toilet for 19 hours",
+    "description": "A West Virginia woman allegedly left her husband who had dementia and Alzheimer's on a toilet for 19 hours without food or medication, leading to his death.",
+    "link": "https://www.foxnews.com/us/west-virginia-woman-charged-death-ill-husband-left-toilet-19-hours",
+    "pubDate": "Thu, 17 Sep 2026 03:00:13 -0400",
+    "source": "Fox News",
+    "categories": [
+      "95f41f97-b461-52ef-aa2a-99d085156df4",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/southeast/west-virginia",
+      "fox-news/us",
+      "fox-news/crime",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/health",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-09-17T07:15:01.529Z"
+  },
+  {
+    "title": "Dear Abby: My daughter-in-law manipulated my husband to divorce me",
+    "description": "Dear Abby advises a woman who is upset that her husband wants a divorce after fostering a secret relationship with their daughter-in-law and her child.",
+    "link": "https://nypost.com/2026/09/17/lifestyle/dear-abby-my-daughter-in-law-manipulated-my-husband-to-divorce-me/",
+    "pubDate": "Thu, 17 Sep 2026 03:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-17T07:15:01.529Z"
   }
 ]
