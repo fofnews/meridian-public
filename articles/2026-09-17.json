@@ -513,5 +513,45 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-17T07:30:01.271Z"
+  },
+  {
+    "title": "Russian attack on Ukraine's capital injures at least 16",
+    "description": "Authorities say at least 16 people were injured in Russian attacks on Ukraine's capital",
+    "link": "https://abcnews.com/International/wireStory/russian-attack-ukraines-capital-injures-16-136518271",
+    "pubDate": "Thu, 17 Sep 2026 03:34:01 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-09-17T07:45:01.163Z"
+  },
+  {
+    "title": "New Study Reveals What Childhood Chemo Quietly Does to Kids' DNA",
+    "description": "The lead author of the study told Newsweek the findings may help explain long-term health complications seen in survivors.",
+    "link": "https://www.newsweek.com/new-study-reveals-what-childhood-chemo-quietly-does-to-kids-dna-12449825",
+    "pubDate": "Thu, 17 Sep 2026 03:41:56 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-17T07:45:01.163Z"
+  },
+  {
+    "title": "India warns new US tariffs over Russian oil could impact ties",
+    "description": "New Delhi says it has 'made clear' its determination to 'protect its trade and economic interests'.",
+    "link": "https://www.aljazeera.com/news/2026/9/17/india-warns-new-us-tariffs-over-russian-oil-could-impact-ties?traffic_source=rss",
+    "pubDate": "Thu, 17 Sep 2026 07:32:49 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-17T07:45:01.163Z"
+  },
+  {
+    "title": "Macklemore called for ‘Free Palestine’ at second MetLife Stadium show after NFL owners were allegedly assured he wouldn’t: report",
+    "description": "Macklemore chanted \"Free Palestine\" after NFL owners hosting Ed Sheeran's stadium tour were allegedly assured that the rapper wouldn't mention it when he took the stage for his second show at MetLife Stadium.",
+    "link": "https://nypost.com/2026/09/17/us-news/macklemore-called-for-free-palestine-at-second-metlife-stadium-show-after-nfl-owners-were-allegedly-assured-he-wouldnt/",
+    "pubDate": "Thu, 17 Sep 2026 03:33:58 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-17T07:45:01.163Z"
   }
 ]
