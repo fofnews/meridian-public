@@ -370,5 +370,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-17T06:00:01.053Z"
+  },
+  {
+    "title": "Bank of England expected to hold interest rates as it faces tough choices",
+    "description": "Forecasts of further rises in the inflation rate mean some analysts expect the Bank to act by the end of the year.",
+    "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 17 Sep 2026 06:06:49 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-17T06:15:01.134Z"
+  },
+  {
+    "title": "What are the biggest AI companies and how much are they worth?",
+    "description": "As AI firms push for greater controls on the industry, Al Jazeera unpacks the value of the main companies in the sector.",
+    "link": "https://www.aljazeera.com/news/2026/9/17/what-are-the-biggest-ai-companies-and-how-much-are-they-worth?traffic_source=rss",
+    "pubDate": "Thu, 17 Sep 2026 05:55:22 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-17T06:15:01.134Z"
   }
 ]
