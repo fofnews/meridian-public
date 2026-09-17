@@ -724,5 +724,56 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-17T08:45:01.229Z"
+  },
+  {
+    "title": "Morning news brief",
+    "description": "The Fed raises interest rates for the first time in three years, protests over rising gas prices are being held around the world, Canada's prime minister speaks to European Parliament.",
+    "link": "https://www.npr.org/2026/09/17/nx-s1-5966387/morning-news-brief",
+    "pubDate": "Thu, 17 Sep 2026 04:45:53 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-09-17T09:00:02.314Z"
+  },
+  {
+    "title": "Iran live updates: 'Hopefully we're toward the end of the war,' Trump says",
+    "description": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28.",
+    "link": "https://abcnews.com/International/live-updates/iran-live-updates-oil-prices-rise-after-strikes/?id=136415261",
+    "pubDate": "Thu, 17 Sep 2026 03:34:42 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-09-17T09:00:02.314Z"
+  },
+  {
+    "title": "Why Trump and Xi Finally Agree on AI",
+    "description": "China’s president is to arrive in the U.S. next week and many observers expect some sort of AI safety dialogue to take place.",
+    "link": "https://www.newsweek.com/why-trump-xi-finally-agree-ai-12452815",
+    "pubDate": "Thu, 17 Sep 2026 04:51:04 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-17T09:00:02.314Z"
+  },
+  {
+    "title": "Dems boost convicted radical-left candidate, reigniting tensions inside the party",
+    "description": "House Republicans blast the DCCC for adding Will Lawrence to its \"Red to Blue\" list, citing his arrest and deleted social media posts in Michigan.",
+    "link": "https://www.foxnews.com/politics/dems-boost-convicted-far-left-candidate-reigniting-tensions-inside-party",
+    "pubDate": "Thu, 17 Sep 2026 04:45:55 -0400",
+    "source": "Fox News",
+    "categories": [
+      "16c9139a-65ef-5bbe-8e58-8a1ae6cfdb6e",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/democrats",
+      "fox-news/politics/elections/house-of-representatives",
+      "fox-news/politics/elections/midterm-elections",
+      "fox-news/us/us-regions/midwest/michigan",
+      "fox-news/democrats",
+      "fox-news/us/democratic-party",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-09-17T09:00:02.314Z"
   }
 ]
