@@ -419,5 +419,23 @@
       "news"
     ],
     "collectedAt": "2026-09-17T06:45:01.224Z"
+  },
+  {
+    "title": "OpenAI flags new concerning AI behavior, to track model misalignment regularly",
+    "description": "OpenAI has disclosed six reports on unexpected or concerning behavior in artificial-intelligence models. This includes models acting without authorization or evading oversight.",
+    "link": "https://www.npr.org/2026/09/17/g-s1-143774/openai-concerning-ai-behavior",
+    "pubDate": "Thu, 17 Sep 2026 02:44:49 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-09-17T07:00:01.915Z"
+  },
+  {
+    "title": "Donald Trump Interrupted By Heckler Mid-Speech: 'She's Going Home To Mama'",
+    "description": "President Donald Trump joked that the heckler would be disciplined by her mother at home.",
+    "link": "https://www.newsweek.com/donald-trump-interrupted-heckler-during-speech-north-carolina-gastonia-video-12453539",
+    "pubDate": "Thu, 17 Sep 2026 02:55:29 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-17T07:00:01.915Z"
   }
 ]
