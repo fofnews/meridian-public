@@ -13901,5 +13901,232 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-17T00:30:01.300Z"
+  },
+  {
+    "title": "Miami hospital patient attacks emergency room employees",
+    "description": "An emergency room nurse who was hit multiple times while intervening is suing the hospital for $5 million.",
+    "link": "https://abcnews.com/video/136509446/",
+    "pubDate": "Wed, 16 Sep 2026 20:31:27 -0400",
+    "source": "ABC News",
+    "categories": [
+      "wnt"
+    ],
+    "collectedAt": "2026-09-17T00:45:01.187Z"
+  },
+  {
+    "title": "Family of Texas pregnant woman who died sues AG Ken Paxton",
+    "description": "The family of a pregnant woman who died sued Texas Attorney General Ken Paxton and others on Tuesday, claiming she was denied an abortion that could have saved her life.",
+    "link": "https://abcnews.com/Health/family-texas-pregnant-woman-died-sues-texas-ag/story?id=136489875",
+    "pubDate": "Wed, 16 Sep 2026 20:04:26 -0400",
+    "source": "ABC News",
+    "categories": [
+      "health"
+    ],
+    "collectedAt": "2026-09-17T00:45:01.187Z"
+  },
+  {
+    "title": "Patrick Clancy sits down with 60 Minutes",
+    "description": "Patrick Clancy spoke with 60 Minutes this week. Shanelle Kaul has a preview of the story, which airs Sunday.",
+    "link": "https://www.cbsnews.com/video/patrick-clancy-sits-down-60-minutes/",
+    "pubDate": "Wed, 16 Sep 2026 20:25:29 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-17T00:45:01.187Z"
+  },
+  {
+    "title": "The L.A. Helicopter Crash Highlights a Sky Full of Hazards",
+    "description": "The fatal crash of a news helicopter in Los Angeles on Tuesday brought to light the dangers such aircraft face in big cities.",
+    "link": "https://www.nytimes.com/2026/09/16/us/helicopter-crash-safety-faa.html",
+    "pubDate": "Thu, 17 Sep 2026 00:18:26 +0000",
+    "source": "NY Times",
+    "categories": [
+      "helicopters",
+      "aviation accidents, safety and disasters",
+      "los angeles (calif)",
+      "drones (pilotless planes)"
+    ],
+    "collectedAt": "2026-09-17T00:45:01.187Z"
+  },
+  {
+    "title": "OpenAI Discloses Six New Incidents of ‘Concerning' A.I. Behavior",
+    "description": "The artificial intelligence company also released a framework for reporting when its systems go wrong.",
+    "link": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
+    "pubDate": "Thu, 17 Sep 2026 00:12:24 +0000",
+    "source": "NY Times",
+    "categories": [
+      "openai labs",
+      "altman, samuel h",
+      "artificial intelligence",
+      "computers and the internet",
+      "innovation",
+      "computer security",
+      "san francisco (calif)"
+    ],
+    "collectedAt": "2026-09-17T00:45:01.187Z"
+  },
+  {
+    "title": "Travis Kelce named as victim in alleged multi-million dollar Ponzi scheme",
+    "description": "Travis Kelce was named in court as one of the victims of Siddharth Jawahar, who defrauded investors of more than $35 million. NBC News' Gary Grumbach reports on Kelce's connection to Jawahar's investment firm, Swiftarc Ventures.",
+    "link": "https://www.nbcnews.com/video/travis-kelce-named-as-victim-in-alleged-multi-million-dollar-ponzi-scheme-269998149891",
+    "pubDate": "Wed, 16 Sep 2026 22:41:59 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-09-17T00:45:01.187Z"
+  },
+  {
+    "title": "Yankees Suddenly Cut Fan Favorite During Twins Series",
+    "description": "The New York Yankees have designated utility player Oswaldo Cabrera for assignment during their series against the Twins.",
+    "link": "https://www.newsweek.com/sports/mlb/yankees-suddenly-cut-fan-favorite-during-twins-series-12452885",
+    "pubDate": "Wed, 16 Sep 2026 20:39:05 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-17T00:45:01.187Z"
+  },
+  {
+    "title": "Colts Under Fire for Controversial Decision That Plagued Sunday's Loss",
+    "description": "The Indianapolis Colts are making a major change to their defense, but some are upset that the initial decision was made at all.",
+    "link": "https://www.newsweek.com/sports/nfl/colts-under-fire-for-controversial-decision-that-plagued-sundays-loss-12452533",
+    "pubDate": "Wed, 16 Sep 2026 20:36:03 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-17T00:45:01.187Z"
+  },
+  {
+    "title": "Drake Maye Identifies 'Tough' Aspect of Patriots' Season-Opening Loss",
+    "description": "New England Patriots quarterback Drake Maye reflected on the extra time between their Week 1 and Week 2 games.",
+    "link": "https://www.newsweek.com/sports/nfl/drake-maye-identifies-tough-aspect-of-patriots-season-opening-loss-12452781",
+    "pubDate": "Wed, 16 Sep 2026 20:32:46 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-17T00:45:01.187Z"
+  },
+  {
+    "title": "Red Wings Announce Sudden Dylan Larkin Injury News After Trade Request",
+    "description": "The Detroit Red Wings have announced that Dylan Larkin has suffered an upper-body injury ahead of training camp.",
+    "link": "https://www.newsweek.com/sports/red-wings-announce-sudden-dylan-larkin-injury-news-after-trade-request-12452840",
+    "pubDate": "Wed, 16 Sep 2026 20:29:44 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-17T00:45:01.187Z"
+  },
+  {
+    "title": "Canada applies to join UK-led military coalition - Reuters",
+    "description": "Canada applies to join UK-led military coalition  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaGFtd2NJNW14SnBQWHp2aWlFSnhzelJIVHljN1RMVEZjYjF1bWRhNE5mNTRuTGxuMTQ2MVhET0UyeXdLdnk4dldqanpfMWhFdkZJOGRmNnp4eFZmb3JYc1FKSXBXaVd2cUxtZG5mLUhXOTRIbkhhOWlGZU5tWFRsNmVmQ1dMLUpyLVF5ZTRKWnlVNUxCOWp6MzVnd0cyVDZ6SENBVFhaWEU5UUk?oc=5",
+    "pubDate": "Wed, 16 Sep 2026 21:47:48 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-17T00:45:01.187Z"
+  },
+  {
+    "title": "Trump lashes out at Fed after Warsh backs rate hike - Reuters",
+    "description": "Trump lashes out at Fed after Warsh backs rate hike  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ09wMmRRbG83OVR3anZpSGk2VGxLdFRXVFpiMHRDcVZTSldiNTNBNUZlckZlR2k2dEY0Q2F4TFVEdzJ1aC12Z3hacGoyWWkwZjlDNWE4ZGpPejU0V1hVazhVRktwampUZTlkdEpRZWhySlFMZnVTUEtlbVU3T3RUS1hjaFJGcHdMSXMwRERiazVqbTBxOXJlMkVR?oc=5",
+    "pubDate": "Wed, 16 Sep 2026 22:55:01 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-17T00:45:01.187Z"
+  },
+  {
+    "title": "Hold Your Applause for the New Gaza Documentary - The Free Press",
+    "description": "Hold Your Applause for the New Gaza Documentary  The Free Press",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDRFZzejVqRG00UnhYLUExR0RaYU81Y1JZMEF2RWctengzc1RzWWR4M2FybXBkWkNyRGsxeE82eGhic29FVWRHZldwcnFCQy00S3pRMUhHMHJYTVFfZjBhbmlQQ2x3ck1xeHlqWHlNblJhVnJlOGc?oc=5",
+    "pubDate": "Wed, 16 Sep 2026 20:49:50 GMT",
+    "source": "The Free Press",
+    "categories": [],
+    "collectedAt": "2026-09-17T00:45:01.187Z"
+  },
+  {
+    "title": "Travis Kelce among pro athletes defrauded by Ponzi scheme that funneled funds into one stock",
+    "description": "Travis Kelce was named as a victim in a $35 million Ponzi scheme run by Texas fund manager Siddharth Jawahar, who was sentenced to 11 years in prison.",
+    "link": "https://www.foxnews.com/outkick-sports/travis-kelce-pro-athletes-defrauded-ponzi-scheme-funneled-funds-one-stock",
+    "pubDate": "Wed, 16 Sep 2026 20:38:05 -0400",
+    "source": "Fox News",
+    "categories": [
+      "4591e970-b4c0-5a5a-a173-cb2544665ff5",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/person/travis-kelce",
+      "fox-news/sports/nfl/kansas-city-chiefs",
+      "fox-news/sports",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-09-17T00:45:01.187Z"
+  },
+  {
+    "title": "Republican congressman presses NHL over Alex Ovechkin’s appearance in Putin party campaign ad",
+    "description": "Rep. Joe Wilson called Alex Ovechkin's appearance in a United Russia campaign ad \"shameful\" and urged NHL Commissioner Gary Bettman to review it.",
+    "link": "https://www.foxnews.com/outkick-sports/republican-congressman-presses-nhl-alex-ovechkin-appearance-putin-party-campaign-ad",
+    "pubDate": "Wed, 16 Sep 2026 20:25:02 -0400",
+    "source": "Fox News",
+    "categories": [
+      "49d7f007-9e55-528b-b923-0c3a26ad4a1f",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/sports/nhl",
+      "fox-news/world/world-regions/russia",
+      "fox-news/sports/nhl/washington-capitals",
+      "fox-news/world/personalities/vladimir-putin",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-09-17T00:45:01.187Z"
+  },
+  {
+    "title": "First-ever ‘The Voice’ winner found dead at age 43",
+    "description": "Saunders was a part of Season 1 of the reality series, which originated in the Netherlands.",
+    "link": "https://pagesix.com/2026/09/16/celebrity-news/first-ever-the-voice-winner-found-dead-at-age-43/",
+    "pubDate": "Wed, 16 Sep 2026 20:43:05 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-17T00:45:01.187Z"
+  },
+  {
+    "title": "Longtime NHL enforcer Ryan Reaves retires after 16 seasons",
+    "description": "Ryan Reaves is calling it a career.",
+    "link": "https://nypost.com/2026/09/16/sports/longtime-nhl-enforcer-ex-ranger-retires-after-16-seasons/",
+    "pubDate": "Wed, 16 Sep 2026 20:42:52 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-17T00:45:01.187Z"
+  },
+  {
+    "title": "Rams’ legend warns ‘you can’t just show up’ ahead of Week 2 vs Giants",
+    "description": "Andrew Whitworth wants his former team to wake up.",
+    "link": "https://nypost.com/2026/09/16/sports/rams-legend-andrew-whitworth-warns-team-ahead-of-giants-game/",
+    "pubDate": "Wed, 16 Sep 2026 20:41:03 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-17T00:45:01.187Z"
+  },
+  {
+    "title": "Police dog burned as suspect tries to torch adult store in San Diego shooting",
+    "description": "“The body was on fire. His whole stomach was on fire. It was awful,” one witness said.",
+    "link": "https://nypost.com/2026/09/16/us-news/san-diego-police-dog-set-on-fire-during-officer-involved-shooting/",
+    "pubDate": "Wed, 16 Sep 2026 20:36:32 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-17T00:45:01.187Z"
+  },
+  {
+    "title": "Howie Rose will go out as the generational Mets voice he never intended to be",
+    "description": "As the days grow shorter, so do the opportunities to listen to a genuine virtuoso at work.",
+    "link": "https://nypost.com/2026/09/16/sports/howie-rose-goes-out-as-generational-mets-voice-he-never-intended-to-be/",
+    "pubDate": "Wed, 16 Sep 2026 20:31:50 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-17T00:45:01.187Z"
+  },
+  {
+    "title": "Knicks’ battle for the final roster spot is on — and why it could be pivotal to season",
+    "description": "The Knicks are currently at 13 standard NBA contracts.",
+    "link": "https://nypost.com/2026/09/16/sports/knicks-battle-for-the-final-roster-spot-is-on-after-signings/",
+    "pubDate": "Wed, 16 Sep 2026 20:30:40 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-17T00:45:01.187Z"
   }
 ]
