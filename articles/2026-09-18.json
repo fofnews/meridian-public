@@ -317,5 +317,33 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-18T05:45:01.656Z"
+  },
+  {
+    "title": "Iran’s Isolation Grows After U.S. Imposes Sweeping Sanctions on Airlines",
+    "description": "Mahan Air, a major airline, said it would stop flying to Turkey and Oman just over a week after new restrictions were announced, adding to U.S. pressure on the economy.",
+    "link": "https://www.nytimes.com/2026/09/17/world/middleeast/iranian-airlines-suspend-flights-us-sanctions.html",
+    "pubDate": "Fri, 18 Sep 2026 05:57:54 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "airlines and airplanes",
+      "embargoes and sanctions",
+      "mahan air",
+      "islamic revolutionary guards corps",
+      "iran",
+      "middle east"
+    ],
+    "collectedAt": "2026-09-18T06:00:01.435Z"
+  },
+  {
+    "title": "Russia’s parliamentary election: Who’s on the ballot, and why it matters",
+    "description": "United Russia won more than two-thirds of the Duma's seats in the 2021 election and is poised to dominate the body again",
+    "link": "https://www.aljazeera.com/news/2026/9/18/russias-parliamentary-election-whos-on-the-ballot-and-why-it-matters?traffic_source=rss",
+    "pubDate": "Fri, 18 Sep 2026 05:37:46 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-18T06:00:01.435Z"
   }
 ]
