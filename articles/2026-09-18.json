@@ -37,5 +37,36 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-18T04:15:02.031Z"
+  },
+  {
+    "title": "New tiger cat species identified in Bolivia, first in over a century",
+    "description": "Leopardus tilcayo is the first new living cat species named and described in more than a century.",
+    "link": "https://www.aljazeera.com/news/2026/9/18/new-tiger-cat-species-identified-in-bolivia-first-in-over-a-century?traffic_source=rss",
+    "pubDate": "Fri, 18 Sep 2026 04:16:28 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-18T04:30:01.427Z"
+  },
+  {
+    "title": "Bills cruise past Lions to christen new home behind Josh Allen's five-touchdown performance",
+    "description": "Highmark Stadium opens with underground heating coils, the world's largest snow-melt system and a 360-degree canopy as the Bills defeated the Lions.",
+    "link": "https://www.foxnews.com/outkick-sports/bills-cruise-past-lions-christen-new-home-josh-allen-five-touchdown-performance",
+    "pubDate": "Fri, 18 Sep 2026 00:26:30 -0400",
+    "source": "Fox News",
+    "categories": [
+      "1ffdb209-1e6a-512a-af10-400eebb36d49",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/sports/nfl/buffalo-bills",
+      "fox-news/sports/nfl/detroit-lions",
+      "fox-news/sports/nfl",
+      "fox-news/sports",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-09-18T04:30:01.427Z"
   }
 ]
