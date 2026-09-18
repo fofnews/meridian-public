@@ -286,5 +286,36 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-18T05:30:01.169Z"
+  },
+  {
+    "title": "UN mission alleges crimes against humanity in Iranian protest crackdown",
+    "description": "A UN fact-finding mission has concluded Iranian forces committed crimes against humanity.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/un-mission-alleges-crimes-against-humanity-in-iranian-protest-crackdown?traffic_source=rss",
+    "pubDate": "Fri, 18 Sep 2026 05:26:51 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-09-18T05:45:01.656Z"
+  },
+  {
+    "title": "South Korea says US-North Korea talks possible, rules out Hormuz deployment",
+    "description": "South Korean president will facilitate US-North Korea talks but will not deploy troops in US war on Iran.",
+    "link": "https://www.aljazeera.com/news/2026/9/18/south-korea-says-us-north-korea-talks-possible-rules-out-hormuz-deployment?traffic_source=rss",
+    "pubDate": "Fri, 18 Sep 2026 05:23:10 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-18T05:45:01.656Z"
+  },
+  {
+    "title": "Georgia parents face charges for storming school bus after claiming driver locked kids inside without AC",
+    "description": "Three Georgia adults face arrest warrants after forcing their way onto a school bus to remove children they claimed had been locked inside by the driver for more than half an hour without air conditioning.",
+    "link": "https://nypost.com/2026/09/18/us-news/georgia-parents-issued-arrest-warrants-for-storming-school-bus-after-claiming-driver-locked-kids-inside-without-ac/",
+    "pubDate": "Fri, 18 Sep 2026 01:39:46 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-18T05:45:01.656Z"
   }
 ]
