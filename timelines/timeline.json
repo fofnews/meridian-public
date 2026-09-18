@@ -1361,6 +1361,11 @@
           "date": "2026-09-18",
           "edition": "morning",
           "update": "Polish Prime Minister Donald Tusk warned that Russia may stage 'accidental' attacks on Ukraine's allies, saying such strikes are designed to paralyze NATO and demonstrate that Article 5 collective defense 'exists only in theory.'"
+        },
+        {
+          "date": "2026-09-18",
+          "edition": "evening",
+          "update": "Russia held its first parliamentary elections since invading Ukraine, with no antiwar party on the ballot; critics dismissed the vote as a sham, according to Al Jazeera and NBC News. Ukraine's Operation Vivaldi achieved a significant frontline breakthrough in the Donbas, with Newsweek crediting Kyiv's use of surprise to counter Russian advances. Denmark accelerated its Ukraine aid package after a Russian warship fired flares at a Danish helicopter, according to Reuters. An envoy of Vladimir Putin and Germany's far-right AfD party are preparing talks aimed at restoring Russian gas supplies to Germany, according to Reuters. Zelenskyy hosted leaders from seven countries for a regional summit and launched the 'Carpathian Eight' initiative to strengthen trade and security cooperation among member states in the Carpathian region."
         }
       ],
       "parentId": null
@@ -3796,6 +3801,11 @@
           "date": "2026-09-18",
           "edition": "morning",
           "update": "All Senate Democrats except Sen. John Fetterman signed an open letter to Defense Secretary Pete Hegseth demanding a detailed cost breakdown of U.S. military operations in Iran. Senators from both parties expressed frustration after a closed-door briefing with Pentagon policy chief Elbridge Colby, saying he failed to provide clear answers about the National Defense Strategy and the Iran war. South Korean President Lee Jae Myung publicly rejected Trump's repeated requests for South Korea to send troops to Iran. The U.S. rejected the UN report concluding that the Minab school strike went 'beyond mere negligence' and may constitute a war crime. Mahan Air announced it would stop flying to Turkey and Oman following U.S. sanctions. Heating oil prices have climbed sharply in Northeastern U.S. states, and Europe faces heightened economic vulnerability heading into winter due to higher energy prices from the conflict. A bill was introduced to ensure troops killed in Iran operations receive the same VA benefits as those killed in officially designated wars."
+        },
+        {
+          "date": "2026-09-18",
+          "edition": "evening",
+          "update": "A new poll cited by Al Jazeera shows 71 percent of U.S. respondents believe the Trump administration lacks a clear strategy for resolving the Iran conflict, with opposition to the war reaching new highs. The New York Times identified the Middle East conflict as a primary driver behind rising bond interest rates, with the Federal Reserve now working to respond to resulting market disruption. The Wall Street Journal reported that investors who relied on a 'buy the dip' strategy during Trump's Iran threats — known as the 'TACO' trade — are facing uncertainty as the pattern of Trump backing down appears to have broken in September."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -5333,7 +5343,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-09-16",
+      "lastSeen": "2026-09-18",
       "active": true,
       "entries": [
         {
@@ -5460,6 +5470,11 @@
           "date": "2026-09-16",
           "edition": "evening",
           "update": "In a CBS News interview, Ukrainian President Zelenskyy stated that Ukraine is 'ready for energy ceasefire' with Russia, marking a shift from his earlier public pushback against Trump's characterization of an existing agreement."
+        },
+        {
+          "date": "2026-09-18",
+          "edition": "evening",
+          "update": "President Trump is considering pursuing broader deals with Russia before addressing Ukraine peace negotiations, signaling a potential sequencing shift in U.S. diplomatic strategy, according to Newsmax."
         }
       ]
     },
@@ -5468,7 +5483,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-09-17",
+      "lastSeen": "2026-09-18",
       "active": true,
       "entries": [
         {
@@ -6050,6 +6065,11 @@
           "date": "2026-09-17",
           "edition": "evening",
           "update": "China has pressed Iran to help rein in Yemen's Houthi militants following an appeal from Saudi Arabia, according to Reuters. Energy disruptions have hit Bangladesh and Pakistan as the Gulf crisis worsens, with Pakistan announcing austerity measures aimed at conserving fuel. Regional analysts have highlighted a growing security alignment between Egypt and Saudi Arabia amid escalating Red Sea tensions."
+        },
+        {
+          "date": "2026-09-18",
+          "edition": "evening",
+          "update": "The U.K. navy reported attacks on two ships in the Strait of Hormuz as President Trump stated he was poised to make a 'big decision' on whether to 'annihilate' Iran's leadership. Iran's IRGC claimed it struck the Togo-flagged oil tanker Trend in the Strait of Hormuz, stating the vessel had attempted to 'illegally pass' through the waterway."
         }
       ]
     },
@@ -6778,7 +6798,7 @@
       "title": "US Cyberattacks and Infrastructure Security",
       "parentId": null,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-09-17",
+      "lastSeen": "2026-09-18",
       "active": true,
       "entries": [
         {
@@ -6895,6 +6915,11 @@
           "date": "2026-09-17",
           "edition": "evening",
           "update": "The U.S. Coast Guard is investigating cyberattacks on energy tankers, including one on a large South Korean-managed oil tanker en route to Galveston, Texas, to determine whether Iran was involved, according to a Coast Guard official speaking to CBS News. The Coast Guard's cyber command chief stated 'we need to take action' in response."
+        },
+        {
+          "date": "2026-09-18",
+          "edition": "evening",
+          "update": "A small group of cybersecurity researchers announced they had breached OpenAI's systems earlier in the year, raising new concerns about AI security, according to NBC News. Colorado's governor's office reported that 'foreign actors' targeted small, private water providers in the state."
         }
       ]
     },
@@ -6903,7 +6928,7 @@
       "title": "Airport Security Threats and Explosive Device Incidents",
       "parentId": null,
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-09-08",
+      "lastSeen": "2026-09-18",
       "active": true,
       "entries": [
         {
@@ -6960,6 +6985,11 @@
           "date": "2026-09-08",
           "edition": "evening",
           "update": "The TSA announced it is now allowing non-ticketed visitors into terminals at several U.S. airports, reversing a security policy that had been in place since the September 11, 2001 attacks."
+        },
+        {
+          "date": "2026-09-18",
+          "edition": "evening",
+          "update": "A vehicle loaded with explosives rammed into a mosque during Friday prayers in Pakistan, killing at least 16 people, according to a senior police official. Detroit's Temple Israel synagogue reopened ahead of the Jewish high holidays, months after a man drove a car loaded with explosives into the building in March, killing only himself in what investigators called an attempted terror attack."
         }
       ]
     },
@@ -7014,5 +7044,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-18T11:06:27.026Z"
+  "updatedAt": "2026-09-18T21:08:27.312Z"
 }
