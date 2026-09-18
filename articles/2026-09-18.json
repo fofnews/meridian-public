@@ -766,5 +766,55 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-18T08:45:01.309Z"
+  },
+  {
+    "title": "Morning news brief",
+    "description": "Trump threatens to tear down the Kennedy Center amid court battle, Trump's other priorities also get pushback this week, Poland's PM warns Russia could strike countries that support Ukraine.",
+    "link": "https://www.npr.org/2026/09/18/nx-s1-5966388/morning-news-brief",
+    "pubDate": "Fri, 18 Sep 2026 04:46:02 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-09-18T09:00:01.128Z"
+  },
+  {
+    "title": "G.O.P. Representative Breaks With Trump in Ad Criticizing the Immigration Crackdown",
+    "description": "Representative María Elvira Salazar, a three-term representative from Miami, won re-election by 20 percentage points in 2024. Her ad suggests worry among some Republicans about their standing with Hispanic voters.",
+    "link": "https://www.nytimes.com/2026/09/17/us/politics/salazar-florida-republican-immigration-trump.html",
+    "pubDate": "Fri, 18 Sep 2026 08:47:41 +0000",
+    "source": "NY Times",
+    "categories": [
+      "immigration and emigration",
+      "illegal immigration",
+      "florida",
+      "trump, donald j",
+      "elections",
+      "elections, house of representatives",
+      "salazar, maria elvira",
+      "midterm elections (2026)",
+      "temporary protected status (us immigration)",
+      "alligator alcatraz (fla)",
+      "immigration and customs enforcement (us)"
+    ],
+    "collectedAt": "2026-09-18T09:00:01.128Z"
+  },
+  {
+    "title": "‘Just ask Grok’: How ISIL is using Big Tech’s AI to build bombs",
+    "description": "Evidence shared exclusively with Al Jazeera ISIL supporters sharing ways to bypass AI safeguards.",
+    "link": "https://www.aljazeera.com/news/2026/9/18/just-ask-grok-how-isil-is-using-big-techs-ai-to-build-bombs?traffic_source=rss",
+    "pubDate": "Fri, 18 Sep 2026 08:39:59 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-18T09:00:01.128Z"
+  },
+  {
+    "title": "China vessel rams and damages Philippine boat on refueling mission, coast guard says - Reuters",
+    "description": "China vessel rams and damages Philippine boat on refueling mission, coast guard says  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeklWT3lWMURtQ050cXZHMHdiTWdHM3ZkN29oeVh2dG1ZdUZWbC1HajN6aXlVMDhpaUw4blpwSDBGTW9VUmtsdUwzZkd3N2xpa3BkbGx1QWFtVnBTT1FZcHhIZm11RUZ2STdaeWt5M1gzNkRacEUyZ0FNbzhmbl9YeFg2VUVlOHhuVFdOQTNzTTJvVGs4d1lCNXBVSFJqRURUWnJ3bHNWQ280VlBsM0d5MC1kWGg?oc=5",
+    "pubDate": "Fri, 18 Sep 2026 05:47:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-18T09:00:01.128Z"
   }
 ]
