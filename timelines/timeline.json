@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-16",
+      "lastSeen": "2026-09-18",
       "active": true,
       "entries": [
         {
@@ -376,6 +376,11 @@
           "date": "2026-09-16",
           "edition": "evening",
           "update": "The full House of Representatives voted unanimously to hold billionaire Leon Black in contempt of Congress for failing to provide documents and declining to appear for a deposition related to his ties to Jeffrey Epstein."
+        },
+        {
+          "date": "2026-09-18",
+          "edition": "morning",
+          "update": "Rep. Thomas Massie announced that four Republicans have signed the Epstein Files II discharge petition, expressing confidence it will pass the House, with Massie and Rep. Ro Khanna leading the bipartisan effort after House Speaker Mike Johnson sent lawmakers home for a seven-week recess."
         }
       ],
       "parentId": null
@@ -554,7 +559,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-17",
+      "lastSeen": "2026-09-18",
       "active": true,
       "entries": [
         {
@@ -1351,6 +1356,11 @@
           "date": "2026-09-17",
           "edition": "evening",
           "update": "Poland scrambled jets and activated air defense alerts in response to a Russian strike on western Ukraine, with air raid sirens sounding in the region, before subsequently ending the alert."
+        },
+        {
+          "date": "2026-09-18",
+          "edition": "morning",
+          "update": "Polish Prime Minister Donald Tusk warned that Russia may stage 'accidental' attacks on Ukraine's allies, saying such strikes are designed to paralyze NATO and demonstrate that Article 5 collective defense 'exists only in theory.'"
         }
       ],
       "parentId": null
@@ -2684,7 +2694,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-17",
+      "lastSeen": "2026-09-18",
       "active": true,
       "entries": [
         {
@@ -3781,6 +3791,11 @@
           "date": "2026-09-17",
           "edition": "evening",
           "update": "UN-commissioned human rights experts found 'reasonable grounds' to believe the U.S. committed war crimes in two separate strikes inside Iran that resulted in civilian casualties. One strike targeted a primary school in Minab, southern Iran, killing more than 100 children, with investigators stating the mistakes 'went beyond negligence'; a second strike on the same day killed a reported 22 civilians. The same UN mission found Iranian authorities committed crimes against humanity during crackdowns on anti-government protests. Secretary of State Marco Rubio has taken a behind-the-scenes role in Iran war negotiations while maintaining a discreet public distance from the conflict, according to NBC News. Shipping markets are responding to the conflict's geopolitical uncertainty, with tensions contributing to a surge in supertanker orders, according to Reuters."
+        },
+        {
+          "date": "2026-09-18",
+          "edition": "morning",
+          "update": "All Senate Democrats except Sen. John Fetterman signed an open letter to Defense Secretary Pete Hegseth demanding a detailed cost breakdown of U.S. military operations in Iran. Senators from both parties expressed frustration after a closed-door briefing with Pentagon policy chief Elbridge Colby, saying he failed to provide clear answers about the National Defense Strategy and the Iran war. South Korean President Lee Jae Myung publicly rejected Trump's repeated requests for South Korea to send troops to Iran. The U.S. rejected the UN report concluding that the Minab school strike went 'beyond mere negligence' and may constitute a war crime. Mahan Air announced it would stop flying to Turkey and Oman following U.S. sanctions. Heating oil prices have climbed sharply in Northeastern U.S. states, and Europe faces heightened economic vulnerability heading into winter due to higher energy prices from the conflict. A bill was introduced to ensure troops killed in Iran operations receive the same VA benefits as those killed in officially designated wars."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4670,7 +4685,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-17",
+      "lastSeen": "2026-09-18",
       "active": true
     },
     {
@@ -4693,7 +4708,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-09-16",
+      "lastSeen": "2026-09-18",
       "active": true,
       "entries": [
         {
@@ -5070,6 +5085,11 @@
           "date": "2026-09-16",
           "edition": "evening",
           "update": "China expressed willingness to 'safeguard Iran's legitimate rights' and stated that the U.S.-Israel war on Iran exposes flaws in the Middle East's 'existing security architecture,' according to a Chinese official cited by Al Jazeera."
+        },
+        {
+          "date": "2026-09-18",
+          "edition": "morning",
+          "update": "Russia and China vetoed a UN Security Council resolution to renew the mandate of the panel monitoring Iran sanctions, effectively ending the body's oversight role. The Trump administration announced it will grant visas to a 'core delegation' of Iranian leadership to attend the UN General Assembly in New York, with travel restrictions and limits on luxury goods purchases in place, despite stalled negotiations. Iran expelled a Swedish diplomat, giving the official 48 hours to leave the country and accusing Stockholm of bowing to outside pressure. Investors following the 'TACO' trade strategy of buying market dips during Trump's Iran threats are facing uncertainty after the approach reportedly stopped working in September."
         }
       ]
     },
@@ -6453,7 +6473,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-17",
+      "lastSeen": "2026-09-18",
       "active": true,
       "entries": [
         {
@@ -6695,6 +6715,11 @@
           "date": "2026-09-17",
           "edition": "evening",
           "update": "Tens of thousands of people have fled as Iran-backed Houthi rebels drew Yemen into the wider regional conflict, according to AP News."
+        },
+        {
+          "date": "2026-09-18",
+          "edition": "morning",
+          "update": "At a UN Security Council meeting on Syria, Israel and Turkey clashed in a heated debate over the presence of their respective troops on Syrian territory, with Syria's representative warning that Israel poses 'the greatest threat' to Middle East stability."
         }
       ]
     },
@@ -6703,7 +6728,7 @@
       "title": "US-Saudi Nuclear Deal and Israel Normalization",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-07-23",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-18",
       "active": true,
       "entries": [
         {
@@ -6740,6 +6765,11 @@
           "date": "2026-09-14",
           "edition": "evening",
           "update": "Saudi Arabia is experiencing 'strategic shock' after facing attacks from an emboldened Iran while failing to secure additional U.S. military support, according to analysts cited by the NY Times. Saudi Crown Prince Mohammed bin Salman met with a U.S. general to request additional American military assistance following a broad Houthi offensive in Yemen."
+        },
+        {
+          "date": "2026-09-18",
+          "edition": "morning",
+          "update": "The U.S. State Department approved a potential $24 billion sale of F-35 fighter jets to Saudi Arabia, still requiring Congressional approval, despite internal warnings from U.S. intelligence agencies that China could acquire or steal the advanced technology if the jets are transferred."
         }
       ]
     },
@@ -6984,5 +7014,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-17T21:12:54.599Z"
+  "updatedAt": "2026-09-18T11:06:27.026Z"
 }
