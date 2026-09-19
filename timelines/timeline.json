@@ -559,7 +559,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-19",
       "active": true,
       "entries": [
         {
@@ -1366,6 +1366,11 @@
           "date": "2026-09-18",
           "edition": "evening",
           "update": "Russia held its first parliamentary elections since invading Ukraine, with no antiwar party on the ballot; critics dismissed the vote as a sham, according to Al Jazeera and NBC News. Ukraine's Operation Vivaldi achieved a significant frontline breakthrough in the Donbas, with Newsweek crediting Kyiv's use of surprise to counter Russian advances. Denmark accelerated its Ukraine aid package after a Russian warship fired flares at a Danish helicopter, according to Reuters. An envoy of Vladimir Putin and Germany's far-right AfD party are preparing talks aimed at restoring Russian gas supplies to Germany, according to Reuters. Zelenskyy hosted leaders from seven countries for a regional summit and launched the 'Carpathian Eight' initiative to strengthen trade and security cooperation among member states in the Carpathian region."
+        },
+        {
+          "date": "2026-09-19",
+          "edition": "morning",
+          "update": "Russia intensified missile attacks on Kyiv, with warning times reduced to as little as four minutes, leaving residents exhausted, according to BBC News. Putin accused Ukraine of interfering in Russia's parliamentary elections. Russia held parliamentary votes in the illegally annexed regions of Donetsk, Luhansk, Zaporizhzhia, and Kherson for the first time. Poland's army announced the launch of preventive military aviation operations in response to Russian strikes on Ukraine."
         }
       ],
       "parentId": null
@@ -1544,7 +1549,7 @@
       "id": "iran-protests-and-crackdown",
       "title": "Iran Protests and Crackdown",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-19",
       "active": true,
       "entries": [
         {
@@ -1611,6 +1616,11 @@
           "date": "2026-09-14",
           "edition": "evening",
           "update": "A senior Sunni cleric was shot and killed by unidentified gunmen in southeast Iran, according to Iranian state media."
+        },
+        {
+          "date": "2026-09-19",
+          "edition": "morning",
+          "update": "Hundreds of Iranian women defied the country's mandatory hijab law by participating in a 10-kilometer race in Tehran without wearing headscarves, according to Al Jazeera."
         }
       ],
       "parentId": null
@@ -1619,7 +1629,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-19",
       "active": true,
       "entries": [
         {
@@ -1951,6 +1961,11 @@
           "date": "2026-09-13",
           "edition": "evening",
           "update": "Iran announced plans to hold talks with Iraq and Gulf Cooperation Council nations in Oman to strengthen regional security, though Bahrain will not attend. The diplomatic outreach comes as Iran-U.S. negotiations to end the war have stalled and Iranian-allied forces have advanced in Yemen."
+        },
+        {
+          "date": "2026-09-19",
+          "edition": "morning",
+          "update": "U.S. President Trump extended sanctions on Iran, while thousands of Houthi supporters staged demonstrations in Sanaa, Yemen, according to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4559,7 +4574,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-09-15",
+      "lastSeen": "2026-09-19",
       "active": true,
       "entries": [
         {
@@ -4666,6 +4681,11 @@
           "date": "2026-09-15",
           "edition": "morning",
           "update": "North Korean leader Kim Jong Un pledged to expand ties with Russia and expressed support for Russia's victory in what he described as a 'sacred war,' according to Reuters."
+        },
+        {
+          "date": "2026-09-19",
+          "edition": "morning",
+          "update": "North Korea dismissed a UN nuclear watchdog resolution, rebuking the IAEA for alleged 'double standards' and declaring its nuclear status 'irreversible.'"
         }
       ],
       "parentId": null
@@ -4695,7 +4715,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-19",
       "active": true
     },
     {
@@ -5483,7 +5503,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-19",
       "active": true,
       "entries": [
         {
@@ -6070,6 +6090,11 @@
           "date": "2026-09-18",
           "edition": "evening",
           "update": "The U.K. navy reported attacks on two ships in the Strait of Hormuz as President Trump stated he was poised to make a 'big decision' on whether to 'annihilate' Iran's leadership. Iran's IRGC claimed it struck the Togo-flagged oil tanker Trend in the Strait of Hormuz, stating the vessel had attempted to 'illegally pass' through the waterway."
+        },
+        {
+          "date": "2026-09-19",
+          "edition": "morning",
+          "update": "Israeli UN envoy Danny Danon criticized European nations for failing to assist the U.S. in securing the Strait of Hormuz, drawing a parallel to past international cooperation against Somali pirates to protect global shipping lanes."
         }
       ]
     },
@@ -7044,5 +7069,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-18T21:08:27.312Z"
+  "updatedAt": "2026-09-19T11:06:02.237Z"
 }
