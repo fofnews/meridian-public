@@ -1095,5 +1095,104 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-09-19T10:30:01.606Z"
+  },
+  {
+    "title": "Pregnant Woman Goes To 20-Week Scan, Doctor Realizes Something Is Missing",
+    "description": "She expected a routine pregnancy scan. Instead, doctors delivered news that turned her world upside down.",
+    "link": "https://www.newsweek.com/pregnant-woman-goes-to-20-week-scan-doctor-realizes-something-is-missing-12444120",
+    "pubDate": "Sat, 19 Sep 2026 06:30:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-19T10:45:01.386Z"
+  },
+  {
+    "title": "Who is Dario Amodei, the Anthropic CEO pushing independent AI oversight,",
+    "description": "Dario Amodei's plan for \"embedded evaluators\" to supervise AI companies gains new urgency after OpenAI's ChatGPT agents reportedly went rogue.",
+    "link": "https://www.foxnews.com/politics/anthropic-ceo-pushes-independent-ai-oversight-watchdog-example-shares-roots-industry-insiders",
+    "pubDate": "Sat, 19 Sep 2026 06:24:04 -0400",
+    "source": "Fox News",
+    "categories": [
+      "ca40876e-1e2c-5b4c-8507-26c8e04a4575",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/tech/artificial-intelligence",
+      "fox-news/special/sponsored/smart-and-safe-tech",
+      "fox-news/tech",
+      "fox-news/health/orthopedics/technology",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-09-19T10:45:01.386Z"
+  },
+  {
+    "title": "Despite Trump poll drops, Newsom urges Democrats not to ‘spike the football’",
+    "description": "CHARLOTTE, North Carolina — President Donald Trump is less popular by the day, and Republicans are facing increasingly fierce political headwinds ahead of the Nov. 3 midterm elections. But Gov. Gavin Newsom (D-CA) is warning Democrats against overconfidence, pointing to a stark GOP cash edge and possible election chicanery by the Trump administration and its […]",
+    "link": "https://www.washingtonexaminer.com/premium/4730042/newsom-polls-midterm-elections-trump/",
+    "pubDate": "Sat, 19 Sep 2026 10:30:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "congressional",
+      "magazine",
+      "magazine - washington briefing",
+      "premium",
+      "2026 elections",
+      "2028 elections",
+      "california",
+      "campaign finance",
+      "democratic party",
+      "democrats",
+      "gavin newsom",
+      "republicans",
+      "supreme court",
+      "trump administration",
+      "usps"
+    ],
+    "collectedAt": "2026-09-19T10:45:01.386Z"
+  },
+  {
+    "title": "Where Is Congress on the Kennedy Center Fight?",
+    "description": "Trump is pressuring the courts in his renaming campaign, but this is yet another abuse of presidential power that only Congress can address.",
+    "link": "https://www.nationalreview.com/2026/09/where-is-congress-on-the-kennedy-center-fight/",
+    "pubDate": "Sat, 19 Sep 2026 10:30:32 +0000",
+    "source": "National Review",
+    "categories": [],
+    "collectedAt": "2026-09-19T10:45:01.386Z"
+  },
+  {
+    "title": "Waiting for Hitler: Have We Learned the Lessons of Locarno?",
+    "description": "The pact planted the seeds that let totalitarianism flourish.",
+    "link": "https://www.nationalreview.com/2026/09/waiting-for-hitler-have-we-learned-the-lessons-of-locarno/",
+    "pubDate": "Sat, 19 Sep 2026 10:30:20 +0000",
+    "source": "National Review",
+    "categories": [],
+    "collectedAt": "2026-09-19T10:45:01.386Z"
+  },
+  {
+    "title": "Why Modern Separatists Fail",
+    "description": "Separatist leaders in Great Britain seem to have declared independence from logic.",
+    "link": "https://www.nationalreview.com/2026/09/why-modern-separatists-fail/",
+    "pubDate": "Sat, 19 Sep 2026 10:30:18 +0000",
+    "source": "National Review",
+    "categories": [],
+    "collectedAt": "2026-09-19T10:45:01.386Z"
+  },
+  {
+    "title": "Flop Season at the Fogg at Harvard",
+    "description": "The fun and frolicking ’50s — was it all a fraud? And more on the Gardner’s excellent show on the book of Esther.",
+    "link": "https://www.nationalreview.com/2026/09/flop-season-at-the-fogg-at-harvard/",
+    "pubDate": "Sat, 19 Sep 2026 10:30:16 +0000",
+    "source": "National Review",
+    "categories": [],
+    "collectedAt": "2026-09-19T10:45:01.386Z"
+  },
+  {
+    "title": "What Are Schools of Education Teaching Teachers?",
+    "description": "Hint: It has little to do with imparting knowledge to students.",
+    "link": "https://www.nationalreview.com/2026/09/what-are-schools-of-education-teaching-teachers/",
+    "pubDate": "Sat, 19 Sep 2026 10:30:00 +0000",
+    "source": "National Review",
+    "categories": [],
+    "collectedAt": "2026-09-19T10:45:01.386Z"
   }
 ]
