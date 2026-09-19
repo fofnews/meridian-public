@@ -291,5 +291,27 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-19T06:15:01.621Z"
+  },
+  {
+    "title": "Could US pull one-third of troops from Europe? What that would mean",
+    "description": "US Pentagon is reportedly considering proposals for reducing military footprint across the Atlantic.",
+    "link": "https://www.aljazeera.com/news/2026/9/19/could-us-pull-one-third-of-troops-from-europe-what-that-would-mean?traffic_source=rss",
+    "pubDate": "Sat, 19 Sep 2026 06:30:24 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-19T06:45:01.429Z"
+  },
+  {
+    "title": "Brentford beat Chelsea 3-0 to shatter Alonso’s London honeymoon",
+    "description": "Chelsea left with one point from their last three Premier League games after a 3-0 defeat at neighbours Brentford.",
+    "link": "https://www.aljazeera.com/sports/2026/9/19/brentford-beat-chelsea-3-0-to-shatter-alonsos-london-honeymoon?traffic_source=rss",
+    "pubDate": "Sat, 19 Sep 2026 06:05:48 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-09-19T06:45:01.429Z"
   }
 ]
