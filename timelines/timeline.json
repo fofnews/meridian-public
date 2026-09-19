@@ -1371,6 +1371,11 @@
           "date": "2026-09-19",
           "edition": "morning",
           "update": "Russia intensified missile attacks on Kyiv, with warning times reduced to as little as four minutes, leaving residents exhausted, according to BBC News. Putin accused Ukraine of interfering in Russia's parliamentary elections. Russia held parliamentary votes in the illegally annexed regions of Donetsk, Luhansk, Zaporizhzhia, and Kherson for the first time. Poland's army announced the launch of preventive military aviation operations in response to Russian strikes on Ukraine."
+        },
+        {
+          "date": "2026-09-19",
+          "edition": "evening",
+          "update": "President Trump signed the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 into law, imposing new sanctions on Russia's energy sector and authorizing tariffs of up to 100%. The U.S. State Department approved a potential $2.6 billion military air defense equipment sale to Ukraine, including S-300 Clone missiles, GAM-67 missiles, Range-Extended Air Defense Laser Guided Rocket systems, and counter-drone equipment, notifying Congress of the decision."
         }
       ],
       "parentId": null
@@ -1974,7 +1979,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-19",
       "active": true,
       "entries": [
         {
@@ -2146,6 +2151,11 @@
           "date": "2026-09-14",
           "edition": "evening",
           "update": "A political analyst cited by Newsmax suggested Iran is considering an 'October Surprise' move ahead of U.S. midterm elections, though no specific details of the potential action were provided."
+        },
+        {
+          "date": "2026-09-19",
+          "edition": "evening",
+          "update": "Iranian officials and state media have openly described the country's car market as a 'mafia' system, highlighting broader cost-of-living pressures facing Iranian consumers, according to Al Jazeera."
         }
       ],
       "parentId": null
@@ -2154,7 +2164,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-16",
+      "lastSeen": "2026-09-19",
       "active": true,
       "entries": [
         {
@@ -2706,6 +2716,11 @@
           "date": "2026-09-16",
           "edition": "morning",
           "update": "Israeli forces rappelled from a helicopter onto the roof of a residential building in Yatta in the occupied West Bank, according to Al Jazeera."
+        },
+        {
+          "date": "2026-09-19",
+          "edition": "evening",
+          "update": "The UN peacekeeping chief in Lebanon stated that a smooth transition is critical before any pullout of peacekeeping forces, according to Reuters."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2714,7 +2729,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-19",
       "active": true,
       "entries": [
         {
@@ -3821,6 +3836,11 @@
           "date": "2026-09-18",
           "edition": "evening",
           "update": "A new poll cited by Al Jazeera shows 71 percent of U.S. respondents believe the Trump administration lacks a clear strategy for resolving the Iran conflict, with opposition to the war reaching new highs. The New York Times identified the Middle East conflict as a primary driver behind rising bond interest rates, with the Federal Reserve now working to respond to resulting market disruption. The Wall Street Journal reported that investors who relied on a 'buy the dip' strategy during Trump's Iran threats — known as the 'TACO' trade — are facing uncertainty as the pattern of Trump backing down appears to have broken in September."
+        },
+        {
+          "date": "2026-09-19",
+          "edition": "evening",
+          "update": "CBS News obtained exclusive access to the USS George Washington, one of two U.S. aircraft carriers in the region conducting strikes against Iran. Iran has sent war-end terms to President Trump, according to Newsmax, signaling a potential diplomatic communication regarding conflict resolution conditions."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4114,7 +4134,7 @@
       "id": "cuba-energy-crisis",
       "title": "Cuba Energy Crisis",
       "firstSeen": "2026-03-16",
-      "lastSeen": "2026-09-05",
+      "lastSeen": "2026-09-19",
       "active": true,
       "entries": [
         {
@@ -4331,6 +4351,11 @@
           "date": "2026-09-05",
           "edition": "morning",
           "update": "The U.S. Embassy in Havana issued a health alert for Cuba as U.S. sanctions continue to limit imports to the island, according to the Washington Post."
+        },
+        {
+          "date": "2026-09-19",
+          "edition": "evening",
+          "update": "Cuba's national power grid collapsed again on Friday, leaving millions of residents across the island without electricity. Cuba's Ministry of Energy and Mines announced the nationwide blackout on X, stating that recovery protocols had begun, while at least one resident reported there was 'no way to know' when power would be restored."
         }
       ],
       "parentId": null
@@ -6095,6 +6120,11 @@
           "date": "2026-09-19",
           "edition": "morning",
           "update": "Israeli UN envoy Danny Danon criticized European nations for failing to assist the U.S. in securing the Strait of Hormuz, drawing a parallel to past international cooperation against Somali pirates to protect global shipping lanes."
+        },
+        {
+          "date": "2026-09-19",
+          "edition": "evening",
+          "update": "The Houthis claimed responsibility for firing a wave of missiles and drones at Riyadh and Saudi oil facilities, with residents reporting explosions near Riyadh's airport. Saudi Arabia issued aerial attack warnings following the incident, but had not publicly commented on the Houthi claims. CENTCOM Admiral Brad Cooper announced that over 1 billion barrels of crude oil have transited the Strait of Hormuz with U.S. forces' support amid ongoing U.S.-Iran hostilities. Saudi Arabia hosted a multinational naval coalition meeting focused on securing Red Sea shipping lanes. The U.S. lifted sanctions on Eritrea's governing party and military, citing the goal of advancing U.S. regional interests in the Red Sea; the sanctions had originally been introduced during the Biden administration."
         }
       ]
     },
@@ -6518,7 +6548,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-19",
       "active": true,
       "entries": [
         {
@@ -6765,6 +6795,11 @@
           "date": "2026-09-18",
           "edition": "morning",
           "update": "At a UN Security Council meeting on Syria, Israel and Turkey clashed in a heated debate over the presence of their respective troops on Syrian territory, with Syria's representative warning that Israel poses 'the greatest threat' to Middle East stability."
+        },
+        {
+          "date": "2026-09-19",
+          "edition": "evening",
+          "update": "Israeli media outlets Channel 12 and Maariv reported that the Israeli military is facing severe shortages of troops and equipment. Israeli strikes killed three people in Gaza, including a child who was the son of Gaza Health Ministry Director General Munir al-Bursh. A diplomatic dispute emerged between the UK and Israel over West Bank settlements, with British officials claiming Israel had agreed to pause construction in the strategically significant E1 area, while Israeli officials denied making any such commitment."
         }
       ]
     },
@@ -7069,5 +7104,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-19T11:06:02.237Z"
+  "updatedAt": "2026-09-19T21:06:18.140Z"
 }
