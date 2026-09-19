@@ -510,5 +510,16 @@
     "source": "Newsweek",
     "categories": [],
     "collectedAt": "2026-09-19T08:45:01.874Z"
+  },
+  {
+    "title": "Can Trump ban CNN, news outlets he doesn’t like from the White House?",
+    "description": "The ban is the latest attack by Trump on media outlets that he perceives as unfavourable to his administration.",
+    "link": "https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss",
+    "pubDate": "Sat, 19 Sep 2026 08:47:17 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-19T09:00:01.518Z"
   }
 ]
