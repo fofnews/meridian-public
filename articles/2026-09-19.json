@@ -358,5 +358,16 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-19T07:05:43.366Z"
+  },
+  {
+    "title": "1 killed after 2 glider planes collide in upstate New York, police say",
+    "description": "At least one person was killed when two gliders collided in mid-air in upstate New York on Friday afternoon, New York State Police said in a statement.",
+    "link": "https://abcnews.com/US/1-killed-after-2-glider-planes-collide-upstate/story?id=136581717",
+    "pubDate": "Sat, 19 Sep 2026 03:01:46 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-09-19T07:15:01.607Z"
   }
 ]
