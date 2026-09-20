@@ -559,7 +559,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-19",
+      "lastSeen": "2026-09-20",
       "active": true,
       "entries": [
         {
@@ -1376,6 +1376,11 @@
           "date": "2026-09-19",
           "edition": "evening",
           "update": "President Trump signed the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 into law, imposing new sanctions on Russia's energy sector and authorizing tariffs of up to 100%. The U.S. State Department approved a potential $2.6 billion military air defense equipment sale to Ukraine, including S-300 Clone missiles, GAM-67 missiles, Range-Extended Air Defense Laser Guided Rocket systems, and counter-drone equipment, notifying Congress of the decision."
+        },
+        {
+          "date": "2026-09-20",
+          "edition": "morning",
+          "update": "Ukraine launched its largest-ever drone attack on Russia, firing over 1,000 drones, with hundreds directed at Moscow. Drones struck an oil refinery in the Moscow area, killing two people, with Moscow authorities describing it as the biggest such attack on the capital. In a separate incident, a Russian drone strike on the Kyiv region killed three children and a woman, according to Reuters."
         }
       ],
       "parentId": null
@@ -1634,7 +1639,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-19",
+      "lastSeen": "2026-09-20",
       "active": true,
       "entries": [
         {
@@ -1971,6 +1976,11 @@
           "date": "2026-09-19",
           "edition": "morning",
           "update": "U.S. President Trump extended sanctions on Iran, while thousands of Houthi supporters staged demonstrations in Sanaa, Yemen, according to Al Jazeera."
+        },
+        {
+          "date": "2026-09-20",
+          "edition": "morning",
+          "update": "Iran's security chief announced Tehran's peace terms, demanding an end to war on all fronts and the lifting of the U.S. naval blockade."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4599,7 +4609,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-09-19",
+      "lastSeen": "2026-09-20",
       "active": true,
       "entries": [
         {
@@ -4711,6 +4721,11 @@
           "date": "2026-09-19",
           "edition": "morning",
           "update": "North Korea dismissed a UN nuclear watchdog resolution, rebuking the IAEA for alleged 'double standards' and declaring its nuclear status 'irreversible.'"
+        },
+        {
+          "date": "2026-09-20",
+          "edition": "morning",
+          "update": "North Korea fired a missile off its east coast, according to Yonhap as reported by Reuters."
         }
       ],
       "parentId": null
@@ -4740,7 +4755,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-19",
+      "lastSeen": "2026-09-20",
       "active": true
     },
     {
@@ -5528,7 +5543,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-09-19",
+      "lastSeen": "2026-09-20",
       "active": true,
       "entries": [
         {
@@ -6125,6 +6140,11 @@
           "date": "2026-09-19",
           "edition": "evening",
           "update": "The Houthis claimed responsibility for firing a wave of missiles and drones at Riyadh and Saudi oil facilities, with residents reporting explosions near Riyadh's airport. Saudi Arabia issued aerial attack warnings following the incident, but had not publicly commented on the Houthi claims. CENTCOM Admiral Brad Cooper announced that over 1 billion barrels of crude oil have transited the Strait of Hormuz with U.S. forces' support amid ongoing U.S.-Iran hostilities. Saudi Arabia hosted a multinational naval coalition meeting focused on securing Red Sea shipping lanes. The U.S. lifted sanctions on Eritrea's governing party and military, citing the goal of advancing U.S. regional interests in the Red Sea; the sanctions had originally been introduced during the Biden administration."
+        },
+        {
+          "date": "2026-09-20",
+          "edition": "morning",
+          "update": "Saudi and Gulf stock markets fell following the Houthi attacks on Riyadh, according to Reuters. Turkish Foreign Minister expressed Türkiye's readiness to assist Saudi Arabia militarily as Houthi attacks intensify, according to Al Jazeera. The U.S. State Department issued a caution warning to Americans in the Middle East, citing a 'complex' security environment with potential for unforeseen escalation. Iranian parliament speaker Mohammad Bagher Ghalibaf stated the Strait of Hormuz will remain closed until Tehran's conditions are met."
         }
       ]
     },
@@ -6203,7 +6223,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-09-12",
+      "lastSeen": "2026-09-20",
       "active": true,
       "entries": [
         {
@@ -6450,6 +6470,11 @@
           "date": "2026-09-12",
           "edition": "morning",
           "update": "Total Ebola infections in the Democratic Republic of Congo have surpassed 7,000 cases as the outbreak continues to spread to new provinces, according to Reuters."
+        },
+        {
+          "date": "2026-09-20",
+          "edition": "morning",
+          "update": "The Democratic Republic of Congo began rolling out an Ebola vaccine for health workers as the death toll rose, with 50,000 frontline staff set to receive a jab targeting a different Ebola strain and 20,000 enrolled in a one-year clinical trial."
         }
       ]
     },
@@ -6548,7 +6573,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-19",
+      "lastSeen": "2026-09-20",
       "active": true,
       "entries": [
         {
@@ -6800,6 +6825,11 @@
           "date": "2026-09-19",
           "edition": "evening",
           "update": "Israeli media outlets Channel 12 and Maariv reported that the Israeli military is facing severe shortages of troops and equipment. Israeli strikes killed three people in Gaza, including a child who was the son of Gaza Health Ministry Director General Munir al-Bursh. A diplomatic dispute emerged between the UK and Israel over West Bank settlements, with British officials claiming Israel had agreed to pause construction in the strategically significant E1 area, while Israeli officials denied making any such commitment."
+        },
+        {
+          "date": "2026-09-20",
+          "edition": "morning",
+          "update": "President Trump cut short his Camp David weekend trip by one day, returning to Washington, D.C. on Saturday evening, coinciding with the State Department issuing security alerts for the Middle East."
         }
       ]
     },
@@ -7104,5 +7134,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-19T21:06:18.140Z"
+  "updatedAt": "2026-09-20T11:04:12.902Z"
 }
