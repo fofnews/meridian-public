@@ -499,5 +499,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-20T07:45:01.259Z"
+  },
+  {
+    "title": "Ukrainian drones target Moscow, oil refinery in deadly attack, Russian officials say",
+    "description": "Plumes of smoke rose over Moscow on Sunday morning after Ukraine's latest massed drone attack on the city in which a major oil refinery was among the targets.",
+    "link": "https://abcnews.com/International/ukrainian-drones-target-moscow-oil-refinery-deadly-attack/story?id=136595832",
+    "pubDate": "Sun, 20 Sep 2026 03:47:37 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-09-20T08:00:01.302Z"
+  },
+  {
+    "title": "Ukraine Launches Largest-Ever Drone Attack on Moscow, Russia Says",
+    "description": "Ukraine launched its \"largest ever\" drone attack on Moscow overnight, leaving two dead, according to Russian authorities.",
+    "link": "https://www.newsweek.com/ukraine-launches-largest-ever-drone-attack-on-moscow-russia-says-12464786",
+    "pubDate": "Sun, 20 Sep 2026 03:56:06 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-20T08:00:01.302Z"
   }
 ]
