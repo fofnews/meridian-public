@@ -781,5 +781,54 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-20T09:45:02.499Z"
+  },
+  {
+    "title": "Chuck Grassley Presses Trump as Iowa Diesel Prices Hit Record High",
+    "description": "Diesel has continued climbing further above $6 per gallon amid ongoing supply issues sparked by the Iran war.",
+    "link": "https://www.newsweek.com/chuck-grassley-presses-trump-as-iowa-diesel-prices-hit-record-high-12464839",
+    "pubDate": "Sun, 20 Sep 2026 05:54:02 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-20T10:00:02.845Z"
+  },
+  {
+    "title": "Ed Davey calls for immediate 10p cut to fuel duty",
+    "description": "Sir Ed blamed Donald Trump's war with Iran for damaging the UK economy and pushing fuel prices up.",
+    "link": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 20 Sep 2026 09:32:50 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-20T10:00:02.845Z"
+  },
+  {
+    "title": "Asian Games: Smriti Mandhana breaks T20 record as India beat Bangladesh",
+    "description": "India defeat Bangladesh by 114 runs to book women's cricket final against Sri Lanka, who beat Pakistan by eight wickets.",
+    "link": "https://www.aljazeera.com/sports/2026/9/20/asian-games-smriti-mandhana-breaks-t20-record-as-india-beat-bangladesh?traffic_source=rss",
+    "pubDate": "Sun, 20 Sep 2026 09:36:23 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-09-20T10:00:02.845Z"
+  },
+  {
+    "title": "‘There will be a very sizeable Saudi response’ to Houthi attacks",
+    "description": "Nawaf Obaid tells Al Jazeera that Saudi Arabia’s response to Houthi attacks from Yemen will be massive.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/there-will-be-a-very-sizeable-saudi-response-to-houthi-attacks?traffic_source=rss",
+    "pubDate": "Sun, 20 Sep 2026 09:30:51 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-09-20T10:00:02.845Z"
+  },
+  {
+    "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow - AP News",
+    "description": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow  AP News",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGlGcXh5MjVFY3ZkdEpja25rTGtoU3pfUHc4Qy14STl2bWtOWFE1bTM1TFJYRFppcHlzdm0xamotU2hzd0l5cTZzeFRILVpNMm9TR1p6MkRydkFWcXlOU3Z0T25SWFRaR2txZTlWZFVvVFUwY0xNb211TlJkSEgyazBQRTdIV1BndU9yaldocW1lZk1NMXN3?oc=5",
+    "pubDate": "Sun, 20 Sep 2026 08:45:00 GMT",
+    "source": "AP News",
+    "categories": [],
+    "collectedAt": "2026-09-20T10:00:02.845Z"
   }
 ]
