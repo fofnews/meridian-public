@@ -1381,6 +1381,11 @@
           "date": "2026-09-20",
           "edition": "morning",
           "update": "Ukraine launched its largest-ever drone attack on Russia, firing over 1,000 drones, with hundreds directed at Moscow. Drones struck an oil refinery in the Moscow area, killing two people, with Moscow authorities describing it as the biggest such attack on the capital. In a separate incident, a Russian drone strike on the Kyiv region killed three children and a woman, according to Reuters."
+        },
+        {
+          "date": "2026-09-20",
+          "edition": "evening",
+          "update": "Ukraine's largest-ever drone attack on Russia, involving over 1,000 drones, occurred on the final day of the Russian Duma elections. Russia described it as the largest drone strike of the entire war. The Kremlin-dominated parliament election concluded with results all but assured before voting ended. Ukraine also deployed the Pelican missile in combat for the first time during this period, marking a new escalation in its weapons arsenal."
         }
       ],
       "parentId": null
@@ -1559,7 +1564,7 @@
       "id": "iran-protests-and-crackdown",
       "title": "Iran Protests and Crackdown",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-19",
+      "lastSeen": "2026-09-20",
       "active": true,
       "entries": [
         {
@@ -1631,6 +1636,11 @@
           "date": "2026-09-19",
           "edition": "morning",
           "update": "Hundreds of Iranian women defied the country's mandatory hijab law by participating in a 10-kilometer race in Tehran without wearing headscarves, according to Al Jazeera."
+        },
+        {
+          "date": "2026-09-20",
+          "edition": "evening",
+          "update": "Iranian authorities sealed a French language centre in Tehran, accusing it of engaging in illegal activities, according to Reuters."
         }
       ],
       "parentId": null
@@ -1989,7 +1999,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-09-19",
+      "lastSeen": "2026-09-20",
       "active": true,
       "entries": [
         {
@@ -2166,6 +2176,11 @@
           "date": "2026-09-19",
           "edition": "evening",
           "update": "Iranian officials and state media have openly described the country's car market as a 'mafia' system, highlighting broader cost-of-living pressures facing Iranian consumers, according to Al Jazeera."
+        },
+        {
+          "date": "2026-09-20",
+          "edition": "evening",
+          "update": "Iran's cost of living crisis, worsened by war and inflation, is forcing young Iranians to delay or change their marriage plans, according to Al Jazeera."
         }
       ],
       "parentId": null
@@ -2174,7 +2189,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-19",
+      "lastSeen": "2026-09-20",
       "active": true,
       "entries": [
         {
@@ -2731,6 +2746,11 @@
           "date": "2026-09-19",
           "edition": "evening",
           "update": "The UN peacekeeping chief in Lebanon stated that a smooth transition is critical before any pullout of peacekeeping forces, according to Reuters."
+        },
+        {
+          "date": "2026-09-20",
+          "edition": "evening",
+          "update": "Israeli settlers stormed the Al-Aqsa Mosque compound during Yom Kippur, drawing fierce condemnation, while Prime Minister Netanyahu and his wife toured tunnels beneath the compound. Israeli forces killed a Palestinian man near Jenin in the occupied West Bank, and an Israeli settler died from wounds sustained in a separate shooting. A Palestinian gunman killed an Israeli in the West Bank, while Israeli soldiers killed a Palestinian motorist in a separate incident in the same area."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2739,7 +2759,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-19",
+      "lastSeen": "2026-09-20",
       "active": true,
       "entries": [
         {
@@ -3851,6 +3871,11 @@
           "date": "2026-09-19",
           "edition": "evening",
           "update": "CBS News obtained exclusive access to the USS George Washington, one of two U.S. aircraft carriers in the region conducting strikes against Iran. Iran has sent war-end terms to President Trump, according to Newsmax, signaling a potential diplomatic communication regarding conflict resolution conditions."
+        },
+        {
+          "date": "2026-09-20",
+          "edition": "evening",
+          "update": "Iran issued new conditions for ending the conflict with the U.S. as oil prices rose above $100 per barrel, and separately warned against further escalation by the U.S. and its allies. The U.S. government issued a 'Do Not Travel' advisory for Iran, its highest-level travel warning. President Trump publicly stated 'My question is, if and when do I blow the entire nation up?' regarding Iran, with Fox News reporting Trump is in a 'deciding mode' on potential major action."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -5403,7 +5428,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-20",
       "active": true,
       "entries": [
         {
@@ -5535,6 +5560,11 @@
           "date": "2026-09-18",
           "edition": "evening",
           "update": "President Trump is considering pursuing broader deals with Russia before addressing Ukraine peace negotiations, signaling a potential sequencing shift in U.S. diplomatic strategy, according to Newsmax."
+        },
+        {
+          "date": "2026-09-20",
+          "edition": "evening",
+          "update": "Ukrainian President Zelenskyy announced he spoke with President Trump, with the two leaders agreeing to meet in New York."
         }
       ]
     },
@@ -6145,6 +6175,11 @@
           "date": "2026-09-20",
           "edition": "morning",
           "update": "Saudi and Gulf stock markets fell following the Houthi attacks on Riyadh, according to Reuters. Turkish Foreign Minister expressed Türkiye's readiness to assist Saudi Arabia militarily as Houthi attacks intensify, according to Al Jazeera. The U.S. State Department issued a caution warning to Americans in the Middle East, citing a 'complex' security environment with potential for unforeseen escalation. Iranian parliament speaker Mohammad Bagher Ghalibaf stated the Strait of Hormuz will remain closed until Tehran's conditions are met."
+        },
+        {
+          "date": "2026-09-20",
+          "edition": "evening",
+          "update": "The Pentagon clarified that U.S. forces have escorted over 2,000 commercial vessels through the Strait of Hormuz in recent months, alongside the previously reported one billion barrels of oil. QatarEnergy warned that a Strait of Hormuz crisis could delay some of its expansion projects. Iran-backed Houthi forces intensified ground fighting against Saudi-backed government forces in Yemen, pushing to expand territory."
         }
       ]
     },
@@ -7134,5 +7169,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-20T11:04:12.902Z"
+  "updatedAt": "2026-09-20T21:05:44.833Z"
 }
