@@ -305,5 +305,55 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-21T05:30:03.213Z"
+  },
+  {
+    "title": "Patrick Clancy Describes Grief in First Interview Since Mistrial",
+    "description": "Mr. Clancy said in a “60 Minutes” interview that he dreams “all the time” about his three children, who were strangled to death in 2023 by his former wife, Lindsay Clancy.",
+    "link": "https://www.nytimes.com/2026/09/20/us/patrick-clancy-60-minutes.html",
+    "pubDate": "Mon, 21 Sep 2026 05:38:51 +0000",
+    "source": "NY Times",
+    "categories": [
+      "clancy, lindsay (1990- )",
+      "murders, attempted murders and homicides",
+      "grief (emotion)",
+      "mental health and disorders",
+      "duxbury (mass)",
+      "new york city",
+      "clancy, patrick (1988- )",
+      "clancy, callan (d 2023)",
+      "clancy, cora (d 2023)",
+      "clancy, dawson (d 2023)",
+      "60 minutes (tv program)"
+    ],
+    "collectedAt": "2026-09-21T05:45:01.564Z"
+  },
+  {
+    "title": "Presley Gerber, Cindy Crawford's son, dies aged 27",
+    "description": "His family asked for privacy during a \"very difficult and painful time\" following the model's death.",
+    "link": "https://www.bbc.co.uk/news/articles/cmdx0pqrv72wo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 21 Sep 2026 05:33:06 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-21T05:45:01.564Z"
+  },
+  {
+    "title": "Presley Gerber, son of Cindy Crawford and Rande Gerber, dead at 27",
+    "description": "Cindy Crawford and Rande Gerber's son Presley Gerber, who signed with IMG Models and walked for Moschino and Calvin Klein, has died at age 27.",
+    "link": "https://www.foxnews.com/entertainment/presley-gerber-son-cindy-crawford-rande-gerber-dead-27",
+    "pubDate": "Mon, 21 Sep 2026 01:23:07 -0400",
+    "source": "Fox News",
+    "categories": [
+      "72f19aa6-fc18-564e-b704-fe60933c3115",
+      "fnc",
+      "fox news",
+      "fox-news/entertainment",
+      "fox-news/entertainment/events/obituary",
+      "fox-news/person/cindy-crawford",
+      "fox-news/entertainment/events/babies",
+      "fox-news/style-and-beauty/modeling",
+      "fox-news/entertainment",
+      "article"
+    ],
+    "collectedAt": "2026-09-21T05:45:01.564Z"
   }
 ]
