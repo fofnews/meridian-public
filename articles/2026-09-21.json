@@ -612,5 +612,16 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-21T08:00:01.996Z"
+  },
+  {
+    "title": "Three South Korean officers wounded in border explosion",
+    "description": "South Korean officers injured in DMZ explosion, possibly caused by a landmine, according to local media reports.",
+    "link": "https://www.aljazeera.com/news/2026/9/21/three-south-korean-officers-wounded-in-border-explosion?traffic_source=rss",
+    "pubDate": "Mon, 21 Sep 2026 07:45:12 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-21T08:15:02.160Z"
   }
 ]
