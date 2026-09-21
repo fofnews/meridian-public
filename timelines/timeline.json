@@ -2759,7 +2759,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-20",
+      "lastSeen": "2026-09-21",
       "active": true,
       "entries": [
         {
@@ -3876,6 +3876,11 @@
           "date": "2026-09-20",
           "edition": "evening",
           "update": "Iran issued new conditions for ending the conflict with the U.S. as oil prices rose above $100 per barrel, and separately warned against further escalation by the U.S. and its allies. The U.S. government issued a 'Do Not Travel' advisory for Iran, its highest-level travel warning. President Trump publicly stated 'My question is, if and when do I blow the entire nation up?' regarding Iran, with Fox News reporting Trump is in a 'deciding mode' on potential major action."
+        },
+        {
+          "date": "2026-09-21",
+          "edition": "morning",
+          "update": "National Security Advisor Mike Waltz declined to provide an end date for the Iran war as a new NBC News poll found most voters say the conflict has not been worth it. Tehran warned the U.S. against conducting new strikes, threatening retaliation 'without limitations' after reportedly learning of potential U.S. military plans. Iran separately warned that any new U.S. military aggression would result in Tehran expanding the 'geography of the war' using different weapons in new locations. Qatar is pushing to revive diplomatic talks between the two sides as President Trump indicated a decision on his next move is imminent."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4780,7 +4785,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-20",
+      "lastSeen": "2026-09-21",
       "active": true
     },
     {
@@ -5573,7 +5578,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-09-20",
+      "lastSeen": "2026-09-21",
       "active": true,
       "entries": [
         {
@@ -6180,6 +6185,11 @@
           "date": "2026-09-20",
           "edition": "evening",
           "update": "The Pentagon clarified that U.S. forces have escorted over 2,000 commercial vessels through the Strait of Hormuz in recent months, alongside the previously reported one billion barrels of oil. QatarEnergy warned that a Strait of Hormuz crisis could delay some of its expansion projects. Iran-backed Houthi forces intensified ground fighting against Saudi-backed government forces in Yemen, pushing to expand territory."
+        },
+        {
+          "date": "2026-09-21",
+          "edition": "morning",
+          "update": "Oil prices rose further following the Houthi attack on Riyadh, according to Reuters."
         }
       ]
     },
@@ -6608,7 +6618,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-20",
+      "lastSeen": "2026-09-21",
       "active": true,
       "entries": [
         {
@@ -6865,6 +6875,11 @@
           "date": "2026-09-20",
           "edition": "morning",
           "update": "President Trump cut short his Camp David weekend trip by one day, returning to Washington, D.C. on Saturday evening, coinciding with the State Department issuing security alerts for the Middle East."
+        },
+        {
+          "date": "2026-09-21",
+          "edition": "morning",
+          "update": "President Trump decided on Sunday not to join Saudi Arabia in joint strikes against the Houthis in Yemen, according to the New York Times, as he weighs the need for Saudi cooperation in his broader campaign against Iran."
         }
       ]
     },
@@ -6923,7 +6938,7 @@
       "title": "US Cyberattacks and Infrastructure Security",
       "parentId": null,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-21",
       "active": true,
       "entries": [
         {
@@ -7045,6 +7060,11 @@
           "date": "2026-09-18",
           "edition": "evening",
           "update": "A small group of cybersecurity researchers announced they had breached OpenAI's systems earlier in the year, raising new concerns about AI security, according to NBC News. Colorado's governor's office reported that 'foreign actors' targeted small, private water providers in the state."
+        },
+        {
+          "date": "2026-09-21",
+          "edition": "morning",
+          "update": "A digital traffic display on the 405 Freeway near Persian Square in Westwood, Los Angeles was hacked to show a website linked to threats against enemies of Iran's Islamic regime, alarming Iranian dissidents in the area, according to the New York Post."
         }
       ]
     },
@@ -7169,5 +7189,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-20T21:05:44.833Z"
+  "updatedAt": "2026-09-21T11:05:59.901Z"
 }
