@@ -75,5 +75,103 @@
     "source": "BBC News",
     "categories": [],
     "collectedAt": "2026-09-21T04:15:04.889Z"
+  },
+  {
+    "title": "ICE officer shoots and injures man in Austin: Police",
+    "description": "A man was shot and injured in an Immigration and Customs Enforcement incident in Austin, Texas, on Sunday, according to officials.",
+    "link": "https://abcnews.com/US/man-hospitalized-after-ice-involved-shooting-austin-officials/story?id=136604992",
+    "pubDate": "Mon, 21 Sep 2026 00:21:33 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-09-21T04:30:03.283Z"
+  },
+  {
+    "title": "Patrick Mahomes and Kenneth Walker shine as Chiefs beat Colts 33-30 in OT",
+    "description": "Harrison Butker kicked two field goals in overtime, the second a 40-yarder that Patrick Mahomes and Kenneth Walker III set up as time expired, giving the Kansas City Chiefs a 33-30 victory over the Indianapolis Colts on Sunday night.",
+    "link": "https://www.nbcnews.com/sports/nfl/patrick-mahomes-kenneth-walker-harrison-butker-nfl-chiefs-colts-rcna598927",
+    "pubDate": "Mon, 21 Sep 2026 04:14:33 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-09-21T04:30:03.283Z"
+  },
+  {
+    "title": "Harrison Butker drills game-winner as Chiefs survive overtime thriller against Colts",
+    "description": "Patrick Mahomes threw for 382 yards and three touchdowns as the Kansas City Chiefs outlasted the Indianapolis Colts in a wild overtime thriller.",
+    "link": "https://www.foxnews.com/outkick-sports/harrison-butker-drills-game-winner-chiefs-survive-overtime-thriller-colts",
+    "pubDate": "Mon, 21 Sep 2026 00:26:45 -0400",
+    "source": "Fox News",
+    "categories": [
+      "6151fc1c-7ac2-5ee2-a19f-da44ef258190",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/sports",
+      "fox-news/sports/nfl/kansas-city-chiefs",
+      "fox-news/sports/nfl/indianapolis-colts",
+      "fox-news/person/patrick-mahomes",
+      "fox-news/person/travis-kelce",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-09-21T04:30:03.283Z"
+  },
+  {
+    "title": "Manhunt underway in California after armed suspect allegedly points gun at people, shoots at officers",
+    "description": "California deputies urge local residents to lock their doors amid a manhunt for a suspect wanted for several felonies, including pointing a firearm at people.",
+    "link": "https://www.foxnews.com/us/manhunt-underway-california-after-armed-suspect-allegedly-points-gun-people-shoots-officers",
+    "pubDate": "Mon, 21 Sep 2026 00:11:08 -0400",
+    "source": "Fox News",
+    "categories": [
+      "3a2996cc-c6d2-5041-b09b-22e4dae41f4c",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/west/california",
+      "fox-news/us",
+      "fox-news/crime",
+      "fox-news/us/crime/manhunt",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/us/crime/homicide",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-09-21T04:30:03.283Z"
+  },
+  {
+    "title": "Clarke Schmidt kept out of Yankees loss after feeling biceps cramping",
+    "description": "Clarke Schmidt, who returned from Tommy John surgery on Wednesday, was warming up Sunday.",
+    "link": "https://nypost.com/2026/09/21/sports/clarke-schmidt-kept-out-of-yankees-loss-after-feeling-biceps-cramping/",
+    "pubDate": "Mon, 21 Sep 2026 00:27:31 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-21T04:30:03.283Z"
+  },
+  {
+    "title": "Heroes, zeros from Jets’ loss to the Packers: Green Bay defensive end was everywhere",
+    "description": "Heroes, zeros and the full blitz from the Jets’ 20-17 loss to the Packers on Sunday:",
+    "link": "https://nypost.com/2026/09/21/sports/heroes-zeros-from-jets-loss-to-the-packers/",
+    "pubDate": "Mon, 21 Sep 2026 00:27:24 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-21T04:30:03.283Z"
+  },
+  {
+    "title": "First female Archbishop of Canterbury revokes award she gave on 9/11 to Muslim cleric who praised bin Laden",
+    "description": "Ashrafi said Osama bin Laden had \"been fighting for Islam against the Russians, Americans, and British.\"",
+    "link": "https://nypost.com/2026/09/21/world-news/archbishop-of-canterbury-withdraws-award-she-gave-on-9-11-to-muslim-cleric-who-praised-bin-laden/",
+    "pubDate": "Mon, 21 Sep 2026 00:23:10 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-21T04:30:03.283Z"
+  },
+  {
+    "title": "Falcons’ Drake London gets in heated exchange with fan he claims got ‘personal’ during blowout loss",
+    "description": "Cameras caught Falcons wide receiver Drake London shouting profanities at someone in the crowd during a verbal confrontation in Atlanta’s ugly 34-3 loss to the Panthers on Sunday. London was shouting at an unknown person in the third quarter at Mercedes-Benz Stadium while fellow wide receiver Olamide Zaccheaus seemed to be running interference.  The Fox...",
+    "link": "https://nypost.com/2026/09/21/sports/falcons-drake-london-gets-in-heated-exchange-with-fan-during-blowout-loss/",
+    "pubDate": "Mon, 21 Sep 2026 00:20:01 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-21T04:30:03.283Z"
   }
 ]
