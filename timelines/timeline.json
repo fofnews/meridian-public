@@ -559,7 +559,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-20",
+      "lastSeen": "2026-09-21",
       "active": true,
       "entries": [
         {
@@ -1386,6 +1386,11 @@
           "date": "2026-09-20",
           "edition": "evening",
           "update": "Ukraine's largest-ever drone attack on Russia, involving over 1,000 drones, occurred on the final day of the Russian Duma elections. Russia described it as the largest drone strike of the entire war. The Kremlin-dominated parliament election concluded with results all but assured before voting ended. Ukraine also deployed the Pelican missile in combat for the first time during this period, marking a new escalation in its weapons arsenal."
+        },
+        {
+          "date": "2026-09-21",
+          "edition": "evening",
+          "update": "Russia's pro-Putin United Russia party retained its parliamentary majority following the Duma elections, though an anti-war party made minor gains securing a small regional foothold, according to Reuters. Analysts cited by the New York Times described the vote as engineered to reaffirm Putin's dominance, while the Washington Examiner noted fringe results suggesting potential weakening of Kremlin political control. Output at a Moscow oil refinery was halted after a drone strike on Sunday, with Ukrainian strikes on Russian energy infrastructure affecting diesel refineries more broadly. Trump posted on Truth Social on Monday that Russia has lost control of its diesel oil industry due to the war, and called for an end to the conflict. Military analysts are debating whether Ukraine's newly deployed Pelican weapon should be classified as a tactical ballistic missile or a drone."
         }
       ],
       "parentId": null
@@ -4808,7 +4813,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-21",
       "active": true,
       "entries": [
         {
@@ -5190,6 +5195,11 @@
           "date": "2026-09-18",
           "edition": "morning",
           "update": "Russia and China vetoed a UN Security Council resolution to renew the mandate of the panel monitoring Iran sanctions, effectively ending the body's oversight role. The Trump administration announced it will grant visas to a 'core delegation' of Iranian leadership to attend the UN General Assembly in New York, with travel restrictions and limits on luxury goods purchases in place, despite stalled negotiations. Iran expelled a Swedish diplomat, giving the official 48 hours to leave the country and accusing Stockholm of bowing to outside pressure. Investors following the 'TACO' trade strategy of buying market dips during Trump's Iran threats are facing uncertainty after the approach reportedly stopped working in September."
+        },
+        {
+          "date": "2026-09-21",
+          "edition": "evening",
+          "update": "Iran warned it would deploy 'new weapons with new capabilities' if the U.S. launched an assault, as Trump escalated rhetoric against Tehran over the weekend, according to NBC News."
         }
       ]
     },
@@ -6190,6 +6200,11 @@
           "date": "2026-09-21",
           "edition": "morning",
           "update": "Oil prices rose further following the Houthi attack on Riyadh, according to Reuters."
+        },
+        {
+          "date": "2026-09-21",
+          "edition": "evening",
+          "update": "Senior Houthi official Mohamed al-Bukhaiti told the Associated Press that the group has assured the Trump administration it will not target U.S. ships in the Red Sea, following U.S. outreach to the Houthis after they seized several towns and islands along Yemen's western coast."
         }
       ]
     },
@@ -6880,6 +6895,11 @@
           "date": "2026-09-21",
           "edition": "morning",
           "update": "President Trump decided on Sunday not to join Saudi Arabia in joint strikes against the Houthis in Yemen, according to the New York Times, as he weighs the need for Saudi cooperation in his broader campaign against Iran."
+        },
+        {
+          "date": "2026-09-21",
+          "edition": "evening",
+          "update": "Houthi rebels expanded attacks on Saudi Arabia, escalating regional tensions, as Trump stated he is in 'deciding mode' regarding next steps on Iran, according to CBS News. The U.S. State Department renewed travel warnings citing a Houthi ballistic missile strike targeting Riyadh over the weekend, and Iran's attacks on Bahrain caught U.S. Navy families and sailors off guard, with the scale surprising U.S. officials in part because family evacuations had not yet been ordered. Israeli forces raided the West Bank town of Biddu, arresting at least 53 young men and leaving the town in lockdown with schools and businesses shut, according to Al Jazeera. Gaza students returned to in-person schooling for the first time in three years, according to Reuters. Yemenis are fleeing across the Red Sea to Djibouti as conflict escalates between Houthi and Saudi-backed forces, according to BBC News. During a phone call with Yemen's president, Trump did not pledge U.S. military support against the Houthis, according to Reuters sources."
         }
       ]
     },
@@ -7189,5 +7209,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-21T11:05:59.901Z"
+  "updatedAt": "2026-09-21T21:08:59.172Z"
 }
