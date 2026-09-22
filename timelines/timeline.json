@@ -559,7 +559,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-21",
+      "lastSeen": "2026-09-22",
       "active": true,
       "entries": [
         {
@@ -1391,6 +1391,11 @@
           "date": "2026-09-21",
           "edition": "evening",
           "update": "Russia's pro-Putin United Russia party retained its parliamentary majority following the Duma elections, though an anti-war party made minor gains securing a small regional foothold, according to Reuters. Analysts cited by the New York Times described the vote as engineered to reaffirm Putin's dominance, while the Washington Examiner noted fringe results suggesting potential weakening of Kremlin political control. Output at a Moscow oil refinery was halted after a drone strike on Sunday, with Ukrainian strikes on Russian energy infrastructure affecting diesel refineries more broadly. Trump posted on Truth Social on Monday that Russia has lost control of its diesel oil industry due to the war, and called for an end to the conflict. Military analysts are debating whether Ukraine's newly deployed Pelican weapon should be classified as a tactical ballistic missile or a drone."
+        },
+        {
+          "date": "2026-09-22",
+          "edition": "morning",
+          "update": "CIA Director John Ratcliffe briefly met with Ukrainian President Zelensky at Shannon Airport in Ireland while both were en route to the United States for refueling stops. Russia has deployed new jet-powered drones against Ukraine that are significantly harder for Ukrainian air defenses to intercept than previous models, according to BBC News."
         }
       ],
       "parentId": null
@@ -1654,7 +1659,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-20",
+      "lastSeen": "2026-09-22",
       "active": true,
       "entries": [
         {
@@ -1996,6 +2001,11 @@
           "date": "2026-09-20",
           "edition": "morning",
           "update": "Iran's security chief announced Tehran's peace terms, demanding an end to war on all fronts and the lifting of the U.S. naval blockade."
+        },
+        {
+          "date": "2026-09-22",
+          "edition": "morning",
+          "update": "The U.S. is planning a $2.8 billion arms deal to send approximately 40,000 bombs to Israel, raising questions about proportionality and potential civilian casualties in Gaza, according to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2764,7 +2774,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-21",
+      "lastSeen": "2026-09-22",
       "active": true,
       "entries": [
         {
@@ -3886,6 +3896,11 @@
           "date": "2026-09-21",
           "edition": "morning",
           "update": "National Security Advisor Mike Waltz declined to provide an end date for the Iran war as a new NBC News poll found most voters say the conflict has not been worth it. Tehran warned the U.S. against conducting new strikes, threatening retaliation 'without limitations' after reportedly learning of potential U.S. military plans. Iran separately warned that any new U.S. military aggression would result in Tehran expanding the 'geography of the war' using different weapons in new locations. Qatar is pushing to revive diplomatic talks between the two sides as President Trump indicated a decision on his next move is imminent."
+        },
+        {
+          "date": "2026-09-22",
+          "edition": "morning",
+          "update": "Trump addressed the United Nations General Assembly in New York City, returning to the world stage amid the ongoing Iran conflict. U.S. lawmakers called on Trump to confront Chinese President Xi over China's support for Iran, following accusations that Chinese companies shared wartime satellite imagery with Tehran. Iran's IRGC declared that the U.S. and Israel 'must accept the region's freedom from their vile and criminal presence,' demanding regional withdrawal. Two Republican Senate candidates — including former Michigan Rep. Mike Rogers — publicly called for a swift end to the Iran war, diverging from Trump's position. The Senate prepared to vote on a war powers resolution to end the conflict, though the White House expressed little concern about the Democrat-led effort to attract Republican defectors. Oil prices rose slightly in anticipation of potential U.S.-Iran talks."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4644,7 +4659,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-09-20",
+      "lastSeen": "2026-09-22",
       "active": true,
       "entries": [
         {
@@ -4761,6 +4776,11 @@
           "date": "2026-09-20",
           "edition": "morning",
           "update": "North Korea fired a missile off its east coast, according to Yonhap as reported by Reuters."
+        },
+        {
+          "date": "2026-09-22",
+          "edition": "morning",
+          "update": "South Korean President Lee Jae Myung urged President Trump to pursue a freeze rather than full elimination of North Korea's nuclear weapons program, according to an interview reported by the New York Times."
         }
       ],
       "parentId": null
@@ -4790,7 +4810,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-21",
+      "lastSeen": "2026-09-22",
       "active": true
     },
     {
@@ -5303,7 +5323,7 @@
       "title": "Cuba Military Intervention",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-04-29",
-      "lastSeen": "2026-09-14",
+      "lastSeen": "2026-09-22",
       "active": true,
       "entries": [
         {
@@ -5380,6 +5400,11 @@
           "date": "2026-09-14",
           "edition": "evening",
           "update": "Republican Rhode Island congressional nominee Victor Mellor told the Washington Examiner he would end his registered foreign agent partnership with Cuba if elected to the House, following criticism over federal disclosure records showing he had partnered with the Cuban government on unspecified initiatives."
+        },
+        {
+          "date": "2026-09-22",
+          "edition": "morning",
+          "update": "Cuba's power grid collapsed for the sixth time since Trump cut off fuel to the country in January, leaving millions without electricity. In a CBS News interview, Cuban Deputy Foreign Minister Carlos Fernández de Cossio called it an 'absurd allegation' that Cuba poses a threat to the United States."
         }
       ]
     },
@@ -5443,7 +5468,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-09-20",
+      "lastSeen": "2026-09-22",
       "active": true,
       "entries": [
         {
@@ -5580,6 +5605,11 @@
           "date": "2026-09-20",
           "edition": "evening",
           "update": "Ukrainian President Zelenskyy announced he spoke with President Trump, with the two leaders agreeing to meet in New York."
+        },
+        {
+          "date": "2026-09-22",
+          "edition": "morning",
+          "update": "French President Macron announced he discussed ideas for a Ukraine-Russia energy truce with President Trump, according to Reuters."
         }
       ]
     },
@@ -6633,7 +6663,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-21",
+      "lastSeen": "2026-09-22",
       "active": true,
       "entries": [
         {
@@ -6900,6 +6930,11 @@
           "date": "2026-09-21",
           "edition": "evening",
           "update": "Houthi rebels expanded attacks on Saudi Arabia, escalating regional tensions, as Trump stated he is in 'deciding mode' regarding next steps on Iran, according to CBS News. The U.S. State Department renewed travel warnings citing a Houthi ballistic missile strike targeting Riyadh over the weekend, and Iran's attacks on Bahrain caught U.S. Navy families and sailors off guard, with the scale surprising U.S. officials in part because family evacuations had not yet been ordered. Israeli forces raided the West Bank town of Biddu, arresting at least 53 young men and leaving the town in lockdown with schools and businesses shut, according to Al Jazeera. Gaza students returned to in-person schooling for the first time in three years, according to Reuters. Yemenis are fleeing across the Red Sea to Djibouti as conflict escalates between Houthi and Saudi-backed forces, according to BBC News. During a phone call with Yemen's president, Trump did not pledge U.S. military support against the Houthis, according to Reuters sources."
+        },
+        {
+          "date": "2026-09-22",
+          "edition": "morning",
+          "update": "Houthi forces launched a new offensive targeting southwestern highland areas of Yemen following their earlier seizure of the Red Sea coast and Bab el Mandeb Strait, with a successful advance potentially threatening the internationally recognized government's capital. G7 foreign ministers issued a joint statement condemning Houthi attacks on Saudi Arabia 'in the strongest terms,' demanding Iran cease arming the group and calling on Houthis to halt strikes on maritime shipping. American military leaders are divided over whether Trump should involve the U.S. in the Saudi-Houthi conflict, according to two U.S. officials. Reports confirmed Trump called off strikes against the Houthis at the last minute on Sunday."
         }
       ]
     },
@@ -7209,5 +7244,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-21T21:08:59.172Z"
+  "updatedAt": "2026-09-22T11:07:28.574Z"
 }
