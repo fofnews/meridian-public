@@ -777,5 +777,43 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-22T08:30:02.257Z"
+  },
+  {
+    "title": "Grand jury finds no evidence of criminal conduct in the death of Nolan Wells",
+    "description": "A grand jury found Wells' cause of death \"consistent with drowning,\" and decided not to bring indictments. The teenager was found dead on Horn Island, after he boated there with friends to celebrate Independence Day.",
+    "link": "https://www.npr.org/2026/09/22/nx-s1-5911804/nolan-wells-investigation-grand-jury",
+    "pubDate": "Tue, 22 Sep 2026 04:31:47 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-09-22T08:45:01.392Z"
+  },
+  {
+    "title": "Specter of Rogue A.I. Looms Over U.N. Talks on Digital Cooperation",
+    "description": "Diplomats, dignitaries and tech experts gathered amid the United Nations General Assembly to debate how to address the threats and harness the potential of artificial intelligence.",
+    "link": "https://www.nytimes.com/2026/09/21/world/un-general-assembly-ai.html",
+    "pubDate": "Tue, 22 Sep 2026 08:31:59 +0000",
+    "source": "NY Times",
+    "categories": [
+      "artificial intelligence",
+      "general assembly (un)",
+      "international relations",
+      "anthropic ai llc",
+      "hugging face inc",
+      "united nations",
+      "openai labs",
+      "xi jinping",
+      "gordon-levitt, joseph",
+      "trump, donald j"
+    ],
+    "collectedAt": "2026-09-22T08:45:01.392Z"
+  },
+  {
+    "title": "Hurricane Polo grows into a Category 4 storm in the Pacific off Mexico",
+    "description": "Hurricane Polo grew into a Category 4 storm in the eastern Pacific late on Monday and was forecast to bring heavy rain to southwestern Mexico but remain offshore.",
+    "link": "https://nypost.com/2026/09/22/world-news/hurricane-polo-grows-into-a-category-4-storm-in-the-pacific-off-mexico/",
+    "pubDate": "Tue, 22 Sep 2026 04:32:51 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-22T08:45:01.392Z"
   }
 ]
