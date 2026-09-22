@@ -12270,5 +12270,115 @@
     "source": "Newsmax",
     "categories": [],
     "collectedAt": "2026-09-22T00:30:01.494Z"
+  },
+  {
+    "title": "Cruise ship passenger missing after reportedly going overboard",
+    "description": "The Carnival Panorama was returning from a weeklong trip to Mexico when crew members learned one man was unaccounted for.",
+    "link": "https://abcnews.com/video/136633644/",
+    "pubDate": "Mon, 21 Sep 2026 20:24:35 -0400",
+    "source": "ABC News",
+    "categories": [
+      "wnt"
+    ],
+    "collectedAt": "2026-09-22T00:45:01.432Z"
+  },
+  {
+    "title": "Trump meets with Mamdani ahead of U.N. address",
+    "description": "President Trump started his New York trip on Monday with a visit to Gracie Mansion for a meeting with Mayor Zohran Mamdani. CBS News reporter Jared Ochacher has the details.",
+    "link": "https://www.cbsnews.com/video/trump-meets-mamdani-ahead-of-un-address/",
+    "pubDate": "Mon, 21 Sep 2026 20:36:35 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-22T00:45:01.432Z"
+  },
+  {
+    "title": "Three media outlets sue over Trump WH ban",
+    "description": "CNN, MS Now and Politico have sued after President Trump revoked their access to the White House for what he called one-sided coverage of the administration. NBC News’ Kelly O’Donnell reports.",
+    "link": "https://www.nbcnews.com/nightly-news/video/three-media-outlets-sue-over-trump-wh-ban-270252101959",
+    "pubDate": "Mon, 21 Sep 2026 23:10:43 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-09-22T00:45:01.432Z"
+  },
+  {
+    "title": "Chargers' Offense Gutted as 2 Top Playmakers Placed on IR",
+    "description": "The Chargers' brutal Week 2 got even worse Monday, as two of their top playmakers on offense were placed on IR.",
+    "link": "https://www.newsweek.com/sports/nfl/chargers-offense-gutted-as-2-top-playmakers-placed-on-ir-12470161",
+    "pubDate": "Mon, 21 Sep 2026 20:36:04 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-22T00:45:01.432Z"
+  },
+  {
+    "title": "Eagles Set to Lose Top Jalen Hurts Target for Multiple Weeks: Report",
+    "description": "The Eagles are 2-0, but they just lost one of Jalen Hurts' top targets, and he's now set to miss multiple weeks with an injury.",
+    "link": "https://www.newsweek.com/sports/nfl/eagles-set-to-lose-top-jalen-hurts-target-for-multiple-weeks-report-12470114",
+    "pubDate": "Mon, 21 Sep 2026 20:30:40 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-22T00:45:01.432Z"
+  },
+  {
+    "title": "Airlines 'Panicking' as Trump Admin Launches AI Air Traffic System—Democrat",
+    "description": "The FAA launched SMART Monday in the D.C. area, designed to help prevent flight delays and cancellations.",
+    "link": "https://www.newsweek.com/airlines-panicking-as-trump-admin-launches-ai-air-traffic-system-democrat-12470463",
+    "pubDate": "Mon, 21 Sep 2026 20:29:43 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-22T00:45:01.432Z"
+  },
+  {
+    "title": "Socialist, communist groups coordinate, promote 'spontaneous' anti-ICE protests in Austin",
+    "description": "Austin, Tex., ICE shooting protest was organized by socialist and communist groups within hours, not a \"spontaneous\" gathering as media reported.",
+    "link": "https://www.foxnews.com/politics/socialist-communist-groups-coordinate-promote-spontaneous-anti-ice-protests-austin",
+    "pubDate": "Mon, 21 Sep 2026 20:24:17 -0400",
+    "source": "Fox News",
+    "categories": [
+      "203c86b0-750f-585d-b2f5-a7ea97c9fe7f",
+      "fnc",
+      "fox news",
+      "fox-news/news-events/fox-news-investigates",
+      "fox-news/politics",
+      "fox-news/us/immigration",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-09-22T00:45:01.432Z"
+  },
+  {
+    "title": "Tesla reopens Roadster reservations — but you’ll need $50K",
+    "description": "Tesla is expected to unveil the car to the public on Oct. 1 in Texas.",
+    "link": "https://nypost.com/2026/09/21/business/tesla-reopens-roadster-reservations-but-youll-need-50k/",
+    "pubDate": "Mon, 21 Sep 2026 20:36:01 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-22T00:45:01.432Z"
+  },
+  {
+    "title": "‘Lioness’ Star Stephanie Nur Was “Having Dreams As Aaliyah” After Season 1 Finished Filming: “She Has Never Been Far Away From Me”",
+    "description": "Stephanie Nur was destined to play Aaliyah Amrohi again.",
+    "link": "https://decider.com/2026/09/21/lioness-aaliyah-stephanie-nur-interview-lioness-season-4/",
+    "pubDate": "Mon, 21 Sep 2026 20:35:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-22T00:45:01.432Z"
+  },
+  {
+    "title": "Great white shark tears seal apart, turning serene Nantucket beach into bloodbath, wild video shows",
+    "description": "A great white shark was caught on camera devouring a helpless seal in Nantucket – turning a peaceful beach into a bloody mess. The brutal attack was captured by Carrie Drayton as she and her boyfriend drove past Great Point Beach around 10:30 a.m. on Sunday and noticed a seal rushing out of the water,...",
+    "link": "https://nypost.com/2026/09/21/us-news/great-white-shark-tears-seal-apart-at-nantucket-beach-video/",
+    "pubDate": "Mon, 21 Sep 2026 20:33:21 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-22T00:45:01.432Z"
+  },
+  {
+    "title": "Jaxson Dart limps off field after taking Rams hit in early Giants scare",
+    "description": "Jaxson Dart was in visible pain after taking a hard hit during the first quarter of the Giants’ “Monday Night Football” showdown with the Rams.",
+    "link": "https://nypost.com/2026/09/21/sports/jason-dart-limps-off-field-after-scary-rams-hit-in-early-giants-scare/",
+    "pubDate": "Mon, 21 Sep 2026 20:31:33 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-22T00:45:01.432Z"
   }
 ]
