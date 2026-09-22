@@ -1396,6 +1396,11 @@
           "date": "2026-09-22",
           "edition": "morning",
           "update": "CIA Director John Ratcliffe briefly met with Ukrainian President Zelensky at Shannon Airport in Ireland while both were en route to the United States for refueling stops. Russia has deployed new jet-powered drones against Ukraine that are significantly harder for Ukrainian air defenses to intercept than previous models, according to BBC News."
+        },
+        {
+          "date": "2026-09-22",
+          "edition": "evening",
+          "update": "Russia has coerced thousands of Ukrainian prisoners of war into recording propaganda videos in which they denounce their leaders and country, according to NBC News."
         }
       ],
       "parentId": null
@@ -2014,7 +2019,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-09-20",
+      "lastSeen": "2026-09-22",
       "active": true,
       "entries": [
         {
@@ -2196,6 +2201,11 @@
           "date": "2026-09-20",
           "edition": "evening",
           "update": "Iran's cost of living crisis, worsened by war and inflation, is forcing young Iranians to delay or change their marriage plans, according to Al Jazeera."
+        },
+        {
+          "date": "2026-09-22",
+          "edition": "evening",
+          "update": "Iranian President Pezeshkian traveled to New York for the UN General Assembly, vowing to highlight what Iran described as U.S. 'oppression,' as the full Iranian delegation arrived to address tensions with the United States, according to Al Jazeera."
         }
       ],
       "parentId": null
@@ -3901,6 +3911,11 @@
           "date": "2026-09-22",
           "edition": "morning",
           "update": "Trump addressed the United Nations General Assembly in New York City, returning to the world stage amid the ongoing Iran conflict. U.S. lawmakers called on Trump to confront Chinese President Xi over China's support for Iran, following accusations that Chinese companies shared wartime satellite imagery with Tehran. Iran's IRGC declared that the U.S. and Israel 'must accept the region's freedom from their vile and criminal presence,' demanding regional withdrawal. Two Republican Senate candidates — including former Michigan Rep. Mike Rogers — publicly called for a swift end to the Iran war, diverging from Trump's position. The Senate prepared to vote on a war powers resolution to end the conflict, though the White House expressed little concern about the Democrat-led effort to attract Republican defectors. Oil prices rose slightly in anticipation of potential U.S.-Iran talks."
+        },
+        {
+          "date": "2026-09-22",
+          "edition": "evening",
+          "update": "UN-commissioned human rights experts stated there are 'reasonable grounds' to believe the U.S. committed war crimes with two strikes on Iran that killed scores of civilians, according to CBS News. The U.S. imposed sweeping new sanctions targeting Iranian airlines, with analysts warning the measures could worsen conditions for millions of Iranians. A CNN/SSRS poll found 64% of Americans believe the U.S. is not winning the war in Iran, with a similar proportion saying Trump is not doing enough to end the conflict. In a military first, the U.S. fired a torpedo from an undersea autonomous drone called Excalibur, according to Newsweek. Trump denied reports that the U.S. is running low on munitions."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4781,6 +4796,11 @@
           "date": "2026-09-22",
           "edition": "morning",
           "update": "South Korean President Lee Jae Myung urged President Trump to pursue a freeze rather than full elimination of North Korea's nuclear weapons program, according to an interview reported by the New York Times."
+        },
+        {
+          "date": "2026-09-22",
+          "edition": "evening",
+          "update": "North Korea's Kim Jong Un praised the test of what is likely a new hypersonic missile, calling it an 'irresistible force' and 'incurable headache' for adversaries, according to CBS News. The launch came days after Pyongyang reasserted its nuclear-armed status and rejected a UN resolution demanding it halt nuclear activities."
         }
       ],
       "parentId": null
@@ -4833,7 +4853,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-09-21",
+      "lastSeen": "2026-09-22",
       "active": true,
       "entries": [
         {
@@ -5220,6 +5240,11 @@
           "date": "2026-09-21",
           "edition": "evening",
           "update": "Iran warned it would deploy 'new weapons with new capabilities' if the U.S. launched an assault, as Trump escalated rhetoric against Tehran over the weekend, according to NBC News."
+        },
+        {
+          "date": "2026-09-22",
+          "edition": "evening",
+          "update": "At the UN General Assembly on Tuesday morning in New York City, Trump presented Iran with two options: accepting a deal or facing annihilation, defending his decision to go to war and framing U.S. military actions as 'settling years of unfinished business.' Trump declared he has a 'big decision to make' on Iran and predicted a deal could be reached after November's midterm elections. Secretary of State Rubio stated in a Fox News interview that Trump is open to meeting with the Iranian delegation on the sidelines of the UNGA. U.S. Diplomatic Security is providing additional security support for Iranian Foreign Minister Araghchi at his own request amid threats against him. Oil prices fell for a fifth consecutive session to a two-week low, driven by optimism over potential Iran diplomacy and the expected reopening of a critical Saudi pipeline."
         }
       ]
     },
@@ -5618,7 +5643,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-09-21",
+      "lastSeen": "2026-09-22",
       "active": true,
       "entries": [
         {
@@ -6235,6 +6260,11 @@
           "date": "2026-09-21",
           "edition": "evening",
           "update": "Senior Houthi official Mohamed al-Bukhaiti told the Associated Press that the group has assured the Trump administration it will not target U.S. ships in the Red Sea, following U.S. outreach to the Houthis after they seized several towns and islands along Yemen's western coast."
+        },
+        {
+          "date": "2026-09-22",
+          "edition": "evening",
+          "update": "Tehran signaled openness to talks with the U.S. over the Strait of Hormuz as world leaders gathered at the United Nations, according to Reuters."
         }
       ]
     },
@@ -6935,6 +6965,11 @@
           "date": "2026-09-22",
           "edition": "morning",
           "update": "Houthi forces launched a new offensive targeting southwestern highland areas of Yemen following their earlier seizure of the Red Sea coast and Bab el Mandeb Strait, with a successful advance potentially threatening the internationally recognized government's capital. G7 foreign ministers issued a joint statement condemning Houthi attacks on Saudi Arabia 'in the strongest terms,' demanding Iran cease arming the group and calling on Houthis to halt strikes on maritime shipping. American military leaders are divided over whether Trump should involve the U.S. in the Saudi-Houthi conflict, according to two U.S. officials. Reports confirmed Trump called off strikes against the Houthis at the last minute on Sunday."
+        },
+        {
+          "date": "2026-09-22",
+          "edition": "evening",
+          "update": "Gulf leaders arrived at the UN General Assembly to address pressing regional issues including Iran's influence, Houthi threats, and the future of Gaza amid shifting regional alliances."
         }
       ]
     },
@@ -7244,5 +7279,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-22T11:07:28.574Z"
+  "updatedAt": "2026-09-22T21:10:56.693Z"
 }
