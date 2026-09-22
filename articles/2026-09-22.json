@@ -1249,5 +1249,165 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-22T09:45:05.319Z"
+  },
+  {
+    "title": "How Trump Has Cracked Down on Dissent Since the Killing of Charlie Kirk",
+    "description": "The White House has labeled critics terrorists, attributed violence to a left-wing conspiracy and investigated unions, nonprofits and other groups in a battle over free speech.",
+    "link": "https://www.nytimes.com/2026/09/22/us/charlie-kirk-trump-free-speech.html",
+    "pubDate": "Tue, 22 Sep 2026 09:01:48 +0000",
+    "source": "NY Times",
+    "categories": [
+      "kirk, charlie (1993- )",
+      "trump, donald j",
+      "biden, joseph r jr",
+      "bondi, pamela j",
+      "bright, stephen b",
+      "davis, erik (1967- )",
+      "dees, morris",
+      "good, renee nicole (1988-2026)",
+      "gupta, vanita",
+      "kolvet, andrew",
+      "mclaughlin, tricia (spokeswoman)",
+      "miller, stephen (1985- )",
+      "musk, elon",
+      "patel, kashyap",
+      "pretti, alex jeffrey (1988-2026)",
+      "vance, j d"
+    ],
+    "collectedAt": "2026-09-22T10:00:06.331Z"
+  },
+  {
+    "title": "Will Alexandria Ocasio-Cortez Run for President in 2028? Here’s What She Said.",
+    "description": "In a wide-ranging interview, the New York congresswoman offered her most detailed insight yet into how she is thinking about a possible presidential run.",
+    "link": "https://www.nytimes.com/2026/09/22/us/politics/aoc-2028-presidential-race.html",
+    "pubDate": "Tue, 22 Sep 2026 09:03:21 +0000",
+    "source": "NY Times",
+    "categories": [
+      "ocasio-cortez, alexandria",
+      "presidential election of 2028",
+      "democratic party",
+      "midterm elections (2026)",
+      "united states politics and government",
+      "progressivism (theory and philosophy)",
+      "gender",
+      "egg donation and freezing",
+      "schumer, charles e",
+      "sanders, bernard",
+      "new york state",
+      "elections, senate"
+    ],
+    "collectedAt": "2026-09-22T10:00:06.331Z"
+  },
+  {
+    "title": "Many Democrats Are Avoiding Kamala Harris. Abdul El-Sayed Is Welcoming Her.",
+    "description": "The former vice president wants to help her party in the midterms, but not many are taking her up on the offer. Except for the Senate nominee in Michigan, who will appear with her on Tuesday.",
+    "link": "https://www.nytimes.com/2026/09/22/us/politics/kamala-harris-el-sayed-michigan-midterms.html",
+    "pubDate": "Tue, 22 Sep 2026 09:02:37 +0000",
+    "source": "NY Times",
+    "categories": [
+      "harris, kamala d",
+      "midterm elections (2026)",
+      "presidential election of 2028",
+      "united states politics and government",
+      "democratic party",
+      "el-sayed, abdul",
+      "michigan",
+      "black people",
+      "voting and voters"
+    ],
+    "collectedAt": "2026-09-22T10:00:06.331Z"
+  },
+  {
+    "title": "‘I Was Sold a Bill of Goods’: Americans and the Distrust Election",
+    "description": "Americans have a pervasive sense they are being lied to. That has created an unpredictability in politics unseen since Donald Trump said he could shoot someone on Fifth Avenue without losing voters.",
+    "link": "https://www.nytimes.com/2026/09/22/us/politics/americans-distrust-election.html",
+    "pubDate": "Tue, 22 Sep 2026 09:01:33 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "us and israeli attack on iran (2026)",
+      "midterm elections (2026)",
+      "data centers",
+      "trump, donald j",
+      "shapiro, josh (1973- )"
+    ],
+    "collectedAt": "2026-09-22T10:00:06.331Z"
+  },
+  {
+    "title": "New Hope for Diagnosing C.T.E. in Brain Injured Patients",
+    "description": "Scientists are developing imaging techniques and blood tests that one day may enable doctors to identify the disease definitively in living patients.",
+    "link": "https://www.nytimes.com/2026/09/22/science/cte-diagnosis-brain-injury.html",
+    "pubDate": "Tue, 22 Sep 2026 09:01:36 +0000",
+    "source": "NY Times",
+    "categories": [
+      "brain",
+      "tests (medical)",
+      "research",
+      "alzheimer's disease",
+      "blood"
+    ],
+    "collectedAt": "2026-09-22T10:00:06.331Z"
+  },
+  {
+    "title": "The ‘Kid’ Takes Over: David Ellison Becomes a Hollywood Colossus",
+    "description": "With Paramount and Warner Bros. under his control, Mr. Ellison will be “the Hollywood equivalent of Superman, Caesar and Midas combined.” But challenges remain.",
+    "link": "https://www.nytimes.com/2026/09/22/business/media/david-ellison-hollywood-mega-mogul.html",
+    "pubDate": "Tue, 22 Sep 2026 09:03:36 +0000",
+    "source": "NY Times",
+    "categories": [
+      "movies",
+      "mergers, acquisitions and divestitures",
+      "cable television",
+      "television",
+      "cbs corporation",
+      "cnn",
+      "hbo max",
+      "paramount pictures",
+      "warner bros discovery",
+      "paramount skydance",
+      "ellison, david (1983- )",
+      "ellison, lawrence j"
+    ],
+    "collectedAt": "2026-09-22T10:00:06.331Z"
+  },
+  {
+    "title": "The Big Threat Has Been Climate Change. Now Comes A.I.",
+    "description": "Both are human-caused, both are frightening, and one of them has raced to the forefront of the global conversation.",
+    "link": "https://www.nytimes.com/2026/09/22/climate/climate-change-artificial-intelligence-global-threat.html",
+    "pubDate": "Tue, 22 Sep 2026 09:02:26 +0000",
+    "source": "NY Times",
+    "categories": [
+      "global warming",
+      "artificial intelligence",
+      "greenhouse gas emissions"
+    ],
+    "collectedAt": "2026-09-22T10:00:06.331Z"
+  },
+  {
+    "title": "What to Know About Recent A.I. Hacks",
+    "description": "OpenAI, Google and others recently disclosed breaches by their artificial intelligence models that amplified concerns about the advancing capabilities of the technology.",
+    "link": "https://www.nytimes.com/2026/09/22/technology/ai-hacks-list.html",
+    "pubDate": "Tue, 22 Sep 2026 09:03:32 +0000",
+    "source": "NY Times",
+    "categories": [
+      "artificial intelligence",
+      "cyberattacks and hackers",
+      "anthropic ai llc",
+      "google inc",
+      "hugging face inc",
+      "irregular (ai co)",
+      "meta platforms inc",
+      "openai labs"
+    ],
+    "collectedAt": "2026-09-22T10:00:06.331Z"
+  },
+  {
+    "title": "Latvian PM opposes deal to lift sanctions on Russia-linked billionaires Usmanov and Fridman - Reuters",
+    "description": "Latvian PM opposes deal to lift sanctions on Russia-linked billionaires Usmanov and Fridman  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSG1IejIzR3VCUzFJOWFYYXhFWUN2VWgyVjU4UWlXS0h6eUJjZ1M2UXU0NDA2ekR4OGFxZzE3SUpyTWNoN19PNGs1TFVnOEVmUmU3TUFCR2xoc0RfQVMxTElDR0dkQnZkNWx4RlpiZks2Q1kwc1VFZElsb3lkVVN2cnVoUG52bTZyQkJMemhGZWxHTHJiZmtxV181TElzVU1SMlRrZ3F3S0l4Z1JfM0FOVTM5SmhaUkpObXZnVWl3dw?oc=5",
+    "pubDate": "Tue, 22 Sep 2026 07:23:44 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-22T10:00:06.331Z"
   }
 ]
