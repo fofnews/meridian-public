@@ -659,5 +659,45 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-22T08:00:01.009Z"
+  },
+  {
+    "title": "New book by Princess Diana's brother prompts war of words with King Charles III",
+    "description": "A new book by the late Princess Diana's brother, Charles Spencer, has made headlines with damning allegations about King Charles III. Buckingham Palace responded with a strongly-worded statement.",
+    "link": "https://www.npr.org/2026/09/22/g-s1-144505/princess-diana-brother-book",
+    "pubDate": "Tue, 22 Sep 2026 04:03:27 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-09-22T08:15:01.391Z"
+  },
+  {
+    "title": "Japan Meets With Trump, Hoping to Get His Help on China",
+    "description": "Japan’s prime minister will meet President Trump to discuss China’s economic and security pressure while also seeking to de-escalate tensions with Beijing.",
+    "link": "https://www.nytimes.com/2026/09/21/world/asia/trump-takaichi-japan-china-economy.html",
+    "pubDate": "Tue, 22 Sep 2026 07:58:45 +0000",
+    "source": "NY Times",
+    "categories": [
+      "international relations",
+      "politics and government",
+      "united states international relations",
+      "economic conditions and trends",
+      "communist party of china",
+      "general assembly (un)",
+      "takaichi, sanae",
+      "trump, donald j",
+      "xi jinping",
+      "china",
+      "japan",
+      "united states"
+    ],
+    "collectedAt": "2026-09-22T08:15:01.391Z"
+  },
+  {
+    "title": "Who will - and who won't - be talking to Donald Trump at the UN General Assembly?",
+    "description": "The BBC’s Sarah Smith outlines which world leaders Trump is set to meet and the key topics expected on the agenda.",
+    "link": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 22 Sep 2026 04:05:58 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-22T08:15:01.391Z"
   }
 ]
