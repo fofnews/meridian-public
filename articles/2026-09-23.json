@@ -66,5 +66,25 @@
     "source": "Newsweek",
     "categories": [],
     "collectedAt": "2026-09-23T04:45:01.294Z"
+  },
+  {
+    "title": "US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz",
+    "description": "Tehran ties diplomatic progress to lifting shipping blockades and unfreezing assets during New York negotiations.",
+    "link": "https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz?traffic_source=rss",
+    "pubDate": "Wed, 23 Sep 2026 04:42:15 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-23T05:00:01.045Z"
+  },
+  {
+    "title": "Dodgers shutout of Padres reveals potential (and unexpected) playoff strength",
+    "description": "The Dodgers' bullpen might be an unexpected strength in the playoffs",
+    "link": "https://nypost.com/2026/09/23/sports/dodgers-bullpen-shows-playoff-promise-in-rout-of-padres/",
+    "pubDate": "Wed, 23 Sep 2026 00:56:38 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-23T05:00:01.045Z"
   }
 ]
