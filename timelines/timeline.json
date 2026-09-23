@@ -1406,6 +1406,11 @@
           "date": "2026-09-23",
           "edition": "morning",
           "update": "Zelenskyy warned that the risk of Russian drone, missile, or land attacks against countries bordering Russia is 'very high,' raising concern about potential expansion of the war beyond Ukraine. NATO scrambled jets in Polish and Romanian airspace overnight in response to a new wave of Russian drone and missile strikes. A senior NATO commander warned that Putin is becoming more cavalier and increasingly willing to accept risk. Wheat buyers are preparing for higher costs as the war continues to disrupt global grain supplies."
+        },
+        {
+          "date": "2026-09-23",
+          "edition": "evening",
+          "update": "Zelenskyy met with President Trump on the sidelines of the UN General Assembly, seeking an energy ceasefire and discussing a landmark U.S.-Ukraine drone defense deal, with new details emerging about Ukrainian drone technology being used to help defend U.S. bases in the Middle East. Zelenskyy also defended Ukraine's strikes on Russian oil refineries in a Wall Street Journal interview, stating 'our lives are more important than the price of energy.' Secretary of State Rubio warned at a UNGA press conference that the Russia-Ukraine war could 'metastasize' into other regions through hybrid attacks or miscalculations, raising those concerns directly with his Russian counterpart. Ukraine's army is also seeking to grant frontline commanders greater battlefield authority, according to Reuters."
         }
       ],
       "parentId": null
@@ -2224,7 +2229,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-20",
+      "lastSeen": "2026-09-23",
       "active": true,
       "entries": [
         {
@@ -2786,6 +2791,11 @@
           "date": "2026-09-20",
           "edition": "evening",
           "update": "Israeli settlers stormed the Al-Aqsa Mosque compound during Yom Kippur, drawing fierce condemnation, while Prime Minister Netanyahu and his wife toured tunnels beneath the compound. Israeli forces killed a Palestinian man near Jenin in the occupied West Bank, and an Israeli settler died from wounds sustained in a separate shooting. A Palestinian gunman killed an Israeli in the West Bank, while Israeli soldiers killed a Palestinian motorist in a separate incident in the same area."
+        },
+        {
+          "date": "2026-09-23",
+          "edition": "evening",
+          "update": "Syrian President Ahmed al-Sharaa addressed the UN General Assembly, criticizing Israel for conducting airstrikes against Syria while highlighting his country's progress since his forces took Damascus and ended Assad's rule. In response to questions about Israeli violations in Syria, al-Sharaa quipped that Trump should give New Jersey to Israel instead of the Golan Heights."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3931,6 +3941,11 @@
           "date": "2026-09-23",
           "edition": "morning",
           "update": "During his UN General Assembly address, Trump threatened to 'annihilate' Iran, presenting a binary choice between a peace deal and military destruction and declaring 'To the victor go the spoils.' U.S. officials met directly with the Iranian delegation on the sidelines of the UNGA. Sen. Jon Husted joined Senate candidates Ashley Hinson and Mike Rogers in calling for the war to end 'as quickly as possible,' expanding GOP dissent amid concern over high prices. Iran cancelled flights to Baghdad and Muscat as aviation sanctions took effect, with Iranian aviation officials entering negotiations with Oman and Iraq over the disruptions."
+        },
+        {
+          "date": "2026-09-23",
+          "edition": "evening",
+          "update": "Multiple Republican Senate candidates in competitive races continued to call for an end to the Iran war, with Rep. Tom Tiffany, Wisconsin's Republican gubernatorial nominee, also renewing such calls while facing scrutiny for declining to support a war powers resolution in the House. Secretary of State Rubio stated that Iran has 'misread' the U.S. political system by banking on a Democratic midterm victory to ease pressure. Rising gas prices have emerged as a prominent issue in competitive Senate races ahead of November. A new cost breakdown placed total U.S.-Iran war expenditures at an estimated $43.6 billion, with munitions accounting for $28.1 billion of that total. Iran threatened to disrupt airports in countries that stop or sanction Iranian flights as aviation sanctions took effect."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4873,7 +4888,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-09-22",
+      "lastSeen": "2026-09-23",
       "active": true,
       "entries": [
         {
@@ -5265,6 +5280,11 @@
           "date": "2026-09-22",
           "edition": "evening",
           "update": "At the UN General Assembly on Tuesday morning in New York City, Trump presented Iran with two options: accepting a deal or facing annihilation, defending his decision to go to war and framing U.S. military actions as 'settling years of unfinished business.' Trump declared he has a 'big decision to make' on Iran and predicted a deal could be reached after November's midterm elections. Secretary of State Rubio stated in a Fox News interview that Trump is open to meeting with the Iranian delegation on the sidelines of the UNGA. U.S. Diplomatic Security is providing additional security support for Iranian Foreign Minister Araghchi at his own request amid threats against him. Oil prices fell for a fifth consecutive session to a two-week low, driven by optimism over potential Iran diplomacy and the expected reopening of a critical Saudi pipeline."
+        },
+        {
+          "date": "2026-09-23",
+          "edition": "evening",
+          "update": "Iranian President Masoud Pezeshkian addressed the UN General Assembly on Wednesday, stating Iran would not surrender or abandon its nuclear program and accusing the United States of 'terrorism.' He characterized Iran as a victim of U.S. aggression but left open the possibility of diplomacy. The U.S. delegation walked out during his address. A bipartisan group of senators separately urged Secretary of State Rubio to secure the release of dual Iranian-American journalist Reza Valizadeh, imprisoned in Iran, one day before U.S. and Iranian officials held indirect talks in New York. Analysts assessed a diplomatic breakthrough as unlikely despite the flurry of UNGA activity, citing unresolved core disagreements."
         }
       ]
     },
@@ -6295,6 +6315,11 @@
           "date": "2026-09-23",
           "edition": "morning",
           "update": "French President Macron told ABC News in New York that the strategic importance of the Strait of Hormuz 'was probably underestimated.'"
+        },
+        {
+          "date": "2026-09-23",
+          "edition": "evening",
+          "update": "International Maritime Organization chief Arsenio Dominguez stated there are no legal grounds for countries to charge ships fees for transiting international straits. The UK agreed to refuel Saudi fighter jets while France committed to securing energy infrastructure as part of Western support for Saudi Arabia amid the ongoing Houthi conflict, according to Al Jazeera."
         }
       ]
     },
@@ -6358,13 +6383,18 @@
       "title": "Harvey Weinstein Trials",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-05-15",
-      "active": false,
+      "lastSeen": "2026-09-23",
+      "active": true,
       "entries": [
         {
           "date": "2026-05-15",
           "edition": "evening",
           "update": "A judge declared a mistrial in Harvey Weinstein's third Manhattan sex crimes rape retrial after the jury deadlocked and was unable to reach a verdict. The charges were brought by accuser Jessica Mann."
+        },
+        {
+          "date": "2026-09-23",
+          "edition": "evening",
+          "update": "Harvey Weinstein was sentenced to 15 years in prison on Wednesday in Manhattan for the 2006 sexual assault of former Project Runway production assistant Miriam Haley. The sentence followed a retrial conviction, coming more than six years after his initial conviction."
         }
       ]
     },
@@ -7058,7 +7088,7 @@
       "title": "US Cyberattacks and Infrastructure Security",
       "parentId": null,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-09-21",
+      "lastSeen": "2026-09-23",
       "active": true,
       "entries": [
         {
@@ -7185,6 +7215,11 @@
           "date": "2026-09-21",
           "edition": "morning",
           "update": "A digital traffic display on the 405 Freeway near Persian Square in Westwood, Los Angeles was hacked to show a website linked to threats against enemies of Iran's Islamic regime, alarming Iranian dissidents in the area, according to the New York Post."
+        },
+        {
+          "date": "2026-09-23",
+          "edition": "evening",
+          "update": "The FBI confirmed it is investigating a claim by the hacking group ShinyHunters of a breach of the FBI's jobs portal. ShinyHunters, described as a notorious cyber-extortion group, claims to have stolen thousands of sensitive FBI personnel records. The FBI acknowledged the investigation but did not confirm specific details about the nature or extent of the stolen data, according to reporting by the New York Times and Washington Post."
         }
       ]
     },
@@ -7309,5 +7344,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-23T11:09:16.931Z"
+  "updatedAt": "2026-09-23T21:11:39.184Z"
 }
