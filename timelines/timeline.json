@@ -559,7 +559,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-22",
+      "lastSeen": "2026-09-23",
       "active": true,
       "entries": [
         {
@@ -1401,6 +1401,11 @@
           "date": "2026-09-22",
           "edition": "evening",
           "update": "Russia has coerced thousands of Ukrainian prisoners of war into recording propaganda videos in which they denounce their leaders and country, according to NBC News."
+        },
+        {
+          "date": "2026-09-23",
+          "edition": "morning",
+          "update": "Zelenskyy warned that the risk of Russian drone, missile, or land attacks against countries bordering Russia is 'very high,' raising concern about potential expansion of the war beyond Ukraine. NATO scrambled jets in Polish and Romanian airspace overnight in response to a new wave of Russian drone and missile strikes. A senior NATO commander warned that Putin is becoming more cavalier and increasingly willing to accept risk. Wheat buyers are preparing for higher costs as the war continues to disrupt global grain supplies."
         }
       ],
       "parentId": null
@@ -1579,7 +1584,7 @@
       "id": "iran-protests-and-crackdown",
       "title": "Iran Protests and Crackdown",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-20",
+      "lastSeen": "2026-09-23",
       "active": true,
       "entries": [
         {
@@ -1656,6 +1661,11 @@
           "date": "2026-09-20",
           "edition": "evening",
           "update": "Iranian authorities sealed a French language centre in Tehran, accusing it of engaging in illegal activities, according to Reuters."
+        },
+        {
+          "date": "2026-09-23",
+          "edition": "morning",
+          "update": "Thousands of anti-regime protesters gathered outside UN headquarters in New York City, demanding an end to Iran's execution of political prisoners and the establishment of a free democracy."
         }
       ],
       "parentId": null
@@ -2784,7 +2794,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-22",
+      "lastSeen": "2026-09-23",
       "active": true,
       "entries": [
         {
@@ -3916,6 +3926,11 @@
           "date": "2026-09-22",
           "edition": "evening",
           "update": "UN-commissioned human rights experts stated there are 'reasonable grounds' to believe the U.S. committed war crimes with two strikes on Iran that killed scores of civilians, according to CBS News. The U.S. imposed sweeping new sanctions targeting Iranian airlines, with analysts warning the measures could worsen conditions for millions of Iranians. A CNN/SSRS poll found 64% of Americans believe the U.S. is not winning the war in Iran, with a similar proportion saying Trump is not doing enough to end the conflict. In a military first, the U.S. fired a torpedo from an undersea autonomous drone called Excalibur, according to Newsweek. Trump denied reports that the U.S. is running low on munitions."
+        },
+        {
+          "date": "2026-09-23",
+          "edition": "morning",
+          "update": "During his UN General Assembly address, Trump threatened to 'annihilate' Iran, presenting a binary choice between a peace deal and military destruction and declaring 'To the victor go the spoils.' U.S. officials met directly with the Iranian delegation on the sidelines of the UNGA. Sen. Jon Husted joined Senate candidates Ashley Hinson and Mike Rogers in calling for the war to end 'as quickly as possible,' expanding GOP dissent amid concern over high prices. Iran cancelled flights to Baghdad and Muscat as aviation sanctions took effect, with Iranian aviation officials entering negotiations with Oman and Iraq over the disruptions."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4674,7 +4689,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-09-22",
+      "lastSeen": "2026-09-23",
       "active": true,
       "entries": [
         {
@@ -4801,6 +4816,11 @@
           "date": "2026-09-22",
           "edition": "evening",
           "update": "North Korea's Kim Jong Un praised the test of what is likely a new hypersonic missile, calling it an 'irresistible force' and 'incurable headache' for adversaries, according to CBS News. The launch came days after Pyongyang reasserted its nuclear-armed status and rejected a UN resolution demanding it halt nuclear activities."
+        },
+        {
+          "date": "2026-09-23",
+          "edition": "morning",
+          "update": "Japanese Prime Minister Sanae Takaichi addressed the UN General Assembly appealing for justice for Japanese citizens she says remain held captive by North Korea, while victim families simultaneously made appeals for assistance in Washington, D.C."
         }
       ],
       "parentId": null
@@ -4830,7 +4850,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-22",
+      "lastSeen": "2026-09-23",
       "active": true
     },
     {
@@ -5493,7 +5513,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-09-22",
+      "lastSeen": "2026-09-23",
       "active": true,
       "entries": [
         {
@@ -5635,6 +5655,11 @@
           "date": "2026-09-22",
           "edition": "morning",
           "update": "French President Macron announced he discussed ideas for a Ukraine-Russia energy truce with President Trump, according to Reuters."
+        },
+        {
+          "date": "2026-09-23",
+          "edition": "morning",
+          "update": "Macron declared that the 'coalition of the willing' will not yield in its support for Ukraine. Zelenskyy formally announced Ukraine's readiness to halt strikes on Russian energy facilities if Russia reciprocally stops attacking Ukraine's energy infrastructure."
         }
       ]
     },
@@ -5643,7 +5668,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-09-22",
+      "lastSeen": "2026-09-23",
       "active": true,
       "entries": [
         {
@@ -6265,6 +6290,11 @@
           "date": "2026-09-22",
           "edition": "evening",
           "update": "Tehran signaled openness to talks with the U.S. over the Strait of Hormuz as world leaders gathered at the United Nations, according to Reuters."
+        },
+        {
+          "date": "2026-09-23",
+          "edition": "morning",
+          "update": "French President Macron told ABC News in New York that the strategic importance of the Strait of Hormuz 'was probably underestimated.'"
         }
       ]
     },
@@ -7259,7 +7289,7 @@
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-08-17",
       "lastSeen": "2026-08-24",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-08-17",
@@ -7279,5 +7309,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-22T21:10:56.693Z"
+  "updatedAt": "2026-09-23T11:09:16.931Z"
 }
