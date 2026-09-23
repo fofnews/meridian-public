@@ -14771,5 +14771,55 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-23T01:30:01.511Z"
+  },
+  {
+    "title": "Macron tells ABC News' David Muir: 'Hormuz Strait was probably underestimated'",
+    "description": "French President Emmanuel Macron sat down with ABC's \"World News Tonight\" anchor David Muir in New York City on Tuesday.",
+    "link": "https://abcnews.com/Politics/macron-tells-abcs-david-muir-hormuz-strait-underestimated/story?id=136661829",
+    "pubDate": "Tue, 22 Sep 2026 21:39:40 -0400",
+    "source": "ABC News",
+    "categories": [
+      "politics"
+    ],
+    "collectedAt": "2026-09-23T01:45:01.297Z"
+  },
+  {
+    "title": "Rangers Waive 4 Players Before Season Opener vs. Bruins",
+    "description": "The New York Rangers have placed four players on waivers as they inch closer to the start of their regular season.",
+    "link": "https://www.newsweek.com/sports/rangers-waive-4-players-before-season-opener-vs-bruins-12475849",
+    "pubDate": "Tue, 22 Sep 2026 21:36:45 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-23T01:45:01.297Z"
+  },
+  {
+    "title": "Key moments from Andy Burnham's first UN speech",
+    "description": "In his first speech to the UN as UK prime minister, Burnham highlighted the risks posed by Russian disinformation.",
+    "link": "https://www.bbc.co.uk/news/videos/cq5y4zpn655ko?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 23 Sep 2026 01:25:47 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-23T01:45:01.297Z"
+  },
+  {
+    "title": "‘Big Sister’ warning resurfaces as Massachusetts expands home visits after Clancy trial",
+    "description": "Anne Schlafly says Massachusetts' Welcome Family nurse home visits echo her mother Phyllis Schlafly's 1999 \"Big Sister\" government warnings.",
+    "link": "https://www.foxnews.com/politics/big-sister-warning-resurfaces-massachusetts-expands-home-visits-after-clancy-trial",
+    "pubDate": "Tue, 22 Sep 2026 21:24:14 -0400",
+    "source": "Fox News",
+    "categories": [
+      "18696ea1-dbac-5115-8c62-80ed0773c4eb",
+      "fnc",
+      "fox news",
+      "fox-news/faith-values/family",
+      "fox-news/us/us-regions/northeast/massachusetts",
+      "fox-news/health/healthy-living/childrens-health",
+      "fox-news/entertainment/genres/family",
+      "fox-news/politics",
+      "fox-news/politics/judiciary/state-and-local",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-09-23T01:45:01.297Z"
   }
 ]
