@@ -2883,5 +2883,269 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-24T12:00:01.946Z"
+  },
+  {
+    "title": "Elizabeth Holmes scheduled to move to halfway house in August 2027",
+    "description": "Holmes is scheduled to be placed in the Austin Transitional Center.",
+    "link": "https://abcnews.com/US/elizabeth-holmes-scheduled-move-halfway-house-august-2027/story?id=136698221",
+    "pubDate": "Thu, 24 Sep 2026 06:21:27 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-09-24T12:15:02.170Z"
+  },
+  {
+    "title": "Taylor Swift to debut \"Patient Zero\" music video at Sunday's VMAs",
+    "description": "Taylor Swift announced her new single \"Patient Zero\" earlier this week, saying she has been \"impatiently waiting\" to announce that it will be out on Friday.",
+    "link": "https://www.cbsnews.com/news/taylor-swift-patient-zero-music-video-debut-sunday-vmas/",
+    "pubDate": "Thu, 24 Sep 2026 08:14:17 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-24T12:15:02.170Z"
+  },
+  {
+    "title": "The ‘Monster’ Behind Russia’s Global Effort to Evade Western Sanctions",
+    "description": "A Moscow firm uses shell companies and cryptocurrency to launder money, and a custom app to forge trade records, to help Russia bypass sweeping financial restrictions.",
+    "link": "https://www.nytimes.com/2026/09/24/business/russia-sanctions-evasion-a7.html",
+    "pubDate": "Thu, 24 Sep 2026 09:00:15 +0000",
+    "source": "NY Times",
+    "categories": [
+      "russian invasion of ukraine (2022)",
+      "embargoes and sanctions",
+      "shor, ilan",
+      "a7"
+    ],
+    "collectedAt": "2026-09-24T12:15:02.170Z"
+  },
+  {
+    "title": "Europe Warns of Russia’s Hybrid Attacks but Struggles to Counter Them",
+    "description": "If President Vladimir V. Putin was hoping to get Europeans’ attention, he’s succeeded with a series of close-call incursions. The question now is what they will do about it.",
+    "link": "https://www.nytimes.com/2026/09/24/world/europe/russia-europe-warning-ukraine-war.html",
+    "pubDate": "Thu, 24 Sep 2026 09:02:18 +0000",
+    "source": "NY Times",
+    "categories": [
+      "russian invasion of ukraine (2022)",
+      "international relations",
+      "defense and military forces",
+      "cyberwarfare and defense",
+      "drones (pilotless planes)",
+      "general assembly (un)",
+      "european union",
+      "north atlantic treaty organization",
+      "europe",
+      "kyiv (ukraine)",
+      "moscow (russia)",
+      "great britain"
+    ],
+    "collectedAt": "2026-09-24T12:15:02.170Z"
+  },
+  {
+    "title": "Israel’s Netanyahu takes the U.N. stage facing global isolation and a fight for his political future",
+    "description": "As Israeli Prime Minister Benjamin Netanyahu pleads his country’s case at the United Nations General Assembly, his target audience will likely be Israeli voters.",
+    "link": "https://www.nbcnews.com/world/israel/israel-netanyahu-united-nations-general-assembly-gaza-iran-war-rcna599576",
+    "pubDate": "Thu, 24 Sep 2026 12:03:32 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-09-24T12:15:02.170Z"
+  },
+  {
+    "title": "Elephants use medicinal plants to treat themselves, researchers find",
+    "description": "African elephants use dozens of different medicinal plants to treat themselves and their families when they are sick, research reveals.",
+    "link": "https://www.bbc.co.uk/news/articles/cv1j4yr6j2p0o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 24 Sep 2026 11:42:42 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-24T12:15:02.170Z"
+  },
+  {
+    "title": "Date set for long-awaited Fury v Joshua fight",
+    "description": "Cardiff's Principality Stadium will host Anthony Joshua and Tyson Fury's all-British heavyweight fight on 11 December.",
+    "link": "https://www.bbc.co.uk/sport/boxing/articles/c89n188d53no?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 24 Sep 2026 11:57:33 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-24T12:15:02.170Z"
+  },
+  {
+    "title": "Netanyahu's fleeting visit to New York mirrors strained US ties - Reuters",
+    "description": "Netanyahu's fleeting visit to New York mirrors strained US ties  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU0dMX1dTN0FUMTNHM3B6Yi0zelh2NDZKR2toOTJlYmZlRktKVW91TVV2YlJ2M1E4Qy1BTmlGb2Y4NUJURWstS1J0OEhaRWg0LWt6eHBDV21hYTNfS2F3M3BUNDkzQVAwV3g1WUJxWVZZa0xfRWlUeXptSzNNTUxZenBaMEtYcXYwU1pQck1qT2NZcmw3bTFWVkJhV3lMM2w0SzNaZVMtZWFFdHY4U1o2V1UwWQ?oc=5",
+    "pubDate": "Thu, 24 Sep 2026 11:27:45 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-24T12:15:02.170Z"
+  },
+  {
+    "title": "US Democrats tee up pre-election war powers vote as some Republicans break with Trump on Iran - Reuters",
+    "description": "US Democrats tee up pre-election war powers vote as some Republicans break with Trump on Iran  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMU45a3FvODBzSXpndWg1QUVuQzlqUmVJWjZEWUFXNWltVUx0Sm4zbDE1X3lFSnFYd2hQeGotT1YtejB1NU9lZDJKcnJjeEZqNkJtZkQ0anhFUG92V3pWLXlyQzhIalFwTzRuVnVvd3BGQ2tfYTJ3RUxMRlhlWTdTUFE3MnAzMUxmallxcE9SZU5ldmxJeE1fYnhyT0c5eG9lVXVydVg2TFhnbnFJYUFsOE56U194eTltTnc2bGFR?oc=5",
+    "pubDate": "Thu, 24 Sep 2026 11:06:14 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-24T12:15:02.170Z"
+  },
+  {
+    "title": "Hedge funds sour on basis trade as Treasury selloff continues - Reuters",
+    "description": "Hedge funds sour on basis trade as Treasury selloff continues  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX3JBNU5Xd01SNmh6MUZJdkpYR29fb1ZadV9HX1FaMVZhVVEzREVwTGZKQVVxUHNsSEUtQWF3SlJYWTc1UkxsdXQ2VnFPNk1wRjI1cWR6TWJ6QmplekltYWVBTnBBRm1BcWpFRG95MG45WVJKaHJXWE9SNG80cFZIOHBrWm12U2txZGp2YWpmbkVjMHVwcElUZ0xrVE5fc1JHcm01X3REQ0QwZFdNMUowVQ?oc=5",
+    "pubDate": "Thu, 24 Sep 2026 10:19:36 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-24T12:15:02.170Z"
+  },
+  {
+    "title": "China trade deal extended through January, Bessent says, as Xi arrives for Trump meeting",
+    "description": "Treasury Secretary Scott Bessent said Wednesday that U.S. and Chinese officials agreed to extend their trade truce by two months, after Chinese President Xi Jinping arrived in the U.S. for a summit with President Trump. “We have agreed today that we will extend … the détente, economic détente between the two countries that was scheduled…",
+    "link": "https://thehill.com/business/6108163-scott-bessent-china-trade-deal-extension-donald-trump-xi-jinping-summit/",
+    "pubDate": "\n\t\tThu, 24 Sep 2026 12:01:19 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "business",
+      "international",
+      "news",
+      "policy",
+      "treasury department",
+      "trump administration",
+      "trump-xi summit",
+      "u.s.-china relations",
+      "u.s.-china trade deal"
+    ],
+    "collectedAt": "2026-09-24T12:15:02.170Z"
+  },
+  {
+    "title": "The next phase of AI is here. Pay attention to this profound technological shift.",
+    "description": "Meta’s Muse keeps working after users close the app, pointing to a potential growth opportunity for makers of server processors.",
+    "link": "https://www.marketwatch.com/story/the-next-phase-of-ai-is-here-pay-attention-to-this-profound-technological-shift-219cda30?mod=mw_rss_topstories",
+    "pubDate": "Thu, 24 Sep 2026 12:00:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-09-24T12:15:02.170Z"
+  },
+  {
+    "title": "Caesars Sportsbook Promo Code FOXNEWSDYW: Double Your Winnings When You Bet $1 on Packers-Falcons",
+    "description": "New users who sign up with Caesars Sportsbook and use promo code FOXNEWSDYW before the Atlanta Falcons-Green Bay Packers game have a chance to double winnings when betting $1.",
+    "link": "https://www.foxnews.com/outkick-betting/caesars-sportsbook-promo-code-foxnewsdyw-double-your-winnings-when-you-bet-1-packers-falcons",
+    "pubDate": "Thu, 24 Sep 2026 08:02:21 -0400",
+    "source": "Fox News",
+    "categories": [
+      "4831d927-ce32-50d2-b773-c674f148139a",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/betting",
+      "fox-news/outkick-betting",
+      "article"
+    ],
+    "collectedAt": "2026-09-24T12:15:02.170Z"
+  },
+  {
+    "title": "Trump-Xi summit could hold key to lower gas prices, GOP chairman says",
+    "description": "Rep. Brian Mast says President Donald Trump can press Xi Jinping to stop arming Iran, potentially easing gas prices tied to Strait of Hormuz chaos.",
+    "link": "https://www.foxnews.com/politics/trump-xi-summit-could-hold-key-lower-gas-prices-gop-chairman-says",
+    "pubDate": "Thu, 24 Sep 2026 08:00:38 -0400",
+    "source": "Fox News",
+    "categories": [
+      "13f03bac-43fd-5311-86ac-374e19c0299b",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/person/donald-trump",
+      "fox-news/person/xi-jinping",
+      "fox-news/world/conflicts/iran",
+      "fox-news/politics/defense/wars/war-with-iran",
+      "fox-news/politics/house-of-representatives/foreign-affairs",
+      "fox-news/politics/executive/economic-policy",
+      "fox-news/politics/foreign-policy/geopolitics",
+      "fox-news/politics/house-of-representatives",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-09-24T12:15:02.170Z"
+  },
+  {
+    "title": "DNA from Thomas Jefferson's hair delivers compelling new evidence in centuries-old paternity mystery",
+    "description": "New DNA evidence from Richard Kurin's book \"History by a Hair\" reportedly confirms Thomas Jefferson fathered children with Sally Hemings at Monticello. A historian shared insights.",
+    "link": "https://www.foxnews.com/travel/dna-from-thomas-jeffersons-hair-delivers-compelling-new-evidence-centuries-old-paternity-mystery",
+    "pubDate": "Thu, 24 Sep 2026 08:00:17 -0400",
+    "source": "Fox News",
+    "categories": [
+      "149f7c6e-06c9-5789-b574-ebf7b4bd5845",
+      "fnc",
+      "fox news",
+      "fox-news/science/archaeology",
+      "fox-news/science/archaeology/history",
+      "fox-news/lifestyle",
+      "fox-news/travel",
+      "fox-news/us/us-regions/southeast/virginia",
+      "fox-news/travel/general/museums-exhibits",
+      "fox-news/science",
+      "fox-news/travel",
+      "article"
+    ],
+    "collectedAt": "2026-09-24T12:15:02.170Z"
+  },
+  {
+    "title": "George Clooney rushes to Rande Gerber and Cindy Crawford's side after son Presley's death",
+    "description": "George Clooney arrived at Kaia Gerber's Los Angeles home to support Rande Gerber and Cindy Crawford after Presley Gerber's \"suspected overdose.\"",
+    "link": "https://www.foxnews.com/entertainment/george-clooney-rushes-rande-gerber-cindy-crawford-side-after-son-presleys-death",
+    "pubDate": "Thu, 24 Sep 2026 08:00:15 -0400",
+    "source": "Fox News",
+    "categories": [
+      "ef0fbf38-0504-5573-83be-a0a3c01717c5",
+      "fnc",
+      "fox news",
+      "fox-news/entertainment",
+      "fox-news/entertainment/celebrity-news/george-clooney",
+      "fox-news/person/cindy-crawford",
+      "fox-news/entertainment/events/babies",
+      "fox-news/entertainment/events/obituary",
+      "fox-news/entertainment",
+      "article"
+    ],
+    "collectedAt": "2026-09-24T12:15:02.170Z"
+  },
+  {
+    "title": "NEW FanDuel Promo Code Unlocks $250 in Bonuses for Packers-Falcons Ahead of Thursday Night Football",
+    "description": "Before the Atlanta Falcons take on the Green Bay Packers, new FanDuel Sportsbook users can unlock $250 in bonuses before the Thursday night game begins.",
+    "link": "https://www.foxnews.com/outkick-betting/new-fanduel-promo-code-unlocks-250-bonuses-packers-falcons-ahead-thursday-night-football",
+    "pubDate": "Thu, 24 Sep 2026 07:55:44 -0400",
+    "source": "Fox News",
+    "categories": [
+      "6255df0e-84c6-58ee-86d8-9d97de807100",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/betting",
+      "fox-news/outkick-betting",
+      "article"
+    ],
+    "collectedAt": "2026-09-24T12:15:02.170Z"
+  },
+  {
+    "title": "Delusional Hasan Piker compares himself to Rush Limbaugh — as he blames ‘hysterical’ Jews for legitimizing antisemitism",
+    "description": "Controversial far-left streamer Hasan Piker blamed “hysterical” pro-Israel Jews for legitimizing the scourge of antisemitism — as he described himself as “Rush Limbaugh for Zoomers.” The New Jersey-born influencer, 35, who is due to attend a protest against Israeli Prime Minister Benjamin Netanyahu in New York on Thursday, branded Jewish people “ridiculous” and “hysterical” for...",
+    "link": "https://nypost.com/2026/09/24/us-news/hasan-piker-compares-himself-to-rush-limbaugh-as-he-blames-hysterical-jews-for-legitimizing-antisemitism/",
+    "pubDate": "Thu, 24 Sep 2026 08:10:33 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-24T12:15:02.170Z"
+  },
+  {
+    "title": "Taylor Swift taps 2 A-listers for ‘Patient Zero’ music video as she gives epic first look",
+    "description": "Swift's latest single -- plus \"The Life of a Showgirl: The Encore\" -- is out Friday.",
+    "link": "https://pagesix.com/2026/09/24/entertainment/taylor-swift-2-two-a-listers-for-patient-zero-music-video-as-she-gives-epic-first-look/",
+    "pubDate": "Thu, 24 Sep 2026 08:06:16 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-24T12:15:02.170Z"
+  },
+  {
+    "title": "bet365 bonus code: Bet $10, get $200 in bonus bets for Packers vs. Falcons",
+    "description": "Bet $10, get $200 in bonus bets win or lose with the bet365 bonus code for Packers vs. Falcons.",
+    "link": "https://nypost.com/2026/09/24/betting/bet365-bonus-code-bet-10-get-200-in-bonus-bets-for-packers-vs-falcons/",
+    "pubDate": "Thu, 24 Sep 2026 08:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-24T12:15:02.170Z"
   }
 ]
