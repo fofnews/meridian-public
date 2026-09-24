@@ -3503,5 +3503,299 @@
       "senate"
     ],
     "collectedAt": "2026-09-24T13:00:02.774Z"
+  },
+  {
+    "title": "Millions brace for nor'easter: Latest forecast",
+    "description": "Millions are on alert for a powerful nor'easter set to bring rain and wind to the Northeast this weekend.",
+    "link": "https://abcnews.com/US/noreaster-heading-east-coast-weekend-latest-forecast/story?id=136646213",
+    "pubDate": "Thu, 24 Sep 2026 09:07:03 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-09-24T13:15:02.754Z"
+  },
+  {
+    "title": "Hiker falls over 800 feet to his death after another found dead on same mountain",
+    "description": "A hiker fell between 800 and 1,000 feet to his death over the weekend, after going over the side of a switchback trail on Washington state's Sauk Mountain.",
+    "link": "https://www.cbsnews.com/news/man-dies-washington-state-sauk-mountain/",
+    "pubDate": "Thu, 24 Sep 2026 09:03:44 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-24T13:15:02.754Z"
+  },
+  {
+    "title": "Judge blocks White House ban on CNN, MS NOW and Politico temporarily",
+    "description": "A federal judge has temporarily blocked the Trump administration's ban barring CNN, MS NOW, and Politico from accessing the White House. CBS News' Katrina Kaufman reports.",
+    "link": "https://www.cbsnews.com/video/judge-blocks-white-house-ban-on-cnn-ms-now-and-politico-for-now/",
+    "pubDate": "Thu, 24 Sep 2026 08:58:50 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-24T13:15:02.754Z"
+  },
+  {
+    "title": "Google Is Sending an A.I. Data Center to Outer Space",
+    "description": "Next Thursday, Google is sending an experimental satellite into orbit that will have enough computing power to answer simple A.I. queries from space.",
+    "link": "https://www.nytimes.com/2026/09/24/technology/google-suncatcher-ai-data-center-space.html",
+    "pubDate": "Thu, 24 Sep 2026 13:00:18 +0000",
+    "source": "NY Times",
+    "categories": [
+      "artificial intelligence",
+      "satellites",
+      "computer chips",
+      "data centers",
+      "radiation",
+      "innovation",
+      "solar energy",
+      "space and astronomy",
+      "computers and the internet",
+      "google inc",
+      "space exploration technologies corp",
+      "brin, sergey",
+      "manyika, james",
+      "pichai, sundar"
+    ],
+    "collectedAt": "2026-09-24T13:15:02.754Z"
+  },
+  {
+    "title": "Can Tech Companies Like Google Really Put Data Centers in Space?",
+    "description": "Google is preparing to launch a satellite that can run its A.I. technologies from the heavens. But this is just a first step.",
+    "link": "https://www.nytimes.com/2026/09/24/technology/data-centers-in-space-science.html",
+    "pubDate": "Thu, 24 Sep 2026 13:00:08 +0000",
+    "source": "NY Times",
+    "categories": [
+      "satellites",
+      "artificial intelligence",
+      "data centers",
+      "sun"
+    ],
+    "collectedAt": "2026-09-24T13:15:02.754Z"
+  },
+  {
+    "title": "Mark Zuckerberg rejects calls for industrywide AI slowdown",
+    "description": "In an interview with NBC News chief tech analyst Joanna Stern, the Meta founder and CEO said he doesn’t think AI companies need to work together on a slowdown.",
+    "link": "https://www.nbcnews.com/tech/tech-news/mark-zuckerberg-interview-ai-slowdown-meta-muse-openai-chatgpt-rcna599279",
+    "pubDate": "Thu, 24 Sep 2026 13:00:00 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-09-24T13:15:02.754Z"
+  },
+  {
+    "title": "Scientists Find New Alzheimer’s Clue in Spinal Fluid—What it Could Mean",
+    "description": "Researchers hope the findings of new research could be used to develop treatments in the future.",
+    "link": "https://www.newsweek.com/scientists-find-alzheimers-clue-spinal-fluid-what-it-could-mean-12482644",
+    "pubDate": "Thu, 24 Sep 2026 09:11:33 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-24T13:15:02.754Z"
+  },
+  {
+    "title": "Digital Advertising Has a Data Problem for Small Businesses | Opinion",
+    "description": "The modern advertising ecosystem optimizes for scale, not necessarily for smaller businesses, argues Eslam Essam.",
+    "link": "https://www.newsweek.com/digital-advertising-data-small-businesses-opinion-12481879",
+    "pubDate": "Thu, 24 Sep 2026 09:08:42 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-24T13:15:02.754Z"
+  },
+  {
+    "title": "Maine Poll Gives Susan Collins Clear Lead Over Troy Jackson For First Time",
+    "description": "Susan Collins leads Troy Jackson 49 percent to 46 percent in an independent poll, though Maine’s Senate race remains tight.",
+    "link": "https://www.newsweek.com/susan-collins-troy-jackson-maine-senate-race-poll-12482806",
+    "pubDate": "Thu, 24 Sep 2026 08:59:39 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-24T13:15:02.754Z"
+  },
+  {
+    "title": "White House pushes for speedy review of voter rolls in hunt for noncitizen voters - Reuters",
+    "description": "White House pushes for speedy review of voter rolls in hunt for noncitizen voters  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVUZVZDRfckxidnZHVjNzUGVrcm51WmZRWFg3S0tWSlBNQ0pQNDhpbzd3eWdkRTF5Tkt2TTZPdFJ4TFYtTHVGYjFPV3hxV01QTEJ4VHhOWW9PaXN3SXhOcFVfMklKQWlDSXJaR0R1ekI0eVk5TzdTTUFfZXpqeGVEZllpMlJ3OGhOQXhQMVgxTkdrcnpSYy1hSjJDOUF2UW1zZTY3eDRka2VzQnVwRm4xMjJRVndGS08yZkpoOA?oc=5",
+    "pubDate": "Thu, 24 Sep 2026 12:53:43 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-24T13:15:02.754Z"
+  },
+  {
+    "title": "Qualcomm, Apple extend licensing agreement for chips - Reuters",
+    "description": "Qualcomm, Apple extend licensing agreement for chips  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUFWMEMwcmhuYVJuR005cG5sLU05RFd6bFFyY0p3Tk01NnZBMVhDZW85LVJFQ0k1R2RCZGU4d29PWHdJZjZaUTFKclM1eHZlU3F6aHJ4Szc4NkFqM2NIdFNhdzNVQjV3QUJael9ZQVNrSnA5cVc4Vk5FSkdrSndEYUVWUW11Ti15cXUwQ0ZyNHU5bXRqaF9ZQ2VR?oc=5",
+    "pubDate": "Thu, 24 Sep 2026 11:44:56 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-24T13:15:02.754Z"
+  },
+  {
+    "title": "Watch live: Netanyahu to address UN amis US-Israel war in Iran",
+    "description": "Israeli Prime Minister Benjamin Netanyahu is among the notable leaders set to address the United Nations General Assembly (UNGA) on Thursday, with the U.S.-Israel war in Iran and fighting in Gaza set to loom large over his remarks. Netanyahu hits the stage a day after Iranian President Masoud Pezeshkian pushed back against President Trump’s threats…",
+    "link": "https://thehill.com/video-clips/6108255-watch-live-benjamin-netanyahu-israel-us-iran-gaza-unga/",
+    "pubDate": "\n\t\tThu, 24 Sep 2026 13:09:03 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "international",
+      "news",
+      "policy",
+      "video"
+    ],
+    "collectedAt": "2026-09-24T13:15:02.754Z"
+  },
+  {
+    "title": "Oracle’s stock is falling as investors fear a data-center setback",
+    "description": "A recent report noted that Oracle is looking to protect itself from paying some expenses if a high-profile data-center project gets delayed.",
+    "link": "https://www.marketwatch.com/story/oracles-stock-is-falling-as-investors-fear-a-data-center-setback-d8105ef9?mod=mw_rss_topstories",
+    "pubDate": "Thu, 24 Sep 2026 13:02:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-09-24T13:15:02.754Z"
+  },
+  {
+    "title": "My wife wants to buy her late mother’s home, but her siblings won’t let her. Should I get involved?",
+    "description": "“Having just lost a parent and having no backing from the siblings, my wife did not feel she should contest the decision.”",
+    "link": "https://www.marketwatch.com/story/my-wife-wants-to-buy-her-late-mothers-home-but-her-siblings-wont-let-her-should-i-get-involved-1146fbb2?mod=mw_rss_topstories",
+    "pubDate": "Thu, 24 Sep 2026 13:01:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-09-24T13:15:02.754Z"
+  },
+  {
+    "title": "Three reasons to stick with stocks despite rising yields, according to Barclays",
+    "description": "Strategists at the bank recommend exposure to U.S. technology, media, telecommunications and industrial stocks.",
+    "link": "https://www.marketwatch.com/story/three-reasons-to-stick-with-stocks-despite-rising-yields-according-to-barclays-9b8ea2c3?mod=mw_rss_topstories",
+    "pubDate": "Thu, 24 Sep 2026 12:58:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-09-24T13:15:02.754Z"
+  },
+  {
+    "title": "'She-Hulk' star slams Tom Selleck, Michael Jordan as 'cowardly' for avoiding political talk",
+    "description": "Actress Tatiana Maslany called Tom Selleck and Michael Jordan \"cowardly\" for not using their celebrity platforms to speak out on political issues today.",
+    "link": "https://www.foxnews.com/media/she-hulk-star-slams-tom-selleck-michael-jordan-cowardly-avoiding-political-talk",
+    "pubDate": "Thu, 24 Sep 2026 09:00:58 -0400",
+    "source": "Fox News",
+    "categories": [
+      "bdcc57a8-0556-5265-b751-764b456ae49e",
+      "fnc",
+      "fox news",
+      "fox-news/media",
+      "fox-news/culture-trends",
+      "fox-news/entertainment",
+      "fox-news/media",
+      "article"
+    ],
+    "collectedAt": "2026-09-24T13:15:02.754Z"
+  },
+  {
+    "title": "‘Rocky IV’ star Dolph Lundgren says he planned his own funeral during brutal cancer battle",
+    "description": "Dolph Lundgren reveals in his new memoir \"Fights Worth Fighting\" that he planned his own funeral during his nearly decade-long cancer battle.",
+    "link": "https://www.foxnews.com/entertainment/rocky-iv-star-dolph-lundgren-planned-own-funeral-brutal-cancer-battle",
+    "pubDate": "Thu, 24 Sep 2026 09:00:54 -0400",
+    "source": "Fox News",
+    "categories": [
+      "4adc3cda-bc1b-5e7c-8cbf-85b7abd03c2e",
+      "fnc",
+      "fox news",
+      "fox-news/entertainment/events/illness",
+      "fox-news/person/sylvester-stallone",
+      "fox-news/entertainment/genres/books",
+      "fox-news/entertainment",
+      "fox-news/entertainment",
+      "article"
+    ],
+    "collectedAt": "2026-09-24T13:15:02.754Z"
+  },
+  {
+    "title": "Trump administration uncovers $1.2B in suspected COVID contract fraud tied to Biden-era spending",
+    "description": "The General Services Administration uncovered $1.22 billion in suspected fraud across five HHS COVID-era contracts that outlasted the pandemic.",
+    "link": "https://www.foxnews.com/politics/trump-administration-uncovers-1-2b-suspected-covid-contract-fraud-tied-biden-era-spending",
+    "pubDate": "Thu, 24 Sep 2026 09:00:06 -0400",
+    "source": "Fox News",
+    "categories": [
+      "6d743b18-efae-58fd-9117-0f8269f565ab",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/news-events/fox-news-investigates",
+      "fox-news/politics/finance/investigations",
+      "fox-news/politics/executive/white-house",
+      "fox-news/tech/topics/fbi",
+      "fox-news/politics/executive/national-security",
+      "fox-news/politics/biden-executive-orders",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-09-24T13:15:02.754Z"
+  },
+  {
+    "title": "Texas triple murderer uses last words before execution to send message to death row inmates",
+    "description": "Ker'Sean Ramey received lethal injection at Huntsville prison, one week after accomplice LeJames Norman was executed for the same triple killing.",
+    "link": "https://www.foxnews.com/us/texas-triple-murderer-uses-last-words-execution-send-message-death-row-inmates",
+    "pubDate": "Thu, 24 Sep 2026 08:55:45 -0400",
+    "source": "Fox News",
+    "categories": [
+      "ce27daf0-d254-5afd-b010-59b77d267c6a",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/southwest/texas",
+      "fox-news/us",
+      "fox-news/us/crime/homicide",
+      "fox-news/crime",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-09-24T13:15:02.754Z"
+  },
+  {
+    "title": "First-ever Hanukkah Barbie sparks both outrage and excitement with ‘beautiful’ big nose: ‘She deserved better’",
+    "description": "Hanukkah Barbie has olive-toned skin, a mane of babka-colored brown hair and eyes, and a schnoz that's noticeably more pronounced than the noses on her Christmas cousins.",
+    "link": "https://nypost.com/2026/09/24/lifestyle/hanukkah-barbie-sparks-outrage-excitement-with-hooked-nose/",
+    "pubDate": "Thu, 24 Sep 2026 09:13:22 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-24T13:15:02.754Z"
+  },
+  {
+    "title": "Sen. Tommy Tuberville claims ‘many’ airline pilots, air traffic controllers are ‘part of the furry community’",
+    "description": "Fly the furry skies.",
+    "link": "https://nypost.com/2026/09/24/us-news/sen-tommy-tuberville-claims-many-airline-pilots-air-traffic-controllers-part-of-the-furry-community/",
+    "pubDate": "Thu, 24 Sep 2026 09:01:34 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-24T13:15:02.754Z"
+  },
+  {
+    "title": "‘Choosin’ Texas’ singer Ella Langley’s country music boyfriend revealed: report",
+    "description": "Langley and her alleged new boyfriend were seen leaving the Nashville Songwriter Awards together earlier this week.",
+    "link": "https://pagesix.com/2026/09/24/celebrity-news/ella-langley-is-dating-fellow-country-music-singer-tucker-wetmore/",
+    "pubDate": "Thu, 24 Sep 2026 09:00:04 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-24T13:15:02.754Z"
+  },
+  {
+    "title": "Attraction with deadly past arrives in San Francisco — and it’s totally free",
+    "description": "The visit is part of a 92-day training cruise and locals can climb aboard for free.",
+    "link": "https://nypost.com/2026/09/24/lifestyle/famed-ship-with-deadly-past-docks-in-san-francisco-and-it-is-free/",
+    "pubDate": "Thu, 24 Sep 2026 09:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-24T13:15:02.754Z"
+  },
+  {
+    "title": "Bre Tiesi reveals Nick Cannon’s reaction to her joining ‘Special Forces’",
+    "description": "The 'Selling Sunset' star spoke exclusively to \"Virtual Reali-Tea\" about her decision to join the Fox competition series.",
+    "link": "https://pagesix.com/2026/09/24/entertainment/bre-tiesi-reveals-nick-cannons-reaction-to-her-joining-special-forces/",
+    "pubDate": "Thu, 24 Sep 2026 09:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-24T13:15:02.754Z"
+  },
+  {
+    "title": "Kalshi promo code NYPMAX: Trade $25, get $25 for ‘Thursday Night Football’",
+    "description": "Readers of The Post can use the Kalshi promo code NYPMAX to trade $25 and receive a $25 bonus on \"Thursday Night Football.\"",
+    "link": "https://nypost.com/2026/09/24/betting/kalshi-promo-code-nypmax-trade-25-get-25-for-thursday-night-football-3/",
+    "pubDate": "Thu, 24 Sep 2026 09:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-24T13:15:02.754Z"
   }
 ]
