@@ -871,5 +871,62 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-24T08:15:01.518Z"
+  },
+  {
+    "title": "U.S. and China Agree to Extend Trade Truce by 2 Months, Bessent Says",
+    "description": "The Treasury secretary, who is leading talks with China, said the countries had agreed to extend a trade truce until January.",
+    "link": "https://www.nytimes.com/2026/09/23/us/politics/china-trade-truce-tariffs.html",
+    "pubDate": "Thu, 24 Sep 2026 08:25:36 +0000",
+    "source": "NY Times",
+    "categories": [
+      "international trade and world market",
+      "united states international relations",
+      "bessent, scott",
+      "he lifeng (1955- )",
+      "china"
+    ],
+    "collectedAt": "2026-09-24T08:30:06.947Z"
+  },
+  {
+    "title": "Who Was Dr. Mathew Betkouski? Man Linked to Unsolved 1982 Tylenol Murders",
+    "description": "\"The identity of the Tylenol killer from 1982 can be shared,” forensic psychiatrist Dr. Park Dietz told reporters.",
+    "link": "https://www.newsweek.com/who-mathew-betkouski-chemist-1982-tylenol-murders-suspect-poisonings-lewis-12481409",
+    "pubDate": "Thu, 24 Sep 2026 04:17:19 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-24T08:30:06.947Z"
+  },
+  {
+    "title": "China vs US: Who is winning the AI race, in four charts",
+    "description": "The US dominates AI spending and computing power, but China is ahead in research and closing the gap on advanced models.",
+    "link": "https://www.aljazeera.com/news/2026/9/24/china-vs-us-who-is-winning-the-ai-race-in-four-charts?traffic_source=rss",
+    "pubDate": "Thu, 24 Sep 2026 07:53:18 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-24T08:30:06.947Z"
+  },
+  {
+    "title": "UN funding cuts hit refugees at Cox’s Bazar settlement",
+    "description": "Refugees living in Cox’s Bazar in Bangladesh are feeling the brunt of severe UN funding cuts.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/un-funding-cuts-hit-refugees-at-coxs-bazar-settlement?traffic_source=rss",
+    "pubDate": "Thu, 24 Sep 2026 07:52:18 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-09-24T08:30:06.947Z"
+  },
+  {
+    "title": "Monarchy-aligned PAM leads in Morocco election provisional results",
+    "description": "Authenticity and Modernity Party (PAM) took 97 out of 395 seats in parliament, as turnout falls to 38 percent.",
+    "link": "https://www.aljazeera.com/news/2026/9/24/monarchy-aligned-pam-leads-in-morocco-election-provisional-results?traffic_source=rss",
+    "pubDate": "Thu, 24 Sep 2026 07:41:35 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-24T08:30:06.947Z"
   }
 ]
