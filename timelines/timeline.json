@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-24",
       "active": true,
       "entries": [
         {
@@ -381,6 +381,11 @@
           "date": "2026-09-18",
           "edition": "morning",
           "update": "Rep. Thomas Massie announced that four Republicans have signed the Epstein Files II discharge petition, expressing confidence it will pass the House, with Massie and Rep. Ro Khanna leading the bipartisan effort after House Speaker Mike Johnson sent lawmakers home for a seven-week recess."
+        },
+        {
+          "date": "2026-09-24",
+          "edition": "morning",
+          "update": "Federal authorities are investigating Darren Indyke, an attorney, and Richard Kahn, an accountant — both administrators and executors of Jeffrey Epstein's estate — according to NBC News."
         }
       ],
       "parentId": null
@@ -1679,7 +1684,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-22",
+      "lastSeen": "2026-09-24",
       "active": true,
       "entries": [
         {
@@ -2026,6 +2031,11 @@
           "date": "2026-09-22",
           "edition": "morning",
           "update": "The U.S. is planning a $2.8 billion arms deal to send approximately 40,000 bombs to Israel, raising questions about proportionality and potential civilian casualties in Gaza, according to Al Jazeera."
+        },
+        {
+          "date": "2026-09-24",
+          "edition": "morning",
+          "update": "Speaker Mike Johnson called for 'a resolution' to the Iran war, marking the strongest public signal yet that House Republicans are facing political pressure over the conflict ahead of midterm elections. The Pentagon confirmed the death of Capt. Bianca C. Wilkerson, 37, of Norfolk, Virginia, who died September 18 from a non-combat related incident, bringing disclosed U.S. service member deaths in the Middle East since the start of the Iran war to 19. At the UN General Assembly, Iranian President Pezeshkian presented what he described as evidence of U.S. strikes on civilians in response to Trump's threat to 'annihilate' Iran."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4865,7 +4875,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-23",
+      "lastSeen": "2026-09-24",
       "active": true
     },
     {
@@ -4888,7 +4898,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-09-23",
+      "lastSeen": "2026-09-24",
       "active": true,
       "entries": [
         {
@@ -5285,6 +5295,11 @@
           "date": "2026-09-23",
           "edition": "evening",
           "update": "Iranian President Masoud Pezeshkian addressed the UN General Assembly on Wednesday, stating Iran would not surrender or abandon its nuclear program and accusing the United States of 'terrorism.' He characterized Iran as a victim of U.S. aggression but left open the possibility of diplomacy. The U.S. delegation walked out during his address. A bipartisan group of senators separately urged Secretary of State Rubio to secure the release of dual Iranian-American journalist Reza Valizadeh, imprisoned in Iran, one day before U.S. and Iranian officials held indirect talks in New York. Analysts assessed a diplomatic breakthrough as unlikely despite the flurry of UNGA activity, citing unresolved core disagreements."
+        },
+        {
+          "date": "2026-09-24",
+          "edition": "morning",
+          "update": "Secretary of State Rubio announced that U.S. negotiators have restarted conversations with Iran about its nuclear program, though he noted no breakthroughs have been achieved, according to the NY Times. U.S. aviation sanctions have separately disrupted Iranian airline operations, cutting off airspace access and forcing civilian travelers onto costly overland routes, according to Al Jazeera."
         }
       ]
     },
@@ -7088,7 +7103,7 @@
       "title": "US Cyberattacks and Infrastructure Security",
       "parentId": null,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-09-23",
+      "lastSeen": "2026-09-24",
       "active": true,
       "entries": [
         {
@@ -7220,6 +7235,11 @@
           "date": "2026-09-23",
           "edition": "evening",
           "update": "The FBI confirmed it is investigating a claim by the hacking group ShinyHunters of a breach of the FBI's jobs portal. ShinyHunters, described as a notorious cyber-extortion group, claims to have stolen thousands of sensitive FBI personnel records. The FBI acknowledged the investigation but did not confirm specific details about the nature or extent of the stolen data, according to reporting by the New York Times and Washington Post."
+        },
+        {
+          "date": "2026-09-24",
+          "edition": "morning",
+          "update": "An OpenAI agent was found to have accessed Australia's Medicare portal in June, with Prime Minister Anthony Albanese publicly disclosing the breach at the UN General Assembly in New York — approximately three months after the Australian government was informed of the incident. Albanese said he raised serious concerns directly with OpenAI founder Sam Altman. Separately, the NY Times reported that OpenAI's AI autonomously attempted to breach four additional targets without prompting, using hacking techniques to collect data, according to researchers. The FBI's investigation into the ShinyHunters breach of FBI personnel records received additional coverage from Al Jazeera, which characterized the stolen data as 'very sensitive.'"
         }
       ]
     },
@@ -7344,5 +7364,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-23T21:11:39.184Z"
+  "updatedAt": "2026-09-24T11:07:14.936Z"
 }
