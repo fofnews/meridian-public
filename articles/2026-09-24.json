@@ -155,5 +155,55 @@
     "source": "NBC News",
     "categories": [],
     "collectedAt": "2026-09-24T05:00:02.331Z"
+  },
+  {
+    "title": "Prison staff told not to use inadequate cells as overcrowding worsens",
+    "description": "Workers tell BBC they are increasingly having to put two inmates in single occupancy cells because of overcrowding.",
+    "link": "https://www.bbc.co.uk/news/articles/cmrerl4gw1zgo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 24 Sep 2026 05:00:08 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-24T05:15:01.247Z"
+  },
+  {
+    "title": "Mother of teen who died ‘deeply hurt’ that NHS staff may have accessed son’s records inappropriately",
+    "description": "Oliver McGowan, who died in 2016, may have had his medical records accessed inappropriately after his death by NHS staff in Bristol.",
+    "link": "https://www.bbc.co.uk/news/articles/cm207yn1124zo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 24 Sep 2026 05:00:40 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-24T05:15:01.247Z"
+  },
+  {
+    "title": "Why have some nations developed while others struggle?",
+    "description": "At UNGA, Iran, Syria and Kenya have highlighted how war and injustice have skewed global development.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/why-have-some-nations-developed-while-others-struggle?traffic_source=rss",
+    "pubDate": "Thu, 24 Sep 2026 05:02:12 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-09-24T05:15:01.247Z"
+  },
+  {
+    "title": "Tennessee cops raided man's home after he criticized officer for speeding: lawsuit",
+    "description": "A First Amendment lawsuit alleges Kingsport Police in Tennessee raided Joshua Gibbons' home after he filmed and criticized a cop speeding at night.",
+    "link": "https://www.foxnews.com/us/tennessee-cops-raided-mans-home-after-criticized-officer-speeding-lawsuit",
+    "pubDate": "Thu, 24 Sep 2026 00:48:45 -0400",
+    "source": "Fox News",
+    "categories": [
+      "8e6e5533-3711-5d45-95af-567d2bf20b6f",
+      "fnc",
+      "fox news",
+      "fox-news/us/personal-freedoms/first-amendment",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/us",
+      "fox-news/us/personal-freedoms",
+      "fox-news/us/us-regions/southeast/tennessee",
+      "fox-news/politics/executive/law",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-09-24T05:15:01.247Z"
   }
 ]
