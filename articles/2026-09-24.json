@@ -1400,5 +1400,456 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-09-24T10:00:01.319Z"
+  },
+  {
+    "title": "Trump to host China's Xi at White House with AI and tariffs on the agenda",
+    "description": "President Trump will host Chinese President Xi Jinping for meetings and a state dinner on Thursday, as the world's two most powerful countries try to extend a tariff truce and grapple with a rivalry on advanced AI.",
+    "link": "https://www.cbsnews.com/live-updates/trump-china-xi-jinping-state-visit-dinner-tariffs-ai/",
+    "pubDate": "Thu, 24 Sep 2026 06:05:57 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-24T10:15:02.646Z"
+  },
+  {
+    "title": "Judge Blocks Trump’s Ban on Reporters, and How A.I. Is Driving Up Health Care Costs",
+    "description": "Plus, the undamming of U.S. rivers.",
+    "link": "https://www.nytimes.com/2026/09/24/podcasts/the-headlines/trump-ban-press-ai-health-care-costs.html",
+    "pubDate": "Thu, 24 Sep 2026 10:00:56 +0000",
+    "source": "NY Times",
+    "categories": [
+      "artificial intelligence",
+      "medicine and health",
+      "united states politics and government",
+      "diet and nutrition",
+      "health insurance and managed care",
+      "cnn",
+      "ms now",
+      "openai labs",
+      "politico, the",
+      "kennedy, robert f jr",
+      "klamath river"
+    ],
+    "collectedAt": "2026-09-24T10:15:02.646Z"
+  },
+  {
+    "title": "‘Survival Mode Time’: Republicans Accelerate Their Break With Trump",
+    "description": "The dissent reflects growing unease about the party’s prospects in November, as the G.O.P. struggles to overcome the president’s unpopularity.",
+    "link": "https://www.nytimes.com/2026/09/24/us/politics/trump-republicans-midterms-break.html",
+    "pubDate": "Thu, 24 Sep 2026 09:02:54 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "us and israeli attack on iran (2026)",
+      "midterm elections (2026)",
+      "war powers act (1973)",
+      "political advertising",
+      "elections, senate",
+      "elections, house of representatives",
+      "two thousand twenty six",
+      "democratic party",
+      "republican party",
+      "trump, donald j",
+      "donalds, byron (1978- )",
+      "cassidy, bill (1957- )",
+      "grassley, charles e",
+      "hinson, ashley (1983- )",
+      "jeffries, hakeem",
+      "michigan",
+      "iowa"
+    ],
+    "collectedAt": "2026-09-24T10:15:02.646Z"
+  },
+  {
+    "title": "Beleaguered at Home, a Bellicose Netanyahu Heads to the U.N.",
+    "description": "Prime Minister Benjamin Netanyahu of Israel will take to the world stage while fighting for his political future in a critical national election.",
+    "link": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-unga-israel-election.html",
+    "pubDate": "Thu, 24 Sep 2026 08:46:49 +0000",
+    "source": "NY Times",
+    "categories": [
+      "netanyahu, benjamin",
+      "general assembly (un)",
+      "elections",
+      "eisenkot, gadi",
+      "israel-gaza war (2023- )",
+      "likud party (israel)",
+      "israeli settlements",
+      "israel"
+    ],
+    "collectedAt": "2026-09-24T10:15:02.646Z"
+  },
+  {
+    "title": "When U.N. Protesters Denounce Netanyahu, Mamdani Won’t Be Among Them",
+    "description": "Mayor Zohran Mamdani of New York continues to call the Israeli prime minister a war criminal. But Mr. Mamdani won’t join demonstrations against the prime minister on Thursday.",
+    "link": "https://www.nytimes.com/2026/09/24/nyregion/mamdani-netanyahu-un-general-assembly.html",
+    "pubDate": "Thu, 24 Sep 2026 08:15:36 +0000",
+    "source": "NY Times",
+    "categories": [
+      "live-detached",
+      "israel-gaza war (2023- )",
+      "war crimes, genocide and crimes against humanity",
+      "video recordings, downloads and streaming",
+      "jews and judaism",
+      "demonstrations, protests and riots",
+      "anti-semitism",
+      "palestinians",
+      "general assembly (un)",
+      "mamdani, zohran",
+      "netanyahu, benjamin",
+      "new york city",
+      "gaza strip",
+      "israel"
+    ],
+    "collectedAt": "2026-09-24T10:15:02.646Z"
+  },
+  {
+    "title": "Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher",
+    "description": "The use of artificial intelligence by hospitals and health insurers is escalating their longstanding feud over paying for medical care.",
+    "link": "https://www.nytimes.com/2026/09/24/business/ai-hospitals-insurers-health-care-costs.html",
+    "pubDate": "Thu, 24 Sep 2026 10:00:17 +0000",
+    "source": "NY Times",
+    "categories": [
+      "health insurance and managed care",
+      "artificial intelligence",
+      "medicine and health",
+      "hospitals",
+      "prices (fares, fees and rates)",
+      "blue cross and blue shield assn"
+    ],
+    "collectedAt": "2026-09-24T10:15:02.646Z"
+  },
+  {
+    "title": "How Three Times Tech Journalists Make Sense of A.I.’s Promise and Peril",
+    "description": "Artificial intelligence is advancing so fast that tech leaders say better safety controls are needed. Here’s how our reporters keep up.",
+    "link": "https://www.nytimes.com/2026/09/24/insider/nyt-journalists-artificial-intelligence.html",
+    "pubDate": "Thu, 24 Sep 2026 09:02:37 +0000",
+    "source": "NY Times",
+    "categories": [
+      "artificial intelligence",
+      "regulation and deregulation of industry",
+      "social media",
+      "computers and the internet",
+      "anthropic ai llc",
+      "meta platforms inc",
+      "coxon, jacob",
+      "trump, donald j",
+      "zuckerberg, mark e"
+    ],
+    "collectedAt": "2026-09-24T10:15:02.646Z"
+  },
+  {
+    "title": "Why Do the Trade Wars Keep Coming for Your Whiskey?",
+    "description": "As the U.S. prepares to ban imports of Canadian spirits, it’s worth examining the reasons a relatively minor commodity looms so large.",
+    "link": "https://www.nytimes.com/2026/09/24/dining/drinks/trump-canada-tariffs-trade-wars-whiskey.html",
+    "pubDate": "Thu, 24 Sep 2026 09:02:30 +0000",
+    "source": "NY Times",
+    "categories": [
+      "liquor",
+      "whiskey",
+      "international trade and world market",
+      "customs (tariff)",
+      "alcoholic beverages",
+      "united states international relations",
+      "diageo plc"
+    ],
+    "collectedAt": "2026-09-24T10:15:02.646Z"
+  },
+  {
+    "title": "A Corruption Scandal Is Reshaping Brazil’s Presidential Election",
+    "description": "Explosive allegations of corruption are embroiling a Brazilian Supreme Court justice, Alexandre de Moraes, and reshaping the country’s high-stakes presidential election.",
+    "link": "https://www.nytimes.com/2026/09/24/world/americas/brazil-supreme-court-justice-moraes-vorcaro-trump.html",
+    "pubDate": "Thu, 24 Sep 2026 09:01:19 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states international relations",
+      "politics and government",
+      "elections, courts and the judiciary",
+      "democracy (theory and philosophy)",
+      "coups d'etat and attempted coups d'etat",
+      "rumors and misinformation",
+      "supreme federal court (brazil)",
+      "bolsonaro, flavio",
+      "bolsonaro, jair (1955- )",
+      "da silva, luiz inacio lula",
+      "moraes, alexandre de (1968- )",
+      "trump, donald j",
+      "vorcaro, daniel (1983- )",
+      "brazil",
+      "united states"
+    ],
+    "collectedAt": "2026-09-24T10:15:02.646Z"
+  },
+  {
+    "title": "What we know after video shows moment of RAF training jet crash",
+    "description": "The RAF said training on their Hawk jets had been \"temporarily\" paused while an investigation is under way.",
+    "link": "https://www.bbc.co.uk/news/articles/cw8d32vv4l7vo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 24 Sep 2026 10:09:16 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-24T10:15:02.646Z"
+  },
+  {
+    "title": "I couldn't live with the agony of migraines anymore but my GP called me dramatic",
+    "description": "Lauren had to abandon her career in the NHS after being left \"in agony\" due to her migraines.",
+    "link": "https://www.bbc.co.uk/news/articles/cmp8d1575xjzo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 24 Sep 2026 05:23:15 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-24T10:15:02.646Z"
+  },
+  {
+    "title": "Black Monday’s stock-market warning signal came from the bond market, and it’s back, says Wall Street veteran",
+    "description": "Bonds are starting to deliver “equity-like returns,” according to Larry McDonald, similar to during the summer of 1987.",
+    "link": "https://www.marketwatch.com/story/black-mondays-stock-market-warning-signal-came-from-the-bond-market-and-its-back-says-wall-street-veteran-52f12e39?mod=mw_rss_topstories",
+    "pubDate": "Thu, 24 Sep 2026 10:01:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-09-24T10:15:02.646Z"
+  },
+  {
+    "title": "America's beef supply shrinks as cattle farmer warns 'the numbers are just not here anymore'",
+    "description": "U.S. beef production fell roughly 800 million pounds in early 2026 as cattle slaughter numbers declined, pushing farmers like Will Harris toward change.",
+    "link": "https://www.foxnews.com/food-drink/americas-beef-supply-shrinks-cattle-farmer-warns-the-numbers-just-not-here-anymore",
+    "pubDate": "Thu, 24 Sep 2026 06:00:58 -0400",
+    "source": "Fox News",
+    "categories": [
+      "9ff288fc-fd51-5b49-b753-ae616bd3a635",
+      "fnc",
+      "fox news",
+      "fox-news/lifestyle/food",
+      "fox-news/food-drink",
+      "fox-news/food-drink/food",
+      "fox-news/lifestyle",
+      "fox-news/food-drink",
+      "article"
+    ],
+    "collectedAt": "2026-09-24T10:15:02.646Z"
+  },
+  {
+    "title": "Major pro-life group threatens to sue Trump FDA over abortion pill's alleged environmental risks",
+    "description": "Students for Life of America threatens to sue the Food and Drug Administration, alleging it skipped Endangered Species Act reviews for mifepristone.",
+    "link": "https://www.foxnews.com/politics/major-pro-life-group-threatens-sue-trump-fda-abortion-pill-alleged-environmental-risks",
+    "pubDate": "Thu, 24 Sep 2026 06:00:54 -0400",
+    "source": "Fox News",
+    "categories": [
+      "f90ba710-a4f1-5344-871e-2ae0ae4565a0",
+      "fnc",
+      "fox news",
+      "fox-news/politics/judiciary/abortion",
+      "fox-news/politics",
+      "fox-news/us/crime/drugs",
+      "fox-news/health/reproductive-health",
+      "fox-news/health/healthy-living/medications",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-09-24T10:15:02.646Z"
+  },
+  {
+    "title": "Dem Senate hopeful dished out thousands to radical staffer who glorified Hamas: 'Freedom fighters'",
+    "description": "Sara Mahmoud's posts wishing Zionists would \"die\" surfaced after she was hired to manage social media for DSA-backed Senate candidate Angie Nixon.",
+    "link": "https://www.foxnews.com/politics/dem-senate-hopeful-dished-out-thousands-radical-staffer-glorified-hamas-freedom-fighters",
+    "pubDate": "Thu, 24 Sep 2026 06:00:45 -0400",
+    "source": "Fox News",
+    "categories": [
+      "08936e54-b245-556a-a49e-8909f49b4abd",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/topic/anti-semitism",
+      "fox-news/media/rise-of-socialism",
+      "fox-news/politics/foreign-policy/middle-east",
+      "fox-news/world/world-regions/middle-east",
+      "fox-news/world/hamas",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-09-24T10:15:02.646Z"
+  },
+  {
+    "title": "Rand Paul: Politicians should stay out of college sports and let athletes compete freely",
+    "description": "Sen. Rand Paul argues that politicians, not the NCAA, should decide college sports rules, athlete compensation, transfers and conference membership.",
+    "link": "https://www.foxnews.com/outkick-sports/rand-paul-politicians-stay-out-college-sports-let-athletes-compete-freely",
+    "pubDate": "Thu, 24 Sep 2026 06:00:45 -0400",
+    "source": "Fox News",
+    "categories": [
+      "ec3448d7-716d-5494-b946-f31c9ba0b7e3",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/sports/ncaa",
+      "fox-news/sports/ncaa-fb",
+      "fox-news/sports",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-09-24T10:15:02.646Z"
+  },
+  {
+    "title": "Trump-Xi reunion comes with unfinished business — and a bigger battle looming",
+    "description": "President Donald Trump hosts Xi Jinping to test whether China delivered on rare earths, AI and trade promises from their May breakthrough deal.",
+    "link": "https://www.foxnews.com/politics/trump-xi-reunion-unfinished-business-bigger-battle-looming",
+    "pubDate": "Thu, 24 Sep 2026 06:00:42 -0400",
+    "source": "Fox News",
+    "categories": [
+      "fdbdfadb-0621-5736-bed3-0a88f337f08c",
+      "fnc",
+      "fox news",
+      "fox-news/world/world-regions/china",
+      "fox-news/person/xi-jinping",
+      "fox-news/person/donald-trump",
+      "fox-news/politics/executive/white-house",
+      "fox-news/health/orthopedics/technology",
+      "fox-news/politics/executive/national-security",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-09-24T10:15:02.646Z"
+  },
+  {
+    "title": "Daughter of Chinese Uyghur prisoner makes emotional plea to Trump during spotlight Xi summit",
+    "description": "Ziba Murat hopes Trump will raise her mother Dr. Gulshar Abbas' case with Xi Jinping during the summit after eight years of imprisonment in China.",
+    "link": "https://www.foxnews.com/politics/daughter-chinese-uyghur-prisoner-emotional-plea-trump-spotlight-xi-summit",
+    "pubDate": "Thu, 24 Sep 2026 06:00:30 -0400",
+    "source": "Fox News",
+    "categories": [
+      "b9e4b59d-bc93-5d7a-99f4-372b2c03b8f6",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/person/donald-trump",
+      "fox-news/person/xi-jinping",
+      "fox-news/world/world-regions/china",
+      "fox-news/world/religion",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-09-24T10:15:02.646Z"
+  },
+  {
+    "title": "Melania Trump’s home-country leader rips UN ‘double standards’ as Trump promise is revealed",
+    "description": "Janez Janša accused the United Nations of double standards on Gaza and Ukraine, and revealed Trump promised to visit Melania Trump's homeland.",
+    "link": "https://www.foxnews.com/world/melania-trumps-home-country-leader-rips-un-double-standards-trump-promise-revealed",
+    "pubDate": "Thu, 24 Sep 2026 06:00:21 -0400",
+    "source": "Fox News",
+    "categories": [
+      "1f912ab9-bc7a-598b-b6ff-d5ab9458b4ca",
+      "fnc",
+      "fox news",
+      "fox-news/world/united-nations",
+      "fox-news/world",
+      "fox-news/world/united-nations/general-assembly",
+      "fox-news/politics/house-of-representatives/foreign-affairs",
+      "fox-news/person/melania-trump",
+      "fox-news/world",
+      "article"
+    ],
+    "collectedAt": "2026-09-24T10:15:02.646Z"
+  },
+  {
+    "title": "Bishop Barron warns communism ‘making a comeback’ in America ahead of Fulton Sheen beatification",
+    "description": "Bishop Robert Barron warns communism is making a comeback in America ahead of Archbishop Fulton Sheen's beatification ceremony in St. Louis.",
+    "link": "https://www.foxnews.com/politics/bishop-barron-warns-communism-making-comeback-america-ahead-fulton-sheen-beatification",
+    "pubDate": "Thu, 24 Sep 2026 06:00:10 -0400",
+    "source": "Fox News",
+    "categories": [
+      "7cf506af-935d-5839-b7af-ada2d5e6c3fd",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/us/religion/roman-catholic",
+      "fox-news/world/religion",
+      "fox-news/christianity",
+      "fox-news/media/rise-of-socialism",
+      "fox-news/faith-values",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-09-24T10:15:02.646Z"
+  },
+  {
+    "title": "Ole Miss deaths, druggings have ‘people scared to leave’ dorms as bars, Greek life clamp down: students",
+    "description": "Mary Harvey says she was drugged at an Ole Miss bar and found passed out in her dorm hallway, as kratom was recovered near two student deaths.",
+    "link": "https://www.foxnews.com/us/ole-miss-deaths-druggings-people-scared-leave-dorms-bars-greek-life-clamp-down-students",
+    "pubDate": "Thu, 24 Sep 2026 06:00:08 -0400",
+    "source": "Fox News",
+    "categories": [
+      "9e6e71ff-2482-5529-8a7c-b78dc7a68684",
+      "fnc",
+      "fox news",
+      "fox-news/us",
+      "fox-news/us/crime/drugs",
+      "fox-news/us/us-regions/southeast/mississippi",
+      "fox-news/special/campus",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/us/education/college",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-09-24T10:15:02.646Z"
+  },
+  {
+    "title": "Self-described ‘MILF’ Minnesota mayor sued by own police chief over shocking sexual harassment, retaliation claims",
+    "description": "The top cop accused Mayor Her of comparing his penis size, touching his upper thigh during a budget meeting and making orgasm noises at the police department gym.",
+    "link": "https://nypost.com/2026/09/24/us-news/minnesotas-self-described-milf-mayor-sued-by-own-police-chief-over-sexual-harassment-retaliation/",
+    "pubDate": "Thu, 24 Sep 2026 06:11:41 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-24T10:15:02.646Z"
+  },
+  {
+    "title": "I’ve tested 25+ headphones — These early October Prime Day deals are worth it",
+    "description": "Listen up: Prime Big Deal Days early headphones sales have arrived.",
+    "link": "https://nypost.com/shopping/early-amazon-prime-big-deal-days-headphone-deals-2026/",
+    "pubDate": "Thu, 24 Sep 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-24T10:15:02.646Z"
+  },
+  {
+    "title": "US military spending $500M on ‘war-ready’ laser weapons — and zapping drones in Iran, along US border: experts",
+    "description": "The US project to harness laser power has been 50 years in the making and outstrips the capabilities of any other military on Earth.",
+    "link": "https://nypost.com/2026/09/24/us-news/us-military-spending-500m-on-war-ready-laser-weapons-experts/",
+    "pubDate": "Thu, 24 Sep 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-24T10:15:02.646Z"
+  },
+  {
+    "title": "Democratic governors stake out pragmatic lane in personality-driven 2028 field",
+    "description": "Gov. Andy Beshear (D-KY) wants the 2028 Democratic presidential nominee to be someone like him — a fellow governor. “I think Democratic governors should be the face of the Democratic Party,” Beshear, the head of the Democratic Governors Association, bluntly told Newsweek, touting their abilities to “get stuff done” in comparison to Washington lawmakers. In […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/presidential/4739373/democratic-governors-2028-race/",
+    "pubDate": "Thu, 24 Sep 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "presidential",
+      "2028 elections",
+      "alexandria ocasio-cortez",
+      "andy beshear",
+      "democratic party",
+      "governor",
+      "washington d.c.",
+      "wes moore"
+    ],
+    "collectedAt": "2026-09-24T10:15:02.646Z"
+  },
+  {
+    "title": "New GOP ad rips Ohio Senate hopeful Sherrod Brown for alleged trans surgery support",
+    "description": "EXCLUSIVE — The Senate Leadership Fund released a new advertisement on Thursday that took a shot at Ohio Senate hopeful Sherrod Brown over what it said is his continued support for transgender surgeries for minors. The 30-second ad features a 23-year-old detransitioner named Soren Aldaco, who recounts her personal experience with doctors practicing so-called gender-affirming […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4740665/ad-ohio-senate-sherrod-brown-transgender-surgery/",
+    "pubDate": "Thu, 24 Sep 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "congressional",
+      "2026 elections",
+      "advertising",
+      "jon husted",
+      "ohio",
+      "senate",
+      "sherrod brown",
+      "super pacs",
+      "transgender",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-09-24T10:15:02.646Z"
   }
 ]
