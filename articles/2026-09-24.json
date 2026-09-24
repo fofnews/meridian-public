@@ -1301,5 +1301,55 @@
     "source": "Wall Street Journal",
     "categories": [],
     "collectedAt": "2026-09-24T09:30:08.266Z"
+  },
+  {
+    "title": "A Powerful Nor’easter Is Taking Shape. How It Could Affect Your Forecast.",
+    "description": "The forecast for this weekend became a lot clearer on Thursday, but meteorologists warned that the storm’s exact path was still uncertain.",
+    "link": "https://www.nytimes.com/2026/09/23/weather/noreaster-storm-new-york-boston-rain.html",
+    "pubDate": "Thu, 24 Sep 2026 09:35:11 +0000",
+    "source": "NY Times",
+    "categories": [
+      "floods",
+      "national weather service",
+      "coastal areas",
+      "weather",
+      "el nino southern oscillation",
+      "coast erosion",
+      "wind",
+      "cape cod (mass)",
+      "east coast (us)",
+      "new england states (us)"
+    ],
+    "collectedAt": "2026-09-24T09:45:01.402Z"
+  },
+  {
+    "title": "Indonesia court reduces Gojek founder's sentence to 9 years in appeal hearing - Reuters",
+    "description": "Indonesia court reduces Gojek founder's sentence to 9 years in appeal hearing  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTHpQUk8tM3pQSWFONkMtVmg5bURHQXBfa3lqWmhKSkRBcUFteUpNZ2x2MU10andxZGI4dFJmbGpFR1NtU3hlemZaUWt0OXJSQTRNTHVlUU1kaVhYRDlqdlpHM1FUUzJIbjZGN2FTR1dLYU5MU2VwYXJYOF80NXExa1NkT2R4QU1tQ0hMRGY5azItemVKVjluM2tXeDVqSnh2V1JyaXUtenhRaTFVbXdvNFMybHI3UnJVOUNIN1g1T05vT1E?oc=5",
+    "pubDate": "Thu, 24 Sep 2026 06:03:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-24T09:45:01.402Z"
+  },
+  {
+    "title": "Florida couple recounts 'miraculous' rescue after surviving harrowing lightning strike during evening stroll",
+    "description": "Police bodycam video captured the frantic response after Aaron and Clare Walenga were struck on a popular trail in Winter Haven.",
+    "link": "https://www.foxnews.com/us/florida-couple-recounts-miraculous-rescue-surviving-harrowing-lightning-strike-evening-stroll",
+    "pubDate": "Thu, 24 Sep 2026 05:30:42 -0400",
+    "source": "Fox News",
+    "categories": [
+      "a03531dd-a8a8-55b2-b090-c7b2c1e808de",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/southeast/florida",
+      "fox-news/weather",
+      "fox-news/good-news",
+      "fox-news/faith-values/family",
+      "fox-news/fox-nation/caught-on-camera",
+      "fox-news/us",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-09-24T09:45:01.402Z"
   }
 ]
