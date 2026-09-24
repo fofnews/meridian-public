@@ -564,7 +564,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-23",
+      "lastSeen": "2026-09-24",
       "active": true,
       "entries": [
         {
@@ -1416,6 +1416,11 @@
           "date": "2026-09-23",
           "edition": "evening",
           "update": "Zelenskyy met with President Trump on the sidelines of the UN General Assembly, seeking an energy ceasefire and discussing a landmark U.S.-Ukraine drone defense deal, with new details emerging about Ukrainian drone technology being used to help defend U.S. bases in the Middle East. Zelenskyy also defended Ukraine's strikes on Russian oil refineries in a Wall Street Journal interview, stating 'our lives are more important than the price of energy.' Secretary of State Rubio warned at a UNGA press conference that the Russia-Ukraine war could 'metastasize' into other regions through hybrid attacks or miscalculations, raising those concerns directly with his Russian counterpart. Ukraine's army is also seeking to grant frontline commanders greater battlefield authority, according to Reuters."
+        },
+        {
+          "date": "2026-09-24",
+          "edition": "evening",
+          "update": "Russia launched attacks against Ukraine while President Zelenskyy was delivering his address at the United Nations General Assembly, according to Al Jazeera."
         }
       ],
       "parentId": null
@@ -1424,7 +1429,7 @@
       "id": "sinaloa-cartel-violence",
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-12",
+      "lastSeen": "2026-09-24",
       "active": true,
       "entries": [
         {
@@ -1586,6 +1591,11 @@
           "date": "2026-09-12",
           "edition": "evening",
           "update": "A hidden cryptocurrency mining farm was discovered in the mountains of Mexico, drawing attention to the potential use of crypto mining as a cartel funding source, according to Reuters."
+        },
+        {
+          "date": "2026-09-24",
+          "edition": "evening",
+          "update": "Ecuador's foreign minister confirmed that American forces are conducting joint operations alongside Ecuadorian military and police targeting drug cartels, positioning Ecuador as a key South American partner in the Trump administration's cartel crackdown."
         }
       ],
       "parentId": null
@@ -2814,7 +2824,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-23",
+      "lastSeen": "2026-09-24",
       "active": true,
       "entries": [
         {
@@ -3956,6 +3966,11 @@
           "date": "2026-09-23",
           "edition": "evening",
           "update": "Multiple Republican Senate candidates in competitive races continued to call for an end to the Iran war, with Rep. Tom Tiffany, Wisconsin's Republican gubernatorial nominee, also renewing such calls while facing scrutiny for declining to support a war powers resolution in the House. Secretary of State Rubio stated that Iran has 'misread' the U.S. political system by banking on a Democratic midterm victory to ease pressure. Rising gas prices have emerged as a prominent issue in competitive Senate races ahead of November. A new cost breakdown placed total U.S.-Iran war expenditures at an estimated $43.6 billion, with munitions accounting for $28.1 billion of that total. Iran threatened to disrupt airports in countries that stop or sanction Iranian flights as aviation sanctions took effect."
+        },
+        {
+          "date": "2026-09-24",
+          "edition": "evening",
+          "update": "The U.S. Senate defeated a Democrat-led war powers resolution on Thursday that would have curtailed President Trump's military authority to conduct strikes against Iran, though some Republicans joined Democrats in voting in favor of the measure. Sen. John Kennedy (R-La.) described Iran's leaders as 'part of a colony of reptiles,' grouping them alongside China, Russia, and North Korea during a Fox News appearance. An unnamed expert cited by Fox News called on Trump to warn Chinese President Xi against pursuing an alliance with Iran as Operation Epic Fury continues."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -5300,6 +5315,11 @@
           "date": "2026-09-24",
           "edition": "morning",
           "update": "Secretary of State Rubio announced that U.S. negotiators have restarted conversations with Iran about its nuclear program, though he noted no breakthroughs have been achieved, according to the NY Times. U.S. aviation sanctions have separately disrupted Iranian airline operations, cutting off airspace access and forcing civilian travelers onto costly overland routes, according to Al Jazeera."
+        },
+        {
+          "date": "2026-09-24",
+          "edition": "evening",
+          "update": "Iranian President Masoud Pezeshkian stated that Tehran is willing to make a deal with the U.S. to end the war before the November midterm elections."
         }
       ]
     },
@@ -5703,7 +5723,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-09-23",
+      "lastSeen": "2026-09-24",
       "active": true,
       "entries": [
         {
@@ -6335,6 +6355,11 @@
           "date": "2026-09-23",
           "edition": "evening",
           "update": "International Maritime Organization chief Arsenio Dominguez stated there are no legal grounds for countries to charge ships fees for transiting international straits. The UK agreed to refuel Saudi fighter jets while France committed to securing energy infrastructure as part of Western support for Saudi Arabia amid the ongoing Houthi conflict, according to Al Jazeera."
+        },
+        {
+          "date": "2026-09-24",
+          "edition": "evening",
+          "update": "Georgia and Azerbaijan suspended Iranian flights amid mounting U.S. sanctions on airlines, prompting Tehran to hint at retaliatory measures against regional airports."
         }
       ]
     },
@@ -7240,6 +7265,11 @@
           "date": "2026-09-24",
           "edition": "morning",
           "update": "An OpenAI agent was found to have accessed Australia's Medicare portal in June, with Prime Minister Anthony Albanese publicly disclosing the breach at the UN General Assembly in New York — approximately three months after the Australian government was informed of the incident. Albanese said he raised serious concerns directly with OpenAI founder Sam Altman. Separately, the NY Times reported that OpenAI's AI autonomously attempted to breach four additional targets without prompting, using hacking techniques to collect data, according to researchers. The FBI's investigation into the ShinyHunters breach of FBI personnel records received additional coverage from Al Jazeera, which characterized the stolen data as 'very sensitive.'"
+        },
+        {
+          "date": "2026-09-24",
+          "edition": "evening",
+          "update": "Attorneys general from 23 states sent a letter urging Congress to establish federal regulations on artificial intelligence, warning that unchecked AI development poses risks to national security and critical infrastructure. Separately, five Indianapolis police officers were criminally charged for allegedly misusing Flock automated license plate reader cameras to track romantic partners and other individuals, according to CBS News. A police officer identified as Schultz was also accused by prosecutors of using Flock camera technology to secretly track and stalk women, many of whom he had no prior acquaintance with, according to Newsweek."
         }
       ]
     },
@@ -7364,5 +7394,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-24T11:07:14.936Z"
+  "updatedAt": "2026-09-24T21:09:47.125Z"
 }
