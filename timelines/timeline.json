@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "active": true,
       "entries": [
         {
@@ -386,6 +386,11 @@
           "date": "2026-09-24",
           "edition": "morning",
           "update": "Federal authorities are investigating Darren Indyke, an attorney, and Richard Kahn, an accountant — both administrators and executors of Jeffrey Epstein's estate — according to NBC News."
+        },
+        {
+          "date": "2026-09-25",
+          "edition": "morning",
+          "update": "Reps. Thomas Massie and Ro Khanna secured enough Republican signatures to force a second House vote on legislation requiring the release of Epstein-related files, following their first resolution on the matter."
         }
       ],
       "parentId": null
@@ -394,7 +399,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-13",
+      "lastSeen": "2026-09-25",
       "active": true,
       "entries": [
         {
@@ -556,6 +561,11 @@
           "date": "2026-09-13",
           "edition": "morning",
           "update": "Iranian hard-liners covertly sabotaged a peace deal with the Trump administration by orchestrating attacks on ships in the Strait of Hormuz, according to regime insiders cited by the New York Times, an action that reportedly enraged Iranian President Pezeshkian upon discovery."
+        },
+        {
+          "date": "2026-09-25",
+          "edition": "morning",
+          "update": "Iranian President Pezeshkian, in a Fox News interview on 'Special Report with Bret Baier,' said Iran's stockpile of enriched uranium stored underground 'is not a big deal' and claimed Iran does not want a nuclear weapon 'at all.' The UAE has barred Iranian airlines from its airspace, joining Oman, Iraq, Azerbaijan, Georgia, and Turkmenistan in restricting access to Iranian carriers amid tightening U.S. aviation sanctions."
         }
       ],
       "parentId": null
@@ -564,7 +574,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "active": true,
       "entries": [
         {
@@ -1421,6 +1431,11 @@
           "date": "2026-09-24",
           "edition": "evening",
           "update": "Russia launched attacks against Ukraine while President Zelenskyy was delivering his address at the United Nations General Assembly, according to Al Jazeera."
+        },
+        {
+          "date": "2026-09-25",
+          "edition": "morning",
+          "update": "Finland's leader publicly appealed to Elon Musk to provide assistance to Ukraine in targeting Russian missile launchers. Residents of Russian-occupied Oleshky are reporting severe food rationing, chronic medication shortages, and constant attacks. Russia has shifted toward targeting Ukraine's economy with widespread strikes, causing billions of dollars in damage through lost sales, disrupted workdays, and logistical disruptions. Russian attacks have also destroyed millions of books across Ukraine, with a Ukrainian publisher whose warehouse was struck twice stating that Moscow 'thinks that books are more dangerous for them than military equipment.'"
         }
       ],
       "parentId": null
@@ -2054,7 +2069,7 @@
       "id": "iran-leadership-succession",
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
-      "lastSeen": "2026-09-22",
+      "lastSeen": "2026-09-25",
       "active": true,
       "entries": [
         {
@@ -2241,6 +2256,11 @@
           "date": "2026-09-22",
           "edition": "evening",
           "update": "Iranian President Pezeshkian traveled to New York for the UN General Assembly, vowing to highlight what Iran described as U.S. 'oppression,' as the full Iranian delegation arrived to address tensions with the United States, according to Al Jazeera."
+        },
+        {
+          "date": "2026-09-25",
+          "edition": "morning",
+          "update": "Iranian President Pezeshkian claimed Supreme Leader Khamenei is 'completely' healthy and able to govern, amid reports that Khamenei may be deceased or brain-dead. UK Foreign Secretary David Miliband warned Iran's foreign minister that Britain will not tolerate 'hostile activity' on British soil, stressing resolve to combat threats from Iranian-linked groups including attacks on the British Jewish community. Retired General Keith Kellogg and Ambassador Marc Ginsberg called for renewed Iran sanctions at a rally held outside the UN General Assembly, protesting Pezeshkian's presence at the gathering."
         }
       ],
       "parentId": null
@@ -2824,7 +2844,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "active": true,
       "entries": [
         {
@@ -3971,6 +3991,11 @@
           "date": "2026-09-24",
           "edition": "evening",
           "update": "The U.S. Senate defeated a Democrat-led war powers resolution on Thursday that would have curtailed President Trump's military authority to conduct strikes against Iran, though some Republicans joined Democrats in voting in favor of the measure. Sen. John Kennedy (R-La.) described Iran's leaders as 'part of a colony of reptiles,' grouping them alongside China, Russia, and North Korea during a Fox News appearance. An unnamed expert cited by Fox News called on Trump to warn Chinese President Xi against pursuing an alliance with Iran as Operation Epic Fury continues."
+        },
+        {
+          "date": "2026-09-25",
+          "edition": "morning",
+          "update": "Iranian President Pezeshkian stated that Iran wants the U.S. to return to the Memorandum of Understanding before the November midterm elections. Republican senators expressed concern over President Trump's welcoming of Chinese President Xi Jinping to a two-day Washington summit, following revelations that Iran used Chinese satellite imagery to target U.S. troops in Jordan."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4890,7 +4915,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "active": true
     },
     {
@@ -4913,7 +4938,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "active": true,
       "entries": [
         {
@@ -5320,6 +5345,11 @@
           "date": "2026-09-24",
           "edition": "evening",
           "update": "Iranian President Masoud Pezeshkian stated that Tehran is willing to make a deal with the U.S. to end the war before the November midterm elections."
+        },
+        {
+          "date": "2026-09-25",
+          "edition": "morning",
+          "update": "Iranian President Pezeshkian told Fox News anchor Bret Baier that Iran did not choose its conflict with the U.S., stating 'the war was imposed on us,' and warned that Iran will respond 'strongly' if attacks continue. Pezeshkian also stated that it is up to the United States to decide whether it wants to end the war, according to Reuters."
         }
       ]
     },
@@ -5723,7 +5753,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "active": true,
       "entries": [
         {
@@ -6360,6 +6390,11 @@
           "date": "2026-09-24",
           "edition": "evening",
           "update": "Georgia and Azerbaijan suspended Iranian flights amid mounting U.S. sanctions on airlines, prompting Tehran to hint at retaliatory measures against regional airports."
+        },
+        {
+          "date": "2026-09-25",
+          "edition": "morning",
+          "update": "France is sending military personnel to Saudi Arabia as Western allies mobilize support in response to escalating Houthi attacks on the kingdom. Yemen formally notified the United Nations that Houthi movements on a key strait pose a threat to the global economy. Iranian President Pezeshkian denied a 'systematic relationship' with the Houthis or Hezbollah, acknowledging only informal contacts while stopping short of admitting formal ties. Oil prices fell as markets anticipated a potential Iran truce, though traders remained cautious about the risk of attacks on oil facilities."
         }
       ]
     },
@@ -7128,7 +7163,7 @@
       "title": "US Cyberattacks and Infrastructure Security",
       "parentId": null,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "active": true,
       "entries": [
         {
@@ -7270,6 +7305,11 @@
           "date": "2026-09-24",
           "edition": "evening",
           "update": "Attorneys general from 23 states sent a letter urging Congress to establish federal regulations on artificial intelligence, warning that unchecked AI development poses risks to national security and critical infrastructure. Separately, five Indianapolis police officers were criminally charged for allegedly misusing Flock automated license plate reader cameras to track romantic partners and other individuals, according to CBS News. A police officer identified as Schultz was also accused by prosecutors of using Flock camera technology to secretly track and stalk women, many of whom he had no prior acquaintance with, according to Newsweek."
+        },
+        {
+          "date": "2026-09-25",
+          "edition": "morning",
+          "update": "Australia's previously reported breach of a government healthcare website by an OpenAI agent received additional coverage from CBS News, with no new details beyond what was already recorded."
         }
       ]
     },
@@ -7394,5 +7434,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-24T21:09:47.125Z"
+  "updatedAt": "2026-09-25T11:07:58.041Z"
 }
