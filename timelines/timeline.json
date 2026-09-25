@@ -391,6 +391,11 @@
           "date": "2026-09-25",
           "edition": "morning",
           "update": "Reps. Thomas Massie and Ro Khanna secured enough Republican signatures to force a second House vote on legislation requiring the release of Epstein-related files, following their first resolution on the matter."
+        },
+        {
+          "date": "2026-09-25",
+          "edition": "evening",
+          "update": "The Win Senate PAC released an ad targeting Iowa Republican Rep. Ashley Hinson in her Senate race, alleging her top donors appear in files related to the Jeffrey Epstein investigation."
         }
       ],
       "parentId": null
@@ -1436,6 +1441,11 @@
           "date": "2026-09-25",
           "edition": "morning",
           "update": "Finland's leader publicly appealed to Elon Musk to provide assistance to Ukraine in targeting Russian missile launchers. Residents of Russian-occupied Oleshky are reporting severe food rationing, chronic medication shortages, and constant attacks. Russia has shifted toward targeting Ukraine's economy with widespread strikes, causing billions of dollars in damage through lost sales, disrupted workdays, and logistical disruptions. Russian attacks have also destroyed millions of books across Ukraine, with a Ukrainian publisher whose warehouse was struck twice stating that Moscow 'thinks that books are more dangerous for them than military equipment.'"
+        },
+        {
+          "date": "2026-09-25",
+          "edition": "evening",
+          "update": "Trump approved a Patriot missile production license for Ukraine, with Zelenskyy publicly announcing the decision on Friday following their meeting on the sidelines of the UN General Assembly. Zelenskyy also disclosed that Russia has expanded its attacks to target Ukrainian data centres, with the strikes aimed at disrupting connectivity, remote work, and online education."
         }
       ],
       "parentId": null
@@ -1709,7 +1719,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-25",
       "active": true,
       "entries": [
         {
@@ -2061,6 +2071,11 @@
           "date": "2026-09-24",
           "edition": "morning",
           "update": "Speaker Mike Johnson called for 'a resolution' to the Iran war, marking the strongest public signal yet that House Republicans are facing political pressure over the conflict ahead of midterm elections. The Pentagon confirmed the death of Capt. Bianca C. Wilkerson, 37, of Norfolk, Virginia, who died September 18 from a non-combat related incident, bringing disclosed U.S. service member deaths in the Middle East since the start of the Iran war to 19. At the UN General Assembly, Iranian President Pezeshkian presented what he described as evidence of U.S. strikes on civilians in response to Trump's threat to 'annihilate' Iran."
+        },
+        {
+          "date": "2026-09-25",
+          "edition": "evening",
+          "update": "Three Iraqi airports suspended Iranian flights beginning Friday, according to sources and Iraqi state media, disrupting air travel between the two countries."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2269,7 +2284,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-23",
+      "lastSeen": "2026-09-25",
       "active": true,
       "entries": [
         {
@@ -2836,6 +2851,11 @@
           "date": "2026-09-23",
           "edition": "evening",
           "update": "Syrian President Ahmed al-Sharaa addressed the UN General Assembly, criticizing Israel for conducting airstrikes against Syria while highlighting his country's progress since his forces took Damascus and ended Assad's rule. In response to questions about Israeli violations in Syria, al-Sharaa quipped that Trump should give New Jersey to Israel instead of the Golan Heights."
+        },
+        {
+          "date": "2026-09-25",
+          "edition": "evening",
+          "update": "Lebanese Prime Minister Nawaf Salam addressed the UN General Assembly, demanding a full Israeli withdrawal from Lebanon and declaring that Lebanon will not serve as 'an arena for the conflicts of others.'"
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -5543,8 +5563,8 @@
       "title": "US Military Intervention in Cuba",
       "parentId": null,
       "firstSeen": "2026-05-02",
-      "lastSeen": "2026-05-28",
-      "active": false,
+      "lastSeen": "2026-09-25",
+      "active": true,
       "entries": [
         {
           "date": "2026-05-02",
@@ -5575,6 +5595,11 @@
           "date": "2026-05-28",
           "edition": "evening",
           "update": "The Trump administration is reportedly accelerating plans aimed at engineering the collapse of the Cuban government, according to Newsmax, though specific details of the strategy were not disclosed."
+        },
+        {
+          "date": "2026-09-25",
+          "edition": "evening",
+          "update": "The U.S. Army Reserve is reviewing a request to move resources to U.S. Southern Command over the next four months, according to an internal message cited by CBS News, with multiple officials confirming the request is part of ongoing military planning aimed at Cuba. Retired Lt. Gen. H.R. McMaster commented on the memo, stating that the end of the Cuban regime would 'be a great thing' for the Western Hemisphere."
         }
       ]
     },
@@ -5598,7 +5623,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-09-23",
+      "lastSeen": "2026-09-25",
       "active": true,
       "entries": [
         {
@@ -5745,6 +5770,11 @@
           "date": "2026-09-23",
           "edition": "morning",
           "update": "Macron declared that the 'coalition of the willing' will not yield in its support for Ukraine. Zelenskyy formally announced Ukraine's readiness to halt strikes on Russian energy facilities if Russia reciprocally stops attacking Ukraine's energy infrastructure."
+        },
+        {
+          "date": "2026-09-25",
+          "edition": "evening",
+          "update": "Zelenskyy reported that eight regions of Ukraine have come under Russian attack as the U.S. seeks to revive ceasefire negotiations. The U.S. has proposed a trilateral meeting involving Ukraine, Russia, and the United States to be held in the UAE, according to Zelenskyy."
         }
       ]
     },
@@ -6828,7 +6858,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-22",
+      "lastSeen": "2026-09-25",
       "active": true,
       "entries": [
         {
@@ -7105,6 +7135,11 @@
           "date": "2026-09-22",
           "edition": "evening",
           "update": "Gulf leaders arrived at the UN General Assembly to address pressing regional issues including Iran's influence, Houthi threats, and the future of Gaza amid shifting regional alliances."
+        },
+        {
+          "date": "2026-09-25",
+          "edition": "evening",
+          "update": "Pakistani and Turkish military chiefs traveled to Riyadh for urgent talks with Saudi officials, as both countries moved closer to potential involvement in the Saudi-led campaign against Houthi forces in Yemen while stopping short of committing to participation."
         }
       ]
     },
@@ -7113,7 +7148,7 @@
       "title": "US-Saudi Nuclear Deal and Israel Normalization",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-07-23",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-25",
       "active": true,
       "entries": [
         {
@@ -7155,6 +7190,11 @@
           "date": "2026-09-18",
           "edition": "morning",
           "update": "The U.S. State Department approved a potential $24 billion sale of F-35 fighter jets to Saudi Arabia, still requiring Congressional approval, despite internal warnings from U.S. intelligence agencies that China could acquire or steal the advanced technology if the jets are transferred."
+        },
+        {
+          "date": "2026-09-25",
+          "edition": "evening",
+          "update": "U.S. intelligence assessments reported by The Washington Post indicate that Saudi Arabia has not ruled out developing nuclear weapons."
         }
       ]
     },
@@ -7310,6 +7350,11 @@
           "date": "2026-09-25",
           "edition": "morning",
           "update": "Australia's previously reported breach of a government healthcare website by an OpenAI agent received additional coverage from CBS News, with no new details beyond what was already recorded."
+        },
+        {
+          "date": "2026-09-25",
+          "edition": "evening",
+          "update": "CenterPoint Energy confirmed a data breach in which a hacker claims to have stolen 7.49 million customer records containing partial Social Security numbers, according to Fox News. Separately, BBC News reported that blood and urine test results belonging to FBI special agents were stolen in a hack, with experts warning the breach could expose agents to blackmail, scams, and targeted attacks."
         }
       ]
     },
@@ -7434,5 +7479,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-25T11:07:58.041Z"
+  "updatedAt": "2026-09-25T21:09:20.092Z"
 }
