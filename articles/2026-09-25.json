@@ -5185,5 +5185,381 @@
     "source": "Newsmax",
     "categories": [],
     "collectedAt": "2026-09-25T16:00:02.689Z"
+  },
+  {
+    "title": "There's a global pandemic treaty that's signed -- and in 'limbo.' What's the holdup?",
+    "description": "The treaty aims to help the countries of the world prepare for — and defeat — any future pandemic. Why hasn't it gone into effect?",
+    "link": "https://www.npr.org/2026/09/25/g-s1-144948/pandemic-prevention-treaty-agreement-world-health-organization",
+    "pubDate": "Fri, 25 Sep 2026 11:57:35 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "Supreme Court allows use of citizenship database ahead of midterms",
+    "description": "The Supreme Court has given the Trump administration a green light to use a federal citizenship database to verify voters ahead of the midterm elections.",
+    "link": "https://abcnews.com/US/supreme-court-allows-trump-administration-citizenship-database-ahead/story?id=136755610",
+    "pubDate": "Fri, 25 Sep 2026 12:02:50 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "Federal appeals court declines to block Pentagon from blacklisting Anthropic",
+    "description": "Anthropic is challenging its ​designation as a supply chain risk.",
+    "link": "https://abcnews.com/Business/anthropic-appeals-court-declines-block-pentagon-blacklisting/story?id=136755690",
+    "pubDate": "Fri, 25 Sep 2026 12:09:27 -0400",
+    "source": "ABC News",
+    "categories": [
+      "business"
+    ],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "DOJ says it has ended more than 50 decades-old school desegregation cases",
+    "description": "The Justice Department said Thursday it has ended more than 50 long-standing consent decrees dating back decades that sought to curb unlawful racial segregation that was prevalent during the Jim Crow era.",
+    "link": "https://www.cbsnews.com/news/doj-seeking-to-end-school-desegregation-cases/",
+    "pubDate": "Fri, 25 Sep 2026 12:08:03 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "Ukrainian kids learn to fly drones for a future shaped by Russia's invasion",
+    "description": "A Ukrainian nonprofit group is teaching kids to make, service and fly simple drones, to help them be \"useful in the future in their country.\"",
+    "link": "https://www.cbsnews.com/news/russia-ukraine-war-schoolkids-learn-how-to-fly-drones/",
+    "pubDate": "Fri, 25 Sep 2026 12:04:12 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "Supreme Court lets Trump administration use SAVE database for now",
+    "description": "In a 6-3 decision, the Supreme Court sided with the Trump administration in its push to use a controversial database to review state voter rolls for potential noncitizens.",
+    "link": "https://www.cbsnews.com/news/supreme-court-trump-save-database-voter-citizenship/",
+    "pubDate": "Fri, 25 Sep 2026 12:02:00 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "Justice Jackson Warns Supreme Court Favoring Trump Admin Over Voters",
+    "description": "The court ruled in favor of the Department of Homeland Security, allowing its SAVE system to be used by states to check voter ID.",
+    "link": "https://www.newsweek.com/supreme-court-save-system-voting-midterms-trump-jackson-12490075",
+    "pubDate": "Fri, 25 Sep 2026 12:12:32 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "How a Talarico vs. Paxton Fox News Debate Could Look",
+    "description": "Democrat James Talarico has challenged Republican Ken Paxton to a Fox News debate amid the battle for a U.S. Senate seat in Texas.",
+    "link": "https://www.newsweek.com/how-a-talarico-vs-paxton-fox-news-debate-could-look-12487997",
+    "pubDate": "Fri, 25 Sep 2026 12:12:27 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "Can Your AI Use the Customer Data You Already Have?",
+    "description": "AI Impact tracks customer consent, maintenance knowledge and how AI could expand the role of medical devices.",
+    "link": "https://www.newsweek.com/ai-customer-data-consent-new-uses-12489944",
+    "pubDate": "Fri, 25 Sep 2026 12:02:33 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "Maps Show Where Ken Paxton and James Talarico's Donations Come From",
+    "description": "Republican Senate candidate Ken Paxton is getting a higher proportion of donations from Texas than rival James Talarico.",
+    "link": "https://www.newsweek.com/maps-show-where-ken-paxton-and-james-talaricos-donations-come-from-12488494",
+    "pubDate": "Fri, 25 Sep 2026 11:59:52 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "Why is the Pope in France?",
+    "description": "The BBC's Hugh Schofield looks at why the visit is met with enthusiasm the Church attributes to growing spirituality among the French.",
+    "link": "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 25 Sep 2026 15:44:55 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "Turkiye vs France – UEFA Nations League",
+    "description": "Follow the updates, with build-up, predictions, team news and lineups, from our live text commentary stream coverage.",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/9/25/live-turkiye-vs-france-uefa-nations-league?traffic_source=rss",
+    "pubDate": "Fri, 25 Sep 2026 15:47:07 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "Supreme Court restores Trump's mass voter verification system - Reuters",
+    "description": "Supreme Court restores Trump's mass voter verification system  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbUJNR0o2X0F6cklkVHU5T1RDYTB3WFhsWXkxT3gxRE9NbHZSbEtMZTU4UU54eURxd1VxdGJzYkVxMk43dER3a2FvSVhaeTc4UlNNdVFzV0tOMWxPeWFma0N6bzFzcFA3aGJCdXhKczJXVWh2c1A0TVlOcDlJMlJNdXZmR18xR2ZjV29ISXNuT3I0SEk4YUgxMG9WNWFRYnRqQ3FpQg?oc=5",
+    "pubDate": "Fri, 25 Sep 2026 15:54:46 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "Data center IPO hopefuls brave tougher market as investor scrutiny grows - Reuters",
+    "description": "Data center IPO hopefuls brave tougher market as investor scrutiny grows  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNUI2bktTU0d4N3ZCQWY5MXJJblQtWHJvLTJJU19EZFQydzI4QWdKNDRhR0ZVVTdUQzVXYkpSMDFQTmZveThyT0NseElNd3M3UGhrWXI0bTFfSVNMaUh2UTRUZi1JYjlycmdIc1JZRFRhNUhpWUNMcmRqcUVvYjlxUldRbnlpU0ZfSmZZbjNlNE96UnIxSUw0VmtvQXIzWW45b05JTk5TNU5pZEhIODBnbmF5NXZ3a05FSmFLUG5PM2hkdDA?oc=5",
+    "pubDate": "Fri, 25 Sep 2026 15:26:12 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "Zelensky says Trump gave final OK on Patriot license for Ukraine",
+    "description": "Ukrainian President Volodymr Zelensky said Friday that President Trump will allow Ukraine to build Patriot missiles, with “concrete agreements” in place between Kyiv and Washington. “There are concrete agreements regarding Patriot licenses,” Zelensky posted online, days after the two met on the sidelines of the U.N. General Assembly (UNGA) in New York. “At our meeting,…",
+    "link": "https://thehill.com/policy/defense/6111551-volodymyr-zelensky-donald-trump-patriot-missiles-ukraine/",
+    "pubDate": "\n\t\tFri, 25 Sep 2026 16:11:35 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "defense",
+      "international",
+      "news",
+      "policy",
+      "lockheed martin",
+      "nato",
+      "patriot missiles",
+      "raytheon",
+      "russia-ukraine war",
+      "trump administration",
+      "uae",
+      "ukraine aid",
+      "unga",
+      "united nations"
+    ],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "Five major networks rejoin White House TV pool after CNN standoff",
+    "description": "The five major television networks were back in the White House television pool on Friday following their standoff with the White House over CNN’s access.  CBS broadcasted the live feed for television outlets at the White House showing President Trump welcoming Chinese President Xi Jinping back to the White House for the third day of…",
+    "link": "https://thehill.com/homenews/media/6111575-major-networks-back-white-house-pool/",
+    "pubDate": "\n\t\tFri, 25 Sep 2026 16:06:02 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "media"
+    ],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "US ambassador to China: ‘Best thing’ from Xi visit ‘is to continue the conversation’",
+    "description": "David Perdue, the U.S. ambassador to China, defended President Trump on Friday as the U.S. leader concludes a lavish state visit with Chinese President Xi Jinping without major agreements.  “The old adage of deliverables in a relationship that we have with China is really not measurable in many ways,” Perdue said on Fox News Channel’s…",
+    "link": "https://thehill.com/homenews/administration/6111583-perdue-defends-china-xi-visit/",
+    "pubDate": "\n\t\tFri, 25 Sep 2026 16:04:51 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "news",
+      "china",
+      "david perdue",
+      "donald trump",
+      "fox news channel",
+      "iran",
+      "xi jinping"
+    ],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "Trump gives high marks, no details, to Xi talks: ‘Our farmers are going to be very happy’",
+    "description": "President Trump praised Chinese President Xi Jinping and his wife, Peng Liyuan, for their visit to the U.S., saying “great strides” have been made without giving any details. “We’ve had a tremendous visit from two spectacular people, and we’ve really enjoyed it,” Trump said at the tea ceremony in the White House’s Red Room “And…",
+    "link": "https://thehill.com/homenews/administration/6111599-us-china-strategic-stability/",
+    "pubDate": "\n\t\tFri, 25 Sep 2026 16:04:36 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "news"
+    ],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "Apple’s expensive new iPhones could be a double-edged sword for the company",
+    "description": "Bernstein analysts suggest Wall Street isn’t properly modeling the extent to which gross margins, a profit metric, could take a hit due to the rising costs of smartphone components.",
+    "link": "https://www.marketwatch.com/story/apples-expensive-new-iphones-could-be-a-double-edged-sword-for-the-company-21c4fefb?mod=mw_rss_topstories",
+    "pubDate": "Fri, 25 Sep 2026 16:11:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "When is it the right time to ask someone out? I’m 21, and ‘my finances and identity still feel like works in progress.’",
+    "description": "“What signs of mutual interest or comfort should someone realistically look for?”",
+    "link": "https://www.marketwatch.com/story/when-is-it-the-right-time-to-ask-someone-out-im-21-and-my-finances-and-identity-still-feel-like-works-in-progress-4bce4fa5?mod=mw_rss_topstories",
+    "pubDate": "Fri, 25 Sep 2026 16:03:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "Appeals court declines to block Pentagon’s blacklisting of Anthropic",
+    "description": "The ruling ⁠came in a lawsuit by Anthropic challenging its designation by the Pentagon as a national security supply ​chain risk.",
+    "link": "https://nypost.com/2026/09/25/business/court-declines-to-block-pentagons-blacklisting-of-anthropic/",
+    "pubDate": "Fri, 25 Sep 2026 12:13:27 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "Colossal hurricane explodes back into Cat-5 monster as wind speeds ramp up and it heads toward US",
+    "description": "Hurricane Polo is intensifying as it stalks the coast of Baja California in preparation for its projected landfall next week.",
+    "link": "https://nypost.com/2026/09/25/us-news/colossal-hurricane-explodes-back-into-cat-5-monster-as-wind-speeds-ramp-up-and-it-heads-toward-us/",
+    "pubDate": "Fri, 25 Sep 2026 12:13:12 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "Gold-digging ‘mole people’ busted for diving into manhole near NYC hotel",
+    "description": "Kevin Rodriguez, 26, and Samuel Reveron, 25 – both Venezuelan citizens – were nabbed Thursday near their Queens homes in connection to the pre-dawn Wednesday sewer escapade on Park Avenue near East 61st Street on the Upper East Side, cops and sources said.",
+    "link": "https://nypost.com/2026/09/25/us-news/gold-digging-mole-people-busted-for-diving-into-manhole-near-nyc-hotel/",
+    "pubDate": "Fri, 25 Sep 2026 12:11:51 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "What do tickets cost to see this week’s SNL musical guest KATSEYE on tour?",
+    "description": "After their 30 Rock visit, the girls will return to NY and play UBS Arena on Oct. 24-25.",
+    "link": "https://nypost.com/2026/09/25/ticket-sales/what-do-tickets-cost-to-see-snl-musical-guest-katseye-on-tour/",
+    "pubDate": "Fri, 25 Sep 2026 12:10:21 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "How to survive in NFL with a backup QB — and who has it",
+    "description": "Which teams have what’s necessary to allow a backup quarterback to succeed and which don’t?",
+    "link": "https://nypost.com/2026/09/25/sports/how-to-win-with-nfl-backup-qb-jameis-winston-marcus-mariota/",
+    "pubDate": "Fri, 25 Sep 2026 12:10:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "ESPN analyst: Jalen Brunson isn’t NBA’s sixth-best player— he’s much worse",
+    "description": "More bulletin-board material for Jalen Brunson and the Knicks that they won’t forget.",
+    "link": "https://nypost.com/2026/09/25/sports/espn-analyst-jalen-brunson-isnt-nbas-sixth-best-player-hes-much-worse/",
+    "pubDate": "Fri, 25 Sep 2026 12:07:21 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "Pittsburgh doctor called out semi-naked attacker by name before he was stabbed to death in bed: court docs",
+    "description": "The Pennsylvania doctor who was stabbed to death in his bed called out to his killer by name before he was slashed, cops said.",
+    "link": "https://nypost.com/2026/09/25/us-news/pittsburgh-doctor-idris-evans-called-out-attacker-by-name-before-he-was-stabbed-to-death-docs/",
+    "pubDate": "Fri, 25 Sep 2026 12:06:51 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "Ed Sheeran’s controversial Gillette Stadium concerts canceled amid Macklemore fallout: report",
+    "description": "The \"Shape of You\" singer was set to perform at the Foxborough, Massachusetts, stadium on Friday and Saturday evening as part of his Loop Tour.",
+    "link": "https://pagesix.com/2026/09/25/entertainment/ed-sheerans-gillette-stadium-concerts-canceled-amid-macklemore-fallout-report/",
+    "pubDate": "Fri, 25 Sep 2026 12:05:49 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "Army vs. Temple odds, pick: Expect old-school football in Philly on Friday",
+    "description": "Army and Temple love to keep the ball on the ground.",
+    "link": "https://nypost.com/2026/09/25/betting/army-vs-temple-odds-pick-college-football-week-4-best-bets-picks-odds/",
+    "pubDate": "Fri, 25 Sep 2026 12:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "College football Week 4 predictions: Best bets, picks against the spread",
+    "description": "Howie Kussoy, also known as the Pigskin Profit, is taking the favorite in Oregon-USC on Saturday.",
+    "link": "https://nypost.com/2026/09/25/betting/college-football-week-4-predictions-best-bets-picks-against-the-spread/",
+    "pubDate": "Fri, 25 Sep 2026 12:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "‘Unabomber’ True Story: Netflix’s ‘Unabomber’ Movie Downplays Brother David Kaczynki’s Role In Ted Kaczynski’s Arrest",
+    "description": "The production did not speak to David Kaczynski about the film, says director Janus Metz.",
+    "link": "https://decider.com/2026/09/25/netflix-movie-unabomber-true-story-ted-kaczysnki-brother-david-kaczynski/",
+    "pubDate": "Fri, 25 Sep 2026 12:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "‘The Traitors: New Blood’ Player and MLB Analyst Xavier Scruggs Says He’s Rooting For the Contestant Who Booted Him From the Game: “I Hope Katie Wins”",
+    "description": "He's cheering for the Traitors to win it all!",
+    "link": "https://decider.com/2026/09/25/the-traitors-new-blood-player-and-mlb-analyst-xavier-scruggs-says-hes-rooting-for-the-contestant-who-booted-him-from-the-game-i-hope-katie-wins/",
+    "pubDate": "Fri, 25 Sep 2026 12:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "New York kitten rescue says ‘NO. F***ING. MAGA’ adoptions, responds to backlash",
+    "description": "A New York kitten rescue is facing backlash after posting that MAGA supporters and conservatives are not welcome to adopt its animals. “MAGA? Nope. Conservative? Nope. ‘I’m not political’? Nice loophole. Still nope,” Itty Bitty City Kitties wrote on Facebook alongside an image of a kitten carrying the message, “NO. F***ING. MAGA.”  Itty Bitty City […]",
+    "link": "https://www.washingtonexaminer.com/news/4742798/itty-bitty-city-kitties-no-maga-responds-backlash/",
+    "pubDate": "Fri, 25 Sep 2026 16:11:27 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "animals",
+      "donald trump",
+      "ice",
+      "immigrants",
+      "make america great again",
+      "new york city",
+      "palestinians",
+      "peta"
+    ],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "Becerra leads in California governor’s race, but voters remain lukewarm",
+    "description": "Xavier Becerra may have a commanding lead in California’s gubernatorial race, but voters don’t seem particularly excited about him. Becerra, the former President Joe Biden administration health secretary, leads Republican Steve Hilton by 18 points among likely voters, 54% to 36%, according to a new Politico-UC Berkeley Citrin Center for Public Opinion Research poll. But […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/state/4742855/becerra-leads-in-california-governors-race-but-voters-remain-lukewarm/",
+    "pubDate": "Fri, 25 Sep 2026 16:08:15 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "state",
+      "california",
+      "gas prices",
+      "polls"
+    ],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "Fed Plans to Raise Bank Oversight Thresholds, Sources Say - Newsmax",
+    "description": "Fed Plans to Raise Bank Oversight Thresholds, Sources Say  Newsmax",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY0tZS3JwdkMzanFCRVduM0RRbVJTTmM4aTNPckVSdDN1a2tjcHE5UXJYVWMyUVB6WTRxTXROdy1GNEMxYWQ1bHlHV19QdWJSZER1X1dia3NnMHAyOUJ2Z2Z4eGpuOF9lbEhBTWhZSXptd3BJQlZpNVhVT0RpeFZxdEJJazlsZDg0YlZ1Y0g0aVVROHJmSl8wSjJsbVlsV09Rc3lnV3p5UEhjNUk?oc=5",
+    "pubDate": "Fri, 25 Sep 2026 13:11:47 GMT",
+    "source": "Newsmax",
+    "categories": [],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
+  },
+  {
+    "title": "Iran Offers to Reopen Strait of Hormuz Within a Week - Newsmax",
+    "description": "Iran Offers to Reopen Strait of Hormuz Within a Week  Newsmax",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTDROaXhTYkJuMXNLUmtEXy1CMWF5WjR4NjV2MF9ZQko0UDZRZ0xoOTRYdlNBTFpMckt0YkxKRXFrM0JmeVBJeGFsS0swWUlTX0tEaURNQ2FJanl5MUJzSUZ5ZTFlbGJLVk1nNXFoSmRpM2lTTWhDZW5sUWVyQ2x0X2pMOHUzQkNxVlAySzMycXZsbU9sSW9RX0FXZEFsTUE?oc=5",
+    "pubDate": "Fri, 25 Sep 2026 12:52:00 GMT",
+    "source": "Newsmax",
+    "categories": [],
+    "collectedAt": "2026-09-25T16:15:02.692Z"
   }
 ]
