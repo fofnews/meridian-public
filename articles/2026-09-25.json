@@ -43,5 +43,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-25T04:45:01.350Z"
+  },
+  {
+    "title": "British rapper Yung Filly to face rape retrial in Australia next June",
+    "description": "Andres Felipe Valencia Barrientos was cleared of several sexual offences in July but a jury was undecided on three rape charges.",
+    "link": "https://www.bbc.co.uk/news/articles/cmj643pd4e11o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 25 Sep 2026 04:02:54 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-25T05:00:01.575Z"
+  },
+  {
+    "title": "Pakistani forces kill Afghan Taliban fighters in border escalation",
+    "description": "Pakistan's security forces report ongoing cross-border fire in latest fighting with Afghanistan.",
+    "link": "https://www.aljazeera.com/news/2026/9/25/pakistani-forces-kill-afghan-taliban-fighters-in-border-escalation?traffic_source=rss",
+    "pubDate": "Fri, 25 Sep 2026 04:22:10 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-25T05:00:01.575Z"
   }
 ]
