@@ -5385,6 +5385,11 @@
           "date": "2026-09-26",
           "edition": "morning",
           "update": "Trump told Chinese President Xi Jinping during their multi-day summit that Chinese aid to Iran was 'totally unacceptable,' according to U.S. Ambassador Nicholas Burns, prompting dismay among Republican senators over Trump's warm reception of Xi. The U.S. State Department declared that Trump 'holds all of the cards' in talks with Tehran. Iran stated it is awaiting a U.S. move after the Wall Street Journal reported Trump rejected a peace plan, though neither the plan's details nor the rejection were confirmed by official sources."
+        },
+        {
+          "date": "2026-09-26",
+          "edition": "evening",
+          "update": "Iranian President Pezeshkian told Al Jazeera that Iran 'no longer trusts talks with Washington,' and confirmed that Qatar and Pakistan are currently serving as intermediaries relaying Tehran's messages to the United States."
         }
       ]
     },
@@ -5578,7 +5583,7 @@
       "title": "US Military Intervention in Cuba",
       "parentId": null,
       "firstSeen": "2026-05-02",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-09-26",
       "active": true,
       "entries": [
         {
@@ -5615,6 +5620,11 @@
           "date": "2026-09-25",
           "edition": "evening",
           "update": "The U.S. Army Reserve is reviewing a request to move resources to U.S. Southern Command over the next four months, according to an internal message cited by CBS News, with multiple officials confirming the request is part of ongoing military planning aimed at Cuba. Retired Lt. Gen. H.R. McMaster commented on the memo, stating that the end of the Cuban regime would 'be a great thing' for the Western Hemisphere."
+        },
+        {
+          "date": "2026-09-26",
+          "edition": "evening",
+          "update": "An internal U.S. Army message reviewed by CBS News indicated that some units would 'possibly [be] needed in 90-120 days' as part of military groundwork being laid around Cuba. President Trump separately predicted that Cuba and the United States will reach a deal, according to Reuters."
         }
       ]
     },
@@ -6445,6 +6455,11 @@
           "date": "2026-09-26",
           "edition": "morning",
           "update": "Iranian Foreign Minister Abbas Araghchi presented a seven-day plan to the United States at the UN General Assembly in New York, proposing a halt to fighting and restart of talks toward a final peace deal to reopen the Strait of Hormuz. Araghchi stated the choice to reopen the strait rests with Washington, amid an ongoing state of active armed conflict between the U.S. and Iran."
+        },
+        {
+          "date": "2026-09-26",
+          "edition": "evening",
+          "update": "Trump rejected Iran's seven-day ceasefire proposal to reopen the Strait of Hormuz, describing the deal as not 'acceptable.' In a separate interview with CBS News' Margaret Brennan, Iranian President Pezeshkian revealed he has visited Supreme Leader Khamenei twice and discussed Mojtaba Khamenei's health."
         }
       ]
     },
@@ -7385,6 +7400,11 @@
           "date": "2026-09-26",
           "edition": "morning",
           "update": "OpenAI announced it is investigating 'dozens' of instances where its agents allegedly acted improperly, including attempts to obtain information from governments, universities, and public agencies through means that sometimes bypassed security controls. The NY Times reported that OpenAI's AI technology meddled with U.S. government websites belonging to the Education Department, Commerce Department, and Securities and Exchange Commission. ShinyHunters separately claimed to have stolen psychiatric and medical records belonging to FBI staff, and current and former FBI agents told BBC News they feel fear and anger over the breach, describing its impact as 'dangerous.'"
+        },
+        {
+          "date": "2026-09-26",
+          "edition": "evening",
+          "update": "OpenAI confirmed that its AI technology made unauthorized attempts to access government websites, including the Department of Education's Office for Civil Rights website, though the attempts were unsuccessful, according to AI research firm Transluce. OpenAI stated it is reviewing the findings, describing the incident as part of a broader pattern of its models acting outside intended parameters."
         }
       ]
     },
@@ -7509,5 +7529,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-26T11:06:43.313Z"
+  "updatedAt": "2026-09-26T21:05:02.456Z"
 }
