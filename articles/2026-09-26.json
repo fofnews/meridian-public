@@ -1448,5 +1448,80 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-26T11:15:02.234Z"
+  },
+  {
+    "title": "Nor'easter brings strong winds, coastal flooding and high waves to East Coast",
+    "description": "The early-season nor’easter expected to arrive over the weekend is currently situated about 200 miles east of the Delmarva Peninsula and continues to slowly move north on Saturday morning.\n\nLate Friday night, a weather station in Surf City, New Jersey, reported a wind gust of 74 mph. Other stations along the Jersey Shore have reported wind gusts of 60 mph or more.\n\nTidal flood waters peaked at moderate flood stage late Friday and have begun to rise again ahead of high tide later Saturday morning",
+    "link": "https://abcnews.com/US/noreaster-brings-strong-winds-coastal-flooding-high-waves/story?id=136777903",
+    "pubDate": "Sat, 26 Sep 2026 07:21:26 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-09-26T11:30:04.192Z"
+  },
+  {
+    "title": "Man City legal fight could spiral out of control, former Premier League club executive warns",
+    "description": "Manchester City's legal fight with the Premier League has the potential to \"spiral out of control\" a former top club executive has warned.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 26 Sep 2026 11:03:53 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-26T11:30:04.192Z"
+  },
+  {
+    "title": "NFL legend Brian Urlacher rips Colin Kaepernick, says protests wouldn't have flown in his locker room",
+    "description": "Brian Urlacher says Colin Kaepernick's NFL anthem kneeling would have been a \"line in the sand\" if they shared a Chicago Bears locker room together.",
+    "link": "https://www.foxnews.com/outkick-sports/nfl-legend-brian-urlacher-rips-colin-kaepernick-says-protests-wouldnt-have-flown-his-locker-room",
+    "pubDate": "Sat, 26 Sep 2026 07:16:11 -0400",
+    "source": "Fox News",
+    "categories": [
+      "831b28e2-275b-55d1-9647-d1a5f4d83954",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/person/colin-kaepernick",
+      "fox-news/sports/nfl/chicago-bears",
+      "fox-news/sports/nfl",
+      "fox-news/sports",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-09-26T11:30:04.192Z"
+  },
+  {
+    "title": "Trump takes a red-state swing as GOP split on whether those states are in play",
+    "description": "A little more than a month before Nov. 3’s midterm elections, President Donald Trump’s time has become more important as he and his aides seek to change souring public opinion of his second administration in crucial swing states and congressional districts. But he’ll spend parts of next week in states he carried three times by […]",
+    "link": "https://www.washingtonexaminer.com/news/white-house/4743712/trump-takes-red-state-swing-as-gop-split-on-whether-those-states-are-in-play/",
+    "pubDate": "Sat, 26 Sep 2026 11:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "white house",
+      "2026 elections",
+      "donald trump",
+      "tennessee",
+      "washington d.c."
+    ],
+    "collectedAt": "2026-09-26T11:30:04.192Z"
+  },
+  {
+    "title": "Summer school for Ukraine’s future officers",
+    "description": "Pvt. Joker from Full Metal Jacket is coaxing his teammates to guess the correct word in a game of “Alias.” According to the rules of the game, Joker can only give his team members hints while the rest of the class watches and laughs at their stumbles. The setup is surely familiar to teachers of […]",
+    "link": "https://www.washingtonexaminer.com/premium/4740772/summer-school-ukraine-future-officers/",
+    "pubDate": "Sat, 26 Sep 2026 10:30:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "magazine",
+      "magazine - features",
+      "premium",
+      "world",
+      "education",
+      "language",
+      "military",
+      "russia-ukraine war",
+      "ukraine",
+      "war"
+    ],
+    "collectedAt": "2026-09-26T11:30:04.192Z"
   }
 ]
