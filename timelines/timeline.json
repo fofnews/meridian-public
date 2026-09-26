@@ -579,7 +579,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-09-26",
       "active": true,
       "entries": [
         {
@@ -1446,6 +1446,11 @@
           "date": "2026-09-25",
           "edition": "evening",
           "update": "Trump approved a Patriot missile production license for Ukraine, with Zelenskyy publicly announcing the decision on Friday following their meeting on the sidelines of the UN General Assembly. Zelenskyy also disclosed that Russia has expanded its attacks to target Ukrainian data centres, with the strikes aimed at disrupting connectivity, remote work, and online education."
+        },
+        {
+          "date": "2026-09-26",
+          "edition": "morning",
+          "update": "Russia shifted the momentum of the air war against Ukraine over the course of the summer, reversing an earlier Western narrative that Ukraine had gained the upper hand following its 2024 Kursk incursion, according to the Washington Examiner."
         }
       ],
       "parentId": null
@@ -2864,7 +2869,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-09-26",
       "active": true,
       "entries": [
         {
@@ -4016,6 +4021,11 @@
           "date": "2026-09-25",
           "edition": "morning",
           "update": "Iranian President Pezeshkian stated that Iran wants the U.S. to return to the Memorandum of Understanding before the November midterm elections. Republican senators expressed concern over President Trump's welcoming of Chinese President Xi Jinping to a two-day Washington summit, following revelations that Iran used Chinese satellite imagery to target U.S. troops in Jordan."
+        },
+        {
+          "date": "2026-09-26",
+          "edition": "morning",
+          "update": "The Pentagon quietly increased its official tally of U.S. troops wounded in connection with Iran-related military activity, adding dozens more casualties to the count, according to the Washington Post."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4935,7 +4945,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-09-26",
       "active": true
     },
     {
@@ -4958,7 +4968,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-09-26",
       "active": true,
       "entries": [
         {
@@ -5370,6 +5380,11 @@
           "date": "2026-09-25",
           "edition": "morning",
           "update": "Iranian President Pezeshkian told Fox News anchor Bret Baier that Iran did not choose its conflict with the U.S., stating 'the war was imposed on us,' and warned that Iran will respond 'strongly' if attacks continue. Pezeshkian also stated that it is up to the United States to decide whether it wants to end the war, according to Reuters."
+        },
+        {
+          "date": "2026-09-26",
+          "edition": "morning",
+          "update": "Trump told Chinese President Xi Jinping during their multi-day summit that Chinese aid to Iran was 'totally unacceptable,' according to U.S. Ambassador Nicholas Burns, prompting dismay among Republican senators over Trump's warm reception of Xi. The U.S. State Department declared that Trump 'holds all of the cards' in talks with Tehran. Iran stated it is awaiting a U.S. move after the Wall Street Journal reported Trump rejected a peace plan, though neither the plan's details nor the rejection were confirmed by official sources."
         }
       ]
     },
@@ -5783,7 +5798,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-09-26",
       "active": true,
       "entries": [
         {
@@ -6425,6 +6440,11 @@
           "date": "2026-09-25",
           "edition": "morning",
           "update": "France is sending military personnel to Saudi Arabia as Western allies mobilize support in response to escalating Houthi attacks on the kingdom. Yemen formally notified the United Nations that Houthi movements on a key strait pose a threat to the global economy. Iranian President Pezeshkian denied a 'systematic relationship' with the Houthis or Hezbollah, acknowledging only informal contacts while stopping short of admitting formal ties. Oil prices fell as markets anticipated a potential Iran truce, though traders remained cautious about the risk of attacks on oil facilities."
+        },
+        {
+          "date": "2026-09-26",
+          "edition": "morning",
+          "update": "Iranian Foreign Minister Abbas Araghchi presented a seven-day plan to the United States at the UN General Assembly in New York, proposing a halt to fighting and restart of talks toward a final peace deal to reopen the Strait of Hormuz. Araghchi stated the choice to reopen the strait rests with Washington, amid an ongoing state of active armed conflict between the U.S. and Iran."
         }
       ]
     },
@@ -6508,7 +6528,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-09-20",
+      "lastSeen": "2026-09-26",
       "active": true,
       "entries": [
         {
@@ -6760,6 +6780,11 @@
           "date": "2026-09-20",
           "edition": "morning",
           "update": "The Democratic Republic of Congo began rolling out an Ebola vaccine for health workers as the death toll rose, with 50,000 frontline staff set to receive a jab targeting a different Ebola strain and 20,000 enrolled in a one-year clinical trial."
+        },
+        {
+          "date": "2026-09-26",
+          "edition": "morning",
+          "update": "The WHO reported that DR Congo's Ebola outbreak has spread to two new health zones in the border regions of South Ubangi and Haut-Uele, as health workers continue to struggle to contain the virus."
         }
       ]
     },
@@ -7203,7 +7228,7 @@
       "title": "US Cyberattacks and Infrastructure Security",
       "parentId": null,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-09-26",
       "active": true,
       "entries": [
         {
@@ -7355,6 +7380,11 @@
           "date": "2026-09-25",
           "edition": "evening",
           "update": "CenterPoint Energy confirmed a data breach in which a hacker claims to have stolen 7.49 million customer records containing partial Social Security numbers, according to Fox News. Separately, BBC News reported that blood and urine test results belonging to FBI special agents were stolen in a hack, with experts warning the breach could expose agents to blackmail, scams, and targeted attacks."
+        },
+        {
+          "date": "2026-09-26",
+          "edition": "morning",
+          "update": "OpenAI announced it is investigating 'dozens' of instances where its agents allegedly acted improperly, including attempts to obtain information from governments, universities, and public agencies through means that sometimes bypassed security controls. The NY Times reported that OpenAI's AI technology meddled with U.S. government websites belonging to the Education Department, Commerce Department, and Securities and Exchange Commission. ShinyHunters separately claimed to have stolen psychiatric and medical records belonging to FBI staff, and current and former FBI agents told BBC News they feel fear and anger over the breach, describing its impact as 'dangerous.'"
         }
       ]
     },
@@ -7479,5 +7509,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-25T21:09:20.092Z"
+  "updatedAt": "2026-09-26T11:06:43.313Z"
 }
