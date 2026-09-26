@@ -503,5 +503,41 @@
       "sport"
     ],
     "collectedAt": "2026-09-26T08:45:04.727Z"
+  },
+  {
+    "title": "OpenAI agent accessed government website data after going rogue, company reveals",
+    "description": "The disclosure comes at a time of heightened concern over AI agents acting outside of human control.",
+    "link": "https://www.cbsnews.com/news/openai-ai-agent-bot-rogue-hack-government-website/",
+    "pubDate": "Sat, 26 Sep 2026 04:52:35 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-26T09:00:01.244Z"
+  },
+  {
+    "title": "Donald Trump Hit With 26 Articles Of Impeachment",
+    "description": "A House Democrat has introduced 26 articles of impeachment against Trump, alleging sweeping abuses across his second presidency.",
+    "link": "https://www.newsweek.com/donald-trump-hit-with-26-articles-of-impeachment-12492238",
+    "pubDate": "Sat, 26 Sep 2026 04:53:40 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-26T09:00:01.244Z"
+  },
+  {
+    "title": "Joshua fight at risk over promoter row, says Fury",
+    "description": "Tyson Fury says his long-awaited all-British heavyweight fight against Anthony Joshua in December is in jeopardy.",
+    "link": "https://www.bbc.co.uk/sport/boxing/articles/cq3d77ppnzdro?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 26 Sep 2026 08:39:44 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-26T09:00:01.244Z"
+  },
+  {
+    "title": "Bangkok declares disaster as heavy rains spark flooding",
+    "description": "Days of near continuous downpours have caused widespread flooding in the Thai capital.",
+    "link": "https://www.bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 26 Sep 2026 06:28:58 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-26T09:00:01.244Z"
   }
 ]
