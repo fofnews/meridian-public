@@ -175,5 +175,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-26T05:15:01.460Z"
+  },
+  {
+    "title": "White House bars CNN from travelling with Trump on Air Force One",
+    "description": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.",
+    "link": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 26 Sep 2026 05:09:09 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-26T05:30:02.245Z"
+  },
+  {
+    "title": "‘Shaken faith’: Why are India’s elections under unprecedented scrutiny?",
+    "description": "India has long held up its elections as evidence of its democratic credentials. Now their legitimacy is under question.",
+    "link": "https://www.aljazeera.com/news/2026/9/26/shaken-faith-why-are-indias-elections-under-unprecedented-scrutiny?traffic_source=rss",
+    "pubDate": "Sat, 26 Sep 2026 04:48:41 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-26T05:30:02.245Z"
   }
 ]
