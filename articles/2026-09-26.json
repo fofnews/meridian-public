@@ -1981,5 +1981,79 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-26T12:30:01.651Z"
+  },
+  {
+    "title": "Nor'easter brings powerful winds, severe flooding to the East Coast",
+    "description": "Tens of millions of people are in the path of the storm, which has canceled flights, concerts and sporting events.",
+    "link": "https://www.cbsnews.com/news/east-coast-noreaster-severe-flooding-winds-evacuations/",
+    "pubDate": "Sat, 26 Sep 2026 08:37:57 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-26T12:45:05.158Z"
+  },
+  {
+    "title": "Judge Finds DHS in Contempt, Orders Deported Teen Be Returned",
+    "description": "Federal judge finds DHS in contempt, orders deported teen returned to the U.S. to pursue his asylum claim.",
+    "link": "https://www.newsweek.com/judge-finds-dhs-in-contempt-orders-deported-teen-be-returned-12492308",
+    "pubDate": "Sat, 26 Sep 2026 08:36:17 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-26T12:45:05.158Z"
+  },
+  {
+    "title": "At least two dead after explosion destroys building close to Acropolis in Athens",
+    "description": "Local media report the property included a holiday rental, with US tourists and a UK national among the missing.",
+    "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 26 Sep 2026 10:18:51 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-26T12:45:05.158Z"
+  },
+  {
+    "title": "Prince Harry says it is 'great' to be back in Britain after six years in US",
+    "description": "The Duke of Sussex also added that Prince Archie and Princess Lilibet are “happy in school” after returning to the UK a month ago.",
+    "link": "https://www.bbc.co.uk/news/articles/cm5yww993n10o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 26 Sep 2026 12:26:53 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-26T12:45:05.158Z"
+  },
+  {
+    "title": "China is playing a different game when it comes to AI",
+    "description": "Experts say the U.S. and China aren’t in an AI race because they aren’t targeting the same goals.",
+    "link": "https://www.marketwatch.com/story/china-is-playing-a-different-game-when-it-comes-to-ai-c48791cd?mod=mw_rss_topstories",
+    "pubDate": "Sat, 26 Sep 2026 12:30:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-09-26T12:45:05.158Z"
+  },
+  {
+    "title": "Trump revives rare budget maneuver to rescind $810M in congressionally approved funds",
+    "description": "Trump used a pocket rescission to cancel $810 million in approved spending on refugee programs, diversity initiatives and migrant education.",
+    "link": "https://www.foxnews.com/politics/trump-revives-rare-budget-maneuver-rescind-810m-congressionally-approved-funds",
+    "pubDate": "Sat, 26 Sep 2026 08:27:36 -0400",
+    "source": "Fox News",
+    "categories": [
+      "e32edd79-6927-53a1-8e76-42e5b09f9822",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/person/donald-trump",
+      "fox-news/politics/executive/white-house",
+      "fox-news/us/congress",
+      "fox-news/politics/executive-policy",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-09-26T12:45:05.158Z"
+  },
+  {
+    "title": "I tested Bose’s new QuietComfort headphones, and one upgrade stole the show",
+    "description": "I put these headphones to the test.",
+    "link": "https://nypost.com/shopping/bose-quiet-comfort-headphones-2-review/",
+    "pubDate": "Sat, 26 Sep 2026 08:30:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-26T12:45:05.158Z"
   }
 ]
