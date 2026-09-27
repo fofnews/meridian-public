@@ -551,5 +551,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-27T08:15:01.782Z"
+  },
+  {
+    "title": "UK police arrest several under explosives act in 'major incident' near US air base",
+    "description": "British police announced on Sunday morning that several people were arrested \"on suspicion of offenses under the explosives act\" close to a major U.S. air base.",
+    "link": "https://abcnews.com/International/uk-police-arrest-explosives-act-major-incident-us/story?id=136793301",
+    "pubDate": "Sun, 27 Sep 2026 04:24:52 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-09-27T08:30:01.349Z"
+  },
+  {
+    "title": "'Major Incident' Near UK Military Base Used By US For Iran Attacks",
+    "description": "RAF Fairford, a major military base in southwestern England, has been used by U.S. bombers for strikes on Iran.",
+    "link": "https://www.newsweek.com/major-incident-near-uk-military-base-used-by-us-for-iran-attacks-12493756",
+    "pubDate": "Sun, 27 Sep 2026 04:19:58 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-27T08:30:01.349Z"
   }
 ]
