@@ -571,5 +571,65 @@
     "source": "Newsweek",
     "categories": [],
     "collectedAt": "2026-09-27T08:30:01.349Z"
+  },
+  {
+    "title": "Dog rescued from cliff ledge at landmark waterfall",
+    "description": "Eight-year-old Labrador Penny was stranded on a narrow ledge in Ingleton, rescue services say.",
+    "link": "https://www.bbc.co.uk/news/articles/crn4554kxwdlo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 27 Sep 2026 08:20:49 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-27T08:45:01.424Z"
+  },
+  {
+    "title": "Suicide bombing in northwest Pakistan kills at least 12",
+    "description": "A vehicle laden with explosives rammed into a roadside checkpoint in Pakistan, killing at least a dozen people.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/suicide-bombing-in-northwest-pakistan-kills-at-least-12?traffic_source=rss",
+    "pubDate": "Sun, 27 Sep 2026 08:26:24 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-09-27T08:45:01.424Z"
+  },
+  {
+    "title": "Pope Leo draws hundreds of thousands for open-air Mass in Paris",
+    "description": "Pope Leo XIV celebrates an open-air mass for hundreds of thousands of believers on the Champs-Elysees.",
+    "link": "https://www.aljazeera.com/gallery/2026/9/27/photos-pope-leo-draws-hundreds-of-thousands-for-open-air-mass-in-paris?traffic_source=rss",
+    "pubDate": "Sun, 27 Sep 2026 08:22:01 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-27T08:45:01.424Z"
+  },
+  {
+    "title": "Israel’s Netanyahu criticises opposition uniting against him for election",
+    "description": "Five opposition leaders agree to cooperate to boost voter turnout to secure a majority in the October 27 elections.",
+    "link": "https://www.aljazeera.com/news/2026/9/27/israels-netanyahu-criticises-opposition-uniting-against-him-for-election?traffic_source=rss",
+    "pubDate": "Sun, 27 Sep 2026 08:10:22 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-27T08:45:01.424Z"
+  },
+  {
+    "title": "Maren Morris flaunts bikini body in photo dump from her girls trip to Bali",
+    "description": "Maren Morris is sharing photos from her healing journey.",
+    "link": "https://pagesix.com/2026/09/27/celebrity-news/maren-morris-flaunts-bikini-body-in-photo-dump-from-bali-vacation/",
+    "pubDate": "Sun, 27 Sep 2026 04:43:28 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-27T08:45:01.424Z"
+  },
+  {
+    "title": "‘Mike & Molly’ star Billy Gardell reveals weight loss surgery ‘probably saved’ his life",
+    "description": "He explained that he had developed Type 2 diabetes and \"some cholesterol stuff, some heart stuff.\"",
+    "link": "https://nypost.com/2026/09/27/health/mike-molly-star-billy-gardell-reveals-weight-loss-surgery-probably-saved-his-life/",
+    "pubDate": "Sun, 27 Sep 2026 04:39:13 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-27T08:45:01.424Z"
   }
 ]
