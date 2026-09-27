@@ -1456,6 +1456,11 @@
           "date": "2026-09-27",
           "edition": "morning",
           "update": "Ukraine is reportedly weighing the decriminalization of pornography as a potential source of tax revenue to help fund its war effort, according to the New York Post; producing or possessing pornography in Ukraine is currently a criminal offense carrying penalties of up to seven years in prison."
+        },
+        {
+          "date": "2026-09-27",
+          "edition": "evening",
+          "update": "Russia launched strikes against Ukraine's largest mobile provider and targeted data centres, according to Reuters. Ukraine reported that a secret robot-aided military operation resulted in approximately 3,000 Russian casualties, according to Newsmax."
         }
       ],
       "parentId": null
@@ -4041,6 +4046,11 @@
           "date": "2026-09-27",
           "edition": "morning",
           "update": "The UN General Assembly concluded with mixed diplomatic outcomes on US-Iran tensions, with the results of the week's intensive diplomacy remaining unclear, according to Al Jazeera. Some Republicans who previously backed Trump's war with Iran are shifting their positions as the conflict drives up gas and diesel prices and threatens the party's prospects ahead of the November midterm elections, according to the New York Times."
+        },
+        {
+          "date": "2026-09-27",
+          "edition": "evening",
+          "update": "Iranian Foreign Minister Abbas Araghchi said in an NBC News Meet the Press interview with Kristen Welker that Iran is prepared for war with the United States to resume, including what he called a 'doomsday war,' while also stating Iran has not abandoned diplomacy and still seeks peace. U.S. Ambassador to the UN Mike Waltz said Trump rejected Iran's ceasefire proposal because Iranian officials demanded upfront relief from billions of dollars in sanctions before any agreement. Trump officials including Secretary of State Marco Rubio warned that Iran is 'miscalculating' by betting U.S. midterm elections will weaken Trump's negotiating position, following approximately three hours of talks between the two countries. Analysts cited by Al Jazeera warned that Trump's strategy of rejecting Iran's truce offer to extract greater concessions through economic sanctions risks losing negotiating leverage. Sen. Mark Kelly (D-Ariz.) said Trump is 'stuck' in the conflict and criticized the administration for entering without a strategic goal, plan, timeline, or exit strategy."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -5410,6 +5420,11 @@
           "date": "2026-09-27",
           "edition": "morning",
           "update": "Following reports that Trump rejected a peace plan, Iran reiterated its insistence on a diplomatic solution, according to Reuters."
+        },
+        {
+          "date": "2026-09-27",
+          "edition": "evening",
+          "update": "Iranian Foreign Minister Araghchi said Iran is seeking clarification from the U.S. after Trump rejected its cease-fire proposal, stating that a history of contradictory messaging from Washington meant Trump's rebuff may not represent a final position."
         }
       ]
     },
@@ -7554,5 +7569,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-27T11:04:34.262Z"
+  "updatedAt": "2026-09-27T21:06:58.320Z"
 }
