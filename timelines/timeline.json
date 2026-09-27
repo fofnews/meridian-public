@@ -579,7 +579,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "active": true,
       "entries": [
         {
@@ -1451,6 +1451,11 @@
           "date": "2026-09-26",
           "edition": "morning",
           "update": "Russia shifted the momentum of the air war against Ukraine over the course of the summer, reversing an earlier Western narrative that Ukraine had gained the upper hand following its 2024 Kursk incursion, according to the Washington Examiner."
+        },
+        {
+          "date": "2026-09-27",
+          "edition": "morning",
+          "update": "Ukraine is reportedly weighing the decriminalization of pornography as a potential source of tax revenue to help fund its war effort, according to the New York Post; producing or possessing pornography in Ukraine is currently a criminal offense carrying penalties of up to seven years in prison."
         }
       ],
       "parentId": null
@@ -1724,7 +1729,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-09-27",
       "active": true,
       "entries": [
         {
@@ -2081,6 +2086,11 @@
           "date": "2026-09-25",
           "edition": "evening",
           "update": "Three Iraqi airports suspended Iranian flights beginning Friday, according to sources and Iraqi state media, disrupting air travel between the two countries."
+        },
+        {
+          "date": "2026-09-27",
+          "edition": "morning",
+          "update": "Israeli UN Ambassador Danny Danon's Starlink video went viral with approximately 9 million views, with his office reporting that nearly 40% of Instagram viewers were located in Iran, prompting a counter-campaign in response. Iceland's Foreign Minister publicly pushed back against Israeli Prime Minister Netanyahu's characterization of diplomats who walked out of his UN General Assembly address as 'moral cowards.'"
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2869,7 +2879,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "active": true,
       "entries": [
         {
@@ -4026,6 +4036,11 @@
           "date": "2026-09-26",
           "edition": "morning",
           "update": "The Pentagon quietly increased its official tally of U.S. troops wounded in connection with Iran-related military activity, adding dozens more casualties to the count, according to the Washington Post."
+        },
+        {
+          "date": "2026-09-27",
+          "edition": "morning",
+          "update": "The UN General Assembly concluded with mixed diplomatic outcomes on US-Iran tensions, with the results of the week's intensive diplomacy remaining unclear, according to Al Jazeera. Some Republicans who previously backed Trump's war with Iran are shifting their positions as the conflict drives up gas and diesel prices and threatens the party's prospects ahead of the November midterm elections, according to the New York Times."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4945,7 +4960,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "active": true
     },
     {
@@ -4968,7 +4983,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-27",
       "active": true,
       "entries": [
         {
@@ -5390,6 +5405,11 @@
           "date": "2026-09-26",
           "edition": "evening",
           "update": "Iranian President Pezeshkian told Al Jazeera that Iran 'no longer trusts talks with Washington,' and confirmed that Qatar and Pakistan are currently serving as intermediaries relaying Tehran's messages to the United States."
+        },
+        {
+          "date": "2026-09-27",
+          "edition": "morning",
+          "update": "Following reports that Trump rejected a peace plan, Iran reiterated its insistence on a diplomatic solution, according to Reuters."
         }
       ]
     },
@@ -7413,7 +7433,7 @@
       "title": "Airport Security Threats and Explosive Device Incidents",
       "parentId": null,
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-09-18",
+      "lastSeen": "2026-09-27",
       "active": true,
       "entries": [
         {
@@ -7475,6 +7495,11 @@
           "date": "2026-09-18",
           "edition": "evening",
           "update": "A vehicle loaded with explosives rammed into a mosque during Friday prayers in Pakistan, killing at least 16 people, according to a senior police official. Detroit's Temple Israel synagogue reopened ahead of the Jewish high holidays, months after a man drove a car loaded with explosives into the building in March, killing only himself in what investigators called an attempted terror attack."
+        },
+        {
+          "date": "2026-09-27",
+          "edition": "morning",
+          "update": "British police arrested several men on suspicion of explosives offences near RAF Fairford in Gloucestershire, with a 'major incident' declared and residents evacuated from the nearby village of Whelford, according to BBC News. Bomb disposal units were deployed to the scene, which is an air base used by U.S. forces involved in operations targeting Iran since the start of the war in February, per CBS News. Separately, a civilian breached the perimeter of MacDill Air Force Base in Florida and violently engaged security personnel, prompting closure of the base's Dale Mabry Gate, according to Fox News."
         }
       ]
     },
@@ -7529,5 +7554,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-26T21:05:02.456Z"
+  "updatedAt": "2026-09-27T11:04:34.262Z"
 }
