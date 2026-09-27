@@ -7787,5 +7787,45 @@
     "source": "Newsmax",
     "categories": [],
     "collectedAt": "2026-09-27T02:00:01.366Z"
+  },
+  {
+    "title": "Israeli UN envoy's Starlink video reaches millions, with nearly 40% of Instagram viewers in Iran",
+    "description": "Danny Danon's viral Starlink video drew 9 million views, with nearly 40% of Instagram viewers in Iran, his office says, prompting a counter-campaign.",
+    "link": "https://www.foxnews.com/world/israeli-un-envoy-starlink-video-reaches-millions-nearly-40-percent-instagram-viewers-iran",
+    "pubDate": "Sat, 26 Sep 2026 22:04:33 -0400",
+    "source": "Fox News",
+    "categories": [
+      "795a373a-e19e-5da3-9320-da354f9753b6",
+      "fnc",
+      "fox news",
+      "fox-news/world/conflicts/iran",
+      "fox-news/world/world-regions/israel",
+      "fox-news/world/united-nations",
+      "fox-news/lifestyle/viral-videos",
+      "fox-news/fox-nation/caught-on-camera",
+      "fox-news/person/benjamin-netanyahu",
+      "fox-news/world",
+      "fox-news/world",
+      "article"
+    ],
+    "collectedAt": "2026-09-27T02:15:02.104Z"
+  },
+  {
+    "title": "Wild scene as USC-Oregon brawl nearly erupts after brutal Dante Moore hit",
+    "description": "It took only seconds for a frightening hit to turn the Coliseum into a powder keg for both teams.",
+    "link": "https://nypost.com/2026/09/26/sports/brawl-nearly-erupts-between-usc-oregon-after-brutal-hit-leaves-dante-moore-motionless/",
+    "pubDate": "Sat, 26 Sep 2026 22:07:50 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-27T02:15:02.104Z"
+  },
+  {
+    "title": "Shohei Ohtani will play in Dodgers’ regular-season finale — but shouldn’t",
+    "description": "Shohei Ohtani will play in the Dodgers’ regular-season finale, but why?",
+    "link": "https://nypost.com/2026/09/26/sports/shohei-ohtani-slumping-again-dodgers-trouble/",
+    "pubDate": "Sat, 26 Sep 2026 22:01:37 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-27T02:15:02.104Z"
   }
 ]
