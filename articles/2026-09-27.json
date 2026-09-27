@@ -493,5 +493,63 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-09-27T08:00:01.341Z"
+  },
+  {
+    "title": "Trump rejects 7-day plan to reopen Strait of Hormuz",
+    "description": "Iran had presented a seven-day plan to reopen the Strait of Hormuz and return to negotiations for a lasting end to the war.",
+    "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-7-day-proposal/",
+    "pubDate": "Sun, 27 Sep 2026 04:06:56 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-27T08:15:01.782Z"
+  },
+  {
+    "title": "At least 27 killed in 2 mass shootings in South Africa",
+    "description": "The attacks come as South Africa grapples with persistent gun violence often linked to gang rivalries.",
+    "link": "https://www.cbsnews.com/news/mass-shooting-south-africa-johannesburg-capetown/",
+    "pubDate": "Sun, 27 Sep 2026 04:00:55 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-27T08:15:01.782Z"
+  },
+  {
+    "title": "Iceland FM hits back at Netanyahu over ‘moral cowards’ UNGA remark",
+    "description": "Iceland’s FM hit back at Netanyahu after he called diplomats who walked out of his UN address ‘moral cowards’.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iceland-fm-hits-back-at-netanyahu-over-moral-cowards-unga-remark?traffic_source=rss",
+    "pubDate": "Sun, 27 Sep 2026 08:05:09 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-09-27T08:15:01.782Z"
+  },
+  {
+    "title": "Heavy rains and flooding in Bangkok force thousands into shelters",
+    "description": "Continuous downpours have hammered several areas of Thailand’s capital.",
+    "link": "https://www.aljazeera.com/gallery/2026/9/27/heavy-rain-and-flooding-in-bangkok-force-thousands-into-shelters?traffic_source=rss",
+    "pubDate": "Sun, 27 Sep 2026 07:49:58 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-27T08:15:01.782Z"
+  },
+  {
+    "title": "UK police evacuate homes near air base used by US  — detain men on suspected explosives offenses",
+    "description": "The Gloucestershire Police force says “a number of properties” are being evacuated.",
+    "link": "https://nypost.com/2026/09/27/world-news/uk-police-evacuate-homes-near-air-base-used-by-us-detain-men-on-suspected-explosives-offenses/",
+    "pubDate": "Sun, 27 Sep 2026 04:13:12 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-27T08:15:01.782Z"
+  },
+  {
+    "title": "Long Island swimmer vanishes in ocean off Fire Island during deadly nor’easter as officials launch search",
+    "description": "A Long Island swimmer disappeared in the waters off Robert Moses State Park as 18-foot waves crashed onto the beaches, brought on by the deadly nor'easter hammering the NYC region.",
+    "link": "https://nypost.com/2026/09/27/us-news/long-island-swimmer-vanishes-in-ocean-off-fire-island-during-deadly-noreaster-as-officials-launch-search/",
+    "pubDate": "Sun, 27 Sep 2026 04:09:32 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-27T08:15:01.782Z"
   }
 ]
