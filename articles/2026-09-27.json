@@ -1282,5 +1282,36 @@
       "terrorism"
     ],
     "collectedAt": "2026-09-27T10:15:04.518Z"
+  },
+  {
+    "title": "Thousands without water and roads closed after burst pipe",
+    "description": "Southern Water says it is investigating the burst pipe which happened on Sunday morning.",
+    "link": "https://www.bbc.co.uk/news/articles/cm0e33ej13r5o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 27 Sep 2026 10:07:29 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-27T10:30:01.944Z"
+  },
+  {
+    "title": "Israeli minister Bezalel Smotrich calls for war in occupied West Bank",
+    "description": "Comments come as Israeli authorities announce military closure across occupied West Bank, citing Jewish holiday Sukkot.",
+    "link": "https://www.aljazeera.com/news/2026/9/27/israeli-minister-bezalel-smotrich-calls-for-war-in-occupied-west-bank?traffic_source=rss",
+    "pubDate": "Sun, 27 Sep 2026 10:01:33 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-27T10:30:01.944Z"
+  },
+  {
+    "title": "Yemen government forces widen attacks against Houthis: What we know",
+    "description": "Yemeni government forces have claimed multiple air and ground operations across Taiz in the last 24 hours.",
+    "link": "https://www.aljazeera.com/news/2026/9/27/yemen-government-forces-widen-attacks-against-houthis-what-we-know?traffic_source=rss",
+    "pubDate": "Sun, 27 Sep 2026 09:59:21 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-27T10:30:01.944Z"
   }
 ]
