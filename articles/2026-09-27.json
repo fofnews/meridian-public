@@ -631,5 +631,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-27T08:45:01.424Z"
+  },
+  {
+    "title": "Two mass shootings in South Africa leave 27 dead",
+    "description": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+    "link": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 27 Sep 2026 08:40:02 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-27T09:00:01.431Z"
+  },
+  {
+    "title": "Djibouti urges world to help as Yemen war drives refugee influx",
+    "description": "Djibouti urges world to help as Yemen war drives refugee influx",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/djibouti-urges-world-to-help-as-yemen-war-drives-refugee-influx?traffic_source=rss",
+    "pubDate": "Sun, 27 Sep 2026 08:35:25 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-27T09:00:01.431Z"
   }
 ]
