@@ -216,5 +216,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-27T05:45:01.173Z"
+  },
+  {
+    "title": "Several killed in South Africa shooting",
+    "description": "This is a breaking news story.",
+    "link": "https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting?traffic_source=rss",
+    "pubDate": "Sun, 27 Sep 2026 05:48:47 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-27T06:00:01.354Z"
+  },
+  {
+    "title": "Uneven AEW All Out didn’t get any help from overbooked main event after epic ladder match",
+    "description": "Here are five takeaways from All Out:",
+    "link": "https://nypost.com/2026/09/27/sports/aew-all-out-review-grade-will-ospreay-beats-jon-moxley/",
+    "pubDate": "Sun, 27 Sep 2026 01:47:33 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-27T06:00:01.354Z"
   }
 ]
