@@ -1879,5 +1879,138 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-27T12:00:01.662Z"
+  },
+  {
+    "title": "Playing 'La Bamba' for an hour? Must be a Mexican fandango!",
+    "description": "A 300-year-old Mexican musical tradition is finding new life around the world — one sweaty, joyous, all-night fandango at a time.",
+    "link": "https://www.npr.org/2026/09/27/nx-s1-5973237/la-bamba-mexico-fandango",
+    "pubDate": "Sun, 27 Sep 2026 08:00:00 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-09-27T12:15:11.320Z"
+  },
+  {
+    "title": "These shepherds climb down a mountain to go to night school",
+    "description": "Many thousands of boys and men in Lesotho take up the vital profession of herding but have to give up their education. A small network of schools on a shoestring budget is teaching them the ABCs.",
+    "link": "https://www.npr.org/2026/09/27/g-s1-143582/night-school-shepherds-lesotho",
+    "pubDate": "Sun, 27 Sep 2026 07:53:42 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-09-27T12:15:11.320Z"
+  },
+  {
+    "title": "Pope Leo urges Church to face failings before meeting French abuse survivors - Reuters",
+    "description": "Pope Leo urges Church to face failings before meeting French abuse survivors  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWGNfb19vNE0wR0lybVdvaHJncHRrRUZsLVpzbzdGWkhBeVNRanRfOEl4T2RmWXVSc3NlMFl6S2hzaER2c0dmZzNLcGlrTGdyMXRhOXQ3NzZfMU1hZkZNeUxReG93aWhIY0U1WUI3TGc2bEhBY2w1Z2V6OXZEN2Z5dWVNN1hFU0R2WlNZUl9sN0tuOVlkdDdnT2NaU29kOV96R1dFR0w5QkRKSko1RlYtTktmSW1ZNi1EeUtSdnpxSQ?oc=5",
+    "pubDate": "Sun, 27 Sep 2026 09:37:43 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-27T12:15:11.320Z"
+  },
+  {
+    "title": "Trump boasts about economy, slams ‘fake news’ amid media battle",
+    "description": "President Trump late Saturday boasted about the U.S. economy while accusing news outlets of “fake news” amid his battle over media coverage at the White House and of his administration. “We have the BEST FINANCIAL NUMBERS EVER, and the FAKE NEWS MEDIA refuses to report them!!!” Trump wrote on Truth Social. When asked on Saturday…",
+    "link": "https://thehill.com/homenews/administration/6113577-trump-accuses-outlets-fake-news/",
+    "pubDate": "\n\t\tSun, 27 Sep 2026 11:51:26 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "media",
+      "news"
+    ],
+    "collectedAt": "2026-09-27T12:15:11.320Z"
+  },
+  {
+    "title": "Popular food could boost heart health, but the amount you need to eat may surprise you",
+    "description": "A major meta-analysis of 87 trials reveals that 60 to 100 grams of whole grains daily may lower cholesterol, blood pressure and blood sugar levels.",
+    "link": "https://www.foxnews.com/food-drink/popular-food-could-boost-heart-health-amount-you-need-eat-may-surprise-you",
+    "pubDate": "Sun, 27 Sep 2026 08:00:22 -0400",
+    "source": "Fox News",
+    "categories": [
+      "c2f92586-a0bf-58a0-b6e4-faf447bc125d",
+      "fnc",
+      "fox news",
+      "fox-news/food-drink",
+      "fox-news/lifestyle/food",
+      "fox-news/food-drink/food/healthy-foods",
+      "fox-news/health/nutrition-and-fitness/nutrition",
+      "fox-news/health",
+      "fox-news/health/heart-health",
+      "fox-news/food-drink/food/studies",
+      "fox-news/food-drink",
+      "article"
+    ],
+    "collectedAt": "2026-09-27T12:15:11.320Z"
+  },
+  {
+    "title": "Florida sex offender accused of babysitting-ad trap as police investigate potential interstate predator",
+    "description": "Julius Hunter allegedly lured a teen to a fake $300 babysitting job on Craigslist before a hours-long sexual assault at a Clarkston apartment.",
+    "link": "https://www.foxnews.com/us/florida-sex-offender-accused-babysitting-ad-trap-police-investigate-potential-interstate-predator",
+    "pubDate": "Sun, 27 Sep 2026 08:00:08 -0400",
+    "source": "Fox News",
+    "categories": [
+      "54ad41cd-607b-57e2-a0bc-56c80596f4f4",
+      "fnc",
+      "fox news",
+      "fox-news/us/crime/sex-crimes",
+      "fox-news/us",
+      "fox-news/us/crime/cold-case",
+      "fox-news/us/crime/rape",
+      "fox-news/us/us-regions/southeast/georgia",
+      "fox-news/us/us-regions/southeast/florida",
+      "fox-news/crime",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-09-27T12:15:11.320Z"
+  },
+  {
+    "title": "Rob Gronkowski says Caleb Williams' viral injury reaction was about 'passion' – not pain",
+    "description": "Rob Gronkowski said Caleb Williams' viral hamstring injury reaction was driven by \"passion,\" instead of the pain, drawing on his own 11-year NFL career.",
+    "link": "https://www.foxnews.com/outkick-sports/rob-gronkowski-says-caleb-williams-viral-injury-reaction-passion-not-pain",
+    "pubDate": "Sun, 27 Sep 2026 07:58:28 -0400",
+    "source": "Fox News",
+    "categories": [
+      "827a9f03-0a65-5282-8fe9-bf41252b7621",
+      "fnc",
+      "fox news",
+      "fox-news/sports/nfl/chicago-bears",
+      "fox-news/person/caleb-williams",
+      "fox-news/sports/nfl",
+      "fox-news/person/rob-gronkowski",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/sports",
+      "fox-news/outkick/betting",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-09-27T12:15:11.320Z"
+  },
+  {
+    "title": "Texans vs. Colts prediction, odds, picks: Misery continues for Daniel Jones",
+    "description": "This may as well be an elimination game.",
+    "link": "https://nypost.com/2026/09/27/betting/texans-vs-colts-odds-picks-nfl-week-3-best-bets-predictions/",
+    "pubDate": "Sun, 27 Sep 2026 08:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-27T12:15:11.320Z"
+  },
+  {
+    "title": "49ers’ path to NFC West title runs through another branch of Kyle Shanahan’s coaching tree",
+    "description": "To reclaim supremacy in the NFC West, Kyle Shanahan may just have to find a way to beat … himself?",
+    "link": "https://nypost.com/2026/09/27/sports/49ers-cardinals-what-shanahan-lafleurs-familiarity-means/",
+    "pubDate": "Sun, 27 Sep 2026 08:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-27T12:15:11.320Z"
+  },
+  {
+    "title": "Raiders have earned 2-0 start, but Saints raise stakes —and expectations",
+    "description": "The Raiders did not stumble into 2-0. They earned it. They handled the Dolphins in their season opener, then went to Los Angeles and beat the Chargers in a stadium where their considerable crowd advantage has too often gone to waste. There is no need to apologize for either victory. And certainly no reason to...",
+    "link": "https://nypost.com/2026/09/27/sports/raiders-ready-to-prove-whether-rebuild-is-ahead-of-schedule-with-tough-road-test/",
+    "pubDate": "Sun, 27 Sep 2026 08:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-27T12:15:11.320Z"
   }
 ]
