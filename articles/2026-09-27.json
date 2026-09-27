@@ -120,5 +120,34 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-27T05:00:01.282Z"
+  },
+  {
+    "title": "Burnham announces scheme to help first-time buyers on to housing ladder",
+    "description": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
+    "link": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 27 Sep 2026 05:00:42 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-27T05:15:01.664Z"
+  },
+  {
+    "title": "Florida man, 76, with suspended license allegedly admits to driving under the influence of rum, cocaine",
+    "description": "Charles Ducking, 76, allegedly showed deputies his rum cup and admitted to doing cocaine minutes before a traffic stop in Polk County, Florida.",
+    "link": "https://www.foxnews.com/us/florida-man-76-suspended-license-allegedly-admits-driving-under-influence-rum-cocaine",
+    "pubDate": "Sun, 27 Sep 2026 00:46:44 -0400",
+    "source": "Fox News",
+    "categories": [
+      "b7ef5ee2-ed25-549e-9bec-c2f056070038",
+      "fnc",
+      "fox news",
+      "fox-news/us",
+      "fox-news/crime",
+      "fox-news/health/mental-health/drug-and-substance-abuse",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/shows/cops",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-09-27T05:15:01.664Z"
   }
 ]
