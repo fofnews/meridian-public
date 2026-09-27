@@ -236,5 +236,32 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-27T06:00:01.354Z"
+  },
+  {
+    "title": "Investigation launched as NHS trust apologises for Noah Woods data breach",
+    "description": "East Suffolk and North Essex NHS Foundation Trust has apologised to the family for \"extra anguish\" caused.",
+    "link": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 27 Sep 2026 05:58:08 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-27T06:15:01.921Z"
+  },
+  {
+    "title": "'Knots Landing' star Ted Shackelford spotted with walker during rare Los Angeles outing at 80",
+    "description": "Ted Shackelford, who starred on \"Knots Landing\" and \"The Young and the Restless,\" was photographed on a rare outing in Los Angeles with a walker.",
+    "link": "https://www.foxnews.com/entertainment/knots-landing-star-ted-shackelford-spotted-walker-rare-los-angeles-outing-80",
+    "pubDate": "Sun, 27 Sep 2026 02:00:14 -0400",
+    "source": "Fox News",
+    "categories": [
+      "7dbaff0a-5cf9-52da-9d9a-e1986acd2adf",
+      "fnc",
+      "fox news",
+      "fox-news/entertainment",
+      "fox-news/entertainment/tv",
+      "fox-news/topic/trending-news",
+      "fox-news/entertainment",
+      "article"
+    ],
+    "collectedAt": "2026-09-27T06:15:01.921Z"
   }
 ]
