@@ -579,7 +579,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-28",
       "active": true,
       "entries": [
         {
@@ -1461,6 +1461,11 @@
           "date": "2026-09-27",
           "edition": "evening",
           "update": "Russia launched strikes against Ukraine's largest mobile provider and targeted data centres, according to Reuters. Ukraine reported that a secret robot-aided military operation resulted in approximately 3,000 Russian casualties, according to Newsmax."
+        },
+        {
+          "date": "2026-09-28",
+          "edition": "morning",
+          "update": "Residents in Russia's North Ossetia region have suffered heavy battlefield losses in Ukraine yet largely continue to support the Kremlin's war aims, according to the NY Times. Separately, residents along Poland's border with Ukraine are bracing for a possible Russian hybrid attack, according to AP News."
         }
       ],
       "parentId": null
@@ -1469,7 +1474,7 @@
       "id": "sinaloa-cartel-violence",
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-24",
+      "lastSeen": "2026-09-28",
       "active": true,
       "entries": [
         {
@@ -1636,6 +1641,11 @@
           "date": "2026-09-24",
           "edition": "evening",
           "update": "Ecuador's foreign minister confirmed that American forces are conducting joint operations alongside Ecuadorian military and police targeting drug cartels, positioning Ecuador as a key South American partner in the Trump administration's cartel crackdown."
+        },
+        {
+          "date": "2026-09-28",
+          "edition": "morning",
+          "update": "The Trump administration's foreign terrorist designation of drug cartels and gangs has resulted in at least two dozen federal prosecutions, bombings of alleged drug boats, and military actions including the January capture of Venezuelan nationals, according to the Washington Examiner. Accused drug lord Geovany Andres Rojas, known as 'The Spider,' was extradited from Colombia to the United States on drug trafficking and terrorism charges, after being shielded from extradition by former Colombian President Gustavo Petro."
         }
       ],
       "parentId": null
@@ -2304,7 +2314,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-09-28",
       "active": true,
       "entries": [
         {
@@ -2876,6 +2886,11 @@
           "date": "2026-09-25",
           "edition": "evening",
           "update": "Lebanese Prime Minister Nawaf Salam addressed the UN General Assembly, demanding a full Israeli withdrawal from Lebanon and declaring that Lebanon will not serve as 'an arena for the conflicts of others.'"
+        },
+        {
+          "date": "2026-09-28",
+          "edition": "morning",
+          "update": "Israeli Security Minister Itamar Ben-Gvir released a video threatening to kill Hassan Salameh, a senior Hamas figure currently held in an Israeli jail."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4970,7 +4985,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-28",
       "active": true
     },
     {
@@ -4993,7 +5008,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-28",
       "active": true,
       "entries": [
         {
@@ -5425,6 +5440,11 @@
           "date": "2026-09-27",
           "edition": "evening",
           "update": "Iranian Foreign Minister Araghchi said Iran is seeking clarification from the U.S. after Trump rejected its cease-fire proposal, stating that a history of contradictory messaging from Washington meant Trump's rebuff may not represent a final position."
+        },
+        {
+          "date": "2026-09-28",
+          "edition": "morning",
+          "update": "Treasury Secretary Scott Bessent warned that Iran's economy will have 'nothing' within two weeks, signaling intensified U.S. economic pressure. Iran stated it is up to Trump to choose between diplomacy or war as the conflict reaches its seven-month mark, while Trump told Axios he expects talks to resume despite neither side signaling willingness to change their demands. Oil prices rebounded following Trump's rejection of Iran's peace deal, according to Reuters. The Saudi Foreign Minister arrived in Washington for talks with Secretary of State Marco Rubio. U.S. Ambassador to China David Perdue revealed that Trump offered to sell arms to Xi Jinping during their summit, though the White House subsequently stated the U.S. had no plans for such a sale."
         }
       ]
     },
@@ -5843,7 +5863,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-28",
       "active": true,
       "entries": [
         {
@@ -6495,6 +6515,11 @@
           "date": "2026-09-26",
           "edition": "evening",
           "update": "Trump rejected Iran's seven-day ceasefire proposal to reopen the Strait of Hormuz, describing the deal as not 'acceptable.' In a separate interview with CBS News' Margaret Brennan, Iranian President Pezeshkian revealed he has visited Supreme Leader Khamenei twice and discussed Mojtaba Khamenei's health."
+        },
+        {
+          "date": "2026-09-28",
+          "edition": "morning",
+          "update": "Iranian Foreign Minister Abbas Araghchi declared Iran is fully prepared for war after Washington rejected Tehran's seven-day roadmap to end the conflict and reopen the Strait of Hormuz."
         }
       ]
     },
@@ -7448,7 +7473,7 @@
       "title": "Airport Security Threats and Explosive Device Incidents",
       "parentId": null,
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-28",
       "active": true,
       "entries": [
         {
@@ -7515,6 +7540,11 @@
           "date": "2026-09-27",
           "edition": "morning",
           "update": "British police arrested several men on suspicion of explosives offences near RAF Fairford in Gloucestershire, with a 'major incident' declared and residents evacuated from the nearby village of Whelford, according to BBC News. Bomb disposal units were deployed to the scene, which is an air base used by U.S. forces involved in operations targeting Iran since the start of the war in February, per CBS News. Separately, a civilian breached the perimeter of MacDill Air Force Base in Florida and violently engaged security personnel, prompting closure of the base's Dale Mabry Gate, according to Fox News."
+        },
+        {
+          "date": "2026-09-28",
+          "edition": "morning",
+          "update": "British authorities confirmed five men were arrested on suspicion of preparation of a terrorist act as they approached RAF Fairford on Sunday. Rep. Kat Cammack stated on NewsNation that Iran was 'clearly' involved in the alleged plot, while acknowledging the claim remains under investigation. Conflicting accounts have emerged regarding the incident, including statements from a bystander who alerted police and remarks made by President Trump, according to the NY Times."
         }
       ]
     },
@@ -7569,5 +7599,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-27T21:06:58.320Z"
+  "updatedAt": "2026-09-28T11:06:18.932Z"
 }
