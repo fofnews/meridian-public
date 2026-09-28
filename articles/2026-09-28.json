@@ -1281,5 +1281,159 @@
     "source": "AP News",
     "categories": [],
     "collectedAt": "2026-09-28T10:00:06.058Z"
+  },
+  {
+    "title": "Possible Terror Plot Thwarted at U.K. Base, and Amazon Drones Overwhelm a Texas Town",
+    "description": "Plus, the pro-Trump ads paid for by taxpayers.",
+    "link": "https://www.nytimes.com/2026/09/28/podcasts/the-headlines/terror-plot-base-amazon-drones-texas.html",
+    "pubDate": "Mon, 28 Sep 2026 10:00:16 +0000",
+    "source": "NY Times",
+    "categories": [
+      "drones (pilotless planes)",
+      "terrorism",
+      "texas",
+      "great britain"
+    ],
+    "collectedAt": "2026-09-28T10:15:01.542Z"
+  },
+  {
+    "title": "Three dead, including child, in Channel crossing attempt",
+    "description": "A 10-year-old child and two 30-year-old women were on board the boat - which was carrying 105 people.",
+    "link": "https://www.bbc.co.uk/news/articles/c6vgy71rle35o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 28 Sep 2026 10:02:56 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-28T10:15:01.542Z"
+  },
+  {
+    "title": "Worker at care home investigated by BBC struck off for threatening elderly man",
+    "description": "Amina Sani, who is Nigerian, was found to have threatened the 81-year-old with police and threatened to hit him.",
+    "link": "https://www.bbc.co.uk/news/articles/cm9dwz5d1j77o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 28 Sep 2026 05:18:57 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-28T10:15:01.542Z"
+  },
+  {
+    "title": "Nvidia releases AI safety software it says could have stopped Hugging Face hack - Reuters",
+    "description": "Nvidia releases AI safety software it says could have stopped Hugging Face hack  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSVREakRaN2V6OWo0bzNFcVBHb1VZMzRVS29mcWF4XzZwSmdxLVRublBqSTE5ZlNBaHBKb0lTU1o2SWV0V0t1U3M3TVl1ZnlJWGVJRGxKclM5RkphYzhzU3FlNkZHNDk3TUZhdW54dGtydmR3MFR2ZFVZdWItaVpsNjZYX2hIbjVHcTM0ZTVqLVd6UHV2OGY4eFM4ZW1va1pCSF90VzlZd3BSUjVkY1RJRzV2ZGFEUnlnbDY1d0ZjOFZoYXBVRU5YZEM0Zmk?oc=5",
+    "pubDate": "Mon, 28 Sep 2026 09:23:43 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-28T10:15:01.542Z"
+  },
+  {
+    "title": "Democrats divided as Senate heads for AI data-center showdown",
+    "description": "Senate Democratic Leader Chuck Schumer (N.Y.) is aiming to kill a bill sponsored by Republican Sen. Jon Husted (Ohio) to protect taxpayers from additional costs posed by AI-driven data centers, but his Democratic caucus isn’t fully on board after House Democrats overwhelmingly voted for the proposal. The looming Senate floor fight over artificial intelligence and…",
+    "link": "https://thehill.com/homenews/senate/6112546-senate-data-center-battle-ohio-election/",
+    "pubDate": "\n\t\tMon, 28 Sep 2026 10:00:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "senate",
+      "technology"
+    ],
+    "collectedAt": "2026-09-28T10:15:01.542Z"
+  },
+  {
+    "title": "GOP Reps urge Trump to reimpose sanctions on Russian-owned Serbian refinery",
+    "description": "A pair of House Republicans are urging the Trump administration to resume sanctions on a Russian-owned refinery in Serbia, according to a letter obtained exclusively by The Hill. The GOP criticism marks another instance of growing Republican pushback against the president’s foreign policy actions.  Reps. Joe Wilson (R-S.C.) and Keith Self (R-Texas), staunch allies of…",
+    "link": "https://thehill.com/homenews/house/6113819-gop-urges-serbia-refinery-sanctions/",
+    "pubDate": "\n\t\tMon, 28 Sep 2026 10:00:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "business",
+      "house",
+      "joe wilson",
+      "keith self",
+      "russia sanctions"
+    ],
+    "collectedAt": "2026-09-28T10:15:01.542Z"
+  },
+  {
+    "title": "Senators spurn Hegseth’s pick amid jockeying for Army secretary nomination",
+    "description": "Defense Secretary Pete Hegseth’s pick to lead the Army is facing Democratic opposition and a hesitant reception from key Republicans, amid jockeying for the service branch’s top civilian post after Dan Driscoll resigned a month ago.   Hegseth’s choice to lead the Army is Sean Parnell, a decorated Afghanistan war veteran and his senior advisor and…",
+    "link": "https://thehill.com/policy/defense/6113837-hegseth-army-pick-parnell-opposition-senate/",
+    "pubDate": "\n\t\tMon, 28 Sep 2026 10:00:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "defense",
+      "news",
+      "policy"
+    ],
+    "collectedAt": "2026-09-28T10:15:01.542Z"
+  },
+  {
+    "title": "White House reporters float some surprise choices on which Republicans could run for president after Trump",
+    "description": "White House reporters were asked who among Republicans may enter the 2028 presidential race during a panel discussion at the Texas Tribune Festival.",
+    "link": "https://www.foxnews.com/media/white-house-reporters-float-wild-names-republicans-could-run-president-after-trump",
+    "pubDate": "Mon, 28 Sep 2026 06:09:37 -0400",
+    "source": "Fox News",
+    "categories": [
+      "3485d4e4-bd26-5737-a0c3-55829a9e093b",
+      "fnc",
+      "fox news",
+      "fox-news/media",
+      "fox-news/person/donald-trump",
+      "fox-news/politics/elections/presidential",
+      "fox-news/person/jd-vance",
+      "fox-news/person/robert-f-kennedy-jr",
+      "fox-news/person/ted-cruz",
+      "fox-news/person/marco-rubio",
+      "fox-news/politics/executive/white-house",
+      "fox-news/media",
+      "article"
+    ],
+    "collectedAt": "2026-09-28T10:15:01.542Z"
+  },
+  {
+    "title": "Restaurants lock up customers' phones as devices become the 'new cigarettes'",
+    "description": "Locked pouches, free wine bottles and no-WiFi policies are how bars and restaurants are pushing back against phones at the dinner table.",
+    "link": "https://www.foxnews.com/food-drink/restaurants-lock-up-customers-phones-devices-become-new-cigarettes",
+    "pubDate": "Mon, 28 Sep 2026 06:00:37 -0400",
+    "source": "Fox News",
+    "categories": [
+      "1b1c139b-0bd2-5167-8f4a-183f8fd37d39",
+      "fnc",
+      "fox news",
+      "fox-news/food-drink/food/restaurants",
+      "fox-news/food-drink",
+      "fox-news/food-drink/drinks/bars",
+      "fox-news/food-drink/drinks",
+      "fox-news/food-drink/recipes/meals/dinner",
+      "fox-news/lifestyle/social-etiquette",
+      "fox-news/food-drink",
+      "article"
+    ],
+    "collectedAt": "2026-09-28T10:15:01.542Z"
+  },
+  {
+    "title": "The dangerous assumption people make about aging — and how you can prevent a silent but potentially deadly disease",
+    "description": "Dr. Susan Zweig, an endocrinologist specializing in bone health at NYU Langone Health, sets the record straight.",
+    "link": "https://nypost.com/2026/09/28/health/the-dangerous-assumption-people-make-about-aging/",
+    "pubDate": "Mon, 28 Sep 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-28T10:15:01.542Z"
+  },
+  {
+    "title": "Email spam filters cost GOP fundraisers estimated $117M in donations last year: bombshell study",
+    "description": "The little-noticed analysis, published on July 7 by Cameron Ellis of the University of Iowa and Lars Powell of the University of Alabama, could reignite long-running complaints by Republicans who have accused Google and other tech platforms of suppressing GOP fundraising efforts – while leaving similar ActBlue fundraising emails from Democrats untouched.",
+    "link": "https://nypost.com/2026/09/28/business/email-spam-filters-cost-gop-fundraisers-estimated-117m-in-donations-last-year-bombshell-study/",
+    "pubDate": "Mon, 28 Sep 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-28T10:15:01.542Z"
+  },
+  {
+    "title": "New York Public Library hosted author who compared Israel to a ‘dog shelter’",
+    "description": "Author Benjamin Moser and retired Columbia history prof Rashid Khalidi also glossed over Hamas' Oct. 7, 2023, terrorist attacks against Israel and focused on the Jewish state's retaliatory response in Gaza.",
+    "link": "https://nypost.com/2026/09/28/us-news/new-york-public-library-hosted-author-who-compared-israel-to-a-dog-shelter-called-zionists-intellectual-thugs/",
+    "pubDate": "Mon, 28 Sep 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-28T10:15:01.542Z"
   }
 ]
