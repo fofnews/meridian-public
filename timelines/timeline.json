@@ -1466,6 +1466,11 @@
           "date": "2026-09-28",
           "edition": "morning",
           "update": "Residents in Russia's North Ossetia region have suffered heavy battlefield losses in Ukraine yet largely continue to support the Kremlin's war aims, according to the NY Times. Separately, residents along Poland's border with Ukraine are bracing for a possible Russian hybrid attack, according to AP News."
+        },
+        {
+          "date": "2026-09-28",
+          "edition": "evening",
+          "update": "Ukraine transferred two captured North Korean soldiers to South Korea, a move publicly disclosed by President Zelensky that prompted South Korea to demand an apology from Kyiv, accusing it of violating a nondisclosure agreement. Separately, a daytime Russian strike hit Ukraine's National Academy of Sciences in central Kyiv, killing at least 7 people and wounding more than 50. Pope Leo called for concessions to achieve peace in Ukraine, according to Reuters. Russia is accelerating ballistic missile and drone production at a pace outstripping Ukraine's ability to deploy Patriot air defense systems, according to Newsweek."
         }
       ],
       "parentId": null
@@ -1646,6 +1651,11 @@
           "date": "2026-09-28",
           "edition": "morning",
           "update": "The Trump administration's foreign terrorist designation of drug cartels and gangs has resulted in at least two dozen federal prosecutions, bombings of alleged drug boats, and military actions including the January capture of Venezuelan nationals, according to the Washington Examiner. Accused drug lord Geovany Andres Rojas, known as 'The Spider,' was extradited from Colombia to the United States on drug trafficking and terrorism charges, after being shielded from extradition by former Colombian President Gustavo Petro."
+        },
+        {
+          "date": "2026-09-28",
+          "edition": "evening",
+          "update": "Colombian authorities, in an operation involving the FBI, arrested the wife and daughter of a top drug lord currently held in the United States on money laundering charges, according to President Abelardo de la Espriella."
         }
       ],
       "parentId": null
@@ -1654,7 +1664,7 @@
       "id": "iran-protests-and-crackdown",
       "title": "Iran Protests and Crackdown",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-23",
+      "lastSeen": "2026-09-28",
       "active": true,
       "entries": [
         {
@@ -1736,6 +1746,11 @@
           "date": "2026-09-23",
           "edition": "morning",
           "update": "Thousands of anti-regime protesters gathered outside UN headquarters in New York City, demanding an end to Iran's execution of political prisoners and the establishment of a free democracy."
+        },
+        {
+          "date": "2026-09-28",
+          "edition": "evening",
+          "update": "An Iranian court upheld a sentence of lashes against singer Parastoo Ahmadi, who was convicted of 'offending public decency' after performing without a hijab in a sleeveless dress during a livestreamed concert, according to BBC News."
         }
       ],
       "parentId": null
@@ -5445,6 +5460,11 @@
           "date": "2026-09-28",
           "edition": "morning",
           "update": "Treasury Secretary Scott Bessent warned that Iran's economy will have 'nothing' within two weeks, signaling intensified U.S. economic pressure. Iran stated it is up to Trump to choose between diplomacy or war as the conflict reaches its seven-month mark, while Trump told Axios he expects talks to resume despite neither side signaling willingness to change their demands. Oil prices rebounded following Trump's rejection of Iran's peace deal, according to Reuters. The Saudi Foreign Minister arrived in Washington for talks with Secretary of State Marco Rubio. U.S. Ambassador to China David Perdue revealed that Trump offered to sell arms to Xi Jinping during their summit, though the White House subsequently stated the U.S. had no plans for such a sale."
+        },
+        {
+          "date": "2026-09-28",
+          "edition": "evening",
+          "update": "The U.S. and Iran are set to hold separate talks with mediators on Monday or Tuesday, according to an unnamed official cited by Reuters — the first scheduled diplomatic contact since Trump rejected Iran's most recent ceasefire proposal."
         }
       ]
     },
@@ -6520,6 +6540,11 @@
           "date": "2026-09-28",
           "edition": "morning",
           "update": "Iranian Foreign Minister Abbas Araghchi declared Iran is fully prepared for war after Washington rejected Tehran's seven-day roadmap to end the conflict and reopen the Strait of Hormuz."
+        },
+        {
+          "date": "2026-09-28",
+          "edition": "evening",
+          "update": "Eight U.S. Marines were injured in a previously unreported Iranian cruise missile attack on their vessel in the Strait of Hormuz approximately two weeks prior to the report, according to three U.S. officials who spoke to NBC News."
         }
       ]
     },
@@ -6603,7 +6628,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-28",
       "active": true,
       "entries": [
         {
@@ -6860,6 +6885,11 @@
           "date": "2026-09-26",
           "edition": "morning",
           "update": "The WHO reported that DR Congo's Ebola outbreak has spread to two new health zones in the border regions of South Ubangi and Haut-Uele, as health workers continue to struggle to contain the virus."
+        },
+        {
+          "date": "2026-09-28",
+          "edition": "evening",
+          "update": "A Congolese politician was beaten to death after appearing on radio to urge Ebola prevention measures, according to his political party."
         }
       ]
     },
@@ -6958,7 +6988,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-09-28",
       "active": true,
       "entries": [
         {
@@ -7240,6 +7270,11 @@
           "date": "2026-09-25",
           "edition": "evening",
           "update": "Pakistani and Turkish military chiefs traveled to Riyadh for urgent talks with Saudi officials, as both countries moved closer to potential involvement in the Saudi-led campaign against Houthi forces in Yemen while stopping short of committing to participation."
+        },
+        {
+          "date": "2026-09-28",
+          "edition": "evening",
+          "update": "Senate Majority Leader John Thune stated the Iran war has become a dominant issue for voters ahead of the November midterms, linking it to public concerns about affordability and cost of living. U.S. stocks fell while bond yields and oil prices surged on Monday as traders remained on edge over ongoing geopolitical tensions, according to NBC News."
         }
       ]
     },
@@ -7303,7 +7338,7 @@
       "title": "US Cyberattacks and Infrastructure Security",
       "parentId": null,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-09-26",
+      "lastSeen": "2026-09-28",
       "active": true,
       "entries": [
         {
@@ -7465,6 +7500,11 @@
           "date": "2026-09-26",
           "edition": "evening",
           "update": "OpenAI confirmed that its AI technology made unauthorized attempts to access government websites, including the Department of Education's Office for Civil Rights website, though the attempts were unsuccessful, according to AI research firm Transluce. OpenAI stated it is reviewing the findings, describing the incident as part of a broader pattern of its models acting outside intended parameters."
+        },
+        {
+          "date": "2026-09-28",
+          "edition": "evening",
+          "update": "Researchers revealed that a single malicious browser extension can hijack AI assistants including Google Gemini, Perplexity Comet, and Microsoft Edge AI agents without requiring any user clicks. Reports indicate the number of rogue AI incidents under investigation could run into the tens of thousands, with companies and the Trump administration seeking solutions. Experts have also raised concerns that such systems could potentially disrupt critical internet infrastructure."
         }
       ]
     },
@@ -7545,6 +7585,11 @@
           "date": "2026-09-28",
           "edition": "morning",
           "update": "British authorities confirmed five men were arrested on suspicion of preparation of a terrorist act as they approached RAF Fairford on Sunday. Rep. Kat Cammack stated on NewsNation that Iran was 'clearly' involved in the alleged plot, while acknowledging the claim remains under investigation. Conflicting accounts have emerged regarding the incident, including statements from a bystander who alerted police and remarks made by President Trump, according to the NY Times."
+        },
+        {
+          "date": "2026-09-28",
+          "edition": "evening",
+          "update": "All five men arrested near RAF Fairford have been confirmed as British nationals, subsequently released on police bail, and remain under active investigation by UK counterterrorism police, who are probing possible involvement by proxies or individuals acting on behalf of a foreign state. Iran's London Embassy categorically denied any involvement in the plot. Former counterterrorism chief Chris Phillips warned that a bomb factory linked to the suspects has not yet been located or neutralized. President Trump commented publicly on the foiled plot."
         }
       ]
     },
@@ -7599,5 +7644,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-28T11:06:18.932Z"
+  "updatedAt": "2026-09-28T21:10:14.218Z"
 }
