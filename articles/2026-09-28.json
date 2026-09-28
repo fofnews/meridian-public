@@ -1435,5 +1435,76 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-28T10:15:01.542Z"
+  },
+  {
+    "title": "Nor'easter weakens after deadly battering of Northeast",
+    "description": "The nor'easter is weakening and drifting slowly northeast from Long Island, New York, to Massachusetts on Monday.",
+    "link": "https://abcnews.com/US/noreaster-weakens-after-deadly-battering-northeast/story?id=136816261",
+    "pubDate": "Mon, 28 Sep 2026 06:27:58 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-09-28T10:30:01.577Z"
+  },
+  {
+    "title": "Accused drug lord \"The Spider\" extradited to U.S. from Colombia",
+    "description": "Geovany Andres Rojas, who faces drug trafficking and terrorism charges in the U.S., had been protected from extradition by former Colombian President Gustavo Petro,",
+    "link": "https://www.cbsnews.com/news/drug-lord-the-spider-extradited-to-us-from-colombia/",
+    "pubDate": "Mon, 28 Sep 2026 06:21:39 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-28T10:30:01.577Z"
+  },
+  {
+    "title": "Rescue teams search for 12 people missing after deadly Nepal avalanche",
+    "description": "An avalanche in northern Nepal has killed at least two people, with a search underway for 12 others still missing.",
+    "link": "https://www.cbsnews.com/news/nepal-avalanche-deaths-rescue-teams-search-missing/",
+    "pubDate": "Mon, 28 Sep 2026 06:17:32 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-28T10:30:01.577Z"
+  },
+  {
+    "title": "Possible Foiled Terror Attack at U.K Air Base Used by U.S. Raises Questions Over Security",
+    "description": "Conflicting accounts from a bystander who called the police and from President Trump have led to questions about whether security services knew about the possible plot in advance.",
+    "link": "https://www.nytimes.com/2026/09/28/world/europe/us-air-base-uk-terror-incident-fairford.html",
+    "pubDate": "Mon, 28 Sep 2026 10:29:12 +0000",
+    "source": "NY Times",
+    "categories": [
+      "royal air force fairford (gloucestershire, england, air base)",
+      "great britain",
+      "england",
+      "military bases and installations",
+      "politics and government",
+      "security and warning systems",
+      "police",
+      "defense and military forces",
+      "terrorism",
+      "bombs and explosives",
+      "international relations",
+      "islamic revolutionary guards corps",
+      "streeting, wes",
+      "trump, donald j"
+    ],
+    "collectedAt": "2026-09-28T10:30:01.577Z"
+  },
+  {
+    "title": "Right-wing conservatives push to shut down the last active Jan. 6 prosecution",
+    "description": "They say Brian Cole Jr. was framed. The Justice Department is pressing forward with the case.",
+    "link": "https://www.nbcnews.com/politics/justice-department/right-wing-conservatives-push-shut-last-active-jan-6-prosecution-rcna597038",
+    "pubDate": "Mon, 28 Sep 2026 09:00:40 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-09-28T10:30:01.577Z"
+  },
+  {
+    "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
+    "description": "“As a country, we have grown dangerously comfortable.”",
+    "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+    "pubDate": "Mon, 28 Sep 2026 10:15:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-09-28T10:30:01.577Z"
   }
 ]
