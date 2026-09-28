@@ -266,5 +266,56 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-28T05:45:01.375Z"
+  },
+  {
+    "title": "Pope blasts assisted dying as 'false compassion'",
+    "description": "Pope Leo XIV has criticized the legalization of medically assisted death.",
+    "link": "https://abcnews.com/International/wireStory/pope-brings-message-protect-life-french-shrine-lourdes-136792931",
+    "pubDate": "Mon, 28 Sep 2026 01:54:15 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-09-28T06:00:01.560Z"
+  },
+  {
+    "title": "Virat Kohli passes 15,000 ODI runs as India beat West Indies",
+    "description": "Kohli remained not out on 139 off 88 balls as the hosts romped to an eight-wicket win in their first ODI of the series.",
+    "link": "https://www.aljazeera.com/sports/2026/9/28/virat-kohli-passes-15000-odi-runs-as-india-beat-west-indies?traffic_source=rss",
+    "pubDate": "Mon, 28 Sep 2026 05:40:06 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-09-28T06:00:01.560Z"
+  },
+  {
+    "title": "‘Still a lockdown’: Deadly floods hit Nepal tourism as peak season begins",
+    "description": "As Himalayan nation recovers from devastating floods, a million people dependent on tourism struggle to make ends meet.",
+    "link": "https://www.aljazeera.com/news/2026/9/28/still-a-lockdown-deadly-floods-hit-nepal-tourism-as-peak-season-begins?traffic_source=rss",
+    "pubDate": "Mon, 28 Sep 2026 05:28:29 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-28T06:00:01.560Z"
+  },
+  {
+    "title": "Texas driver arrested after ‘intentionally’ crashing into a closed Kroger to use bathroom: cops",
+    "description": "A 60-year-old Texas man crashed his vehicle into a closed Kroger because he needed to use the bathroom and now faces criminal mischief charges.",
+    "link": "https://nypost.com/2026/09/28/us-news/texas-man-arrested-after-intentionally-crashing-into-a-closed-kroger-to-use-bathroom-cops/",
+    "pubDate": "Mon, 28 Sep 2026 01:58:32 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-28T06:00:01.560Z"
+  },
+  {
+    "title": "Matthew Stafford makes unwanted NFL history at worst possible time in Rams’ crushing loss",
+    "description": "Matthew Stafford threw the 33rd pick-six of his career against the Broncos, passing Brett Favre for the most in NFL history during the Rams’ 30-26 loss.",
+    "link": "https://nypost.com/2026/09/28/sports/matthew-stafford-makes-ugly-nfl-history-with-record-breaking-pick-six-in-rams-loss-to-broncos/",
+    "pubDate": "Mon, 28 Sep 2026 01:54:07 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-28T06:00:01.560Z"
   }
 ]
