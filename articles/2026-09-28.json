@@ -217,5 +217,36 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-28T05:15:01.189Z"
+  },
+  {
+    "title": "Nor'easter winding down after hitting parts of East Coast hard",
+    "description": "The storm brought heavy rain, flooding and destructive winds to the Northeast.",
+    "link": "https://www.cbsnews.com/news/noreaster-drench-east-coas-deadly-winds-flooding-new-york-new-jersey/",
+    "pubDate": "Mon, 28 Sep 2026 01:25:27 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-28T05:30:01.351Z"
+  },
+  {
+    "title": "Russian strikes kill eight, injure dozens across Ukraine",
+    "description": "Ukrainian leader Zelenskyy says Moscow launched nearly 4,000 drones, aerial bombs and missiles on Ukraine in past week.",
+    "link": "https://www.aljazeera.com/news/2026/9/28/russian-strikes-kill-eight-injure-dozens-across-ukraine?traffic_source=rss",
+    "pubDate": "Mon, 28 Sep 2026 05:06:11 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-28T05:30:01.351Z"
+  },
+  {
+    "title": "Sudanese army impounds dozens of motorcycles in Blue Nile curfew",
+    "description": "Dozens of motorcycles were impounded in Sudan’s Blue Nile State, after their riders were accused of flouting a curfew.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/sudanese-army-impounds-dozens-of-motorcycles-in-blue-nile-curfew?traffic_source=rss",
+    "pubDate": "Mon, 28 Sep 2026 04:56:00 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-09-28T05:30:01.351Z"
   }
 ]
