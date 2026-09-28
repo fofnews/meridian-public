@@ -62,5 +62,34 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-28T04:15:04.519Z"
+  },
+  {
+    "title": "‘Storm fatigue’: Hawaiians reeling from back-to-back hurricanes as Nolo’s threats diminish",
+    "description": "A hurricane watch was in effect for the Papahānaumokuākea Marine National Monument, which Nolo was expected to approach Tuesday,",
+    "link": "https://www.nbcnews.com/weather/hurricanes/storm-fatigue-hawaiians-reeling-back-back-hurricanes-nolos-threats-dim-rcna600149",
+    "pubDate": "Mon, 28 Sep 2026 04:07:53 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-09-28T04:30:01.024Z"
+  },
+  {
+    "title": "Texas man arrested after 'intentionally' crashing into a closed Kroger to use bathroom: cops",
+    "description": "A 60-year-old Texas man crashed his vehicle into a closed Kroger because he needed to use the bathroom and now faces criminal mischief charges.",
+    "link": "https://www.foxnews.com/us/texas-man-arrested-intentionally-crashing-closed-kroger-use-bathroom-cops",
+    "pubDate": "Mon, 28 Sep 2026 00:19:36 -0400",
+    "source": "Fox News",
+    "categories": [
+      "b2ba57b2-498f-5a21-baab-af2766079aac",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/southwest/texas",
+      "fox-news/us",
+      "fox-news/us/terror/vandalism",
+      "fox-news/crime",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-09-28T04:30:01.024Z"
   }
 ]
