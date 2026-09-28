@@ -353,5 +353,45 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-28T06:30:01.315Z"
+  },
+  {
+    "title": "Noah’s Ark Hunters Say They Haven’t Found Ancient Wood—Yet",
+    "description": "Noah’s Ark hunters say samples from a boat-shaped site in Turkey have not yet been identified as ancient wood.",
+    "link": "https://www.newsweek.com/noahs-ark-hunters-say-they-havent-found-ancient-wood-yet-12494934",
+    "pubDate": "Mon, 28 Sep 2026 02:38:04 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-28T06:45:02.447Z"
+  },
+  {
+    "title": "Pro-Data Center Party Interrupted By Protesters in D.C.",
+    "description": "A party was held in D.C. to celebrate data centers, which have become a flashpoint in the debate over AI’s rapid expansion.",
+    "link": "https://www.newsweek.com/pro-data-center-party-interrupted-by-protesters-in-d-c-12494931",
+    "pubDate": "Mon, 28 Sep 2026 02:35:01 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-28T06:45:02.447Z"
+  },
+  {
+    "title": "US, China list goods recommended for tariff cuts following Trump-Xi summit",
+    "description": "Washington and Beijing announce details of agreement to reduce tariffs on $60bn of trade.",
+    "link": "https://www.aljazeera.com/economy/2026/9/28/us-china-list-goods-recommended-for-tariff-cuts-following-trump-xi-summit?traffic_source=rss",
+    "pubDate": "Mon, 28 Sep 2026 06:24:33 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-09-28T06:45:02.447Z"
+  },
+  {
+    "title": "Serbia’s snap election: Can Vucic outmanoeuvre the student revolt?",
+    "description": "The country's early parliamentary elections won’t end its crisis or defuse Vucic’s troubles, analysts say.",
+    "link": "https://www.aljazeera.com/features/2026/9/28/serbias-snap-election-can-vucic-outmanoeuvre-the-student-revolt?traffic_source=rss",
+    "pubDate": "Mon, 28 Sep 2026 06:23:02 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "features"
+    ],
+    "collectedAt": "2026-09-28T06:45:02.447Z"
   }
 ]
