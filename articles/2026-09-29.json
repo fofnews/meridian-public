@@ -480,5 +480,52 @@
     "source": "Newsweek",
     "categories": [],
     "collectedAt": "2026-09-29T06:30:02.102Z"
+  },
+  {
+    "title": "OpenAI delays latest model over security concerns, as industry faces pressure",
+    "description": "OpenAI's decision to hold back the model, called GPT-6.1 Astra, comes amid a broader push within the industry to slow the development of increasingly autonomous systems until safety measures catch up.",
+    "link": "https://www.npr.org/2026/09/29/nx-s1-5984342/openai-delays-latest-model",
+    "pubDate": "Tue, 29 Sep 2026 02:34:43 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-09-29T06:45:01.605Z"
+  },
+  {
+    "title": "Eagles HC Nick Sirianni Regrets Costly Decision in Loss to Bears",
+    "description": "Philadelphia Eagles head coach Nick Sirianni wished he made a different decision in Monday night's loss to the Bears.",
+    "link": "https://www.newsweek.com/sports/nfl/eagles-hc-nick-sirianni-regrets-costly-decision-in-loss-to-bears-12499353",
+    "pubDate": "Tue, 29 Sep 2026 02:28:09 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-29T06:45:01.605Z"
+  },
+  {
+    "title": "AFCON qualifiers: Wissa guides DR Congo to win, Tunisia held by Botswana",
+    "description": "Democratic Republic of the Congo secure their second straight win in Group E, with striker Yoanne Wissa scoring again.",
+    "link": "https://www.aljazeera.com/sports/2026/9/29/africa-cup-of-nations-qualifying-afcon-wissa-dr-congo-tunisia?traffic_source=rss",
+    "pubDate": "Tue, 29 Sep 2026 06:18:42 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-09-29T06:45:01.605Z"
+  },
+  {
+    "title": "US forces exit Iraq after two decades, leaving opening for Iran - Reuters",
+    "description": "US forces exit Iraq after two decades, leaving opening for Iran  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPalJlU2twR3RkNzhyVlFwZmJkZmg3RXQ3VEpxTFowU2dhY1pEeG8wZWlLQ2NVb0lNUERZQXRSdThEbWdxdGx6aExDVkFGNHdUVkZwRFlSclVvYWxEVk5wTFlYQVZmblBJUlcxZ180Sm9YdWtXNDZoZkVfYVQ5aDR1VTZIMGFRWnNsVEs5LVJWMkVXWmpaVnIzd2hBTzl5M1pIenM3c09RaW41aEVoOWRSRkNB?oc=5",
+    "pubDate": "Tue, 29 Sep 2026 06:05:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-29T06:45:01.605Z"
+  },
+  {
+    "title": "Malaysia begins sending home Myanmar refugees despite safety concerns - Reuters",
+    "description": "Malaysia begins sending home Myanmar refugees despite safety concerns  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeGktWktpcHgta29UNDlId0N1Mk1hY2RicGs5a2ZhSGx4WUNHdHRUVTN6aGZrQnJEY3hwa3o0MU1CU3dNRjZ2ZTNUSUhNUlRjeUxqd281Wlo5VlJzRks3TE5oRWl2d0F0UHdkZTJwcFBPaHpHTmZCOE1zbGRlLUNYYXp6MXQtQXZiNHB2WDVUbG1ieHRFNGlmbGFHTldkX2Y5MWZ4X25fb21BVy1FTm1CMWstcl9QZHpLZ3VzM1lnb3U4dw?oc=5",
+    "pubDate": "Tue, 29 Sep 2026 04:23:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-29T06:45:01.605Z"
   }
 ]
