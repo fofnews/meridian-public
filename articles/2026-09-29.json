@@ -359,5 +359,43 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-29T05:30:02.086Z"
+  },
+  {
+    "title": "OpenAI Apologizes for Australia Medicare Hack",
+    "description": "The company detailed how A.I. agents gained access to four government websites and acknowledged mishandling its response.",
+    "link": "https://www.nytimes.com/2026/09/29/world/asia/openai-australia-government-hack-apology.html",
+    "pubDate": "Tue, 29 Sep 2026 05:23:15 +0000",
+    "source": "NY Times",
+    "categories": [
+      "artificial intelligence",
+      "politics and government",
+      "health insurance and managed care",
+      "medicare",
+      "apologies",
+      "computers and the internet",
+      "openai labs",
+      "australia"
+    ],
+    "collectedAt": "2026-09-29T05:45:01.488Z"
+  },
+  {
+    "title": "Public transport drivers strike in Manila over soaring fuel prices",
+    "description": "Public transport drivers in Manila begin a three-day strike over soaring fuel prices.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/public-transport-drivers-strike-in-manila-over-soaring-fuel-prices?traffic_source=rss",
+    "pubDate": "Tue, 29 Sep 2026 05:21:50 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-09-29T05:45:01.488Z"
+  },
+  {
+    "title": "Mamdani reveals the secret to his chummy relationship with Trump during ‘Jimmy Kimmel Live!’ NYC broadcast",
+    "description": "NYC Mayor Zohran Mamdani shared how he and President Trump bond over their love for the city and Sunnyside Yards.",
+    "link": "https://nypost.com/2026/09/29/us-news/mamdani-reveals-the-secret-to-his-chummy-relationship-with-trump-during-jimmy-kimmel-live-nyc-broadcast-2/",
+    "pubDate": "Tue, 29 Sep 2026 01:33:05 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-29T05:45:01.488Z"
   }
 ]
