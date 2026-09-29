@@ -12337,5 +12337,122 @@
     "source": "Newsmax",
     "categories": [],
     "collectedAt": "2026-09-29T01:00:04.575Z"
+  },
+  {
+    "title": "Man who spent decades on death row ordered released on bail after no DNA match",
+    "description": "No physical evidence linked him to the crime scene, but the jury convicted Douglas Stewart Carter, a Black man, based on a confession and two witnesses who later recanted.",
+    "link": "https://www.cbsnews.com/news/utah-death-row-carter-released-dna/",
+    "pubDate": "Mon, 28 Sep 2026 20:58:32 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-09-29T01:15:02.848Z"
+  },
+  {
+    "title": "In N.Y. Swing District, Candidates Debate Trump, Energy and Data Centers",
+    "description": "Representative Mike Lawler, a vulnerable Republican in a suburban New York district, faced Cait Conley, a military veteran, for the first time onstage.",
+    "link": "https://www.nytimes.com/2026/09/28/nyregion/lawler-conley-debate-new-york.html",
+    "pubDate": "Tue, 29 Sep 2026 00:31:29 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "debates (political)",
+      "anti-semitism",
+      "data centers",
+      "ethics and official misconduct",
+      "elections, house of representatives",
+      "house of representatives",
+      "conley, cait",
+      "lawler, mike (1986- )",
+      "new york state",
+      "trump, donald j"
+    ],
+    "collectedAt": "2026-09-29T01:15:02.848Z"
+  },
+  {
+    "title": "Couple Accused of Killing Their Son-in-Law in Bay Area Park",
+    "description": "Jonathan McKinsey, an engineer who worked in the games department for The New York Times, was fatally shot Saturday in a San Francisco suburb. Police have accused his parents-in-law, both 76.",
+    "link": "https://www.nytimes.com/2026/09/28/us/jonathan-mckinsey-new-york-times-shooting-california.html",
+    "pubDate": "Mon, 28 Sep 2026 22:25:52 +0000",
+    "source": "NY Times",
+    "categories": [
+      "murders, attempted murders and homicides",
+      "new york times",
+      "dublin (calif)",
+      "alameda county (calif)",
+      "police"
+    ],
+    "collectedAt": "2026-09-29T01:15:02.848Z"
+  },
+  {
+    "title": "Seahawks' Jaxon Smith-Njigba Accomplishes Rare Feat Not Seen Since 1999",
+    "description": "Seattle Seahawks star Jaxon Smith-Njigba enters rare company after a strong outing in the team's Week 3 loss to the Commanders.",
+    "link": "https://www.newsweek.com/sports/nfl/seahawks-jaxon-smith-njigba-accomplishes-rare-feat-not-seen-since-1999-12499120",
+    "pubDate": "Mon, 28 Sep 2026 21:09:15 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-29T01:15:02.848Z"
+  },
+  {
+    "title": "Giants HC Admits He's in 'Shock' After Losing 2 Most Important Players",
+    "description": "The New York Giants are dealing with losing two of their best player on offense and defense before the month of October.",
+    "link": "https://www.newsweek.com/sports/nfl/giants-hc-admits-hes-in-shock-after-losing-2-most-important-players-12499093",
+    "pubDate": "Mon, 28 Sep 2026 21:03:50 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-29T01:15:02.848Z"
+  },
+  {
+    "title": "Sean McVay Delivers Brutal Injury Update on Rams TE Terrance Ferguson",
+    "description": "Rams' Terrance Ferguson is facing uncertainty ahead of Week 4, adding to a growing list of injury concerns for Los Angeles.",
+    "link": "https://www.newsweek.com/sports/nfl/sean-mcvay-delivers-brutal-injury-update-on-rams-te-terrance-ferguson-12499005",
+    "pubDate": "Mon, 28 Sep 2026 21:01:21 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-29T01:15:02.848Z"
+  },
+  {
+    "title": "Inside Ariana Grande’s life away from the spotlight in LA — and when fans can expect her to return",
+    "description": "The singers rep revealed earlier this year that she would be stepping back from public-facing work once her “Eternal Sunshine” tour concluded.",
+    "link": "https://pagesix.com/2026/09/28/celebrity-news/inside-ariana-grandes-life-away-from-the-spotlight-in-la-with-ricky-alvarez/",
+    "pubDate": "Mon, 28 Sep 2026 21:10:37 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-29T01:15:02.848Z"
+  },
+  {
+    "title": "Cubs-Padres playoff rematch flips the script — and home field could change everything",
+    "description": "The Cubs and Padres meet again in the 2026 NL Wild Card Series, this time at Petco Park. Breaking down four keys, matchups, advantages and a prediction.",
+    "link": "https://nypost.com/2026/09/28/sports/cubs-vs-padres-nl-wild-card-preview-four-keys-matchups-and-prediction-for-2026-playoff-rematch/",
+    "pubDate": "Mon, 28 Sep 2026 21:08:09 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-29T01:15:02.848Z"
+  },
+  {
+    "title": "Collins exploring pocket rescissions ban after Trump cancels $810 million in federal spending",
+    "description": "Senate appropriators are exploring a ban on pocket rescissions as part of the next spending package after President Donald Trump clawed back $810 million in congressionally approved funding. Senate Appropriations Committee Chairwoman Susan Collins (R-ME) told reporters on Monday she would once again try to curb the Trump administration on spending following Trump’s rescission and […]",
+    "link": "https://www.washingtonexaminer.com/news/senate/4746262/susan-collins-pocket-rescissions-ban-trump/",
+    "pubDate": "Tue, 29 Sep 2026 01:07:23 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "senate",
+      "appropriations",
+      "donald trump",
+      "republicans",
+      "susan collins",
+      "trump administration",
+      "washington d.c.",
+      "white house"
+    ],
+    "collectedAt": "2026-09-29T01:15:02.848Z"
+  },
+  {
+    "title": "Trump Touts Largest-Ever US Steel Plant - Newsmax",
+    "description": "Trump Touts Largest-Ever US Steel Plant  Newsmax",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONDhrUjJRelVrYlNyM1hiRnNNN2FPOWFMOVVwM21tMmk4R0o2YVV3eVl5OExhNlpEOVpnRTQtNFJoV2xHNVJOallycU5JZXRJQWVleHhIbk5uQXllMWoxUW05TlFvUkk0U1pRMEZDLWtVbnJ1NmdpUzJzSHJTcUtwempNajNLdzUwcVZkTFl3?oc=5",
+    "pubDate": "Mon, 28 Sep 2026 17:51:43 GMT",
+    "source": "Newsmax",
+    "categories": [],
+    "collectedAt": "2026-09-29T01:15:02.848Z"
   }
 ]
