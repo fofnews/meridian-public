@@ -579,7 +579,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "active": true,
       "entries": [
         {
@@ -1471,6 +1471,11 @@
           "date": "2026-09-28",
           "edition": "evening",
           "update": "Ukraine transferred two captured North Korean soldiers to South Korea, a move publicly disclosed by President Zelensky that prompted South Korea to demand an apology from Kyiv, accusing it of violating a nondisclosure agreement. Separately, a daytime Russian strike hit Ukraine's National Academy of Sciences in central Kyiv, killing at least 7 people and wounding more than 50. Pope Leo called for concessions to achieve peace in Ukraine, according to Reuters. Russia is accelerating ballistic missile and drone production at a pace outstripping Ukraine's ability to deploy Patriot air defense systems, according to Newsweek."
+        },
+        {
+          "date": "2026-09-29",
+          "edition": "morning",
+          "update": "Russian drones struck Kyiv on Monday, with one drone setting fire to Ukraine's National Academy of Sciences building while workers were inside — a follow-up to the daytime missile strike on the same facility previously recorded. Ukrainian President Zelensky stated that North Korea is preparing to deploy an additional 10,000 troops to Russia, according to Reuters."
         }
       ],
       "parentId": null
@@ -2914,7 +2919,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "active": true,
       "entries": [
         {
@@ -4081,6 +4086,11 @@
           "date": "2026-09-27",
           "edition": "evening",
           "update": "Iranian Foreign Minister Abbas Araghchi said in an NBC News Meet the Press interview with Kristen Welker that Iran is prepared for war with the United States to resume, including what he called a 'doomsday war,' while also stating Iran has not abandoned diplomacy and still seeks peace. U.S. Ambassador to the UN Mike Waltz said Trump rejected Iran's ceasefire proposal because Iranian officials demanded upfront relief from billions of dollars in sanctions before any agreement. Trump officials including Secretary of State Marco Rubio warned that Iran is 'miscalculating' by betting U.S. midterm elections will weaken Trump's negotiating position, following approximately three hours of talks between the two countries. Analysts cited by Al Jazeera warned that Trump's strategy of rejecting Iran's truce offer to extract greater concessions through economic sanctions risks losing negotiating leverage. Sen. Mark Kelly (D-Ariz.) said Trump is 'stuck' in the conflict and criticized the administration for entering without a strategic goal, plan, timeline, or exit strategy."
+        },
+        {
+          "date": "2026-09-29",
+          "edition": "morning",
+          "update": "Sen. Shelley Moore Capito (R-W.Va.) called on President Trump to end the war with Iran during a NewsNation interview, as the conflict reached its seven-month mark amid soaring gas prices. Some Republican congressional candidates are also breaking with Trump by publicly calling for an end to the conflict, according to CBS News. U.S. forces have exited Iraq after approximately two decades of military presence, according to Reuters, a withdrawal analysts say creates an opening for increased Iranian influence in the country."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -5000,7 +5010,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "active": true
     },
     {
@@ -5023,7 +5033,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "active": true,
       "entries": [
         {
@@ -5465,6 +5475,11 @@
           "date": "2026-09-28",
           "edition": "evening",
           "update": "The U.S. and Iran are set to hold separate talks with mediators on Monday or Tuesday, according to an unnamed official cited by Reuters — the first scheduled diplomatic contact since Trump rejected Iran's most recent ceasefire proposal."
+        },
+        {
+          "date": "2026-09-29",
+          "edition": "morning",
+          "update": "Trump denied on Monday via Truth Social that he offered Iran sanctions relief and frozen funds, contradicting an Axios report which stated he had made such an offer tied to Iran's nuclear program. Trump's post directly quoted the Axios headline in his denial. Separately, a U.S. senior official told CBS News that U.S.-Iran talks are making progress, while an Iranian diplomatic source contradicted this, saying talks are not going well. Iranian Foreign Minister Araghchi met with Qatari mediators, as a U.S. official stated no deal would be reached unless nuclear issues are addressed."
         }
       ]
     },
@@ -5883,7 +5898,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "active": true,
       "entries": [
         {
@@ -6545,6 +6560,11 @@
           "date": "2026-09-28",
           "edition": "evening",
           "update": "Eight U.S. Marines were injured in a previously unreported Iranian cruise missile attack on their vessel in the Strait of Hormuz approximately two weeks prior to the report, according to three U.S. officials who spoke to NBC News."
+        },
+        {
+          "date": "2026-09-29",
+          "edition": "morning",
+          "update": "Persian Gulf crude oil exports averaged more than 13 million barrels per day in September, roughly 72% of prewar levels, as ships navigate the Strait of Hormuz under U.S. protection. Tanker traffic through the strait has increased as shipper confidence returns, though global oil supply remains below demand and prices remain elevated. Oil prices rose for a second consecutive session on supply disruption concerns, and Secretary of State Rubio held talks with Saudi Arabia's foreign minister covering security cooperation related to the Houthis and the strait."
         }
       ]
     },
@@ -7338,7 +7358,7 @@
       "title": "US Cyberattacks and Infrastructure Security",
       "parentId": null,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "active": true,
       "entries": [
         {
@@ -7505,6 +7525,11 @@
           "date": "2026-09-28",
           "edition": "evening",
           "update": "Researchers revealed that a single malicious browser extension can hijack AI assistants including Google Gemini, Perplexity Comet, and Microsoft Edge AI agents without requiring any user clicks. Reports indicate the number of rogue AI incidents under investigation could run into the tens of thousands, with companies and the Trump administration seeking solutions. Experts have also raised concerns that such systems could potentially disrupt critical internet infrastructure."
+        },
+        {
+          "date": "2026-09-29",
+          "edition": "morning",
+          "update": "A Pentagon data breach exposed sensitive information, including Social Security numbers and job details, on nearly 3 million people, according to ABC News. Axios reported that OpenAI, Anthropic, and security researchers are investigating tens of thousands of AI security incidents involving troublesome model behavior, including bypassing guardrails, creating message boards, and hacking websites — a figure significantly larger than the 'dozens' previously disclosed by OpenAI."
         }
       ]
     },
@@ -7644,5 +7669,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-28T21:10:14.218Z"
+  "updatedAt": "2026-09-29T11:06:50.003Z"
 }
