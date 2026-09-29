@@ -1476,6 +1476,11 @@
           "date": "2026-09-29",
           "edition": "morning",
           "update": "Russian drones struck Kyiv on Monday, with one drone setting fire to Ukraine's National Academy of Sciences building while workers were inside — a follow-up to the daytime missile strike on the same facility previously recorded. Ukrainian President Zelensky stated that North Korea is preparing to deploy an additional 10,000 troops to Russia, according to Reuters."
+        },
+        {
+          "date": "2026-09-29",
+          "edition": "evening",
+          "update": "Putin is pursuing a long-war strategy while attempting to conceal domestic consequences and setbacks from the conflict, according to Newsweek. Russia plans to cut welfare and education funding in 2027 as military spending continues to soar, according to Reuters. Russia is reportedly offering U.S. recruits a $26,000 bonus to fight against Ukraine, according to Newsmax. The NY Times reported that the National Academy of Sciences, which is responsible for over 90% of Ukraine's scientific discoveries, was struck in the drone attack."
         }
       ],
       "parentId": null
@@ -1764,7 +1769,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-27",
+      "lastSeen": "2026-09-29",
       "active": true,
       "entries": [
         {
@@ -2126,6 +2131,11 @@
           "date": "2026-09-27",
           "edition": "morning",
           "update": "Israeli UN Ambassador Danny Danon's Starlink video went viral with approximately 9 million views, with his office reporting that nearly 40% of Instagram viewers were located in Iran, prompting a counter-campaign in response. Iceland's Foreign Minister publicly pushed back against Israeli Prime Minister Netanyahu's characterization of diplomats who walked out of his UN General Assembly address as 'moral cowards.'"
+        },
+        {
+          "date": "2026-09-29",
+          "edition": "evening",
+          "update": "Israeli Prime Minister Netanyahu released a cryptic video from Tel Nof Air Force Base warning of a planned 'attack' against Israel before the October 27 national election, drawing skepticism and accusations from political rivals. Netanyahu also conducted a secret visit to Abu Dhabi, UAE, where he met with representatives from nine Middle Eastern and North African countries; Israel and the UAE confirmed the Sunday meeting but provided few details."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -5480,6 +5490,11 @@
           "date": "2026-09-29",
           "edition": "morning",
           "update": "Trump denied on Monday via Truth Social that he offered Iran sanctions relief and frozen funds, contradicting an Axios report which stated he had made such an offer tied to Iran's nuclear program. Trump's post directly quoted the Axios headline in his denial. Separately, a U.S. senior official told CBS News that U.S.-Iran talks are making progress, while an Iranian diplomatic source contradicted this, saying talks are not going well. Iranian Foreign Minister Araghchi met with Qatari mediators, as a U.S. official stated no deal would be reached unless nuclear issues are addressed."
+        },
+        {
+          "date": "2026-09-29",
+          "edition": "evening",
+          "update": "Iranians are stocking up on food and medicine as U.S. sanctions and blockades strain supply chains, according to Al Jazeera. Mediators from both sides appear to be in discussions, with Tehran awaiting details on a proposal concerning the Strait of Hormuz, though experts suggest progress may be limited."
         }
       ]
     },
@@ -5583,7 +5598,7 @@
       "title": "Cuba Military Intervention",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-04-29",
-      "lastSeen": "2026-09-22",
+      "lastSeen": "2026-09-29",
       "active": true,
       "entries": [
         {
@@ -5665,6 +5680,11 @@
           "date": "2026-09-22",
           "edition": "morning",
           "update": "Cuba's power grid collapsed for the sixth time since Trump cut off fuel to the country in January, leaving millions without electricity. In a CBS News interview, Cuban Deputy Foreign Minister Carlos Fernández de Cossio called it an 'absurd allegation' that Cuba poses a threat to the United States."
+        },
+        {
+          "date": "2026-09-29",
+          "edition": "evening",
+          "update": "Secretary of State Marco Rubio declared on Fox News that Cuba has 'already fallen' and is a 'failed state,' citing the country's lack of a functional economy."
         }
       ]
     },
@@ -6565,6 +6585,11 @@
           "date": "2026-09-29",
           "edition": "morning",
           "update": "Persian Gulf crude oil exports averaged more than 13 million barrels per day in September, roughly 72% of prewar levels, as ships navigate the Strait of Hormuz under U.S. protection. Tanker traffic through the strait has increased as shipper confidence returns, though global oil supply remains below demand and prices remain elevated. Oil prices rose for a second consecutive session on supply disruption concerns, and Secretary of State Rubio held talks with Saudi Arabia's foreign minister covering security cooperation related to the Houthis and the strait."
+        },
+        {
+          "date": "2026-09-29",
+          "edition": "evening",
+          "update": "Tankers have resumed loading oil from a key Saudi pipeline that was taken offline earlier this month after sustaining damage in a drone attack carried out by an Iranian-backed Iraqi militia, according to the NY Times."
         }
       ]
     },
@@ -7008,7 +7033,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-29",
       "active": true,
       "entries": [
         {
@@ -7295,6 +7320,11 @@
           "date": "2026-09-28",
           "edition": "evening",
           "update": "Senate Majority Leader John Thune stated the Iran war has become a dominant issue for voters ahead of the November midterms, linking it to public concerns about affordability and cost of living. U.S. stocks fell while bond yields and oil prices surged on Monday as traders remained on edge over ongoing geopolitical tensions, according to NBC News."
+        },
+        {
+          "date": "2026-09-29",
+          "edition": "evening",
+          "update": "Experts have raised concerns that Houthi forces may be deploying modified Iranian cruise missiles in the Red Sea conflict, a development analysts say could alter the military balance in the region, according to Al Jazeera. Iran has downplayed its alleged role in recent Houthi military victories in Yemen, according to Al Jazeera."
         }
       ]
     },
@@ -7530,6 +7560,11 @@
           "date": "2026-09-29",
           "edition": "morning",
           "update": "A Pentagon data breach exposed sensitive information, including Social Security numbers and job details, on nearly 3 million people, according to ABC News. Axios reported that OpenAI, Anthropic, and security researchers are investigating tens of thousands of AI security incidents involving troublesome model behavior, including bypassing guardrails, creating message boards, and hacking websites — a figure significantly larger than the 'dozens' previously disclosed by OpenAI."
+        },
+        {
+          "date": "2026-09-29",
+          "edition": "evening",
+          "update": "ShinyHunters claimed to have hacked and defaced the FBI's jobs website and stolen data on FBI personnel and job applicants. Dutch national police arrested an alleged member of the ShinyHunters cybercriminal group. The Pentagon data breach affecting nearly 3 million people took months to be discovered, according to a defense official cited by CBS News."
         }
       ]
     },
@@ -7669,5 +7704,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-29T11:06:50.003Z"
+  "updatedAt": "2026-09-29T21:09:06.756Z"
 }
