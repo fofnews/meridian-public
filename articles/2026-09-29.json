@@ -433,5 +433,34 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-09-29T06:00:01.373Z"
+  },
+  {
+    "title": "Tennessee is set to execute a woman for the first time in 200 years",
+    "description": "One of the youngest women sent to death row is set to be executed in Tennessee. If carried out as scheduled Wednesday, it would be Tennessee's first execution of a woman in 200 years.",
+    "link": "https://www.npr.org/2026/09/29/g-s1-145408/tennessee-woman-execution",
+    "pubDate": "Tue, 29 Sep 2026 01:59:18 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-09-29T06:15:01.788Z"
+  },
+  {
+    "title": "Officials looking into possible new ransom note related to Nancy Guthrie",
+    "description": "Authorities are looking into the possibility of a new ransom note related to the disappearance of Nancy Guthrie",
+    "link": "https://abcnews.com/US/wireStory/officials-new-ransom-note-related-nancy-guthries-disappearance-136844125",
+    "pubDate": "Tue, 29 Sep 2026 02:10:35 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-09-29T06:15:01.788Z"
+  },
+  {
+    "title": "Damian Lillard Fires Back at Doubters With Strong Ja Morant Message",
+    "description": "Damian Lillard brushed aside concerns about Ja Morant's fit in Portland, standing firmly behind his new Blazers teammate.",
+    "link": "https://www.newsweek.com/sports/nba/damian-lillard-fires-back-at-doubters-with-strong-ja-morant-message-12499239",
+    "pubDate": "Tue, 29 Sep 2026 02:08:19 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-09-29T06:15:01.788Z"
   }
 ]
