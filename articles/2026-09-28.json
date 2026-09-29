@@ -13283,5 +13283,63 @@
     "source": "Newsmax",
     "categories": [],
     "collectedAt": "2026-09-29T03:15:01.775Z"
+  },
+  {
+    "title": "Blue Lights: The police drama hitting home in Northern Ireland",
+    "description": "As the award winning series returns, it highlights tensions between police and communities in Northern Ireland.",
+    "link": "https://www.bbc.co.uk/news/articles/c6grvpppvw5eo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 29 Sep 2026 03:24:39 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-09-29T03:30:01.345Z"
+  },
+  {
+    "title": "Fighter jets escort Pope Leo on final day of his France tour",
+    "description": "Pope Leo XIV was escorted by fighter jets to Metz, the final stop of his four-day France tour.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/fighter-jets-escort-pope-leo-on-final-day-of-his-france-tour?traffic_source=rss",
+    "pubDate": "Tue, 29 Sep 2026 03:00:01 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-09-29T03:30:01.345Z"
+  },
+  {
+    "title": "Stocks wobble as bonds slump to monthly loss - Reuters",
+    "description": "Stocks wobble as bonds slump to monthly loss  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSVdQU2VNMWNudXUwMjk0YnFXekg0R3B3d1gxcHUtcmx1UU9pSEtXNGRZTjMwR29Qa0JhSFJmdmRIZUdpdzFJVXVrcEFyYWwzZ0xsV0J2QmlaLTZXb0FzY0Fpa2JqdGJrWG53Sk0zX3RYc1ZZYmZkWFZ4bHJkM0gtRWpkYw?oc=5",
+    "pubDate": "Tue, 29 Sep 2026 02:08:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-09-29T03:30:01.345Z"
+  },
+  {
+    "title": "Jayden Daniels traveling to London for return to practice in Commanders injury twist",
+    "description": "Jayden Daniels is going to travel with the Commanders to London ahead of their Week 4 game against the Colts and will practice this week as he returns from an elbow injury.",
+    "link": "https://nypost.com/2026/09/28/sports/jayden-daniels-returning-to-practice-in-commanders-injury-twist/",
+    "pubDate": "Mon, 28 Sep 2026 23:28:26 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-09-29T03:30:01.345Z"
+  },
+  {
+    "title": "Hegseth mobilizes Pentagon to protect midterm elections from foreign threats",
+    "description": "War Secretary Pete Hegseth is mobilizing the Pentagon’s cybersecurity and intelligence resources to protect against foreign interference in the 2026 midterm elections. “As we approach this election cycle, we must prove that we can and will protect the integrity of our democratic processes from any threat,” Hegseth wrote in a memo released Monday. “As President […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4746327/hegseth-pentagon-cyber-midterms-foreign-threats/",
+    "pubDate": "Tue, 29 Sep 2026 03:08:32 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "congressional",
+      "defense",
+      "2026 elections",
+      "cybersecurity",
+      "department of defense (department of war)",
+      "intelligence",
+      "pentagon",
+      "pete hegseth",
+      "trump administration",
+      "voter fraud"
+    ],
+    "collectedAt": "2026-09-29T03:30:01.345Z"
   }
 ]
