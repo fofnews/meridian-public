@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-09-30",
       "active": true,
       "entries": [
         {
@@ -396,6 +396,11 @@
           "date": "2026-09-25",
           "edition": "evening",
           "update": "The Win Senate PAC released an ad targeting Iowa Republican Rep. Ashley Hinson in her Senate race, alleging her top donors appear in files related to the Jeffrey Epstein investigation."
+        },
+        {
+          "date": "2026-09-30",
+          "edition": "evening",
+          "update": "The University of Maine board of trustees voted 9-5 to strip former Sen. George Mitchell's name from a campus building and scholarship due to his ties to Jeffrey Epstein."
         }
       ],
       "parentId": null
@@ -1486,6 +1491,11 @@
           "date": "2026-09-30",
           "edition": "morning",
           "update": "Ukraine's steel industry has been brought nearly to a complete standstill by ongoing Russian missile attacks targeting its steelworks, dealing a significant blow to a sector vital to the country's economy, according to BBC News."
+        },
+        {
+          "date": "2026-09-30",
+          "edition": "evening",
+          "update": "Ukraine deployed an amphibious unmanned ground vehicle on its first operational mission, traveling over 25 miles to deliver supplies to the frontline across both land and water terrain. Russian attacks on the Kyiv region killed at least four people, including a child, while also striking the power grid. Russia launched a major air assault Tuesday night into Wednesday targeting Ukrainian energy infrastructure with drones and ballistic missiles, hitting power plants and energy facilities in and around Kyiv and across the country. Russia declared that European arms factories supplying Ukraine are potential military targets, according to Reuters."
         }
       ],
       "parentId": null
@@ -4409,7 +4419,7 @@
       "id": "cuba-energy-crisis",
       "title": "Cuba Energy Crisis",
       "firstSeen": "2026-03-16",
-      "lastSeen": "2026-09-19",
+      "lastSeen": "2026-09-30",
       "active": true,
       "entries": [
         {
@@ -4631,6 +4641,11 @@
           "date": "2026-09-19",
           "edition": "evening",
           "update": "Cuba's national power grid collapsed again on Friday, leaving millions of residents across the island without electricity. Cuba's Ministry of Energy and Mines announced the nationwide blackout on X, stating that recovery protocols had begun, while at least one resident reported there was 'no way to know' when power would be restored."
+        },
+        {
+          "date": "2026-09-30",
+          "edition": "evening",
+          "update": "Viral illnesses are spreading across Havana as the city simultaneously faces failures in both water and power infrastructure, according to Reuters."
         }
       ],
       "parentId": null
@@ -5063,7 +5078,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-09-29",
+      "lastSeen": "2026-09-30",
       "active": true,
       "entries": [
         {
@@ -5515,6 +5530,11 @@
           "date": "2026-09-29",
           "edition": "evening",
           "update": "Iranians are stocking up on food and medicine as U.S. sanctions and blockades strain supply chains, according to Al Jazeera. Mediators from both sides appear to be in discussions, with Tehran awaiting details on a proposal concerning the Strait of Hormuz, though experts suggest progress may be limited."
+        },
+        {
+          "date": "2026-09-30",
+          "edition": "evening",
+          "update": "Iran's Islamic Revolutionary Guard Corps spokesperson Gen. Hossein Mohebbi issued a 25-page letter urging Americans to vote against President Trump in the midterm elections, calling for a change in U.S. Iran policy and acceptance of 'peaceful coexistence.'"
         }
       ]
     },
@@ -6615,6 +6635,11 @@
           "date": "2026-09-30",
           "edition": "morning",
           "update": "According to National Review, oil flow through the Strait of Hormuz has dropped to approximately 80 percent of prewar levels, a slight upward revision from the 72 percent figure previously recorded for September."
+        },
+        {
+          "date": "2026-09-30",
+          "edition": "evening",
+          "update": "Iranian authorities confirmed receiving a formal U.S. response to their proposal for a ceasefire and phased reopening of the Strait of Hormuz, days after President Trump stated he had rejected their plan. Analysts have raised their 2026 oil price forecasts, according to Reuters, citing expectations of prolonged disruption in the Gulf region."
         }
       ]
     },
@@ -7355,6 +7380,11 @@
           "date": "2026-09-30",
           "edition": "morning",
           "update": "Qatar's Prime Minister, in an interview with Piers Morgan, accused Israeli Prime Minister Netanyahu of committing war crimes in Gaza and alleged Netanyahu is targeting Qatar to deflect attention from those crimes, while affirming Qatar will continue its diplomatic mediation efforts. Nearly every Democratic senator voted to advance a measure calling for a human rights report on Israel's conduct in the West Bank, though Republican senators ultimately blocked the resolution. Settler violence prevented a Palestinian family from returning to their home in the West Bank, according to NBC News. Protests took place across Morocco highlighting the gap between public opposition to normalization with Israel and the Moroccan government's deepening ties with Tel Aviv. A girl named Raseel required multiple surgeries to control infections after her tent was allegedly struck by an Israeli helicopter in Gaza; Israel's military states it has no record of the attack."
+        },
+        {
+          "date": "2026-09-30",
+          "edition": "evening",
+          "update": "Israeli strikes on Gaza killed at least seven people, including six in a drone strike on a passenger van and one in a strike on a residential apartment, according to Al Jazeera. Saudi Arabia rejected an Israeli request to allow Israeli planes to pick up Israeli passengers from Saudi territory, according to security sources cited by Reuters. Israeli settlers are reported to be increasingly encroaching on areas near Ramallah in the occupied West Bank."
         }
       ]
     },
@@ -7600,6 +7630,11 @@
           "date": "2026-09-30",
           "edition": "morning",
           "update": "Cybersecurity firm Mindgard discovered in July that Chinese AI models Kimi K2.6 and K3 Swarm could bypass developer safety restrictions, reportedly providing researchers with information on how to make bioweapons, according to BBC News. Startup Valar Atomics announced plans to build a nuclear-powered data center on public land in Utah, proposing to install over 450 reactors across more than 9,500 acres to power the facility."
+        },
+        {
+          "date": "2026-09-30",
+          "edition": "evening",
+          "update": "The FBI announced it is investigating the data breach involving its employees' sensitive information and vowed to pursue those believed responsible."
         }
       ]
     },
@@ -7737,7 +7772,37 @@
           "update": "The U.S. separately cancelled upcoming joint marine exercises with South Korea, with Seoul confirming the Iran war was cited as the reason — a distinct cancellation from the scaling back of the annual joint drill announced by Trump the previous week."
         }
       ]
+    },
+    {
+      "id": "raf-fairford-incident-and-iran-involvement",
+      "title": "RAF Fairford Incident and Iran Involvement",
+      "parentId": "middle-east-military-conflicts-2026",
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-09-30",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-09-30",
+          "edition": "evening",
+          "update": "UK Prime Minister Andy Burnham stated on Wednesday that there are 'strong indications' Iran 'played a part' in an incident at RAF Fairford, a UK airbase used by US forces, which occurred over the weekend. Suspects connected to the incident were released on bail."
+        }
+      ]
+    },
+    {
+      "id": "flydubai-flight-hijacking-incident",
+      "title": "Flydubai Flight Hijacking Incident",
+      "parentId": "middle-east-military-conflicts-2026",
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-09-30",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-09-30",
+          "edition": "evening",
+          "update": "A Flydubai flight from Dubai to Tel Aviv made an emergency landing in Saudi Arabia on Wednesday after the co-pilot stabbed the pilot in the cockpit and allegedly attempted to crash the plane, according to Israeli Prime Minister Netanyahu. Passengers helped subdue the attacker, video of the cockpit aftermath circulated online, and the co-pilot was arrested. Israeli officials characterized the incident as an act of terror. All passengers were reported safe and were transported to Ben Gurion Airport on a rescue flight, where Netanyahu met with a passenger who helped stop the attack."
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-09-30T11:08:14.224Z"
+  "updatedAt": "2026-09-30T21:10:21.329Z"
 }
