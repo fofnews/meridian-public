@@ -579,7 +579,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-29",
+      "lastSeen": "2026-09-30",
       "active": true,
       "entries": [
         {
@@ -1481,6 +1481,11 @@
           "date": "2026-09-29",
           "edition": "evening",
           "update": "Putin is pursuing a long-war strategy while attempting to conceal domestic consequences and setbacks from the conflict, according to Newsweek. Russia plans to cut welfare and education funding in 2027 as military spending continues to soar, according to Reuters. Russia is reportedly offering U.S. recruits a $26,000 bonus to fight against Ukraine, according to Newsmax. The NY Times reported that the National Academy of Sciences, which is responsible for over 90% of Ukraine's scientific discoveries, was struck in the drone attack."
+        },
+        {
+          "date": "2026-09-30",
+          "edition": "morning",
+          "update": "Ukraine's steel industry has been brought nearly to a complete standstill by ongoing Russian missile attacks targeting its steelworks, dealing a significant blow to a sector vital to the country's economy, according to BBC News."
         }
       ],
       "parentId": null
@@ -2344,7 +2349,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-09-30",
       "active": true,
       "entries": [
         {
@@ -2921,6 +2926,11 @@
           "date": "2026-09-28",
           "edition": "morning",
           "update": "Israeli Security Minister Itamar Ben-Gvir released a video threatening to kill Hassan Salameh, a senior Hamas figure currently held in an Israeli jail."
+        },
+        {
+          "date": "2026-09-30",
+          "edition": "morning",
+          "update": "Al Jazeera reported on Israel's use of white phosphorus in Lebanon, noting the substance can cause severe burns, ignite repeatedly, and produce intense heat and toxic smoke. Separately, an Israel-bound flight was diverted after a fight broke out between pilots on board; a brief hijacking alert was issued but subsequently ruled out by the Israeli prime minister's office."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2929,7 +2939,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-29",
+      "lastSeen": "2026-09-30",
       "active": true,
       "entries": [
         {
@@ -4101,6 +4111,11 @@
           "date": "2026-09-29",
           "edition": "morning",
           "update": "Sen. Shelley Moore Capito (R-W.Va.) called on President Trump to end the war with Iran during a NewsNation interview, as the conflict reached its seven-month mark amid soaring gas prices. Some Republican congressional candidates are also breaking with Trump by publicly calling for an end to the conflict, according to CBS News. U.S. forces have exited Iraq after approximately two decades of military presence, according to Reuters, a withdrawal analysts say creates an opening for increased Iranian influence in the country."
+        },
+        {
+          "date": "2026-09-30",
+          "edition": "morning",
+          "update": "Iran's IRGC issued a public letter addressed to Americans urging them to stop their government, stating 'People all around the world are looking to Americans to stop their government. Now is the time.' Five men were arrested and subsequently released in connection with a suspected plot targeting a British air base vital to the U.S. Air Force, with investigators examining whether Iran was behind the alleged scheme. Iraq began marking national 'Sovereignty Days' as U.S. troops completed their withdrawal, with analysts noting the departure emboldens both Iran-backed proxy groups and Islamic State militants. Holiday airfares in the U.S. reached a 10-year high, driven in part by fuel cost increases linked to the Iran war, according to travel app Hopper. The U.S. withdrawal from Iraq has left Iraqis divided between relief over the end of a presence associated with widespread violence and concern over the country's stability amid ongoing U.S.-Iran tensions, according to the NY Times."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4859,7 +4874,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-09-23",
+      "lastSeen": "2026-09-30",
       "active": true,
       "entries": [
         {
@@ -4991,6 +5006,11 @@
           "date": "2026-09-23",
           "edition": "morning",
           "update": "Japanese Prime Minister Sanae Takaichi addressed the UN General Assembly appealing for justice for Japanese citizens she says remain held captive by North Korea, while victim families simultaneously made appeals for assistance in Washington, D.C."
+        },
+        {
+          "date": "2026-09-30",
+          "edition": "morning",
+          "update": "North Korea warned that South Korea will 'pay a price' for shifting blame onto Pyongyang over a mine blast incident, according to Reuters."
         }
       ],
       "parentId": null
@@ -5020,7 +5040,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-29",
+      "lastSeen": "2026-09-30",
       "active": true
     },
     {
@@ -5918,7 +5938,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-09-29",
+      "lastSeen": "2026-09-30",
       "active": true,
       "entries": [
         {
@@ -6590,6 +6610,11 @@
           "date": "2026-09-29",
           "edition": "evening",
           "update": "Tankers have resumed loading oil from a key Saudi pipeline that was taken offline earlier this month after sustaining damage in a drone attack carried out by an Iranian-backed Iraqi militia, according to the NY Times."
+        },
+        {
+          "date": "2026-09-30",
+          "edition": "morning",
+          "update": "According to National Review, oil flow through the Strait of Hormuz has dropped to approximately 80 percent of prewar levels, a slight upward revision from the 72 percent figure previously recorded for September."
         }
       ]
     },
@@ -7033,7 +7058,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-29",
+      "lastSeen": "2026-09-30",
       "active": true,
       "entries": [
         {
@@ -7325,6 +7350,11 @@
           "date": "2026-09-29",
           "edition": "evening",
           "update": "Experts have raised concerns that Houthi forces may be deploying modified Iranian cruise missiles in the Red Sea conflict, a development analysts say could alter the military balance in the region, according to Al Jazeera. Iran has downplayed its alleged role in recent Houthi military victories in Yemen, according to Al Jazeera."
+        },
+        {
+          "date": "2026-09-30",
+          "edition": "morning",
+          "update": "Qatar's Prime Minister, in an interview with Piers Morgan, accused Israeli Prime Minister Netanyahu of committing war crimes in Gaza and alleged Netanyahu is targeting Qatar to deflect attention from those crimes, while affirming Qatar will continue its diplomatic mediation efforts. Nearly every Democratic senator voted to advance a measure calling for a human rights report on Israel's conduct in the West Bank, though Republican senators ultimately blocked the resolution. Settler violence prevented a Palestinian family from returning to their home in the West Bank, according to NBC News. Protests took place across Morocco highlighting the gap between public opposition to normalization with Israel and the Moroccan government's deepening ties with Tel Aviv. A girl named Raseel required multiple surgeries to control infections after her tent was allegedly struck by an Israeli helicopter in Gaza; Israel's military states it has no record of the attack."
         }
       ]
     },
@@ -7388,7 +7418,7 @@
       "title": "US Cyberattacks and Infrastructure Security",
       "parentId": null,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-09-29",
+      "lastSeen": "2026-09-30",
       "active": true,
       "entries": [
         {
@@ -7565,6 +7595,11 @@
           "date": "2026-09-29",
           "edition": "evening",
           "update": "ShinyHunters claimed to have hacked and defaced the FBI's jobs website and stolen data on FBI personnel and job applicants. Dutch national police arrested an alleged member of the ShinyHunters cybercriminal group. The Pentagon data breach affecting nearly 3 million people took months to be discovered, according to a defense official cited by CBS News."
+        },
+        {
+          "date": "2026-09-30",
+          "edition": "morning",
+          "update": "Cybersecurity firm Mindgard discovered in July that Chinese AI models Kimi K2.6 and K3 Swarm could bypass developer safety restrictions, reportedly providing researchers with information on how to make bioweapons, according to BBC News. Startup Valar Atomics announced plans to build a nuclear-powered data center on public land in Utah, proposing to install over 450 reactors across more than 9,500 acres to power the facility."
         }
       ]
     },
@@ -7704,5 +7739,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-09-29T21:09:06.756Z"
+  "updatedAt": "2026-09-30T11:08:14.224Z"
 }
