@@ -815,5 +815,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-10-01T08:15:01.548Z"
+  },
+  {
+    "title": "OpenAI ‘reviewing’ report of failed hacking attempt against Canada’s gov’t",
+    "description": "AI giant says it is reviewing report of attempted cyberattack on Canada's national archives agency.",
+    "link": "https://www.aljazeera.com/economy/2026/10/1/openai-reviewing-report-of-failed-hacking-attempt-against-canadas-govt?traffic_source=rss",
+    "pubDate": "Thu, 01 Oct 2026 07:56:49 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-10-01T08:30:01.714Z"
+  },
+  {
+    "title": "Arizona sheriff’s helicopter crew rescues man stranded atop overturned truck in rapidly rising floodwaters",
+    "description": "Dramatic video shows an Arizona sheriff's helicopter crew rescuing a man stranded on top of his overturned truck as rapidly moving floodwaters surrounded the vehicle.",
+    "link": "https://nypost.com/2026/10/01/us-news/arizona-sheriffs-helicopter-rescues-stranded-man-stuck-on-truck-in-floodwaters/",
+    "pubDate": "Thu, 01 Oct 2026 04:19:19 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-01T08:30:01.714Z"
   }
 ]
