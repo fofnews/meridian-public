@@ -1501,6 +1501,11 @@
           "date": "2026-10-01",
           "edition": "morning",
           "update": "A Russian attack drone crashed into a children's playground in Kyiv without detonating. Russian air strikes injured two people across Kyiv and Odesa regions, according to local officials cited by Reuters."
+        },
+        {
+          "date": "2026-10-01",
+          "edition": "evening",
+          "update": "Russia struck the Pivdennyi bridge in central Kyiv during daylight hours while a metro train was crossing it, marking the first attack on Kyiv's bridges, according to BBC News. Ukraine's Operation Vivaldi has successfully thwarted Russian attempts to capture its 'Fortress Belt' of fortified cities, with Ukrainian forces achieving a front line breakthrough using exploding APCs, according to Newsweek."
         }
       ],
       "parentId": null
@@ -4136,6 +4141,11 @@
           "date": "2026-10-01",
           "edition": "morning",
           "update": "Iran announced it has received a U.S. counterproposal to its seven-day ceasefire plan, which the White House had previously rejected. Trump warned the U.S. may 'blow up' Iran or strike a deal, saying the standoff would end 'very soon one way or the other.' A Trump family member and former RNC Chair acknowledged the Iran conflict could cost Republicans control of Congress in the midterms, but said losing Congress may be necessary if it prevented Iran from obtaining a nuclear weapon. Iran held a public parade of two Shahed drones through Tehran, with crowds cheering along the route."
+        },
+        {
+          "date": "2026-10-01",
+          "edition": "evening",
+          "update": "Iran is preparing stronger retaliatory measures in the event of an attack, even as diplomatic efforts face reported obstacles, according to Reuters. The Trump administration aired a taxpayer-funded advertisement promoting what it describes as a seven-month-long Iran war, featuring audio of President Trump and Defense Secretary Pete Hegseth alongside U.S. military footage including unclassified strike imagery, according to ad-tracking firm Medium Buying."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -6733,7 +6743,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-10-01",
       "active": true,
       "entries": [
         {
@@ -6995,6 +7005,11 @@
           "date": "2026-09-28",
           "edition": "evening",
           "update": "A Congolese politician was beaten to death after appearing on radio to urge Ebola prevention measures, according to his political party."
+        },
+        {
+          "date": "2026-10-01",
+          "edition": "evening",
+          "update": "A funeral was held in the Democratic Republic of the Congo for the politician killed following their defense of the country's Ebola response, according to Al Jazeera."
         }
       ]
     },
@@ -7458,7 +7473,7 @@
       "title": "US Cyberattacks and Infrastructure Security",
       "parentId": null,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "active": true,
       "entries": [
         {
@@ -7645,6 +7660,11 @@
           "date": "2026-09-30",
           "edition": "evening",
           "update": "The FBI announced it is investigating the data breach involving its employees' sensitive information and vowed to pursue those believed responsible."
+        },
+        {
+          "date": "2026-10-01",
+          "edition": "evening",
+          "update": "California Attorney General Rob Bonta subpoenaed OpenAI as part of a state cybersecurity investigation, focusing on an incident in which OpenAI's systems were connected to a security event at AI development platform Hugging Face. A GAO undercover investigation found that federal agencies, including the Department of Health and Human Services, sold used or excess laboratory equipment flagged as high-risk exports for potential biological warfare use to apparent resellers during fiscal years 2022 through 2025."
         }
       ]
     },
@@ -7788,13 +7808,18 @@
       "title": "RAF Fairford Incident and Iran Involvement",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "active": true,
       "entries": [
         {
           "date": "2026-09-30",
           "edition": "evening",
           "update": "UK Prime Minister Andy Burnham stated on Wednesday that there are 'strong indications' Iran 'played a part' in an incident at RAF Fairford, a UK airbase used by US forces, which occurred over the weekend. Suspects connected to the incident were released on bail."
+        },
+        {
+          "date": "2026-10-01",
+          "edition": "evening",
+          "update": "British Counter Terrorism Policing arrested a 27-year-old dual UK-Iranian national in London on suspicion of preparation of terrorist acts in connection with the RAF Fairford incident. Netanyahu claimed in a Fox News interview that Israel had provided the UK with intelligence about an Iranian-sponsored attack shortly before the UK sanctioned Israel."
         }
       ]
     },
@@ -7815,9 +7840,14 @@
           "date": "2026-10-01",
           "edition": "morning",
           "update": "The stabbed pilot was identified as Captain Smit Machchhar, an Indian national. Netanyahu publicly praised him as a 'hero' while stating the motive for the attack remains unknown. President Trump told reporters in the Oval Office that Netanyahu informed him an Israeli plumber with no commercial aircraft experience was responsible for stabilizing the aircraft, an account Trump expressed amazement over. Passengers recounted a sudden mid-air plunge and emergency alert, with footage emerging showing the struggle for control of the cockpit."
+        },
+        {
+          "date": "2026-10-01",
+          "edition": "evening",
+          "update": "Netanyahu publicly stated the co-pilot underwent 'Islamist radical indoctrination,' and Israel's defense minister characterized the incident as 'a jihadist terrorist attack.' The co-pilot has been identified as Omani. UAE authorities launched a formal investigation into a possible terrorist link, with state media reporting investigators are probing whether the incident was connected to any 'terrorist activity or intent.' Saudi Arabia, Israel, and the UAE are cooperating on the investigation. The aircraft plummeted more than 17,000 feet in a nosedive after the stabbing, according to senior Israeli and Saudi officials. Passenger Adam Polovincik described to BBC News how he embraced his children during the nosedive, while passenger Hila Evron told CBS Mornings she 'hugged my two boys.' The wounded captain managed to open the cockpit door, allowing passengers and crew to restrain the suspect. The incident has prompted broader questions about cockpit security protocols, with analysts noting post-9/11 measures designed to keep attackers out of cockpits may complicate responses when violence originates from within."
         }
       ]
     }
   ],
-  "updatedAt": "2026-10-01T11:07:57.218Z"
+  "updatedAt": "2026-10-01T21:09:01.363Z"
 }
