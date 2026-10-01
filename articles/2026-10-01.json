@@ -1232,5 +1232,66 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-10-01T09:15:01.185Z"
+  },
+  {
+    "title": "Medevac helicopter carrying 5 crashes off California coast, killing 2",
+    "description": "Another two people were being treated at a hospital, officials said.",
+    "link": "https://abcnews.com/US/2-dead-helicopter-crashes-californias-catalina-island/story?id=136911014",
+    "pubDate": "Thu, 01 Oct 2026 05:00:25 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-10-01T09:30:01.548Z"
+  },
+  {
+    "title": "This air traffic controller flies to work",
+    "description": "ABC News' Danny New talks to a man in Colorado who starts his day by gliding to work through powered paragliding.",
+    "link": "https://abcnews.com/video/136911930/",
+    "pubDate": "Thu, 01 Oct 2026 04:24:39 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-10-01T09:30:01.548Z"
+  },
+  {
+    "title": "Obamacare $500 Refund Checks Are Here. Map Shows Where Payouts Are Coming",
+    "description": "Trump's $500 Obamacare refund checks are rolling out to 950,000 Americans in 30 states. Here's where the payments are going.",
+    "link": "https://www.newsweek.com/obamacare-500-refund-checks-here-map-shows-where-payouts-coming-12510793",
+    "pubDate": "Thu, 01 Oct 2026 05:21:14 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-10-01T09:30:01.548Z"
+  },
+  {
+    "title": "Trump’s red-state tour raises eyebrows and anxiety among Republicans",
+    "description": "President Trump’s upcoming campaign stops in a number of red states are raising eyebrows as Democrats seek to expand the midterm map ahead of November’s midterm elections.  This week, Trump is slated to visit Oklahoma and Alabama, in addition to making stops in the swing states of Ohio and Texas. The president is also set…",
+    "link": "https://thehill.com/homenews/administration/6121792-trump-midterms-red-state-stops/",
+    "pubDate": "\n\t\tThu, 01 Oct 2026 09:00:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "campaign"
+    ],
+    "collectedAt": "2026-10-01T09:30:01.548Z"
+  },
+  {
+    "title": "Retail investors are aggressively piling into this bold contrarian bet through one ETF.",
+    "description": "After a harrowing third quarter for Treasurys and as the stock market stalls , bond yields at multi-decade highs are attracting retail investors into fixed-income ETFs..",
+    "link": "https://www.marketwatch.com/story/retail-investors-are-aggressively-piling-into-this-bold-contrarian-bet-through-one-etf-da26f208?mod=mw_rss_topstories",
+    "pubDate": "Thu, 01 Oct 2026 09:23:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-10-01T09:30:01.548Z"
+  },
+  {
+    "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+    "description": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+    "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+    "pubDate": "Thu, 01 Oct 2026 09:15:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-10-01T09:30:01.548Z"
   }
 ]
