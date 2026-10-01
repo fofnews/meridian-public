@@ -584,7 +584,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "active": true,
       "entries": [
         {
@@ -1496,6 +1496,11 @@
           "date": "2026-09-30",
           "edition": "evening",
           "update": "Ukraine deployed an amphibious unmanned ground vehicle on its first operational mission, traveling over 25 miles to deliver supplies to the frontline across both land and water terrain. Russian attacks on the Kyiv region killed at least four people, including a child, while also striking the power grid. Russia launched a major air assault Tuesday night into Wednesday targeting Ukrainian energy infrastructure with drones and ballistic missiles, hitting power plants and energy facilities in and around Kyiv and across the country. Russia declared that European arms factories supplying Ukraine are potential military targets, according to Reuters."
+        },
+        {
+          "date": "2026-10-01",
+          "edition": "morning",
+          "update": "A Russian attack drone crashed into a children's playground in Kyiv without detonating. Russian air strikes injured two people across Kyiv and Odesa regions, according to local officials cited by Reuters."
         }
       ],
       "parentId": null
@@ -2949,7 +2954,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "active": true,
       "entries": [
         {
@@ -4126,6 +4131,11 @@
           "date": "2026-09-30",
           "edition": "morning",
           "update": "Iran's IRGC issued a public letter addressed to Americans urging them to stop their government, stating 'People all around the world are looking to Americans to stop their government. Now is the time.' Five men were arrested and subsequently released in connection with a suspected plot targeting a British air base vital to the U.S. Air Force, with investigators examining whether Iran was behind the alleged scheme. Iraq began marking national 'Sovereignty Days' as U.S. troops completed their withdrawal, with analysts noting the departure emboldens both Iran-backed proxy groups and Islamic State militants. Holiday airfares in the U.S. reached a 10-year high, driven in part by fuel cost increases linked to the Iran war, according to travel app Hopper. The U.S. withdrawal from Iraq has left Iraqis divided between relief over the end of a presence associated with widespread violence and concern over the country's stability amid ongoing U.S.-Iran tensions, according to the NY Times."
+        },
+        {
+          "date": "2026-10-01",
+          "edition": "morning",
+          "update": "Iran announced it has received a U.S. counterproposal to its seven-day ceasefire plan, which the White House had previously rejected. Trump warned the U.S. may 'blow up' Iran or strike a deal, saying the standoff would end 'very soon one way or the other.' A Trump family member and former RNC Chair acknowledged the Iran conflict could cost Republicans control of Congress in the midterms, but said losing Congress may be necessary if it prevented Iran from obtaining a nuclear weapon. Iran held a public parade of two Shahed drones through Tehran, with crowds cheering along the route."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -5055,7 +5065,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "active": true
     },
     {
@@ -7793,16 +7803,21 @@
       "title": "Flydubai Flight Hijacking Incident",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-01",
       "active": true,
       "entries": [
         {
           "date": "2026-09-30",
           "edition": "evening",
           "update": "A Flydubai flight from Dubai to Tel Aviv made an emergency landing in Saudi Arabia on Wednesday after the co-pilot stabbed the pilot in the cockpit and allegedly attempted to crash the plane, according to Israeli Prime Minister Netanyahu. Passengers helped subdue the attacker, video of the cockpit aftermath circulated online, and the co-pilot was arrested. Israeli officials characterized the incident as an act of terror. All passengers were reported safe and were transported to Ben Gurion Airport on a rescue flight, where Netanyahu met with a passenger who helped stop the attack."
+        },
+        {
+          "date": "2026-10-01",
+          "edition": "morning",
+          "update": "The stabbed pilot was identified as Captain Smit Machchhar, an Indian national. Netanyahu publicly praised him as a 'hero' while stating the motive for the attack remains unknown. President Trump told reporters in the Oval Office that Netanyahu informed him an Israeli plumber with no commercial aircraft experience was responsible for stabilizing the aircraft, an account Trump expressed amazement over. Passengers recounted a sudden mid-air plunge and emergency alert, with footage emerging showing the struggle for control of the cockpit."
         }
       ]
     }
   ],
-  "updatedAt": "2026-09-30T21:10:21.329Z"
+  "updatedAt": "2026-10-01T11:07:57.218Z"
 }
