@@ -88,5 +88,81 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-10-01T04:15:04.304Z"
+  },
+  {
+    "title": "How a Cornell Student Went From Shame to Seeking Justice",
+    "description": "The woman known as “Jane Doe” was initially embarrassed about what happened at a fraternity party in 2024, but soon concluded: “I was assaulted.”",
+    "link": "https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-accusation-reporting.html",
+    "pubDate": "Thu, 01 Oct 2026 04:19:29 +0000",
+    "source": "NY Times",
+    "categories": [
+      "fraternities and sororities",
+      "sex crimes",
+      "colleges and universities",
+      "rumors and misinformation",
+      "van houten, matthew",
+      "cornell university",
+      "ithaca (ny)",
+      "tompkins county (ny)"
+    ],
+    "collectedAt": "2026-10-01T04:30:01.529Z"
+  },
+  {
+    "title": "South Korea’s exports hit record high on AI boom",
+    "description": "Exports jump 83.5 percent to top $120bn for the first time amid ferocious semiconductor demand.",
+    "link": "https://www.aljazeera.com/economy/2026/10/1/south-koreas-exports-hit-record-high-on-ai-boom?traffic_source=rss",
+    "pubDate": "Thu, 01 Oct 2026 04:08:15 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-10-01T04:30:01.529Z"
+  },
+  {
+    "title": "Becerra, Hilton tangle over ‘Trump, Trump, Trump’ in California governor debate",
+    "description": "Democratic state Attorney General Xavier Becerra and former Fox News host Steve Hilton (R) clashed on the debate stage Wednesday as they jostle in a contentious race to replace California Gov. Gavin Newsom (D). The rivals sparred over the economy, immigration and healthcare in an hourlong CNN debate, the first and only scheduled just days…",
+    "link": "https://thehill.com/homenews/6122170-becerra-hilton-california-governor-debate/",
+    "pubDate": "\n\t\tThu, 01 Oct 2026 04:13:57 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-10-01T04:30:01.529Z"
+  },
+  {
+    "title": "Helicopter crashes off Catalina Island with 5 people aboard",
+    "description": "A helicopter crashed into the ocean off Catalina Island Wednesday night just seconds after departing.",
+    "link": "https://nypost.com/2026/10/01/us-news/air-ambulence-helicopter-crashes-off-catalina-island-with-5-people-aboard/",
+    "pubDate": "Thu, 01 Oct 2026 00:27:11 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-01T04:30:01.529Z"
+  },
+  {
+    "title": "Senate approves Trump’s pick to lead the Labor Department",
+    "description": "Keith Sonderling, who was confirmed 47-41, has been the acting secretary since April and has served in multiple roles within the department over the course of his career.",
+    "link": "https://nypost.com/2026/10/01/us-news/senate-approves-trumps-pick-keith-sonderling-to-lead-the-labor-department/",
+    "pubDate": "Thu, 01 Oct 2026 00:22:45 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-01T04:30:01.529Z"
+  },
+  {
+    "title": "Co-owner Joe Tsai says Liberty ‘best team in playoffs’ before semifinal clash vs. Dream begins",
+    "description": "Liberty co-owner Joe Tsai makes a brazen declaration. “Seeding doesn’t matter,” Tsai posted to X Wednesday. “We’re the best team in the playoffs.”",
+    "link": "https://nypost.com/2026/10/01/sports/co-owner-joe-tsai-says-liberty-best-team-in-the-playoffs/",
+    "pubDate": "Thu, 01 Oct 2026 00:19:08 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-01T04:30:01.529Z"
+  },
+  {
+    "title": "Tragedy hits coastal community as victims identified in second grisly murder-suicide this year",
+    "description": "Just months after a similar murder-suicide rocked Santa Monica, another couple was found meeting the exact same fate inside their home.",
+    "link": "https://nypost.com/2026/10/01/us-news/santa-monica-couple-identified-in-second-grisly-murder-suicide-this-year/",
+    "pubDate": "Thu, 01 Oct 2026 00:18:10 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-01T04:30:01.529Z"
   }
 ]
