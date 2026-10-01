@@ -864,5 +864,51 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-10-01T08:45:01.663Z"
+  },
+  {
+    "title": "Morning news brief",
+    "description": "Israel's prime minister says a pilot may have tried to crash a plane traveling to Tel Aviv, Trump visits Oklahoma to campaign for GOP candidates, Pete Hegseth announces new military initiatives.",
+    "link": "https://www.npr.org/2026/10/01/nx-s1-5979957/morning-news-brief",
+    "pubDate": "Thu, 01 Oct 2026 04:43:18 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-10-01T09:00:01.351Z"
+  },
+  {
+    "title": "Rapid weight loss on popular drugs could ‘starve’ the brain, expert warns",
+    "description": "Chronic under-eating can reduce levels of iron, protein and omega-3 fats, neuroscientist warns.",
+    "link": "https://nypost.com/2026/10/01/health/rapid-weight-loss-on-popular-glp-1-drugs-could-starve-the-brain-expert-warns/",
+    "pubDate": "Thu, 01 Oct 2026 04:52:48 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-01T09:00:01.351Z"
+  },
+  {
+    "title": "Rubio orders visiting Iranian UN delegation to leave NYC ahead of schedule",
+    "description": "Rubio, according to one official, determined that the Iranians had “overstayed their welcome.”",
+    "link": "https://nypost.com/2026/10/01/world-news/rubio-orders-visiting-iranian-un-delegation-to-leave-nyc-ahead-of-schedule/",
+    "pubDate": "Thu, 01 Oct 2026 04:51:02 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-01T09:00:01.351Z"
+  },
+  {
+    "title": "Top Judiciary Democrat demands investigation into Trump taxpayer-funded ads",
+    "description": "House Judiciary ranking member Jamie Raskin (D-MD) sent a letter Wednesday to U.S. watchdog and investigative agencies requesting two investigations into the Trump administration advertisements paid for by taxpayer dollars. Raskin, along with Rep. George Whitesides (D-CA), asked the Government Accountability Office, the government watchdog, and the Office of Special Counsel to launch investigations into […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4748811/jamie-raskin-demands-investigation-trump-taxpayer-funded-ads/",
+    "pubDate": "Thu, 01 Oct 2026 08:45:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "congressional",
+      "house",
+      "advertising",
+      "gao",
+      "house judiciary committee",
+      "house of representatives",
+      "jamie raskin",
+      "office of special counsel",
+      "trump administration"
+    ],
+    "collectedAt": "2026-10-01T09:00:01.351Z"
   }
 ]
