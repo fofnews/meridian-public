@@ -269,5 +269,45 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-10-02T05:15:01.703Z"
+  },
+  {
+    "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
+    "description": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+    "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 02 Oct 2026 05:26:06 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-10-02T05:30:01.408Z"
+  },
+  {
+    "title": "Trump admin wants to require tax filers to disclose citizenship status to IRS",
+    "description": "A Trump administration proposal would require tax filers to certify their immigration status to the IRS, which critics argue could be used as a tool for immigration enforcement.",
+    "link": "https://www.foxnews.com/politics/trump-admin-wants-require-tax-filers-disclose-citizenship-status-irs",
+    "pubDate": "Fri, 02 Oct 2026 01:11:35 -0400",
+    "source": "Fox News",
+    "categories": [
+      "1d7a111f-9bd8-5b2f-8190-df3c56f467e7",
+      "fnc",
+      "fox news",
+      "fox-news/us/immigration",
+      "fox-news/us/immigration/illegal-immigrants",
+      "fox-news/politics",
+      "fox-news/person/donald-trump",
+      "fox-news/politics/executive/social-security",
+      "fox-news/politics/finance/taxes",
+      "fox-news/us/immigration/deportation",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-10-02T05:30:01.408Z"
+  },
+  {
+    "title": "Arizona Dem Rep. Yassamin Ansari, 34, dating YouTuber Jack Cocchiarella, 24: report",
+    "description": "The two first met when Cocchiarella interviewed Ansari in spring 2025.",
+    "link": "https://nypost.com/2026/10/02/us-news/arizona-dem-rep-yassamin-ansari-34-dating-24-year-old-youtuber-jack-cocchiarella/",
+    "pubDate": "Fri, 02 Oct 2026 01:29:11 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-02T05:30:01.408Z"
   }
 ]
