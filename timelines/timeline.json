@@ -1511,6 +1511,11 @@
           "date": "2026-10-02",
           "edition": "morning",
           "update": "Ukraine shared with European partners what it described as intercepted Russian plans to cut off major cities from power, heat, and water during the upcoming winter, warning of what could be Russia's most severe infrastructure attack yet, according to the NY Times. Russian air strikes on Kyiv killed one person and restricted traffic across the Dnipro River, according to Reuters."
+        },
+        {
+          "date": "2026-10-02",
+          "edition": "evening",
+          "update": "Ukrainian forces recaptured nearly 300 square kilometers of territory from Russian control between March and September 2026, coinciding with Russian casualties reaching a 2026 high, according to Newsweek. Ukraine reported its first combat use of a domestically produced ballistic missile, with a larger version capable of striking Moscow reportedly under development, according to the NY Times. Kyiv Mayor Vitaliy Klitschko warned that intensified Russian strikes on critical infrastructure have placed the capital in a 'very dramatic situation,' while Ukrainian authorities called for tighter sanctions against Russia following the bridge strikes. A Polish city reopened a Cold War-era shelter in response to the intensifying Russian attacks in Ukraine, according to Reuters."
         }
       ],
       "parentId": null
@@ -4156,6 +4161,11 @@
           "date": "2026-10-02",
           "edition": "morning",
           "update": "The Justice Department announced charges Thursday against Ashton Hamed Ellaboudy, a 51-year-old electrical engineer and Department of Energy employee from Richland, Washington, arrested by the FBI on charges of attempting to provide material support to the Houthis, including acquiring materials for homemade explosives and drones. The Pentagon is deploying more than 4,000 Marines and sailors aboard three warships, including the USS Makin Island amphibious assault ship, to the Middle East as part of a broader U.S. Navy buildup in the Central Command theater. Separately, the Roosevelt carrier strike group and approximately 2,000 Marines were also deployed to the region, while a tanker was struck in the Strait of Hormuz, according to Al Jazeera."
+        },
+        {
+          "date": "2026-10-02",
+          "edition": "evening",
+          "update": "The U.S. is deploying a third aircraft carrier to the Middle East as President Trump claimed Iran is 'ready to fold up' following the midterm elections, according to CBS News. Trump also hit the campaign trail to rally Republican support ahead of the midterm general election amid voter discontent over rising prices and the ongoing Iran conflict."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -7128,7 +7138,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-02",
       "active": true,
       "entries": [
         {
@@ -7430,6 +7440,11 @@
           "date": "2026-09-30",
           "edition": "evening",
           "update": "Israeli strikes on Gaza killed at least seven people, including six in a drone strike on a passenger van and one in a strike on a residential apartment, according to Al Jazeera. Saudi Arabia rejected an Israeli request to allow Israeli planes to pick up Israeli passengers from Saudi territory, according to security sources cited by Reuters. Israeli settlers are reported to be increasingly encroaching on areas near Ramallah in the occupied West Bank."
+        },
+        {
+          "date": "2026-10-02",
+          "edition": "evening",
+          "update": "OPEC+ has delayed its oil capacity review after the Iran war disrupted the group's expansion plans, according to Reuters. Middle East oil exports have nearly returned to pre-Iran war levels, with experts citing U.S. military assistance, shuttle tanker operations, and alternative pipelines bypassing the Strait of Hormuz as key factors driving the rebound, according to BBC News."
         }
       ]
     },
@@ -7870,9 +7885,14 @@
           "date": "2026-10-02",
           "edition": "morning",
           "update": "Saudi Arabia and Jordan initially denied landing clearance to the Flydubai aircraft even after a mayday call was issued from the cabin, according to multiple reports. An initial Saudi Interior Ministry probe confirmed the co-pilot assaulted the captain before landing, and stated that both pilots were subsequently returned to the UAE with an Emirati security team. New video emerged showing the wounded Captain Machchhar unlocking the cockpit door and asking passengers for help, with a group then entering, pulling up on the controls, and subduing the attacker using headset cords. Netanyahu stated that a connection between the co-pilot and Iran remains uncertain. The executive producer of aviation documentary series 'Mayday' called it 'a fantastic byproduct' of the show after reports emerged that a passenger used knowledge from it during the incident."
+        },
+        {
+          "date": "2026-10-02",
+          "edition": "evening",
+          "update": "Captain Smit Machchhar spoke publicly for the first time about the attack, describing in a video call with Indian Prime Minister Narendra Modi how he was lying injured on the cockpit floor and made 'one last push' to open the door, saying he was 'fighting for my life' and had to act despite serious injuries to prevent a crash. Two off-duty pilots seated in the cabin intervened alongside passengers to stabilize and land the Boeing 737 safely in Saudi Arabia, according to the NY Times. An Israeli official revealed the Omani co-pilot had made social media posts musing about killing Jews prior to the incident. Israeli officials are also set to question the co-pilot, according to Reuters sources."
         }
       ]
     }
   ],
-  "updatedAt": "2026-10-02T11:06:19.807Z"
+  "updatedAt": "2026-10-02T21:08:22.125Z"
 }
