@@ -633,5 +633,56 @@
     "source": "Newsweek",
     "categories": [],
     "collectedAt": "2026-10-02T08:15:01.302Z"
+  },
+  {
+    "title": "Russia tries to freeze Ukraine as it suffers record casualties and retreats",
+    "description": "Moscow has suffered further losses of occupied territory, but is using new drones to beat Ukraine's defences.",
+    "link": "https://www.aljazeera.com/news/2026/10/2/russia-tries-to-freeze-ukraine-as-it-suffers-record-casualties-and-retreats?traffic_source=rss",
+    "pubDate": "Fri, 02 Oct 2026 08:03:02 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-10-02T08:30:01.221Z"
+  },
+  {
+    "title": "Indian police detain politicians at protests over election chief",
+    "description": "Police in New Delhi have detained opposition politicians and demonstrators during protests.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/02-10-clip-india-protests-election-jantar-mantar-in-mp4?traffic_source=rss",
+    "pubDate": "Fri, 02 Oct 2026 07:59:49 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-10-02T08:30:01.221Z"
+  },
+  {
+    "title": "Lawyers for US inmate who survived lethal injections demand release",
+    "description": "Christa Pike is in critical condition after two failed attempts to execute her by lethal injection, her lawyer says.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/clip-christia-pike-execution-mp4?traffic_source=rss",
+    "pubDate": "Fri, 02 Oct 2026 07:58:08 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-10-02T08:30:01.221Z"
+  },
+  {
+    "title": "Loyal dog fetches police to help owner who fell at Kansas home",
+    "description": "\"The resident had been there for more than three hours,\" according to police.",
+    "link": "https://nypost.com/2026/10/02/lifestyle/kansas-dog-fetches-police-to-help-owner-who-fell-at-home/",
+    "pubDate": "Fri, 02 Oct 2026 04:29:03 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-02T08:30:01.221Z"
+  },
+  {
+    "title": "Putin says Russia will use ‘all weapons’ in its arsenal if any of its territory is attacked",
+    "description": "Putin accused the West and Europe of escalating tensions by talking about preparing for a war with Moscow in the coming years.",
+    "link": "https://nypost.com/2026/10/02/world-news/putin-says-russia-will-use-all-weapons-in-its-arsenal-if-any-of-its-territory-is-attacked/",
+    "pubDate": "Fri, 02 Oct 2026 04:21:35 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-02T08:30:01.221Z"
   }
 ]
