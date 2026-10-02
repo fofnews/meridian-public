@@ -584,7 +584,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-10-01",
+      "lastSeen": "2026-10-02",
       "active": true,
       "entries": [
         {
@@ -1506,6 +1506,11 @@
           "date": "2026-10-01",
           "edition": "evening",
           "update": "Russia struck the Pivdennyi bridge in central Kyiv during daylight hours while a metro train was crossing it, marking the first attack on Kyiv's bridges, according to BBC News. Ukraine's Operation Vivaldi has successfully thwarted Russian attempts to capture its 'Fortress Belt' of fortified cities, with Ukrainian forces achieving a front line breakthrough using exploding APCs, according to Newsweek."
+        },
+        {
+          "date": "2026-10-02",
+          "edition": "morning",
+          "update": "Ukraine shared with European partners what it described as intercepted Russian plans to cut off major cities from power, heat, and water during the upcoming winter, warning of what could be Russia's most severe infrastructure attack yet, according to the NY Times. Russian air strikes on Kyiv killed one person and restricted traffic across the Dnipro River, according to Reuters."
         }
       ],
       "parentId": null
@@ -2959,7 +2964,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-10-01",
+      "lastSeen": "2026-10-02",
       "active": true,
       "entries": [
         {
@@ -4146,6 +4151,11 @@
           "date": "2026-10-01",
           "edition": "evening",
           "update": "Iran is preparing stronger retaliatory measures in the event of an attack, even as diplomatic efforts face reported obstacles, according to Reuters. The Trump administration aired a taxpayer-funded advertisement promoting what it describes as a seven-month-long Iran war, featuring audio of President Trump and Defense Secretary Pete Hegseth alongside U.S. military footage including unclassified strike imagery, according to ad-tracking firm Medium Buying."
+        },
+        {
+          "date": "2026-10-02",
+          "edition": "morning",
+          "update": "The Justice Department announced charges Thursday against Ashton Hamed Ellaboudy, a 51-year-old electrical engineer and Department of Energy employee from Richland, Washington, arrested by the FBI on charges of attempting to provide material support to the Houthis, including acquiring materials for homemade explosives and drones. The Pentagon is deploying more than 4,000 Marines and sailors aboard three warships, including the USS Makin Island amphibious assault ship, to the Middle East as part of a broader U.S. Navy buildup in the Central Command theater. Separately, the Roosevelt carrier strike group and approximately 2,000 Marines were also deployed to the region, while a tanker was struck in the Strait of Hormuz, according to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -5075,7 +5085,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-10-01",
+      "lastSeen": "2026-10-02",
       "active": true
     },
     {
@@ -5818,7 +5828,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-10-02",
       "active": true,
       "entries": [
         {
@@ -5970,6 +5980,11 @@
           "date": "2026-09-25",
           "edition": "evening",
           "update": "Zelenskyy reported that eight regions of Ukraine have come under Russian attack as the U.S. seeks to revive ceasefire negotiations. The U.S. has proposed a trilateral meeting involving Ukraine, Russia, and the United States to be held in the UAE, according to Zelenskyy."
+        },
+        {
+          "date": "2026-10-02",
+          "edition": "morning",
+          "update": "Russian President Vladimir Putin ruled out a ceasefire with Ukraine in a speech in Moscow, and warned Western nations that Russia would deploy nuclear weapons if necessary to defend Kaliningrad, its Baltic exclave."
         }
       ]
     },
@@ -5978,7 +5993,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-02",
       "active": true,
       "entries": [
         {
@@ -6660,6 +6675,11 @@
           "date": "2026-09-30",
           "edition": "evening",
           "update": "Iranian authorities confirmed receiving a formal U.S. response to their proposal for a ceasefire and phased reopening of the Strait of Hormuz, days after President Trump stated he had rejected their plan. Analysts have raised their 2026 oil price forecasts, according to Reuters, citing expectations of prolonged disruption in the Gulf region."
+        },
+        {
+          "date": "2026-10-02",
+          "edition": "morning",
+          "update": "According to a Western security official, Iran has been launching drones and missiles at commercial ships in the Strait of Hormuz on a weekly basis, though it has frequently failed to strike its targets."
         }
       ]
     },
@@ -7828,7 +7848,7 @@
       "title": "Flydubai Flight Hijacking Incident",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-01",
+      "lastSeen": "2026-10-02",
       "active": true,
       "entries": [
         {
@@ -7845,9 +7865,14 @@
           "date": "2026-10-01",
           "edition": "evening",
           "update": "Netanyahu publicly stated the co-pilot underwent 'Islamist radical indoctrination,' and Israel's defense minister characterized the incident as 'a jihadist terrorist attack.' The co-pilot has been identified as Omani. UAE authorities launched a formal investigation into a possible terrorist link, with state media reporting investigators are probing whether the incident was connected to any 'terrorist activity or intent.' Saudi Arabia, Israel, and the UAE are cooperating on the investigation. The aircraft plummeted more than 17,000 feet in a nosedive after the stabbing, according to senior Israeli and Saudi officials. Passenger Adam Polovincik described to BBC News how he embraced his children during the nosedive, while passenger Hila Evron told CBS Mornings she 'hugged my two boys.' The wounded captain managed to open the cockpit door, allowing passengers and crew to restrain the suspect. The incident has prompted broader questions about cockpit security protocols, with analysts noting post-9/11 measures designed to keep attackers out of cockpits may complicate responses when violence originates from within."
+        },
+        {
+          "date": "2026-10-02",
+          "edition": "morning",
+          "update": "Saudi Arabia and Jordan initially denied landing clearance to the Flydubai aircraft even after a mayday call was issued from the cabin, according to multiple reports. An initial Saudi Interior Ministry probe confirmed the co-pilot assaulted the captain before landing, and stated that both pilots were subsequently returned to the UAE with an Emirati security team. New video emerged showing the wounded Captain Machchhar unlocking the cockpit door and asking passengers for help, with a group then entering, pulling up on the controls, and subduing the attacker using headset cords. Netanyahu stated that a connection between the co-pilot and Iran remains uncertain. The executive producer of aviation documentary series 'Mayday' called it 'a fantastic byproduct' of the show after reports emerged that a passenger used knowledge from it during the incident."
         }
       ]
     }
   ],
-  "updatedAt": "2026-10-01T21:09:01.363Z"
+  "updatedAt": "2026-10-02T11:06:19.807Z"
 }
