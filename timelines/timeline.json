@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-03",
       "active": true,
       "entries": [
         {
@@ -401,6 +401,11 @@
           "date": "2026-09-30",
           "edition": "evening",
           "update": "The University of Maine board of trustees voted 9-5 to strip former Sen. George Mitchell's name from a campus building and scholarship due to his ties to Jeffrey Epstein."
+        },
+        {
+          "date": "2026-10-03",
+          "edition": "morning",
+          "update": "Pathologist Michael Freeman plans to publish research and the New York City Medical Examiner's autopsy files questioning whether Jeffrey Epstein died by suicide, according to CBS News."
         }
       ],
       "parentId": null
@@ -584,7 +589,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "active": true,
       "entries": [
         {
@@ -1516,6 +1521,11 @@
           "date": "2026-10-02",
           "edition": "evening",
           "update": "Ukrainian forces recaptured nearly 300 square kilometers of territory from Russian control between March and September 2026, coinciding with Russian casualties reaching a 2026 high, according to Newsweek. Ukraine reported its first combat use of a domestically produced ballistic missile, with a larger version capable of striking Moscow reportedly under development, according to the NY Times. Kyiv Mayor Vitaliy Klitschko warned that intensified Russian strikes on critical infrastructure have placed the capital in a 'very dramatic situation,' while Ukrainian authorities called for tighter sanctions against Russia following the bridge strikes. A Polish city reopened a Cold War-era shelter in response to the intensifying Russian attacks in Ukraine, according to Reuters."
+        },
+        {
+          "date": "2026-10-03",
+          "edition": "morning",
+          "update": "Russia struck the Northern Bridge in Kyiv, according to the city's mayor, continuing a pattern of attacks on the capital's Dnipro River crossings in recent days."
         }
       ],
       "parentId": null
@@ -1524,7 +1534,7 @@
       "id": "sinaloa-cartel-violence",
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-10-03",
       "active": true,
       "entries": [
         {
@@ -1701,6 +1711,11 @@
           "date": "2026-09-28",
           "edition": "evening",
           "update": "Colombian authorities, in an operation involving the FBI, arrested the wife and daughter of a top drug lord currently held in the United States on money laundering charges, according to President Abelardo de la Espriella."
+        },
+        {
+          "date": "2026-10-03",
+          "edition": "morning",
+          "update": "American high school students in Arizona are buying, stealing, and selling firearms being trafficked to Mexican cartels, driven by financial incentives and social status, according to the NY Times."
         }
       ],
       "parentId": null
@@ -4929,7 +4944,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-03",
       "active": true,
       "entries": [
         {
@@ -5066,6 +5081,11 @@
           "date": "2026-09-30",
           "edition": "morning",
           "update": "North Korea warned that South Korea will 'pay a price' for shifting blame onto Pyongyang over a mine blast incident, according to Reuters."
+        },
+        {
+          "date": "2026-10-03",
+          "edition": "morning",
+          "update": "North Korea fired a ballistic missile from the port city of Wonsan toward its eastern waters, according to South Korea's military."
         }
       ],
       "parentId": null
@@ -5095,7 +5115,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "active": true
     },
     {
@@ -5838,7 +5858,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "active": true,
       "entries": [
         {
@@ -5995,6 +6015,11 @@
           "date": "2026-10-02",
           "edition": "morning",
           "update": "Russian President Vladimir Putin ruled out a ceasefire with Ukraine in a speech in Moscow, and warned Western nations that Russia would deploy nuclear weapons if necessary to defend Kaliningrad, its Baltic exclave."
+        },
+        {
+          "date": "2026-10-03",
+          "edition": "morning",
+          "update": "Russian President Putin raised the possibility of a Russian energy asset sale with U.S. envoys Jared Kushner and Steve Witkoff during U.S.-Russia talks on Ukraine, according to the NY Times, prompting questions about potential conflicts of interest tied to Trump allies."
         }
       ]
     },
@@ -6003,7 +6028,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "active": true,
       "entries": [
         {
@@ -6690,6 +6715,11 @@
           "date": "2026-10-02",
           "edition": "morning",
           "update": "According to a Western security official, Iran has been launching drones and missiles at commercial ships in the Strait of Hormuz on a weekly basis, though it has frequently failed to strike its targets."
+        },
+        {
+          "date": "2026-10-03",
+          "edition": "morning",
+          "update": "A crude oil tanker was struck by an unknown projectile off the coast of Oman, according to the United Kingdom Maritime Trade Operations."
         }
       ]
     },
@@ -7138,7 +7168,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "active": true,
       "entries": [
         {
@@ -7445,6 +7475,11 @@
           "date": "2026-10-02",
           "edition": "evening",
           "update": "OPEC+ has delayed its oil capacity review after the Iran war disrupted the group's expansion plans, according to Reuters. Middle East oil exports have nearly returned to pre-Iran war levels, with experts citing U.S. military assistance, shuttle tanker operations, and alternative pipelines bypassing the Strait of Hormuz as key factors driving the rebound, according to BBC News."
+        },
+        {
+          "date": "2026-10-03",
+          "edition": "morning",
+          "update": "A third U.S. aircraft carrier is heading to the Middle East, accompanied by thousands of troops, according to CBS News. The Yemeni army reported 474 attacks in 24 hours that killed or wounded 1,540 Houthi fighters, according to Al Jazeera."
         }
       ]
     },
@@ -7508,7 +7543,7 @@
       "title": "US Cyberattacks and Infrastructure Security",
       "parentId": null,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-10-01",
+      "lastSeen": "2026-10-03",
       "active": true,
       "entries": [
         {
@@ -7700,6 +7735,11 @@
           "date": "2026-10-01",
           "edition": "evening",
           "update": "California Attorney General Rob Bonta subpoenaed OpenAI as part of a state cybersecurity investigation, focusing on an incident in which OpenAI's systems were connected to a security event at AI development platform Hugging Face. A GAO undercover investigation found that federal agencies, including the Department of Health and Human Services, sold used or excess laboratory equipment flagged as high-risk exports for potential biological warfare use to apparent resellers during fiscal years 2022 through 2025."
+        },
+        {
+          "date": "2026-10-03",
+          "edition": "morning",
+          "update": "FBI Director Kash Patel announced the agency has surpassed 140 AI use cases as part of a technology overhaul aimed at countering foreign adversary AI threats and reducing response times. OpenAI disclosed a hack involving an Australian government agency, adding to a series of AI-related security incidents the company has recently reported."
         }
       ]
     },
@@ -7863,7 +7903,7 @@
       "title": "Flydubai Flight Hijacking Incident",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "active": true,
       "entries": [
         {
@@ -7890,9 +7930,14 @@
           "date": "2026-10-02",
           "edition": "evening",
           "update": "Captain Smit Machchhar spoke publicly for the first time about the attack, describing in a video call with Indian Prime Minister Narendra Modi how he was lying injured on the cockpit floor and made 'one last push' to open the door, saying he was 'fighting for my life' and had to act despite serious injuries to prevent a crash. Two off-duty pilots seated in the cabin intervened alongside passengers to stabilize and land the Boeing 737 safely in Saudi Arabia, according to the NY Times. An Israeli official revealed the Omani co-pilot had made social media posts musing about killing Jews prior to the incident. Israeli officials are also set to question the co-pilot, according to Reuters sources."
+        },
+        {
+          "date": "2026-10-03",
+          "edition": "morning",
+          "update": "New details have emerged identifying the co-pilot as Hamam al-Hammami, an Omani national who had previously been banned from flying by Oman Air due to extremism-related concerns. The weapon used in the attack has been identified as an axe, not previously specified. UAE authorities have formally characterized the incident as an attempted terrorist attack. The flight carried 174 passengers and was bound for Tel Aviv."
         }
       ]
     }
   ],
-  "updatedAt": "2026-10-02T21:08:22.125Z"
+  "updatedAt": "2026-10-03T11:06:12.464Z"
 }
