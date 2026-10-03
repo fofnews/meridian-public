@@ -1526,6 +1526,11 @@
           "date": "2026-10-03",
           "edition": "morning",
           "update": "Russia struck the Northern Bridge in Kyiv, according to the city's mayor, continuing a pattern of attacks on the capital's Dnipro River crossings in recent days."
+        },
+        {
+          "date": "2026-10-03",
+          "edition": "evening",
+          "update": "Russia struck the Northern Bridge in Kyiv for a second consecutive day, with Russia pledging to continue massive strikes on the capital and urging foreign diplomats to leave the city, according to Reuters. Five deaths were reported as both sides traded attacks, according to Al Jazeera. In response to what it described as Moscow's 'new doctrine' of airstrikes, Ukraine announced it will target Russian oil refineries."
         }
       ],
       "parentId": null
@@ -2984,7 +2989,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-10-02",
+      "lastSeen": "2026-10-03",
       "active": true,
       "entries": [
         {
@@ -4181,6 +4186,11 @@
           "date": "2026-10-02",
           "edition": "evening",
           "update": "The U.S. is deploying a third aircraft carrier to the Middle East as President Trump claimed Iran is 'ready to fold up' following the midterm elections, according to CBS News. Trump also hit the campaign trail to rally Republican support ahead of the midterm general election amid voter discontent over rising prices and the ongoing Iran conflict."
+        },
+        {
+          "date": "2026-10-03",
+          "edition": "evening",
+          "update": "The U.S. is deploying approximately 9,000 additional troops to the Middle East, with Trump stating a potential war with Iran would end 'very quickly' and 'right after the election, if not sooner.' Trump's Cabinet held a secret meeting at Camp David to discuss Iran and Yemen, according to Newsmax."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -5086,6 +5096,11 @@
           "date": "2026-10-03",
           "edition": "morning",
           "update": "North Korea fired a ballistic missile from the port city of Wonsan toward its eastern waters, according to South Korea's military."
+        },
+        {
+          "date": "2026-10-03",
+          "edition": "evening",
+          "update": "North Korea's Kim Yo Jong confirmed the country conducted an intermediate-range ballistic missile test, following the launch detected from Wonsan toward eastern waters. Japan separately sought U.S. assistance in efforts to repatriate Japanese citizens abducted by North Korea, according to the Washington Examiner."
         }
       ],
       "parentId": null
@@ -6020,6 +6035,11 @@
           "date": "2026-10-03",
           "edition": "morning",
           "update": "Russian President Putin raised the possibility of a Russian energy asset sale with U.S. envoys Jared Kushner and Steve Witkoff during U.S.-Russia talks on Ukraine, according to the NY Times, prompting questions about potential conflicts of interest tied to Trump allies."
+        },
+        {
+          "date": "2026-10-03",
+          "edition": "evening",
+          "update": "U.S.-Russia negotiations over ending the Ukraine war now include a multibillion-dollar oil deal that would benefit Middle Eastern business executives connected to Special Envoy Steve Witkoff and Jared Kushner, Trump's son-in-law, according to the NY Times. Investors linked to Kushner have been separately drawn into discussions surrounding the administration's talks with Russia, according to Newsmax."
         }
       ]
     },
@@ -7883,7 +7903,7 @@
       "title": "RAF Fairford Incident and Iran Involvement",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-01",
+      "lastSeen": "2026-10-03",
       "active": true,
       "entries": [
         {
@@ -7895,6 +7915,11 @@
           "date": "2026-10-01",
           "edition": "evening",
           "update": "British Counter Terrorism Policing arrested a 27-year-old dual UK-Iranian national in London on suspicion of preparation of terrorist acts in connection with the RAF Fairford incident. Netanyahu claimed in a Fox News interview that Israel had provided the UK with intelligence about an Iranian-sponsored attack shortly before the UK sanctioned Israel."
+        },
+        {
+          "date": "2026-10-03",
+          "edition": "evening",
+          "update": "A 25-year-old UK-Iranian dual national arrested in Westminster on suspicion of planning terrorist acts against RAF Fairford has been released on bail, British authorities confirmed. Separately, UK police charged two Iranian men with plotting a terror attack targeting the Jewish community in Manchester. Portuguese prosecutors launched a probe into the legality of U.S. use of the Lajes military base in the Azores in connection with operations during the Iran conflict, according to Reuters."
         }
       ]
     },
@@ -7935,9 +7960,14 @@
           "date": "2026-10-03",
           "edition": "morning",
           "update": "New details have emerged identifying the co-pilot as Hamam al-Hammami, an Omani national who had previously been banned from flying by Oman Air due to extremism-related concerns. The weapon used in the attack has been identified as an axe, not previously specified. UAE authorities have formally characterized the incident as an attempted terrorist attack. The flight carried 174 passengers and was bound for Tel Aviv."
+        },
+        {
+          "date": "2026-10-03",
+          "edition": "evening",
+          "update": "UAE Attorney General Hamad Saif Al Shamsi formally alleged that co-pilot Hamam al-Hammami used the cockpit's crash axe to attack the captain in an attempted hijacking, with UAE prosecutors characterizing it as an attempted terrorist attack. Israeli plumber Yaniv Hayoun was publicly identified as one of the passengers who intervened to subdue the co-pilot, and President Trump praised Hayoun by name for his role in the incident. Questions remain about what background checks were conducted before al-Hammami, who had previously been flagged over extremism concerns, was permitted to fly to Israel, according to the NY Times."
         }
       ]
     }
   ],
-  "updatedAt": "2026-10-03T11:06:12.464Z"
+  "updatedAt": "2026-10-03T21:05:15.759Z"
 }
