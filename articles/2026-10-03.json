@@ -737,5 +737,77 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-10-03T09:30:01.536Z"
+  },
+  {
+    "title": "Slow Motion",
+    "description": "The constant flow of digital updates doesn’t allow for true connection.",
+    "link": "https://www.nytimes.com/2026/10/03/briefing/slow-motion.html",
+    "pubDate": "Sat, 03 Oct 2026 09:23:11 +0000",
+    "source": "NY Times",
+    "categories": [
+      "internal-storyline-no",
+      "internal-open-access-from-nl",
+      "computers and the internet",
+      "social media",
+      "postal service and post offices"
+    ],
+    "collectedAt": "2026-10-03T09:45:09.760Z"
+  },
+  {
+    "title": "Flydubai pilot attacked captain with cockpit’s crash axe in attempted terrorist attack, UAE says",
+    "description": "A Flydubai pilot attacked his fellow pilot using a crash axe and tried to take control of the aircraft’s flight controls in an attempted terrorist attack, officials in the United Arab Emirates said Saturday.",
+    "link": "https://www.nbcnews.com/world/middle-east/flydubai-pilot-attacked-captain-cockpits-crash-axe-attempted-terrorist-rcna601259",
+    "pubDate": "Sat, 03 Oct 2026 09:25:46 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-10-03T09:45:09.760Z"
+  },
+  {
+    "title": "360-Degree Camera Follows Bag From Airport Check-in—Here’s What It Sees",
+    "description": "The revealing footage shows what actually happens to your luggage as it gets transported to an aircraft.",
+    "link": "https://www.newsweek.com/gatwick-airport-360-degree-video-shows-bag-journey-check-plane-12507239",
+    "pubDate": "Sat, 03 Oct 2026 05:30:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-10-03T09:45:09.760Z"
+  },
+  {
+    "title": "G7 to release 100 million barrels of oil and diesel, will it curb prices?",
+    "description": "Global energy prices have been soaring due to the US and Israel's war on Iran and Russia's war on Ukraine.",
+    "link": "https://www.aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices?traffic_source=rss",
+    "pubDate": "Sat, 03 Oct 2026 09:27:38 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-10-03T09:45:09.760Z"
+  },
+  {
+    "title": "Who is the mystery co-pilot behind the Flydubai attack?",
+    "description": "Accused pilot Hamam al-Hammami reportedly barred from flying in Oman due to concerns over extremist views.",
+    "link": "https://www.aljazeera.com/news/2026/10/3/who-is-the-mystery-co-pilot-behind-the-flydubai-attack?traffic_source=rss",
+    "pubDate": "Sat, 03 Oct 2026 09:25:31 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-10-03T09:45:09.760Z"
+  },
+  {
+    "title": "Arab parties set up for kingmaker role in Israeli election despite Netanyahu’s move to ban them",
+    "description": "A ban on Arab parties running in the upcoming Israeli elections has been overturned, setting the stage for the ethnic minority groups to play kingmaker after ballots are cast. The Israeli Central Elections Committee issued the ban in late September on the accusation that the Arab parties, which are organized into the United Arab List […]",
+    "link": "https://www.washingtonexaminer.com/news/world/4752179/arab-parties-kingmaker-israel-election-netanyahu-move-ban/",
+    "pubDate": "Sat, 03 Oct 2026 09:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "world",
+      "benjamin netanyahu",
+      "elections",
+      "hamas",
+      "israel",
+      "middle east",
+      "palestinians"
+    ],
+    "collectedAt": "2026-10-03T09:45:09.760Z"
   }
 ]
