@@ -380,5 +380,56 @@
     "source": "BBC News",
     "categories": [],
     "collectedAt": "2026-10-03T08:00:01.294Z"
+  },
+  {
+    "title": "Map Shows Trump’s Approval Rating in Every State 1 Month Until Midterms",
+    "description": "New polling shows that Trump is underwater in 39 states and every major battleground one month before the midterms.",
+    "link": "https://www.newsweek.com/map-trump-approval-rating-every-state-one-month-until-midterms-12518724",
+    "pubDate": "Sat, 03 Oct 2026 04:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-10-03T08:15:01.204Z"
+  },
+  {
+    "title": "Man City whistleblower Pinto to lose witness protection amid death threats",
+    "description": "Pinto says he will go into hiding for an indefinite period following the Premier League's guilty verdict against City.",
+    "link": "https://www.aljazeera.com/sports/2026/10/3/man-city-whistleblower-pinto-to-lose-witness-protection-amid-death-threats?traffic_source=rss",
+    "pubDate": "Sat, 03 Oct 2026 08:05:28 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-10-03T08:15:01.204Z"
+  },
+  {
+    "title": "Bosnian Serb leader says Bosnia is ‘dead’ ahead of election",
+    "description": "Bosnian Serb leader Milorad Dodik says Bosnia and Herzegovina is ‘dead’ at a final campaign rally ahead of elections.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/bosnian-serb-leader-says-bosnia-is-dead-ahead-of-election?traffic_source=rss",
+    "pubDate": "Sat, 03 Oct 2026 07:57:53 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-10-03T08:15:01.204Z"
+  },
+  {
+    "title": "Israeli air attack on residential apartment in Gaza kills 5 Palestinians",
+    "description": "An Israeli air attack on a residential apartment in Gaza City has killed at least five Palestinians.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-air-attack-on-residential-apartment-in-gaza-kills-5-palestinians?traffic_source=rss",
+    "pubDate": "Sat, 03 Oct 2026 07:57:47 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-10-03T08:15:01.204Z"
+  },
+  {
+    "title": "AI's race to transform the world before the money runs out - Reuters",
+    "description": "AI's race to transform the world before the money runs out  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2NqbWtDbjVfc2dZYWtJWEp3ZnI5M1o5UWhkQndYZV83T3BxTE1VeDFNclNIeUZCMnV2a1NIVXc2enlzV3lFWktoWE11NUF0RlNjTGk1c1RTSEVsUEtGUU9HZlVuRVVhQ2ZFZTU2UHBoRVozX3pJeS1vRmtoM0w5dndmWnJ2YjQxYi03TDl4X3ZQNlhWdXBfQnRsRjByYllpaXF3VlEzWVdrS28?oc=5",
+    "pubDate": "Sat, 03 Oct 2026 05:06:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-10-03T08:15:01.204Z"
   }
 ]
