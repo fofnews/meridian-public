@@ -12874,5 +12874,45 @@
     "source": "Newsmax",
     "categories": [],
     "collectedAt": "2026-10-03T03:15:01.364Z"
+  },
+  {
+    "title": "10 injured after car crashes into crowd in Australia; driver arrested",
+    "description": "The mayor said nine people, including children, were injured.",
+    "link": "https://abcnews.com/International/people-injured-after-vehicle-crashes-crowd-australia-driver/story?id=136966086",
+    "pubDate": "Fri, 02 Oct 2026 23:26:36 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-10-03T03:30:01.280Z"
+  },
+  {
+    "title": "Dominican Republic bans Haiti from its stadiums after football fans clash",
+    "description": "Fans forced their way through entrances, damaging a gate at the teams' CONCACAF Nations League match in Santo Domingo.",
+    "link": "https://www.aljazeera.com/sports/2026/10/3/dominican-republic-bans-haiti-from-its-stadiums-after-football-fans-clash?traffic_source=rss",
+    "pubDate": "Sat, 03 Oct 2026 02:42:26 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectedAt": "2026-10-03T03:30:01.280Z"
+  },
+  {
+    "title": "Max Muncy provides telling tale of impending Tarik Skubal MLB free agency",
+    "description": "There’s an elephant in the Dodgers’ clubhouse, and it’s sitting in Tarik Skubal’s locker. While the Dodgers are on a quest to capture their third consecutive World Series title in October, everyone knows that starting pitcher Tarik Skubal is set for a massive payday this offseason. Well, except for maybe Skubal. Max Muncy says Tarik...",
+    "link": "https://nypost.com/2026/10/02/sports/max-muncy-provides-direct-insight-toward-impending-tarik-skubal-free-agency/",
+    "pubDate": "Fri, 02 Oct 2026 23:26:34 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-03T03:30:01.280Z"
+  },
+  {
+    "title": "Metallica Sphere residency marks special Los Angeles Angels shoutout",
+    "description": "While the famous heavy metal band from California, Metallica, is enjoying its 24-show residency at the Las Vegas Sphere, the Oakland native band gave a special shoutout to Angel Stadium. During the band’s performance of “Wherever I May Roam,” the band paid tribute to Angel Stadium by featuring “The Big A” on the Sphere’s enormous...",
+    "link": "https://nypost.com/2026/10/02/sports/angel-stadium-spotted-during-metallica-concert-at-las-vegas-sphere/",
+    "pubDate": "Fri, 02 Oct 2026 23:16:17 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-03T03:30:01.280Z"
   }
 ]
