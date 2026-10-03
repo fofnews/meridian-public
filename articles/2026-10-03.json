@@ -168,5 +168,45 @@
       "news"
     ],
     "collectedAt": "2026-10-03T05:15:01.498Z"
+  },
+  {
+    "title": "DA did not review witness statements and other evidence Cornell police collected in alleged gang rape of student",
+    "description": "Cornell University police spoke to witnesses and received tips about an alleged gang rape at a frat house, but the district attorney did not review the  information before deciding not to bring charges.",
+    "link": "https://www.nbcnews.com/news/us-news/da-not-review-additional-evidence-cornell-police-collected-alleged-gan-rcna601252",
+    "pubDate": "Sat, 03 Oct 2026 04:59:53 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-10-03T05:30:01.533Z"
+  },
+  {
+    "title": "Golden State Valkyries erase 16-point deficit, stun Dallas Wings to reach WNBA semifinals",
+    "description": "Gabby Williams hit a go-ahead 17-footer and the Golden State Valkyries rallied from 16 down to stun the Dallas Wings 77-73 in a wild Game 3.",
+    "link": "https://www.foxnews.com/outkick-sports/golden-state-valkyries-erase-16-point-deficit-stun-dallas-wings-reach-wnba-semifinals",
+    "pubDate": "Sat, 03 Oct 2026 01:11:49 -0400",
+    "source": "Fox News",
+    "categories": [
+      "b4a937a9-5e01-5305-a668-1155c364d80b",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/sports/wnba",
+      "fox-news/sports/wnba/golden-state-valkyries",
+      "fox-news/sports/wnba/dallas-wings",
+      "fox-news/sports",
+      "fox-news/person/paige-bueckers",
+      "fox-news/outkick/betting",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-10-03T05:30:01.533Z"
+  },
+  {
+    "title": "Trump announces $90 checks for 20 million ‘wonderful seniors’ to help cover Medicare premiums",
+    "description": "Eligible Medicare Part B enrollees will receive the one-time payment via direct deposit or check.",
+    "link": "https://nypost.com/2026/10/03/us-news/trump-announces-90-checks-for-20-million-wonderful-seniors-to-help-cover-medicare-premiums/",
+    "pubDate": "Sat, 03 Oct 2026 01:27:22 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-03T05:30:01.533Z"
   }
 ]
