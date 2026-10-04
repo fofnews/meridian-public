@@ -8330,5 +8330,80 @@
     "source": "Newsmax",
     "categories": [],
     "collectedAt": "2026-10-04T02:15:01.306Z"
+  },
+  {
+    "title": "How Cornell Punished Each of the 7 Men Accused of Sexual Assault",
+    "description": "Summaries obtained by The New York Times offer a detailed look at the discipline meted out to the men accused of sexually assaulting a fellow student at Cornell University.",
+    "link": "https://www.nytimes.com/2026/10/03/nyregion/cornell-men-university-discipline.html",
+    "pubDate": "Sun, 04 Oct 2026 02:01:42 +0000",
+    "source": "NY Times",
+    "categories": [
+      "sex crimes",
+      "fraternities and sororities",
+      "colleges and universities",
+      "cornell university"
+    ],
+    "collectedAt": "2026-10-04T02:30:01.716Z"
+  },
+  {
+    "title": "Nebraska Claims First 5-0 Start Since 2016 With Win Over Maryland",
+    "description": "Nebraska overcame a slow start to beat Maryland 48-23 and improve to 5-0 for the first time since 2016.",
+    "link": "https://www.newsweek.com/sports/ncaa/nebraska-claims-first-5-0-start-since-2016-with-win-over-maryland-12521653",
+    "pubDate": "Sat, 03 Oct 2026 22:25:39 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-10-04T02:30:01.716Z"
+  },
+  {
+    "title": "Yankees lose ALDS Game 1 to Rays as Austin Wells is thrown out at third after breaking up no-hitter",
+    "description": "Austin Wells broke up Drew Rasmussen's no-hit bid with a double but was thrown out trying to stretch it to a triple in the Yankees' painful loss.",
+    "link": "https://www.foxnews.com/outkick-sports/yankees-lose-alds-game-1-rays-austin-wells-thrown-third-breaking-no-hitter",
+    "pubDate": "Sat, 03 Oct 2026 22:10:45 -0400",
+    "source": "Fox News",
+    "categories": [
+      "2cc1d2fa-50e2-5cf2-9a5b-343ba7c90a9b",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/sports/mlb",
+      "fox-news/sports/mlb/new-york-yankees",
+      "fox-news/sports/mlb/tampa-bay-rays",
+      "fox-news/person/aaron-judge",
+      "fox-news/person/giancarlo-stanton",
+      "fox-news/outkick/betting",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-10-04T02:30:01.716Z"
+  },
+  {
+    "title": "Trump touts ‘golden age’ at Ohio rally, urges voters to deliver GOP midterm wins",
+    "description": "President Donald Trump urged Ohio rally-goers to \"pretend I'm on the ballot\" as he stumped for Jon Husted and Vivek Ramaswamy in the midterms.",
+    "link": "https://www.foxnews.com/politics/trump-touts-golden-age-ohio-rally-urges-voters-deliver-gop-midterm-wins",
+    "pubDate": "Sat, 03 Oct 2026 22:09:32 -0400",
+    "source": "Fox News",
+    "categories": [
+      "a7b8778e-561c-56e1-9566-03a8e510a163",
+      "fnc",
+      "fox news",
+      "fox-news/person/donald-trump",
+      "fox-news/politics/elections/midterm-elections",
+      "fox-news/us/us-regions/midwest/ohio",
+      "fox-news/politics/elections/republicans",
+      "fox-news/politics/executive/white-house",
+      "fox-news/politics",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-10-04T02:30:01.716Z"
+  },
+  {
+    "title": "Trump defends data centers in Ohio, warns they’ll go to China if US turns them away",
+    "description": "\"There's so much money to be made for Ohio. You can’t just turn them off. They’ll go to China,” Trump told supporters at an Ohio rally.",
+    "link": "https://nypost.com/2026/10/03/us-news/trump-defends-data-centers-in-ohio-warns-theyll-go-to-china-if-us-turns-them-away/",
+    "pubDate": "Sat, 03 Oct 2026 22:26:49 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-04T02:30:01.716Z"
   }
 ]
