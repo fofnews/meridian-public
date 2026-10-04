@@ -173,5 +173,32 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-10-04T05:15:05.170Z"
+  },
+  {
+    "title": "Tennessee Commissioner Resigns After Failed Execution of Christa Pike",
+    "description": "Frank Strada, who oversaw the process that left Christa Pike unconscious and hospitalized, quit as an independent review began.",
+    "link": "https://www.nytimes.com/2026/10/03/us/tennessee-prison-commissioner-resigns-christa-pike.html",
+    "pubDate": "Sun, 04 Oct 2026 05:24:01 +0000",
+    "source": "NY Times",
+    "categories": [
+      "strada, frank (1966- )",
+      "capital punishment",
+      "tennessee",
+      "prisons and prisoners",
+      "pike, christa (1976- )",
+      "lee, william byron (1959- )",
+      "appointments and executive changes",
+      "politics and government"
+    ],
+    "collectedAt": "2026-10-04T05:30:03.269Z"
+  },
+  {
+    "title": "Rutgers destroyed by Indiana as Hoosiers extend win streak to 21 games",
+    "description": "Turbo Richard ran for 204 yards and a touchdown to extend No. 6 Indiana's win streak to 21 games in a 47-15 win over Rutgers Saturday night.",
+    "link": "https://nypost.com/2026/10/04/sports/rutgers-destroyed-by-indiana-as-hoosiers-win-streak-hits-21-games/",
+    "pubDate": "Sun, 04 Oct 2026 01:28:44 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-04T05:30:03.269Z"
   }
 ]
