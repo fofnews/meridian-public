@@ -5547,5 +5547,130 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-10-04T18:30:02.407Z"
+  },
+  {
+    "title": "Trump names national intelligence chief Jay Clayton as new AI czar",
+    "description": "Trump said Clayton will lead the White House's new \"Super Intelligence Force,\" which will coordinate government engagement with artificial intelligence.",
+    "link": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
+    "pubDate": "Sun, 04 Oct 2026 14:36:48 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-10-04T18:45:01.372Z"
+  },
+  {
+    "title": "October heat wave continues to bake California, breaking multiple temperature records",
+    "description": "At least 37 million people are under heat alerts on Sunday as a dangerous multi-day October heat wave continues across nearly all of California.",
+    "link": "https://abcnews.com/US/37-million-people-alert-dangerous-temperatures-october-heat/story?id=136984812",
+    "pubDate": "Sun, 04 Oct 2026 13:11:56 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-10-04T18:45:01.372Z"
+  },
+  {
+    "title": "Musk says he will rename SpaceXAI to SpaceXSI - Reuters",
+    "description": "Musk says he will rename SpaceXAI to SpaceXSI  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT1lwRkt2ZlBuMTlqLVZCbk5ZVExzN0JMd0FnT0F5SllkSGdCU2xkNUlsSHVKZTRuNklIYlY5VTU5QmpqeUdWOXpJWEdhWGhaSE11dmRpQ0taekpfUllyay16MDg3VERqRm5WSjY3bGhKSGZVcnJWOFBod1FsQzBIdjVVN1U0b0xfT3VoZDNJdFZpVDJyN1Q0NlpjeUUtM2hFbUxF?oc=5",
+    "pubDate": "Sun, 04 Oct 2026 16:56:09 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-10-04T18:45:01.372Z"
+  },
+  {
+    "title": "Trump picks John Coale as special presidential envoy for hostage affairs - Reuters",
+    "description": "Trump picks John Coale as special presidential envoy for hostage affairs  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY3pLY004OFNsb3M4cGpUWnZadEp6TzhQMHh2czdrM3lmcDcxSWxvX0hweHRjQWl6YXJ0aVg2aWNCOENNa3lWZ0V6NHNRNEYwZThMYVBTa0U3WkNWYmhCM3lMVzdET2JKTGhtT0x5NVFLMUVXd2lNbHphaHVNdFByaXZNTS1rd25lSVFybzlyWDZoWmJtc2tKeDRtYXpGWlRkb2R1dkk1Q0JWWEtRUVdZ?oc=5",
+    "pubDate": "Sun, 04 Oct 2026 12:56:49 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-10-04T18:45:01.372Z"
+  },
+  {
+    "title": "Mac malware can hide commands in your iCloud calendar",
+    "description": "MacSync malware hides malicious commands inside iCloud calendar events to download additional payloads onto infected Macs without raising suspicion.",
+    "link": "https://www.foxnews.com/tech/mac-malware-hide-commands-icloud-calendar",
+    "pubDate": "Sun, 04 Oct 2026 14:30:16 -0400",
+    "source": "Fox News",
+    "categories": [
+      "16cf69a1-9245-567d-92d6-940528658f50",
+      "fnc",
+      "fox news",
+      "fox-news/tech/topics/cybercrime",
+      "fox-news/tech/technologies/mac",
+      "fox-news/tech/topics/virus",
+      "fox-news/tech/topics/security",
+      "fox-news/tech/topics/hackers",
+      "fox-news/tech",
+      "article"
+    ],
+    "collectedAt": "2026-10-04T18:45:01.372Z"
+  },
+  {
+    "title": "Terror cells inside foreign airlines 'certainly a possibility,' retired pilot warns",
+    "description": "Retired Air Force and Delta Air Lines pilot Buzz Patterson said terror cells could infiltrate foreign airlines after a FlyDubai copilot attacked a captain.",
+    "link": "https://www.foxnews.com/us/terror-cells-inside-foreign-airlines-certainly-possibility-retired-pilot-warns",
+    "pubDate": "Sun, 04 Oct 2026 14:27:31 -0400",
+    "source": "Fox News",
+    "categories": [
+      "6eaef4b1-59a1-52f4-b496-9b33f6171d18",
+      "fnc",
+      "fox news",
+      "fox-news/travel/general/airlines",
+      "fox-news/politics/executive/national-security",
+      "fox-news/us",
+      "fox-news/us/terror/counter-terrorism",
+      "fox-news/world/terrorism",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-10-04T18:45:01.372Z"
+  },
+  {
+    "title": "Jets' defense finally snaps brutal streak with Minkah Fitzpatrick interception vs Bears",
+    "description": "Minkah Fitzpatrick's interception of Tyson Bagent snapped a stunning 637-day, 20-game drought without a pick for the New York Jets' defense.",
+    "link": "https://www.foxnews.com/outkick-sports/jets-snaps-brutal-streak-minkah-fitzpatrick-interception-vs-bears",
+    "pubDate": "Sun, 04 Oct 2026 14:26:49 -0400",
+    "source": "Fox News",
+    "categories": [
+      "bc9ea9f1-fcd2-5968-a61e-81009a156547",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/sports/nfl/new-york-jets",
+      "fox-news/sports/nfl/chicago-bears",
+      "fox-news/person/minkah-fitzpatrick",
+      "fox-news/sports/nfl",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-10-04T18:45:01.372Z"
+  },
+  {
+    "title": "Record-low number of Americans believe college is ‘very important’: poll",
+    "description": "Just three in ten (31%) of Americans said in a new Gallup poll that they believe a college education is \"very important.\"",
+    "link": "https://nypost.com/2026/10/04/us-news/record-low-number-of-americans-believe-college-is-very-important-poll/",
+    "pubDate": "Sun, 04 Oct 2026 14:38:21 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-04T18:45:01.372Z"
+  },
+  {
+    "title": "Everything To Know About ‘Dexter: Resurrection’ Season 2: Release Date, Cast, Start Date",
+    "description": "\"This is me coming clean about who I am.\"",
+    "link": "https://decider.com/2026/10/04/dexter-resurrection-season-2-release-date-cast-start-date-everything-we-know/",
+    "pubDate": "Sun, 04 Oct 2026 14:30:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-04T18:45:01.372Z"
+  },
+  {
+    "title": "Novig promo code NYPOST: Deposit $10, get $50 in trade credits for Lions vs. Panthers",
+    "description": "Novig promo code NYPOST unlocks $50 in trade credits for new users following a $10 deposit for Lions vs. Panthers.",
+    "link": "https://nypost.com/2026/10/04/betting/novig-promo-code-nypost-deposit-10-get-50-in-trade-credits-for-lions-vs-panthers/",
+    "pubDate": "Sun, 04 Oct 2026 14:30:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-04T18:45:01.372Z"
   }
 ]
