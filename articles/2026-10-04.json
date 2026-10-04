@@ -200,5 +200,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-10-04T05:30:03.269Z"
+  },
+  {
+    "title": "Widespread damage after huge hailstones pound Paraguay capital",
+    "description": "Large hailstones pounded parts of Paraguay’s capital, breaking windows and denting cars.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/widespread-damage-after-huge-hailstones-pound-paraguay-capital?traffic_source=rss",
+    "pubDate": "Sun, 04 Oct 2026 05:14:13 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-10-04T05:45:01.401Z"
+  },
+  {
+    "title": "Shooting near Baltimore youth football event leaves 12-year-old girl dead, 3 adults wounded",
+    "description": "A 12-year-old girl was killed and three adults were wounded after two gunmen allegedly opened fire during a dispute near a youth football game in Baltimore, Maryland, authorities said Saturday.",
+    "link": "https://nypost.com/2026/10/04/us-news/shooting-near-baltimore-youth-football-event-leaves-12-year-old-girl-dead-3-adults-wounded/",
+    "pubDate": "Sun, 04 Oct 2026 01:33:22 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-04T05:45:01.401Z"
   }
 ]
