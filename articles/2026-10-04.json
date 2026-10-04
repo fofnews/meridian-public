@@ -25,5 +25,38 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-10-04T04:15:07.932Z"
+  },
+  {
+    "title": "Trump defiant about midterm chances as he rallies for Republicans in Ohio",
+    "description": "US president tells a rally in Ohio that he believes there will be a 'big surprise' in the upcoming elections.",
+    "link": "https://www.aljazeera.com/news/2026/10/4/trump-defiant-about-midterm-chances-as-he-rallies-for-republicans-in-ohio?traffic_source=rss",
+    "pubDate": "Sun, 04 Oct 2026 04:10:17 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-10-04T04:30:01.341Z"
+  },
+  {
+    "title": "Saudi-backed Yemeni army says 700 Houthis killed in 24 hours",
+    "description": "Yemen’s government forces claim to have killed hundreds of Houthi rebels as they attempt to retake lost territory.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/saudi-backed-yemeni-army-says-700-houthis-killed-in-24-hours?traffic_source=rss",
+    "pubDate": "Sun, 04 Oct 2026 04:09:13 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-10-04T04:30:01.341Z"
+  },
+  {
+    "title": "Pick-up truck overturns trying to carry military chopper in Russia",
+    "description": "An attempt by Russian stuntman Evgeny Chebotarev to carry an Mi-2 helicopter on a pickup truck went awfully wrong.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/pick-up-truck-overturns-trying-to-carry-military-chopper-in-russia?traffic_source=rss",
+    "pubDate": "Sun, 04 Oct 2026 04:06:05 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-10-04T04:30:01.341Z"
   }
 ]
