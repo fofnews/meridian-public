@@ -240,5 +240,25 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-10-04T06:00:02.019Z"
+  },
+  {
+    "title": "US Marine detained in connection with death in Japan, US officials say",
+    "description": "The U.S. ambassador said his office was \"providing full cooperation with the investigation.\"",
+    "link": "https://abcnews.com/International/us-marine-detained-connection-death-japan-us-officials/story?id=136982210",
+    "pubDate": "Sun, 04 Oct 2026 01:59:33 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-10-04T06:15:01.311Z"
+  },
+  {
+    "title": "Tories pledge to remove £100,000 childcare 'cliff edge'",
+    "description": "Party leader Kemi Badenoch tells the BBC that she wants to see \"people who work harder\" not getting punished for doing so.",
+    "link": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 04 Oct 2026 06:14:33 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-10-04T06:15:01.311Z"
   }
 ]
