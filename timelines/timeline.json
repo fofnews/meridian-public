@@ -589,7 +589,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-10-03",
+      "lastSeen": "2026-10-04",
       "active": true,
       "entries": [
         {
@@ -1531,6 +1531,11 @@
           "date": "2026-10-03",
           "edition": "evening",
           "update": "Russia struck the Northern Bridge in Kyiv for a second consecutive day, with Russia pledging to continue massive strikes on the capital and urging foreign diplomats to leave the city, according to Reuters. Five deaths were reported as both sides traded attacks, according to Al Jazeera. In response to what it described as Moscow's 'new doctrine' of airstrikes, Ukraine announced it will target Russian oil refineries."
+        },
+        {
+          "date": "2026-10-04",
+          "edition": "morning",
+          "update": "Ukrainian President Zelensky vowed to continue striking Russian oil refineries, defying appeals from President Trump to spare energy infrastructure targets. German Chancellor Friedrich Merz made a surprise visit to Kyiv to finalize a drone deal and release aid, coinciding with a drone strike on the Northern Bridge while vehicles were crossing it, with unverified video of the attack circulating via BBC News. As Ukrainian strikes on Russian fuel infrastructure increase, Russians are turning to Chinese electric vehicles amid growing fuel scarcity, according to the NY Times."
         }
       ],
       "parentId": null
@@ -2399,7 +2404,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-04",
       "active": true,
       "entries": [
         {
@@ -2981,6 +2986,11 @@
           "date": "2026-09-30",
           "edition": "morning",
           "update": "Al Jazeera reported on Israel's use of white phosphorus in Lebanon, noting the substance can cause severe burns, ignite repeatedly, and produce intense heat and toxic smoke. Separately, an Israel-bound flight was diverted after a fight broke out between pilots on board; a brief hijacking alert was issued but subsequently ruled out by the Israeli prime minister's office."
+        },
+        {
+          "date": "2026-10-04",
+          "edition": "morning",
+          "update": "Israeli settlers attacked Palestinian farmers during the olive harvest season, according to Al Jazeera, with no further details provided on the location or number of those involved."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -5130,7 +5140,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-10-03",
+      "lastSeen": "2026-10-04",
       "active": true
     },
     {
@@ -6048,7 +6058,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-10-03",
+      "lastSeen": "2026-10-04",
       "active": true,
       "entries": [
         {
@@ -6740,6 +6750,11 @@
           "date": "2026-10-03",
           "edition": "morning",
           "update": "A crude oil tanker was struck by an unknown projectile off the coast of Oman, according to the United Kingdom Maritime Trade Operations."
+        },
+        {
+          "date": "2026-10-04",
+          "edition": "morning",
+          "update": "The U.S. aircraft carrier George H.W. Bush visited Thailand following a six-month deployment in the Middle East, according to Reuters."
         }
       ]
     },
@@ -7188,7 +7203,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-10-03",
+      "lastSeen": "2026-10-04",
       "active": true,
       "entries": [
         {
@@ -7500,6 +7515,11 @@
           "date": "2026-10-03",
           "edition": "morning",
           "update": "A third U.S. aircraft carrier is heading to the Middle East, accompanied by thousands of troops, according to CBS News. The Yemeni army reported 474 attacks in 24 hours that killed or wounded 1,540 Houthi fighters, according to Al Jazeera."
+        },
+        {
+          "date": "2026-10-04",
+          "edition": "morning",
+          "update": "Saudi-backed Yemeni government forces claimed to have killed approximately 700 Houthi rebels within a 24-hour period as they attempted to retake lost territory, according to Al Jazeera. Yemeni forces launched strikes on Sanaa as President Trump warned Tehran that a decision on Iran is coming, cautioning it would face consequences 'the hard way' if diplomacy fails. Somalia's President accused the Houthis of destabilizing the region and disrupting navigation through the Bab al-Mandeb strait, stating the group is 'not in a position' to bring peace to Yemen, according to Al Jazeera. Yemen's civil war has entered a new phase after Houthi forces seized the entire Red Sea coastline in a September offensive, though subsequent Houthi advances have been slowed by resistance from Presidential Leadership Council forces, according to the Washington Examiner."
         }
       ]
     },
@@ -7563,7 +7583,7 @@
       "title": "US Cyberattacks and Infrastructure Security",
       "parentId": null,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-10-03",
+      "lastSeen": "2026-10-04",
       "active": true,
       "entries": [
         {
@@ -7760,6 +7780,11 @@
           "date": "2026-10-03",
           "edition": "morning",
           "update": "FBI Director Kash Patel announced the agency has surpassed 140 AI use cases as part of a technology overhaul aimed at countering foreign adversary AI threats and reducing response times. OpenAI disclosed a hack involving an Australian government agency, adding to a series of AI-related security incidents the company has recently reported."
+        },
+        {
+          "date": "2026-10-04",
+          "edition": "morning",
+          "update": "A federal judge in Oklahoma ruled that warrantless searches using AI-powered surveillance data from Flock Safety cameras may violate the Fourth Amendment, finding that freedom from persistent, dragnet-style public surveillance constitutes a reasonable societal expectation. The FBI arrested the first-ever cyber fugitive from its Top 10 Most Wanted list, marking a milestone in federal efforts to combat cyber-enabled financial crime networks, according to Newsweek."
         }
       ]
     },
@@ -7768,7 +7793,7 @@
       "title": "Airport Security Threats and Explosive Device Incidents",
       "parentId": null,
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-10-04",
       "active": true,
       "entries": [
         {
@@ -7845,6 +7870,11 @@
           "date": "2026-09-28",
           "edition": "evening",
           "update": "All five men arrested near RAF Fairford have been confirmed as British nationals, subsequently released on police bail, and remain under active investigation by UK counterterrorism police, who are probing possible involvement by proxies or individuals acting on behalf of a foreign state. Iran's London Embassy categorically denied any involvement in the plot. Former counterterrorism chief Chris Phillips warned that a bomb factory linked to the suspects has not yet been located or neutralized. President Trump commented publicly on the foiled plot."
+        },
+        {
+          "date": "2026-10-04",
+          "edition": "morning",
+          "update": "Al Qaeda issued a call for copycat attacks targeting U.S. citizens on planes, praising the Dubai flight hijacker, identified as an Omani national who previously worked for Oman Air and Air Maroc before being fired after radical ideology was discovered on his cell phone. The TSA implemented a new rule requiring ID-check officers at airport security checkpoints to stand rather than sit, removing their chairs; the TSA workers' union raised concerns about potential foot and back health risks for affected employees."
         }
       ]
     },
@@ -7928,7 +7958,7 @@
       "title": "Flydubai Flight Hijacking Incident",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-03",
+      "lastSeen": "2026-10-04",
       "active": true,
       "entries": [
         {
@@ -7965,9 +7995,14 @@
           "date": "2026-10-03",
           "edition": "evening",
           "update": "UAE Attorney General Hamad Saif Al Shamsi formally alleged that co-pilot Hamam al-Hammami used the cockpit's crash axe to attack the captain in an attempted hijacking, with UAE prosecutors characterizing it as an attempted terrorist attack. Israeli plumber Yaniv Hayoun was publicly identified as one of the passengers who intervened to subdue the co-pilot, and President Trump praised Hayoun by name for his role in the incident. Questions remain about what background checks were conducted before al-Hammami, who had previously been flagged over extremism concerns, was permitted to fly to Israel, according to the NY Times."
+        },
+        {
+          "date": "2026-10-04",
+          "edition": "morning",
+          "update": "Australian state police and the country's security agency launched an investigation into co-pilot Hamam al-Hammami, examining his links to Australia. Al Qaeda separately issued a call for copycat attacks targeting U.S. citizens on planes, citing the Flydubai incident as inspiration."
         }
       ]
     }
   ],
-  "updatedAt": "2026-10-03T21:05:15.759Z"
+  "updatedAt": "2026-10-04T11:04:32.506Z"
 }
