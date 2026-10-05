@@ -175,5 +175,50 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-10-05T04:45:01.364Z"
+  },
+  {
+    "title": "Brazil Elections Head to Runoff Between Lula and Bolsonaro Son",
+    "description": "Neither President Luiz Inácio Lula da Silva nor Flávio Bolsonaro, the son of a former president, won the first round, but Mr. Bolsonaro took more votes.",
+    "link": "https://www.nytimes.com/2026/10/04/world/americas/brazil-election-lula-bolsonaro.html",
+    "pubDate": "Mon, 05 Oct 2026 04:52:32 +0000",
+    "source": "NY Times",
+    "categories": [
+      "brazil",
+      "bolsonaro, flavio",
+      "elections",
+      "da silva, luiz inacio lula",
+      "united states international relations",
+      "politics and government",
+      "bolsonaro, jair (1955- )",
+      "trump, donald j"
+    ],
+    "collectedAt": "2026-10-05T05:00:01.099Z"
+  },
+  {
+    "title": "US removes all bombers from RAF Fairford base",
+    "description": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US.",
+    "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 05 Oct 2026 04:58:56 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-10-05T05:00:01.099Z"
+  },
+  {
+    "title": "France closes up to 500 schools Monday over student protests",
+    "description": "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education minister says.",
+    "link": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 05 Oct 2026 04:49:14 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-10-05T05:00:01.099Z"
+  },
+  {
+    "title": "US Marine’s arrest in a killing on Okinawa triggers outrage in Japan - AP News",
+    "description": "US Marine’s arrest in a killing on Okinawa triggers outrage in Japan  AP News",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWHBqeFl4TEF0TDBuVjhVQjNieThQcXA4dGQwV20xM19mZ3JoLTRqaGV5elctWHpyYmZGT3hLZnQwMV8zSVVOY1k1Sms2eWdLeXpWdlMwWEc5WXVTeVFpYjhrSkVlTDdGMnktOW9aSmtJTEk2MUIteTJwV0dmeVZyNHN6anJRMVZGckk4dWVIdS1oUkk?oc=5",
+    "pubDate": "Mon, 05 Oct 2026 04:08:00 GMT",
+    "source": "AP News",
+    "categories": [],
+    "collectedAt": "2026-10-05T05:00:01.099Z"
   }
 ]
