@@ -411,6 +411,11 @@
           "date": "2026-10-05",
           "edition": "morning",
           "update": "Prince Andrew has filed a lawsuit against Thames Valley Police over his February arrest, asking a UK judge to determine whether officers acted lawfully when they detained him on suspicion of misconduct in public office related to allegations he provided confidential information to Epstein. The family of Epstein victim Virginia Giuffre appeared in a political ad targeting Republican Representative Jeff Crank, with her brother and sister-in-law stating Crank refused to meet with them."
+        },
+        {
+          "date": "2026-10-05",
+          "edition": "evening",
+          "update": "Prince Andrew is separately challenging the legal validity of search warrants issued for his homes in connection with his dealings with Jeffrey Epstein, a distinct legal action from his previously reported lawsuit against Thames Valley Police over his February arrest."
         }
       ],
       "parentId": null
@@ -1551,6 +1556,11 @@
           "date": "2026-10-05",
           "edition": "morning",
           "update": "Russia's Defense Ministry formally threatened to strike Ukrainian military and industrial facilities in response to Zelensky's vow to continue targeting Russian oil refineries, and Ukraine claims its long-range strikes have neutralized over half of Russia's oil refining capacity. A weapons expert told Fox News Digital that Russia may be concealing lunchbox-sized signal repeater devices inside Kyiv to help guide drones past Ukrainian air defenses. Reports separately emerged that Putin is preparing a mass military mobilization."
+        },
+        {
+          "date": "2026-10-05",
+          "edition": "evening",
+          "update": "A Russian strike hit a Turkish-owned vessel carrying corn in the Black Sea, killing the ship's captain and injuring crew members, with eleven sailors rescued and Ukrainian President Zelensky condemning the attack. Residents of Russian-occupied Oleshky face severe food shortages, with some eating weeds amid dangers from drones, landmines, and feral dogs, according to Al Jazeera. Ukraine's frontline, stretching over 700 miles, has remained largely static for four years, with drone technology increasingly dominating the contested battle zone, according to NPR."
         }
       ],
       "parentId": null
@@ -6820,6 +6830,11 @@
           "date": "2026-10-05",
           "edition": "morning",
           "update": "Oil prices climbed after Yemeni Houthi forces launched attacks on Saudi Aramco sites, according to Reuters."
+        },
+        {
+          "date": "2026-10-05",
+          "edition": "evening",
+          "update": "Brent crude oil prices held around $100 per barrel despite increased Middle Eastern oil flows, with Houthi forces fighting for control of Red Sea shipping lanes and sailors being offered $25,000 bonuses to transit the Strait of Hormuz. Saudi-led coalition airstrikes targeted Houthi positions in Yemen, and forces of the internationally recognized Yemeni Presidential Leadership Council claimed to have recaptured the Bab el-Mandeb Strait following a rapid advance supported by those strikes. A burst of tanker attacks in the Strait of Hormuz and strikes on Saudi oil infrastructure heightened energy trade security fears. Al Jazeera raised questions about whether Iran may be charging a covert toll for oil traffic through the strait, noting a surge in crude exports bypassing it in September."
         }
       ]
     },
@@ -6868,13 +6883,18 @@
       "title": "Israeli Embassy Shooting Investigation",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-05-15",
-      "active": false,
+      "lastSeen": "2026-10-05",
+      "active": true,
       "entries": [
         {
           "date": "2026-05-15",
           "edition": "evening",
           "update": "The DOJ formally filed its intent to seek the death penalty for the suspect accused of shooting and killing two Israeli Embassy staffers outside a Jewish museum in Washington, D.C. The filing was submitted to a federal judge on a Friday and is associated with U.S. Attorney for D.C. Jeanine Pirro."
+        },
+        {
+          "date": "2026-10-05",
+          "edition": "evening",
+          "update": "Abdullah Albadri was sentenced to life in prison after a failed knife attack at the Israeli embassy in London. Albadri had arrived in the UK on a small boat just 16 days before attempting to breach the embassy armed with two knives, according to BBC News."
         }
       ]
     },
@@ -8085,9 +8105,14 @@
           "date": "2026-10-05",
           "edition": "morning",
           "update": "Captain Smit Machchhar, who intervened during the incident, publicly recounted his account for the first time. Israeli sources told CBS News that al-Hammami was likely a lone wolf extremist not directed by any terrorist group or foreign government, consistent with early indications previously reported."
+        },
+        {
+          "date": "2026-10-05",
+          "edition": "evening",
+          "update": "Multiple sources have confirmed that al-Hammami intended to crash Flight FZ1073 specifically into Ben Gurion Airport in Tel Aviv, with two senior U.S. officials, an Israeli source, and ABC News all corroborating this target. The BBC further reported that al-Hammami allegedly planned to crash the aircraft into a building at Tel Aviv airport, reinforcing the lone wolf characterization previously reported."
         }
       ]
     }
   ],
-  "updatedAt": "2026-10-05T11:07:15.356Z"
+  "updatedAt": "2026-10-05T21:10:52.821Z"
 }
