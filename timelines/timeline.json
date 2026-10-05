@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-10-03",
+      "lastSeen": "2026-10-05",
       "active": true,
       "entries": [
         {
@@ -406,6 +406,11 @@
           "date": "2026-10-03",
           "edition": "morning",
           "update": "Pathologist Michael Freeman plans to publish research and the New York City Medical Examiner's autopsy files questioning whether Jeffrey Epstein died by suicide, according to CBS News."
+        },
+        {
+          "date": "2026-10-05",
+          "edition": "morning",
+          "update": "Prince Andrew has filed a lawsuit against Thames Valley Police over his February arrest, asking a UK judge to determine whether officers acted lawfully when they detained him on suspicion of misconduct in public office related to allegations he provided confidential information to Epstein. The family of Epstein victim Virginia Giuffre appeared in a political ad targeting Republican Representative Jeff Crank, with her brother and sister-in-law stating Crank refused to meet with them."
         }
       ],
       "parentId": null
@@ -589,7 +594,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-10-04",
+      "lastSeen": "2026-10-05",
       "active": true,
       "entries": [
         {
@@ -1541,6 +1546,11 @@
           "date": "2026-10-04",
           "edition": "evening",
           "update": "During Merz's Kyiv visit, air raid sirens sounded in the city and Russia struck the Northern Bridge for a second consecutive day, with BBC News reporting from the scene. Merz publicly urged Putin to end the war and declared that 'Ukraine is facing decisive weeks,' amid reports of a Ukrainian robot offensive. Russia announced it would intensify strikes on Ukraine following an interview given by President Zelensky, according to Reuters. Russia also claimed it struck two vessels in the Black Sea, according to Reuters reporting Russian military statements. Ukrainian drones separately delivered food supplies to the Russian-occupied town of Oleshky, according to Reuters."
+        },
+        {
+          "date": "2026-10-05",
+          "edition": "morning",
+          "update": "Russia's Defense Ministry formally threatened to strike Ukrainian military and industrial facilities in response to Zelensky's vow to continue targeting Russian oil refineries, and Ukraine claims its long-range strikes have neutralized over half of Russia's oil refining capacity. A weapons expert told Fox News Digital that Russia may be concealing lunchbox-sized signal repeater devices inside Kyiv to help guide drones past Ukrainian air defenses. Reports separately emerged that Putin is preparing a mass military mobilization."
         }
       ],
       "parentId": null
@@ -4804,8 +4814,8 @@
       "id": "artemis-moon-mission",
       "title": "Artemis Moon Mission",
       "firstSeen": "2026-03-23",
-      "lastSeen": "2026-05-27",
-      "active": false,
+      "lastSeen": "2026-10-05",
+      "active": true,
       "entries": [
         {
           "date": "2026-03-23",
@@ -4976,6 +4986,11 @@
           "date": "2026-05-27",
           "edition": "evening",
           "update": "NASA released new images and outlined a three-phase plan for establishing a permanent Moon base, describing the project as 'humanity's first lunar outpost' and framing it as the point at which living and working on the Moon becomes a reality."
+        },
+        {
+          "date": "2026-10-05",
+          "edition": "morning",
+          "update": "A race for nuclear power development on the Moon has emerged as a notable story, according to the New York Times."
         }
       ],
       "parentId": null
@@ -4984,7 +4999,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-10-04",
+      "lastSeen": "2026-10-05",
       "active": true,
       "entries": [
         {
@@ -5136,6 +5151,11 @@
           "date": "2026-10-04",
           "edition": "evening",
           "update": "Ukrainian President Zelensky stated that Ukraine believes Russia has shared jet-drone technology with North Korea, according to Reuters."
+        },
+        {
+          "date": "2026-10-05",
+          "edition": "morning",
+          "update": "An expert stated that North Korea's intermediate-range missile test has put Guam and parts of Alaska within striking range, even as President Trump continues to emphasize his personal relationship with Kim Jong Un."
         }
       ],
       "parentId": null
@@ -5165,7 +5185,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-10-04",
+      "lastSeen": "2026-10-05",
       "active": true
     },
     {
@@ -5188,7 +5208,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-10-04",
+      "lastSeen": "2026-10-05",
       "active": true,
       "entries": [
         {
@@ -5650,6 +5670,11 @@
           "date": "2026-10-04",
           "edition": "evening",
           "update": "Iranian Foreign Minister Abbas Araghchi warned the U.S. that there is 'no military solution' to end the war, declaring that the era of 'wasting time and dictating demands is over.'"
+        },
+        {
+          "date": "2026-10-05",
+          "edition": "morning",
+          "update": "Despite Trump administration claims that U.S. sanctions are shutting down all Iranian airlines, at least one Boeing jumbo jet continues to operate flights from Tehran to Southeast Asia, according to the New York Times."
         }
       ]
     },
@@ -6088,7 +6113,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-10-04",
+      "lastSeen": "2026-10-05",
       "active": true,
       "entries": [
         {
@@ -6790,6 +6815,11 @@
           "date": "2026-10-04",
           "edition": "evening",
           "update": "Iran declared that the Strait of Hormuz will not reopen until unspecified conditions are met, while the U.S. continued to focus on nuclear negotiations rather than the strait's reopening, according to Newsmax."
+        },
+        {
+          "date": "2026-10-05",
+          "edition": "morning",
+          "update": "Oil prices climbed after Yemeni Houthi forces launched attacks on Saudi Aramco sites, according to Reuters."
         }
       ]
     },
@@ -7618,7 +7648,7 @@
       "title": "US Cyberattacks and Infrastructure Security",
       "parentId": null,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-10-04",
+      "lastSeen": "2026-10-05",
       "active": true,
       "entries": [
         {
@@ -7820,6 +7850,11 @@
           "date": "2026-10-04",
           "edition": "morning",
           "update": "A federal judge in Oklahoma ruled that warrantless searches using AI-powered surveillance data from Flock Safety cameras may violate the Fourth Amendment, finding that freedom from persistent, dragnet-style public surveillance constitutes a reasonable societal expectation. The FBI arrested the first-ever cyber fugitive from its Top 10 Most Wanted list, marking a milestone in federal efforts to combat cyber-enabled financial crime networks, according to Newsweek."
+        },
+        {
+          "date": "2026-10-05",
+          "edition": "morning",
+          "update": "The U.S. accused a California woman of spying for China, including surveilling the son of Taiwan's president, according to Reuters."
         }
       ]
     },
@@ -7968,7 +8003,7 @@
       "title": "RAF Fairford Incident and Iran Involvement",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-03",
+      "lastSeen": "2026-10-05",
       "active": true,
       "entries": [
         {
@@ -7985,6 +8020,11 @@
           "date": "2026-10-03",
           "edition": "evening",
           "update": "A 25-year-old UK-Iranian dual national arrested in Westminster on suspicion of planning terrorist acts against RAF Fairford has been released on bail, British authorities confirmed. Separately, UK police charged two Iranian men with plotting a terror attack targeting the Jewish community in Manchester. Portuguese prosecutors launched a probe into the legality of U.S. use of the Lajes military base in the Azores in connection with operations during the Iran conflict, according to Reuters."
+        },
+        {
+          "date": "2026-10-05",
+          "edition": "morning",
+          "update": "All 12 B-1 bombers deployed to RAF Fairford have been withdrawn and returned to their home stations in the United States in what officials described as a quick or rushed departure. Five men were arrested in connection with a suspected plot involving vans containing explosives parked near the base perimeter, with the arrests preceding the bomber withdrawal. The New York Times reported that a mysterious call near the base triggered a major counterterrorism response and days of uncertainty in Britain."
         }
       ]
     },
@@ -7993,7 +8033,7 @@
       "title": "Flydubai Flight Hijacking Incident",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-04",
+      "lastSeen": "2026-10-05",
       "active": true,
       "entries": [
         {
@@ -8040,9 +8080,14 @@
           "date": "2026-10-04",
           "edition": "evening",
           "update": "Early indications suggest co-pilot Hamam al-Hammami acted alone rather than as part of a larger organization or on behalf of a foreign government. Passengers who intervened to subdue al-Hammami spoke to CBS News' 'Sunday Morning,' describing the jet plunging 14,000 feet before another pilot regained control. Al Jazeera reported that official accounts of the incident are facing scrutiny as key questions remain unanswered."
+        },
+        {
+          "date": "2026-10-05",
+          "edition": "morning",
+          "update": "Captain Smit Machchhar, who intervened during the incident, publicly recounted his account for the first time. Israeli sources told CBS News that al-Hammami was likely a lone wolf extremist not directed by any terrorist group or foreign government, consistent with early indications previously reported."
         }
       ]
     }
   ],
-  "updatedAt": "2026-10-04T21:06:56.249Z"
+  "updatedAt": "2026-10-05T11:07:15.356Z"
 }
