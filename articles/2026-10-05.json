@@ -3081,5 +3081,334 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-10-05T13:00:01.936Z"
+  },
+  {
+    "title": "FlyDubai suspected attacker intended to crash into Tel Aviv airport, sources say",
+    "description": "ABC News spoke with two senior U.S. officials and an Israeli source familiar with the investigation.",
+    "link": "https://abcnews.com/International/flydubai-suspected-attacker-intended-crash-plane-tel-aviv/story?id=137001122",
+    "pubDate": "Mon, 05 Oct 2026 09:02:32 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectedAt": "2026-10-05T13:15:01.408Z"
+  },
+  {
+    "title": "Takeaways from Alito's CBS News interview",
+    "description": "Supreme Court Justice Samuel Alito sat down with CBS News chief legal correspondent for a rare interview touching on a host of topics.",
+    "link": "https://www.cbsnews.com/news/supreme-court-justice-samuel-alito-dobbs-roe-v-wade/",
+    "pubDate": "Mon, 05 Oct 2026 09:03:53 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-10-05T13:15:01.408Z"
+  },
+  {
+    "title": "Justice Samuel Alito reacts to Trump jabs: \"We are not attempting to further any political agenda\"",
+    "description": "Supreme Court Justice Samuel Alito, whose new book, \"So Ordered: An Originalist's View of the Constitution, the Court, and Our Country,\" comes out this week, sat down with CBS News chief legal correspondent Jan Crawford. He addressed President Trump's criticisms of the Court and the leak of the draft of his abortion opinion that overturned Roe v. Wade.",
+    "link": "https://www.cbsnews.com/video/justice-samuel-alito-reacts-to-trump-jabs-we-are-not-attempting-to-further-any-political-agenda/",
+    "pubDate": "Mon, 05 Oct 2026 09:02:16 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-10-05T13:15:01.408Z"
+  },
+  {
+    "title": "Trump campaigning in another solid red state, urges Americans to vote using \"every appropriate tool\"",
+    "description": "President Trump is campaigning in Nebraska, continuing his tour of reliably red states where Republicans are in heated contests. CBS News' Taurean Small reports.",
+    "link": "https://www.cbsnews.com/video/trump-campaigning-in-another-solid-red-state-urges-americans-to-vote-with-every-appropriate-tool/",
+    "pubDate": "Mon, 05 Oct 2026 09:02:04 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-10-05T13:15:01.408Z"
+  },
+  {
+    "title": "Supreme Court gears up for new term with major cases on climate change, guns",
+    "description": "The Supreme Court kicks off its term Monday with cases involving climate change, President Trump's immigration policies and the Second Amendment among the most high-profile disputes.",
+    "link": "https://www.cbsnews.com/news/supreme-court-new-term-2026-climate-change-immigration-guns/",
+    "pubDate": "Mon, 05 Oct 2026 08:59:35 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectedAt": "2026-10-05T13:15:01.408Z"
+  },
+  {
+    "title": "A Supreme Court Battle Over Climate Change Begins",
+    "description": "The justices are about to hear a lawsuit that could determine whether the oil industry faces billions of dollars in liability for damages caused by global warming.",
+    "link": "https://www.nytimes.com/2026/10/04/climate/boulder-lawsuit-supreme-court.html",
+    "pubDate": "Mon, 05 Oct 2026 13:06:17 +0000",
+    "source": "NY Times",
+    "categories": [
+      "global warming",
+      "greenhouse gas emissions",
+      "boulder (colo)",
+      "suits and litigation (civil)",
+      "exxon mobil corp",
+      "suncor energy inc",
+      "oil (petroleum) and gasoline",
+      "federal-state relations (us)",
+      "liability for products",
+      "energy and power",
+      "supreme court (us)",
+      "justice department",
+      "alito, samuel a jr"
+    ],
+    "collectedAt": "2026-10-05T13:15:01.408Z"
+  },
+  {
+    "title": "Saudi and Yemeni Forces Attack Houthis to Retake Control of Red Sea Coast",
+    "description": "The offensive is an effort to wrest control of the Bab al-Mandab Strait from the Houthis, who are backed by Iran.",
+    "link": "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-yemen-houthis-bab-al-mandab-strait.html",
+    "pubDate": "Mon, 05 Oct 2026 12:49:09 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "defense and military forces",
+      "houthis",
+      "bab al-mandab strait",
+      "red sea",
+      "iran",
+      "saudi arabia",
+      "yemen",
+      "middle east"
+    ],
+    "collectedAt": "2026-10-05T13:15:01.408Z"
+  },
+  {
+    "title": "Is This Putin’s Chernobyl Crisis?",
+    "description": "Forty years after Chernobyl, Moscow faces another information battle over a suspected case of pneumonic plague.",
+    "link": "https://www.newsweek.com/russia-plague-irkutsk-putin-chernobyl-crisis-12524387",
+    "pubDate": "Mon, 05 Oct 2026 09:11:20 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-10-05T13:15:01.408Z"
+  },
+  {
+    "title": "Who's on Trump's 'Super Intelligence Force'? Picks Signal His Priorities",
+    "description": "Trump's new Super Intelligence Force brings together intelligence, tech, defense and regulatory leaders to shape U.S. AI policy.",
+    "link": "https://www.newsweek.com/whos-on-trumps-super-intelligence-force-picks-signal-his-priorities-12524365",
+    "pubDate": "Mon, 05 Oct 2026 09:08:25 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-10-05T13:15:01.408Z"
+  },
+  {
+    "title": "Trump Ally Who Says He Introduced President to Melania Accused of Rape",
+    "description": "Model Victoria Drake alleges Paolo Zampolli raped her after he took \"copious amounts of cocaine.\" He denies the allegations.",
+    "link": "https://www.newsweek.com/who-paolo-zampolli-rape-victoria-drake-president-melania-trump-ally-accused-rape-12524316",
+    "pubDate": "Mon, 05 Oct 2026 09:01:27 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-10-05T13:15:01.408Z"
+  },
+  {
+    "title": "BBC appoints Rachel Jupp as new director of news",
+    "description": "Jupp is a former deputy editor of BBC Two's Newsnight and has also served as Panorama's editor.",
+    "link": "https://www.bbc.co.uk/news/articles/cjrvl8n82wvo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 05 Oct 2026 13:05:13 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-10-05T13:15:01.408Z"
+  },
+  {
+    "title": "Man jailed for life over failed knife attack at Israeli embassy in London",
+    "description": "Abdullah Albadri arrived in the UK on a small 16 days before trying to break into the embassy with two knives.",
+    "link": "https://www.bbc.co.uk/news/articles/c63r5l04nejwo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 05 Oct 2026 13:11:47 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-10-05T13:15:01.408Z"
+  },
+  {
+    "title": "The US said China was priming a trade superweapon. Then it vanished. - Reuters",
+    "description": "The US said China was priming a trade superweapon. Then it vanished.  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNk53NVpHdGRlQmhXNmdsVE1zTXcxOWpUSU82S3FZVm83M0g3RWx6R0JJV3QxNS1PZkNTNXVoam1sd1dUVFl4dm9fSlpXQ1N3WkJNa0FuSjRwd19KRWdqbDhDLWRwMEUyUmlva19hblVDLTBrTk9DSV8wNXdhaDB3eEpiTGRUSmgzYTRpRksyd3F5YnpKeGJxYjc0dzlYNXNHU0ZkRGZYX1hVTGZJNktKYTBIQUdZTXpWdl9Z?oc=5",
+    "pubDate": "Mon, 05 Oct 2026 11:53:39 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-10-05T13:15:01.408Z"
+  },
+  {
+    "title": "Russia's oil earnings fall despite price jump as output drops, rouble rises - Reuters",
+    "description": "Russia's oil earnings fall despite price jump as output drops, rouble rises  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWXVBVEdSV0VCSHNQZ0lMMkpoWV9ZQzVKZ1h4TXNUUWJDWldiWXU0cWt5NWNGYTZJZnM1SERHTTdyU1RFekV5Y3NNQmo4czFaUWZWRk8xVlNZUnBpWGFNYlh5VVB1M1pCMER3czZzUVZCS1J1WG5meldjTy1FTTdVLXdtN1FsZDFtcy1FSDFwd0RhbEV1X01wVlZial9xaUlkRFR2VVR0dmotcElabjExUko5bW5VbjgxUGZlYkZKUQ?oc=5",
+    "pubDate": "Mon, 05 Oct 2026 11:51:20 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-10-05T13:15:01.408Z"
+  },
+  {
+    "title": "Qualcomm and Arm head to trial again, potential for huge damages in focus - Reuters",
+    "description": "Qualcomm and Arm head to trial again, potential for huge damages in focus  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS1VVb0RTQ1NhSkFHMXd2RENIQ0xsSjVyTkFKYlVSUmRrOXdCRjVwR0psNEdzdjdEa1Y2bkNDcW9WUkIxampaT3JFSm9NaWJBcXF0ZkFsOUtjcjRfWmNZOU8zaXBQWDdlS2U3c1FyQklSM2NVN3N5Z1BxMjRJVjczcGE3MzdjbmtIMWk1S0s5aXE1c0xrVm5wN2FpY25laTlvSGhsbHdRM1FvODB5ZW52YjZtcjgzM3pj?oc=5",
+    "pubDate": "Mon, 05 Oct 2026 10:12:37 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-10-05T13:15:01.408Z"
+  },
+  {
+    "title": "Worries grow about suspected plague outbreak in Russia",
+    "description": "Russian authorities and Trump administration officials are monitoring a possible pneumonic plague outbreak in Russia, after a laboratory worker died of an undisclosed illness. The woman, in her late 20s, reportedly worked at the Irkutsk Anti-Institute of Siberia and the Far East and died of pneumonia of unknown origin, according to Rospotrebnadzor, a Russian health…",
+    "link": "https://thehill.com/policy/healthcare/6129050-russia-pneumonic-plague-outbreak-monitored/",
+    "pubDate": "\n\t\tMon, 05 Oct 2026 13:12:25 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "healthcare",
+      "international",
+      "news"
+    ],
+    "collectedAt": "2026-10-05T13:15:01.408Z"
+  },
+  {
+    "title": "Tech watchdog outlines closing midterms message for Democrats on data centers",
+    "description": "The Tech Oversight Project is laying out a closing message for Democrats on data centers as candidates head into the final stretch ahead of the midterm elections. In a memo shared first with The Hill, the tech watchdog group outlined the costs to voters from the server warehouses powering the AI boom, arguing that Americans…",
+    "link": "https://thehill.com/policy/technology/6129103-tech-oversight-project-democrats-ai-data-centers/",
+    "pubDate": "\n\t\tMon, 05 Oct 2026 13:09:03 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "technology"
+    ],
+    "collectedAt": "2026-10-05T13:15:01.408Z"
+  },
+  {
+    "title": "Listen live: Supreme Court kicks off new term with major climate case",
+    "description": "The Supreme Court kicks off its new term Monday with a major climate case that could shape efforts by state and local governments to seek damages from fossil fuel companies over global warming. The justices will hear Suncor v. Boulder, an appeal of a Colorado Supreme Court ruling allowing the city and county of Boulder,…",
+    "link": "https://thehill.com/video-clips/6129028-oil-companies-climate-damages/",
+    "pubDate": "\n\t\tMon, 05 Oct 2026 13:00:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "court battles",
+      "energy & environment",
+      "news",
+      "policy",
+      "video"
+    ],
+    "collectedAt": "2026-10-05T13:15:01.408Z"
+  },
+  {
+    "title": "Jeffries: House Democrats ‘poised to take back the majority’",
+    "description": "House Minority Leader Hakeem Jeffries (D-N.Y.) said Sunday that Democrats are on the path to reclaiming the majority in the lower chamber of Congress. Jeffries, during a conference call, told reporters the upcoming midterms are similar to those in 2018, when Democrats took back the House during President Trump’s first term, The Associated Press reported.…",
+    "link": "https://thehill.com/homenews/campaign/6129040-hakeem-jeffries-house-majority-democrats-2026-midterms/",
+    "pubDate": "\n\t\tMon, 05 Oct 2026 12:47:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "house",
+      "news",
+      "2026 midterms",
+      "democrats",
+      "house democrats"
+    ],
+    "collectedAt": "2026-10-05T13:15:01.408Z"
+  },
+  {
+    "title": "Why France Is Burning - The Free Press",
+    "description": "Why France Is Burning  The Free Press",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPMmJSc1RzdWRlUjVGSy1fVjM4RHlKbEZtSVRyVzFNdjNvWlZKSlFvdTExOHR2WXphdUpHMHBWYk16aWdFU2ktZHgydmpiYlVrZm1CRU93SFVURjFNSExGbkRMQ3hEMHVL?oc=5",
+    "pubDate": "Mon, 05 Oct 2026 06:22:01 GMT",
+    "source": "The Free Press",
+    "categories": [],
+    "collectedAt": "2026-10-05T13:15:01.408Z"
+  },
+  {
+    "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
+    "description": "“She developed pleural effusion — fluid between the lungs and ribs — compressing her lungs and making it hard for her to breathe.”",
+    "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
+    "pubDate": "Mon, 05 Oct 2026 13:00:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-10-05T13:15:01.408Z"
+  },
+  {
+    "title": "Madison Beer is being accused of ruining Justin Herbert's career, sad Eagles fans & Yankees fans fighting",
+    "description": "Screencaps column dives into Justin Herbert's 0-4 NFL start since his Madison Beer engagement and the league's TikTok content push gone wrong.",
+    "link": "https://www.foxnews.com/outkick-sports/madison-beer-accused-ruining-justin-herberts-career-sad-eagles-fans-yankees-fans-fighting",
+    "pubDate": "Mon, 05 Oct 2026 09:09:36 -0400",
+    "source": "Fox News",
+    "categories": [
+      "db7da8af-2a0f-573e-aa61-b1c3baa05027",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/outkick/outkick-culture/screencaps",
+      "fox-news/person/justin-herbert",
+      "fox-news/person/joe-burrow",
+      "fox-news/sports/ncaa-fb",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-10-05T13:15:01.408Z"
+  },
+  {
+    "title": "NASCAR star rips sport for being slow and soft, another makes a shocking comeback & scorned wife bites back",
+    "description": "Tony Stewart calls NASCAR Cup Series \"neutered\" in a viral rant, while Jennifer Jo Cobb owes $850,000 after a civil court affair accusation.",
+    "link": "https://www.foxnews.com/outkick-sports/nascar-star-rips-sport-slow-soft-another-makes-shocking-comeback-scorned-wife-bites-back",
+    "pubDate": "Mon, 05 Oct 2026 09:00:42 -0400",
+    "source": "Fox News",
+    "categories": [
+      "b3e5efcb-59a5-5fc5-be53-601999bed892",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/auto/nascar",
+      "fox-news/auto/attributes/racing",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-10-05T13:15:01.408Z"
+  },
+  {
+    "title": "HARDY's new single 'Man In The Box' blends country music and rock into one roller coaster track",
+    "description": "HARDY's new single \"Man In The Box\" blends traditional country music with aggressive rock in a roller coaster track that has fans going crazy.",
+    "link": "https://www.foxnews.com/outkick-culture/hardy-new-single-man-in-the-box-blends-country-music-rock-roller-coaster-track",
+    "pubDate": "Mon, 05 Oct 2026 08:56:38 -0400",
+    "source": "Fox News",
+    "categories": [
+      "8844c91c-7585-5392-a48f-8041a6fee56d",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-culture",
+      "fox-news/entertainment",
+      "fox-news/entertainment/genres/country",
+      "fox-news/entertainment/genres/rock",
+      "fox-news/entertainment/music",
+      "fox-news/outkick-culture",
+      "article"
+    ],
+    "collectedAt": "2026-10-05T13:15:01.408Z"
+  },
+  {
+    "title": "Cam Schlittler is built for surprisingly hostile environment Yankees face in Game 2",
+    "description": "ST. PETERSBURG, Fla. — Down 1-0 in a best-of-five AL Division Series, the Yankees could not ask for a better potential savior than Cam Schlittler in Game 2.",
+    "link": "https://nypost.com/2026/10/05/sports/cam-schlittler-is-built-for-surprisingly-hostile-environment-yankees-face/",
+    "pubDate": "Mon, 05 Oct 2026 09:11:04 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-05T13:15:01.408Z"
+  },
+  {
+    "title": "The surprising names Prince George, Princess Charlotte and Prince Louis go by at school",
+    "description": "Prince William and Kate Middleton's eldest child is in his first year at Eton College, while his siblings attend Lambrook Prep School.",
+    "link": "https://pagesix.com/2026/10/05/royal-family/suprising-names-prince-george-princess-charlotte-and-prince-louis-go-by-at-school/",
+    "pubDate": "Mon, 05 Oct 2026 09:06:46 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-05T13:15:01.408Z"
+  },
+  {
+    "title": "5 black children treated like ‘slaves’ by adopted white parents awarded $4.4M payout from state",
+    "description": "\"They were robbed of their innocence and robbed of their youth by the monsters that were their former parents.”",
+    "link": "https://nypost.com/2026/10/05/us-news/5-black-children-treated-like-slaves-by-adopted-white-parents-awarded-4-4m-payout-from-state/",
+    "pubDate": "Mon, 05 Oct 2026 09:06:10 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-05T13:15:01.408Z"
+  },
+  {
+    "title": "The 10 Best True Crime Documentaries Now Streaming on Hulu",
+    "description": "The streamer boasts a diverse blend of sensational and journalistic stuff.",
+    "link": "https://decider.com/2026/10/05/the-10-best-true-crime-documentaries-on-hulu/",
+    "pubDate": "Mon, 05 Oct 2026 09:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-05T13:15:01.408Z"
   }
 ]
