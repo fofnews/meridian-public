@@ -763,5 +763,52 @@
     "source": "Reuters",
     "categories": [],
     "collectedAt": "2026-10-05T08:45:01.666Z"
+  },
+  {
+    "title": "Morning news brief",
+    "description": "Investigators are still searching for the motive behind a midair attack aboard a FlyDubai plane, SCOTUS term begins with climate change case, Brazil's presidential race heads to run-off.",
+    "link": "https://www.npr.org/2026/10/05/nx-s1-5986099/morning-news-brief",
+    "pubDate": "Mon, 05 Oct 2026 04:45:43 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectedAt": "2026-10-05T09:00:01.736Z"
+  },
+  {
+    "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
+    "description": "For many locals on this island, the arrest has brought decades of frustration back to the fore.",
+    "link": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 05 Oct 2026 08:22:41 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-10-05T09:00:01.736Z"
+  },
+  {
+    "title": "Pakistan installs fishing nets at security outposts to block drone attacks",
+    "description": "Strung several metres overhead, the nets are a low-cost solution in sensitive areas prone to attacks by armed groups.",
+    "link": "https://www.aljazeera.com/news/2026/10/5/pakistan-installs-fishing-nets-at-security-outposts-to-block-drone-attacks?traffic_source=rss",
+    "pubDate": "Mon, 05 Oct 2026 08:20:34 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-10-05T09:00:01.736Z"
+  },
+  {
+    "title": "Tyler Perry lists huge Beverly Hills mansion for $57 million: ‘Yep, moving to Puerto Rico’",
+    "description": "Filmmaker Tyler Perry is bidding farewell to his Beverly Hills mansion, listing the property for $57 million—mere weeks after revealing his plans to move to Puerto Rico.",
+    "link": "https://www.marketwatch.com/story/tyler-perry-lists-huge-beverly-hills-mansion-for-57-million-yep-moving-to-puerto-rico-a080916b?mod=mw_rss_topstories",
+    "pubDate": "Mon, 05 Oct 2026 08:58:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-10-05T09:00:01.736Z"
+  },
+  {
+    "title": "Spanish PM Sanchez calls snap election for November 29",
+    "description": "Following the rejection of key housing decrees, Spanish PM Pedro Sanchez has called a snap general election for November 29 to renew his mandate.",
+    "link": "https://nypost.com/2026/10/05/world-news/spanish-pm-sanchez-calls-snap-general-election-for-november-29/",
+    "pubDate": "Mon, 05 Oct 2026 04:53:18 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-05T09:00:01.736Z"
   }
 ]
