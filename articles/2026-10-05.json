@@ -256,5 +256,16 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-10-05T05:15:01.047Z"
+  },
+  {
+    "title": "October heat wave continues to bake California, breaking records",
+    "description": "At least 35 million people are under heat alerts on Sunday as a dangerous multi-day October heat wave continues across nearly all of California.",
+    "link": "https://abcnews.com/US/37-million-people-alert-dangerous-temperatures-october-heat/story?id=136984812",
+    "pubDate": "Mon, 05 Oct 2026 01:16:25 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectedAt": "2026-10-05T05:30:01.083Z"
   }
 ]
