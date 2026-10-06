@@ -1702,5 +1702,337 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-10-06T10:00:06.253Z"
+  },
+  {
+    "title": "Huge Protests Put France on Edge, and How Meta Exploited a Tax Credit to Save Billions",
+    "description": "Plus, the ancient treasures revealed by melting glaciers.",
+    "link": "https://www.nytimes.com/2026/10/06/podcasts/the-headlines/protests-france-meta-tax.html",
+    "pubDate": "Tue, 06 Oct 2026 10:00:17 +0000",
+    "source": "NY Times",
+    "categories": [
+      "demonstrations, protests and riots",
+      "corporate taxes",
+      "meta platforms inc",
+      "france"
+    ],
+    "collectedAt": "2026-10-06T10:15:04.002Z"
+  },
+  {
+    "title": "Former German spy chief arrested for espionage and treason",
+    "description": "August Hanning is accused of obtaining classified information for a foreign power.",
+    "link": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 06 Oct 2026 10:05:42 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-10-06T10:15:04.002Z"
+  },
+  {
+    "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
+    "description": "Ukrainians travelling by train are increasingly caught in the crosshairs of Russia's attacks.",
+    "link": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 06 Oct 2026 09:48:37 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-10-06T10:15:04.002Z"
+  },
+  {
+    "title": "Kenya ministry of health confirms first imported Ebola case",
+    "description": "The first imported case of Ebola has been recorded in Kenya.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/kenya-ministry-of-health-confirms-first-imported-ebola-case?traffic_source=rss",
+    "pubDate": "Tue, 06 Oct 2026 09:51:44 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-10-06T10:15:04.002Z"
+  },
+  {
+    "title": "Crew missing after drone sinks ship in Bulgaria's Black Sea - Reuters",
+    "description": "Crew missing after drone sinks ship in Bulgaria's Black Sea  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOckYybnBiUEo2ZDZpQ0hkTUlXUkE3ei11ZkJpODRKdTRBa19NVVNDdDFnQjMwbzJIb1ZndFZfMW9CNVpuNFFNNTlhYUxqcFFoYzY4LWtIMVBLR2ZsR0hWWG5VREZ3TjFtd29xWFhkUlhEdEk5UFl0WHpxQlVybWh5WV9KdGdJSnVZa0V4RHJITXlaQUxQZE8xZG9GWU4tSG9Mamc?oc=5",
+    "pubDate": "Tue, 06 Oct 2026 06:48:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-10-06T10:15:04.002Z"
+  },
+  {
+    "title": "One year on, Trump's Gaza plan has not stopped Israeli fire or disarmed Hamas - Reuters",
+    "description": "One year on, Trump's Gaza plan has not stopped Israeli fire or disarmed Hamas  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSkkydUtZMjRTUWluN2N4ajJ6RkhqclYxTUxUeF9oMGZoN09jc3huX0RSQXdmUXFNWVlPdWozU0tyZkJta19mS0Y5c1UtZ3FvcjlvZXBEZkp2eTYyd2hPN1BOV1E3bWdDNFczSXdmZzJhTmRzYlczUzM2dERubjgwMGRlQWhMNmxWMGtkQWpyYUplVTh3dmxQdjU4YjlncmVsT1hFalV1emdpb1ZyLXhpYm1wVXNvTnNiR0VPY1ptVEduU3FB?oc=5",
+    "pubDate": "Tue, 06 Oct 2026 07:33:29 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-10-06T10:15:04.002Z"
+  },
+  {
+    "title": "Trump orders firing squad for gunman who killed 13 people at Fort Hood, Texas - Reuters",
+    "description": "Trump orders firing squad for gunman who killed 13 people at Fort Hood, Texas  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNejhYTkxJelBpOC05OTN1Z0Z1aFdVWWljTzZVdWtEYm5HYjVEakUxd3pxTkJrdjlOVXdGWmlQei1CUmhLLW9zaXFzdF9CWFNxUjJZWFB0UFNSbGFIZ2VPWjRSTnU2M05MX2t3OHY0SHBacWpic2tqY2NXbE0xdGthb1ZNX1VGbzg0U1JUN3JXVnRoRlZkNWY3ZTVaTDJmSVlJZXlzRGd6bU5lNGhBeWZaV0Y1VjU?oc=5",
+    "pubDate": "Tue, 06 Oct 2026 04:33:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-10-06T10:15:04.002Z"
+  },
+  {
+    "title": "Trump’s Golden Dome faces headwinds with funding uncertain",
+    "description": "Golden Dome, President Trump’s lofty plan for a national ballistic missile defense shield, is facing heavy headwinds with project funding still uncertain. The missile defense program, estimated to cost some $1.2 trillion over 20 years of development and operation, needs a significant influx of funding to get it off the ground this fiscal year.  But…",
+    "link": "https://thehill.com/policy/defense/6127776-golden-dome-missile-funding-crisis/",
+    "pubDate": "\n\t\tTue, 06 Oct 2026 10:00:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "defense",
+      "news",
+      "policy"
+    ],
+    "collectedAt": "2026-10-06T10:15:04.002Z"
+  },
+  {
+    "title": "Trump is turning out Democrats, but can he still do it for the GOP?",
+    "description": "We’re now over the hump and into the downhill slide to the end of the 2026 midterm elections. I say “end” because early voting has already begun in six states, and by the end of next week, the number will be up to 19 and counting.  A mighty river of ballots, eventually more than 100…",
+    "link": "https://thehill.com/homenews/campaign/6130505-trump-era-voter-turnout-trends/",
+    "pubDate": "\n\t\tTue, 06 Oct 2026 10:00:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "news"
+    ],
+    "collectedAt": "2026-10-06T10:15:04.002Z"
+  },
+  {
+    "title": "Hegseth’s get-out-the-vote effort draws praise and skepticism",
+    "description": "Defense Secretary Pete Hegseth is ramping up his get-out-the-vote campaign, urging U.S. troops to register to vote in the 2026 midterm elections but not telling them which way to vote. He also issued a stand-down order, allowing service members to get one day off this month to cast a ballot. Critics view Hegseth’s increased emphasis…",
+    "link": "https://thehill.com/policy/defense/6127163-pete-hegseth-us-troops-midterm-elections/",
+    "pubDate": "\n\t\tTue, 06 Oct 2026 10:00:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "defense",
+      "news"
+    ],
+    "collectedAt": "2026-10-06T10:15:04.002Z"
+  },
+  {
+    "title": "Alito’s first book pushes conservative justice into spotlight",
+    "description": "Two decades after joining the Supreme Court, Justice Samuel Alito joins the ranks of justices as authors. Alito’s first book, “So Ordered,” set for release Tuesday, is an adapted collection of speeches he’s given over the years commenting on abortion, originalism, threats to the judiciary and more. It doesn’t break much new ground for those…",
+    "link": "https://thehill.com/regulation/court-battles/6130540-justice-samuel-alito-supreme-court-book/",
+    "pubDate": "\n\t\tTue, 06 Oct 2026 10:00:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "court battles"
+    ],
+    "collectedAt": "2026-10-06T10:15:04.002Z"
+  },
+  {
+    "title": "Trump’s feud with Cotton snaps heads in the Senate",
+    "description": "President Trump’s doxing of Sen. Tom Cotton over a stalled bill to establish year-round daylight saving time is throwing an unexpected twist in the Arkansas Republican’s reelection race and sets up a fierce fight in the Senate this fall over the biannual changing of clocks. Trump’s decision to publish Cotton’s cellphone number on his Truth…",
+    "link": "https://thehill.com/homenews/senate/6130745-trump-doxxed-senator-cotton/",
+    "pubDate": "\n\t\tTue, 06 Oct 2026 10:00:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "news",
+      "senate"
+    ],
+    "collectedAt": "2026-10-06T10:15:04.002Z"
+  },
+  {
+    "title": "Should I put my nest egg in a 30-year Treasury bond?",
+    "description": "Risk comes in many forms, even with “safe” investments.",
+    "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
+    "pubDate": "Tue, 06 Oct 2026 10:00:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectedAt": "2026-10-06T10:15:04.002Z"
+  },
+  {
+    "title": "Blue states set to trigger fresh minimum wage hikes with pay floors more than double federal rate",
+    "description": "Deep-blue Washington pushes its nation-leading minimum wage to $17.73 as Seattle hits $22.14, sparking debate over labor costs and job losses.",
+    "link": "https://www.foxnews.com/politics/blue-states-set-trigger-fresh-minimum-wage-hikes-pay-floors-more-than-double-federal-rate",
+    "pubDate": "Tue, 06 Oct 2026 06:00:57 -0400",
+    "source": "Fox News",
+    "categories": [
+      "58956ce1-497f-5c75-937d-78c7dcf5026c",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/west/washington",
+      "fox-news/us/seattle",
+      "fox-news/us/economy/jobs",
+      "fox-news/us/education/costs",
+      "fox-news/us/economy/inflation",
+      "fox-news/us/economy",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-10-06T10:15:04.002Z"
+  },
+  {
+    "title": "Ole Miss students, bar workers warn of culture of underage drinking, fake ID schemes and frat allegations",
+    "description": "Fox News Digital investigates nightlife in Oxford, MS, where students and local bartenders reveal how easy it is to exploit bar entry policies and bypass security checks.",
+    "link": "https://www.foxnews.com/us/ole-miss-students-bar-workers-warn-culture-underage-drinking-fake-id-schemes-frat-allegations",
+    "pubDate": "Tue, 06 Oct 2026 06:00:55 -0400",
+    "source": "Fox News",
+    "categories": [
+      "7eb86127-ec3b-5cb7-9ae9-f281a9d66de3",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/southeast/mississippi",
+      "fox-news/us",
+      "fox-news/crime",
+      "fox-news/sports/ncaa/ole-miss-rebels",
+      "fox-news/us/education/college",
+      "fox-news/us/campus-controversy",
+      "fox-news/us",
+      "article"
+    ],
+    "collectedAt": "2026-10-06T10:15:04.002Z"
+  },
+  {
+    "title": "Burger King marketing boss says 'guest does rule' but says one thing can't be forced",
+    "description": "A Burger King executive reveals how the fast-food chain wants employees to treat customers like royalty: \"The guest does rule,\" he tells Fox News Digital.",
+    "link": "https://www.foxnews.com/food-drink/burger-king-marketing-boss-says-guest-does-rule-says-one-thing-cant-forced",
+    "pubDate": "Tue, 06 Oct 2026 06:00:50 -0400",
+    "source": "Fox News",
+    "categories": [
+      "4a905148-2528-5292-bf74-4e935abffbb9",
+      "fnc",
+      "fox news",
+      "fox-news/food-drink/food/fast-food",
+      "fox-news/food-drink",
+      "fox-news/fast-food",
+      "fox-news/lifestyle",
+      "fox-news/lifestyle/food",
+      "fox-news/food-drink/food/restaurants",
+      "fox-news/food-drink/food",
+      "fox-news/food-drink",
+      "article"
+    ],
+    "collectedAt": "2026-10-06T10:15:04.002Z"
+  },
+  {
+    "title": "Iran turns citizens into informants as chilling crackdown spreads beyond its borders",
+    "description": "Iran's Alaj platform crowdsources diaspora surveillance via Telegram, with an official source confirming the system to Fox News Digital.",
+    "link": "https://www.foxnews.com/world/iran-turns-citizens-informants-chilling-crackdown-spreads-beyond-its-borders",
+    "pubDate": "Tue, 06 Oct 2026 06:00:37 -0400",
+    "source": "Fox News",
+    "categories": [
+      "dcabd496-0a8b-5693-b480-5cc860a6c9a4",
+      "fnc",
+      "fox news",
+      "fox-news/politics/defense/wars/war-with-iran",
+      "fox-news/world",
+      "fox-news/world/world-regions/middle-east",
+      "fox-news/world/conflicts/iran",
+      "fox-news/world",
+      "article"
+    ],
+    "collectedAt": "2026-10-06T10:15:04.002Z"
+  },
+  {
+    "title": "Dem fundraising giant makes damning admission as GOP probes foreign donation allegations",
+    "description": "ActBlue launched a new passport verification program days after House GOP investigators accused the platform of potentially accepting foreign donations.",
+    "link": "https://www.foxnews.com/politics/democrat-fundraising-giant-makes-damning-admission-gop-probes-foreign-donation-allegations",
+    "pubDate": "Tue, 06 Oct 2026 06:00:35 -0400",
+    "source": "Fox News",
+    "categories": [
+      "9deb1cb9-316e-5f9f-806f-90058b6d935a",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/us/congress",
+      "fox-news/politics/elections/house-of-representatives",
+      "fox-news/politics/elections/voter-fraud-concerns",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectedAt": "2026-10-06T10:15:04.002Z"
+  },
+  {
+    "title": "Apple News hid stories about how broke the DNC is ahead of the midterms, watchdog alleges",
+    "description": "\"Apple isn’t curating the news,\" David Bozell, president of the Media Research Center, said. \"It’s running a high-tech protection racket for the political left.”",
+    "link": "https://nypost.com/2026/10/06/us-news/apple-news-hid-stories-about-the-dncs-massive-debt-ahead-of-the-midterms-watchdog-alleges/",
+    "pubDate": "Tue, 06 Oct 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-06T10:15:04.002Z"
+  },
+  {
+    "title": "Why a drunk Michael Douglas threatened Julia Roberts that he would take her Golden Globe ‘and stick it where the sun don’t shine’",
+    "description": "The incident occurred at a Golden Globes party while Roberts was filming \"Flatliners,\" which Douglas produced.",
+    "link": "https://pagesix.com/2026/10/06/entertainment/michael-douglas-threatened-julia-roberts-at-golden-globes-party-over-son-memoir/",
+    "pubDate": "Tue, 06 Oct 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-06T10:15:04.002Z"
+  },
+  {
+    "title": "You can still reach your 2026 reading goals with October Prime Day Kindle deals",
+    "description": "If you only buy one thing from this sale, make it a Kindle.",
+    "link": "https://nypost.com/shopping/amazon-prime-big-deal-days-kindle-deals-october-2026/",
+    "pubDate": "Tue, 06 Oct 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-06T10:15:04.002Z"
+  },
+  {
+    "title": "Smooth moves: NY is America’s most Botox-obsessed state — see how the rest of the country lines up",
+    "description": "Empire State residents are ceaseless in their desire for creaselessness.",
+    "link": "https://nypost.com/2026/10/06/lifestyle/ny-ranked-as-the-most-botox-obsessed-state-in-the-us-survey/",
+    "pubDate": "Tue, 06 Oct 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-06T10:15:04.002Z"
+  },
+  {
+    "title": "55 October Prime Day fitness deals I’m pumped to find as a wellness writer",
+    "description": "Ready to invest in your health? Here are the Prime Day finds that are totally justifiable.",
+    "link": "https://nypost.com/shopping/amazon-prime-big-deal-days-fitness-wellness-deals-october-2026/",
+    "pubDate": "Tue, 06 Oct 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-06T10:15:04.002Z"
+  },
+  {
+    "title": "Inside the high-stakes AI race: Death spreadsheets, burning demons and no need to save for retirement",
+    "description": "Kevin Roose’s revealing new book, “The AGI Chronicles: The Inside Story of the Race to Create an Artificial Superintelligence,” reveals the unhinged behind-the-scenes at companies like OpenAI and Anthropic.",
+    "link": "https://nypost.com/2026/10/06/tech/inside-the-high-stakes-ai-race-between-anthropic-openai/",
+    "pubDate": "Tue, 06 Oct 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-06T10:15:04.002Z"
+  },
+  {
+    "title": "NFL Power Rankings for Week 5: How the unlikely undefeated team is getting it done",
+    "description": "And then there were three.",
+    "link": "https://nypost.com/2026/10/06/sports/nfl-power-rankings-for-week-5-how-the-unlikely-undefeated-team-is-getting-it-done/",
+    "pubDate": "Tue, 06 Oct 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-06T10:15:04.002Z"
+  },
+  {
+    "title": "Get cheeky: Spanx and Olay Just teamed up for Prime Day",
+    "description": "Face and booty are now happy.",
+    "link": "https://nypost.com/2026/10/06/shopping/spanx-and-olay-launch-77-prime-day-bundle/",
+    "pubDate": "Tue, 06 Oct 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-06T10:15:04.002Z"
+  },
+  {
+    "title": "Revamped Belmont Park gallops into a new era — with hopes for an outdoor Islanders game",
+    "description": "The recently opened track, which will be fully operational months before June’s Belmont Stakes, is already luring hockey fans as a far cry from the old, bulky concrete grandstand.",
+    "link": "https://nypost.com/2026/10/06/us-news/revamped-belmont-park-gallops-into-new-era-with-hopes-for-outdoor-islanders-game/",
+    "pubDate": "Tue, 06 Oct 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-06T10:15:04.002Z"
+  },
+  {
+    "title": "Nordstrom is having a sneaky sale on fall essentials right now",
+    "description": "October Prime Day isn't the only sale worth shopping right now.",
+    "link": "https://pagesix.com/style/nordstrom-competing-amazon-october-prime-day-sale-2026/",
+    "pubDate": "Tue, 06 Oct 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-06T10:15:04.002Z"
   }
 ]
