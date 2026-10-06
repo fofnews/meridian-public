@@ -1571,6 +1571,11 @@
           "date": "2026-10-06",
           "edition": "morning",
           "update": "Members of Mexican and Colombian drug cartels are reportedly joining Ukraine's International Legion, with mercenaries filmed fighting in Ukraine and allegedly seeking to learn drone warfare techniques, according to Al Jazeera."
+        },
+        {
+          "date": "2026-10-06",
+          "edition": "evening",
+          "update": "Ukraine launched a large-scale overnight drone attack targeting Moscow and multiple Russian regions, with Russian air defense forces intercepting a significant number of the drones. Separately, drones struck two ships in the Black Sea in Bulgarian waters, with one vessel sinking as a result, and crew members reported missing. European Commission President Ursula von der Leyen declared that attacks on civilian shipping in the Black Sea are unacceptable."
         }
       ],
       "parentId": null
@@ -1579,7 +1584,7 @@
       "id": "sinaloa-cartel-violence",
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-10-03",
+      "lastSeen": "2026-10-06",
       "active": true,
       "entries": [
         {
@@ -1761,6 +1766,11 @@
           "date": "2026-10-03",
           "edition": "morning",
           "update": "American high school students in Arizona are buying, stealing, and selling firearms being trafficked to Mexican cartels, driven by financial incentives and social status, according to the NY Times."
+        },
+        {
+          "date": "2026-10-06",
+          "edition": "evening",
+          "update": "Mexican authorities arrested Iván Cazarín Molina, known as 'El Tanque' or 'The Tank,' who is alleged to operate a large fuel theft network and is linked to homicides, kidnappings, and drug trafficking."
         }
       ],
       "parentId": null
@@ -4256,6 +4266,11 @@
           "date": "2026-10-06",
           "edition": "morning",
           "update": "At a political rally in Nebraska, President Trump made remarks suggesting Iran could 'take out' Los Angeles and San Diego. California Governor Gavin Newsom publicly criticized Trump over the comments."
+        },
+        {
+          "date": "2026-10-06",
+          "edition": "evening",
+          "update": "The White House pushed back on critics who condemned Trump's Nebraska rally comments suggesting Iran could 'take out' Los Angeles or San Diego, with California officials including Governor Newsom calling the remarks 'deranged and dangerous.' Separately, Russia issued a warning over Trump administration considerations to establish a new permanent U.S. military base in Lithuania, where approximately 1,000 U.S. troops currently rotate on a non-permanent basis."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -5024,7 +5039,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-10-05",
+      "lastSeen": "2026-10-06",
       "active": true,
       "entries": [
         {
@@ -5181,6 +5196,11 @@
           "date": "2026-10-05",
           "edition": "morning",
           "update": "An expert stated that North Korea's intermediate-range missile test has put Guam and parts of Alaska within striking range, even as President Trump continues to emphasize his personal relationship with Kim Jong Un."
+        },
+        {
+          "date": "2026-10-06",
+          "edition": "evening",
+          "update": "North Korea issued a warning of stronger action against South Korea in response to accusations that it planted landmines, according to Reuters."
         }
       ],
       "parentId": null
@@ -5233,7 +5253,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-10-05",
+      "lastSeen": "2026-10-06",
       "active": true,
       "entries": [
         {
@@ -5700,6 +5720,11 @@
           "date": "2026-10-05",
           "edition": "morning",
           "update": "Despite Trump administration claims that U.S. sanctions are shutting down all Iranian airlines, at least one Boeing jumbo jet continues to operate flights from Tehran to Southeast Asia, according to the New York Times."
+        },
+        {
+          "date": "2026-10-06",
+          "edition": "evening",
+          "update": "Iran has adopted new measures to counter U.S.-imposed economic pressure, including responses to sanctions and naval blockades, according to Al Jazeera."
         }
       ]
     },
@@ -6138,7 +6163,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-10-05",
+      "lastSeen": "2026-10-06",
       "active": true,
       "entries": [
         {
@@ -6850,6 +6875,11 @@
           "date": "2026-10-05",
           "edition": "evening",
           "update": "Brent crude oil prices held around $100 per barrel despite increased Middle Eastern oil flows, with Houthi forces fighting for control of Red Sea shipping lanes and sailors being offered $25,000 bonuses to transit the Strait of Hormuz. Saudi-led coalition airstrikes targeted Houthi positions in Yemen, and forces of the internationally recognized Yemeni Presidential Leadership Council claimed to have recaptured the Bab el-Mandeb Strait following a rapid advance supported by those strikes. A burst of tanker attacks in the Strait of Hormuz and strikes on Saudi oil infrastructure heightened energy trade security fears. Al Jazeera raised questions about whether Iran may be charging a covert toll for oil traffic through the strait, noting a surge in crude exports bypassing it in September."
+        },
+        {
+          "date": "2026-10-06",
+          "edition": "evening",
+          "update": "Pakistan and Turkey have joined Saudi Arabia's deterrence effort against Houthi forces in Yemen, with Islamabad characterizing its role as defensive. Houthi rebels launched airstrikes targeting King Abdullah bin Abdulaziz International Airport and Najran International Airport in Saudi Arabia. Senator Chris Murphy (D-CT) traveled to Saudi Arabia during the Houthi missile attacks, prompting the U.S. Embassy in Riyadh to issue a security alert for Americans in the country."
         }
       ]
     },
@@ -6938,7 +6968,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-10-01",
+      "lastSeen": "2026-10-06",
       "active": true,
       "entries": [
         {
@@ -7205,6 +7235,11 @@
           "date": "2026-10-01",
           "edition": "evening",
           "update": "A funeral was held in the Democratic Republic of the Congo for the politician killed following their defense of the country's Ebola response, according to Al Jazeera."
+        },
+        {
+          "date": "2026-10-06",
+          "edition": "evening",
+          "update": "Kenya confirmed its first Ebola case and first Ebola death, involving a Kenyan national who had been living in the Democratic Republic of Congo and died in Nairobi on Tuesday."
         }
       ]
     },
@@ -7688,7 +7723,7 @@
       "title": "US Cyberattacks and Infrastructure Security",
       "parentId": null,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-10-05",
+      "lastSeen": "2026-10-06",
       "active": true,
       "entries": [
         {
@@ -7895,6 +7930,11 @@
           "date": "2026-10-05",
           "edition": "morning",
           "update": "The U.S. accused a California woman of spying for China, including surveilling the son of Taiwan's president, according to Reuters."
+        },
+        {
+          "date": "2026-10-06",
+          "edition": "evening",
+          "update": "The FBI's internal review determined that a security failure by a contractor managing its jobs portal was responsible for a hack of the website, according to NBC News."
         }
       ]
     },
@@ -8070,6 +8110,11 @@
           "date": "2026-10-06",
           "edition": "morning",
           "update": "President Trump publicly confirmed the B-1 bombers were relocated from RAF Fairford due to 'some threats,' while Vice President Vance characterized the withdrawal as a precautionary measure. Separate reporting indicated the aircraft withdrawn were B-2 bombers, not B-1s."
+        },
+        {
+          "date": "2026-10-06",
+          "edition": "evening",
+          "update": "A seventh arrest has been made in connection with the RAF Fairford incident: a 22-year-old British national was detained in Westminster, London, on suspicion of preparation of terrorist acts under Section 5 of the Terrorism Act 2006. U.S. officials cited by Reuters confirmed that fears of an Iranian drone plot were the specific reason American bombers were removed from the UK base as a precautionary measure."
         }
       ]
     },
@@ -8144,5 +8189,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-06T11:07:28.669Z"
+  "updatedAt": "2026-10-06T21:11:20.282Z"
 }
