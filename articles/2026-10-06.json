@@ -292,5 +292,36 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-10-06T05:00:01.547Z"
+  },
+  {
+    "title": "Rise in babies in care proceedings raises fears of unnecessary adoptions, experts tell BBC",
+    "description": "With better support, many babies may not have needed to go into care, File on 4 Investigates is told.",
+    "link": "https://www.bbc.co.uk/news/articles/c52e9k3998e7o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 06 Oct 2026 05:00:32 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-10-06T05:15:01.328Z"
+  },
+  {
+    "title": "Violent clashes erupt after mass housing protest in Barcelona",
+    "description": "Protesters in Barcelona set fires, built barricades and hurled projectiles as violence erupted at a housing protest.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-6-barcelona-protests-clip-mp4?traffic_source=rss",
+    "pubDate": "Tue, 06 Oct 2026 04:34:51 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-10-06T05:15:01.328Z"
+  },
+  {
+    "title": "Quebec separatists win election reviving push for independence",
+    "description": "Parti Quebecois leader Paul St-Pierre Plamondon vows a future referendum on independence from Canada.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/quebec-separatists-win-election-reviving-push-for-independence?traffic_source=rss",
+    "pubDate": "Tue, 06 Oct 2026 04:34:16 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-10-06T05:15:01.328Z"
   }
 ]
