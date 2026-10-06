@@ -144,5 +144,69 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-10-06T04:15:04.859Z"
+  },
+  {
+    "title": "Potential Iranian Drone Attack Led to Exit of U.S. Aircraft From British Air Base",
+    "description": "According to U.S. and British officials, 12 B-1 Air Force bombers from R.A.F. Fairford air base were withdrawn because of the risk of a drone attack ordered by Iran’s Islamic Revolutionary Guard Corps.",
+    "link": "https://www.nytimes.com/2026/10/05/us/politics/iran-drone-attack-threat.html",
+    "pubDate": "Tue, 06 Oct 2026 04:18:00 +0000",
+    "source": "NY Times",
+    "categories": [
+      "us and israeli attack on iran (2026)",
+      "drones (pilotless planes)",
+      "military aircraft",
+      "united states defense and military forces",
+      "military bases and installations",
+      "war and armed conflicts",
+      "airlines and airplanes",
+      "international relations",
+      "islamic revolutionary guards corps",
+      "defense department",
+      "united states air force",
+      "trump, donald j",
+      "vance, j d",
+      "england",
+      "iran",
+      "royal air force fairford (gloucestershire, england, air base)"
+    ],
+    "collectedAt": "2026-10-06T04:30:01.247Z"
+  },
+  {
+    "title": "Jim Bakker, TV pastor who served time for defrauding followers, dies at 86",
+    "description": "Television pastor Jim Bakker, who served time in prison for defrauding his followers in the 1980s, has died.",
+    "link": "https://www.nbcnews.com/news/us-news/jim-bakker-tv-pastor-served-time-defrauding-followers-dies-86-rcna601803",
+    "pubDate": "Tue, 06 Oct 2026 04:15:51 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectedAt": "2026-10-06T04:30:01.247Z"
+  },
+  {
+    "title": "Jim Harbaugh Delivers Fiery Defense of Justin Herbert Amid Chargers' 0-4 Start",
+    "description": "Jim Harbaugh pushed back on a \"hero ball\" question and called Justin Herbert an \"amazing inspiration\" as the Chargers fall to 0-4.",
+    "link": "https://www.newsweek.com/sports/nfl/jim-harbaugh-delivers-fiery-defense-of-justin-herbert-amid-chargers-0-4-start-12527613",
+    "pubDate": "Tue, 06 Oct 2026 00:22:10 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectedAt": "2026-10-06T04:30:01.247Z"
+  },
+  {
+    "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+    "description": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+    "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 06 Oct 2026 04:25:22 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-10-06T04:30:01.247Z"
+  },
+  {
+    "title": "Mexican and Colombian cartel mercenaries filmed fighting in Ukraine",
+    "description": "Members of Mexican and Colombian cartels are reportedly joining Ukraine’s International Legion to learn drone warfare.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/mexican-and-colombian-cartel-mercenaries-filmed-fighting-in-ukraine?traffic_source=rss",
+    "pubDate": "Tue, 06 Oct 2026 04:07:48 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectedAt": "2026-10-06T04:30:01.247Z"
   }
 ]
