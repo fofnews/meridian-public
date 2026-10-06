@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-10-05",
+      "lastSeen": "2026-10-06",
       "active": true,
       "entries": [
         {
@@ -416,6 +416,11 @@
           "date": "2026-10-05",
           "edition": "evening",
           "update": "Prince Andrew is separately challenging the legal validity of search warrants issued for his homes in connection with his dealings with Jeffrey Epstein, a distinct legal action from his previously reported lawsuit against Thames Valley Police over his February arrest."
+        },
+        {
+          "date": "2026-10-06",
+          "edition": "morning",
+          "update": "UK MPs called for an investigation following the death of whistleblower Simon Andriesz, who had raised concerns linked to Howard Lutnick and Jeffrey Epstein and reportedly said he felt let down by the Financial Conduct Authority before his death, according to BBC News."
         }
       ],
       "parentId": null
@@ -599,7 +604,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-10-05",
+      "lastSeen": "2026-10-06",
       "active": true,
       "entries": [
         {
@@ -1561,6 +1566,11 @@
           "date": "2026-10-05",
           "edition": "evening",
           "update": "A Russian strike hit a Turkish-owned vessel carrying corn in the Black Sea, killing the ship's captain and injuring crew members, with eleven sailors rescued and Ukrainian President Zelensky condemning the attack. Residents of Russian-occupied Oleshky face severe food shortages, with some eating weeds amid dangers from drones, landmines, and feral dogs, according to Al Jazeera. Ukraine's frontline, stretching over 700 miles, has remained largely static for four years, with drone technology increasingly dominating the contested battle zone, according to NPR."
+        },
+        {
+          "date": "2026-10-06",
+          "edition": "morning",
+          "update": "Members of Mexican and Colombian drug cartels are reportedly joining Ukraine's International Legion, with mercenaries filmed fighting in Ukraine and allegedly seeking to learn drone warfare techniques, according to Al Jazeera."
         }
       ],
       "parentId": null
@@ -3034,7 +3044,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-10-04",
+      "lastSeen": "2026-10-06",
       "active": true,
       "entries": [
         {
@@ -4241,6 +4251,11 @@
           "date": "2026-10-04",
           "edition": "evening",
           "update": "Senior Trump administration officials including Vice President JD Vance, Secretary of State Marco Rubio, and Defense Secretary Pete Hegseth met at Camp David on Friday to discuss a potential path forward regarding Iran."
+        },
+        {
+          "date": "2026-10-06",
+          "edition": "morning",
+          "update": "At a political rally in Nebraska, President Trump made remarks suggesting Iran could 'take out' Los Angeles and San Diego. California Governor Gavin Newsom publicly criticized Trump over the comments."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -5195,7 +5210,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-10-05",
+      "lastSeen": "2026-10-06",
       "active": true
     },
     {
@@ -7288,7 +7303,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-10-04",
+      "lastSeen": "2026-10-06",
       "active": true,
       "entries": [
         {
@@ -7605,6 +7620,11 @@
           "date": "2026-10-04",
           "edition": "morning",
           "update": "Saudi-backed Yemeni government forces claimed to have killed approximately 700 Houthi rebels within a 24-hour period as they attempted to retake lost territory, according to Al Jazeera. Yemeni forces launched strikes on Sanaa as President Trump warned Tehran that a decision on Iran is coming, cautioning it would face consequences 'the hard way' if diplomacy fails. Somalia's President accused the Houthis of destabilizing the region and disrupting navigation through the Bab al-Mandeb strait, stating the group is 'not in a position' to bring peace to Yemen, according to Al Jazeera. Yemen's civil war has entered a new phase after Houthi forces seized the entire Red Sea coastline in a September offensive, though subsequent Houthi advances have been slowed by resistance from Presidential Leadership Council forces, according to the Washington Examiner."
+        },
+        {
+          "date": "2026-10-06",
+          "edition": "morning",
+          "update": "Turkey and Pakistan agreed during emergency talks in Riyadh to rapidly deploy forces to Saudi Arabia as part of the Mecca defence pact, according to Al Jazeera."
         }
       ]
     },
@@ -8023,7 +8043,7 @@
       "title": "RAF Fairford Incident and Iran Involvement",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-05",
+      "lastSeen": "2026-10-06",
       "active": true,
       "entries": [
         {
@@ -8045,6 +8065,11 @@
           "date": "2026-10-05",
           "edition": "morning",
           "update": "All 12 B-1 bombers deployed to RAF Fairford have been withdrawn and returned to their home stations in the United States in what officials described as a quick or rushed departure. Five men were arrested in connection with a suspected plot involving vans containing explosives parked near the base perimeter, with the arrests preceding the bomber withdrawal. The New York Times reported that a mysterious call near the base triggered a major counterterrorism response and days of uncertainty in Britain."
+        },
+        {
+          "date": "2026-10-06",
+          "edition": "morning",
+          "update": "President Trump publicly confirmed the B-1 bombers were relocated from RAF Fairford due to 'some threats,' while Vice President Vance characterized the withdrawal as a precautionary measure. Separate reporting indicated the aircraft withdrawn were B-2 bombers, not B-1s."
         }
       ]
     },
@@ -8053,7 +8078,7 @@
       "title": "Flydubai Flight Hijacking Incident",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-05",
+      "lastSeen": "2026-10-06",
       "active": true,
       "entries": [
         {
@@ -8110,9 +8135,14 @@
           "date": "2026-10-05",
           "edition": "evening",
           "update": "Multiple sources have confirmed that al-Hammami intended to crash Flight FZ1073 specifically into Ben Gurion Airport in Tel Aviv, with two senior U.S. officials, an Israeli source, and ABC News all corroborating this target. The BBC further reported that al-Hammami allegedly planned to crash the aircraft into a building at Tel Aviv airport, reinforcing the lone wolf characterization previously reported."
+        },
+        {
+          "date": "2026-10-06",
+          "edition": "morning",
+          "update": "Israeli sources told CBS News that Israel scrambled jets and was prepared to shoot down the FlyDubai flight despite more than 150 Israeli passengers being on board."
         }
       ]
     }
   ],
-  "updatedAt": "2026-10-05T21:10:52.821Z"
+  "updatedAt": "2026-10-06T11:07:28.669Z"
 }
