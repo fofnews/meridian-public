@@ -280,5 +280,45 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-10-07T05:30:01.444Z"
+  },
+  {
+    "title": "Man charged with GP's murder",
+    "description": "A man is charged with the murder of a GP who was found dead at her home.",
+    "link": "https://www.bbc.co.uk/news/articles/c64g1p3ry51do?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 07 Oct 2026 05:32:07 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectedAt": "2026-10-07T05:45:01.168Z"
+  },
+  {
+    "title": "Libya’s parliament removes Speaker Saleh after 12 years as discontent grows",
+    "description": "Eastern-based parliament votes to replace longtime speaker with Al-Salhin Abdelnabi al-Obeidi.",
+    "link": "https://www.aljazeera.com/news/2026/10/7/libyas-parliament-removes-speaker-aguila-saleh-after-12-years?traffic_source=rss",
+    "pubDate": "Wed, 07 Oct 2026 05:12:55 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-10-07T05:45:01.168Z"
+  },
+  {
+    "title": "Three years of Israel’s genocide in Gaza: In numbers",
+    "description": "Three years of attacks has devastated Gaza, killing tens of thousands, destroying homes, and collapsing basic services.",
+    "link": "https://www.aljazeera.com/news/2026/10/7/three-years-of-israels-genocide-in-gaza-in-numbers?traffic_source=rss",
+    "pubDate": "Wed, 07 Oct 2026 05:02:04 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectedAt": "2026-10-07T05:45:01.168Z"
+  },
+  {
+    "title": "Oil gains as US storm and Houthi air strikes threaten supply - Reuters",
+    "description": "Oil gains as US storm and Houthi air strikes threaten supply  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSHYwa2g1N1NQR1ZHcFR2eVJ3cjJySlZLVlA1UjBQeU9yNl81Z2tGYTk3TVk4V3JMcXh1LVpscTVDdTdrZGFOZjd4VWNzeXNEM1lHYmV5bDFzV2ZrN3NuQUE4VXV6cE16enQzSi1ZU3l1aXVPa00yVDkxeDRYbFI5WjhOVGR0VHFUMWNkWFMtNmxDSW9YRUtHY2pKWTlxTFRPclRzTA?oc=5",
+    "pubDate": "Wed, 07 Oct 2026 04:36:30 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectedAt": "2026-10-07T05:45:01.168Z"
   }
 ]
