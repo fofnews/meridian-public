@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-10-06",
+      "lastSeen": "2026-10-07",
       "active": true,
       "entries": [
         {
@@ -421,6 +421,11 @@
           "date": "2026-10-06",
           "edition": "morning",
           "update": "UK MPs called for an investigation following the death of whistleblower Simon Andriesz, who had raised concerns linked to Howard Lutnick and Jeffrey Epstein and reportedly said he felt let down by the Financial Conduct Authority before his death, according to BBC News."
+        },
+        {
+          "date": "2026-10-07",
+          "edition": "evening",
+          "update": "Leon Botstein, who stepped down as president of Bard College amid scrutiny over his ties to Jeffrey Epstein, remains at the institution as a teacher and continues to play a prominent role in its music programs, according to the New York Times."
         }
       ],
       "parentId": null
@@ -429,7 +434,7 @@
       "id": "iran-nuclear-talks",
       "title": "Iran Nuclear Talks",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-25",
+      "lastSeen": "2026-10-07",
       "active": true,
       "entries": [
         {
@@ -596,6 +601,11 @@
           "date": "2026-09-25",
           "edition": "morning",
           "update": "Iranian President Pezeshkian, in a Fox News interview on 'Special Report with Bret Baier,' said Iran's stockpile of enriched uranium stored underground 'is not a big deal' and claimed Iran does not want a nuclear weapon 'at all.' The UAE has barred Iranian airlines from its airspace, joining Oman, Iraq, Azerbaijan, Georgia, and Turkmenistan in restricting access to Iranian carriers amid tightening U.S. aviation sanctions."
+        },
+        {
+          "date": "2026-10-07",
+          "edition": "evening",
+          "update": "Vice President Vance appeared to soften the U.S. position on Iranian nuclear enrichment, stating Iran must do 'something meaningful on enrichment capacity' rather than demanding a complete halt, and separately said Iran must make a 'meaningful' reduction to its enriched uranium stockpile as a condition for progress in negotiations. Secretary of State Rubio claimed Tehran has 'lost complete control' of the Strait of Hormuz."
         }
       ],
       "parentId": null
@@ -1581,6 +1591,11 @@
           "date": "2026-10-07",
           "edition": "morning",
           "update": "Russia launched deadly overnight strikes targeting Ukrainian apartment buildings, with Zelenskyy describing one target as 'an ordinary five-story apartment building.' Ukraine has meanwhile reclaimed territory in the Donbas region, thwarting Russian efforts to encircle Ukrainian 'fortress belt' cities despite Moscow's claims the region's capture is inevitable, according to the New York Times. Trump campaign advisers James Blair and Chris LaCivita traveled to Republika Srpska to provide election advice to the Russia-aligned government there."
+        },
+        {
+          "date": "2026-10-07",
+          "edition": "evening",
+          "update": "Russian missile and drone strikes on Kyiv and other Ukrainian cities killed at least 19 civilians, including four children, and wounded 60, coinciding with Vladimir Putin's 74th birthday. Reuters reported details on Ukraine's ongoing attacks targeting Russian energy infrastructure, identifying specific sites and facilities struck during the conflict."
         }
       ],
       "parentId": null
@@ -4284,8 +4299,8 @@
       "id": "iran-strait-of-hormuz-crisis",
       "title": "Iran Strait of Hormuz Crisis",
       "firstSeen": "2026-03-10",
-      "lastSeen": "2026-08-17",
-      "active": false,
+      "lastSeen": "2026-10-07",
+      "active": true,
       "entries": [
         {
           "date": "2026-03-10",
@@ -4526,6 +4541,11 @@
           "date": "2026-08-17",
           "edition": "evening",
           "update": "Trump threatened to bomb Oman, using the phrase 'bomb the s— out of them,' if it interferes with activity related to the Strait of Hormuz, making the warning in a Monday morning call with Fox News. The threat came as a two-month negotiating deadline between the U.S. and Iran expired on Monday."
+        },
+        {
+          "date": "2026-10-07",
+          "edition": "evening",
+          "update": "An Iranian IRGC official announced that 'illegal routes' through the Strait of Hormuz will soon be blocked. The U.S. military has lost or damaged at least 81 aircraft and drones in the conflict with Iran, including F-15E Strike Eagles, an F-35A, and MQ-9 Reaper drones."
         }
       ],
       "parentId": null
@@ -4569,7 +4589,7 @@
       "id": "cuba-energy-crisis",
       "title": "Cuba Energy Crisis",
       "firstSeen": "2026-03-16",
-      "lastSeen": "2026-09-30",
+      "lastSeen": "2026-10-07",
       "active": true,
       "entries": [
         {
@@ -4796,6 +4816,11 @@
           "date": "2026-09-30",
           "edition": "evening",
           "update": "Viral illnesses are spreading across Havana as the city simultaneously faces failures in both water and power infrastructure, according to Reuters."
+        },
+        {
+          "date": "2026-10-07",
+          "edition": "evening",
+          "update": "The U.S. intercepted 90 Cuba-bound shipments of biodiesel valued at approximately $3 million, according to CBS News, as part of a widening oil blockade aimed at cutting off fuel supplies to Cuba."
         }
       ],
       "parentId": null
@@ -5220,7 +5245,7 @@
       "title": "Journalist Abductions and Releases",
       "firstSeen": "2026-04-07",
       "lastSeen": "2026-04-08",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-04-07",
@@ -8204,5 +8229,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-07T11:08:45.201Z"
+  "updatedAt": "2026-10-07T21:09:49.977Z"
 }
