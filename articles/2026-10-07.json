@@ -229,5 +229,56 @@
     "source": "New York Post",
     "categories": [],
     "collectedAt": "2026-10-07T05:15:01.262Z"
+  },
+  {
+    "title": "Padres hold off Brewers in must-win Game 3 to survive elimination and force Game 4 at Petco Park",
+    "description": "Michael King stranded the tying run in the ninth as the San Diego Padres staved off elimination with a 4-3 NLDS Game 3 win over the Brewers.",
+    "link": "https://www.foxnews.com/outkick-sports/padres-hold-off-brewers-must-win-game-3-survive-elimination-force-game-4-petco-park",
+    "pubDate": "Wed, 07 Oct 2026 01:15:18 -0400",
+    "source": "Fox News",
+    "categories": [
+      "53fd216a-1724-5a93-8440-c3c0c4fb3b6d",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/sports/mlb",
+      "fox-news/sports/mlb/san-diego-padres",
+      "fox-news/sports/mlb/milwaukee-brewers",
+      "fox-news/person/fernando-tatis-jr",
+      "fox-news/outkick/betting",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectedAt": "2026-10-07T05:30:01.444Z"
+  },
+  {
+    "title": "French PM rejects police brutality claims after teens severely injured in protests: 'Accidents happen'",
+    "description": "French Prime Minister Sébastien Lecornu defended the police response after a teen lost his hand and another was blinded amid student protests.",
+    "link": "https://www.foxnews.com/world/french-pm-rejects-police-brutality-claims-teens-severely-injured-protests-accidents-happen",
+    "pubDate": "Wed, 07 Oct 2026 01:09:27 -0400",
+    "source": "Fox News",
+    "categories": [
+      "efccf36d-a482-5a78-acd0-d04f13a61bbf",
+      "fnc",
+      "fox news",
+      "fox-news/world/world-regions/france",
+      "fox-news/world/world-protests",
+      "fox-news/world",
+      "fox-news/person/emmanuel-macron",
+      "fox-news/controversies",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/world",
+      "article"
+    ],
+    "collectedAt": "2026-10-07T05:30:01.444Z"
+  },
+  {
+    "title": "Denver man’s escape exposes chilling Tren de Aragua kidnapping plot that lands trio in prison",
+    "description": "The alleged victim survived days of abuse before escaping and walking into a police station missing a finger, prosecutors said.",
+    "link": "https://nypost.com/2026/10/07/us-news/denver-man-escapes-torture-chamber-home-directed-by-tren-de-aragua-leaders/",
+    "pubDate": "Wed, 07 Oct 2026 01:21:09 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectedAt": "2026-10-07T05:30:01.444Z"
   }
 ]
