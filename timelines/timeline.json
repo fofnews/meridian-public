@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-08",
       "active": true,
       "entries": [
         {
@@ -426,6 +426,11 @@
           "date": "2026-10-07",
           "edition": "evening",
           "update": "Leon Botstein, who stepped down as president of Bard College amid scrutiny over his ties to Jeffrey Epstein, remains at the institution as a teacher and continues to play a prominent role in its music programs, according to the New York Times."
+        },
+        {
+          "date": "2026-10-08",
+          "edition": "morning",
+          "update": "Leon Botstein resigned from his remaining positions at Bard College following revelations that emails showed he had maintained a longtime friendship with Jeffrey Epstein, according to the New York Times. Botstein had already stepped down from the college presidency earlier in the spring."
         }
       ],
       "parentId": null
@@ -614,7 +619,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-08",
       "active": true,
       "entries": [
         {
@@ -1596,6 +1601,11 @@
           "date": "2026-10-07",
           "edition": "evening",
           "update": "Russian missile and drone strikes on Kyiv and other Ukrainian cities killed at least 19 civilians, including four children, and wounded 60, coinciding with Vladimir Putin's 74th birthday. Reuters reported details on Ukraine's ongoing attacks targeting Russian energy infrastructure, identifying specific sites and facilities struck during the conflict."
+        },
+        {
+          "date": "2026-10-08",
+          "edition": "morning",
+          "update": "A bomb attack on a bus in Kramatorsk, eastern Ukraine killed at least 30 people, according to Ukrainian authorities, amid intensifying Russian strikes across the country. Germany's AfD party called for an end to German support for Ukraine, according to Reuters. Ukraine continues to face a critical shortage of combat-ready troops at the front lines, according to ABC News."
         }
       ],
       "parentId": null
@@ -2479,7 +2489,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-10-04",
+      "lastSeen": "2026-10-08",
       "active": true,
       "entries": [
         {
@@ -3066,6 +3076,11 @@
           "date": "2026-10-04",
           "edition": "morning",
           "update": "Israeli settlers attacked Palestinian farmers during the olive harvest season, according to Al Jazeera, with no further details provided on the location or number of those involved."
+        },
+        {
+          "date": "2026-10-08",
+          "edition": "morning",
+          "update": "UNIFIL reported that small arms fire targeted an Israeli border post with no casualties among peacekeeping personnel, according to Al Jazeera. Israel announced that most UK diplomats will be required to leave the East Jerusalem consulate in retaliation for UK sanctions on illegal Israeli settlements in the West Bank, with UK Foreign Secretary David Miliband stating that 'vital services' would continue despite the reduction in diplomatic presence."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3074,7 +3089,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-10-06",
+      "lastSeen": "2026-10-08",
       "active": true,
       "entries": [
         {
@@ -4291,6 +4306,11 @@
           "date": "2026-10-06",
           "edition": "evening",
           "update": "The White House pushed back on critics who condemned Trump's Nebraska rally comments suggesting Iran could 'take out' Los Angeles or San Diego, with California officials including Governor Newsom calling the remarks 'deranged and dangerous.' Separately, Russia issued a warning over Trump administration considerations to establish a new permanent U.S. military base in Lithuania, where approximately 1,000 U.S. troops currently rotate on a non-permanent basis."
+        },
+        {
+          "date": "2026-10-08",
+          "edition": "morning",
+          "update": "CBS News obtained footage showing an Iranian attack on a major U.S. base in Kuwait filmed at the start of the war. The U.S. pulled out B-1 bombers that had been deployed in the Middle East, according to The Washington Post. At a Texas rally, Trump doubled down on comments about Iran striking Los Angeles and San Diego, then partially walked back the remarks at a San Antonio rally, reframing them to suggest Iran would only be capable of such attacks if it possessed nuclear weapons. A White House aide clarified Trump was not calling for attacks on U.S. cities but explaining how he is working to prevent them. The Pentagon is preparing for possible military strikes against Iran as Trump weighs potential action. U.S. stocks declined and oil prices fluctuated amid renewed fears over potential Iran conflict and concerns about Middle East supply disruptions."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4554,8 +4574,8 @@
       "id": "hezbollah-us-operations",
       "title": "Hezbollah US Operations",
       "firstSeen": "2026-03-15",
-      "lastSeen": "2026-04-19",
-      "active": false,
+      "lastSeen": "2026-10-08",
+      "active": true,
       "entries": [
         {
           "date": "2026-03-15",
@@ -4581,6 +4601,11 @@
           "date": "2026-04-19",
           "edition": "evening",
           "update": "Shamim Mafi was arrested by federal authorities at LAX and accused of brokering sales of Iranian-made weapons, including drones and bombs, allegedly sold to Sudan."
+        },
+        {
+          "date": "2026-10-08",
+          "edition": "morning",
+          "update": "An Iranian drone plot in England has been reported, raising concerns about security threats in the UK, according to National Review."
         }
       ],
       "parentId": null
@@ -4884,7 +4909,7 @@
       "id": "artemis-moon-mission",
       "title": "Artemis Moon Mission",
       "firstSeen": "2026-03-23",
-      "lastSeen": "2026-10-05",
+      "lastSeen": "2026-10-08",
       "active": true,
       "entries": [
         {
@@ -5061,6 +5086,11 @@
           "date": "2026-10-05",
           "edition": "morning",
           "update": "A race for nuclear power development on the Moon has emerged as a notable story, according to the New York Times."
+        },
+        {
+          "date": "2026-10-08",
+          "edition": "morning",
+          "update": "Jeff Bezos unveiled Blue Origin's vision including plans for orbital data centers, a sustainable lunar base, and launching rockets every minute from Cape Canaveral, according to Fox News."
         }
       ],
       "parentId": null
@@ -5265,7 +5295,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-08",
       "active": true
     },
     {
@@ -5863,7 +5893,7 @@
       "title": "Cuba Military Intervention",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-04-29",
-      "lastSeen": "2026-09-29",
+      "lastSeen": "2026-10-08",
       "active": true,
       "entries": [
         {
@@ -5950,6 +5980,11 @@
           "date": "2026-09-29",
           "edition": "evening",
           "update": "Secretary of State Marco Rubio declared on Fox News that Cuba has 'already fallen' and is a 'failed state,' citing the country's lack of a functional economy."
+        },
+        {
+          "date": "2026-10-08",
+          "edition": "morning",
+          "update": "The U.S. seized $3 million worth of fuel shipments destined for Cuba as part of an ongoing crackdown on such transfers, according to Reuters."
         }
       ]
     },
@@ -7373,7 +7408,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-08",
       "active": true,
       "entries": [
         {
@@ -7700,6 +7735,11 @@
           "date": "2026-10-07",
           "edition": "morning",
           "update": "Houthi forces attacked Saudi Arabia's Jazan and Najran airports, prompting retaliatory Saudi-led coalition air strikes against Houthi positions in Yemen. Yemeni forces launched an offensive to retake the strategically important mountainous district of al-Waziiya in Taiz, which is key to controlling the Red Sea port of Mocha, and separately claimed control of the highest peak in the Jabal Habashi district of Taiz. Saudi Arabia and its allies formally activated a mutual defense pact in response to the ongoing Houthi attacks."
+        },
+        {
+          "date": "2026-10-08",
+          "edition": "morning",
+          "update": "Saudi-backed Yemeni forces claimed advances in the mountain belt of western Taiz province, asserting control of key heights overlooking the coast, according to Al Jazeera. Yemeni government forces separately claimed they carried out 2,103 'precise targeting operations,' neutralizing 1,860 Houthis. Palestinians in Gaza continue to face Israeli strikes and remain living in cramped tent cities, with the U.S.-backed plan to end the war reported to be largely stalled despite a ceasefire agreement."
         }
       ]
     },
@@ -8163,7 +8203,7 @@
       "title": "Flydubai Flight Hijacking Incident",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-06",
+      "lastSeen": "2026-10-08",
       "active": true,
       "entries": [
         {
@@ -8225,9 +8265,14 @@
           "date": "2026-10-06",
           "edition": "morning",
           "update": "Israeli sources told CBS News that Israel scrambled jets and was prepared to shoot down the FlyDubai flight despite more than 150 Israeli passengers being on board."
+        },
+        {
+          "date": "2026-10-08",
+          "edition": "morning",
+          "update": "Saudi Arabia has launched an air safety investigation into an incident involving FlyDubai, according to Reuters, with no further details disclosed about the nature of the incident."
         }
       ]
     }
   ],
-  "updatedAt": "2026-10-07T21:09:49.977Z"
+  "updatedAt": "2026-10-08T11:26:12.240Z"
 }
