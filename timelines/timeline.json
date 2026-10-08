@@ -1606,6 +1606,11 @@
           "date": "2026-10-08",
           "edition": "morning",
           "update": "A bomb attack on a bus in Kramatorsk, eastern Ukraine killed at least 30 people, according to Ukrainian authorities, amid intensifying Russian strikes across the country. Germany's AfD party called for an end to German support for Ukraine, according to Reuters. Ukraine continues to face a critical shortage of combat-ready troops at the front lines, according to ABC News."
+        },
+        {
+          "date": "2026-10-08",
+          "edition": "evening",
+          "update": "Secretary of State Marco Rubio described the war in Ukraine as being at a 'dangerous stalemate,' according to Reuters. The death toll from the Russian strike on a passenger bus in Kramatorsk has been reported variously at 30, 33, and 35, with Reuters and the New York Post describing it as one of the largest single attacks of the year."
         }
       ],
       "parentId": null
@@ -1809,7 +1814,7 @@
       "id": "iran-protests-and-crackdown",
       "title": "Iran Protests and Crackdown",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-09-28",
+      "lastSeen": "2026-10-08",
       "active": true,
       "entries": [
         {
@@ -1896,6 +1901,11 @@
           "date": "2026-09-28",
           "edition": "evening",
           "update": "An Iranian court upheld a sentence of lashes against singer Parastoo Ahmadi, who was convicted of 'offending public decency' after performing without a hijab in a sleeveless dress during a livestreamed concert, according to BBC News."
+        },
+        {
+          "date": "2026-10-08",
+          "edition": "evening",
+          "update": "Iran has intensified repression by targeting protesters both domestically and internationally, with Reuters describing the campaign as a new era of state-led pursuit of dissidents at home and abroad."
         }
       ],
       "parentId": null
@@ -4311,6 +4321,11 @@
           "date": "2026-10-08",
           "edition": "morning",
           "update": "CBS News obtained footage showing an Iranian attack on a major U.S. base in Kuwait filmed at the start of the war. The U.S. pulled out B-1 bombers that had been deployed in the Middle East, according to The Washington Post. At a Texas rally, Trump doubled down on comments about Iran striking Los Angeles and San Diego, then partially walked back the remarks at a San Antonio rally, reframing them to suggest Iran would only be capable of such attacks if it possessed nuclear weapons. A White House aide clarified Trump was not calling for attacks on U.S. cities but explaining how he is working to prevent them. The Pentagon is preparing for possible military strikes against Iran as Trump weighs potential action. U.S. stocks declined and oil prices fluctuated amid renewed fears over potential Iran conflict and concerns about Middle East supply disruptions."
+        },
+        {
+          "date": "2026-10-08",
+          "edition": "evening",
+          "update": "Trump announced the U.S. will not attack Iran before the midterm elections and posted on Truth Social that his administration is having 'productive discussions with the Islamic Republic of Iran.' The White House stated that the Commander-in-Chief retains all options at any time. Oil prices surged, with Brent crude rising 4.4% to $104.60 per barrel and WTI jumping 3.91%, as reports emerged that the White House is weighing new strike options against Iran. Newly obtained CBS News footage shows an Iranian drone flying over Camp Buehring in Kuwait before striking a building, with a U.S. service member describing low ammunition at the base and saying Iran 'hit us bad.' Iran has also reportedly targeted U.S. military bases in Germany, according to Newsmax."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -6058,7 +6073,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-10-03",
+      "lastSeen": "2026-10-08",
       "active": true,
       "entries": [
         {
@@ -6225,6 +6240,11 @@
           "date": "2026-10-03",
           "edition": "evening",
           "update": "U.S.-Russia negotiations over ending the Ukraine war now include a multibillion-dollar oil deal that would benefit Middle Eastern business executives connected to Special Envoy Steve Witkoff and Jared Kushner, Trump's son-in-law, according to the NY Times. Investors linked to Kushner have been separately drawn into discussions surrounding the administration's talks with Russia, according to Newsmax."
+        },
+        {
+          "date": "2026-10-08",
+          "edition": "evening",
+          "update": "India, Türkiye, Egypt, and the U.S. have each put forward separate ceasefire proposals aimed at brokering a truce, with efforts focused on protecting global energy supplies and shipping routes. Ukrainian negotiators are set to visit the United States for talks on Friday, according to President Zelenskyy."
         }
       ]
     },
@@ -6233,7 +6253,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-10-06",
+      "lastSeen": "2026-10-08",
       "active": true,
       "entries": [
         {
@@ -6950,6 +6970,11 @@
           "date": "2026-10-06",
           "edition": "evening",
           "update": "Pakistan and Turkey have joined Saudi Arabia's deterrence effort against Houthi forces in Yemen, with Islamabad characterizing its role as defensive. Houthi rebels launched airstrikes targeting King Abdullah bin Abdulaziz International Airport and Najran International Airport in Saudi Arabia. Senator Chris Murphy (D-CT) traveled to Saudi Arabia during the Houthi missile attacks, prompting the U.S. Embassy in Riyadh to issue a security alert for Americans in the country."
+        },
+        {
+          "date": "2026-10-08",
+          "edition": "evening",
+          "update": "Tanker captains transiting the Strait of Hormuz are reportedly earning salaries of $100,000 plus an additional $50,000 bonus per trip amid heightened tensions with Iran, according to Al Jazeera."
         }
       ]
     },
@@ -7740,6 +7765,11 @@
           "date": "2026-10-08",
           "edition": "morning",
           "update": "Saudi-backed Yemeni forces claimed advances in the mountain belt of western Taiz province, asserting control of key heights overlooking the coast, according to Al Jazeera. Yemeni government forces separately claimed they carried out 2,103 'precise targeting operations,' neutralizing 1,860 Houthis. Palestinians in Gaza continue to face Israeli strikes and remain living in cramped tent cities, with the U.S.-backed plan to end the war reported to be largely stalled despite a ceasefire agreement."
+        },
+        {
+          "date": "2026-10-08",
+          "edition": "evening",
+          "update": "Houthi rebels claimed responsibility for ballistic missile strikes on King Khalid International Airport in Riyadh, Saudi Arabia's capital, with authorities describing the attacks as the deadliest Houthi strikes on Saudi Arabia so far, killing three people and prompting an airport evacuation. A day later, additional unexplained explosions rattled Riyadh, with smoke seen rising from an aircraft at the airport, according to Reuters. The strikes sent oil prices sharply higher and triggered a decline in U.S. stock futures."
         }
       ]
     },
@@ -8163,7 +8193,7 @@
       "title": "RAF Fairford Incident and Iran Involvement",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-06",
+      "lastSeen": "2026-10-08",
       "active": true,
       "entries": [
         {
@@ -8195,6 +8225,11 @@
           "date": "2026-10-06",
           "edition": "evening",
           "update": "A seventh arrest has been made in connection with the RAF Fairford incident: a 22-year-old British national was detained in Westminster, London, on suspicion of preparation of terrorist acts under Section 5 of the Terrorism Act 2006. U.S. officials cited by Reuters confirmed that fears of an Iranian drone plot were the specific reason American bombers were removed from the UK base as a precautionary measure."
+        },
+        {
+          "date": "2026-10-08",
+          "edition": "evening",
+          "update": "The seventh and final man arrested in connection with the RAF Fairford incident has been released on bail, leaving all seven suspects — each in their 20s — on police bail while specialist teams continue their investigation, according to CBS News. Separately, two Latvian nationals were arrested at RAF Molesworth, a U.S.-used airbase in Cambridgeshire, on suspicion of trespass."
         }
       ]
     },
@@ -8274,5 +8309,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-08T11:26:12.240Z"
+  "updatedAt": "2026-10-08T21:25:17.723Z"
 }
