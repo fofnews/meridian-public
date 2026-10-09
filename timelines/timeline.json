@@ -1621,6 +1621,11 @@
           "date": "2026-10-09",
           "edition": "morning",
           "update": "The Kremlin stated that Russia agrees with U.S. Secretary of State Marco Rubio's assessment that the Ukraine conflict is at a stalemate. Russian strikes killed 2 people and wounded 5 more in the latest attacks, as the cumulative death toll from strikes over the past three days surpassed 50. Some Kyiv residents are reportedly considering leaving the capital as Russia renews its campaign targeting power and energy infrastructure ahead of winter."
+        },
+        {
+          "date": "2026-10-09",
+          "edition": "evening",
+          "update": "Ukrainian forces achieved four new breakthroughs along the front line, advancing east of Slovyansk and Kramatorsk in the eastern Donbas region, according to Newsweek, with Russia retreating from settlements it once firmly held. Ukraine conducted drone strikes targeting Yandex's AI data infrastructure, hitting a second Yandex data center within two days, with the company confirming to Newsweek that several data center modules were completely knocked out of service. Ukraine also continued strikes on Russian missile plants and oil refineries."
         }
       ],
       "parentId": null
@@ -4356,6 +4361,11 @@
           "date": "2026-10-09",
           "edition": "morning",
           "update": "President Trump clarified that his comment suggesting Iran could 'take out' Los Angeles was misinterpreted, according to Reuters, without detailing what the intended meaning was."
+        },
+        {
+          "date": "2026-10-09",
+          "edition": "evening",
+          "update": "Trump announced a deal with Putin to supply approximately 300,000 tons of Russian diesel fuel to the U.S. and global market, citing the Iran war as a driver of elevated diesel prices. Trump teased the agreement at a Columbus Day White House event before confirming he had concluded the deal directly with Putin. Treasury Secretary Bessent announced the U.S. is moving toward the 'absolute isolation' of Iran and plans to seize approximately $1 billion in cryptocurrency. The Washington Post reported the Trump administration is shifting from earlier pledges of swift results to preparing for a prolonged economic campaign against Iran."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4656,6 +4666,11 @@
           "date": "2026-10-09",
           "edition": "morning",
           "update": "OpenAI banned accounts linked to covert influence operations based in Iran and Russia, disclosing the action in a safety report. The Russian operation represented the greatest reach the company has recorded since it began tracking such campaigns, with operatives using ChatGPT to push political agendas and, in one newly disclosed activity, to update supervisors on their operations."
+        },
+        {
+          "date": "2026-10-09",
+          "edition": "evening",
+          "update": "An Iranian influence campaign planted fake articles in real U.S. publications using ChatGPT, according to the Washington Post, marking a documented case of AI-generated content used in foreign disinformation operations targeting American media outlets."
         }
       ],
       "parentId": null
@@ -5146,6 +5161,11 @@
           "date": "2026-10-09",
           "edition": "morning",
           "update": "Margaret Hamilton, the computer scientist who led development of the onboard flight software for NASA's Apollo moon program, has died at age 90, according to ABC News."
+        },
+        {
+          "date": "2026-10-09",
+          "edition": "evening",
+          "update": "President Trump announced that the U.S. will establish a permanent lunar presence, with NASA plans outlining what a moon base could look like."
         }
       ],
       "parentId": null
@@ -5154,7 +5174,7 @@
       "id": "north-korea-nuclear-escalation",
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
-      "lastSeen": "2026-10-07",
+      "lastSeen": "2026-10-09",
       "active": true,
       "entries": [
         {
@@ -5321,6 +5341,11 @@
           "date": "2026-10-07",
           "edition": "morning",
           "update": "North Korea issued a warning to the United States over Taiwan while Kim Jong Un pledged continued support for Russia, according to Reuters."
+        },
+        {
+          "date": "2026-10-09",
+          "edition": "evening",
+          "update": "NATO announced it is launching nuclear drills scheduled to begin early the following week, following Putin's warnings related to the Baltic Sea, stating the exercise is 'not linked to current world events.'"
         }
       ],
       "parentId": null
@@ -6300,6 +6325,11 @@
           "date": "2026-10-09",
           "edition": "morning",
           "update": "Trump envoys are set to pitch new peace proposals for Ukraine, with the effort timed ahead of the midterm elections, according to Newsmax."
+        },
+        {
+          "date": "2026-10-09",
+          "edition": "evening",
+          "update": "Jared Kushner and Steve Witkoff will present a comprehensive new peace plan to a Ukrainian delegation visiting the U.S., according to a senior U.S. administration official, in talks aimed at breaking the impasse in ending the war with Russia."
         }
       ]
     },
@@ -7035,6 +7065,11 @@
           "date": "2026-10-09",
           "edition": "morning",
           "update": "Additional unexplained explosions were reported rattling the Saudi capital following the earlier Houthi strikes on Riyadh's King Khalid International Airport."
+        },
+        {
+          "date": "2026-10-09",
+          "edition": "evening",
+          "update": "According to Reuters, a Trump envoy maintained financial ties to a company involved in a $15 billion plan to build an oil pipeline bypassing the Strait of Hormuz."
         }
       ]
     },
@@ -7840,6 +7875,11 @@
           "date": "2026-10-09",
           "edition": "morning",
           "update": "Islamic Relief reported to Al Jazeera that Israel has been killing or wounding a Palestinian every 90 minutes in Gaza since the ceasefire, calling for global action as humanitarian conditions worsen. An Israeli air strike hit a residential building in the al-Sabra neighbourhood of Gaza City, killing several people including children. Negotiations are reported to be underway in a final push to secure the release of hostages taken during the October 7 Hamas attack on Israel."
+        },
+        {
+          "date": "2026-10-09",
+          "edition": "evening",
+          "update": "Lufthansa and Indian airlines suspended service to Riyadh following explosions in the Saudi capital, according to AP News. At least 19 Israeli settler attacks targeting Palestinian olive harvests were recorded across the West Bank on Friday, while Israeli forces detained 16 Palestinians, according to Al Jazeera."
         }
       ]
     },
@@ -8123,7 +8163,7 @@
       "title": "Airport Security Threats and Explosive Device Incidents",
       "parentId": null,
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-10-04",
+      "lastSeen": "2026-10-09",
       "active": true,
       "entries": [
         {
@@ -8205,6 +8245,11 @@
           "date": "2026-10-04",
           "edition": "morning",
           "update": "Al Qaeda issued a call for copycat attacks targeting U.S. citizens on planes, praising the Dubai flight hijacker, identified as an Omani national who previously worked for Oman Air and Air Maroc before being fired after radical ideology was discovered on his cell phone. The TSA implemented a new rule requiring ID-check officers at airport security checkpoints to stand rather than sit, removing their chairs; the TSA workers' union raised concerns about potential foot and back health risks for affected employees."
+        },
+        {
+          "date": "2026-10-09",
+          "edition": "evening",
+          "update": "Democratic Sen. Chris Murphy accused the Trump administration of conducting a 'cover-up' linked to the Iran war after he was blocked from accessing a U.S. military base, according to CBS News."
         }
       ]
     },
@@ -8308,7 +8353,7 @@
       "title": "Flydubai Flight Hijacking Incident",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-08",
+      "lastSeen": "2026-10-09",
       "active": true,
       "entries": [
         {
@@ -8375,6 +8420,11 @@
           "date": "2026-10-08",
           "edition": "morning",
           "update": "Saudi Arabia has launched an air safety investigation into an incident involving FlyDubai, according to Reuters, with no further details disclosed about the nature of the incident."
+        },
+        {
+          "date": "2026-10-09",
+          "edition": "evening",
+          "update": "The UAE attorney general announced that the FlyDubai co-pilot had intended to crash the aircraft into an Israeli airport, stating he was inspired by the September 11 attacks following years of radicalization."
         }
       ]
     },
@@ -8394,5 +8444,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-09T11:23:33.939Z"
+  "updatedAt": "2026-10-09T21:26:47.018Z"
 }
