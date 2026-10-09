@@ -4,7 +4,7 @@
       "id": "epstein-investigation",
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-10-08",
+      "lastSeen": "2026-10-09",
       "active": true,
       "entries": [
         {
@@ -431,6 +431,11 @@
           "date": "2026-10-08",
           "edition": "morning",
           "update": "Leon Botstein resigned from his remaining positions at Bard College following revelations that emails showed he had maintained a longtime friendship with Jeffrey Epstein, according to the New York Times. Botstein had already stepped down from the college presidency earlier in the spring."
+        },
+        {
+          "date": "2026-10-09",
+          "edition": "morning",
+          "update": "Epstein survivor Annie Farmer publicly expressed support for former Ohio State University students seeking to remove Les Wexner's name from campus buildings, aligning with those who sued OSU over alleged sexual abuse by a campus doctor."
         }
       ],
       "parentId": null
@@ -619,7 +624,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-10-08",
+      "lastSeen": "2026-10-09",
       "active": true,
       "entries": [
         {
@@ -1611,6 +1616,11 @@
           "date": "2026-10-08",
           "edition": "evening",
           "update": "Secretary of State Marco Rubio described the war in Ukraine as being at a 'dangerous stalemate,' according to Reuters. The death toll from the Russian strike on a passenger bus in Kramatorsk has been reported variously at 30, 33, and 35, with Reuters and the New York Post describing it as one of the largest single attacks of the year."
+        },
+        {
+          "date": "2026-10-09",
+          "edition": "morning",
+          "update": "The Kremlin stated that Russia agrees with U.S. Secretary of State Marco Rubio's assessment that the Ukraine conflict is at a stalemate. Russian strikes killed 2 people and wounded 5 more in the latest attacks, as the cumulative death toll from strikes over the past three days surpassed 50. Some Kyiv residents are reportedly considering leaving the capital as Russia renews its campaign targeting power and energy infrastructure ahead of winter."
         }
       ],
       "parentId": null
@@ -1814,7 +1824,7 @@
       "id": "iran-protests-and-crackdown",
       "title": "Iran Protests and Crackdown",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-10-08",
+      "lastSeen": "2026-10-09",
       "active": true,
       "entries": [
         {
@@ -1906,6 +1916,11 @@
           "date": "2026-10-08",
           "edition": "evening",
           "update": "Iran has intensified repression by targeting protesters both domestically and internationally, with Reuters describing the campaign as a new era of state-led pursuit of dissidents at home and abroad."
+        },
+        {
+          "date": "2026-10-09",
+          "edition": "morning",
+          "update": "Iranian protester Alireza Sepahi was executed at Isfahan Central Prison; he had married his imprisoned fiancée over a jail phone line just hours before his hanging, according to Fox News."
         }
       ],
       "parentId": null
@@ -1914,7 +1929,7 @@
       "id": "iran-israel-military-conflict",
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-10-04",
+      "lastSeen": "2026-10-09",
       "active": true,
       "entries": [
         {
@@ -2286,6 +2301,11 @@
           "date": "2026-10-04",
           "edition": "evening",
           "update": "Two suspected Iranian plots — one near RAF Fairford in the UK and one linked to the Flydubai flight — have raised concerns among experts about Iran potentially escalating its shadow war against the United States and Israel, according to Fox News."
+        },
+        {
+          "date": "2026-10-09",
+          "edition": "morning",
+          "update": "Iranian media outlet Fars News reported 'massive explosions' near the Strait of Hormuz, citing unnamed military sources, according to Al Jazeera."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -2499,7 +2519,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-10-08",
+      "lastSeen": "2026-10-09",
       "active": true,
       "entries": [
         {
@@ -3091,6 +3111,11 @@
           "date": "2026-10-08",
           "edition": "morning",
           "update": "UNIFIL reported that small arms fire targeted an Israeli border post with no casualties among peacekeeping personnel, according to Al Jazeera. Israel announced that most UK diplomats will be required to leave the East Jerusalem consulate in retaliation for UK sanctions on illegal Israeli settlements in the West Bank, with UK Foreign Secretary David Miliband stating that 'vital services' would continue despite the reduction in diplomatic presence."
+        },
+        {
+          "date": "2026-10-09",
+          "edition": "morning",
+          "update": "Britain removed signage from its East Jerusalem consulate as an Israeli shutdown deadline expired, marking a concrete step in the closure of the British diplomatic presence there."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3099,7 +3124,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-10-08",
+      "lastSeen": "2026-10-09",
       "active": true,
       "entries": [
         {
@@ -4326,6 +4351,11 @@
           "date": "2026-10-08",
           "edition": "evening",
           "update": "Trump announced the U.S. will not attack Iran before the midterm elections and posted on Truth Social that his administration is having 'productive discussions with the Islamic Republic of Iran.' The White House stated that the Commander-in-Chief retains all options at any time. Oil prices surged, with Brent crude rising 4.4% to $104.60 per barrel and WTI jumping 3.91%, as reports emerged that the White House is weighing new strike options against Iran. Newly obtained CBS News footage shows an Iranian drone flying over Camp Buehring in Kuwait before striking a building, with a U.S. service member describing low ammunition at the base and saying Iran 'hit us bad.' Iran has also reportedly targeted U.S. military bases in Germany, according to Newsmax."
+        },
+        {
+          "date": "2026-10-09",
+          "edition": "morning",
+          "update": "President Trump clarified that his comment suggesting Iran could 'take out' Los Angeles was misinterpreted, according to Reuters, without detailing what the intended meaning was."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4589,7 +4619,7 @@
       "id": "hezbollah-us-operations",
       "title": "Hezbollah US Operations",
       "firstSeen": "2026-03-15",
-      "lastSeen": "2026-10-08",
+      "lastSeen": "2026-10-09",
       "active": true,
       "entries": [
         {
@@ -4621,6 +4651,11 @@
           "date": "2026-10-08",
           "edition": "morning",
           "update": "An Iranian drone plot in England has been reported, raising concerns about security threats in the UK, according to National Review."
+        },
+        {
+          "date": "2026-10-09",
+          "edition": "morning",
+          "update": "OpenAI banned accounts linked to covert influence operations based in Iran and Russia, disclosing the action in a safety report. The Russian operation represented the greatest reach the company has recorded since it began tracking such campaigns, with operatives using ChatGPT to push political agendas and, in one newly disclosed activity, to update supervisors on their operations."
         }
       ],
       "parentId": null
@@ -4870,7 +4905,7 @@
       "title": "Cesar Chavez Sexual Abuse Investigation",
       "firstSeen": "2026-03-18",
       "lastSeen": "2026-09-09",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-03-18",
@@ -4924,7 +4959,7 @@
       "id": "artemis-moon-mission",
       "title": "Artemis Moon Mission",
       "firstSeen": "2026-03-23",
-      "lastSeen": "2026-10-08",
+      "lastSeen": "2026-10-09",
       "active": true,
       "entries": [
         {
@@ -5106,6 +5141,11 @@
           "date": "2026-10-08",
           "edition": "morning",
           "update": "Jeff Bezos unveiled Blue Origin's vision including plans for orbital data centers, a sustainable lunar base, and launching rockets every minute from Cape Canaveral, according to Fox News."
+        },
+        {
+          "date": "2026-10-09",
+          "edition": "morning",
+          "update": "Margaret Hamilton, the computer scientist who led development of the onboard flight software for NASA's Apollo moon program, has died at age 90, according to ABC News."
         }
       ],
       "parentId": null
@@ -5310,7 +5350,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-10-08",
+      "lastSeen": "2026-10-09",
       "active": true
     },
     {
@@ -5333,7 +5373,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-10-06",
+      "lastSeen": "2026-10-09",
       "active": true,
       "entries": [
         {
@@ -5805,6 +5845,11 @@
           "date": "2026-10-06",
           "edition": "evening",
           "update": "Iran has adopted new measures to counter U.S.-imposed economic pressure, including responses to sanctions and naval blockades, according to Al Jazeera."
+        },
+        {
+          "date": "2026-10-09",
+          "edition": "morning",
+          "update": "Russian President Putin met with the Iranian President in Turkmenistan and pledged Russia's support to end what he described as a US-led war on Iran, ahead of a regional summit."
         }
       ]
     },
@@ -5908,7 +5953,7 @@
       "title": "Cuba Military Intervention",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-04-29",
-      "lastSeen": "2026-10-08",
+      "lastSeen": "2026-10-09",
       "active": true,
       "entries": [
         {
@@ -6000,6 +6045,11 @@
           "date": "2026-10-08",
           "edition": "morning",
           "update": "The U.S. seized $3 million worth of fuel shipments destined for Cuba as part of an ongoing crackdown on such transfers, according to Reuters."
+        },
+        {
+          "date": "2026-10-09",
+          "edition": "morning",
+          "update": "Cuban Americans for Cuba, an advocacy group whose founder toured Cuba with a now-sanctioned state agency, has made multiple Capitol Hill visits since April lobbying Congress for softer U.S.-Cuba relations and against economic blockades, according to the Washington Examiner."
         }
       ]
     },
@@ -6073,7 +6123,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-10-08",
+      "lastSeen": "2026-10-09",
       "active": true,
       "entries": [
         {
@@ -6245,6 +6295,11 @@
           "date": "2026-10-08",
           "edition": "evening",
           "update": "India, Türkiye, Egypt, and the U.S. have each put forward separate ceasefire proposals aimed at brokering a truce, with efforts focused on protecting global energy supplies and shipping routes. Ukrainian negotiators are set to visit the United States for talks on Friday, according to President Zelenskyy."
+        },
+        {
+          "date": "2026-10-09",
+          "edition": "morning",
+          "update": "Trump envoys are set to pitch new peace proposals for Ukraine, with the effort timed ahead of the midterm elections, according to Newsmax."
         }
       ]
     },
@@ -6253,7 +6308,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-10-08",
+      "lastSeen": "2026-10-09",
       "active": true,
       "entries": [
         {
@@ -6975,6 +7030,11 @@
           "date": "2026-10-08",
           "edition": "evening",
           "update": "Tanker captains transiting the Strait of Hormuz are reportedly earning salaries of $100,000 plus an additional $50,000 bonus per trip amid heightened tensions with Iran, according to Al Jazeera."
+        },
+        {
+          "date": "2026-10-09",
+          "edition": "morning",
+          "update": "Additional unexplained explosions were reported rattling the Saudi capital following the earlier Houthi strikes on Riyadh's King Khalid International Airport."
         }
       ]
     },
@@ -7063,7 +7123,7 @@
       "title": "Ebola Outbreak DR Congo Uganda 2025",
       "parentId": null,
       "firstSeen": "2026-05-17",
-      "lastSeen": "2026-10-06",
+      "lastSeen": "2026-10-09",
       "active": true,
       "entries": [
         {
@@ -7335,6 +7395,11 @@
           "date": "2026-10-06",
           "edition": "evening",
           "update": "Kenya confirmed its first Ebola case and first Ebola death, involving a Kenyan national who had been living in the Democratic Republic of Congo and died in Nairobi on Tuesday."
+        },
+        {
+          "date": "2026-10-09",
+          "edition": "morning",
+          "update": "Preliminary lab results in Kenya came back negative for Ebola in a patient who had been suspected of infection, easing fears of a second case following Kenya's first-ever confirmed Ebola death earlier in the week."
         }
       ]
     },
@@ -7433,7 +7498,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-10-08",
+      "lastSeen": "2026-10-09",
       "active": true,
       "entries": [
         {
@@ -7770,6 +7835,11 @@
           "date": "2026-10-08",
           "edition": "evening",
           "update": "Houthi rebels claimed responsibility for ballistic missile strikes on King Khalid International Airport in Riyadh, Saudi Arabia's capital, with authorities describing the attacks as the deadliest Houthi strikes on Saudi Arabia so far, killing three people and prompting an airport evacuation. A day later, additional unexplained explosions rattled Riyadh, with smoke seen rising from an aircraft at the airport, according to Reuters. The strikes sent oil prices sharply higher and triggered a decline in U.S. stock futures."
+        },
+        {
+          "date": "2026-10-09",
+          "edition": "morning",
+          "update": "Islamic Relief reported to Al Jazeera that Israel has been killing or wounding a Palestinian every 90 minutes in Gaza since the ceasefire, calling for global action as humanitarian conditions worsen. An Israeli air strike hit a residential building in the al-Sabra neighbourhood of Gaza City, killing several people including children. Negotiations are reported to be underway in a final push to secure the release of hostages taken during the October 7 Hamas attack on Israel."
         }
       ]
     },
@@ -8307,7 +8377,22 @@
           "update": "Saudi Arabia has launched an air safety investigation into an incident involving FlyDubai, according to Reuters, with no further details disclosed about the nature of the incident."
         }
       ]
+    },
+    {
+      "id": "nato-base-security-breaches-and-european-defense",
+      "title": "NATO Base Security Breaches and European Defense",
+      "parentId": "middle-east-military-conflicts-2026",
+      "firstSeen": "2026-10-09",
+      "lastSeen": "2026-10-09",
+      "active": true,
+      "entries": [
+        {
+          "date": "2026-10-09",
+          "edition": "morning",
+          "update": "Two Latvian men were arrested under the National Security Act 2023 after breaching a fence at RAF Molesworth, prompting a major counterterrorism investigation. RAF Molesworth, which houses a key US and NATO intelligence hub, is currently undergoing a $556 million expansion."
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-10-08T21:25:17.723Z"
+  "updatedAt": "2026-10-09T11:23:33.939Z"
 }
