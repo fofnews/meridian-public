@@ -1541,5 +1541,37 @@
     ],
     "collectRun": "2026-10-10T10:15:00.000Z",
     "collectedAt": "2026-10-10T10:15:01.374Z"
+  },
+  {
+    "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+    "description": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
+    "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 10 Oct 2026 10:06:23 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectRun": "2026-10-10T10:30:00.000Z",
+    "collectedAt": "2026-10-10T10:30:02.281Z"
+  },
+  {
+    "title": "Former MN state trooper tears into Dems as Somali gang violence terrorizes Minnesota: ‘Where is Ilhan Omar?’",
+    "description": "John Nagel, a former state trooper challenging Ilhan Omar, accuses Minnesota Democrats of being soft on crime as Somali gang violence escalates.",
+    "link": "https://www.foxnews.com/politics/former-mn-state-trooper-tears-dems-somali-gang-violence-terrorizes-minnesota-where-ilhan-omar",
+    "pubDate": "Sat, 10 Oct 2026 06:11:59 -0400",
+    "source": "Fox News",
+    "categories": [
+      "884e131a-45f6-510e-9c82-5818f23ff6d8",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/us/blue-city-crime",
+      "fox-news/person/ilhan-omar",
+      "fox-news/person/tim-walz",
+      "fox-news/us/us-regions/midwest/minnesota",
+      "fox-news/us/somali-immigrant-community",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectRun": "2026-10-10T10:30:00.000Z",
+    "collectedAt": "2026-10-10T10:30:02.281Z"
   }
 ]
