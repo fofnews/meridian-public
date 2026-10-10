@@ -1631,6 +1631,11 @@
           "date": "2026-10-10",
           "edition": "morning",
           "update": "Trump announced a deal with Putin, posted on Truth Social, in which Russia will supply diesel to the U.S. and global markets, with the stated goal of lowering fuel prices ahead of midterm elections. Zelensky publicly criticized the deal, arguing it would give the Kremlin additional revenue to fund its war against Ukraine. In a phone call connected to the deal, Putin told Trump that an immediate resumption of Ukraine peace talks is unlikely, with the Kremlin citing drone attacks on Moscow during last month's elections as having undermined trilateral negotiations. A Russian glide bomb strike on Zaporizhzhia destroyed a large apartment block, killing at least 15 people including children, with more victims potentially still buried in the rubble. A Ukrainian man is set to stand trial in Hamburg, Germany, accused of sabotaging the Nord Stream pipelines approximately four years after the incident."
+        },
+        {
+          "date": "2026-10-10",
+          "edition": "evening",
+          "update": "Trump publicly called for new leadership in Ukraine, stating it is time for Ukraine to get a new president, remarks made Saturday to reporters outside the White House. Democratic lawmakers pushed back against the diesel sanctions relief, which allows Russia to supply 300,000 tons of diesel to the U.S. and global marketplace, with Trump framing the deal as a response to high fuel prices during the Iran war ahead of midterm elections. Germany reaffirmed its commitment to maintaining sanctions against Russia following Trump's announcement, according to Reuters. Russian attacks killed 17 people in Ukraine in the aftermath of the diesel deal announcement, according to Newsmax."
         }
       ],
       "parentId": null
@@ -4386,6 +4391,11 @@
           "date": "2026-10-10",
           "edition": "morning",
           "update": "The Kremlin stated that Trump welcomes Russia's involvement in efforts to reach a diplomatic settlement over Iran's nuclear program."
+        },
+        {
+          "date": "2026-10-10",
+          "edition": "evening",
+          "update": "The Pentagon raised the official death toll of U.S. troops killed during the war with Iran to 21, according to the Washington Post."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -5423,7 +5433,7 @@
       "title": "US-Iran Diplomatic Negotiations",
       "parentId": null,
       "firstSeen": "2026-04-24",
-      "lastSeen": "2026-10-09",
+      "lastSeen": "2026-10-10",
       "active": true,
       "entries": [
         {
@@ -5900,6 +5910,11 @@
           "date": "2026-10-09",
           "edition": "morning",
           "update": "Russian President Putin met with the Iranian President in Turkmenistan and pledged Russia's support to end what he described as a US-led war on Iran, ahead of a regional summit."
+        },
+        {
+          "date": "2026-10-10",
+          "edition": "evening",
+          "update": "U.S. Secretary of State Marco Rubio invoked Western civilizational rhetoric in statements about current threats, prompting Iran to respond by calling the framing an 'anachronism.' The Kremlin stated that Putin relayed Russia's position on Iran peace efforts to Trump during their communications, with a Kremlin aide describing the phone call as 'very friendly.' Former U.S. arms control envoy Marshall Billingslea stated that the Russian diesel deal signals what he characterized as an 'Iran sellout,' according to Newsmax."
         }
       ]
     },
@@ -6368,7 +6383,7 @@
       "title": "Strait of Hormuz Maritime Tensions",
       "parentId": null,
       "firstSeen": "2026-05-15",
-      "lastSeen": "2026-10-09",
+      "lastSeen": "2026-10-10",
       "active": true,
       "entries": [
         {
@@ -7100,6 +7115,11 @@
           "date": "2026-10-09",
           "edition": "evening",
           "update": "According to Reuters, a Trump envoy maintained financial ties to a company involved in a $15 billion plan to build an oil pipeline bypassing the Strait of Hormuz."
+        },
+        {
+          "date": "2026-10-10",
+          "edition": "evening",
+          "update": "A further attack struck King Khalid International Airport in Riyadh, injuring several people and prompting airlines to cancel and divert flights, with the U.S. Embassy confirming awareness of the strikes. Organizers confirmed that major Saudi conferences will proceed as planned despite the ongoing attacks, according to Reuters. The strikes are described as part of a sustained wave of attacks by Iran-backed Houthi forces targeting Saudi Arabia over recent days."
         }
       ]
     },
@@ -7563,7 +7583,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-10-09",
+      "lastSeen": "2026-10-10",
       "active": true,
       "entries": [
         {
@@ -7910,6 +7930,11 @@
           "date": "2026-10-09",
           "edition": "evening",
           "update": "Lufthansa and Indian airlines suspended service to Riyadh following explosions in the Saudi capital, according to AP News. At least 19 Israeli settler attacks targeting Palestinian olive harvests were recorded across the West Bank on Friday, while Israeli forces detained 16 Palestinians, according to Al Jazeera."
+        },
+        {
+          "date": "2026-10-10",
+          "edition": "evening",
+          "update": "Al Jazeera raised the question of whether Yemen has returned to full-scale war as fighting between Yemeni government forces and Houthi rebels continues to intensify."
         }
       ]
     },
@@ -8465,6 +8490,11 @@
           "date": "2026-10-10",
           "edition": "morning",
           "update": "UAE authorities identified the attacker as Hamam al-Hammami, a 29-year-old Omani national, who attacked the captain with an axe before attempting to crash the 182-passenger aircraft into a passenger terminal at Tel Aviv's airport. The UAE attorney-general alleged that al-Hammami's radicalization began during time spent in Australia."
+        },
+        {
+          "date": "2026-10-10",
+          "edition": "evening",
+          "update": "An Israeli mother who lost her son in the October 7, 2023 Hamas attack learned her daughter had survived the attempted FlyDubai hijacking on September 30, days before the third anniversary of the massacre."
         }
       ]
     },
@@ -8484,5 +8514,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-10T11:24:54.676Z"
+  "updatedAt": "2026-10-10T21:21:15.537Z"
 }
