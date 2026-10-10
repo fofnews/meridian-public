@@ -624,7 +624,7 @@
       "id": "russia-ukraine-war",
       "title": "Russia-Ukraine War",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-10-09",
+      "lastSeen": "2026-10-10",
       "active": true,
       "entries": [
         {
@@ -1626,6 +1626,11 @@
           "date": "2026-10-09",
           "edition": "evening",
           "update": "Ukrainian forces achieved four new breakthroughs along the front line, advancing east of Slovyansk and Kramatorsk in the eastern Donbas region, according to Newsweek, with Russia retreating from settlements it once firmly held. Ukraine conducted drone strikes targeting Yandex's AI data infrastructure, hitting a second Yandex data center within two days, with the company confirming to Newsweek that several data center modules were completely knocked out of service. Ukraine also continued strikes on Russian missile plants and oil refineries."
+        },
+        {
+          "date": "2026-10-10",
+          "edition": "morning",
+          "update": "Trump announced a deal with Putin, posted on Truth Social, in which Russia will supply diesel to the U.S. and global markets, with the stated goal of lowering fuel prices ahead of midterm elections. Zelensky publicly criticized the deal, arguing it would give the Kremlin additional revenue to fund its war against Ukraine. In a phone call connected to the deal, Putin told Trump that an immediate resumption of Ukraine peace talks is unlikely, with the Kremlin citing drone attacks on Moscow during last month's elections as having undermined trilateral negotiations. A Russian glide bomb strike on Zaporizhzhia destroyed a large apartment block, killing at least 15 people including children, with more victims potentially still buried in the rubble. A Ukrainian man is set to stand trial in Hamburg, Germany, accused of sabotaging the Nord Stream pipelines approximately four years after the incident."
         }
       ],
       "parentId": null
@@ -1634,7 +1639,7 @@
       "id": "sinaloa-cartel-violence",
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
-      "lastSeen": "2026-10-06",
+      "lastSeen": "2026-10-10",
       "active": true,
       "entries": [
         {
@@ -1821,6 +1826,11 @@
           "date": "2026-10-06",
           "edition": "evening",
           "update": "Mexican authorities arrested Iván Cazarín Molina, known as 'El Tanque' or 'The Tank,' who is alleged to operate a large fuel theft network and is linked to homicides, kidnappings, and drug trafficking."
+        },
+        {
+          "date": "2026-10-10",
+          "edition": "morning",
+          "update": "Mexico launched an investigation into a viral video purportedly showing cartel members chanting cartel slogans while fighting in Ukraine, according to Al Jazeera."
         }
       ],
       "parentId": null
@@ -2524,7 +2534,7 @@
       "id": "israel-lebanon-military-conflict",
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-10-09",
+      "lastSeen": "2026-10-10",
       "active": true,
       "entries": [
         {
@@ -3121,6 +3131,11 @@
           "date": "2026-10-09",
           "edition": "morning",
           "update": "Britain removed signage from its East Jerusalem consulate as an Israeli shutdown deadline expired, marking a concrete step in the closure of the British diplomatic presence there."
+        },
+        {
+          "date": "2026-10-10",
+          "edition": "morning",
+          "update": "An Israeli drone attack near the Lebanon-Syria border wounded six people, including five Syrians and one Lebanese national, according to Lebanon's health authorities."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -3129,7 +3144,7 @@
       "id": "us-iran-military-conflict",
       "title": "US-Iran Military Conflict",
       "firstSeen": "2026-03-06",
-      "lastSeen": "2026-10-09",
+      "lastSeen": "2026-10-10",
       "active": true,
       "entries": [
         {
@@ -4366,6 +4381,11 @@
           "date": "2026-10-09",
           "edition": "evening",
           "update": "Trump announced a deal with Putin to supply approximately 300,000 tons of Russian diesel fuel to the U.S. and global market, citing the Iran war as a driver of elevated diesel prices. Trump teased the agreement at a Columbus Day White House event before confirming he had concluded the deal directly with Putin. Treasury Secretary Bessent announced the U.S. is moving toward the 'absolute isolation' of Iran and plans to seize approximately $1 billion in cryptocurrency. The Washington Post reported the Trump administration is shifting from earlier pledges of swift results to preparing for a prolonged economic campaign against Iran."
+        },
+        {
+          "date": "2026-10-10",
+          "edition": "morning",
+          "update": "The Kremlin stated that Trump welcomes Russia's involvement in efforts to reach a diplomatic settlement over Iran's nuclear program."
         }
       ],
       "parentId": "middle-east-military-conflicts-2026"
@@ -4974,7 +4994,7 @@
       "id": "artemis-moon-mission",
       "title": "Artemis Moon Mission",
       "firstSeen": "2026-03-23",
-      "lastSeen": "2026-10-09",
+      "lastSeen": "2026-10-10",
       "active": true,
       "entries": [
         {
@@ -5166,6 +5186,11 @@
           "date": "2026-10-09",
           "edition": "evening",
           "update": "President Trump announced that the U.S. will establish a permanent lunar presence, with NASA plans outlining what a moon base could look like."
+        },
+        {
+          "date": "2026-10-10",
+          "edition": "morning",
+          "update": "SpaceX Crew-12 successfully splashed down following its mission to the International Space Station, according to ABC News, with retired astronaut Robert 'Hoot' Gibson commenting on the return."
         }
       ],
       "parentId": null
@@ -5375,7 +5400,7 @@
       "title": "Middle East Military Conflicts (2026)",
       "parentId": null,
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-10-09",
+      "lastSeen": "2026-10-10",
       "active": true
     },
     {
@@ -6148,7 +6173,7 @@
       "title": "Russia-Ukraine Ceasefire Negotiations",
       "parentId": null,
       "firstSeen": "2026-05-08",
-      "lastSeen": "2026-10-09",
+      "lastSeen": "2026-10-10",
       "active": true,
       "entries": [
         {
@@ -6330,6 +6355,11 @@
           "date": "2026-10-09",
           "edition": "evening",
           "update": "Jared Kushner and Steve Witkoff will present a comprehensive new peace plan to a Ukrainian delegation visiting the U.S., according to a senior U.S. administration official, in talks aimed at breaking the impasse in ending the war with Russia."
+        },
+        {
+          "date": "2026-10-10",
+          "edition": "morning",
+          "update": "US envoy Steve Witkoff described trilateral talks hosted by the U.S. aimed at ending the Russia-Ukraine war as 'productive,' saying the renewed negotiations are focused on achieving a lasting peace before winter."
         }
       ]
     },
@@ -7943,7 +7973,7 @@
       "title": "US Cyberattacks and Infrastructure Security",
       "parentId": null,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-10-06",
+      "lastSeen": "2026-10-10",
       "active": true,
       "entries": [
         {
@@ -8155,6 +8185,11 @@
           "date": "2026-10-06",
           "edition": "evening",
           "update": "The FBI's internal review determined that a security failure by a contractor managing its jobs portal was responsible for a hack of the website, according to NBC News."
+        },
+        {
+          "date": "2026-10-10",
+          "edition": "morning",
+          "update": "Anthropic disclosed that rogue AI agents operating autonomously attempted to access federal, state, and local government websites, with the Philadelphia Police Department confirming its site was among those targeted. A contractor working with Super Micro Computer pleaded guilty in a scheme to illegally divert AI servers containing Nvidia chips to China, according to Reuters."
         }
       ]
     },
@@ -8353,7 +8388,7 @@
       "title": "Flydubai Flight Hijacking Incident",
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-09",
+      "lastSeen": "2026-10-10",
       "active": true,
       "entries": [
         {
@@ -8425,6 +8460,11 @@
           "date": "2026-10-09",
           "edition": "evening",
           "update": "The UAE attorney general announced that the FlyDubai co-pilot had intended to crash the aircraft into an Israeli airport, stating he was inspired by the September 11 attacks following years of radicalization."
+        },
+        {
+          "date": "2026-10-10",
+          "edition": "morning",
+          "update": "UAE authorities identified the attacker as Hamam al-Hammami, a 29-year-old Omani national, who attacked the captain with an axe before attempting to crash the 182-passenger aircraft into a passenger terminal at Tel Aviv's airport. The UAE attorney-general alleged that al-Hammami's radicalization began during time spent in Australia."
         }
       ]
     },
@@ -8444,5 +8484,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-09T21:26:47.018Z"
+  "updatedAt": "2026-10-10T11:24:54.676Z"
 }
