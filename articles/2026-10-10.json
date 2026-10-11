@@ -9761,5 +9761,59 @@
     "categories": [],
     "collectRun": "2026-10-11T03:15:00.000Z",
     "collectedAt": "2026-10-11T03:15:01.268Z"
+  },
+  {
+    "title": "Hurricane Simon strengthens into Category 4 storm as it takes aim at Mexico",
+    "description": "Simon has strengthened into a powerful Category 4 hurricane as it barrels toward Mexico's Pacific coast.",
+    "link": "https://www.cbsnews.com/news/hurricane-simon-takes-aim-mexico-pacific-coast/",
+    "pubDate": "Sat, 10 Oct 2026 23:28:31 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectRun": "2026-10-11T03:30:00.000Z",
+    "collectedAt": "2026-10-11T03:30:01.674Z"
+  },
+  {
+    "title": "US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman",
+    "description": "US military jet strikes stern of commercial cargo ship 'without harming the crew', CENTCOM says.",
+    "link": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman?traffic_source=rss",
+    "pubDate": "Sun, 11 Oct 2026 03:13:53 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-10-11T03:30:00.000Z",
+    "collectedAt": "2026-10-11T03:30:01.674Z"
+  },
+  {
+    "title": "Guardians complete ALDS comeback over White Sox, strike out record 21 batters to set up date with Rays",
+    "description": "Jose Ramirez's historic low home run and a record 21 strikeouts powered the Cleveland Guardians past the Chicago White Sox in ALDS Game 5.",
+    "link": "https://www.foxnews.com/outkick-sports/guardians-complete-alds-comeback-white-sox-strike-out-record-21-batters-set-up-date-rays",
+    "pubDate": "Sat, 10 Oct 2026 23:12:37 -0400",
+    "source": "Fox News",
+    "categories": [
+      "b23a3f63-8784-57ae-ad26-47d9d9f1ce2d",
+      "fnc",
+      "fox news",
+      "fox-news/sports/mlb-postseason",
+      "fox-news/sports/mlb/cleveland-guardians",
+      "fox-news/sports/mlb/chicago-white-sox",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/sports/mlb",
+      "fox-news/outkick/betting",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectRun": "2026-10-11T03:30:00.000Z",
+    "collectedAt": "2026-10-11T03:30:01.674Z"
+  },
+  {
+    "title": "Lights Out in Happy Valley: USC crashes Penn State’s White Out party with stunning upset",
+    "description": "Jayden Maiava throws three touchdowns as No. 19 USC shocks Penn State 31-23 in Happy Valley, improving to 6-1 with a signature Big Ten road victory.",
+    "link": "https://nypost.com/2026/10/10/sports/no-19-usc-stuns-penn-state-31-23-silences-white-out-crowd-in-happy-valley/",
+    "pubDate": "Sat, 10 Oct 2026 23:16:14 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-10-11T03:30:00.000Z",
+    "collectedAt": "2026-10-11T03:30:01.674Z"
   }
 ]
