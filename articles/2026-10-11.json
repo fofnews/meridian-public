@@ -538,5 +538,48 @@
     ],
     "collectRun": "2026-10-11T04:45:00.000Z",
     "collectedAt": "2026-10-11T04:45:04.857Z"
+  },
+  {
+    "title": "US opens antitrust probe into TV networks halting Trump coverage",
+    "description": "Department of Justice says it's investigating whether the White House press pool's decision violated antitrust laws.",
+    "link": "https://www.aljazeera.com/news/2026/10/11/us-opens-antitrust-probe-into-tv-networks-halting-trump-coverage?traffic_source=rss",
+    "pubDate": "Sun, 11 Oct 2026 04:30:10 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-10-11T05:00:00.000Z",
+    "collectedAt": "2026-10-11T05:00:01.313Z"
+  },
+  {
+    "title": "Hurricane Isaias kills four, leaves 650,000 without power in Florida",
+    "description": "Hurricane Isaias has killed four people and left more than 650,000 people without power.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-isaias-is-here-us?traffic_source=rss",
+    "pubDate": "Sun, 11 Oct 2026 04:28:51 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectRun": "2026-10-11T05:00:00.000Z",
+    "collectedAt": "2026-10-11T05:00:01.313Z"
+  },
+  {
+    "title": "Justice Department investigating TV networks that briefly suspended Trump press pool coverage",
+    "description": "The Justice Department is investigating whether the major TV networks violated antitrust law last month when they briefly suspended their pool coverage of President Donald Trump after he blocked multiple news outlets from fully accessing White House grounds. ABC, CBS, CNN, NBC, and Fox News were told on Friday to provide “communications and materials” related […]",
+    "link": "https://www.washingtonexaminer.com/news/investigations/4762404/justice-department-investigate-tv-networks-trump-pool-coverage/",
+    "pubDate": "Sun, 11 Oct 2026 04:37:16 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "investigations",
+      "department of justice",
+      "donald trump",
+      "justice",
+      "trump administration",
+      "tv",
+      "washington dc",
+      "white house"
+    ],
+    "collectRun": "2026-10-11T05:00:00.000Z",
+    "collectedAt": "2026-10-11T05:00:01.313Z"
   }
 ]
