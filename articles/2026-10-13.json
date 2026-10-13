@@ -4562,5 +4562,296 @@
     ],
     "collectRun": "2026-10-13T13:45:00.000Z",
     "collectedAt": "2026-10-13T13:45:01.918Z"
+  },
+  {
+    "title": "ABC News Live",
+    "description": "24/7 coverage of breaking news and live events",
+    "link": "https://abcnews.com/video/41463246/",
+    "pubDate": "Tue, 13 Oct 2026 09:47:19 -0400",
+    "source": "ABC News",
+    "categories": [
+      "live"
+    ],
+    "collectRun": "2026-10-13T14:00:00.000Z",
+    "collectedAt": "2026-10-13T14:00:02.481Z"
+  },
+  {
+    "title": "Supreme Court takes up dispute over access to DOGE records",
+    "description": "The Supreme Court agreed to take up a dispute involving a government watchdog group's attempt to get information from the Department of Government Efficiency​.",
+    "link": "https://www.cbsnews.com/news/supreme-court-doge-case/",
+    "pubDate": "Tue, 13 Oct 2026 09:54:33 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectRun": "2026-10-13T14:00:00.000Z",
+    "collectedAt": "2026-10-13T14:00:02.481Z"
+  },
+  {
+    "title": "Mark Harmon and Austin Stowell on playing Leroy Jethro Gibbs in \"NCIS\" | Between Us",
+    "description": "Mark Harmon, who played Leroy Jethro Gibbs for 18 seasons on \"NCIS,\" sits down with Austin Stowell, who plays the younger version of Gibbs on \"NCIS: Origins,\" to talk about playing the iconic character, reflect on the start of their acting careers and what's in store for Season 3 of the prequel series.",
+    "link": "https://www.cbsnews.com/video/mark-harmon-and-austin-stowell-on-playing-leroy-jethro-gibbs-in-ncis-between-us/",
+    "pubDate": "Tue, 13 Oct 2026 09:44:07 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectRun": "2026-10-13T14:00:00.000Z",
+    "collectedAt": "2026-10-13T14:00:02.481Z"
+  },
+  {
+    "title": "Supreme Court to hear Trump attempt to withhold DOGE documents",
+    "description": "The Supreme Court allowed a watchdog group to seek further information about the internal operations of the Trump administration’s Department of Government Efficiency that played a key role in firing thousands of federal workers and canceling various streams of government funding.",
+    "link": "https://www.nbcnews.com/politics/supreme-court/supreme-court-to-weigh-doge-document-dispute-crew-rcna601585",
+    "pubDate": "Tue, 13 Oct 2026 13:44:29 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectRun": "2026-10-13T14:00:00.000Z",
+    "collectedAt": "2026-10-13T14:00:02.481Z"
+  },
+  {
+    "title": "Hawaii Tourist Accused of Monk Seal Attack Seeks Proof Delta Warned Him",
+    "description": "Igor Lytvynchuk faces federal charges after allegedly throwing a rock at a monk seal in Hawaii earlier this year.",
+    "link": "https://www.newsweek.com/hawaii-tourist-monk-seal-attack-seeks-proof-delta-warned-him-12560363",
+    "pubDate": "Tue, 13 Oct 2026 09:56:01 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-10-13T14:00:00.000Z",
+    "collectedAt": "2026-10-13T14:00:02.481Z"
+  },
+  {
+    "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
+    "description": "Experts say there is no evidence that Russian trolls have been affected by Ukraine’s Yandex attacks.",
+    "link": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 13 Oct 2026 13:27:31 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectRun": "2026-10-13T14:00:00.000Z",
+    "collectedAt": "2026-10-13T14:00:02.481Z"
+  },
+  {
+    "title": "France seizes another 'shadow fleet' tanker; Russia decries 'piracy' - Reuters",
+    "description": "France seizes another 'shadow fleet' tanker; Russia decries 'piracy'  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX3FfbUhFOUJOOFY4ZFlHYnc4YnJqYWRUUHdsTWp6aXVLekZBczUwTFlMazdRR3NtajhFMUUtclJqLWUtbTNmSnlOcmJBdTF0Z2tWRGFvbWljbTJfQnhwcWROeHh4NFIzMHhuUHFNaGZ6MEpHX3B3dFJHTWVFMU1qdmNMNDJUdFpVN3FnbUZPUmRxUEhPUG5Gcm5EYnJnVXdwSmxvQ1Y4TFc?oc=5",
+    "pubDate": "Tue, 13 Oct 2026 12:34:06 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectRun": "2026-10-13T14:00:00.000Z",
+    "collectedAt": "2026-10-13T14:00:02.481Z"
+  },
+  {
+    "title": "Investigators hunt French supermarket fridge hackers, no claim of responsibility - Reuters",
+    "description": "Investigators hunt French supermarket fridge hackers, no claim of responsibility  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ3JqLV9RU0d1X0RtU05YMURYUGhhVlBQSWY5WENLX20zTVlsczlMejdNbGVrWHd2amxyeVdMVERzS3Z1blYtQUV2LVJ0d1FGY0cyUGlPZnRYNkVNXzdMVEYxaHJNQ0k1OU4wZTZVY2ZVQWg1aUtHWFh2TmY1bjlTRUpDcS1jTGRRMjB6V1ZCRWc0NzdKeFRHVVpRWjI3VzhLeXk5OEhvN3dkUHAwTlAwamIwa1FVZ1N1TWtmX1VYUGJMQVoxMkpjYg?oc=5",
+    "pubDate": "Tue, 13 Oct 2026 13:02:57 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectRun": "2026-10-13T14:00:00.000Z",
+    "collectedAt": "2026-10-13T14:00:02.481Z"
+  },
+  {
+    "title": "Saudi leads jump in OPEC+ oil output in September, despite Iran war disruption - Reuters",
+    "description": "Saudi leads jump in OPEC+ oil output in September, despite Iran war disruption  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWWdiOFh3ZXNEdWNtbEZLVlFDZ2dJQTZaanZ3dUtaNVgycEpwX0tDZWVYVF9PQlpRX085YWNwTkdtZVNmY0R2S0hHcllmRVlxcnAyYm9fTEZQa3YtYlljLXd6ZlROZ3VOTFktSmZnNFFkdGkxUkwyRmJ0R1JiQ0FtLXUzZTdSZGY1dlJCUndmd2FjQkxrT2dWRGFvMmcteFU0VVNQMEdxQVN4eVE5QjdBYg?oc=5",
+    "pubDate": "Tue, 13 Oct 2026 13:07:43 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectRun": "2026-10-13T14:00:00.000Z",
+    "collectedAt": "2026-10-13T14:00:02.481Z"
+  },
+  {
+    "title": "Freight rates for Russian Urals oil shipments to India hit fresh records in early October - Reuters",
+    "description": "Freight rates for Russian Urals oil shipments to India hit fresh records in early October  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcVpHcU5oOWl3WUt1NFlQNi1Ld3JVQWI5Z0l3Z3p4UTFGSDdsMk5Yak5zdy16Z1NCcl9NMzBqbkgxaEdSLUtBSWVJWXQ5MnBiTzlDMXUyZE5iemFmQlJ2b3JlRWgxTlRMdnhHMVptZXhvMUtwMHZpb3IwM0VOZEUyLXpVenhqb2toWmJUdU9kQ25odHY2enA2a2xvd19mQ2U0WTVIVUlYa0kzYUdWYUVIaGtQSVdZY2pGVC15b2pEZlZhRDVteFVlOGFCOA?oc=5",
+    "pubDate": "Tue, 13 Oct 2026 11:35:43 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectRun": "2026-10-13T14:00:00.000Z",
+    "collectedAt": "2026-10-13T14:00:02.481Z"
+  },
+  {
+    "title": "Scaleway to build AMD-powered AI supercomputer in Sweden - Reuters",
+    "description": "Scaleway to build AMD-powered AI supercomputer in Sweden  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVFlaGxodDhwTlJlRDBueTJ5UEZWYmtSVV8zejBPbGZ6NWZnV3FYaEczYkh4XzFMOXNuRGpnN0ZUV1VOb1dCYW5paVZXSE9ia3VTbU5kaDk4ZXdFNmw2Mk1FZ3BqUmswdmlNVHZSYk9kRHdjWnpOOFEwVGhjQW84SkcxMlJHWkY2c3A0SnZsN0RGWFczTG9uS1ZTMGprbjRsZXZ4aE10MFl2UmNBMVE?oc=5",
+    "pubDate": "Tue, 13 Oct 2026 11:08:58 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectRun": "2026-10-13T14:00:00.000Z",
+    "collectedAt": "2026-10-13T14:00:02.481Z"
+  },
+  {
+    "title": "Boebert: Iran war ‘detrimental on many levels’",
+    "description": "Rep. Lauren Boebert (R-Colo.) spoke out against the Iran war when pressed during a Monday debate about whether the military conflict was worth its cost to the American public.  “I never wanted us to be at war in Iran,” Boebert said. “This has been detrimental on many levels. “I also will stand by and say…",
+    "link": "https://thehill.com/homenews/campaign/6145050-lauren-boebert-iran-war-donald-trump-midterms/",
+    "pubDate": "\n\t\tTue, 13 Oct 2026 13:56:06 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "campaign",
+      "defense",
+      "house",
+      "international",
+      "news",
+      "policy",
+      "affordability",
+      "colorado",
+      "colorado house race",
+      "eileen laubacher",
+      "global energy prices",
+      "house gop",
+      "iran war",
+      "kyle clark",
+      "trump administration",
+      "trump tariffs"
+    ],
+    "collectRun": "2026-10-13T14:00:00.000Z",
+    "collectedAt": "2026-10-13T14:00:02.481Z"
+  },
+  {
+    "title": "Omar fundraising off federal investigation",
+    "description": "Rep. Ilhan Omar (D-Minn.) released a fundraising email focused on her federal investigation included federal agents raiding her home on Monday.  “Stand with Ilhan Omar,” the email read, according to a screenshot obtained by The Hill’s partner network, NewsNation. “Donald Trump and DHS have opened a baseless, partisan investigation into Ilhan Omar, and she needs…",
+    "link": "https://thehill.com/homenews/campaign/6144996-omar-house-raid-investigation-fundraising/",
+    "pubDate": "\n\t\tTue, 13 Oct 2026 13:55:04 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "house"
+    ],
+    "collectRun": "2026-10-13T14:00:00.000Z",
+    "collectedAt": "2026-10-13T14:00:02.481Z"
+  },
+  {
+    "title": "Just 1 in 4 approve of Trump handling of economy: Survey",
+    "description": "Roughly one-fourth of respondents to a recent survey approve of President Trump’s handling of the economy, with midterm early voting already underway in some states. Just 28 percent of 2,275 respondents to the Financial Times/Focaldata poll approved of Trump’s handling of jobs and the economy. The president’s overall approval rating was 34 percent, with 59…",
+    "link": "https://thehill.com/homenews/administration/6145073-inflation-rising-midterm-odds/",
+    "pubDate": "\n\t\tTue, 13 Oct 2026 13:54:41 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "business",
+      "campaign",
+      "energy & environment",
+      "news"
+    ],
+    "collectRun": "2026-10-13T14:00:00.000Z",
+    "collectedAt": "2026-10-13T14:00:02.481Z"
+  },
+  {
+    "title": "Trump donor says he’ll sue Guilfoyle, attorneys",
+    "description": "The MAGA donor who accused U.S. Ambassador to Greece Kimberly Guilfoyle of pressuring him to wire her $100,000 to pay off her American Express bill said he will be taking legal action against her. “I’m going to be suing those lawyers, that law firm, and Kimberly Guilfoyle,” Eric Deters said in an interview with CNN’s…",
+    "link": "https://thehill.com/homenews/administration/6144835-donald-trump-donor-eric-deters-kimberly-guilfoyle-scandal/",
+    "pubDate": "\n\t\tTue, 13 Oct 2026 13:38:38 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "in the know",
+      "news",
+      "eric deters",
+      "greece",
+      "guilfoyle scandal",
+      "state department",
+      "trump administration"
+    ],
+    "collectRun": "2026-10-13T14:00:00.000Z",
+    "collectedAt": "2026-10-13T14:00:02.481Z"
+  },
+  {
+    "title": "Supreme Court turns away Kari Lake lawyer’s challenge to sanctions in Arizona voting machine lawsuit",
+    "description": "The Supreme Court on Tuesday declined to hear an appeal from a lawyer who was sanctioned while representing former GOP gubernatorial candidate Kari Lake in a 2022 lawsuit challenging Arizona’s use of electronic voting machines. The high court did not provide any explanation for its decision, leaving intact an appeals court ruling that upheld the…",
+    "link": "https://thehill.com/regulation/court-battles/6144798-supreme-court-kari-lake-lawyer-andrew-parker-appeal/",
+    "pubDate": "\n\t\tTue, 13 Oct 2026 13:38:31 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "court battles",
+      "news"
+    ],
+    "collectRun": "2026-10-13T14:00:00.000Z",
+    "collectedAt": "2026-10-13T14:00:02.481Z"
+  },
+  {
+    "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
+    "description": "There will be no Medicare Advantage plans in 181 counties in 2027, up from 67 in 2026.",
+    "link": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
+    "pubDate": "Tue, 13 Oct 2026 13:53:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectRun": "2026-10-13T14:00:00.000Z",
+    "collectedAt": "2026-10-13T14:00:02.481Z"
+  },
+  {
+    "title": "The 26 best shampoos tested for each hair type and need",
+    "description": "We tested all the formulas, spoke with hair experts and researched it all — so you don't have to.",
+    "link": "https://nypost.com/article/best-shampoos-for-every-hair-type-review/",
+    "pubDate": "Tue, 13 Oct 2026 09:53:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-10-13T14:00:00.000Z",
+    "collectedAt": "2026-10-13T14:00:02.481Z"
+  },
+  {
+    "title": "Shoppers say they’d buy this fluffy throw ‘in a HEARTBEAT’ — and it’s 55% off",
+    "description": "Soft, cozy and on sale.",
+    "link": "https://nypost.com/2026/10/13/shopping/bedsure-fluffy-bubble-faux-fur-throw-blanket-is-55-off-at-amazon/",
+    "pubDate": "Tue, 13 Oct 2026 09:52:40 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-10-13T14:00:00.000Z",
+    "collectedAt": "2026-10-13T14:00:02.481Z"
+  },
+  {
+    "title": "Mike Johnson urges Trump to rethink livestreaming Nidal Hasan execution: ‘I wouldn’t be watching’",
+    "description": "House Speaker Mike Johnson appeared to publicly nudge President Trump against having the 2009 Fort Hood shooter's execution by firing squad live-streamed for the whole world to see.",
+    "link": "https://nypost.com/2026/10/13/us-news/mike-johnson-urges-trump-to-rethink-live-streaming-nidal-hasan-execution-i-wouldnt-be-watching/",
+    "pubDate": "Tue, 13 Oct 2026 09:52:30 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-10-13T14:00:00.000Z",
+    "collectedAt": "2026-10-13T14:00:02.481Z"
+  },
+  {
+    "title": "Trump admin boots Microsoft from major visa program over alleged ‘fraud and abuse’",
+    "description": "The Trump administration is suspending Microsoft from a major immigration program that allows its foreign workers to transfer from an H1B1 visa to a green card, accusing the tech giant of fraud. “If you do the math, for every worker that Microsoft laid off, they replaced that worker with one and a half foreign indentured...",
+    "link": "https://nypost.com/video/trump-admin-boots-microsoft-from-major-visa-program-over-alleged-fraud-and-abuse/",
+    "pubDate": "Tue, 13 Oct 2026 09:52:05 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-10-13T14:00:00.000Z",
+    "collectedAt": "2026-10-13T14:00:02.481Z"
+  },
+  {
+    "title": "Insane footage captures moment debris-filled flood tears through Nepal river",
+    "description": "Nepali authorities urged villagers on Sunday to move to safer places after a ​flood in a river in the central part of the country ‌swept away several houses and infrastructure, but there were no reports of any casualties. A dry landslide in Chumnubri village in Gorkha district, about 62 miles west of Kathmandu, ​blocked the...",
+    "link": "https://nypost.com/video/insane-footage-captures-moment-debris-filled-flood-tears-through-nepal-river/",
+    "pubDate": "Tue, 13 Oct 2026 09:47:02 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-10-13T14:00:00.000Z",
+    "collectedAt": "2026-10-13T14:00:02.481Z"
+  },
+  {
+    "title": "Ted Lasso star Hannah Waddingham’s next big role revealed: sources",
+    "description": "\"Ted Lasso\" star Hannah Waddingham — who plays AFC Richmond owner Rebecca Welton on the hit Apple series — has landed the lead role in Emma Thompson's upcoming West End stage adaptation of \"Nanny McPhee.\"",
+    "link": "https://pagesix.com/2026/10/13/hollywood/ted-lasso-star-lands-lead-role-in-emma-thompsons-nanny-mcphee-sources/",
+    "pubDate": "Tue, 13 Oct 2026 09:45:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-10-13T14:00:00.000Z",
+    "collectedAt": "2026-10-13T14:00:02.481Z"
+  },
+  {
+    "title": "Famed celebrity hotspot is latest victim of LA ‘restaurant bloodbath’ as it closes and leaves the city",
+    "description": "Beverly Hills celebrity haunt Crustacean — a favorite of stars over the years from Barbra Streisand to Flea, Samuel L. Jackson and Diane Warren — shutters for good at the end of the month.",
+    "link": "https://pagesix.com/2026/10/13/hollywood/beverly-hills-hotspot-latest-la-restaurant-to-close-its-doors-and-leave-california-as-rents-soar-amid-sluggish-business/",
+    "pubDate": "Tue, 13 Oct 2026 09:45:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-10-13T14:00:00.000Z",
+    "collectedAt": "2026-10-13T14:00:02.481Z"
+  },
+  {
+    "title": "Jay Penske’s Golden Globes sues Golden Globe Foundation in latest twist for awards’ bizarre legal saga",
+    "description": "Jay Penske’s Golden Globes has now sued the Golden Globe Foundation, the similarly named nonprofit whose board is mostly comprised of former HFPA members, who also happen to be suing Penske in federal court.",
+    "link": "https://pagesix.com/2026/10/13/hollywood/golden-globes-sues-golden-globe-foundation-in-latest-twist-for-awards-bizarre-legal-saga/",
+    "pubDate": "Tue, 13 Oct 2026 09:45:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-10-13T14:00:00.000Z",
+    "collectedAt": "2026-10-13T14:00:02.481Z"
   }
 ]
