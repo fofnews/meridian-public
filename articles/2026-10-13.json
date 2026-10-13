@@ -1058,5 +1058,27 @@
     ],
     "collectRun": "2026-10-13T08:00:00.000Z",
     "collectedAt": "2026-10-13T08:00:01.918Z"
+  },
+  {
+    "title": "Man stabs at least 8 people in South Korean mall",
+    "description": "Police and fire officials in the South Korean city of Incheon say a man stabbed at least eight people at a shopping mall",
+    "link": "https://abcnews.com/International/wireStory/man-stabs-8-people-south-korean-mall-137216769",
+    "pubDate": "Tue, 13 Oct 2026 04:02:32 -0400",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectRun": "2026-10-13T08:15:00.000Z",
+    "collectedAt": "2026-10-13T08:15:02.123Z"
+  },
+  {
+    "title": "Six Flags Goliath Rider’s Fatal Fall Captured in Souvenir Photo",
+    "description": "Witnesses have recalled the moment a man was ejected from the ride.",
+    "link": "https://www.newsweek.com/six-flags-goliath-riders-fatal-fall-captured-in-souvenir-photo-12559223",
+    "pubDate": "Tue, 13 Oct 2026 04:13:34 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-10-13T08:15:00.000Z",
+    "collectedAt": "2026-10-13T08:15:02.123Z"
   }
 ]
