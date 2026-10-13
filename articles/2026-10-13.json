@@ -1080,5 +1080,29 @@
     "categories": [],
     "collectRun": "2026-10-13T08:15:00.000Z",
     "collectedAt": "2026-10-13T08:15:02.123Z"
+  },
+  {
+    "title": "Emir of Qatar reiterates the need for safety and stability in the region",
+    "description": "Sheikh Tamim bin Hamad Al Thani addresses the Shura Council and emphasises the need for regional stability and safety.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/emir-of-qatar-reiterates-the-need-for-safety-and-stability-in-the-region?traffic_source=rss",
+    "pubDate": "Tue, 13 Oct 2026 08:10:35 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectRun": "2026-10-13T08:30:00.000Z",
+    "collectedAt": "2026-10-13T08:30:01.470Z"
+  },
+  {
+    "title": "Palestine weekly: Gaza marks year of ‘ceasefire’ with more Israeli killing",
+    "description": "A year after Gaza's ceasefire, Israeli attacks persist as settler violence disrupts West Bank's oil harvest.",
+    "link": "https://www.aljazeera.com/news/2026/10/13/palestine-weekly-gaza-marks-year-of-ceasefire-with-more-israeli-killing?traffic_source=rss",
+    "pubDate": "Tue, 13 Oct 2026 07:45:07 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-10-13T08:30:00.000Z",
+    "collectedAt": "2026-10-13T08:30:01.470Z"
   }
 ]
