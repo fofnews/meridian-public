@@ -2060,5 +2060,332 @@
     ],
     "collectRun": "2026-10-15T10:00:00.000Z",
     "collectedAt": "2026-10-15T10:00:02.528Z"
+  },
+  {
+    "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
+    "description": "Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over.",
+    "link": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war",
+    "pubDate": "Thu, 15 Oct 2026 06:05:58 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectRun": "2026-10-15T10:15:00.000Z",
+    "collectedAt": "2026-10-15T10:15:03.245Z"
+  },
+  {
+    "title": "Greetings from Mexico City, where a bullfighting ban doesn't stop this matador training",
+    "description": "One plays the bull, the other the bullfighter, as a pair practices a dance of death in a sport that's prohibited in the Mexican capital city.",
+    "link": "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training",
+    "pubDate": "Thu, 15 Oct 2026 06:00:00 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectRun": "2026-10-15T10:15:00.000Z",
+    "collectedAt": "2026-10-15T10:15:03.245Z"
+  },
+  {
+    "title": "Inflation Data Undercuts Trump’s Economic Claims, and the Danger of New Jet-Powered Drones",
+    "description": "Plus, the legacy of a competitive eating champion.",
+    "link": "https://www.nytimes.com/2026/10/15/podcasts/the-headlines/inflation-jet-powered-drones.html",
+    "pubDate": "Thu, 15 Oct 2026 10:00:07 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "united states economy",
+      "trump, donald j",
+      "kyiv (ukraine)",
+      "ukraine"
+    ],
+    "collectRun": "2026-10-15T10:15:00.000Z",
+    "collectedAt": "2026-10-15T10:15:03.245Z"
+  },
+  {
+    "title": "Israeli ad company helped a spyware firm target Al Jazeera through online ads, researchers say",
+    "description": "An Israeli ad company, DiscoverTech, has for years been secretly helping spyware developers place their hacking software on popular websites, researchers say.",
+    "link": "https://www.nbcnews.com/tech/security/israeli-ad-company-helped-spyware-firm-target-al-jazeera-online-ads-re-rcna602999",
+    "pubDate": "Thu, 15 Oct 2026 10:00:00 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectRun": "2026-10-15T10:15:00.000Z",
+    "collectedAt": "2026-10-15T10:15:03.245Z"
+  },
+  {
+    "title": "2027 COLA Increase: What It Means for VA Disability Benefits",
+    "description": "The increase will apply to more than 6 million veterans nationwide who currently get Veterans Affairs disability compensation.",
+    "link": "https://www.newsweek.com/2027-cola-increase-what-means-va-disability-benefits-12571215",
+    "pubDate": "Thu, 15 Oct 2026 06:12:01 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-10-15T10:15:00.000Z",
+    "collectedAt": "2026-10-15T10:15:03.245Z"
+  },
+  {
+    "title": "Teachers Are Trying to Teach. But Who's Teaching Our Kids to (Mis)Behave?",
+    "description": "America needs a revolution to save its schools—it means moms and dads must respect and reconnect with overburdened educators.",
+    "link": "https://www.newsweek.com/teachers-kids-misbehave-parents-school-good-life-12571132",
+    "pubDate": "Thu, 15 Oct 2026 06:02:41 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-10-15T10:15:00.000Z",
+    "collectedAt": "2026-10-15T10:15:03.245Z"
+  },
+  {
+    "title": "Man killed by tiger climbed two fences before suffering multiple injuries, inquest hears",
+    "description": "William Chapman climbed two fences to enter a tiger's pen at Yorkshire Wildlife Park, an inquest hears.",
+    "link": "https://www.bbc.co.uk/news/articles/cxr5y83v1eldo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 15 Oct 2026 10:12:17 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectRun": "2026-10-15T10:15:00.000Z",
+    "collectedAt": "2026-10-15T10:15:03.245Z"
+  },
+  {
+    "title": "Russia says Ukraine resumes attacks on oil refineries",
+    "description": "Ukraine's president earlier said Kyiv was 'done' with energy ceasefire and that strikes on Russian oil refineries would resume.",
+    "link": "https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries?traffic_source=rss",
+    "pubDate": "Thu, 15 Oct 2026 10:02:17 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-10-15T10:15:00.000Z",
+    "collectedAt": "2026-10-15T10:15:03.245Z"
+  },
+  {
+    "title": "Long-delayed China-North Korea bridge officially opens",
+    "description": "China and North Korea have officially opened the New Yalu River Bridge after a 12-year delay.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/long-delayed-china-north-korea-bridge-officially-opens?traffic_source=rss",
+    "pubDate": "Thu, 15 Oct 2026 10:00:58 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectRun": "2026-10-15T10:15:00.000Z",
+    "collectedAt": "2026-10-15T10:15:03.245Z"
+  },
+  {
+    "title": "Albania's Rama says he will not resign over protests - Reuters",
+    "description": "Albania's Rama says he will not resign over protests  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYzR2R3ctV19YUFlJRy1QM3RoT0wyV2d1dTlfZHVEanNDcDFJMzZjM2Zyck45b3NMTktPWVVLYl9NUFBmZmRYRGw5YnI0Z3RLbDQ5MVZKck1PNF8yRTAtdlhFUWF5N0R5Z1psX0ZGN2k5ZUZ0RjFtWU9Sblg0MTZmbGxkcjFUeHlHdDd3em44UlY3cGRuUmdjOUtJQmstNFVCX3c?oc=5",
+    "pubDate": "Thu, 15 Oct 2026 09:55:44 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectRun": "2026-10-15T10:15:00.000Z",
+    "collectedAt": "2026-10-15T10:15:03.245Z"
+  },
+  {
+    "title": "Chinese startup DexForce trains humanoid robots using virtual data to slash costs - Reuters",
+    "description": "Chinese startup DexForce trains humanoid robots using virtual data to slash costs  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY3RWbl9HdXVzVGdQMGl2SFFKU05DYW5TbXBHOGF3WDFnQWJOa2NHalNlc3JjeXB6b1FMbmgzY1RPOTI3b3hNUU8xb0lDb0pEeVdpQjBRaEl6aWZfSERLbUNHLUc5U0NkTkJTMjJtY3Bab2NnNWo1MDh4WXpOMWNnc3lZdHlmUjNyZmlSaVNjeHJqMHd1aXNFaVZkdGVTOXdyc3UybE5RVDg2ZWVYdnNFSC15WFVRNldielZzRFJ5Yk01OFU?oc=5",
+    "pubDate": "Thu, 15 Oct 2026 07:47:25 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectRun": "2026-10-15T10:15:00.000Z",
+    "collectedAt": "2026-10-15T10:15:03.245Z"
+  },
+  {
+    "title": "Mystery surrounds DOJ’s investigation of Gavin Newsom",
+    "description": "Nearly four months have passed since California Gov. Gavin Newsom (D) publicly and unexpectedly announced President Trump was launching what Newsom described as a politically motivated federal investigation into him and his wife.  Federal agents had “knocked on the doors” of family friends and former employees, the governor said at the time. Since then, Newsom…",
+    "link": "https://thehill.com/homenews/campaign/6149261-trump-targets-newsom-foundation/",
+    "pubDate": "\n\t\tThu, 15 Oct 2026 10:00:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "news",
+      "state watch"
+    ],
+    "collectRun": "2026-10-15T10:15:00.000Z",
+    "collectedAt": "2026-10-15T10:15:03.245Z"
+  },
+  {
+    "title": "Connecticut governor holds double-digit lead in reelection bid: Poll",
+    "description": "Connecticut Gov. Ned Lamont (D) has a double-digit lead over his Republican opponent Ryan Fazio in the race for the Constitution State’s top job, according to a new poll. In the Emerson College Polling/The Hill survey, 51.4 percent of respondents said they would cast their ballot for Lamont if the election occurred that day or…",
+    "link": "https://thehill.com/homenews/campaign/6148737-lamont-leads-fazio-poll-midterms/",
+    "pubDate": "\n\t\tThu, 15 Oct 2026 10:00:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "news",
+      "state watch",
+      "2026 connecticut governor's race",
+      "2026 midterms",
+      "connecticut"
+    ],
+    "collectRun": "2026-10-15T10:15:00.000Z",
+    "collectedAt": "2026-10-15T10:15:03.245Z"
+  },
+  {
+    "title": "Trump’s flood-the-zone strategy drowns state-specific midterm messaging",
+    "description": "President Trump is seeking to boost Republican candidates facing tough elections by rolling out a number of key initiatives meant to foster goodwill with voters in battleground states, but he risks overshadowing these announcements with his focus on unrelated issues.  Trump touted a South Korean liquified natural gas investment Tuesday during a campaign stop in…",
+    "link": "https://thehill.com/homenews/campaign/6149466-donald-trump-midterm-economic-initiatives-rallies/",
+    "pubDate": "\n\t\tThu, 15 Oct 2026 10:00:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "campaign"
+    ],
+    "collectRun": "2026-10-15T10:15:00.000Z",
+    "collectedAt": "2026-10-15T10:15:03.245Z"
+  },
+  {
+    "title": "Trump, Senate GOP see Starlink become latest flash point over Ukraine",
+    "description": "Ukraine’s sudden and unexplained loss of full access to the military version of Starlink is adding to tensions between President Trump and Senate Republicans as GOP senators are scrambling to find out whether Trump played a role in reducing Ukraine’s defensive capabilities. Many of Ukraine’s staunchest supporters within the Senate Republican Conference stayed silent Wednesday…",
+    "link": "https://thehill.com/homenews/senate/6149563-trump-ukraine-starlink-controversy/",
+    "pubDate": "\n\t\tThu, 15 Oct 2026 10:00:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "news",
+      "senate"
+    ],
+    "collectRun": "2026-10-15T10:15:00.000Z",
+    "collectedAt": "2026-10-15T10:15:03.245Z"
+  },
+  {
+    "title": "Sally Rooney Is No Free Speech Hero - The Free Press",
+    "description": "Sally Rooney Is No Free Speech Hero  The Free Press",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uTU9BVENxRzFUdWF2UlM2ZGFNXy1odkJ1RXBqT1RtWmJjTl8yTFFaS0x2cmlnUm5xckdLcE1sTlhndDRWcXNDbnpCbFRkZ1A3N21sdjJJV3oyazVwbUJkTEU4QlpSWnNzVDA4?oc=5",
+    "pubDate": "Thu, 15 Oct 2026 02:52:58 GMT",
+    "source": "The Free Press",
+    "categories": [],
+    "collectRun": "2026-10-15T10:15:00.000Z",
+    "collectedAt": "2026-10-15T10:15:03.245Z"
+  },
+  {
+    "title": "'Heartbroken' Washington state superintendent says no consequences for girls who protested transgender runner",
+    "description": "Camas School District superintendent John Anzalone says girls who walked off the cross country starting line in protest will face no repercussions.",
+    "link": "https://www.foxnews.com/outkick-sports/heartbroken-washington-state-superintendent-says-no-consequences-girls-protested-transgender-runner",
+    "pubDate": "Thu, 15 Oct 2026 06:07:10 -0400",
+    "source": "Fox News",
+    "categories": [
+      "f6155505-2927-5bb1-b0a0-9ea62407e350",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/controversies",
+      "fox-news/controversies",
+      "fox-news/us/education/parents",
+      "fox-news/sports",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectRun": "2026-10-15T10:15:00.000Z",
+    "collectedAt": "2026-10-15T10:15:03.245Z"
+  },
+  {
+    "title": "This sparsely populated red state quietly climbed to the top of America's financial rankings",
+    "description": "North Dakota tops Truth in Accounting's state finances ranking with a $72,300 taxpayer surplus, while 24 states can't cover all their bills.",
+    "link": "https://www.foxnews.com/politics/sparsely-populated-red-state-quietly-climbed-top-americas-financial-rankings",
+    "pubDate": "Thu, 15 Oct 2026 06:00:58 -0400",
+    "source": "Fox News",
+    "categories": [
+      "341b4cd6-3dbb-534f-8a56-428decb5cf8a",
+      "fnc",
+      "fox news",
+      "fox-news/politics/finance/taxes",
+      "fox-news/politics/elections/state",
+      "fox-news/us/us-regions/midwest/north-dakota",
+      "fox-news/politics",
+      "fox-news/us/economy",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectRun": "2026-10-15T10:15:00.000Z",
+    "collectedAt": "2026-10-15T10:15:03.245Z"
+  },
+  {
+    "title": "Christa Pike is back behind bars after botched execution, but her ultimate sentence faces a new test",
+    "description": "Christa Pike's survival of lethal injection could raise double jeopardy and disability claims that may block Tennessee from executing her again.",
+    "link": "https://www.foxnews.com/us/christa-pike-back-behind-bars-after-botched-execution-ultimate-sentence-faces-new-test",
+    "pubDate": "Thu, 15 Oct 2026 06:00:58 -0400",
+    "source": "Fox News",
+    "categories": [
+      "7aa91d19-a7b9-5ee0-bff0-139357a91912",
+      "fnc",
+      "fox news",
+      "fox-news/us/true-crime",
+      "fox-news/us",
+      "fox-news/us/crime/homicide",
+      "fox-news/us/crime/trials",
+      "fox-news/us/us-regions/southeast/tennessee",
+      "fox-news/crime",
+      "fox-news/us",
+      "article"
+    ],
+    "collectRun": "2026-10-15T10:15:00.000Z",
+    "collectedAt": "2026-10-15T10:15:03.245Z"
+  },
+  {
+    "title": "Best foods for reducing dangerous belly fat and protecting heart health",
+    "description": "Belly fat and visceral fat are linked to serious health issues. A doctor shares how lean protein, fruits and vegetables, and healthy fats can help reduce stomach fat.",
+    "link": "https://www.foxnews.com/food-drink/best-foods-reducing-dangerous-belly-fat-protecting-heart-health",
+    "pubDate": "Thu, 15 Oct 2026 06:00:45 -0400",
+    "source": "Fox News",
+    "categories": [
+      "26895231-c55f-5cda-8aa1-edd3ce0c0a0e",
+      "fnc",
+      "fox news",
+      "fox-news/food-drink/food/healthy-foods",
+      "fox-news/food-drink",
+      "fox-news/lifestyle/food",
+      "fox-news/lifestyle",
+      "fox-news/health/nutrition-and-fitness/nutrition",
+      "fox-news/health/healthy-living",
+      "fox-news/food-drink/food",
+      "fox-news/food-drink",
+      "article"
+    ],
+    "collectRun": "2026-10-15T10:15:00.000Z",
+    "collectedAt": "2026-10-15T10:15:03.245Z"
+  },
+  {
+    "title": "Most dramatic moments from Rep Mike Lawler's fiery debate against Dem Cait Conley in battle for House control",
+    "description": "Rep. Mike Lawler, R-N.Y., clashed with Dem Cait Conley over ICE enforcement, sanctuary cities, and bail reform in a fiery debate for New York's swing district.",
+    "link": "https://www.foxnews.com/politics/most-dramatic-moments-rep-mike-lawler-fiery-debate-dem-cait-conley-battle-house-control",
+    "pubDate": "Thu, 15 Oct 2026 06:00:11 -0400",
+    "source": "Fox News",
+    "categories": [
+      "ad97bb69-d0eb-51eb-ac30-a3637a698e82",
+      "fnc",
+      "fox news",
+      "fox-news/politics/elections/midterm-elections",
+      "fox-news/us/us-regions/northeast/new-york",
+      "fox-news/politics/elections/house-of-representatives",
+      "fox-news/us/congress",
+      "fox-news/us/immigration/illegal-immigrants",
+      "fox-news/politics/executive/homeland-security",
+      "fox-news/politics",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectRun": "2026-10-15T10:15:00.000Z",
+    "collectedAt": "2026-10-15T10:15:03.245Z"
+  },
+  {
+    "title": "Two ships ablaze in Romanian Black Sea waters, 7 sailors missing",
+    "description": "Rescuers are searching for seven missing sailors after two chemical tankers caught fire in Romanian waters near the mouth of the Danube River.",
+    "link": "https://nypost.com/2026/10/15/world-news/two-ships-ablaze-in-romanian-black-sea-waters-7-sailors-missing/",
+    "pubDate": "Thu, 15 Oct 2026 06:11:14 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-10-15T10:15:00.000Z",
+    "collectedAt": "2026-10-15T10:15:03.245Z"
+  },
+  {
+    "title": "US considers easing sanctions on shadow fleet vessels to cut freight rates, official says",
+    "description": "The Trump administration is considering easing sanctions on shadow fleet tankers to lower record global freight rates, a US official says.",
+    "link": "https://nypost.com/2026/10/15/business/us-considers-easing-sanctions-on-shadow-fleet-vessels-to-cut-freight-rates-official-says/",
+    "pubDate": "Thu, 15 Oct 2026 06:00:50 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-10-15T10:15:00.000Z",
+    "collectedAt": "2026-10-15T10:15:03.245Z"
+  },
+  {
+    "title": "FBI probes Long Island Dem party boss after claims he tried to buy votes for reelection",
+    "description": "The FBI is investigating a powerful suburban party boss for corruption, according to multiple party and local government sources who told The Post they’ve been interviewed by federal agents.",
+    "link": "https://nypost.com/2026/10/15/us-news/fbi-probes-long-island-dem-party-boss-after-claims-he-tried-to-buy-votes-for-reelection/",
+    "pubDate": "Thu, 15 Oct 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-10-15T10:15:00.000Z",
+    "collectedAt": "2026-10-15T10:15:03.245Z"
   }
 ]
