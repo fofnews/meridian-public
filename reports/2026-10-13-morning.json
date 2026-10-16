@@ -5674,7 +5674,34 @@
           "entities": {}
         }
       ],
-      "analysis": null
+      "analysis": {
+        "summary": "John James, the Republican nominee for governor of Michigan, is trailing Democrat Jocelyn Benson in polls as tariffs and the war with Iran dominate the race. In an interview on CBS News' \"The Takeout,\" James discusses the state of his campaign and says \"Trump doesn't speak for\" Michigan amid the ongoing Canada tariff dispute.",
+        "locations": [
+          {
+            "name": "Michigan",
+            "lat": 42.7335,
+            "lng": -84.5467,
+            "iso": "US"
+          },
+          {
+            "name": "Canada",
+            "lat": 45.4215,
+            "lng": -75.6972,
+            "iso": "CA"
+          },
+          {
+            "name": "Iran",
+            "lat": 35.6892,
+            "lng": 51.389,
+            "iso": "IR"
+          }
+        ],
+        "claims": [],
+        "agreements": [],
+        "disagreements": [],
+        "uniqueAngles": []
+      },
+      "analysisAddedAt": "2026-10-16T10:52:52.557Z"
     },
     {
       "id": "story-85",
@@ -6353,7 +6380,28 @@
           "entities": {}
         }
       ],
-      "analysis": null
+      "analysis": {
+        "summary": "The New York Times reports that Republicans promoted a false rumor that James Talarico, the Democratic Senate nominee in Texas, was in Ohio. Talarico and his campaign said he spent nine days off the campaign trail with a bad case of the flu. His opponents fueled rumors about his whereabouts, including one that spread widely before it was debunked.",
+        "locations": [
+          {
+            "name": "Texas",
+            "lat": 30.2672,
+            "lng": -97.7431,
+            "iso": "US"
+          },
+          {
+            "name": "Ohio",
+            "lat": 39.9612,
+            "lng": -82.9988,
+            "iso": "US"
+          }
+        ],
+        "claims": [],
+        "agreements": [],
+        "disagreements": [],
+        "uniqueAngles": []
+      },
+      "analysisAddedAt": "2026-10-16T10:52:52.557Z"
     },
     {
       "id": "story-125",
