@@ -8597,7 +8597,28 @@
           "entities": {}
         }
       ],
-      "analysis": null
+      "analysis": {
+        "summary": "Florida Republican Rep. María Elvira Salazar, who is running for re-election, has received political support from right-wing figures overseas, according to NBC News. The article reports that the backing includes a presidential endorsement from Colombia. It notes that Salazar is currently on the outs with President Donald Trump.",
+        "locations": [
+          {
+            "name": "Florida, United States",
+            "lat": 30.4383,
+            "lng": -84.2807,
+            "iso": "US"
+          },
+          {
+            "name": "Colombia",
+            "lat": 4.711,
+            "lng": -74.0721,
+            "iso": "CO"
+          }
+        ],
+        "claims": [],
+        "agreements": [],
+        "disagreements": [],
+        "uniqueAngles": []
+      },
+      "analysisAddedAt": "2026-10-16T10:53:17.206Z"
     },
     {
       "id": "story-257",
