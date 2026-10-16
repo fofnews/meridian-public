@@ -1468,7 +1468,68 @@
           "entities": {}
         }
       ],
-      "analysis": null
+      "analysis": {
+        "headline": "Supreme Court takes up asylum case over Nigerian man who cooked for terrorists",
+        "summary": "The Supreme Court agreed to hear a case on whether a Nigerian man's cooking for a terrorist group counts as 'material support' that bars him from asylum in the U.S. The case arises from the Trump administration's bid to deny him asylum.",
+        "locations": [
+          {
+            "name": "United States",
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "iso": "US"
+          },
+          {
+            "name": "Nigeria",
+            "lat": 9.0765,
+            "lng": 7.3986,
+            "iso": "NG"
+          }
+        ],
+        "claims": [
+          {
+            "statement": "The Supreme Court agreed to take up a case involving a Nigerian man who cooked for a terrorist group and was denied asylum over alleged material support.",
+            "sources": [
+              "The Hill",
+              "NBC News"
+            ]
+          },
+          {
+            "statement": "The Supreme Court agreed on Tuesday to take up the case.",
+            "sources": [
+              "The Hill"
+            ]
+          },
+          {
+            "statement": "The man was held captive by the group at the time he cooked for them.",
+            "sources": [
+              "The Hill"
+            ]
+          },
+          {
+            "statement": "The case concerns the Trump administration's bid to deny the man asylum.",
+            "sources": [
+              "NBC News"
+            ]
+          },
+          {
+            "statement": "An immigration judge decided the man had provided 'material support' for a known terrorist group by cooking for them, and he was denied asylum.",
+            "sources": [
+              "The Hill"
+            ]
+          }
+        ],
+        "disagreements": [],
+        "context": {
+          "significance": "The case tests how broadly the 'material support for terrorism' bar in immigration law applies, including to people who acted under coercion. Its outcome could affect refugees and asylum seekers who fled armed groups and were forced to provide labor or services, and it reflects the tension between national security screening and humanitarian protection obligations.",
+          "outlook": [
+            "Whether the Court reads the material support bar to include a duress or coercion exception.",
+            "How the justices weigh the statute's text, which contains no explicit exception for involuntary support, against humanitarian concerns.",
+            "Whether a ruling would reach beyond this case and reshape asylum adjudications for others forced into assisting armed groups.",
+            "When oral arguments will be scheduled and what position the government takes in its briefs."
+          ]
+        }
+      },
+      "analysisAddedAt": "2026-10-16T10:52:35.248Z"
     },
     {
       "id": "story-148",
@@ -11152,7 +11213,28 @@
           "entities": {}
         }
       ],
-      "analysis": null
+      "analysis": {
+        "summary": "House Minority Leader Hakeem Jeffries (D-N.Y.) reiterated his opposition to a federal raid on the home of Minnesota Rep. Ilhan Omar, which took place about three weeks before Election Day. Speaking at a campaign event in New Hampshire, Jeffries said he believed nothing justified an 'extraordinary raid' and attributed the targeting of Omar to right-wing conspiracy theorists over roughly eight years. The excerpt provided is truncated.",
+        "locations": [
+          {
+            "name": "Minnesota",
+            "lat": 44.9537,
+            "lng": -93.09,
+            "iso": "US"
+          },
+          {
+            "name": "United States",
+            "lat": 38.8951,
+            "lng": -77.0364,
+            "iso": "US"
+          }
+        ],
+        "claims": [],
+        "agreements": [],
+        "disagreements": [],
+        "uniqueAngles": []
+      },
+      "analysisAddedAt": "2026-10-16T10:52:35.248Z"
     },
     {
       "id": "story-259",
