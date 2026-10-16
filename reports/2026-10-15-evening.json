@@ -9321,7 +9321,40 @@
           "entities": {}
         }
       ],
-      "analysis": null
+      "analysis": {
+        "summary": "Former Vice President Kamala Harris said on Wednesday that the Biden administration should have responded sooner to the Israeli government's conduct in the Gaza war, which she called \"horrific.\" Speaking at the Asan Memorial Lecture in Seoul, South Korea, she said the U.S. had \"fallen short\" on its \"moral obligation to human rights and international law.\"",
+        "locations": [
+          {
+            "name": "Gaza",
+            "lat": 31.5017,
+            "lng": 34.4668,
+            "iso": "PS"
+          },
+          {
+            "name": "Israel",
+            "lat": 31.7683,
+            "lng": 35.2137,
+            "iso": "IL"
+          },
+          {
+            "name": "Seoul, South Korea",
+            "lat": 37.5665,
+            "lng": 126.978,
+            "iso": "KR"
+          },
+          {
+            "name": "United States",
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "iso": "US"
+          }
+        ],
+        "claims": [],
+        "agreements": [],
+        "disagreements": [],
+        "uniqueAngles": []
+      },
+      "analysisAddedAt": "2026-10-16T10:53:02.221Z"
     },
     {
       "id": "story-206",
