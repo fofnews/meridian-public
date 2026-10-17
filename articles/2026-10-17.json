@@ -3280,5 +3280,54 @@
     "categories": [],
     "collectRun": "2026-10-17T13:30:00.000Z",
     "collectedAt": "2026-10-17T13:30:01.563Z"
+  },
+  {
+    "title": "Alligator kills 71-year-old man fishing at pond in Florida",
+    "description": "The man was dragged into a pond and killed by the alligator, according to authorities.",
+    "link": "https://www.cbsnews.com/news/alligator-kills-man-fishing-at-pond-winter-garden-florida/",
+    "pubDate": "Sat, 17 Oct 2026 09:38:18 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectRun": "2026-10-17T13:45:00.000Z",
+    "collectedAt": "2026-10-17T13:45:01.312Z"
+  },
+  {
+    "title": "Hackers hide dangerous fake AI downloads behind Google ads",
+    "description": "A fake Claude AI download scam uses Google ads and Bing redirects to trick Mac users into pasting a hidden malicious command in their Terminal.",
+    "link": "https://www.foxnews.com/tech/hackers-hide-dangerous-fake-ai-downloads-behind-google-ads",
+    "pubDate": "Sat, 17 Oct 2026 09:20:23 -0400",
+    "source": "Fox News",
+    "categories": [
+      "88e83672-3101-5f01-94e0-f50cb39d6b4d",
+      "fnc",
+      "fox news",
+      "fox-news/tech/topics/cybercrime",
+      "fox-news/tech/topics/virus",
+      "fox-news/culture",
+      "fox-news/tech",
+      "article"
+    ],
+    "collectRun": "2026-10-17T13:45:00.000Z",
+    "collectedAt": "2026-10-17T13:45:01.312Z"
+  },
+  {
+    "title": "Zelensky blasts ‘unfortunate’ decision to pause Russia sanctions as Moscow hits power plants",
+    "description": "Zelensky reported that Russia targeted the energy sector with over 320 drones, missiles, and munitions.",
+    "link": "https://nypost.com/2026/10/17/world-news/zelensky-blasts-unfortunate-decision-to-pause-russia-sanctions-as-moscow-hits-power-plants/",
+    "pubDate": "Sat, 17 Oct 2026 09:41:05 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-10-17T13:45:00.000Z",
+    "collectedAt": "2026-10-17T13:45:01.312Z"
+  },
+  {
+    "title": "‘Marshals’ Star Ash Santos Shares Hopes For An “Iconic” ‘Dutton Ranch’ Crossover: “Who Wouldn’t Want To See That?”",
+    "description": "\"I think the world of Kelly and Cole,\" Santos told Decider when making her crossover case.",
+    "link": "https://decider.com/2026/10/17/dutton-ranch-marshals-crossover-update-ash-santos/",
+    "pubDate": "Sat, 17 Oct 2026 09:30:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-10-17T13:45:00.000Z",
+    "collectedAt": "2026-10-17T13:45:01.312Z"
   }
 ]
