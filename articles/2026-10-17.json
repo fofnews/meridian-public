@@ -1287,5 +1287,55 @@
     ],
     "collectRun": "2026-10-17T09:30:00.000Z",
     "collectedAt": "2026-10-17T09:30:02.656Z"
+  },
+  {
+    "title": "Paper Towns",
+    "description": "We’re all temporary citizens of makeshift communities created by happenstance.",
+    "link": "https://www.nytimes.com/2026/10/17/briefing/jury-duty.html",
+    "pubDate": "Sat, 17 Oct 2026 09:30:21 +0000",
+    "source": "NY Times",
+    "categories": [
+      "internal-storyline-no",
+      "internal-open-access-from-nl",
+      "jury system",
+      "courts and the judiciary",
+      "law and legislation"
+    ],
+    "collectRun": "2026-10-17T09:45:00.000Z",
+    "collectedAt": "2026-10-17T09:45:00.999Z"
+  },
+  {
+    "title": "Why Don't Boomers Want to Grandparent?",
+    "description": "One mom told Newsweek the hardest part isn't the lack of childcare, but the relationship her parents are missing with her kids.",
+    "link": "https://www.newsweek.com/why-dont-boomers-want-to-grandparent-12575764",
+    "pubDate": "Sat, 17 Oct 2026 05:30:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-10-17T09:45:00.000Z",
+    "collectedAt": "2026-10-17T09:45:00.999Z"
+  },
+  {
+    "title": "IMF urges support for poorer nations facing high inflation, war spillovers",
+    "description": "Low-income countries spend up to 14 percent of their revenue on debt repayments, IMF chief says.",
+    "link": "https://www.aljazeera.com/economy/2026/10/17/war-spillovers-debt-threaten-low-income-nations-imf-chief-warns?traffic_source=rss",
+    "pubDate": "Sat, 17 Oct 2026 09:31:47 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-10-17T09:45:00.000Z",
+    "collectedAt": "2026-10-17T09:45:00.999Z"
+  },
+  {
+    "title": "Iran-backed Houthis strike Yemen’s Aden: What that means",
+    "description": "What we know about the Houthi strikes on Aden’s presidential palace and airport, and why they matter.",
+    "link": "https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means?traffic_source=rss",
+    "pubDate": "Sat, 17 Oct 2026 09:16:48 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-10-17T09:45:00.000Z",
+    "collectedAt": "2026-10-17T09:45:00.999Z"
   }
 ]
