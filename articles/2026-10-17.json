@@ -2664,5 +2664,57 @@
     ],
     "collectRun": "2026-10-17T12:15:00.000Z",
     "collectedAt": "2026-10-17T12:15:01.343Z"
+  },
+  {
+    "title": "'Mood has really shifted' as Paris protesters clash with police",
+    "description": "The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.",
+    "link": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 17 Oct 2026 12:14:52 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectRun": "2026-10-17T12:30:00.000Z",
+    "collectedAt": "2026-10-17T12:30:02.539Z"
+  },
+  {
+    "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
+    "description": "Two vessels have been struck with naval mines in the Strait of Hormuz this week.",
+    "link": "https://www.aljazeera.com/news-analysis/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss",
+    "pubDate": "Sat, 17 Oct 2026 12:10:56 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news analysis"
+    ],
+    "collectRun": "2026-10-17T12:30:00.000Z",
+    "collectedAt": "2026-10-17T12:30:02.539Z"
+  },
+  {
+    "title": "Sophie Cunningham commends Washington state girls who walked off cross country race over male teammate",
+    "description": "Sophie Cunningham praised Camas High School girls who walked out of a cross-country race to protest a transgender teammate's switch to girls' competition.",
+    "link": "https://www.foxnews.com/outkick-sports/sophie-cunningham-commends-washington-state-girls-walked-off-cross-country-race-male-teammate",
+    "pubDate": "Sat, 17 Oct 2026 08:09:31 -0400",
+    "source": "Fox News",
+    "categories": [
+      "20f01131-de08-5f3b-a115-482b0f5c797f",
+      "fnc",
+      "fox news",
+      "fox-news/sports/wnba",
+      "fox-news/controversies",
+      "fox-news/controversies",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectRun": "2026-10-17T12:30:00.000Z",
+    "collectedAt": "2026-10-17T12:30:02.539Z"
+  },
+  {
+    "title": "Fisherman, 71, killed by 12-foot alligator while he stood on shoreline",
+    "description": "A 71-year-old man was fatally savaged by a 12-foot alligator while fishing on the shoreline in Florida on Friday afternoon. The Florida Fish & Wildlife Conservation Commission identified the victim as Steven Hamilton of Winter Garden, according to FOX35. Emergency crews rushed to the scene at around 5 p.m. after Hamilton was mauled by the...",
+    "link": "https://nypost.com/2026/10/17/us-news/fisherman-killed-by-12-foot-alligator-while-he-stood-on-shoreline/",
+    "pubDate": "Sat, 17 Oct 2026 08:27:52 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-10-17T12:30:00.000Z",
+    "collectedAt": "2026-10-17T12:30:02.539Z"
   }
 ]
