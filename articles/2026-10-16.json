@@ -14654,5 +14654,37 @@
     ],
     "collectRun": "2026-10-17T03:30:00.000Z",
     "collectedAt": "2026-10-17T03:30:01.584Z"
+  },
+  {
+    "title": "Southern California wildfire engulfs homes, prompts evacuation orders",
+    "description": "The fast-spreading Norte Fire in Orange County is fuelled by intense warm winds and unseasonably high temperatures.",
+    "link": "https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss",
+    "pubDate": "Sat, 17 Oct 2026 03:30:36 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-10-17T03:45:00.000Z",
+    "collectedAt": "2026-10-17T03:45:01.194Z"
+  },
+  {
+    "title": "GOP Sens. Ted Cruz, Susan Collins join growing list of targets of suspicious ‘white powder’ mailings",
+    "description": "The FBI, US Postal Inspection Service and Capitol Police are investigating letters, some of which have been intercepted before reaching their destination.",
+    "link": "https://nypost.com/2026/10/16/us-news/gop-sens-ted-cruz-susan-collins-join-growing-list-of-targets-of-suspicious-white-powder-mailings/",
+    "pubDate": "Fri, 16 Oct 2026 23:41:58 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-10-17T03:45:00.000Z",
+    "collectedAt": "2026-10-17T03:45:01.194Z"
+  },
+  {
+    "title": "3 men sentenced to more than 158 years for killing Australian brothers, US surf pal in Mexico",
+    "description": "The sentencing, which came a week after the men were found guilty, marked the end of a lengthy legal process over the killings of Australians Callum and Jake Robinson, and American Carter Redd Rhoad.",
+    "link": "https://nypost.com/2026/10/16/world-news/3-mexican-men-sentenced-for-killing-australian-brothers-callum-and-jake-robinson-us-surf-pal-carter-rhoad/",
+    "pubDate": "Fri, 16 Oct 2026 23:38:31 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-10-17T03:45:00.000Z",
+    "collectedAt": "2026-10-17T03:45:01.194Z"
   }
 ]
