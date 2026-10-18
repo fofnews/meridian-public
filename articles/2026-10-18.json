@@ -946,5 +946,63 @@
     "categories": [],
     "collectRun": "2026-10-18T08:00:00.000Z",
     "collectedAt": "2026-10-18T08:00:01.364Z"
+  },
+  {
+    "title": "Major fire breaks out in Alberta after deadly incident at military base",
+    "description": "Canada's defense minister said Saturday that people were killed and injured in an incident at a military base in Alberta that caused a major fire.",
+    "link": "https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base",
+    "pubDate": "Sun, 18 Oct 2026 03:56:08 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectRun": "2026-10-18T08:15:00.000Z",
+    "collectedAt": "2026-10-18T08:15:02.746Z"
+  },
+  {
+    "title": "The Man Who Taught Us How to Pay Attention",
+    "description": "The works of the British art critic John Berger offer the antidote to our age of infinite scrolling.",
+    "link": "https://www.nytimes.com/2026/10/18/magazine/john-berger-attention.html",
+    "pubDate": "Sun, 18 Oct 2026 04:01:05 +0000",
+    "source": "NY Times",
+    "categories": [
+      "berger, john",
+      "ways of seeing (tv program)",
+      "art",
+      "books and literature",
+      "millet, jean-francois"
+    ],
+    "collectRun": "2026-10-18T08:15:00.000Z",
+    "collectedAt": "2026-10-18T08:15:02.746Z"
+  },
+  {
+    "title": "How AI Could Take Over the World",
+    "description": "\"Very little technical advancement is needed to see self-sustaining rogue swarms,\" one expert told Newsweek.",
+    "link": "https://www.newsweek.com/how-ai-could-take-over-the-world-12580932",
+    "pubDate": "Sun, 18 Oct 2026 04:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-10-18T08:15:00.000Z",
+    "collectedAt": "2026-10-18T08:15:02.746Z"
+  },
+  {
+    "title": "Liberal-city resident hesitates when pressed on beliefs: 'I hadn't really thought about socialism that way'",
+    "description": "Fox News Digital hit the streets of Portland, Maine, where residents offered sharply divided views on socialism, wealth inequality and capitalism.",
+    "link": "https://www.foxnews.com/politics/liberal-city-resident-hesitates-when-pressed-beliefs-i-hadnt-really-thought-about-socialism-way",
+    "pubDate": "Sun, 18 Oct 2026 04:00:01 -0400",
+    "source": "Fox News",
+    "categories": [
+      "27e468db-550b-5f58-8d27-a67b6893117a",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/politics/socialism",
+      "fox-news/politics/elections/polls",
+      "fox-news/us/us-regions/northeast/maine",
+      "fox-news/politics/elections/midterm-elections",
+      "fox-news/democrats",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectRun": "2026-10-18T08:15:00.000Z",
+    "collectedAt": "2026-10-18T08:15:02.746Z"
   }
 ]
