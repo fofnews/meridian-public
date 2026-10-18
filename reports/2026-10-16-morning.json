@@ -9964,7 +9964,15 @@
           "entities": {}
         }
       ],
-      "analysis": null
+      "analysis": {
+        "summary": "",
+        "locations": [],
+        "claims": [],
+        "agreements": [],
+        "disagreements": [],
+        "uniqueAngles": []
+      },
+      "analysisAddedAt": "2026-10-18T10:44:08.253Z"
     },
     {
       "id": "story-420",
