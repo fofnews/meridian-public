@@ -5141,7 +5141,15 @@
           "entities": {}
         }
       ],
-      "analysis": null
+      "analysis": {
+        "summary": "",
+        "locations": [],
+        "claims": [],
+        "agreements": [],
+        "disagreements": [],
+        "uniqueAngles": []
+      },
+      "analysisAddedAt": "2026-10-18T10:44:34.430Z"
     },
     {
       "id": "story-76",
