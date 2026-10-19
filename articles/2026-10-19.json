@@ -642,5 +642,17 @@
     "categories": [],
     "collectRun": "2026-10-19T06:30:00.000Z",
     "collectedAt": "2026-10-19T06:30:01.210Z"
+  },
+  {
+    "title": "DC police investigating shooting involving National Guard member",
+    "description": "Police said they were investigating a shooting near the 400 block of 8th Street SE.",
+    "link": "https://abcnews.com/US/dc-police-investigating-shooting-involving-national-guard-member/story?id=137370551",
+    "pubDate": "Mon, 19 Oct 2026 02:38:51 -0400",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectRun": "2026-10-19T06:45:00.000Z",
+    "collectedAt": "2026-10-19T06:45:02.624Z"
   }
 ]
