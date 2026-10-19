@@ -2368,7 +2368,191 @@
           "entities": {}
         }
       ],
-      "analysis": null
+      "analysis": {
+        "headline": "Trump Waives Russia Sanctions Law Before It Takes Effect",
+        "summary": "President Trump signed an executive order on Friday waiving sanctions and tariffs on Russia that were due to take effect in two days under legislation named for the late Sen. Lindsey Graham. The order cites US national interests and follows a diesel purchase deal with Russia reached a week earlier.",
+        "locations": [
+          {
+            "name": "United States",
+            "lat": 38.8977,
+            "lng": -77.0365,
+            "iso": "US"
+          },
+          {
+            "name": "Russia",
+            "lat": 55.7558,
+            "lng": 37.6173,
+            "iso": "RU"
+          },
+          {
+            "name": "Ukraine",
+            "lat": 50.4501,
+            "lng": 30.5234,
+            "iso": "UA"
+          }
+        ],
+        "claims": [
+          {
+            "statement": "President Trump signed an executive order on Friday waiving sanctions and/or tariffs on Russia imposed under the legislation named for the late Sen. Lindsey Graham",
+            "sources": [
+              "NY Times",
+              "Washington Examiner",
+              "The Hill",
+              "ABC News",
+              "Reuters",
+              "CBS News",
+              "Newsweek",
+              "Al Jazeera",
+              "New York Post",
+              "NBC News",
+              "BBC News",
+              "AP News"
+            ]
+          },
+          {
+            "statement": "The executive order states the waiver is in the national interests of the United States",
+            "sources": [
+              "NBC News",
+              "New York Post",
+              "AP News",
+              "BBC News"
+            ]
+          },
+          {
+            "statement": "The waiver came shortly after (about a week after) a deal for the US to purchase Russian diesel",
+            "sources": [
+              "Newsweek",
+              "New York Post",
+              "NBC News",
+              "Al Jazeera"
+            ]
+          },
+          {
+            "statement": "The sanctions and tariffs were scheduled to take effect within days of the waiver, in two days according to ABC News and Al Jazeera",
+            "sources": [
+              "ABC News",
+              "Al Jazeera",
+              "The Hill",
+              "Reuters"
+            ]
+          },
+          {
+            "statement": "The legislation was passed by Congress",
+            "sources": [
+              "NBC News",
+              "New York Post",
+              "AP News"
+            ]
+          },
+          {
+            "statement": "The sanctions legislation had been signed into law by Trump about a month earlier",
+            "sources": [
+              "Washington Examiner",
+              "The Hill",
+              "Al Jazeera"
+            ]
+          },
+          {
+            "statement": "Sen. Lindsey Graham, a South Carolina Republican, is deceased, having died in July",
+            "sources": [
+              "NY Times",
+              "Washington Examiner",
+              "The Hill"
+            ]
+          },
+          {
+            "statement": "Trump's stated aim in waiving the measures is to ease energy prices by tapping Russian energy",
+            "sources": [
+              "CBS News",
+              "Al Jazeera"
+            ]
+          },
+          {
+            "statement": "The legislation was posthumously dedicated to Graham",
+            "sources": [
+              "The Hill"
+            ]
+          },
+          {
+            "statement": "The law is formally titled the Lindsey O. Graham Sanctioning Russia and Iran Act",
+            "sources": [
+              "Washington Examiner"
+            ]
+          },
+          {
+            "statement": "The order came amid a widening rift between Trump and Ukrainian President Zelenskyy",
+            "sources": [
+              "Al Jazeera"
+            ]
+          },
+          {
+            "statement": "The waiver also prevented hefty tariffs on large-scale buyers of Russian oil from taking effect",
+            "sources": [
+              "CBS News"
+            ]
+          },
+          {
+            "statement": "Trump says parts of the law are against US national interests, and the law aims to punish Moscow for its war against Ukraine",
+            "sources": [
+              "BBC News"
+            ]
+          }
+        ],
+        "disagreements": [
+          {
+            "topic": "Scope of the waiver (partial vs. full)",
+            "positions": [
+              {
+                "source": "Reuters",
+                "position": "Trump waived many Russia-related sanctions and tariffs"
+              },
+              {
+                "source": "BBC News",
+                "position": "Trump waived several Russia sanctions, with parts of the law taking effect"
+              },
+              {
+                "source": "CBS News",
+                "position": "Trump prevented some new sanctions and tariffs on large buyers of Russian oil from taking effect"
+              },
+              {
+                "source": "Washington Examiner",
+                "position": "Trump waived the sweeping sanctions and tariffs and put the legislation on hold indefinitely"
+              },
+              {
+                "source": "Newsweek",
+                "position": "Trump signed an order setting but immediately waiving sweeping new tariffs and sanctions"
+              }
+            ]
+          },
+          {
+            "topic": "Whether the order exempts Russia from the legislation or waives its provisions on hold",
+            "positions": [
+              {
+                "source": "NY Times",
+                "position": "Order exempts Russia from sanctions legislation"
+              },
+              {
+                "source": "AP News",
+                "position": "Sanctions put on hold, with a waiver in US national interest"
+              },
+              {
+                "source": "NBC News",
+                "position": "Sanctions suspended"
+              }
+            ]
+          }
+        ],
+        "context": {
+          "significance": "The episode shows the tension between congressional efforts to constrain executive discretion on Russia policy and a president's statutory waiver authority, especially when energy prices and bilateral deals are in play. Waiving sanctions immediately after enacting them signals how sanctions leverage over Moscow can be traded against domestic economic goals, with consequences for Ukraine's wartime support and for allies relying on US consistency.",
+          "outlook": [
+            "Whether Congress responds to the waiver, including any move to challenge or override the national-interest determination.",
+            "How long the waiver lasts and whether it is renewed, narrowed, or revoked.",
+            "Whether the diesel purchase arrangement with Russia expands into broader energy or diplomatic agreements.",
+            "How Ukraine and European allies respond as the rift between Trump and Zelenskyy widens."
+          ]
+        }
+      },
+      "analysisAddedAt": "2026-10-19T10:07:23.298Z"
     },
     {
       "id": "story-0",
