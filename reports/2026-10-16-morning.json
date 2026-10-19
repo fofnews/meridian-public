@@ -9965,14 +9965,39 @@
         }
       ],
       "analysis": {
-        "summary": "",
-        "locations": [],
+        "summary": "NPR's morning news brief reports that three children and a teacher were killed in a shooting at a school in Oregon. It also notes Russia's reaction to Ukraine's strikes and a growing rift between Russia and the U.S., and that the Department of Justice has sued California over its voter rolls.",
+        "locations": [
+          {
+            "name": "Oregon, United States",
+            "lat": 44.9375,
+            "lng": -123.0351,
+            "iso": "US"
+          },
+          {
+            "name": "Russia",
+            "lat": 55.7558,
+            "lng": 37.6173,
+            "iso": "RU"
+          },
+          {
+            "name": "Ukraine",
+            "lat": 50.4501,
+            "lng": 30.5234,
+            "iso": "UA"
+          },
+          {
+            "name": "California, United States",
+            "lat": 38.5816,
+            "lng": -121.4944,
+            "iso": "US"
+          }
+        ],
         "claims": [],
         "agreements": [],
         "disagreements": [],
         "uniqueAngles": []
       },
-      "analysisAddedAt": "2026-10-18T10:44:08.253Z"
+      "analysisAddedAt": "2026-10-19T10:30:02.343Z"
     },
     {
       "id": "story-420",
