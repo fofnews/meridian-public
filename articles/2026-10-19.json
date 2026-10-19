@@ -514,5 +514,37 @@
     "categories": [],
     "collectRun": "2026-10-19T05:30:00.000Z",
     "collectedAt": "2026-10-19T05:30:01.323Z"
+  },
+  {
+    "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
+    "description": "Trump said in a post on social media that Netanyahu \"has been a Great Warrior Prime Minister, and an even greater Partner for Peace in combatting the Islamic Republic of Iran.\"",
+    "link": "https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu",
+    "pubDate": "Mon, 19 Oct 2026 01:35:39 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectRun": "2026-10-19T05:45:00.000Z",
+    "collectedAt": "2026-10-19T05:45:01.677Z"
+  },
+  {
+    "title": "Thanks to familiar miscues, the Dallas Cowboys are off to their worst start in years",
+    "description": "The Dallas Cowboys can’t run the ball or stop opposing offenses. Its resulted in their worst record through six games since 2020.",
+    "link": "https://www.nbcnews.com/sports/nfl/dallas-cowboys-nfl-green-bay-packers-dak-prescott-results-rcna604280",
+    "pubDate": "Mon, 19 Oct 2026 05:22:43 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectRun": "2026-10-19T05:45:00.000Z",
+    "collectedAt": "2026-10-19T05:45:01.677Z"
+  },
+  {
+    "title": "US President Donald Trump endorses Netanyahu for Israeli election",
+    "description": "US President Donald Trump endorses Netanyahu for Israeli election",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/us-president-donald-trump-endorses-netanyahu-for-israeli-election?traffic_source=rss",
+    "pubDate": "Mon, 19 Oct 2026 05:10:37 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-10-19T05:45:00.000Z",
+    "collectedAt": "2026-10-19T05:45:01.677Z"
   }
 ]
