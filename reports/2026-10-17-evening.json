@@ -5142,14 +5142,39 @@
         }
       ],
       "analysis": {
-        "summary": "",
-        "locations": [],
+        "summary": "The Hill's live coverage reports that President Trump is scheduled to travel between Mar-a-Lago and Highland Heights, Kentucky on Saturday, where he will deliver remarks at 2 p.m. The same report notes that former President Barack Obama will hold campaign events in Ohio and Michigan, including stops in Detroit and Cleveland. The headline also references a reported strain in the Trump-Zelensky relationship over Russia sanctions and Starlink, though the excerpt provided does not include details on that topic.",
+        "locations": [
+          {
+            "name": "Florida",
+            "lat": 26.7153,
+            "lng": -80.0534,
+            "iso": "US"
+          },
+          {
+            "name": "Kentucky",
+            "lat": 38.2009,
+            "lng": -84.8733,
+            "iso": "US"
+          },
+          {
+            "name": "Michigan",
+            "lat": 42.3314,
+            "lng": -83.0458,
+            "iso": "US"
+          },
+          {
+            "name": "Ohio",
+            "lat": 39.9612,
+            "lng": -82.9988,
+            "iso": "US"
+          }
+        ],
         "claims": [],
         "agreements": [],
         "disagreements": [],
         "uniqueAngles": []
       },
-      "analysisAddedAt": "2026-10-18T10:44:34.430Z"
+      "analysisAddedAt": "2026-10-19T10:30:28.284Z"
     },
     {
       "id": "story-76",
