@@ -706,5 +706,34 @@
     "categories": [],
     "collectRun": "2026-10-21T05:15:00.000Z",
     "collectedAt": "2026-10-21T05:15:01.899Z"
+  },
+  {
+    "title": "Emissions Gap Report Identifies U.S. as Outlier Among G20 Nations",
+    "description": "The scientific report, identifies the United States as an outlier among the nations responsible for the vast majority of greenhouse gas emissions.",
+    "link": "https://www.nytimes.com/2026/10/21/climate/united-states-climate-pledge-emissions-gap-report.html",
+    "pubDate": "Wed, 21 Oct 2026 05:00:06 +0000",
+    "source": "NY Times",
+    "categories": [
+      "global warming",
+      "greenhouse gas emissions",
+      "oil (petroleum) and gasoline",
+      "natural gas",
+      "pollution",
+      "united nations"
+    ],
+    "collectRun": "2026-10-21T05:30:00.000Z",
+    "collectedAt": "2026-10-21T05:30:01.254Z"
+  },
+  {
+    "title": "Lula, Bolsonaro seek to disqualify each other ahead of Brazil runoff",
+    "description": "Messaging service WhatsApp and parent company Meta are embroiled in legal attacks by Brazil's presidential candidates.",
+    "link": "https://www.aljazeera.com/news/2026/10/21/lula-bolsonaro-seek-to-disqualify-each-other-ahead-of-brazil-runoff?traffic_source=rss",
+    "pubDate": "Wed, 21 Oct 2026 04:58:03 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news analysis"
+    ],
+    "collectRun": "2026-10-21T05:30:00.000Z",
+    "collectedAt": "2026-10-21T05:30:01.254Z"
   }
 ]
