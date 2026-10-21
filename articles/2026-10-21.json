@@ -2144,5 +2144,442 @@
     ],
     "collectRun": "2026-10-21T10:00:00.000Z",
     "collectedAt": "2026-10-21T10:00:01.422Z"
+  },
+  {
+    "title": "Armed federal agents knock on doors looking for noncitizen voters",
+    "description": "Armed and in uniform, agents from the Department of Homeland Security have been knocking on doors to ask residents about their immigration status whether they're registered to vote.",
+    "link": "https://www.cbsnews.com/news/federal-agents-seek-noncitizen-voters/",
+    "pubDate": "Wed, 21 Oct 2026 06:00:01 -0400",
+    "source": "CBS News",
+    "categories": [],
+    "collectRun": "2026-10-21T10:15:00.000Z",
+    "collectedAt": "2026-10-21T10:15:01.765Z"
+  },
+  {
+    "title": "Death Toll From Venezuela Quakes Likely Far Exceeds Official Count",
+    "description": "A Times analysis and U.S. Geological Survey data indicate that the official 6,509 death toll is probably a severe undercount.",
+    "link": "https://www.nytimes.com/2026/10/21/world/americas/venezuela-earthquakes-deaths.html",
+    "pubDate": "Wed, 21 Oct 2026 09:00:24 +0000",
+    "source": "NY Times",
+    "categories": [
+      "venezuela",
+      "deaths (fatalities)",
+      "la guaira (venezuela)",
+      "buildings (structures)",
+      "earthquakes",
+      "venezuela earthquakes (june 24, 2026)"
+    ],
+    "collectRun": "2026-10-21T10:15:00.000Z",
+    "collectedAt": "2026-10-21T10:15:01.765Z"
+  },
+  {
+    "title": "Inside the World of Dark Nutrition",
+    "description": "More Americans are rejecting everything they’ve been taught about food.",
+    "link": "https://www.nytimes.com/2026/10/21/magazine/dark-nutrition-raw-meat-diet.html",
+    "pubDate": "Wed, 21 Oct 2026 09:01:02 +0000",
+    "source": "NY Times",
+    "categories": [
+      "diet and nutrition",
+      "food",
+      "food contamination and poisoning",
+      "meat"
+    ],
+    "collectRun": "2026-10-21T10:15:00.000Z",
+    "collectedAt": "2026-10-21T10:15:01.765Z"
+  },
+  {
+    "title": "A Battle for Control of India’s Biggest Business Empire",
+    "description": "A boardroom fight, an attempted veto and government intervention have plunged the Tata Group, one of India’s most revered institutions, into a fight over its future.",
+    "link": "https://www.nytimes.com/2026/10/21/business/tata-india-boardroom-fight.html",
+    "pubDate": "Wed, 21 Oct 2026 09:01:54 +0000",
+    "source": "NY Times",
+    "categories": [
+      "india",
+      "tata group",
+      "boards of directors",
+      "regulation and deregulation of industry",
+      "politics and government",
+      "philanthropy",
+      "family business"
+    ],
+    "collectRun": "2026-10-21T10:15:00.000Z",
+    "collectedAt": "2026-10-21T10:15:01.765Z"
+  },
+  {
+    "title": "A.I. Election Videos Are Flooding Brazil. Could They Sway the Vote?",
+    "description": "Brazil spent years targeting electoral lies on the internet. Now, artificial intelligence is stumping the election authorities and reshaping a high-stakes race.",
+    "link": "https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html",
+    "pubDate": "Wed, 21 Oct 2026 09:02:16 +0000",
+    "source": "NY Times",
+    "categories": [
+      "artificial intelligence",
+      "social media",
+      "freedom of speech and expression",
+      "computers and the internet",
+      "rumors and misinformation",
+      "elections",
+      "bolsonaro, flavio",
+      "bolsonaro, jair (1955- )",
+      "da silva, luiz inacio lula",
+      "vorcaro, daniel (1983- )",
+      "brazil"
+    ],
+    "collectRun": "2026-10-21T10:15:00.000Z",
+    "collectedAt": "2026-10-21T10:15:01.765Z"
+  },
+  {
+    "title": "Palestinians Hope Israeli Election Will Oust Netanyahu",
+    "description": "Many in Gaza and the West Bank are desperate to avoid more years of Prime Minister Benjamin Netanyahu’s right-wing government, which has made life close to unbearable.",
+    "link": "https://www.nytimes.com/2026/10/21/world/middleeast/stakes-for-palestinians-of-israel-election.html",
+    "pubDate": "Wed, 21 Oct 2026 08:47:10 +0000",
+    "source": "NY Times",
+    "categories": [
+      "israel-gaza war (2023- )",
+      "palestinians",
+      "politics and government",
+      "israeli settlements",
+      "board of peace",
+      "hamas",
+      "palestinian authority",
+      "netanyahu, benjamin",
+      "gaza strip",
+      "hebron (west bank)",
+      "israel",
+      "west bank",
+      "israeli election (2026)"
+    ],
+    "collectRun": "2026-10-21T10:15:00.000Z",
+    "collectedAt": "2026-10-21T10:15:01.765Z"
+  },
+  {
+    "title": "What It Took for Nikole Hannah-Jones to Write About Her Daughter’s Distress",
+    "description": "The Times journalist reflects on her two deeply personal essays about her child and New York City public schools and how she grappled with readers’ responses.",
+    "link": "https://www.nytimes.com/2026/10/20/insider/what-it-took-for-nikole-hannah-jones-to-write-about-her-daughters-distress.html",
+    "pubDate": "Tue, 20 Oct 2026 12:45:08 +0000",
+    "source": "NY Times",
+    "categories": [
+      "hannah-jones,  nikole",
+      "new york times",
+      "parenting",
+      "news and news media",
+      "segregation and desegregation",
+      "education (k-12)",
+      "new york city"
+    ],
+    "collectRun": "2026-10-21T10:15:00.000Z",
+    "collectedAt": "2026-10-21T10:15:01.765Z"
+  },
+  {
+    "title": "In Fighting for Every Black Child, Did I Betray My Own?",
+    "description": "A decade ago, I made a decision about my daughter’s education that I hoped would challenge New York City’s separate and unequal school system. Now 16, she thinks I made the wrong choice.",
+    "link": "https://www.nytimes.com/2026/09/20/magazine/ny-public-schools-black-students-segregation.html",
+    "pubDate": "Tue, 20 Oct 2026 12:54:55 +0000",
+    "source": "NY Times",
+    "categories": [
+      "black people",
+      "education (k-12)",
+      "income inequality",
+      "minorities",
+      "children and childhood",
+      "bedford-stuyvesant (brooklyn, ny)",
+      "segregation and desegregation",
+      "new york city",
+      "parenting",
+      "urban assembly unison school (brooklyn, ny)"
+    ],
+    "collectRun": "2026-10-21T10:15:00.000Z",
+    "collectedAt": "2026-10-21T10:15:01.765Z"
+  },
+  {
+    "title": "How to Lower Your Alzheimer’s Risk if You Have the APOE4 Gene Variant",
+    "description": "People with the APOE4 gene variant have more to lose from unhealthy habits — and potentially more to gain from healthy ones.",
+    "link": "https://www.nytimes.com/2026/10/21/well/mind/alzheimers-apoe4-reduce-risk.html",
+    "pubDate": "Wed, 21 Oct 2026 09:01:49 +0000",
+    "source": "NY Times",
+    "categories": [
+      "dementia",
+      "genetics and heredity",
+      "diet and nutrition",
+      "alzheimer's disease",
+      "brain",
+      "content type: service",
+      "disease rates",
+      "habits and routines (behavior)",
+      "research"
+    ],
+    "collectRun": "2026-10-21T10:15:00.000Z",
+    "collectedAt": "2026-10-21T10:15:01.765Z"
+  },
+  {
+    "title": "How to Catch the Orionids, a Meteor Shower From Halley’s Comet",
+    "description": "It’s a fall favorite among stargazers, known for bright, speedy streaks that can sometimes linger in the sky for minutes.",
+    "link": "https://www.nytimes.com/2026/10/21/science/space/orionids-meteor-shower-halleys-comet.html",
+    "pubDate": "Wed, 21 Oct 2026 09:00:04 +0000",
+    "source": "NY Times",
+    "categories": [
+      "meteors and meteorites",
+      "space and astronomy",
+      "comets",
+      "autumn (season)",
+      "solar system",
+      "adler planetarium and astronomy museum"
+    ],
+    "collectRun": "2026-10-21T10:15:00.000Z",
+    "collectedAt": "2026-10-21T10:15:01.765Z"
+  },
+  {
+    "title": "He robbed banks in an ‘old man’ mask. Years later, he’s accused of doing it again. - The Washington Post",
+    "description": "He robbed banks in an ‘old man’ mask. Years later, he’s accused of doing it again.  The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM0VRWjZvVm1qcjFiWjh5REVFMDhlOVdmdGV2Qm1DT0VpWW9UcU5fbVF3S3piSlduQk1BaUJHOFZhaVR0bVRZV0p0VUI2YUlVLVBMWDJJdzlXUDJCTm9WdDBKSEdIWElYeHRBdXE0aHNPdjNYWGZLVDlZc3lLUk14eFFhMS1NM1VrakRSQWswdzBBTzExZnpqMjFOZGtFQ0lNXzVSYmo5NTJnZjBrZEJWTGRXYS1DRzlKanlydA?oc=5",
+    "pubDate": "Tue, 20 Oct 2026 17:00:00 GMT",
+    "source": "Washington Post",
+    "categories": [],
+    "collectRun": "2026-10-21T10:15:00.000Z",
+    "collectedAt": "2026-10-21T10:15:01.765Z"
+  },
+  {
+    "title": "I Have Stage 4 Cancer at 44. How God’s Goodness and Common Grace Are Getting Me Through It",
+    "description": "Looking back, I can see that I had some symptoms, but they were all things that were easy to brush off as something minor.",
+    "link": "https://www.newsweek.com/stage-4-colon-cancer-single-mom-gods-goodness-common-grace-12597097",
+    "pubDate": "Wed, 21 Oct 2026 06:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-10-21T10:15:00.000Z",
+    "collectedAt": "2026-10-21T10:15:01.765Z"
+  },
+  {
+    "title": "Europe's Dominoes Are Falling. Which Country Might Be Next?",
+    "description": "France has suffered its worst unrest in years. A Newsweek analysis looks at what might come next—and what it means for America.",
+    "link": "https://www.newsweek.com/europe-france-protests-trump-what-happens-next-12593062",
+    "pubDate": "Wed, 21 Oct 2026 06:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-10-21T10:15:00.000Z",
+    "collectedAt": "2026-10-21T10:15:01.765Z"
+  },
+  {
+    "title": "Marshall, Hamilton set to take debate stage in tight Kansas Senate race",
+    "description": "The top candidates in the Kansas Senate race will face off on the debate stage on Wednesday evening with less than two weeks until Election Day.  Incumbent Sen. Roger Marshall (R) is fending off a challenge from Democratic nominee Adam Hamilton in a race that has grown increasingly competitive.  The pair will face questions about…",
+    "link": "https://thehill.com/homenews/campaign/6160651-kansas-senate-debate-marshall-hamilton/",
+    "pubDate": "\n\t\tWed, 21 Oct 2026 10:00:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "news",
+      "adam hamilton",
+      "kansas senate race",
+      "roger marshall"
+    ],
+    "collectRun": "2026-10-21T10:15:00.000Z",
+    "collectedAt": "2026-10-21T10:15:01.765Z"
+  },
+  {
+    "title": "The Memo: Zelensky looks for way back from brink with Trump, to little avail",
+    "description": "Ukrainian President Volodymyr Zelensky looks to be seeking a way back from the brink in his relationship with the U.S. — but he does not appear to be finding a receptive audience in President Trump. That leaves doubt and suspicion shrouding the path ahead — even as some in the GOP express dismay at Trump’s…",
+    "link": "https://thehill.com/homenews/analysis/6161360-trump-blames-ukraine-diesel-prices/",
+    "pubDate": "\n\t\tWed, 21 Oct 2026 10:00:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "analysis",
+      "news"
+    ],
+    "collectRun": "2026-10-21T10:15:00.000Z",
+    "collectedAt": "2026-10-21T10:15:01.765Z"
+  },
+  {
+    "title": "Vance could face 2028 challenge in addressing corruption",
+    "description": "Vice President Vance’s role as President Trump’s chief defender poses a growing challenge as the administration faces mounting perceptions of inside dealing and corruption.  Vance on Monday said the idea of Trump using the White House for personal enrichment was “laughable” and, during a CBS News town hall over the weekend, he said he doesn’t…",
+    "link": "https://thehill.com/homenews/administration/6161375-vance-trump-corruption-perception-2028/",
+    "pubDate": "\n\t\tWed, 21 Oct 2026 10:00:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "administration"
+    ],
+    "collectRun": "2026-10-21T10:15:00.000Z",
+    "collectedAt": "2026-10-21T10:15:01.765Z"
+  },
+  {
+    "title": "GOP senators not happy about Trump’s warming relationship with Putin",
+    "description": "President Trump’s warming relationship with Russian President Vladimir Putin, which may lead to a trilateral summit of the United States, Russia and China to resolve the fate of Ukraine, is getting strong pushback from Republicans in Congress. Several Republicans have panned the idea that Trump would huddle with Putin and Chinese leader Xi Jinping, two…",
+    "link": "https://thehill.com/homenews/senate/6161420-republicans-oppose-trilateral-summit/",
+    "pubDate": "\n\t\tWed, 21 Oct 2026 10:00:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "news",
+      "senate"
+    ],
+    "collectRun": "2026-10-21T10:15:00.000Z",
+    "collectedAt": "2026-10-21T10:15:01.765Z"
+  },
+  {
+    "title": "Zelensky, US allies bet on strike concessions to placate Trump",
+    "description": "Ukrainian President Volodymyr Zelensky and his powerful allies in Congress are seeking to use President Trump’s desire for Kyiv to stop targeting Russian diesel facilities to boost his support for Ukraine in other ways.  Sen. Roger Wicker (Miss.), the top Republican on the Senate Armed Services Committee, returned from a trip to Ukraine last week…",
+    "link": "https://thehill.com/policy/defense/6161492-wicker-proposes-missile-intelligence-swap/",
+    "pubDate": "\n\t\tWed, 21 Oct 2026 10:00:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "defense",
+      "news",
+      "policy"
+    ],
+    "collectRun": "2026-10-21T10:15:00.000Z",
+    "collectedAt": "2026-10-21T10:15:01.765Z"
+  },
+  {
+    "title": "In the battle for AI supremacy, China is only six months behind the U.S — but that means they’re winning, says former Google CEO",
+    "description": "AI is not a bubble, says Google’s former CEO. It’s real growth, real money, real customers paying for something useful.",
+    "link": "https://www.marketwatch.com/story/in-the-battle-for-ai-supremacy-china-is-only-six-months-behind-the-u-s-but-that-means-theyre-winning-says-former-google-ceo-82d71e7a?mod=mw_rss_topstories",
+    "pubDate": "Wed, 21 Oct 2026 10:12:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectRun": "2026-10-21T10:15:00.000Z",
+    "collectedAt": "2026-10-21T10:15:01.765Z"
+  },
+  {
+    "title": "OceanGate CEO Stockton Rush wanted to join ‘Titanic mythology’ when Titan sub imploded, friend claims",
+    "description": "Karl Stanley claims OceanGate CEO Stockton Rush intentionally designed the Titan submersible to implode, calling it a \"mousetrap for billionaires.\"",
+    "link": "https://www.foxnews.com/us/oceangate-ceo-stockton-rush-wanted-join-titanic-mythology-titan-sub-imploded-friend-claims",
+    "pubDate": "Wed, 21 Oct 2026 06:00:31 -0400",
+    "source": "Fox News",
+    "categories": [
+      "24694fc0-6749-5b08-8490-e30c90f43def",
+      "fnc",
+      "fox news",
+      "fox-news/us",
+      "fox-news/crime",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/us/military/coast-guard",
+      "fox-news/world/disasters",
+      "fox-news/science/planet-earth/oceans",
+      "fox-news/us",
+      "article"
+    ],
+    "collectRun": "2026-10-21T10:15:00.000Z",
+    "collectedAt": "2026-10-21T10:15:01.765Z"
+  },
+  {
+    "title": "Former McDonald's exec spills the beans on why healthier menu favorite got the axe",
+    "description": "McDonald's grilled chicken sandwich disappeared in 2020 after sales dipped too low, but rising beef prices could bring chicken options back.",
+    "link": "https://www.foxnews.com/food-drink/former-mcdonalds-exec-spills-beans-why-healthier-menu-favorite-got-axe",
+    "pubDate": "Wed, 21 Oct 2026 06:00:00 -0400",
+    "source": "Fox News",
+    "categories": [
+      "7a48b09c-c17f-544b-92b9-b07ad0f16e9d",
+      "fnc",
+      "fox news",
+      "fox-news/food-drink/food/fast-food",
+      "fox-news/food-drink",
+      "fox-news/lifestyle/food",
+      "fox-news/food-drink/food/restaurants",
+      "fox-news/lifestyle",
+      "fox-news/food-drink/food",
+      "fox-news/food-drink",
+      "article"
+    ],
+    "collectRun": "2026-10-21T10:15:00.000Z",
+    "collectedAt": "2026-10-21T10:15:01.765Z"
+  },
+  {
+    "title": "ADHD linked to 70% higher death rate, but medication may help protect against early death",
+    "description": "Taking prescription ADHD medication may offer a protective benefit, lowering overall risk of death.",
+    "link": "https://nypost.com/2026/10/21/health/adhd-linked-to-70-higher-death-rate-but-medication-may-help-protect-against-early-death/",
+    "pubDate": "Wed, 21 Oct 2026 06:13:24 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-10-21T10:15:00.000Z",
+    "collectedAt": "2026-10-21T10:15:01.765Z"
+  },
+  {
+    "title": "Continuous innovation: securing our competitive edge through technological breakthroughs",
+    "description": "Huawei has invested heavily in R&D to be a leader in the tech space",
+    "link": "https://nypost.com/dispatch/continuous-innovation-securing-our-competitive-edge-through-technological-breakthroughs/",
+    "pubDate": "Wed, 21 Oct 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-10-21T10:15:00.000Z",
+    "collectedAt": "2026-10-21T10:15:01.765Z"
+  },
+  {
+    "title": "Are psychedelics going mainstream? Meet the doctors, scientists and even PTA moms turning to drugs to enhance their minds",
+    "description": "“This is the time for psychedelics to reemerge,” Asprey told attendees.",
+    "link": "https://nypost.com/2026/10/21/health/inside-the-psychedelics-conference-where-doctors-and-even-moms-are-tripping/",
+    "pubDate": "Wed, 21 Oct 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-10-21T10:15:00.000Z",
+    "collectedAt": "2026-10-21T10:15:01.765Z"
+  },
+  {
+    "title": "Todd Blanche tells ‘Pod Force One’ Ilhan Omar will be given one right Trump was denied during indictments",
+    "description": "AG Todd Blanche accused Democrats of “gaslighting the American people” when they suggest Trump is “weaponizing” the Department of Justice against “Squad” Rep. Ilhan Omar.",
+    "link": "https://nypost.com/2026/10/21/us-news/todd-blanche-tells-pod-force-one-ilhan-omar-will-be-given-one-right-trump-was-denied/",
+    "pubDate": "Wed, 21 Oct 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-10-21T10:15:00.000Z",
+    "collectedAt": "2026-10-21T10:15:01.765Z"
+  },
+  {
+    "title": "Who has Long Island’s best wings? Festival hosted by the ‘Dave Portnoy of Wings’ intends to find out",
+    "description": "Many will fry, but only one will be crowned Long Island’s Wing King.",
+    "link": "https://nypost.com/2026/10/21/us-news/who-has-long-islands-best-wings-festival-by-the-dave-portnoy-of-wings-will-find-out/",
+    "pubDate": "Wed, 21 Oct 2026 06:00:00 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-10-21T10:15:00.000Z",
+    "collectedAt": "2026-10-21T10:15:01.765Z"
+  },
+  {
+    "title": "Second round of October Social Security payments goes out today",
+    "description": "The second round of October Social Security payments for retirees, now capped at $5,181, will be issued today. When will payments arrive? Retirees born between the 11th and 20th of a month will receive this payment on Wednesday, Oct. 21. The first round went out on Oct. 14 to those born on or before the […]",
+    "link": "https://www.washingtonexaminer.com/news/4748202/second-round-october-social-security-payments-today/",
+    "pubDate": "Wed, 21 Oct 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "news",
+      "finance",
+      "money",
+      "retirement",
+      "social security",
+      "social security administration"
+    ],
+    "collectRun": "2026-10-21T10:15:00.000Z",
+    "collectedAt": "2026-10-21T10:15:01.765Z"
+  },
+  {
+    "title": "Major transgender Supreme Court victory could be undone by movement’s own lawfare, experts say",
+    "description": "Three civil rights cases could ultimately unravel one of the transgender rights movement’s greatest Supreme Court victories, according to legal analysts. The three separate filings are workplace discrimination lawsuits, filed by aggrieved transgender federal workers, that challenge President Donald Trump’s executive order on “Restoring Biological Truth to the Federal Government.” They allege various violations of […]",
+    "link": "https://www.washingtonexaminer.com/news/supreme-court/4771273/major-transgender-supreme-court-victory-could-be-undone/",
+    "pubDate": "Wed, 21 Oct 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "supreme court",
+      "aclu",
+      "lgbt issues",
+      "transgender",
+      "women&#x27;s rights"
+    ],
+    "collectRun": "2026-10-21T10:15:00.000Z",
+    "collectedAt": "2026-10-21T10:15:01.765Z"
+  },
+  {
+    "title": "Maine Democrats fret over Troy Jackson’s guarded Senate campaign",
+    "description": "BANGOR, Maine — Hope Brogunier was visibly exasperated on Friday after watching Troy Jackson onstage for his final debate against Sen. Susan Collins (R-ME). She was a die-hard Graham Platner supporter and still reeling from his removal from the Maine Senate ballot. Now, she was processing with horror that Jackson, his Democratic replacement, had struggled […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4772609/maine-democrats-fret-troy-jackson-senate/",
+    "pubDate": "Wed, 21 Oct 2026 10:00:00 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "congressional",
+      "2026 elections",
+      "democrats",
+      "graham platner",
+      "maine",
+      "senate",
+      "susan collins",
+      "troy jackson"
+    ],
+    "collectRun": "2026-10-21T10:15:00.000Z",
+    "collectedAt": "2026-10-21T10:15:01.765Z"
   }
 ]
