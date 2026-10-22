@@ -365,5 +365,37 @@
     "categories": [],
     "collectRun": "2026-10-22T04:30:00.000Z",
     "collectedAt": "2026-10-22T04:30:01.829Z"
+  },
+  {
+    "title": "UK working to identify exposure after global cyber-security warning",
+    "description": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.",
+    "link": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 22 Oct 2026 04:38:16 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectRun": "2026-10-22T04:45:00.000Z",
+    "collectedAt": "2026-10-22T04:45:01.403Z"
+  },
+  {
+    "title": "Australian TV reporter rescues man from sinking car",
+    "description": "Australian TV reporter rescues man from sinking car",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/australian-tv-reporter-rescues-man-from-sinking-car?traffic_source=rss",
+    "pubDate": "Thu, 22 Oct 2026 04:19:33 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectRun": "2026-10-22T04:45:00.000Z",
+    "collectedAt": "2026-10-22T04:45:01.403Z"
+  },
+  {
+    "title": "Saudi civil aviation says one killed, eight injured in attack on King Fahd airport - Reuters",
+    "description": "Saudi civil aviation says one killed, eight injured in attack on King Fahd airport  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSGNWYThfTTlBMk0yXzZJMVdvRkp2NDRwOEItSlJxRjN3NE5nVmRMbFkybld2UUFLWHFzel8zTEVMMUt4T3A3QUxMN0dObTR6WHMwOHUwYmh2RGJYX1hIOFBSb1ppQ0VIUW0xdTFzTHB2NENTTElkMTRqOHBVWGFoejRhb3dhclZtS09kNkZra055RUlyVm82M1ZpNmhHZWctLUtfelg5blVrbW5aVHhpSzBvVmsyNVZm?oc=5",
+    "pubDate": "Wed, 21 Oct 2026 22:21:44 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectRun": "2026-10-22T04:45:00.000Z",
+    "collectedAt": "2026-10-22T04:45:01.403Z"
   }
 ]
