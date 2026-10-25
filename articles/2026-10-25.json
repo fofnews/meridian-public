@@ -2649,5 +2649,40 @@
     ],
     "collectRun": "2026-10-25T10:15:00.000Z",
     "collectedAt": "2026-10-25T10:15:01.261Z"
+  },
+  {
+    "title": "The penguins are noisy, the people fantastic - what it takes to be an Antarctic postmaster",
+    "description": "George Clarke from Bristol will run the post office at Port Lockroy in Antarctica from October to March.",
+    "link": "https://www.bbc.co.uk/news/articles/c6dxwklr409eo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 25 Oct 2026 09:59:50 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectRun": "2026-10-25T10:30:00.000Z",
+    "collectedAt": "2026-10-25T10:30:01.713Z"
+  },
+  {
+    "title": "Trump mocks reporter asking about Iran strikes, as Tehran says US derailed",
+    "description": "US President Donald Trump sarcastically responded to a reporter asking about possible renewed attacks on Iran.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss",
+    "pubDate": "Sun, 25 Oct 2026 10:14:43 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectRun": "2026-10-25T10:30:00.000Z",
+    "collectedAt": "2026-10-25T10:30:01.713Z"
+  },
+  {
+    "title": "Newsom amasses fundraising machine that could power 2028 bid",
+    "description": "If California Gov. Gavin Newsom enters the 2028 presidential race, as many Democrats expect, he’ll walk in with an asset other White House hopefuls will inarguably envy: A small-dollar fundraising and organizing machine powered by a massive and ever-growing contact list of potential supporters across the country. Even before last year’s successful Proposition 50 redistricting…",
+    "link": "https://thehill.com/policy/technology/6169492-gavin-newsom-fundraising-network-midterm-elections/",
+    "pubDate": "\n\t\tSun, 25 Oct 2026 10:00:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "state watch",
+      "technology"
+    ],
+    "collectRun": "2026-10-25T10:30:00.000Z",
+    "collectedAt": "2026-10-25T10:30:01.713Z"
   }
 ]
