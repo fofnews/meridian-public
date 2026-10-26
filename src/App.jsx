@@ -10,6 +10,34 @@ import TimelineView from './components/TimelineView';
 import ErrorBoundary from './components/ErrorBoundary';
 import { useTheme } from './ThemeContext.jsx';
 
+function buildGroupedItems(orderedStories, storyGroups, allStoriesById) {
+  if (!storyGroups?.length) return orderedStories.map(s => ({ type: 'story', story: s }));
+
+  const groupById = new Map(storyGroups.map(g => [g.id, g]));
+  const storyGroupId = new Map();
+  for (const g of storyGroups) {
+    for (const id of g.storyIds) storyGroupId.set(id, g.id);
+  }
+
+  const rendered = new Set();
+  const items = [];
+
+  for (const story of orderedStories) {
+    if (rendered.has(story.id)) continue;
+    const gid = storyGroupId.get(story.id);
+    if (gid && groupById.has(gid)) {
+      const group = groupById.get(gid);
+      const groupStories = group.storyIds.map(id => allStoriesById.get(id)).filter(Boolean);
+      groupStories.forEach(s => rendered.add(s.id));
+      items.push({ type: 'group', group, stories: groupStories });
+    } else {
+      rendered.add(story.id);
+      items.push({ type: 'story', story });
+    }
+  }
+  return items;
+}
+
 export default function App() {
   const { isDark, toggleTheme } = useTheme();
   const [report, setReport] = useState(null);
@@ -101,6 +129,19 @@ export default function App() {
 
   const singleSource = allStories
     .filter(s => !s.isParent && !s.parentId && sourceCount(s) < 2);
+
+  const storyGroups = report?.storyGroups ?? [];
+  const allStoriesById = new Map(allStories.map(s => [s.id, s]));
+
+  const topItems = buildGroupedItems(multiSource, storyGroups, allStoriesById);
+  const topRenderedIds = new Set(topItems.flatMap(item =>
+    item.type === 'group' ? item.stories.map(s => s.id) : [item.story.id]
+  ));
+  const briefItems = buildGroupedItems(
+    singleSource.filter(s => !topRenderedIds.has(s.id)),
+    storyGroups,
+    allStoriesById
+  );
 
   // Last-resort fallback for errors that escape the per-section boundaries
   // below (e.g. a throw in App's own body). The per-section boundaries handle
@@ -251,24 +292,64 @@ export default function App() {
                   </h2>
                   <div style={{ flex: 1, height: 1, background: 'var(--border-primary)' }} />
                   <span className="text-xs shrink-0 font-semibold uppercase" style={{ color: 'var(--accent)', letterSpacing: '2px' }}>
-                    {multiSource.length} stories
+                    {topItems.length} {topItems.length === 1 ? 'story' : 'stories'}
                   </span>
                 </div>
 
                 <div className="space-y-4">
-                  {multiSource.map((story, i) => (
-                    <StoryCard
-                      key={story.id}
-                      story={story}
-                      expanded={expandedStory === story.id}
-                      onToggle={(el) => {
-                        scrollAnchor.current = { element: el, top: el.getBoundingClientRect().top };
-                        const next = expandedStory === story.id ? null : story.id;
-                        setExpandedStory(next);
-                        if (next) setFeaturedIdx(i);
-                      }}
-                    />
-                  ))}
+                  {topItems.map(item => {
+                    if (item.type === 'group') {
+                      return (
+                        <div key={item.group.id}>
+                          <div className="flex items-center gap-2 mb-3">
+                            <span
+                              className="uppercase font-semibold shrink-0"
+                              style={{ color: 'var(--text-muted)', fontSize: 11, letterSpacing: '2px' }}
+                            >
+                              {item.group.label}
+                            </span>
+                            <span style={{ color: 'var(--text-faint)', fontSize: 11 }}>
+                              · {item.stories.length} {item.stories.length === 1 ? 'story' : 'stories'}
+                            </span>
+                            <div style={{ flex: 1, height: 1, background: 'var(--border-primary)' }} />
+                          </div>
+                          <div className="space-y-4">
+                            {item.stories.map(story => {
+                              const multiIdx = multiSource.indexOf(story);
+                              return (
+                                <StoryCard
+                                  key={story.id}
+                                  story={story}
+                                  brief={sourceCount(story) < 2}
+                                  expanded={expandedStory === story.id}
+                                  onToggle={(el) => {
+                                    scrollAnchor.current = { element: el, top: el.getBoundingClientRect().top };
+                                    const next = expandedStory === story.id ? null : story.id;
+                                    setExpandedStory(next);
+                                    if (next && multiIdx >= 0) setFeaturedIdx(multiIdx);
+                                  }}
+                                />
+                              );
+                            })}
+                          </div>
+                        </div>
+                      );
+                    }
+                    const i = multiSource.indexOf(item.story);
+                    return (
+                      <StoryCard
+                        key={item.story.id}
+                        story={item.story}
+                        expanded={expandedStory === item.story.id}
+                        onToggle={(el) => {
+                          scrollAnchor.current = { element: el, top: el.getBoundingClientRect().top };
+                          const next = expandedStory === item.story.id ? null : item.story.id;
+                          setExpandedStory(next);
+                          if (next) setFeaturedIdx(i);
+                        }}
+                      />
+                    );
+                  })}
                 </div>
               </section>
             )}
@@ -285,7 +366,7 @@ export default function App() {
                   </h2>
                   <div style={{ flex: 1, height: 1, background: 'var(--border-primary)' }} />
                   <span className="text-xs shrink-0 font-semibold uppercase" style={{ color: 'var(--text-muted)', letterSpacing: '2px' }}>
-                    {singleSource.length} items
+                    {briefItems.length} {briefItems.length === 1 ? 'item' : 'items'}
                   </span>
                 </div>
 
@@ -293,18 +374,53 @@ export default function App() {
                   className="rounded-xl overflow-hidden px-5"
                   style={{ background: 'var(--bg-secondary)', border: '1px solid var(--border-primary)' }}
                 >
-                  {singleSource.map(story => (
-                    <StoryCard
-                      key={story.id}
-                      story={story}
-                      brief
-                      expanded={expandedStory === story.id}
-                      onToggle={(el) => {
-                        scrollAnchor.current = { element: el, top: el.getBoundingClientRect().top };
-                        setExpandedStory(expandedStory === story.id ? null : story.id);
-                      }}
-                    />
-                  ))}
+                  {briefItems.map(item => {
+                    if (item.type === 'group') {
+                      return (
+                        <div key={item.group.id}>
+                          <div
+                            className="flex items-center gap-2 py-2"
+                            style={{ borderBottom: '1px solid var(--border-primary)' }}
+                          >
+                            <span
+                              className="uppercase font-semibold shrink-0"
+                              style={{ color: 'var(--text-muted)', fontSize: 10, letterSpacing: '2px' }}
+                            >
+                              {item.group.label}
+                            </span>
+                            <span style={{ color: 'var(--text-faint)', fontSize: 10 }}>
+                              · {item.stories.length} {item.stories.length === 1 ? 'story' : 'stories'}
+                            </span>
+                            <div style={{ flex: 1, height: 1, background: 'var(--border-primary)' }} />
+                          </div>
+                          {item.stories.map(story => (
+                            <StoryCard
+                              key={story.id}
+                              story={story}
+                              brief
+                              expanded={expandedStory === story.id}
+                              onToggle={(el) => {
+                                scrollAnchor.current = { element: el, top: el.getBoundingClientRect().top };
+                                setExpandedStory(expandedStory === story.id ? null : story.id);
+                              }}
+                            />
+                          ))}
+                        </div>
+                      );
+                    }
+                    return (
+                      <StoryCard
+                        key={item.story.id}
+                        story={item.story}
+                        brief
+                        expanded={expandedStory === item.story.id}
+                        onToggle={(el) => {
+                          scrollAnchor.current = { element: el, top: el.getBoundingClientRect().top };
+                          setExpandedStory(expandedStory === item.story.id ? null : item.story.id);
+                        }}
+                      />
+                    );
+                  })}
                 </div>
               </section>
             )}
