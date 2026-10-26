@@ -6149,7 +6149,7 @@
       "parentId": null,
       "firstSeen": "2026-05-02",
       "lastSeen": "2026-09-26",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-05-02",
@@ -8564,5 +8564,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-25T21:18:42.780Z"
+  "updatedAt": "2026-10-26T11:18:36.243Z"
 }
