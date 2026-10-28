@@ -1761,5 +1761,57 @@
     "categories": [],
     "collectRun": "2026-10-28T09:30:00.000Z",
     "collectedAt": "2026-10-28T09:30:01.444Z"
+  },
+  {
+    "title": "Spain High-Speed Rail Crash Leaves At Least 10 Dead: Reports",
+    "description": "It follows a fatal crash in Spain in January which left 45 people dead when a train jumped a track and hit an oncoming train.",
+    "link": "https://www.newsweek.com/spain-high-speed-rail-accident-toledo-12627833",
+    "pubDate": "Wed, 28 Oct 2026 05:41:02 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-10-28T09:45:00.000Z",
+    "collectedAt": "2026-10-28T09:45:01.803Z"
+  },
+  {
+    "title": "James Talarico and Donald Trump’s Texas Rally Crowd Sizes Compared: Photos",
+    "description": "The duelling rallies drew thousands of supporters in Lubbock, Texas, a longtime Republican stronghold.",
+    "link": "https://www.newsweek.com/james-talarico-and-donald-trump-texas-rally-crowd-sizes-compared-photos-12627636",
+    "pubDate": "Wed, 28 Oct 2026 05:40:34 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-10-28T09:45:00.000Z",
+    "collectedAt": "2026-10-28T09:45:01.803Z"
+  },
+  {
+    "title": "What's next for Ilhan Omar? Former immigration judge breaks down legal risks amid federal probes",
+    "description": "A former immigration judge says Ilhan Omar could face denaturalization and criminal charges depending on the federal investigation's findings.",
+    "link": "https://www.foxnews.com/politics/whats-next-ilhan-omar-former-immigration-judge-breaks-down-legal-risks-amid-federal-probes",
+    "pubDate": "Wed, 28 Oct 2026 05:30:34 -0400",
+    "source": "Fox News",
+    "categories": [
+      "a8874c2d-1d08-5bec-885f-dfb0d69178ed",
+      "fnc",
+      "fox news",
+      "fox-news/person/ilhan-omar",
+      "fox-news/politics",
+      "fox-news/us/immigration/naturalization",
+      "fox-news/politics/executive/homeland-security",
+      "fox-news/politics/justice-department",
+      "fox-news/politics/finance/investigations",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectRun": "2026-10-28T09:45:00.000Z",
+    "collectedAt": "2026-10-28T09:45:01.803Z"
+  },
+  {
+    "title": "Hochul holds 14-point lead over Blakeman in home stretch of NY governor’s race",
+    "description": "Hochul's lead grew from 9 points (50% to 41%) in last month's Siena survey, a five-point jump.",
+    "link": "https://nypost.com/2026/10/28/us-news/hochul-holds-14-point-lead-over-blakeman-in-home-stretch-of-ny-governors-race/",
+    "pubDate": "Wed, 28 Oct 2026 05:40:40 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-10-28T09:45:00.000Z",
+    "collectedAt": "2026-10-28T09:45:01.803Z"
   }
 ]
