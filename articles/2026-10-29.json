@@ -434,5 +434,49 @@
     "categories": [],
     "collectRun": "2026-10-29T04:30:00.000Z",
     "collectedAt": "2026-10-29T04:30:01.234Z"
+  },
+  {
+    "title": "Richard Sackler loses bid to keep mansion despite Purdue settlement - Reuters",
+    "description": "Richard Sackler loses bid to keep mansion despite Purdue settlement  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUtIbHpMOFk3eHlKbld5ZjA5YXJKWGdRZWc0NFVZLXlUZ0l6a3pfM090YlZZckl2VnBWVmFyVE5XR0FUOGZJRVZ0cS11akNjV1ItUlBQWmFYbG1YMzFZdVFiLVJnVkNPM2xFMFVOeVhxMERHQWJqX0FLSlpPX1BiZURXVE9qRFJjRzZaSENlV1hCRGphb1BlcEp4WXBMYVo5cUJQb1c2OE90NzBZS1o3RmU2Q2daRXhv?oc=5",
+    "pubDate": "Wed, 28 Oct 2026 22:46:53 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectRun": "2026-10-29T04:45:00.000Z",
+    "collectedAt": "2026-10-29T04:45:01.697Z"
+  },
+  {
+    "title": "DHS investigates massive data breach exposing 40,000 employees, including ICE and Border Patrol agents",
+    "description": "The Department of Homeland Security is investigating a breach that exposed roughly 40,000 employees, including 10,000 ICE agents and CBP personnel.",
+    "link": "https://www.foxnews.com/us/dhs-investigates-massive-data-breach-exposing-40000-employees-including-ice-border-patrol-agents",
+    "pubDate": "Thu, 29 Oct 2026 00:31:13 -0400",
+    "source": "Fox News",
+    "categories": [
+      "caef4042-d862-5881-923e-9720bc7c4cdc",
+      "fnc",
+      "fox news",
+      "fox-news/us",
+      "fox-news/tech/topics/cybercrime",
+      "fox-news/politics/executive/homeland-security",
+      "fox-news/tech/topics/security",
+      "fox-news/us/personal-freedoms/privacy",
+      "fox-news/us/immigration/border-security",
+      "fox-news/politics/executive/national-security",
+      "fox-news/tech/topics/hackers",
+      "fox-news/us",
+      "article"
+    ],
+    "collectRun": "2026-10-29T04:45:00.000Z",
+    "collectedAt": "2026-10-29T04:45:01.697Z"
+  },
+  {
+    "title": "Disney theme parks hit with brutal round of layoffs as company reviews priorities",
+    "description": "Despite the crowds at its flagship attractions, Disney is reviewing how it allocates investments and manages project timelines.",
+    "link": "https://nypost.com/2026/10/29/us-news/disney-theme-park-layoffs-with-up-to-200-jobs-cut/",
+    "pubDate": "Thu, 29 Oct 2026 00:33:23 -0400",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-10-29T04:45:00.000Z",
+    "collectedAt": "2026-10-29T04:45:01.697Z"
   }
 ]
