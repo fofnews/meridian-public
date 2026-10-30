@@ -604,5 +604,15 @@
     "categories": [],
     "collectRun": "2026-10-30T06:30:00.000Z",
     "collectedAt": "2026-10-30T06:30:02.060Z"
+  },
+  {
+    "title": "Hazardous driving conditions for Friday as fog warning issued by Met Office",
+    "description": "Foggy conditions likely to bring tricky conditions for the Friday morning commute as severe weather warning issued.",
+    "link": "https://www.bbc.co.uk/weather/articles/c6ly075l742ro?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 30 Oct 2026 06:18:35 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectRun": "2026-10-30T06:45:00.000Z",
+    "collectedAt": "2026-10-30T06:45:01.650Z"
   }
 ]
