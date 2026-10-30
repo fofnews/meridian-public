@@ -3,8 +3,9 @@ import { ChevronDown, ChevronUp, ExternalLink } from 'lucide-react';
 import SourceBadge from './SourceBadge';
 import AnalysisView from './AnalysisView';
 import { decodeText } from '../utils';
+import { leanOf } from '../shared/source-leans.js';
 
-export default function StoryCard({ story, brief = false, expanded, onToggle }) {
+export default function StoryCard({ story, leans, brief = false, expanded, onToggle }) {
   const [sourcesOpen, setSourcesOpen] = useState(false);
   const cardRef = useRef(null);
   const sources = [...new Set(story.articles.map(a => a.source))];
@@ -27,7 +28,7 @@ export default function StoryCard({ story, brief = false, expanded, onToggle }) 
               {decodeText(story.headline)}
             </p>
             <div className="flex items-center gap-1.5 mt-1.5">
-              {sources.slice(0, 3).map(s => <SourceBadge key={s} source={s} />)}
+              {sources.slice(0, 3).map(s => <SourceBadge key={s} source={s} lean={leanOf(leans, s)} />)}
             </div>
           </div>
           <ChevronDown
@@ -37,7 +38,7 @@ export default function StoryCard({ story, brief = false, expanded, onToggle }) 
         </button>
         {expanded && (
           <div className="pb-4 space-y-3">
-            <AnalysisView analysis={story.analysis} />
+            <AnalysisView analysis={story.analysis} leans={leans} />
             {story.articles[0]?.link && (
               <a
                 href={story.articles[0].link}
@@ -48,7 +49,7 @@ export default function StoryCard({ story, brief = false, expanded, onToggle }) 
                 onMouseEnter={e => e.currentTarget.style.color = 'var(--accent)'}
                 onMouseLeave={e => e.currentTarget.style.color = 'var(--text-muted)'}
               >
-                <SourceBadge source={story.articles[0].source} />
+                <SourceBadge source={story.articles[0].source} lean={leanOf(leans, story.articles[0].source)} />
                 <span className="line-clamp-1 flex-1">{story.articles[0].title}</span>
                 <ExternalLink className="w-3 h-3 shrink-0" />
               </a>
@@ -99,7 +100,7 @@ export default function StoryCard({ story, brief = false, expanded, onToggle }) 
             </span>
             <span style={{ color: 'var(--border-dim)' }}>·</span>
             <div className="flex flex-wrap gap-1">
-              {sources.slice(0, 6).map(s => <SourceBadge key={s} source={s} />)}
+              {sources.slice(0, 6).map(s => <SourceBadge key={s} source={s} lean={leanOf(leans, s)} />)}
               {sources.length > 6 && (
                 <span className="text-xs" style={{ color: 'var(--text-faint)' }}>+{sources.length - 6} more</span>
               )}
@@ -125,7 +126,7 @@ export default function StoryCard({ story, brief = false, expanded, onToggle }) 
 
       {expanded && (
         <div style={{ borderTop: '1px solid var(--border-primary)' }} className="px-6 py-5 space-y-4">
-          <AnalysisView analysis={story.analysis} />
+          <AnalysisView analysis={story.analysis} leans={leans} />
 
           {/* Source articles */}
           <div className="rounded-lg overflow-hidden" style={{ border: '1px solid var(--border-primary)' }}>
@@ -155,7 +156,7 @@ export default function StoryCard({ story, brief = false, expanded, onToggle }) 
                     onMouseEnter={e => e.currentTarget.style.background = 'var(--bg-card)'}
                     onMouseLeave={e => e.currentTarget.style.background = ''}
                   >
-                    <SourceBadge source={article.source} />
+                    <SourceBadge source={article.source} lean={leanOf(leans, article.source)} />
                     <div className="flex-1 min-w-0">
                       <p
                         className="text-sm transition-colors"

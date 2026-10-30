@@ -9,6 +9,7 @@ import ArticlesView from './components/ArticlesView';
 import TimelineView from './components/TimelineView';
 import ErrorBoundary from './components/ErrorBoundary';
 import { useTheme } from './ThemeContext.jsx';
+import { leansFor } from './shared/source-leans.js';
 
 function buildGroupedItems(orderedStories, storyGroups, allStoriesById) {
   if (!storyGroups?.length) return orderedStories.map(s => ({ type: 'story', story: s }));
@@ -137,6 +138,8 @@ export default function App() {
     );
     return { allStories, multiSource, singleSource, allStoriesById, storyGroups, topItems, briefItems };
   }, [report]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  const leans = leansFor(report);
 
   // Last-resort fallback for errors that escape the per-section boundaries
   // below (e.g. a throw in App's own body). The per-section boundaries handle
@@ -311,6 +314,7 @@ export default function App() {
                                 <StoryCard
                                   key={story.id}
                                   story={story}
+                                  leans={leans}
                                   brief={sourceCount(story) < 2}
                                   expanded={expandedStory === story.id}
                                   onToggle={(el) => {
@@ -329,6 +333,7 @@ export default function App() {
                       <StoryCard
                         key={item.story.id}
                         story={item.story}
+                        leans={leans}
                         expanded={expandedStory === item.story.id}
                         onToggle={(el) => {
                           scrollAnchor.current = { element: el, top: el.getBoundingClientRect().top };
@@ -386,6 +391,7 @@ export default function App() {
                             <StoryCard
                               key={story.id}
                               story={story}
+                              leans={leans}
                               brief
                               expanded={expandedStory === story.id}
                               onToggle={(el) => {
@@ -401,6 +407,7 @@ export default function App() {
                       <StoryCard
                         key={item.story.id}
                         story={item.story}
+                        leans={leans}
                         brief
                         expanded={expandedStory === item.story.id}
                         onToggle={(el) => {

@@ -1,8 +1,9 @@
 import { useState } from 'react';
 import { CheckCircle2, AlertTriangle, Lightbulb, ChevronDown, ChevronUp, FileText, Sparkles } from 'lucide-react';
 import SourceBadge from './SourceBadge';
+import { leanOf } from '../shared/source-leans.js';
 
-export default function AnalysisView({ analysis }) {
+export default function AnalysisView({ analysis, leans }) {
   const hasClaims = Array.isArray(analysis?.claims);
   const [open, setOpen] = useState({
     claims: hasClaims,
@@ -74,7 +75,7 @@ export default function AnalysisView({ analysis }) {
                       <span className="text-xs uppercase tracking-wide" style={{ color: 'var(--text-faint)' }}>
                         {sourceCount} source{sourceCount !== 1 ? 's' : ''}
                       </span>
-                      {(c.sources ?? []).map(s => <SourceBadge key={s} source={s} />)}
+                      {(c.sources ?? []).map(s => <SourceBadge key={s} source={s} lean={leanOf(leans, s)} />)}
                     </div>
                     {Array.isArray(c.contested) && c.contested.length > 0 && (
                       <div
@@ -89,7 +90,7 @@ export default function AnalysisView({ analysis }) {
                         </span>
                         {c.contested.map((x, j) => (
                           <div key={j} className="flex items-start gap-2 mt-1.5">
-                            <SourceBadge source={x.source} />
+                            <SourceBadge source={x.source} lean={leanOf(leans, x.source)} />
                             <p className="text-sm flex-1 leading-relaxed" style={{ color: 'var(--section-disagree-text)' }}>
                               {x.alternative}
                             </p>
@@ -155,7 +156,7 @@ export default function AnalysisView({ analysis }) {
             <div className="px-4 py-3 space-y-3">
               {analysis.uniqueAngles.map((u, i) => (
                 <div key={i} className="flex items-start gap-3" style={{ borderBottom: i < analysis.uniqueAngles.length - 1 ? '1px solid var(--border-unique)' : 'none', paddingBottom: i < analysis.uniqueAngles.length - 1 ? '12px' : undefined }}>
-                  <SourceBadge source={u.source} />
+                  <SourceBadge source={u.source} lean={leanOf(leans, u.source)} />
                   <p className="text-sm flex-1 leading-relaxed" style={{ color: 'var(--section-unique-title)' }}>{u.angle ?? u.position}</p>
                 </div>
               ))}
@@ -198,7 +199,7 @@ export default function AnalysisView({ analysis }) {
                     <div className="px-4 pb-3 space-y-2">
                       {d.positions?.map((p, j) => (
                         <div key={j} className="flex items-start gap-3">
-                          <SourceBadge source={p.source} />
+                          <SourceBadge source={p.source} lean={leanOf(leans, p.source)} />
                           <p className="text-sm flex-1" style={{ color: 'var(--section-disagree-text)' }}>{p.position}</p>
                         </div>
                       ))}
