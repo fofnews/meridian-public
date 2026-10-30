@@ -1088,5 +1088,57 @@
     "categories": [],
     "collectRun": "2026-10-30T08:45:00.000Z",
     "collectedAt": "2026-10-30T08:45:01.902Z"
+  },
+  {
+    "title": "Morning news brief",
+    "description": "Candidates make their final push to voters, Alaska roiled by allegations that Democrats tried to prop up a spoiler candidate,  U.S. could resume conflict in Iran after monthslong pause.",
+    "link": "https://www.npr.org/2026/10/30/nx-s1-6009834/morning-news-brief",
+    "pubDate": "Fri, 30 Oct 2026 04:47:53 -0400",
+    "source": "NPR",
+    "categories": [],
+    "collectRun": "2026-10-30T09:00:00.000Z",
+    "collectedAt": "2026-10-30T09:00:01.255Z"
+  },
+  {
+    "title": "Binance estimates security breach impact at $6.3 billion",
+    "description": "Binance said its initial investigation into a security incident suggests an attacker may have gained access through a compromised laptop belonging to a DevOps engineer.",
+    "link": "https://abcnews.com/Business/binance-estimates-security-breach-impact-63-billion/story?id=137698510",
+    "pubDate": "Fri, 30 Oct 2026 04:46:15 -0400",
+    "source": "ABC News",
+    "categories": [
+      "business"
+    ],
+    "collectRun": "2026-10-30T09:00:00.000Z",
+    "collectedAt": "2026-10-30T09:00:01.255Z"
+  },
+  {
+    "title": "From watching Star Trek to knighthood - memorable BBC moments",
+    "description": "The actor was a familiar face across the BBC over the years, appearing on programmes like The Graham Norton Show and HARDTalk.",
+    "link": "https://www.bbc.co.uk/news/videos/c83vq2klqrd7o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Thu, 29 Oct 2026 22:52:45 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectRun": "2026-10-30T09:00:00.000Z",
+    "collectedAt": "2026-10-30T09:00:01.255Z"
+  },
+  {
+    "title": "A life in pictures",
+    "description": "His career on stages and screens spanned seven decades but came to be defined by his roles on some of the most popular sci-fi franchises in history.",
+    "link": "https://www.bbc.co.uk/news/articles/cj1dw9dynn2xo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 30 Oct 2026 03:54:39 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectRun": "2026-10-30T09:00:00.000Z",
+    "collectedAt": "2026-10-30T09:00:01.255Z"
+  },
+  {
+    "title": "Greece arrests three over explosion that killed six people in Athens - Reuters",
+    "description": "Greece arrests three over explosion that killed six people in Athens  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeUVUX2NBWHNDVGVjcFlnVFZheldmT0VJSllOcGIxQ1ZZdjdqaWp2cUtkOHFqSGNJMnBjZmtFS0NfZWhiV3dWUUNBVlRYa2xIMmJiUnprdVVVb0pUSzJQZEFKRXZpOVVjWHgtQ1VwVXRZYUVfNG84YzM1di11ekRmZFU0bkxqMTdyTDJSbF9HbVdhbkRULXpNanhpNGtfdWdRWXYtLWRUMkJtNzQ?oc=5",
+    "pubDate": "Fri, 30 Oct 2026 07:53:43 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectRun": "2026-10-30T09:00:00.000Z",
+    "collectedAt": "2026-10-30T09:00:01.255Z"
   }
 ]
