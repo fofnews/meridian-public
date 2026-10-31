@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Election Workers",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "judge",
+      "election",
+      "trump",
+      "threats",
+      "workers",
+      "orders"
+    ]
+  },
+  {
     "label": "Nancy Guthrie",
     "count": 4,
     "sources": 3,
@@ -78,29 +91,16 @@
     ]
   },
   {
-    "label": "Patriot Missile",
-    "count": 3,
+    "label": "Michigan Man",
+    "count": 4,
     "sources": 3,
     "keywords": [
-      "patriot",
-      "sale",
-      "ukraine",
-      "missile",
-      "approves",
-      "500"
-    ]
-  },
-  {
-    "label": "Judge Blocks",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "judge",
-      "threats",
-      "election",
-      "trump",
-      "blocks",
-      "doj"
+      "man",
+      "allegedly",
+      "threatening",
+      "michigan",
+      "patel",
+      "arrested"
     ]
   }
 ]
