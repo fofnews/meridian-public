@@ -11,6 +11,8 @@ import ErrorBoundary from './components/ErrorBoundary';
 import { leansFor } from './shared/source-leans.js';
 import { getReadIds, markRead } from './readState.js';
 
+const BRIEF_LIMIT = 10;
+
 function outletCount(item) {
   return item.type === 'group'
     ? item.sources.length
@@ -74,6 +76,7 @@ export default function App() {
   const [showScrollTop, setShowScrollTop] = useState(false);
   const scrollAnchor = useRef(null);
   const [readIds, setReadIds] = useState(() => new Set());
+  const [showAllBrief, setShowAllBrief] = useState(false);
 
   useEffect(() => {
     const onScroll = () => setShowScrollTop(window.scrollY > 400);
@@ -113,6 +116,7 @@ export default function App() {
     setError(null);
     setExpandedStory(null);
     setFeaturedStoryId(null);
+    setShowAllBrief(false);
     if (edition === 'articles-only') {
       setReport(null);
       setSelectedDate(date);
@@ -156,7 +160,7 @@ export default function App() {
     return new Set(articles.map(a => a?.source).filter(Boolean)).size;
   };
 
-  const { allStories, multiSource, singleSource, allStoriesById, storyGroups, topItems, briefItems } = useMemo(() => {
+  const { allStories, multiSource, singleSource, allStoriesById, storyGroups, topItems, briefItems, briefGroups, briefSingles } = useMemo(() => {
     const allStories = report?.stories ?? [];
     // !s.isParent and !s.parentId: backward-compat guards for old reports still
     // in the repo that contain empty parent containers and sub-thread stories.
@@ -177,10 +181,27 @@ export default function App() {
       storyGroups,
       allStoriesById
     );
-    return { allStories, multiSource, singleSource, allStoriesById, storyGroups, topItems, briefItems };
+    const briefGroups = briefItems.filter(i => i.type === 'group');
+    const briefSingles = briefItems.filter(i => i.type === 'story');
+    return { allStories, multiSource, singleSource, allStoriesById, storyGroups, topItems, briefItems, briefGroups, briefSingles };
   }, [report]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const leans = leansFor(report);
+  const visibleBrief = showAllBrief ? briefSingles : briefSingles.slice(0, BRIEF_LIMIT);
+
+  const renderBriefRow = story => (
+    <StoryCard
+      key={story.id}
+      story={story}
+      leans={leans}
+      brief
+      expanded={expandedStory === story.id}
+      onToggle={el => {
+        scrollAnchor.current = { element: el, top: el.getBoundingClientRect().top };
+        setExpandedStory(expandedStory === story.id ? null : story.id);
+      }}
+    />
+  );
 
   const latestDate = availableDates[0];
   const latestEdition = latestDate
@@ -372,76 +393,43 @@ export default function App() {
               </section>
             )}
 
-            {/* In Brief */}
-            {singleSource.length > 0 && (
-              <section>
-                <div className="flex items-center gap-4 mb-4">
-                  <h2
-                    className="font-display font-bold shrink-0"
-                    style={{ color: 'var(--text-secondary)', fontSize: 20, letterSpacing: '0.5px' }}
-                  >
-                    In Brief
-                  </h2>
-                  <div style={{ flex: 1, height: 1, background: 'var(--border-primary)' }} />
-                  <span className="text-xs shrink-0 font-semibold uppercase" style={{ color: 'var(--text-muted)', letterSpacing: '2px' }}>
-                    {briefItems.length} {briefItems.length === 1 ? 'item' : 'items'}
-                  </span>
-                </div>
-
-                <div
-                  className="rounded-xl overflow-hidden px-5"
-                  style={{ background: 'var(--bg-secondary)', border: '1px solid var(--border-primary)' }}
+            {/* In brief */}
+            {briefItems.length > 0 && (
+              <section style={{ marginTop: 56 }}>
+                <h2
+                  style={{ color: 'var(--text-primary)', fontFamily: 'var(--font-display)', fontSize: 24, fontWeight: 600, borderBottom: '1px solid var(--border-dim)', paddingBottom: 8 }}
                 >
-                  {briefItems.map(item => {
-                    if (item.type === 'group') {
-                      return (
-                        <div key={item.group.id}>
-                          <div
-                            className="flex items-center gap-2 py-2"
-                            style={{ borderBottom: '1px solid var(--border-primary)' }}
-                          >
-                            <span
-                              className="uppercase font-semibold shrink-0"
-                              style={{ color: 'var(--text-muted)', fontSize: 10, letterSpacing: '2px' }}
-                            >
-                              {item.group.label}
-                            </span>
-                            <span style={{ color: 'var(--text-faint)', fontSize: 10 }}>
-                              · {item.stories.length} {item.stories.length === 1 ? 'story' : 'stories'}
-                            </span>
-                            <div style={{ flex: 1, height: 1, background: 'var(--border-primary)' }} />
-                          </div>
-                          {item.stories.map(story => (
-                            <StoryCard
-                              key={story.id}
-                              story={story}
-                              leans={leans}
-                              brief
-                              expanded={expandedStory === story.id}
-                              onToggle={(el) => {
-                                scrollAnchor.current = { element: el, top: el.getBoundingClientRect().top };
-                                setExpandedStory(expandedStory === story.id ? null : story.id);
-                              }}
-                            />
-                          ))}
-                        </div>
-                      );
-                    }
-                    return (
-                      <StoryCard
-                        key={item.story.id}
-                        story={item.story}
-                        leans={leans}
-                        brief
-                        expanded={expandedStory === item.story.id}
-                        onToggle={(el) => {
-                          scrollAnchor.current = { element: el, top: el.getBoundingClientRect().top };
-                          setExpandedStory(expandedStory === item.story.id ? null : item.story.id);
-                        }}
-                      />
-                    );
-                  })}
-                </div>
+                  In brief <span style={{ color: 'var(--label)', fontFamily: 'var(--font-label)', fontSize: 13, fontWeight: 400 }}>· reported by one outlet</span>
+                </h2>
+
+                {briefGroups.map(item => (
+                  <div key={item.group.id} style={{ padding: '16px 0 6px', borderBottom: '1px solid var(--border-primary)' }}>
+                    <div className="flex flex-wrap items-baseline" style={{ gap: '6px 10px' }}>
+                      <span className="uppercase font-bold" style={{ color: 'var(--text-secondary)', fontFamily: 'var(--font-label)', fontSize: 11, letterSpacing: '0.1em' }}>
+                        {item.group.label}
+                      </span>
+                      <span style={{ color: 'var(--label)', fontFamily: 'var(--font-label)', fontSize: 12 }}>
+                        · {item.stories.length} {item.stories.length === 1 ? 'report' : 'reports'} from {item.sources.length} {item.sources.length === 1 ? 'outlet' : 'outlets'}
+                      </span>
+                    </div>
+                    {item.stories.map(story => renderBriefRow(story))}
+                  </div>
+                ))}
+
+                {visibleBrief.map(item => renderBriefRow(item.story))}
+
+                {briefSingles.length > BRIEF_LIMIT && (
+                  <p style={{ margin: '16px 0 0', fontFamily: 'var(--font-label)', fontSize: 14 }}>
+                    <button
+                      onClick={() => setShowAllBrief(v => !v)}
+                      aria-expanded={showAllBrief}
+                      className="cursor-pointer"
+                      style={{ color: 'var(--gold-text)', background: 'none', border: 'none', minHeight: 44, padding: 0, font: 'inherit' }}
+                    >
+                      {showAllBrief ? 'Show fewer' : `Show all ${briefSingles.length} single-outlet reports`}
+                    </button>
+                  </p>
+                )}
               </section>
             )}
           </ErrorBoundary>

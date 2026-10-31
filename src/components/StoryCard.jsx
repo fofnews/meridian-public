@@ -1,7 +1,6 @@
 import { useRef } from 'react';
 import { Check, ChevronDown, ChevronUp, ExternalLink } from 'lucide-react';
-import SourceBadge, { leanColor } from './SourceBadge';
-import AnalysisView from './AnalysisView';
+import { leanColor } from './SourceBadge';
 import OpenStory from './OpenStory';
 import { decodeText } from '../utils';
 import { leanOf } from '../shared/source-leans.js';
@@ -12,48 +11,42 @@ export default function StoryCard({ story, leans, brief = false, group = null, r
   const cardRef = useRef(null);
   const sources = group?.sources ?? [...new Set(story.articles.map(a => a.source))];
 
-  // Brief variant — compact list row for single-source "In Brief" section
+  // Brief variant: compact row for single-outlet reports
   if (brief) {
+    const article = story.articles[0];
+    const outlet = article?.source ?? sources[0];
     return (
-      <div ref={cardRef} data-story-id={story.id} style={{ borderBottom: '1px solid var(--border-primary)', scrollMarginTop: 'calc(var(--map-sticky-height, 0px) + 12px)' }} className="last:border-0">
+      <div ref={cardRef} data-story-id={story.id} style={{ borderBottom: '1px solid var(--border-primary)', scrollMarginTop: 'calc(var(--map-sticky-height, 0px) + 12px)' }}>
         <button
           onClick={() => onToggle(cardRef.current)}
-          className="w-full text-left py-4 flex items-start justify-between gap-4 cursor-pointer group"
+          aria-expanded={expanded}
+          className="w-full text-left grid gap-4 cursor-pointer"
+          style={{ gridTemplateColumns: 'minmax(0, 1fr) 24px', padding: '12px 0', minHeight: 44 }}
         >
-          <div className="flex-1 min-w-0">
-            <p
-              className="text-sm leading-snug line-clamp-2 transition-colors"
-              style={{ color: 'var(--text-secondary)' }}
-              onMouseEnter={e => e.currentTarget.style.color = 'var(--text-primary)'}
-              onMouseLeave={e => e.currentTarget.style.color = 'var(--text-secondary)'}
-            >
+          <span className="block min-w-0">
+            <span className="block" style={{ fontFamily: 'var(--font-body)', fontSize: 17, lineHeight: 1.45, color: 'var(--text-secondary)' }}>
               {decodeText(story.headline)}
-            </p>
-            <div className="flex items-center gap-1.5 mt-1.5">
-              {sources.slice(0, 3).map(s => <SourceBadge key={s} source={s} lean={leanOf(leans, s)} />)}
-            </div>
-          </div>
-          <ChevronDown
-            className={`w-4 h-4 shrink-0 mt-0.5 transition-transform ${expanded ? 'rotate-180' : ''}`}
-            style={{ color: 'var(--text-faint)' }}
-          />
+            </span>
+            <span className="block mt-0.5 font-medium" style={{ fontFamily: 'var(--font-label)', fontSize: 13, color: leanColor(leanOf(leans, outlet)) }}>
+              {outlet}
+            </span>
+          </span>
+          <span aria-hidden="true" style={{ color: 'var(--label)', fontFamily: 'var(--font-label)' }}>{expanded ? '−' : '+'}</span>
         </button>
         {expanded && (
-          <div className="pb-4 space-y-3">
-            <AnalysisView analysis={story.analysis} leans={leans} />
-            {story.articles[0]?.link && (
+          <div className="pb-4">
+            {story.analysis?.summary && (
+              <p style={{ fontFamily: 'var(--font-body)', fontSize: 16, lineHeight: 1.55, color: 'var(--text-secondary)' }}>{story.analysis.summary}</p>
+            )}
+            {article?.link && (
               <a
-                href={story.articles[0].link}
+                href={article.link}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex items-center gap-2 text-xs transition-colors"
-                style={{ color: 'var(--text-muted)' }}
-                onMouseEnter={e => e.currentTarget.style.color = 'var(--accent)'}
-                onMouseLeave={e => e.currentTarget.style.color = 'var(--text-muted)'}
+                className="inline-flex items-center gap-1.5 mt-2"
+                style={{ fontFamily: 'var(--font-label)', fontSize: 13, color: 'var(--gold-text)', minHeight: 44 }}
               >
-                <SourceBadge source={story.articles[0].source} lean={leanOf(leans, story.articles[0].source)} />
-                <span className="line-clamp-1 flex-1">{story.articles[0].title}</span>
-                <ExternalLink className="w-3 h-3 shrink-0" />
+                Read at {outlet} <ExternalLink className="w-3 h-3" />
               </a>
             )}
           </div>
