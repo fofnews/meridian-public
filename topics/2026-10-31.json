@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Daylight Saving",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "daylight",
+      "saving",
+      "time",
+      "back",
+      "clocks",
+      "fall"
+    ]
+  },
+  {
     "label": "Patriot Missile",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "trump",
       "blocks",
       "doj"
-    ]
-  },
-  {
-    "label": "Haley Stevens",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "haley",
-      "stevens",
-      "sayed",
-      "abdul",
-      "stay",
-      "away"
     ]
   }
 ]
