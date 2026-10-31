@@ -955,5 +955,57 @@
     ],
     "collectRun": "2026-10-31T08:00:00.000Z",
     "collectedAt": "2026-10-31T08:00:01.112Z"
+  },
+  {
+    "title": "UK could see 10 days without rain after 'wettest week in two years'",
+    "description": "With high pressure developing across the UK, the start of November is looking very settled with no significant rain in the forecast.",
+    "link": "https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 31 Oct 2026 00:06:31 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectRun": "2026-10-31T08:15:00.000Z",
+    "collectedAt": "2026-10-31T08:15:02.226Z"
+  },
+  {
+    "title": "Mom Thought Toddler’s Dinosaur Obsession Was Sweet—Then the Incidents Began",
+    "description": "Eliza Karazah can still remember the moment her son’s dinosaur obsession went too far and someone got badly hurt.",
+    "link": "https://www.newsweek.com/mom-thought-toddlers-dinosaur-obsession-was-sweetthen-the-incidents-began-12606124",
+    "pubDate": "Sat, 31 Oct 2026 04:00:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-10-31T08:15:00.000Z",
+    "collectedAt": "2026-10-31T08:15:02.226Z"
+  },
+  {
+    "title": "Dems' dire warnings about threats to democracy face an uncomfortable reckoning after Alaska election report",
+    "description": "Democratic Party lawmakers who endorsed Mary Peltola stayed silent when asked to denounce the alleged voter confusion scheme in Alaska's Senate race.",
+    "link": "https://www.foxnews.com/politics/dems-dire-warnings-about-threats-democracy-face-uncomfortable-reckoning-after-alaska-election-report",
+    "pubDate": "Sat, 31 Oct 2026 04:00:46 -0400",
+    "source": "Fox News",
+    "categories": [
+      "6352e5e0-8674-5b1f-a0cf-2c822664cd2e",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/politics/voting",
+      "fox-news/politics/elections/midterm-elections",
+      "fox-news/person/cory-booker",
+      "fox-news/person/john-fetterman",
+      "fox-news/us/us-regions/west/alaska",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectRun": "2026-10-31T08:15:00.000Z",
+    "collectedAt": "2026-10-31T08:15:02.226Z"
+  },
+  {
+    "title": "Poland Court Suspensions Spark Protests, Coup Claims - Newsmax",
+    "description": "Poland Court Suspensions Spark Protests, Coup Claims  Newsmax",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMXNmVnh1QWdsNmhLS3I4cFBfYjJsNW5SNGh6SFVwTTJ3MC1DRGRicFdEdDRoX1pjM1JWUGh1NmVDd2FOZko0VXQ3Uy0xWW53Q3dSc3ZGTnQ5Q0lhLVlMR1docUJkblVOQU9zM0hDSXFpSm5VWHhvWHpidEp6ZERoQkZULTZZNXNVc1pPNElSRjVyUnRE?oc=5",
+    "pubDate": "Sat, 31 Oct 2026 00:19:15 GMT",
+    "source": "Newsmax",
+    "categories": [],
+    "collectRun": "2026-10-31T08:15:00.000Z",
+    "collectedAt": "2026-10-31T08:15:02.226Z"
   }
 ]
