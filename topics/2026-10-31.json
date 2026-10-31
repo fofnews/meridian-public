@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Haley Stevens",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "stevens",
+      "sayed",
+      "haley",
+      "stay",
+      "away",
+      "campaign"
+    ]
+  },
+  {
     "label": "Nancy Guthrie",
     "count": 4,
     "sources": 3,
@@ -88,19 +101,6 @@
       "back",
       "clocks",
       "fall"
-    ]
-  },
-  {
-    "label": "Michigan Man",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "man",
-      "allegedly",
-      "threatening",
-      "michigan",
-      "patel",
-      "arrested"
     ]
   }
 ]
