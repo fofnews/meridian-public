@@ -1,5 +1,18 @@
 [
   {
+    "label": "Dead Injured",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "dead",
+      "injured",
+      "shooting",
+      "california",
+      "halloween",
+      "spirit"
+    ]
+  },
+  {
     "label": "Patriot Missile",
     "count": 3,
     "sources": 3,
@@ -10,19 +23,6 @@
       "missile",
       "approves",
       "500"
-    ]
-  },
-  {
-    "label": "Dead Injured",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "dead",
-      "injured",
-      "shooting",
-      "california",
-      "halloween",
-      "store"
     ]
   }
 ]
