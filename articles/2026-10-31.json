@@ -1797,5 +1797,39 @@
     ],
     "collectRun": "2026-10-31T10:15:00.000Z",
     "collectedAt": "2026-10-31T10:15:01.518Z"
+  },
+  {
+    "title": "Education under fire: Gaza’s children face death on their way to school",
+    "description": "Children have faced Israeli bombs and sniper fire since the academic year resumed in Gaza.",
+    "link": "https://www.aljazeera.com/features/2026/10/31/education-under-fire-gazas-children-face-death-on-their-way-to-school?traffic_source=rss",
+    "pubDate": "Sat, 31 Oct 2026 10:00:17 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news analysis"
+    ],
+    "collectRun": "2026-10-31T10:30:00.000Z",
+    "collectedAt": "2026-10-31T10:30:02.483Z"
+  },
+  {
+    "title": "Elon Musk's Starlink could be your next cellphone carrier",
+    "description": "SpaceX is reportedly pursuing access to 80,000 cell sites to turn Starlink into a major wireless carrier rivaling Verizon, AT&T and T-Mobile.",
+    "link": "https://www.foxnews.com/tech/elon-musk-starlink-could-be-your-next-cellphone-carrier",
+    "pubDate": "Sat, 31 Oct 2026 06:20:57 -0400",
+    "source": "Fox News",
+    "categories": [
+      "0b86fed9-3bee-5b92-ae6e-7c3efba36098",
+      "fnc",
+      "fox news",
+      "fox-news/tech",
+      "fox-news/tech/technologies/cellular",
+      "fox-news/tech/technologies/smartphones",
+      "fox-news/tech/technologies/wifi",
+      "fox-news/person/elon-musk",
+      "fox-news/science/air-and-space/spaceflight",
+      "fox-news/tech",
+      "article"
+    ],
+    "collectRun": "2026-10-31T10:30:00.000Z",
+    "collectedAt": "2026-10-31T10:30:02.483Z"
   }
 ]
