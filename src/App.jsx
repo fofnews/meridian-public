@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback, useRef, useLayoutEffect } from 'react';
+import { useState, useEffect, useCallback, useRef, useLayoutEffect, useMemo } from 'react';
 import { Sun, Moon, ArrowUp } from 'lucide-react';
 import MapHero from './components/MapHero';
 import DateNav from './components/DateNav';
@@ -47,7 +47,7 @@ export default function App() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
   const [expandedStory, setExpandedStory] = useState(null);
-  const [featuredIdx, setFeaturedIdx] = useState(0);
+  const [featuredStoryId, setFeaturedStoryId] = useState(null);
   const [view, setView] = useState('analysis'); // 'analysis' | 'articles' | 'timeline' | 'broadcast'
   const adminSecret = new URLSearchParams(window.location.search).get('admin') ?? '';
   const [showScrollTop, setShowScrollTop] = useState(false);
@@ -71,7 +71,7 @@ export default function App() {
     setLoading(true);
     setError(null);
     setExpandedStory(null);
-    setFeaturedIdx(0);
+    setFeaturedStoryId(null);
     if (edition === 'articles-only') {
       setReport(null);
       setSelectedDate(date);
@@ -110,38 +110,33 @@ export default function App() {
       .catch(() => setLoading(false));
   }, [loadReport]);
 
-  // Defensive: if a story's `articles` is missing or malformed, treat it as
-  // zero sources rather than throwing during App render (which would escape
-  // the per-section boundaries below).
   const sourceCount = s => {
     const articles = Array.isArray(s?.articles) ? s.articles : [];
     return new Set(articles.map(a => a?.source).filter(Boolean)).size;
   };
 
-  const allStories = report?.stories ?? [];
-
-  // !s.isParent and !s.parentId: backward-compat guards for old reports still
-  // in the repo that contain empty parent containers and sub-thread stories.
-  // New reports have neither field; guards can be removed once old reports are gone.
-  const multiSource = allStories
-    .filter(s => !s.isParent && !s.parentId && sourceCount(s) >= 2)
-    .sort((a, b) => sourceCount(b) - sourceCount(a));
-
-  const singleSource = allStories
-    .filter(s => !s.isParent && !s.parentId && sourceCount(s) < 2);
-
-  const storyGroups = report?.storyGroups ?? [];
-  const allStoriesById = new Map(allStories.map(s => [s.id, s]));
-
-  const topItems = buildGroupedItems(multiSource, storyGroups, allStoriesById);
-  const topRenderedIds = new Set(topItems.flatMap(item =>
-    item.type === 'group' ? item.stories.map(s => s.id) : [item.story.id]
-  ));
-  const briefItems = buildGroupedItems(
-    singleSource.filter(s => !topRenderedIds.has(s.id)),
-    storyGroups,
-    allStoriesById
-  );
+  const { allStories, multiSource, singleSource, allStoriesById, storyGroups, topItems, briefItems } = useMemo(() => {
+    const allStories = report?.stories ?? [];
+    // !s.isParent and !s.parentId: backward-compat guards for old reports still
+    // in the repo that contain empty parent containers and sub-thread stories.
+    const multiSource = allStories
+      .filter(s => !s.isParent && !s.parentId && sourceCount(s) >= 2)
+      .sort((a, b) => sourceCount(b) - sourceCount(a));
+    const singleSource = allStories
+      .filter(s => !s.isParent && !s.parentId && sourceCount(s) < 2);
+    const storyGroups = report?.storyGroups ?? [];
+    const allStoriesById = new Map(allStories.map(s => [s.id, s]));
+    const topItems = buildGroupedItems(multiSource, storyGroups, allStoriesById);
+    const topRenderedIds = new Set(topItems.flatMap(item =>
+      item.type === 'group' ? item.stories.map(s => s.id) : [item.story.id]
+    ));
+    const briefItems = buildGroupedItems(
+      singleSource.filter(s => !topRenderedIds.has(s.id)),
+      storyGroups,
+      allStoriesById
+    );
+    return { allStories, multiSource, singleSource, allStoriesById, storyGroups, topItems, briefItems };
+  }, [report]); // eslint-disable-line react-hooks/exhaustive-deps
 
   // Last-resort fallback for errors that escape the per-section boundaries
   // below (e.g. a throw in App's own body). The per-section boundaries handle
@@ -187,12 +182,10 @@ export default function App() {
         <ErrorBoundary
           label="map hero"
           fallback={null}
-          resetKey={`${selectedDate}-${selectedEdition}-${featuredIdx}`}
+          resetKey={`${selectedDate}-${selectedEdition}-${featuredStoryId ?? multiSource[0]?.id ?? ''}`}
         >
           <MapHero
-            stories={multiSource}
-            selectedIdx={featuredIdx}
-            onSelect={setFeaturedIdx}
+            featuredStory={featuredStoryId ? (allStoriesById.get(featuredStoryId) ?? multiSource[0]) : multiSource[0]}
             edition={selectedEdition}
             selectedDate={selectedDate}
             availableEditions={availableDates.find(d => d.date === selectedDate)?.editions ?? []}
@@ -314,9 +307,7 @@ export default function App() {
                             <div style={{ flex: 1, height: 1, background: 'var(--border-primary)' }} />
                           </div>
                           <div className="space-y-4">
-                            {item.stories.map(story => {
-                              const multiIdx = multiSource.indexOf(story);
-                              return (
+                            {item.stories.map(story => (
                                 <StoryCard
                                   key={story.id}
                                   story={story}
@@ -326,16 +317,14 @@ export default function App() {
                                     scrollAnchor.current = { element: el, top: el.getBoundingClientRect().top };
                                     const next = expandedStory === story.id ? null : story.id;
                                     setExpandedStory(next);
-                                    if (next && multiIdx >= 0) setFeaturedIdx(multiIdx);
+                                    if (next) setFeaturedStoryId(story.id);
                                   }}
                                 />
-                              );
-                            })}
+                            ))}
                           </div>
                         </div>
                       );
                     }
-                    const i = multiSource.indexOf(item.story);
                     return (
                       <StoryCard
                         key={item.story.id}
@@ -345,7 +334,7 @@ export default function App() {
                           scrollAnchor.current = { element: el, top: el.getBoundingClientRect().top };
                           const next = expandedStory === item.story.id ? null : item.story.id;
                           setExpandedStory(next);
-                          if (next) setFeaturedIdx(i);
+                          if (next) setFeaturedStoryId(item.story.id);
                         }}
                       />
                     );

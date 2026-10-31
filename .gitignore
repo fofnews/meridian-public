@@ -14,3 +14,5 @@ out/
 .agents/
 .claude/
 skills-lock.json
+
+.worktrees/

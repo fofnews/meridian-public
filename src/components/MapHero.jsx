@@ -28,9 +28,7 @@ function formatReportDate(dateStr) {
 }
 
 export default function MapHero({
-  stories,
-  selectedIdx,
-  onSelect,
+  featuredStory,
   edition,
   selectedDate,
   availableEditions = [],
@@ -42,9 +40,14 @@ export default function MapHero({
   const [expanded, setExpanded] = useState(false);
   const [mapEnabled] = useState(() => localStorage.getItem('meridian-map') !== 'false');
   const [mapVisible, setMapVisible] = useState(() => localStorage.getItem('meridian-map-visible') !== 'false');
+  // Latches true the first time the map is shown; gates map creation so a reader
+  // who starts with the map hidden never pays for a Mapbox load.
+  const [hasBeenShown, setHasBeenShown] = useState(() => localStorage.getItem('meridian-map-visible') !== 'false');
+
+  const stickyRef = useRef(null);
 
   const { mapContainer, mapRef, flyToLocation, updateArcs, updateHighlights, applyBoundaryPolygon } = useMeridianMap({
-    mapEnabled,
+    mapEnabled: mapEnabled && hasBeenShown,
     isDark,
     focusPitch: FOCUSED_PITCH_WEBSITE,
   });
@@ -79,7 +82,7 @@ export default function MapHero({
     return () => window.removeEventListener('keydown', handler);
   }, [expanded]);
 
-  const featured = stories[selectedIdx] ?? stories[0];
+  const featured = featuredStory;
   const featuredLocations = featured?.analysis?.locations?.filter(l => l?.lat != null && l?.lng != null) ?? [];
 
   // Fly to first location when story changes; draw source arcs + update highlight palette.
@@ -105,7 +108,23 @@ export default function MapHero({
         updateHighlights(secondaryIsos);
       });
     }
-  }, [selectedIdx, stories]);
+  }, [featured?.id]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  // Publish the sticky container's rendered height as --map-sticky-height so
+  // story cards can use scroll-margin-top to land below the pinned map.
+  // Depends on !!featured so it (re-)runs once the sticky div is in the DOM.
+  useEffect(() => {
+    const el = stickyRef.current;
+    if (!el) return;
+    const ro = new ResizeObserver(() => {
+      document.documentElement.style.setProperty('--map-sticky-height', el.offsetHeight + 'px');
+    });
+    ro.observe(el);
+    return () => {
+      ro.disconnect();
+      document.documentElement.style.removeProperty('--map-sticky-height');
+    };
+  }, [!!featured]); // eslint-disable-line react-hooks/exhaustive-deps
 
   if (!featured) return null;
 
@@ -201,7 +220,7 @@ export default function MapHero({
   );
 
   return (
-    <div style={{ position: 'sticky', top: 0, zIndex: 30 }}>
+    <div ref={stickyRef} style={{ position: 'sticky', top: 0, zIndex: 30 }}>
       {!mapVisible && (
         <div
           className="w-full flex items-center justify-between px-4"
@@ -214,7 +233,7 @@ export default function MapHero({
             The Meridian
           </span>
           <button
-            onClick={() => setMapVisible(true)}
+            onClick={() => { setHasBeenShown(true); setMapVisible(true); }}
             className="cursor-pointer transition-all"
             style={{ color: 'var(--accent)', fontSize: 11, letterSpacing: '1.5px', textTransform: 'uppercase', background: 'none', border: 'none', padding: '0 4px' }}
           >

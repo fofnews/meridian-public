@@ -12,7 +12,7 @@ export default function StoryCard({ story, brief = false, expanded, onToggle }) 
   // Brief variant — compact list row for single-source "In Brief" section
   if (brief) {
     return (
-      <div ref={cardRef} style={{ borderBottom: '1px solid var(--border-primary)' }} className="last:border-0">
+      <div ref={cardRef} data-story-id={story.id} style={{ borderBottom: '1px solid var(--border-primary)', scrollMarginTop: 'calc(var(--map-sticky-height, 0px) + 12px)' }} className="last:border-0">
         <button
           onClick={() => onToggle(cardRef.current)}
           className="w-full text-left py-4 flex items-start justify-between gap-4 cursor-pointer group"
@@ -70,12 +70,14 @@ export default function StoryCard({ story, brief = false, expanded, onToggle }) 
   return (
     <div
       ref={cardRef}
+      data-story-id={story.id}
       className="rounded-xl overflow-hidden transition-all"
       style={{
         background: 'var(--bg-secondary)',
         border: '1px solid var(--border-card)',
         borderLeft: '3px solid var(--accent)',
         boxShadow: '-2px 0 12px rgba(232,197,71,0.12)',
+        scrollMarginTop: 'calc(var(--map-sticky-height, 0px) + 12px)',
       }}
     >
       <button
