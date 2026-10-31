@@ -71,10 +71,19 @@ export const CURRENT_LEANS = Object.freeze({
   'The Free Press':      'right',  // was center
 });
 
-// Feed order for display (left → center → right within each group).
-export const LEFT_OUTLETS   = ['CNN', 'NPR', 'ABC News', 'CBS News', 'NY Times', 'NBC News', 'Washington Post', 'Al Jazeera', 'AP News', 'Politico'];
-export const CENTER_OUTLETS = ['BBC News', 'Reuters', 'The Hill', 'Newsweek', 'Wall Street Journal'];
-export const RIGHT_OUTLETS  = ['Fox News', 'New York Post', 'Washington Examiner', 'National Review', 'Newsmax', 'Epoch Times', 'The Free Press'];
+/** Groups the outlets in a lean map by lean, keeping the map's key order (feed order). */
+export function outletsByLean(leans) {
+  const groups = { left: [], center: [], right: [] };
+  for (const [outlet, lean] of Object.entries(leans ?? {})) {
+    if (groups[lean]) groups[lean].push(outlet);
+  }
+  return groups;
+}
+
+/** Total number of outlets in a lean map. */
+export function outletCount(leans) {
+  return Object.keys(leans ?? {}).length;
+}
 
 /** Returns the lean map that was in effect when this report was published. */
 export function leansFor(report) {
