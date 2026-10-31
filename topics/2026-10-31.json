@@ -24,5 +24,18 @@
       "approves",
       "500"
     ]
+  },
+  {
+    "label": "Daylight Saving",
+    "count": 3,
+    "sources": 2,
+    "keywords": [
+      "daylight",
+      "saving",
+      "time",
+      "clocks",
+      "back",
+      "hour"
+    ]
   }
 ]
