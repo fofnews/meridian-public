@@ -129,6 +129,8 @@ All data files are read-only on the public site — they are written by Meridian
 
 Note: the pipeline also maintains `timelines/embeddings.json` as a sidecar for candidate retrieval — it is **not** synced here and is gitignored.
 
+**Getting new data locally:** The pipeline pushes data commits from a dedicated `meridian-public-sync` clone (`C:/Users/Daniel/meridian-public-sync`). This working directory (`meridian-public`) is never touched by the pipeline. Run `git pull` here to pick up new reports, articles, topics, and timelines after a pipeline sync.
+
 ## Environment Variables (Vercel)
 
 - `UPSTASH_REDIS_REST_URL` / `UPSTASH_REDIS_REST_TOKEN` — used by suggestions serverless functions for persistent storage on Vercel (local dev falls back to `suggestions.json`)
