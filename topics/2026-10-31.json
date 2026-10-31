@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Virginia Sue",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "trump",
+      "arch",
+      "virginia",
+      "sue",
+      "block",
+      "washington"
+    ]
+  },
+  {
     "label": "Formal Apology",
     "count": 3,
     "sources": 3,
@@ -36,6 +49,19 @@
       "missile",
       "approves",
       "500"
+    ]
+  },
+  {
+    "label": "Midterm Elections",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "midterm",
+      "elections",
+      "republicans",
+      "distance",
+      "themselves",
+      "trump"
     ]
   },
   {
