@@ -1944,5 +1944,49 @@
     "categories": [],
     "collectRun": "2026-10-31T10:45:00.000Z",
     "collectedAt": "2026-10-31T10:45:01.529Z"
+  },
+  {
+    "title": "Stage Fright",
+    "description": "Halloween presents an endless parade of ghouls and goblins. Most aren’t actually scary, but can illuminate some things about the nature of fear.",
+    "link": "https://www.nytimes.com/2026/10/31/briefing/stage-fright.html",
+    "pubDate": "Sat, 31 Oct 2026 09:58:16 +0000",
+    "source": "NY Times",
+    "categories": [
+      "halloween",
+      "books and literature",
+      "internal-open-access-from-nl"
+    ],
+    "collectRun": "2026-10-31T11:00:00.000Z",
+    "collectedAt": "2026-10-31T11:00:01.674Z"
+  },
+  {
+    "title": "Agriculture Will Soon Feed the World Without Costing the Earth",
+    "description": "Agriculture must evolve as climate change, soil degradation and rising costs push farmers toward more sustainable practices.",
+    "link": "https://www.newsweek.com/agriculture-will-soon-feed-the-world-without-costing-the-earth-12530043",
+    "pubDate": "Sat, 31 Oct 2026 06:58:00 -0400",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-10-31T11:00:00.000Z",
+    "collectedAt": "2026-10-31T11:00:01.674Z"
+  },
+  {
+    "title": "Trump and Netanyahu Need to Choose Victory on Iran",
+    "description": "A resumed offensive must have a clear goal to justify it.",
+    "link": "https://www.nationalreview.com/2026/10/trump-and-netanyahu-need-to-choose-victory-on-iran/",
+    "pubDate": "Sat, 31 Oct 2026 10:30:46 +0000",
+    "source": "National Review",
+    "categories": [],
+    "collectRun": "2026-10-31T11:00:00.000Z",
+    "collectedAt": "2026-10-31T11:00:01.674Z"
+  },
+  {
+    "title": "How the SAT Lowered Expectations",
+    "description": "A new study makes clear how the reading portion has changed over time, leaving many freshmen ill-prepared to engage with demanding books.",
+    "link": "https://www.nationalreview.com/2026/10/how-the-sat-lowered-expectations/",
+    "pubDate": "Sat, 31 Oct 2026 10:30:41 +0000",
+    "source": "National Review",
+    "categories": [],
+    "collectRun": "2026-10-31T11:00:00.000Z",
+    "collectedAt": "2026-10-31T11:00:01.674Z"
   }
 ]
