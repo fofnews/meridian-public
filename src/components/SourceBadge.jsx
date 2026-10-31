@@ -9,8 +9,12 @@ const LEAN_STYLES = {
 };
 const NEUTRAL_STYLE = { color: 'var(--text-muted)' };
 
+export function leanColor(lean) {
+  return (LEAN_STYLES[lean] ?? NEUTRAL_STYLE).color;
+}
+
 export default function SourceBadge({ source, lean = null }) {
-  const { color } = LEAN_STYLES[lean] ?? NEUTRAL_STYLE;
+  const color = leanColor(lean);
   return (
     <span
       className="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium"

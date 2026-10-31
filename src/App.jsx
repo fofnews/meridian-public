@@ -9,6 +9,13 @@ import ArticlesView from './components/ArticlesView';
 import TimelineView from './components/TimelineView';
 import ErrorBoundary from './components/ErrorBoundary';
 import { leansFor } from './shared/source-leans.js';
+import { getReadIds, markRead } from './readState.js';
+
+function outletCount(item) {
+  return item.type === 'group'
+    ? item.sources.length
+    : new Set((item.story.articles ?? []).map(a => a?.source).filter(Boolean)).size;
+}
 
 function buildGroupedItems(orderedStories, storyGroups, allStoriesById) {
   if (!storyGroups?.length) return orderedStories.map(s => ({ type: 'story', story: s }));
@@ -29,7 +36,8 @@ function buildGroupedItems(orderedStories, storyGroups, allStoriesById) {
       const group = groupById.get(gid);
       const groupStories = group.storyIds.map(id => allStoriesById.get(id)).filter(Boolean);
       groupStories.forEach(s => rendered.add(s.id));
-      items.push({ type: 'group', group, stories: groupStories });
+      const sources = [...new Set(groupStories.flatMap(s => (s.articles ?? []).map(a => a?.source).filter(Boolean)))];
+      items.push({ type: 'group', group, stories: groupStories, lead: story, sources });
     } else {
       rendered.add(story.id);
       items.push({ type: 'story', story });
@@ -65,6 +73,7 @@ export default function App() {
   const adminSecret = new URLSearchParams(window.location.search).get('admin') ?? '';
   const [showScrollTop, setShowScrollTop] = useState(false);
   const scrollAnchor = useRef(null);
+  const [readIds, setReadIds] = useState(() => new Set());
 
   useEffect(() => {
     const onScroll = () => setShowScrollTop(window.scrollY > 400);
@@ -79,6 +88,25 @@ export default function App() {
     if (delta !== 0) window.scrollBy({ top: delta, behavior: 'instant' });
     scrollAnchor.current = null;
   });
+
+  const editionKey = selectedDate && selectedEdition ? `${selectedDate}-${selectedEdition}` : null;
+
+  useEffect(() => {
+    setReadIds(editionKey ? getReadIds(editionKey) : new Set());
+  }, [editionKey]);
+
+  const openTopItem = (el, itemId, leadId) => {
+    scrollAnchor.current = { element: el, top: el.getBoundingClientRect().top };
+    const next = expandedStory === itemId ? null : itemId;
+    setExpandedStory(next);
+    if (next) {
+      setFeaturedStoryId(leadId);
+      if (editionKey) {
+        markRead(editionKey, itemId);
+        setReadIds(prev => (prev.has(itemId) ? prev : new Set(prev).add(itemId)));
+      }
+    }
+  };
 
   const loadReport = useCallback(async (date, edition) => {
     setLoading(true);
@@ -139,7 +167,8 @@ export default function App() {
       .filter(s => !s.isParent && !s.parentId && sourceCount(s) < 2);
     const storyGroups = report?.storyGroups ?? [];
     const allStoriesById = new Map(allStories.map(s => [s.id, s]));
-    const topItems = buildGroupedItems(multiSource, storyGroups, allStoriesById);
+    const topItems = buildGroupedItems(multiSource, storyGroups, allStoriesById)
+      .sort((a, b) => outletCount(b) - outletCount(a));
     const topRenderedIds = new Set(topItems.flatMap(item =>
       item.type === 'group' ? item.stories.map(s => s.id) : [item.story.id]
     ));
@@ -304,71 +333,39 @@ export default function App() {
             {/* Top Stories */}
             {multiSource.length > 0 && (
               <section className="mb-12">
-                <div className="flex items-center gap-4 mb-6">
+                <div className="flex items-baseline gap-3 mb-6 flex-wrap">
                   <h2
-                    className="font-display font-bold shrink-0"
-                    style={{ color: 'var(--text-primary)', fontSize: 20, letterSpacing: '0.5px' }}
+                    className="shrink-0"
+                    style={{ color: 'var(--text-primary)', fontFamily: 'var(--font-display)', fontSize: 20, fontWeight: 600 }}
                   >
-                    Top Stories
+                    Covered by more than one outlet
                   </h2>
-                  <div style={{ flex: 1, height: 1, background: 'var(--border-primary)' }} />
-                  <span className="text-xs shrink-0 font-semibold uppercase" style={{ color: 'var(--accent)', letterSpacing: '2px' }}>
-                    {topItems.length} {topItems.length === 1 ? 'story' : 'stories'}
+                  <span style={{ color: 'var(--label)', fontFamily: 'var(--font-label)', fontSize: 12 }}>
+                    · {topItems.length} {topItems.length === 1 ? 'story' : 'stories'}, most outlets first
                   </span>
                 </div>
 
-                <div className="space-y-4">
-                  {topItems.map(item => {
-                    if (item.type === 'group') {
-                      return (
-                        <div key={item.group.id}>
-                          <div className="flex items-center gap-2 mb-3">
-                            <span
-                              className="uppercase font-semibold shrink-0"
-                              style={{ color: 'var(--text-muted)', fontSize: 11, letterSpacing: '2px' }}
-                            >
-                              {item.group.label}
-                            </span>
-                            <span style={{ color: 'var(--text-faint)', fontSize: 11 }}>
-                              · {item.stories.length} {item.stories.length === 1 ? 'story' : 'stories'}
-                            </span>
-                            <div style={{ flex: 1, height: 1, background: 'var(--border-primary)' }} />
-                          </div>
-                          <div className="space-y-4">
-                            {item.stories.map(story => (
-                                <StoryCard
-                                  key={story.id}
-                                  story={story}
-                                  leans={leans}
-                                  brief={sourceCount(story) < 2}
-                                  expanded={expandedStory === story.id}
-                                  onToggle={(el) => {
-                                    scrollAnchor.current = { element: el, top: el.getBoundingClientRect().top };
-                                    const next = expandedStory === story.id ? null : story.id;
-                                    setExpandedStory(next);
-                                    if (next) setFeaturedStoryId(story.id);
-                                  }}
-                                />
-                            ))}
-                          </div>
-                        </div>
-                      );
-                    }
-                    return (
-                      <StoryCard
-                        key={item.story.id}
-                        story={item.story}
-                        leans={leans}
-                        expanded={expandedStory === item.story.id}
-                        onToggle={(el) => {
-                          scrollAnchor.current = { element: el, top: el.getBoundingClientRect().top };
-                          const next = expandedStory === item.story.id ? null : item.story.id;
-                          setExpandedStory(next);
-                          if (next) setFeaturedStoryId(item.story.id);
-                        }}
-                      />
-                    );
-                  })}
+                <div>
+                  {topItems.map(item => item.type === 'group' ? (
+                    <StoryCard
+                      key={item.group.id}
+                      story={item.lead}
+                      leans={leans}
+                      group={{ id: item.group.id, label: item.group.label, stories: item.stories, sources: item.sources }}
+                      read={readIds.has(item.group.id)}
+                      expanded={expandedStory === item.group.id}
+                      onToggle={el => openTopItem(el, item.group.id, item.lead.id)}
+                    />
+                  ) : (
+                    <StoryCard
+                      key={item.story.id}
+                      story={item.story}
+                      leans={leans}
+                      read={readIds.has(item.story.id)}
+                      expanded={expandedStory === item.story.id}
+                      onToggle={el => openTopItem(el, item.story.id, item.story.id)}
+                    />
+                  ))}
                 </div>
               </section>
             )}

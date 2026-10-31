@@ -1,14 +1,16 @@
 import { useState, useRef } from 'react';
-import { ChevronDown, ChevronUp, ExternalLink } from 'lucide-react';
-import SourceBadge from './SourceBadge';
+import { Check, ChevronDown, ChevronUp, ExternalLink } from 'lucide-react';
+import SourceBadge, { leanColor } from './SourceBadge';
 import AnalysisView from './AnalysisView';
 import { decodeText } from '../utils';
 import { leanOf } from '../shared/source-leans.js';
 
-export default function StoryCard({ story, leans, brief = false, expanded, onToggle }) {
+// group (optional): { id, label, stories, sources } — renders the row for a story group,
+// using `story` as the group's lead (multi-source) story.
+export default function StoryCard({ story, leans, brief = false, group = null, read = false, expanded, onToggle }) {
   const [sourcesOpen, setSourcesOpen] = useState(false);
   const cardRef = useRef(null);
-  const sources = [...new Set(story.articles.map(a => a.source))];
+  const sources = group?.sources ?? [...new Set(story.articles.map(a => a.source))];
 
   // Brief variant — compact list row for single-source "In Brief" section
   if (brief) {
@@ -62,59 +64,74 @@ export default function StoryCard({ story, leans, brief = false, expanded, onTog
 
   // Full card — for multi-source top stories
   const hasClaims = Array.isArray(story.analysis?.claims);
-  const factsLabel = hasClaims ? 'claims' : 'agreements';
   const factsCount = hasClaims
     ? story.analysis.claims.length
     : (story.analysis?.agreements?.length ?? 0);
   const disagreementCount = story.analysis?.disagreements?.length ?? 0;
 
+  const itemId = group ? group.id : story.id;
+  const headlineColor = read ? 'var(--text-muted)' : 'var(--text-primary)';
+
   return (
     <div
       ref={cardRef}
-      data-story-id={story.id}
-      className="rounded-xl overflow-hidden transition-all"
+      data-story-id={itemId}
+      className="transition-all"
       style={{
-        background: 'var(--bg-secondary)',
-        border: '1px solid var(--border-card)',
-        borderLeft: '3px solid var(--accent)',
-        boxShadow: '-2px 0 12px rgba(232,197,71,0.12)',
+        borderBottom: '1px solid var(--border-primary)',
         scrollMarginTop: 'calc(var(--map-sticky-height, 0px) + 12px)',
+        ...(expanded ? { background: 'var(--bg-secondary)', borderRadius: 12, border: '1px solid var(--border-card)', overflow: 'hidden' } : {}),
       }}
     >
       <button
         onClick={() => onToggle(cardRef.current)}
-        className="w-full text-left px-6 py-5 flex items-start justify-between gap-4 cursor-pointer group"
+        aria-expanded={expanded}
+        className="w-full text-left px-4 py-5 flex items-start justify-between gap-4 cursor-pointer group"
       >
         <div className="flex-1 min-w-0">
+          {group && (
+            <div
+              className="uppercase font-semibold"
+              style={{ color: 'var(--gold-text)', fontFamily: 'var(--font-label)', fontSize: 11, letterSpacing: '1.5px', marginBottom: 6 }}
+            >
+              Developing story · {group.stories.length} reports
+            </div>
+          )}
           <h3
-            className="font-display text-xl font-bold leading-snug transition-colors"
-            style={{ color: 'var(--text-primary)' }}
-            onMouseEnter={e => e.currentTarget.style.color = 'var(--accent)'}
-            onMouseLeave={e => e.currentTarget.style.color = 'var(--text-primary)'}
+            className="flex items-start gap-2 leading-snug"
+            style={{ color: headlineColor, fontFamily: 'var(--font-display)', fontSize: 24, fontWeight: 600 }}
           >
-            {decodeText(story.headline)}
+            {read && (
+              <Check className="w-5 h-5 shrink-0" style={{ color: 'var(--tier-spectrum)', marginTop: 4 }} aria-label="Read" />
+            )}
+            <span>{group ? group.label : decodeText(story.headline)}</span>
           </h3>
-          <div className="flex flex-wrap items-center gap-2 mt-3">
-            <span className="text-xs" style={{ color: 'var(--text-faint)' }}>
+          {group && (
+            <p className="mt-1.5 text-base leading-snug" style={{ color: 'var(--text-secondary)', fontFamily: 'var(--font-body)' }}>
+              {decodeText(story.headline)}
+            </p>
+          )}
+          <div className="flex flex-wrap items-center gap-x-2 gap-y-1 mt-3 text-xs" style={{ fontFamily: 'var(--font-label)' }}>
+            <span style={{ color: 'var(--label)' }}>
               {sources.length} source{sources.length !== 1 ? 's' : ''}
             </span>
             <span style={{ color: 'var(--border-dim)' }}>·</span>
-            <div className="flex flex-wrap gap-1">
-              {sources.slice(0, 6).map(s => <SourceBadge key={s} source={s} lean={leanOf(leans, s)} />)}
-              {sources.length > 6 && (
-                <span className="text-xs" style={{ color: 'var(--text-faint)' }}>+{sources.length - 6} more</span>
-              )}
-            </div>
+            {sources.slice(0, 6).map(s => (
+              <span key={s} style={{ color: leanColor(leanOf(leans, s)), fontWeight: 500 }}>{s}</span>
+            ))}
+            {sources.length > 6 && (
+              <span style={{ color: 'var(--label)' }}>+{sources.length - 6} more</span>
+            )}
             {factsCount > 0 && (
               <>
                 <span style={{ color: 'var(--border-dim)' }}>·</span>
-                <span className="text-xs" style={{ color: 'var(--section-agree-accent)' }}>{factsCount} {factsLabel}</span>
+                <span style={{ color: 'var(--label)' }}>{factsCount} {factsCount === 1 ? 'fact' : 'facts'}</span>
               </>
             )}
             {disagreementCount > 0 && (
               <>
                 <span style={{ color: 'var(--border-dim)' }}>·</span>
-                <span className="text-xs" style={{ color: 'var(--section-disagree-accent)' }}>{disagreementCount} disagreement{disagreementCount !== 1 ? 's' : ''}</span>
+                <span style={{ color: 'var(--disagree-text)' }}>{disagreementCount} disagreement{disagreementCount !== 1 ? 's' : ''}</span>
               </>
             )}
           </div>
