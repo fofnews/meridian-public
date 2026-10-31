@@ -6,6 +6,7 @@
 // BroadcastStage.jsx (item 0d).
 
 import { useState, useEffect, useRef } from 'react';
+import { Settings } from 'lucide-react';
 import { useTheme } from '../ThemeContext.jsx';
 import { useMeridianMap } from '../map/useMeridianMap.js';
 import { fetchBoundaryPolygon, geocodeStory } from '../map/geocoding.js';
@@ -27,15 +28,39 @@ function formatReportDate(dateStr) {
   });
 }
 
+function formatAnalysisTime(fetchedAt) {
+  if (!fetchedAt) return '';
+  const d = new Date(fetchedAt);
+  if (Number.isNaN(d.getTime())) return '';
+  const t = d.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', hour12: true, timeZone: 'America/New_York' });
+  return `${t} ET`;
+}
+
+function GearButton({ onClick }) {
+  return (
+    <button
+      onClick={onClick}
+      aria-label="Settings"
+      title="Settings"
+      className="cursor-pointer flex items-center justify-center shrink-0"
+      style={{ width: 44, height: 44, color: 'var(--text-muted)', background: 'none', border: 'none' }}
+    >
+      <Settings size={18} />
+    </button>
+  );
+}
+
 export default function MapHero({
   featuredStory,
   edition,
   selectedDate,
   availableEditions = [],
   onEditionSelect,
+  fetchedAt,
+  isLatest = false,
+  onOpenSettings,
 }) {
   const { isDark } = useTheme();
-  const [time, setTime] = useState('');
   const [activeLocIdx, setActiveLocIdx] = useState(0);
   const [expanded, setExpanded] = useState(false);
   const [mapEnabled] = useState(() => localStorage.getItem('meridian-map') !== 'false');
@@ -51,18 +76,6 @@ export default function MapHero({
     isDark,
     focusPitch: FOCUSED_PITCH_WEBSITE,
   });
-
-  // Clock
-  useEffect(() => {
-    const update = () => {
-      const now = new Date();
-      const t = now.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit', hour12: true });
-      setTime(t);
-    };
-    update();
-    const id = setInterval(update, 30_000);
-    return () => clearInterval(id);
-  }, []);
 
   // Persist map preferences
   useEffect(() => { localStorage.setItem('meridian-map', mapEnabled); }, [mapEnabled]);
@@ -141,6 +154,9 @@ export default function MapHero({
     ? { position: 'fixed', inset: 0, zIndex: 50, width: '100vw', height: '100vh' }
     : { height: 'clamp(220px, 45vh, 560px)', zIndex: 20 };
 
+  const analysisTime = formatAnalysisTime(fetchedAt);
+  const nextEdition = isLatest ? (edition === 'evening' ? '7:20 AM' : edition === 'morning' ? '5:20 PM' : '') : '';
+
   // Sober status strip — replaces the chyron + ticker + LIVE badge.
   const statusStrip = (
     <div
@@ -202,19 +218,16 @@ export default function MapHero({
             ))}
           </div>
         )}
-        <span
-          className="hero-clock font-mono"
-          style={{ color: textAlpha60, fontSize: 11, letterSpacing: '0.5px' }}
-        >
-          {time}
-        </span>
-        <button
-          onClick={() => setMapVisible(false)}
-          className="cursor-pointer transition-all"
-          style={{ color: 'var(--accent)', fontSize: 11, letterSpacing: '1.5px', textTransform: 'uppercase', background: 'none', border: 'none', padding: '0 4px' }}
-        >
-          Hide Map ▲
-        </button>
+        {analysisTime && (
+          <span
+            className="hero-clock"
+            style={{ color: 'var(--label)', fontFamily: 'var(--font-label)', fontSize: 11 }}
+          >
+            Analysis run at {analysisTime}
+            {nextEdition && ` · Next edition around ${nextEdition}`}
+          </span>
+        )}
+        <GearButton onClick={onOpenSettings} />
       </div>
     </div>
   );
@@ -224,7 +237,7 @@ export default function MapHero({
       {!mapVisible && (
         <div
           className="w-full flex items-center justify-between px-4"
-          style={{ background: 'var(--bg-secondary)', borderBottom: '1px solid var(--hero-border)', height: 36, zIndex: 20 }}
+          style={{ background: 'var(--bg-secondary)', borderBottom: '1px solid var(--hero-border)', height: 44, zIndex: 20 }}
         >
           <span
             className="font-display font-black tracking-[3px] uppercase"
@@ -232,6 +245,7 @@ export default function MapHero({
           >
             The Meridian
           </span>
+          <div className="flex items-center gap-2">
           <button
             onClick={() => { setHasBeenShown(true); setMapVisible(true); }}
             className="cursor-pointer transition-all"
@@ -239,6 +253,8 @@ export default function MapHero({
           >
             Show Map ▼
           </button>
+          <GearButton onClick={onOpenSettings} />
+          </div>
         </div>
       )}
 

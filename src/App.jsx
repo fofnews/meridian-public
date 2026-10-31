@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback, useRef, useLayoutEffect, useMemo } from 'react';
-import { Sun, Moon, ArrowUp } from 'lucide-react';
+import { ArrowUp } from 'lucide-react';
 import MapHero from './components/MapHero';
 import DateNav from './components/DateNav';
 import StoryCard from './components/StoryCard';
@@ -8,7 +8,6 @@ import BroadcastPanel from './components/BroadcastPanel';
 import ArticlesView from './components/ArticlesView';
 import TimelineView from './components/TimelineView';
 import ErrorBoundary from './components/ErrorBoundary';
-import { useTheme } from './ThemeContext.jsx';
 import { leansFor } from './shared/source-leans.js';
 
 function buildGroupedItems(orderedStories, storyGroups, allStoriesById) {
@@ -39,8 +38,21 @@ function buildGroupedItems(orderedStories, storyGroups, allStoriesById) {
   return items;
 }
 
+const EDITION_WINDOWS = {
+  morning: { name: 'Morning', window: '5:00 PM and 7:00 AM' },
+  evening: { name: 'Evening', window: '7:00 AM and 5:00 PM' },
+};
+
+function editionStatsLine(report, date, edition) {
+  const [y, m, d] = date.split('-').map(Number);
+  const day = new Date(y, m - 1, d).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+  const w = EDITION_WINDOWS[edition];
+  const head = w ? `${w.name} edition, ${day}` : day;
+  const counts = `${report.articleCount} articles from ${report.sourceCount} outlets`;
+  return w ? `${head}: ${counts}, collected between ${w.window}.` : `${head}: ${counts}.`;
+}
+
 export default function App() {
-  const { isDark, toggleTheme } = useTheme();
   const [report, setReport] = useState(null);
   const [availableDates, setAvailableDates] = useState([]);
   const [selectedDate, setSelectedDate] = useState(null);
@@ -49,7 +61,7 @@ export default function App() {
   const [error, setError] = useState(null);
   const [expandedStory, setExpandedStory] = useState(null);
   const [featuredStoryId, setFeaturedStoryId] = useState(null);
-  const [view, setView] = useState('analysis'); // 'analysis' | 'articles' | 'timeline' | 'broadcast'
+  const [view, setView] = useState('analysis'); // 'analysis' | 'articles' | 'timeline' | 'suggestions' | 'broadcast'
   const adminSecret = new URLSearchParams(window.location.search).get('admin') ?? '';
   const [showScrollTop, setShowScrollTop] = useState(false);
   const scrollAnchor = useRef(null);
@@ -141,6 +153,12 @@ export default function App() {
 
   const leans = leansFor(report);
 
+  const latestDate = availableDates[0];
+  const latestEdition = latestDate
+    ? (latestDate.editions.includes('evening') ? 'evening' : latestDate.editions.includes('morning') ? 'morning' : null)
+    : null;
+  const isLatestEdition = !!latestDate && selectedDate === latestDate.date && selectedEdition === latestEdition;
+
   // Last-resort fallback for errors that escape the per-section boundaries
   // below (e.g. a throw in App's own body). The per-section boundaries handle
   // the common cases; this is the safety net for everything else.
@@ -193,6 +211,9 @@ export default function App() {
             selectedDate={selectedDate}
             availableEditions={availableDates.find(d => d.date === selectedDate)?.editions ?? []}
             onEditionSelect={edition => loadReport(selectedDate, edition)}
+            fetchedAt={report.fetchedAt}
+            isLatest={isLatestEdition}
+            onOpenSettings={() => {} /* TODO(Phase 7): open the settings panel */}
           />
         </ErrorBoundary>
       )}
@@ -220,7 +241,7 @@ export default function App() {
       {/* View tabs */}
       <div style={{ borderBottom: '1px solid var(--border-primary)', background: 'var(--bg-tabbar)' }}>
         <div className="max-w-5xl mx-auto px-4 flex gap-0 overflow-x-auto" style={{ scrollbarWidth: 'none' }}>
-          {[['analysis', 'Analysis'], ['articles', 'Articles'], ['timeline', 'Timeline'], ...(adminSecret ? [['broadcast', 'Broadcast']] : [])].map(([v, label]) => (
+          {[['analysis', 'Analysis'], ['articles', 'Articles'], ['timeline', 'Timeline'], ['suggestions', 'Suggestions'], ...(adminSecret ? [['broadcast', 'Broadcast']] : [])].map(([v, label]) => (
             <button
               key={v}
               onClick={() => setView(v)}
@@ -244,6 +265,12 @@ export default function App() {
         {view === 'timeline' && (
           <ErrorBoundary label="the timeline">
             <TimelineView />
+          </ErrorBoundary>
+        )}
+
+        {view === 'suggestions' && (
+          <ErrorBoundary label="suggestions">
+            <SuggestionBox />
           </ErrorBoundary>
         )}
 
@@ -274,8 +301,6 @@ export default function App() {
 
         {view === 'analysis' && !loading && report && (
           <ErrorBoundary label="the report" resetKey={`${selectedDate}-${selectedEdition}`}>
-            <SuggestionBox />
-
             {/* Top Stories */}
             {multiSource.length > 0 && (
               <section className="mb-12">
@@ -443,8 +468,12 @@ export default function App() {
           <div style={{ width: 40, height: 1, background: 'var(--accent)', margin: '0 auto', opacity: 0.5 }} />
           <p style={{ color: 'var(--text-faint)', fontSize: 11, letterSpacing: '2px', textTransform: 'uppercase' }}>
             Multi-source news analysis
-            {report && `  ·  ${report.articleCount} articles from ${report.sourceCount} sources`}
           </p>
+          {report && selectedDate && (
+            <p style={{ color: 'var(--label)', fontFamily: 'var(--font-label)', fontSize: 12 }}>
+              {editionStatsLine(report, selectedDate, selectedEdition)}
+            </p>
+          )}
         </div>
       </footer>
 
@@ -454,7 +483,7 @@ export default function App() {
         title="Back to top"
         style={{
           position: 'fixed',
-          bottom: 72,
+          bottom: 24,
           right: 24,
           zIndex: 50,
           width: 40,
@@ -475,31 +504,6 @@ export default function App() {
         }}
       >
         <ArrowUp size={16} />
-      </button>
-
-      {/* Floating theme toggle */}
-      <button
-        onClick={toggleTheme}
-        title={isDark ? 'Switch to light mode' : 'Switch to dark mode'}
-        style={{
-          position: 'fixed',
-          bottom: 24,
-          right: 24,
-          zIndex: 50,
-          width: 40,
-          height: 40,
-          borderRadius: '50%',
-          background: 'var(--bg-card)',
-          border: '1px solid var(--border-primary)',
-          color: 'var(--accent)',
-          cursor: 'pointer',
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'center',
-          boxShadow: '0 2px 12px rgba(0,0,0,0.3)',
-        }}
-      >
-        {isDark ? <Sun size={16} /> : <Moon size={16} />}
       </button>
     </div>
     </ErrorBoundary>
