@@ -8,8 +8,11 @@ import BroadcastPanel from './components/BroadcastPanel';
 import ArticlesView from './components/ArticlesView';
 import TimelineView from './components/TimelineView';
 import ErrorBoundary from './components/ErrorBoundary';
+import SettingsPanel from './components/SettingsPanel';
 import { leansFor } from './shared/source-leans.js';
-import { getReadIds, markRead } from './readState.js';
+import { getReadIds, markRead, markAllRead, clearRead } from './readState.js';
+import { useSettings } from './SettingsContext.jsx';
+import { loadMapVisible, saveMapVisible } from './settings.js';
 
 const BRIEF_LIMIT = 10;
 
@@ -77,6 +80,14 @@ export default function App() {
   const scrollAnchor = useRef(null);
   const [readIds, setReadIds] = useState(() => new Set());
   const [showAllBrief, setShowAllBrief] = useState(false);
+  const { markOpened } = useSettings();
+  const [mapVisible, setMapVisible] = useState(loadMapVisible);
+  const [settingsOpen, setSettingsOpen] = useState(false);
+  const [settingsTab, setSettingsTab] = useState('display');
+  const openSettings = useCallback((tab = 'display') => { setSettingsTab(tab); setSettingsOpen(true); }, []);
+  const closeSettings = useCallback(() => setSettingsOpen(false), []);
+
+  useEffect(() => { saveMapVisible(mapVisible); }, [mapVisible]);
 
   useEffect(() => {
     const onScroll = () => setShowScrollTop(window.scrollY > 400);
@@ -104,7 +115,7 @@ export default function App() {
     setExpandedStory(next);
     if (next) {
       setFeaturedStoryId(leadId);
-      if (editionKey) {
+      if (editionKey && markOpened) {
         markRead(editionKey, itemId);
         setReadIds(prev => (prev.has(itemId) ? prev : new Set(prev).add(itemId)));
       }
@@ -263,7 +274,9 @@ export default function App() {
             onEditionSelect={edition => loadReport(selectedDate, edition)}
             fetchedAt={report.fetchedAt}
             isLatest={isLatestEdition}
-            onOpenSettings={() => {} /* TODO(Phase 7): open the settings panel */}
+            mapVisible={mapVisible}
+            onMapVisibleChange={setMapVisible}
+            onOpenSettings={() => openSettings()}
           />
         </ErrorBoundary>
       )}
@@ -373,7 +386,7 @@ export default function App() {
                       story={item.lead}
                       leans={leans}
                       group={{ id: item.group.id, label: item.group.label, stories: item.stories, sources: item.sources }}
-                      read={readIds.has(item.group.id)}
+                      read={markOpened && readIds.has(item.group.id)}
                       fetchedAt={report.fetchedAt}
                       expanded={expandedStory === item.group.id}
                       onToggle={el => openTopItem(el, item.group.id, item.lead.id)}
@@ -383,7 +396,7 @@ export default function App() {
                       key={item.story.id}
                       story={item.story}
                       leans={leans}
-                      read={readIds.has(item.story.id)}
+                      read={markOpened && readIds.has(item.story.id)}
                       fetchedAt={report.fetchedAt}
                       expanded={expandedStory === item.story.id}
                       onToggle={el => openTopItem(el, item.story.id, item.story.id)}
@@ -463,6 +476,21 @@ export default function App() {
           )}
         </div>
       </footer>
+
+      <SettingsPanel
+        open={settingsOpen}
+        tab={settingsTab}
+        onTabChange={setSettingsTab}
+        onClose={closeSettings}
+        mapVisible={mapVisible}
+        onMapVisibleChange={setMapVisible}
+        onMarkAllRead={() => {
+          if (!editionKey) return;
+          markAllRead(editionKey, topItems.map(item => (item.type === 'group' ? item.group.id : item.story.id)));
+          setReadIds(getReadIds(editionKey));
+        }}
+        onClearRead={() => { clearRead(); setReadIds(new Set()); }}
+      />
 
       {/* Scroll to top */}
       <button

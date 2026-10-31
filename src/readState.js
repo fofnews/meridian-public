@@ -27,12 +27,24 @@ export function getReadIds(editionKey) {
   return new Set(Array.isArray(ids) ? ids : []);
 }
 
-export function markRead(editionKey, itemId) {
+export function markAllRead(editionKey, itemIds) {
   const data = load();
   const ids = Array.isArray(data[editionKey]) ? data[editionKey] : [];
   delete data[editionKey];
-  data[editionKey] = ids.includes(itemId) ? ids : [...ids, itemId];
+  data[editionKey] = [...new Set([...ids, ...itemIds])];
   const keys = Object.keys(data);
   for (const k of keys.slice(0, Math.max(0, keys.length - MAX_EDITIONS))) delete data[k];
   save(data);
+}
+
+export function markRead(editionKey, itemId) {
+  markAllRead(editionKey, [itemId]);
+}
+
+export function clearRead() {
+  try {
+    localStorage.removeItem(KEY);
+  } catch {
+    // storage unavailable: nothing to clear
+  }
 }

@@ -1,5 +1,6 @@
 import { useState, useRef } from 'react';
 import { Minus } from 'lucide-react';
+import { useSettings } from '../SettingsContext.jsx';
 import { leanColor } from './SourceBadge';
 import { decodeText, formatAnalysisTime } from '../utils';
 import { leanOf, outletCount } from '../shared/source-leans.js';
@@ -253,18 +254,19 @@ function ThreadButtons({ threads, thread, onPick }) {
 }
 
 export default function OpenStory({ story, leans, fetchedAt, group = null, onCollapse }) {
-  const [tab, setTab] = useState('facts');
+  const { startTab } = useSettings();
+  const [tab, setTab] = useState(startTab);
   const [thread, setThread] = useState(0);
   const tabRefs = useRef({});
   const { analysis, articles } = story;
   const singles = group ? group.stories.filter(s => s.id !== story.id && coveringOutlets(s.articles).length <= 1) : [];
   const singleOutlets = coveringOutlets(singles.flatMap(s => s.articles));
   const showSingles = group && thread === 1;
-  const pickThread = i => { setThread(i); setTab('facts'); };
+  const pickThread = i => { setThread(i); setTab(startTab); };
 
   if (!analysis) {
     return (
-      <div className="px-6 py-5" style={{ borderTop: '1px solid var(--border-primary)' }}>
+      <div className="px-6 py-5" style={{ borderTop: '1px solid var(--border-primary)', zoom: 'var(--text-scale)' }}>
         <p style={{ ...LABEL_FONT, fontSize: 14, color: 'var(--label)' }}>Analysis isn't available for this story yet.</p>
       </div>
     );
@@ -296,7 +298,7 @@ export default function OpenStory({ story, leans, fetchedAt, group = null, onCol
   };
 
   return (
-    <div className="px-6 py-6" style={{ borderTop: '1px solid var(--border-primary)' }}>
+    <div className="px-6 py-6" style={{ borderTop: '1px solid var(--border-primary)', zoom: 'var(--text-scale)' }}>
       {locations.length > 0 && (
         <div className="font-semibold" style={{ ...LABEL_FONT, fontSize: 13, color: 'var(--gold-text)' }}>{locations.join(' · ')}</div>
       )}

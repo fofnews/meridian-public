@@ -76,6 +76,7 @@
   --tier-spectrum:  #86efac;
   --disagree-text:  #f0a35b;
   --label:          #8590a8;
+  --scrim:          rgba(3, 6, 12, 0.62);
 
   --font-display: 'Newsreader', Georgia, serif;
   --font-label:   'Libre Franklin', system-ui, sans-serif;
@@ -155,6 +156,11 @@
   --tier-spectrum:  #186638;
   --disagree-text:  #8a4508;
   --label:          #3A5070;
+  --scrim:          rgba(16, 32, 52, 0.45);
+}
+
+[data-reading-font="atkinson"] {
+  --font-body: 'Atkinson Hyperlegible', system-ui, sans-serif;
 }
 
 body {

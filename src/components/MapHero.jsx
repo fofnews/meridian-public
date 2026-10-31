@@ -50,28 +50,29 @@ export default function MapHero({
   onEditionSelect,
   fetchedAt,
   isLatest = false,
+  mapVisible,
+  onMapVisibleChange,
   onOpenSettings,
 }) {
   const { isDark } = useTheme();
   const [activeLocIdx, setActiveLocIdx] = useState(0);
   const [expanded, setExpanded] = useState(false);
   const [mapEnabled] = useState(() => localStorage.getItem('meridian-map') !== 'false');
-  const [mapVisible, setMapVisible] = useState(() => localStorage.getItem('meridian-map-visible') !== 'false');
   // Latches true the first time the map is shown; gates map creation so a reader
   // who starts with the map hidden never pays for a Mapbox load.
-  const [hasBeenShown, setHasBeenShown] = useState(() => localStorage.getItem('meridian-map-visible') !== 'false');
+  const [hasBeenShown, setHasBeenShown] = useState(mapVisible);
+  useEffect(() => { if (mapVisible) setHasBeenShown(true); }, [mapVisible]);
 
   const stickyRef = useRef(null);
 
   const { mapContainer, mapRef, flyToLocation, updateArcs, updateHighlights, applyBoundaryPolygon } = useMeridianMap({
-    mapEnabled: mapEnabled && hasBeenShown,
+    mapEnabled: mapEnabled && (hasBeenShown || mapVisible),
     isDark,
     focusPitch: FOCUSED_PITCH_WEBSITE,
   });
 
   // Persist map preferences
   useEffect(() => { localStorage.setItem('meridian-map', mapEnabled); }, [mapEnabled]);
-  useEffect(() => { localStorage.setItem('meridian-map-visible', mapVisible); }, [mapVisible]);
 
   // Resize map when expanded or visibility changes
   useEffect(() => {
@@ -239,7 +240,7 @@ export default function MapHero({
           </span>
           <div className="flex items-center gap-2">
           <button
-            onClick={() => { setHasBeenShown(true); setMapVisible(true); }}
+            onClick={() => onMapVisibleChange(true)}
             className="cursor-pointer transition-all"
             style={{ color: 'var(--accent)', fontSize: 11, letterSpacing: '1.5px', textTransform: 'uppercase', background: 'none', border: 'none', padding: '0 4px' }}
           >

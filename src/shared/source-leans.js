@@ -10,8 +10,6 @@
 // leansFor(report): returns report.sourceLeans when present (stamped by the
 // pipeline at analysis time), otherwise falls back to LEGACY_LEANS so past
 // editions keep the leans they were published with.
-//
-// localStorage keys (Phase 7): meridian-read-v1, meridian-settings-v1
 
 export const LEGACY_LEANS = Object.freeze({
   // Left
