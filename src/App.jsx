@@ -13,6 +13,7 @@ import { leansFor } from './shared/source-leans.js';
 import { getReadIds, markRead, markAllRead, clearRead } from './readState.js';
 import { useSettings } from './SettingsContext.jsx';
 import { loadMapVisible, saveMapVisible } from './settings.js';
+import { shouldIgnoreKey, nextRowIndex } from './shortcuts.js';
 
 const BRIEF_LIMIT = 10;
 
@@ -213,6 +214,42 @@ export default function App() {
       }}
     />
   );
+
+  // Keyboard shortcuts. Enter needs no handler: rows are real buttons, so Enter
+  // on a focused row already toggles it.
+  useEffect(() => {
+    if (view !== 'analysis') return;
+    const onKey = e => {
+      if (shouldIgnoreKey(e, settingsOpen)) return;
+      if (e.key === '?') {
+        e.preventDefault();
+        openSettings('stories');
+        return;
+      }
+      if (e.shiftKey) return;
+      if (e.key === 'j' || e.key === 'k') {
+        const rows = [...document.querySelectorAll('[data-story-id]')];
+        const current = rows.findIndex(r => r.contains(document.activeElement));
+        const i = nextRowIndex(current, rows.length, e.key === 'j' ? 1 : -1);
+        if (i < 0) return;
+        e.preventDefault();
+        const row = rows[i];
+        row.querySelector('button[aria-expanded]')?.focus({ preventScroll: true });
+        row.scrollIntoView({ block: 'nearest' });
+        return;
+      }
+      if (/^[1-4]$/.test(e.key)) {
+        const open = document.querySelector('[data-story-id] [role="tablist"]');
+        const tab = open?.querySelectorAll('[role="tab"]')[Number(e.key) - 1];
+        if (!tab) return;
+        e.preventDefault();
+        tab.click();
+        tab.focus({ preventScroll: true });
+      }
+    };
+    window.addEventListener('keydown', onKey);
+    return () => window.removeEventListener('keydown', onKey);
+  }, [view, settingsOpen, openSettings]);
 
   const latestDate = availableDates[0];
   const latestEdition = latestDate
