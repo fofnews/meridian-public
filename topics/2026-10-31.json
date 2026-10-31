@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Nancy Guthrie",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "nancy",
+      "guthrie",
+      "case",
+      "update",
+      "nears",
+      "investigators"
+    ]
+  },
+  {
     "label": "Patriot Missile",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "distance",
       "themselves",
       "trump"
-    ]
-  },
-  {
-    "label": "Russian Occupied",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "occupied",
-      "russian",
-      "oleshky",
-      "belarus",
-      "ukraine",
-      "evacuated"
     ]
   }
 ]
