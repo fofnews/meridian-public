@@ -11,7 +11,7 @@ import { useTheme } from '../ThemeContext.jsx';
 import { useMeridianMap } from '../map/useMeridianMap.js';
 import { fetchBoundaryPolygon, geocodeStory } from '../map/geocoding.js';
 import { FOCUSED_PITCH_WEBSITE } from '../map/camera.js';
-import { decodeText } from '../utils';
+import { decodeText, formatAnalysisTime } from '../utils';
 
 const EDITION_LABELS = { morning: 'Morning', evening: 'Evening' };
 
@@ -26,14 +26,6 @@ function formatReportDate(dateStr) {
   return new Date(y, m - 1, d).toLocaleDateString('en-US', {
     month: 'long', day: 'numeric', year: 'numeric',
   });
-}
-
-function formatAnalysisTime(fetchedAt) {
-  if (!fetchedAt) return '';
-  const d = new Date(fetchedAt);
-  if (Number.isNaN(d.getTime())) return '';
-  const t = d.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', hour12: true, timeZone: 'America/New_York' });
-  return `${t} ET`;
 }
 
 function GearButton({ onClick }) {

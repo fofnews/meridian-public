@@ -353,6 +353,7 @@ export default function App() {
                       leans={leans}
                       group={{ id: item.group.id, label: item.group.label, stories: item.stories, sources: item.sources }}
                       read={readIds.has(item.group.id)}
+                      fetchedAt={report.fetchedAt}
                       expanded={expandedStory === item.group.id}
                       onToggle={el => openTopItem(el, item.group.id, item.lead.id)}
                     />
@@ -362,6 +363,7 @@ export default function App() {
                       story={item.story}
                       leans={leans}
                       read={readIds.has(item.story.id)}
+                      fetchedAt={report.fetchedAt}
                       expanded={expandedStory === item.story.id}
                       onToggle={el => openTopItem(el, item.story.id, item.story.id)}
                     />

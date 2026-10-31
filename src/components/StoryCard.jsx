@@ -1,14 +1,14 @@
-import { useState, useRef } from 'react';
+import { useRef } from 'react';
 import { Check, ChevronDown, ChevronUp, ExternalLink } from 'lucide-react';
 import SourceBadge, { leanColor } from './SourceBadge';
 import AnalysisView from './AnalysisView';
+import OpenStory from './OpenStory';
 import { decodeText } from '../utils';
 import { leanOf } from '../shared/source-leans.js';
 
 // group (optional): { id, label, stories, sources } — renders the row for a story group,
 // using `story` as the group's lead (multi-source) story.
-export default function StoryCard({ story, leans, brief = false, group = null, read = false, expanded, onToggle }) {
-  const [sourcesOpen, setSourcesOpen] = useState(false);
+export default function StoryCard({ story, leans, brief = false, group = null, read = false, fetchedAt = null, expanded, onToggle }) {
   const cardRef = useRef(null);
   const sources = group?.sources ?? [...new Set(story.articles.map(a => a.source))];
 
@@ -142,58 +142,13 @@ export default function StoryCard({ story, leans, brief = false, group = null, r
       </button>
 
       {expanded && (
-        <div style={{ borderTop: '1px solid var(--border-primary)' }} className="px-6 py-5 space-y-4">
-          <AnalysisView analysis={story.analysis} leans={leans} />
-
-          {/* Source articles */}
-          <div className="rounded-lg overflow-hidden" style={{ border: '1px solid var(--border-primary)' }}>
-            <button
-              onClick={() => setSourcesOpen(o => !o)}
-              className="w-full flex items-center justify-between gap-2 px-4 py-3 text-left cursor-pointer"
-              style={{ background: 'var(--bg-card)' }}
-            >
-              <span className="text-sm font-semibold" style={{ color: 'var(--text-secondary)' }}>Source Articles</span>
-              <div className="flex items-center gap-2">
-                <span className="text-xs" style={{ color: 'var(--text-faint)' }}>({story.articles.length})</span>
-                {sourcesOpen
-                  ? <ChevronUp className="w-4 h-4" style={{ color: 'var(--text-faint)' }} />
-                  : <ChevronDown className="w-4 h-4" style={{ color: 'var(--text-faint)' }} />}
-              </div>
-            </button>
-            {sourcesOpen && (
-              <div className="p-2 space-y-1">
-                {story.articles.map((article, i) => (
-                  <a
-                    key={i}
-                    href={article.link}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="flex items-start gap-3 p-3 rounded-lg transition-colors group"
-                    style={{ color: 'inherit' }}
-                    onMouseEnter={e => e.currentTarget.style.background = 'var(--bg-card)'}
-                    onMouseLeave={e => e.currentTarget.style.background = ''}
-                  >
-                    <SourceBadge source={article.source} lean={leanOf(leans, article.source)} />
-                    <div className="flex-1 min-w-0">
-                      <p
-                        className="text-sm transition-colors"
-                        style={{ color: 'var(--text-secondary)' }}
-                        onMouseEnter={e => e.currentTarget.style.color = 'var(--accent)'}
-                        onMouseLeave={e => e.currentTarget.style.color = 'var(--text-secondary)'}
-                      >
-                        {decodeText(article.title)}
-                      </p>
-                      {article.description && (
-                        <p className="text-xs mt-0.5 line-clamp-2" style={{ color: 'var(--text-faint)' }}>{article.description}</p>
-                      )}
-                    </div>
-                    <ExternalLink className="w-3.5 h-3.5 shrink-0 mt-0.5" style={{ color: 'var(--border-dim)' }} />
-                  </a>
-                ))}
-              </div>
-            )}
-          </div>
-        </div>
+        <OpenStory
+          story={story}
+          leans={leans}
+          fetchedAt={fetchedAt}
+          groupLabel={null}
+          onCollapse={() => onToggle(cardRef.current)}
+        />
       )}
     </div>
   );
