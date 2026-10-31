@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Russian Occupied",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "occupied",
+      "russian",
+      "oleshky",
+      "belarus",
+      "ukraine",
+      "evacuated"
+    ]
+  },
+  {
     "label": "Nancy Guthrie",
     "count": 3,
     "sources": 2,
@@ -88,19 +101,6 @@
       "early",
       "voting",
       "surges"
-    ]
-  },
-  {
-    "label": "Daylight Saving",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "daylight",
-      "saving",
-      "time",
-      "clocks",
-      "back",
-      "hour"
     ]
   }
 ]
