@@ -1,7 +1,7 @@
 [
   {
     "label": "Dead Injured",
-    "count": 6,
+    "count": 7,
     "sources": 5,
     "keywords": [
       "shooting",
@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Haley Stevens",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "haley",
+      "stevens",
+      "sayed",
+      "abdul",
+      "stay",
+      "away"
+    ]
+  },
+  {
     "label": "Midterm Elections",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "belarus",
       "ukraine",
       "evacuated"
-    ]
-  },
-  {
-    "label": "Nancy Guthrie",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "nancy",
-      "guthrie",
-      "case",
-      "update",
-      "investigators",
-      "provide"
     ]
   }
 ]
