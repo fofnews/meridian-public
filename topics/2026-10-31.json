@@ -11,5 +11,18 @@
       "approves",
       "500"
     ]
+  },
+  {
+    "label": "Dead Injured",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "dead",
+      "injured",
+      "shooting",
+      "california",
+      "halloween",
+      "store"
+    ]
   }
 ]
