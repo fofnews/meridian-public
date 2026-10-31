@@ -14,28 +14,28 @@
   },
   {
     "label": "Virginia Sue",
-    "count": 4,
-    "sources": 3,
+    "count": 5,
+    "sources": 4,
     "keywords": [
       "trump",
       "arch",
       "virginia",
       "sue",
       "block",
-      "washington"
+      "triumphal"
     ]
   },
   {
     "label": "Formal Apology",
-    "count": 3,
-    "sources": 3,
+    "count": 4,
+    "sources": 4,
     "keywords": [
       "formal",
       "apology",
-      "britain",
       "open",
       "slavery",
-      "burnham"
+      "burnham",
+      "britain"
     ]
   },
   {
@@ -49,6 +49,19 @@
       "missile",
       "approves",
       "500"
+    ]
+  },
+  {
+    "label": "Judge Blocks",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "judge",
+      "threats",
+      "election",
+      "trump",
+      "blocks",
+      "doj"
     ]
   },
   {
@@ -88,19 +101,6 @@
       "update",
       "investigators",
       "provide"
-    ]
-  },
-  {
-    "label": "Early Voting",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "midterms",
-      "days",
-      "polls",
-      "early",
-      "voting",
-      "surges"
     ]
   }
 ]
