@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Russian Occupied",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "occupied",
+      "oleshky",
+      "russian",
+      "ukraine",
+      "evacuated",
+      "arrive"
+    ]
+  },
+  {
     "label": "Virginia Sue",
     "count": 6,
     "sources": 5,
@@ -23,19 +36,6 @@
       "sue",
       "block",
       "triumphal"
-    ]
-  },
-  {
-    "label": "Russian Occupied",
-    "count": 5,
-    "sources": 4,
-    "keywords": [
-      "occupied",
-      "oleshky",
-      "ukraine",
-      "russia",
-      "back",
-      "russian"
     ]
   },
   {
