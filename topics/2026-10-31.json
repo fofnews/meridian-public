@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Russian Occupied",
+    "count": 5,
+    "sources": 4,
+    "keywords": [
+      "occupied",
+      "oleshky",
+      "ukraine",
+      "russia",
+      "back",
+      "russian"
+    ]
+  },
+  {
     "label": "Formal Apology",
     "count": 4,
     "sources": 4,
@@ -36,19 +49,6 @@
       "slavery",
       "burnham",
       "britain"
-    ]
-  },
-  {
-    "label": "Russian Occupied",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "occupied",
-      "oleshky",
-      "ukraine",
-      "russian",
-      "belarus",
-      "evacuated"
     ]
   },
   {
