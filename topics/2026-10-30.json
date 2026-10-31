@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Golf Course",
+    "count": 8,
+    "sources": 8,
+    "keywords": [
+      "judge",
+      "trump",
+      "golf",
+      "course",
+      "inquiry",
+      "doj"
+    ]
+  },
+  {
     "label": "Ice Officer",
     "count": 7,
     "sources": 7,
@@ -23,19 +36,6 @@
       "indicted",
       "texas",
       "man"
-    ]
-  },
-  {
-    "label": "Golf Course",
-    "count": 7,
-    "sources": 7,
-    "keywords": [
-      "judge",
-      "trump",
-      "golf",
-      "course",
-      "inquiry",
-      "case"
     ]
   },
   {
