@@ -146,7 +146,7 @@ export default function StoryCard({ story, leans, brief = false, group = null, r
           story={story}
           leans={leans}
           fetchedAt={fetchedAt}
-          groupLabel={null}
+          group={group}
           onCollapse={() => onToggle(cardRef.current)}
         />
       )}

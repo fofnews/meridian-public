@@ -196,10 +196,71 @@ function ContextTab({ context }) {
   );
 }
 
-export default function OpenStory({ story, leans, fetchedAt, groupLabel = null, onCollapse }) {
+function plural(n, word) {
+  return `${n} ${word}${n === 1 ? '' : 's'}`;
+}
+
+function SinglesThread({ singles, leans }) {
+  return (
+    <div className="mt-5">
+      <p style={{ ...LABEL_FONT, fontSize: 13, color: 'var(--label)' }}>Each of these was reported by one outlet. Summarized, not compared.</p>
+      {singles.map(s => {
+        const a = s.articles[0];
+        return (
+          <div key={s.id} className="py-4" style={{ borderBottom: '1px solid var(--border-primary)' }}>
+            <a href={a?.link} target="_blank" rel="noopener noreferrer" className="block">
+              <span className="block font-semibold" style={{ ...LABEL_FONT, fontSize: 13, color: leanColor(leanOf(leans, a?.source)) }}>{a?.source} ↗</span>
+              <span className="block mt-1" style={{ fontFamily: 'var(--font-display)', fontSize: 19, lineHeight: 1.3, color: 'var(--text-primary)' }}>{decodeText(a?.title ?? s.headline)}</span>
+            </a>
+            {s.analysis?.summary && (
+              <p className="mt-2" style={{ fontFamily: 'var(--font-body)', fontSize: 16, lineHeight: 1.55, color: 'var(--text-secondary)' }}>{s.analysis.summary}</p>
+            )}
+          </div>
+        );
+      })}
+    </div>
+  );
+}
+
+function ThreadButtons({ threads, thread, onPick }) {
+  return (
+    <div className="flex flex-wrap gap-2 mt-5">
+      {threads.map((t, i) => {
+        const sel = thread === i;
+        return (
+          <button
+            key={t.title}
+            aria-pressed={sel}
+            onClick={() => onPick(i)}
+            className="cursor-pointer text-left grid gap-2.5"
+            style={{
+              flex: '1 1 280px', gridTemplateColumns: '22px minmax(0, 1fr)', padding: '12px 14px', minHeight: 44, borderRadius: 6,
+              background: sel ? 'var(--bg-card)' : 'transparent',
+              border: `1px solid ${sel ? 'var(--gold-text)' : 'var(--border-primary)'}`,
+              color: 'var(--text-primary)',
+            }}
+          >
+            <span className="font-bold" style={{ ...LABEL_FONT, fontSize: 13, paddingTop: 3, color: sel ? 'var(--gold-text)' : 'var(--label)' }}>{i + 1}</span>
+            <span className="block min-w-0">
+              <span className="block font-semibold" style={{ fontFamily: 'var(--font-display)', fontSize: 18, lineHeight: 1.25 }}>{t.title}</span>
+              <span className="block mt-1" style={{ ...LABEL_FONT, fontSize: 12, color: 'var(--label)' }}>{t.meta}</span>
+            </span>
+          </button>
+        );
+      })}
+    </div>
+  );
+}
+
+export default function OpenStory({ story, leans, fetchedAt, group = null, onCollapse }) {
   const [tab, setTab] = useState('facts');
+  const [thread, setThread] = useState(0);
   const tabRefs = useRef({});
   const { analysis, articles } = story;
+  const singles = group ? group.stories.filter(s => s.id !== story.id && coveringOutlets(s.articles).length <= 1) : [];
+  const singleOutlets = coveringOutlets(singles.flatMap(s => s.articles));
+  const showSingles = group && thread === 1;
+  const pickThread = i => { setThread(i); setTab('facts'); };
 
   if (!analysis) {
     return (
@@ -241,12 +302,31 @@ export default function OpenStory({ story, leans, fetchedAt, groupLabel = null, 
       )}
       <h3 className="flex items-start gap-3 mt-1" style={{ fontFamily: 'var(--font-display)', fontSize: 28, fontWeight: 600, lineHeight: 1.18, color: 'var(--text-primary)' }}>
         <Minus className="w-5 h-5 shrink-0" style={{ color: 'var(--gold-text)', marginTop: 8 }} aria-hidden="true" />
-        <span>{decodeText(story.headline)}</span>
+        <span>{group ? group.label : decodeText(story.headline)}</span>
       </h3>
-      {groupLabel && (
-        <div className="mt-1" style={{ ...LABEL_FONT, fontSize: 12, color: 'var(--label)' }}>Part of: {groupLabel}</div>
+      {group && (
+        <>
+          <div className="mt-2" style={{ ...LABEL_FONT, fontSize: 13, color: 'var(--label)' }}>
+            {plural(group.sources.length, 'outlet')} in all · {plural(outlets.length, 'outlet')} compared · {plural(singles.length, 'single-outlet report')}
+          </div>
+          {singles.length > 0 && (
+            <ThreadButtons
+              thread={thread}
+              onPick={pickThread}
+              threads={[
+                { title: 'Compared coverage', meta: `${plural(outlets.length, 'outlet')} · facts, headlines and disagreements` },
+                { title: 'Single-outlet reports', meta: `${plural(singles.length, 'report')} from ${plural(singleOutlets.length, 'outlet')} · summarized, not compared` },
+              ]}
+            />
+          )}
+        </>
       )}
 
+      {showSingles ? <SinglesThread singles={singles} leans={leans} /> : (
+      <>
+      {group && (
+        <p className="mt-5" style={{ fontFamily: 'var(--font-display)', fontSize: 20, lineHeight: 1.3, color: 'var(--text-primary)' }}>{decodeText(story.headline)}</p>
+      )}
       <div className="grid gap-6 mt-5 md:grid-cols-[minmax(0,1fr)_320px]">
         <p style={{ fontFamily: 'var(--font-body)', fontSize: 18, lineHeight: 1.6, color: 'var(--text-secondary)' }}>{analysis.summary}</p>
         <CoveragePanel leans={leans} articles={articles} />
@@ -286,10 +366,14 @@ export default function OpenStory({ story, leans, fetchedAt, groupLabel = null, 
         {tab === 'disagreements' && <DisagreementsTab analysis={analysis} leans={leans} total={outlets.length} />}
         {tab === 'context' && <ContextTab context={analysis.context} />}
       </div>
+      </>
+      )}
 
       <div className="flex flex-wrap items-center justify-between gap-4 mt-8 pt-4" style={{ borderTop: '1px solid var(--border-primary)' }}>
         <p style={{ ...LABEL_FONT, fontSize: 12, color: 'var(--label)' }}>
-          AI-generated analysis of {articles.length} article{articles.length !== 1 ? 's' : ''} from {outlets.length} outlet{outlets.length !== 1 ? 's' : ''}
+          {showSingles
+            ? `AI-generated summaries of ${plural(singles.length, 'report')} from ${plural(singleOutlets.length, 'outlet')}`
+            : `AI-generated analysis of ${plural(articles.length, 'article')} from ${plural(outlets.length, 'outlet')}`}
           {time && ` · Analysis run at ${time}`} · may contain errors
         </p>
         <button
