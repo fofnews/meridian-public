@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Chris Murphy",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "chris",
+      "murphy",
+      "stroke",
+      "hospitalized",
+      "sen",
+      "following"
+    ]
+  },
+  {
     "label": "Alaska Senate",
     "count": 5,
     "sources": 5,
@@ -88,19 +101,6 @@
       "valkyries",
       "atlanta",
       "dream"
-    ]
-  },
-  {
-    "label": "Looted German",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "living",
-      "protests",
-      "shops",
-      "looted",
-      "german",
-      "cost"
     ]
   }
 ]
