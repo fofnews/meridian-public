@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Judge Orders",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "judge",
+      "election",
+      "trump",
+      "orders",
+      "threats",
+      "officials"
+    ]
+  },
+  {
     "label": "Formal Apology",
     "count": 4,
     "sources": 4,
@@ -49,19 +62,6 @@
       "slavery",
       "burnham",
       "britain"
-    ]
-  },
-  {
-    "label": "Election Workers",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "judge",
-      "election",
-      "trump",
-      "threats",
-      "workers",
-      "orders"
     ]
   },
   {
