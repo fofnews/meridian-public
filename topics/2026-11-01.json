@@ -1,5 +1,18 @@
 [
   {
+    "label": "Football Game",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "dead",
+      "shooting",
+      "football",
+      "game",
+      "injured",
+      "alabama"
+    ]
+  },
+  {
     "label": "Heidi Klum",
     "count": 5,
     "sources": 4,
@@ -36,19 +49,6 @@
       "valkyries",
       "atlanta",
       "dream"
-    ]
-  },
-  {
-    "label": "Football Game",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "dead",
-      "shooting",
-      "football",
-      "game",
-      "injured",
-      "alabama"
     ]
   },
   {
