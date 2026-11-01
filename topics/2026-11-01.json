@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Israeli Attacks",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "israeli",
+      "gaza",
+      "eight",
+      "kill",
+      "least",
+      "attacks"
+    ]
+  },
+  {
     "label": "Gabby Williams",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "wnba",
       "dream",
       "title"
-    ]
-  },
-  {
-    "label": "Trump Iran",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "trump",
-      "iran",
-      "hurry",
-      "negotiations",
-      "much",
-      "live"
     ]
   }
 ]
