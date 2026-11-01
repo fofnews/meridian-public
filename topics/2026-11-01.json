@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Daylight Saving",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "daylight",
+      "saving",
+      "time",
+      "today",
+      "ended",
+      "map"
+    ]
+  },
+  {
     "label": "Binance Resumes",
     "count": 3,
     "sources": 2,
