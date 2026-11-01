@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Wall Street",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "trump",
+      "wall",
+      "street",
+      "journal",
+      "lawsuit",
+      "against"
+    ]
+  },
+  {
     "label": "Formal Apology",
     "count": 4,
     "sources": 4,
@@ -88,19 +101,6 @@
       "sue",
       "block",
       "construction"
-    ]
-  },
-  {
-    "label": "Wall Street",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "trump",
-      "wall",
-      "street",
-      "journal",
-      "lawsuit",
-      "against"
     ]
   }
 ]
