@@ -226,7 +226,7 @@ export default function MapHero({
   );
 
   return (
-    <div ref={stickyRef} style={{ position: 'sticky', top: 0, zIndex: 30 }}>
+    <div ref={stickyRef} style={{ position: 'sticky', top: 0, zIndex: 30, background: 'var(--bg-secondary)' }}>
       {!mapVisible && (
         <div
           className="w-full flex items-center justify-between px-4"

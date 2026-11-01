@@ -7,6 +7,46 @@ export function coveringOutlets(articles) {
   return [...new Set((articles ?? []).map(a => a.source))];
 }
 
+export function buildGroupedItems(orderedStories, storyGroups, allStoriesById) {
+  if (!storyGroups?.length) return orderedStories.map(s => ({ type: 'story', story: s }));
+
+  const groupById = new Map(storyGroups.map(g => [g.id, g]));
+  const storyGroupId = new Map();
+  for (const g of storyGroups) {
+    for (const id of g.storyIds) storyGroupId.set(id, g.id);
+  }
+
+  const rendered = new Set();
+  const items = [];
+
+  for (const story of orderedStories) {
+    if (rendered.has(story.id)) continue;
+    const gid = storyGroupId.get(story.id);
+    if (gid && groupById.has(gid)) {
+      const group = groupById.get(gid);
+      // Reports can list the same id twice in a group; dedupe so counts and React keys stay correct.
+      const groupStories = [...new Set(group.storyIds)].map(id => allStoriesById.get(id)).filter(Boolean);
+      groupStories.forEach(s => rendered.add(s.id));
+      const sources = [...new Set(groupStories.flatMap(s => (s.articles ?? []).map(a => a?.source).filter(Boolean)))];
+      items.push({ type: 'group', group, stories: groupStories, lead: story, sources });
+    } else {
+      rendered.add(story.id);
+      items.push({ type: 'story', story });
+    }
+  }
+  return items;
+}
+
+// Splits a group's stories into compared threads (the lead first, then every other
+// multi-outlet member by outlet count) and the single-outlet reports.
+export function buildThreads(groupStories, lead) {
+  const count = s => coveringOutlets(s.articles).length;
+  const others = groupStories.filter(s => s.id !== lead.id);
+  const compared = [lead, ...others.filter(s => count(s) >= 2).sort((a, b) => count(b) - count(a))];
+  const singles = others.filter(s => count(s) < 2);
+  return { compared, singles };
+}
+
 // Normalizes the current claims[] shape and the two legacy shapes
 // (agreements[] + uniqueAngles[], and single-source facts[]) into one claim list.
 export function normalizeClaims(analysis, articles) {

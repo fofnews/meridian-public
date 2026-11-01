@@ -1,9 +1,13 @@
-import { useRef } from 'react';
+import { Fragment, useRef } from 'react';
 import { Check, ChevronDown, ChevronUp, ExternalLink } from 'lucide-react';
 import { leanColor } from './SourceBadge';
 import OpenStory from './OpenStory';
 import { decodeText } from '../utils';
 import { leanOf } from '../shared/source-leans.js';
+
+const LEAN_ORDER = { left: 0, center: 1, right: 2 };
+const byLean = (sources, leans) =>
+  [...sources].sort((a, b) => (LEAN_ORDER[leanOf(leans, a)] ?? 3) - (LEAN_ORDER[leanOf(leans, b)] ?? 3));
 
 // group (optional): { id, label, stories, sources } — renders the row for a story group,
 // using `story` as the group's lead (multi-source) story.
@@ -79,17 +83,21 @@ export default function StoryCard({ story, leans, brief = false, group = null, r
       <button
         onClick={() => onToggle(cardRef.current)}
         aria-expanded={expanded}
-        className="w-full text-left px-4 py-5 flex items-start justify-between gap-4 cursor-pointer group"
+        aria-label={expanded ? (group ? group.label : decodeText(story.headline)) : undefined}
+        className={`w-full text-left px-4 ${expanded ? 'py-3' : 'py-5'} flex items-start justify-between gap-4 cursor-pointer group`}
       >
         <div className="flex-1 min-w-0">
-          {group && (
+          {(group || (expanded && read)) && (
             <div
-              className="uppercase font-semibold"
-              style={{ color: 'var(--gold-text)', fontFamily: 'var(--font-label)', fontSize: 11, letterSpacing: '1.5px', marginBottom: 6 }}
+              className="flex items-center gap-2 uppercase font-semibold"
+              style={{ color: 'var(--gold-text)', fontFamily: 'var(--font-label)', fontSize: 11, letterSpacing: '1.5px', marginBottom: expanded ? 0 : 6 }}
             >
-              Developing story · {group.stories.length} reports
+              {expanded && read && <Check className="w-4 h-4 shrink-0" style={{ color: 'var(--tier-spectrum)' }} aria-label="Read" />}
+              {group && <span>Developing story · {group.stories.length} reports</span>}
             </div>
           )}
+          {!expanded && (
+          <>
           <h3
             className="flex items-start gap-2 leading-snug"
             style={{ color: headlineColor, fontFamily: 'var(--font-display)', fontSize: 24, fontWeight: 600 }}
@@ -109,8 +117,11 @@ export default function StoryCard({ story, leans, brief = false, group = null, r
               {sources.length} source{sources.length !== 1 ? 's' : ''}
             </span>
             <span style={{ color: 'var(--border-dim)' }}>·</span>
-            {sources.slice(0, 6).map(s => (
-              <span key={s} style={{ color: leanColor(leanOf(leans, s)), fontWeight: 500 }}>{s}</span>
+            {byLean(sources, leans).slice(0, 6).map((s, i) => (
+              <Fragment key={s}>
+                {i > 0 && <span aria-hidden="true" style={{ color: 'var(--border-dim)' }}>·</span>}
+                <span style={{ color: leanColor(leanOf(leans, s)), fontWeight: 500 }}>{s}</span>
+              </Fragment>
             ))}
             {sources.length > 6 && (
               <span style={{ color: 'var(--label)' }}>+{sources.length - 6} more</span>
@@ -128,6 +139,8 @@ export default function StoryCard({ story, leans, brief = false, group = null, r
               </>
             )}
           </div>
+          </>
+          )}
         </div>
         <div className="shrink-0 mt-1" style={{ color: 'var(--text-faint)' }}>
           {expanded ? <ChevronUp className="w-5 h-5" /> : <ChevronDown className="w-5 h-5" />}

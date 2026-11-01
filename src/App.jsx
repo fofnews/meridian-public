@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback, useRef, useLayoutEffect, useMemo } from 'react';
-import { ArrowUp } from 'lucide-react';
+import { ArrowUp, Settings } from 'lucide-react';
 import MapHero from './components/MapHero';
 import DateNav from './components/DateNav';
 import StoryCard from './components/StoryCard';
@@ -14,6 +14,7 @@ import { getReadIds, markRead, markAllRead, clearRead } from './readState.js';
 import { useSettings } from './SettingsContext.jsx';
 import { loadMapVisible, saveMapVisible } from './settings.js';
 import { shouldIgnoreKey, nextRowIndex } from './shortcuts.js';
+import { buildGroupedItems } from './openStory.js';
 
 const BRIEF_LIMIT = 10;
 
@@ -21,35 +22,6 @@ function outletCount(item) {
   return item.type === 'group'
     ? item.sources.length
     : new Set((item.story.articles ?? []).map(a => a?.source).filter(Boolean)).size;
-}
-
-function buildGroupedItems(orderedStories, storyGroups, allStoriesById) {
-  if (!storyGroups?.length) return orderedStories.map(s => ({ type: 'story', story: s }));
-
-  const groupById = new Map(storyGroups.map(g => [g.id, g]));
-  const storyGroupId = new Map();
-  for (const g of storyGroups) {
-    for (const id of g.storyIds) storyGroupId.set(id, g.id);
-  }
-
-  const rendered = new Set();
-  const items = [];
-
-  for (const story of orderedStories) {
-    if (rendered.has(story.id)) continue;
-    const gid = storyGroupId.get(story.id);
-    if (gid && groupById.has(gid)) {
-      const group = groupById.get(gid);
-      const groupStories = group.storyIds.map(id => allStoriesById.get(id)).filter(Boolean);
-      groupStories.forEach(s => rendered.add(s.id));
-      const sources = [...new Set(groupStories.flatMap(s => (s.articles ?? []).map(a => a?.source).filter(Boolean)))];
-      items.push({ type: 'group', group, stories: groupStories, lead: story, sources });
-    } else {
-      rendered.add(story.id);
-      items.push({ type: 'story', story });
-    }
-  }
-  return items;
 }
 
 const EDITION_WINDOWS = {
@@ -347,9 +319,9 @@ export default function App() {
               onClick={() => setView(v)}
               className="py-3 px-6 text-xs font-semibold uppercase tracking-widest cursor-pointer transition-colors border-b-2"
               style={{
-                background: view === v ? 'rgba(232,197,71,0.06)' : 'transparent',
-                color: view === v ? 'var(--accent)' : 'var(--text-muted)',
-                borderColor: view === v ? 'var(--accent)' : 'transparent',
+                background: view === v ? 'var(--gold-wash)' : 'transparent',
+                color: view === v ? 'var(--gold-text)' : 'var(--text-muted)',
+                borderColor: view === v ? 'var(--gold-text)' : 'transparent',
                 letterSpacing: '2px',
               }}
               onMouseEnter={e => { if (view !== v) e.currentTarget.style.color = 'var(--text-secondary)'; }}
@@ -358,6 +330,17 @@ export default function App() {
               {label}
             </button>
           ))}
+          {!loading && !(report && multiSource.length > 0) && (
+            <button
+              onClick={() => openSettings()}
+              aria-label="Settings"
+              title="Settings"
+              className="cursor-pointer flex items-center justify-center shrink-0 ml-auto"
+              style={{ width: 44, height: 44, color: 'var(--text-muted)', background: 'none', border: 'none' }}
+            >
+              <Settings size={18} />
+            </button>
+          )}
         </div>
       </div>
 
@@ -407,7 +390,7 @@ export default function App() {
                 <div className="flex items-baseline gap-3 mb-6 flex-wrap">
                   <h2
                     className="shrink-0"
-                    style={{ color: 'var(--text-primary)', fontFamily: 'var(--font-display)', fontSize: 20, fontWeight: 600 }}
+                    style={{ color: 'var(--text-primary)', fontFamily: 'var(--font-display)', fontSize: 30, fontWeight: 600 }}
                   >
                     Covered by more than one outlet
                   </h2>

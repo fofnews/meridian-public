@@ -6,7 +6,7 @@ import { decodeText, formatAnalysisTime } from '../utils';
 import { leanOf, outletCount } from '../shared/source-leans.js';
 import {
   LEAN_KEYS, LEAN_LABELS, coveringOutlets, normalizeClaims, groupClaimsByTier,
-  coverageByLean, gapNote, headlinesByLean,
+  coverageByLean, gapNote, headlinesByLean, buildThreads,
 } from '../openStory.js';
 
 const LABEL_FONT = { fontFamily: 'var(--font-label)' };
@@ -230,7 +230,7 @@ function ThreadButtons({ threads, thread, onPick }) {
         const sel = thread === i;
         return (
           <button
-            key={t.title}
+            key={i}
             aria-pressed={sel}
             onClick={() => onPick(i)}
             className="cursor-pointer text-left grid gap-2.5"
@@ -253,16 +253,26 @@ function ThreadButtons({ threads, thread, onPick }) {
   );
 }
 
-export default function OpenStory({ story, leans, fetchedAt, group = null, onCollapse }) {
+export default function OpenStory({ story: lead, leans, fetchedAt, group = null, onCollapse }) {
   const { startTab } = useSettings();
   const [tab, setTab] = useState(startTab);
   const [thread, setThread] = useState(0);
   const tabRefs = useRef({});
-  const { analysis, articles } = story;
-  const singles = group ? group.stories.filter(s => s.id !== story.id && coveringOutlets(s.articles).length <= 1) : [];
+  const { compared, singles } = group ? buildThreads(group.stories, lead) : { compared: [lead], singles: [] };
   const singleOutlets = coveringOutlets(singles.flatMap(s => s.articles));
-  const showSingles = group && thread === 1;
+  const showSingles = singles.length > 0 && thread === compared.length;
+  const story = compared[showSingles ? 0 : Math.min(thread, compared.length - 1)];
+  const { analysis, articles } = story;
   const pickThread = i => { setThread(i); setTab(startTab); };
+  const threads = [
+    ...compared.map(s => ({
+      title: decodeText(s.headline),
+      meta: `${plural(coveringOutlets(s.articles).length, 'outlet')} · facts, headlines and disagreements`,
+    })),
+    ...(singles.length > 0
+      ? [{ title: 'Single-outlet reports', meta: `${plural(singles.length, 'report')} from ${plural(singleOutlets.length, 'outlet')} · summarized, not compared` }]
+      : []),
+  ];
 
   if (!analysis) {
     return (
@@ -283,6 +293,7 @@ export default function OpenStory({ story, leans, fetchedAt, group = null, onCol
     ...(hasContext ? [{ id: 'context', label: 'Context' }] : []),
   ];
   const locations = (analysis.locations ?? []).map(l => l.name ?? l).filter(Boolean);
+  // fetchedAt is the main analysis run. Stories filled in later (analysisAddedAt) keep this time on purpose.
   const time = formatAnalysisTime(fetchedAt);
 
   const onTabKey = e => {
@@ -311,16 +322,7 @@ export default function OpenStory({ story, leans, fetchedAt, group = null, onCol
           <div className="mt-2" style={{ ...LABEL_FONT, fontSize: 13, color: 'var(--label)' }}>
             {plural(group.sources.length, 'outlet')} in all · {plural(outlets.length, 'outlet')} compared · {plural(singles.length, 'single-outlet report')}
           </div>
-          {singles.length > 0 && (
-            <ThreadButtons
-              thread={thread}
-              onPick={pickThread}
-              threads={[
-                { title: 'Compared coverage', meta: `${plural(outlets.length, 'outlet')} · facts, headlines and disagreements` },
-                { title: 'Single-outlet reports', meta: `${plural(singles.length, 'report')} from ${plural(singleOutlets.length, 'outlet')} · summarized, not compared` },
-              ]}
-            />
-          )}
+          {threads.length > 1 && <ThreadButtons thread={thread} onPick={pickThread} threads={threads} />}
         </>
       )}
 
