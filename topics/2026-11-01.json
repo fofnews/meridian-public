@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Alaska Senate",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "dan",
+      "alaska",
+      "senate",
+      "candidate",
+      "fbi",
+      "visits"
+    ]
+  },
+  {
     "label": "Gabby Williams",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "negotiations",
       "much",
       "live"
-    ]
-  },
-  {
-    "label": "Decoy Dan",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "dan",
-      "alaska",
-      "decoy",
-      "investigation",
-      "senate",
-      "candidate"
     ]
   }
 ]
