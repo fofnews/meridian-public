@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Haley Stevens",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "stevens",
+      "rogers",
+      "haley",
+      "mike",
+      "appears",
+      "gop"
+    ]
+  },
+  {
     "label": "Israeli Attacks",
     "count": 4,
     "sources": 3,
@@ -88,19 +101,6 @@
       "kill",
       "least",
       "attacks"
-    ]
-  },
-  {
-    "label": "Gabby Williams",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "gabby",
-      "williams",
-      "valkyries",
-      "wnba",
-      "dream",
-      "title"
     ]
   }
 ]
