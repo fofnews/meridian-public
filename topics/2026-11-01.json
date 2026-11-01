@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Alaska Senate",
+    "count": 7,
+    "sources": 7,
+    "keywords": [
+      "judge",
+      "alaska",
+      "senate",
+      "lawsuit",
+      "race",
+      "tosses"
+    ]
+  },
+  {
     "label": "Football Game",
     "count": 6,
     "sources": 6,
@@ -23,19 +36,6 @@
       "game",
       "alabama",
       "injured"
-    ]
-  },
-  {
-    "label": "Alaska Senate",
-    "count": 6,
-    "sources": 6,
-    "keywords": [
-      "judge",
-      "alaska",
-      "senate",
-      "tosses",
-      "results",
-      "doj"
     ]
   },
   {
