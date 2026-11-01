@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Chris Murphy",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "murphy",
+      "stroke",
+      "chris",
+      "hospitalized",
+      "sen",
+      "senator"
+    ]
+  },
+  {
     "label": "Heidi Klum",
     "count": 5,
     "sources": 4,
@@ -88,19 +101,6 @@
       "candidate",
       "fbi",
       "visits"
-    ]
-  },
-  {
-    "label": "Israeli Attacks",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "israeli",
-      "gaza",
-      "eight",
-      "kill",
-      "least",
-      "attacks"
     ]
   }
 ]
