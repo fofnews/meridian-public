@@ -1,15 +1,15 @@
 [
   {
     "label": "Haley Stevens",
-    "count": 6,
-    "sources": 6,
+    "count": 7,
+    "sources": 7,
     "keywords": [
       "stevens",
       "rogers",
       "haley",
       "mike",
-      "gop",
-      "endorses"
+      "endorses",
+      "michigan"
     ]
   },
   {
@@ -36,6 +36,19 @@
       "game",
       "injured",
       "alabama"
+    ]
+  },
+  {
+    "label": "Alaska Senate",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "judge",
+      "alaska",
+      "senate",
+      "tosses",
+      "doj",
+      "lawsuit"
     ]
   },
   {
@@ -88,19 +101,6 @@
       "looted",
       "german",
       "cost"
-    ]
-  },
-  {
-    "label": "Alaska Senate",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "dan",
-      "alaska",
-      "senate",
-      "candidate",
-      "fbi",
-      "visits"
     ]
   }
 ]
