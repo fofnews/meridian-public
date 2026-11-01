@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Michael Mann",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "michael",
+      "mann",
+      "gun",
+      "range",
+      "director",
+      "heat"
+    ]
+  },
+  {
     "label": "Chris Murphy",
     "count": 5,
     "sources": 5,
@@ -88,19 +101,6 @@
       "iowa",
       "kansas",
       "elections"
-    ]
-  },
-  {
-    "label": "Golden State",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "golden",
-      "state",
-      "wnba",
-      "valkyries",
-      "atlanta",
-      "dream"
     ]
   }
 ]
