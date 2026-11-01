@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Alaska Senate",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "judge",
+      "alaska",
+      "senate",
+      "tosses",
+      "results",
+      "doj"
+    ]
+  },
+  {
     "label": "Chris Murphy",
     "count": 6,
     "sources": 6,
@@ -23,6 +36,19 @@
       "hospitalized",
       "sen",
       "suffering"
+    ]
+  },
+  {
+    "label": "Golden State",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "wnba",
+      "golden",
+      "state",
+      "valkyries",
+      "title",
+      "atlanta"
     ]
   },
   {
@@ -65,19 +91,6 @@
     ]
   },
   {
-    "label": "Alaska Senate",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "judge",
-      "alaska",
-      "senate",
-      "tosses",
-      "doj",
-      "lawsuit"
-    ]
-  },
-  {
     "label": "Heidi Klum",
     "count": 5,
     "sources": 4,
@@ -88,19 +101,6 @@
       "2026",
       "severed",
       "hand"
-    ]
-  },
-  {
-    "label": "Live Updates",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "trump",
-      "live",
-      "updates",
-      "iowa",
-      "kansas",
-      "elections"
     ]
   }
 ]
