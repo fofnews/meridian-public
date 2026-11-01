@@ -1,5 +1,31 @@
 [
   {
+    "label": "Golden State",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "golden",
+      "state",
+      "wnba",
+      "valkyries",
+      "atlanta",
+      "dream"
+    ]
+  },
+  {
+    "label": "Heidi Klum",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "heidi",
+      "klum",
+      "halloween",
+      "severed",
+      "hand",
+      "2026"
+    ]
+  },
+  {
     "label": "Gabby Williams",
     "count": 3,
     "sources": 3,
@@ -10,32 +36,6 @@
       "wnba",
       "dream",
       "title"
-    ]
-  },
-  {
-    "label": "Golden State",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "golden",
-      "state",
-      "wnba",
-      "title",
-      "franchise",
-      "valkyries"
-    ]
-  },
-  {
-    "label": "Heidi Klum",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "heidi",
-      "klum",
-      "halloween",
-      "severed",
-      "hand",
-      "party"
     ]
   }
 ]
