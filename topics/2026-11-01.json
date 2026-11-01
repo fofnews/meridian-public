@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Football Game",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "dead",
+      "shooting",
+      "football",
+      "game",
+      "injured",
+      "alabama"
+    ]
+  },
+  {
     "label": "Gabby Williams",
     "count": 3,
     "sources": 3,
@@ -36,19 +49,6 @@
       "wnba",
       "dream",
       "title"
-    ]
-  },
-  {
-    "label": "Football Game",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "dead",
-      "shooting",
-      "football",
-      "game",
-      "injured",
-      "alabama"
     ]
   },
   {
