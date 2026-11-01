@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Decoy Dan",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "dan",
+      "alaska",
+      "decoy",
+      "investigation",
+      "senate",
+      "candidate"
+    ]
+  },
+  {
     "label": "Daylight Saving",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "today",
       "ended",
       "map"
-    ]
-  },
-  {
-    "label": "Fbi Blames",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "heist",
-      "binance",
-      "fbi",
-      "blames",
-      "north",
-      "korea"
     ]
   }
 ]
