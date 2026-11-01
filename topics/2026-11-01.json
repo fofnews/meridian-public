@@ -1,5 +1,18 @@
 [
   {
+    "label": "Heidi Klum",
+    "count": 5,
+    "sources": 4,
+    "keywords": [
+      "heidi",
+      "klum",
+      "halloween",
+      "2026",
+      "severed",
+      "hand"
+    ]
+  },
+  {
     "label": "Golden State",
     "count": 4,
     "sources": 4,
@@ -10,19 +23,6 @@
       "valkyries",
       "atlanta",
       "dream"
-    ]
-  },
-  {
-    "label": "Heidi Klum",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "heidi",
-      "klum",
-      "halloween",
-      "severed",
-      "hand",
-      "2026"
     ]
   },
   {
