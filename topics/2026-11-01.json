@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Looted German",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "living",
+      "protests",
+      "shops",
+      "looted",
+      "german",
+      "cost"
+    ]
+  },
+  {
     "label": "Alaska Senate",
     "count": 4,
     "sources": 4,
@@ -75,19 +88,6 @@
       "wnba",
       "dream",
       "title"
-    ]
-  },
-  {
-    "label": "Looted German",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "living",
-      "looted",
-      "german",
-      "cost",
-      "protests",
-      "stores"
     ]
   },
   {
