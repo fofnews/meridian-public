@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Live Updates",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "trump",
+      "live",
+      "updates",
+      "iowa",
+      "kansas",
+      "elections"
+    ]
+  },
+  {
     "label": "Golden State",
     "count": 4,
     "sources": 4,
@@ -88,19 +101,6 @@
       "investigation",
       "senate",
       "candidate"
-    ]
-  },
-  {
-    "label": "Daylight Saving",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "daylight",
-      "saving",
-      "time",
-      "today",
-      "ended",
-      "map"
     ]
   }
 ]
