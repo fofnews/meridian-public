@@ -52,6 +52,32 @@
     ]
   },
   {
+    "label": "Supreme Court",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "supreme",
+      "court",
+      "california",
+      "ballot",
+      "doj",
+      "asks"
+    ]
+  },
+  {
+    "label": "Ukraine Russia",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "russia",
+      "ukraine",
+      "used",
+      "ceasefire",
+      "positions",
+      "occupied"
+    ]
+  },
+  {
     "label": "Haley Stevens",
     "count": 3,
     "sources": 3,
@@ -75,32 +101,6 @@
       "costume",
       "lifestyle",
       "guru"
-    ]
-  },
-  {
-    "label": "Haley Stevens",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "haley",
-      "stevens",
-      "mike",
-      "rogers",
-      "endorsement",
-      "backs"
-    ]
-  },
-  {
-    "label": "Around World",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "returns",
-      "around",
-      "world",
-      "home",
-      "year",
-      "000"
     ]
   }
 ]
