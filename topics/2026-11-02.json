@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Around World",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "around",
+      "world",
+      "returns",
+      "home",
+      "year",
+      "000"
+    ]
+  },
+  {
     "label": "2026 Midterm",
     "count": 5,
     "sources": 4,
@@ -88,19 +101,6 @@
       "rogers",
       "endorsement",
       "democrat"
-    ]
-  },
-  {
-    "label": "Around World",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "returns",
-      "around",
-      "world",
-      "home",
-      "year",
-      "adventurer"
     ]
   }
 ]
