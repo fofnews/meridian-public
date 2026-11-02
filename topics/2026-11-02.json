@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Abdul Sayed",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "sayed",
+      "stevens",
+      "rogers",
+      "abdul",
+      "haley",
+      "mike"
+    ]
+  },
+  {
     "label": "Trump Makes",
     "count": 3,
     "sources": 2,
@@ -88,19 +101,6 @@
       "used",
       "ceasefire",
       "positions"
-    ]
-  },
-  {
-    "label": "Reflecting Pool",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "trump",
-      "reflecting",
-      "pool",
-      "closing",
-      "message",
-      "speak"
     ]
   }
 ]
