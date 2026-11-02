@@ -24,5 +24,18 @@
       "races",
       "things"
     ]
+  },
+  {
+    "label": "Ukraine Russia",
+    "count": 3,
+    "sources": 2,
+    "keywords": [
+      "russia",
+      "ukraine",
+      "reuters",
+      "used",
+      "ceasefire",
+      "positions"
+    ]
   }
 ]
