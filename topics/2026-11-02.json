@@ -1,5 +1,18 @@
 [
   {
+    "label": "2026 Midterm",
+    "count": 5,
+    "sources": 4,
+    "keywords": [
+      "watch",
+      "election",
+      "2026",
+      "midterm",
+      "races",
+      "things"
+    ]
+  },
+  {
     "label": "Ukraine Russia",
     "count": 4,
     "sources": 4,
@@ -10,19 +23,6 @@
       "alerts",
       "fake",
       "emergency"
-    ]
-  },
-  {
-    "label": "2026 Midterm",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "watch",
-      "election",
-      "midterm",
-      "races",
-      "2026",
-      "things"
     ]
   },
   {
