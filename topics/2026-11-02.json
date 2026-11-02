@@ -1,5 +1,18 @@
 [
   {
+    "label": "Hunter Biden",
+    "count": 10,
+    "sources": 10,
+    "keywords": [
+      "against",
+      "judge",
+      "fbi",
+      "biden",
+      "case",
+      "hunter"
+    ]
+  },
+  {
     "label": "Supreme Court",
     "count": 10,
     "sources": 9,
@@ -10,19 +23,6 @@
       "trump",
       "asks",
       "ballot"
-    ]
-  },
-  {
-    "label": "Hunter Biden",
-    "count": 9,
-    "sources": 9,
-    "keywords": [
-      "against",
-      "judge",
-      "fbi",
-      "biden",
-      "case",
-      "officials"
     ]
   },
   {
@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Ukraine Russia",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "nuclear",
+      "ukraine",
+      "russia",
+      "alerts",
+      "fake",
+      "hacked"
+    ]
+  },
+  {
     "label": "2026 Midterm",
     "count": 5,
     "sources": 4,
@@ -49,19 +62,6 @@
       "midterm",
       "races",
       "things"
-    ]
-  },
-  {
-    "label": "Ukraine Russia",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "nuclear",
-      "russia",
-      "ukraine",
-      "alerts",
-      "fake",
-      "emergency"
     ]
   },
   {
