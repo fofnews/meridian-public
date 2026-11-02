@@ -1,5 +1,18 @@
 [
   {
+    "label": "Case Against",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "against",
+      "judge",
+      "case",
+      "fbi",
+      "officials",
+      "biden"
+    ]
+  },
+  {
     "label": "European Countries",
     "count": 5,
     "sources": 5,
@@ -36,19 +49,6 @@
       "alerts",
       "fake",
       "emergency"
-    ]
-  },
-  {
-    "label": "Case Against",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "judge",
-      "against",
-      "officials",
-      "case",
-      "fbi",
-      "accused"
     ]
   },
   {
