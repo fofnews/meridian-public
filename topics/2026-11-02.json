@@ -1,5 +1,18 @@
 [
   {
+    "label": "European Countries",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "hit",
+      "european",
+      "cyberattacks",
+      "countries",
+      "apparent",
+      "supermarkets"
+    ]
+  },
+  {
     "label": "2026 Midterm",
     "count": 5,
     "sources": 4,
@@ -26,16 +39,16 @@
     ]
   },
   {
-    "label": "European Countries",
-    "count": 4,
-    "sources": 4,
+    "label": "Haley Stevens",
+    "count": 3,
+    "sources": 3,
     "keywords": [
-      "hit",
-      "european",
-      "cyberattacks",
-      "countries",
-      "freezer",
-      "apparent"
+      "haley",
+      "stevens",
+      "political",
+      "suicide",
+      "mission",
+      "caps"
     ]
   },
   {
@@ -88,19 +101,6 @@
       "abdul",
       "haley",
       "mike"
-    ]
-  },
-  {
-    "label": "Trump Makes",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "trump",
-      "final",
-      "makes",
-      "push",
-      "democrats",
-      "2026"
     ]
   }
 ]
