@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Crashes Florida",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "florida",
+      "nine",
+      "jet",
+      "people",
+      "crashes",
+      "board"
+    ]
+  },
+  {
     "label": "Live Updates",
     "count": 5,
     "sources": 5,
@@ -88,19 +101,6 @@
       "valkyries",
       "title",
       "atlanta"
-    ]
-  },
-  {
-    "label": "Michael Mann",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "michael",
-      "mann",
-      "gun",
-      "range",
-      "director",
-      "heat"
     ]
   }
 ]
