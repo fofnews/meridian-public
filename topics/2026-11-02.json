@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Case Against",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "judge",
+      "against",
+      "officials",
+      "case",
+      "fbi",
+      "accused"
+    ]
+  },
+  {
     "label": "Haley Stevens",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "home",
       "year",
       "000"
-    ]
-  },
-  {
-    "label": "Abdul Sayed",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "sayed",
-      "stevens",
-      "rogers",
-      "abdul",
-      "haley",
-      "mike"
     ]
   }
 ]
