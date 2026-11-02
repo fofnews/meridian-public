@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Year Old",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "pilot",
+      "year",
+      "old",
+      "florida",
+      "crash",
+      "learjet"
+    ]
+  },
+  {
     "label": "2026 Midterm",
     "count": 5,
     "sources": 4,
@@ -88,19 +101,6 @@
       "settles",
       "addiction",
       "snap"
-    ]
-  },
-  {
-    "label": "Haley Stevens",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "haley",
-      "stevens",
-      "mike",
-      "rogers",
-      "endorsement",
-      "democrat"
     ]
   }
 ]
