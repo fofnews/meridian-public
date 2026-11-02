@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Supreme Court",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "supreme",
+      "court",
+      "california",
+      "ballot",
+      "trump",
+      "doj"
+    ]
+  },
+  {
     "label": "2026 Midterm",
     "count": 5,
     "sources": 4,
@@ -49,19 +62,6 @@
       "alerts",
       "fake",
       "emergency"
-    ]
-  },
-  {
-    "label": "Supreme Court",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "supreme",
-      "court",
-      "california",
-      "ballot",
-      "doj",
-      "asks"
     ]
   },
   {
