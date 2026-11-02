@@ -1,5 +1,18 @@
 [
   {
+    "label": "Supreme Court",
+    "count": 10,
+    "sources": 9,
+    "keywords": [
+      "supreme",
+      "court",
+      "california",
+      "trump",
+      "asks",
+      "ballot"
+    ]
+  },
+  {
     "label": "Hunter Biden",
     "count": 9,
     "sources": 9,
@@ -10,19 +23,6 @@
       "biden",
       "case",
       "officials"
-    ]
-  },
-  {
-    "label": "Supreme Court",
-    "count": 9,
-    "sources": 8,
-    "keywords": [
-      "supreme",
-      "court",
-      "california",
-      "trump",
-      "ballot",
-      "asks"
     ]
   },
   {
@@ -65,6 +65,32 @@
     ]
   },
   {
+    "label": "Haley Stevens",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "haley",
+      "stevens",
+      "mike",
+      "rogers",
+      "endorsement",
+      "democrat"
+    ]
+  },
+  {
+    "label": "Around World",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "returns",
+      "around",
+      "world",
+      "home",
+      "year",
+      "adventurer"
+    ]
+  },
+  {
     "label": "Ukraine Russia",
     "count": 4,
     "sources": 3,
@@ -75,32 +101,6 @@
       "ceasefire",
       "positions",
       "occupied"
-    ]
-  },
-  {
-    "label": "Haley Stevens",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "haley",
-      "stevens",
-      "political",
-      "suicide",
-      "mission",
-      "caps"
-    ]
-  },
-  {
-    "label": "Crash Final",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "crash",
-      "final",
-      "learjet",
-      "moments",
-      "emerges",
-      "florida"
     ]
   }
 ]
