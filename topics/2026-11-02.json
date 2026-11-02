@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Supreme Court",
+    "count": 8,
+    "sources": 8,
+    "keywords": [
+      "supreme",
+      "court",
+      "california",
+      "trump",
+      "ballot",
+      "asks"
+    ]
+  },
+  {
     "label": "European Countries",
     "count": 6,
     "sources": 6,
@@ -23,19 +36,6 @@
       "apparent",
       "countries",
       "freezers"
-    ]
-  },
-  {
-    "label": "Supreme Court",
-    "count": 6,
-    "sources": 6,
-    "keywords": [
-      "supreme",
-      "court",
-      "california",
-      "ballot",
-      "trump",
-      "asks"
     ]
   },
   {
@@ -91,16 +91,16 @@
     ]
   },
   {
-    "label": "Martha Stewart",
+    "label": "Crash Final",
     "count": 3,
     "sources": 3,
     "keywords": [
-      "martha",
-      "stewart",
-      "halloween",
-      "costume",
-      "lifestyle",
-      "guru"
+      "crash",
+      "final",
+      "learjet",
+      "moments",
+      "emerges",
+      "florida"
     ]
   }
 ]
