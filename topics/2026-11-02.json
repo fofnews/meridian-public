@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Around World",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "returns",
+      "around",
+      "world",
+      "home",
+      "year",
+      "000"
+    ]
+  },
+  {
     "label": "Abdul Sayed",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "push",
       "democrats",
       "2026"
-    ]
-  },
-  {
-    "label": "Ukraine Russia",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "russia",
-      "ukraine",
-      "reuters",
-      "used",
-      "ceasefire",
-      "positions"
     ]
   }
 ]
