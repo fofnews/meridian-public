@@ -8414,5 +8414,249 @@
     "categories": [],
     "collectRun": "2026-11-02T19:00:00.000Z",
     "collectedAt": "2026-11-02T19:00:12.826Z"
+  },
+  {
+    "title": "ABC News Live",
+    "description": "24/7 coverage of breaking news and live events",
+    "link": "https://abcnews.com/video/41463246/",
+    "pubDate": "Mon, 02 Nov 2026 14:10:56 -0500",
+    "source": "ABC News",
+    "categories": [
+      "live"
+    ],
+    "collectRun": "2026-11-02T19:15:00.000Z",
+    "collectedAt": "2026-11-02T19:15:05.940Z"
+  },
+  {
+    "title": "NASA telescope is plunging back to Earth after 22 years in orbit",
+    "description": "The Swift Observatory is barely clinging to space after a failed rescue effort left it tottering lower and lower.",
+    "link": "https://www.cbsnews.com/news/nasa-telescope-swift-observatory-plunging-back-to-earth/",
+    "pubDate": "Mon, 02 Nov 2026 14:00:07 -0500",
+    "source": "CBS News",
+    "categories": [],
+    "collectRun": "2026-11-02T19:15:00.000Z",
+    "collectedAt": "2026-11-02T19:15:05.940Z"
+  },
+  {
+    "title": "NTSB says plane in deadly Florida crash may have broken up in air",
+    "description": "Officials with the NTSB took questions Monday on their investigation into Sunday's plane crash in Palm Beach County, Florida, that killed nine people.",
+    "link": "https://www.cbsnews.com/video/ntsb-takes-questions-on-deadly-palm-beach-florida-plane-crash/",
+    "pubDate": "Mon, 02 Nov 2026 13:56:08 -0500",
+    "source": "CBS News",
+    "categories": [],
+    "collectRun": "2026-11-02T19:15:00.000Z",
+    "collectedAt": "2026-11-02T19:15:05.940Z"
+  },
+  {
+    "title": "Trump delivers remarks on midterms at the Lincoln Memorial Reflecting Pool",
+    "description": "Watch live coverage as President Trump delivers his administration's closing message on the midterm elections from the Lincoln Memorial Reflecting Pool.",
+    "link": "https://www.nbcnews.com/video/watch-live-trump-delivers-remarks-on-midterms-at-the-lincoln-memorial-reflecting-pool-272687173788",
+    "pubDate": "Mon, 02 Nov 2026 14:01:18 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectRun": "2026-11-02T19:15:00.000Z",
+    "collectedAt": "2026-11-02T19:15:05.940Z"
+  },
+  {
+    "title": "Republicans count on Election Day turnout despite enthusiasm gap - The Washington Post",
+    "description": "Republicans count on Election Day turnout despite enthusiasm gap  The Washington Post",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMVlYVUVSdTlQNUNiR3M3UkVXc3pnRVRIb3RCUkNZcDk0dDkwcmtJWTcydWdKUE5EX1NXWkpVOFRTUS1RSnJLWmRiMVJzYlBma3NKQ3h5MGw1MjdQWWQ2M0Z5WGlHeEFlalBGU25KOXJFOWdwdlZQbVRTRGkwTFhfWVhIYnlfRkZEbjVJdWJqemF6R1BFb2ItUGNqVG5xcHNOWjQ3a3kyajZMUS1NNjRfQWxzaw?oc=5",
+    "pubDate": "Mon, 02 Nov 2026 18:00:00 GMT",
+    "source": "Washington Post",
+    "categories": [],
+    "collectRun": "2026-11-02T19:15:00.000Z",
+    "collectedAt": "2026-11-02T19:15:05.940Z"
+  },
+  {
+    "title": "After Israel’s election: What’s next?",
+    "description": "Knesset member Ofer Cassif argues that the ‘politics of exclusion’ keep Israel in political deadlock.",
+    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/11/2/after-israels-election-whats-next?traffic_source=rss",
+    "pubDate": "Mon, 02 Nov 2026 18:32:59 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "tv shows"
+    ],
+    "collectRun": "2026-11-02T19:15:00.000Z",
+    "collectedAt": "2026-11-02T19:15:05.940Z"
+  },
+  {
+    "title": "US petrol prices dip ahead of midterms as voters eye costs",
+    "description": "Diesel prices ease to $6.29 per gallon, offering slight relief amid a global fuel demand squeeze.",
+    "link": "https://www.aljazeera.com/economy/2026/11/2/us-petrol-prices-dip-ahead-of-midterms-as-voters-eye-costs?traffic_source=rss",
+    "pubDate": "Mon, 02 Nov 2026 18:32:30 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-11-02T19:15:00.000Z",
+    "collectedAt": "2026-11-02T19:15:05.940Z"
+  },
+  {
+    "title": "Yemen's Houthis say they launched drones towards Saudi Arabia's Dammam airport - Reuters",
+    "description": "Yemen's Houthis say they launched drones towards Saudi Arabia's Dammam airport  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORzNEMlp2dXhWWEdwUkhIUUNNenRfR21MM3hCZjRBSnc5cTFpVVBqclhIMVMtMGI2aDMzTklBSU9paVZ3Q1FSMHU3T0J6RmxpR2VlUmx1YVZIZzZkSmFycXVUSWNwOTMycnhyMDd0MjNSY2VrVHRxUWcxYndmN2MwWVhlR1YyZ0VqM1VtR0dGT2FuSmtWYlVhSnU3Q3ZrWEpXd3lJX2tFWGllRGoyYnJSQkREWklvRzNiWDZiUXhFZEZzWXNRdUVzT2hR?oc=5",
+    "pubDate": "Mon, 02 Nov 2026 16:16:54 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectRun": "2026-11-02T19:15:00.000Z",
+    "collectedAt": "2026-11-02T19:15:05.940Z"
+  },
+  {
+    "title": "Michael Wilbon to take time away from ‘Pardon the Interruption’",
+    "description": "Longtime sportswriter and television commentator Michael Wilbon is taking an extended break from “Pardon the Interruption,” the long running ESPN debate show, to focus on his health. Wilbon, in a statement posted Monday to social platform X, said he was stepping back from the show indefinitely, though he did not give specifics on what was…",
+    "link": "https://thehill.com/homenews/media/6189567-michael-wilbon-pardon-the-interruption-espn-break/",
+    "pubDate": "\n\t\tMon, 02 Nov 2026 19:08:04 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "in the know",
+      "media",
+      "news",
+      "espn",
+      "mike wilbon",
+      "nba",
+      "pardon the interruption"
+    ],
+    "collectRun": "2026-11-02T19:15:00.000Z",
+    "collectedAt": "2026-11-02T19:15:05.940Z"
+  },
+  {
+    "title": "Boston's Accent Contest Offers an Escape From the Culture Wars",
+    "description": "Boston's accent contest offers a rare lesson for a divided America—identity can bring people together without keeping others out.",
+    "link": "https://www.newsweek.com/boston-accent-contest-logan-airport-culture-wars-12651536",
+    "pubDate": "Mon, 02 Nov 2026 14:03:58 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-02T19:15:00.000Z",
+    "collectedAt": "2026-11-02T19:15:05.940Z"
+  },
+  {
+    "title": "Ja'Marr Chase Throws Zac Taylor Into Spotlight After Bengals' Overtime Win",
+    "description": "Cincinnati has struggled to get its offense going early this season, and Ja'Marr Chase had a pointed response after Sunday's win.",
+    "link": "https://www.newsweek.com/sports/nfl/jamarr-chase-throws-zac-taylor-into-spotlight-after-bengals-overtime-win-12651602",
+    "pubDate": "Mon, 02 Nov 2026 14:00:20 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-02T19:15:00.000Z",
+    "collectedAt": "2026-11-02T19:15:05.940Z"
+  },
+  {
+    "title": "Jonathan Taylor next team odds: Seahawks, Broncos, Giants among favorites to land star running back",
+    "description": "Find out how prediction markets are projecting which teams will trade for the Colts' star running back.",
+    "link": "https://nypost.com/2026/11/02/betting/jonathan-taylor-next-team-odds-broncos-seahawks-giants-among-favorites-to-land-star-running-back/",
+    "pubDate": "Mon, 02 Nov 2026 14:13:57 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-02T19:15:00.000Z",
+    "collectedAt": "2026-11-02T19:15:05.940Z"
+  },
+  {
+    "title": "Mass stabbing rocks California city during Halloween party",
+    "description": "Six people have been injured in a mass stabbing at a Halloween party in California overnight Sunday.",
+    "link": "https://nypost.com/2026/11/02/us-news/socal-mass-stabbing-at-halloween-party-leaves-multiple-people-injured/",
+    "pubDate": "Mon, 02 Nov 2026 14:13:41 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-02T19:15:00.000Z",
+    "collectedAt": "2026-11-02T19:15:05.940Z"
+  },
+  {
+    "title": "The top 3 protein-based foods with the most microplastics — regardless of brand or store: study",
+    "description": "and co-author of the study, said in a press release.",
+    "link": "https://nypost.com/2026/11/02/health/the-top-3-protein-based-foods-with-the-most-microplastics/",
+    "pubDate": "Mon, 02 Nov 2026 14:11:58 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-02T19:15:00.000Z",
+    "collectedAt": "2026-11-02T19:15:05.940Z"
+  },
+  {
+    "title": "‘RHOP’ recap: Wendy grills Tia & Rob over dating app scandal",
+    "description": "“Virtual Reali-Tea” co-hosts Danny Murphy and Evan Real unpack season 11, episode 4 of the “Real Housewives of Potomac.” Wendy Osefo questions Tia Glover’s husband, Rob, about why he uses dating apps. Karen Huger has a tough conversation with Ray, and newbie Courtney Ajinça opens up about her prophetic ways. Check out the full recap...",
+    "link": "https://pagesix.com/video/rhop-recap-wendy-grills-tia-rob-over-dating-app-scandal/",
+    "pubDate": "Mon, 02 Nov 2026 14:10:51 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-02T19:15:00.000Z",
+    "collectedAt": "2026-11-02T19:15:05.940Z"
+  },
+  {
+    "title": "LA restaurant ‘blacklists’ furious diners over tipping drama",
+    "description": "No soup for you!",
+    "link": "https://nypost.com/2026/11/02/lifestyle/la-restaurant-blacklists-diners-after-refusing-to-pay-automatic-gratuity/",
+    "pubDate": "Mon, 02 Nov 2026 14:10:21 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-02T19:15:00.000Z",
+    "collectedAt": "2026-11-02T19:15:05.940Z"
+  },
+  {
+    "title": "Lakers coach makes stern demand of players  or else: ‘I’ll take these guys out’",
+    "description": "Lakers players better start letting it fly, or else.",
+    "link": "https://nypost.com/2026/11/02/sports/lakers-coach-jj-redick-demands-players-shoot-open-shots/",
+    "pubDate": "Mon, 02 Nov 2026 14:08:42 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-02T19:15:00.000Z",
+    "collectedAt": "2026-11-02T19:15:05.940Z"
+  },
+  {
+    "title": "NTSB reveals chilling details of Florida Learjet crash as agency probes Nathalia Filgueiras’ role in incident",
+    "description": "The doomed $2 million private plane was flying through temperatures of -50 degrees Fahrenheit and started to pick up ice and hit heavy turbulence, authorities said.",
+    "link": "https://nypost.com/2026/11/02/us-news/ntsb-reveals-chilling-details-of-florida-learjet-crash-as-agency-probes-nathalia-filgueiras/",
+    "pubDate": "Mon, 02 Nov 2026 14:07:21 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-02T19:15:00.000Z",
+    "collectedAt": "2026-11-02T19:15:05.940Z"
+  },
+  {
+    "title": "James Bond frontrunner Jack Lowden breaks silence on ‘flattering’ casting rumors",
+    "description": "The \"Slow Horses\" actor and Callum Turner were named to be among the finalist to portray the special agent in the upcoming reboot.",
+    "link": "https://pagesix.com/2026/11/02/entertainment/james-bond-frontrunner-jack-lowden-breaks-silence-on-casting-rumors/",
+    "pubDate": "Mon, 02 Nov 2026 14:06:42 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-02T19:15:00.000Z",
+    "collectedAt": "2026-11-02T19:15:05.940Z"
+  },
+  {
+    "title": "‘In the City’ Season 2 new cast members revealed after Amanda Batula exit",
+    "description": "Bravo's \"In the City\" Season 2 adds five new cast members as Amanda Batula and Danielle Olivera exit.",
+    "link": "https://pagesix.com/2026/11/02/entertainment/in-the-city-season-2-new-cast-members-revealed-after-amanda-batula-exit/",
+    "pubDate": "Mon, 02 Nov 2026 14:03:54 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-02T19:15:00.000Z",
+    "collectedAt": "2026-11-02T19:15:05.940Z"
+  },
+  {
+    "title": "Jets gave Raiders’ star a homecoming gift 15 years in the making",
+    "description": "Raiders special teams get a homecoming present from the Jets",
+    "link": "https://nypost.com/2026/11/02/sports/jets-gave-raiders-star-homecoming-gift-15-years-making/",
+    "pubDate": "Mon, 02 Nov 2026 14:03:30 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-02T19:15:00.000Z",
+    "collectedAt": "2026-11-02T19:15:05.940Z"
+  },
+  {
+    "title": "Russia kills at least 24 in horrific bombing on Ukraine school",
+    "description": "27 people are still missing from the attack, as responders try to reach those potentially still trapped under the rubble.",
+    "link": "https://nypost.com/2026/11/02/world-news/russia-kills-24-in-latest-ukraine-bombing-including-attack-on-local-village-school/",
+    "pubDate": "Mon, 02 Nov 2026 14:01:48 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-02T19:15:00.000Z",
+    "collectedAt": "2026-11-02T19:15:05.940Z"
+  },
+  {
+    "title": "What Time Is ‘The Voice’ On Tonight? How To Watch ‘The Voice’s “Cut Week” Episode At Its Special Start Time",
+    "description": "New time, same Voice.",
+    "link": "https://decider.com/2026/11/02/the-voice-what-time-tonight-cut-week-the-voice-new-start-time-watch/",
+    "pubDate": "Mon, 02 Nov 2026 14:00:00 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-02T19:15:00.000Z",
+    "collectedAt": "2026-11-02T19:15:05.940Z"
   }
 ]
