@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Election Night",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "watch",
+      "election",
+      "2026",
+      "midterm",
+      "races",
+      "night"
+    ]
+  },
+  {
     "label": "Ukraine Russia",
     "count": 5,
     "sources": 5,
@@ -75,19 +88,6 @@
       "florida",
       "crash",
       "learjet"
-    ]
-  },
-  {
-    "label": "2026 Midterm",
-    "count": 5,
-    "sources": 4,
-    "keywords": [
-      "watch",
-      "election",
-      "2026",
-      "midterm",
-      "races",
-      "things"
     ]
   },
   {
