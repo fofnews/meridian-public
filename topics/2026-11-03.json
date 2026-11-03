@@ -65,6 +65,32 @@
     ]
   },
   {
+    "label": "Aid Israel",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "end",
+      "trump",
+      "israel",
+      "aid",
+      "year",
+      "don"
+    ]
+  },
+  {
+    "label": "Escaped Tennessee",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "tennessee",
+      "escaped",
+      "captured",
+      "week",
+      "inmate",
+      "murderer"
+    ]
+  },
+  {
     "label": "Election Day",
     "count": 5,
     "sources": 4,
@@ -75,32 +101,6 @@
       "day",
       "line",
       "live"
-    ]
-  },
-  {
-    "label": "Death Years",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "measles",
-      "years",
-      "york",
-      "death",
-      "child",
-      "dies"
-    ]
-  },
-  {
-    "label": "Qeshm Island",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "iran",
-      "qeshm",
-      "island",
-      "strikes",
-      "wsj",
-      "peace"
     ]
   }
 ]
