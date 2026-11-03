@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Lebron James",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "lebron",
+      "james",
+      "wine",
+      "fan",
+      "viral",
+      "mid"
+    ]
+  },
+  {
     "label": "Miguel Dies",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "polls",
       "open",
       "close"
-    ]
-  },
-  {
-    "label": "Luka Don",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "luka",
-      "lakers",
-      "don",
-      "continues",
-      "kobe",
-      "bryant"
     ]
   }
 ]
