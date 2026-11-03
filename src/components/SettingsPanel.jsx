@@ -3,6 +3,7 @@ import { X } from 'lucide-react';
 import { useTheme } from '../ThemeContext.jsx';
 import { useSettings } from '../SettingsContext.jsx';
 import { DEFAULTS, clearAllStored } from '../settings.js';
+import { useIsPhone } from '../useIsPhone.js';
 
 const LABEL = { fontFamily: 'var(--font-label)' };
 const TABS = [
@@ -101,6 +102,7 @@ export default function SettingsPanel({
 }) {
   const { preference, setPreference } = useTheme();
   const settings = useSettings();
+  const isPhone = useIsPhone();
   const panelRef = useRef(null);
   const tabRefs = useRef({});
   const [note, setNote] = useState('');
@@ -166,6 +168,19 @@ export default function SettingsPanel({
     setNote('Settings and read history cleared.');
   };
 
+  const panelStyle = isPhone ? {
+    position: 'absolute', top: 56, left: 0, right: 0, bottom: 0,
+    background: 'var(--bg-secondary)',
+    borderTop: '1px solid var(--border-primary)',
+    borderRadius: '14px 14px 0 0',
+    display: 'flex', flexDirection: 'column',
+    boxShadow: '0 -8px 32px rgba(0,0,0,0.28)',
+  } : {
+    position: 'absolute', top: 0, right: 0, bottom: 0, width: 440, maxWidth: '100vw',
+    background: 'var(--bg-secondary)', borderLeft: '1px solid var(--border-primary)',
+    display: 'flex', flexDirection: 'column', boxShadow: '-8px 0 32px rgba(0,0,0,0.28)',
+  };
+
   return (
     <div style={{ position: 'fixed', inset: 0, zIndex: 60 }}>
       <div onClick={onClose} aria-hidden="true" style={{ position: 'absolute', inset: 0, background: 'var(--scrim)' }} />
@@ -174,13 +189,15 @@ export default function SettingsPanel({
         role="dialog"
         aria-modal="true"
         aria-label="Settings"
-        style={{
-          position: 'absolute', top: 0, right: 0, bottom: 0, width: 440, maxWidth: '100vw',
-          background: 'var(--bg-secondary)', borderLeft: '1px solid var(--border-primary)',
-          display: 'flex', flexDirection: 'column', boxShadow: '-8px 0 32px rgba(0,0,0,0.28)',
-        }}
+        className={isPhone ? 'sheet-slide-up' : ''}
+        style={panelStyle}
       >
-        <div className="flex items-center justify-between" style={{ padding: '8px 8px 0 24px' }}>
+        {isPhone && (
+          <div aria-hidden="true" style={{ display: 'flex', justifyContent: 'center', padding: '10px 0 4px' }}>
+            <div style={{ width: 36, height: 4, borderRadius: 2, background: 'var(--border-primary)' }} />
+          </div>
+        )}
+        <div className="flex items-center justify-between" style={{ padding: isPhone ? '4px 8px 0 24px' : '8px 8px 0 24px' }}>
           <h2 style={{ fontFamily: 'var(--font-display)', fontSize: 24, fontWeight: 600, color: 'var(--text-primary)' }}>Settings</h2>
           <button
             data-autofocus
@@ -193,7 +210,13 @@ export default function SettingsPanel({
           </button>
         </div>
 
-        <div role="tablist" aria-label="Settings sections" onKeyDown={onTabKey} className="flex" style={{ padding: '0 24px', borderBottom: '1px solid var(--border-primary)', gap: 4 }}>
+        <div
+          role="tablist"
+          aria-label="Settings sections"
+          onKeyDown={onTabKey}
+          className="flex"
+          style={{ padding: isPhone ? '0' : '0 24px', borderBottom: '1px solid var(--border-primary)', gap: 4 }}
+        >
           {TABS.map(t => (
             <button
               key={t.id}
@@ -206,7 +229,10 @@ export default function SettingsPanel({
               onClick={() => onTabChange(t.id)}
               className="cursor-pointer"
               style={{
-                ...LABEL, fontSize: 14, fontWeight: 600, minHeight: 44, padding: '0 12px', background: 'none', border: 'none',
+                ...LABEL, fontSize: 14, fontWeight: 600, minHeight: 44,
+                padding: isPhone ? '0' : '0 12px',
+                flex: isPhone ? '1 1 0' : undefined,
+                background: 'none', border: 'none',
                 color: tab === t.id ? 'var(--gold-text)' : 'var(--text-secondary)',
                 borderBottom: `2px solid ${tab === t.id ? 'var(--gold-text)' : 'transparent'}`, marginBottom: -1,
               }}

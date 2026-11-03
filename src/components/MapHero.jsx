@@ -8,6 +8,7 @@
 import { useState, useEffect, useRef } from 'react';
 import { Settings } from 'lucide-react';
 import { useTheme } from '../ThemeContext.jsx';
+import { useIsPhone } from '../useIsPhone.js';
 import { useMeridianMap } from '../map/useMeridianMap.js';
 import { fetchBoundaryPolygon, geocodeStory } from '../map/geocoding.js';
 import { FOCUSED_PITCH_WEBSITE } from '../map/camera.js';
@@ -53,9 +54,14 @@ export default function MapHero({
   mapVisible,
   onMapVisibleChange,
   onOpenSettings,
+  storyOpen = false,
+  openStoryTitle = '',
+  onCloseStory,
 }) {
   const { isDark } = useTheme();
+  const isPhone = useIsPhone();
   const [activeLocIdx, setActiveLocIdx] = useState(0);
+  const [storyHeaderVisible, setStoryHeaderVisible] = useState(true);
   const [expanded, setExpanded] = useState(false);
   const [mapEnabled] = useState(() => localStorage.getItem('meridian-map') !== 'false');
   // Latches true the first time the map is shown; gates map creation so a reader
@@ -69,16 +75,19 @@ export default function MapHero({
     mapEnabled: mapEnabled && (hasBeenShown || mapVisible),
     isDark,
     focusPitch: FOCUSED_PITCH_WEBSITE,
+    gesturesEnabled: !isPhone || expanded,
   });
 
   // Persist map preferences
   useEffect(() => { localStorage.setItem('meridian-map', mapEnabled); }, [mapEnabled]);
 
-  // Resize map when expanded or visibility changes
+  // Resize map when expanded, visibility, or phone story-open state changes.
+  // On phones the height animates over 200ms, so delay past the transition.
   useEffect(() => {
-    const id = setTimeout(() => mapRef.current?.resize(), 50);
+    const delay = isPhone && !expanded ? 220 : 50;
+    const id = setTimeout(() => mapRef.current?.resize(), delay);
     return () => clearTimeout(id);
-  }, [expanded, mapVisible, mapRef]);
+  }, [expanded, mapVisible, storyOpen, isPhone, mapRef]);
 
   // Escape key to collapse fullscreen
   useEffect(() => {
@@ -87,6 +96,23 @@ export default function MapHero({
     window.addEventListener('keydown', handler);
     return () => window.removeEventListener('keydown', handler);
   }, [expanded]);
+
+  // On phones, swap the strip to show the open story's title once its header
+  // scrolls above the sticky strip. Reset to visible whenever story closes.
+  useEffect(() => {
+    if (!isPhone || !storyOpen) {
+      setStoryHeaderVisible(true);
+      return;
+    }
+    const el = document.querySelector('[data-story-open-header]');
+    if (!el) return;
+    const stripH = stickyRef.current?.offsetHeight ?? 60;
+    const observer = new IntersectionObserver(([entry]) => {
+      setStoryHeaderVisible(entry.isIntersecting);
+    }, { root: null, rootMargin: `-${stripH}px 0px 0px 0px`, threshold: 0 });
+    observer.observe(el);
+    return () => observer.disconnect();
+  }, [isPhone, storyOpen]);
 
   const featured = featuredStory;
   const featuredLocations = featured?.analysis?.locations?.filter(l => l?.lat != null && l?.lng != null) ?? [];
@@ -143,12 +169,20 @@ export default function MapHero({
     ? 'radial-gradient(ellipse at 52% 48%, rgba(10,13,20,0.3) 0%, rgba(10,13,20,0.75) 100%)'
     : 'radial-gradient(ellipse at 52% 48%, rgba(244,240,232,0.1) 0%, rgba(244,240,232,0.45) 100%)';
 
+  const phoneHeight = storyOpen ? '120px' : 'clamp(180px, 28vh, 240px)';
   const containerStyle = expanded
     ? { position: 'fixed', inset: 0, zIndex: 50, width: '100vw', height: '100vh' }
-    : { height: 'clamp(220px, 45vh, 560px)', zIndex: 20 };
+    : {
+        height: isPhone ? phoneHeight : 'clamp(220px, 45vh, 560px)',
+        zIndex: 20,
+        transition: isPhone ? 'height 200ms ease' : undefined,
+      };
 
   const analysisTime = formatAnalysisTime(fetchedAt);
   const nextEdition = isLatest ? (edition === 'evening' ? '7:20 AM' : edition === 'morning' ? '5:20 PM' : '') : '';
+
+  // On phones with a story open and header scrolled away: show title + close
+  const stripShowsTitle = isPhone && storyOpen && !storyHeaderVisible;
 
   // Sober status strip — replaces the chyron + ticker + LIVE badge.
   const statusStrip = (
@@ -158,70 +192,92 @@ export default function MapHero({
         background: 'var(--bg-secondary)',
         borderTop: '1px solid var(--border-primary)',
         borderBottom: '1px solid var(--border-primary)',
-        padding: '8px clamp(12px, 3%, 24px)',
+        padding: isPhone ? '0px clamp(12px, 3%, 16px)' : '8px clamp(12px, 3%, 24px)',
+        minHeight: isPhone ? 44 : undefined,
       }}
     >
-      <div className="flex items-center gap-3 min-w-0">
-        <span
-          className="font-display font-black tracking-[3px] uppercase shrink-0"
-          style={{ color: 'var(--text-primary)', fontSize: 12 }}
-        >
-          The Meridian
-        </span>
-        {edition && edition !== 'manual' && EDITION_LABELS[edition] && (
-          <span className={`flex items-center gap-3 shrink-0${availableEditions.length > 1 ? ' hero-edition-tag' : ''}`}>
-            <span style={{ color: 'var(--border-dim)' }}>·</span>
-            <span
-              className="uppercase"
-              style={{ color: 'var(--accent)', fontSize: 11, letterSpacing: '1.5px', fontWeight: 600 }}
-            >
-              {EDITION_LABELS[edition]}
-            </span>
-          </span>
-        )}
-        {selectedDate && (
-          <>
-            <span style={{ color: 'var(--border-dim)' }}>·</span>
-            <span className="truncate" style={{ color: textAlpha60, fontSize: 11, letterSpacing: '0.5px' }}>
-              {formatReportDate(selectedDate)}
-            </span>
-          </>
-        )}
-      </div>
-      <div className="flex items-center gap-3 shrink-0">
-        {availableEditions.length > 1 && (
-          <div className="flex gap-1.5">
-            {availableEditions.filter(e => e !== 'manual').map(e => (
-              <button
-                key={e}
-                onClick={() => onEditionSelect(e)}
-                className="cursor-pointer transition-all"
-                style={{
-                  background: edition === e ? 'rgba(232,197,71,0.12)' : 'transparent',
-                  border: `1px solid ${edition === e ? 'var(--hero-border-active)' : 'var(--hero-border)'}`,
-                  color: edition === e ? 'var(--accent)' : textAlpha60,
-                  fontSize: 10,
-                  letterSpacing: '1.5px',
-                  textTransform: 'uppercase',
-                  padding: '2px 8px',
-                }}
-              >
-                {EDITION_LABELS[e] ?? e}
-              </button>
-            ))}
-          </div>
-        )}
-        {analysisTime && (
+      {stripShowsTitle ? (
+        <>
           <span
-            className="hero-clock"
-            style={{ color: 'var(--label)', fontFamily: 'var(--font-label)', fontSize: 11 }}
+            className="truncate"
+            style={{ color: 'var(--text-primary)', fontFamily: 'var(--font-body)', fontSize: 15, fontWeight: 600, flex: 1, marginRight: 8 }}
           >
-            Analysis run at {analysisTime}
-            {nextEdition && ` · Next edition around ${nextEdition}`}
+            {openStoryTitle}
           </span>
-        )}
-        <GearButton onClick={onOpenSettings} />
-      </div>
+          <button
+            onClick={onCloseStory}
+            aria-label="Close story"
+            style={{ width: 44, height: 44, display: 'flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0, color: 'var(--text-muted)', background: 'none', border: 'none', fontSize: 20, cursor: 'pointer' }}
+          >
+            ×
+          </button>
+        </>
+      ) : (
+        <>
+          <div className="flex items-center gap-3 min-w-0">
+            <span
+              className="font-display font-black tracking-[3px] uppercase shrink-0"
+              style={{ color: 'var(--text-primary)', fontSize: 12 }}
+            >
+              The Meridian
+            </span>
+            {!isPhone && edition && edition !== 'manual' && EDITION_LABELS[edition] && (
+              <span className={`flex items-center gap-3 shrink-0${availableEditions.length > 1 ? ' hero-edition-tag' : ''}`}>
+                <span style={{ color: 'var(--border-dim)' }}>·</span>
+                <span
+                  className="uppercase"
+                  style={{ color: 'var(--accent)', fontSize: 11, letterSpacing: '1.5px', fontWeight: 600 }}
+                >
+                  {EDITION_LABELS[edition]}
+                </span>
+              </span>
+            )}
+            {!isPhone && selectedDate && (
+              <>
+                <span style={{ color: 'var(--border-dim)' }}>·</span>
+                <span className="truncate" style={{ color: textAlpha60, fontSize: 11, letterSpacing: '0.5px' }}>
+                  {formatReportDate(selectedDate)}
+                </span>
+              </>
+            )}
+          </div>
+          <div className="flex items-center gap-3 shrink-0">
+            {availableEditions.length > 1 && (
+              <div className="flex gap-1.5">
+                {availableEditions.filter(e => e !== 'manual').map(e => (
+                  <button
+                    key={e}
+                    onClick={() => onEditionSelect(e)}
+                    className="cursor-pointer transition-all"
+                    style={{
+                      background: edition === e ? 'rgba(232,197,71,0.12)' : 'transparent',
+                      border: `1px solid ${edition === e ? 'var(--hero-border-active)' : 'var(--hero-border)'}`,
+                      color: edition === e ? 'var(--accent)' : textAlpha60,
+                      fontSize: 10,
+                      letterSpacing: '1.5px',
+                      textTransform: 'uppercase',
+                      padding: '2px 8px',
+                      ...(isPhone ? { height: 32, lineHeight: '32px' } : {}),
+                    }}
+                  >
+                    {EDITION_LABELS[e] ?? e}
+                  </button>
+                ))}
+              </div>
+            )}
+            {!isPhone && analysisTime && (
+              <span
+                className="hero-clock"
+                style={{ color: 'var(--label)', fontFamily: 'var(--font-label)', fontSize: 11 }}
+              >
+                Analysis run at {analysisTime}
+                {nextEdition && ` · Next edition around ${nextEdition}`}
+              </span>
+            )}
+            <GearButton onClick={onOpenSettings} />
+          </div>
+        </>
+      )}
     </div>
   );
 
@@ -264,6 +320,17 @@ export default function MapHero({
 
         {mapEnabled && <div className="absolute inset-0 pointer-events-none" style={{ background: overlayGrad }} />}
 
+        {/* On phones the inline map is not interactive — tap anywhere to go fullscreen */}
+        {isPhone && !expanded && (
+          <div
+            className="absolute inset-0"
+            style={{ zIndex: 5, cursor: 'pointer' }}
+            onClick={() => setExpanded(true)}
+            aria-label="Expand map"
+            role="button"
+          />
+        )}
+
         {/* Location buttons */}
         {featuredLocations.length > 1 && (
           <div
@@ -303,7 +370,7 @@ export default function MapHero({
           className="absolute flex flex-col gap-1.5"
           style={{ top: '50%', transform: 'translateY(-50%)', right: 8, zIndex: 10 }}
         >
-          {['+', '−'].map((label, i) => (
+          {!isPhone && ['+', '−'].map((label, i) => (
             <button
               key={label}
               onClick={() => i === 0 ? mapRef.current?.zoomIn() : mapRef.current?.zoomOut()}
@@ -332,9 +399,9 @@ export default function MapHero({
               background: btnBg,
               border: '1px solid var(--hero-border)',
               color: textAlpha70,
-              fontSize: 'clamp(12px, 1.3vw, 17px)',
-              width: 'clamp(28px, 3vw, 40px)',
-              height: 'clamp(28px, 3vw, 40px)',
+              fontSize: isPhone ? 17 : 'clamp(12px, 1.3vw, 17px)',
+              width: isPhone ? 44 : 'clamp(28px, 3vw, 40px)',
+              height: isPhone ? 44 : 'clamp(28px, 3vw, 40px)',
               display: 'flex',
               alignItems: 'center',
               justifyContent: 'center',

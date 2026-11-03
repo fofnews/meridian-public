@@ -1,9 +1,10 @@
-import { useState, useRef } from 'react';
+import { useState, useRef, useEffect } from 'react';
 import { Minus } from 'lucide-react';
 import { useSettings } from '../SettingsContext.jsx';
 import { leanColor } from './SourceBadge';
 import { decodeText, formatAnalysisTime } from '../utils';
 import { leanOf, outletCount } from '../shared/source-leans.js';
+import { useIsPhone } from '../useIsPhone.js';
 import {
   LEAN_KEYS, LEAN_LABELS, coveringOutlets, normalizeClaims, groupClaimsByTier,
   coverageByLean, gapNote, headlinesByLean, buildThreads,
@@ -16,12 +17,15 @@ const TIERS = [
   { key: 'single', title: 'Reported by one outlet, not confirmed elsewhere', color: 'var(--label)', size: 15, text: 'var(--text-muted)' },
 ];
 
-function CoveragePanel({ leans, articles }) {
+function CoveragePanel({ leans, articles, isPhone }) {
   const coverage = coverageByLean(leans, articles);
   const compared = coveringOutlets(articles).length;
   const note = gapNote(coverage);
+  const borderStyle = isPhone
+    ? { borderTop: '1px solid var(--border-primary)', paddingTop: 16, marginTop: 4 }
+    : { borderLeft: '1px solid var(--border-primary)', paddingLeft: 24 };
   return (
-    <aside className="md:pl-6" style={{ borderLeft: '1px solid var(--border-primary)' }} aria-label="Outlet coverage">
+    <aside style={borderStyle} aria-label="Outlet coverage">
       <div style={{ fontFamily: 'var(--font-display)', fontSize: 19, color: 'var(--text-primary)' }}>
         Compared: <b style={{ color: 'var(--gold-text)' }}>{compared}</b> of {outletCount(leans)} outlets
       </div>
@@ -46,10 +50,11 @@ function CoveragePanel({ leans, articles }) {
       <div className="mt-3 space-y-1" style={{ ...LABEL_FONT, fontSize: 12 }}>
         {LEAN_KEYS.map(k => {
           const names = coverage[k].filter(o => o.covered).map(o => o.name);
+          if (isPhone && names.length === 0) return null;
           return (
             <div key={k} className="flex gap-2">
               <span className="shrink-0 font-semibold" style={{ width: 56, color: leanColor(k) }}>{LEAN_LABELS[k]}</span>
-              <span style={{ color: names.length ? 'var(--text-secondary)' : 'var(--label)' }}>{names.length ? names.join(', ') : 'none'}</span>
+              <span style={{ color: 'var(--text-secondary)' }}>{names.join(', ')}</span>
             </div>
           );
         })}
@@ -147,7 +152,7 @@ function HeadlineLink({ article, color }) {
   );
 }
 
-function DisagreementsTab({ analysis, leans, total }) {
+function DisagreementsTab({ analysis, leans, total, isPhone }) {
   const items = analysis.disagreements ?? [];
   if (items.length === 0) {
     return <p style={{ ...LABEL_FONT, fontSize: 14, color: 'var(--label)' }}>No disagreements found among the {total} outlets.</p>;
@@ -157,17 +162,31 @@ function DisagreementsTab({ analysis, leans, total }) {
       {items.map((d, i) => (
         <section key={i}>
           <h4 style={{ fontFamily: 'var(--font-display)', fontSize: 21, fontWeight: 600, color: 'var(--text-primary)' }}>{d.topic}</h4>
-          <div className="grid gap-3 mt-3" style={{ gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))' }}>
-            {(d.positions ?? []).map((p, j) => {
-              const c = leanColor(leanOf(leans, p.source));
-              return (
-                <div key={j} className="p-3" style={{ background: 'var(--bg-card)', borderTop: `3px solid ${c}`, borderRadius: 4 }}>
-                  <div className="font-semibold" style={{ ...LABEL_FONT, fontSize: 13, color: c }}>{p.source}</div>
-                  <p className="mt-1" style={{ fontFamily: 'var(--font-body)', fontSize: 16, lineHeight: 1.5, color: 'var(--text-secondary)' }}>{p.position}</p>
-                </div>
-              );
-            })}
-          </div>
+          {isPhone ? (
+            <div className="space-y-3 mt-3">
+              {(d.positions ?? []).map((p, j) => {
+                const c = leanColor(leanOf(leans, p.source));
+                return (
+                  <div key={j}>
+                    <div className="font-semibold" style={{ ...LABEL_FONT, fontSize: 13, color: c }}>{p.source}</div>
+                    <p style={{ fontFamily: 'var(--font-body)', fontSize: 16, lineHeight: 1.5, color: 'var(--text-secondary)' }}>{p.position}</p>
+                  </div>
+                );
+              })}
+            </div>
+          ) : (
+            <div className="grid gap-3 mt-3" style={{ gridTemplateColumns: 'repeat(auto-fit, minmax(220px, 1fr))' }}>
+              {(d.positions ?? []).map((p, j) => {
+                const c = leanColor(leanOf(leans, p.source));
+                return (
+                  <div key={j} className="p-3" style={{ background: 'var(--bg-card)', borderTop: `3px solid ${c}`, borderRadius: 4 }}>
+                    <div className="font-semibold" style={{ ...LABEL_FONT, fontSize: 13, color: c }}>{p.source}</div>
+                    <p className="mt-1" style={{ fontFamily: 'var(--font-body)', fontSize: 16, lineHeight: 1.5, color: 'var(--text-secondary)' }}>{p.position}</p>
+                  </div>
+                );
+              })}
+            </div>
+          )}
         </section>
       ))}
     </div>
@@ -223,9 +242,17 @@ function SinglesThread({ singles, leans }) {
   );
 }
 
-function ThreadButtons({ threads, thread, onPick }) {
+function ThreadButtons({ threads, thread, onPick, isPhone }) {
+  // Phone: 2 threads → side by side compact; 3+ → horizontal scroll, each up to 70% width
+  const phoneScroll = isPhone && threads.length >= 3;
+  const phoneCompact = isPhone && threads.length === 2;
   return (
-    <div className="flex flex-wrap gap-2 mt-5">
+    <div
+      className="flex mt-5"
+      style={phoneScroll
+        ? { gap: 8, overflowX: 'auto', scrollbarWidth: 'none' }
+        : { gap: 8, flexWrap: isPhone ? 'nowrap' : 'wrap' }}
+    >
       {threads.map((t, i) => {
         const sel = thread === i;
         return (
@@ -233,17 +260,29 @@ function ThreadButtons({ threads, thread, onPick }) {
             key={i}
             aria-pressed={sel}
             onClick={() => onPick(i)}
-            className="cursor-pointer text-left grid gap-2.5"
+            className="cursor-pointer text-left"
             style={{
-              flex: '1 1 280px', gridTemplateColumns: '22px minmax(0, 1fr)', padding: '12px 14px', minHeight: 44, borderRadius: 6,
+              ...(phoneScroll ? { flexShrink: 0, width: '70%' } : phoneCompact ? { flex: '1 1 0', minWidth: 0 } : { flex: '1 1 280px' }),
+              padding: isPhone ? '10px 12px' : '12px 14px',
+              minHeight: 44,
+              borderRadius: 6,
               background: sel ? 'var(--bg-card)' : 'transparent',
               border: `1px solid ${sel ? 'var(--gold-text)' : 'var(--border-primary)'}`,
               color: 'var(--text-primary)',
             }}
           >
-            <span className="font-bold" style={{ ...LABEL_FONT, fontSize: 13, paddingTop: 3, color: sel ? 'var(--gold-text)' : 'var(--label)' }}>{i + 1}</span>
-            <span className="block min-w-0">
-              <span className="block font-semibold" style={{ fontFamily: 'var(--font-display)', fontSize: 18, lineHeight: 1.25 }}>{t.title}</span>
+            <span className="block min-w-0 overflow-hidden">
+              <span
+                className="block font-semibold"
+                style={{
+                  fontFamily: 'var(--font-display)',
+                  fontSize: isPhone ? 13 : 18,
+                  lineHeight: 1.3,
+                  ...(isPhone ? { display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' } : {}),
+                }}
+              >
+                {t.title}
+              </span>
               <span className="block mt-1" style={{ ...LABEL_FONT, fontSize: 12, color: 'var(--label)' }}>{t.meta}</span>
             </span>
           </button>
@@ -258,12 +297,26 @@ export default function OpenStory({ story: lead, leans, fetchedAt, group = null,
   const [tab, setTab] = useState(startTab);
   const [thread, setThread] = useState(0);
   const tabRefs = useRef({});
+  const tabRowRef = useRef(null);
+  const tabPanelRef = useRef(null);
+  const isPhone = useIsPhone();
   const { compared, singles } = group ? buildThreads(group.stories, lead) : { compared: [lead], singles: [] };
   const singleOutlets = coveringOutlets(singles.flatMap(s => s.articles));
   const showSingles = singles.length > 0 && thread === compared.length;
   const story = compared[showSingles ? 0 : Math.min(thread, compared.length - 1)];
   const { analysis, articles } = story;
   const pickThread = i => { setThread(i); setTab(startTab); };
+
+  // On phones: when tab changes and the tab row is pinned at the top,
+  // scroll so the content panel starts just below the tab row.
+  useEffect(() => {
+    if (!isPhone || !tabRowRef.current || !tabPanelRef.current) return;
+    const rowRect = tabRowRef.current.getBoundingClientRect();
+    const stickyH = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--map-sticky-height')) || 0;
+    if (rowRect.top > stickyH + 20) return; // tab row not yet pinned
+    const targetY = window.scrollY + tabPanelRef.current.getBoundingClientRect().top - rowRect.bottom;
+    window.scrollTo({ top: targetY, behavior: 'smooth' });
+  }, [tab, isPhone]); // eslint-disable-line react-hooks/exhaustive-deps
   const threads = [
     ...compared.map(s => ({
       title: decodeText(s.headline),
@@ -309,7 +362,7 @@ export default function OpenStory({ story: lead, leans, fetchedAt, group = null,
   };
 
   return (
-    <div className="px-6 py-6" style={{ borderTop: '1px solid var(--border-primary)', zoom: 'var(--text-scale)' }}>
+    <div className={isPhone ? 'px-4 py-6' : 'px-6 py-6'} style={{ borderTop: '1px solid var(--border-primary)', zoom: 'var(--text-scale)' }}>
       {locations.length > 0 && (
         <div className="font-semibold" style={{ ...LABEL_FONT, fontSize: 13, color: 'var(--gold-text)' }}>{locations.join(' · ')}</div>
       )}
@@ -322,7 +375,7 @@ export default function OpenStory({ story: lead, leans, fetchedAt, group = null,
           <div className="mt-2" style={{ ...LABEL_FONT, fontSize: 13, color: 'var(--label)' }}>
             {plural(group.sources.length, 'outlet')} in all · {plural(outlets.length, 'outlet')} compared · {plural(singles.length, 'single-outlet report')}
           </div>
-          {threads.length > 1 && <ThreadButtons thread={thread} onPick={pickThread} threads={threads} />}
+          {threads.length > 1 && <ThreadButtons thread={thread} onPick={pickThread} threads={threads} isPhone={isPhone} />}
         </>
       )}
 
@@ -331,12 +384,30 @@ export default function OpenStory({ story: lead, leans, fetchedAt, group = null,
       {group && (
         <p className="mt-5" style={{ fontFamily: 'var(--font-display)', fontSize: 20, lineHeight: 1.3, color: 'var(--text-primary)' }}>{decodeText(story.headline)}</p>
       )}
-      <div className="grid gap-6 mt-5 md:grid-cols-[minmax(0,1fr)_320px]">
+      <div className={isPhone ? 'mt-5' : 'grid gap-6 mt-5 md:grid-cols-[minmax(0,1fr)_320px]'}>
         <p style={{ fontFamily: 'var(--font-body)', fontSize: 18, lineHeight: 1.6, color: 'var(--text-secondary)' }}>{analysis.summary}</p>
-        <CoveragePanel leans={leans} articles={articles} />
+        <CoveragePanel leans={leans} articles={articles} isPhone={isPhone} />
       </div>
 
-      <div role="tablist" aria-label="Story sections" className="flex gap-6 mt-8" style={{ borderBottom: '1px solid var(--border-primary)' }} onKeyDown={onTabKey}>
+      <div
+        ref={tabRowRef}
+        role="tablist"
+        aria-label="Story sections"
+        className="flex mt-8"
+        style={{
+          borderBottom: '1px solid var(--border-primary)',
+          gap: isPhone ? 0 : 24,
+          ...(isPhone ? {
+            position: 'sticky',
+            top: 'var(--map-sticky-height, 0px)',
+            background: 'var(--bg-primary)',
+            overflowX: 'auto',
+            scrollbarWidth: 'none',
+            zIndex: 10,
+          } : {}),
+        }}
+        onKeyDown={onTabKey}
+      >
         {tabs.map(t => {
           const selected = t.id === tab;
           return (
@@ -349,12 +420,13 @@ export default function OpenStory({ story: lead, leans, fetchedAt, group = null,
               aria-controls={`panel-${story.id}`}
               tabIndex={selected ? 0 : -1}
               onClick={() => setTab(t.id)}
-              className="cursor-pointer"
+              className="cursor-pointer shrink-0"
               style={{
                 ...LABEL_FONT, fontSize: 14, fontWeight: 600, minHeight: 44, background: 'none', border: 'none',
                 borderBottom: `2px solid ${selected ? 'var(--gold-text)' : 'transparent'}`,
                 marginBottom: -1,
                 color: selected ? 'var(--text-primary)' : 'var(--label)',
+                padding: isPhone ? '0 14px' : '0',
               }}
             >
               {t.label}
@@ -364,10 +436,10 @@ export default function OpenStory({ story: lead, leans, fetchedAt, group = null,
         })}
       </div>
 
-      <div role="tabpanel" id={`panel-${story.id}`} aria-labelledby={`tab-${story.id}-${tab}`} className="pt-6">
+      <div ref={tabPanelRef} role="tabpanel" id={`panel-${story.id}`} aria-labelledby={`tab-${story.id}-${tab}`} className="pt-6">
         {tab === 'facts' && <FactsTab analysis={analysis} articles={articles} leans={leans} />}
         {tab === 'headlines' && <HeadlinesTab articles={articles} leans={leans} />}
-        {tab === 'disagreements' && <DisagreementsTab analysis={analysis} leans={leans} total={outlets.length} />}
+        {tab === 'disagreements' && <DisagreementsTab analysis={analysis} leans={leans} total={outlets.length} isPhone={isPhone} />}
         {tab === 'context' && <ContextTab context={analysis.context} />}
       </div>
       </>
