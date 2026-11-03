@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Death Years",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "measles",
+      "years",
+      "york",
+      "death",
+      "child",
+      "dies"
+    ]
+  },
+  {
     "label": "Aid Israel",
     "count": 5,
     "sources": 5,
@@ -88,19 +101,6 @@
       "aid",
       "year",
       "don"
-    ]
-  },
-  {
-    "label": "Escaped Tennessee",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "tennessee",
-      "escaped",
-      "captured",
-      "week",
-      "inmate",
-      "murderer"
     ]
   }
 ]
