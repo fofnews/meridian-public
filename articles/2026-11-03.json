@@ -789,5 +789,21 @@
     "categories": [],
     "collectRun": "2026-11-03T07:15:00.000Z",
     "collectedAt": "2026-11-03T07:15:05.643Z"
+  },
+  {
+    "title": "Saudi Aramco Profit Jumps Despite Damaging Attacks on Pipelines and Refineries",
+    "description": "Saudi Arabia’s state-owned oil company posted a 9 percent increase in third-quarter profit on Tuesday.",
+    "link": "https://www.nytimes.com/2026/11/03/business/saudi-aramco-q3-earnings.html",
+    "pubDate": "Tue, 03 Nov 2026 07:19:06 +0000",
+    "source": "NY Times",
+    "categories": [
+      "saudi aramco",
+      "oil (petroleum) and gasoline",
+      "saudi arabia",
+      "us and israeli attack on iran (2026)",
+      "offshore drilling and exploration"
+    ],
+    "collectRun": "2026-11-03T07:30:00.000Z",
+    "collectedAt": "2026-11-03T07:30:03.194Z"
   }
 ]
