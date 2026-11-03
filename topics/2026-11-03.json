@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "label": "Two Helicopters",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "helicopters",
+      "everest",
+      "two",
+      "collide",
+      "mount",
+      "indian"
+    ]
+  },
+  {
+    "label": "Election Results",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "results",
+      "election",
+      "know",
+      "2026",
+      "here",
+      "arkansas"
+    ]
+  }
+]
