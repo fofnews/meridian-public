@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Election Day",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "congress",
+      "election",
+      "day",
+      "control",
+      "stake",
+      "line"
+    ]
+  },
+  {
     "label": "Races Watch",
     "count": 4,
     "sources": 4,
@@ -36,19 +49,6 @@
       "watch",
       "night",
       "key"
-    ]
-  },
-  {
-    "label": "Election Day",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "election",
-      "day",
-      "congress",
-      "stake",
-      "control",
-      "battle"
     ]
   },
   {
