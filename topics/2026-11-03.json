@@ -1,5 +1,18 @@
 [
   {
+    "label": "Election Results",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "hour",
+      "2026",
+      "results",
+      "know",
+      "election",
+      "midterm"
+    ]
+  },
+  {
     "label": "Helicopters Collide",
     "count": 5,
     "sources": 4,
@@ -13,16 +26,16 @@
     ]
   },
   {
-    "label": "Election Results",
+    "label": "Races Watch",
     "count": 4,
     "sources": 4,
     "keywords": [
-      "results",
-      "know",
-      "2026",
+      "races",
       "election",
-      "midterms",
-      "hour"
+      "house",
+      "watch",
+      "night",
+      "key"
     ]
   },
   {
@@ -49,19 +62,6 @@
       "collision",
       "striker",
       "field"
-    ]
-  },
-  {
-    "label": "Election Night",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "election",
-      "races",
-      "night",
-      "house",
-      "watch",
-      "key"
     ]
   },
   {
