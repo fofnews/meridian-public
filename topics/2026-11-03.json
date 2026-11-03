@@ -1,5 +1,18 @@
 [
   {
+    "label": "Miguel Dies",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "dies",
+      "collision",
+      "miguel",
+      "field",
+      "tenerife",
+      "jesus"
+    ]
+  },
+  {
     "label": "Mount Everest",
     "count": 6,
     "sources": 5,
@@ -23,19 +36,6 @@
       "know",
       "election",
       "midterm"
-    ]
-  },
-  {
-    "label": "Field Collision",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "dies",
-      "collision",
-      "field",
-      "tenerife",
-      "miguel",
-      "striker"
     ]
   },
   {
