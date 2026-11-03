@@ -15,6 +15,8 @@ import { useSettings } from './SettingsContext.jsx';
 import { loadMapVisible, saveMapVisible } from './settings.js';
 import { shouldIgnoreKey, nextRowIndex } from './shortcuts.js';
 import { buildGroupedItems } from './openStory.js';
+import { decodeText } from './utils.js';
+import { useIsPhone } from './useIsPhone.js';
 
 const BRIEF_LIMIT = 10;
 
@@ -54,6 +56,7 @@ export default function App() {
   const [readIds, setReadIds] = useState(() => new Set());
   const [showAllBrief, setShowAllBrief] = useState(false);
   const { markOpened } = useSettings();
+  const isPhone = useIsPhone();
   const [mapVisible, setMapVisible] = useState(loadMapVisible);
   const [settingsOpen, setSettingsOpen] = useState(false);
   const [settingsTab, setSettingsTab] = useState('display');
@@ -61,6 +64,16 @@ export default function App() {
   const closeSettings = useCallback(() => setSettingsOpen(false), []);
 
   useEffect(() => { saveMapVisible(mapVisible); }, [mapVisible]);
+
+  // Phone: when a story opens, scroll its card header just below the sticky strip
+  useEffect(() => {
+    if (!isPhone || !expandedStory) return;
+    const id = setTimeout(() => {
+      const card = document.querySelector(`[data-story-id="${expandedStory}"]`);
+      card?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }, 50);
+    return () => clearTimeout(id);
+  }, [expandedStory, isPhone]); // eslint-disable-line react-hooks/exhaustive-deps
 
   useEffect(() => {
     const onScroll = () => setShowScrollTop(window.scrollY > 400);
@@ -83,7 +96,9 @@ export default function App() {
   }, [editionKey]);
 
   const openTopItem = (el, itemId, leadId) => {
-    scrollAnchor.current = { element: el, top: el.getBoundingClientRect().top };
+    if (!isPhone) {
+      scrollAnchor.current = { element: el, top: el.getBoundingClientRect().top };
+    }
     const next = expandedStory === itemId ? null : itemId;
     setExpandedStory(next);
     if (next) {
@@ -286,6 +301,13 @@ export default function App() {
             mapVisible={mapVisible}
             onMapVisibleChange={setMapVisible}
             onOpenSettings={() => openSettings()}
+            storyOpen={expandedStory !== null}
+            openStoryTitle={expandedStory ? (() => {
+              const item = topItems.find(i => (i.type === 'group' ? i.group.id : i.story.id) === expandedStory);
+              if (!item) return decodeText(allStoriesById.get(expandedStory)?.headline ?? '');
+              return item.type === 'group' ? item.group.label : decodeText(item.story.headline);
+            })() : ''}
+            onCloseStory={() => setExpandedStory(null)}
           />
         </ErrorBoundary>
       )}
@@ -317,7 +339,7 @@ export default function App() {
             <button
               key={v}
               onClick={() => setView(v)}
-              className="py-3 px-6 text-xs font-semibold uppercase tracking-widest cursor-pointer transition-colors border-b-2"
+              className={`py-3 ${isPhone ? 'px-3' : 'px-6'} text-xs font-semibold uppercase tracking-widest cursor-pointer transition-colors border-b-2`}
               style={{
                 background: view === v ? 'var(--gold-wash)' : 'transparent',
                 color: view === v ? 'var(--gold-text)' : 'var(--text-muted)',

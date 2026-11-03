@@ -4,6 +4,7 @@ import { leanColor } from './SourceBadge';
 import OpenStory from './OpenStory';
 import { decodeText } from '../utils';
 import { leanOf } from '../shared/source-leans.js';
+import { useIsPhone } from '../useIsPhone.js';
 
 const LEAN_ORDER = { left: 0, center: 1, right: 2 };
 const byLean = (sources, leans) =>
@@ -68,6 +69,8 @@ export default function StoryCard({ story, leans, brief = false, group = null, r
 
   const itemId = group ? group.id : story.id;
   const headlineColor = read ? 'var(--text-muted)' : 'var(--text-primary)';
+  const isPhone = useIsPhone();
+  const sourceLimit = isPhone ? 3 : 6;
 
   return (
     <div
@@ -77,7 +80,10 @@ export default function StoryCard({ story, leans, brief = false, group = null, r
       style={{
         borderBottom: '1px solid var(--border-primary)',
         scrollMarginTop: 'calc(var(--map-sticky-height, 0px) + 12px)',
-        ...(expanded ? { background: 'var(--bg-secondary)', borderRadius: 12, border: '1px solid var(--border-card)', overflow: 'hidden' } : {}),
+        ...(expanded ? (isPhone
+          ? { background: 'var(--bg-primary)' }
+          : { background: 'var(--bg-secondary)', borderRadius: 12, border: '1px solid var(--border-card)', overflow: 'hidden' }
+        ) : {}),
       }}
     >
       <button
@@ -85,6 +91,7 @@ export default function StoryCard({ story, leans, brief = false, group = null, r
         aria-expanded={expanded}
         aria-label={expanded ? (group ? group.label : decodeText(story.headline)) : undefined}
         className={`w-full text-left px-4 ${expanded ? 'py-3' : 'py-5'} flex items-start justify-between gap-4 cursor-pointer group`}
+        {...(expanded ? { 'data-story-open-header': '1' } : {})}
       >
         <div className="flex-1 min-w-0">
           {(group || (expanded && read)) && (
@@ -100,7 +107,7 @@ export default function StoryCard({ story, leans, brief = false, group = null, r
           <>
           <h3
             className="flex items-start gap-2 leading-snug"
-            style={{ color: headlineColor, fontFamily: 'var(--font-display)', fontSize: 24, fontWeight: 600 }}
+            style={{ color: headlineColor, fontFamily: 'var(--font-display)', fontSize: isPhone ? 21 : 24, fontWeight: 600 }}
           >
             {read && (
               <Check className="w-5 h-5 shrink-0" style={{ color: 'var(--tier-spectrum)', marginTop: 4 }} aria-label="Read" />
@@ -108,7 +115,7 @@ export default function StoryCard({ story, leans, brief = false, group = null, r
             <span>{group ? group.label : decodeText(story.headline)}</span>
           </h3>
           {group && (
-            <p className="mt-1.5 text-base leading-snug" style={{ color: 'var(--text-secondary)', fontFamily: 'var(--font-body)' }}>
+            <p className="mt-1.5 leading-snug" style={{ color: 'var(--text-secondary)', fontFamily: 'var(--font-body)', fontSize: isPhone ? 15 : 16 }}>
               {decodeText(story.headline)}
             </p>
           )}
@@ -117,14 +124,14 @@ export default function StoryCard({ story, leans, brief = false, group = null, r
               {sources.length} source{sources.length !== 1 ? 's' : ''}
             </span>
             <span style={{ color: 'var(--border-dim)' }}>·</span>
-            {byLean(sources, leans).slice(0, 6).map((s, i) => (
+            {byLean(sources, leans).slice(0, sourceLimit).map((s, i) => (
               <Fragment key={s}>
                 {i > 0 && <span aria-hidden="true" style={{ color: 'var(--border-dim)' }}>·</span>}
                 <span style={{ color: leanColor(leanOf(leans, s)), fontWeight: 500 }}>{s}</span>
               </Fragment>
             ))}
-            {sources.length > 6 && (
-              <span style={{ color: 'var(--label)' }}>+{sources.length - 6} more</span>
+            {sources.length > sourceLimit && (
+              <span style={{ color: 'var(--label)' }}>+{sources.length - sourceLimit} more</span>
             )}
             {factsCount > 0 && (
               <>

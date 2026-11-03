@@ -247,6 +247,14 @@ input::placeholder {
   animation: ticker 720s linear infinite;
 }
 
+@keyframes slideUpSheet {
+  from { transform: translateY(100%); }
+  to   { transform: translateY(0); }
+}
+.sheet-slide-up {
+  animation: slideUpSheet 0.25s cubic-bezier(0.32, 0.72, 0, 1) both;
+}
+
 /* ── Responsive ─────────────────────────────────────────── */
 
 /* Hero container: CSS custom property for chyron height offset */

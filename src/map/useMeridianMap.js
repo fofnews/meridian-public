@@ -27,7 +27,7 @@ import {
 // How long after the user stops dragging/zooming before rotation resumes.
 const DRAG_RESUME_MS = 5_000;
 
-export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = false, broadcast = false }) {
+export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = false, broadcast = false, gesturesEnabled = true }) {
   const mapContainer = useRef(null);
   const mapRef = useRef(null);
   const markerRef = useRef(null);
@@ -154,6 +154,24 @@ export function useMeridianMap({ mapEnabled, isDark, focusPitch, cinematic = fal
       markerRef.current = null;
     };
   }, [mapEnabled]);
+
+  // Apply gesture enable/disable. Runs on prop change and once the map loads
+  // (by depending on mapEnabled so it re-runs after the async init settles).
+  useEffect(() => {
+    const map = mapRef.current;
+    if (!map) return;
+    if (gesturesEnabled) {
+      map.dragPan.enable();
+      map.touchZoomRotate.enable();
+      map.scrollZoom.enable();
+      map.doubleClickZoom.enable();
+    } else {
+      map.dragPan.disable();
+      map.touchZoomRotate.disable();
+      map.scrollZoom.disable();
+      map.doubleClickZoom.disable();
+    }
+  }, [gesturesEnabled, mapEnabled]);
 
   // Night-terminator refresh — update the night polygon every 60 s so the
   // shadow visibly creeps across the globe during a long session.
