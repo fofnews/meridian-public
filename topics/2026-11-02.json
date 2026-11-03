@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Year Old",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "pilot",
+      "year",
+      "old",
+      "florida",
+      "crash",
+      "learjet"
+    ]
+  },
+  {
     "label": "Election Night",
     "count": 6,
     "sources": 5,
@@ -88,19 +101,6 @@
       "home",
       "year",
       "000"
-    ]
-  },
-  {
-    "label": "Year Old",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "pilot",
-      "year",
-      "old",
-      "florida",
-      "crash",
-      "learjet"
     ]
   }
 ]
