@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Man Charged",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "letters",
+      "hundreds",
+      "powder",
+      "man",
+      "charged",
+      "oklahoma"
+    ]
+  },
+  {
     "label": "Election Day",
     "count": 6,
     "sources": 5,
@@ -75,19 +88,6 @@
       "aid",
       "year",
       "don"
-    ]
-  },
-  {
-    "label": "Man Charged",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "powder",
-      "letters",
-      "hundreds",
-      "man",
-      "charged",
-      "mailing"
     ]
   },
   {
