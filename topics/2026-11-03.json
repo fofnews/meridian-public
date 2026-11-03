@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Death Years",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "measles",
+      "years",
+      "york",
+      "death",
+      "child",
+      "dies"
+    ]
+  },
+  {
     "label": "Qeshm Island",
     "count": 4,
     "sources": 4,
@@ -88,19 +101,6 @@
       "watch",
       "night",
       "key"
-    ]
-  },
-  {
-    "label": "Election Day",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "election",
-      "day",
-      "arrives",
-      "investors",
-      "ready",
-      "possible"
     ]
   }
 ]
