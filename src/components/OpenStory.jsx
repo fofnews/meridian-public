@@ -1,5 +1,4 @@
 import { useState, useRef, useEffect } from 'react';
-import { Minus } from 'lucide-react';
 import { useSettings } from '../SettingsContext.jsx';
 import { leanColor } from './SourceBadge';
 import { decodeText, formatAnalysisTime } from '../utils';
@@ -345,7 +344,6 @@ export default function OpenStory({ story: lead, leans, fetchedAt, group = null,
     { id: 'disagreements', label: 'Disagreements', count: disagreementTotal },
     ...(hasContext ? [{ id: 'context', label: 'Context' }] : []),
   ];
-  const locations = (analysis.locations ?? []).map(l => l.name ?? l).filter(Boolean);
   // fetchedAt is the main analysis run. Stories filled in later (analysisAddedAt) keep this time on purpose.
   const time = formatAnalysisTime(fetchedAt);
 
@@ -363,13 +361,6 @@ export default function OpenStory({ story: lead, leans, fetchedAt, group = null,
 
   return (
     <div className={isPhone ? 'px-4 py-6' : 'px-6 py-6'} style={{ borderTop: '1px solid var(--border-primary)', zoom: 'var(--text-scale)' }}>
-      {locations.length > 0 && (
-        <div className="font-semibold" style={{ ...LABEL_FONT, fontSize: 13, color: 'var(--gold-text)' }}>{locations.join(' · ')}</div>
-      )}
-      <h3 className="flex items-start gap-3 mt-1" style={{ fontFamily: 'var(--font-display)', fontSize: 28, fontWeight: 600, lineHeight: 1.18, color: 'var(--text-primary)' }}>
-        <Minus className="w-5 h-5 shrink-0" style={{ color: 'var(--gold-text)', marginTop: 8 }} aria-hidden="true" />
-        <span>{group ? group.label : decodeText(story.headline)}</span>
-      </h3>
       {group && (
         <>
           <div className="mt-2" style={{ ...LABEL_FONT, fontSize: 13, color: 'var(--label)' }}>
