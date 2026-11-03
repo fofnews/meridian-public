@@ -389,12 +389,11 @@ export default function App() {
               <section className="mb-12">
                 <div className="flex items-baseline gap-3 mb-6 flex-wrap">
                   <h2
-                    className="shrink-0"
-                    style={{ color: 'var(--text-primary)', fontFamily: 'var(--font-display)', fontSize: 30, fontWeight: 600 }}
+                    style={{ color: 'var(--text-primary)', fontFamily: 'var(--font-display)', fontSize: 'clamp(24px, 6vw, 30px)', fontWeight: 600 }}
                   >
                     Covered by more than one outlet
                   </h2>
-                  <span style={{ color: 'var(--label)', fontFamily: 'var(--font-label)', fontSize: 12 }}>
+                  <span className="w-full sm:w-auto" style={{ color: 'var(--label)', fontFamily: 'var(--font-label)', fontSize: 12 }}>
                     · {topItems.length} {topItems.length === 1 ? 'story' : 'stories'}, most outlets first
                   </span>
                 </div>
