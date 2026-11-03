@@ -1,5 +1,18 @@
 [
   {
+    "label": "Mount Everest",
+    "count": 7,
+    "sources": 6,
+    "keywords": [
+      "everest",
+      "helicopters",
+      "mount",
+      "collide",
+      "near",
+      "base"
+    ]
+  },
+  {
     "label": "Election Results",
     "count": 6,
     "sources": 6,
@@ -26,16 +39,16 @@
     ]
   },
   {
-    "label": "Mount Everest",
-    "count": 6,
-    "sources": 5,
+    "label": "Election Day",
+    "count": 5,
+    "sources": 4,
     "keywords": [
-      "everest",
-      "helicopters",
-      "mount",
-      "collide",
-      "near",
-      "two"
+      "congress",
+      "control",
+      "election",
+      "day",
+      "line",
+      "live"
     ]
   },
   {
@@ -49,19 +62,6 @@
       "strikes",
       "wsj",
       "peace"
-    ]
-  },
-  {
-    "label": "Election Day",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "congress",
-      "election",
-      "day",
-      "control",
-      "stake",
-      "line"
     ]
   },
   {
