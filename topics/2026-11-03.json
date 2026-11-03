@@ -1,5 +1,18 @@
 [
   {
+    "label": "Mount Everest",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "everest",
+      "helicopters",
+      "mount",
+      "collide",
+      "near",
+      "two"
+    ]
+  },
+  {
     "label": "Election Results",
     "count": 5,
     "sources": 5,
@@ -13,16 +26,29 @@
     ]
   },
   {
-    "label": "Helicopters Collide",
+    "label": "Field Collision",
     "count": 5,
+    "sources": 5,
+    "keywords": [
+      "dies",
+      "collision",
+      "field",
+      "tenerife",
+      "miguel",
+      "striker"
+    ]
+  },
+  {
+    "label": "Qeshm Island",
+    "count": 4,
     "sources": 4,
     "keywords": [
-      "helicopters",
-      "everest",
-      "collide",
-      "mount",
-      "two",
-      "nepal"
+      "iran",
+      "qeshm",
+      "island",
+      "strikes",
+      "wsj",
+      "peace"
     ]
   },
   {
@@ -39,19 +65,6 @@
     ]
   },
   {
-    "label": "Miguel Dies",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "dies",
-      "collision",
-      "tenerife",
-      "miguel",
-      "field",
-      "striker"
-    ]
-  },
-  {
     "label": "Races Watch",
     "count": 4,
     "sources": 4,
@@ -65,42 +78,29 @@
     ]
   },
   {
-    "label": "Lebron James",
-    "count": 3,
-    "sources": 3,
+    "label": "Trump Stop",
+    "count": 4,
+    "sources": 4,
     "keywords": [
-      "lebron",
-      "james",
-      "wine",
-      "fan",
-      "viral",
-      "mid"
+      "trump",
+      "israel",
+      "stop",
+      "aid",
+      "end",
+      "2026"
     ]
   },
   {
-    "label": "Qeshm Island",
+    "label": "Head Polls",
     "count": 3,
     "sources": 3,
     "keywords": [
-      "iran",
-      "qeshm",
-      "island",
-      "strikes",
-      "wsj",
-      "peace"
-    ]
-  },
-  {
-    "label": "Election Day",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "election",
-      "day",
-      "armageddon",
-      "states",
-      "play",
-      "record"
+      "head",
+      "polls",
+      "americans",
+      "elections",
+      "trump",
+      "define"
     ]
   }
 ]
