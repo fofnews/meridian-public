@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Aid Israel",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "trump",
+      "israel",
+      "end",
+      "aid",
+      "year",
+      "bad"
+    ]
+  },
+  {
     "label": "Death Years",
     "count": 5,
     "sources": 5,
@@ -88,19 +101,6 @@
       "death",
       "child",
       "dies"
-    ]
-  },
-  {
-    "label": "Aid Israel",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "end",
-      "trump",
-      "israel",
-      "aid",
-      "year",
-      "don"
     ]
   }
 ]
