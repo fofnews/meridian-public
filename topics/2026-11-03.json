@@ -1,5 +1,18 @@
 [
   {
+    "label": "Election Results",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "2026",
+      "results",
+      "hour",
+      "election",
+      "know",
+      "midterm"
+    ]
+  },
+  {
     "label": "Miguel Dies",
     "count": 6,
     "sources": 6,
@@ -23,19 +36,6 @@
       "collide",
       "near",
       "two"
-    ]
-  },
-  {
-    "label": "Election Results",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "hour",
-      "2026",
-      "results",
-      "know",
-      "election",
-      "midterm"
     ]
   },
   {
@@ -91,16 +91,16 @@
     ]
   },
   {
-    "label": "Head Polls",
+    "label": "Haley Stevens",
     "count": 3,
     "sources": 3,
     "keywords": [
-      "head",
-      "polls",
-      "americans",
-      "elections",
-      "trump",
-      "define"
+      "haley",
+      "stevens",
+      "rogers",
+      "endorsement",
+      "democratic",
+      "rep"
     ]
   }
 ]
