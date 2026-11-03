@@ -14,25 +14,64 @@
   },
   {
     "label": "Election Results",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "results",
+      "know",
+      "2026",
+      "election",
+      "midterms",
+      "hour"
+    ]
+  },
+  {
+    "label": "Election Day",
     "count": 3,
     "sources": 3,
     "keywords": [
-      "results",
       "election",
-      "know",
-      "2026",
-      "here",
-      "arkansas"
+      "day",
+      "congress",
+      "stake",
+      "control",
+      "battle"
+    ]
+  },
+  {
+    "label": "Miguel Dies",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "tenerife",
+      "miguel",
+      "dies",
+      "collision",
+      "striker",
+      "field"
+    ]
+  },
+  {
+    "label": "Election Night",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "election",
+      "races",
+      "night",
+      "house",
+      "watch",
+      "key"
     ]
   },
   {
     "label": "Midterm Elections",
-    "count": 3,
+    "count": 4,
     "sources": 2,
     "keywords": [
-      "2026",
       "midterm",
       "elections",
+      "2026",
       "polls",
       "open",
       "close"
