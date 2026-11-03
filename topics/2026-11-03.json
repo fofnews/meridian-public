@@ -54,6 +54,19 @@
   {
     "label": "Election Day",
     "count": 5,
+    "sources": 5,
+    "keywords": [
+      "election",
+      "day",
+      "gas",
+      "prices",
+      "record",
+      "armageddon"
+    ]
+  },
+  {
+    "label": "Election Day",
+    "count": 5,
     "sources": 4,
     "keywords": [
       "congress",
@@ -88,19 +101,6 @@
       "strikes",
       "wsj",
       "peace"
-    ]
-  },
-  {
-    "label": "Races Watch",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "races",
-      "election",
-      "house",
-      "watch",
-      "night",
-      "key"
     ]
   }
 ]
