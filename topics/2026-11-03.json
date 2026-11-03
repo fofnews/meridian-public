@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Trump Stop",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "trump",
+      "israel",
+      "aid",
+      "end",
+      "stop",
+      "2026"
+    ]
+  },
+  {
     "label": "Election Day",
     "count": 5,
     "sources": 4,
@@ -78,29 +91,16 @@
     ]
   },
   {
-    "label": "Trump Stop",
+    "label": "Aid Israel",
     "count": 4,
     "sources": 4,
     "keywords": [
+      "end",
       "trump",
       "israel",
-      "stop",
       "aid",
-      "end",
-      "2026"
-    ]
-  },
-  {
-    "label": "Haley Stevens",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "haley",
-      "stevens",
-      "rogers",
-      "endorsement",
-      "democratic",
-      "rep"
+      "don",
+      "need"
     ]
   }
 ]
