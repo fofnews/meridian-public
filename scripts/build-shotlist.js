@@ -16,7 +16,7 @@ import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { buildArcsGeoJSON } from '../src/map/arcs.js';
 import { SOURCE_COORDS } from '../src/map/sources.js';
-import { SOURCE_LEANS } from '../remotion/src/source-leans.js';
+import { leansFor } from '../src/shared/source-leans.js';
 import { buildCameraPath as buildRecipeCameraPath, buildGlobeSpinPath } from './shot-recipes.js';
 import { classifyShotIntent } from './intent-classifier.js';
 
@@ -560,7 +560,7 @@ const shotlist = {
   aspect,
   duration: elapsed,
   shots,
-  sourceLeans: SOURCE_LEANS,
+  sourceLeans: leansFor(report),
   anchorOpts: {
     noAnchored,
     leadTime,

@@ -67,6 +67,21 @@
 
   /* Card border (same as primary in dark mode) */
   --border-card: #1a2035;
+
+  /* Redesign tokens (fonts are the same in both themes) */
+  --lean-left:      #5b9fd4;
+  --lean-center:    #b8b0a0;
+  --lean-right:     #e06a6a;
+  --gold-text:      #e8c547;  /* gold used as text (--accent-text is ink on gold fills) */
+  --tier-spectrum:  #86efac;
+  --disagree-text:  #f0a35b;
+  --label:          #8590a8;
+  --scrim:          rgba(3, 6, 12, 0.62);
+  --gold-wash:      rgba(232, 197, 71, 0.06);
+
+  --font-display: 'Newsreader', Georgia, serif;
+  --font-label:   'Libre Franklin', system-ui, sans-serif;
+  --font-body:    'Source Serif 4', serif;
 }
 
 [data-theme="light"] {
@@ -133,6 +148,21 @@
   --source-center-bg:     #EBF1F7;
   --source-center-border: #1A3A5C;
   --source-center-text:   #1A2E44;
+
+  /* Redesign tokens — each >= 4.5:1 on --bg-primary, --bg-secondary and --bg-card */
+  --lean-left:      #1f5d99;
+  --lean-center:    #5f584c;
+  --lean-right:     #a8322f;
+  --gold-text:      #7a5a00;
+  --tier-spectrum:  #186638;
+  --disagree-text:  #8a4508;
+  --label:          #3A5070;
+  --scrim:          rgba(16, 32, 52, 0.45);
+  --gold-wash:      rgba(122, 90, 0, 0.08);
+}
+
+[data-reading-font="atkinson"] {
+  --font-body: 'Atkinson Hyperlegible', system-ui, sans-serif;
 }
 
 body {

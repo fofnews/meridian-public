@@ -4,13 +4,16 @@ import { inject } from '@vercel/analytics';
 import './index.css';
 import App from './App.jsx';
 import { ThemeProvider } from './ThemeContext.jsx';
+import { SettingsProvider } from './SettingsContext.jsx';
 
 inject();
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <ThemeProvider>
-      <App />
+      <SettingsProvider>
+        <App />
+      </SettingsProvider>
     </ThemeProvider>
   </StrictMode>
 );
