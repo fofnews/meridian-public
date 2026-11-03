@@ -1,5 +1,18 @@
 [
   {
+    "label": "Trump Stop",
+    "count": 7,
+    "sources": 7,
+    "keywords": [
+      "trump",
+      "israel",
+      "end",
+      "stop",
+      "aid",
+      "billion"
+    ]
+  },
+  {
     "label": "Mount Everest",
     "count": 7,
     "sources": 6,
@@ -39,19 +52,6 @@
     ]
   },
   {
-    "label": "Trump Stop",
-    "count": 6,
-    "sources": 6,
-    "keywords": [
-      "trump",
-      "israel",
-      "end",
-      "stop",
-      "aid",
-      "year"
-    ]
-  },
-  {
     "label": "Election Day",
     "count": 5,
     "sources": 5,
@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Man Charged",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "powder",
+      "letters",
+      "hundreds",
+      "man",
+      "charged",
+      "mailing"
+    ]
+  },
+  {
     "label": "Escaped Tennessee",
     "count": 5,
     "sources": 5,
@@ -88,19 +101,6 @@
       "week",
       "inmate",
       "murderer"
-    ]
-  },
-  {
-    "label": "Election Day",
-    "count": 5,
-    "sources": 4,
-    "keywords": [
-      "congress",
-      "control",
-      "election",
-      "day",
-      "line",
-      "live"
     ]
   }
 ]
