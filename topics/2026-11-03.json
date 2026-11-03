@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Election Day",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "election",
+      "day",
+      "armageddon",
+      "states",
+      "play",
+      "record"
+    ]
+  },
+  {
     "label": "Midterm Elections",
     "count": 5,
     "sources": 2,
@@ -88,19 +101,6 @@
       "continues",
       "kobe",
       "bryant"
-    ]
-  },
-  {
-    "label": "Ahead Midterm",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "ahead",
-      "midterm",
-      "elections",
-      "reuters",
-      "california",
-      "bay"
     ]
   }
 ]
