@@ -13,6 +13,7 @@ import { useMeridianMap } from '../map/useMeridianMap.js';
 import { fetchBoundaryPolygon, geocodeStory } from '../map/geocoding.js';
 import { FOCUSED_PITCH_WEBSITE } from '../map/camera.js';
 import { decodeText, formatAnalysisTime } from '../utils';
+import { phoneMapHeight } from '../phoneLayout.js';
 
 const EDITION_LABELS = { morning: 'Morning', evening: 'Evening' };
 
@@ -68,6 +69,14 @@ export default function MapHero({
   // who starts with the map hidden never pays for a Mapbox load.
   const [hasBeenShown, setHasBeenShown] = useState(mapVisible);
   useEffect(() => { if (mapVisible) setHasBeenShown(true); }, [mapVisible]);
+
+  const [vh, setVh] = useState(() => window.innerHeight);
+  useEffect(() => {
+    if (!isPhone) return;
+    const handler = () => setVh(window.innerHeight);
+    window.addEventListener('resize', handler);
+    return () => window.removeEventListener('resize', handler);
+  }, [isPhone]);
 
   const stickyRef = useRef(null);
 
@@ -169,7 +178,7 @@ export default function MapHero({
     ? 'radial-gradient(ellipse at 52% 48%, rgba(10,13,20,0.3) 0%, rgba(10,13,20,0.75) 100%)'
     : 'radial-gradient(ellipse at 52% 48%, rgba(244,240,232,0.1) 0%, rgba(244,240,232,0.45) 100%)';
 
-  const phoneHeight = storyOpen ? '120px' : 'clamp(180px, 28vh, 240px)';
+  const phoneHeight = `${phoneMapHeight(storyOpen, vh)}px`;
   const containerStyle = expanded
     ? { position: 'fixed', inset: 0, zIndex: 50, width: '100vw', height: '100vh' }
     : {

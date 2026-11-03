@@ -71,6 +71,7 @@ export default function StoryCard({ story, leans, brief = false, group = null, r
   const headlineColor = read ? 'var(--text-muted)' : 'var(--text-primary)';
   const isPhone = useIsPhone();
   const sourceLimit = isPhone ? 3 : 6;
+  const locations = (story.analysis?.locations ?? []).map(l => l.name ?? l).filter(Boolean);
 
   return (
     <div
@@ -89,8 +90,7 @@ export default function StoryCard({ story, leans, brief = false, group = null, r
       <button
         onClick={() => onToggle(cardRef.current)}
         aria-expanded={expanded}
-        aria-label={expanded ? (group ? group.label : decodeText(story.headline)) : undefined}
-        className={`w-full text-left px-4 ${expanded ? 'py-3' : 'py-5'} flex items-start justify-between gap-4 cursor-pointer group`}
+        className={`w-full text-left px-4 ${expanded ? 'py-3' : 'py-5'} flex items-start justify-between gap-4 cursor-pointer group${expanded ? ' story-open-header' : ''}`}
         {...(expanded ? { 'data-story-open-header': '1' } : {})}
       >
         <div className="flex-1 min-w-0">
@@ -102,6 +102,21 @@ export default function StoryCard({ story, leans, brief = false, group = null, r
               {expanded && read && <Check className="w-4 h-4 shrink-0" style={{ color: 'var(--tier-spectrum)' }} aria-label="Read" />}
               {group && <span>Developing story · {group.stories.length} reports</span>}
             </div>
+          )}
+          {expanded && (
+            <>
+              {locations.length > 0 && (
+                <div className="font-semibold" style={{ fontFamily: 'var(--font-label)', fontSize: 13, color: 'var(--gold-text)', marginTop: (group || read) ? 4 : 0 }}>
+                  {locations.join(' · ')}
+                </div>
+              )}
+              <span
+                className="block"
+                style={{ fontFamily: 'var(--font-display)', fontSize: isPhone ? 24 : 28, fontWeight: 600, lineHeight: 1.18, color: 'var(--text-primary)', marginTop: 4 }}
+              >
+                {group ? group.label : decodeText(story.headline)}
+              </span>
+            </>
           )}
           {!expanded && (
           <>
@@ -149,8 +164,17 @@ export default function StoryCard({ story, leans, brief = false, group = null, r
           </>
           )}
         </div>
-        <div className="shrink-0 mt-1" style={{ color: 'var(--text-faint)' }}>
-          {expanded ? <ChevronUp className="w-5 h-5" /> : <ChevronDown className="w-5 h-5" />}
+        <div className="shrink-0 mt-1 flex flex-col items-center gap-1" style={{ color: 'var(--text-faint)' }}>
+          {expanded ? (
+            <>
+              <ChevronUp className="w-5 h-5" />
+              {!isPhone && (
+                <span className="story-close-label" style={{ fontFamily: 'var(--font-label)', fontSize: 13, color: 'var(--label)' }}>Close</span>
+              )}
+            </>
+          ) : (
+            <ChevronDown className="w-5 h-5" />
+          )}
         </div>
       </button>
 

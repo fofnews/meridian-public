@@ -255,6 +255,10 @@ input::placeholder {
   animation: slideUpSheet 0.25s cubic-bezier(0.32, 0.72, 0, 1) both;
 }
 
+.story-open-header:hover .story-close-label {
+  color: var(--gold-text);
+}
+
 /* ── Responsive ─────────────────────────────────────────── */
 
 /* Hero container: CSS custom property for chyron height offset */

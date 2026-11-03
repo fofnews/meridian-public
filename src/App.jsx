@@ -17,6 +17,7 @@ import { shouldIgnoreKey, nextRowIndex } from './shortcuts.js';
 import { buildGroupedItems } from './openStory.js';
 import { decodeText } from './utils.js';
 import { useIsPhone } from './useIsPhone.js';
+import { scrollRowBelowMap } from './phoneLayout.js';
 
 const BRIEF_LIMIT = 10;
 
@@ -65,16 +66,6 @@ export default function App() {
 
   useEffect(() => { saveMapVisible(mapVisible); }, [mapVisible]);
 
-  // Phone: when a story opens, scroll its card header just below the sticky strip
-  useEffect(() => {
-    if (!isPhone || !expandedStory) return;
-    const id = setTimeout(() => {
-      const card = document.querySelector(`[data-story-id="${expandedStory}"]`);
-      card?.scrollIntoView({ behavior: 'smooth', block: 'start' });
-    }, 50);
-    return () => clearTimeout(id);
-  }, [expandedStory, isPhone]); // eslint-disable-line react-hooks/exhaustive-deps
-
   useEffect(() => {
     const onScroll = () => setShowScrollTop(window.scrollY > 400);
     window.addEventListener('scroll', onScroll, { passive: true });
@@ -101,6 +92,9 @@ export default function App() {
     }
     const next = expandedStory === itemId ? null : itemId;
     setExpandedStory(next);
+    if (isPhone) {
+      scrollRowBelowMap(el, next !== null);
+    }
     if (next) {
       setFeaturedStoryId(leadId);
       if (editionKey && markOpened) {
@@ -307,7 +301,13 @@ export default function App() {
               if (!item) return decodeText(allStoriesById.get(expandedStory)?.headline ?? '');
               return item.type === 'group' ? item.group.label : decodeText(item.story.headline);
             })() : ''}
-            onCloseStory={() => setExpandedStory(null)}
+            onCloseStory={() => {
+                if (isPhone && expandedStory) {
+                  const card = document.querySelector(`[data-story-id="${expandedStory}"]`);
+                  scrollRowBelowMap(card, false);
+                }
+                setExpandedStory(null);
+              }}
           />
         </ErrorBoundary>
       )}
