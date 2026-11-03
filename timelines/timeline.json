@@ -2350,7 +2350,7 @@
       "title": "Iran Leadership Succession",
       "firstSeen": "2026-03-04",
       "lastSeen": "2026-10-04",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-03-04",
@@ -8564,5 +8564,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-02T22:21:35.292Z"
+  "updatedAt": "2026-11-03T19:07:39.653Z"
 }
