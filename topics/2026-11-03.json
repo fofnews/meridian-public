@@ -1,15 +1,15 @@
 [
   {
-    "label": "Two Helicopters",
-    "count": 4,
-    "sources": 3,
+    "label": "Helicopters Collide",
+    "count": 5,
+    "sources": 4,
     "keywords": [
       "helicopters",
       "everest",
-      "two",
       "collide",
       "mount",
-      "indian"
+      "two",
+      "nepal"
     ]
   },
   {
@@ -23,6 +23,19 @@
       "2026",
       "here",
       "arkansas"
+    ]
+  },
+  {
+    "label": "Midterm Elections",
+    "count": 3,
+    "sources": 2,
+    "keywords": [
+      "2026",
+      "midterm",
+      "elections",
+      "polls",
+      "open",
+      "close"
     ]
   },
   {
