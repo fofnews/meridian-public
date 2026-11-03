@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Qeshm Island",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "iran",
+      "qeshm",
+      "island",
+      "strikes",
+      "wsj",
+      "peace"
+    ]
+  },
+  {
     "label": "Miguel Dies",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "states",
       "play",
       "record"
-    ]
-  },
-  {
-    "label": "Midterm Elections",
-    "count": 5,
-    "sources": 2,
-    "keywords": [
-      "midterm",
-      "elections",
-      "2026",
-      "polls",
-      "open",
-      "close"
     ]
   }
 ]
