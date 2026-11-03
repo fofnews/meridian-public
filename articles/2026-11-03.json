@@ -1315,5 +1315,27 @@
     "categories": [],
     "collectRun": "2026-11-03T09:30:00.000Z",
     "collectedAt": "2026-11-03T09:30:09.228Z"
+  },
+  {
+    "title": "Helicopters collide near Mount Everest, killing 1, Nepal Police say",
+    "description": "The helicopters were attempting to land at a helipad in the Solukhumbu district.",
+    "link": "https://abcnews.com/International/helicopters-collide-mount-everest-killing-1-nepal-police/story?id=137799461",
+    "pubDate": "Tue, 03 Nov 2026 04:44:26 -0500",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectRun": "2026-11-03T09:45:00.000Z",
+    "collectedAt": "2026-11-03T09:45:09.193Z"
+  },
+  {
+    "title": "Here's when polls open and close for 2026 midterm elections today",
+    "description": "If you are in line to cast your ballot before a polling site closes, you have the right to remain in line and vote.",
+    "link": "https://www.cbsnews.com/news/when-polls-open-close-2026-midterm-elections/",
+    "pubDate": "Tue, 03 Nov 2026 04:30:01 -0500",
+    "source": "CBS News",
+    "categories": [],
+    "collectRun": "2026-11-03T09:45:00.000Z",
+    "collectedAt": "2026-11-03T09:45:09.193Z"
   }
 ]
