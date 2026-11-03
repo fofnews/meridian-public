@@ -1,5 +1,18 @@
 [
   {
+    "label": "Mount Everest",
+    "count": 8,
+    "sources": 7,
+    "keywords": [
+      "everest",
+      "helicopters",
+      "mount",
+      "collide",
+      "near",
+      "killing"
+    ]
+  },
+  {
     "label": "Trump Stop",
     "count": 7,
     "sources": 7,
@@ -23,19 +36,6 @@
       "hundreds",
       "oklahoma",
       "charged"
-    ]
-  },
-  {
-    "label": "Mount Everest",
-    "count": 7,
-    "sources": 6,
-    "keywords": [
-      "everest",
-      "helicopters",
-      "mount",
-      "collide",
-      "near",
-      "base"
     ]
   },
   {
