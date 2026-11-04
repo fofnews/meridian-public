@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Senate Race",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "senate",
+      "race",
+      "sayed",
+      "michigan",
+      "abdul",
+      "count"
+    ]
+  },
+  {
     "label": "Democrats Win",
     "count": 3,
     "sources": 3,
@@ -78,29 +91,16 @@
     ]
   },
   {
-    "label": "Van Orden",
+    "label": "James Talarico",
     "count": 3,
     "sources": 3,
     "keywords": [
-      "van",
-      "orden",
-      "wisconsin",
-      "rematch",
-      "cooke",
-      "defeats"
-    ]
-  },
-  {
-    "label": "House Seat",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "democrat",
-      "seat",
-      "flips",
-      "gonzales",
-      "house",
-      "former"
+      "james",
+      "talarico",
+      "win",
+      "texas",
+      "becomes",
+      "democrat"
     ]
   }
 ]
