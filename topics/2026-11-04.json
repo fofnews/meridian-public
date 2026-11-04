@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Abdul Sayed",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "abdul",
+      "sayed",
+      "michigan",
+      "wins",
+      "senate",
+      "race"
+    ]
+  },
+  {
     "label": "Josh Turek",
     "count": 5,
     "sources": 5,
@@ -26,16 +39,16 @@
     ]
   },
   {
-    "label": "Abdul Sayed",
+    "label": "Nebraska Senate",
     "count": 5,
     "sources": 5,
     "keywords": [
-      "abdul",
-      "sayed",
-      "michigan",
-      "wins",
+      "ricketts",
       "senate",
-      "race"
+      "osborn",
+      "nebraska",
+      "pete",
+      "wins"
     ]
   },
   {
@@ -78,29 +91,16 @@
     ]
   },
   {
-    "label": "Nebraska Senate",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "ricketts",
-      "nebraska",
-      "senate",
-      "wins",
-      "osborn",
-      "race"
-    ]
-  },
-  {
-    "label": "Democrats Projected",
+    "label": "2026 Midterm",
     "count": 4,
     "sources": 3,
     "keywords": [
-      "house",
-      "democrats",
-      "projected",
-      "control",
-      "take",
-      "speaker"
+      "2026",
+      "midterm",
+      "elections",
+      "candidates",
+      "made",
+      "history"
     ]
   }
 ]
