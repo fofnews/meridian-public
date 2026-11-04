@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "James Talarico",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "james",
+      "talarico",
+      "texas",
+      "democrat",
+      "win",
+      "senate"
+    ]
+  },
+  {
     "label": "Nebraska Senate",
     "count": 5,
     "sources": 5,
@@ -88,19 +101,6 @@
       "race",
       "defeats",
       "rogers"
-    ]
-  },
-  {
-    "label": "Adam Hamilton",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "senate",
-      "kansas",
-      "hamilton",
-      "democrat",
-      "adam",
-      "elected"
     ]
   }
 ]
