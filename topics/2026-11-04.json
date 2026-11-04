@@ -1,15 +1,15 @@
 [
   {
     "label": "Wins Minnesota",
-    "count": 5,
+    "count": 6,
     "sources": 4,
     "keywords": [
       "minnesota",
-      "race",
       "klobuchar",
+      "race",
       "wins",
-      "peggy",
-      "flanagan"
+      "amy",
+      "peggy"
     ]
   },
   {
@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Troy Jackson",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "troy",
+      "jackson",
+      "susan",
+      "collins",
+      "maine",
+      "gop"
+    ]
+  },
+  {
     "label": "Democrats Win",
     "count": 3,
     "sources": 3,
@@ -39,6 +52,19 @@
     ]
   },
   {
+    "label": "Democrat Bobby",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "texas",
+      "democrat",
+      "bobby",
+      "pulido",
+      "flips",
+      "district"
+    ]
+  },
+  {
     "label": "Democrats Projected",
     "count": 3,
     "sources": 2,
@@ -49,6 +75,19 @@
       "control",
       "take",
       "speaker"
+    ]
+  },
+  {
+    "label": "Henry Cuellar",
+    "count": 3,
+    "sources": 2,
+    "keywords": [
+      "top",
+      "house",
+      "democrat",
+      "trump",
+      "henry",
+      "cuellar"
     ]
   }
 ]
