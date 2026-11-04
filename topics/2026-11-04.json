@@ -1,5 +1,18 @@
 [
   {
+    "label": "Troy Jackson",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "troy",
+      "jackson",
+      "susan",
+      "collins",
+      "maine",
+      "gop"
+    ]
+  },
+  {
     "label": "Wins Minnesota",
     "count": 6,
     "sources": 4,
@@ -26,19 +39,6 @@
     ]
   },
   {
-    "label": "Troy Jackson",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "troy",
-      "jackson",
-      "susan",
-      "collins",
-      "maine",
-      "gop"
-    ]
-  },
-  {
     "label": "Democrats Win",
     "count": 3,
     "sources": 3,
@@ -62,6 +62,19 @@
       "pulido",
       "flips",
       "district"
+    ]
+  },
+  {
+    "label": "Van Orden",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "van",
+      "orden",
+      "wisconsin",
+      "rematch",
+      "cooke",
+      "defeats"
     ]
   },
   {
