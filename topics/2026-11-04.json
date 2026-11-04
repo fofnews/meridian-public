@@ -14,11 +14,11 @@
   },
   {
     "label": "Abdul Sayed",
-    "count": 6,
+    "count": 7,
     "sources": 6,
     "keywords": [
-      "abdul",
       "sayed",
+      "abdul",
       "michigan",
       "wins",
       "senate",
@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Troy Jackson",
+    "count": 6,
+    "sources": 4,
+    "keywords": [
+      "jackson",
+      "maine",
+      "senate",
+      "democrat",
+      "troy",
+      "collins"
+    ]
+  },
+  {
     "label": "Senate Race",
     "count": 5,
     "sources": 4,
@@ -78,29 +91,16 @@
     ]
   },
   {
-    "label": "James Talarico",
+    "label": "Adam Hamilton",
     "count": 4,
     "sources": 4,
     "keywords": [
-      "james",
-      "talarico",
-      "texas",
+      "senate",
+      "kansas",
+      "hamilton",
       "democrat",
-      "win",
-      "senate"
-    ]
-  },
-  {
-    "label": "2026 Midterm",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "2026",
-      "midterm",
-      "elections",
-      "candidates",
-      "made",
-      "history"
+      "adam",
+      "elected"
     ]
   }
 ]
