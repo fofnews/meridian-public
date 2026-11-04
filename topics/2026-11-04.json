@@ -1,15 +1,28 @@
 [
   {
     "label": "Troy Jackson",
-    "count": 5,
-    "sources": 5,
+    "count": 7,
+    "sources": 6,
     "keywords": [
       "troy",
       "jackson",
       "susan",
       "collins",
       "maine",
-      "gop"
+      "defeats"
+    ]
+  },
+  {
+    "label": "Josh Turek",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "josh",
+      "turek",
+      "senate",
+      "iowa",
+      "flips",
+      "seat"
     ]
   },
   {
@@ -26,16 +39,16 @@
     ]
   },
   {
-    "label": "Josh Turek",
+    "label": "Democrats Projected",
     "count": 4,
-    "sources": 4,
+    "sources": 3,
     "keywords": [
-      "josh",
-      "turek",
-      "senate",
-      "iowa",
-      "ashley",
-      "hinson"
+      "house",
+      "democrats",
+      "projected",
+      "control",
+      "take",
+      "speaker"
     ]
   },
   {
@@ -78,29 +91,16 @@
     ]
   },
   {
-    "label": "Democrats Projected",
+    "label": "House Seat",
     "count": 3,
     "sources": 2,
     "keywords": [
-      "house",
       "democrats",
-      "projected",
-      "control",
-      "take",
-      "speaker"
-    ]
-  },
-  {
-    "label": "Henry Cuellar",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "top",
+      "texas",
+      "redistricted",
       "house",
-      "democrat",
-      "trump",
-      "henry",
-      "cuellar"
+      "seat",
+      "sweep"
     ]
   }
 ]
