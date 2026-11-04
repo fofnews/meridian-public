@@ -1,5 +1,18 @@
 [
   {
+    "label": "Man Charged",
+    "count": 8,
+    "sources": 8,
+    "keywords": [
+      "letters",
+      "man",
+      "powder",
+      "hundreds",
+      "officials",
+      "oklahoma"
+    ]
+  },
+  {
     "label": "Mount Everest",
     "count": 8,
     "sources": 7,
@@ -39,16 +52,16 @@
     ]
   },
   {
-    "label": "Man Charged",
-    "count": 7,
-    "sources": 7,
+    "label": "Jon Ossoff",
+    "count": 8,
+    "sources": 6,
     "keywords": [
-      "powder",
-      "letters",
-      "man",
-      "hundreds",
-      "oklahoma",
-      "charged"
+      "ossoff",
+      "georgia",
+      "jon",
+      "wins",
+      "senate",
+      "election"
     ]
   },
   {
@@ -88,19 +101,6 @@
       "aid",
       "year",
       "bad"
-    ]
-  },
-  {
-    "label": "Jon Ossoff",
-    "count": 6,
-    "sources": 5,
-    "keywords": [
-      "ossoff",
-      "georgia",
-      "jon",
-      "wins",
-      "election",
-      "senate"
     ]
   }
 ]
