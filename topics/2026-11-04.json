@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Abdul Sayed",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "abdul",
+      "sayed",
+      "michigan",
+      "wins",
+      "senate",
+      "race"
+    ]
+  },
+  {
     "label": "Wins Minnesota",
     "count": 6,
     "sources": 4,
@@ -39,16 +52,29 @@
     ]
   },
   {
-    "label": "Abdul Sayed",
-    "count": 4,
+    "label": "Senate Race",
+    "count": 5,
     "sources": 4,
     "keywords": [
-      "abdul",
+      "senate",
       "sayed",
       "michigan",
       "race",
-      "mike",
+      "defeats",
       "rogers"
+    ]
+  },
+  {
+    "label": "James Talarico",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "james",
+      "talarico",
+      "texas",
+      "democrat",
+      "win",
+      "senate"
     ]
   },
   {
@@ -65,19 +91,6 @@
     ]
   },
   {
-    "label": "Senate Race",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "senate",
-      "race",
-      "sayed",
-      "michigan",
-      "abdul",
-      "count"
-    ]
-  },
-  {
     "label": "Democrats Win",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "trump",
       "news",
       "setting"
-    ]
-  },
-  {
-    "label": "Amy Acton",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "amy",
-      "acton",
-      "vivek",
-      "ramaswamy",
-      "democrat",
-      "ohio"
     ]
   }
 ]
