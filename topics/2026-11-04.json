@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Nebraska Senate",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "ricketts",
+      "nebraska",
+      "senate",
+      "wins",
+      "osborn",
+      "race"
+    ]
+  },
+  {
     "label": "Democrats Projected",
     "count": 4,
     "sources": 3,
@@ -88,19 +101,6 @@
       "control",
       "take",
       "speaker"
-    ]
-  },
-  {
-    "label": "Democrats Win",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "democrats",
-      "win",
-      "senate",
-      "trump",
-      "news",
-      "setting"
     ]
   }
 ]
