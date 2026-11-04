@@ -24,5 +24,31 @@
       "ashley",
       "hinson"
     ]
+  },
+  {
+    "label": "Democrats Win",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "democrats",
+      "win",
+      "senate",
+      "trump",
+      "news",
+      "setting"
+    ]
+  },
+  {
+    "label": "Democrats Projected",
+    "count": 3,
+    "sources": 2,
+    "keywords": [
+      "house",
+      "democrats",
+      "projected",
+      "control",
+      "take",
+      "speaker"
+    ]
   }
 ]
