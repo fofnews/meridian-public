@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Sherrod Brown",
+    "count": 8,
+    "sources": 7,
+    "keywords": [
+      "brown",
+      "ohio",
+      "sherrod",
+      "senate",
+      "democrat",
+      "wins"
+    ]
+  },
+  {
     "label": "Miguel Dies",
     "count": 7,
     "sources": 7,
@@ -88,19 +101,6 @@
       "wins",
       "sen",
       "senate"
-    ]
-  },
-  {
-    "label": "Election Day",
-    "count": 7,
-    "sources": 6,
-    "keywords": [
-      "election",
-      "day",
-      "gas",
-      "prices",
-      "states",
-      "record"
     ]
   }
 ]
