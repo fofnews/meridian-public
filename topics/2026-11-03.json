@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "North Carolina",
+    "count": 7,
+    "sources": 6,
+    "keywords": [
+      "north",
+      "carolina",
+      "roy",
+      "cooper",
+      "senate",
+      "seat"
+    ]
+  },
+  {
     "label": "Election Results",
     "count": 6,
     "sources": 6,
@@ -88,19 +101,6 @@
       "election",
       "know",
       "midterm"
-    ]
-  },
-  {
-    "label": "Aid Israel",
-    "count": 6,
-    "sources": 5,
-    "keywords": [
-      "trump",
-      "israel",
-      "end",
-      "aid",
-      "year",
-      "bad"
     ]
   }
 ]
