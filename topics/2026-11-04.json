@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Abdul Sayed",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "abdul",
+      "sayed",
+      "michigan",
+      "race",
+      "mike",
+      "rogers"
+    ]
+  },
+  {
     "label": "Democrats Projected",
     "count": 4,
     "sources": 3,
@@ -78,29 +91,16 @@
     ]
   },
   {
-    "label": "Democrat Bobby",
+    "label": "Amy Acton",
     "count": 3,
     "sources": 3,
     "keywords": [
-      "texas",
+      "amy",
+      "acton",
+      "vivek",
+      "ramaswamy",
       "democrat",
-      "bobby",
-      "pulido",
-      "flips",
-      "district"
-    ]
-  },
-  {
-    "label": "James Talarico",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "james",
-      "talarico",
-      "win",
-      "texas",
-      "becomes",
-      "democrat"
+      "ohio"
     ]
   }
 ]
