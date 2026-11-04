@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "North Carolina",
+    "count": 9,
+    "sources": 7,
+    "keywords": [
+      "north",
+      "carolina",
+      "roy",
+      "cooper",
+      "senate",
+      "seat"
+    ]
+  },
+  {
     "label": "Mount Everest",
     "count": 8,
     "sources": 7,
@@ -62,19 +75,6 @@
       "wins",
       "senate",
       "election"
-    ]
-  },
-  {
-    "label": "North Carolina",
-    "count": 8,
-    "sources": 6,
-    "keywords": [
-      "north",
-      "carolina",
-      "roy",
-      "cooper",
-      "senate",
-      "seat"
     ]
   },
   {
