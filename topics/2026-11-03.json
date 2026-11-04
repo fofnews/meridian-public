@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Keisha Lance",
+    "count": 8,
+    "sources": 8,
+    "keywords": [
+      "bottoms",
+      "governor",
+      "keisha",
+      "lance",
+      "georgia",
+      "black"
+    ]
+  },
+  {
     "label": "North Carolina",
     "count": 9,
     "sources": 7,
@@ -88,19 +101,6 @@
       "prices",
       "states",
       "record"
-    ]
-  },
-  {
-    "label": "Election Results",
-    "count": 6,
-    "sources": 6,
-    "keywords": [
-      "2026",
-      "results",
-      "hour",
-      "election",
-      "know",
-      "midterm"
     ]
   }
 ]
