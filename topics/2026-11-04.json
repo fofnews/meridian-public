@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Adam Hamilton",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "senate",
+      "kansas",
+      "hamilton",
+      "adam",
+      "democrat",
+      "elected"
+    ]
+  },
+  {
     "label": "Stock Market",
     "count": 5,
     "sources": 5,
@@ -88,19 +101,6 @@
       "wins",
       "amy",
       "peggy"
-    ]
-  },
-  {
-    "label": "Troy Jackson",
-    "count": 6,
-    "sources": 4,
-    "keywords": [
-      "jackson",
-      "maine",
-      "senate",
-      "democrat",
-      "troy",
-      "collins"
     ]
   }
 ]
