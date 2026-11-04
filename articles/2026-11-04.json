@@ -3053,5 +3053,628 @@
     ],
     "collectRun": "2026-11-04T07:45:00.000Z",
     "collectedAt": "2026-11-04T07:45:05.435Z"
+  },
+  {
+    "title": "David Muir shares New Jersey students' determination in 100-Yard Food Drive Challenge",
+    "description": "Students at Howell High School filled their football field with over a quarter million pounds of food for the nonprofit, Dermer Dreams. David Muir reports on the volunteers that delivered.",
+    "link": "https://abcnews.com/video/137784550/",
+    "pubDate": "Tue, 03 Nov 2026 07:28:52 -0500",
+    "source": "ABC News",
+    "categories": [
+      "wnt"
+    ],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Democratic Rep. Marcy Kaptur wins Ohio rematch",
+    "description": "The northwestern Ohio district was redrawn in October 2025, creating a more Republican-leaning seat.",
+    "link": "https://www.cbsnews.com/news/ohio-9th-district-results-marcy-kaptur-derek-merrin/",
+    "pubDate": "Wed, 04 Nov 2026 03:49:13 -0500",
+    "source": "CBS News",
+    "categories": [],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Trump admits Iran war partly responsible for GOP's midterm defeat",
+    "description": "Despite acknowledging the Iran war was partially to blame for Republican losses, Trump said he didn't regret launching it.",
+    "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/",
+    "pubDate": "Wed, 04 Nov 2026 03:46:40 -0500",
+    "source": "CBS News",
+    "categories": [],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "GOP Sen. Pete Ricketts fends off independent Dan Osborn in Nebraska Senate race",
+    "description": "NBC News projects Ricketts has won re-election after facing a competitive race in the traditionally red state.",
+    "link": "https://www.nbcnews.com/politics/2026-election/pete-ricketts-nebraska-senator-gop-win-dan-osborn-election-rcna603328",
+    "pubDate": "Wed, 04 Nov 2026 08:28:32 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Palestinians return to ruined Hebron homes after Israel’s 10-day siege",
+    "description": "Returning Hebron residents face significant economic and structural devastation after Israeli military operation.",
+    "link": "https://www.aljazeera.com/features/2026/11/4/palestinians-return-to-ruined-hebron-homes-after-israels-10-day-siege?traffic_source=rss",
+    "pubDate": "Wed, 04 Nov 2026 08:22:15 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news analysis"
+    ],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "US elects its first Black woman governor",
+    "description": "The US has elected its first Black woman governor after Democrat Keisha Lance Bottoms won Georgia’s gubernatorial poll.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/us-elects-its-first-black-woman-governor?traffic_source=rss",
+    "pubDate": "Wed, 04 Nov 2026 08:19:27 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Democrat Abdul El-Sayed wins election to US Senate from Michigan",
+    "description": "Democrat Abdul El-Sayed gave an impassioned victory speech as he beat Republican Mike Rogers in the Michigan senate race",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-abdul-el-sayed-wins-election-to-us-senate-from-michigan-2?traffic_source=rss",
+    "pubDate": "Wed, 04 Nov 2026 08:18:40 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Democrat from Kansas elected to US Senate for first time since 1932",
+    "description": "A Democrat from Kansas has been elected to the US Senate for the first time in 94 years.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-from-kansas-elected-to-us-senate-for-first-time-since-great-depres?traffic_source=rss",
+    "pubDate": "Wed, 04 Nov 2026 08:09:44 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "‘We defeated Goliath’: Texas Democrat James Talarico wins Senate seat",
+    "description": "Democrat James Talarico wins the Texas Senate race in a historic midterm upset.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/we-defeated-goliath-texas-democrat-james-talarico-wins-senate-seat?traffic_source=rss",
+    "pubDate": "Wed, 04 Nov 2026 07:53:24 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Democrats deliver a historic routing to Republicans in US midterms",
+    "description": "For the first time in nearly 30 years, a Democrat will now represent South Carolina in the US Senate.",
+    "link": "https://www.aljazeera.com/news/2026/11/4/democrats-deliver-a-historic-routing-to-republicans-in-us-midterms?traffic_source=rss",
+    "pubDate": "Wed, 04 Nov 2026 07:46:12 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "FIFA’s Infantino ineligible for re-election, says former governance chief",
+    "description": "Miguel ⁠⁠Maduro insists Gianni Infantino cannot serve more than three terms, pointing to FIFA's statutes.",
+    "link": "https://www.aljazeera.com/sports/2026/11/4/fifas-infantino-ineligible-for-re-election-says-former-governance-chief?traffic_source=rss",
+    "pubDate": "Wed, 04 Nov 2026 07:39:35 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "El-Sayed defeats Rogers to win Senate seat in Michigan",
+    "description": "The Democrat prevailed after a stream of Islamophobia from top Republicans and a turbulent end to his campaign.",
+    "link": "https://www.aljazeera.com/news/2026/11/4/el-sayed-defeats-rogers-to-win-senate-seat-in-michigan?traffic_source=rss",
+    "pubDate": "Wed, 04 Nov 2026 07:31:20 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Democrats win Congress: How they did it, and what it means",
+    "description": "With control of Congress, Democrats can challenge Trump’s agenda through subpoenas, confirmation votes.",
+    "link": "https://www.aljazeera.com/news/2026/11/4/democrats-win-the-us-senate-what-does-this-mean?traffic_source=rss",
+    "pubDate": "Wed, 04 Nov 2026 07:23:45 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Spanish transport minister resigns after train crash killed 69 people",
+    "description": "Oscar Puente says he could not 'continue in office' after two major train accidents in less than a year.",
+    "link": "https://www.aljazeera.com/news/2026/11/4/spanish-transport-minister-resigns-after-train-crash-killed-69-people?traffic_source=rss",
+    "pubDate": "Wed, 04 Nov 2026 07:18:08 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Supermarket freezers in several European countries hit by apparent cyberattacks - AP News",
+    "description": "Supermarket freezers in several European countries hit by apparent cyberattacks  AP News",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLTQ5eVVHbDA4NkpVWmNlWmNrc0ZYZGxxSC1wdFphVmljMnVMX3BDWUNVQkl4akdHOU9leWNKTFdJS0xQVWI2X1VOZUUtYkRzOFN5aDlJcXpXeTVWV0EyeWVzS0JON0ZCb0w2bHBua0JfbDQxcHVsYk11ektjbjQyV1hNVzRnNjBlay1KZnpxVEVySlZ5b1FwbURIYll4aXJmRlN3?oc=5",
+    "pubDate": "Tue, 03 Nov 2026 05:30:00 GMT",
+    "source": "AP News",
+    "categories": [],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
+    "description": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
+    "link": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Wed, 04 Nov 2026 06:11:43 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Football world mourns Tenerife striker Jesus De Miguel",
+    "description": "Tributes were paid across Tuesday's Champions League fixtures to Tenerife striker Jesus de Miguel, who died following collision on the pitch.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6djv011mzlyo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 03 Nov 2026 23:37:12 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Abdul El-Sayed becomes first Muslim elected to US Senate - Reuters",
+    "description": "Abdul El-Sayed becomes first Muslim elected to US Senate  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLUxudWs1SWpxeDFHNWctVVdQNXA5N1gwT0N4ZG92R3FoRFdURVBRQ1NrNm1EZ0R0WFNqVl9KUlUtRWFrLVp6cXQzSXlBWHFuUzgwR2xjVVZmNjNzbklqLV9iZU9lMjRrakpHSUhFOHF6M1dneXc4RkpQZm95S1prNnJfckVzbGpoQWFmcmxBekR1MnY4Y1FYZUZtLU1qSUU?oc=5",
+    "pubDate": "Wed, 04 Nov 2026 07:35:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Democrats seize Congress in sweeping midterm repudiation of Trump - Reuters",
+    "description": "Democrats seize Congress in sweeping midterm repudiation of Trump  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ0lOMEdFS2NKSF9XVlZQUnNpWEgyRFN5d3prSnJKUFgyUmFZUEw5SWhQN0h5MEhEZk1GaVlyc1R2SzBsMmlSNjJtVDZ2YXMyN2ZPZGd2ZldGT1ZEQU51OElNNVA2emJPd2RnbFdxdmo0TWFaZHdmUXltbHlveXVnbHRPT21UTUJyX19ySlVNWk1MR0pZZlVzMzdrZTlOTUJKMi1UeWp1Q1BlOVlUaW1zSUxn?oc=5",
+    "pubDate": "Wed, 04 Nov 2026 06:59:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Hakeem Jeffries poised to become speaker of US House of Representatives - Reuters",
+    "description": "Hakeem Jeffries poised to become speaker of US House of Representatives  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdV85RkhlZ3psbks1UlVEVWxGZkx2SVBMS3YxZnFUNVRiVVJBXzdkVWkxTWRleUJPcVA4ek4xb0ZIYllReHBNQ2dFVkVZR2pSdHB4b2ROQ0NYRGdwYk1NUDlCb0VkTF9ybWE4WG5abUlTWUtjS2NJZEZidEpvR2VvS25fQW80SThrR1V1Wm9iekxKNzktTGN0UHM0dzE4NmpSVHgybXoyeThNSFZxX2pYT2VWNXFUZw?oc=5",
+    "pubDate": "Wed, 04 Nov 2026 06:25:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Novo Nordisk raises 2026 outlook as Wegovy pill beats forecasts - Reuters",
+    "description": "Novo Nordisk raises 2026 outlook as Wegovy pill beats forecasts  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUXNSTmhfQVhISGNaNGRPM1A5R1hwalZvbm93d3lkc0thd0dZMGdLZ3h6WTI4NnVQeGxZYVdhc2IzY3M3UXUtMlBQVmtZWlMtQmhDYXhCZ1JuREQzZlhwQVVRR0tiTEZybndZdHBKbG5ZcXR1c2p6Tm5yNHRXYVNNVUs2VjViQVB6dWc3c24tTHd3UkNRN1NIdXZ1alB3TkljNGNXSUZn?oc=5",
+    "pubDate": "Wed, 04 Nov 2026 06:36:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Yarbrough wins Texas House election for redistricted Julie Johnson seat",
+    "description": "Texas Republican House candidate Jace Yarbrough is projected to win the open seat to lead the state’s redistricted 32nd District and replace Rep. Julie Johnson (D-Texas), per Decision Desk HQ. The attorney defeated Richardson City Council member Dan Barrios (D) in the district redrawn to favor Republicans last year. Johnson opted to run in the…",
+    "link": "https://thehill.com/homenews/campaign/6134970-yarbrough-wins-texas-house-election/",
+    "pubDate": "\n\t\tWed, 04 Nov 2026 08:50:39 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "house",
+      "news",
+      "state watch"
+    ],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Arizona approves ballot measure designating sexes to sports teams",
+    "description": "A ballot measure that would further restrict transgender people from competing on sports teams or using private spaces like locker rooms that align with their gender identity is projected to pass in Arizona, according to Decision Desk HQ.  Voters approved the ballot measure, otherwise known as Proposition 318, which requires both private and public schools…",
+    "link": "https://thehill.com/homenews/campaign/6190934-arizona-approves-ballot-measure-transgender-sports-restrictions-2026/",
+    "pubDate": "\n\t\tWed, 04 Nov 2026 08:45:46 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "news",
+      "policy",
+      "sports & gaming",
+      "state watch",
+      "2026 midterms",
+      "arizona",
+      "arizona prop 318",
+      "ddhq",
+      "lgbtq",
+      "transgender sports"
+    ],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Idaho rejects ballot measure adding abortion access protection",
+    "description": "A ballot measure that would legalize abortion access up until fetal viability in Idaho, reversing the state’s current ban, is projected to fail, according to Decision Desk HQ.  Voters rejected the ballot measure, which sought to establish protections around reproductive access in the Gem State up to viability, around 23 to 24 weeks, when the…",
+    "link": "https://thehill.com/homenews/campaign/6191184-idaho-rejects-ballot-measure-adding-abortion-access-protection-2026/",
+    "pubDate": "\n\t\tWed, 04 Nov 2026 08:35:27 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "healthcare",
+      "news",
+      "policy",
+      "state watch",
+      "2026 midterms",
+      "abortion access",
+      "ddhq",
+      "idaho",
+      "idaho abortion ban",
+      "idaho prop 1",
+      "roe v. wade overturned",
+      "supreme court"
+    ],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Winners and losers of the 2026 midterms",
+    "description": "Democrats pulled off the blue wave of their dreams on Tuesday, winning the House and Senate majorities in a stunning cap to the most expensive midterm election cycle on record.   The midterm results are a massive victory for the party, which suffered bruising losses in the last presidential election. It gives Democrats a real chance of…",
+    "link": "https://thehill.com/homenews/campaign/6196833-democrats-win-house-senate/",
+    "pubDate": "\n\t\tWed, 04 Nov 2026 08:35:13 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "news"
+    ],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Nebraska voters approve ban on transgender athletes in girls’ sports",
+    "description": "A ballot measure requiring schools to designate “biological sexes” to sports teams, is projected to pass, according to Decision Desk HQ.  Voters approved the constitutional amendment, known as Initiative Measure 442, which would require public schools, both K-12 and colleges and universities — in addition to any private schools that compete against them — to…",
+    "link": "https://thehill.com/homenews/campaign/6191203-nebraska-approves-transgender-sports-ballot-measure-2026/",
+    "pubDate": "\n\t\tWed, 04 Nov 2026 08:31:27 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "lgbtq",
+      "news",
+      "policy",
+      "sports & gaming",
+      "state watch",
+      "2026 midterms",
+      "ddhq",
+      "nebraska",
+      "nebraska measure 442",
+      "transgender sports",
+      "transgender sports ban"
+    ],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Live updates: Democrats riding high after historic night; GOP searches for answers",
+    "description": "Democrats will control both the Senate and the House of Representatives come Jan. 3 according to Decision Desk HQ. The exact extent of Democrats’ majorities remains to be determined as some key races are still undecided as of early Wednesday. But Democrats picked up most of this year’s high-profile contests across the country, including the…",
+    "link": "https://thehill.com/homenews/campaign/6188142-live-updates-trump-democrats-congress-control/",
+    "pubDate": "\n\t\tWed, 04 Nov 2026 08:28:58 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "campaign",
+      "house",
+      "news",
+      "senate",
+      "state watch"
+    ],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Nevada approves abortion rights amendment",
+    "description": "Nevada voters have approved a ballot measure protecting abortion up to the point of viability, officially adding the protection to the state constitution, Decision Desk HQ has projected.  The measure allows the state to enact restrictions after viability is reached, which is usually around the 24-week mark, except when necessary to protect the life or health…",
+    "link": "https://thehill.com/homenews/campaign/6185144-nevada-approves-abortion-rights-amendment/",
+    "pubDate": "\n\t\tWed, 04 Nov 2026 08:20:36 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "healthcare",
+      "state watch",
+      "2026 midterms",
+      "abortion",
+      "ddhq",
+      "nevada",
+      "nevada abortion rights",
+      "roe v. wade overturned",
+      "supreme court"
+    ],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Nevada approves voter ID requirement for casting ballot",
+    "description": "A Nevada ballot measure that aims to add voter identification requirements when casting a ballot is projected to pass, according to Decision Desk HQ.  The constitutional amendment, known as Question 7, would add language to the state Constitution requiring someone to show photo identification if they voted in-person early or on Election Day.   The…",
+    "link": "https://thehill.com/homenews/campaign/6189761-nevada-ballot-measure-passes/",
+    "pubDate": "\n\t\tWed, 04 Nov 2026 08:20:04 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "state watch"
+    ],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Kaptur beats Merrin in Ohio House rematch",
+    "description": "Rep. Marcy Kaptur (D-Ohio) is projected to win a 23rd term representing Ohio in the House, emerging from a tough rematch with Republican Derek Merrin, according to Decision Desk HQ (DDHQ). Notching another two-year term in Ohio’s 9th Congressional District, Kaptur extends her record as the longest-serving woman in congressional history. She is projected to notch…",
+    "link": "https://thehill.com/homenews/campaign/6175333-kaptur-wins-ohio-house-seat/",
+    "pubDate": "\n\t\tWed, 04 Nov 2026 07:44:47 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "house",
+      "news",
+      "state watch",
+      "derek merrin",
+      "house race",
+      "marcy kaptur",
+      "midterms",
+      "ohio 9"
+    ],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "CN Tower Mocks Trump’s ‘Lake America’ Declaration With New Window Signs",
+    "description": "Toronto’s iconic CN Tower is hitting back at Donald Trump’s move to rename Lake Ontario to \"Lake America\" with a defiant message.",
+    "link": "https://www.newsweek.com/cn-tower-lake-ontario-message-trump-lake-america-12656477",
+    "pubDate": "Wed, 04 Nov 2026 03:46:29 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Democrats Won Congress. Here’s Why the Alaska Senate Race Still Matters",
+    "description": "Peltola leads Sullivan in early Alaska returns, but a slow count could keep the race open for days.",
+    "link": "https://www.newsweek.com/democrats-congress-alaska-senate-race-12660748",
+    "pubDate": "Wed, 04 Nov 2026 02:54:44 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Perez Hilton’s Family Share Update On Recovery: ‘Positive News’",
+    "description": "Hilton, 48, has made progress in his recovery, his family has said.",
+    "link": "https://www.newsweek.com/entertainment/celebrity-news/perez-hiltons-family-share-update-on-recovery-positive-news-12660986",
+    "pubDate": "Wed, 04 Nov 2026 02:47:56 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Dem wins Trump-targeted Texas district in rebuke of Republican redistricting shakeup",
+    "description": "Johnny Garcia defeated Republican Carlos De La Cruz in Texas' redrawn 35th Congressional District, defying a Trump-backed redistricting map.",
+    "link": "https://www.foxnews.com/politics/dem-wins-trump-targeted-texas-district-rebuke-republican-redistricting-shakeup",
+    "pubDate": "Wed, 04 Nov 2026 03:36:03 -0400",
+    "source": "Fox News",
+    "categories": [
+      "e82da030-fa10-56ca-8f74-38c1f33f78a7",
+      "fnc",
+      "fox news",
+      "fox-news/politics/elections/midterm-elections",
+      "fox-news/politics/elections/house-of-representatives",
+      "fox-news/us/us-regions/southwest/texas",
+      "fox-news/politics",
+      "fox-news/us/congress",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Speaker Mike Johnson projected to cruise to re-election for fifth House term",
+    "description": "Speaker Mike Johnson is seeking a fifth term representing Louisiana's 4th Congressional District in the House of Representatives.",
+    "link": "https://www.foxnews.com/politics/speaker-mike-johnson-cruises-re-election-fifth-house-term",
+    "pubDate": "Wed, 04 Nov 2026 03:21:54 -0400",
+    "source": "Fox News",
+    "categories": [
+      "90129f4c-df62-552c-b763-19d6e5e8a0a8",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/person/mike-johnson",
+      "fox-news/politics/elections/house-of-representatives",
+      "fox-news/politics/elections/midterm-elections",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Dems flips yet another Senate seat in Trump country amid sweeping GOP upsets",
+    "description": "Josh Turek's Iowa Senate win over Ashley Hinson marks the first time Democrats captured the seat since 2008 in a state Trump won by double digits.",
+    "link": "https://www.foxnews.com/politics/dems-flips-yet-another-senate-seat-trump-country-amid-sweeping-gop-upsets",
+    "pubDate": "Wed, 04 Nov 2026 03:07:02 -0400",
+    "source": "Fox News",
+    "categories": [
+      "f0b145c8-832e-5ffe-b9b8-c43df0b5d5fe",
+      "fnc",
+      "fox news",
+      "fox-news/politics/elections/midterm-elections",
+      "fox-news/us/us-regions/midwest/iowa",
+      "fox-news/democrats",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "North Korea launches missiles toward the sea as Pyongyang protests against US claims on Binance hack",
+    "description": "North Korea launched multiple missiles after denying FBI claims that Pyongyang orchestrated a $6 billion cryptocurrency heist at Binance.",
+    "link": "https://nypost.com/2026/11/04/world-news/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/",
+    "pubDate": "Wed, 04 Nov 2026 03:59:13 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Pete Ricketts wins Nebraska Senate race, making Dan Osborn two-time loser",
+    "description": "Dan Osborn, 51, benefited from the lack of a Democrat on the ballot, though Pete Ricketts and his allies branded him \"Democrat Dan.\"",
+    "link": "https://nypost.com/2026/11/04/us-news/pete-ricketts-wins-nebraska-senate-race-making-dan-osborn-two-time-loser/",
+    "pubDate": "Wed, 04 Nov 2026 03:35:12 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "The biggest revelations from Netflix’s Natalee Holloway doc",
+    "description": "Natalee Holloway's mother, friends, and FBI agent speak out about her disappearance and the long journey to Joran van der Sloot's confession.",
+    "link": "https://pagesix.com/2026/11/04/entertainment/the-biggest-revelations-from-netflixs-natalee-holloway-doc/",
+    "pubDate": "Wed, 04 Nov 2026 03:01:00 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Dear Abby: My son-in-law won’t stop sending me cat videos",
+    "description": "Dear Abby advises about a woman's son-in-law who keeps sending cat videos and a woman struggling with the aftermath of sexual assault.",
+    "link": "https://nypost.com/2026/11/04/lifestyle/dear-abby-my-son-in-law-wont-stop-sending-me-cat-videos/",
+    "pubDate": "Wed, 04 Nov 2026 03:00:00 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Popeyes revives retro Cajun Onion Rings side that fans have wanted for years",
+    "description": "The crispy, Cajun spice-covered rings come with a cup of buttermilk ranch and are available for a limited time.",
+    "link": "https://nypost.com/2026/11/04/lifestyle/popeyes-revives-retro-cajun-onion-rings-side-that-fans-have-wanted-for-years/",
+    "pubDate": "Wed, 04 Nov 2026 02:56:26 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Career criminal captured in only his underwear after 100mph chase sentenced to five years in jail",
+    "description": "A Colorado career criminal who led police on a triple-digit high-speed chase before being captured prone in nothing but his underwear was thrown behind bars following a year of being in and out of jail.",
+    "link": "https://nypost.com/2026/11/04/us-news/colorado-criminal-zakary-hirschfield-sentenced-to-five-years-in-prison-for-100-mph-high-speed-chase/",
+    "pubDate": "Wed, 04 Nov 2026 02:55:37 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "GOP grapples with midterm bloodbath: ‘Think Titanic meets Hindenburg’",
+    "description": "South Carolina. Texas. Kansas. Democrats cruised to victory in deep-red territory on Tuesday night, notching shock pickups that will reverberate for the final two years of Donald Trump’s presidency. Republicans not only lost the House, but watched as their hope of keeping a Senate majority slipped away, too — a blue tsunami that was quickly […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4791649/gop-electoral-bloodbath-blue-tsunami/",
+    "pubDate": "Wed, 04 Nov 2026 08:07:42 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "congressional",
+      "2026 elections",
+      "congress",
+      "donald trump",
+      "john thune",
+      "mike johnson",
+      "washington d.c."
+    ],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Kurt Alme comes out on top in Montana Senate race",
+    "description": "Republican Kurt Alme emerged victorious in Montana’s Senate race Tuesday night, beating Democrat Alani Bankhead and independent Seth Bodnar to succeed outgoing Sen. Steve Daines (R-MT). The race was called for Alme at 2:54 a.m. Wednesday morning by the Associated Press. He garnered 47.7% against Bodnar’s 38.6% and Bankhead’s 11.9%, with 78% of the vote […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4757405/kurt-alme-win-montana-senate-election/",
+    "pubDate": "Wed, 04 Nov 2026 08:05:31 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "congressional",
+      "2026 elections",
+      "donald trump",
+      "independents",
+      "montana",
+      "republicans",
+      "senate"
+    ],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Marcy Kaptur wins 23rd term in Congress with victory over Ohio Republican Derek Merrin",
+    "description": "Rep. Marcy Kaptur (D-OH) has emerged triumphant from another reelection campaign in Ohio‘s 9th Congressional District, this time against Republican Derek Merrin. The Associated Press called the race for Kaptur at 2:53 a.m. on Wednesday morning. Kaptur garnered 52.7% against Merrin’s 47.3%, with 97% of the vote counted. The contest to represent the northwestern Ohio […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/congressional/4786106/marcy-kaptur-derek-merrin-ohio-9th-district-results/",
+    "pubDate": "Wed, 04 Nov 2026 07:59:37 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "congressional",
+      "2026 elections",
+      "democrats",
+      "donald trump",
+      "ohio",
+      "washington d.c."
+    ],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Trump Acknowledges Iran Played Role in Republican Midterm Losses - Newsmax",
+    "description": "Trump Acknowledges Iran Played Role in Republican Midterm Losses  Newsmax",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRFQyOUJMR2M3X25OTnQxU2RfcWladUQtT2V1SlBaVGR3VTJzNGRpVk1hTWlXaHZTcVdqTlBydnhXT2JoaDFfdnBkRHRqenhzamRVY0VuZGVORTVWS0h1VTNlUnZRcXFDYnlxRktmelYzNHFsY3VXNnMzaUdEaS1GR2NXRWJoMjBaM3ppVThQZw?oc=5",
+    "pubDate": "Wed, 04 Nov 2026 05:33:22 GMT",
+    "source": "Newsmax",
+    "categories": [],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
+  },
+  {
+    "title": "Trump Says He'll Accept Dem Victories, Work With Congress - Newsmax",
+    "description": "Trump Says He'll Accept Dem Victories, Work With Congress  Newsmax",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORDRFSU16enM4QjFqX0ptYlFtdzE5Ynd3NFRSUTdIXzM4Z24tbFpCdG81MTlGXzFlbjdQYWoxUE1CdnAwS0t4TF9RQjI5ZmQtSXZpTU92N19xM1V0WHNXMk1SMFloSUM1M1BXeXRXUzJJeHNRY3dLMmREaGUyUkhESG14QXpZb2ZqclE?oc=5",
+    "pubDate": "Wed, 04 Nov 2026 04:12:44 GMT",
+    "source": "Newsmax",
+    "categories": [],
+    "collectRun": "2026-11-04T09:00:00.000Z",
+    "collectedAt": "2026-11-04T09:00:05.106Z"
   }
 ]
