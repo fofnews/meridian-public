@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Vance Blames",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "vance",
+      "war",
+      "blames",
+      "iran",
+      "gop",
+      "reason"
+    ]
+  },
+  {
     "label": "James Talarico",
     "count": 6,
     "sources": 5,
@@ -88,19 +101,6 @@
       "nebraska",
       "pete",
       "wins"
-    ]
-  },
-  {
-    "label": "Marine Dies",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "marine",
-      "dies",
-      "training",
-      "incident",
-      "japan",
-      "during"
     ]
   }
 ]
