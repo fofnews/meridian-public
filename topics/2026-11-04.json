@@ -1,15 +1,28 @@
 [
   {
+    "label": "Wins Minnesota",
+    "count": 5,
+    "sources": 4,
+    "keywords": [
+      "minnesota",
+      "race",
+      "klobuchar",
+      "wins",
+      "peggy",
+      "flanagan"
+    ]
+  },
+  {
     "label": "Josh Turek",
-    "count": 3,
-    "sources": 3,
+    "count": 4,
+    "sources": 4,
     "keywords": [
       "josh",
       "turek",
       "senate",
+      "iowa",
       "ashley",
-      "hinson",
-      "iowa"
+      "hinson"
     ]
   }
 ]
