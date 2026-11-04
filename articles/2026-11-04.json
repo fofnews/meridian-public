@@ -5996,5 +5996,273 @@
     ],
     "collectRun": "2026-11-04T13:00:00.000Z",
     "collectedAt": "2026-11-04T13:00:08.394Z"
+  },
+  {
+    "title": "U.S. Marine dies in Japan during training, military says",
+    "description": "A United States Marine has died in Japan, following a “training incident,” the military said in a statement Wednesday.",
+    "link": "https://www.nbcnews.com/world/japan/us-marine-killed-japan-training-incident-says-military-rcna607387",
+    "pubDate": "Wed, 04 Nov 2026 12:52:46 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectRun": "2026-11-04T13:15:00.000Z",
+    "collectedAt": "2026-11-04T13:15:06.696Z"
+  },
+  {
+    "title": "Why are Europe’s governments struggling to respond to growing protests?",
+    "description": "Protests intensify as governments prioritise security measures over addressing underlying social and economic concerns.",
+    "link": "https://www.aljazeera.com/news/2026/11/4/why-are-europes-governments-struggling-to-respond-to-growing-protests?traffic_source=rss",
+    "pubDate": "Wed, 04 Nov 2026 13:03:07 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-11-04T13:15:00.000Z",
+    "collectedAt": "2026-11-04T13:15:06.696Z"
+  },
+  {
+    "title": "Tennis great Rafael Nadal set to join Real Madrid board",
+    "description": "The 22-time Grand Slam winner is to be ratified onto club's board of directors.",
+    "link": "https://www.aljazeera.com/sports/2026/11/4/tennis-great-rafael-nadal-set-to-join-real-madrid-board?traffic_source=rss",
+    "pubDate": "Wed, 04 Nov 2026 13:00:07 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectRun": "2026-11-04T13:15:00.000Z",
+    "collectedAt": "2026-11-04T13:15:06.696Z"
+  },
+  {
+    "title": "Can Democrats stop Iran war, reverse Trump’s tariffs after midterms win?",
+    "description": "Democrats can block Trump's legislative agenda, launch investigations but don't have the numbers to override his veto.",
+    "link": "https://www.aljazeera.com/news/2026/11/4/tariffs-to-iran-war-can-democrats-reverse-trump-policy-with-midterms-win?traffic_source=rss",
+    "pubDate": "Wed, 04 Nov 2026 12:48:11 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-11-04T13:15:00.000Z",
+    "collectedAt": "2026-11-04T13:15:06.696Z"
+  },
+  {
+    "title": "Trump admits Iran war hurt Republican vote, vows to veto ‘insane’ bills",
+    "description": "US President Donald Trump has admitted that the war on Iran contributed to Republican losses in the midterm elections.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-admits-iran-war-hurt-republican-vote-vows-to-veto-insane-bills?traffic_source=rss",
+    "pubDate": "Wed, 04 Nov 2026 12:44:30 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectRun": "2026-11-04T13:15:00.000Z",
+    "collectedAt": "2026-11-04T13:15:06.696Z"
+  },
+  {
+    "title": "UK Supreme Court hears appeal against Palestine Action’s proscription",
+    "description": "Rights activists say UK decision against Palestine Action is a 'misuse of terrorism powers'.",
+    "link": "https://www.aljazeera.com/news/2026/11/4/uk-supreme-court-hears-appeal-against-palestine-actions-proscription?traffic_source=rss",
+    "pubDate": "Wed, 04 Nov 2026 12:43:47 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-11-04T13:15:00.000Z",
+    "collectedAt": "2026-11-04T13:15:06.696Z"
+  },
+  {
+    "title": "Netanyahu rivals seize on Democrats' sweep of US Congress, seeking his ouster - Reuters",
+    "description": "Netanyahu rivals seize on Democrats' sweep of US Congress, seeking his ouster  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMXFMUXhNOFRueTBpaDBRdk9WX0pJUW5DT21NakZ4WHlIZERjUWpfZHdjUkZ5OTRlSml1WnFNOGIxUEpBakFJbG90ZnFZMFh0Y2VwMGJ0VWJXVWZyMnBMWk5pMGpEa2NyQUN1dExweU1wYVhIdUtFUVBWcEViMlFTS2VBZDNaQmRsU0dfQ09Gd1FKOE9WN2ZDeFlTYjdlQ2k0QnJXeUpUeWgzWENBTkoyTmlwa2lvRkRuRURnZUFsdkw?oc=5",
+    "pubDate": "Wed, 04 Nov 2026 11:44:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectRun": "2026-11-04T13:15:00.000Z",
+    "collectedAt": "2026-11-04T13:15:06.696Z"
+  },
+  {
+    "title": "Democratic sweep adds new twist to markets' Iran, AI, and debt worries - Reuters",
+    "description": "Democratic sweep adds new twist to markets' Iran, AI, and debt worries  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa19fZ0FrSFljZ2xPQlpBRmJ4NUFwcGZfME5lOGRNYnVKb2dtdldILTNDRHBwM3c1YzRiWVpXVUY1c3NzWVlINHAweEFjTUNaeTZwNjc3Q2swM2U4ZEk3SWJvdHJkVEQ4dUU4WEFnaEhoMDFONGhSd1I3TkthSkRmbWtQUzRBRjRuNGprcEEweUJTb3RXRktwaHZKMVlEM1RyaGZTVUluX3o5dXRlcElQVS1XVVVuTlE2?oc=5",
+    "pubDate": "Wed, 04 Nov 2026 12:07:15 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectRun": "2026-11-04T13:15:00.000Z",
+    "collectedAt": "2026-11-04T13:15:06.696Z"
+  },
+  {
+    "title": "Trump: Iran war partially to blame for GOP midterm losses",
+    "description": "President Trump partially blamed the ongoing war with Iran for the GOP’s sweeping midterm losses in the midterms — but said he would have done it again. Trump told the Wall Street Journal that the Middle East conflict, now in its ninth month, “was a piece of it” in an election night interview. Gas and…",
+    "link": "https://thehill.com/homenews/campaign/6197073-donald-trump-gop-losses-2026-midterms-iran-war/",
+    "pubDate": "\n\t\tWed, 04 Nov 2026 13:12:56 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "campaign",
+      "defense",
+      "international",
+      "news",
+      "policy",
+      "2026 midterms",
+      "affordability",
+      "fuel prices",
+      "gop losses",
+      "trump administration"
+    ],
+    "collectRun": "2026-11-04T13:15:00.000Z",
+    "collectedAt": "2026-11-04T13:15:06.696Z"
+  },
+  {
+    "title": "Democrat Nathan Johnson flips Texas attorney general’s office",
+    "description": "Texans elected a Democrat to serve as the state’s top lawyer for the first time in decades on Tuesday, flipping an attorney general’s office that had become a reliable conservative stronghold under outgoing Republican Attorney General Ken Paxton. Nathan Johnson, a Texas state senator from Dallas, is poised to become Texas’s first Democratic attorney general…",
+    "link": "https://thehill.com/homenews/6197088-democrat-nathan-johnson-wins-texas-ag/",
+    "pubDate": "\n\t\tWed, 04 Nov 2026 13:10:01 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-11-04T13:15:00.000Z",
+    "collectedAt": "2026-11-04T13:15:06.696Z"
+  },
+  {
+    "title": "5 Hard Truths for Democrats After Their Blue Tsunami",
+    "description": "The scale of the victory is undoubtable, and its message against Trump’s governance clear. But it also conceals its fragility.",
+    "link": "https://www.newsweek.com/5-hard-truths-for-democrats-after-their-blue-tsunami-12662915",
+    "pubDate": "Wed, 04 Nov 2026 08:11:38 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-04T13:15:00.000Z",
+    "collectedAt": "2026-11-04T13:15:06.696Z"
+  },
+  {
+    "title": "Threatening White Powder Letters Sent to Election Officials Revealed",
+    "description": "The man charged with sending the letters allegedly warned members of the Democratic Socialists of America not to vote.",
+    "link": "https://www.newsweek.com/threatening-white-powder-letters-sent-election-officials-revealed-12661253",
+    "pubDate": "Wed, 04 Nov 2026 08:01:51 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-04T13:15:00.000Z",
+    "collectedAt": "2026-11-04T13:15:06.696Z"
+  },
+  {
+    "title": "Forget Lame Duck Trump. The Werewolf Is Unbeaten and Bigfoot Is 1-1",
+    "description": "Midterm results aside, political chickens are 0-5, dogs are 3-4 and fish, rats, pigs, sheep and parrots have a perfect record.",
+    "link": "https://www.newsweek.com/midterms-2026-campaign-ads-animals-trump-12661266",
+    "pubDate": "Wed, 04 Nov 2026 08:00:00 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-04T13:15:00.000Z",
+    "collectedAt": "2026-11-04T13:15:06.696Z"
+  },
+  {
+    "title": "Democratic Victory Sparks Avalanche of 'Woke 2' Jokes, Memes",
+    "description": "\"Woke 2.0\" jokes are spreading online after Democrats' midterm victories, but the results tell a more complicated political story.",
+    "link": "https://www.newsweek.com/democratic-victory-sparks-avalanche-of-woke-2-jokes-memes-12662004",
+    "pubDate": "Wed, 04 Nov 2026 07:58:59 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-04T13:15:00.000Z",
+    "collectedAt": "2026-11-04T13:15:06.696Z"
+  },
+  {
+    "title": "Datadog’s stock extends steep declines in the wake of earnings",
+    "description": "Datadog failed to top expectations with its revenue forecast.",
+    "link": "https://www.marketwatch.com/story/datadogs-stock-extends-steep-declines-in-the-wake-of-earnings-af412874?mod=mw_rss_topstories",
+    "pubDate": "Wed, 04 Nov 2026 13:03:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectRun": "2026-11-04T13:15:00.000Z",
+    "collectedAt": "2026-11-04T13:15:06.696Z"
+  },
+  {
+    "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+    "description": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
+    "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+    "pubDate": "Wed, 04 Nov 2026 13:00:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectRun": "2026-11-04T13:15:00.000Z",
+    "collectedAt": "2026-11-04T13:15:06.696Z"
+  },
+  {
+    "title": "Think the Fed will be done after two more rate hikes? How Friday’s jobs report may trigger a major market repricing.",
+    "description": "Unexpectedly hot jobs data could affect the number and timing of future rate hikes",
+    "link": "https://www.marketwatch.com/story/think-the-fed-will-be-done-after-two-more-rate-hikes-how-fridays-jobs-report-may-trigger-a-major-market-repricing-6aca874c?mod=mw_rss_topstories",
+    "pubDate": "Wed, 04 Nov 2026 13:00:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectRun": "2026-11-04T13:15:00.000Z",
+    "collectedAt": "2026-11-04T13:15:06.696Z"
+  },
+  {
+    "title": "Meet the far-left socialists coming to Congress next year",
+    "description": "House Democrats will see a slew of new far-left lawmakers enter their ranks next year after Tuesday night's midterm elections.",
+    "link": "https://www.foxnews.com/politics/meet-far-left-socialists-coming-congress-next-year",
+    "pubDate": "Wed, 04 Nov 2026 08:00:44 -0400",
+    "source": "Fox News",
+    "categories": [
+      "bdceece0-6c4a-5515-aa3d-1eb0f444fd36",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/politics/elections/midterm-elections",
+      "fox-news/politics/socialism",
+      "fox-news/politics/house-of-representatives",
+      "fox-news/person/zohran-mamdani",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectRun": "2026-11-04T13:15:00.000Z",
+    "collectedAt": "2026-11-04T13:15:06.696Z"
+  },
+  {
+    "title": "MLB owners are back with a new salary cap proposal to shut down sport even after Brewers win World Series",
+    "description": "The Major League Baseball Players Association rejected MLB's new salary cap proposal as the Brewers' dominant World Series run undercuts owner claims.",
+    "link": "https://www.foxnews.com/outkick-sports/mlb-owners-back-new-salary-cap-proposal-shut-down-sport-after-brewers-win-world-series",
+    "pubDate": "Wed, 04 Nov 2026 07:56:53 -0400",
+    "source": "Fox News",
+    "categories": [
+      "54bad208-1386-517d-a6e9-de668492dffb",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/sports/mlb",
+      "fox-news/sports/mlb-postseason",
+      "fox-news/sports/mlb/milwaukee-brewers",
+      "fox-news/sports/mlb/tampa-bay-rays",
+      "fox-news/sports/mlb/cleveland-guardians",
+      "fox-news/outkick/betting",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectRun": "2026-11-04T13:15:00.000Z",
+    "collectedAt": "2026-11-04T13:15:06.696Z"
+  },
+  {
+    "title": "‘RHOC’ alum Lynne Curtin’s homeless daughter busted with drug paraphernalia months after ‘cry for help’",
+    "description": "In February, Alexa Curtin detailed her heartbreaking road to homelessness and drug addiction -- and said she didn't \"even have parents anymore.\"",
+    "link": "https://pagesix.com/2026/11/04/celebrity-news/rhoc-alum-lynne-curtins-homeless-daughter-busted-with-drug-paraphernalia/",
+    "pubDate": "Wed, 04 Nov 2026 08:08:41 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-04T13:15:00.000Z",
+    "collectedAt": "2026-11-04T13:15:06.696Z"
+  },
+  {
+    "title": "‘Bachelor’ alum Melissa Rycroft speaks out after second DWI arrest, reveals mental health struggles: ‘I need help’",
+    "description": "\"I've been struggling with my mental health for quite some time now. It has completely overwhelmed me,\" the \"Dancing With the Stars\" alum wrote.",
+    "link": "https://pagesix.com/2026/11/04/celebrity-news/bachelor-alum-melissa-rycroft-speaks-out-after-second-dwi-arrest/",
+    "pubDate": "Wed, 04 Nov 2026 08:02:34 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-04T13:15:00.000Z",
+    "collectedAt": "2026-11-04T13:15:06.696Z"
+  },
+  {
+    "title": "Is The ‘I Play Rocky’ Movie Worth Seeing in Theaters?",
+    "description": "Yo, Adrian! Should this have been a streaming movie?",
+    "link": "https://decider.com/2026/11/04/i-play-rocky-movie-review/",
+    "pubDate": "Wed, 04 Nov 2026 08:00:00 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-04T13:15:00.000Z",
+    "collectedAt": "2026-11-04T13:15:06.696Z"
   }
 ]
