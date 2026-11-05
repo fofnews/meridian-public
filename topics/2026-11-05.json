@@ -1,15 +1,15 @@
 [
   {
     "label": "Russell Brand",
-    "count": 11,
-    "sources": 9,
+    "count": 13,
+    "sources": 11,
     "keywords": [
       "russell",
       "brand",
       "rape",
-      "found",
-      "guilty",
-      "sexual"
+      "sexual",
+      "assault",
+      "found"
     ]
   },
   {
@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Cristiano Ronaldo",
+    "count": 8,
+    "sources": 5,
+    "keywords": [
+      "ronaldo",
+      "international",
+      "cristiano",
+      "announces",
+      "retirement",
+      "football"
+    ]
+  },
+  {
     "label": "Joshua Wong",
     "count": 5,
     "sources": 5,
@@ -36,19 +49,6 @@
       "kong",
       "activist",
       "sentenced"
-    ]
-  },
-  {
-    "label": "Cristiano Ronaldo",
-    "count": 6,
-    "sources": 4,
-    "keywords": [
-      "ronaldo",
-      "cristiano",
-      "international",
-      "announces",
-      "retirement",
-      "portugal"
     ]
   },
   {
@@ -91,16 +91,16 @@
     ]
   },
   {
-    "label": "Midterm Election",
+    "label": "Ronaldo Retires",
     "count": 3,
-    "sources": 2,
+    "sources": 3,
     "keywords": [
-      "midterm",
-      "election",
-      "results",
-      "kornacki",
-      "steve",
-      "analyzes"
+      "ronaldo",
+      "retires",
+      "legendary",
+      "career",
+      "cristiano",
+      "international"
     ]
   }
 ]
