@@ -1,5 +1,18 @@
 [
   {
+    "label": "Russell Brand",
+    "count": 9,
+    "sources": 7,
+    "keywords": [
+      "russell",
+      "brand",
+      "rape",
+      "found",
+      "guilty",
+      "sexual"
+    ]
+  },
+  {
     "label": "Bomb Threats",
     "count": 8,
     "sources": 7,
@@ -36,19 +49,6 @@
       "announces",
       "retirement",
       "football"
-    ]
-  },
-  {
-    "label": "Russell Brand",
-    "count": 5,
-    "sources": 4,
-    "keywords": [
-      "russell",
-      "brand",
-      "rape",
-      "found",
-      "guilty",
-      "assault"
     ]
   },
   {
