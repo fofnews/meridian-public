@@ -1129,5 +1129,49 @@
     ],
     "collectRun": "2026-11-05T09:15:00.000Z",
     "collectedAt": "2026-11-05T09:15:07.327Z"
+  },
+  {
+    "title": "Russia says it hit Ukrainian postal hub and ship as Ukraine strikes Ryazan",
+    "description": "Injuries reported on both sides as Russia and Ukraine trade overnight drone strikes on energy and logistics sites.",
+    "link": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan?traffic_source=rss",
+    "pubDate": "Thu, 05 Nov 2026 09:13:35 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-11-05T09:30:00.000Z",
+    "collectedAt": "2026-11-05T09:30:04.893Z"
+  },
+  {
+    "title": "Google will cut off search access for students at schools that reject AI - AP News",
+    "description": "Google will cut off search access for students at schools that reject AI  AP News",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObGtOMHhjQzVNYWRRMEw5cTYtWG9OOGREZGRvV3Bqd1EzUGhaUVQzYzdQX0ExMkp1MWdxZEN5LTJyRHYtUzROVldKeTFuSTdWb0VpelMyV2tkaWowU0xfbXBOanlKdGNIV1E3NWVla1YtSkhmRU4tdVZBTXhwY2YxWkFBdGVBaVB4N2VUVUlTZGtfdWJBbWtZVmE1VnM?oc=5",
+    "pubDate": "Wed, 04 Nov 2026 00:53:00 GMT",
+    "source": "AP News",
+    "categories": [],
+    "collectRun": "2026-11-05T09:30:00.000Z",
+    "collectedAt": "2026-11-05T09:30:04.893Z"
+  },
+  {
+    "title": "Bodycam captures chaotic response to deadly Citibank shooting in Florida",
+    "description": "Body camera footage shows Hillsborough County deputies rushing into the Florida Citibank campus as frantic 911 calls capture the deadly chaos.",
+    "link": "https://www.foxnews.com/us/florida-citibank-shooting-bodycam-footage",
+    "pubDate": "Thu, 05 Nov 2026 04:12:10 -0400",
+    "source": "Fox News",
+    "categories": [
+      "22802eb4-2340-59ae-a18f-317fdc03c340",
+      "fnc",
+      "fox news",
+      "fox-news/us",
+      "fox-news/crime",
+      "fox-news/us/us-regions/southeast/florida",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/us/crime/homicide",
+      "fox-news/tech/technologies/video",
+      "fox-news/us",
+      "article"
+    ],
+    "collectRun": "2026-11-05T09:30:00.000Z",
+    "collectedAt": "2026-11-05T09:30:04.893Z"
   }
 ]
