@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Death Sentences",
+    "count": 9,
+    "sources": 8,
+    "keywords": [
+      "death",
+      "california",
+      "newsom",
+      "sentences",
+      "commutes",
+      "row"
+    ]
+  },
+  {
     "label": "Bomb Threats",
     "count": 8,
     "sources": 7,
@@ -23,19 +36,6 @@
       "multiple",
       "europe",
       "european"
-    ]
-  },
-  {
-    "label": "Death Sentences",
-    "count": 8,
-    "sources": 7,
-    "keywords": [
-      "death",
-      "california",
-      "newsom",
-      "sentences",
-      "commutes",
-      "gov"
     ]
   },
   {
