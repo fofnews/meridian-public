@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Bank Collapse",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "paraguay",
+      "president",
+      "bank",
+      "collapse",
+      "resigns",
+      "santiago"
+    ]
+  },
+  {
     "label": "Democrats Win",
     "count": 4,
     "sources": 3,
@@ -88,19 +101,6 @@
       "win",
       "congress",
       "live"
-    ]
-  },
-  {
-    "label": "Bob Dylan",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "bob",
-      "dylan",
-      "pope",
-      "leo",
-      "meets",
-      "xiv"
     ]
   }
 ]
