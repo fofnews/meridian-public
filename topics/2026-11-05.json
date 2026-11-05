@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Dublin Rome",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "bomb",
+      "rome",
+      "diverts",
+      "dublin",
+      "alert",
+      "plane"
+    ]
+  },
+  {
     "label": "Democrats Win",
     "count": 4,
     "sources": 3,
@@ -23,19 +36,6 @@
       "win",
       "congress",
       "live"
-    ]
-  },
-  {
-    "label": "Bomb Alert",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "bomb",
-      "diverts",
-      "rome",
-      "alert",
-      "plane",
-      "dublin"
     ]
   }
 ]
