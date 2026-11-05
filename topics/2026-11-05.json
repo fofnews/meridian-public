@@ -1,5 +1,18 @@
 [
   {
+    "label": "Bomb Threats",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "bomb",
+      "threats",
+      "flights",
+      "multiple",
+      "europe",
+      "european"
+    ]
+  },
+  {
     "label": "Joshua Wong",
     "count": 4,
     "sources": 4,
@@ -23,19 +36,6 @@
       "dublin",
       "alert",
       "plane"
-    ]
-  },
-  {
-    "label": "Bomb Threats",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "bomb",
-      "threats",
-      "multiple",
-      "flights",
-      "european",
-      "week"
     ]
   },
   {
