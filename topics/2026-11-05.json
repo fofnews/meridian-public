@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Bomb Threats",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "bomb",
+      "threats",
+      "multiple",
+      "flights",
+      "european",
+      "week"
+    ]
+  },
+  {
     "label": "Democrats Win",
     "count": 4,
     "sources": 3,
@@ -39,16 +52,16 @@
     ]
   },
   {
-    "label": "Bomb Threats",
+    "label": "Cristiano Ronaldo",
     "count": 3,
     "sources": 3,
     "keywords": [
-      "multiple",
-      "bomb",
-      "threats",
-      "flights",
-      "europe",
-      "european"
+      "cristiano",
+      "ronaldo",
+      "international",
+      "portugal",
+      "announces",
+      "retirement"
     ]
   }
 ]
