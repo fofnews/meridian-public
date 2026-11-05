@@ -76,5 +76,18 @@
       "reuters",
       "rep"
     ]
+  },
+  {
+    "label": "House Fire",
+    "count": 3,
+    "sources": 2,
+    "keywords": [
+      "brooklyn",
+      "house",
+      "fire",
+      "kills",
+      "injures",
+      "several"
+    ]
   }
 ]
