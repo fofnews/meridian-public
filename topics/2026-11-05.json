@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Melania Trump",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "trump",
+      "melania",
+      "russia",
+      "ukraine",
+      "representatives",
+      "live"
+    ]
+  },
+  {
     "label": "Bob Dylan",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "leo",
       "meets",
       "xiv"
-    ]
-  },
-  {
-    "label": "Ronaldo Retires",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "ronaldo",
-      "retires",
-      "legendary",
-      "career",
-      "cristiano",
-      "international"
     ]
   }
 ]
