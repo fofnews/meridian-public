@@ -1,8 +1,8 @@
 [
   {
     "label": "Russell Brand",
-    "count": 9,
-    "sources": 7,
+    "count": 11,
+    "sources": 9,
     "keywords": [
       "russell",
       "brand",
@@ -40,15 +40,15 @@
   },
   {
     "label": "Cristiano Ronaldo",
-    "count": 5,
+    "count": 6,
     "sources": 4,
     "keywords": [
-      "cristiano",
       "ronaldo",
+      "cristiano",
       "international",
       "announces",
       "retirement",
-      "football"
+      "portugal"
     ]
   },
   {
@@ -91,16 +91,16 @@
     ]
   },
   {
-    "label": "2028 Presidential",
+    "label": "Midterm Election",
     "count": 3,
     "sources": 2,
     "keywords": [
-      "2028",
-      "race",
-      "presidential",
-      "democrats",
-      "reuters",
-      "rep"
+      "midterm",
+      "election",
+      "results",
+      "kornacki",
+      "steve",
+      "analyzes"
     ]
   }
 ]
