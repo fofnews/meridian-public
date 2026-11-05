@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Bob Dylan",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "bob",
+      "dylan",
+      "pope",
+      "leo",
+      "meets",
+      "xiv"
+    ]
+  },
+  {
     "label": "2028 Presidential",
     "count": 3,
     "sources": 2,
@@ -88,19 +101,6 @@
       "kills",
       "injures",
       "several"
-    ]
-  },
-  {
-    "label": "Bonus Code",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "bonus",
-      "code",
-      "jaguars",
-      "ravens",
-      "bet",
-      "get"
     ]
   }
 ]
