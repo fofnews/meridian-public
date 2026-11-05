@@ -6,24 +6,31 @@ export function phoneMapHeight(storyOpen, viewportHeight) {
 }
 
 // Scroll rowEl so it sits 12px below the sticky map strip after the map
-// finishes animating to its new height (determined by storyOpenAfter).
-// Call in the same tick as the React state change so the CSS transition
-// and the scroll animation start together.
-export function scrollRowBelowMap(rowEl, storyOpenAfter) {
+// finishes animating to its new height. Call from a useLayoutEffect that
+// fires after expandedStory changes so the DOM reflects the new layout.
+//
+// openBefore/openAfter must be passed separately: when switching A→B both
+// are true and the old code's !openAfter shortcut would compute the wrong
+// nonMapH (it would assume the map was closed before).
+export function scrollRowBelowMap(rowEl, openBefore, openAfter, { instant = false } = {}) {
   if (!rowEl) return;
   const vh = window.innerHeight;
   // The full sticky area height (map + strip) is published by MapHero's ResizeObserver.
   const stickyH = parseFloat(
     getComputedStyle(document.documentElement).getPropertyValue('--map-sticky-height')
   ) || 0;
-  // Non-map portion (strip + any other chrome) stays constant.
-  const nonMapH = stickyH - phoneMapHeight(!storyOpenAfter, vh);
-  const finalH = nonMapH + phoneMapHeight(storyOpenAfter, vh);
+  // Non-map portion (strip + any other chrome) stays constant; use openBefore
+  // to get the correct map height that was in effect before this change.
+  const nonMapH = stickyH - phoneMapHeight(openBefore, vh);
+  const finalH = nonMapH + phoneMapHeight(openAfter, vh);
+
+  // Use only the story header for the visibility test, not the whole open card
+  // (an open card body is usually taller than the screen, which defeats the check).
+  const headerEl = rowEl.querySelector('[data-story-open-header]') ?? rowEl.querySelector('button[aria-expanded]');
+  const testRect = (headerEl ?? rowEl).getBoundingClientRect();
+  if (testRect.top >= finalH + 12 && testRect.bottom <= vh) return;
 
   const rowRect = rowEl.getBoundingClientRect();
-  // If the row is already fully visible below the final pinned height, do nothing.
-  if (rowRect.top >= finalH + 12 && rowRect.bottom <= vh) return;
-
   const target = rowRect.top + window.scrollY - finalH - 12;
-  window.scrollTo({ top: Math.max(0, target), behavior: 'smooth' });
+  window.scrollTo({ top: Math.max(0, target), behavior: instant ? 'instant' : 'smooth' });
 }

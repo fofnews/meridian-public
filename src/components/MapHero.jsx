@@ -73,7 +73,11 @@ export default function MapHero({
   const [vh, setVh] = useState(() => window.innerHeight);
   useEffect(() => {
     if (!isPhone) return;
-    const handler = () => setVh(window.innerHeight);
+    let lastW = window.innerWidth;
+    const handler = () => {
+      const w = window.innerWidth;
+      if (w !== lastW) { lastW = w; setVh(window.innerHeight); }
+    };
     window.addEventListener('resize', handler);
     return () => window.removeEventListener('resize', handler);
   }, [isPhone]);

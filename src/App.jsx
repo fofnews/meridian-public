@@ -54,6 +54,7 @@ export default function App() {
   const adminSecret = new URLSearchParams(window.location.search).get('admin') ?? '';
   const [showScrollTop, setShowScrollTop] = useState(false);
   const scrollAnchor = useRef(null);
+  const pendingPhoneScroll = useRef(null);
   const [readIds, setReadIds] = useState(() => new Set());
   const [showAllBrief, setShowAllBrief] = useState(false);
   const { markOpened } = useSettings();
@@ -80,6 +81,16 @@ export default function App() {
     scrollAnchor.current = null;
   });
 
+  // Deferred phone scroll: runs after expandedStory settles so the DOM
+  // reflects the new layout before we measure and scroll.
+  useLayoutEffect(() => {
+    if (!pendingPhoneScroll.current) return;
+    const { id, openBefore, openAfter, instant } = pendingPhoneScroll.current;
+    pendingPhoneScroll.current = null;
+    const rowEl = document.querySelector(`[data-story-id="${id}"]`);
+    scrollRowBelowMap(rowEl, openBefore, openAfter, { instant });
+  }, [expandedStory]);
+
   const editionKey = selectedDate && selectedEdition ? `${selectedDate}-${selectedEdition}` : null;
 
   useEffect(() => {
@@ -91,10 +102,14 @@ export default function App() {
       scrollAnchor.current = { element: el, top: el.getBoundingClientRect().top };
     }
     const next = expandedStory === itemId ? null : itemId;
-    setExpandedStory(next);
     if (isPhone) {
-      scrollRowBelowMap(el, next !== null);
+      pendingPhoneScroll.current = {
+        id: itemId,
+        openBefore: expandedStory !== null,
+        openAfter: next !== null,
+      };
     }
+    setExpandedStory(next);
     if (next) {
       setFeaturedStoryId(leadId);
       if (editionKey && markOpened) {
@@ -190,7 +205,15 @@ export default function App() {
       brief
       expanded={expandedStory === story.id}
       onToggle={el => {
-        scrollAnchor.current = { element: el, top: el.getBoundingClientRect().top };
+        if (isPhone) {
+          pendingPhoneScroll.current = {
+            id: story.id,
+            openBefore: expandedStory !== null,
+            openAfter: expandedStory !== story.id,
+          };
+        } else {
+          scrollAnchor.current = { element: el, top: el.getBoundingClientRect().top };
+        }
         setExpandedStory(expandedStory === story.id ? null : story.id);
       }}
     />
@@ -303,8 +326,12 @@ export default function App() {
             })() : ''}
             onCloseStory={() => {
                 if (isPhone && expandedStory) {
-                  const card = document.querySelector(`[data-story-id="${expandedStory}"]`);
-                  scrollRowBelowMap(card, false);
+                  pendingPhoneScroll.current = {
+                    id: expandedStory,
+                    openBefore: true,
+                    openAfter: false,
+                    instant: true,
+                  };
                 }
                 setExpandedStory(null);
               }}
