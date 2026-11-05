@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Cristiano Ronaldo",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "cristiano",
+      "ronaldo",
+      "international",
+      "announces",
+      "retirement",
+      "football"
+    ]
+  },
+  {
     "label": "Democrats Win",
     "count": 4,
     "sources": 3,
@@ -49,19 +62,6 @@
       "win",
       "congress",
       "live"
-    ]
-  },
-  {
-    "label": "Cristiano Ronaldo",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "cristiano",
-      "ronaldo",
-      "international",
-      "portugal",
-      "announces",
-      "retirement"
     ]
   }
 ]
