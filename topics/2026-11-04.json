@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Senate Race",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "senate",
+      "race",
+      "too",
+      "close",
+      "call",
+      "collins"
+    ]
+  },
+  {
     "label": "Josh Turek",
     "count": 5,
     "sources": 5,
@@ -88,19 +101,6 @@
       "election",
       "results",
       "elections"
-    ]
-  },
-  {
-    "label": "Nebraska Senate",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "ricketts",
-      "senate",
-      "osborn",
-      "nebraska",
-      "pete",
-      "wins"
     ]
   }
 ]
