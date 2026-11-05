@@ -37,5 +37,18 @@
       "congress",
       "live"
     ]
+  },
+  {
+    "label": "Bomb Threats",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "multiple",
+      "bomb",
+      "threats",
+      "flights",
+      "europe",
+      "european"
+    ]
   }
 ]
