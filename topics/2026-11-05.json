@@ -1,7 +1,7 @@
 [
   {
     "label": "Bomb Threats",
-    "count": 7,
+    "count": 8,
     "sources": 7,
     "keywords": [
       "bomb",
@@ -9,7 +9,7 @@
       "flights",
       "multiple",
       "europe",
-      "diverted"
+      "european"
     ]
   },
   {
@@ -36,6 +36,19 @@
       "announces",
       "retirement",
       "football"
+    ]
+  },
+  {
+    "label": "Russell Brand",
+    "count": 5,
+    "sources": 4,
+    "keywords": [
+      "russell",
+      "brand",
+      "rape",
+      "found",
+      "guilty",
+      "assault"
     ]
   },
   {
@@ -88,19 +101,6 @@
       "democrats",
       "reuters",
       "rep"
-    ]
-  },
-  {
-    "label": "House Fire",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "brooklyn",
-      "house",
-      "fire",
-      "kills",
-      "injures",
-      "several"
     ]
   }
 ]
