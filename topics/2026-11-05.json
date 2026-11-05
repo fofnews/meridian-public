@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Joshua Wong",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "joshua",
+      "wong",
+      "hong",
+      "kong",
+      "activist",
+      "sentenced"
+    ]
+  },
+  {
     "label": "Cristiano Ronaldo",
     "count": 5,
     "sources": 4,
@@ -23,19 +36,6 @@
       "announces",
       "retirement",
       "football"
-    ]
-  },
-  {
-    "label": "Joshua Wong",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "joshua",
-      "wong",
-      "hong",
-      "kong",
-      "activist",
-      "sentenced"
     ]
   },
   {
@@ -88,6 +88,19 @@
       "kills",
       "injures",
       "several"
+    ]
+  },
+  {
+    "label": "Bonus Code",
+    "count": 3,
+    "sources": 2,
+    "keywords": [
+      "bonus",
+      "code",
+      "jaguars",
+      "ravens",
+      "bet",
+      "get"
     ]
   }
 ]
