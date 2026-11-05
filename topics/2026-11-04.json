@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Senate Race",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "senate",
+      "race",
+      "sayed",
+      "michigan",
+      "count",
+      "defeats"
+    ]
+  },
+  {
     "label": "Minority Leader",
     "count": 6,
     "sources": 5,
@@ -88,19 +101,6 @@
       "close",
       "call",
       "collins"
-    ]
-  },
-  {
-    "label": "Josh Turek",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "josh",
-      "turek",
-      "senate",
-      "iowa",
-      "flips",
-      "seat"
     ]
   }
 ]
