@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Death Sentences",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "death",
+      "california",
+      "newsom",
+      "sentences",
+      "commutes",
+      "row"
+    ]
+  },
+  {
     "label": "Joshua Wong",
     "count": 5,
     "sources": 5,
@@ -65,19 +78,6 @@
     ]
   },
   {
-    "label": "Death Row",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "death",
-      "california",
-      "newsom",
-      "sentences",
-      "commutes",
-      "row"
-    ]
-  },
-  {
     "label": "Melania Trump",
     "count": 5,
     "sources": 4,
@@ -91,16 +91,16 @@
     ]
   },
   {
-    "label": "Bob Dylan",
-    "count": 4,
+    "label": "Civil Rights",
+    "count": 5,
     "sources": 4,
     "keywords": [
-      "bob",
-      "dylan",
-      "pope",
-      "leo",
-      "meets",
-      "xiv"
+      "civil",
+      "rights",
+      "harmeet",
+      "dhillon",
+      "resigns",
+      "doj"
     ]
   }
 ]
