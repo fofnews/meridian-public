@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Minority Leader",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "leader",
+      "gop",
+      "run",
+      "thune",
+      "minority",
+      "midterm"
+    ]
+  },
+  {
     "label": "Senate Race",
     "count": 6,
     "sources": 5,
@@ -88,19 +101,6 @@
       "adam",
       "democrat",
       "elected"
-    ]
-  },
-  {
-    "label": "Stock Market",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "midterm",
-      "market",
-      "stock",
-      "election",
-      "results",
-      "elections"
     ]
   }
 ]
