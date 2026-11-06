@@ -1,5 +1,18 @@
 [
   {
+    "label": "Susie Wiles",
+    "count": 8,
+    "sources": 8,
+    "keywords": [
+      "susie",
+      "wiles",
+      "chief",
+      "staff",
+      "trump",
+      "stephen"
+    ]
+  },
+  {
     "label": "Meghan Markle",
     "count": 8,
     "sources": 6,
@@ -88,19 +101,6 @@
       "conspiracy",
       "attorney",
       "foes"
-    ]
-  },
-  {
-    "label": "Pope Leo",
-    "count": 5,
-    "sources": 4,
-    "keywords": [
-      "pope",
-      "america",
-      "surgery",
-      "leo",
-      "latin",
-      "tour"
     ]
   }
 ]
