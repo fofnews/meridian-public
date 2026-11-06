@@ -1,5 +1,18 @@
 [
   {
+    "label": "Latin America",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "pope",
+      "america",
+      "latin",
+      "surgery",
+      "leo",
+      "tour"
+    ]
+  },
+  {
     "label": "Colorado Police",
     "count": 3,
     "sources": 3,
@@ -23,19 +36,6 @@
       "death",
       "1990",
       "dies"
-    ]
-  },
-  {
-    "label": "Latin America",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "pope",
-      "america",
-      "latin",
-      "tour",
-      "surgery",
-      "leo"
     ]
   }
 ]
