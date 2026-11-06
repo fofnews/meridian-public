@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "West Virginia",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "governor",
+      "senator",
+      "rockefeller",
+      "dies",
+      "former",
+      "west"
+    ]
+  },
+  {
     "label": "Added 165",
     "count": 4,
     "sources": 4,
@@ -88,19 +101,6 @@
       "bass",
       "los",
       "angeles"
-    ]
-  },
-  {
-    "label": "Arch Gets",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "trump",
-      "arch",
-      "gets",
-      "green",
-      "light",
-      "judge"
     ]
   }
 ]
