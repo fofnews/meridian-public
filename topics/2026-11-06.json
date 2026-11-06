@@ -50,5 +50,18 @@
       "wind",
       "texas"
     ]
+  },
+  {
+    "label": "Kids Crashes",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "bus",
+      "crashes",
+      "france",
+      "kids",
+      "eastern",
+      "several"
+    ]
   }
 ]
