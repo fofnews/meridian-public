@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Supreme Court",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "criminal",
+      "supreme",
+      "court",
+      "leak",
+      "probe",
+      "justice"
+    ]
+  },
+  {
     "label": "Melania Trump",
     "count": 5,
     "sources": 4,
@@ -88,19 +101,6 @@
       "ukraine",
       "representatives",
       "white"
-    ]
-  },
-  {
-    "label": "Civil Rights",
-    "count": 5,
-    "sources": 4,
-    "keywords": [
-      "civil",
-      "rights",
-      "harmeet",
-      "dhillon",
-      "resigns",
-      "doj"
     ]
   }
 ]
