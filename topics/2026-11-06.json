@@ -11,5 +11,31 @@
       "officer",
       "killed"
     ]
+  },
+  {
+    "label": "Wisconsin Infant",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "wisconsin",
+      "infant",
+      "measles",
+      "death",
+      "1990",
+      "dies"
+    ]
+  },
+  {
+    "label": "Latin America",
+    "count": 3,
+    "sources": 2,
+    "keywords": [
+      "pope",
+      "america",
+      "latin",
+      "tour",
+      "surgery",
+      "leo"
+    ]
   }
 ]
