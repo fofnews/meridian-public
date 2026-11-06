@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Stephen Miller",
+    "count": 8,
+    "sources": 5,
+    "keywords": [
+      "stephen",
+      "miller",
+      "chief",
+      "staff",
+      "trump",
+      "white"
+    ]
+  },
+  {
     "label": "Pope Leo",
     "count": 7,
     "sources": 5,
@@ -88,19 +101,6 @@
       "begins",
       "america",
       "tour"
-    ]
-  },
-  {
-    "label": "Stephen Miller",
-    "count": 7,
-    "sources": 5,
-    "keywords": [
-      "stephen",
-      "miller",
-      "chief",
-      "staff",
-      "trump",
-      "white"
     ]
   }
 ]
