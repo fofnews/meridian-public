@@ -1,5 +1,18 @@
 [
   {
+    "label": "200 Years",
+    "count": 5,
+    "sources": 4,
+    "keywords": [
+      "cult",
+      "leader",
+      "200",
+      "kenyan",
+      "years",
+      "sentenced"
+    ]
+  },
+  {
     "label": "Judge Halts",
     "count": 4,
     "sources": 4,
@@ -88,19 +101,6 @@
       "green",
       "light",
       "judge"
-    ]
-  },
-  {
-    "label": "129 Million",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "129",
-      "million",
-      "charged",
-      "scheme",
-      "steal",
-      "use"
     ]
   }
 ]
