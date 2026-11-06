@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Arch Gets",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "trump",
+      "arch",
+      "gets",
+      "green",
+      "light",
+      "judge"
+    ]
+  },
+  {
     "label": "129 Million",
     "count": 3,
     "sources": 3,
@@ -49,6 +62,19 @@
       "scheme",
       "steal",
       "use"
+    ]
+  },
+  {
+    "label": "Trump Arch",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "panel",
+      "trump",
+      "arch",
+      "federal",
+      "approval",
+      "key"
     ]
   },
   {
@@ -75,32 +101,6 @@
       "death",
       "1990",
       "dies"
-    ]
-  },
-  {
-    "label": "Tesla Wind",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "cybertruck",
-      "production",
-      "factory",
-      "tesla",
-      "wind",
-      "texas"
-    ]
-  },
-  {
-    "label": "Kids Crashes",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "bus",
-      "crashes",
-      "france",
-      "kids",
-      "eastern",
-      "several"
     ]
   }
 ]
