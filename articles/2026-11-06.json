@@ -701,5 +701,46 @@
     "categories": [],
     "collectRun": "2026-11-06T06:30:00.000Z",
     "collectedAt": "2026-11-06T06:30:01.474Z"
+  },
+  {
+    "title": "Home Office investigating after BBC catches lawyer offering to make fines go away",
+    "description": "The Home Office said it will be investigating the allegations to see whether there has been a breach of immigration rules.",
+    "link": "https://www.bbc.co.uk/news/articles/c6vgjygzwdz7o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 06 Nov 2026 05:53:15 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectRun": "2026-11-06T06:45:00.000Z",
+    "collectedAt": "2026-11-06T06:45:02.170Z"
+  },
+  {
+    "title": "Wisconsin infant dies of measles as state sees first death from disease since 1990",
+    "description": "Wisconsin's health officials announced an infant's measles-associated death, marking the state's first in 36 years, amid 431 cases in 13 counties.",
+    "link": "https://www.foxnews.com/health/wisconsin-infant-dies-measles-state-first-death-disease-since-1990",
+    "pubDate": "Fri, 06 Nov 2026 01:36:22 -0400",
+    "source": "Fox News",
+    "categories": [
+      "a66505ca-d2f4-5fff-9019-7f3e3bbebf76",
+      "fnc",
+      "fox news",
+      "fox-news/us/us-regions/midwest/wisconsin",
+      "fox-news/health",
+      "fox-news/health/measles",
+      "fox-news/health/healthy-living/childrens-health",
+      "fox-news/us",
+      "fox-news/health",
+      "article"
+    ],
+    "collectRun": "2026-11-06T06:45:00.000Z",
+    "collectedAt": "2026-11-06T06:45:02.170Z"
+  },
+  {
+    "title": "Michigan nephew, 4 others convicted for abducting, beating uncle who was gifted $100K in viral video",
+    "description": "Five people pleaded guilty in Detroit for kidnapping Curtis Dixon to steal $100,000 he received after going viral on TikTok.",
+    "link": "https://nypost.com/2026/11/06/us-news/michigan-nephew-4-others-convicted-for-abducting-beating-uncle-curtis-dixon-who-was-gifted-100k-in-viral-video/",
+    "pubDate": "Fri, 06 Nov 2026 01:36:39 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-06T06:45:00.000Z",
+    "collectedAt": "2026-11-06T06:45:02.170Z"
   }
 ]
