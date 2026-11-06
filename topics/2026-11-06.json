@@ -1,6 +1,19 @@
 [
   {
     "label": "Meghan Markle",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "markle",
+      "meghan",
+      "father",
+      "arrested",
+      "thomas",
+      "child"
+    ]
+  },
+  {
+    "label": "Meghan Markle",
     "count": 8,
     "sources": 5,
     "keywords": [
@@ -65,16 +78,16 @@
     ]
   },
   {
-    "label": "Meghan Markle",
+    "label": "Probe Trump",
     "count": 5,
     "sources": 5,
     "keywords": [
-      "markle",
-      "meghan",
-      "father",
-      "thomas",
-      "arrested",
-      "child"
+      "trump",
+      "probe",
+      "resigns",
+      "conspiracy",
+      "attorney",
+      "foes"
     ]
   },
   {
@@ -88,19 +101,6 @@
       "leo",
       "latin",
       "tour"
-    ]
-  },
-  {
-    "label": "Judge Halts",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "trump",
-      "arch",
-      "construction",
-      "judge",
-      "halts",
-      "triumphal"
     ]
   }
 ]
