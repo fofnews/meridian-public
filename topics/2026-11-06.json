@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Meghan Markle",
+    "count": 5,
+    "sources": 3,
+    "keywords": [
+      "meghan",
+      "markle",
+      "thomas",
+      "arrested",
+      "child",
+      "porn"
+    ]
+  },
+  {
     "label": "Latin America",
     "count": 4,
     "sources": 3,
@@ -88,19 +101,6 @@
       "control",
       "congress",
       "know"
-    ]
-  },
-  {
-    "label": "Los Angeles",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "raman",
-      "mayor",
-      "newsmax",
-      "bass",
-      "los",
-      "angeles"
     ]
   }
 ]
