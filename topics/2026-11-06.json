@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Cybertruck Production",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "cybertruck",
+      "production",
+      "tesla",
+      "musk",
+      "wind",
+      "factory"
+    ]
+  },
+  {
     "label": "West Virginia",
     "count": 5,
     "sources": 5,
@@ -62,19 +75,6 @@
       "judge",
       "halts",
       "triumphal"
-    ]
-  },
-  {
-    "label": "Cybertruck Production",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "cybertruck",
-      "production",
-      "tesla",
-      "factory",
-      "musk",
-      "wind"
     ]
   },
   {
