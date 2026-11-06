@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Cybertruck Production",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "cybertruck",
+      "production",
+      "tesla",
+      "factory",
+      "musk",
+      "wind"
+    ]
+  },
+  {
     "label": "Latin America",
     "count": 4,
     "sources": 3,
@@ -88,19 +101,6 @@
       "suspect",
       "officer",
       "killed"
-    ]
-  },
-  {
-    "label": "Wisconsin Infant",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "wisconsin",
-      "infant",
-      "measles",
-      "death",
-      "1990",
-      "dies"
     ]
   }
 ]
