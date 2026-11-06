@@ -1,5 +1,18 @@
 [
   {
+    "label": "Judge Halts",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "trump",
+      "arch",
+      "construction",
+      "judge",
+      "halts",
+      "triumphal"
+    ]
+  },
+  {
     "label": "Latin America",
     "count": 4,
     "sources": 3,
@@ -10,19 +23,6 @@
       "surgery",
       "leo",
       "tour"
-    ]
-  },
-  {
-    "label": "Triumphal Arch",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "trump",
-      "arch",
-      "triumphal",
-      "construction",
-      "judge",
-      "halts"
     ]
   },
   {
