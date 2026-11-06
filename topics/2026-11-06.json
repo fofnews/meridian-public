@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Control Congress",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "democrats",
+      "take",
+      "back",
+      "control",
+      "congress",
+      "know"
+    ]
+  },
+  {
     "label": "Los Angeles",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "scheme",
       "steal",
       "use"
-    ]
-  },
-  {
-    "label": "Trump Arch",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "panel",
-      "trump",
-      "arch",
-      "federal",
-      "approval",
-      "key"
     ]
   }
 ]
