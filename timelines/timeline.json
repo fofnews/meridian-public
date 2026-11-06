@@ -4430,7 +4430,7 @@
       "title": "Iran Strait of Hormuz Crisis",
       "firstSeen": "2026-03-10",
       "lastSeen": "2026-10-07",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-03-10",
@@ -4735,7 +4735,7 @@
       "title": "Cuba Energy Crisis",
       "firstSeen": "2026-03-16",
       "lastSeen": "2026-10-07",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-03-16",
@@ -8564,5 +8564,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-05T22:20:30.348Z"
+  "updatedAt": "2026-11-06T12:20:21.525Z"
 }
