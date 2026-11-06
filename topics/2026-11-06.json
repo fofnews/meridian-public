@@ -13,6 +13,32 @@
     ]
   },
   {
+    "label": "Chief Staff",
+    "count": 7,
+    "sources": 7,
+    "keywords": [
+      "chief",
+      "staff",
+      "stephen",
+      "miller",
+      "trump",
+      "wiles"
+    ]
+  },
+  {
+    "label": "Meghan Markle",
+    "count": 9,
+    "sources": 6,
+    "keywords": [
+      "markle",
+      "meghan",
+      "arrested",
+      "child",
+      "thomas",
+      "father"
+    ]
+  },
+  {
     "label": "Meghan Markle",
     "count": 9,
     "sources": 6,
@@ -26,16 +52,29 @@
     ]
   },
   {
-    "label": "Meghan Markle",
-    "count": 8,
+    "label": "Chris Murphy",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "chris",
+      "murphy",
+      "stroke",
+      "hospital",
+      "sen",
+      "miss"
+    ]
+  },
+  {
+    "label": "Pope Leo",
+    "count": 7,
     "sources": 5,
     "keywords": [
-      "markle",
-      "meghan",
-      "thomas",
-      "arrested",
-      "child",
-      "porn"
+      "pope",
+      "surgery",
+      "leo",
+      "begins",
+      "america",
+      "tour"
     ]
   },
   {
@@ -62,45 +101,6 @@
       "added",
       "october",
       "economy"
-    ]
-  },
-  {
-    "label": "Cybertruck Production",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "cybertruck",
-      "production",
-      "tesla",
-      "musk",
-      "wind",
-      "factory"
-    ]
-  },
-  {
-    "label": "West Virginia",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "governor",
-      "senator",
-      "rockefeller",
-      "dies",
-      "former",
-      "west"
-    ]
-  },
-  {
-    "label": "Probe Trump",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "trump",
-      "probe",
-      "resigns",
-      "conspiracy",
-      "attorney",
-      "foes"
     ]
   }
 ]
