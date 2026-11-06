@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Oval Office",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "trump",
+      "oval",
+      "office",
+      "national",
+      "monument",
+      "moves"
+    ]
+  },
+  {
     "label": "Joshua Wong",
     "count": 5,
     "sources": 5,
@@ -88,19 +101,6 @@
       "leak",
       "probe",
       "justice"
-    ]
-  },
-  {
-    "label": "Oval Office",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "trump",
-      "oval",
-      "office",
-      "national",
-      "monument",
-      "moves"
     ]
   }
 ]
