@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Meghan Markle",
+    "count": 10,
+    "sources": 7,
+    "keywords": [
+      "markle",
+      "meghan",
+      "arrested",
+      "child",
+      "thomas",
+      "father"
+    ]
+  },
+  {
     "label": "Chief Staff",
     "count": 7,
     "sources": 7,
@@ -23,19 +36,6 @@
       "miller",
       "trump",
       "wiles"
-    ]
-  },
-  {
-    "label": "Meghan Markle",
-    "count": 9,
-    "sources": 6,
-    "keywords": [
-      "markle",
-      "meghan",
-      "arrested",
-      "child",
-      "thomas",
-      "father"
     ]
   },
   {
@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Cornell Faculty",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "cornell",
+      "confidence",
+      "faculty",
+      "vote",
+      "senate",
+      "administration"
+    ]
+  },
+  {
     "label": "Pope Leo",
     "count": 7,
     "sources": 5,
@@ -88,19 +101,6 @@
       "kenyan",
       "years",
       "sentenced"
-    ]
-  },
-  {
-    "label": "165 000",
-    "count": 6,
-    "sources": 5,
-    "keywords": [
-      "165",
-      "000",
-      "jobs",
-      "added",
-      "october",
-      "economy"
     ]
   }
 ]
