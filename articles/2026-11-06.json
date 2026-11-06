@@ -568,5 +568,28 @@
     "categories": [],
     "collectRun": "2026-11-06T05:45:00.000Z",
     "collectedAt": "2026-11-06T05:45:01.280Z"
+  },
+  {
+    "title": "Colorado police officer killed, 3 more officers wounded after suspect opens fire near bus",
+    "description": "A suspect trying to board an RTD bus near Denver opened fire on Lakewood police officers, killing one and wounding three others Thursday evening.",
+    "link": "https://www.foxnews.com/us/colorado-police-officer-killed-3-others-wounded-suspect-opens-fire-near-bus",
+    "pubDate": "Fri, 06 Nov 2026 00:36:49 -0400",
+    "source": "Fox News",
+    "categories": [
+      "535878d3-1ac7-5d15-8864-df699dfa2325",
+      "fnc",
+      "fox news",
+      "fox-news/us",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/us/crime/homicide",
+      "fox-news/us/us-regions/west/colorado",
+      "fox-news/us/denver",
+      "fox-news/politics/judiciary/state-and-local",
+      "fox-news/politics/elections/local",
+      "fox-news/us",
+      "article"
+    ],
+    "collectRun": "2026-11-06T06:00:00.000Z",
+    "collectedAt": "2026-11-06T06:00:01.685Z"
   }
 ]
