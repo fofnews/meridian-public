@@ -1,5 +1,18 @@
 [
   {
+    "label": "Meghan Markle",
+    "count": 8,
+    "sources": 5,
+    "keywords": [
+      "markle",
+      "meghan",
+      "thomas",
+      "arrested",
+      "child",
+      "porn"
+    ]
+  },
+  {
     "label": "200 Years",
     "count": 6,
     "sources": 5,
@@ -39,16 +52,29 @@
     ]
   },
   {
+    "label": "165 000",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "165",
+      "000",
+      "jobs",
+      "added",
+      "october",
+      "economy"
+    ]
+  },
+  {
     "label": "Meghan Markle",
-    "count": 7,
-    "sources": 4,
+    "count": 5,
+    "sources": 5,
     "keywords": [
       "markle",
       "meghan",
+      "father",
       "thomas",
       "arrested",
-      "child",
-      "porn"
+      "child"
     ]
   },
   {
@@ -75,32 +101,6 @@
       "judge",
       "halts",
       "triumphal"
-    ]
-  },
-  {
-    "label": "129 Million",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "129",
-      "million",
-      "charged",
-      "scheme",
-      "steal",
-      "impersonate"
-    ]
-  },
-  {
-    "label": "Bomb Threats",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "bomb",
-      "threats",
-      "flights",
-      "wave",
-      "europe",
-      "hit"
     ]
   }
 ]
