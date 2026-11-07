@@ -10249,8 +10249,16 @@
           "entities": {}
         }
       ],
-      "analysis": null,
-      "parentGroupId": "group-0"
+      "analysis": {
+        "summary": "An ABC News segment titled \"What we know about Binance security breach\" features Dave Merkel, co-founder and CEO of cybersecurity company Expel, discussing a major breach at Binance, the cryptocurrency exchange. The provided content is limited to this brief description; it does not include specifics on the timing, scope, or losses of the breach.",
+        "locations": [],
+        "claims": [],
+        "agreements": [],
+        "disagreements": [],
+        "uniqueAngles": []
+      },
+      "parentGroupId": "group-0",
+      "analysisAddedAt": "2026-11-07T22:42:58.812Z"
     },
     {
       "id": "story-413",
