@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Skydivers Die",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "skydivers",
+      "die",
+      "california",
+      "colliding",
+      "150",
+      "two"
+    ]
+  },
+  {
     "label": "Peltola Campaign",
     "count": 3,
     "sources": 3,
@@ -52,6 +65,32 @@
     ]
   },
   {
+    "label": "Pro Russian",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "pro",
+      "russian",
+      "hackers",
+      "foreign",
+      "minister",
+      "italian"
+    ]
+  },
+  {
+    "label": "Shooting Polish",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "injured",
+      "shooting",
+      "polish",
+      "least",
+      "city",
+      "krakow"
+    ]
+  },
+  {
     "label": "War Iran",
     "count": 3,
     "sources": 2,
@@ -62,19 +101,6 @@
       "qatari",
       "willing",
       "seek"
-    ]
-  },
-  {
-    "label": "Early Black",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "early",
-      "black",
-      "friday",
-      "sales",
-      "wayfair",
-      "furniture"
     ]
   }
 ]
