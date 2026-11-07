@@ -67,6 +67,19 @@
   {
     "label": "Form Government",
     "count": 5,
+    "sources": 5,
+    "keywords": [
+      "form",
+      "government",
+      "israeli",
+      "picks",
+      "president",
+      "eisenkot"
+    ]
+  },
+  {
+    "label": "Form Government",
+    "count": 5,
     "sources": 4,
     "keywords": [
       "president",
@@ -88,19 +101,6 @@
       "pro",
       "russian",
       "italian"
-    ]
-  },
-  {
-    "label": "Houston Mayor",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "mayor",
-      "cooperation",
-      "ice",
-      "police",
-      "houston",
-      "texas"
     ]
   }
 ]
