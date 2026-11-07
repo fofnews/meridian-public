@@ -11,5 +11,18 @@
       "president",
       "investigation"
     ]
+  },
+  {
+    "label": "Houston Mayor",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "mayor",
+      "cooperation",
+      "ice",
+      "texas",
+      "police",
+      "houston"
+    ]
   }
 ]
