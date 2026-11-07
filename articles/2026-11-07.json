@@ -3084,5 +3084,71 @@
     ],
     "collectRun": "2026-11-07T14:15:00.000Z",
     "collectedAt": "2026-11-07T14:15:01.267Z"
+  },
+  {
+    "title": "Zelenskyy says Russia is stepping up attacks ahead of U.S. talks",
+    "description": "Negotiators from Russia, Ukraine and the U.S. are to meet on Tuesday in Abu Dhabi for talks aimed at ending the war.",
+    "link": "https://www.cbsnews.com/news/zelenskyy-russia-attacks-us-talks/",
+    "pubDate": "Sat, 07 Nov 2026 09:20:25 -0500",
+    "source": "CBS News",
+    "categories": [],
+    "collectRun": "2026-11-07T14:30:00.000Z",
+    "collectedAt": "2026-11-07T14:30:01.344Z"
+  },
+  {
+    "title": "New Zealand’s prime minister says election is ‘too close to call’",
+    "description": "New Zealand prime minister Christopher Luxon says he has a pathway to form the next government.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/new-zealands-prime-minister-says-election-is-too-close-to?traffic_source=rss",
+    "pubDate": "Sat, 07 Nov 2026 14:03:06 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectRun": "2026-11-07T14:30:00.000Z",
+    "collectedAt": "2026-11-07T14:30:01.344Z"
+  },
+  {
+    "title": "11-night Caribbean cruise abruptly canceled after Coast Guard detains ship",
+    "description": "After the U.S. Coast Guard identified significant deficiencies, the MSC Poesia was detained in Miami, stranding over 2,000 cruise passengers. An attorney weighed in.",
+    "link": "https://www.foxnews.com/travel/11-night-caribbean-cruise-abruptly-canceled-coast-guard-detains-ship",
+    "pubDate": "Sat, 07 Nov 2026 09:16:20 -0500",
+    "source": "Fox News",
+    "categories": [
+      "65da16a4-23ac-5f35-b5b5-9a8dd8e2d890",
+      "fnc",
+      "fox news",
+      "fox-news/travel/general/cruises",
+      "fox-news/travel",
+      "fox-news/travel/general/travel-safety",
+      "fox-news/travel/vacation-destinations",
+      "fox-news/travel/general",
+      "fox-news/lifestyle",
+      "fox-news/us/military/coast-guard",
+      "fox-news/travel",
+      "article"
+    ],
+    "collectRun": "2026-11-07T14:30:00.000Z",
+    "collectedAt": "2026-11-07T14:30:01.344Z"
+  },
+  {
+    "title": "Rising pro wrestler Josh Bishop has 'been breakout player for us,' MLW owner Court Bauer says",
+    "description": "Josh Bishop earned his MLW World Heavyweight Championship shot against Killer Kross in a Last Man Standing match at Saturday Night SuperFight.",
+    "link": "https://www.foxnews.com/outkick-sports/rising-pro-wrestler-josh-bishop-breakout-player-mlw-owner-court-bauer-says",
+    "pubDate": "Sat, 07 Nov 2026 09:10:28 -0500",
+    "source": "Fox News",
+    "categories": [
+      "6526953e-20cd-5456-aad4-c2b40d258e50",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/dropkick",
+      "fox-news/sports/pro-wrestling/major-league-wresting",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/sports/pro-wrestling",
+      "fox-news/outkick/betting",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectRun": "2026-11-07T14:30:00.000Z",
+    "collectedAt": "2026-11-07T14:30:01.344Z"
   }
 ]
