@@ -7009,8 +7009,23 @@
           "entities": {}
         }
       ],
-      "analysis": null,
-      "parentGroupId": "group-2"
+      "analysis": {
+        "summary": "A Reuters article headline reports that Donald Trump said a war involving Iran is going to be wrapped up soon. The article body was not included, so no further details about the conflict or his remarks can be confirmed.",
+        "locations": [
+          {
+            "name": "Iran",
+            "lat": 35.6892,
+            "lng": 51.389,
+            "iso": "IR"
+          }
+        ],
+        "claims": [],
+        "agreements": [],
+        "disagreements": [],
+        "uniqueAngles": []
+      },
+      "parentGroupId": "group-2",
+      "analysisAddedAt": "2026-11-07T21:36:29.526Z"
     },
     {
       "id": "story-104",
