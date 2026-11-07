@@ -8419,7 +8419,7 @@
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-10-08",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-09-30",
@@ -8564,5 +8564,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-06T22:20:15.362Z"
+  "updatedAt": "2026-11-07T12:19:15.910Z"
 }
