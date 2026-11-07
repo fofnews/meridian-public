@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "White House",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "white",
+      "trump",
+      "house",
+      "press",
+      "secretary",
+      "dana"
+    ]
+  },
+  {
     "label": "Bank Collapse",
     "count": 5,
     "sources": 5,
@@ -39,19 +52,6 @@
     ]
   },
   {
-    "label": "White House",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "white",
-      "trump",
-      "house",
-      "press",
-      "secretary",
-      "dana"
-    ]
-  },
-  {
     "label": "Foreign Minister",
     "count": 4,
     "sources": 4,
@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Houston Mayor",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "mayor",
+      "cooperation",
+      "ice",
+      "police",
+      "houston",
+      "texas"
+    ]
+  },
+  {
     "label": "Chief Staff",
     "count": 3,
     "sources": 3,
@@ -75,19 +88,6 @@
       "stephen",
       "trump",
       "katie"
-    ]
-  },
-  {
-    "label": "Houston Mayor",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "mayor",
-      "cooperation",
-      "ice",
-      "texas",
-      "police",
-      "houston"
     ]
   },
   {
