@@ -1,27 +1,27 @@
 [
   {
     "label": "Shooting Polish",
-    "count": 5,
-    "sources": 5,
+    "count": 6,
+    "sources": 6,
     "keywords": [
       "injured",
       "shooting",
-      "polish",
       "killed",
-      "market",
-      "least"
+      "polish",
+      "least",
+      "krakow"
     ]
   },
   {
     "label": "Bank Collapse",
-    "count": 4,
-    "sources": 4,
+    "count": 5,
+    "sources": 5,
     "keywords": [
+      "paraguay",
+      "president",
       "under",
       "bank",
       "collapse",
-      "paraguay",
-      "president",
       "house"
     ]
   },
@@ -91,16 +91,16 @@
     ]
   },
   {
-    "label": "War Iran",
-    "count": 3,
+    "label": "Rains Flood",
+    "count": 4,
     "sources": 2,
     "keywords": [
-      "war",
-      "iran",
-      "trump",
-      "qatari",
-      "willing",
-      "seek"
+      "gaza",
+      "rains",
+      "flood",
+      "thousands",
+      "tents",
+      "heavy"
     ]
   }
 ]
