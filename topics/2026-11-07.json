@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Trump Orders",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "trump",
+      "doj",
+      "democrats",
+      "orders",
+      "investigate",
+      "threats"
+    ]
+  },
+  {
     "label": "Bank Collapse",
     "count": 5,
     "sources": 5,
@@ -49,19 +62,6 @@
       "sues",
       "absentee",
       "rejected"
-    ]
-  },
-  {
-    "label": "Trump Orders",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "trump",
-      "doj",
-      "democrats",
-      "orders",
-      "investigate",
-      "threats"
     ]
   },
   {
