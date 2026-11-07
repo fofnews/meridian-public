@@ -1,15 +1,15 @@
 [
   {
-    "label": "White House",
-    "count": 8,
-    "sources": 7,
+    "label": "Press Secretary",
+    "count": 9,
+    "sources": 8,
     "keywords": [
       "white",
       "trump",
       "dana",
-      "house",
       "press",
-      "secretary"
+      "secretary",
+      "house"
     ]
   },
   {
