@@ -1,5 +1,18 @@
 [
   {
+    "label": "White House",
+    "count": 7,
+    "sources": 6,
+    "keywords": [
+      "white",
+      "trump",
+      "dana",
+      "house",
+      "press",
+      "secretary"
+    ]
+  },
+  {
     "label": "Shooting Polish",
     "count": 6,
     "sources": 6,
@@ -10,19 +23,6 @@
       "polish",
       "least",
       "krakow"
-    ]
-  },
-  {
-    "label": "White House",
-    "count": 6,
-    "sources": 5,
-    "keywords": [
-      "white",
-      "trump",
-      "house",
-      "press",
-      "secretary",
-      "dana"
     ]
   },
   {
