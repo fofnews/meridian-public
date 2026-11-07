@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { LEGACY_LEANS, CURRENT_LEANS, leansFor, outletsByLean, outletCount } from '../source-leans.js';
+import { LEGACY_LEANS, CURRENT_LEANS, leansFor, outletsByLean, outletCount, LEANS_CHANGES, computeLeanChanges } from '../source-leans.js';
 
 describe('outletsByLean', () => {
   it('groups a legacy (unstamped) report by its own leans', () => {
@@ -33,5 +33,19 @@ describe('outletCount', () => {
     expect(outletCount(LEGACY_LEANS)).toBe(Object.keys(LEGACY_LEANS).length);
     expect(outletCount(CURRENT_LEANS)).toBe(Object.keys(CURRENT_LEANS).length);
     expect(outletCount(undefined)).toBe(0);
+  });
+});
+
+describe('LEANS_CHANGES / computeLeanChanges', () => {
+  it('Oct 30 entry has exactly 5 changes and includes Newsweek', () => {
+    const entry = LEANS_CHANGES.find(e => e.date === '2026-10-30');
+    expect(entry).toBeDefined();
+    const changes = computeLeanChanges(entry.from, entry.to);
+    expect(changes).toHaveLength(5);
+    expect(changes.some(c => c.outlet === 'Newsweek')).toBe(true);
+  });
+
+  it('computeLeanChanges returns empty array for identical maps', () => {
+    expect(computeLeanChanges(CURRENT_LEANS, CURRENT_LEANS)).toHaveLength(0);
   });
 });

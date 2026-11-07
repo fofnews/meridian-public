@@ -542,6 +542,16 @@ export default function App() {
               {editionStatsLine(report, selectedDate, selectedEdition)}
             </p>
           )}
+          <p>
+            <button
+              type="button"
+              onClick={() => openSettings('about')}
+              className="cursor-pointer"
+              style={{ background: 'none', border: 'none', padding: 0, color: 'var(--text-faint)', fontFamily: 'var(--font-label)', fontSize: 11, textDecoration: 'underline', textUnderlineOffset: 2 }}
+            >
+              How we rate outlets
+            </button>
+          </p>
         </div>
       </footer>
 

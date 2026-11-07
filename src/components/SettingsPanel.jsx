@@ -4,6 +4,8 @@ import { useTheme } from '../ThemeContext.jsx';
 import { useSettings } from '../SettingsContext.jsx';
 import { DEFAULTS, clearAllStored } from '../settings.js';
 import { useIsPhone } from '../useIsPhone.js';
+import { CURRENT_LEANS, LEANS_CHANGES, LAST_REVIEWED, outletsByLean, computeLeanChanges } from '../shared/source-leans.js';
+import { leanColor } from './SourceBadge.jsx';
 
 const LABEL = { fontFamily: 'var(--font-label)' };
 const TABS = [
@@ -20,6 +22,13 @@ const SHORTCUTS = [
   ['Esc', 'Close settings'],
 ];
 const FOCUSABLE = 'button:not([disabled]), [href], input, select, [tabindex]:not([tabindex="-1"])';
+
+function formatLeanDate(iso) {
+  const [y, m, d] = iso.split('-').map(Number);
+  return new Date(Date.UTC(y, m - 1, d)).toLocaleDateString('en-US', {
+    month: 'short', day: 'numeric', year: 'numeric', timeZone: 'UTC',
+  });
+}
 
 function Group({ label, hint, children }) {
   return (
@@ -317,17 +326,75 @@ export default function SettingsPanel({
             </Group>
           )}
 
-          {tab === 'about' && (
-            <Group label="Your data">
-              <p style={{ ...LABEL, fontSize: 14, lineHeight: 1.6, color: 'var(--text-secondary)' }}>
-                Stored in this browser: your settings and the stories you've opened. Nothing is sent to The Meridian, and nothing needs an account.
-              </p>
-              <div style={{ marginTop: 12 }}>
-                <ActionButton onClick={resetAll}>Clear settings and read history</ActionButton>
-              </div>
-              <p role="status" style={{ ...LABEL, fontSize: 13, color: 'var(--gold-text)', marginTop: 8, minHeight: 18 }}>{note}</p>
-            </Group>
-          )}
+          {tab === 'about' && (() => {
+            const currentByLean = outletsByLean(CURRENT_LEANS);
+            return (
+              <>
+                <Group label="Your data">
+                  <p style={{ ...LABEL, fontSize: 14, lineHeight: 1.6, color: 'var(--text-secondary)' }}>
+                    Stored in this browser: your settings and the stories you've opened. Nothing is sent to The Meridian, and nothing needs an account.
+                  </p>
+                  <div style={{ marginTop: 12 }}>
+                    <ActionButton onClick={resetAll}>Clear settings and read history</ActionButton>
+                  </div>
+                  <p role="status" style={{ ...LABEL, fontSize: 13, color: 'var(--gold-text)', marginTop: 8, minHeight: 18 }}>{note}</p>
+                </Group>
+                <Group label="How we rate outlets">
+                  <p style={{ ...LABEL, fontSize: 14, lineHeight: 1.6, color: 'var(--text-secondary)' }}>
+                    Outlet ratings come from{' '}
+                    <a
+                      href="https://www.allsides.com/media-bias/ratings"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      style={{ color: 'inherit', textDecoration: 'underline', textUnderlineOffset: 2 }}
+                    >
+                      AllSides Media Bias Ratings
+                    </a>. AllSides' "Left" and "Lean Left" show as left here, "Center" as center, and "Lean Right" and "Right" as right.
+                  </p>
+                  <p style={{ ...LABEL, fontSize: 14, lineHeight: 1.6, color: 'var(--text-secondary)', marginTop: 8 }}>
+                    Each edition keeps the ratings that were in effect when it was published, because an outlet's lean can change over time. Older editions are never re-rated.
+                  </p>
+                  <div style={{ marginTop: 10 }}>
+                    {['left', 'center', 'right'].map(lean => (
+                      <p key={lean} style={{ ...LABEL, fontSize: 13, lineHeight: 1.7, color: leanColor(lean), marginTop: 4 }}>
+                        <strong style={{ textTransform: 'capitalize' }}>{lean}</strong>
+                        {' — '}
+                        {currentByLean[lean].join(', ')}
+                      </p>
+                    ))}
+                  </div>
+                  {LEANS_CHANGES.length > 0 && (
+                    <div style={{ marginTop: 14 }}>
+                      <p style={{ ...LABEL, fontSize: 11, fontWeight: 600, textTransform: 'uppercase', letterSpacing: '1px', color: 'var(--text-muted)', marginBottom: 6 }}>
+                        Rating changes
+                      </p>
+                      {LEANS_CHANGES.map(entry => {
+                        const changes = computeLeanChanges(entry.from, entry.to);
+                        return (
+                          <p key={entry.date} style={{ ...LABEL, fontSize: 13, lineHeight: 1.7, color: 'var(--text-secondary)' }}>
+                            <span style={{ color: 'var(--text-primary)' }}>{formatLeanDate(entry.date)}</span>
+                            {': '}
+                            {changes.map((c, i) => (
+                              <span key={c.outlet}>
+                                {i > 0 && ', '}
+                                {c.outlet}{' '}
+                                <span style={{ color: leanColor(c.from) }}>{c.from}</span>
+                                {' → '}
+                                <span style={{ color: leanColor(c.to) }}>{c.to}</span>
+                              </span>
+                            ))}
+                          </p>
+                        );
+                      })}
+                    </div>
+                  )}
+                  <p style={{ ...LABEL, fontSize: 12, color: 'var(--text-muted)', marginTop: 12 }}>
+                    Ratings last reviewed {formatLeanDate(LAST_REVIEWED)}.
+                  </p>
+                </Group>
+              </>
+            );
+          })()}
         </div>
       </div>
     </div>
