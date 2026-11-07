@@ -309,14 +309,12 @@ export default function OpenStory({ story: lead, leans, fetchedAt, group = null,
   // flag a pending scroll so the layout effect can correct after the render.
   // Must be called before setTab/setThread so the row position is pre-update.
   const queueTabScroll = () => {
-    if (!isPhone || !tabRowRef.current) return;
     const stickyH = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--map-sticky-height')) || 0;
-    if (Math.abs(tabRowRef.current.getBoundingClientRect().top - stickyH) <= 20) {
-      pendingTabScroll.current = true;
-    }
+    const top = tabRowRef.current?.getBoundingClientRect().top ?? Infinity;
+    pendingTabScroll.current = isPhone && !!tabRowRef.current && Math.abs(top - stickyH) <= 20;
   };
 
-  const pickThread = i => { queueTabScroll(); setThread(i); setTab(startTab); };
+  const pickThread = i => { if (i !== thread) queueTabScroll(); setThread(i); setTab(startTab); };
 
   // After tab/thread settles: if a scroll was queued, snap the panel just under
   // the tab row using its height (not its current bottom — it may be unpinned by
@@ -425,7 +423,7 @@ export default function OpenStory({ story: lead, leans, fetchedAt, group = null,
               aria-selected={selected}
               aria-controls={`panel-${story.id}`}
               tabIndex={selected ? 0 : -1}
-              onClick={() => { queueTabScroll(); setTab(t.id); }}
+              onClick={() => { if (t.id !== tab) queueTabScroll(); setTab(t.id); }}
               className="cursor-pointer shrink-0"
               style={{
                 ...LABEL_FONT, fontSize: 14, fontWeight: 600, minHeight: 44, background: 'none', border: 'none',
