@@ -298,6 +298,7 @@ export default function OpenStory({ story: lead, leans, fetchedAt, group = null,
   const tabRefs = useRef({});
   const tabRowRef = useRef(null);
   const tabPanelRef = useRef(null);
+  const didMountTab = useRef(false);
   const isPhone = useIsPhone();
   const { compared, singles } = group ? buildThreads(group.stories, lead) : { compared: [lead], singles: [] };
   const singleOutlets = coveringOutlets(singles.flatMap(s => s.articles));
@@ -308,11 +309,15 @@ export default function OpenStory({ story: lead, leans, fetchedAt, group = null,
 
   // On phones: when tab changes and the tab row is pinned at the top,
   // scroll so the content panel starts just below the tab row.
+  // Skip on mount: when story B opens while A is open, B's content jumps up
+  // by A's height mid-render, putting the tab row far above the strip. The
+  // mount run would fire before the pending phone scroll corrects the position.
   useEffect(() => {
+    if (!didMountTab.current) { didMountTab.current = true; return; }
     if (!isPhone || !tabRowRef.current || !tabPanelRef.current) return;
     const rowRect = tabRowRef.current.getBoundingClientRect();
     const stickyH = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--map-sticky-height')) || 0;
-    if (rowRect.top > stickyH + 20) return; // tab row not yet pinned
+    if (Math.abs(rowRect.top - stickyH) > 20) return; // tab row not pinned near the strip
     const targetY = window.scrollY + tabPanelRef.current.getBoundingClientRect().top - rowRect.bottom;
     window.scrollTo({ top: targetY, behavior: 'smooth' });
   }, [tab, isPhone]); // eslint-disable-line react-hooks/exhaustive-deps
