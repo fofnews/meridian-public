@@ -7922,7 +7922,22 @@
           "entities": {}
         }
       ],
-      "analysis": null
+      "analysis": {
+        "summary": "All 435 seats in the U.S. House of Representatives will be on the ballot when voters go to the polls on November 3. The article's title indicates it focuses on specific House races that could determine which party controls the next Congress.",
+        "locations": [
+          {
+            "name": "United States",
+            "lat": 38.8951,
+            "lng": -77.0364,
+            "iso": "US"
+          }
+        ],
+        "claims": [],
+        "agreements": [],
+        "disagreements": [],
+        "uniqueAngles": []
+      },
+      "analysisAddedAt": "2026-11-07T21:36:13.214Z"
     },
     {
       "id": "story-153",
