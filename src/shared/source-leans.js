@@ -40,7 +40,8 @@ export const LEGACY_LEANS = Object.freeze({
 });
 
 // Five changes from AllSides check on 2026-10-30.
-// CBS News and NY Times: AllSides pages unreadable on that date; kept as left.
+// CBS News: confirmed Lean Left, Nov 7, 2026 (AllSides Feb 2, 2026 review, score −1.69).
+// NY Times: AllSides page still unreadable; kept as left per Lean Left rating (last confirmed Sept 2020).
 export const CURRENT_LEANS = Object.freeze({
   // Left
   'CNN':                 'left',
@@ -91,4 +92,25 @@ export function leansFor(report) {
 /** Returns the lean for one outlet from a given map, or null if unknown. */
 export function leanOf(leans, source) {
   return leans?.[source] ?? null;
+}
+
+// Each entry records a review date and the two lean maps that bracket it.
+// computeLeanChanges diffs them on demand, so future reviews just add an entry.
+export const LEANS_CHANGES = [
+  { date: '2026-10-30', from: LEGACY_LEANS, to: CURRENT_LEANS },
+];
+
+/** Date ratings were last confirmed correct (YYYY-MM-DD). */
+export const LAST_REVIEWED = '2026-11-07';
+
+/** Returns outlets whose lean changed between two maps, as { outlet, from, to }[]. */
+export function computeLeanChanges(from, to) {
+  const all = new Set([...Object.keys(from ?? {}), ...Object.keys(to ?? {})]);
+  const changes = [];
+  for (const outlet of all) {
+    const f = (from ?? {})[outlet];
+    const t = (to ?? {})[outlet];
+    if (f !== t) changes.push({ outlet, from: f, to: t });
+  }
+  return changes;
 }
