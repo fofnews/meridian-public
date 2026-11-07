@@ -5334,8 +5334,16 @@
           "entities": {}
         }
       ],
-      "analysis": null,
-      "parentGroupId": "group-0"
+      "analysis": {
+        "summary": "The article, published by Reuters, is titled 'Gone in 20 minutes: How the biggest heist in crypto history unfolded.' The headline indicates it covers a major cryptocurrency theft that occurred within approximately 20 minutes, but the article body was not provided, so no further details can be reported.",
+        "locations": [],
+        "claims": [],
+        "agreements": [],
+        "disagreements": [],
+        "uniqueAngles": []
+      },
+      "parentGroupId": "group-0",
+      "analysisAddedAt": "2026-11-07T21:36:02.049Z"
     },
     {
       "id": "story-41",
