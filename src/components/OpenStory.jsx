@@ -1,4 +1,4 @@
-import { useState, useRef, useEffect } from 'react';
+import { useState, useRef, useLayoutEffect } from 'react';
 import { useSettings } from '../SettingsContext.jsx';
 import { leanColor } from './SourceBadge';
 import { decodeText, formatAnalysisTime } from '../utils';
@@ -298,29 +298,38 @@ export default function OpenStory({ story: lead, leans, fetchedAt, group = null,
   const tabRefs = useRef({});
   const tabRowRef = useRef(null);
   const tabPanelRef = useRef(null);
-  const didMountTab = useRef(false);
+  const pendingTabScroll = useRef(false);
   const isPhone = useIsPhone();
   const { compared, singles } = group ? buildThreads(group.stories, lead) : { compared: [lead], singles: [] };
   const singleOutlets = coveringOutlets(singles.flatMap(s => s.articles));
   const showSingles = singles.length > 0 && thread === compared.length;
   const story = compared[showSingles ? 0 : Math.min(thread, compared.length - 1)];
   const { analysis, articles } = story;
-  const pickThread = i => { setThread(i); setTab(startTab); };
-
-  // On phones: when tab changes and the tab row is pinned at the top,
-  // scroll so the content panel starts just below the tab row.
-  // Skip on mount: when story B opens while A is open, B's content jumps up
-  // by A's height mid-render, putting the tab row far above the strip. The
-  // mount run would fire before the pending phone scroll corrects the position.
-  useEffect(() => {
-    if (!didMountTab.current) { didMountTab.current = true; return; }
-    if (!isPhone || !tabRowRef.current || !tabPanelRef.current) return;
-    const rowRect = tabRowRef.current.getBoundingClientRect();
+  // Measure the tab row *before* a state change. If it's pinned near the strip,
+  // flag a pending scroll so the layout effect can correct after the render.
+  // Must be called before setTab/setThread so the row position is pre-update.
+  const queueTabScroll = () => {
+    if (!isPhone || !tabRowRef.current) return;
     const stickyH = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--map-sticky-height')) || 0;
-    if (Math.abs(rowRect.top - stickyH) > 20) return; // tab row not pinned near the strip
-    const targetY = window.scrollY + tabPanelRef.current.getBoundingClientRect().top - rowRect.bottom;
-    window.scrollTo({ top: targetY, behavior: 'smooth' });
-  }, [tab, isPhone]); // eslint-disable-line react-hooks/exhaustive-deps
+    if (Math.abs(tabRowRef.current.getBoundingClientRect().top - stickyH) <= 20) {
+      pendingTabScroll.current = true;
+    }
+  };
+
+  const pickThread = i => { queueTabScroll(); setThread(i); setTab(startTab); };
+
+  // After tab/thread settles: if a scroll was queued, snap the panel just under
+  // the tab row using its height (not its current bottom — it may be unpinned by
+  // then if the new content is shorter). Instant so the reader never sees below.
+  // Mount never calls queueTabScroll, so this is a no-op on initial render.
+  useLayoutEffect(() => {
+    if (!pendingTabScroll.current) return;
+    pendingTabScroll.current = false;
+    if (!tabRowRef.current || !tabPanelRef.current) return;
+    const stickyH = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--map-sticky-height')) || 0;
+    const target = window.scrollY + tabPanelRef.current.getBoundingClientRect().top - (stickyH + tabRowRef.current.offsetHeight);
+    window.scrollTo({ top: Math.max(0, target), behavior: 'instant' });
+  }, [tab, thread]); // eslint-disable-line react-hooks/exhaustive-deps
   const threads = [
     ...compared.map(s => ({
       title: decodeText(s.headline),
@@ -359,6 +368,7 @@ export default function OpenStory({ story: lead, leans, fetchedAt, group = null,
     if (e.key === 'ArrowLeft') next = tabs[(i - 1 + tabs.length) % tabs.length];
     if (next) {
       e.preventDefault();
+      queueTabScroll();
       setTab(next.id);
       tabRefs.current[next.id]?.focus();
     }
@@ -415,7 +425,7 @@ export default function OpenStory({ story: lead, leans, fetchedAt, group = null,
               aria-selected={selected}
               aria-controls={`panel-${story.id}`}
               tabIndex={selected ? 0 : -1}
-              onClick={() => setTab(t.id)}
+              onClick={() => { queueTabScroll(); setTab(t.id); }}
               className="cursor-pointer shrink-0"
               style={{
                 ...LABEL_FONT, fontSize: 14, fontWeight: 600, minHeight: 44, background: 'none', border: 'none',
