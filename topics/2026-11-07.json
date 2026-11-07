@@ -52,6 +52,32 @@
     ]
   },
   {
+    "label": "Trump Orders",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "trump",
+      "doj",
+      "democrats",
+      "orders",
+      "investigate",
+      "threats"
+    ]
+  },
+  {
+    "label": "Form Government",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "president",
+      "israel",
+      "form",
+      "government",
+      "taps",
+      "opposition"
+    ]
+  },
+  {
     "label": "Foreign Minister",
     "count": 4,
     "sources": 4,
@@ -75,32 +101,6 @@
       "police",
       "houston",
       "texas"
-    ]
-  },
-  {
-    "label": "Chief Staff",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "miller",
-      "chief",
-      "staff",
-      "stephen",
-      "trump",
-      "katie"
-    ]
-  },
-  {
-    "label": "Skydivers Die",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "skydivers",
-      "die",
-      "california",
-      "colliding",
-      "150",
-      "two"
     ]
   }
 ]
