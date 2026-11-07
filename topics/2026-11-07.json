@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "White House",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "white",
+      "trump",
+      "house",
+      "press",
+      "secretary",
+      "dana"
+    ]
+  },
+  {
     "label": "Foreign Minister",
     "count": 4,
     "sources": 4,
@@ -88,19 +101,6 @@
       "colliding",
       "150",
       "two"
-    ]
-  },
-  {
-    "label": "Derrick Henry",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "ravens",
-      "derrick",
-      "henry",
-      "trade",
-      "deadline",
-      "nfl"
     ]
   }
 ]
