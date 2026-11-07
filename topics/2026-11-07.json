@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Foreign Minister",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "hackers",
+      "foreign",
+      "minister",
+      "pro",
+      "russian",
+      "italian"
+    ]
+  },
+  {
     "label": "Chief Staff",
     "count": 3,
     "sources": 3,
@@ -78,29 +91,16 @@
     ]
   },
   {
-    "label": "Pro Russian",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "pro",
-      "russian",
-      "hackers",
-      "foreign",
-      "minister",
-      "italian"
-    ]
-  },
-  {
     "label": "Rains Flood",
-    "count": 4,
+    "count": 5,
     "sources": 2,
     "keywords": [
       "gaza",
       "rains",
       "flood",
+      "heavy",
       "thousands",
-      "tents",
-      "heavy"
+      "tents"
     ]
   }
 ]
