@@ -1,5 +1,18 @@
 [
   {
+    "label": "Shooting Polish",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "injured",
+      "shooting",
+      "polish",
+      "killed",
+      "market",
+      "least"
+    ]
+  },
+  {
     "label": "Bank Collapse",
     "count": 4,
     "sources": 4,
@@ -13,16 +26,16 @@
     ]
   },
   {
-    "label": "Shooting Polish",
+    "label": "Peltola Campaign",
     "count": 4,
     "sources": 4,
     "keywords": [
-      "injured",
-      "shooting",
-      "polish",
-      "killed",
-      "least",
-      "city"
+      "peltola",
+      "campaign",
+      "alaska",
+      "sues",
+      "absentee",
+      "records"
     ]
   },
   {
@@ -62,19 +75,6 @@
       "colliding",
       "150",
       "two"
-    ]
-  },
-  {
-    "label": "Peltola Campaign",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "peltola",
-      "campaign",
-      "alaska",
-      "sues",
-      "records",
-      "rejected"
     ]
   },
   {
