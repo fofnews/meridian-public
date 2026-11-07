@@ -4274,7 +4274,15 @@
           "entities": {}
         }
       ],
-      "analysis": null
+      "analysis": {
+        "summary": "NPR reports that Anthropic included a 94-page list of risk factors in its S-1 filing this week. The article highlights two of these risks as particularly noteworthy. The provided text is brief, so the specific risks are not described.",
+        "locations": [],
+        "claims": [],
+        "agreements": [],
+        "disagreements": [],
+        "uniqueAngles": []
+      },
+      "analysisAddedAt": "2026-11-07T21:35:46.435Z"
     },
     {
       "id": "story-1",
