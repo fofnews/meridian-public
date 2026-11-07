@@ -1,15 +1,28 @@
 [
   {
     "label": "Press Secretary",
-    "count": 12,
-    "sources": 11,
+    "count": 13,
+    "sources": 12,
     "keywords": [
       "white",
       "trump",
       "dana",
       "press",
       "secretary",
-      "job"
+      "ufc"
+    ]
+  },
+  {
+    "label": "Form Government",
+    "count": 7,
+    "sources": 7,
+    "keywords": [
+      "government",
+      "form",
+      "israeli",
+      "president",
+      "picks",
+      "eisenkot"
     ]
   },
   {
@@ -36,19 +49,6 @@
       "orders",
       "investigate",
       "threats"
-    ]
-  },
-  {
-    "label": "Opposition Leader",
-    "count": 6,
-    "sources": 6,
-    "keywords": [
-      "government",
-      "form",
-      "israeli",
-      "president",
-      "picks",
-      "eisenkot"
     ]
   },
   {
