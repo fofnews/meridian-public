@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Notre Dame",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "miami",
+      "loss",
+      "notre",
+      "dame",
+      "coach",
+      "furious"
+    ]
+  },
+  {
     "label": "Train Collision",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "collision",
       "giza",
       "province"
-    ]
-  },
-  {
-    "label": "Stephen Miller",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "house",
-      "staff",
-      "stephen",
-      "miller",
-      "trump",
-      "white"
     ]
   }
 ]
