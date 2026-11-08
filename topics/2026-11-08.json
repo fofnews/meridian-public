@@ -52,6 +52,32 @@
     ]
   },
   {
+    "label": "Sunday Night",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "sunday",
+      "night",
+      "football",
+      "buccaneers",
+      "bears",
+      "mike"
+    ]
+  },
+  {
+    "label": "Jon Ossoff",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "ossoff",
+      "2028",
+      "jon",
+      "wins",
+      "straw",
+      "poll"
+    ]
+  },
+  {
     "label": "James Talarico",
     "count": 3,
     "sources": 3,
@@ -75,32 +101,6 @@
       "suspect",
       "know",
       "discovered"
-    ]
-  },
-  {
-    "label": "Boycott Jewish",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "boycott",
-      "jewish",
-      "businesses",
-      "philadelphia",
-      "billboards",
-      "owned"
-    ]
-  },
-  {
-    "label": "Train Collision",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "egypt",
-      "train",
-      "four",
-      "collision",
-      "100",
-      "passenger"
     ]
   }
 ]
