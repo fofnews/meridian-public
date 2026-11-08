@@ -1299,7 +1299,72 @@
           "entities": {}
         }
       ],
-      "analysis": null
+      "analysis": {
+        "headline": "Trump and Rubio weigh firing Ambassador Guilfoyle over misconduct reports",
+        "summary": "President Trump and Secretary of State Rubio are reportedly considering removing Kimberly Guilfoyle as U.S. ambassador to Greece following reports alleging misconduct during her tenure. A senior U.S. official told the Associated Press that the two are angry about the reports. Outlets differ somewhat in how they describe the allegations and the certainty of her dismissal.",
+        "locations": [
+          {
+            "name": "Greece",
+            "lat": 37.9838,
+            "lng": 23.7275,
+            "iso": "GR"
+          },
+          {
+            "name": "United States",
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "iso": "US"
+          }
+        ],
+        "claims": [
+          {
+            "statement": "Kimberly Guilfoyle is the U.S. ambassador to Greece",
+            "sources": [
+              "The Hill",
+              "Washington Examiner",
+              "New York Post"
+            ]
+          },
+          {
+            "statement": "Reports have alleged misconduct by Guilfoyle during her tenure in Athens",
+            "sources": [
+              "The Hill",
+              "Washington Examiner"
+            ]
+          },
+          {
+            "statement": "President Trump and Secretary of State Marco Rubio are considering removing Guilfoyle from her post as ambassador to Greece",
+            "sources": [
+              "The Hill",
+              "Washington Examiner"
+            ]
+          },
+          {
+            "statement": "A senior U.S. administration official described Trump and Rubio as 'extremely pissed off' over reports about Guilfoyle, in remarks to the Associated Press",
+            "sources": [
+              "The Hill",
+              "Washington Examiner"
+            ]
+          },
+          {
+            "statement": "An administration source said senior officials are \"looking to replace her\"",
+            "sources": [
+              "New York Post"
+            ]
+          }
+        ],
+        "disagreements": [],
+        "context": {
+          "significance": "Ambassadorial posts are often filled by political allies and donors rather than career diplomats, which makes them prone to scrutiny when allegations of impropriety surface. This case tests how the administration balances personal and political loyalty against reputational risk to U.S. diplomacy in a strategically important NATO and Mediterranean partner. It also reflects a broader pattern of anonymous senior-official briefings shaping the public narrative around personnel decisions.",
+          "outlook": [
+            "Whether Trump and Rubio make a formal decision on Guilfoyle's status, and how quickly.",
+            "Whether the State Department or an inspector general opens a formal review of the misconduct and financial-impropriety allegations.",
+            "Who would be named to replace her if she is removed, and whether a career diplomat or another political appointee is chosen.",
+            "Whether Guilfoyle or the White House publicly responds to the allegations and the anonymous-source reporting."
+          ]
+        }
+      },
+      "analysisAddedAt": "2026-11-08T02:26:44.802Z"
     },
     {
       "id": "story-87",
