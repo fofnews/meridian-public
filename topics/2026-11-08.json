@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Stephen Miller",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "house",
+      "staff",
+      "stephen",
+      "miller",
+      "white",
+      "chief"
+    ]
+  },
+  {
     "label": "James Talarico",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "dame",
       "coach",
       "furious"
-    ]
-  },
-  {
-    "label": "Train Collision",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "train",
-      "egypt",
-      "injures",
-      "collision",
-      "giza",
-      "province"
     ]
   }
 ]
