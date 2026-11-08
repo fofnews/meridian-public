@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Boycott Jewish",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "boycott",
+      "jewish",
+      "businesses",
+      "philadelphia",
+      "billboards",
+      "owned"
+    ]
+  },
+  {
     "label": "Train Collision",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "collision",
       "100",
       "passenger"
-    ]
-  },
-  {
-    "label": "Notre Dame",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "miami",
-      "loss",
-      "notre",
-      "dame",
-      "coach",
-      "furious"
     ]
   }
 ]
