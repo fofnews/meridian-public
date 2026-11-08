@@ -926,5 +926,41 @@
     "categories": [],
     "collectRun": "2026-11-08T08:45:00.000Z",
     "collectedAt": "2026-11-08T08:45:03.794Z"
+  },
+  {
+    "title": "US military attacks cargo ship in the Gulf of Oman",
+    "description": "The US military says it has fired on and disabled a St. Kitts-flagged cargo ship in the Gulf of Oman.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss",
+    "pubDate": "Sun, 08 Nov 2026 08:24:37 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectRun": "2026-11-08T09:00:00.000Z",
+    "collectedAt": "2026-11-08T09:00:02.211Z"
+  },
+  {
+    "title": "Mapping how France’s protest wave spread across Europe",
+    "description": "More than 1,700 cost-of-living demonstrations have hit 31 European countries since mid-September, led by France.",
+    "link": "https://www.aljazeera.com/news/2026/11/8/mapping-how-frances-protest-wave-spread-across-europe?traffic_source=rss",
+    "pubDate": "Sun, 08 Nov 2026 08:18:38 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-11-08T09:00:00.000Z",
+    "collectedAt": "2026-11-08T09:00:02.211Z"
+  },
+  {
+    "title": "As AI data centres guzzle energy, can we harness their wasted heat?",
+    "description": "The rapid development of AI is draining our resources, but engineers have found a way to use heat lost to the air.",
+    "link": "https://www.aljazeera.com/features/2026/11/8/as-ai-data-centres-guzzle-energy-can-we-harness-waste-heat?traffic_source=rss",
+    "pubDate": "Sun, 08 Nov 2026 08:17:12 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "features"
+    ],
+    "collectRun": "2026-11-08T09:00:00.000Z",
+    "collectedAt": "2026-11-08T09:00:02.211Z"
   }
 ]
