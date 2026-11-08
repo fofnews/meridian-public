@@ -5,7 +5,7 @@
       "title": "Epstein Investigation",
       "firstSeen": "2026-02-26",
       "lastSeen": "2026-10-09",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-02-26",
@@ -1860,7 +1860,7 @@
       "title": "Iran Protests and Crackdown",
       "firstSeen": "2026-02-26",
       "lastSeen": "2026-10-09",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-02-26",
@@ -1965,7 +1965,7 @@
       "title": "Iran-Israel Military Conflict",
       "firstSeen": "2026-02-28",
       "lastSeen": "2026-10-09",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-02-28",
@@ -4685,7 +4685,7 @@
       "title": "Hezbollah US Operations",
       "firstSeen": "2026-03-15",
       "lastSeen": "2026-10-09",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-03-15",
@@ -5235,7 +5235,7 @@
       "title": "North Korea Nuclear Escalation",
       "firstSeen": "2026-03-29",
       "lastSeen": "2026-10-09",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-03-29",
@@ -6044,7 +6044,7 @@
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-04-29",
       "lastSeen": "2026-10-09",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-04-29",
@@ -7254,7 +7254,7 @@
       "parentId": null,
       "firstSeen": "2026-05-17",
       "lastSeen": "2026-10-09",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-05-17",
@@ -8274,7 +8274,7 @@
       "parentId": null,
       "firstSeen": "2026-08-06",
       "lastSeen": "2026-10-09",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-08-06",
@@ -8554,7 +8554,7 @@
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-10-09",
       "lastSeen": "2026-10-09",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-10-09",
@@ -8564,5 +8564,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-07T22:18:23.424Z"
+  "updatedAt": "2026-11-08T12:18:15.834Z"
 }
