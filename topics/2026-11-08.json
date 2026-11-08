@@ -1,5 +1,18 @@
 [
   {
+    "label": "Dana White",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "white",
+      "dana",
+      "house",
+      "press",
+      "secretary",
+      "ufc"
+    ]
+  },
+  {
     "label": "James Talarico",
     "count": 3,
     "sources": 3,
@@ -10,19 +23,6 @@
       "texas",
       "debuts",
       "midterm"
-    ]
-  },
-  {
-    "label": "Dana White",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "white",
-      "dana",
-      "house",
-      "press",
-      "secretary",
-      "ufc"
     ]
   },
   {
