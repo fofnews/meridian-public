@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Pete Hegseth",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "hegseth",
+      "impeaching",
+      "house",
+      "hard",
+      "pete",
+      "jeffries"
+    ]
+  },
+  {
     "label": "Nvidia Board",
     "count": 4,
     "sources": 4,
@@ -88,19 +101,6 @@
       "chinese",
       "spy",
       "board"
-    ]
-  },
-  {
-    "label": "Sunday Night",
-    "count": 5,
-    "sources": 3,
-    "keywords": [
-      "sunday",
-      "night",
-      "football",
-      "buccaneers",
-      "bears",
-      "mike"
     ]
   }
 ]
