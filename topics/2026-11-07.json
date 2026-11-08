@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Trump Orders",
+    "count": 7,
+    "sources": 7,
+    "keywords": [
+      "trump",
+      "doj",
+      "democrats",
+      "orders",
+      "investigate",
+      "probe"
+    ]
+  },
+  {
     "label": "Form Government",
     "count": 7,
     "sources": 7,
@@ -36,19 +49,6 @@
       "polish",
       "krakow",
       "market"
-    ]
-  },
-  {
-    "label": "Trump Orders",
-    "count": 6,
-    "sources": 6,
-    "keywords": [
-      "trump",
-      "doj",
-      "democrats",
-      "orders",
-      "investigate",
-      "threats"
     ]
   },
   {
