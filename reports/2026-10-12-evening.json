@@ -4878,7 +4878,151 @@
           "entities": {}
         }
       ],
-      "analysis": null
+      "analysis": {
+        "headline": "Houthi Strikes on Riyadh Airport Kill 13, Wound Hundreds",
+        "summary": "Yemen's Iran-backed Houthis struck Riyadh's King Khalid International Airport multiple times over the weekend, killing at least 13 people and wounding hundreds. Saudi Arabia reported further missile and drone fire on Monday, flights were disrupted, and concerns grew about a wider regional conflict.",
+        "locations": [
+          {
+            "name": "Riyadh, Saudi Arabia",
+            "lat": 24.7136,
+            "lng": 46.6753,
+            "iso": "SA"
+          },
+          {
+            "name": "Yemen",
+            "lat": 15.3694,
+            "lng": 44.191,
+            "iso": "YE"
+          },
+          {
+            "name": "Iran",
+            "lat": 35.6892,
+            "lng": 51.389,
+            "iso": "IR"
+          },
+          {
+            "name": "United States",
+            "lat": 38.9072,
+            "lng": -77.0369,
+            "iso": "US"
+          }
+        ],
+        "claims": [
+          {
+            "statement": "The attacks wounded hundreds of people",
+            "sources": [
+              "New York Post",
+              "NBC News",
+              "CBS News"
+            ]
+          },
+          {
+            "statement": "The Houthis are an Iran-backed group based in Yemen",
+            "sources": [
+              "NBC News",
+              "CBS News",
+              "NY Times"
+            ]
+          },
+          {
+            "statement": "Houthi forces struck Riyadh's main airport, with at least 13 people killed",
+            "sources": [
+              "New York Post",
+              "NBC News",
+              "CBS News"
+            ]
+          },
+          {
+            "statement": "Saudi Arabia faced new missile and drone attacks on Monday following the airport strikes",
+            "sources": [
+              "Reuters",
+              "New York Post",
+              "NY Times"
+            ]
+          },
+          {
+            "statement": "One American was among those killed",
+            "sources": [
+              "NBC News",
+              "CBS News"
+            ]
+          },
+          {
+            "statement": "Riyadh's airport was struck more than once over the weekend",
+            "sources": [
+              "NBC News",
+              "CBS News"
+            ]
+          },
+          {
+            "statement": "Houthi rebels claimed responsibility for the attacks",
+            "sources": [
+              "CBS News"
+            ]
+          },
+          {
+            "statement": "Saudi Arabia reaffirmed its resilience following the strikes",
+            "sources": [
+              "Al Jazeera"
+            ]
+          },
+          {
+            "statement": "The attacks are the deadliest assault on Saudi soil in more than a decade",
+            "sources": [
+              "Al Jazeera"
+            ]
+          },
+          {
+            "statement": "Surveillance video of the strike on Riyadh airport was released on Monday",
+            "sources": [
+              "New York Post"
+            ]
+          },
+          {
+            "statement": "Airlines cancelled flights to Saudi Arabia after the Riyadh airport attacks",
+            "sources": [
+              "Reuters"
+            ]
+          },
+          {
+            "statement": "Skies over Saudi Arabia have been clear of air travel following the strike on its main airport",
+            "sources": [
+              "New York Post"
+            ]
+          },
+          {
+            "statement": "Iran offered to mediate after the weekend of confrontation between Saudi Arabia and the Houthis",
+            "sources": [
+              "NY Times"
+            ]
+          }
+        ],
+        "disagreements": [
+          {
+            "topic": "Number and timing of strikes on Riyadh's airport",
+            "positions": [
+              {
+                "source": "NBC News",
+                "position": "Airport was hit on Saturday and again on Sunday, two strikes in two days"
+              },
+              {
+                "source": "CBS News",
+                "position": "Houthis attacked the airport four times in the past week"
+              }
+            ]
+          }
+        ],
+        "context": {
+          "significance": "The strikes bring a proxy conflict directly onto Saudi civilian infrastructure and into the U.S.-Iran confrontation. Attacks on a major international aviation hub also threaten Saudi Arabia's economic and diplomatic standing, which depends on global connectivity. The death of an American citizen raises the stakes for U.S. involvement.",
+          "outlook": [
+            "Whether the United States joins airstrikes against the Houthis, widening the U.S.-Iran conflict weeks before the midterm elections, is an open decision.",
+            "Whether Iran's offer to mediate leads to any de-escalation between the Houthis and Saudi Arabia remains unresolved.",
+            "How long airlines suspend flights to Saudi Arabia, and whether Riyadh's airport can resume normal operations, is unknown.",
+            "Whether the Houthis sustain strikes on Saudi infrastructure beyond airports is the key indicator of escalation."
+          ]
+        }
+      },
+      "analysisAddedAt": "2026-11-08T02:29:06.166Z"
     },
     {
       "id": "story-0",
