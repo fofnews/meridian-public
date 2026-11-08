@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Nvidia Board",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "nvidia",
+      "ceo",
+      "relationship",
+      "chinese",
+      "spy",
+      "board"
+    ]
+  },
+  {
     "label": "Sunday Night",
     "count": 5,
     "sources": 3,
@@ -88,19 +101,6 @@
       "buccaneers",
       "bears",
       "mike"
-    ]
-  },
-  {
-    "label": "Stephen Miller",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "house",
-      "staff",
-      "stephen",
-      "miller",
-      "white",
-      "chief"
     ]
   }
 ]
