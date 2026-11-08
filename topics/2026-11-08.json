@@ -1,5 +1,18 @@
 [
   {
+    "label": "Hakeem Jeffries",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "jeffries",
+      "hard",
+      "hegseth",
+      "impeachment",
+      "hakeem",
+      "announces"
+    ]
+  },
+  {
     "label": "Dana White",
     "count": 5,
     "sources": 4,
@@ -23,19 +36,6 @@
       "croatia",
       "killing",
       "people"
-    ]
-  },
-  {
-    "label": "Hegseth Impeachment",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "jeffries",
-      "hegseth",
-      "hard",
-      "impeachment",
-      "hakeem",
-      "announces"
     ]
   },
   {
