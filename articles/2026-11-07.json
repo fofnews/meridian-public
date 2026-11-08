@@ -9850,5 +9850,42 @@
     "categories": [],
     "collectRun": "2026-11-08T04:30:00.000Z",
     "collectedAt": "2026-11-08T04:30:01.212Z"
+  },
+  {
+    "title": "Earthquake hits central Japan, injuring more than 20 people",
+    "description": "The magnitude 5.7 quake hit Shizuoka prefecture, and authorities warn of possible strong aftershocks in coming days.",
+    "link": "https://www.aljazeera.com/news/2026/11/8/earthquake-hits-central-japan-injuring-more-than-20-people?traffic_source=rss",
+    "pubDate": "Sun, 08 Nov 2026 04:20:57 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-11-08T04:45:00.000Z",
+    "collectedAt": "2026-11-08T04:45:02.287Z"
+  },
+  {
+    "title": "Sotomayor says she hopes Supreme Court will overturn presidential immunity decision",
+    "description": "Supreme Court Justice Sonia Sotomayor said on Saturday that she hopes the court’s decision granting former presidents broad criminal immunity will be overturned, saying her colleagues have done some “crazy things.” Appearing for a civics education talk at George Washington’s Mount Vernon estate, the liberal justice also publicly commented for the first time on this…",
+    "link": "https://thehill.com/regulation/court-battles/6206392-sotomayor-hopes-immunity-overturned/",
+    "pubDate": "\n\t\tSun, 08 Nov 2026 03:49:29 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "court battles",
+      "democrats",
+      "george washington's mount vernon estate",
+      "sonia sotomayor"
+    ],
+    "collectRun": "2026-11-08T04:45:00.000Z",
+    "collectedAt": "2026-11-08T04:45:02.287Z"
+  },
+  {
+    "title": "Sauce Gardner Could Be Part of Colts’ Fire Sale Before Trade Deadline: Report",
+    "description": "One NFL insider says the Colts want to tear the roster “down to the studs,\" which could include shipping off CB Sauce Gardner.",
+    "link": "https://www.newsweek.com/sports/nfl/sauce-gardner-could-be-part-of-colts-fire-sale-before-trade-deadline-report-12683024",
+    "pubDate": "Sat, 07 Nov 2026 23:41:41 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-08T04:45:00.000Z",
+    "collectedAt": "2026-11-08T04:45:02.287Z"
   }
 ]
