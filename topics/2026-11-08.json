@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "James Talarico",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "talarico",
+      "snl",
+      "texas",
+      "james",
+      "victory",
+      "senate"
+    ]
+  },
+  {
     "label": "Killing Least",
     "count": 4,
     "sources": 4,
@@ -88,19 +101,6 @@
       "miller",
       "white",
       "chief"
-    ]
-  },
-  {
-    "label": "Jon Ossoff",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "ossoff",
-      "2028",
-      "jon",
-      "wins",
-      "straw",
-      "poll"
     ]
   }
 ]
