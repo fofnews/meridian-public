@@ -26,8 +26,21 @@
     ]
   },
   {
-    "label": "Dana White",
+    "label": "Ceo Jensen",
     "count": 5,
+    "sources": 5,
+    "keywords": [
+      "nvidia",
+      "ceo",
+      "relationship",
+      "chinese",
+      "spy",
+      "jensen"
+    ]
+  },
+  {
+    "label": "Dana White",
+    "count": 6,
     "sources": 4,
     "keywords": [
       "white",
@@ -88,19 +101,6 @@
       "hard",
       "pete",
       "jeffries"
-    ]
-  },
-  {
-    "label": "Nvidia Board",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "nvidia",
-      "ceo",
-      "relationship",
-      "chinese",
-      "spy",
-      "board"
     ]
   }
 ]
