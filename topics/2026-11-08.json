@@ -1,5 +1,18 @@
 [
   {
+    "label": "Chinese Spy",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "nvidia",
+      "chinese",
+      "spy",
+      "ceo",
+      "opens",
+      "investigation"
+    ]
+  },
+  {
     "label": "Hakeem Jeffries",
     "count": 5,
     "sources": 5,
@@ -39,6 +52,19 @@
     ]
   },
   {
+    "label": "Train Collision",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "egypt",
+      "train",
+      "collision",
+      "100",
+      "four",
+      "kills"
+    ]
+  },
+  {
     "label": "Stephen Miller",
     "count": 4,
     "sources": 3,
@@ -75,32 +101,6 @@
       "wins",
       "straw",
       "poll"
-    ]
-  },
-  {
-    "label": "James Talarico",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "james",
-      "talarico",
-      "snl",
-      "texas",
-      "debuts",
-      "midterm"
-    ]
-  },
-  {
-    "label": "Krakow Shooting",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "krakow",
-      "shooting",
-      "victims",
-      "suspect",
-      "know",
-      "discovered"
     ]
   }
 ]
