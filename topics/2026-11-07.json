@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Dana White",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "white",
+      "dana",
+      "trump",
+      "press",
+      "secretary",
+      "ufc"
+    ]
+  },
+  {
     "label": "Form Government",
     "count": 6,
     "sources": 4,
@@ -88,19 +101,6 @@
       "president",
       "taps",
       "opposition"
-    ]
-  },
-  {
-    "label": "Skydivers Die",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "skydivers",
-      "die",
-      "california",
-      "two",
-      "colliding",
-      "midair"
     ]
   }
 ]
