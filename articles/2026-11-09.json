@@ -1019,5 +1019,63 @@
     "categories": [],
     "collectRun": "2026-11-09T09:00:00.000Z",
     "collectedAt": "2026-11-09T09:00:01.209Z"
+  },
+  {
+    "title": "School closures are accelerating in US, but more financial pain lies ahead",
+    "description": "Students in Vallejo, California, faced a challenging start to the school year as they adjusted to a new school after their previous one closed",
+    "link": "https://abcnews.com/US/wireStory/school-closures-accelerating-us-financial-pain-lies-ahead-137966299",
+    "pubDate": "Mon, 09 Nov 2026 02:47:39 -0500",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectRun": "2026-11-09T09:15:00.000Z",
+    "collectedAt": "2026-11-09T09:15:01.463Z"
+  },
+  {
+    "title": "Gunman who killed 6 in Poland's Krakow square dies in hospital after police shootout",
+    "description": "The Krakow shooter, 24, died Monday after police shot him during Saturday's mass shooting that killed six and wounded 15 in the historic square.",
+    "link": "https://www.foxnews.com/world/poland-krakow-square-shooting-gunman-dies",
+    "pubDate": "Mon, 09 Nov 2026 04:05:26 -0500",
+    "source": "Fox News",
+    "categories": [
+      "78927407-f153-56cd-881e-730e1f234f4d",
+      "fnc",
+      "fox news",
+      "fox-news/world",
+      "fox-news/crime",
+      "fox-news/us/crime/mass-murder",
+      "fox-news/world/terrorism",
+      "fox-news/world/world-regions/europe",
+      "fox-news/entertainment/genres/foreign",
+      "fox-news/world",
+      "article"
+    ],
+    "collectRun": "2026-11-09T09:15:00.000Z",
+    "collectedAt": "2026-11-09T09:15:01.463Z"
+  },
+  {
+    "title": "Border Dem poised to wield ICE purse strings rejects socialist ‘defund’ push",
+    "description": "Rep. Henry Cuellar rejects the Abolish ICE movement, saying most Democrats oppose defunding the agency but want stronger oversight and rail guards.",
+    "link": "https://www.foxnews.com/politics/border-dem-poised-wield-ice-purse-strings-rejects-socialist-defund-push",
+    "pubDate": "Mon, 09 Nov 2026 04:00:24 -0500",
+    "source": "Fox News",
+    "categories": [
+      "52e0976a-3fc8-5823-98dc-b1381ca5e829",
+      "fnc",
+      "fox news",
+      "fox-news/us/immigration",
+      "fox-news/us/immigration/border-security",
+      "fox-news/politics/executive/homeland-security",
+      "fox-news/democrats",
+      "fox-news/us/democratic-party",
+      "fox-news/us/immigration/illegal-immigrants",
+      "fox-news/us/congress",
+      "fox-news/politics",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectRun": "2026-11-09T09:15:00.000Z",
+    "collectedAt": "2026-11-09T09:15:01.463Z"
   }
 ]
