@@ -27,28 +27,28 @@
   },
   {
     "label": "Died Hospital",
-    "count": 7,
+    "count": 8,
     "sources": 7,
     "keywords": [
       "police",
-      "hospital",
       "krakow",
       "shooting",
+      "hospital",
       "died",
       "suspect"
     ]
   },
   {
     "label": "Follow Trump",
-    "count": 5,
-    "sources": 5,
+    "count": 6,
+    "sources": 6,
     "keywords": [
       "trump",
       "biden",
-      "him",
       "jan",
-      "follow",
-      "grave"
+      "grave",
+      "him",
+      "follow"
     ]
   },
   {
@@ -62,6 +62,19 @@
       "immigration",
       "policy",
       "chief"
+    ]
+  },
+  {
+    "label": "Nvidia Stock",
+    "count": 5,
+    "sources": 4,
+    "keywords": [
+      "nvidia",
+      "probe",
+      "stock",
+      "company",
+      "huang",
+      "ceo"
     ]
   },
   {
@@ -88,19 +101,6 @@
       "reason",
       "escalate",
       "seafarers"
-    ]
-  },
-  {
-    "label": "Jensen Huang",
-    "count": 5,
-    "sources": 3,
-    "keywords": [
-      "jensen",
-      "huang",
-      "nvidia",
-      "china",
-      "scandal",
-      "rejects"
     ]
   }
 ]
