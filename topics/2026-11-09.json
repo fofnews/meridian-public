@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Charlie Kirk",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "trial",
+      "charlie",
+      "kirk",
+      "judge",
+      "date",
+      "tyler"
+    ]
+  },
+  {
     "label": "Chinese Spy",
     "count": 7,
     "sources": 5,
@@ -88,19 +101,6 @@
       "against",
       "hegseth",
       "rep"
-    ]
-  },
-  {
-    "label": "Pete Hegseth",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "impeachment",
-      "hegseth",
-      "pete",
-      "vote",
-      "iran",
-      "war"
     ]
   }
 ]
