@@ -1660,7 +1660,7 @@
       "title": "Sinaloa Cartel Violence",
       "firstSeen": "2026-02-26",
       "lastSeen": "2026-10-10",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-02-26",
@@ -2555,7 +2555,7 @@
       "title": "Israel-Lebanon Military Conflict",
       "firstSeen": "2026-03-06",
       "lastSeen": "2026-10-10",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-03-06",
@@ -5030,7 +5030,7 @@
       "title": "Artemis Moon Mission",
       "firstSeen": "2026-03-23",
       "lastSeen": "2026-10-10",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-03-23",
@@ -5459,7 +5459,7 @@
       "parentId": null,
       "firstSeen": "2026-04-24",
       "lastSeen": "2026-10-10",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-04-24",
@@ -7629,7 +7629,7 @@
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-02-28",
       "lastSeen": "2026-10-10",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-05-22",
@@ -8464,7 +8464,7 @@
       "parentId": "middle-east-military-conflicts-2026",
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-10-10",
-      "active": true,
+      "active": false,
       "entries": [
         {
           "date": "2026-09-30",
@@ -8564,5 +8564,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-08T22:18:57.009Z"
+  "updatedAt": "2026-11-09T12:19:09.870Z"
 }
