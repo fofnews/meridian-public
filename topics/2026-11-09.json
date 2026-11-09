@@ -1,15 +1,15 @@
 [
   {
-    "label": "Hospital Police",
-    "count": 5,
-    "sources": 5,
+    "label": "Died Hospital",
+    "count": 6,
+    "sources": 6,
     "keywords": [
       "police",
       "shooting",
       "hospital",
       "krakow",
-      "suspect",
-      "died"
+      "died",
+      "suspect"
     ]
   },
   {
