@@ -14,8 +14,8 @@
   },
   {
     "label": "Press Secretary",
-    "count": 5,
-    "sources": 4,
+    "count": 6,
+    "sources": 5,
     "keywords": [
       "trump",
       "press",
@@ -36,6 +36,19 @@
       "ceo",
       "spy",
       "news"
+    ]
+  },
+  {
+    "label": "War Iran",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "war",
+      "iran",
+      "trump",
+      "seafarers",
+      "caught",
+      "israeli"
     ]
   },
   {
