@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Big Bend",
+    "count": 8,
+    "sources": 8,
+    "keywords": [
+      "border",
+      "big",
+      "bend",
+      "supreme",
+      "court",
+      "construction"
+    ]
+  },
+  {
     "label": "Press Secretary",
     "count": 8,
     "sources": 7,
@@ -88,19 +101,6 @@
       "vote",
       "iran",
       "war"
-    ]
-  },
-  {
-    "label": "Impeachment Vote",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "hegseth",
-      "impeachment",
-      "vote",
-      "face",
-      "house",
-      "secretary"
     ]
   }
 ]
