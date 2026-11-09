@@ -1,8 +1,8 @@
 [
   {
     "label": "Russell Brand",
-    "count": 12,
-    "sources": 10,
+    "count": 13,
+    "sources": 11,
     "keywords": [
       "russell",
       "brand",
@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Trump Him",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "trump",
+      "him",
+      "biden",
+      "jan",
+      "follow",
+      "grave"
+    ]
+  },
+  {
     "label": "Jensen Huang",
     "count": 5,
     "sources": 3,
@@ -88,19 +101,6 @@
       "reason",
       "escalate",
       "seafarers"
-    ]
-  },
-  {
-    "label": "Chinese Spy",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "nvidia",
-      "affair",
-      "chinese",
-      "spy",
-      "ceo",
-      "trump"
     ]
   }
 ]
