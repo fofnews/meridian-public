@@ -1,15 +1,15 @@
 [
   {
     "label": "Russell Brand",
-    "count": 10,
-    "sources": 8,
+    "count": 12,
+    "sources": 10,
     "keywords": [
       "russell",
       "brand",
-      "rape",
       "sentenced",
-      "sexual",
-      "assault"
+      "rape",
+      "years",
+      "sexual"
     ]
   },
   {
@@ -40,7 +40,7 @@
   },
   {
     "label": "Stephen Miller",
-    "count": 5,
+    "count": 6,
     "sources": 4,
     "keywords": [
       "trump",
@@ -48,7 +48,7 @@
       "miller",
       "immigration",
       "policy",
-      "too"
+      "chief"
     ]
   },
   {
