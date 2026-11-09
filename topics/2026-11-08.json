@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Chinese Spy",
+    "count": 7,
+    "sources": 6,
+    "keywords": [
+      "nvidia",
+      "ceo",
+      "chinese",
+      "relationship",
+      "spy",
+      "jensen"
+    ]
+  },
+  {
     "label": "Hakeem Jeffries",
     "count": 5,
     "sources": 5,
@@ -23,19 +36,6 @@
       "impeachment",
       "hakeem",
       "announces"
-    ]
-  },
-  {
-    "label": "Ceo Jensen",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "nvidia",
-      "ceo",
-      "relationship",
-      "chinese",
-      "spy",
-      "jensen"
     ]
   },
   {
