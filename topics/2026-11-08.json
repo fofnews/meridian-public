@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Too Tough",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "trump",
+      "too",
+      "tough",
+      "policy",
+      "deportation",
+      "immigration"
+    ]
+  },
+  {
     "label": "Dana White",
     "count": 6,
     "sources": 4,
@@ -88,19 +101,6 @@
       "croatia",
       "killing",
       "people"
-    ]
-  },
-  {
-    "label": "Train Collision",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "egypt",
-      "train",
-      "collision",
-      "100",
-      "four",
-      "kills"
     ]
   }
 ]
