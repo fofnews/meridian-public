@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Dana White",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "white",
+      "trump",
+      "press",
+      "dana",
+      "secretary",
+      "kidding"
+    ]
+  },
+  {
     "label": "Hakeem Jeffries",
     "count": 5,
     "sources": 5,
@@ -36,19 +49,6 @@
       "impeachment",
       "hakeem",
       "announces"
-    ]
-  },
-  {
-    "label": "Dana White",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "white",
-      "trump",
-      "press",
-      "dana",
-      "secretary",
-      "kidding"
     ]
   },
   {
