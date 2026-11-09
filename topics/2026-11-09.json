@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Follow Trump",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "trump",
+      "biden",
+      "him",
+      "jan",
+      "follow",
+      "grave"
+    ]
+  },
+  {
     "label": "Stephen Miller",
     "count": 6,
     "sources": 4,
@@ -49,19 +62,6 @@
       "immigration",
       "policy",
       "chief"
-    ]
-  },
-  {
-    "label": "Trump Him",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "trump",
-      "him",
-      "biden",
-      "jan",
-      "follow",
-      "grave"
     ]
   },
   {
