@@ -24,5 +24,18 @@
       "died",
       "hospital"
     ]
+  },
+  {
+    "label": "Air Quality",
+    "count": 3,
+    "sources": 2,
+    "keywords": [
+      "delhi",
+      "diwali",
+      "smog",
+      "fireworks",
+      "air",
+      "quality"
+    ]
   }
 ]
