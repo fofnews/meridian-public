@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Dana White",
+    "count": 7,
+    "sources": 7,
+    "keywords": [
+      "white",
+      "trump",
+      "press",
+      "dana",
+      "secretary",
+      "kidding"
+    ]
+  },
+  {
     "label": "Chinese Spy",
     "count": 8,
     "sources": 6,
@@ -23,19 +36,6 @@
       "spy",
       "relationship",
       "alleged"
-    ]
-  },
-  {
-    "label": "Dana White",
-    "count": 6,
-    "sources": 6,
-    "keywords": [
-      "white",
-      "trump",
-      "press",
-      "dana",
-      "secretary",
-      "kidding"
     ]
   },
   {
