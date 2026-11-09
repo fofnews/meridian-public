@@ -14,15 +14,15 @@
   },
   {
     "label": "Press Secretary",
-    "count": 6,
-    "sources": 5,
+    "count": 7,
+    "sources": 6,
     "keywords": [
-      "trump",
       "press",
       "secretary",
-      "kidding",
+      "trump",
       "dana",
-      "white"
+      "white",
+      "kidding"
     ]
   },
   {
@@ -91,16 +91,16 @@
     ]
   },
   {
-    "label": "Air Quality",
+    "label": "Chinese Spy",
     "count": 3,
-    "sources": 2,
+    "sources": 3,
     "keywords": [
-      "delhi",
-      "diwali",
-      "smog",
-      "fireworks",
-      "air",
-      "quality"
+      "nvidia",
+      "trump",
+      "honorable",
+      "affair",
+      "chinese",
+      "spy"
     ]
   }
 ]
