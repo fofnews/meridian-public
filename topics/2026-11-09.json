@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Jensen Huang",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "jensen",
+      "huang",
+      "nvidia",
+      "scandal",
+      "china",
+      "rockstar"
+    ]
+  },
+  {
     "label": "War Iran",
     "count": 3,
     "sources": 3,
@@ -49,19 +62,6 @@
       "seafarers",
       "caught",
       "israeli"
-    ]
-  },
-  {
-    "label": "Jensen Huang",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "jensen",
-      "huang",
-      "scandal",
-      "nvidia",
-      "rockstar",
-      "reputation"
     ]
   },
   {
