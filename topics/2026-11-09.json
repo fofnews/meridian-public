@@ -1,5 +1,18 @@
 [
   {
+    "label": "Russell Brand",
+    "count": 9,
+    "sources": 7,
+    "keywords": [
+      "russell",
+      "brand",
+      "sentenced",
+      "rape",
+      "sexual",
+      "assault"
+    ]
+  },
+  {
     "label": "Died Hospital",
     "count": 7,
     "sources": 7,
@@ -10,19 +23,6 @@
       "shooting",
       "died",
       "suspect"
-    ]
-  },
-  {
-    "label": "Russell Brand",
-    "count": 8,
-    "sources": 6,
-    "keywords": [
-      "russell",
-      "brand",
-      "sentenced",
-      "rape",
-      "sexual",
-      "assault"
     ]
   },
   {
@@ -79,28 +79,28 @@
   },
   {
     "label": "War Iran",
-    "count": 3,
+    "count": 4,
     "sources": 3,
     "keywords": [
       "war",
       "iran",
       "trump",
-      "seafarers",
-      "caught",
-      "israeli"
+      "reason",
+      "escalate",
+      "seafarers"
     ]
   },
   {
-    "label": "Russell Brand",
-    "count": 3,
+    "label": "Chinese Spy",
+    "count": 4,
     "sources": 3,
     "keywords": [
-      "sentencing",
-      "russell",
-      "brand",
-      "rape",
-      "faces",
-      "significant"
+      "nvidia",
+      "affair",
+      "chinese",
+      "spy",
+      "ceo",
+      "trump"
     ]
   }
 ]
