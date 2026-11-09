@@ -65,6 +65,32 @@
     ]
   },
   {
+    "label": "Impeachment Articles",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "massie",
+      "articles",
+      "impeachment",
+      "against",
+      "hegseth",
+      "rep"
+    ]
+  },
+  {
+    "label": "Pete Hegseth",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "impeachment",
+      "hegseth",
+      "pete",
+      "vote",
+      "iran",
+      "war"
+    ]
+  },
+  {
     "label": "Impeachment Vote",
     "count": 5,
     "sources": 5,
@@ -75,32 +101,6 @@
       "face",
       "house",
       "secretary"
-    ]
-  },
-  {
-    "label": "Stephen Miller",
-    "count": 6,
-    "sources": 4,
-    "keywords": [
-      "trump",
-      "stephen",
-      "miller",
-      "immigration",
-      "policy",
-      "chief"
-    ]
-  },
-  {
-    "label": "Impeachment Articles",
-    "count": 5,
-    "sources": 4,
-    "keywords": [
-      "massie",
-      "articles",
-      "impeachment",
-      "against",
-      "hegseth",
-      "rep"
     ]
   }
 ]
