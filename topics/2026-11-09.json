@@ -14,15 +14,28 @@
   },
   {
     "label": "Press Secretary",
-    "count": 4,
-    "sources": 3,
+    "count": 5,
+    "sources": 4,
     "keywords": [
       "trump",
       "press",
       "secretary",
       "kidding",
-      "ufc",
-      "dana"
+      "dana",
+      "white"
+    ]
+  },
+  {
+    "label": "Jensen Huang",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "nvidia",
+      "jensen",
+      "huang",
+      "ceo",
+      "spy",
+      "news"
     ]
   },
   {
@@ -36,19 +49,6 @@
       "fireworks",
       "air",
       "quality"
-    ]
-  },
-  {
-    "label": "Ceo Jensen",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "nvidia",
-      "ceo",
-      "jensen",
-      "huang",
-      "probe",
-      "reuters"
     ]
   }
 ]
