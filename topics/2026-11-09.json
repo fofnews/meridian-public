@@ -52,16 +52,16 @@
     ]
   },
   {
-    "label": "Nvidia Stock",
-    "count": 6,
+    "label": "Chinese Spy",
+    "count": 7,
     "sources": 5,
     "keywords": [
       "nvidia",
-      "probe",
       "huang",
       "ceo",
       "spy",
-      "stock"
+      "probe",
+      "chinese"
     ]
   },
   {
@@ -91,16 +91,16 @@
     ]
   },
   {
-    "label": "Midterm Results",
-    "count": 4,
+    "label": "Impeachment Articles",
+    "count": 5,
     "sources": 4,
     "keywords": [
-      "trump",
-      "midterm",
-      "results",
-      "questions",
-      "polls",
-      "wrong"
+      "massie",
+      "articles",
+      "impeachment",
+      "against",
+      "hegseth",
+      "rep"
     ]
   }
 ]
