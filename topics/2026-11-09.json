@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Impeachment Vote",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "hegseth",
+      "impeachment",
+      "vote",
+      "face",
+      "house",
+      "secretary"
+    ]
+  },
+  {
     "label": "Stephen Miller",
     "count": 6,
     "sources": 4,
@@ -88,19 +101,6 @@
       "questions",
       "polls",
       "wrong"
-    ]
-  },
-  {
-    "label": "Impeachment Vote",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "hegseth",
-      "impeachment",
-      "vote",
-      "face",
-      "house",
-      "week"
     ]
   }
 ]
