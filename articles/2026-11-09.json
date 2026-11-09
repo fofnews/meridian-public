@@ -931,5 +931,39 @@
     "categories": [],
     "collectRun": "2026-11-09T08:30:00.000Z",
     "collectedAt": "2026-11-09T08:30:01.437Z"
+  },
+  {
+    "title": "Trump says there is \"no reason\" to escalate war with Iran",
+    "description": "President Trump told 60 Minutes the war with Iran was a \"good decision\" long-term, despite short-term impact.",
+    "link": "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/",
+    "pubDate": "Mon, 09 Nov 2026 03:42:26 -0500",
+    "source": "CBS News",
+    "categories": [],
+    "collectRun": "2026-11-09T08:45:00.000Z",
+    "collectedAt": "2026-11-09T08:45:01.157Z"
+  },
+  {
+    "title": "US top Democrat backs impeachment of Pete Hegseth",
+    "description": "‘Hegseth has got to go’.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/us-top-democrat-backs-impeachment-of-pete-hegseth?traffic_source=rss",
+    "pubDate": "Mon, 09 Nov 2026 08:26:50 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectRun": "2026-11-09T08:45:00.000Z",
+    "collectedAt": "2026-11-09T08:45:01.157Z"
+  },
+  {
+    "title": "Trump ‘only kidding’ about Dana White press secretary role",
+    "description": "Donald Trump says he was ‘only kidding’ about appointing UFC CEO Dana White as the White House press secretary.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-only-kidding-about-dana-white-press-secretary-role?traffic_source=rss",
+    "pubDate": "Mon, 09 Nov 2026 08:18:00 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectRun": "2026-11-09T08:45:00.000Z",
+    "collectedAt": "2026-11-09T08:45:01.157Z"
   }
 ]
