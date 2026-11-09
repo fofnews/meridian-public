@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Reason Escalate",
+    "count": 5,
+    "sources": 3,
+    "keywords": [
+      "war",
+      "iran",
+      "trump",
+      "reason",
+      "escalate",
+      "seafarers"
+    ]
+  },
+  {
     "label": "Jensen Huang",
     "count": 5,
     "sources": 3,
@@ -88,19 +101,6 @@
       "china",
       "scandal",
       "rejects"
-    ]
-  },
-  {
-    "label": "Ceo Jensen",
-    "count": 5,
-    "sources": 3,
-    "keywords": [
-      "nvidia",
-      "investigation",
-      "ceo",
-      "jensen",
-      "huang",
-      "stock"
     ]
   }
 ]
