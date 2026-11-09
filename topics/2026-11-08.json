@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Too Tough",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "trump",
+      "too",
+      "tough",
+      "policy",
+      "deportation",
+      "immigration"
+    ]
+  },
+  {
     "label": "Hakeem Jeffries",
     "count": 5,
     "sources": 5,
@@ -49,19 +62,6 @@
       "impeachment",
       "hakeem",
       "announces"
-    ]
-  },
-  {
-    "label": "Too Tough",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "trump",
-      "too",
-      "tough",
-      "policy",
-      "deportation",
-      "immigration"
     ]
   },
   {
