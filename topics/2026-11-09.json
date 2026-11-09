@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Russell Brand",
+    "count": 8,
+    "sources": 6,
+    "keywords": [
+      "russell",
+      "brand",
+      "sentenced",
+      "rape",
+      "sexual",
+      "assault"
+    ]
+  },
+  {
     "label": "Press Secretary",
     "count": 7,
     "sources": 6,
@@ -88,19 +101,6 @@
       "rape",
       "faces",
       "significant"
-    ]
-  },
-  {
-    "label": "Chinese Spy",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "nvidia",
-      "trump",
-      "honorable",
-      "affair",
-      "chinese",
-      "spy"
     ]
   }
 ]
