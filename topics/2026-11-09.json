@@ -37,5 +37,18 @@
       "air",
       "quality"
     ]
+  },
+  {
+    "label": "Ceo Jensen",
+    "count": 3,
+    "sources": 2,
+    "keywords": [
+      "nvidia",
+      "ceo",
+      "jensen",
+      "huang",
+      "probe",
+      "reuters"
+    ]
   }
 ]
