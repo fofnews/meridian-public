@@ -14,15 +14,15 @@
   },
   {
     "label": "Chinese Spy",
-    "count": 7,
+    "count": 8,
     "sources": 6,
     "keywords": [
       "nvidia",
       "ceo",
       "chinese",
-      "relationship",
       "spy",
-      "jensen"
+      "relationship",
+      "alleged"
     ]
   },
   {
@@ -36,6 +36,19 @@
       "impeachment",
       "hakeem",
       "announces"
+    ]
+  },
+  {
+    "label": "Dana White",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "white",
+      "trump",
+      "press",
+      "dana",
+      "secretary",
+      "kidding"
     ]
   },
   {
@@ -88,19 +101,6 @@
       "100",
       "four",
       "kills"
-    ]
-  },
-  {
-    "label": "Dana White",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "white",
-      "trump",
-      "dana",
-      "press",
-      "secretary",
-      "kidding"
     ]
   }
 ]
