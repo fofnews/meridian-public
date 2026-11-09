@@ -633,5 +633,51 @@
     "categories": [],
     "collectRun": "2026-11-09T06:45:00.000Z",
     "collectedAt": "2026-11-09T06:45:01.198Z"
+  },
+  {
+    "title": "Suspect in deadly Poland shooting dies in hospital, police say",
+    "description": "Polish Police announced the death on Monday morning.",
+    "link": "https://abcnews.com/International/suspect-deadly-poland-shooting-dies-hospital-police/story?id=137966778",
+    "pubDate": "Mon, 09 Nov 2026 01:47:46 -0500",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectRun": "2026-11-09T07:00:00.000Z",
+    "collectedAt": "2026-11-09T07:00:01.403Z"
+  },
+  {
+    "title": "How Israel’s separation wall compares with the Berlin Wall",
+    "description": "How Israel's wall, checkpoints and permits divide Palestinians in the occupied West Bank and cut farmers off from land.",
+    "link": "https://www.aljazeera.com/news/2026/11/9/how-israels-separation-wall-compares-with-the-berlin-wall?traffic_source=rss",
+    "pubDate": "Mon, 09 Nov 2026 06:32:18 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-11-09T07:00:00.000Z",
+    "collectedAt": "2026-11-09T07:00:01.403Z"
+  },
+  {
+    "title": "Lando Norris wins Sao Palo Grand Prix, but Mercedes seal constructors title",
+    "description": "Norris wins from pole position on a rainy Sao Paulo track as Mercedes win team title for the first time since 2021.",
+    "link": "https://www.aljazeera.com/sports/2026/11/9/lando-norris-wins-sao-palo-grand-prix-but-mercedes-seal-constructors-title?traffic_source=rss",
+    "pubDate": "Mon, 09 Nov 2026 06:21:08 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectRun": "2026-11-09T07:00:00.000Z",
+    "collectedAt": "2026-11-09T07:00:01.403Z"
+  },
+  {
+    "title": "Two Washington deputies killed trying to rescue possible hostages after woman shot",
+    "description": "Deputies Mason Acheson and Parker Perry came under fire while trying to rescue possible hostages from a home.",
+    "link": "https://nypost.com/2026/11/09/us-news/two-washington-deputies-killed-trying-to-rescue-possible-hostages-after-woman-shot/",
+    "pubDate": "Mon, 09 Nov 2026 01:54:59 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-09T07:00:00.000Z",
+    "collectedAt": "2026-11-09T07:00:01.403Z"
   }
 ]
