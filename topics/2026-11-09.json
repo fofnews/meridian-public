@@ -1,5 +1,18 @@
 [
   {
+    "label": "Hospital Police",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "police",
+      "shooting",
+      "hospital",
+      "krakow",
+      "suspect",
+      "died"
+    ]
+  },
+  {
     "label": "Press Secretary",
     "count": 3,
     "sources": 3,
@@ -10,19 +23,6 @@
       "secretary",
       "kidding",
       "dana"
-    ]
-  },
-  {
-    "label": "Krakow Shooting",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "shooting",
-      "suspect",
-      "police",
-      "krakow",
-      "died",
-      "hospital"
     ]
   },
   {
