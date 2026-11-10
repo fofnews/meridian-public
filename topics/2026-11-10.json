@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Soldier Arrested",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "soldier",
+      "arrested",
+      "senior",
+      "army",
+      "espionage",
+      "police"
+    ]
+  },
+  {
     "label": "Jensen Huang",
     "count": 6,
     "sources": 4,
@@ -88,19 +101,6 @@
       "briefing",
       "news",
       "hold"
-    ]
-  },
-  {
-    "label": "Impeachment Push",
-    "count": 5,
-    "sources": 4,
-    "keywords": [
-      "hegseth",
-      "impeachment",
-      "push",
-      "farce",
-      "pete",
-      "against"
     ]
   }
 ]
