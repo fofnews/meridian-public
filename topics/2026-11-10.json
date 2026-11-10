@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Soldier Arrested",
+    "count": 7,
+    "sources": 7,
+    "keywords": [
+      "soldier",
+      "arrested",
+      "russia",
+      "espionage",
+      "senior",
+      "army"
+    ]
+  },
+  {
     "label": "Jim Jordan",
     "count": 7,
     "sources": 6,
@@ -49,19 +62,6 @@
       "iran",
       "threat",
       "british"
-    ]
-  },
-  {
-    "label": "Soldier Arrested",
-    "count": 6,
-    "sources": 6,
-    "keywords": [
-      "soldier",
-      "arrested",
-      "senior",
-      "army",
-      "russia",
-      "espionage"
     ]
   },
   {
