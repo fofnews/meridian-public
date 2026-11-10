@@ -1,5 +1,18 @@
 [
   {
+    "label": "Jim Jordan",
+    "count": 8,
+    "sources": 7,
+    "keywords": [
+      "house",
+      "leader",
+      "jim",
+      "jordan",
+      "republicans",
+      "next"
+    ]
+  },
+  {
     "label": "British Base",
     "count": 6,
     "sources": 6,
@@ -49,19 +62,6 @@
       "gallon",
       "time",
       "since"
-    ]
-  },
-  {
-    "label": "Jim Jordan",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "house",
-      "leader",
-      "jim",
-      "jordan",
-      "republicans",
-      "next"
     ]
   },
   {
