@@ -1,5 +1,18 @@
 [
   {
+    "label": "Second Base",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "base",
+      "aircraft",
+      "second",
+      "iran",
+      "threat",
+      "moves"
+    ]
+  },
+  {
     "label": "Billionaire Tax",
     "count": 4,
     "sources": 4,
@@ -23,19 +36,6 @@
       "jensen",
       "chinese",
       "spy"
-    ]
-  },
-  {
-    "label": "Second Base",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "aircraft",
-      "second",
-      "base",
-      "iran",
-      "threat",
-      "evacuated"
     ]
   },
   {
