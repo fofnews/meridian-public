@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Pete Hegseth",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "hegseth",
+      "pete",
+      "impeachment",
+      "articles",
+      "facing",
+      "house"
+    ]
+  },
+  {
     "label": "Gas Prices",
     "count": 5,
     "sources": 5,
@@ -88,19 +101,6 @@
       "gallon",
       "time",
       "since"
-    ]
-  },
-  {
-    "label": "Jensen Huang",
-    "count": 6,
-    "sources": 4,
-    "keywords": [
-      "nvidia",
-      "huang",
-      "spy",
-      "ceo",
-      "jensen",
-      "chinese"
     ]
   }
 ]
