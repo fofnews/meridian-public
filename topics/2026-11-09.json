@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Charlie Kirk",
+    "count": 8,
+    "sources": 8,
+    "keywords": [
+      "trial",
+      "charlie",
+      "kirk",
+      "judge",
+      "date",
+      "accused"
+    ]
+  },
+  {
     "label": "Press Secretary",
     "count": 8,
     "sources": 7,
@@ -49,19 +62,6 @@
       "hospital",
       "died",
       "suspect"
-    ]
-  },
-  {
-    "label": "Charlie Kirk",
-    "count": 7,
-    "sources": 7,
-    "keywords": [
-      "trial",
-      "charlie",
-      "kirk",
-      "judge",
-      "date",
-      "accused"
     ]
   },
   {
