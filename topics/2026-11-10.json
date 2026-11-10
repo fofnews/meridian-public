@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Jim Jordan",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "jordan",
+      "leader",
+      "house",
+      "scalise",
+      "jim",
+      "minority"
+    ]
+  },
+  {
     "label": "Russia Ukraine",
     "count": 5,
     "sources": 5,
@@ -88,19 +101,6 @@
       "voters",
       "reject",
       "exposing"
-    ]
-  },
-  {
-    "label": "France Summons",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "france",
-      "iran",
-      "supermarket",
-      "summons",
-      "fridge",
-      "blames"
     ]
   }
 ]
