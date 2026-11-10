@@ -79,28 +79,28 @@
   },
   {
     "label": "Chinese Spy",
-    "count": 9,
-    "sources": 5,
+    "count": 6,
+    "sources": 6,
     "keywords": [
       "nvidia",
-      "huang",
-      "spy",
-      "ceo",
       "chinese",
-      "alleged"
+      "spy",
+      "suspected",
+      "ceo",
+      "investigation"
     ]
   },
   {
-    "label": "Impeachment Articles",
+    "label": "Glp Drugs",
     "count": 6,
-    "sources": 5,
+    "sources": 6,
     "keywords": [
-      "massie",
-      "articles",
-      "impeachment",
-      "against",
-      "hegseth",
-      "rep"
+      "fda",
+      "glp",
+      "drugs",
+      "eye",
+      "risk",
+      "rare"
     ]
   }
 ]
