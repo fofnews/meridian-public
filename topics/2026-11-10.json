@@ -1,5 +1,18 @@
 [
   {
+    "label": "Billionaire Tax",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "california",
+      "billionaire",
+      "tax",
+      "voters",
+      "reject",
+      "exposing"
+    ]
+  },
+  {
     "label": "Ceo Jensen",
     "count": 3,
     "sources": 3,
@@ -10,19 +23,6 @@
       "jensen",
       "chinese",
       "spy"
-    ]
-  },
-  {
-    "label": "Billionaire Tax",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "california",
-      "billionaire",
-      "tax",
-      "voters",
-      "reject",
-      "exposing"
     ]
   },
   {
@@ -49,6 +49,19 @@
       "since",
       "markle",
       "public"
+    ]
+  },
+  {
+    "label": "Russia Ukraine",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "russia",
+      "ukraine",
+      "talks",
+      "war",
+      "ending",
+      "abu"
     ]
   }
 ]
