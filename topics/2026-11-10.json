@@ -39,6 +39,32 @@
     ]
   },
   {
+    "label": "Soldier Arrested",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "soldier",
+      "arrested",
+      "senior",
+      "army",
+      "russia",
+      "espionage"
+    ]
+  },
+  {
+    "label": "Thomas Markle",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "markle",
+      "thomas",
+      "ankle",
+      "monitor",
+      "meghan",
+      "father"
+    ]
+  },
+  {
     "label": "Russia Ukraine",
     "count": 5,
     "sources": 5,
@@ -65,19 +91,6 @@
     ]
   },
   {
-    "label": "Soldier Arrested",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "soldier",
-      "arrested",
-      "senior",
-      "army",
-      "espionage",
-      "police"
-    ]
-  },
-  {
     "label": "Jensen Huang",
     "count": 6,
     "sources": 4,
@@ -88,19 +101,6 @@
       "ceo",
       "jensen",
       "chinese"
-    ]
-  },
-  {
-    "label": "Hegseth Hold",
-    "count": 5,
-    "sources": 4,
-    "keywords": [
-      "hegseth",
-      "impeachment",
-      "pentagon",
-      "briefing",
-      "news",
-      "hold"
     ]
   }
 ]
