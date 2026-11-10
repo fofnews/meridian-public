@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Russia Ukraine",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "russia",
+      "ukraine",
+      "talks",
+      "war",
+      "ending",
+      "abu"
+    ]
+  },
+  {
     "label": "Billionaire Tax",
     "count": 4,
     "sources": 4,
@@ -23,19 +36,6 @@
       "voters",
       "reject",
       "exposing"
-    ]
-  },
-  {
-    "label": "Russia Ukraine",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "russia",
-      "ukraine",
-      "talks",
-      "war",
-      "ending",
-      "abu"
     ]
   },
   {
