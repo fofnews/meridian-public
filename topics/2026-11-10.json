@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Impeachment Push",
+    "count": 5,
+    "sources": 4,
+    "keywords": [
+      "hegseth",
+      "impeachment",
+      "push",
+      "farce",
+      "pete",
+      "against"
+    ]
+  },
+  {
     "label": "Billionaire Tax",
     "count": 4,
     "sources": 4,
@@ -88,19 +101,6 @@
       "appearance",
       "since",
       "arrest"
-    ]
-  },
-  {
-    "label": "Jensen Huang",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "jensen",
-      "huang",
-      "nvidia",
-      "affair",
-      "board",
-      "history"
     ]
   }
 ]
