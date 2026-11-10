@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Glp Drugs",
+    "count": 7,
+    "sources": 6,
+    "keywords": [
+      "fda",
+      "glp",
+      "risk",
+      "drugs",
+      "eye",
+      "vision"
+    ]
+  },
+  {
     "label": "Follow Trump",
     "count": 6,
     "sources": 6,
@@ -88,19 +101,6 @@
       "suspected",
       "ceo",
       "investigation"
-    ]
-  },
-  {
-    "label": "Glp Drugs",
-    "count": 6,
-    "sources": 6,
-    "keywords": [
-      "fda",
-      "glp",
-      "drugs",
-      "eye",
-      "risk",
-      "rare"
     ]
   }
 ]
