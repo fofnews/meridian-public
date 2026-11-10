@@ -1,15 +1,28 @@
 [
   {
     "label": "Jim Jordan",
-    "count": 8,
-    "sources": 7,
+    "count": 9,
+    "sources": 8,
     "keywords": [
       "house",
       "leader",
       "jim",
       "jordan",
-      "republicans",
-      "next"
+      "next",
+      "republicans"
+    ]
+  },
+  {
+    "label": "Jim Jordan",
+    "count": 7,
+    "sources": 6,
+    "keywords": [
+      "jordan",
+      "house",
+      "leader",
+      "jim",
+      "scalise",
+      "minority"
     ]
   },
   {
@@ -23,19 +36,6 @@
       "iran",
       "threat",
       "british"
-    ]
-  },
-  {
-    "label": "Jim Jordan",
-    "count": 6,
-    "sources": 5,
-    "keywords": [
-      "jordan",
-      "leader",
-      "house",
-      "scalise",
-      "jim",
-      "minority"
     ]
   },
   {
@@ -66,13 +66,13 @@
   },
   {
     "label": "Jensen Huang",
-    "count": 5,
+    "count": 6,
     "sources": 4,
     "keywords": [
       "nvidia",
-      "ceo",
       "huang",
       "spy",
+      "ceo",
       "jensen",
       "chinese"
     ]
