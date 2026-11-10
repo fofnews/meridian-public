@@ -14,8 +14,8 @@
   },
   {
     "label": "Soldier Arrested",
-    "count": 8,
-    "sources": 8,
+    "count": 9,
+    "sources": 9,
     "keywords": [
       "soldier",
       "arrested",
@@ -66,15 +66,15 @@
   },
   {
     "label": "Russia Ukraine",
-    "count": 5,
-    "sources": 5,
+    "count": 6,
+    "sources": 6,
     "keywords": [
       "russia",
       "ukraine",
       "talks",
       "war",
-      "ending",
-      "abu"
+      "abu",
+      "dhabi"
     ]
   },
   {
