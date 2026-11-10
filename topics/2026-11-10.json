@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Gas Prices",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "gas",
+      "prices",
+      "below",
+      "gallon",
+      "time",
+      "since"
+    ]
+  },
+  {
     "label": "Appearance Since",
     "count": 4,
     "sources": 3,
@@ -88,19 +101,6 @@
       "affair",
       "board",
       "history"
-    ]
-  },
-  {
-    "label": "Video Shows",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "ohio",
-      "fraternity",
-      "video",
-      "two",
-      "shows",
-      "fire"
     ]
   }
 ]
