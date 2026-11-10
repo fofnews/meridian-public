@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Hegseth Hold",
+    "count": 5,
+    "sources": 4,
+    "keywords": [
+      "hegseth",
+      "impeachment",
+      "pentagon",
+      "briefing",
+      "news",
+      "hold"
+    ]
+  },
+  {
     "label": "Billionaire Tax",
     "count": 4,
     "sources": 4,
@@ -49,19 +62,6 @@
       "voters",
       "reject",
       "exposing"
-    ]
-  },
-  {
-    "label": "Hegseth Hold",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "hegseth",
-      "impeachment",
-      "pentagon",
-      "news",
-      "hold",
-      "briefing"
     ]
   },
   {
