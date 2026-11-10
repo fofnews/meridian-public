@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Jensen Huang",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "jensen",
+      "huang",
+      "nvidia",
+      "affair",
+      "board",
+      "history"
+    ]
+  },
+  {
     "label": "Video Shows",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "two",
       "shows",
       "fire"
-    ]
-  },
-  {
-    "label": "Impeachment Push",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "hegseth",
-      "impeachment",
-      "push",
-      "live",
-      "holds",
-      "briefing"
     ]
   }
 ]
