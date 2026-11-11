@@ -14,14 +14,14 @@
   },
   {
     "label": "Bessent Moved",
-    "count": 5,
-    "sources": 5,
+    "count": 7,
+    "sources": 7,
     "keywords": [
       "bessent",
       "base",
+      "threats",
       "moved",
       "military",
-      "threats",
       "treasury"
     ]
   },
@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Arrested Fatal",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "son",
+      "arrested",
+      "fatal",
+      "hit",
+      "run",
+      "alaska"
+    ]
+  },
+  {
     "label": "Veterans Day",
     "count": 4,
     "sources": 3,
@@ -88,19 +101,6 @@
       "arlington",
       "live",
       "national"
-    ]
-  },
-  {
-    "label": "Ebola Cases",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "ebola",
-      "cases",
-      "congo",
-      "000",
-      "deadliest",
-      "outbreak"
     ]
   }
 ]
