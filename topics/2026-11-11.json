@@ -1,5 +1,18 @@
 [
   {
+    "label": "Russia Ukraine",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "russia",
+      "ukraine",
+      "exchange",
+      "abu",
+      "dhabi",
+      "talks"
+    ]
+  },
+  {
     "label": "Bessent Moved",
     "count": 4,
     "sources": 4,
@@ -10,6 +23,32 @@
       "moved",
       "military",
       "treasury"
+    ]
+  },
+  {
+    "label": "Schools Evacuated",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "schools",
+      "evacuated",
+      "bomb",
+      "300",
+      "least",
+      "italian"
+    ]
+  },
+  {
+    "label": "Nvidia Ceo",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "nvidia",
+      "huang",
+      "affair",
+      "ceo",
+      "jensen",
+      "alleged"
     ]
   },
   {
@@ -39,42 +78,16 @@
     ]
   },
   {
-    "label": "Russia Ukraine",
+    "label": "Soldier Arrested",
     "count": 3,
     "sources": 3,
     "keywords": [
+      "arrested",
       "russia",
-      "ukraine",
-      "abu",
-      "dhabi",
-      "talks",
-      "agree"
-    ]
-  },
-  {
-    "label": "300 Italian",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "schools",
-      "evacuated",
-      "bomb",
-      "300",
-      "italian",
-      "threats"
-    ]
-  },
-  {
-    "label": "Nvidia Ceo",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "nvidia",
-      "ceo",
-      "huang",
-      "affair",
-      "jensen",
-      "alleged"
+      "spying",
+      "soldier",
+      "suspicion",
+      "know"
     ]
   },
   {
@@ -88,19 +101,6 @@
       "vote",
       "pete",
       "face"
-    ]
-  },
-  {
-    "label": "House Republicans",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "republicans",
-      "hegseth",
-      "house",
-      "block",
-      "impeachment",
-      "rally"
     ]
   }
 ]
