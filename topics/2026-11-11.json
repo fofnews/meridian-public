@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Veterans Day",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "trump",
+      "veterans",
+      "day",
+      "arlington",
+      "live",
+      "national"
+    ]
+  },
+  {
     "label": "Ebola Cases",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "000",
       "deadliest",
       "outbreak"
-    ]
-  },
-  {
-    "label": "Chinese University",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "chinese",
-      "university",
-      "nvidia",
-      "h200",
-      "chips",
-      "despite"
     ]
   }
 ]
