@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Spying Russia",
+    "count": 6,
+    "sources": 4,
+    "keywords": [
+      "russia",
+      "spying",
+      "soldier",
+      "arrested",
+      "know",
+      "suspicion"
+    ]
+  },
+  {
     "label": "Nvidia Ceo",
     "count": 5,
     "sources": 4,
@@ -62,19 +75,6 @@
       "years",
       "housing",
       "workers"
-    ]
-  },
-  {
-    "label": "Spying Russia",
-    "count": 5,
-    "sources": 3,
-    "keywords": [
-      "russia",
-      "spying",
-      "soldier",
-      "arrested",
-      "know",
-      "suspicion"
     ]
   },
   {
