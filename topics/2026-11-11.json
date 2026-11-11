@@ -1,15 +1,15 @@
 [
   {
-    "label": "Treasury Chief",
-    "count": 3,
-    "sources": 3,
+    "label": "Bessent Moved",
+    "count": 4,
+    "sources": 4,
     "keywords": [
       "bessent",
       "base",
       "threats",
-      "treasury",
-      "chief",
-      "moved"
+      "moved",
+      "military",
+      "treasury"
     ]
   },
   {
@@ -36,6 +36,19 @@
       "years",
       "housing",
       "workers"
+    ]
+  },
+  {
+    "label": "300 Italian",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "schools",
+      "evacuated",
+      "bomb",
+      "300",
+      "italian",
+      "threats"
     ]
   },
   {
