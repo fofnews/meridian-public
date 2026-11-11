@@ -14,15 +14,28 @@
   },
   {
     "label": "Soldier Arrested",
-    "count": 9,
+    "count": 10,
     "sources": 9,
     "keywords": [
       "soldier",
       "arrested",
       "russia",
       "senior",
-      "army",
-      "suspicion"
+      "suspicion",
+      "army"
+    ]
+  },
+  {
+    "label": "Second Base",
+    "count": 7,
+    "sources": 7,
+    "keywords": [
+      "base",
+      "aircraft",
+      "second",
+      "iran",
+      "threat",
+      "british"
     ]
   },
   {
@@ -49,19 +62,6 @@
       "monitor",
       "meghan",
       "father"
-    ]
-  },
-  {
-    "label": "British Base",
-    "count": 6,
-    "sources": 6,
-    "keywords": [
-      "base",
-      "aircraft",
-      "second",
-      "iran",
-      "threat",
-      "british"
     ]
   },
   {
