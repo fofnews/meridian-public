@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Rep Massie",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "massie",
+      "impeachment",
+      "hegseth",
+      "rep",
+      "articles",
+      "epoch"
+    ]
+  },
+  {
     "label": "Arrested Fatal",
     "count": 4,
     "sources": 3,
@@ -88,19 +101,6 @@
       "hit",
       "run",
       "alaska"
-    ]
-  },
-  {
-    "label": "Veterans Day",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "trump",
-      "veterans",
-      "day",
-      "arlington",
-      "live",
-      "national"
     ]
   }
 ]
