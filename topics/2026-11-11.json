@@ -14,15 +14,41 @@
   },
   {
     "label": "Bessent Moved",
-    "count": 4,
-    "sources": 4,
+    "count": 5,
+    "sources": 5,
     "keywords": [
       "bessent",
       "base",
-      "threats",
       "moved",
       "military",
+      "threats",
       "treasury"
+    ]
+  },
+  {
+    "label": "Nvidia Ceo",
+    "count": 5,
+    "sources": 4,
+    "keywords": [
+      "nvidia",
+      "huang",
+      "affair",
+      "ceo",
+      "alleged",
+      "jensen"
+    ]
+  },
+  {
+    "label": "General Strike",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "spain",
+      "general",
+      "strike",
+      "years",
+      "housing",
+      "workers"
     ]
   },
   {
@@ -39,21 +65,8 @@
     ]
   },
   {
-    "label": "Nvidia Ceo",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "nvidia",
-      "huang",
-      "affair",
-      "ceo",
-      "jensen",
-      "alleged"
-    ]
-  },
-  {
     "label": "Spying Russia",
-    "count": 4,
+    "count": 5,
     "sources": 3,
     "keywords": [
       "russia",
@@ -78,29 +91,16 @@
     ]
   },
   {
-    "label": "General Strike",
+    "label": "Threats Schools",
     "count": 3,
     "sources": 3,
     "keywords": [
-      "spain",
-      "general",
-      "strike",
-      "years",
-      "housing",
-      "workers"
-    ]
-  },
-  {
-    "label": "Hegseth Impeachment",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "hegseth",
-      "impeachment",
-      "democrats",
-      "vote",
-      "pete",
-      "face"
+      "threats",
+      "schools",
+      "hoax",
+      "bomb",
+      "sent",
+      "irish"
     ]
   }
 ]
