@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Kennedy Family",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "kennedy",
+      "family",
+      "trump",
+      "arch",
+      "members",
+      "block"
+    ]
+  },
+  {
     "label": "Pete Hegseth",
     "count": 6,
     "sources": 5,
@@ -88,19 +101,6 @@
       "articles",
       "facing",
       "house"
-    ]
-  },
-  {
-    "label": "Gas Prices",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "gas",
-      "prices",
-      "below",
-      "gallon",
-      "time",
-      "since"
     ]
   }
 ]
