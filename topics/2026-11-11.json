@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Schools Evacuated",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "schools",
+      "bomb",
+      "evacuated",
+      "300",
+      "threats",
+      "least"
+    ]
+  },
+  {
     "label": "Nvidia Ceo",
     "count": 5,
     "sources": 4,
@@ -49,19 +62,6 @@
       "years",
       "housing",
       "workers"
-    ]
-  },
-  {
-    "label": "Schools Evacuated",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "schools",
-      "evacuated",
-      "bomb",
-      "300",
-      "least",
-      "italian"
     ]
   },
   {
