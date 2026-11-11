@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Russia Ukraine",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "russia",
+      "ukraine",
+      "abu",
+      "dhabi",
+      "talks",
+      "agree"
+    ]
+  },
+  {
     "label": "300 Italian",
     "count": 3,
     "sources": 3,
@@ -75,6 +88,19 @@
       "vote",
       "pete",
       "face"
+    ]
+  },
+  {
+    "label": "House Republicans",
+    "count": 3,
+    "sources": 2,
+    "keywords": [
+      "republicans",
+      "hegseth",
+      "house",
+      "block",
+      "impeachment",
+      "rally"
     ]
   }
 ]
