@@ -1,5 +1,18 @@
 [
   {
+    "label": "Treasury Chief",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "bessent",
+      "base",
+      "threats",
+      "treasury",
+      "chief",
+      "moved"
+    ]
+  },
+  {
     "label": "Chinese University",
     "count": 3,
     "sources": 3,
@@ -10,6 +23,19 @@
       "h200",
       "chips",
       "despite"
+    ]
+  },
+  {
+    "label": "General Strike",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "spain",
+      "general",
+      "strike",
+      "years",
+      "housing",
+      "workers"
     ]
   },
   {
