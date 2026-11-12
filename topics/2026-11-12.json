@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Huang Resigns",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "nvidia",
+      "huang",
+      "resigns",
+      "stock",
+      "ceo",
+      "jensen"
+    ]
+  },
+  {
     "label": "Strike Gaza",
     "count": 5,
     "sources": 5,
@@ -88,19 +101,6 @@
       "focus",
       "deal",
       "iran"
-    ]
-  },
-  {
-    "label": "Jensen Huang",
-    "count": 7,
-    "sources": 4,
-    "keywords": [
-      "nvidia",
-      "jensen",
-      "huang",
-      "ceo",
-      "board",
-      "relationship"
     ]
   }
 ]
