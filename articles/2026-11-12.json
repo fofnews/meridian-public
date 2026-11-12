@@ -6534,5 +6534,318 @@
     "categories": [],
     "collectRun": "2026-11-12T15:30:00.000Z",
     "collectedAt": "2026-11-12T15:30:01.440Z"
+  },
+  {
+    "title": "NYC building collapse: Death toll rises",
+    "description": "At least eight people have died after a building collapse in Brooklyn, New York City Mayor Zohran Mamdani confirmed. Children are among the injured, officials said. CBS News' Jarred Hill reports.",
+    "link": "https://www.cbsnews.com/video/nyc-building-collapse-death-toll-rises/",
+    "pubDate": "Thu, 12 Nov 2026 10:32:54 -0500",
+    "source": "CBS News",
+    "categories": [],
+    "collectRun": "2026-11-12T15:45:00.000Z",
+    "collectedAt": "2026-11-12T15:45:02.140Z"
+  },
+  {
+    "title": "How men can guard against prostate cancer",
+    "description": "Men should start screening for prostate cancer earlier, according to new guidance from the American Cancer Society. Dr. Céline Gounder explains how guidelines are changing.",
+    "link": "https://www.cbsnews.com/video/how-men-can-guard-against-prostate-cancer/",
+    "pubDate": "Thu, 12 Nov 2026 10:30:29 -0500",
+    "source": "CBS News",
+    "categories": [],
+    "collectRun": "2026-11-12T15:45:00.000Z",
+    "collectedAt": "2026-11-12T15:45:02.140Z"
+  },
+  {
+    "title": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
+    "description": "The announcement on social media deepened questions about what the president’s plan is to end the war. “We don’t need a deal with Iran,” he wrote.",
+    "link": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
+    "pubDate": "Thu, 12 Nov 2026 15:23:05 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "us and israeli attack on iran (2026)",
+      "united states international relations",
+      "peace process",
+      "trump, donald j",
+      "vance, j d",
+      "iran"
+    ],
+    "collectRun": "2026-11-12T15:45:00.000Z",
+    "collectedAt": "2026-11-12T15:45:02.140Z"
+  },
+  {
+    "title": "Jensen Huang agrees to brief Congress on interactions with alleged spy, lawmaker says",
+    "description": "Former Nvidia CEO Jensen Huang has agreed to brief lawmakers on his interactions with the former executive of Megaspeed, a Singapore-based company under scrutiny for potential chip smuggling, and Nvidia’s security protocols, according to Rep.",
+    "link": "https://www.nbcnews.com/tech/tech-news/jensen-huang-agrees-brief-congress-interactions-alleged-spy-lawmaker-s-rcna608990",
+    "pubDate": "Thu, 12 Nov 2026 15:32:30 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectRun": "2026-11-12T15:45:00.000Z",
+    "collectedAt": "2026-11-12T15:45:02.140Z"
+  },
+  {
+    "title": "Manchester United sacked manager Michael Carrick",
+    "description": "Michael Carrick has become the third recent Manchester United manager to be sacked midway through the season.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/manchester-united-sacked-manager-michael-carrick?traffic_source=rss",
+    "pubDate": "Thu, 12 Nov 2026 15:21:43 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectRun": "2026-11-12T15:45:00.000Z",
+    "collectedAt": "2026-11-12T15:45:02.140Z"
+  },
+  {
+    "title": "UK court finds two Iranian men guilty of spying for Iran",
+    "description": "The pair were promised rewards to send intelligence back to Iran, while one was prepared to commit a 'violent attack'.",
+    "link": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss",
+    "pubDate": "Thu, 12 Nov 2026 15:15:48 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-11-12T15:45:00.000Z",
+    "collectedAt": "2026-11-12T15:45:02.140Z"
+  },
+  {
+    "title": "US envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi - AP News",
+    "description": "US envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi  AP News",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFZuQ05KbXhLT294akRzMl9XWE5rUmRhV01fSDY4VVF6dnNaZVlCUzdCd1I2TnI0azFRT1VHcW1hVm9oMWhUNTZaVUc0QjNVNkNseGxYTGU3RmpSWXppTVZ4TzVRWEpxdE1tOVc3NDJYdFZmdWhoeFBvSXc4MXV4N0JUSW95SzlZalpwcERuU3hRNHpSbVBwNXl1Y19kUDU1d2c?oc=5",
+    "pubDate": "Thu, 12 Nov 2026 13:30:00 GMT",
+    "source": "AP News",
+    "categories": [],
+    "collectRun": "2026-11-12T15:45:00.000Z",
+    "collectedAt": "2026-11-12T15:45:02.140Z"
+  },
+  {
+    "title": "VIEW Nvidia CEO Jensen Huang steps down - Reuters",
+    "description": "VIEW Nvidia CEO Jensen Huang steps down  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZC1uZTVNUkdPM3M1UzkxWjJDbmNFa1RwZm9iVmFuZ0FUMW1Sa1p4NlYxY3AxbE91d3VyN0J6aHM4UWpqTHpPZkdWbS04OEFyM3JqSzdoUUxhVWlTMlBReUZvQnRQbVhxdXhFMG8yenFBeUw1aVNxR0tzMWdMSzNlME80eW1ZZWlGcXJFUg?oc=5",
+    "pubDate": "Thu, 12 Nov 2026 14:35:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectRun": "2026-11-12T15:45:00.000Z",
+    "collectedAt": "2026-11-12T15:45:02.140Z"
+  },
+  {
+    "title": "Trump: ‘Huge CARAVANS are … beginning illegal march through Mexico’",
+    "description": "President Trump on Thursday reacted to reports that more than 1,000 migrants are heading toward the U.S. from Mexico, which he connected to sweeping Republican losses in the midterms. A Chiapas state government source told Reuters that around 1,500 people, including several families with small children and strollers, left the Mexican city of Tapachula by…",
+    "link": "https://thehill.com/homenews/administration/6215557-donald-trump-us-mexico-migrants-gop-midterm-losses/",
+    "pubDate": "\n\t\tThu, 12 Nov 2026 15:38:43 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "campaign",
+      "international",
+      "news",
+      "policy",
+      "gop midterm losses",
+      "mexico",
+      "migrant caravan",
+      "reuters",
+      "trump administration",
+      "trump immigration agenda",
+      "trump tariff agenda",
+      "u.s.-mexico border"
+    ],
+    "collectRun": "2026-11-12T15:45:00.000Z",
+    "collectedAt": "2026-11-12T15:45:02.140Z"
+  },
+  {
+    "title": "Should Ocasio-Cortez run for president or Senate?",
+    "description": "Rep. Alexandria Ocasio-Cortez (D-N.Y.) faces a potentially career-altering choice: running for president or Senate in 2028. What do the numbers say about her options? Plus, what happens next after Democrats secured a historic win in the Mississippi Senate race? What is the latest on the remaining uncalled races across the country, including Alaska’s Senate contest?…",
+    "link": "https://thehill.com/homenews/campaign/data-nerds/6215990-alexandria-ocasio-cortez-white-house-bid-senate-run-live-discussion/",
+    "pubDate": "\n\t\tThu, 12 Nov 2026 15:36:44 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "campaign",
+      "data nerds",
+      "news",
+      "state watch",
+      "video"
+    ],
+    "collectRun": "2026-11-12T15:45:00.000Z",
+    "collectedAt": "2026-11-12T15:45:02.140Z"
+  },
+  {
+    "title": "Oregon State Receives Concerning Injury Update on Star QB",
+    "description": "Oregon State faces a major setback as star quarterback Braden Atkinson's status raises concerns ahead of Boise State.",
+    "link": "https://www.newsweek.com/sports/ncaa/oregon-state-receives-concerning-injury-update-on-star-qb-12703246",
+    "pubDate": "Thu, 12 Nov 2026 10:40:24 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-12T15:45:00.000Z",
+    "collectedAt": "2026-11-12T15:45:02.140Z"
+  },
+  {
+    "title": "Why U.S. Home Insurance Costs Are Surging",
+    "description": "More frequent natural disasters and higher repair costs are bringing up insurance costs, stretching U.S. households’ budgets thin.",
+    "link": "https://www.newsweek.com/why-u-s-home-insurance-costs-are-surging-12699097",
+    "pubDate": "Thu, 12 Nov 2026 10:37:54 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-12T15:45:00.000Z",
+    "collectedAt": "2026-11-12T15:45:02.140Z"
+  },
+  {
+    "title": "Long Island To Announce Breakthrough In 6 Historic Cold Cases",
+    "description": "Long Island officials will identify six cold-case victims, including “Montauk Mary,” following a DNA breakthrough.",
+    "link": "https://www.newsweek.com/long-island-cold-case-victims-montauk-mary-12704445",
+    "pubDate": "Thu, 12 Nov 2026 10:33:57 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-12T15:45:00.000Z",
+    "collectedAt": "2026-11-12T15:45:02.140Z"
+  },
+  {
+    "title": "Fernando Mendoza Sends Emotional Message to Kirk Cousins",
+    "description": "Fernando Mendoza thanked Kirk Cousins and his family as the Raiders rookie prepares for his first NFL start.",
+    "link": "https://www.newsweek.com/sports/nfl/fernando-mendoza-sends-emotional-message-to-kirk-cousins-12702976",
+    "pubDate": "Thu, 12 Nov 2026 10:32:38 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-12T15:45:00.000Z",
+    "collectedAt": "2026-11-12T15:45:02.140Z"
+  },
+  {
+    "title": "What really happens during Medicare counseling",
+    "description": "Open enrollment can bring unexpected challenges for seniors.",
+    "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
+    "pubDate": "Thu, 12 Nov 2026 15:40:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectRun": "2026-11-12T15:45:00.000Z",
+    "collectedAt": "2026-11-12T15:45:02.140Z"
+  },
+  {
+    "title": "Taylor Sheridan says fame is something 'I would give back tomorrow' during blunt interview",
+    "description": "Taylor Sheridan says fame is something he'd \"give back tomorrow\" and calls the award circuit \"its own scam\" in a revealing new conference talk.",
+    "link": "https://www.foxnews.com/outkick-culture/taylor-sheridan-says-fame-something-would-give-back-tomorrow-blunt-interview",
+    "pubDate": "Thu, 12 Nov 2026 10:34:46 -0500",
+    "source": "Fox News",
+    "categories": [
+      "1aa48c54-fb18-53a8-8155-3067072a8b1e",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-culture",
+      "fox-news/entertainment",
+      "fox-news/shows",
+      "fox-news/entertainment/tv",
+      "fox-news/outkick-culture",
+      "article"
+    ],
+    "collectRun": "2026-11-12T15:45:00.000Z",
+    "collectedAt": "2026-11-12T15:45:02.140Z"
+  },
+  {
+    "title": "NYC building collapse: Timeline of deadly disaster as rescuers race to pull survivors from rubble",
+    "description": "A timeline reveals how the deadly New York City building collapse at 1321 Flatbush Ave. unfolded, from the first 911 call to a frantic rescue.",
+    "link": "https://www.foxnews.com/us/nyc-building-collapse-timeline-deadly-disaster-rescuers-race-pull-survivors-rubble",
+    "pubDate": "Thu, 12 Nov 2026 10:31:02 -0500",
+    "source": "Fox News",
+    "categories": [
+      "34c12b76-e604-5ebf-9f5c-9890daface36",
+      "fnc",
+      "fox news",
+      "fox-news/us/new-york-city",
+      "fox-news/us",
+      "fox-news/us/us-regions/northeast",
+      "fox-news/us/disasters",
+      "fox-news/aftermath",
+      "fox-news/us/us-regions/northeast/new-york",
+      "fox-news/us",
+      "article"
+    ],
+    "collectRun": "2026-11-12T15:45:00.000Z",
+    "collectedAt": "2026-11-12T15:45:02.140Z"
+  },
+  {
+    "title": "CNN, MS NOW, NYT turn blind eye on illegal immigrant accused of bomb threat, attempting to storm cockpit",
+    "description": "Members of the legacy media ignored the arrest of a twice-deported illegal immigrant who allegedly made a bomb threat on a United Airlines flight.",
+    "link": "https://www.foxnews.com/media/cnn-ms-nyt-turn-blind-eye-illegal-immigrant-accused-bomb-threat-attempting-storm-cockpit",
+    "pubDate": "Thu, 12 Nov 2026 10:29:42 -0500",
+    "source": "Fox News",
+    "categories": [
+      "9cbafffa-43c9-51de-b674-98eecc818bb0",
+      "fnc",
+      "fox news",
+      "fox-news/media",
+      "fox-news/politics/executive/homeland-security",
+      "fox-news/us/immigration/migrant-crime",
+      "fox-news/us/immigration",
+      "fox-news/us/terror",
+      "fox-news/us/immigration/illegal-immigrants",
+      "fox-news/organization/the-new-york-times",
+      "fox-news/media",
+      "article"
+    ],
+    "collectRun": "2026-11-12T15:45:00.000Z",
+    "collectedAt": "2026-11-12T15:45:02.140Z"
+  },
+  {
+    "title": "Who is Colette Kress, Nvidia’s interim CEO replacing Jensen Huang?",
+    "description": "Nvidia’s longtime financial chief Colette Kress will become the chipmaking giant’s interim chief executive after Jensen Huang resigned on Thursday over his affair with an alleged Chinese spy. In addition to serving as interim CEO while the company searches for a permanent replacement, the 59-year-old Kress will keep her roles as chief financial officer and...",
+    "link": "https://nypost.com/2026/11/12/business/who-is-colette-kress-nvidias-interim-ceo-replacing-jensen-huang/",
+    "pubDate": "Thu, 12 Nov 2026 10:42:17 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-12T15:45:00.000Z",
+    "collectedAt": "2026-11-12T15:45:02.140Z"
+  },
+  {
+    "title": "Classic fast-food burger chain drops new menu fans say is ‘100 times better’ than McDonald’s — despite recent bankruptcy filing",
+    "description": "A classic burger chain has dropped a value menu that fans are heralding as a true triumph in an era of inflation.",
+    "link": "https://nypost.com/2026/11/12/lifestyle/bankrupt-rallys-new-menu-is-100-times-better-than-mcdonalds-fans/",
+    "pubDate": "Thu, 12 Nov 2026 10:34:47 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-12T15:45:00.000Z",
+    "collectedAt": "2026-11-12T15:45:02.140Z"
+  },
+  {
+    "title": "Aspyn Ovard screams at ex over daughter’s terminal cancer diagnosis in gut-wrenching ‘Mormon Wives’ moment: She’s ‘going to die!’",
+    "description": "The \"Secret Lives of Mormon Wives: Orange County\" star revealed her daughter's devastating diagnosis in the spinoff's premiere episode.",
+    "link": "https://pagesix.com/2026/11/12/entertainment/slomw-oc-star-aspyn-ovard-screams-at-ex-parker-ferris-over-daughters-terminal-cancer-diagnosis/",
+    "pubDate": "Thu, 12 Nov 2026 10:34:46 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-12T15:45:00.000Z",
+    "collectedAt": "2026-11-12T15:45:02.140Z"
+  },
+  {
+    "title": "An NYC nor’easter is just hours away: This simple solution to heavy snow will save you",
+    "description": "Let it snow!",
+    "link": "https://nypost.com/2026/11/12/shopping/beat-the-storm-in-nyc-this-weekend-with-heated-snow-melting-mats/",
+    "pubDate": "Thu, 12 Nov 2026 10:30:54 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-12T15:45:00.000Z",
+    "collectedAt": "2026-11-12T15:45:02.140Z"
+  },
+  {
+    "title": "Chris Harrison Insists ‘The Vow’ Is “Not Some Crazy Dating Show” — But Still Delivers Drama",
+    "description": "Chris Harrison is back, baby!",
+    "link": "https://decider.com/2026/11/12/chris-harrison-interview-the-vow-not-some-crazy-dating-show/",
+    "pubDate": "Thu, 12 Nov 2026 10:30:00 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-12T15:45:00.000Z",
+    "collectedAt": "2026-11-12T15:45:02.140Z"
+  },
+  {
+    "title": "WATCH LIVE: Police provide update after multiple people shot in Washington’s Logan Circle",
+    "description": "Police are holding a press conference in Washington, D.C., about the shooting that killed one person and injured at least four others Thursday morning. A D.C. active alert reported that Metropolitan Police Department officers, including the Emergency Response Team, were on the scene of an active shooting near 15th and P Streets NW. The gunshots […]",
+    "link": "https://www.washingtonexaminer.com/news/crime/4801368/watch-live-police-provide-update-shooting-washington-logan-circle/",
+    "pubDate": "Thu, 12 Nov 2026 15:28:20 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "crime",
+      "local news",
+      "police and law enforcement",
+      "shootings",
+      "washington d.c."
+    ],
+    "collectRun": "2026-11-12T15:45:00.000Z",
+    "collectedAt": "2026-11-12T15:45:02.140Z"
   }
 ]
