@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Arrive Moscow",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "putin",
+      "moscow",
+      "ukraine",
+      "talks",
+      "envoys",
+      "arrive"
+    ]
+  },
+  {
     "label": "Jensen Huang",
     "count": 5,
     "sources": 5,
@@ -65,6 +78,19 @@
     ]
   },
   {
+    "label": "Vance Focus",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "trump",
+      "corruption",
+      "vance",
+      "focus",
+      "deal",
+      "iran"
+    ]
+  },
+  {
     "label": "Jensen Huang",
     "count": 7,
     "sources": 4,
@@ -75,32 +101,6 @@
       "ceo",
       "board",
       "relationship"
-    ]
-  },
-  {
-    "label": "Scott Colom",
-    "count": 6,
-    "sources": 4,
-    "keywords": [
-      "mississippi",
-      "scott",
-      "colom",
-      "democrat",
-      "elects",
-      "black"
-    ]
-  },
-  {
-    "label": "Scott Colom",
-    "count": 5,
-    "sources": 4,
-    "keywords": [
-      "scott",
-      "colom",
-      "mississippi",
-      "senator",
-      "black",
-      "two"
     ]
   }
 ]
