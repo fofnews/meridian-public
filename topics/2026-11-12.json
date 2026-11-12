@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Tomb Unknown",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "hegseth",
+      "soldier",
+      "tomb",
+      "reprimanded",
+      "unknown",
+      "guard"
+    ]
+  },
+  {
     "label": "Jensen Huang",
     "count": 7,
     "sources": 5,
@@ -88,19 +101,6 @@
       "huang",
       "future",
       "ceo"
-    ]
-  },
-  {
-    "label": "Strike Gaza",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "strike",
-      "gaza",
-      "hospital",
-      "kills",
-      "israeli",
-      "health"
     ]
   }
 ]
