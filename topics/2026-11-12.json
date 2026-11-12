@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Tomb Unknown",
+    "count": 8,
+    "sources": 7,
+    "keywords": [
+      "hegseth",
+      "soldier",
+      "reprimanded",
+      "tomb",
+      "medal",
+      "guard"
+    ]
+  },
+  {
     "label": "Jensen Huang",
     "count": 7,
     "sources": 7,
@@ -49,19 +62,6 @@
       "ceo",
       "resigns",
       "affair"
-    ]
-  },
-  {
-    "label": "Tomb Unknown",
-    "count": 7,
-    "sources": 6,
-    "keywords": [
-      "hegseth",
-      "soldier",
-      "reprimanded",
-      "tomb",
-      "guard",
-      "unknown"
     ]
   },
   {
