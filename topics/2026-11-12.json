@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Jensen Huang",
+    "count": 6,
+    "sources": 4,
+    "keywords": [
+      "nvidia",
+      "board",
+      "jensen",
+      "huang",
+      "ceo",
+      "stock"
+    ]
+  },
+  {
     "label": "Mississippi Elects",
     "count": 4,
     "sources": 4,
@@ -36,19 +49,6 @@
       "senator",
       "since",
       "democrat"
-    ]
-  },
-  {
-    "label": "Jensen Huang",
-    "count": 5,
-    "sources": 3,
-    "keywords": [
-      "nvidia",
-      "board",
-      "jensen",
-      "huang",
-      "ceo",
-      "stock"
     ]
   },
   {
