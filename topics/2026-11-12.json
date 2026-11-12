@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Jensen Huang",
+    "count": 7,
+    "sources": 5,
+    "keywords": [
+      "nvidia",
+      "board",
+      "jensen",
+      "huang",
+      "future",
+      "ceo"
+    ]
+  },
+  {
     "label": "Strike Gaza",
     "count": 5,
     "sources": 5,
@@ -23,19 +36,6 @@
       "kills",
       "israeli",
       "health"
-    ]
-  },
-  {
-    "label": "Jensen Huang",
-    "count": 6,
-    "sources": 4,
-    "keywords": [
-      "nvidia",
-      "board",
-      "jensen",
-      "huang",
-      "ceo",
-      "stock"
     ]
   },
   {
