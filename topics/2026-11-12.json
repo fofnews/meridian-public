@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Jensen Huang",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "jensen",
+      "huang",
+      "nvidia",
+      "ceo",
+      "resigns",
+      "affair"
+    ]
+  },
+  {
     "label": "Strike Gaza",
     "count": 5,
     "sources": 5,
@@ -65,6 +78,19 @@
     ]
   },
   {
+    "label": "Scott Colom",
+    "count": 5,
+    "sources": 4,
+    "keywords": [
+      "scott",
+      "colom",
+      "mississippi",
+      "senator",
+      "black",
+      "two"
+    ]
+  },
+  {
     "label": "Arrive Moscow",
     "count": 4,
     "sources": 4,
@@ -75,32 +101,6 @@
       "ukraine",
       "talks",
       "envoys"
-    ]
-  },
-  {
-    "label": "Jensen Huang",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "jensen",
-      "huang",
-      "nvidia",
-      "ceo",
-      "resigns",
-      "affair"
-    ]
-  },
-  {
-    "label": "Trump Immigration",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "trump",
-      "immigration",
-      "deal",
-      "stephen",
-      "miller",
-      "hints"
     ]
   }
 ]
