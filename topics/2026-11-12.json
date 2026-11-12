@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Huang Resigns",
+    "count": 7,
+    "sources": 6,
+    "keywords": [
+      "nvidia",
+      "huang",
+      "resigns",
+      "ceo",
+      "jensen",
+      "stock"
+    ]
+  },
+  {
     "label": "Meet Putin",
     "count": 6,
     "sources": 6,
@@ -65,16 +78,16 @@
     ]
   },
   {
-    "label": "Huang Resigns",
+    "label": "Tim Cook",
     "count": 6,
     "sources": 5,
     "keywords": [
       "nvidia",
-      "huang",
-      "resigns",
-      "stock",
+      "trump",
       "ceo",
-      "jensen"
+      "cook",
+      "huang",
+      "tim"
     ]
   },
   {
@@ -88,19 +101,6 @@
       "kills",
       "israeli",
       "health"
-    ]
-  },
-  {
-    "label": "Vance Focus",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "trump",
-      "corruption",
-      "vance",
-      "focus",
-      "deal",
-      "iran"
     ]
   }
 ]
