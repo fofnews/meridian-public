@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Arrive Moscow",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "moscow",
+      "putin",
+      "arrive",
+      "ukraine",
+      "talks",
+      "envoys"
+    ]
+  },
+  {
     "label": "Trump Immigration",
     "count": 4,
     "sources": 4,
@@ -88,19 +101,6 @@
       "collapse",
       "dead",
       "killed"
-    ]
-  },
-  {
-    "label": "Jensen Huang",
-    "count": 5,
-    "sources": 3,
-    "keywords": [
-      "nvidia",
-      "jensen",
-      "huang",
-      "ceo",
-      "relationship",
-      "board"
     ]
   }
 ]
