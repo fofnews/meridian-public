@@ -15,6 +15,19 @@
   {
     "label": "Jensen Huang",
     "count": 7,
+    "sources": 6,
+    "keywords": [
+      "jensen",
+      "huang",
+      "nvidia",
+      "ceo",
+      "resigns",
+      "affair"
+    ]
+  },
+  {
+    "label": "Jensen Huang",
+    "count": 7,
     "sources": 5,
     "keywords": [
       "nvidia",
@@ -23,19 +36,6 @@
       "huang",
       "future",
       "ceo"
-    ]
-  },
-  {
-    "label": "Jensen Huang",
-    "count": 6,
-    "sources": 5,
-    "keywords": [
-      "jensen",
-      "huang",
-      "nvidia",
-      "ceo",
-      "resigns",
-      "affair"
     ]
   },
   {
@@ -49,6 +49,19 @@
       "kills",
       "israeli",
       "health"
+    ]
+  },
+  {
+    "label": "Jensen Huang",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "nvidia",
+      "jensen",
+      "huang",
+      "affair",
+      "spy",
+      "second"
     ]
   },
   {
@@ -88,19 +101,6 @@
       "senator",
       "black",
       "two"
-    ]
-  },
-  {
-    "label": "Arrive Moscow",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "moscow",
-      "putin",
-      "arrive",
-      "ukraine",
-      "talks",
-      "envoys"
     ]
   }
 ]
