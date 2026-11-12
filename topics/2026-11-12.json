@@ -65,21 +65,8 @@
     ]
   },
   {
-    "label": "Scott Colom",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "scott",
-      "colom",
-      "mississippi",
-      "senator",
-      "black",
-      "150"
-    ]
-  },
-  {
     "label": "Building Collapse",
-    "count": 4,
+    "count": 5,
     "sources": 3,
     "keywords": [
       "building",
@@ -92,15 +79,28 @@
   },
   {
     "label": "Jensen Huang",
-    "count": 4,
+    "count": 5,
     "sources": 3,
     "keywords": [
       "nvidia",
       "jensen",
       "huang",
-      "relationship",
       "ceo",
-      "executive"
+      "relationship",
+      "board"
+    ]
+  },
+  {
+    "label": "Scott Colom",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "scott",
+      "colom",
+      "mississippi",
+      "senator",
+      "black",
+      "150"
     ]
   }
 ]
