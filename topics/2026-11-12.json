@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Alaska Judge",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "peltola",
+      "alaska",
+      "judge",
+      "request",
+      "campaign",
+      "rejected"
+    ]
+  },
+  {
     "label": "Scott Colom",
     "count": 4,
     "sources": 3,
@@ -78,29 +91,16 @@
     ]
   },
   {
-    "label": "Arrive Moscow",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "arrive",
-      "moscow",
-      "putin",
-      "talks",
-      "ukraine",
-      "peace"
-    ]
-  },
-  {
     "label": "Jensen Huang",
-    "count": 3,
+    "count": 4,
     "sources": 3,
     "keywords": [
       "nvidia",
       "jensen",
       "huang",
       "relationship",
-      "executive",
-      "him"
+      "ceo",
+      "executive"
     ]
   }
 ]
