@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Tomb Unknown",
+    "count": 7,
+    "sources": 6,
+    "keywords": [
+      "hegseth",
+      "soldier",
+      "reprimanded",
+      "tomb",
+      "guard",
+      "unknown"
+    ]
+  },
+  {
     "label": "Huang Resigns",
     "count": 7,
     "sources": 6,
@@ -88,19 +101,6 @@
       "envoys",
       "moscow",
       "meet"
-    ]
-  },
-  {
-    "label": "Tomb Unknown",
-    "count": 6,
-    "sources": 6,
-    "keywords": [
-      "hegseth",
-      "soldier",
-      "tomb",
-      "reprimanded",
-      "unknown",
-      "guard"
     ]
   }
 ]
