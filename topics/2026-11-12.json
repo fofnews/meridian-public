@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Meet Putin",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "putin",
+      "ukraine",
+      "talks",
+      "envoys",
+      "moscow",
+      "meet"
+    ]
+  },
+  {
     "label": "Jensen Huang",
     "count": 7,
     "sources": 5,
@@ -49,19 +62,6 @@
       "kills",
       "israeli",
       "health"
-    ]
-  },
-  {
-    "label": "Arrive Moscow",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "putin",
-      "moscow",
-      "ukraine",
-      "talks",
-      "envoys",
-      "arrive"
     ]
   },
   {
