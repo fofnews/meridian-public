@@ -39,16 +39,29 @@
     ]
   },
   {
-    "label": "Mississippi Elects",
-    "count": 4,
+    "label": "Scott Colom",
+    "count": 6,
     "sources": 4,
     "keywords": [
       "mississippi",
+      "scott",
+      "colom",
+      "democrat",
       "elects",
-      "black",
-      "senator",
-      "since",
-      "democrat"
+      "black"
+    ]
+  },
+  {
+    "label": "Trump Immigration",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "trump",
+      "immigration",
+      "deal",
+      "stephen",
+      "miller",
+      "hints"
     ]
   },
   {
@@ -88,19 +101,6 @@
       "ceo",
       "relationship",
       "board"
-    ]
-  },
-  {
-    "label": "Scott Colom",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "scott",
-      "colom",
-      "mississippi",
-      "senator",
-      "black",
-      "150"
     ]
   }
 ]
