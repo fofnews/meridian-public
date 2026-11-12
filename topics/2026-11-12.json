@@ -1,5 +1,18 @@
 [
   {
+    "label": "Colette Kress",
+    "count": 10,
+    "sources": 7,
+    "keywords": [
+      "nvidia",
+      "ceo",
+      "colette",
+      "kress",
+      "huang",
+      "interim"
+    ]
+  },
+  {
     "label": "Mississippi Senate",
     "count": 9,
     "sources": 7,
@@ -36,19 +49,6 @@
       "spy",
       "affair",
       "ceo"
-    ]
-  },
-  {
-    "label": "Colette Kress",
-    "count": 9,
-    "sources": 6,
-    "keywords": [
-      "nvidia",
-      "ceo",
-      "colette",
-      "kress",
-      "jensen",
-      "huang"
     ]
   },
   {
