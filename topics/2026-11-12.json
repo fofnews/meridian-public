@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Outlook Thousands",
+    "count": 7,
+    "sources": 7,
+    "keywords": [
+      "microsoft",
+      "outlook",
+      "thousands",
+      "outage",
+      "issues",
+      "users"
+    ]
+  },
+  {
     "label": "Jensen Huang",
     "count": 8,
     "sources": 6,
@@ -88,19 +101,6 @@
       "cook",
       "huang",
       "tim"
-    ]
-  },
-  {
-    "label": "Meet Putin",
-    "count": 6,
-    "sources": 6,
-    "keywords": [
-      "putin",
-      "ukraine",
-      "talks",
-      "envoys",
-      "moscow",
-      "meet"
     ]
   }
 ]
