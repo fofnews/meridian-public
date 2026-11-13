@@ -11,5 +11,31 @@
       "know",
       "overnight"
     ]
+  },
+  {
+    "label": "Trump Iran",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "trump",
+      "iran",
+      "deal",
+      "2028",
+      "don",
+      "need"
+    ]
+  },
+  {
+    "label": "Van Hollen",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "van",
+      "hollen",
+      "chris",
+      "sen",
+      "schumer",
+      "leader"
+    ]
   }
 ]
