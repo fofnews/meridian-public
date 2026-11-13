@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Supreme Court",
+    "count": 7,
+    "sources": 7,
+    "keywords": [
+      "supreme",
+      "court",
+      "asylum",
+      "trump",
+      "border",
+      "restrictions"
+    ]
+  },
+  {
     "label": "Tanker Hits",
     "count": 7,
     "sources": 6,
@@ -36,19 +49,6 @@
       "river",
       "ship",
       "hits"
-    ]
-  },
-  {
-    "label": "Supreme Court",
-    "count": 6,
-    "sources": 6,
-    "keywords": [
-      "supreme",
-      "court",
-      "asylum",
-      "trump",
-      "border",
-      "restrictions"
     ]
   },
   {
