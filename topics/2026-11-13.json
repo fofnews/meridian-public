@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Jensen Huang",
+    "count": 5,
+    "sources": 4,
+    "keywords": [
+      "nvidia",
+      "ceo",
+      "huang",
+      "jensen",
+      "approached",
+      "arm"
+    ]
+  },
+  {
     "label": "Huang Lutnick",
     "count": 4,
     "sources": 4,
@@ -88,19 +101,6 @@
       "services",
       "worldwide",
       "struggles"
-    ]
-  },
-  {
-    "label": "Brooklyn Building",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "video",
-      "brooklyn",
-      "building",
-      "shows",
-      "inside",
-      "moment"
     ]
   }
 ]
