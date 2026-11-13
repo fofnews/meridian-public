@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Ground Stop",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "ground",
+      "stop",
+      "nationwide",
+      "faa",
+      "issues",
+      "ordered"
+    ]
+  },
+  {
     "label": "Jensen Huang",
     "count": 6,
     "sources": 5,
@@ -88,19 +101,6 @@
       "jensen",
       "approached",
       "arm"
-    ]
-  },
-  {
-    "label": "Huang Lutnick",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "lutnick",
-      "testify",
-      "nvidia",
-      "huang",
-      "summoned",
-      "agrees"
     ]
   }
 ]
