@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Brooklyn Building",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "video",
+      "brooklyn",
+      "building",
+      "shows",
+      "inside",
+      "moment"
+    ]
+  },
+  {
     "label": "Trump Iran",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "outage",
       "platforms",
       "including"
-    ]
-  },
-  {
-    "label": "Second Car",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "second",
-      "car",
-      "hit",
-      "russia",
-      "days",
-      "bomb"
     ]
   }
 ]
