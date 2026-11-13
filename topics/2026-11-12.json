@@ -1,5 +1,18 @@
 [
   {
+    "label": "Van Hollen",
+    "count": 9,
+    "sources": 9,
+    "keywords": [
+      "van",
+      "hollen",
+      "schumer",
+      "leader",
+      "challenge",
+      "senate"
+    ]
+  },
+  {
     "label": "Cindy Holscher",
     "count": 8,
     "sources": 8,
@@ -10,19 +23,6 @@
       "cindy",
       "wins",
       "democrat"
-    ]
-  },
-  {
-    "label": "Van Hollen",
-    "count": 8,
-    "sources": 8,
-    "keywords": [
-      "van",
-      "hollen",
-      "schumer",
-      "challenge",
-      "leader",
-      "senate"
     ]
   },
   {
