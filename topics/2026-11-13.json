@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Terrorism Charge",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "dinner",
+      "terrorism",
+      "charge",
+      "white",
+      "house",
+      "correspondents"
+    ]
+  },
+  {
     "label": "Outage Hits",
     "count": 5,
     "sources": 3,
@@ -88,19 +101,6 @@
       "2028",
       "don",
       "need"
-    ]
-  },
-  {
-    "label": "Outlook Teams",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "microsoft",
-      "outlook",
-      "teams",
-      "outage",
-      "platforms",
-      "including"
     ]
   }
 ]
