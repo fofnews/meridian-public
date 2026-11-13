@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Ground Stop",
+    "count": 7,
+    "sources": 7,
+    "keywords": [
+      "ground",
+      "stop",
+      "faa",
+      "nationwide",
+      "issues",
+      "extraordinary"
+    ]
+  },
+  {
     "label": "Tanker Hits",
     "count": 7,
     "sources": 6,
@@ -26,6 +39,19 @@
     ]
   },
   {
+    "label": "Supreme Court",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "supreme",
+      "court",
+      "asylum",
+      "trump",
+      "border",
+      "restrictions"
+    ]
+  },
+  {
     "label": "Lauren Boebert",
     "count": 6,
     "sources": 6,
@@ -36,19 +62,6 @@
       "lauren",
       "loses",
       "laubacher"
-    ]
-  },
-  {
-    "label": "Ground Stop",
-    "count": 6,
-    "sources": 6,
-    "keywords": [
-      "ground",
-      "stop",
-      "nationwide",
-      "faa",
-      "issues",
-      "ordered"
     ]
   },
   {
@@ -88,19 +101,6 @@
       "know",
       "happened",
       "outages"
-    ]
-  },
-  {
-    "label": "Jensen Huang",
-    "count": 5,
-    "sources": 4,
-    "keywords": [
-      "nvidia",
-      "ceo",
-      "huang",
-      "jensen",
-      "approached",
-      "arm"
     ]
   }
 ]
