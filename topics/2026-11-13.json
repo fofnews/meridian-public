@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Nearly 200",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "russia",
+      "ukraine",
+      "200",
+      "attacks",
+      "nearly",
+      "drones"
+    ]
+  },
+  {
     "label": "Terrorism Charge",
     "count": 4,
     "sources": 4,
@@ -88,19 +101,6 @@
       "shows",
       "inside",
       "moment"
-    ]
-  },
-  {
-    "label": "Trump Iran",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "trump",
-      "iran",
-      "deal",
-      "2028",
-      "don",
-      "need"
     ]
   }
 ]
