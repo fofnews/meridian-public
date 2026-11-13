@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Jensen Huang",
+    "count": 5,
+    "sources": 4,
+    "keywords": [
+      "jensen",
+      "huang",
+      "nvidia",
+      "ceo",
+      "washington",
+      "resigns"
+    ]
+  },
+  {
     "label": "Microsoft Outage",
     "count": 4,
     "sources": 3,
@@ -65,16 +78,16 @@
     ]
   },
   {
-    "label": "Jensen Huang",
+    "label": "Huang Lutnick",
     "count": 3,
     "sources": 3,
     "keywords": [
-      "jensen",
-      "huang",
+      "lutnick",
+      "testify",
       "nvidia",
-      "ceo",
-      "washington",
-      "fallout"
+      "huang",
+      "summoned",
+      "senate"
     ]
   }
 ]
