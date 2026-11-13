@@ -1,5 +1,18 @@
 [
   {
+    "label": "Cindy Holscher",
+    "count": 8,
+    "sources": 8,
+    "keywords": [
+      "governor",
+      "holscher",
+      "kansas",
+      "cindy",
+      "wins",
+      "democrat"
+    ]
+  },
+  {
     "label": "Colette Kress",
     "count": 10,
     "sources": 7,
@@ -88,19 +101,6 @@
       "outage",
       "issues",
       "users"
-    ]
-  },
-  {
-    "label": "Cindy Holscher",
-    "count": 7,
-    "sources": 7,
-    "keywords": [
-      "governor",
-      "holscher",
-      "kansas",
-      "cindy",
-      "wins",
-      "democrats"
     ]
   }
 ]
