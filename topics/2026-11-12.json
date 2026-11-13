@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Tim Cook",
+    "count": 8,
+    "sources": 7,
+    "keywords": [
+      "nvidia",
+      "trump",
+      "ceo",
+      "cook",
+      "huang",
+      "tim"
+    ]
+  },
+  {
     "label": "Jensen Huang",
     "count": 7,
     "sources": 7,
@@ -65,6 +78,19 @@
     ]
   },
   {
+    "label": "Cindy Holscher",
+    "count": 7,
+    "sources": 7,
+    "keywords": [
+      "governor",
+      "holscher",
+      "kansas",
+      "cindy",
+      "wins",
+      "democrats"
+    ]
+  },
+  {
     "label": "Jensen Huang",
     "count": 8,
     "sources": 6,
@@ -75,32 +101,6 @@
       "ceo",
       "resigns",
       "affair"
-    ]
-  },
-  {
-    "label": "Huang Resigns",
-    "count": 7,
-    "sources": 6,
-    "keywords": [
-      "nvidia",
-      "huang",
-      "resigns",
-      "ceo",
-      "jensen",
-      "stock"
-    ]
-  },
-  {
-    "label": "Tim Cook",
-    "count": 7,
-    "sources": 6,
-    "keywords": [
-      "nvidia",
-      "trump",
-      "ceo",
-      "cook",
-      "huang",
-      "tim"
     ]
   }
 ]
