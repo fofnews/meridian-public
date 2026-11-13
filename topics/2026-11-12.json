@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Vance Focus",
+    "count": 7,
+    "sources": 7,
+    "keywords": [
+      "trump",
+      "corruption",
+      "vance",
+      "focus",
+      "deal",
+      "iran"
+    ]
+  },
+  {
     "label": "Outlook Thousands",
     "count": 7,
     "sources": 7,
@@ -88,19 +101,6 @@
       "cindy",
       "wins",
       "democrats"
-    ]
-  },
-  {
-    "label": "Jensen Huang",
-    "count": 8,
-    "sources": 6,
-    "keywords": [
-      "jensen",
-      "huang",
-      "nvidia",
-      "ceo",
-      "resigns",
-      "affair"
     ]
   }
 ]
