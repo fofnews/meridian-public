@@ -1439,5 +1439,59 @@
     "categories": [],
     "collectRun": "2026-11-13T10:45:00.000Z",
     "collectedAt": "2026-11-13T10:45:01.195Z"
+  },
+  {
+    "title": "FBI recovers $1.2 billion in cryptocurrency stolen from Binance",
+    "description": "The FBI says it's seized more than $1.2 billion of cryptocurrency reported stolen last month from Binance, the world's largest cryptocurrency exchange.",
+    "link": "https://www.cbsnews.com/news/fbi-cryptocurrency-1-2-billion-binance/",
+    "pubDate": "Fri, 13 Nov 2026 05:52:16 -0500",
+    "source": "CBS News",
+    "categories": [],
+    "collectRun": "2026-11-13T11:00:00.000Z",
+    "collectedAt": "2026-11-13T11:00:01.689Z"
+  },
+  {
+    "title": "Jensen Huang’s Washington fallout",
+    "description": "",
+    "link": "https://www.politico.com/video/2026/11/13/jensen-huangs-washington-fallout-2229409",
+    "pubDate": "Fri, 13 Nov 2026 05:45:00 EST",
+    "source": "Politico",
+    "categories": [
+      "politics",
+      "dc",
+      "podcast: playbook"
+    ],
+    "collectRun": "2026-11-13T11:00:00.000Z",
+    "collectedAt": "2026-11-13T11:00:01.689Z"
+  },
+  {
+    "title": "Water firm pleads guilty after four killed in blast",
+    "description": "Wessex Water admits failing to ensure employee safety over an explosion at its Bristol site.",
+    "link": "https://www.bbc.co.uk/news/articles/cm8x0l0jp150o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 13 Nov 2026 10:44:00 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectRun": "2026-11-13T11:00:00.000Z",
+    "collectedAt": "2026-11-13T11:00:01.689Z"
+  },
+  {
+    "title": "My physical deformity left me feeling invisible - but one surgeon saw me",
+    "description": "Charlie Clarke says the physical and emotional effects of pectus excavatum have been \"unimaginable\".",
+    "link": "https://www.bbc.co.uk/news/articles/c6rmyy4ee1pwo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 13 Nov 2026 06:22:12 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectRun": "2026-11-13T11:00:00.000Z",
+    "collectedAt": "2026-11-13T11:00:01.689Z"
+  },
+  {
+    "title": "Moscow Hit By Another Car Bomb After Wave of Attacks",
+    "description": "Sergei Zavorotny, a 72-year-old journalist and former aide to Ukrainian PM Mykola Azarov,\nwas hospitalized in the blast.",
+    "link": "https://www.newsweek.com/moscow-hit-by-another-car-bomb-wave-attacks-12709547",
+    "pubDate": "Fri, 13 Nov 2026 05:46:01 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-13T11:00:00.000Z",
+    "collectedAt": "2026-11-13T11:00:01.689Z"
   }
 ]
