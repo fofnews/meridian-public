@@ -89,5 +89,18 @@
       "summoned",
       "senate"
     ]
+  },
+  {
+    "label": "Second Car",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "second",
+      "car",
+      "hit",
+      "russia",
+      "days",
+      "bomb"
+    ]
   }
 ]
