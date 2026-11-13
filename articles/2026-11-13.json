@@ -2696,5 +2696,124 @@
     "categories": [],
     "collectRun": "2026-11-13T12:45:00.000Z",
     "collectedAt": "2026-11-13T12:45:01.300Z"
+  },
+  {
+    "title": "Star of reality show \"Below Deck\" arrested after teenager dies",
+    "description": "\"Below Deck\" yacht captain Joao Franco and his brother were arrested over a fight that left a 17-year-old dead, local media reported.",
+    "link": "https://www.cbsnews.com/news/below-deck-joao-franco-arrested-turkey-fight-teenager-death/",
+    "pubDate": "Fri, 13 Nov 2026 07:56:31 -0500",
+    "source": "CBS News",
+    "categories": [],
+    "collectRun": "2026-11-13T13:00:00.000Z",
+    "collectedAt": "2026-11-13T13:00:01.270Z"
+  },
+  {
+    "title": "Microsoft Scrambles to Find Fix Massive Global Outage",
+    "description": "Workplaces, government agencies and schools around the globe were thrown into chaos after Microsoft’s servers went down Thursday afternoon. The massive outage is impacting the entire Microsoft suite of products including Outlook, Teams, Copilot and SharePoint. NBC’s Christine Romans reports for TODAY on the tech giant’s struggle to find a fix.",
+    "link": "https://www.today.com/video/global-microsoft-outage-enters-its-2nd-day-how-long-will-it-last-273437765987",
+    "pubDate": "Fri, 13 Nov 2026 12:12:30 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectRun": "2026-11-13T13:00:00.000Z",
+    "collectedAt": "2026-11-13T13:00:01.270Z"
+  },
+  {
+    "title": "Nvidia CEO Jensen Huang’s Resignation Rattles Global Markets",
+    "description": "Nvidia CEO Jensen Huang’s sudden resignation following an admitted affair with a woman thought by intelligence officials to be a Chinese spy, is sending shockwaves through the AI industry and global financial markets. Now, some lawmakers are calling for investigations into whether U.S. security has been compromised by Huang’s actions. NBC’s Brian Cheung reports for TODAY.",
+    "link": "https://www.today.com/video/nvidia-ceo-jensen-huang-s-resignation-rattles-global-markets-273440325600",
+    "pubDate": "Fri, 13 Nov 2026 12:18:37 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectRun": "2026-11-13T13:00:00.000Z",
+    "collectedAt": "2026-11-13T13:00:01.270Z"
+  },
+  {
+    "title": "Van Hollen Challenges Schumer for Senate Majority Leader",
+    "description": "Maryland Sen. Chris Van Hollen announced Thursday he will run for Senate majority leader, becoming the first to challenge Sen. Chuck Schumer for the position. NBC’s Garrett Haake reports for TODAY.",
+    "link": "https://www.today.com/video/van-hollen-challenges-schumer-for-senate-majority-leader-273441349510",
+    "pubDate": "Fri, 13 Nov 2026 12:22:50 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectRun": "2026-11-13T13:00:00.000Z",
+    "collectedAt": "2026-11-13T13:00:01.270Z"
+  },
+  {
+    "title": "Amazon’s plan to own the world’s product data and fight AI shopping agents - Reuters",
+    "description": "EXCLUSIVE: Amazon’s plan to own the world’s product data and fight AI shopping agents  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY2FJOXhDLWZqYzRxQ3BNVGRyeDNGWGZYU0VwNm5PV09tWGVwRklHdGFQaDRGWEQwM3pBZ1g2X0lYQVFGUU9RdHhyVk9kSnhrcWxob3o2ZUVNTE5SWW5OSWtkZEVlZm83ZUdrZHJ6X1N6bjhqT2F2WWxpWXVaUGhBZldsU0N5MEhjS19yR1pJcFlDN2N4ekpfWDZmR1FPT3k4eGY0bkdEQldjVnVZX21BYlVXX0h4d1JwbFVSaQ?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 11:13:28 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectRun": "2026-11-13T13:00:00.000Z",
+    "collectedAt": "2026-11-13T13:00:01.270Z"
+  },
+  {
+    "title": "SpaceX to attempt first Starship spacecraft recovery on land in 15th flight - Reuters",
+    "description": "SpaceX to attempt first Starship spacecraft recovery on land in 15th flight  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeDE0b0ZmNTF1ZVVBMS03RlA4TDhPZVNVbUEyTG5Gb1ZFRHdnc0QtdmM1X2ZjZFQwSVBBVVRWamRTVzh0NUp1N2lKOTJDbDE3U2xob3JtLTZkb211NHR2QkZ5RnczcERVQV8zcmtVbWttdS1sMGViMmYwZnBmWDlCMkkyRVdmQVlSVmZQWTVuWGlPSTNZNFU5SExWUW1LRkNIUFhYSi1iZzRTa1BjbFQw?oc=5",
+    "pubDate": "Fri, 13 Nov 2026 11:14:59 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectRun": "2026-11-13T13:00:00.000Z",
+    "collectedAt": "2026-11-13T13:00:01.270Z"
+  },
+  {
+    "title": "Microsoft ‘seeing encouraging recovery progress’ in global Outlook, Teams outage",
+    "description": "Microsoft is still working to restore access to its services after a massive global outage impacted dozens of its services on Thursday. The company said early Friday that it is “seeing encouraging recovery progress” according to a statement shared on social media.  “Some users may still experience intermittent issues as recovery actions continue,” it reads.…",
+    "link": "https://thehill.com/policy/technology/6218199-microsoft-outage-recovery-process/",
+    "pubDate": "\n\t\tFri, 13 Nov 2026 12:53:48 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "business",
+      "news",
+      "policy",
+      "technology",
+      "microsoft",
+      "microsoft outage",
+      "outlook",
+      "teams"
+    ],
+    "collectRun": "2026-11-13T13:00:00.000Z",
+    "collectedAt": "2026-11-13T13:00:01.270Z"
+  },
+  {
+    "title": "Arnold Schwarzenegger Explains His Republican Philosophy: 'Get Things Done'",
+    "description": "The Republican former governor of California urged Republicans and Democrats to work together.",
+    "link": "https://www.newsweek.com/arnold-schwarzenegger-explains-his-republican-philosophy-get-things-done-12709237",
+    "pubDate": "Fri, 13 Nov 2026 07:55:07 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-13T13:00:00.000Z",
+    "collectedAt": "2026-11-13T13:00:01.270Z"
+  },
+  {
+    "title": "America's Energy Future Begins With Public Understanding | Opinion",
+    "description": "At the end of 2025, over 2,060 gigawatts of total generation and storage capacity were actively seeking connection to the grid.",
+    "link": "https://www.newsweek.com/americas-energy-future-begins-with-public-understanding-12709299",
+    "pubDate": "Fri, 13 Nov 2026 07:50:20 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-13T13:00:00.000Z",
+    "collectedAt": "2026-11-13T13:00:01.270Z"
+  },
+  {
+    "title": "Cam Skattebo reveals bizarre meal that lead to him puking during Giants’ loss",
+    "description": "There's a reason that pretzel-wrapped hot dogs are not on nutritionists' pregame meal suggestions.",
+    "link": "https://nypost.com/2026/11/13/sports/cam-skattebo-reveals-bizarre-meal-that-lead-to-him-puking-during-giants-loss/",
+    "pubDate": "Fri, 13 Nov 2026 07:59:20 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-13T13:00:00.000Z",
+    "collectedAt": "2026-11-13T13:00:01.270Z"
+  },
+  {
+    "title": "Inisde the moments when Giants squandered game against Commanders",
+    "description": "In all, the Giants had three opportunities to go for it on fourth-and-short in the fourth, but they opted to punt.",
+    "link": "https://nypost.com/2026/11/13/sports/the-moments-when-giants-blew-game-against-commanders/",
+    "pubDate": "Fri, 13 Nov 2026 07:55:54 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-13T13:00:00.000Z",
+    "collectedAt": "2026-11-13T13:00:01.270Z"
   }
 ]
