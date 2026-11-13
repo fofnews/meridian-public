@@ -1,14 +1,14 @@
 [
   {
     "label": "Microsoft Outage",
-    "count": 3,
-    "sources": 2,
+    "count": 4,
+    "sources": 3,
     "keywords": [
       "global",
       "microsoft",
       "outage",
-      "know",
       "happened",
+      "know",
       "overnight"
     ]
   }
