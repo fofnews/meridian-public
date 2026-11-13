@@ -1,5 +1,18 @@
 [
   {
+    "label": "Ground Stop",
+    "count": 9,
+    "sources": 9,
+    "keywords": [
+      "faa",
+      "ground",
+      "stop",
+      "nationwide",
+      "airports",
+      "issues"
+    ]
+  },
+  {
     "label": "Van Hollen",
     "count": 8,
     "sources": 8,
@@ -10,19 +23,6 @@
       "schumer",
       "chris",
       "senate"
-    ]
-  },
-  {
-    "label": "Ground Stop",
-    "count": 7,
-    "sources": 7,
-    "keywords": [
-      "ground",
-      "stop",
-      "faa",
-      "nationwide",
-      "issues",
-      "extraordinary"
     ]
   },
   {
