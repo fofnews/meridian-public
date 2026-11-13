@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Van Hollen",
+    "count": 8,
+    "sources": 8,
+    "keywords": [
+      "van",
+      "hollen",
+      "schumer",
+      "challenge",
+      "leader",
+      "senate"
+    ]
+  },
+  {
     "label": "Colette Kress",
     "count": 10,
     "sources": 7,
@@ -88,19 +101,6 @@
       "focus",
       "deal",
       "iran"
-    ]
-  },
-  {
-    "label": "Outlook Thousands",
-    "count": 7,
-    "sources": 7,
-    "keywords": [
-      "microsoft",
-      "outlook",
-      "thousands",
-      "outage",
-      "issues",
-      "users"
     ]
   }
 ]
