@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Tanker Hits",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "tanker",
+      "orleans",
+      "cruise",
+      "river",
+      "ship",
+      "hits"
+    ]
+  },
+  {
     "label": "Nearly 200",
     "count": 5,
     "sources": 5,
@@ -88,19 +101,6 @@
       "huang",
       "summoned",
       "agrees"
-    ]
-  },
-  {
-    "label": "Terrorism Charge",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "dinner",
-      "terrorism",
-      "charge",
-      "white",
-      "house",
-      "correspondents"
     ]
   }
 ]
