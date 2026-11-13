@@ -5233,5 +5233,379 @@
     "categories": [],
     "collectRun": "2026-11-13T16:15:00.000Z",
     "collectedAt": "2026-11-13T16:15:03.467Z"
+  },
+  {
+    "title": "Does Europe regret its bet on U.S. defense?",
+    "description": "Europe bet big on American defense technology and they're now paying the price. Years-long backlogs are underway due to production delays and the U.S. own military needs.",
+    "link": "https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense",
+    "pubDate": "Fri, 13 Nov 2026 11:17:43 -0500",
+    "source": "NPR",
+    "categories": [],
+    "collectRun": "2026-11-13T16:30:00.000Z",
+    "collectedAt": "2026-11-13T16:30:01.147Z"
+  },
+  {
+    "title": "Missing Australian boy found alive after 6 days in the wilderness",
+    "description": "A 17-year-old boy with autism was found alive by a helicopter crew after he spent six days lost in the Australian bush.",
+    "link": "https://www.cbsnews.com/video/missing-australian-boy-found-alive-after-6-days-in-the-wilderness/",
+    "pubDate": "Fri, 13 Nov 2026 11:21:27 -0500",
+    "source": "CBS News",
+    "categories": [],
+    "collectRun": "2026-11-13T16:30:00.000Z",
+    "collectedAt": "2026-11-13T16:30:01.147Z"
+  },
+  {
+    "title": "Exclusive discounts from CBS Mornings Deals",
+    "description": "On this edition of CBS Deals, we show you items that could help improve your everyday lifestyle. Visit cbsdeals.com to take advantage of these exclusive deals today. CBS earns commissions on purchases made through cbsdeals.com.",
+    "link": "https://www.cbsnews.com/video/cbs-mornings-deals-111326/",
+    "pubDate": "Fri, 13 Nov 2026 11:14:43 -0500",
+    "source": "CBS News",
+    "categories": [],
+    "collectRun": "2026-11-13T16:30:00.000Z",
+    "collectedAt": "2026-11-13T16:30:01.147Z"
+  },
+  {
+    "title": "Dermatologist explains \"bloom skin,\" K-beauty trend focused on healthy, radiant skin",
+    "description": "\"Bloom skin\" is a new Korean beauty trend that focuses on skin barrier health. Dermatologist Dr. Rachel Nazarian explains more.",
+    "link": "https://www.cbsnews.com/video/dermatologist-explains-bloom-skin-k-beauty-trend-focused-on-healthy-radiant-skin/",
+    "pubDate": "Fri, 13 Nov 2026 11:06:23 -0500",
+    "source": "CBS News",
+    "categories": [],
+    "collectRun": "2026-11-13T16:30:00.000Z",
+    "collectedAt": "2026-11-13T16:30:01.147Z"
+  },
+  {
+    "title": "Silicon Valley Start-Ups Face a Future Without Jensen Huang’s Money",
+    "description": "Mr. Huang championed start-ups, with Nvidia holding $48 billion worth of stakes in 229 private companies, including OpenAI and Anthropic, at the end of July.",
+    "link": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html",
+    "pubDate": "Fri, 13 Nov 2026 16:06:55 +0000",
+    "source": "NY Times",
+    "categories": [
+      "start-ups",
+      "computers and the internet",
+      "artificial intelligence",
+      "venture capital",
+      "cloud computing",
+      "entrepreneurship",
+      "computer chips",
+      "nvidia corporation",
+      "anthropic ai llc",
+      "openai labs",
+      "huang, jen-hsun",
+      "silicon valley (calif)"
+    ],
+    "collectRun": "2026-11-13T16:30:00.000Z",
+    "collectedAt": "2026-11-13T16:30:01.147Z"
+  },
+  {
+    "title": "Bessent Faults Commerce Dept. for Failing to Blacklist Megaspeed",
+    "description": "The Treasury secretary blamed the department for not sanctioning Megaspeed and said that Nvidia employees should be held accountable if they sidestepped the law.",
+    "link": "https://www.nytimes.com/2026/11/13/business/economy/bessent-commerce-megaspeed-lutnick.html",
+    "pubDate": "Fri, 13 Nov 2026 16:25:12 +0000",
+    "source": "NY Times",
+    "categories": [
+      "blacklisting",
+      "industrial espionage",
+      "united states politics and government",
+      "embargoes and sanctions",
+      "government employees",
+      "politics and government",
+      "commerce department",
+      "cnbc",
+      "new york times",
+      "nvidia corporation",
+      "treasury department"
+    ],
+    "collectRun": "2026-11-13T16:30:00.000Z",
+    "collectedAt": "2026-11-13T16:30:01.147Z"
+  },
+  {
+    "title": "Truck and bus crash in India’s Assam state kills at least 24 people",
+    "description": "Several children and the bus driver were among those killed, officials said, with the death toll expected to rise.",
+    "link": "https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people?traffic_source=rss",
+    "pubDate": "Fri, 13 Nov 2026 16:01:45 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-11-13T16:30:00.000Z",
+    "collectedAt": "2026-11-13T16:30:01.147Z"
+  },
+  {
+    "title": "Turkiye and Qatar sign mutual defence agreement",
+    "description": "This is a breaking news story.",
+    "link": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss",
+    "pubDate": "Fri, 13 Nov 2026 15:49:51 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-11-13T16:30:00.000Z",
+    "collectedAt": "2026-11-13T16:30:01.147Z"
+  },
+  {
+    "title": "Police investigating David Walliams over alleged serious sexual offences",
+    "description": "The Met Police said the allegations are separate from those reported by ITN and The Guardian earlier this week.",
+    "link": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 13 Nov 2026 16:29:30 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectRun": "2026-11-13T16:30:00.000Z",
+    "collectedAt": "2026-11-13T16:30:01.147Z"
+  },
+  {
+    "title": "White House staff to need prior approval to meet with lobbyists, under Stephen Miller memo",
+    "description": "A new memo from White House Chief of Staff Stephen Miller says White House staffers need prior approval from the Office of White House Counsel if they want to meet a lobbyist, a significant shift after the midterm shellacking of the GOP. “No President in history has fought more relentlessly, selflessly or courageously for the…",
+    "link": "https://thehill.com/homenews/administration/6218907-trump-staffers-require-approval-meetings/",
+    "pubDate": "\n\t\tFri, 13 Nov 2026 16:20:29 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "news"
+    ],
+    "collectRun": "2026-11-13T16:30:00.000Z",
+    "collectedAt": "2026-11-13T16:30:01.147Z"
+  },
+  {
+    "title": "Kushner: Russia has agreed to include Europe in Ukraine war talks",
+    "description": "U.S. envoy Jared Kushner announced Thursday that Russia has agreed to European participation in direct negotiations to end the Russia-Ukraine war, after three days of talks with delegations from both sides of the conflict.  In the past, Russian leadership has opposed European diplomatic involvement, citing Europe’s financial support for Ukraine in the ongoing war effort. …",
+    "link": "https://thehill.com/policy/international/6218870-russia-ukraine-negotiations-europe/",
+    "pubDate": "\n\t\tFri, 13 Nov 2026 16:19:49 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "international",
+      "news"
+    ],
+    "collectRun": "2026-11-13T16:30:00.000Z",
+    "collectedAt": "2026-11-13T16:30:01.147Z"
+  },
+  {
+    "title": "Guardians New Star Free Agent Pitching Target Suddenly Emerges",
+    "description": "The Cleveland Guardians are being connected to All-Star free agent pitcher Casey Mize with the offseason getting started.",
+    "link": "https://www.newsweek.com/sports/mlb/guardians-new-star-free-agent-pitching-target-suddenly-emerges-12710616",
+    "pubDate": "Fri, 13 Nov 2026 11:25:29 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-13T16:30:00.000Z",
+    "collectedAt": "2026-11-13T16:30:01.147Z"
+  },
+  {
+    "title": "Commanders Troll Giants QB Jameis Winston Over Viral 'TNF' Hard Count",
+    "description": "After defeating the Giants, the Commanders took the opportunity to troll Jameis Winston over his \"Who Let the Dogs Out\" cadence.",
+    "link": "https://www.newsweek.com/sports/nfl/commanders-troll-giants-qb-jameis-winston-over-viral-tnf-hard-count-12710448",
+    "pubDate": "Fri, 13 Nov 2026 11:20:03 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-13T16:30:00.000Z",
+    "collectedAt": "2026-11-13T16:30:01.147Z"
+  },
+  {
+    "title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
+    "description": "Nvidia has wiped out $657 billion in market capitalization this week — its sixth consecutive week of stock declines.",
+    "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
+    "pubDate": "Fri, 13 Nov 2026 16:26:00 GMT",
+    "source": "Wall Street Journal",
+    "categories": [],
+    "collectRun": "2026-11-13T16:30:00.000Z",
+    "collectedAt": "2026-11-13T16:30:01.147Z"
+  },
+  {
+    "title": "Trump's spy chiefs put Republican leaders on the clock over 'huge priority' as power shift looms over Congress",
+    "description": "Trump's intelligence chiefs set a Dec. 9 deadline for Congress to reauthorize FISA Section 702 before Democrats take control of Capitol Hill.",
+    "link": "https://www.foxnews.com/politics/trumps-spy-chiefs-put-republican-leaders-clock-huge-priority-power-shift-looms-congress",
+    "pubDate": "Fri, 13 Nov 2026 11:11:21 -0500",
+    "source": "Fox News",
+    "categories": [
+      "ca0a5506-4ab4-5abe-a106-7a516dd45033",
+      "fnc",
+      "fox news",
+      "fox-news/politics",
+      "fox-news/politics/executive/national-security",
+      "fox-news/us/congress",
+      "fox-news/politics/executive/white-house",
+      "fox-news/tech/topics/cia",
+      "fox-news/politics/justice-department",
+      "fox-news/politics/senate",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectRun": "2026-11-13T16:30:00.000Z",
+    "collectedAt": "2026-11-13T16:30:01.147Z"
+  },
+  {
+    "title": "Could AI reduce shipping costs and grocery bills?",
+    "description": "EAIGLE says its AI camera technology cuts truck check-ins from 10 minutes to under 30 seconds, potentially reducing fuel waste across supply chains.",
+    "link": "https://www.foxnews.com/tech/could-ai-reduce-shipping-costs-grocery-bills",
+    "pubDate": "Fri, 13 Nov 2026 11:08:51 -0500",
+    "source": "Fox News",
+    "categories": [
+      "d2714112-ef4e-53d6-b9cf-29f837e0cf3d",
+      "fnc",
+      "fox news",
+      "fox-news/tech/artificial-intelligence",
+      "fox-news/world/disasters/transportation",
+      "fox-news/auto/attributes/diesel",
+      "fox-news/food-drink/food",
+      "fox-news/us/economy/inflation",
+      "fox-news/tech",
+      "article"
+    ],
+    "collectRun": "2026-11-13T16:30:00.000Z",
+    "collectedAt": "2026-11-13T16:30:01.147Z"
+  },
+  {
+    "title": "Is Macy’s having a moment? Early Black Friday sale has diamonds, designers and more deals",
+    "description": "Macy's is bringing the heat with unbelievable early Black Friday deals.",
+    "link": "https://nypost.com/shopping/macys-early-black-friday-sale-has-gifts-up-to-70-off/",
+    "pubDate": "Fri, 13 Nov 2026 11:28:47 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-13T16:30:00.000Z",
+    "collectedAt": "2026-11-13T16:30:01.147Z"
+  },
+  {
+    "title": "Commanders troll Giants for Jameis Winston’s ‘Who let the dogs out?’ failure",
+    "description": "Jameis Winston’s bizarre hard count on a fourth-and-1 Thursday night turned into social media fuel for the Commanders just over an hour later.",
+    "link": "https://nypost.com/2026/11/13/sports/commanders-troll-jameis-winstons-who-let-the-dogs-out-failure/",
+    "pubDate": "Fri, 13 Nov 2026 11:26:23 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-13T16:30:00.000Z",
+    "collectedAt": "2026-11-13T16:30:01.147Z"
+  },
+  {
+    "title": "Hudson Williams, 25, and Carrie Anne-Moss, 59, share intimate insight into age-gap sex scene: ‘There was definitely an energy’",
+    "description": "The two star in the new AMC+ series, \"Yaga.\"",
+    "link": "https://pagesix.com/2026/11/13/entertainment/hudson-williams-25-and-carrie-anne-moss-59-share-insight-into-initimate-scene/",
+    "pubDate": "Fri, 13 Nov 2026 11:25:43 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-13T16:30:00.000Z",
+    "collectedAt": "2026-11-13T16:30:01.147Z"
+  },
+  {
+    "title": "Never miss a flight with new app tool that tells travelers exactly when to head to the airport",
+    "description": "An award-winning travel app promises to tell passengers exactly when to leave for the airport, weighing variables such as traffic and airport wait times.",
+    "link": "https://nypost.com/2026/11/13/lifestyle/flight-app-tells-travelers-exactly-when-to-head-to-the-airport/",
+    "pubDate": "Fri, 13 Nov 2026 11:18:41 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-13T16:30:00.000Z",
+    "collectedAt": "2026-11-13T16:30:01.147Z"
+  },
+  {
+    "title": "Port Washington football breaks 50-year drought — and isn’t stopping there",
+    "description": "On Friday, Port Washington’s varsity football team won its first playoff game since Gerald Ford was president.",
+    "link": "https://nypost.com/2026/11/13/sports/port-washington-football-breaks-50-year-playoff-win-drought/",
+    "pubDate": "Fri, 13 Nov 2026 11:15:57 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-13T16:30:00.000Z",
+    "collectedAt": "2026-11-13T16:30:01.147Z"
+  },
+  {
+    "title": "Sen. John Kennedy slams White House for blaming economic pain on Biden: ‘The economy belongs to President Trump’",
+    "description": "Sen. John Kennedy (R-LA) on Thursday criticized President Donald Trump for blaming economic issues on the previous Biden administration. The Louisiana Republican slammed Trump’s No. 2, Vice President JD Vance, for blaming the GOP’s midterm losses last week on the Iran war. Kennedy suggested that he believed voter perceptions about the economy were more to […]",
+    "link": "https://www.washingtonexaminer.com/policy/economy/4802661/john-kennedy-economic-pain-biden-trump-blame/",
+    "pubDate": "Fri, 13 Nov 2026 16:24:18 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "economy",
+      "senate",
+      "white house",
+      "2026 elections",
+      "donald trump",
+      "gdp",
+      "inflation",
+      "iran",
+      "john kennedy",
+      "labor",
+      "unemployment"
+    ],
+    "collectRun": "2026-11-13T16:30:00.000Z",
+    "collectedAt": "2026-11-13T16:30:01.147Z"
+  },
+  {
+    "title": "White House report card: Who had the worst week out of Trump, Vance, and Jensen Huang?",
+    "description": "Welcome to Friday’s edition of Washington Secrets. As usual, we will review the president’s week with the help of our two top political strategists. Plus, has peace broken out between two election forecasters? And make sure you scroll down for the correction of the day. Sunday brought a fresh immigration controversy when 60 Minutes aired […]",
+    "link": "https://www.washingtonexaminer.com/news/washington-secrets/4802503/white-house-report-card-who-had-the-worst-week-trump-vance-jensen-huang/",
+    "pubDate": "Fri, 13 Nov 2026 16:24:12 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "washington secrets",
+      "congress",
+      "donald trump",
+      "howard lutnick",
+      "iran",
+      "jd vance",
+      "nvidia",
+      "pete hegseth",
+      "stephen miller",
+      "susie wiles",
+      "thomas massie",
+      "washington d.c.",
+      "world"
+    ],
+    "collectRun": "2026-11-13T16:30:00.000Z",
+    "collectedAt": "2026-11-13T16:30:01.147Z"
+  },
+  {
+    "title": "Working with Trump? Democrats dare each other to try",
+    "description": "DENVER – Democrats are calling on their party to get to work during the final two years of President Donald Trump’s administration, saying the risk is too high to not find areas of common ground. At the two-day What’s Next conference in Denver, a celebration of the Democratic Party’s historic election gains, strategists and lawmakers […]",
+    "link": "https://www.washingtonexaminer.com/news/campaigns/4802635/working-with-trump-democrats-dare-each-other-to-try/",
+    "pubDate": "Fri, 13 Nov 2026 16:10:16 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "campaigns",
+      "2026 elections",
+      "chris coons",
+      "congress",
+      "democrats",
+      "denver",
+      "house of representatives",
+      "james talarico",
+      "senate",
+      "trump administration"
+    ],
+    "collectRun": "2026-11-13T16:30:00.000Z",
+    "collectedAt": "2026-11-13T16:30:01.147Z"
+  },
+  {
+    "title": "Stephen Miller clamps down on lobbyist meetings for White House staff",
+    "description": "White House chief of staff Stephen Miller is cracking down on internal meetings with lobbyists in Washington, D.C., marking a departure from his predecessor. Susie Wiles, a former managing partner and lobbyist at Ballard Partners, was known for cultivating relationships with the lobbying industry during her time serving President Donald Trump. But now that she […]",
+    "link": "https://www.washingtonexaminer.com/news/white-house/4802519/stephen-miller-clamps-down-on-lobbyist-meetings-white-house-staff/",
+    "pubDate": "Fri, 13 Nov 2026 16:04:22 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "white house",
+      "donald trump",
+      "lobbying",
+      "maha",
+      "stephen miller",
+      "susie wiles"
+    ],
+    "collectRun": "2026-11-13T16:30:00.000Z",
+    "collectedAt": "2026-11-13T16:30:01.147Z"
+  },
+  {
+    "title": "Bessent says Treasury wanted to put Megaspeed on entity blacklist for months, but Commerce Department ‘has the pen’",
+    "description": "Treasury Secretary Scott Bessent directly blamed the Commerce Department for delaying the broader administration’s intent to place Nvidia customer Megaspeed on a special blacklist of companies that could pose a national security threat. In a CNBC interview Friday morning, Bessent said the U.S. Trade Representative and the Treasury, War, and State departments were “in favor […]",
+    "link": "https://www.washingtonexaminer.com/news/business/4802617/scott-bessent-treasury-wanted-megaspeed-entity-blacklist/",
+    "pubDate": "Fri, 13 Nov 2026 16:01:20 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "business",
+      "china",
+      "commerce department",
+      "howard lutnick",
+      "nvidia",
+      "scott bessent",
+      "singapore",
+      "technology",
+      "trump administration"
+    ],
+    "collectRun": "2026-11-13T16:30:00.000Z",
+    "collectedAt": "2026-11-13T16:30:01.147Z"
   }
 ]
