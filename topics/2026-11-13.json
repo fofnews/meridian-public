@@ -1,14 +1,14 @@
 [
   {
     "label": "Van Hollen",
-    "count": 4,
-    "sources": 4,
+    "count": 5,
+    "sources": 5,
     "keywords": [
       "van",
       "hollen",
+      "leader",
       "chris",
       "sen",
-      "leader",
       "schumer"
     ]
   },
@@ -49,6 +49,32 @@
       "2028",
       "don",
       "need"
+    ]
+  },
+  {
+    "label": "Outlook Teams",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "microsoft",
+      "outlook",
+      "teams",
+      "outage",
+      "platforms",
+      "including"
+    ]
+  },
+  {
+    "label": "Jensen Huang",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "jensen",
+      "huang",
+      "nvidia",
+      "ceo",
+      "washington",
+      "fallout"
     ]
   }
 ]
