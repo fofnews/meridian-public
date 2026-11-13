@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Tanker Hits",
+    "count": 7,
+    "sources": 6,
+    "keywords": [
+      "tanker",
+      "orleans",
+      "cruise",
+      "river",
+      "ship",
+      "hits"
+    ]
+  },
+  {
     "label": "Lauren Boebert",
     "count": 6,
     "sources": 6,
@@ -36,19 +49,6 @@
       "ceo",
       "washington",
       "resigns"
-    ]
-  },
-  {
-    "label": "Tanker Hits",
-    "count": 6,
-    "sources": 5,
-    "keywords": [
-      "tanker",
-      "orleans",
-      "cruise",
-      "river",
-      "ship",
-      "hits"
     ]
   },
   {
