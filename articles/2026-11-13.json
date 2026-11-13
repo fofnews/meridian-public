@@ -630,5 +630,35 @@
     ],
     "collectRun": "2026-11-13T07:15:00.000Z",
     "collectedAt": "2026-11-13T07:15:01.100Z"
+  },
+  {
+    "title": "What we know about the global Microsoft outage",
+    "description": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Fri, 13 Nov 2026 07:12:10 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectRun": "2026-11-13T07:30:00.000Z",
+    "collectedAt": "2026-11-13T07:30:01.253Z"
+  },
+  {
+    "title": "Alaska airport TSA discovers suspected cocaine worth $27,750 hidden in coffee container",
+    "description": "The discovery was made after TSA officers noticed what appeared to be a white, chalky substance.",
+    "link": "https://nypost.com/2026/11/13/us-news/alaska-airport-tsa-discovers-suspected-cocaine-worth-27750-hidden-in-coffee-container/",
+    "pubDate": "Fri, 13 Nov 2026 02:29:14 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-13T07:30:00.000Z",
+    "collectedAt": "2026-11-13T07:30:01.253Z"
+  },
+  {
+    "title": "Fanatics CEO Michael Rubin engaged to model girlfriend Camille Fishel after 10 years of dating",
+    "description": "Rubin, 54, shared the news in a post celebrating Fishel’s 36th birthday.",
+    "link": "https://pagesix.com/2026/11/13/celebrity-news/fanatics-ceo-michael-rubin-engaged-to-model-girlfriend-camille-fishel-after-10-years-of-dating/",
+    "pubDate": "Fri, 13 Nov 2026 02:16:33 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-13T07:30:00.000Z",
+    "collectedAt": "2026-11-13T07:30:01.253Z"
   }
 ]
