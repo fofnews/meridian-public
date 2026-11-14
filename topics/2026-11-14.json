@@ -11,5 +11,18 @@
       "kreiss",
       "tomkins"
     ]
+  },
+  {
+    "label": "Bomb Threat",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "threat",
+      "illinois",
+      "plant",
+      "peoria",
+      "bomb",
+      "ethanol"
+    ]
   }
 ]
