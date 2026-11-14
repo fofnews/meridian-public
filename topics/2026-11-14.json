@@ -14,15 +14,15 @@
   },
   {
     "label": "Ground Stop",
-    "count": 6,
-    "sources": 6,
+    "count": 7,
+    "sources": 7,
     "keywords": [
       "ground",
       "stop",
       "faa",
-      "nationwide",
       "canceled",
-      "stranded"
+      "nationwide",
+      "flights"
     ]
   },
   {
