@@ -13,16 +13,29 @@
     ]
   },
   {
-    "label": "Bomb Threat",
+    "label": "Ethanol Plant",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "illinois",
+      "plant",
+      "bomb",
+      "threat",
+      "ethanol",
+      "evacuation"
+    ]
+  },
+  {
+    "label": "Ranked Choice",
     "count": 3,
     "sources": 3,
     "keywords": [
-      "threat",
-      "illinois",
-      "plant",
-      "peoria",
-      "bomb",
-      "ethanol"
+      "ranked",
+      "choice",
+      "voting",
+      "alaska",
+      "alaskans",
+      "opt"
     ]
   },
   {
