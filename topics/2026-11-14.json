@@ -26,6 +26,32 @@
     ]
   },
   {
+    "label": "Italy Fines",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "italy",
+      "fines",
+      "meta",
+      "users",
+      "accessing",
+      "photos"
+    ]
+  },
+  {
+    "label": "Senate Race",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "alaska",
+      "senate",
+      "race",
+      "peltola",
+      "mary",
+      "counting"
+    ]
+  },
+  {
     "label": "Ethanol Plant",
     "count": 4,
     "sources": 4,
@@ -65,19 +91,6 @@
     ]
   },
   {
-    "label": "Italy Fines",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "italy",
-      "fines",
-      "meta",
-      "users",
-      "million",
-      "accessing"
-    ]
-  },
-  {
     "label": "Ranked Choice",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "alaska",
       "alaskans",
       "opt"
-    ]
-  },
-  {
-    "label": "Senate Race",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "alaska",
-      "senate",
-      "race",
-      "peltola",
-      "mary",
-      "victory"
     ]
   }
 ]
