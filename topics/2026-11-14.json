@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Italy Fines",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "italy",
+      "fines",
+      "meta",
+      "users",
+      "million",
+      "accessing"
+    ]
+  },
+  {
     "label": "Ranked Choice",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "college",
       "football",
       "travel"
-    ]
-  },
-  {
-    "label": "Trade Deal",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "trade",
-      "carney",
-      "progress",
-      "deal",
-      "trump",
-      "canada"
     ]
   }
 ]
