@@ -24,5 +24,18 @@
       "bomb",
       "ethanol"
     ]
+  },
+  {
+    "label": "Nato Membership",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "floated",
+      "ukraine",
+      "nato",
+      "membership",
+      "ceding",
+      "donbas"
+    ]
   }
 ]
