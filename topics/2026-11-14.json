@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Ground Stop",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "faa",
+      "ground",
+      "stop",
+      "airports",
+      "lifts",
+      "travel"
+    ]
+  },
+  {
     "label": "Ranked Choice",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "deal",
       "trump",
       "canada"
-    ]
-  },
-  {
-    "label": "Ground Stop",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "faa",
-      "ground",
-      "stop",
-      "airports",
-      "lifts",
-      "chaos"
     ]
   }
 ]
