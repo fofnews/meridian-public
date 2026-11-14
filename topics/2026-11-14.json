@@ -14,15 +14,15 @@
   },
   {
     "label": "Ground Stop",
-    "count": 4,
-    "sources": 4,
+    "count": 5,
+    "sources": 5,
     "keywords": [
       "ground",
       "stop",
-      "know",
       "canceled",
       "faa",
-      "stranded"
+      "know",
+      "nationwide"
     ]
   },
   {
@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Trade Deal",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "trade",
+      "carney",
+      "progress",
+      "deal",
+      "trump",
+      "canada"
+    ]
+  },
+  {
     "label": "Nato Membership",
     "count": 3,
     "sources": 3,
@@ -75,6 +88,19 @@
       "membership",
       "ceding",
       "donbas"
+    ]
+  },
+  {
+    "label": "Ground Stop",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "faa",
+      "ground",
+      "stop",
+      "airports",
+      "lifts",
+      "chaos"
     ]
   }
 ]
