@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Cruise Ship",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "tanker",
+      "orleans",
+      "cruise",
+      "passengers",
+      "river",
+      "ship"
+    ]
+  },
+  {
     "label": "Iran Targets",
     "count": 4,
     "sources": 3,
@@ -26,16 +39,29 @@
     ]
   },
   {
-    "label": "Cruise Ship",
-    "count": 3,
+    "label": "Canary Islands",
+    "count": 4,
     "sources": 3,
     "keywords": [
-      "tanker",
-      "cruise",
-      "orleans",
-      "passengers",
-      "river",
-      "ship"
+      "migrants",
+      "canary",
+      "islands",
+      "nearly",
+      "spain",
+      "500"
+    ]
+  },
+  {
+    "label": "Van Hollen",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "van",
+      "hollen",
+      "majority",
+      "leader",
+      "schumer",
+      "vote"
     ]
   },
   {
@@ -75,32 +101,6 @@
       "bowen",
       "yang",
       "snl"
-    ]
-  },
-  {
-    "label": "Nationwide Ground",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "nationwide",
-      "ground",
-      "stop",
-      "hours",
-      "faa",
-      "lifted"
-    ]
-  },
-  {
-    "label": "Three Men",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "jordan",
-      "three",
-      "men",
-      "death",
-      "church",
-      "sentences"
     ]
   }
 ]
