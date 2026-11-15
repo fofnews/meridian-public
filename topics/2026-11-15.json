@@ -50,5 +50,18 @@
       "washington",
       "post"
     ]
+  },
+  {
+    "label": "Iran Targets",
+    "count": 3,
+    "sources": 2,
+    "keywords": [
+      "iran",
+      "bahrain",
+      "targets",
+      "radar",
+      "know",
+      "attacks"
+    ]
   }
 ]
