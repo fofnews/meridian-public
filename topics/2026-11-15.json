@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Three Men",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "jordan",
+      "three",
+      "men",
+      "death",
+      "church",
+      "sentences"
+    ]
+  },
+  {
     "label": "Iran Targets",
     "count": 4,
     "sources": 3,
@@ -88,19 +101,6 @@
       "flights",
       "trump",
       "administration"
-    ]
-  },
-  {
-    "label": "Ground Stop",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "faa",
-      "ground",
-      "stop",
-      "travel",
-      "air",
-      "nationwide"
     ]
   }
 ]
