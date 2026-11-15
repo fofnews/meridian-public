@@ -308,5 +308,103 @@
     "categories": [],
     "collectRun": "2026-11-15T05:00:00.000Z",
     "collectedAt": "2026-11-15T05:00:01.190Z"
+  },
+  {
+    "title": "FAA ground stop live updates: FAA chief says when he expects air travel to recover",
+    "description": "The administrator said the ground stop was the result of equipment failure.",
+    "link": "https://abcnews.com/US/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled/?id=138125140",
+    "pubDate": "Sat, 14 Nov 2026 22:33:55 -0500",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectRun": "2026-11-15T05:15:00.000Z",
+    "collectedAt": "2026-11-15T05:15:03.761Z"
+  },
+  {
+    "title": "The Surf’s Way, Way Up as Huge Waves Pound the California Coast",
+    "description": "Officials warned onlookers to stay off the beaches as waves of more than 50 feet in spots posed hazards. The intense conditions were too dangerous for even seasoned surfers at some beaches.",
+    "link": "https://www.nytimes.com/2026/11/14/weather/california-coast-waves-high-surf.html",
+    "pubDate": "Sun, 15 Nov 2026 04:01:59 +0000",
+    "source": "NY Times",
+    "categories": [
+      "beaches",
+      "surfing",
+      "coastal areas",
+      "oceans and seas",
+      "california"
+    ],
+    "collectRun": "2026-11-15T05:15:00.000Z",
+    "collectedAt": "2026-11-15T05:15:03.761Z"
+  },
+  {
+    "title": "SpaceX catches Starship for first time, drawing praise in Washington",
+    "description": "SpaceX’s Starship aircraft successfully touched back down at a South Texas launch site Saturday afternoon — marking a historic milestone in the aerospace giant’s effort to build reusable rockets.  The 170-foot-long spacecraft launched from Starbase, Texas, on Friday for its 15th flight, the Elon Musk-headed company wrote in a Saturday release. Once it got into orbit,…",
+    "link": "https://thehill.com/policy/technology/6221123-spacex-starship-historic-landing-lawmakers-react/",
+    "pubDate": "\n\t\tSun, 15 Nov 2026 04:14:36 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "news",
+      "technology"
+    ],
+    "collectRun": "2026-11-15T05:15:00.000Z",
+    "collectedAt": "2026-11-15T05:15:03.761Z"
+  },
+  {
+    "title": "Arch Manning overcomes sloppy performance with clutch TD pass to lift Texas over LSU in crucial matchup",
+    "description": "Arch Manning threw three interceptions but engineered a clutch 12-play drive capped by a 4-yard TD pass to Raleek Brown to stun LSU in Baton Rouge.",
+    "link": "https://www.foxnews.com/outkick-sports/arch-manning-overcomes-sloppy-performance-clutch-td-pass-lift-texas-lsu-crucial-matchup",
+    "pubDate": "Sat, 14 Nov 2026 23:57:46 -0500",
+    "source": "Fox News",
+    "categories": [
+      "8d7e855f-5035-5c7d-a981-d14e319914d5",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/sports/ncaa-fb",
+      "fox-news/person/arch-manning",
+      "fox-news/sports/ncaa/texas-longhorns",
+      "fox-news/sports/ncaa/lsu-tigers",
+      "fox-news/outkick/university",
+      "fox-news/outkick/betting",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectRun": "2026-11-15T05:15:00.000Z",
+    "collectedAt": "2026-11-15T05:15:03.761Z"
+  },
+  {
+    "title": "Masked dirt bike riders swarm SUV in brazen NYC street attack, sparking police crackdown",
+    "description": "Video captures masked dirt bike riders swarming and attacking an SUV on a busy Staten Island street as the NYPD warns that arrests are near.",
+    "link": "https://www.foxnews.com/us/masked-dirt-bike-riders-swarm-suv-brazen-nyc-street-attack-sparking-police-crackdown",
+    "pubDate": "Sat, 14 Nov 2026 23:55:51 -0500",
+    "source": "Fox News",
+    "categories": [
+      "57ac5593-1f59-5c3a-a0d8-709b1b26ce95",
+      "fnc",
+      "fox news",
+      "fox-news/us",
+      "fox-news/crime",
+      "fox-news/us/new-york-city",
+      "fox-news/us/us-regions/northeast/new-york",
+      "fox-news/politics/elections/local",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/shows/cops",
+      "fox-news/us",
+      "article"
+    ],
+    "collectRun": "2026-11-15T05:15:00.000Z",
+    "collectedAt": "2026-11-15T05:15:03.761Z"
+  },
+  {
+    "title": "Rifle-toting robot dogs sniff out ‘several human skulls’ in gang-controlled Haiti stadium",
+    "description": "Salvadoran and Haitian forces used rifle-mounted robot dogs to reclaim Port-au-Prince's Sylvio Cator Stadium",
+    "link": "https://nypost.com/2026/11/15/world-news/rifle-toting-robot-dogs-sniff-out-human-skulls-in-haiti-stadium/",
+    "pubDate": "Sun, 15 Nov 2026 00:05:24 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-15T05:15:00.000Z",
+    "collectedAt": "2026-11-15T05:15:03.761Z"
   }
 ]
