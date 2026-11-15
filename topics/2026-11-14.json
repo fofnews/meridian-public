@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Trade Deal",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "trade",
+      "carney",
+      "progress",
+      "deal",
+      "trump",
+      "canada"
+    ]
+  },
+  {
     "label": "Ethanol Plant",
     "count": 4,
     "sources": 4,
@@ -88,19 +101,6 @@
       "floated",
       "donbas",
       "ceding"
-    ]
-  },
-  {
-    "label": "Ground Stop",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "faa",
-      "ground",
-      "stop",
-      "airports",
-      "lifts",
-      "travel"
     ]
   }
 ]
