@@ -926,5 +926,37 @@
     "categories": [],
     "collectRun": "2026-11-15T08:45:00.000Z",
     "collectedAt": "2026-11-15T08:45:01.629Z"
+  },
+  {
+    "title": "U.S. reportedly floated trading Ukrainian land for NATO membership",
+    "description": "The Ukrainian president said he would put the question of the potential exchange its people, if certain guarantees are put in place.",
+    "link": "https://www.cbsnews.com/news/ukraine-russia-war-nato-us-donbas/",
+    "pubDate": "Sun, 15 Nov 2026 03:51:47 -0500",
+    "source": "CBS News",
+    "categories": [],
+    "collectRun": "2026-11-15T09:00:00.000Z",
+    "collectedAt": "2026-11-15T09:00:01.235Z"
+  },
+  {
+    "title": "Thousands in Portugal protest against surging rental prices",
+    "description": "Thousands of people across Portugal are angry about rising rental prices, demanding action to end the housing crisis.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices?traffic_source=rss",
+    "pubDate": "Sun, 15 Nov 2026 08:40:37 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "show types"
+    ],
+    "collectRun": "2026-11-15T09:00:00.000Z",
+    "collectedAt": "2026-11-15T09:00:01.235Z"
+  },
+  {
+    "title": "Two Planes Collide on Miami International Airport Taxiway",
+    "description": "UPS cargo plane and Copa Airlines jet collide at Miami airport, leaving two people with minor injuries.",
+    "link": "https://www.newsweek.com/two-planes-collide-on-miami-international-airport-taxiway-12717001",
+    "pubDate": "Sun, 15 Nov 2026 03:55:22 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-15T09:00:00.000Z",
+    "collectedAt": "2026-11-15T09:00:01.235Z"
   }
 ]
