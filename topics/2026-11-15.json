@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Ground Stop",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "faa",
+      "ground",
+      "stop",
+      "travel",
+      "air",
+      "nationwide"
+    ]
+  },
+  {
     "label": "Nvidia Ceo",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "death",
       "church",
       "sentences"
-    ]
-  },
-  {
-    "label": "Megaspeed Alice",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "2025",
-      "megaspeed",
-      "left",
-      "company",
-      "alice",
-      "huang"
     ]
   }
 ]
