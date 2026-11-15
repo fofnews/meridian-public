@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Estonia Close",
+    "count": 5,
+    "sources": 4,
+    "keywords": [
+      "attack",
+      "estonia",
+      "border",
+      "russia",
+      "close",
+      "crossings"
+    ]
+  },
+  {
     "label": "Cruise Ship",
     "count": 4,
     "sources": 4,
@@ -88,19 +101,6 @@
       "leader",
       "schumer",
       "vote"
-    ]
-  },
-  {
-    "label": "Ground Stop",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "faa",
-      "ground",
-      "stop",
-      "flights",
-      "trump",
-      "administration"
     ]
   }
 ]
