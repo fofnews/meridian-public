@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Forces Retreat",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "forces",
+      "retreat",
+      "yemen",
+      "houthi",
+      "red",
+      "sea"
+    ]
+  },
+  {
     "label": "Three Men",
     "count": 4,
     "sources": 3,
@@ -88,19 +101,6 @@
       "nearly",
       "spain",
       "500"
-    ]
-  },
-  {
-    "label": "Van Hollen",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "van",
-      "hollen",
-      "majority",
-      "leader",
-      "schumer",
-      "vote"
     ]
   }
 ]
