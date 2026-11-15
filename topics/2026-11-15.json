@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Megaspeed Alice",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "2025",
+      "megaspeed",
+      "left",
+      "company",
+      "alice",
+      "huang"
+    ]
+  },
+  {
     "label": "Iran Targets",
     "count": 4,
     "sources": 3,
@@ -88,19 +101,6 @@
       "travel",
       "air",
       "nationwide"
-    ]
-  },
-  {
-    "label": "Nvidia Ceo",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "nvidia",
-      "huang",
-      "ceo",
-      "bowen",
-      "yang",
-      "snl"
     ]
   }
 ]
