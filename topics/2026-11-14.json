@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Blocks Trump",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "judge",
+      "blocks",
+      "trump",
+      "golf",
+      "closing",
+      "course"
+    ]
+  },
+  {
     "label": "Senate Race",
     "count": 4,
     "sources": 4,
@@ -88,19 +101,6 @@
       "threat",
       "ethanol",
       "evacuation"
-    ]
-  },
-  {
-    "label": "Nato Membership",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "ukraine",
-      "nato",
-      "membership",
-      "floated",
-      "donbas",
-      "ceding"
     ]
   }
 ]
