@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Iran Targets",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "iran",
+      "bahrain",
+      "targets",
+      "radar",
+      "military",
+      "drone"
+    ]
+  },
+  {
     "label": "Cruise Ship",
     "count": 3,
     "sources": 3,
@@ -62,19 +75,6 @@
       "scandal",
       "washington",
       "post"
-    ]
-  },
-  {
-    "label": "Iran Targets",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "iran",
-      "bahrain",
-      "targets",
-      "radar",
-      "know",
-      "attacks"
     ]
   }
 ]
