@@ -1,8 +1,8 @@
 [
   {
     "label": "Robert Pattinson",
-    "count": 6,
-    "sources": 5,
+    "count": 7,
+    "sources": 6,
     "keywords": [
       "robert",
       "pattinson",
@@ -91,16 +91,16 @@
     ]
   },
   {
-    "label": "Ground Stop",
-    "count": 3,
+    "label": "Kim Jong",
+    "count": 4,
     "sources": 3,
     "keywords": [
-      "ground",
-      "stop",
-      "nationwide",
-      "air",
-      "travel",
-      "router"
+      "kim",
+      "jong",
+      "trump",
+      "china",
+      "meet",
+      "north"
     ]
   }
 ]
