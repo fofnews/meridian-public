@@ -14,8 +14,8 @@
   },
   {
     "label": "Jensen Huang",
-    "count": 5,
-    "sources": 5,
+    "count": 6,
+    "sources": 6,
     "keywords": [
       "huang",
       "trump",
@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Huang Return",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "nvidia",
+      "huang",
+      "musk",
+      "return",
+      "call",
+      "petition"
+    ]
+  },
+  {
     "label": "Court Rejects",
     "count": 4,
     "sources": 4,
@@ -65,6 +78,19 @@
     ]
   },
   {
+    "label": "Heart Attack",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "trump",
+      "heart",
+      "attack",
+      "old",
+      "faa",
+      "ground"
+    ]
+  },
+  {
     "label": "Commerce Department",
     "count": 4,
     "sources": 3,
@@ -75,32 +101,6 @@
       "china",
       "accuses",
       "failing"
-    ]
-  },
-  {
-    "label": "Meet Jinping",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "nvidia",
-      "trump",
-      "jinping",
-      "scandals",
-      "china",
-      "meet"
-    ]
-  },
-  {
-    "label": "Kim Jong",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "kim",
-      "jong",
-      "trump",
-      "china",
-      "meet",
-      "north"
     ]
   }
 ]
