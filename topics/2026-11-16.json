@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Widespread System",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "united",
+      "widespread",
+      "system",
+      "outage",
+      "airlines",
+      "days"
+    ]
+  },
+  {
     "label": "Five Countries",
     "count": 5,
     "sources": 4,
@@ -88,19 +101,6 @@
       "announce",
       "deportation",
       "hub"
-    ]
-  },
-  {
-    "label": "Meet Jinping",
-    "count": 5,
-    "sources": 4,
-    "keywords": [
-      "nvidia",
-      "trump",
-      "jinping",
-      "china",
-      "huang",
-      "scandals"
     ]
   }
 ]
