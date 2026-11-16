@@ -8834,5 +8834,344 @@
     "categories": [],
     "collectRun": "2026-11-16T19:00:00.000Z",
     "collectedAt": "2026-11-16T19:00:01.718Z"
+  },
+  {
+    "title": "Major U.S. banks report widespread service outages",
+    "description": "Customers at Bank of America, JPMorgan Chase and other major financial institutions are reporting difficulty accessing their accounts.",
+    "link": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/",
+    "pubDate": "Mon, 16 Nov 2026 14:13:08 -0500",
+    "source": "CBS News",
+    "categories": [],
+    "collectRun": "2026-11-16T19:15:00.000Z",
+    "collectedAt": "2026-11-16T19:15:01.388Z"
+  },
+  {
+    "title": "Tennessee names new corrections chief after botched executions",
+    "description": "Josh Smith has been appointed to lead the Department of Corrections in Tennessee following the botched execution of Christa Pike last month.",
+    "link": "https://www.cbsnews.com/news/josh-smith-tennessee-corrections-chief-executions/",
+    "pubDate": "Mon, 16 Nov 2026 14:00:59 -0500",
+    "source": "CBS News",
+    "categories": [],
+    "collectRun": "2026-11-16T19:15:00.000Z",
+    "collectedAt": "2026-11-16T19:15:01.388Z"
+  },
+  {
+    "title": "Epstein's death may not have been suicide, new analysis suggests",
+    "description": "Forensics expert Dr. Michael Freeman says multiple images and overlooked details about Jeffrey Epstein's death contradict the conclusion that he died by suicide.",
+    "link": "https://www.cbsnews.com/news/jeffrey-epstein-death-suicide-forensics-expert-analysis/",
+    "pubDate": "Mon, 16 Nov 2026 13:59:00 -0500",
+    "source": "CBS News",
+    "categories": [],
+    "collectRun": "2026-11-16T19:15:00.000Z",
+    "collectedAt": "2026-11-16T19:15:01.388Z"
+  },
+  {
+    "title": "Hawley, Durbin introduce Roblox safety bill ahead of hearing",
+    "description": "The legislation would allow families of individuals harmed by tech products to take their claims to court even if they agreed to the company's terms of service for private arbitration.",
+    "link": "https://www.cbsnews.com/news/roblox-bill-josh-hawley-dick-durbin/",
+    "pubDate": "Mon, 16 Nov 2026 13:58:26 -0500",
+    "source": "CBS News",
+    "categories": [],
+    "collectRun": "2026-11-16T19:15:00.000Z",
+    "collectedAt": "2026-11-16T19:15:01.388Z"
+  },
+  {
+    "title": "Fed Chairman Highlights Economic Uncertainty of A.I. Boom",
+    "description": "Kevin M. Warsh, chairman of the Federal Reserve, has assigned a task force to explore how productivity gains tied to new technologies could impact the labor market.",
+    "link": "https://www.nytimes.com/2026/11/16/business/economy/warsh-ai-economy.html",
+    "pubDate": "Mon, 16 Nov 2026 18:56:43 +0000",
+    "source": "NY Times",
+    "categories": [
+      "artificial intelligence",
+      "regulation and deregulation of industry",
+      "banking and financial institutions",
+      "productivity",
+      "labor and jobs",
+      "federal reserve system",
+      "commerce department",
+      "biden, joseph r jr",
+      "warsh, kevin m"
+    ],
+    "collectRun": "2026-11-16T19:15:00.000Z",
+    "collectedAt": "2026-11-16T19:15:01.388Z"
+  },
+  {
+    "title": "Billions in Insurance Money Is Being Bet on AI Debt, and Analyst Are Nervous",
+    "description": "Insurance companies are investing billions of their customers’ money into A.I. deals as analysts warn of mounting risks.",
+    "link": "https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html",
+    "pubDate": "Mon, 16 Nov 2026 10:00:47 +0000",
+    "source": "NY Times",
+    "categories": [
+      "artificial intelligence",
+      "life insurance",
+      "annuities",
+      "credit and debt",
+      "computers and the internet",
+      "computer chips",
+      "data centers",
+      "stocks and bonds",
+      "personal finances",
+      "guarantees and warranties",
+      "ares management llc",
+      "coreweave",
+      "meta platforms inc",
+      "moody's investors service inc",
+      "s&p global inc",
+      "space exploration technologies corp",
+      "x.ai inc",
+      "musk, elon",
+      "mcbee, brannin",
+      "retirement",
+      "athene usa corp"
+    ],
+    "collectRun": "2026-11-16T19:15:00.000Z",
+    "collectedAt": "2026-11-16T19:15:01.388Z"
+  },
+  {
+    "title": "Forensic expert says his analysis raises doubts about how Epstein died",
+    "description": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
+    "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 16 Nov 2026 18:57:48 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectRun": "2026-11-16T19:15:00.000Z",
+    "collectedAt": "2026-11-16T19:15:01.388Z"
+  },
+  {
+    "title": "Fed's Warsh says emerging technologies will have 'significant impact,' but risks need to be watched - Reuters",
+    "description": "Fed's Warsh says emerging technologies will have 'significant impact,' but risks need to be watched  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQjBEWTRZekl4NlZXbUFpUW93VUNEU3JOUkVnZFk5VDAyRFBNRXYyTGNCREVZRFNEd2JEdWY4VmxsUGtxdnAwQnhZSlFiX3p2WWRHVU1iS1dIbXpDel8waEpsT25wdjFhTHlPNG8xMnJWdHdtc09aMnBDa2I5MGN3SkVjendsRWFOTUxvdnZrMmFKdDN6RmV3OXRISEdERjhuSEpDYmQ4dkVldmx2dENTcGRZR0NuVk9xYk85OTJCVmRteEk?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 17:06:57 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectRun": "2026-11-16T19:15:00.000Z",
+    "collectedAt": "2026-11-16T19:15:01.388Z"
+  },
+  {
+    "title": "OpenAI unveils tool to better detect child sexual abuse material",
+    "description": "OpenAI released a new tool Monday aimed at detecting possible child sexual abuse material (CSAM), including content made with artificial intelligence. The image classifier, which will be available for vetted organizations and law enforcement investigators focused on online safety, was trained and tested to identify visual signs of abuse. The company said it is the…",
+    "link": "https://thehill.com/policy/technology/6223070-openai-new-tool-child-sexual-abuse-material-classifier/",
+    "pubDate": "\n\t\tMon, 16 Nov 2026 19:03:51 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "business",
+      "policy",
+      "technology",
+      "ai",
+      "chatgpt",
+      "child abuse",
+      "csam",
+      "national center for missing and exploited children",
+      "openai",
+      "roost project",
+      "tech coalition"
+    ],
+    "collectRun": "2026-11-16T19:15:00.000Z",
+    "collectedAt": "2026-11-16T19:15:01.388Z"
+  },
+  {
+    "title": "Seahawks Coach Mike Macdonald Provides Update on QB Sam Darnold’s Return",
+    "description": "Sam Darnold missed the last two contests with a quad injury and a cracked rib.",
+    "link": "https://www.newsweek.com/sports/nfl/seahawks-coach-mike-macdonald-provides-update-on-qb-sam-darnolds-return-12722705",
+    "pubDate": "Mon, 16 Nov 2026 14:09:31 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-16T19:15:00.000Z",
+    "collectedAt": "2026-11-16T19:15:01.388Z"
+  },
+  {
+    "title": "Why Donald Trump's AI Pax Silica Project Prompted Protests in Philippines",
+    "description": "Police clash with demonstrators in Manila as they protest the arrival of President Donald Trump and his AI hub project.",
+    "link": "https://www.newsweek.com/why-donald-trumps-ai-pax-silica-project-prompted-protests-in-philippines-12722500",
+    "pubDate": "Mon, 16 Nov 2026 14:08:48 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-16T19:15:00.000Z",
+    "collectedAt": "2026-11-16T19:15:01.388Z"
+  },
+  {
+    "title": "Super El Niño to Strain US Power Grids as Warning Issued",
+    "description": "The super El Niño could threaten power grids in certain parts of the U.S. this winter with abnormally cold temperatures and ice.",
+    "link": "https://www.newsweek.com/super-el-nino-to-strain-us-power-grids-as-warning-issued-12722502",
+    "pubDate": "Mon, 16 Nov 2026 14:08:32 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-16T19:15:00.000Z",
+    "collectedAt": "2026-11-16T19:15:01.388Z"
+  },
+  {
+    "title": "Braves All-Star Catcher Named Team's Top Trade Candidate",
+    "description": "Atlanta Braves catcher Sean Murphy has been named the team's top trade candidate with the offseason here.",
+    "link": "https://www.newsweek.com/sports/mlb/braves-all-star-catcher-named-teams-top-trade-candidate-12722735",
+    "pubDate": "Mon, 16 Nov 2026 14:06:51 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-16T19:15:00.000Z",
+    "collectedAt": "2026-11-16T19:15:01.388Z"
+  },
+  {
+    "title": "Curt Cignetti Issues Strong Warning to Lincoln Riley Critics",
+    "description": "Despite Indiana beating USC on Saturday, Hoosiers HC Curt Cignetti has a message for the critics of Trojans HC Lincoln Riley.",
+    "link": "https://www.newsweek.com/sports/ncaa/curt-cignetti-issues-strong-warning-to-lincoln-riley-critics-12722603",
+    "pubDate": "Mon, 16 Nov 2026 14:03:41 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-16T19:15:00.000Z",
+    "collectedAt": "2026-11-16T19:15:01.388Z"
+  },
+  {
+    "title": "Freeze, fraud alert or monitoring? What to do after a breach",
+    "description": "A credit freeze, fraud alert and identity monitoring each protect different parts of your financial life after a data breach. Here's how to choose.",
+    "link": "https://www.foxnews.com/tech/freeze-fraud-alert-monitoring-what-do-after-breach",
+    "pubDate": "Mon, 16 Nov 2026 14:00:42 -0500",
+    "source": "Fox News",
+    "categories": [
+      "3a9395c0-ded6-5cfe-b2e6-436403dc52a5",
+      "fnc",
+      "fox news",
+      "fox-news/tech/topics/hackers",
+      "fox-news/tech/topics/cybercrime",
+      "fox-news/tech/topics/security",
+      "fox-news/us/personal-freedoms/privacy",
+      "fox-news/tech",
+      "article"
+    ],
+    "collectRun": "2026-11-16T19:15:00.000Z",
+    "collectedAt": "2026-11-16T19:15:01.388Z"
+  },
+  {
+    "title": "FOX News to present 7th annual 'All-American Christmas Tree Lighting' with Melania Trump on Nov 20",
+    "description": "FOX News Media's 7th annual \"All American Christmas Tree Lighting\" will take place on Friday, Nov. 20, outside the network's New York City headquarters.",
+    "link": "https://www.foxnews.com/media/fox-news-present-7th-annual-all-american-christmas-tree-lighting-melania-trump-nov-20",
+    "pubDate": "Mon, 16 Nov 2026 13:55:01 -0500",
+    "source": "Fox News",
+    "categories": [
+      "97b53a8f-fa23-58fa-a1ff-44eb5fd0d903",
+      "fnc",
+      "fox news",
+      "fox-news/media",
+      "fox-news/lifestyle/occasions/christmas",
+      "fox-news/shows/the-five",
+      "fox-news/media",
+      "article"
+    ],
+    "collectRun": "2026-11-16T19:15:00.000Z",
+    "collectedAt": "2026-11-16T19:15:01.388Z"
+  },
+  {
+    "title": "Mamdani’s move to disband NYPD’s Strategic Response Group comes with disturbing wrinkle that could further handcuff cops",
+    "description": "Mamdani’s move to disband a tactical NYPD unit designed to quell violent protests came with an endorsement of a proposed new law that would make his controversial policy permanent.",
+    "link": "https://nypost.com/2026/11/16/us-news/mamdani-backs-curb-act-after-disbanding-nypd-tactical-unit/",
+    "pubDate": "Mon, 16 Nov 2026 14:10:04 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-16T19:15:00.000Z",
+    "collectedAt": "2026-11-16T19:15:01.388Z"
+  },
+  {
+    "title": "Colts make decision on Daniel Jones as awkward dynamic with Anthony Richardson revealed",
+    "description": "In Sunday’s win over the Dolphins, Jones posted a 1.7 quarterback rating, the worst of any quarterback in any start this season.",
+    "link": "https://nypost.com/2026/11/16/sports/daniel-jones-keeping-colts-job-as-awkward-dynamic-with-anthony-richardson-revealed/",
+    "pubDate": "Mon, 16 Nov 2026 14:09:59 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-16T19:15:00.000Z",
+    "collectedAt": "2026-11-16T19:15:01.388Z"
+  },
+  {
+    "title": "Influencer paralyzed after extremely rare spinal injury while lying down on surfboard in Hawaii",
+    "description": "Brock Kelly opened up on Instagram about the surfing incident in Hawaii that led to his paralysis.",
+    "link": "https://nypost.com/2026/11/16/us-news/influencer-paralyzed-after-rare-spinal-injury-while-surfing-in-hawaii/",
+    "pubDate": "Mon, 16 Nov 2026 14:05:50 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-16T19:15:00.000Z",
+    "collectedAt": "2026-11-16T19:15:01.388Z"
+  },
+  {
+    "title": "Ken Urker’s mom breaks her silence on son’s death, details his secret struggles",
+    "description": "Gypsy Rose Blanchard's 34-year-old partner's official cause of death was listed as polysubstance drug toxicity, with his passing ruled an accident.",
+    "link": "https://pagesix.com/2026/11/16/celebrity-news/ken-urkers-mom-breaks-her-silence-on-sons-death-details-his-secret-struggles/",
+    "pubDate": "Mon, 16 Nov 2026 14:03:30 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-16T19:15:00.000Z",
+    "collectedAt": "2026-11-16T19:15:01.388Z"
+  },
+  {
+    "title": "Yankees’ Brett Gardner named to 2027 Baseball Hall of Fame ballot",
+    "description": "The outfielder was only a one-time All-Star, but the impact he had over the course of his 14-year career has earned him a spot among the game’s best.",
+    "link": "https://nypost.com/2026/11/16/sports/yankees-ben-gardner-named-to-2027-baseball-hall-of-fame-ballot/",
+    "pubDate": "Mon, 16 Nov 2026 14:02:47 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-16T19:15:00.000Z",
+    "collectedAt": "2026-11-16T19:15:01.388Z"
+  },
+  {
+    "title": "‘Being Heumann’ true story: How accurate is the Apple TV Judy Heumann movie?",
+    "description": "Director Siân Heder had many conversations with the real Heumann before her death.",
+    "link": "https://decider.com/2026/11/16/being-heumann-true-story-apple-tv-judy-heumann-movie-how-accurate/",
+    "pubDate": "Mon, 16 Nov 2026 14:00:00 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-16T19:15:00.000Z",
+    "collectedAt": "2026-11-16T19:15:01.388Z"
+  },
+  {
+    "title": "White House tightens grip on agency testimony ahead of Democratic investigations",
+    "description": "The White House on Monday issued a memorandum directing federal agencies to obtain its approval before employees agree to testify before Congress, tightening control over the administration’s response to Democratic investigations after Republicans lost both chambers in the midterm elections. In a brief one-page memo to agency general counsels, President Donald Trump‘s White House counsel […]",
+    "link": "https://www.washingtonexaminer.com/news/white-house/4804846/white-house-tightens-grip-agency-testimony-ahead-of-democratic-investigations/",
+    "pubDate": "Mon, 16 Nov 2026 19:13:06 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "congressional",
+      "white house",
+      "democrats",
+      "donald trump",
+      "house oversight committee",
+      "subpoenas",
+      "trump administration",
+      "washington d.c."
+    ],
+    "collectRun": "2026-11-16T19:15:00.000Z",
+    "collectedAt": "2026-11-16T19:15:01.388Z"
+  },
+  {
+    "title": "Opposition accuses Netanyahu of ‘attempted coup’ as police investigate whether prime minister’s office weaponized law enforcement and intelligence against Arab leaders",
+    "description": "Israeli opposition leaders are accusing Prime Minister Benjamin Netanyahu of staging an “attempted coup” to delegitimize the October election as police investigate allegations that his office weaponized law enforcement against opponents. Netanyahu and his Likud-led government are accused of siccing police on three Arab political activists on the day of the Knesset elections last month, […]",
+    "link": "https://www.washingtonexaminer.com/news/world/4804686/israel-opposition-accuses-benjamin-netanyahu-attempted-coup/",
+    "pubDate": "Mon, 16 Nov 2026 19:03:56 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "world",
+      "benjamin netanyahu",
+      "elections",
+      "gaza",
+      "israel",
+      "jerusalem",
+      "middle east",
+      "west bank"
+    ],
+    "collectRun": "2026-11-16T19:15:00.000Z",
+    "collectedAt": "2026-11-16T19:15:01.388Z"
+  },
+  {
+    "title": "Ro Khanna calls for $1,700 Iran war ‘refund checks’ in first week of Democratic majority",
+    "description": "Rep. Ro Khanna (D-CA) called on Democrats to pass a $1,700 Iran war-related rebate check for every American in the first week that Democrats retake the majority in Congress in 2027. “Now Democrats have a chance to deliver,” Khanna said in a statement on Monday. ‘The first week in January, the House and Senate must […]",
+    "link": "https://www.washingtonexaminer.com/news/house/4804811/ro-khanna-iran-war-refund-checks-congress/",
+    "pubDate": "Mon, 16 Nov 2026 18:59:53 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "house",
+      "congress",
+      "house of representatives",
+      "iran",
+      "middle east",
+      "ro khanna",
+      "war"
+    ],
+    "collectRun": "2026-11-16T19:15:00.000Z",
+    "collectedAt": "2026-11-16T19:15:01.388Z"
   }
 ]
