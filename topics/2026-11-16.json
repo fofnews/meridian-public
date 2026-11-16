@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Trump Putin",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "trump",
+      "putin",
+      "summit",
+      "world",
+      "remake",
+      "order"
+    ]
+  },
+  {
     "label": "Ground Stop",
     "count": 3,
     "sources": 2,
@@ -62,6 +75,19 @@
       "arrives",
       "third",
       "aircraft"
+    ]
+  },
+  {
+    "label": "Meet Jinping",
+    "count": 3,
+    "sources": 2,
+    "keywords": [
+      "nvidia",
+      "trump",
+      "jinping",
+      "scandals",
+      "china",
+      "meet"
     ]
   }
 ]
