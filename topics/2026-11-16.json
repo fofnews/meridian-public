@@ -1,20 +1,20 @@
 [
   {
     "label": "Robert Pattinson",
-    "count": 7,
-    "sources": 6,
+    "count": 8,
+    "sources": 7,
     "keywords": [
       "robert",
       "pattinson",
       "james",
       "bond",
-      "next",
-      "named"
+      "named",
+      "next"
     ]
   },
   {
     "label": "Jensen Huang",
-    "count": 6,
+    "count": 7,
     "sources": 6,
     "keywords": [
       "huang",
@@ -23,6 +23,32 @@
       "jensen",
       "mind",
       "ceo"
+    ]
+  },
+  {
+    "label": "Heart Attack",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "trump",
+      "old",
+      "heart",
+      "attack",
+      "faa",
+      "ground"
+    ]
+  },
+  {
+    "label": "Meet Jinping",
+    "count": 5,
+    "sources": 4,
+    "keywords": [
+      "nvidia",
+      "trump",
+      "jinping",
+      "china",
+      "huang",
+      "scandals"
     ]
   },
   {
@@ -75,32 +101,6 @@
       "sensitive",
       "places",
       "challenge"
-    ]
-  },
-  {
-    "label": "Heart Attack",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "trump",
-      "heart",
-      "attack",
-      "old",
-      "faa",
-      "ground"
-    ]
-  },
-  {
-    "label": "Commerce Department",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "chips",
-      "commerce",
-      "department",
-      "china",
-      "accuses",
-      "failing"
     ]
   }
 ]
