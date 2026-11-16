@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Ground Stop",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "ground",
+      "stop",
+      "faa",
+      "trump",
+      "flights",
+      "administration"
+    ]
+  },
+  {
     "label": "Forces Retreat",
     "count": 4,
     "sources": 4,
@@ -88,19 +101,6 @@
       "radar",
       "military",
       "drone"
-    ]
-  },
-  {
-    "label": "Canary Islands",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "migrants",
-      "canary",
-      "islands",
-      "nearly",
-      "spain",
-      "500"
     ]
   }
 ]
