@@ -3137,5 +3137,161 @@
     "categories": [],
     "collectRun": "2026-11-16T13:15:00.000Z",
     "collectedAt": "2026-11-16T13:15:01.151Z"
+  },
+  {
+    "title": "Countdown to Grammy nominations",
+    "description": "Olivia Dean, Olivia Rodrigo, Ella Langley are likely to lead the Grammy nominations on Monday morning with Taylor Swift and Madonna also up for possible nominations.",
+    "link": "https://abcnews.com/video/138173490/",
+    "pubDate": "Mon, 16 Nov 2026 07:54:26 -0500",
+    "source": "ABC News",
+    "categories": [
+      "gma"
+    ],
+    "collectRun": "2026-11-16T13:30:00.000Z",
+    "collectedAt": "2026-11-16T13:30:02.806Z"
+  },
+  {
+    "title": "Musk, Nvidia workers call for Huang return at Nvidia in petition",
+    "description": "An online petition to bring back Jensen Huang, who resigned last week as CEO, has drawn more than 170,000 signatures, including almost 9,000 current Nvidia employees.",
+    "link": "https://www.cbsnews.com/news/jensen-huang-nvidia-ceo-reinstatement-petition/",
+    "pubDate": "Mon, 16 Nov 2026 08:25:44 -0500",
+    "source": "CBS News",
+    "categories": [],
+    "collectRun": "2026-11-16T13:30:00.000Z",
+    "collectedAt": "2026-11-16T13:30:02.806Z"
+  },
+  {
+    "title": "American Global Health Aid Isn’t Dead. It’s Changing.",
+    "description": "The Trump administration promised to make aid programs more “America First.” Some countries are balking.",
+    "link": "https://www.nytimes.com/2026/11/16/world/american-global-health-aid-isnt-dead-its-changing.html",
+    "pubDate": "Mon, 16 Nov 2026 10:00:31 +0000",
+    "source": "NY Times",
+    "categories": [
+      "foreign aid",
+      "medicine and health",
+      "federal budget (us)",
+      "united states international relations",
+      "developing countries",
+      "food aid",
+      "humanitarian aid",
+      "united states agency for international development",
+      "world health organization",
+      "bush, george w",
+      "musk, elon",
+      "helms, jesse"
+    ],
+    "collectRun": "2026-11-16T13:30:00.000Z",
+    "collectedAt": "2026-11-16T13:30:02.806Z"
+  },
+  {
+    "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the former Nvidia boss",
+    "description": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+    "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Mon, 16 Nov 2026 12:20:49 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectRun": "2026-11-16T13:30:00.000Z",
+    "collectedAt": "2026-11-16T13:30:02.806Z"
+  },
+  {
+    "title": "Morgan Stanley raises global equities to 'maximum overweight' on cheap valuations, earnings strength - Reuters",
+    "description": "Morgan Stanley raises global equities to 'maximum overweight' on cheap valuations, earnings strength  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ3J4U2xyQnlXT2xOVHU3LVlOODhtZDRaSVV5WTcwbzBERE41Sy1meWRLQk1aRThLTURuRlQtRkgwRG1JOWNmYl9sYkFOMEdnRjBaV0NvcXI5bUVwVldhZk5SMGMzRTRDcGtiMElOZ3hYbVFmbVJLZ2RRV0NRUmtwRU5xWkhJOWRzN1JxaWloUHp6cnE0WWdoYjJsRVNHRDI3dFRXTV9DaVRvQWV5dnVKTUkzZzFWZC1nY1E?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 12:13:53 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectRun": "2026-11-16T13:30:00.000Z",
+    "collectedAt": "2026-11-16T13:30:02.806Z"
+  },
+  {
+    "title": "Lindsay Clancy returns to court as potential murder retrial looms - Reuters",
+    "description": "Lindsay Clancy returns to court as potential murder retrial looms  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWExxSXJVZFhpQVdrcVhYNXhaWEFldXg4NUxQZmxKNzQ5Z0NnWnNLOGNVZWRxMk1kNDcxOU50dGZTZkZ4a2dMb3pDMzZzRDliRmp0MjdubDVFdjRrbWVMS19LdERoMXhEd2NJLTcyUmRGMFFtU2Z3Q25hMHlJTWY0TGhRVDZBZ21wTlF1YTFCZVFYNEU1Tm9hWjFZWjhJdXYzNDZTeGtmUjl0SmxzVmlRSjJR?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 11:27:41 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectRun": "2026-11-16T13:30:00.000Z",
+    "collectedAt": "2026-11-16T13:30:02.806Z"
+  },
+  {
+    "title": "Ukraine launches biggest drone attack on Russia since war began, defence ministry data shows - Reuters",
+    "description": "Ukraine launches biggest drone attack on Russia since war began, defence ministry data shows  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTmhGNVhidkt3TlpMM3l5UmpTaGYyRnEyZ0pDQnhydG0wWm9sS3VGN0pndWVSODhUbFhYTW5EalBIMEljZEVsNndnbVVNd1dmVzNOMVNHYmtpOEZjVXBaOHNfQ0dzQjlva0QyNEU5OS1vMm50TmhuVEFaZDZ0THpwTDUtX3dpeV9HUEYwOEZaVkhBNzBrZXg1dXljcmVFRC1CT0hqclh2cU9uSklvSTRnSUxXVTlmQmNhNlI1Q1E0S2hSdzF3?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 12:42:10 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectRun": "2026-11-16T13:30:00.000Z",
+    "collectedAt": "2026-11-16T13:30:02.806Z"
+  },
+  {
+    "title": "Mullin: No one getting fired over nationwide ground stop",
+    "description": "Department of Homeland Security (DHS) Secretary Markwayne Mullin said he does not expect anyone to lose their job over the equipment failure that grounded flights nationwide Friday, as airlines grapple with widespread delays and cancellations. “Who’s getting fired over this?” Fox News correspondent Peter Doocy asked Mullin during an interview Sunday. “I don’t think anybody’s…",
+    "link": "https://thehill.com/policy/transportation/6222057-dhs-mullin-faa-ground-stop-response/",
+    "pubDate": "\n\t\tMon, 16 Nov 2026 13:13:39 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "administration",
+      "news",
+      "policy",
+      "transportation",
+      "antiquated tech",
+      "dhs",
+      "faa",
+      "faa ground stop",
+      "faa outage",
+      "transportation department",
+      "trump administration"
+    ],
+    "collectRun": "2026-11-16T13:30:00.000Z",
+    "collectedAt": "2026-11-16T13:30:02.806Z"
+  },
+  {
+    "title": "Hillary Clinton Says Canada's Mark Carney Is 'Leader of the Free World'",
+    "description": "Clinton said the midterm blue wave indicated a desire by Americans to “rejoin their allies” in the West.",
+    "link": "https://www.newsweek.com/hillary-clinton-canadas-mark-carney-leader-of-free-world-12719493",
+    "pubDate": "Mon, 16 Nov 2026 08:18:48 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-16T13:30:00.000Z",
+    "collectedAt": "2026-11-16T13:30:02.806Z"
+  },
+  {
+    "title": "SPEAK UP: How does America fix its air travel mess?",
+    "description": "Give us your take: How can America fix its air travel infrastructure to help prevent future nationwide ground stops of flights?",
+    "link": "https://www.foxnews.com/politics/speak-up-how-does-america-fix-its-air-travel-mess",
+    "pubDate": "Mon, 16 Nov 2026 08:18:32 -0500",
+    "source": "Fox News",
+    "categories": [
+      "f9fbe8a7-6362-503e-925a-bfb1ee260478",
+      "fnc",
+      "fox news",
+      "fox-news/chat",
+      "fox-news/travel",
+      "fox-news/travel/general/airports",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectRun": "2026-11-16T13:30:00.000Z",
+    "collectedAt": "2026-11-16T13:30:02.806Z"
+  },
+  {
+    "title": "Russell Brand insists he’s ‘not guilty’ as he breaks his silence on rape conviction from behind bars",
+    "description": "The disgraced comedian pleaded his innocence in a statement read by his wife, Laura Brand, on the Nov. 15 episode of the couple’s weekly YouTube series, \"Sunday Service with the Brands.\"",
+    "link": "https://pagesix.com/2026/11/16/celebrity-news/russell-brand-insists-hes-not-guilty-as-he-breaks-his-silence-on-rape-conviction-from-behind-bars/",
+    "pubDate": "Mon, 16 Nov 2026 08:25:09 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-16T13:30:00.000Z",
+    "collectedAt": "2026-11-16T13:30:02.806Z"
+  },
+  {
+    "title": "Latest Rams injuries puts Matthew Stafford in terrible position ahead of pivotal game vs. Packers",
+    "description": "The Rams lose centers Coleman Shelton and Dylan McMahon to injuries against the Cardinals, leaving Matthew Stafford with a depleted offensive line.",
+    "link": "https://nypost.com/2026/11/16/sports/rams-lose-two-centers-to-injury-ahead-of-crucial-packers-game/",
+    "pubDate": "Mon, 16 Nov 2026 08:20:00 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-16T13:30:00.000Z",
+    "collectedAt": "2026-11-16T13:30:02.806Z"
   }
 ]
