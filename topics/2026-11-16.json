@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Kim Jong",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "trump",
+      "kim",
+      "jong",
+      "china",
+      "meet",
+      "north"
+    ]
+  },
+  {
     "label": "Five Countries",
     "count": 5,
     "sources": 4,
@@ -88,19 +101,6 @@
       "china",
       "huang",
       "scandals"
-    ]
-  },
-  {
-    "label": "Nvidia Board",
-    "count": 5,
-    "sources": 4,
-    "keywords": [
-      "nvidia",
-      "ceo",
-      "huang",
-      "considering",
-      "board",
-      "jensen"
     ]
   }
 ]
