@@ -26,6 +26,32 @@
     ]
   },
   {
+    "label": "Jensen Huang",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "nvidia",
+      "huang",
+      "jensen",
+      "musk",
+      "return",
+      "ceo"
+    ]
+  },
+  {
+    "label": "Court Rejects",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "gun",
+      "court",
+      "rejects",
+      "sensitive",
+      "places",
+      "supreme"
+    ]
+  },
+  {
     "label": "Ground Stop",
     "count": 6,
     "sources": 6,
@@ -36,32 +62,6 @@
       "stop",
       "old",
       "heart"
-    ]
-  },
-  {
-    "label": "Huang Return",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "nvidia",
-      "huang",
-      "musk",
-      "return",
-      "jensen",
-      "call"
-    ]
-  },
-  {
-    "label": "Court Rejects",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "gun",
-      "court",
-      "rejects",
-      "maryland",
-      "sensitive",
-      "places"
     ]
   },
   {
