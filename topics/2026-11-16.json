@@ -1,5 +1,31 @@
 [
   {
+    "label": "Robert Pattinson",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "robert",
+      "pattinson",
+      "james",
+      "bond",
+      "next",
+      "named"
+    ]
+  },
+  {
+    "label": "Jensen Huang",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "huang",
+      "trump",
+      "nvidia",
+      "jensen",
+      "mind",
+      "ceo"
+    ]
+  },
+  {
     "label": "Sexual Assault",
     "count": 4,
     "sources": 4,
@@ -10,19 +36,6 @@
       "appeal",
       "rard",
       "french"
-    ]
-  },
-  {
-    "label": "Jensen Huang",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "huang",
-      "jensen",
-      "trump",
-      "mind",
-      "nvidia",
-      "ceo"
     ]
   },
   {
@@ -39,16 +52,42 @@
     ]
   },
   {
-    "label": "Robert Pattinson",
+    "label": "Court Rejects",
     "count": 4,
     "sources": 4,
     "keywords": [
-      "robert",
-      "pattinson",
-      "next",
-      "james",
-      "bond",
-      "named"
+      "gun",
+      "court",
+      "rejects",
+      "sensitive",
+      "places",
+      "challenge"
+    ]
+  },
+  {
+    "label": "Commerce Department",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "chips",
+      "commerce",
+      "department",
+      "china",
+      "accuses",
+      "failing"
+    ]
+  },
+  {
+    "label": "Meet Jinping",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "nvidia",
+      "trump",
+      "jinping",
+      "scandals",
+      "china",
+      "meet"
     ]
   },
   {
@@ -62,45 +101,6 @@
       "air",
       "travel",
       "router"
-    ]
-  },
-  {
-    "label": "Van Hollen",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "van",
-      "hollen",
-      "schumer",
-      "chris",
-      "chuck",
-      "sen"
-    ]
-  },
-  {
-    "label": "Canary Islands",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "spain",
-      "canary",
-      "islands",
-      "migrants",
-      "200",
-      "000"
-    ]
-  },
-  {
-    "label": "Russell Brand",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "russell",
-      "brand",
-      "prison",
-      "message",
-      "authorities",
-      "lack"
     ]
   }
 ]
