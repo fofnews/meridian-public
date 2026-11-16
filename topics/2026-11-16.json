@@ -14,7 +14,7 @@
   },
   {
     "label": "Jensen Huang",
-    "count": 7,
+    "count": 8,
     "sources": 6,
     "keywords": [
       "huang",
@@ -36,6 +36,32 @@
       "stop",
       "old",
       "heart"
+    ]
+  },
+  {
+    "label": "Huang Return",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "nvidia",
+      "huang",
+      "musk",
+      "return",
+      "jensen",
+      "call"
+    ]
+  },
+  {
+    "label": "Court Rejects",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "gun",
+      "court",
+      "rejects",
+      "maryland",
+      "sensitive",
+      "places"
     ]
   },
   {
@@ -75,32 +101,6 @@
       "appeal",
       "rard",
       "french"
-    ]
-  },
-  {
-    "label": "Ground Stop",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "trump",
-      "duffy",
-      "ground",
-      "stop",
-      "nvidia",
-      "trip"
-    ]
-  },
-  {
-    "label": "Collision Ntsb",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "orleans",
-      "steering",
-      "collision",
-      "tanker",
-      "boat",
-      "ntsb"
     ]
   }
 ]
