@@ -1,5 +1,18 @@
 [
   {
+    "label": "Sexual Assault",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "depardieu",
+      "sexual",
+      "assault",
+      "appeal",
+      "rard",
+      "french"
+    ]
+  },
+  {
     "label": "Ground Stop",
     "count": 3,
     "sources": 3,
@@ -13,16 +26,16 @@
     ]
   },
   {
-    "label": "Sexual Assault",
+    "label": "Canary Islands",
     "count": 3,
     "sources": 3,
     "keywords": [
-      "depardieu",
-      "sexual",
-      "assault",
-      "appeal",
-      "french",
-      "actor"
+      "spain",
+      "canary",
+      "islands",
+      "migrants",
+      "200",
+      "000"
     ]
   },
   {
