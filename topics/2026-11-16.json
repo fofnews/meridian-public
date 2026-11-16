@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Ground Stop",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "trump",
+      "duffy",
+      "ground",
+      "stop",
+      "nvidia",
+      "trip"
+    ]
+  },
+  {
     "label": "Collision Ntsb",
     "count": 4,
     "sources": 4,
@@ -88,19 +101,6 @@
       "return",
       "call",
       "petition"
-    ]
-  },
-  {
-    "label": "Court Rejects",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "gun",
-      "court",
-      "rejects",
-      "sensitive",
-      "places",
-      "challenge"
     ]
   }
 ]
