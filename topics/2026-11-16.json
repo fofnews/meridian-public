@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Russell Brand",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "russell",
+      "brand",
+      "prison",
+      "message",
+      "authorities",
+      "lack"
+    ]
+  },
+  {
     "label": "Trump Putin",
     "count": 3,
     "sources": 3,
@@ -65,42 +78,29 @@
     ]
   },
   {
-    "label": "Nypd Unit",
+    "label": "Grammy Nominations",
     "count": 3,
     "sources": 3,
     "keywords": [
-      "mamdani",
-      "nypd",
-      "unit",
-      "disband",
-      "controversial",
-      "unveils"
+      "2027",
+      "grammy",
+      "nominations",
+      "list",
+      "see",
+      "live"
     ]
   },
   {
-    "label": "Ground Stop",
+    "label": "Lindsay Clancy",
     "count": 3,
-    "sources": 2,
+    "sources": 3,
     "keywords": [
-      "ground",
-      "stop",
-      "faa",
-      "flights",
-      "disrupts",
-      "college"
-    ]
-  },
-  {
-    "label": "Middle East",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "middle",
-      "east",
-      "iran",
-      "arrives",
-      "third",
-      "aircraft"
+      "lindsay",
+      "clancy",
+      "retrial",
+      "hearing",
+      "watch",
+      "live"
     ]
   }
 ]
