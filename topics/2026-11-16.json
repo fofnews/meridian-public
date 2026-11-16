@@ -1,5 +1,18 @@
 [
   {
+    "label": "Ground Stop",
+    "count": 3,
+    "sources": 2,
+    "keywords": [
+      "ground",
+      "stop",
+      "faa",
+      "flights",
+      "disrupts",
+      "college"
+    ]
+  },
+  {
     "label": "Middle East",
     "count": 3,
     "sources": 2,
