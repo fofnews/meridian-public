@@ -2042,5 +2042,407 @@
     "categories": [],
     "collectRun": "2026-11-17T11:00:00.000Z",
     "collectedAt": "2026-11-17T11:00:02.206Z"
+  },
+  {
+    "title": "I'm a human doctor with human intelligence. But I sure do like my AI notetaker",
+    "description": "Has your doctor asked whether they can use artificial intelligence to take notes during an exam? It's very popular, and here's how to think through the pros and the cons of the new technology.",
+    "link": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
+    "pubDate": "Tue, 17 Nov 2026 06:00:00 -0500",
+    "source": "NPR",
+    "categories": [],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "Fiona the hippo gets a super-sized tummy ache",
+    "description": "The Cincinnati Zoo shared that its most famous resident will be getting monitored around the clock after she \"ingested an object that a visitor accidentally tossed into her habitat.\"",
+    "link": "https://abcnews.com/video/138202492/",
+    "pubDate": "Tue, 17 Nov 2026 05:55:14 -0500",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "U.S. gave Singapore scant help with Alice Huang probe, source says",
+    "description": "Singapore held Alice Huang's passport for 8 months and asked the U.S. to help investigate her firm's suspected Nvidia chip sales, but received little help, sources say.",
+    "link": "https://www.cbsnews.com/news/jensen-huang-nvidia-alice-huang-singapore-investigation-china-chips/",
+    "pubDate": "Tue, 17 Nov 2026 06:05:49 -0500",
+    "source": "CBS News",
+    "categories": [],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "President Trump arrives in Manila for the ASEAN summit",
+    "description": "President Trump was greeted by performers and musicians after arriving in Manila, Philippines, for the ASEAN summit.",
+    "link": "https://www.nbcnews.com/video/president-trump-arrives-in-manila-for-the-asean-summit-273630789865",
+    "pubDate": "Tue, 17 Nov 2026 10:28:13 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "Who is behind Habibi UK, an X account that targeted critics of Israel?",
+    "description": "A former US Foreign Service officer ran a company that funded election adverts attacking Jeremy Corbyn’s Labour.",
+    "link": "https://www.aljazeera.com/news/2026/11/17/who-is-behind-habibi-uk-an-x-account-that-targeted-critics-of-israel?traffic_source=rss",
+    "pubDate": "Tue, 17 Nov 2026 10:53:42 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "Fomula One champion Fernando Alonso to race at Dakar Rally 2027",
+    "description": "Fernando Alonso will make his return to the Dakar Rally 2027 in Morocco with the Leob and Aston Martin team.",
+    "link": "https://www.aljazeera.com/sports/2026/11/17/fomula-one-champion-fernando-alonso-to-race-at-dakar-rally-2027?traffic_source=rss",
+    "pubDate": "Tue, 17 Nov 2026 10:42:42 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "The Briton scouted while watching a friend, now on the brink of the NFL",
+    "description": "Emmanuel Oyebadejo was supposed to be studying medicine and playing basketball. How did he become tipped to make British history in a completely different sport?",
+    "link": "https://www.bbc.co.uk/sport/american-football/articles/cm0ev1d54n52o?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Tue, 17 Nov 2026 06:43:42 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "What Trump, Putin and Xi want from superpower summit",
+    "description": "President Trump’s Asia trip will be capped by an unprecedented meeting with Russian President Vladimir Putin and Chinese President Xi Jinping — a nuclear-armed trilateral that harkens back to a more Machiavellian era of geopolitics.  The summit, expected to take place Wednesday on the sidelines of the Asia-Pacific Economic Cooperation summit in Shenzhen, China, is…",
+    "link": "https://thehill.com/policy/international/6223633-trump-putin-xi-trilateral-summit/",
+    "pubDate": "\n\t\tTue, 17 Nov 2026 11:00:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "international",
+      "policy"
+    ],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "For Jeffries, the glide path to Speaker has some bumps",
+    "description": "With a huge Democratic majority lining up behind him, House Minority Leader Hakeem Jeffries (D-N.Y.) is a shoo-in to win the Speakership in the next Congress. But getting there won’t be a cakewalk, either. Outside liberal groups, wary that Jeffries is too moderate, have scrambled to block his promotion with a desperate search for an…",
+    "link": "https://thehill.com/the-120/6223661-jeffries-speakership-challenges-democrats-disputes/",
+    "pubDate": "\n\t\tTue, 17 Nov 2026 11:00:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "house",
+      "news",
+      "the 120th congress"
+    ],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "Van Hollen’s Senate backers lay low as Schumer takes big lead",
+    "description": "Sen. Chris Van Hollen (D-Md.) says he has locked down 15 votes to become majority leader in his heated contest with Sen. Chuck Schumer (D-N.Y.), but he’s still viewed as a big underdog, and his supporters are lying low to avoid getting dragged into the messy fight.   For Van Hollen’s candidacy to pick up…",
+    "link": "https://thehill.com/homenews/senate/6223801-democrats-clash-majority-leader-election/",
+    "pubDate": "\n\t\tTue, 17 Nov 2026 11:00:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "news",
+      "senate"
+    ],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "Watch live: The Bipartisan Blueprint — Advancing Permitting Reform for America’s Future",
+    "description": "Bipartisan agreement on the need to streamline federal permitting for major energy and infrastructure projects has reached a critical juncture in Washington. Current legislative efforts aim to expedite the approval process while maintaining core regulatory safeguards, raising the prospect of meaningful reform after years of gridlock. The new push for permitting reform is backed by…",
+    "link": "https://thehill.com/video-clips/6222716-watch-live-bipartisan-blueprint-advancing-permitting-reform-america-future/",
+    "pubDate": "\n\t\tTue, 17 Nov 2026 11:00:00 +0000\t\t",
+    "source": "The Hill",
+    "categories": [
+      "energy & environment",
+      "news",
+      "policy",
+      "video",
+      "permitting reform"
+    ],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "Map Shows States Where Homeowners Are Most Likely to Be Mortgage-Free",
+    "description": "West Virginia leads with the nation’s highest share of mortgage-free homeownership, at 56.6 percent.",
+    "link": "https://www.newsweek.com/map-shows-states-where-homeowners-are-most-likely-to-be-mortgage-free-12725543",
+    "pubDate": "Tue, 17 Nov 2026 06:12:30 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "Judge Weighs Unsealing of Ilhan Omar Search Warrant",
+    "description": "A judge will consider whether to unseal records that could reveal the basis for the federal search of Ilhan Omar’s home.",
+    "link": "https://www.newsweek.com/judge-weighs-unsealing-of-ilhan-omar-search-warrant-12725552",
+    "pubDate": "Tue, 17 Nov 2026 06:11:47 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "Mom, 40, Gets Unexpected News About Newborn—Stunned by One Word Doctors Use",
+    "description": "For one Australian mother and her husband, their daughter Gianna was perfect just the way she was.",
+    "link": "https://www.newsweek.com/mom-unexpected-news-about-newborn-stunned-doctors-12725541",
+    "pubDate": "Tue, 17 Nov 2026 06:11:13 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "Poll of the Day: Do You Believe the Intelligence About an Iranian Dirty Bomb Attack?",
+    "description": "Vote in today's poll: do you think reports that U.S. intelligence fear a potential Iranian attack on American soil are credible?",
+    "link": "https://www.newsweek.com/poll-intelligence-iranian-dirty-bomb-attack-washington-dc-12725862",
+    "pubDate": "Tue, 17 Nov 2026 06:07:47 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "Kerch Was a Symbol of Putin’s Power. Now It’s a Monument to Russian Weakness",
+    "description": "For Moscow, the Kerch Bridge's concrete pillars offered physical proof of its claim to Crimea and its people.",
+    "link": "https://www.newsweek.com/kerch-putin-power-russian-weakness-12726047",
+    "pubDate": "Tue, 17 Nov 2026 05:59:59 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "State Department presses Egypt to respect religious freedom as Christian convert faces possible execution",
+    "description": "The State Department is pressing Egypt to protect religious freedom as a Christian convert faces possible execution or 25 years in prison, raising concerns over his trial.",
+    "link": "https://www.foxnews.com/world/state-department-presses-egypt-respect-religious-freedom-christian-convert-faces-possible-execution",
+    "pubDate": "Tue, 17 Nov 2026 06:00:46 -0500",
+    "source": "Fox News",
+    "categories": [
+      "3d6b6e4e-91db-5f68-92a6-4c04e1cc5389",
+      "fnc",
+      "fox news",
+      "fox-news/politics/foreign-policy/state-department",
+      "fox-news/faith-values/faith",
+      "fox-news/world/religion/persecutions",
+      "fox-news/world/world-regions/middle-east",
+      "fox-news/christianity",
+      "fox-news/world",
+      "article"
+    ],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "MICHAEL RUIZ: New York's gutted police unit was more than a protest squad",
+    "description": "Zohran Mamdani is dissolving the NYPD Strategic Response Group for a civilian-led de-escalation plan critics say will embolden criminals and terrorists.",
+    "link": "https://www.foxnews.com/us/michael-ruiz-new-yorks-gutted-police-unit-more-than-protest-squad",
+    "pubDate": "Tue, 17 Nov 2026 06:00:31 -0500",
+    "source": "Fox News",
+    "categories": [
+      "c450f3a8-f2fd-5767-82ee-180534083307",
+      "fnc",
+      "fox news",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/crime",
+      "fox-news/us/new-york-city",
+      "fox-news/us",
+      "fox-news/us/us-regions/northeast/new-york",
+      "fox-news/person/zohran-mamdani",
+      "fox-news/us/terror/counter-terrorism",
+      "fox-news/us",
+      "article"
+    ],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "Drinking 6 to 8 cups of tea a day linked to lower risk of serious diseases, massive study finds",
+    "description": "A Journal of Internal Medicine study of nearly 486,000 adults links consistent tea drinking to an 11% lower risk of vascular disease overall.",
+    "link": "https://www.foxnews.com/food-drink/drinking-6-8-cups-tea-day-linked-lower-risk-serious-diseases-massive-study-finds",
+    "pubDate": "Tue, 17 Nov 2026 06:00:28 -0500",
+    "source": "Fox News",
+    "categories": [
+      "ea9381b5-0dd9-568d-9f37-40635151d858",
+      "fnc",
+      "fox news",
+      "fox-news/food-drink",
+      "fox-news/health/healthy-living",
+      "fox-news/lifestyle",
+      "fox-news/food-drink/drinks",
+      "fox-news/lifestyle/drinks",
+      "fox-news/health/heart-health",
+      "fox-news/food-drink",
+      "article"
+    ],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "Robert Pattinson’s James Bond casting could bring 'darker,' 'moodier' twist as fans crave classic 007: expert",
+    "description": "Robert Pattinson calls his James Bond casting \"the honor of a lifetime,\" but critics say his brooding Batman past makes him a risky pick for 007.",
+    "link": "https://www.foxnews.com/entertainment/robert-pattinson-james-bond-casting-darker-moodier-twist-fans-crave-classic-007-expert",
+    "pubDate": "Tue, 17 Nov 2026 06:00:28 -0500",
+    "source": "Fox News",
+    "categories": [
+      "b7a69314-9b85-5116-bc2a-aae0c1101cfe",
+      "fnc",
+      "fox news",
+      "fox-news/features/exclusive",
+      "fox-news/entertainment",
+      "fox-news/entertainment/movies",
+      "fox-news/entertainment/movies/james-bond",
+      "fox-news/entertainment",
+      "article"
+    ],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "Jim Gaffigan, New York lawmakers push Gov Hochul to axe 'unnecessary tax' hitting comedy clubs",
+    "description": "Comedian Jim Gaffigan joined New York lawmakers and club owners at a Manhattan rally, urging Gov. Kathy Hochul to sign a bill ending state sales tax on comedy clubs.",
+    "link": "https://www.foxnews.com/media/jim-gaffigan-new-york-lawmakers-push-gov-hochul-axe-unnecessary-tax-hitting-comedy-clubs",
+    "pubDate": "Tue, 17 Nov 2026 06:00:09 -0500",
+    "source": "Fox News",
+    "categories": [
+      "e817973c-0906-54b1-83e8-bc8e56e81617",
+      "fnc",
+      "fox news",
+      "fox-news/entertainment/genres/comedy",
+      "fox-news/media",
+      "fox-news/culture-trends",
+      "fox-news/entertainment",
+      "fox-news/us/new-york-city",
+      "fox-news/us/us-regions/northeast/new-york",
+      "fox-news/world/global-economy/taxes",
+      "fox-news/person/kathy-hochul",
+      "fox-news/media",
+      "article"
+    ],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "Democratic judge under fire for releasing violent offenders calls bail law a ‘direct assault’ on rights",
+    "description": "A Democratic Alabama judge facing mounting scrutiny over past decisions to release violent offenders is criticizing a state law that allows defendants charged with certain violent crimes to be denied bail.",
+    "link": "https://nypost.com/2026/11/17/us-news/alabama-democratic-judge-david-carpenter-under-fire-for-releasing-violent-offenders-calls-bail-law-a-direct-assault-on-rights/",
+    "pubDate": "Tue, 17 Nov 2026 06:14:10 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "Serbian military jet crashes, killing pilot: report",
+    "description": "A Serbian military jet crashed on Tuesday northwest of Belgrade, killing the pilot, the defense ministry said.",
+    "link": "https://nypost.com/2026/11/17/world-news/serbian-military-jet-crashes-killing-pilot-report/",
+    "pubDate": "Tue, 17 Nov 2026 06:10:10 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "See why Brooklyn house hunters are dying to live near NYC’s largest cemetery",
+    "description": "Buyers priced out of Park Slope are flocking to Greenwood Heights, where the city’s biggest graveyard doubles as the best backyard in the borough.",
+    "link": "https://nypost.com/2026/11/17/real-estate/house-hunters-are-dying-to-live-near-green-wood-cemetry/",
+    "pubDate": "Tue, 17 Nov 2026 06:10:00 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "NFL Power Rankings for Week 11: Two Super Bowl contenders with very different challenges",
+    "description": "Bye-bye, bye week. The Broncos and Bears – two Super Bowl contenders – returned from their Week 10 bye with very different roads ahead. The Broncos will play the NFL’s easiest schedule over the rest of the season (.400 opponents’ winning percentage, per Tankathon). With games against the Jets, Dolphins and Chargers, the Broncos could...",
+    "link": "https://nypost.com/2026/11/17/sports/nfl-power-rankings-for-week-11-bears-broncos-with-very-different-challenges/",
+    "pubDate": "Tue, 17 Nov 2026 06:00:00 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "Markwayne Mullin took his government plane to LSU-Texas game as thousands were stranded in FAA ground stoppage",
+    "description": "His private air travel came on a day when nearly 7,000 flights were canceled, and almost 8,000 were delayed as commercial airlines struggled to recover from the rare ground stop.",
+    "link": "https://nypost.com/2026/11/17/us-news/markwayne-mullin-took-his-government-plane-to-lsu-texas-game-as-thousands-were-stranded-in-faa-ground-stoppage/",
+    "pubDate": "Tue, 17 Nov 2026 06:00:00 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "Let’s Stop Fighting Gravity in U.S.-Canada Trade",
+    "description": "Canada needs the United States. But the U.S. also needs, and greatly benefits from, its relationship with Canada in both trade and security.",
+    "link": "https://www.nationalreview.com/article/let-s-stop-fighting-gravity-in-u-s-canada-trade",
+    "pubDate": "Tue, 17 Nov 2026 11:00:00 +0000",
+    "source": "National Review",
+    "categories": [],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "Privatize Air Traffic Control",
+    "description": "The government has demonstrated that it cannot operate this essential service competently.",
+    "link": "https://www.nationalreview.com/article/privatize-air-traffic-control",
+    "pubDate": "Tue, 17 Nov 2026 11:00:00 +0000",
+    "source": "National Review",
+    "categories": [],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "The Return of the War Powers Debate",
+    "description": "It’s good news that Congress and Trump will soon be fighting about the war in Iran — and about war in general.",
+    "link": "https://www.nationalreview.com/article/the-return-of-the-war-powers-debate",
+    "pubDate": "Tue, 17 Nov 2026 11:00:00 +0000",
+    "source": "National Review",
+    "categories": [],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "What Pro-Lifers Need to Win Elections",
+    "description": "In election after election, pro-lifers are being outspent and outorganized.",
+    "link": "https://www.nationalreview.com/article/what-pro-lifers-need-to-win-elections",
+    "pubDate": "Tue, 17 Nov 2026 11:00:00 +0000",
+    "source": "National Review",
+    "categories": [],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "Roger Stone to Newsmax: Trump Not 'Powerless' After Midterm Losses - Newsmax",
+    "description": "Roger Stone to Newsmax: Trump Not 'Powerless' After Midterm Losses  Newsmax",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVlpFWXEtT2w3X1lkOVFVaTV1ajFTZkpBWTJRZE5qekp6dU16UFY1cXRVQ2tBdVhicVNOZDRpd2M5aUlWd0Y4N19TcXg5MHVjMHYxWGdPMk92VF9NQUtJQkxNWEhncnhXWjh3NkJJTHNNNHY4S1Q4ekpKeDhPMmZjYzhXQkNXMkV4bXFyNGd5U2tRandfUFE?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 23:42:00 GMT",
+    "source": "Newsmax",
+    "categories": [],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
+  },
+  {
+    "title": "Majority of Kindergarteners in 5 States Not Prepared for School: Government Report - The Epoch Times",
+    "description": "Majority of Kindergarteners in 5 States Not Prepared for School: Government Report  The Epoch Times",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSUpyWkE2VEhyUGduYjhSV184ZThYV1Z6VjU0MXk2c2hFdzF1dVZOVVZqbVl6andsQ3RtdTJlV2JXa21ZeEs2LWxCenBCVk1PZVVWVHZBUDJGVUhiLXpzbmMxcG45cGNRbEhQbFU3NG1JSUh4dVl5UXVrZERpNXk5NUpSLVZURmFSSkhSWHVGSHE2MmxDVFNpcjlxbU5Sam43OHB2VTEwRmVaTHVTNHdSRlowMUFqVnhjS2JLRzd6WQ?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 13:42:33 GMT",
+    "source": "Epoch Times",
+    "categories": [],
+    "collectRun": "2026-11-17T11:15:00.000Z",
+    "collectedAt": "2026-11-17T11:15:02.311Z"
   }
 ]
