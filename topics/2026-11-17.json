@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Outages Trump",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "outages",
+      "trump",
+      "dhs",
+      "responsible",
+      "fine",
+      "worried"
+    ]
+  },
+  {
     "label": "Trump Meet",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "jong",
       "china",
       "president"
-    ]
-  },
-  {
-    "label": "Fed Hike",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "dollar",
-      "fed",
-      "hike",
-      "bets",
-      "hits",
-      "month"
     ]
   }
 ]
