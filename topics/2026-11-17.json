@@ -1,5 +1,18 @@
 [
   {
+    "label": "Drone Attack",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "ukraine",
+      "crimea",
+      "bridge",
+      "russia",
+      "drone",
+      "attack"
+    ]
+  },
+  {
     "label": "Air Traffic",
     "count": 3,
     "sources": 3,
