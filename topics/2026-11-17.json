@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Child Abuse",
+    "count": 6,
+    "sources": 4,
+    "keywords": [
+      "markle",
+      "child",
+      "abuse",
+      "thomas",
+      "philippines",
+      "meghan"
+    ]
+  },
+  {
     "label": "Asean Summit",
     "count": 5,
     "sources": 4,
@@ -88,19 +101,6 @@
       "arrives",
       "president",
       "manila"
-    ]
-  },
-  {
-    "label": "Asia Trip",
-    "count": 5,
-    "sources": 4,
-    "keywords": [
-      "trump",
-      "asia",
-      "putin",
-      "trip",
-      "arrives",
-      "ahead"
     ]
   }
 ]
