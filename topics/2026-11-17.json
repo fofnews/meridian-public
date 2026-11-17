@@ -1,5 +1,18 @@
 [
   {
+    "label": "Dirty Bomb",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "iran",
+      "dirty",
+      "bomb",
+      "trump",
+      "threat",
+      "reported"
+    ]
+  },
+  {
     "label": "Asean Summit",
     "count": 5,
     "sources": 4,
@@ -36,19 +49,6 @@
       "trip",
       "arrives",
       "ahead"
-    ]
-  },
-  {
-    "label": "Dirty Bomb",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "iran",
-      "dirty",
-      "bomb",
-      "trump",
-      "threat",
-      "reported"
     ]
   },
   {
