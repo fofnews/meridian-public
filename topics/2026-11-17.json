@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Crimean Bridge",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "bridge",
+      "ukraine",
+      "unprecedented",
+      "crimean",
+      "attack",
+      "putin"
+    ]
+  },
+  {
     "label": "Elimination Status",
     "count": 5,
     "sources": 5,
@@ -88,19 +101,6 @@
       "trip",
       "arrives",
       "ahead"
-    ]
-  },
-  {
-    "label": "Air Traffic",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "air",
-      "traffic",
-      "ground",
-      "stop",
-      "duffy",
-      "nationwide"
     ]
   }
 ]
