@@ -14,15 +14,28 @@
   },
   {
     "label": "Asia Trip",
-    "count": 4,
+    "count": 5,
     "sources": 4,
     "keywords": [
       "trump",
       "asia",
       "putin",
       "trip",
-      "ahead",
-      "high"
+      "arrives",
+      "ahead"
+    ]
+  },
+  {
+    "label": "Dirty Bomb",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "iran",
+      "dirty",
+      "bomb",
+      "trump",
+      "threat",
+      "reported"
     ]
   },
   {
@@ -39,19 +52,6 @@
     ]
   },
   {
-    "label": "Dirty Bomb",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "dirty",
-      "bomb",
-      "threat",
-      "iran",
-      "trump",
-      "white"
-    ]
-  },
-  {
     "label": "Air Traffic",
     "count": 3,
     "sources": 3,
@@ -62,6 +62,19 @@
       "ground",
       "stop",
       "vows"
+    ]
+  },
+  {
+    "label": "Canada China",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "canada",
+      "china",
+      "trade",
+      "carney",
+      "ahead",
+      "summit"
     ]
   },
   {
