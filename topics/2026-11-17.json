@@ -1,5 +1,18 @@
 [
   {
+    "label": "Asean Summit",
+    "count": 5,
+    "sources": 4,
+    "keywords": [
+      "trump",
+      "asean",
+      "summit",
+      "arrives",
+      "president",
+      "manila"
+    ]
+  },
+  {
     "label": "Drone Attack",
     "count": 5,
     "sources": 4,
@@ -36,19 +49,6 @@
       "trump",
       "threat",
       "reported"
-    ]
-  },
-  {
-    "label": "Asean Summit",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "trump",
-      "asean",
-      "summit",
-      "president",
-      "arrives",
-      "manila"
     ]
   },
   {
