@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Jensen Huang",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "jensen",
+      "huang",
+      "nvidia",
+      "return",
+      "asked",
+      "honored"
+    ]
+  },
+  {
     "label": "Air Traffic",
     "count": 4,
     "sources": 3,
@@ -88,19 +101,6 @@
       "stop",
       "duffy",
       "nationwide"
-    ]
-  },
-  {
-    "label": "Greek Life",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "cornell",
-      "greek",
-      "life",
-      "review",
-      "future",
-      "gang"
     ]
   }
 ]
