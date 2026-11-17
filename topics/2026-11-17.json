@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Jensen Huang",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "jensen",
+      "huang",
+      "nvidia",
+      "return",
+      "ceo",
+      "honored"
+    ]
+  },
+  {
     "label": "Crimean Bridge",
     "count": 5,
     "sources": 5,
@@ -49,19 +62,6 @@
       "crimean",
       "attack",
       "putin"
-    ]
-  },
-  {
-    "label": "Jensen Huang",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "jensen",
-      "huang",
-      "nvidia",
-      "return",
-      "honored",
-      "ceo"
     ]
   },
   {
