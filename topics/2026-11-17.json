@@ -53,15 +53,28 @@
   },
   {
     "label": "Air Traffic",
-    "count": 3,
+    "count": 4,
     "sources": 3,
     "keywords": [
-      "duffy",
       "air",
       "traffic",
       "ground",
       "stop",
-      "vows"
+      "duffy",
+      "nationwide"
+    ]
+  },
+  {
+    "label": "Greek Life",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "cornell",
+      "greek",
+      "life",
+      "review",
+      "future",
+      "gang"
     ]
   },
   {
@@ -88,19 +101,6 @@
       "responsible",
       "fine",
       "worried"
-    ]
-  },
-  {
-    "label": "Trump Meet",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "trump",
-      "meet",
-      "kim",
-      "jong",
-      "china",
-      "president"
     ]
   }
 ]
