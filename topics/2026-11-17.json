@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Trump Meet",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "trump",
+      "meet",
+      "kim",
+      "jong",
+      "china",
+      "president"
+    ]
+  },
+  {
     "label": "Fed Hike",
     "count": 3,
     "sources": 2,
@@ -88,19 +101,6 @@
       "bets",
       "hits",
       "month"
-    ]
-  },
-  {
-    "label": "Ahead Putin",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "trump",
-      "putin",
-      "want",
-      "summit",
-      "asia",
-      "ahead"
     ]
   }
 ]
