@@ -92,15 +92,15 @@
   },
   {
     "label": "United Airlines",
-    "count": 5,
+    "count": 6,
     "sources": 5,
     "keywords": [
       "united",
       "airlines",
       "outage",
       "resolved",
-      "departing",
-      "flights"
+      "system",
+      "departing"
     ]
   }
 ]
