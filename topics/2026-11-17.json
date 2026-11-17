@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Asean Summit",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "trump",
+      "asean",
+      "summit",
+      "president",
+      "arrives",
+      "manila"
+    ]
+  },
+  {
     "label": "Dirty Bomb",
     "count": 3,
     "sources": 3,
@@ -36,19 +49,6 @@
       "iran",
       "trump",
       "white"
-    ]
-  },
-  {
-    "label": "Asean Summit",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "trump",
-      "asean",
-      "summit",
-      "president",
-      "arrives",
-      "manila"
     ]
   },
   {
@@ -75,6 +75,19 @@
       "bets",
       "hits",
       "month"
+    ]
+  },
+  {
+    "label": "Ahead Putin",
+    "count": 3,
+    "sources": 2,
+    "keywords": [
+      "trump",
+      "putin",
+      "want",
+      "summit",
+      "asia",
+      "ahead"
     ]
   }
 ]
