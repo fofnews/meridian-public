@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Asia Trip",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "trump",
+      "asia",
+      "putin",
+      "trip",
+      "ahead",
+      "high"
+    ]
+  },
+  {
     "label": "Air Traffic",
     "count": 3,
     "sources": 3,
@@ -23,19 +36,6 @@
       "ground",
       "stop",
       "vows"
-    ]
-  },
-  {
-    "label": "High Stakes",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "trump",
-      "asia",
-      "putin",
-      "ahead",
-      "high",
-      "stakes"
     ]
   },
   {
