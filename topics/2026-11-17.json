@@ -1,5 +1,18 @@
 [
   {
+    "label": "Jensen Huang",
+    "count": 8,
+    "sources": 6,
+    "keywords": [
+      "huang",
+      "agrees",
+      "nvidia",
+      "testify",
+      "jensen",
+      "congress"
+    ]
+  },
+  {
     "label": "Dirty Bomb",
     "count": 6,
     "sources": 6,
@@ -13,16 +26,16 @@
     ]
   },
   {
-    "label": "Jensen Huang",
-    "count": 7,
-    "sources": 5,
+    "label": "Elimination Status",
+    "count": 6,
+    "sources": 6,
     "keywords": [
-      "nvidia",
-      "huang",
-      "agrees",
-      "testify",
-      "jensen",
-      "congress"
+      "measles",
+      "status",
+      "elimination",
+      "loses",
+      "officially",
+      "years"
     ]
   },
   {
@@ -36,19 +49,6 @@
       "crimean",
       "attack",
       "putin"
-    ]
-  },
-  {
-    "label": "Elimination Status",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "measles",
-      "status",
-      "elimination",
-      "loses",
-      "officially",
-      "years"
     ]
   },
   {
