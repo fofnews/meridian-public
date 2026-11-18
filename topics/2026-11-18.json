@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "High Stakes",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "trump",
+      "putin",
+      "high",
+      "stakes",
+      "china",
+      "ahead"
+    ]
+  },
+  {
     "label": "Waymo Suspends",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "kuwait",
       "strikes",
       "warplanes"
-    ]
-  },
-  {
-    "label": "Light Day",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "voyager",
-      "light",
-      "day",
-      "nasa",
-      "probe",
-      "believed"
     ]
   }
 ]
