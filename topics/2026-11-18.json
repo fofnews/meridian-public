@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Waymo Suspends",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "waymo",
+      "suspends",
+      "driverless",
+      "freeway",
+      "rides",
+      "california"
+    ]
+  },
+  {
     "label": "Trade Deal",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "caused",
       "evidence",
       "information"
-    ]
-  },
-  {
-    "label": "Air Base",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "iran",
-      "gulf",
-      "strikes",
-      "air",
-      "base",
-      "kuwait"
     ]
   }
 ]
