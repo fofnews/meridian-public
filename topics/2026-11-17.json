@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Mary Peltola",
+    "count": 8,
+    "sources": 7,
+    "keywords": [
+      "peltola",
+      "alaska",
+      "senate",
+      "mary",
+      "seat",
+      "democrats"
+    ]
+  },
+  {
     "label": "Jensen Huang",
     "count": 8,
     "sources": 6,
@@ -23,19 +36,6 @@
       "testify",
       "jensen",
       "congress"
-    ]
-  },
-  {
-    "label": "Mary Peltola",
-    "count": 7,
-    "sources": 6,
-    "keywords": [
-      "peltola",
-      "alaska",
-      "senate",
-      "mary",
-      "seat",
-      "flips"
     ]
   },
   {
