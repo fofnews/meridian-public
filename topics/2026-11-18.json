@@ -1,8 +1,8 @@
 [
   {
-    "label": "Jeffries Speaker",
-    "count": 7,
-    "sources": 6,
+    "label": "Hakeem Jeffries",
+    "count": 8,
+    "sources": 7,
     "keywords": [
       "democrats",
       "jeffries",
@@ -91,16 +91,16 @@
     ]
   },
   {
-    "label": "Jensen Huang",
+    "label": "Light Day",
     "count": 3,
     "sources": 3,
     "keywords": [
-      "nvidia",
-      "jensen",
-      "huang",
-      "senate",
-      "important",
-      "economy"
+      "voyager",
+      "light",
+      "day",
+      "nasa",
+      "probe",
+      "believed"
     ]
   }
 ]
