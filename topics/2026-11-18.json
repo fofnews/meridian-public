@@ -1,5 +1,18 @@
 [
   {
+    "label": "Jeffries Speaker",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "democrats",
+      "jeffries",
+      "speaker",
+      "house",
+      "nominate",
+      "hakeem"
+    ]
+  },
+  {
     "label": "Mary Peltola",
     "count": 6,
     "sources": 5,
@@ -23,6 +36,19 @@
       "ahead",
       "lands",
       "historic"
+    ]
+  },
+  {
+    "label": "Trade Deal",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "trump",
+      "deal",
+      "philippines",
+      "trade",
+      "special",
+      "alliance"
     ]
   },
   {
@@ -75,32 +101,6 @@
       "air",
       "base",
       "kuwait"
-    ]
-  },
-  {
-    "label": "Grand Theft",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "grand",
-      "theft",
-      "auto",
-      "release",
-      "2013",
-      "pro"
-    ]
-  },
-  {
-    "label": "House Democrats",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "house",
-      "democrats",
-      "jeffries",
-      "speaker",
-      "nominate",
-      "hakeem"
     ]
   }
 ]
