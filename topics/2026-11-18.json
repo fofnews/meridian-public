@@ -1,8 +1,8 @@
 [
   {
     "label": "Mary Peltola",
-    "count": 4,
-    "sources": 4,
+    "count": 5,
+    "sources": 5,
     "keywords": [
       "peltola",
       "alaska",
@@ -10,6 +10,19 @@
       "mary",
       "race",
       "democrat"
+    ]
+  },
+  {
+    "label": "Philippines Reuters",
+    "count": 3,
+    "sources": 2,
+    "keywords": [
+      "trump",
+      "philippines",
+      "reuters",
+      "very",
+      "big",
+      "trade"
     ]
   }
 ]
