@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Air Base",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "iran",
+      "gulf",
+      "air",
+      "base",
+      "kuwait",
+      "strikes"
+    ]
+  },
+  {
     "label": "Waymo Suspends",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "senate",
       "important",
       "economy"
-    ]
-  },
-  {
-    "label": "Rubio Zero",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "rubio",
-      "outages",
-      "zero",
-      "caused",
-      "evidence",
-      "information"
     ]
   }
 ]
