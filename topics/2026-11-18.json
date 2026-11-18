@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Jensen Huang",
+    "count": 5,
+    "sources": 4,
+    "keywords": [
+      "nvidia",
+      "huang",
+      "jensen",
+      "ceo",
+      "scandal",
+      "return"
+    ]
+  },
+  {
     "label": "Air Base",
     "count": 4,
     "sources": 4,
@@ -88,19 +101,6 @@
       "base",
       "kuwait",
       "strikes"
-    ]
-  },
-  {
-    "label": "Blocks Trump",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "trump",
-      "senator",
-      "blocks",
-      "pick",
-      "republican",
-      "cornyn"
     ]
   }
 ]
