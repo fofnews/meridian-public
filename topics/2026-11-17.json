@@ -1,5 +1,18 @@
 [
   {
+    "label": "Heidi Overton",
+    "count": 9,
+    "sources": 8,
+    "keywords": [
+      "heidi",
+      "overton",
+      "fda",
+      "white",
+      "house",
+      "nomination"
+    ]
+  },
+  {
     "label": "Jensen Huang",
     "count": 8,
     "sources": 6,
@@ -10,19 +23,6 @@
       "testify",
       "jensen",
       "congress"
-    ]
-  },
-  {
-    "label": "Heidi Overton",
-    "count": 7,
-    "sources": 6,
-    "keywords": [
-      "fda",
-      "heidi",
-      "overton",
-      "white",
-      "house",
-      "trump"
     ]
   },
   {
