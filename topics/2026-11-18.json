@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Senate Race",
+    "count": 7,
+    "sources": 6,
+    "keywords": [
+      "peltola",
+      "alaska",
+      "senate",
+      "race",
+      "mary",
+      "democrat"
+    ]
+  },
+  {
     "label": "China Ahead",
     "count": 7,
     "sources": 5,
@@ -23,19 +36,6 @@
       "ahead",
       "lands",
       "arrives"
-    ]
-  },
-  {
-    "label": "Mary Peltola",
-    "count": 6,
-    "sources": 5,
-    "keywords": [
-      "peltola",
-      "alaska",
-      "senate",
-      "mary",
-      "race",
-      "democrat"
     ]
   },
   {
