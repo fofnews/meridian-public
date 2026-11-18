@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Jensen Huang",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "nvidia",
+      "jensen",
+      "huang",
+      "senate",
+      "important",
+      "economy"
+    ]
+  },
+  {
     "label": "Grand Theft",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "very",
       "big",
       "trade"
-    ]
-  },
-  {
-    "label": "Alaska Senate",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "alaska",
-      "senate",
-      "democrats",
-      "race",
-      "peltola",
-      "tech"
     ]
   }
 ]
