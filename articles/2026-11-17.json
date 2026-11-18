@@ -17173,5 +17173,75 @@
     "categories": [],
     "collectRun": "2026-11-18T04:00:00.000Z",
     "collectedAt": "2026-11-18T04:00:01.607Z"
+  },
+  {
+    "title": "Cause of Recent Tech Outages Isn’t Hackers, Rubio Says",
+    "description": "Secretary of State Marco Rubio suggested the rush to patch systems, whose vulnerabilities are exposed by A.I., may explain recent failures with air traffic controls, banks and government agencies.",
+    "link": "https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html",
+    "pubDate": "Wed, 18 Nov 2026 03:51:05 +0000",
+    "source": "NY Times",
+    "categories": [
+      "united states politics and government",
+      "airlines and airplanes",
+      "air traffic control",
+      "artificial intelligence",
+      "united states international relations",
+      "roads and traffic",
+      "cyberwarfare and defense",
+      "aviation accidents, safety and disasters",
+      "apple inc",
+      "federal aviation administration",
+      "microsoft corp",
+      "national security agency",
+      "china",
+      "manila (philippines)",
+      "philippines",
+      "shenzhen (china)",
+      "united states"
+    ],
+    "collectRun": "2026-11-18T04:15:00.000Z",
+    "collectedAt": "2026-11-18T04:15:01.855Z"
+  },
+  {
+    "title": "Democrat Mary Peltola wins Alaska’s Senate race, NBC News projects",
+    "description": "NBC News projects Democrat Mary Peltola has defeated incumbent Sen. Dan S. Sullivan in Alaska’s Senate race. NBC News’ Steve Patterson reports on the midterm election outcome.",
+    "link": "https://www.nbcnews.com/video/democrat-mary-peltola-wins-alaska-s-senate-race-nbc-news-projects-273698885569",
+    "pubDate": "Wed, 18 Nov 2026 03:48:21 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectRun": "2026-11-18T04:15:00.000Z",
+    "collectedAt": "2026-11-18T04:15:01.855Z"
+  },
+  {
+    "title": "Dolphins Lose Another Defensive Tackle for Rest of Season",
+    "description": "The Miami Dolphins defensive line cannot catch a break.",
+    "link": "https://www.newsweek.com/sports/nfl/dolphins-lose-another-defensive-tackle-for-rest-of-season-12730912",
+    "pubDate": "Tue, 17 Nov 2026 23:08:15 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-18T04:15:00.000Z",
+    "collectedAt": "2026-11-18T04:15:01.855Z"
+  },
+  {
+    "title": "Patriots-Chargers game loses primetime slot as NFL makes first flex scheduling move of 2026 season",
+    "description": "The NFL flexed the Las Vegas Raiders-Cleveland Browns game into \"Sunday Night Football\" for Week 12, bumping New England Patriots-Los Angeles Chargers.",
+    "link": "https://www.foxnews.com/outkick-sports/patriots-chargers-game-loses-primetime-slot-nfl-makes-first-flex-scheduling-move-2026-season",
+    "pubDate": "Tue, 17 Nov 2026 22:59:15 -0500",
+    "source": "Fox News",
+    "categories": [
+      "6c54ae19-e0f3-5a05-972c-7b4add42269b",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/sports/nfl/cleveland-browns",
+      "fox-news/sports/nfl/las-vegas-raiders",
+      "fox-news/sports/nfl",
+      "fox-news/sports",
+      "fox-news/outkick/betting",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectRun": "2026-11-18T04:15:00.000Z",
+    "collectedAt": "2026-11-18T04:15:01.855Z"
   }
 ]
