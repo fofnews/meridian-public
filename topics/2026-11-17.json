@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Heidi Overton",
+    "count": 7,
+    "sources": 6,
+    "keywords": [
+      "fda",
+      "heidi",
+      "overton",
+      "white",
+      "house",
+      "trump"
+    ]
+  },
+  {
     "label": "Dirty Bomb",
     "count": 6,
     "sources": 6,
@@ -88,19 +101,6 @@
       "highly",
       "nsa",
       "national"
-    ]
-  },
-  {
-    "label": "Drone Attack",
-    "count": 6,
-    "sources": 4,
-    "keywords": [
-      "ukraine",
-      "bridge",
-      "russia",
-      "crimea",
-      "drone",
-      "attack"
     ]
   }
 ]
