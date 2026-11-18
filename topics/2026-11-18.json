@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Light Day",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "voyager",
+      "light",
+      "day",
+      "one",
+      "earth",
+      "nasa"
+    ]
+  },
+  {
     "label": "China Ahead",
     "count": 7,
     "sources": 5,
@@ -65,19 +78,6 @@
     ]
   },
   {
-    "label": "Light Day",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "voyager",
-      "light",
-      "day",
-      "nasa",
-      "one",
-      "earth"
-    ]
-  },
-  {
     "label": "Air Base",
     "count": 4,
     "sources": 4,
@@ -91,16 +91,16 @@
     ]
   },
   {
-    "label": "Waymo Suspends",
-    "count": 3,
+    "label": "Very Big",
+    "count": 4,
     "sources": 3,
     "keywords": [
-      "waymo",
-      "suspends",
-      "driverless",
-      "freeway",
-      "rides",
-      "california"
+      "trump",
+      "philippines",
+      "very",
+      "big",
+      "trade",
+      "deal"
     ]
   }
 ]
