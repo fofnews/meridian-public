@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Air Base",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "iran",
+      "gulf",
+      "strikes",
+      "air",
+      "base",
+      "kuwait"
+    ]
+  },
+  {
     "label": "Grand Theft",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "need",
       "highly",
       "anticipated"
-    ]
-  },
-  {
-    "label": "Philippines Reuters",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "trump",
-      "philippines",
-      "reuters",
-      "very",
-      "big",
-      "trade"
     ]
   }
 ]
