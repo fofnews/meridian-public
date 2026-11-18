@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Rubio Zero",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "rubio",
+      "outages",
+      "zero",
+      "caused",
+      "evidence",
+      "information"
+    ]
+  },
+  {
     "label": "Air Base",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "astonishing",
       "american",
       "epic"
-    ]
-  },
-  {
-    "label": "Need Know",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "know",
-      "gta",
-      "everything",
-      "need",
-      "highly",
-      "anticipated"
     ]
   }
 ]
