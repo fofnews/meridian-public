@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Mary Peltola",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "peltola",
+      "alaska",
+      "mary",
+      "senate",
+      "flips",
+      "seat"
+    ]
+  },
+  {
     "label": "Crimean Bridge",
     "count": 5,
     "sources": 5,
@@ -88,19 +101,6 @@
       "crimean",
       "attack",
       "putin"
-    ]
-  },
-  {
-    "label": "Communications Network",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "classified",
-      "network",
-      "communications",
-      "highly",
-      "nsa",
-      "national"
     ]
   }
 ]
