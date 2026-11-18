@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Light Day",
+    "count": 7,
+    "sources": 7,
+    "keywords": [
+      "voyager",
+      "light",
+      "day",
+      "one",
+      "earth",
+      "nasa"
+    ]
+  },
+  {
     "label": "Senate Race",
     "count": 7,
     "sources": 6,
@@ -23,19 +36,6 @@
       "race",
       "mary",
       "democrat"
-    ]
-  },
-  {
-    "label": "Light Day",
-    "count": 6,
-    "sources": 6,
-    "keywords": [
-      "voyager",
-      "light",
-      "day",
-      "one",
-      "earth",
-      "nasa"
     ]
   },
   {
@@ -91,16 +91,16 @@
     ]
   },
   {
-    "label": "Very Big",
-    "count": 5,
-    "sources": 3,
+    "label": "Blocks Trump",
+    "count": 4,
+    "sources": 4,
     "keywords": [
       "trump",
-      "philippines",
-      "very",
-      "trade",
-      "big",
-      "deal"
+      "senator",
+      "blocks",
+      "pick",
+      "republican",
+      "cornyn"
     ]
   }
 ]
