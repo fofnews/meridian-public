@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Trump Lands",
+    "count": 5,
+    "sources": 4,
+    "keywords": [
+      "trump",
+      "china",
+      "putin",
+      "ahead",
+      "lands",
+      "arrives"
+    ]
+  },
+  {
     "label": "Grand Theft",
     "count": 3,
     "sources": 3,
@@ -23,19 +36,6 @@
       "release",
       "2013",
       "pro"
-    ]
-  },
-  {
-    "label": "Trump Arrives",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "trump",
-      "china",
-      "putin",
-      "arrives",
-      "ahead",
-      "lands"
     ]
   },
   {
