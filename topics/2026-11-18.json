@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Grand Theft",
+    "count": 5,
+    "sources": 4,
+    "keywords": [
+      "grand",
+      "theft",
+      "auto",
+      "astonishing",
+      "american",
+      "epic"
+    ]
+  },
+  {
     "label": "High Stakes",
     "count": 5,
     "sources": 4,
@@ -49,6 +62,19 @@
       "stakes",
       "china",
       "summit"
+    ]
+  },
+  {
+    "label": "Light Day",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "voyager",
+      "light",
+      "day",
+      "nasa",
+      "one",
+      "earth"
     ]
   },
   {
@@ -75,32 +101,6 @@
       "freeway",
       "rides",
       "california"
-    ]
-  },
-  {
-    "label": "Trade Deal",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "trump",
-      "deal",
-      "philippines",
-      "trade",
-      "special",
-      "alliance"
-    ]
-  },
-  {
-    "label": "Iranian Island",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "iranian",
-      "island",
-      "hit",
-      "kuwait",
-      "strikes",
-      "warplanes"
     ]
   }
 ]
