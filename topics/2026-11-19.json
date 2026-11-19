@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Tech Outages",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "outages",
+      "americans",
+      "tech",
+      "wave",
+      "supplies",
+      "coordinated"
+    ]
+  },
+  {
     "label": "Jensen Huang",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "ukraine",
       "meeting",
       "wants"
-    ]
-  },
-  {
-    "label": "Elon Musk",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "musk",
-      "midterm",
-      "elon",
-      "spending",
-      "feels",
-      "pretty"
     ]
   }
 ]
