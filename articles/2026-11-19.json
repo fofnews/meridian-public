@@ -1296,5 +1296,47 @@
     "categories": [],
     "collectRun": "2026-11-19T09:15:00.000Z",
     "collectedAt": "2026-11-19T09:15:04.167Z"
+  },
+  {
+    "title": "EU Commission targeted in cyberattack, Politico reports - Reuters",
+    "description": "EU Commission targeted in cyberattack, Politico reports  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2FuVDFlVnk2V2ZQX1cwZDZTVVgtNGcyVkRjdWVPa0dWMnFUVWkxVjU0MmJCZEhqZTNURWtRUlpWTFpHYTJDUS1TckpwbDFOYWl3WjR5Z0hyR0xMRVNQbXNZOWw1dHUtWDMwUl9VTVJRSUVfOWh6cjd1eVBpY3hySU9zbnlvZ2V1UFpBSlFraWZIMTAxTGtXQnVYaGhNLWRkRVhmaE96UQ?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 08:25:03 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectRun": "2026-11-19T09:30:00.000Z",
+    "collectedAt": "2026-11-19T09:30:03.251Z"
+  },
+  {
+    "title": "Ukraine Strikes Crimea Bridge for Third Time in Week as Trump Meets Putin",
+    "description": "The Kerch Bridge, which connects Russia to occupied Crimea, was struck by Ukraine for the third time this week.",
+    "link": "https://www.newsweek.com/ukraine-strikes-crimea-bridge-third-time-week-trump-putin-12738575",
+    "pubDate": "Thu, 19 Nov 2026 04:18:38 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-19T09:30:00.000Z",
+    "collectedAt": "2026-11-19T09:30:03.251Z"
+  },
+  {
+    "title": "Trump's China trip: Historic Xi-Putin talks, 'superintelligence' boast and other top moments",
+    "description": "President Donald Trump declared the US the world leader in \"superintelligence\" at the APEC summit in Shenzhen, staking a tech claim amid the AI rivalry.",
+    "link": "https://www.foxnews.com/politics/trumps-china-trip-historic-xi-putin-talks-superintelligence-boast-other-top-moments",
+    "pubDate": "Thu, 19 Nov 2026 04:12:39 -0500",
+    "source": "Fox News",
+    "categories": [
+      "aa7d0c13-af69-5443-bdd5-5d922c759ac6",
+      "fnc",
+      "fox news",
+      "fox-news/world/world-regions/china",
+      "fox-news/person/donald-trump",
+      "fox-news/person/xi-jinping",
+      "fox-news/world/personalities/vladimir-putin",
+      "fox-news/world/world-regions/russia",
+      "fox-news/politics/house-of-representatives/foreign-affairs",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectRun": "2026-11-19T09:30:00.000Z",
+    "collectedAt": "2026-11-19T09:30:03.251Z"
   }
 ]
