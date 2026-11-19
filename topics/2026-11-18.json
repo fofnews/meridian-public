@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Pretty Foolish",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "musk",
+      "spending",
+      "foolish",
+      "midterms",
+      "pretty",
+      "elon"
+    ]
+  },
+  {
     "label": "China Ahead",
     "count": 7,
     "sources": 5,
@@ -88,19 +101,6 @@
       "extends",
       "block",
       "construction"
-    ]
-  },
-  {
-    "label": "Pretty Foolish",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "musk",
-      "spending",
-      "foolish",
-      "midterms",
-      "pretty",
-      "elon"
     ]
   }
 ]
