@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Trump Putin",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "trump",
+      "putin",
+      "summit",
+      "takeaways",
+      "issue",
+      "point"
+    ]
+  },
+  {
     "label": "Meeting Putin",
     "count": 4,
     "sources": 4,
@@ -88,19 +101,6 @@
       "reuters",
       "summit",
       "friend"
-    ]
-  },
-  {
-    "label": "Ella Langley",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "ella",
-      "langley",
-      "awards",
-      "taylor",
-      "swift",
-      "cma"
     ]
   }
 ]
