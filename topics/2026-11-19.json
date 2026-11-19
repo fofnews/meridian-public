@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Meeting Putin",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "trump",
+      "meeting",
+      "putin",
+      "historic",
+      "behind",
+      "share"
+    ]
+  },
+  {
     "label": "Trump Putin",
     "count": 4,
     "sources": 3,
@@ -88,19 +101,6 @@
       "top",
       "committed",
       "genocide"
-    ]
-  },
-  {
-    "label": "Tech Outages",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "outages",
-      "americans",
-      "tech",
-      "wave",
-      "supplies",
-      "coordinated"
     ]
   }
 ]
