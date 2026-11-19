@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Communications Network",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "communications",
+      "classified",
+      "network",
+      "national",
+      "security",
+      "goes"
+    ]
+  },
+  {
     "label": "Trump Putin",
     "count": 4,
     "sources": 3,
@@ -49,19 +62,6 @@
       "meeting",
       "china",
       "bloomberg"
-    ]
-  },
-  {
-    "label": "Communications Network",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "classified",
-      "communications",
-      "network",
-      "national",
-      "security",
-      "goes"
     ]
   },
   {
