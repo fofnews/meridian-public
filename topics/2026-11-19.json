@@ -1,5 +1,18 @@
 [
   {
+    "label": "Fiona Hippo",
+    "count": 9,
+    "sources": 7,
+    "keywords": [
+      "fiona",
+      "hippo",
+      "hat",
+      "dies",
+      "cincinnati",
+      "zoo"
+    ]
+  },
+  {
     "label": "Against Rohingya",
     "count": 8,
     "sources": 6,
@@ -23,19 +36,6 @@
       "genocide",
       "against",
       "committed"
-    ]
-  },
-  {
-    "label": "Fiona Hippo",
-    "count": 6,
-    "sources": 5,
-    "keywords": [
-      "fiona",
-      "hippo",
-      "hat",
-      "dies",
-      "cincinnati",
-      "zoo"
     ]
   },
   {
