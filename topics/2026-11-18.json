@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Jensen Huang",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "nvidia",
+      "huang",
+      "jensen",
+      "ceo",
+      "return",
+      "scandal"
+    ]
+  },
+  {
     "label": "Air Base",
     "count": 5,
     "sources": 5,
@@ -88,19 +101,6 @@
       "midterms",
       "pretty",
       "elon"
-    ]
-  },
-  {
-    "label": "Bezos Heavily",
-    "count": 5,
-    "sources": 4,
-    "keywords": [
-      "bezos",
-      "heavily",
-      "involved",
-      "bond",
-      "jeff",
-      "james"
     ]
   }
 ]
