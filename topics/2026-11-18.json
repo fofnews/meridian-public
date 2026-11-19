@@ -1,5 +1,18 @@
 [
   {
+    "label": "Light Day",
+    "count": 8,
+    "sources": 7,
+    "keywords": [
+      "voyager",
+      "light",
+      "day",
+      "one",
+      "earth",
+      "nasa"
+    ]
+  },
+  {
     "label": "Hakeem Jeffries",
     "count": 8,
     "sources": 7,
@@ -10,19 +23,6 @@
       "house",
       "nominate",
       "hakeem"
-    ]
-  },
-  {
-    "label": "Light Day",
-    "count": 7,
-    "sources": 7,
-    "keywords": [
-      "voyager",
-      "light",
-      "day",
-      "one",
-      "earth",
-      "nasa"
     ]
   },
   {
