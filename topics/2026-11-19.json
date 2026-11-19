@@ -1,5 +1,18 @@
 [
   {
+    "label": "Genocide Case",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "myanmar",
+      "genocide",
+      "case",
+      "court",
+      "rohingya",
+      "against"
+    ]
+  },
+  {
     "label": "Trump Putin",
     "count": 4,
     "sources": 3,
@@ -23,19 +36,6 @@
       "national",
       "security",
       "goes"
-    ]
-  },
-  {
-    "label": "Genocide Case",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "myanmar",
-      "genocide",
-      "case",
-      "court",
-      "rohingya",
-      "against"
     ]
   },
   {
