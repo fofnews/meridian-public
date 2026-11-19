@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Pete Rose",
+    "count": 7,
+    "sources": 7,
+    "keywords": [
+      "trump",
+      "pete",
+      "rose",
+      "mlb",
+      "posthumously",
+      "hits"
+    ]
+  },
+  {
     "label": "Against Rohingya",
     "count": 8,
     "sources": 6,
@@ -36,19 +49,6 @@
       "genocide",
       "against",
       "committed"
-    ]
-  },
-  {
-    "label": "Pete Rose",
-    "count": 6,
-    "sources": 6,
-    "keywords": [
-      "trump",
-      "pete",
-      "rose",
-      "mlb",
-      "posthumously",
-      "pardons"
     ]
   },
   {
