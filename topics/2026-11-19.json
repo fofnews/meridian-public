@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "China Reuters",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "putin",
+      "trump",
+      "china",
+      "reuters",
+      "summit",
+      "friend"
+    ]
+  },
+  {
     "label": "Bloomberg Reporter",
     "count": 4,
     "sources": 3,
@@ -52,6 +65,19 @@
     ]
   },
   {
+    "label": "Jensen Huang",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "jensen",
+      "huang",
+      "trump",
+      "china",
+      "reporter",
+      "summit"
+    ]
+  },
+  {
     "label": "Elon Musk",
     "count": 3,
     "sources": 3,
@@ -75,32 +101,6 @@
       "villa",
       "once",
       "hosted"
-    ]
-  },
-  {
-    "label": "Time Week",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "bridge",
-      "time",
-      "week",
-      "crimean",
-      "ukraine",
-      "strikes"
-    ]
-  },
-  {
-    "label": "Trump Meets",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "trump",
-      "china",
-      "meets",
-      "putin",
-      "trilateral",
-      "russia"
     ]
   }
 ]
