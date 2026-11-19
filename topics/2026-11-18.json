@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Pretty Foolish",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "musk",
+      "spending",
+      "foolish",
+      "midterms",
+      "pretty",
+      "elon"
+    ]
+  },
+  {
     "label": "Grand Theft",
     "count": 5,
     "sources": 4,
@@ -88,19 +101,6 @@
       "astonishing",
       "american",
       "epic"
-    ]
-  },
-  {
-    "label": "High Stakes",
-    "count": 5,
-    "sources": 4,
-    "keywords": [
-      "trump",
-      "putin",
-      "high",
-      "stakes",
-      "china",
-      "summit"
     ]
   }
 ]
