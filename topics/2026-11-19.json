@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Top Court",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "court",
+      "myanmar",
+      "rohingya",
+      "top",
+      "committed",
+      "genocide"
+    ]
+  },
+  {
     "label": "Tech Outages",
     "count": 4,
     "sources": 3,
@@ -88,19 +101,6 @@
       "wave",
       "supplies",
       "coordinated"
-    ]
-  },
-  {
-    "label": "Jensen Huang",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "jensen",
-      "huang",
-      "trump",
-      "china",
-      "reporter",
-      "summit"
     ]
   }
 ]
