@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Pete Rose",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "trump",
+      "pete",
+      "rose",
+      "mlb",
+      "posthumously",
+      "pardons"
+    ]
+  },
+  {
     "label": "Trump Putin",
     "count": 5,
     "sources": 5,
@@ -49,19 +62,6 @@
       "china",
       "winners",
       "losers"
-    ]
-  },
-  {
-    "label": "Pete Rose",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "trump",
-      "pete",
-      "rose",
-      "mlb",
-      "posthumously",
-      "pardon"
     ]
   },
   {
