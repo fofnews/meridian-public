@@ -1,5 +1,18 @@
 [
   {
+    "label": "Trump Putin",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "trump",
+      "putin",
+      "meeting",
+      "ukraine",
+      "great",
+      "relationship"
+    ]
+  },
+  {
     "label": "Communications Network",
     "count": 3,
     "sources": 3,
@@ -10,19 +23,6 @@
       "national",
       "security",
       "goes"
-    ]
-  },
-  {
-    "label": "Trump Putin",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "trump",
-      "putin",
-      "meeting",
-      "ukraine",
-      "far",
-      "europe"
     ]
   },
   {
