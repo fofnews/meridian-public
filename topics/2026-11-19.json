@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Pete Rose",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "trump",
+      "pete",
+      "rose",
+      "mlb",
+      "posthumously",
+      "pardon"
+    ]
+  },
+  {
     "label": "Trump Calls",
     "count": 5,
     "sources": 4,
@@ -88,19 +101,6 @@
       "danish",
       "lawmakers",
       "parliament"
-    ]
-  },
-  {
-    "label": "Trump Putin",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "trump",
-      "putin",
-      "summit",
-      "takeaways",
-      "issue",
-      "point"
     ]
   }
 ]
