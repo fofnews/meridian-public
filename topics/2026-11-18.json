@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Judge Extends",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "judge",
+      "trump",
+      "arch",
+      "extends",
+      "block",
+      "construction"
+    ]
+  },
+  {
     "label": "Grand Theft",
     "count": 5,
     "sources": 4,
@@ -88,19 +101,6 @@
       "stakes",
       "china",
       "summit"
-    ]
-  },
-  {
-    "label": "Jensen Huang",
-    "count": 5,
-    "sources": 4,
-    "keywords": [
-      "nvidia",
-      "huang",
-      "jensen",
-      "ceo",
-      "scandal",
-      "return"
     ]
   }
 ]
