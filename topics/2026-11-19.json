@@ -80,27 +80,27 @@
   {
     "label": "Trump Putin",
     "count": 4,
-    "sources": 3,
+    "sources": 4,
     "keywords": [
       "trump",
       "putin",
-      "meeting",
-      "ukraine",
-      "great",
-      "relationship"
+      "summit",
+      "china",
+      "winners",
+      "losers"
     ]
   },
   {
-    "label": "China Reuters",
+    "label": "Troy Aikman",
     "count": 4,
-    "sources": 3,
+    "sources": 4,
     "keywords": [
-      "putin",
-      "trump",
-      "china",
-      "reuters",
-      "summit",
-      "friend"
+      "troy",
+      "aikman",
+      "joe",
+      "buck",
+      "one",
+      "man"
     ]
   }
 ]
