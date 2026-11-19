@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Trump Putin",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "trump",
+      "putin",
+      "meeting",
+      "trilateral",
+      "begins",
+      "greets"
+    ]
+  },
+  {
     "label": "Security Deal",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "danish",
       "lawmakers",
       "approve"
-    ]
-  },
-  {
-    "label": "China Reuters",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "putin",
-      "china",
-      "trump",
-      "reuters",
-      "summit",
-      "blast"
     ]
   }
 ]
