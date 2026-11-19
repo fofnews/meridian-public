@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Fiona Hippo",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "fiona",
+      "hippo",
+      "hat",
+      "cincinnati",
+      "zoo",
+      "dies"
+    ]
+  },
+  {
     "label": "Security Deal",
     "count": 4,
     "sources": 4,
@@ -88,19 +101,6 @@
       "takeaways",
       "issue",
       "point"
-    ]
-  },
-  {
-    "label": "Meeting Putin",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "trump",
-      "meeting",
-      "putin",
-      "historic",
-      "behind",
-      "share"
     ]
   }
 ]
