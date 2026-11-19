@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Trump Putin",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "trump",
+      "putin",
+      "nuclear",
+      "ukraine",
+      "meeting",
+      "wants"
+    ]
+  },
+  {
     "label": "Elon Musk",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "spending",
       "feels",
       "pretty"
-    ]
-  },
-  {
-    "label": "Trump Putin",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "trump",
-      "putin",
-      "meet",
-      "villa",
-      "once",
-      "hosted"
     ]
   }
 ]
