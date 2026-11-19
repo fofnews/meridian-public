@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Ella Langley",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "ella",
+      "langley",
+      "awards",
+      "taylor",
+      "swift",
+      "cma"
+    ]
+  },
+  {
     "label": "Bloomberg Reporter",
     "count": 4,
     "sources": 3,
@@ -88,19 +101,6 @@
       "meeting",
       "china",
       "bloomberg"
-    ]
-  },
-  {
-    "label": "Top Court",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "court",
-      "myanmar",
-      "rohingya",
-      "top",
-      "committed",
-      "genocide"
     ]
   }
 ]
