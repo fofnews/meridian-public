@@ -53,15 +53,28 @@
   },
   {
     "label": "Against York",
-    "count": 6,
-    "sources": 5,
+    "count": 7,
+    "sources": 6,
     "keywords": [
       "trump",
       "against",
       "judge",
       "york",
       "times",
-      "case"
+      "proceed"
+    ]
+  },
+  {
+    "label": "National Cyber",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "national",
+      "cyber",
+      "director",
+      "white",
+      "house",
+      "leaving"
     ]
   },
   {
@@ -88,19 +101,6 @@
       "china",
       "winners",
       "losers"
-    ]
-  },
-  {
-    "label": "Trump Calls",
-    "count": 5,
-    "sources": 4,
-    "keywords": [
-      "trump",
-      "calls",
-      "apec",
-      "putin",
-      "nuclear",
-      "summit"
     ]
   }
 ]
