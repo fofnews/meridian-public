@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Against York",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "trump",
+      "against",
+      "judge",
+      "york",
+      "times",
+      "case"
+    ]
+  },
+  {
     "label": "Trump Calls",
     "count": 5,
     "sources": 4,
@@ -88,19 +101,6 @@
       "national",
       "security",
       "goes"
-    ]
-  },
-  {
-    "label": "Security Deal",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "security",
-      "deal",
-      "greenland",
-      "danish",
-      "lawmakers",
-      "parliament"
     ]
   }
 ]
