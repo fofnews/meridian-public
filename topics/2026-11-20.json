@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Historic Putin",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "trump",
+      "putin",
+      "historic",
+      "talks",
+      "ukraine",
+      "war"
+    ]
+  },
+  {
     "label": "News Conference",
     "count": 6,
     "sources": 4,
@@ -88,19 +101,6 @@
       "ukraine",
       "hours",
       "china"
-    ]
-  },
-  {
-    "label": "Magnitude Earthquake",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "magnitude",
-      "earthquake",
-      "los",
-      "angeles",
-      "near",
-      "county"
     ]
   }
 ]
