@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "News Conference",
+    "count": 7,
+    "sources": 5,
+    "keywords": [
+      "trump",
+      "news",
+      "conference",
+      "trip",
+      "asia",
+      "watch"
+    ]
+  },
+  {
     "label": "Nato Like",
     "count": 6,
     "sources": 5,
@@ -75,19 +88,6 @@
       "talks",
       "ukraine",
       "war"
-    ]
-  },
-  {
-    "label": "News Conference",
-    "count": 6,
-    "sources": 4,
-    "keywords": [
-      "trump",
-      "news",
-      "conference",
-      "trip",
-      "watch",
-      "live"
     ]
   },
   {
