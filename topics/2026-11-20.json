@@ -1,5 +1,18 @@
 [
   {
+    "label": "Texas Execution",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "texas",
+      "execution",
+      "hour",
+      "staff",
+      "find",
+      "takes"
+    ]
+  },
+  {
     "label": "Nato Like",
     "count": 4,
     "sources": 3,
@@ -26,16 +39,29 @@
     ]
   },
   {
-    "label": "Takes Hour",
+    "label": "Magnitude Earthquake",
     "count": 3,
     "sources": 3,
     "keywords": [
-      "texas",
-      "execution",
-      "hour",
-      "staff",
-      "find",
-      "takes"
+      "magnitude",
+      "earthquake",
+      "near",
+      "los",
+      "angeles",
+      "strikes"
+    ]
+  },
+  {
+    "label": "Anthropic Ipo",
+    "count": 3,
+    "sources": 2,
+    "keywords": [
+      "anthropic",
+      "ipo",
+      "record",
+      "newsmax",
+      "millionaires",
+      "price"
     ]
   }
 ]
