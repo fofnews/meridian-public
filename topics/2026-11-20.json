@@ -1,15 +1,28 @@
 [
   {
     "label": "Rikers Island",
-    "count": 6,
-    "sources": 6,
+    "count": 7,
+    "sources": 7,
     "keywords": [
       "plan",
       "rikers",
       "island",
       "mamdani",
-      "announces",
-      "close"
+      "close",
+      "announces"
+    ]
+  },
+  {
+    "label": "White House",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "cyber",
+      "outages",
+      "white",
+      "house",
+      "tech",
+      "chief"
     ]
   },
   {
@@ -23,19 +36,6 @@
       "staff",
       "find",
       "reinaldo"
-    ]
-  },
-  {
-    "label": "White House",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "cyber",
-      "outages",
-      "white",
-      "house",
-      "tech",
-      "director"
     ]
   },
   {
