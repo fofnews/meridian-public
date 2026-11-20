@@ -1,5 +1,18 @@
 [
   {
+    "label": "Rikers Island",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "plan",
+      "rikers",
+      "island",
+      "mamdani",
+      "announces",
+      "close"
+    ]
+  },
+  {
     "label": "Nato Like",
     "count": 5,
     "sources": 4,
@@ -36,19 +49,6 @@
       "angeles",
       "near",
       "county"
-    ]
-  },
-  {
-    "label": "Rikers Island",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "plan",
-      "rikers",
-      "island",
-      "mamdani",
-      "announces",
-      "city"
     ]
   },
   {
