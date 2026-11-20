@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Security Deal",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "deal",
+      "greenland",
+      "danish",
+      "security",
+      "parliament",
+      "approves"
+    ]
+  },
+  {
     "label": "Trump Putin",
     "count": 5,
     "sources": 5,
@@ -88,19 +101,6 @@
       "putin",
       "nuclear",
       "summit"
-    ]
-  },
-  {
-    "label": "National Cyber",
-    "count": 5,
-    "sources": 4,
-    "keywords": [
-      "national",
-      "cyber",
-      "director",
-      "white",
-      "house",
-      "leaving"
     ]
   }
 ]
