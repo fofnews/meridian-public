@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Senate Passes",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "senate",
+      "bill",
+      "energy",
+      "speed",
+      "passes",
+      "permitting"
+    ]
+  },
+  {
     "label": "White House",
     "count": 6,
     "sources": 6,
@@ -36,19 +49,6 @@
       "kushner",
       "like",
       "guarantees"
-    ]
-  },
-  {
-    "label": "Senate Passes",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "senate",
-      "bill",
-      "energy",
-      "passes",
-      "speed",
-      "permitting"
     ]
   },
   {
