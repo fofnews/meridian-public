@@ -1,5 +1,18 @@
 [
   {
+    "label": "Rikers Island",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "plan",
+      "rikers",
+      "island",
+      "mamdani",
+      "announces",
+      "close"
+    ]
+  },
+  {
     "label": "White House",
     "count": 5,
     "sources": 5,
@@ -13,19 +26,6 @@
     ]
   },
   {
-    "label": "Rikers Island",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "plan",
-      "rikers",
-      "island",
-      "mamdani",
-      "announces",
-      "close"
-    ]
-  },
-  {
     "label": "Nato Like",
     "count": 5,
     "sources": 4,
@@ -36,6 +36,19 @@
       "kushner",
       "like",
       "guarantees"
+    ]
+  },
+  {
+    "label": "Senate Passes",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "senate",
+      "bill",
+      "energy",
+      "passes",
+      "speed",
+      "permitting"
     ]
   },
   {
@@ -78,29 +91,16 @@
     ]
   },
   {
-    "label": "Senate Passes",
+    "label": "Grand Theft",
     "count": 3,
     "sources": 3,
     "keywords": [
-      "senate",
-      "passes",
-      "bill",
-      "energy",
-      "speed",
-      "projects"
-    ]
-  },
-  {
-    "label": "Russia Trump",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "russia",
-      "trump",
-      "putin",
-      "china",
-      "summit",
-      "ukraine"
+      "grand",
+      "theft",
+      "auto",
+      "records",
+      "astonishing",
+      "american"
     ]
   }
 ]
