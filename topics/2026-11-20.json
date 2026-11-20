@@ -1,5 +1,18 @@
 [
   {
+    "label": "Nato Like",
+    "count": 5,
+    "sources": 4,
+    "keywords": [
+      "nato",
+      "security",
+      "ukraine",
+      "kushner",
+      "like",
+      "guarantees"
+    ]
+  },
+  {
     "label": "Texas Execution",
     "count": 4,
     "sources": 4,
@@ -13,16 +26,29 @@
     ]
   },
   {
-    "label": "Nato Like",
+    "label": "Magnitude Earthquake",
     "count": 4,
-    "sources": 3,
+    "sources": 4,
     "keywords": [
-      "nato",
-      "security",
-      "ukraine",
-      "kushner",
-      "like",
-      "guarantees"
+      "magnitude",
+      "earthquake",
+      "los",
+      "angeles",
+      "near",
+      "county"
+    ]
+  },
+  {
+    "label": "Rikers Island",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "plan",
+      "rikers",
+      "island",
+      "mamdani",
+      "announces",
+      "city"
     ]
   },
   {
@@ -62,32 +88,6 @@
       "white",
       "house",
       "tech"
-    ]
-  },
-  {
-    "label": "Magnitude Earthquake",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "magnitude",
-      "earthquake",
-      "near",
-      "los",
-      "angeles",
-      "strikes"
-    ]
-  },
-  {
-    "label": "Rikers Island",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "plan",
-      "city",
-      "rikers",
-      "island",
-      "mayor",
-      "mamdani"
     ]
   },
   {
