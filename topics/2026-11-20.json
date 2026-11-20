@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Hours Trump",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "trump",
+      "russia",
+      "putin",
+      "ukraine",
+      "hours",
+      "china"
+    ]
+  },
+  {
     "label": "Magnitude Earthquake",
     "count": 4,
     "sources": 4,
@@ -88,19 +101,6 @@
       "hippo",
       "hat",
       "hopes"
-    ]
-  },
-  {
-    "label": "Grand Theft",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "grand",
-      "theft",
-      "auto",
-      "records",
-      "astonishing",
-      "american"
     ]
   }
 ]
