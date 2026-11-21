@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Trump Orders",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "trump",
+      "contractors",
+      "congressional",
+      "orders",
+      "alert",
+      "probes"
+    ]
+  },
+  {
     "label": "Struck Drones",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "fire",
       "deadly",
       "2025"
-    ]
-  },
-  {
-    "label": "Serious Car",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "titans",
-      "hospitalized",
-      "serious",
-      "car",
-      "jaylen",
-      "harrell"
     ]
   }
 ]
