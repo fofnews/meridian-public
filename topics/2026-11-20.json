@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Palisades Fire",
+    "count": 7,
+    "sources": 7,
+    "keywords": [
+      "guilty",
+      "palisades",
+      "fire",
+      "found",
+      "man",
+      "blaze"
+    ]
+  },
+  {
     "label": "Senate Passes",
     "count": 6,
     "sources": 6,
@@ -36,19 +49,6 @@
       "house",
       "tech",
       "chief"
-    ]
-  },
-  {
-    "label": "Palisades Fire",
-    "count": 6,
-    "sources": 6,
-    "keywords": [
-      "guilty",
-      "palisades",
-      "fire",
-      "found",
-      "man",
-      "blaze"
     ]
   },
   {
