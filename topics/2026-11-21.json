@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Trump Orders",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "trump",
+      "contractors",
+      "congressional",
+      "orders",
+      "alert",
+      "white"
+    ]
+  },
+  {
     "label": "Crime Database",
     "count": 4,
     "sources": 4,
@@ -62,19 +75,6 @@
       "ukrainian",
       "soil",
       "accuses"
-    ]
-  },
-  {
-    "label": "Trump Orders",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "trump",
-      "contractors",
-      "congressional",
-      "orders",
-      "alert",
-      "probes"
     ]
   },
   {
