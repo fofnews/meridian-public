@@ -1,15 +1,15 @@
 [
   {
     "label": "Rikers Island",
-    "count": 9,
-    "sources": 9,
+    "count": 10,
+    "sources": 10,
     "keywords": [
       "plan",
       "rikers",
       "island",
       "mamdani",
       "close",
-      "announces"
+      "jail"
     ]
   },
   {
@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Palisades Fire",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "guilty",
+      "palisades",
+      "fire",
+      "found",
+      "man",
+      "blaze"
+    ]
+  },
+  {
     "label": "News Conference",
     "count": 7,
     "sources": 5,
@@ -65,6 +78,19 @@
     ]
   },
   {
+    "label": "Palisades Fire",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "palisades",
+      "retrial",
+      "fire",
+      "verdict",
+      "2025",
+      "man"
+    ]
+  },
+  {
     "label": "Texas Execution",
     "count": 5,
     "sources": 5,
@@ -75,32 +101,6 @@
       "staff",
       "find",
       "reinaldo"
-    ]
-  },
-  {
-    "label": "Historic Putin",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "trump",
-      "putin",
-      "historic",
-      "talks",
-      "ukraine",
-      "war"
-    ]
-  },
-  {
-    "label": "Data Centers",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "trump",
-      "data",
-      "centers",
-      "overseas",
-      "threatens",
-      "companies"
     ]
   }
 ]
