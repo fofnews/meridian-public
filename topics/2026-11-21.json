@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "label": "Trump Calls",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "trump",
+      "putin",
+      "calls",
+      "news",
+      "friends",
+      "meeting"
+    ]
+  },
+  {
+    "label": "Killer Robots",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "agree",
+      "talks",
+      "killer",
+      "robots",
+      "2028",
+      "nations"
+    ]
+  }
+]
