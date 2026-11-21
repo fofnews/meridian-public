@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Palisades Fire",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "man",
+      "starting",
+      "palisades",
+      "fire",
+      "deadly",
+      "2025"
+    ]
+  },
+  {
     "label": "Power Station",
     "count": 3,
     "sources": 2,
@@ -88,19 +101,6 @@
       "iraq",
       "least",
       "basra"
-    ]
-  },
-  {
-    "label": "Top Drug",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "drug",
-      "top",
-      "kingpin",
-      "mexican",
-      "chapo",
-      "isidro"
     ]
   }
 ]
