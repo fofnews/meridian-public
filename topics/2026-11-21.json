@@ -1,5 +1,18 @@
 [
   {
+    "label": "Fbi Wanted",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "fbi",
+      "wanted",
+      "mexico",
+      "cartel",
+      "chapo",
+      "isidro"
+    ]
+  },
+  {
     "label": "Trump Calls",
     "count": 3,
     "sources": 3,
@@ -23,19 +36,6 @@
       "robots",
       "2028",
       "nations"
-    ]
-  },
-  {
-    "label": "Fbi Wanted",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "fbi",
-      "wanted",
-      "mexico",
-      "cartel",
-      "chapo",
-      "isidro"
     ]
   },
   {
