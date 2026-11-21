@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Crime Database",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "fbi",
+      "breach",
+      "crime",
+      "database",
+      "probes",
+      "national"
+    ]
+  },
+  {
     "label": "Trump Calls",
     "count": 3,
     "sources": 3,
@@ -52,16 +65,16 @@
     ]
   },
   {
-    "label": "Crime Database",
+    "label": "Struck Drones",
     "count": 3,
     "sources": 3,
     "keywords": [
-      "fbi",
-      "breach",
-      "crime",
-      "database",
-      "probes",
-      "looking"
+      "russia",
+      "finland",
+      "struck",
+      "drones",
+      "bound",
+      "ship"
     ]
   },
   {
