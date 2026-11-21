@@ -24,5 +24,18 @@
       "2028",
       "nations"
     ]
+  },
+  {
+    "label": "Power Station",
+    "count": 3,
+    "sources": 2,
+    "keywords": [
+      "fire",
+      "power",
+      "station",
+      "iraq",
+      "least",
+      "basra"
+    ]
   }
 ]
