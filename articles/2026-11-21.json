@@ -3368,5 +3368,104 @@
     "categories": [],
     "collectRun": "2026-11-21T14:30:00.000Z",
     "collectedAt": "2026-11-21T14:30:01.746Z"
+  },
+  {
+    "title": "Serious crash closes M42 near Birmingham Airport",
+    "description": "Drivers describe seeing a \"huge fire\" from cars on the M42 motorway.",
+    "link": "https://www.bbc.co.uk/news/articles/c8vg2pd5707wo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sat, 21 Nov 2026 14:10:59 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectRun": "2026-11-21T14:45:00.000Z",
+    "collectedAt": "2026-11-21T14:45:01.470Z"
+  },
+  {
+    "title": "High school football team cooks up one of the most diabolical trick plays of all time in state title romp",
+    "description": "The Darlington Redbirds pulled off a flawless hook and lateral for a touchdown while destroying New Glarus on their way to a state championship.",
+    "link": "https://www.foxnews.com/outkick-sports/high-school-football-team-cooks-one-most-diabolical-trick-plays-all-time-state-title-romp",
+    "pubDate": "Sat, 21 Nov 2026 09:34:45 -0500",
+    "source": "Fox News",
+    "categories": [
+      "5095930a-a99b-5d36-bffb-248d044c0a25",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/us/us-regions/midwest/wisconsin",
+      "fox-news/sports/ncaa-fb",
+      "fox-news/us/education/high-school",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectRun": "2026-11-21T14:45:00.000Z",
+    "collectedAt": "2026-11-21T14:45:01.470Z"
+  },
+  {
+    "title": "Denmark accuses Russia of plotting to kill Ukrainian American rapper on Danish soil",
+    "description": "Denmark's PET accuses Russia of an assassination plot against Kyivstoner, expelling Moscow's defense attache as two gang-affiliated men plead guilty.",
+    "link": "https://www.foxnews.com/world/denmark-accuses-russia-plotting-kill-ukrainian-american-rapper-danish-soil",
+    "pubDate": "Sat, 21 Nov 2026 09:28:35 -0500",
+    "source": "Fox News",
+    "categories": [
+      "72eaf099-64d8-5fab-8e25-8bf14e7c2b0b",
+      "fnc",
+      "fox news",
+      "fox-news/world/world-regions/russia",
+      "fox-news/topic/the-european-union",
+      "fox-news/us/terror/assassinations-murders",
+      "fox-news/world/conflicts/ukraine",
+      "fox-news/world",
+      "article"
+    ],
+    "collectRun": "2026-11-21T14:45:00.000Z",
+    "collectedAt": "2026-11-21T14:45:01.470Z"
+  },
+  {
+    "title": "Two tankers hit in Strait of Hormuz as hawks press Trump to resume Iran strikes",
+    "description": "Two tankers were reportedly struck by projectiles near the Strait of Hormuz Saturday, raising fears of a new escalation in the crucial oil-shipping corridor as Israel presses President Trump to renew major attacks on Iran.",
+    "link": "https://nypost.com/2026/11/21/world-news/two-tankers-hit-in-strait-of-hormuz-as-hawks-press-trump-to-resume-iran-strikes/",
+    "pubDate": "Sat, 21 Nov 2026 09:40:55 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-21T14:45:00.000Z",
+    "collectedAt": "2026-11-21T14:45:01.470Z"
+  },
+  {
+    "title": "Artist paints picture of Statue of Liberty in 43.5 seconds, jaw-dropping video shows",
+    "description": "Things really do move fast in NYC. A performance artist painted a stunningly realistic picture of the Statue of Liberty in a jaw-dropping 43.5 seconds in front of an awestruck crowd in Brooklyn this week.",
+    "link": "https://nypost.com/2026/11/21/us-news/artist-paints-picture-of-statue-of-liberty-in-43-5-seconds-jaw-dropping-video/",
+    "pubDate": "Sat, 21 Nov 2026 09:39:47 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-21T14:45:00.000Z",
+    "collectedAt": "2026-11-21T14:45:01.470Z"
+  },
+  {
+    "title": "A-Rod’s ex, Kat Padgett, getting married as she celebrates with wild bachelorette party",
+    "description": "The wedding bells are ringing for Kathryne Padgett.",
+    "link": "https://nypost.com/2026/11/21/sports/a-rods-ex-kathryne-padgett-getting-married-celebrates-with-wild-bachelorette-party/",
+    "pubDate": "Sat, 21 Nov 2026 09:30:00 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-21T14:45:00.000Z",
+    "collectedAt": "2026-11-21T14:45:01.470Z"
+  },
+  {
+    "title": "Trump signs order strengthening White House control over information to Congress ahead of Democrat majorities",
+    "description": "President Donald Trump signed an executive order on Friday to fortify the White House against expected weaponization in the upcoming Democrat-controlled Congress. The executive order applies to confidential information about federal contractors that may be subject to congressional requests. Seeking such information about the executive branch is limited, the order asserts, and Congress cannot do […]",
+    "link": "https://www.washingtonexaminer.com/news/white-house/4811048/trump-order-white-house-control-information-congress/",
+    "pubDate": "Sat, 21 Nov 2026 14:30:07 +0000",
+    "source": "Washington Examiner",
+    "categories": [
+      "white house",
+      "congress",
+      "democratic party",
+      "donald trump",
+      "executive branch",
+      "executive orders",
+      "government contractors",
+      "house oversight committee"
+    ],
+    "collectRun": "2026-11-21T14:45:00.000Z",
+    "collectedAt": "2026-11-21T14:45:01.470Z"
   }
 ]
