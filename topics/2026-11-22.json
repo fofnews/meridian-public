@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Virginia Foxx",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "foxx",
+      "hubbard",
+      "virginia",
+      "democrat",
+      "chuck",
+      "defeats"
+    ]
+  },
+  {
     "label": "Drone Attack",
     "count": 8,
     "sources": 4,
@@ -62,19 +75,6 @@
       "legend",
       "former",
       "star"
-    ]
-  },
-  {
-    "label": "Virginia Foxx",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "foxx",
-      "democrat",
-      "hubbard",
-      "virginia",
-      "race",
-      "chuck"
     ]
   },
   {
