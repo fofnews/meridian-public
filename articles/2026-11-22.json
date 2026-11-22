@@ -779,5 +779,64 @@
     "categories": [],
     "collectRun": "2026-11-22T09:00:00.000Z",
     "collectedAt": "2026-11-22T09:00:01.657Z"
+  },
+  {
+    "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+    "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+    "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 22 Nov 2026 07:12:41 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectRun": "2026-11-22T09:15:00.000Z",
+    "collectedAt": "2026-11-22T09:15:03.188Z"
+  },
+  {
+    "title": "Miley Cyrus marries Maxx Morando in California ceremony",
+    "description": "The couple have been together for four years and were engaged in 2025.",
+    "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 22 Nov 2026 08:46:28 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectRun": "2026-11-22T09:15:00.000Z",
+    "collectedAt": "2026-11-22T09:15:03.188Z"
+  },
+  {
+    "title": "Could Draining Lake Powell Really Save Lake Mead?",
+    "description": "A proposal to make Lake Mead the Colorado River's primary reservoir is drawing debate as Mead and Powell remain near record lows.",
+    "link": "https://www.newsweek.com/could-draining-lake-powell-save-lake-mead-12749159",
+    "pubDate": "Sun, 22 Nov 2026 04:00:00 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-22T09:15:00.000Z",
+    "collectedAt": "2026-11-22T09:15:03.188Z"
+  },
+  {
+    "title": "How Florida’s Property Tax Overhaul Could Come Back to Haunt DeSantis",
+    "description": "The Republican governor has taken credit for spearheading Florida’s property tax reform. Would he take the blame if it goes wrong?",
+    "link": "https://www.newsweek.com/how-floridas-property-tax-overhaul-could-come-back-to-haunt-desantis-12726771",
+    "pubDate": "Sun, 22 Nov 2026 04:00:00 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-22T09:15:00.000Z",
+    "collectedAt": "2026-11-22T09:15:03.188Z"
+  },
+  {
+    "title": "The Pennsylvania farm behind a White House Thanksgiving turkey tradition",
+    "description": "For more than six decades, Jaindl Farms in Orefield, Pennsylvania, has supplied turkeys to presidents for the White House Thanksgiving meal. FOX's Pete Cuddihy visits the family-owned farm behind the presidential tradition.",
+    "link": "https://www.foxnews.com/culture/jaindl-farms-white-house-thanksgiving-turkeys",
+    "pubDate": "Sun, 22 Nov 2026 03:55:01 -0500",
+    "source": "Fox News",
+    "categories": [
+      "23a8b6bf-322b-5067-b6e0-6df0e96389b9",
+      "fnc",
+      "fox news",
+      "fox-news/lifestyle/occasions/holiday",
+      "fox-news/lifestyle/occasions/thanksgiving",
+      "fox-news/politics/executive/white-house",
+      "fox-news/culture",
+      "article"
+    ],
+    "collectRun": "2026-11-22T09:15:00.000Z",
+    "collectedAt": "2026-11-22T09:15:03.188Z"
   }
 ]
