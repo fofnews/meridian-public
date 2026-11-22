@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Senate Majority",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "senate",
+      "trump",
+      "schumer",
+      "majority",
+      "leader",
+      "hard"
+    ]
+  },
+  {
     "label": "Cop31 Climate",
     "count": 4,
     "sources": 3,
@@ -52,6 +65,19 @@
     ]
   },
   {
+    "label": "Answers Nvidia",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "bessent",
+      "nvidia",
+      "answers",
+      "china",
+      "chips",
+      "trump"
+    ]
+  },
+  {
     "label": "Calling Putin",
     "count": 3,
     "sources": 3,
@@ -75,32 +101,6 @@
       "global",
       "luxury",
       "brand"
-    ]
-  },
-  {
-    "label": "Verstappen Wins",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "verstappen",
-      "wins",
-      "las",
-      "vegas",
-      "third",
-      "time"
-    ]
-  },
-  {
-    "label": "Miley Cyrus",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "miley",
-      "cyrus",
-      "maxx",
-      "morando",
-      "california",
-      "marries"
     ]
   }
 ]
