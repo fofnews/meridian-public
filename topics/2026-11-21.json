@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Jaylen Harrell",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "titans",
+      "serious",
+      "jaylen",
+      "harrell",
+      "hospitalized",
+      "car"
+    ]
+  },
+  {
     "label": "Trump Calls",
     "count": 3,
     "sources": 3,
@@ -78,29 +91,16 @@
     ]
   },
   {
-    "label": "Anthropic Worker",
+    "label": "Apparent Hack",
     "count": 3,
     "sources": 3,
     "keywords": [
-      "anthropic",
-      "solved",
-      "problems",
-      "worker",
-      "holy",
-      "grail"
-    ]
-  },
-  {
-    "label": "Kill Ukrainian",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "denmark",
-      "russia",
-      "kill",
-      "ukrainian",
-      "soil",
-      "accuses"
+      "fbi",
+      "hack",
+      "database",
+      "apparent",
+      "crime",
+      "reportedly"
     ]
   }
 ]
