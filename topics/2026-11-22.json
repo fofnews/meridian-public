@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Calling Putin",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "friend",
+      "trump",
+      "calling",
+      "putin",
+      "defends",
+      "clayton"
+    ]
+  },
+  {
     "label": "Paolo Bulgari",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "morando",
       "california",
       "marries"
-    ]
-  },
-  {
-    "label": "Army Plans",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "army",
-      "detonation",
-      "plans",
-      "iowa",
-      "despite",
-      "indefinite"
     ]
   }
 ]
