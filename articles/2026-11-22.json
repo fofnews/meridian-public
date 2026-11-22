@@ -1628,5 +1628,57 @@
     ],
     "collectRun": "2026-11-22T12:15:00.000Z",
     "collectedAt": "2026-11-22T12:15:01.410Z"
+  },
+  {
+    "title": "This 48-pack of batteries is almost 50% off",
+    "description": "Amazon has a 48-count Energizer Max AA and AAA battery combo pack for 44% off, bringing the price to under 50 cents per battery. Here’s what to know.",
+    "link": "https://www.nbcnews.com/select/shopping/energizer-battery-deal-of-the-day-rcna610646",
+    "pubDate": "Sun, 22 Nov 2026 12:00:00 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectRun": "2026-11-22T12:30:00.000Z",
+    "collectedAt": "2026-11-22T12:30:01.512Z"
+  },
+  {
+    "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
+    "description": "Tehran has ramped up attacks as the US naval blockade and sanctions campaign hurt the country economically.",
+    "link": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
+    "pubDate": "Sun, 22 Nov 2026 11:46:42 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-11-22T12:30:00.000Z",
+    "collectedAt": "2026-11-22T12:30:01.512Z"
+  },
+  {
+    "title": "COP31 climate deal in the balance after fractious talks - Reuters",
+    "description": "COP31 climate deal in the balance after fractious talks  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc3loZzVPSEw4YTN0RXZEdEpveVFkV0JoU0dtRTktZXR6LS1XVGRNVElxWHpWVUQ3eEhOMllBam9jYlNIX29HeW9ncUwyWkNhenBPcmRZeTNBNmt6MF96SkU5TS1zWUVBSEFOS0FMV1gwVmJoS3c3bGw4TjgwLUU5NTFOUEtzOWx3dy04NkhLMW9CMmJxM1dLeVRBRWMyVl9SY1A3THFB?oc=5",
+    "pubDate": "Sun, 22 Nov 2026 11:28:42 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectRun": "2026-11-22T12:30:00.000Z",
+    "collectedAt": "2026-11-22T12:30:01.512Z"
+  },
+  {
+    "title": "Spacecraft Reaches Mercury After Eight-Year, 6-Billion-Mile Journey",
+    "description": "BepiColombo has reached Mercury after an eight-year journey, paving the way for new research into the mysterious planet.",
+    "link": "https://www.newsweek.com/spacecraft-reaches-mercury-after-eight-year-6-billion-mile-journey-12753502",
+    "pubDate": "Sun, 22 Nov 2026 07:22:00 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-22T12:30:00.000Z",
+    "collectedAt": "2026-11-22T12:30:01.512Z"
+  },
+  {
+    "title": "Nine Shot as Gunfire Erupts at Private Concert in California",
+    "description": "Mass shooting unfolds at a concert attended by more than 100 people, police said",
+    "link": "https://www.newsweek.com/nine-shot-as-gunfire-erupts-at-private-concert-in-california-12753566",
+    "pubDate": "Sun, 22 Nov 2026 07:20:14 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-22T12:30:00.000Z",
+    "collectedAt": "2026-11-22T12:30:01.512Z"
   }
 ]
