@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Army Plans",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "army",
+      "detonation",
+      "plans",
+      "iowa",
+      "despite",
+      "indefinite"
+    ]
+  },
+  {
     "label": "Senate Majority",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "majority",
       "leader",
       "van"
-    ]
-  },
-  {
-    "label": "Tom Jackson",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "tom",
-      "jackson",
-      "broncos",
-      "former",
-      "star",
-      "espn"
     ]
   }
 ]
