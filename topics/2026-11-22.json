@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Virginia Foxx",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "foxx",
+      "democrat",
+      "hubbard",
+      "virginia",
+      "race",
+      "chuck"
+    ]
+  },
+  {
     "label": "Climate Talks",
     "count": 5,
     "sources": 3,
@@ -88,19 +101,6 @@
       "china",
       "chips",
       "trump"
-    ]
-  },
-  {
-    "label": "Calling Putin",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "friend",
-      "trump",
-      "calling",
-      "putin",
-      "defends",
-      "clayton"
     ]
   }
 ]
