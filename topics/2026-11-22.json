@@ -1,5 +1,18 @@
 [
   {
+    "label": "Russian Cargo",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "russian",
+      "ship",
+      "finland",
+      "cargo",
+      "still",
+      "fire"
+    ]
+  },
+  {
     "label": "Fossil Fuel",
     "count": 3,
     "sources": 3,
@@ -36,19 +49,6 @@
       "morando",
       "california",
       "marries"
-    ]
-  },
-  {
-    "label": "Russian Cargo",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "russian",
-      "ship",
-      "finland",
-      "cargo",
-      "still",
-      "fire"
     ]
   }
 ]
