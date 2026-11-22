@@ -1,8 +1,8 @@
 [
   {
-    "label": "Democrats Clinch",
-    "count": 5,
-    "sources": 5,
+    "label": "House Majority",
+    "count": 6,
+    "sources": 6,
     "keywords": [
       "house",
       "democrats",
@@ -13,16 +13,16 @@
     ]
   },
   {
-    "label": "Virginia Foxx",
-    "count": 5,
-    "sources": 5,
+    "label": "Chuck Hubbard",
+    "count": 6,
+    "sources": 6,
     "keywords": [
-      "foxx",
       "hubbard",
-      "virginia",
+      "foxx",
       "democrat",
       "chuck",
-      "defeats"
+      "virginia",
+      "house"
     ]
   },
   {
@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Delta Flights",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "delta",
+      "flights",
+      "delays",
+      "atlanta",
+      "ground",
+      "stop"
+    ]
+  },
+  {
     "label": "Climate Talks",
     "count": 5,
     "sources": 3,
@@ -88,19 +101,6 @@
       "cop31",
       "end",
       "without"
-    ]
-  },
-  {
-    "label": "Cop31 Climate",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "climate",
-      "cop31",
-      "talks",
-      "deal",
-      "fossil",
-      "fuel"
     ]
   }
 ]
