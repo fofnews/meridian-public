@@ -50,5 +50,31 @@
       "california",
       "marries"
     ]
+  },
+  {
+    "label": "Fossil Fuels",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "climate",
+      "fossil",
+      "fuels",
+      "talks",
+      "clash",
+      "collapse"
+    ]
+  },
+  {
+    "label": "Senate Majority",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "senate",
+      "trump",
+      "schumer",
+      "majority",
+      "leader",
+      "van"
+    ]
   }
 ]
