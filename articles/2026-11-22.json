@@ -244,5 +244,46 @@
     "categories": [],
     "collectRun": "2026-11-22T05:00:00.000Z",
     "collectedAt": "2026-11-22T05:00:02.086Z"
+  },
+  {
+    "title": "Jennifer Lopez Feels Like She’s Getting Better at Everything",
+    "description": "After a vulnerable and tumultuous run, the performer is back with a new TV spectacular and hard-earned boundaries.",
+    "link": "https://www.nytimes.com/2026/11/20/arts/music/popcast-interview-jennifer-lopez.html",
+    "pubDate": "Fri, 20 Nov 2026 20:12:35 +0000",
+    "source": "NY Times",
+    "categories": [
+      "vis-photo",
+      "pop and rock music",
+      "content type: personal profile",
+      "television",
+      "lopez, jennifer",
+      "the j. lo show (tv program)",
+      "las vegas (nev)",
+      "cbs corporation",
+      "paramount plus",
+      "internal-open-access-audio"
+    ],
+    "collectRun": "2026-11-22T05:15:00.000Z",
+    "collectedAt": "2026-11-22T05:15:01.720Z"
+  },
+  {
+    "title": "The real people finding their work copied and stolen by AI characters",
+    "description": "Musicians, comedians and dancers are among those finding their videos cloned with AI generated characters.",
+    "link": "https://www.bbc.co.uk/news/articles/cm7527kp4qrpo?at_medium=RSS&at_campaign=rss",
+    "pubDate": "Sun, 22 Nov 2026 05:00:38 GMT",
+    "source": "BBC News",
+    "categories": [],
+    "collectRun": "2026-11-22T05:15:00.000Z",
+    "collectedAt": "2026-11-22T05:15:01.720Z"
+  },
+  {
+    "title": "Islanders confirm Ryan Pulock reinjured surgically repaired shoulder in major blow",
+    "description": "A second aggravation of his shoulder in a matter of weeks signals that it could continue to be an issue for a while.",
+    "link": "https://nypost.com/2026/11/22/sports/islanders-confirm-ryan-pulock-reinjured-surgically-repaired-shoulder/",
+    "pubDate": "Sun, 22 Nov 2026 00:01:04 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-22T05:15:00.000Z",
+    "collectedAt": "2026-11-22T05:15:01.720Z"
   }
 ]
