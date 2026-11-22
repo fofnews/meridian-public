@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Fossil Fuels",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "climate",
+      "fossil",
+      "fuels",
+      "talks",
+      "bitter",
+      "clash"
+    ]
+  },
+  {
     "label": "Cop31 Climate",
     "count": 4,
     "sources": 3,
@@ -62,19 +75,6 @@
       "morando",
       "california",
       "marries"
-    ]
-  },
-  {
-    "label": "Fossil Fuels",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "climate",
-      "fossil",
-      "fuels",
-      "talks",
-      "clash",
-      "collapse"
     ]
   },
   {
