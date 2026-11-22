@@ -89,5 +89,18 @@
       "leader",
       "van"
     ]
+  },
+  {
+    "label": "Ground Stop",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "delta",
+      "flights",
+      "ground",
+      "stop",
+      "delays",
+      "atlanta"
+    ]
   }
 ]
