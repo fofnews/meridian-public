@@ -1,5 +1,18 @@
 [
   {
+    "label": "Democrats Clinch",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "house",
+      "democrats",
+      "majority",
+      "largest",
+      "258",
+      "1992"
+    ]
+  },
+  {
     "label": "Drone Attack",
     "count": 8,
     "sources": 4,
@@ -39,16 +52,16 @@
     ]
   },
   {
-    "label": "Democrats Clinch",
+    "label": "Tom Jackson",
     "count": 4,
     "sources": 4,
     "keywords": [
-      "house",
-      "democrats",
-      "258",
-      "clinch",
-      "seats",
-      "majority"
+      "tom",
+      "jackson",
+      "broncos",
+      "legend",
+      "former",
+      "star"
     ]
   },
   {
@@ -88,19 +101,6 @@
       "deal",
       "fossil",
       "fuel"
-    ]
-  },
-  {
-    "label": "Answers Nvidia",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "bessent",
-      "nvidia",
-      "answers",
-      "china",
-      "chips",
-      "trump"
     ]
   }
 ]
