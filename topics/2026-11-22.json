@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Majority Leader",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "trump",
+      "schumer",
+      "senate",
+      "majority",
+      "leader",
+      "hard"
+    ]
+  },
+  {
     "label": "Drone Attack",
     "count": 9,
     "sources": 4,
@@ -62,19 +75,6 @@
       "ukraine",
       "dni",
       "clayton"
-    ]
-  },
-  {
-    "label": "Senate Majority",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "senate",
-      "trump",
-      "schumer",
-      "majority",
-      "leader",
-      "hard"
     ]
   },
   {
