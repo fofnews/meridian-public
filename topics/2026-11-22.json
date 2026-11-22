@@ -1,15 +1,15 @@
 [
   {
     "label": "House Majority",
-    "count": 6,
-    "sources": 6,
+    "count": 8,
+    "sources": 8,
     "keywords": [
       "house",
       "democrats",
       "majority",
       "largest",
-      "258",
-      "1992"
+      "1992",
+      "since"
     ]
   },
   {
@@ -27,15 +27,15 @@
   },
   {
     "label": "Drone Attack",
-    "count": 8,
+    "count": 9,
     "sources": 4,
     "keywords": [
       "russian",
       "ship",
       "drone",
       "attack",
-      "finland",
-      "libya"
+      "libya",
+      "finland"
     ]
   },
   {
@@ -49,6 +49,19 @@
       "fuels",
       "bitter",
       "clash"
+    ]
+  },
+  {
+    "label": "Putin America",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "putin",
+      "america",
+      "friend",
+      "ukraine",
+      "dni",
+      "clayton"
     ]
   },
   {
@@ -88,19 +101,6 @@
       "atlanta",
       "ground",
       "stop"
-    ]
-  },
-  {
-    "label": "Climate Talks",
-    "count": 5,
-    "sources": 3,
-    "keywords": [
-      "climate",
-      "talks",
-      "deal",
-      "cop31",
-      "end",
-      "without"
     ]
   }
 ]
