@@ -1,15 +1,15 @@
 [
   {
-    "label": "Russian Cargo",
-    "count": 7,
+    "label": "Drone Attack",
+    "count": 8,
     "sources": 4,
     "keywords": [
       "russian",
       "ship",
       "drone",
-      "finland",
       "attack",
-      "cargo"
+      "finland",
+      "libya"
     ]
   },
   {
@@ -36,6 +36,19 @@
       "deal",
       "fossil",
       "fuel"
+    ]
+  },
+  {
+    "label": "Climate Talks",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "climate",
+      "talks",
+      "deal",
+      "end",
+      "cop31",
+      "without"
     ]
   },
   {
@@ -88,19 +101,6 @@
       "iowa",
       "despite",
       "indefinite"
-    ]
-  },
-  {
-    "label": "Putin America",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "putin",
-      "america",
-      "friend",
-      "ukraine",
-      "intelligence",
-      "dni"
     ]
   }
 ]
