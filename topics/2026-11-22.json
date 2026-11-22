@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Miley Cyrus",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "miley",
+      "cyrus",
+      "maxx",
+      "morando",
+      "california",
+      "marries"
+    ]
+  },
+  {
     "label": "Putin America",
     "count": 4,
     "sources": 4,
@@ -88,19 +101,6 @@
       "legend",
       "former",
       "star"
-    ]
-  },
-  {
-    "label": "Delta Flights",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "delta",
-      "flights",
-      "delays",
-      "atlanta",
-      "ground",
-      "stop"
     ]
   }
 ]
