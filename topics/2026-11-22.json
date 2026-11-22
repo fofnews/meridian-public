@@ -39,6 +39,32 @@
     ]
   },
   {
+    "label": "Democrats Clinch",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "house",
+      "democrats",
+      "258",
+      "clinch",
+      "seats",
+      "majority"
+    ]
+  },
+  {
+    "label": "Climate Talks",
+    "count": 5,
+    "sources": 3,
+    "keywords": [
+      "climate",
+      "talks",
+      "deal",
+      "cop31",
+      "end",
+      "without"
+    ]
+  },
+  {
     "label": "Cop31 Climate",
     "count": 4,
     "sources": 3,
@@ -49,19 +75,6 @@
       "deal",
       "fossil",
       "fuel"
-    ]
-  },
-  {
-    "label": "Climate Talks",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "climate",
-      "talks",
-      "deal",
-      "end",
-      "cop31",
-      "without"
     ]
   },
   {
@@ -88,19 +101,6 @@
       "putin",
       "defends",
       "clayton"
-    ]
-  },
-  {
-    "label": "Paolo Bulgari",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "paolo",
-      "bulgari",
-      "italian",
-      "global",
-      "luxury",
-      "brand"
     ]
   }
 ]
