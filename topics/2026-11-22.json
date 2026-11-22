@@ -1,15 +1,15 @@
 [
   {
     "label": "Russian Cargo",
-    "count": 5,
-    "sources": 3,
+    "count": 6,
+    "sources": 4,
     "keywords": [
       "russian",
       "ship",
       "finland",
-      "cargo",
       "attack",
-      "drone"
+      "drone",
+      "cargo"
     ]
   },
   {
@@ -23,6 +23,19 @@
       "deal",
       "fossil",
       "fuel"
+    ]
+  },
+  {
+    "label": "Paolo Bulgari",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "paolo",
+      "bulgari",
+      "italian",
+      "global",
+      "luxury",
+      "brand"
     ]
   },
   {
