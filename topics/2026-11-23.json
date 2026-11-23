@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Jensen Huang",
+    "count": 7,
+    "sources": 5,
+    "keywords": [
+      "jensen",
+      "huang",
+      "nvidia",
+      "ceo",
+      "return",
+      "reinstated"
+    ]
+  },
+  {
     "label": "Russian Ships",
     "count": 6,
     "sources": 5,
@@ -67,40 +80,27 @@
   {
     "label": "Jensen Huang",
     "count": 4,
-    "sources": 3,
+    "sources": 4,
     "keywords": [
-      "trump",
       "nvidia",
-      "jensen",
       "huang",
-      "best",
-      "thing"
+      "trump",
+      "jensen",
+      "move",
+      "reinstating"
     ]
   },
   {
-    "label": "Russian Ships",
+    "label": "Train Derails",
     "count": 4,
     "sources": 3,
     "keywords": [
-      "russian",
-      "ukraine",
-      "attacks",
-      "ships",
-      "libya",
-      "death"
-    ]
-  },
-  {
-    "label": "Naval Blockade",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "iran",
-      "blockade",
-      "naval",
-      "available",
-      "means",
-      "use"
+      "train",
+      "derails",
+      "amtrak",
+      "louisiana",
+      "ramming",
+      "wheeler"
     ]
   }
 ]
