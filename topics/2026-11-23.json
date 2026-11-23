@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Russian Ships",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "russian",
+      "ukraine",
+      "attacks",
+      "ships",
+      "libya",
+      "death"
+    ]
+  },
+  {
     "label": "Naval Blockade",
     "count": 4,
     "sources": 3,
@@ -88,19 +101,6 @@
       "available",
       "means",
       "use"
-    ]
-  },
-  {
-    "label": "Jensen Huang",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "jensen",
-      "huang",
-      "reinstated",
-      "nvidia",
-      "ceo",
-      "markets"
     ]
   }
 ]
