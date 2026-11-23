@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Don Toliver",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "don",
+      "toliver",
+      "concert",
+      "evacuated",
+      "substance",
+      "unknown"
+    ]
+  },
+  {
     "label": "Spy Agency",
     "count": 3,
     "sources": 3,
@@ -52,16 +65,16 @@
     ]
   },
   {
-    "label": "Don Toliver",
+    "label": "Jensen Huang",
     "count": 3,
-    "sources": 3,
+    "sources": 2,
     "keywords": [
-      "don",
-      "toliver",
-      "concert",
-      "evacuated",
-      "unknown",
-      "substance"
+      "trump",
+      "nvidia",
+      "jensen",
+      "huang",
+      "hopes",
+      "rehires"
     ]
   },
   {
@@ -75,6 +88,19 @@
       "sinks",
       "libya",
       "destroyed"
+    ]
+  },
+  {
+    "label": "Toxic Wasteland",
+    "count": 3,
+    "sources": 2,
+    "keywords": [
+      "gaza",
+      "toxic",
+      "turned",
+      "wasteland",
+      "israel",
+      "war"
     ]
   }
 ]
