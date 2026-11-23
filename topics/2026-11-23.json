@@ -1,15 +1,28 @@
 [
   {
     "label": "Drone Attack",
-    "count": 6,
-    "sources": 4,
+    "count": 7,
+    "sources": 5,
     "keywords": [
       "russian",
       "drone",
-      "ukraine",
       "libya",
+      "ukraine",
       "attack",
       "zelenskyy"
+    ]
+  },
+  {
+    "label": "Near Libya",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "ukraine",
+      "russian",
+      "libya",
+      "near",
+      "ships",
+      "sank"
     ]
   },
   {
@@ -26,19 +39,6 @@
     ]
   },
   {
-    "label": "Near Libya",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "ukraine",
-      "russian",
-      "libya",
-      "sank",
-      "near",
-      "hit"
-    ]
-  },
-  {
     "label": "Don Toliver",
     "count": 3,
     "sources": 3,
@@ -49,6 +49,19 @@
       "evacuated",
       "unknown",
       "substance"
+    ]
+  },
+  {
+    "label": "Russian Warship",
+    "count": 3,
+    "sources": 2,
+    "keywords": [
+      "russian",
+      "warship",
+      "ukraine",
+      "sinks",
+      "libya",
+      "destroyed"
     ]
   }
 ]
