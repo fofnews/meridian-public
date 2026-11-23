@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Naval Blockade",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "iran",
+      "naval",
+      "blockade",
+      "vows",
+      "end",
+      "available"
+    ]
+  },
+  {
     "label": "Jensen Huang",
     "count": 3,
     "sources": 2,
@@ -88,19 +101,6 @@
       "sinks",
       "libya",
       "destroyed"
-    ]
-  },
-  {
-    "label": "Toxic Wasteland",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "gaza",
-      "toxic",
-      "turned",
-      "wasteland",
-      "israel",
-      "war"
     ]
   }
 ]
