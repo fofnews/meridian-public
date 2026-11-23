@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Musk Spacex",
+    "count": 7,
+    "sources": 7,
+    "keywords": [
+      "spacex",
+      "oregon",
+      "virginia",
+      "sue",
+      "grok",
+      "musk"
+    ]
+  },
+  {
     "label": "Jensen Huang",
     "count": 9,
     "sources": 6,
@@ -49,19 +62,6 @@
       "plan",
       "presidential",
       "june"
-    ]
-  },
-  {
-    "label": "Musk Spacex",
-    "count": 6,
-    "sources": 6,
-    "keywords": [
-      "spacex",
-      "oregon",
-      "virginia",
-      "sue",
-      "musk",
-      "grok"
     ]
   },
   {
