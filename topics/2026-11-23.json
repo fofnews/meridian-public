@@ -27,15 +27,28 @@
   },
   {
     "label": "Don Toliver",
-    "count": 4,
+    "count": 5,
     "sources": 4,
     "keywords": [
-      "don",
-      "toliver",
       "concert",
       "evacuated",
       "substance",
+      "don",
+      "toliver",
       "unknown"
+    ]
+  },
+  {
+    "label": "Democrats Plan",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "debates",
+      "2028",
+      "democrats",
+      "plan",
+      "presidential",
+      "june"
     ]
   },
   {
@@ -49,6 +62,19 @@
       "available",
       "means",
       "use"
+    ]
+  },
+  {
+    "label": "Train Derails",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "train",
+      "derails",
+      "amtrak",
+      "louisiana",
+      "ramming",
+      "wheeler"
     ]
   },
   {
@@ -75,32 +101,6 @@
       "touch",
       "huang",
       "chinese"
-    ]
-  },
-  {
-    "label": "Climate Talks",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "climate",
-      "talks",
-      "cop31",
-      "collapse",
-      "five",
-      "takeaways"
-    ]
-  },
-  {
-    "label": "Democrats Plan",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "presidential",
-      "debates",
-      "2028",
-      "democrats",
-      "plan",
-      "june"
     ]
   }
 ]
