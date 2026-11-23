@@ -53,15 +53,15 @@
   },
   {
     "label": "Sexual Misconduct",
-    "count": 7,
+    "count": 8,
     "sources": 6,
     "keywords": [
       "gomez",
       "sexual",
       "misconduct",
       "jimmy",
-      "ethics",
-      "finds"
+      "finds",
+      "rep"
     ]
   },
   {
@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Jensen Huang",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "jensen",
+      "huang",
+      "nvidia",
+      "too",
+      "big",
+      "trump"
+    ]
+  },
+  {
     "label": "Russian Ships",
     "count": 6,
     "sources": 5,
@@ -88,19 +101,6 @@
       "ships",
       "near",
       "strikes"
-    ]
-  },
-  {
-    "label": "Unknown Substance",
-    "count": 6,
-    "sources": 5,
-    "keywords": [
-      "concert",
-      "substance",
-      "evacuated",
-      "unknown",
-      "released",
-      "don"
     ]
   }
 ]
