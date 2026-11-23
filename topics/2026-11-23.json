@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Democrats Plan",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "debates",
+      "2028",
+      "democrats",
+      "plan",
+      "presidential",
+      "june"
+    ]
+  },
+  {
     "label": "Jensen Huang",
     "count": 8,
     "sources": 5,
@@ -52,29 +65,29 @@
     ]
   },
   {
-    "label": "Democrats Plan",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "debates",
-      "2028",
-      "democrats",
-      "plan",
-      "presidential",
-      "june"
-    ]
-  },
-  {
     "label": "Jensen Huang",
-    "count": 5,
+    "count": 6,
     "sources": 5,
     "keywords": [
       "nvidia",
       "huang",
       "jensen",
-      "trump",
       "national",
-      "move"
+      "trump",
+      "security"
+    ]
+  },
+  {
+    "label": "Musk Spacex",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "spacex",
+      "oregon",
+      "virginia",
+      "images",
+      "sue",
+      "musk"
     ]
   },
   {
@@ -88,19 +101,6 @@
       "collapse",
       "deal",
       "five"
-    ]
-  },
-  {
-    "label": "Don Toliver",
-    "count": 5,
-    "sources": 4,
-    "keywords": [
-      "concert",
-      "evacuated",
-      "substance",
-      "don",
-      "toliver",
-      "unknown"
     ]
   }
 ]
