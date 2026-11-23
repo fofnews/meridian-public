@@ -13,15 +13,15 @@
     ]
   },
   {
-    "label": "Near Libya",
-    "count": 4,
+    "label": "Russian Ships",
+    "count": 5,
     "sources": 4,
     "keywords": [
       "ukraine",
       "russian",
       "libya",
-      "near",
       "ships",
+      "near",
       "sank"
     ]
   },
@@ -36,6 +36,19 @@
       "touch",
       "huang",
       "chinese"
+    ]
+  },
+  {
+    "label": "Climate Talks",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "climate",
+      "talks",
+      "cop31",
+      "collapse",
+      "five",
+      "takeaways"
     ]
   },
   {
