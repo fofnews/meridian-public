@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Naval Blockade",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "iran",
+      "blockade",
+      "naval",
+      "available",
+      "means",
+      "use"
+    ]
+  },
+  {
     "label": "Lead Azide",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "democrats",
       "plan",
       "june"
-    ]
-  },
-  {
-    "label": "Naval Blockade",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "iran",
-      "naval",
-      "blockade",
-      "vows",
-      "end",
-      "available"
     ]
   }
 ]
