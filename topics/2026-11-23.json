@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Drone Attack",
+    "count": 8,
+    "sources": 6,
+    "keywords": [
+      "russian",
+      "libya",
+      "ukraine",
+      "drone",
+      "attack",
+      "warship"
+    ]
+  },
+  {
     "label": "Democrats Plan",
     "count": 6,
     "sources": 6,
@@ -36,19 +49,6 @@
       "ceo",
       "reinstated",
       "return"
-    ]
-  },
-  {
-    "label": "Drone Attack",
-    "count": 7,
-    "sources": 5,
-    "keywords": [
-      "russian",
-      "drone",
-      "libya",
-      "ukraine",
-      "attack",
-      "zelenskyy"
     ]
   },
   {
