@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Tom Jackson",
+    "count": 5,
+    "sources": 4,
+    "keywords": [
+      "tom",
+      "jackson",
+      "broncos",
+      "legend",
+      "former",
+      "star"
+    ]
+  },
+  {
     "label": "Tarik Skubal",
     "count": 5,
     "sources": 4,
@@ -88,19 +101,6 @@
       "morando",
       "california",
       "marries"
-    ]
-  },
-  {
-    "label": "Putin America",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "putin",
-      "america",
-      "friend",
-      "ukraine",
-      "dni",
-      "clayton"
     ]
   }
 ]
