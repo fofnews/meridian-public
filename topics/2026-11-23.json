@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Democrats Plan",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "debates",
+      "2028",
+      "democrats",
+      "plan",
+      "presidential",
+      "june"
+    ]
+  },
+  {
     "label": "Don Toliver",
     "count": 5,
     "sources": 4,
@@ -36,19 +49,6 @@
       "don",
       "toliver",
       "unknown"
-    ]
-  },
-  {
-    "label": "Democrats Plan",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "debates",
-      "2028",
-      "democrats",
-      "plan",
-      "presidential",
-      "june"
     ]
   },
   {
