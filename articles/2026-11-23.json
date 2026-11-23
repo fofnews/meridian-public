@@ -598,5 +598,39 @@
     "categories": [],
     "collectRun": "2026-11-23T07:30:00.000Z",
     "collectedAt": "2026-11-23T07:30:01.058Z"
+  },
+  {
+    "title": "Amtrak train derails after striking truck in Louisiana",
+    "description": "\"All passenger cars remained upright,\" Amtrak said.",
+    "link": "https://abcnews.com/US/amtrak-train-derails-after-striking-truck-louisiana/story?id=138369354",
+    "pubDate": "Mon, 23 Nov 2026 02:30:59 -0500",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectRun": "2026-11-23T07:45:00.000Z",
+    "collectedAt": "2026-11-23T07:45:01.382Z"
+  },
+  {
+    "title": "MotoGP maestro Marquez makes history with eighth premier-class world title",
+    "description": "His eighth success in the premier class of motorcycling pulled Marc Marquez level with Italian great Giacomo Agostini.",
+    "link": "https://www.aljazeera.com/sports/2026/11/23/marc-marquez-motogp-world-title-eighth-premier-class-motorcyling-portugal-gp?traffic_source=rss",
+    "pubDate": "Mon, 23 Nov 2026 07:19:47 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "sport"
+    ],
+    "collectRun": "2026-11-23T07:45:00.000Z",
+    "collectedAt": "2026-11-23T07:45:01.382Z"
+  },
+  {
+    "title": "US Army invokes emergency powers to detonate lead in Iowa",
+    "description": "The US Army will detonate 68 barrels of a toxic lead explosive in Iowa this week ​on emergency legal powers that allow it to bypass a court order blocking the controversial plan, the Trump administration told a court this weekend.",
+    "link": "https://nypost.com/2026/11/23/us-news/us-army-invokes-emergency-powers-to-detonate-lead-in-iowa/",
+    "pubDate": "Mon, 23 Nov 2026 02:39:54 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-23T07:45:00.000Z",
+    "collectedAt": "2026-11-23T07:45:01.382Z"
   }
 ]
