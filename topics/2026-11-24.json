@@ -32,6 +32,19 @@
     "keywords": [
       "pope",
       "francis",
+      "diary",
+      "devil",
+      "private",
+      "details"
+    ]
+  },
+  {
+    "label": "Pope Francis",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "pope",
+      "francis",
       "devil",
       "visions",
       "hell",
@@ -49,19 +62,6 @@
       "feathers",
       "thanksgiving",
       "pardon"
-    ]
-  },
-  {
-    "label": "Pope Francis",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "pope",
-      "francis",
-      "diary",
-      "details",
-      "profound",
-      "spiritual"
     ]
   },
   {
