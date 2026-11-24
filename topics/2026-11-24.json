@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Storms Threaten",
+    "count": 5,
+    "sources": 3,
+    "keywords": [
+      "storms",
+      "threaten",
+      "thanksgiving",
+      "macy",
+      "parade",
+      "severe"
+    ]
+  },
+  {
     "label": "Huang Return",
     "count": 4,
     "sources": 3,
@@ -49,19 +62,6 @@
       "ceo",
       "reuters",
       "jensen"
-    ]
-  },
-  {
-    "label": "Both Coasts",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "storms",
-      "threaten",
-      "thanksgiving",
-      "both",
-      "coasts",
-      "week"
     ]
   },
   {
