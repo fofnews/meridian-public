@@ -14,15 +14,28 @@
   },
   {
     "label": "Medal Freedom",
-    "count": 5,
-    "sources": 4,
+    "count": 6,
+    "sources": 5,
     "keywords": [
       "giuliani",
       "medal",
       "freedom",
+      "trump",
       "rudy",
-      "presidential",
-      "trump"
+      "presidential"
+    ]
+  },
+  {
+    "label": "Pope Francis",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "pope",
+      "francis",
+      "devil",
+      "visions",
+      "hell",
+      "diary"
     ]
   },
   {
@@ -36,19 +49,6 @@
       "details",
       "profound",
       "spiritual"
-    ]
-  },
-  {
-    "label": "Pope Francis",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "pope",
-      "francis",
-      "devil",
-      "visions",
-      "diary",
-      "reveals"
     ]
   },
   {
