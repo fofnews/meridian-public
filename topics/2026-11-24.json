@@ -1,15 +1,15 @@
 [
   {
     "label": "Prince William",
-    "count": 6,
-    "sources": 5,
+    "count": 7,
+    "sources": 6,
     "keywords": [
       "william",
       "prince",
       "kate",
       "home",
       "break",
-      "middleton"
+      "country"
     ]
   },
   {
@@ -70,6 +70,19 @@
     "sources": 3,
     "keywords": [
       "huang",
+      "back",
+      "jensen",
+      "nvidia",
+      "reuters",
+      "him"
+    ]
+  },
+  {
+    "label": "Jensen Huang",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "huang",
       "return",
       "nvidia",
       "questions",
@@ -88,19 +101,6 @@
       "nvidia",
       "500",
       "workplace"
-    ]
-  },
-  {
-    "label": "White House",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "turkey",
-      "pardon",
-      "white",
-      "house",
-      "thanksgiving",
-      "preparing"
     ]
   }
 ]
