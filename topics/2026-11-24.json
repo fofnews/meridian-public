@@ -1,15 +1,15 @@
 [
   {
     "label": "Prince William",
-    "count": 5,
-    "sources": 4,
+    "count": 6,
+    "sources": 5,
     "keywords": [
-      "prince",
       "william",
+      "prince",
       "kate",
-      "middleton",
-      "broken",
-      "country"
+      "home",
+      "break",
+      "middleton"
     ]
   },
   {
@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Both Coasts",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "storms",
+      "threaten",
+      "thanksgiving",
+      "both",
+      "coasts",
+      "week"
+    ]
+  },
+  {
     "label": "Jensen Huang",
     "count": 4,
     "sources": 3,
@@ -88,19 +101,6 @@
       "house",
       "thanksgiving",
       "preparing"
-    ]
-  },
-  {
-    "label": "Huang Back",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "huang",
-      "back",
-      "reuters",
-      "jensen",
-      "nvidia",
-      "morning"
     ]
   }
 ]
