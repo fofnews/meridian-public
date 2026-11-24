@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Lead Azide",
+    "count": 7,
+    "sources": 6,
+    "keywords": [
+      "iowa",
+      "army",
+      "lead",
+      "court",
+      "azide",
+      "detonate"
+    ]
+  },
+  {
     "label": "Democrats Plan",
     "count": 7,
     "sources": 6,
@@ -88,19 +101,6 @@
       "too",
       "big",
       "trump"
-    ]
-  },
-  {
-    "label": "Nvidia Scandal",
-    "count": 6,
-    "sources": 6,
-    "keywords": [
-      "megaspeed",
-      "nvidia",
-      "scandal",
-      "firm",
-      "adds",
-      "trade"
     ]
   }
 ]
