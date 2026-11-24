@@ -1,6 +1,19 @@
 [
   {
     "label": "Pope Francis",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "pope",
+      "francis",
+      "devil",
+      "visions",
+      "diary",
+      "reveals"
+    ]
+  },
+  {
+    "label": "Pope Francis",
     "count": 3,
     "sources": 3,
     "keywords": [
@@ -23,19 +36,6 @@
       "ceo",
       "jensen",
       "analysts"
-    ]
-  },
-  {
-    "label": "Pope Francis",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "pope",
-      "francis",
-      "visions",
-      "devil",
-      "hell",
-      "diary"
     ]
   },
   {
