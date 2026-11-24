@@ -1,5 +1,18 @@
 [
   {
+    "label": "Prince William",
+    "count": 5,
+    "sources": 4,
+    "keywords": [
+      "prince",
+      "william",
+      "kate",
+      "middleton",
+      "broken",
+      "country"
+    ]
+  },
+  {
     "label": "Pope Francis",
     "count": 4,
     "sources": 4,
@@ -26,16 +39,16 @@
     ]
   },
   {
-    "label": "Prince William",
+    "label": "Huang Return",
     "count": 4,
     "sources": 3,
     "keywords": [
-      "prince",
-      "william",
-      "kate",
-      "middleton",
-      "intruders",
-      "break"
+      "huang",
+      "nvidia",
+      "return",
+      "ceo",
+      "reuters",
+      "jensen"
     ]
   },
   {
@@ -49,19 +62,6 @@
       "questions",
       "jensen",
       "court"
-    ]
-  },
-  {
-    "label": "Huang Return",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "huang",
-      "nvidia",
-      "return",
-      "ceo",
-      "jensen",
-      "analysts"
     ]
   },
   {
