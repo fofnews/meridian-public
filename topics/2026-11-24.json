@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Medal Freedom",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "giuliani",
+      "medal",
+      "freedom",
+      "presidential",
+      "trump",
+      "rudy"
+    ]
+  },
+  {
     "label": "Pope Francis",
     "count": 5,
     "sources": 5,
@@ -88,19 +101,6 @@
       "arrested",
       "suspected",
       "kate"
-    ]
-  },
-  {
-    "label": "Ilhan Omar",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "omar",
-      "ilhan",
-      "raid",
-      "home",
-      "house",
-      "counsel"
     ]
   }
 ]
