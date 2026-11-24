@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Medal Freedom",
+    "count": 5,
+    "sources": 4,
+    "keywords": [
+      "giuliani",
+      "medal",
+      "freedom",
+      "rudy",
+      "presidential",
+      "trump"
+    ]
+  },
+  {
     "label": "Pope Francis",
     "count": 4,
     "sources": 4,
@@ -62,19 +75,6 @@
       "ceo",
       "reuters",
       "jensen"
-    ]
-  },
-  {
-    "label": "Presidential Medal",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "giuliani",
-      "presidential",
-      "medal",
-      "freedom",
-      "rudy",
-      "trump"
     ]
   },
   {
