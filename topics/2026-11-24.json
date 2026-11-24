@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "National Security",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "huang",
+      "nvidia",
+      "trump",
+      "national",
+      "security",
+      "return"
+    ]
+  },
+  {
     "label": "Jensen Huang",
     "count": 4,
     "sources": 3,
@@ -88,19 +101,6 @@
       "questions",
       "jensen",
       "court"
-    ]
-  },
-  {
-    "label": "Army Iowa",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "army",
-      "iowa",
-      "detonation",
-      "lead",
-      "proceed",
-      "explosives"
     ]
   }
 ]
