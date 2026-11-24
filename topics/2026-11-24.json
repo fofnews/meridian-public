@@ -6,10 +6,36 @@
     "keywords": [
       "pope",
       "francis",
+      "diary",
+      "details",
+      "profound",
+      "spiritual"
+    ]
+  },
+  {
+    "label": "Pope Francis",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "pope",
+      "francis",
       "devil",
       "visions",
       "diary",
       "reveals"
+    ]
+  },
+  {
+    "label": "Prince William",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "prince",
+      "william",
+      "kate",
+      "middleton",
+      "intruders",
+      "break"
     ]
   },
   {
@@ -23,19 +49,6 @@
       "questions",
       "jensen",
       "court"
-    ]
-  },
-  {
-    "label": "Pope Francis",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "pope",
-      "francis",
-      "diary",
-      "private",
-      "details",
-      "profound"
     ]
   },
   {
@@ -88,19 +101,6 @@
       "jensen",
       "nvidia",
       "morning"
-    ]
-  },
-  {
-    "label": "Russian Attack",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "russian",
-      "attack",
-      "ukraine",
-      "kills",
-      "people",
-      "zaporizhzhia"
     ]
   }
 ]
