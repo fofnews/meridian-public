@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Turkeys Freedom",
+    "count": 7,
+    "sources": 5,
+    "keywords": [
+      "trump",
+      "turkeys",
+      "freedom",
+      "feathers",
+      "thanksgiving",
+      "pardons"
+    ]
+  },
+  {
     "label": "Pope Francis",
     "count": 5,
     "sources": 5,
@@ -52,16 +65,16 @@
     ]
   },
   {
-    "label": "Turkeys Freedom",
-    "count": 5,
+    "label": "Prince William",
+    "count": 4,
     "sources": 4,
     "keywords": [
-      "trump",
-      "turkeys",
-      "freedom",
-      "feathers",
-      "thanksgiving",
-      "pardon"
+      "burglary",
+      "prince",
+      "william",
+      "arrested",
+      "suspected",
+      "kate"
     ]
   },
   {
@@ -88,19 +101,6 @@
       "outage",
       "declares",
       "historic"
-    ]
-  },
-  {
-    "label": "Storms Threaten",
-    "count": 5,
-    "sources": 3,
-    "keywords": [
-      "storms",
-      "threaten",
-      "thanksgiving",
-      "macy",
-      "parade",
-      "severe"
     ]
   }
 ]
