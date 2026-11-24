@@ -63,5 +63,18 @@
       "nvidia",
       "morning"
     ]
+  },
+  {
+    "label": "Russian Attack",
+    "count": 3,
+    "sources": 2,
+    "keywords": [
+      "russian",
+      "attack",
+      "ukraine",
+      "kills",
+      "people",
+      "zaporizhzhia"
+    ]
   }
 ]
