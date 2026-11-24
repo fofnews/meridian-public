@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Jensen Huang",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "huang",
+      "return",
+      "nvidia",
+      "questions",
+      "jensen",
+      "court"
+    ]
+  },
+  {
     "label": "Pope Francis",
     "count": 3,
     "sources": 3,
@@ -62,19 +75,6 @@
       "house",
       "thanksgiving",
       "preparing"
-    ]
-  },
-  {
-    "label": "Jensen Huang",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "huang",
-      "return",
-      "nvidia",
-      "questions",
-      "jensen",
-      "surprise"
     ]
   },
   {
