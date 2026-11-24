@@ -27,12 +27,12 @@
   },
   {
     "label": "Turkeys Freedom",
-    "count": 7,
+    "count": 8,
     "sources": 5,
     "keywords": [
       "trump",
-      "turkeys",
       "freedom",
+      "turkeys",
       "feathers",
       "thanksgiving",
       "pardons"
@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Ilhan Omar",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "omar",
+      "home",
+      "house",
+      "ilhan",
+      "doj",
+      "raid"
+    ]
+  },
+  {
     "label": "Army Set",
     "count": 5,
     "sources": 4,
@@ -88,19 +101,6 @@
       "detonation",
       "proceed",
       "set"
-    ]
-  },
-  {
-    "label": "Prince William",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "burglary",
-      "prince",
-      "william",
-      "arrested",
-      "suspected",
-      "kate"
     ]
   }
 ]
