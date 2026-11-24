@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Code Red",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "microsoft",
+      "code",
+      "red",
+      "outage",
+      "declares",
+      "historic"
+    ]
+  },
+  {
     "label": "Storms Threaten",
     "count": 5,
     "sources": 3,
@@ -88,19 +101,6 @@
       "macy",
       "parade",
       "severe"
-    ]
-  },
-  {
-    "label": "Huang Return",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "huang",
-      "nvidia",
-      "return",
-      "ceo",
-      "reuters",
-      "jensen"
     ]
   }
 ]
