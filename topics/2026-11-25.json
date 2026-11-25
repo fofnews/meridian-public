@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Thanksgiving Day",
+    "count": 8,
+    "sources": 6,
+    "keywords": [
+      "macy",
+      "thanksgiving",
+      "day",
+      "parade",
+      "postponed",
+      "due"
+    ]
+  },
+  {
     "label": "Fort Hood",
     "count": 6,
     "sources": 6,
@@ -23,6 +36,19 @@
       "execution",
       "asks",
       "nidal"
+    ]
+  },
+  {
+    "label": "Data Centers",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "data",
+      "spacex",
+      "million",
+      "centers",
+      "space",
+      "fcc"
     ]
   },
   {
@@ -39,19 +65,6 @@
     ]
   },
   {
-    "label": "Thanksgiving Day",
-    "count": 7,
-    "sources": 5,
-    "keywords": [
-      "macy",
-      "thanksgiving",
-      "day",
-      "parade",
-      "postponed",
-      "due"
-    ]
-  },
-  {
     "label": "Army Detonates",
     "count": 6,
     "sources": 5,
@@ -65,16 +78,16 @@
     ]
   },
   {
-    "label": "Data Centers",
+    "label": "Birthright Citizenship",
     "count": 5,
     "sources": 5,
     "keywords": [
-      "data",
-      "spacex",
-      "million",
-      "space",
-      "centers",
-      "fcc"
+      "judge",
+      "trump",
+      "birthright",
+      "citizenship",
+      "blocks",
+      "federal"
     ]
   },
   {
@@ -88,19 +101,6 @@
       "mccarthy",
       "steelers",
       "benching"
-    ]
-  },
-  {
-    "label": "Attack Russian",
-    "count": 5,
-    "sources": 4,
-    "keywords": [
-      "attack",
-      "russian",
-      "libyan",
-      "warship",
-      "naval",
-      "officers"
     ]
   }
 ]
