@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Aaron Rodgers",
+    "count": 6,
+    "sources": 4,
+    "keywords": [
+      "aaron",
+      "rodgers",
+      "mike",
+      "mccarthy",
+      "benching",
+      "steelers"
+    ]
+  },
+  {
     "label": "Attack Russian",
     "count": 5,
     "sources": 4,
@@ -88,19 +101,6 @@
       "unstable",
       "explosives",
       "wednesday"
-    ]
-  },
-  {
-    "label": "Thanksgiving Day",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "thanksgiving",
-      "day",
-      "macy",
-      "parade",
-      "2026",
-      "stores"
     ]
   }
 ]
