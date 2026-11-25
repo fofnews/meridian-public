@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Attack Russian",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "attack",
+      "russian",
+      "warship",
+      "libyan",
+      "ukraine",
+      "naval"
+    ]
+  },
+  {
     "label": "Army Detonate",
     "count": 4,
     "sources": 3,
@@ -52,16 +65,16 @@
     ]
   },
   {
-    "label": "Attack Russian",
-    "count": 3,
+    "label": "Sentence Dangerous",
+    "count": 4,
     "sources": 3,
     "keywords": [
-      "attack",
-      "russian",
-      "ukraine",
-      "warship",
-      "naval",
-      "libyan"
+      "sterling",
+      "sentence",
+      "suspended",
+      "dangerous",
+      "driving",
+      "jail"
     ]
   },
   {
@@ -88,19 +101,6 @@
       "game",
       "benching",
       "make"
-    ]
-  },
-  {
-    "label": "Fort Hood",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "fort",
-      "hood",
-      "shooter",
-      "execution",
-      "nidal",
-      "hasan"
     ]
   }
 ]
