@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Aaron Rodgers",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "steelers",
+      "aaron",
+      "rodgers",
+      "game",
+      "benching",
+      "make"
+    ]
+  },
+  {
     "label": "Plane Crash",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "minister",
       "israel",
       "newsmax"
-    ]
-  },
-  {
-    "label": "Astronaut Space",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "china",
-      "astronaut",
-      "shenzhou",
-      "space",
-      "pakistani",
-      "carries"
     ]
   }
 ]
