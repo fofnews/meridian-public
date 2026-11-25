@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Men Charged",
+    "count": 5,
+    "sources": 3,
+    "keywords": [
+      "charged",
+      "prince",
+      "home",
+      "break",
+      "william",
+      "kate"
+    ]
+  },
+  {
     "label": "Army Detonate",
     "count": 4,
     "sources": 3,
@@ -36,19 +49,6 @@
       "parade",
       "2026",
       "stores"
-    ]
-  },
-  {
-    "label": "Men Charged",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "charged",
-      "prince",
-      "home",
-      "break",
-      "william",
-      "kate"
     ]
   },
   {
@@ -91,16 +91,16 @@
     ]
   },
   {
-    "label": "Jensen Huang",
-    "count": 4,
-    "sources": 2,
+    "label": "Thanksgiving Travel",
+    "count": 3,
+    "sources": 3,
     "keywords": [
-      "jensen",
-      "huang",
-      "washington",
-      "post",
-      "nvidia",
-      "reinstates"
+      "thanksgiving",
+      "travel",
+      "rising",
+      "cost",
+      "rush",
+      "underway"
     ]
   }
 ]
