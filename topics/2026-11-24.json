@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Kilmar Abrego",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "kilmar",
+      "abrego",
+      "garcia",
+      "leaving",
+      "self",
+      "spain"
+    ]
+  },
+  {
     "label": "Ilhan Omar",
     "count": 5,
     "sources": 5,
@@ -88,19 +101,6 @@
       "ilhan",
       "doj",
       "raid"
-    ]
-  },
-  {
-    "label": "Army Set",
-    "count": 5,
-    "sources": 4,
-    "keywords": [
-      "army",
-      "iowa",
-      "lead",
-      "detonation",
-      "proceed",
-      "set"
     ]
   }
 ]
