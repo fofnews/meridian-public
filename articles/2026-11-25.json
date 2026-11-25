@@ -689,5 +689,61 @@
     "categories": [],
     "collectRun": "2026-11-25T07:30:00.000Z",
     "collectedAt": "2026-11-25T07:30:02.276Z"
+  },
+  {
+    "title": "Treasury's financial crimes agency says it's investigating 'cybersecurity incident'",
+    "description": "The agency handles sensitive information and reports about financial crimes.",
+    "link": "https://abcnews.com/US/treasurys-fincen-cybersecurity-incident-includes-unauthorized-access-systems/story?id=138432822",
+    "pubDate": "Wed, 25 Nov 2026 02:41:17 -0500",
+    "source": "ABC News",
+    "categories": [
+      "us"
+    ],
+    "collectRun": "2026-11-25T07:45:00.000Z",
+    "collectedAt": "2026-11-25T07:45:01.173Z"
+  },
+  {
+    "title": "Sentences served, but Gaza prisoners remain behind Israeli bars",
+    "description": "Palestinian families in Gaza wait for loved ones who remain in Israeli prisons despite completing their sentences.",
+    "link": "https://www.aljazeera.com/news/2026/11/25/sentences-served-but-gaza-prisoners-remain-behind-israeli-bars?traffic_source=rss",
+    "pubDate": "Wed, 25 Nov 2026 07:31:44 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-11-25T07:45:00.000Z",
+    "collectedAt": "2026-11-25T07:45:01.173Z"
+  },
+  {
+    "title": "Pakistan rejoices as country’s first astronaut enters orbit",
+    "description": "Zeeshan Ali makes history as the first foreign national to board China's space station",
+    "link": "https://www.aljazeera.com/news/2026/11/25/pakistan-rejoices-as-countrys-first-astronaut-enters-orbit?traffic_source=rss",
+    "pubDate": "Wed, 25 Nov 2026 07:05:59 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-11-25T07:45:00.000Z",
+    "collectedAt": "2026-11-25T07:45:01.173Z"
+  },
+  {
+    "title": "Jensen Huang's second coming offers little relief to AI credits - Reuters",
+    "description": "Jensen Huang's second coming offers little relief to AI credits  Reuters",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa3cwNnVaVThFb2gyekg2bWcwZGxldmFKZlMwRllCQTZNa3NDaTVvVkdONzd5eFlYa0NncHdDRExNdlNLYlZPSFZKSFoycjNtVk1iX3ZKb0lOX0NkS1NmSUpaYjlaZlpfaUZEZlRkNDRmV3lsbEdGM2ZIRmZuclotYllFcXFQa180akJwYk93NUk?oc=5",
+    "pubDate": "Wed, 25 Nov 2026 03:26:00 GMT",
+    "source": "Reuters",
+    "categories": [],
+    "collectRun": "2026-11-25T07:45:00.000Z",
+    "collectedAt": "2026-11-25T07:45:01.173Z"
+  },
+  {
+    "title": "Treasury's Financial Crime Unit Hit by Cyber Intrusion",
+    "description": "The intruder gained access to a limited subset of systems, leading to the unit taking some offline as a precaution.",
+    "link": "https://www.newsweek.com/treasury-financial-crime-unit-cyber-incident-fincen-12766120",
+    "pubDate": "Wed, 25 Nov 2026 02:32:25 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-25T07:45:00.000Z",
+    "collectedAt": "2026-11-25T07:45:01.173Z"
   }
 ]
