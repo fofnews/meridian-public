@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Army Detonates",
+    "count": 5,
+    "sources": 4,
+    "keywords": [
+      "army",
+      "detonates",
+      "iowa",
+      "toxic",
+      "lead",
+      "explosives"
+    ]
+  },
+  {
     "label": "Attack Russian",
     "count": 4,
     "sources": 4,
@@ -49,19 +62,6 @@
       "spain",
       "leaves",
       "voluntarily"
-    ]
-  },
-  {
-    "label": "Army Detonates",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "army",
-      "detonates",
-      "lead",
-      "iowa",
-      "toxic",
-      "explosives"
     ]
   },
   {
@@ -91,16 +91,16 @@
     ]
   },
   {
-    "label": "Lead Azide",
+    "label": "Iowa Lead",
     "count": 4,
     "sources": 3,
     "keywords": [
-      "army",
-      "detonate",
-      "lead",
-      "azide",
       "iowa",
-      "tons"
+      "lead",
+      "army",
+      "detonation",
+      "live",
+      "watch"
     ]
   }
 ]
