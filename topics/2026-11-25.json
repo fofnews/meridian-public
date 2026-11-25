@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Men Charged",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "charged",
+      "prince",
+      "men",
+      "princess",
+      "home",
+      "break"
+    ]
+  },
+  {
     "label": "Jensen Huang",
     "count": 4,
     "sources": 2,
@@ -23,6 +36,32 @@
       "post",
       "nvidia",
       "reinstates"
+    ]
+  },
+  {
+    "label": "Army Detonate",
+    "count": 3,
+    "sources": 2,
+    "keywords": [
+      "army",
+      "detonate",
+      "iowa",
+      "unstable",
+      "explosives",
+      "wednesday"
+    ]
+  },
+  {
+    "label": "Thanksgiving Day",
+    "count": 3,
+    "sources": 2,
+    "keywords": [
+      "thanksgiving",
+      "day",
+      "2026",
+      "macy",
+      "parade",
+      "stores"
     ]
   }
 ]
