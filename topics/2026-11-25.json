@@ -13,9 +13,9 @@
     ]
   },
   {
-    "label": "Break Prince",
-    "count": 6,
-    "sources": 4,
+    "label": "Men Charged",
+    "count": 7,
+    "sources": 5,
     "keywords": [
       "charged",
       "prince",
@@ -36,6 +36,32 @@
       "libyan",
       "ukraine",
       "naval"
+    ]
+  },
+  {
+    "label": "Kilmar Abrego",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "kilmar",
+      "abrego",
+      "garcia",
+      "spain",
+      "leaves",
+      "voluntarily"
+    ]
+  },
+  {
+    "label": "Army Detonates",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "army",
+      "detonates",
+      "lead",
+      "iowa",
+      "toxic",
+      "explosives"
     ]
   },
   {
@@ -75,32 +101,6 @@
       "azide",
       "iowa",
       "tons"
-    ]
-  },
-  {
-    "label": "Sentence Dangerous",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "sterling",
-      "sentence",
-      "suspended",
-      "dangerous",
-      "driving",
-      "jail"
-    ]
-  },
-  {
-    "label": "Politburo Member",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "china",
-      "politburo",
-      "member",
-      "chen",
-      "jining",
-      "investigates"
     ]
   }
 ]
