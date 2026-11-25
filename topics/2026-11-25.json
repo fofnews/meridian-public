@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Fort Hood",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "fort",
+      "hood",
+      "shooter",
+      "execution",
+      "asks",
+      "nidal"
+    ]
+  },
+  {
     "label": "Men Charged",
     "count": 7,
     "sources": 5,
@@ -36,19 +49,6 @@
       "lead",
       "toxic",
       "explosives"
-    ]
-  },
-  {
-    "label": "Fort Hood",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "fort",
-      "hood",
-      "shooter",
-      "execution",
-      "asks",
-      "court"
     ]
   },
   {
