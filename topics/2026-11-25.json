@@ -1,5 +1,18 @@
 [
   {
+    "label": "Plane Crash",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "plane",
+      "crash",
+      "mississippi",
+      "children",
+      "kills",
+      "including"
+    ]
+  },
+  {
     "label": "Army Detonate",
     "count": 4,
     "sources": 3,
@@ -10,6 +23,19 @@
       "unstable",
       "explosives",
       "wednesday"
+    ]
+  },
+  {
+    "label": "Thanksgiving Day",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "thanksgiving",
+      "day",
+      "macy",
+      "parade",
+      "2026",
+      "stores"
     ]
   },
   {
@@ -52,19 +78,6 @@
     ]
   },
   {
-    "label": "Plane Crash",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "plane",
-      "crash",
-      "mississippi",
-      "children",
-      "six",
-      "dead"
-    ]
-  },
-  {
     "label": "Men Charged",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "post",
       "nvidia",
       "reinstates"
-    ]
-  },
-  {
-    "label": "Defense Minister",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "iran",
-      "chemical",
-      "defense",
-      "minister",
-      "israel",
-      "newsmax"
     ]
   }
 ]
