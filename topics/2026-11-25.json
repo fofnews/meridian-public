@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Thanksgiving Day",
+    "count": 7,
+    "sources": 5,
+    "keywords": [
+      "macy",
+      "thanksgiving",
+      "day",
+      "parade",
+      "postponed",
+      "due"
+    ]
+  },
+  {
     "label": "Army Detonates",
     "count": 6,
     "sources": 5,
@@ -49,19 +62,6 @@
       "lead",
       "toxic",
       "explosives"
-    ]
-  },
-  {
-    "label": "Thanksgiving Day",
-    "count": 6,
-    "sources": 5,
-    "keywords": [
-      "macy",
-      "thanksgiving",
-      "day",
-      "parade",
-      "due",
-      "postponed"
     ]
   },
   {
@@ -91,16 +91,16 @@
     ]
   },
   {
-    "label": "Tariffs China",
+    "label": "Thanksgiving Day",
     "count": 5,
     "sources": 4,
     "keywords": [
-      "proposes",
-      "tariffs",
-      "china",
-      "trump",
-      "partners",
-      "trade"
+      "thanksgiving",
+      "day",
+      "macy",
+      "parade",
+      "2026",
+      "know"
     ]
   }
 ]
