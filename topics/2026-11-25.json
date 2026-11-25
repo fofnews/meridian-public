@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Thanksgiving Day",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "macy",
+      "thanksgiving",
+      "day",
+      "parade",
+      "due",
+      "postponed"
+    ]
+  },
+  {
     "label": "Aaron Rodgers",
     "count": 7,
     "sources": 4,
@@ -88,19 +101,6 @@
       "trump",
       "partners",
       "trade"
-    ]
-  },
-  {
-    "label": "Kilmar Abrego",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "kilmar",
-      "abrego",
-      "garcia",
-      "spain",
-      "leaves",
-      "voluntarily"
     ]
   }
 ]
