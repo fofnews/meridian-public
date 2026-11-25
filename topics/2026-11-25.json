@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Tariffs China",
+    "count": 5,
+    "sources": 4,
+    "keywords": [
+      "proposes",
+      "tariffs",
+      "china",
+      "trump",
+      "partners",
+      "trade"
+    ]
+  },
+  {
     "label": "Kilmar Abrego",
     "count": 4,
     "sources": 4,
@@ -88,19 +101,6 @@
       "spain",
       "leaves",
       "voluntarily"
-    ]
-  },
-  {
-    "label": "Army Detonate",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "army",
-      "iowa",
-      "detonate",
-      "unstable",
-      "explosives",
-      "wednesday"
     ]
   }
 ]
