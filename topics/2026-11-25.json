@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Politburo Member",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "china",
+      "politburo",
+      "member",
+      "chen",
+      "jining",
+      "investigates"
+    ]
+  },
+  {
     "label": "Plane Crash",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "space",
       "pakistani",
       "carries"
-    ]
-  },
-  {
-    "label": "Thanksgiving Day",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "thanksgiving",
-      "day",
-      "2026",
-      "macy",
-      "parade",
-      "stores"
     ]
   }
 ]
