@@ -27,14 +27,14 @@
   },
   {
     "label": "Army Detonates",
-    "count": 5,
-    "sources": 4,
+    "count": 6,
+    "sources": 5,
     "keywords": [
       "army",
       "detonates",
       "iowa",
-      "toxic",
       "lead",
+      "toxic",
       "explosives"
     ]
   },
@@ -49,6 +49,19 @@
       "libyan",
       "ukraine",
       "naval"
+    ]
+  },
+  {
+    "label": "Fort Hood",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "fort",
+      "hood",
+      "shooter",
+      "execution",
+      "asks",
+      "nidal"
     ]
   },
   {
@@ -88,19 +101,6 @@
       "parade",
       "2026",
       "stores"
-    ]
-  },
-  {
-    "label": "Iowa Lead",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "iowa",
-      "lead",
-      "army",
-      "detonation",
-      "live",
-      "watch"
     ]
   }
 ]
