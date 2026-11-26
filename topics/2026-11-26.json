@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Trial Rape",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "depardieu",
+      "trial",
+      "rape",
+      "rard",
+      "stand",
+      "french"
+    ]
+  },
+  {
     "label": "Macy Thanksgiving",
     "count": 5,
     "sources": 3,
@@ -88,19 +101,6 @@
       "declares",
       "state",
       "storm"
-    ]
-  },
-  {
-    "label": "Congo Ebola",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "congo",
-      "ebola",
-      "cases",
-      "000",
-      "responders",
-      "outbreak"
     ]
   }
 ]
