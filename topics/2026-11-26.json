@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "label": "Blocks Fcc",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "judge",
+      "blocks",
+      "fcc",
+      "abc",
+      "review",
+      "licenses"
+    ]
+  },
+  {
+    "label": "Oil Facility",
+    "count": 3,
+    "sources": 2,
+    "keywords": [
+      "explosion",
+      "oil",
+      "facility",
+      "bangkok",
+      "occurs",
+      "thailand"
+    ]
+  }
+]
