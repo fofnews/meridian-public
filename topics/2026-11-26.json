@@ -14,7 +14,7 @@
   },
   {
     "label": "Macy Thanksgiving",
-    "count": 4,
+    "count": 5,
     "sources": 3,
     "keywords": [
       "macy",
@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Congo Ebola",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "congo",
+      "ebola",
+      "cases",
+      "000",
+      "responders",
+      "outbreak"
+    ]
+  },
+  {
     "label": "Army Detonation",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "laser",
       "attack",
       "kills"
-    ]
-  },
-  {
-    "label": "Thanksgiving Day",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "thanksgiving",
-      "open",
-      "stores",
-      "day",
-      "closed",
-      "2026"
     ]
   }
 ]
