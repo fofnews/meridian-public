@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Judge Blocks",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "judge",
+      "blocks",
+      "abc",
+      "fcc",
+      "licenses",
+      "review"
+    ]
+  },
+  {
     "label": "Men Charged",
     "count": 7,
     "sources": 5,
@@ -88,19 +101,6 @@
       "lead",
       "toxic",
       "explosives"
-    ]
-  },
-  {
-    "label": "Macy Thanksgiving",
-    "count": 6,
-    "sources": 5,
-    "keywords": [
-      "thanksgiving",
-      "macy",
-      "parade",
-      "day",
-      "due",
-      "weather"
     ]
   }
 ]
