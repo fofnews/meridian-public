@@ -52,6 +52,19 @@
     ]
   },
   {
+    "label": "Gdp Data",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "trump",
+      "gdp",
+      "demands",
+      "data",
+      "midterms",
+      "probe"
+    ]
+  },
+  {
     "label": "Macy Thanksgiving",
     "count": 5,
     "sources": 3,
@@ -88,19 +101,6 @@
       "facility",
       "thailand",
       "occurs"
-    ]
-  },
-  {
-    "label": "President Trump",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "trump",
-      "thanksgiving",
-      "president",
-      "lowlife",
-      "times",
-      "reporter"
     ]
   }
 ]
