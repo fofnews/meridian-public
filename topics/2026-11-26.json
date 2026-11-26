@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "President Trump",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "trump",
+      "thanksgiving",
+      "president",
+      "lowlife",
+      "times",
+      "reporter"
+    ]
+  },
+  {
     "label": "Blocks Fcc",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "000",
       "responders",
       "outbreak"
-    ]
-  },
-  {
-    "label": "Norse Atlantic",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "airline",
-      "bankruptcy",
-      "flights",
-      "norse",
-      "atlantic",
-      "suspends"
     ]
   }
 ]
