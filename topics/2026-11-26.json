@@ -1,5 +1,18 @@
 [
   {
+    "label": "Macy Thanksgiving",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "thanksgiving",
+      "powerful",
+      "storms",
+      "macy",
+      "parade",
+      "postponed"
+    ]
+  },
+  {
     "label": "Blocks Fcc",
     "count": 3,
     "sources": 3,
@@ -10,6 +23,19 @@
       "abc",
       "review",
       "licenses"
+    ]
+  },
+  {
+    "label": "State Emergency",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "emergency",
+      "york",
+      "thanksgiving",
+      "declares",
+      "state",
+      "storm"
     ]
   },
   {
