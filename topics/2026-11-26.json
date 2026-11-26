@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Norse Atlantic",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "airline",
+      "bankruptcy",
+      "flights",
+      "norse",
+      "atlantic",
+      "suspends"
+    ]
+  },
+  {
     "label": "Army Detonation",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "detonation",
       "residents",
       "urged"
-    ]
-  },
-  {
-    "label": "Ukraine Drone",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "ukraine",
-      "drone",
-      "russian",
-      "laser",
-      "attack",
-      "kills"
     ]
   }
 ]
