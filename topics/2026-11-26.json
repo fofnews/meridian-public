@@ -1,5 +1,31 @@
 [
   {
+    "label": "Macy Thanksgiving",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "thanksgiving",
+      "macy",
+      "parade",
+      "postponed",
+      "day",
+      "powerful"
+    ]
+  },
+  {
+    "label": "Nato Chief",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "trump",
+      "nato",
+      "chief",
+      "russia",
+      "ukraine",
+      "war"
+    ]
+  },
+  {
     "label": "Trial Rape",
     "count": 5,
     "sources": 5,
@@ -10,19 +36,6 @@
       "rard",
       "stand",
       "french"
-    ]
-  },
-  {
-    "label": "Macy Thanksgiving",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "thanksgiving",
-      "macy",
-      "parade",
-      "postponed",
-      "powerful",
-      "storms"
     ]
   },
   {
@@ -88,19 +101,6 @@
       "booth",
       "your",
       "waiting"
-    ]
-  },
-  {
-    "label": "Trump Nato",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "trump",
-      "nato",
-      "chief",
-      "russia",
-      "avoid",
-      "actions"
     ]
   }
 ]
