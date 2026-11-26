@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Data Centers",
+    "count": 7,
+    "sources": 7,
+    "keywords": [
+      "data",
+      "spacex",
+      "million",
+      "space",
+      "satellites",
+      "centers"
+    ]
+  },
+  {
     "label": "Thanksgiving Day",
     "count": 8,
     "sources": 6,
@@ -36,19 +49,6 @@
       "execution",
       "asks",
       "nidal"
-    ]
-  },
-  {
-    "label": "Data Centers",
-    "count": 6,
-    "sources": 6,
-    "keywords": [
-      "data",
-      "spacex",
-      "million",
-      "centers",
-      "space",
-      "fcc"
     ]
   },
   {
