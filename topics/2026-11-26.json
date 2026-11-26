@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Ukraine Drone",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "ukraine",
+      "drone",
+      "russian",
+      "laser",
+      "attack",
+      "kills"
+    ]
+  },
+  {
     "label": "Thanksgiving Day",
     "count": 3,
     "sources": 3,
@@ -22,6 +35,19 @@
       "stores",
       "day",
       "closed",
+      "2026"
+    ]
+  },
+  {
+    "label": "Macy Thanksgiving",
+    "count": 3,
+    "sources": 2,
+    "keywords": [
+      "macy",
+      "thanksgiving",
+      "parade",
+      "weather",
+      "day",
       "2026"
     ]
   },
