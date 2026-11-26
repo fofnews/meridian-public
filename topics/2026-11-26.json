@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Spacex Shares",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "musk",
+      "child",
+      "spacex",
+      "shares",
+      "every",
+      "two"
+    ]
+  },
+  {
     "label": "Egypt Detains",
     "count": 4,
     "sources": 4,
@@ -88,19 +101,6 @@
       "thanksgiving",
       "day",
       "severe"
-    ]
-  },
-  {
-    "label": "Aaron Rodgers",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "aaron",
-      "rodgers",
-      "mike",
-      "mccarthy",
-      "steelers",
-      "former"
     ]
   }
 ]
