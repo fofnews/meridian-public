@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Jensen Huang",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "denny",
+      "jensen",
+      "huang",
+      "booth",
+      "your",
+      "waiting"
+    ]
+  },
+  {
     "label": "Trump Nato",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "norse",
       "atlantic",
       "suspends"
-    ]
-  },
-  {
-    "label": "Army Detonation",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "iowa",
-      "lead",
-      "army",
-      "detonation",
-      "residents",
-      "urged"
     ]
   }
 ]
