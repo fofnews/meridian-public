@@ -1223,5 +1223,49 @@
     "categories": [],
     "collectRun": "2026-11-26T09:15:00.000Z",
     "collectedAt": "2026-11-26T09:15:01.279Z"
+  },
+  {
+    "title": "Israeli attacks on Gaza kill senior education official, seven other people",
+    "description": "Israeli Prime Minister Benjamin Netanyahu confirms killing of Khaled Abu Nada, undersecretary of Education Ministry.",
+    "link": "https://www.aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people?traffic_source=rss",
+    "pubDate": "Thu, 26 Nov 2026 09:00:06 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-11-26T09:30:00.000Z",
+    "collectedAt": "2026-11-26T09:30:01.282Z"
+  },
+  {
+    "title": "Why has North Korea expelled a Swiss diplomat from Pyongyang?",
+    "description": "At the centre of the diplomatic dispute lies the Songdowon International Children’s Camp.",
+    "link": "https://www.aljazeera.com/news/2026/11/26/why-has-north-korea-expelled-a-swiss-diplomat-from-pyongyang?traffic_source=rss",
+    "pubDate": "Thu, 26 Nov 2026 08:54:49 +0000",
+    "source": "Al Jazeera",
+    "categories": [
+      "news"
+    ],
+    "collectRun": "2026-11-26T09:30:00.000Z",
+    "collectedAt": "2026-11-26T09:30:01.282Z"
+  },
+  {
+    "title": "Lake Mead Fish Hatchery Roars Back to Life After Four Years Without Water",
+    "description": "The hatchery's supply was severed in 2022 after its intake pipeline was rendered inoperable by drought and falling water levels.",
+    "link": "https://www.newsweek.com/lake-mead-fish-hatchery-roars-back-to-life-after-four-years-without-water-12769951",
+    "pubDate": "Thu, 26 Nov 2026 04:25:03 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-26T09:30:00.000Z",
+    "collectedAt": "2026-11-26T09:30:01.282Z"
+  },
+  {
+    "title": "Map Shows Airports Hit By Thanksgiving Delays, Cancelations For Travelers",
+    "description": "Americans across the country could face travel chaos over the Thanksgiving holiday as severe weather moves in.",
+    "link": "https://www.newsweek.com/map-shows-airports-hit-by-thanksgiving-delays-cancelations-for-travelers-12769912",
+    "pubDate": "Thu, 26 Nov 2026 04:14:35 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-26T09:30:00.000Z",
+    "collectedAt": "2026-11-26T09:30:01.282Z"
   }
 ]
