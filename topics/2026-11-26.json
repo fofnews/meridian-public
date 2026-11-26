@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Aaron Rodgers",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "aaron",
+      "rodgers",
+      "mike",
+      "mccarthy",
+      "steelers",
+      "former"
+    ]
+  },
+  {
     "label": "President Trump",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "russia",
       "avoid",
       "actions"
-    ]
-  },
-  {
-    "label": "State Emergency",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "emergency",
-      "york",
-      "thanksgiving",
-      "declares",
-      "state",
-      "storm"
     ]
   }
 ]
