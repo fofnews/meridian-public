@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Macy Thanksgiving",
+    "count": 4,
+    "sources": 3,
+    "keywords": [
+      "macy",
+      "parade",
+      "weather",
+      "thanksgiving",
+      "severe",
+      "day"
+    ]
+  },
+  {
     "label": "Blocks Fcc",
     "count": 3,
     "sources": 3,
@@ -26,6 +39,19 @@
     ]
   },
   {
+    "label": "Trump Nato",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "trump",
+      "nato",
+      "chief",
+      "russia",
+      "avoid",
+      "actions"
+    ]
+  },
+  {
     "label": "State Emergency",
     "count": 3,
     "sources": 3,
@@ -36,6 +62,19 @@
       "declares",
       "state",
       "storm"
+    ]
+  },
+  {
+    "label": "Army Detonation",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "iowa",
+      "lead",
+      "army",
+      "detonation",
+      "residents",
+      "urged"
     ]
   },
   {
@@ -62,32 +101,6 @@
       "day",
       "closed",
       "2026"
-    ]
-  },
-  {
-    "label": "Macy Thanksgiving",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "macy",
-      "thanksgiving",
-      "parade",
-      "weather",
-      "day",
-      "2026"
-    ]
-  },
-  {
-    "label": "Oil Facility",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "explosion",
-      "oil",
-      "facility",
-      "bangkok",
-      "occurs",
-      "thailand"
     ]
   }
 ]
