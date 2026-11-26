@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Egypt Detains",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "egypt",
+      "driver",
+      "tanker",
+      "detains",
+      "suspected",
+      "causing"
+    ]
+  },
+  {
     "label": "Macy Thanksgiving",
     "count": 6,
     "sources": 3,
@@ -88,19 +101,6 @@
       "mccarthy",
       "steelers",
       "former"
-    ]
-  },
-  {
-    "label": "Oil Facility",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "explosion",
-      "oil",
-      "bangkok",
-      "facility",
-      "thailand",
-      "occurs"
     ]
   }
 ]
