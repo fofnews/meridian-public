@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "Deb Fischer",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "deb",
+      "fischer",
+      "husband",
+      "died",
+      "suicide",
+      "office"
+    ]
+  },
+  {
     "label": "Thanksgiving Day",
     "count": 4,
     "sources": 4,
@@ -36,6 +49,19 @@
       "macy",
       "postponed",
       "history"
+    ]
+  },
+  {
+    "label": "Trump Backs",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "trump",
+      "backs",
+      "iraqi",
+      "oil",
+      "smuggling",
+      "crackdown"
     ]
   },
   {
@@ -75,32 +101,6 @@
       "coast",
       "power",
       "monster"
-    ]
-  },
-  {
-    "label": "Detective Killed",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "trump",
-      "thanksgiving",
-      "florida",
-      "detective",
-      "killed",
-      "marks"
-    ]
-  },
-  {
-    "label": "Pregnant Inmate",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "pregnant",
-      "escapes",
-      "inmate",
-      "mexico",
-      "prison",
-      "suv"
     ]
   }
 ]
