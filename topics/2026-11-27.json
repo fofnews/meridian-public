@@ -79,6 +79,19 @@
   },
   {
     "label": "Black Friday",
+    "count": 4,
+    "sources": 2,
+    "keywords": [
+      "black",
+      "friday",
+      "deal",
+      "apple",
+      "months",
+      "less"
+    ]
+  },
+  {
+    "label": "Black Friday",
     "count": 3,
     "sources": 2,
     "keywords": [
@@ -88,19 +101,6 @@
       "deals",
       "glow",
       "big"
-    ]
-  },
-  {
-    "label": "Black Friday",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "black",
-      "friday",
-      "deals",
-      "award",
-      "winning",
-      "300"
     ]
   }
 ]
