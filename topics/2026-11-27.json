@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Air Force",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "hackers",
+      "air",
+      "force",
+      "cloud",
+      "computing",
+      "platform"
+    ]
+  },
+  {
     "label": "Black Friday",
     "count": 4,
     "sources": 2,
@@ -88,19 +101,6 @@
       "reformation",
       "here",
       "stock"
-    ]
-  },
-  {
-    "label": "Black Friday",
-    "count": 4,
-    "sources": 2,
-    "keywords": [
-      "black",
-      "friday",
-      "deals",
-      "tools",
-      "home",
-      "depot"
     ]
   }
 ]
