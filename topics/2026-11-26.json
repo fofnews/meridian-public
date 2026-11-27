@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Gdp Data",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "trump",
+      "gdp",
+      "demands",
+      "investigation",
+      "data",
+      "fake"
+    ]
+  },
+  {
     "label": "Macy Thanksgiving",
     "count": 5,
     "sources": 5,
@@ -49,19 +62,6 @@
       "detonation",
       "blast",
       "detected"
-    ]
-  },
-  {
-    "label": "Gdp Data",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "trump",
-      "gdp",
-      "demands",
-      "data",
-      "investigation",
-      "midterms"
     ]
   },
   {
