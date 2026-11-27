@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Marching Band",
+    "count": 5,
+    "sources": 4,
+    "keywords": [
+      "band",
+      "parade",
+      "marching",
+      "macy",
+      "texas",
+      "stay"
+    ]
+  },
+  {
     "label": "Spacex Shares",
     "count": 4,
     "sources": 4,
@@ -88,19 +101,6 @@
       "detains",
       "suspected",
       "causing"
-    ]
-  },
-  {
-    "label": "Macy Thanksgiving",
-    "count": 6,
-    "sources": 3,
-    "keywords": [
-      "macy",
-      "parade",
-      "weather",
-      "thanksgiving",
-      "day",
-      "severe"
     ]
   }
 ]
