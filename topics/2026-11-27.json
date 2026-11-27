@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Trump Friendship",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "trump",
+      "friendship",
+      "putin",
+      "zelenskyy",
+      "strange",
+      "killer"
+    ]
+  },
+  {
     "label": "Detective Killed",
     "count": 3,
     "sources": 3,
@@ -88,19 +101,6 @@
       "apple",
       "months",
       "less"
-    ]
-  },
-  {
-    "label": "Black Friday",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "best",
-      "black",
-      "friday",
-      "deals",
-      "glow",
-      "big"
     ]
   }
 ]
