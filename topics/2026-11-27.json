@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Aaron Rodgers",
+    "count": 5,
+    "sources": 3,
+    "keywords": [
+      "aaron",
+      "rodgers",
+      "steelers",
+      "mike",
+      "following",
+      "mccarthy"
+    ]
+  },
+  {
     "label": "Without Power",
     "count": 4,
     "sources": 3,
@@ -49,19 +62,6 @@
       "thanksgiving",
       "leave",
       "thousands"
-    ]
-  },
-  {
-    "label": "Aaron Rodgers",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "aaron",
-      "rodgers",
-      "mike",
-      "steelers",
-      "mccarthy",
-      "following"
     ]
   },
   {
