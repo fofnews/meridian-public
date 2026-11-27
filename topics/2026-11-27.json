@@ -1,5 +1,18 @@
 [
   {
+    "label": "Deb Fischer",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "deb",
+      "fischer",
+      "husband",
+      "died",
+      "suicide",
+      "office"
+    ]
+  },
+  {
     "label": "Zelenskyy Trump",
     "count": 5,
     "sources": 5,
@@ -23,19 +36,6 @@
       "computing",
       "platform",
       "cloud"
-    ]
-  },
-  {
-    "label": "Deb Fischer",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "deb",
-      "fischer",
-      "husband",
-      "died",
-      "suicide",
-      "office"
     ]
   },
   {
@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Andrea Stewart",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "andrea",
+      "stewart",
+      "cousins",
+      "senate",
+      "majority",
+      "leader"
+    ]
+  },
+  {
     "label": "Aaron Rodgers",
     "count": 5,
     "sources": 3,
@@ -88,19 +101,6 @@
       "mike",
       "following",
       "mccarthy"
-    ]
-  },
-  {
-    "label": "East Coast",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "thanksgiving",
-      "storm",
-      "east",
-      "coast",
-      "power",
-      "monster"
     ]
   }
 ]
