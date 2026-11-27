@@ -13,6 +13,32 @@
     ]
   },
   {
+    "label": "Thanksgiving Day",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "thanksgiving",
+      "day",
+      "parade",
+      "macy",
+      "history",
+      "postponed"
+    ]
+  },
+  {
+    "label": "East Coast",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "thanksgiving",
+      "storm",
+      "east",
+      "coast",
+      "power",
+      "monster"
+    ]
+  },
+  {
     "label": "Trump Friendship",
     "count": 3,
     "sources": 3,
@@ -75,32 +101,6 @@
       "tools",
       "home",
       "depot"
-    ]
-  },
-  {
-    "label": "Black Friday",
-    "count": 4,
-    "sources": 2,
-    "keywords": [
-      "black",
-      "friday",
-      "deals",
-      "worthy",
-      "budget",
-      "start"
-    ]
-  },
-  {
-    "label": "Black Friday",
-    "count": 4,
-    "sources": 2,
-    "keywords": [
-      "black",
-      "friday",
-      "deal",
-      "apple",
-      "months",
-      "less"
     ]
   }
 ]
