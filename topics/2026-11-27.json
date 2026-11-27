@@ -65,6 +65,19 @@
     ]
   },
   {
+    "label": "Religious Symbols",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "court",
+      "quebec",
+      "canada",
+      "religious",
+      "symbols",
+      "supreme"
+    ]
+  },
+  {
     "label": "Trump Backs",
     "count": 4,
     "sources": 4,
@@ -88,19 +101,6 @@
       "disabled",
       "vessel",
       "disables"
-    ]
-  },
-  {
-    "label": "Andrea Stewart",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "andrea",
-      "stewart",
-      "cousins",
-      "senate",
-      "majority",
-      "leader"
     ]
   }
 ]
