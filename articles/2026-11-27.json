@@ -2561,5 +2561,64 @@
     "categories": [],
     "collectRun": "2026-11-27T11:15:00.000Z",
     "collectedAt": "2026-11-27T11:15:03.330Z"
+  },
+  {
+    "title": "UN warns hunger will deepen in the Middle East",
+    "description": "Hunger is expected to worsen in 16 countries over the next six months, with Sudan and Yemen among five nations at the highest level of concern, the U.N.’s food agencies warned Friday",
+    "link": "https://abcnews.com/International/wireStory/warns-hunger-deepen-middle-east-war-fuel-costs-138477712",
+    "pubDate": "Fri, 27 Nov 2026 06:24:09 -0500",
+    "source": "ABC News",
+    "categories": [
+      "international"
+    ],
+    "collectRun": "2026-11-27T11:30:00.000Z",
+    "collectedAt": "2026-11-27T11:30:01.529Z"
+  },
+  {
+    "title": "Stocks Set to Rally at End of a Week of Wild Swings",
+    "description": "Volatility has buffeted investors in an eventful but holiday-shortened series of trading sessions.",
+    "link": "https://www.nytimes.com/2026/11/27/business/stocks-tech-stocks-ai.html",
+    "pubDate": "Fri, 27 Nov 2026 11:13:57 +0000",
+    "source": "NY Times",
+    "categories": [
+      "stocks and bonds",
+      "standard & poor's 500-stock index",
+      "nvidia corporation",
+      "huang, jen-hsun",
+      "united states",
+      "china"
+    ],
+    "collectRun": "2026-11-27T11:30:00.000Z",
+    "collectedAt": "2026-11-27T11:30:01.529Z"
+  },
+  {
+    "title": "The Oura Ring 5 is $100 off for Black Friday — it’s at its lowest price ever",
+    "description": "Act now on this Oura Ring deal for Black Friday! The brand’s newest smart ring is at its lowest price ever.",
+    "link": "https://www.nbcnews.com/select/shopping/oura-ring-5-black-friday-deal-2026-rcna611130",
+    "pubDate": "Fri, 27 Nov 2026 11:02:03 GMT",
+    "source": "NBC News",
+    "categories": [],
+    "collectRun": "2026-11-27T11:30:00.000Z",
+    "collectedAt": "2026-11-27T11:30:01.529Z"
+  },
+  {
+    "title": "The World’s Greatest Crisis Is Our Ability to Look Away | Opinion",
+    "description": "Responsibility belongs to all of us, and you do not need a fortune to alter the trajectory of someone’s life.",
+    "link": "https://www.newsweek.com/the-worlds-greatest-crisis-is-our-ability-to-look-away-12772615",
+    "pubDate": "Fri, 27 Nov 2026 06:28:24 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-27T11:30:00.000Z",
+    "collectedAt": "2026-11-27T11:30:01.529Z"
+  },
+  {
+    "title": "The Spencer Jones tradeoffs the Yankees have to consider for center field",
+    "description": "\"I would be comfortable with that,” Cashman said. It was not exactly a full-throated endorsement.",
+    "link": "https://nypost.com/2026/11/27/sports/the-yankees-spencer-jones-center-field-decision-explained/",
+    "pubDate": "Fri, 27 Nov 2026 06:20:00 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-27T11:30:00.000Z",
+    "collectedAt": "2026-11-27T11:30:01.529Z"
   }
 ]
