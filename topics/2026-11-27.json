@@ -1,6 +1,19 @@
 [
   {
     "label": "Black Friday",
+    "count": 4,
+    "sources": 2,
+    "keywords": [
+      "black",
+      "friday",
+      "deals",
+      "tools",
+      "home",
+      "depot"
+    ]
+  },
+  {
+    "label": "Black Friday",
     "count": 3,
     "sources": 2,
     "keywords": [
@@ -10,6 +23,19 @@
       "best",
       "actually",
       "live"
+    ]
+  },
+  {
+    "label": "Black Friday",
+    "count": 3,
+    "sources": 2,
+    "keywords": [
+      "black",
+      "friday",
+      "sale",
+      "reformation",
+      "stock",
+      "market"
     ]
   },
   {
