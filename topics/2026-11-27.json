@@ -1,5 +1,18 @@
 [
   {
+    "label": "Zelenskyy Trump",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "putin",
+      "trump",
+      "zelenskyy",
+      "friend",
+      "friendship",
+      "calling"
+    ]
+  },
+  {
     "label": "Thanksgiving Day",
     "count": 4,
     "sources": 4,
@@ -10,19 +23,6 @@
       "macy",
       "postponed",
       "history"
-    ]
-  },
-  {
-    "label": "Zelenskyy Trump",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "trump",
-      "putin",
-      "zelenskyy",
-      "friendship",
-      "calling",
-      "friend"
     ]
   },
   {
