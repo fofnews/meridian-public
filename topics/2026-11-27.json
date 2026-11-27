@@ -1,5 +1,31 @@
 [
   {
+    "label": "Without Power",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "thanksgiving",
+      "storms",
+      "without",
+      "power",
+      "leave",
+      "hundreds"
+    ]
+  },
+  {
+    "label": "Black Friday",
+    "count": 4,
+    "sources": 2,
+    "keywords": [
+      "black",
+      "friday",
+      "sale",
+      "reformation",
+      "here",
+      "stock"
+    ]
+  },
+  {
     "label": "Black Friday",
     "count": 4,
     "sources": 2,
@@ -10,6 +36,19 @@
       "tools",
       "home",
       "depot"
+    ]
+  },
+  {
+    "label": "Black Friday",
+    "count": 4,
+    "sources": 2,
+    "keywords": [
+      "black",
+      "friday",
+      "deals",
+      "worthy",
+      "budget",
+      "start"
     ]
   },
   {
@@ -32,36 +71,23 @@
     "keywords": [
       "black",
       "friday",
-      "sale",
-      "reformation",
-      "stock",
-      "market"
-    ]
-  },
-  {
-    "label": "Black Friday",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "black",
-      "friday",
-      "deals",
-      "worthy",
-      "budget",
-      "country"
-    ]
-  },
-  {
-    "label": "Black Friday",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "black",
-      "friday",
       "deals",
       "award",
       "winning",
       "300"
+    ]
+  },
+  {
+    "label": "Black Friday",
+    "count": 3,
+    "sources": 2,
+    "keywords": [
+      "black",
+      "friday",
+      "apple",
+      "months",
+      "deal",
+      "airpods"
     ]
   }
 ]
