@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Air Force",
+    "count": 6,
+    "sources": 6,
+    "keywords": [
+      "hackers",
+      "air",
+      "force",
+      "platform",
+      "cloud",
+      "computing"
+    ]
+  },
+  {
     "label": "Zelenskyy Trump",
     "count": 5,
     "sources": 5,
@@ -23,19 +36,6 @@
       "friend",
       "friendship",
       "calling"
-    ]
-  },
-  {
-    "label": "Air Force",
-    "count": 5,
-    "sources": 5,
-    "keywords": [
-      "hackers",
-      "air",
-      "force",
-      "computing",
-      "platform",
-      "cloud"
     ]
   },
   {
