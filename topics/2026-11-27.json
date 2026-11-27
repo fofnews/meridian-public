@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Without Power",
+    "count": 5,
+    "sources": 4,
+    "keywords": [
+      "storms",
+      "without",
+      "power",
+      "thanksgiving",
+      "thousands",
+      "leave"
+    ]
+  },
+  {
     "label": "Thanksgiving Day",
     "count": 4,
     "sources": 4,
@@ -75,19 +88,6 @@
       "mike",
       "following",
       "mccarthy"
-    ]
-  },
-  {
-    "label": "Without Power",
-    "count": 4,
-    "sources": 3,
-    "keywords": [
-      "storms",
-      "without",
-      "power",
-      "thanksgiving",
-      "leave",
-      "thousands"
     ]
   },
   {
