@@ -13,6 +13,32 @@
     ]
   },
   {
+    "label": "Detective Killed",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "trump",
+      "thanksgiving",
+      "florida",
+      "detective",
+      "killed",
+      "marks"
+    ]
+  },
+  {
+    "label": "Black Friday",
+    "count": 4,
+    "sources": 2,
+    "keywords": [
+      "black",
+      "friday",
+      "deals",
+      "best",
+      "shopping",
+      "actually"
+    ]
+  },
+  {
     "label": "Black Friday",
     "count": 4,
     "sources": 2,
@@ -56,12 +82,12 @@
     "count": 3,
     "sources": 2,
     "keywords": [
+      "best",
       "black",
       "friday",
       "deals",
-      "best",
-      "actually",
-      "live"
+      "glow",
+      "big"
     ]
   },
   {
@@ -75,19 +101,6 @@
       "award",
       "winning",
       "300"
-    ]
-  },
-  {
-    "label": "Black Friday",
-    "count": 3,
-    "sources": 2,
-    "keywords": [
-      "black",
-      "friday",
-      "apple",
-      "months",
-      "deal",
-      "airpods"
     ]
   }
 ]
