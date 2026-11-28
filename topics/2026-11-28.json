@@ -1,5 +1,18 @@
 [
   {
+    "label": "Macy Thanksgiving",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "macy",
+      "thanksgiving",
+      "parade",
+      "postponed",
+      "day",
+      "2026"
+    ]
+  },
+  {
     "label": "Students Killed",
     "count": 4,
     "sources": 3,
@@ -10,19 +23,6 @@
       "explosion",
       "afghanistan",
       "injured"
-    ]
-  },
-  {
-    "label": "Macy Thanksgiving",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "macy",
-      "thanksgiving",
-      "parade",
-      "postponed",
-      "day",
-      "2026"
     ]
   },
   {
