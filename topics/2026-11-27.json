@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Religious Symbols",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "court",
+      "quebec",
+      "canada",
+      "religious",
+      "symbols",
+      "top"
+    ]
+  },
+  {
     "label": "Trade Secrets",
     "count": 5,
     "sources": 5,
@@ -88,19 +101,6 @@
       "whataburger",
       "stop",
       "mexico"
-    ]
-  },
-  {
-    "label": "Religious Symbols",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "court",
-      "quebec",
-      "canada",
-      "religious",
-      "symbols",
-      "supreme"
     ]
   }
 ]
