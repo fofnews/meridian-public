@@ -2840,5 +2840,88 @@
     "categories": [],
     "collectRun": "2026-11-28T14:45:00.000Z",
     "collectedAt": "2026-11-28T14:45:01.348Z"
+  },
+  {
+    "title": "EPA Issues Drinking Water Update After Iowa Lead Detonation",
+    "description": "The Environmental Protection Agency said test results showed the detonation did not result in an increase in lead in water bodies.",
+    "link": "https://www.newsweek.com/epa-issues-drinking-water-update-after-iowa-lead-detonation-12775549",
+    "pubDate": "Sat, 28 Nov 2026 09:46:53 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-28T15:00:00.000Z",
+    "collectedAt": "2026-11-28T15:00:01.247Z"
+  },
+  {
+    "title": "ICE agent faces six years in prison in case that could open 'floodgates' for prosecutions, lawyers warn",
+    "description": "Immigration and Customs Enforcement agent Gregory Morgan faces two assault charges over a Minnesota highway encounter as his attorneys seek federal court.",
+    "link": "https://www.foxnews.com/politics/ice-agent-faces-six-years-prison-case-could-open-floodgates-prosecutions-lawyers-warn",
+    "pubDate": "Sat, 28 Nov 2026 09:47:28 -0500",
+    "source": "Fox News",
+    "categories": [
+      "f684af2d-104f-5beb-a757-a7a95208c3d9",
+      "fnc",
+      "fox news",
+      "fox-news/entertainment/genres/crime",
+      "fox-news/us/crime/police-and-law-enforcement",
+      "fox-news/politics/judiciary/federal-courts",
+      "fox-news/politics/executive/law",
+      "fox-news/politics/executive/homeland-security",
+      "fox-news/us/immigration/enforcement",
+      "fox-news/politics",
+      "fox-news/politics",
+      "article"
+    ],
+    "collectRun": "2026-11-28T15:00:00.000Z",
+    "collectedAt": "2026-11-28T15:00:01.247Z"
+  },
+  {
+    "title": "Florida-FSU was the most 'immature,' disrespectful game of the college football season, and it was perfect",
+    "description": "FSU players refused to shake hands at the coin flip, and Vernell Brown III flipped off the student section during a wild Rivalry Weekend clash.",
+    "link": "https://www.foxnews.com/outkick-sports/florida-fsu-most-immature-disrespectful-game-college-football-season-perfect",
+    "pubDate": "Sat, 28 Nov 2026 09:39:10 -0500",
+    "source": "Fox News",
+    "categories": [
+      "4e740ffd-65f8-5d76-a0c7-9d7ad9bb6f85",
+      "fnc",
+      "fox news",
+      "fox-news/outkick/outkick-sports",
+      "fox-news/sports/ncaa-fb",
+      "fox-news/sports/ncaa/florida-state-seminoles",
+      "fox-news/sports/ncaa/florida-gators",
+      "fox-news/outkick-sports",
+      "article"
+    ],
+    "collectRun": "2026-11-28T15:00:00.000Z",
+    "collectedAt": "2026-11-28T15:00:01.247Z"
+  },
+  {
+    "title": "Mike McCarthy admits he neglected key Steelers area after Aaron Rodgers criticism",
+    "description": "Mike McCarthy appears to have done some self-reflection amid the Aaron Rodgers firestorm.",
+    "link": "https://nypost.com/2026/11/28/sports/mike-mccarthy-admits-he-neglected-steelers-defense-after-aaron-rodgers-criticism/",
+    "pubDate": "Sat, 28 Nov 2026 09:53:53 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-28T15:00:00.000Z",
+    "collectedAt": "2026-11-28T15:00:01.247Z"
+  },
+  {
+    "title": "Tune in to these extended Black Friday TV deals: Smart TVs under $100, Samsung Frame and more",
+    "description": "Tune into major savings!",
+    "link": "https://nypost.com/shopping/black-friday-tv-deals-sales-2026/",
+    "pubDate": "Sat, 28 Nov 2026 09:48:44 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-28T15:00:00.000Z",
+    "collectedAt": "2026-11-28T15:00:01.247Z"
+  },
+  {
+    "title": "Iran warns Iraq against siding with Trump as US tightens economic chokehold",
+    "description": "Iran warned neighboring Iraq against cooperating with President Trump’s crackdown on cross-border smuggling as the US naval blockade chokes Tehran’s oil exports and Iranian military officials say they are awaiting orders to break the blockade.",
+    "link": "https://nypost.com/2026/11/28/world-news/iran-warns-iraq-against-cooperating-with-trump-as-us-naval-blockade-hurts-oil-exports/",
+    "pubDate": "Sat, 28 Nov 2026 09:45:27 -0500",
+    "source": "New York Post",
+    "categories": [],
+    "collectRun": "2026-11-28T15:00:00.000Z",
+    "collectedAt": "2026-11-28T15:00:01.247Z"
   }
 ]
