@@ -39,6 +39,19 @@
     ]
   },
   {
+    "label": "Trade Secrets",
+    "count": 5,
+    "sources": 5,
+    "keywords": [
+      "openai",
+      "apple",
+      "trade",
+      "secrets",
+      "countersues",
+      "stealing"
+    ]
+  },
+  {
     "label": "Without Power",
     "count": 5,
     "sources": 4,
@@ -88,19 +101,6 @@
       "oil",
       "smuggling",
       "crackdown"
-    ]
-  },
-  {
-    "label": "Military Disabled",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "blockade",
-      "iran",
-      "military",
-      "disabled",
-      "vessel",
-      "disables"
     ]
   }
 ]
