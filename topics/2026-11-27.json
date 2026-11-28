@@ -78,6 +78,19 @@
     ]
   },
   {
+    "label": "Pregnant Inmate",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "pregnant",
+      "inmate",
+      "escapes",
+      "whataburger",
+      "stop",
+      "mexico"
+    ]
+  },
+  {
     "label": "Religious Symbols",
     "count": 4,
     "sources": 4,
@@ -88,19 +101,6 @@
       "religious",
       "symbols",
       "supreme"
-    ]
-  },
-  {
-    "label": "Trump Backs",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "trump",
-      "backs",
-      "iraqi",
-      "oil",
-      "smuggling",
-      "crackdown"
     ]
   }
 ]
