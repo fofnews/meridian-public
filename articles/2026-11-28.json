@@ -1473,5 +1473,37 @@
     "categories": [],
     "collectRun": "2026-11-28T11:15:00.000Z",
     "collectedAt": "2026-11-28T11:15:02.000Z"
+  },
+  {
+    "title": "'Ugly pants exchange' trend goes viral among air travelers",
+    "description": "A new viral trend at airports has emerged among groups of friends traveling together: bringing extra pairs of pants along for a lighthearted swap and reveal.",
+    "link": "https://abcnews.com/video/138494154/",
+    "pubDate": "Sat, 28 Nov 2026 03:55:36 -0500",
+    "source": "ABC News",
+    "categories": [
+      "nightline"
+    ],
+    "collectRun": "2026-11-28T11:30:00.000Z",
+    "collectedAt": "2026-11-28T11:30:01.391Z"
+  },
+  {
+    "title": "Macy's Thanksgiving Day Parade kicks off after being postponed",
+    "description": "The Macy's Thanksgiving Day Parade is kicking off in New York City Saturday morning after it was postponed for the first time in its 100-year history.",
+    "link": "https://www.cbsnews.com/news/macys-thanksgiving-day-parade-2026-nyc/",
+    "pubDate": "Sat, 28 Nov 2026 06:16:11 -0500",
+    "source": "CBS News",
+    "categories": [],
+    "collectRun": "2026-11-28T11:30:00.000Z",
+    "collectedAt": "2026-11-28T11:30:01.391Z"
+  },
+  {
+    "title": "Canada To Change Border Entry Rules for Americans In Days: What To Know",
+    "description": "Thousands of Americans face new Canadian border reporting requirements from December 1.",
+    "link": "https://www.newsweek.com/canada-change-border-entry-rules-americans-12775451",
+    "pubDate": "Sat, 28 Nov 2026 06:14:47 -0500",
+    "source": "Newsweek",
+    "categories": [],
+    "collectRun": "2026-11-28T11:30:00.000Z",
+    "collectedAt": "2026-11-28T11:30:01.391Z"
   }
 ]
