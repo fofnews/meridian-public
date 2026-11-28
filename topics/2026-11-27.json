@@ -26,6 +26,19 @@
     ]
   },
   {
+    "label": "American Airlines",
+    "count": 6,
+    "sources": 5,
+    "keywords": [
+      "reagan",
+      "american",
+      "airlines",
+      "national",
+      "clip",
+      "wings"
+    ]
+  },
+  {
     "label": "Zelenskyy Trump",
     "count": 5,
     "sources": 5,
@@ -88,19 +101,6 @@
       "macy",
       "postponed",
       "history"
-    ]
-  },
-  {
-    "label": "Pregnant Inmate",
-    "count": 4,
-    "sources": 4,
-    "keywords": [
-      "pregnant",
-      "inmate",
-      "escapes",
-      "whataburger",
-      "stop",
-      "mexico"
     ]
   }
 ]
