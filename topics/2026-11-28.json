@@ -1,14 +1,14 @@
 [
   {
-    "label": "Macy Thanksgiving",
-    "count": 4,
-    "sources": 4,
+    "label": "Thanksgiving Day",
+    "count": 5,
+    "sources": 5,
     "keywords": [
       "macy",
       "thanksgiving",
       "parade",
-      "postponed",
       "day",
+      "postponed",
       "2026"
     ]
   },
@@ -36,6 +36,19 @@
       "shut",
       "failure",
       "years"
+    ]
+  },
+  {
+    "label": "Argentina Bid",
+    "count": 3,
+    "sources": 3,
+    "keywords": [
+      "argentina",
+      "oil",
+      "bid",
+      "stop",
+      "falkland",
+      "islands"
     ]
   },
   {
