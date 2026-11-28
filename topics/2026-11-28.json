@@ -13,6 +13,19 @@
     ]
   },
   {
+    "label": "Argentina Bid",
+    "count": 4,
+    "sources": 4,
+    "keywords": [
+      "argentina",
+      "oil",
+      "bid",
+      "stop",
+      "rejected",
+      "falkland"
+    ]
+  },
+  {
     "label": "Students Killed",
     "count": 4,
     "sources": 3,
@@ -36,19 +49,6 @@
       "shut",
       "failure",
       "years"
-    ]
-  },
-  {
-    "label": "Argentina Bid",
-    "count": 3,
-    "sources": 3,
-    "keywords": [
-      "argentina",
-      "oil",
-      "bid",
-      "stop",
-      "falkland",
-      "islands"
     ]
   },
   {
